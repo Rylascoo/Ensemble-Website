@@ -13,9 +13,18 @@ Updated: 2026-09-01
 
 ## Current phase
 
-**Brand Exploration B0.4 — The Great Divergence**
+**Visual World Exploration V0.4 — Presence Physics Probe / Fresh-Chat Handoff**
 
-Website Blueprint 0.2 / Brand Seed discipline is the approved working direction. No final Kymaean logo, wordmark, color system, visual identity, or production website design is selected yet.
+Website Blueprint 0.2 / Brand Seed discipline remains the approved working direction. No final Kymaean logo, wordmark, color system, visual identity, or production website design is selected yet.
+
+The project has moved beyond treating all generated imagery as logo exploration. Four parallel identity lanes are now explicit:
+
+- **I0 — Primary Symbol / App Icon:** compact brand mark. Still open. B2 Consequence Aperture remains an incumbent benchmark only.
+- **W0 — KYMAEAN Wordmark:** mandatory independent identity work. The name must be designed intentionally regardless of the final symbol.
+- **V0 — Visual World / Atmosphere:** the experiential world Kymaean inhabits. The Stage is currently the strongest world-level discovery.
+- **M0 — Motion & System Grammar:** how Kymaean visually remembers and transforms through action, influence, and history.
+
+Do not evaluate one lane as though it must solve the others.
 
 ## Creative continuity law
 
@@ -23,7 +32,160 @@ Read `docs/DESIGN_CONTINUITY.md` before any brand, website, visual-asset, or mot
 
 Core rule: **exploration remains broad until the user and assistant explicitly agree to converge. Praise or enthusiasm for an exploration is not permission to refine that branch.**
 
-Negative-space/aperture work is one preserved branch, not the visual universe. B2 Consequence Aperture is an incumbent benchmark only. Future exploration must remain open to otherworldly, symbolic, organic, architectural, historical, typographic, relational, theatrical, and unexpected visual worlds.
+Negative-space/aperture work is one preserved branch, not the visual universe. B2 Consequence Aperture is an incumbent benchmark only. Future exploration must remain open to otherworldly, symbolic, organic, architectural, historical, typographic, relational, theatrical, tactile, human, and unexpected visual worlds.
+
+## Current durable visual grammar
+
+The strongest repeated discoveries are laws, not literal motifs:
+
+- **Presence has weight.** A space becomes meaningful because someone occupies it.
+- **Attention changes composition.** Meaning gathers rather than merely glowing decoratively.
+- **Actions leave traces.** A consequential event should leave visual evidence.
+- **Influence persists.** Echo can remain after the originating action or actor has passed.
+- **History is not erased.** Earlier states remain materially or structurally relevant to later states.
+- **Consequence alters structure.** Meaningful change should sometimes modify composition, not merely color or decoration.
+- **Distinct identities remain distinct while affecting one another.** Relationship is not merger.
+- **Mystery comes from bounded perspective, not decorative obscurity.**
+- **Humanity outranks machinery.** People, agency, imperfection, and evidence of lived history matter more than generic technology spectacle.
+- **Quiet precedes spectacle.** Restraint, anticipation, and negative space are preferred over constant visual activity.
+
+These laws may survive even if the eventual palette, materials, symbol, typography, and surface aesthetic change substantially.
+
+## Current creative-map findings
+
+### V0 — Visual world
+
+**The Stage** is the strongest world-level discovery so far, but it is a spatial/emotional law rather than a literal arch, doorway, portal, corridor, or theatrical set.
+
+What survives from The Stage:
+- anticipation;
+- meaningful absence;
+- focused attention;
+- human scale against quiet space;
+- a sense that something consequential is about to happen;
+- presence making space significant.
+
+What does **not** become brand law:
+- arches or doorways;
+- ruins or ancient scenery;
+- monumental stone interiors;
+- fantasy architecture;
+- sci-fi portals/monoliths;
+- cosmic particles or glowing grids.
+
+**Living Record** remains the strongest material/history branch: layers, accumulated evidence, remnants of prior states, and surfaces that contain history without resorting to fake parchment or nostalgia.
+
+**Living Rift** contributed a durable law rather than a literal motif: history can become part of identity's structure. Avoid generic crack/kintsugi/plant-growth symbolism as a repeated brand trope.
+
+**The Unknown** contributed mystery/interiority, but its specific earlier form was rejected after the user noted a strong resemblance to The Elder Scrolls IV: Oblivion identity territory. Preserve the quality, not that form.
+
+### W0 — Wordmark
+
+A bespoke **KYMAEAN** wordmark is now considered mandatory independent work. Current serif studies are exploratory only.
+
+Promising principles:
+- exploit the unusual rhythm of `K Y M A E A N`;
+- especially study `YMAE`, repeated `A` forms, and the `AE` relationship;
+- allow neighboring letters to influence one another structurally;
+- consider whether the name can carry consequence or memory through typography;
+- do not reduce the task to selecting an elegant font or adding a decorative ligature.
+
+### I0 — Symbol / app icon
+
+No final mark is selected.
+
+Retain:
+- Original Convergence as conceptual ancestor: relationship creates something not contained in the parts, but the fixed-three construction is unsuitable as permanent brand law.
+- B2 Consequence Aperture as compact-symbol incumbent benchmark, not selected identity.
+
+Ignore generated boards that accidentally promoted circular, orbital, compass-like, star-like, or other filler symbols into mock app icons. Those were never approved.
+
+### M0 — Motion and system grammar
+
+Current strongest sequence:
+
+**Action -> Trace -> Echo -> Changed State -> History**
+
+Supporting discoveries:
+- **Living Traces:** action leaves a path/evidence.
+- **Echo:** influence persists after action ends.
+- **Consequence:** the next state is genuinely different.
+- **Living Record:** prior states remain part of what comes next.
+- **Intersect / Ensemble principles:** relationships affect shared composition without collapsing distinct identities.
+
+Motion should normally have cause, transformation, and rest. Avoid perpetual particle fields, generic AI energy, continuous orbital motion, and decorative loops that do not communicate state or consequence.
+
+## Recent integration experiments and reverse-audit results
+
+### V0.1 — Integrated visual-world prototype
+
+Successful discovery: the strongest ingredients can coexist, and The Stage works as a spatial foundation.
+
+Failed surface tendency: the board collapsed too strongly into dark-gold ancient/fantasy/luxury treatment — stone corridors, ruins, bronze/gold, carved surfaces, and generated product UI filler. The grammar survived; the surface styling was too genre-coded.
+
+### V0.2 — The Stage Without Scenery
+
+Successful discovery: The Stage survives removal of literal arches/ruins. This validates The Stage as a design principle rather than a single picture.
+
+Failed surface tendency: ancient scenery was replaced by premium sci-fi/luxury-tech scenery — monolithic light, reflective grid floors, particles, translucent energy ribbons, and cosmic motifs.
+
+### V0.3 — Hero language stress test
+
+Three different material treatments showed that the underlying grammar can survive aesthetic change.
+
+- Abstract/spatial confirmed scale, stillness, and attention but leaned speculative-tech.
+- Tactile/human was especially important: it proved history and persistence can feel Kymaean without futuristic scenery. It had history but needed stronger anticipation.
+- Otherworldly recovered strangeness but leaned science-fiction concept art.
+
+Key emerging synthesis: **human materiality inside impossible space** — physically believable enough to touch, but containing one restrained spatial/material fact that should not be possible.
+
+### V0.4 — Presence / History / Encounter probes
+
+The triptych failed as a clean experiment because generation reintroduced literal scenery:
+- Presence became monumental portal/ruin architecture.
+- History became literal archaeological manuscript imagery.
+- Encounter became glowing sci-fi/fantasy relationship scenery.
+
+The concepts themselves remain strong:
+- Presence: the world changes when someone enters it.
+- History: the current state contains evidence of prior states.
+- Encounter: distinct presences reshape one shared environment without merging.
+
+A subsequent single-image Presence test was closer but still insufficient. It showed a person **inside an extraordinary place** more strongly than it showed **the place becoming extraordinary because that person was there**. It also retained prestige monumentality, polished stone, gold tracery, and architectural spectacle.
+
+This causal distinction is the current frontier.
+
+## Next exact visual experiment
+
+Start with **Presence only**, one image at a time.
+
+Do not create a presentation board, moodboard, taxonomy, UI mockup, logo candidate, wordmark, footer, labels, or explanatory text unless specifically requested.
+
+Goal:
+
+> Show an almost ordinary, tactile, human-scale space whose physical composition changes subtly and impossibly **because one person is present**.
+
+Required properties:
+- human-scale and tactile rather than monumental;
+- believable materials rather than fantasy/science-fiction scenery;
+- quiet, restrained, and emotionally charged;
+- one localized impossible causal response to presence;
+- the extraordinary condition must clearly depend on the person's presence;
+- no requirement for gold as brand color;
+- no interface graphics or visual explanation.
+
+Avoid as shortcuts:
+- arches, portals, doors used as the central metaphor;
+- ruins, carved ancient masonry, archaeological props;
+- monumental monoliths/chambers;
+- cosmic landscapes, stars, planets, occult/celestial charts;
+- sci-fi grids, holograms, energy ribbons, particle fields;
+- glowing network lines or orbital diagrams;
+- omnipresent antique gold;
+- generic cracks/kintsugi/plant-growth metaphors;
+- prestige fantasy/game concept-art composition.
+
+Only after Presence lands should History and Encounter receive equivalent separate studies.
 
 ## Website architectural direction
 
@@ -53,16 +215,7 @@ Google Drive path:
 
 contains **Kymaean Visual Continuity Constitution**, the canonical human-readable design-continuity record.
 
-Design masters stay in Drive. GitHub receives only implementation specifications and optimized production derivatives once approved. A web derivative does not silently become the visual master.
-
-## Current exploration history worth retaining
-
-- Original Convergence: strong relational/emotional conceptual ancestor; fixed-count geometry prevents it from becoming permanent brand law as drawn.
-- Triadal Gate: strong silhouette discipline but rejected as a permanent direction because it encoded the current three-character experiment too literally.
-- Consequence Aperture B2: strongest incumbent negative-space candidate; preserved as benchmark, not selected.
-- Palimpsest / Living Traces: promising history/consequence/motion language; not necessarily the logo.
-- Wordmark-born Kymaean: underexplored and remains an important branch.
-- B0.4 intentionally reopens artistic territory rather than continuing narrow aperture/K refinement.
+Design masters stay in Drive. GitHub receives implementation specifications and optimized production derivatives once approved. A web derivative does not silently become the visual master.
 
 ## Fresh-chat bootstrap
 
@@ -70,12 +223,14 @@ For every fresh Kymaean/Ensemble Website project chat:
 
 1. Read this file first.
 2. Read `docs/DESIGN_CONTINUITY.md`.
-3. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before drawing product conclusions.
-4. Read only relevant product/design sources; do not reload or summarize the entire project unnecessarily.
-5. Treat Google Drive `Ensemble Project` as visual-master authority.
-6. Do not infer selection from praise or recency.
-7. Continue the currently requested mode: exploration stays divergent; refinement begins only after explicit mutual convergence.
+3. Read `docs/HANDOFF_V0_4_PRESENCE.md` for the current visual handoff.
+4. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before drawing product conclusions.
+5. Read only relevant product/design sources; do not reload or summarize the entire project unnecessarily.
+6. Treat Google Drive `Ensemble Project` as visual-master authority.
+7. Do not infer selection from praise, recency, or generated mockup usage.
+8. Preserve the four identity lanes I0/W0/V0/M0.
+9. Continue in exploration mode. Refinement begins only after explicit mutual convergence.
 
 ## Next permissible work
 
-Continue Brand Exploration B0.4 broadly when requested. Do not narrow toward B2, negative-space K geometry, or any other existing family unless explicit mutual convergence occurs.
+Continue V0.4 with the single-image **Presence** causal-space experiment described above. Do not initialize production website code yet and do not narrow the symbol/app-icon track unless explicitly requested.
