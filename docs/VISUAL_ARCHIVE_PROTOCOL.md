@@ -20,6 +20,13 @@ Root:
 
 `Ensemble Project / 03 Visual Identity & Artwork / Kymaean`
 
+Intake queue:
+
+`00 Intake — New Material for Interpretation`
+
+- `00 Unreviewed — Drop New Material Here`
+- `01 Reviewed & Classified`
+
 Continuity records:
 
 `01 Brand Thesis & Continuity`
@@ -40,6 +47,24 @@ Lane folders:
 - `V0 Visual World & Atmosphere`
 - `M0 Motion & System Grammar`
 - `X0 Cross-Lane Boards & Research`
+
+## New-material intake rule
+
+The intake queue exists so the user can add forgotten mockups, screenshots, old artwork, prompts, notes, references, or other material for later interpretation without prematurely changing project authority.
+
+Anything placed in `00 Unreviewed — Drop New Material Here` is **uninterpreted evidence**, not an approved design, not a canonical visual master, and not automatically part of the current creative direction.
+
+When the user asks to review or reconcile intake material:
+
+1. inspect the new material in context;
+2. determine whether it belongs to the present Ensemble/Kymaean lineage, a predecessor project, external reference material, or another category;
+3. recover any available provenance, approximate chronology, concept name, related user reaction, and prior design judgment;
+4. record the interpretation in `Kymaean Visual Exploration Registry & Critique Ledger`;
+5. classify meaningful material into the proper I0/W0/V0/M0/X0 archive lane, preserving the original binary whenever possible;
+6. move the processed intake item into `01 Reviewed & Classified` or otherwise mark it as reconciled so the unreviewed queue remains actionable;
+7. never silently promote newly discovered historical material into current authority or convergence.
+
+For surface-blind divergence, do not inspect the intake queue before the first independent artwork unless the user explicitly asks to interpret that material first.
 
 ## Mandatory pre-handoff audit
 
@@ -91,13 +116,14 @@ For artwork-development chats, the normal retirement order is:
 
 1. complete the current creative/evaluation work;
 2. audit the full chat for assets and judgments;
-3. populate/update Google Drive artwork folders;
-4. update `Kymaean Visual Exploration Registry & Critique Ledger`;
-5. update the Drive `Kymaean Visual Continuity Constitution` when project law changed;
-6. update the GitHub active handoff/current checkpoint;
-7. only then declare the old chat ready to retire.
+3. reconcile any relevant unreviewed intake material the user has asked to incorporate;
+4. populate/update Google Drive artwork folders;
+5. update `Kymaean Visual Exploration Registry & Critique Ledger`;
+6. update the Drive `Kymaean Visual Continuity Constitution` when project law changed;
+7. update the GitHub active handoff/current checkpoint;
+8. only then declare the old chat ready to retire.
 
-A handoff generated before steps 2–4 is incomplete.
+A handoff generated before the archive and registry steps are complete is incomplete.
 
 ## Fresh-chat continuity vs surface-blind isolation
 
@@ -113,9 +139,9 @@ When the active handoff calls for a surface-blind/fresh-palette experiment:
 
 1. read `CURRENT_STATE.md`, `DESIGN_CONTINUITY.md`, the active handoff, and current product truth first;
 2. inherit the abstract discoveries and explicit project laws contained in those active text sources;
-3. do **not** open archived imagery or detailed surface descriptions before the first independent artwork unless the user explicitly asks;
+3. do **not** open archived imagery, intake imagery, or detailed surface descriptions before the first independent artwork unless the user explicitly asks;
 4. after the first independent artwork and its initial evaluation, read `Kymaean Visual Exploration Registry & Critique Ledger` to recover historical concepts, user favorites, prior design-team judgments, and branch status;
-5. only then inspect historical images when comparison is useful and the active experiment permits it.
+5. only then inspect historical images or reconciled intake material when comparison is useful and the active experiment permits it.
 
 This sequencing prevents accidental visual copying while ensuring that the project does not lose its accumulated artistic judgment.
 
