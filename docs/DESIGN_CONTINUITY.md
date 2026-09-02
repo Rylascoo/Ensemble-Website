@@ -150,6 +150,23 @@ Do not turn this audit into unsolicited conversation. Surface findings only when
 - A production derivative never silently becomes the master asset.
 - Website explorations may become future app candidates only after explicit cross-product review.
 
+## Mandatory website-artwork handoff archive gate
+
+Read and follow `docs/VISUAL_ARCHIVE_PROTOCOL.md` for every website/brand artwork-development handoff.
+
+A visual handoff is **not complete** merely because a new GitHub handoff file exists. Before retiring the current design chat:
+
+1. audit the chat for every generated artwork, meaningful variant, diagnostic failure, explicit user reaction, assistant/design-team judgment, generated-board evaluation, favorite, rejection, convergence/divergence decision, and transferable discovery;
+2. copy every available binary into Google Drive `03 Visual Identity & Artwork/Kymaean/02 Visual Exploration Archive` under the correct I0/W0/V0/M0/X0 lane;
+3. update Drive `Kymaean Visual Exploration Registry & Critique Ledger` with provenance, USER SIGNAL, DESIGN JUDGMENT, status, asset state, transferable discovery, and surface quarantine;
+4. label missing historical binaries **PENDING RECOVERY** rather than implying that the archive is complete;
+5. update the Drive continuity constitution if the project law changed;
+6. only after the Drive archive/registry checkpoint is current, finalize the next GitHub artwork handoff and declare the retiring chat complete.
+
+User praise, assistant preference, recency, repetition, development cost, or scores printed inside generated boards do not equal selection or convergence.
+
+For ordinary continuation/refinement, a new chat may inspect relevant archived images immediately. For a surface-blind divergence round, preserve conceptual continuity while protecting visual independence: generate and evaluate the first independent artwork before opening archived imagery or detailed surface records, then read the Drive registry to recover past concepts, user favorites, design judgments, branch status, and comparative history. This sequencing preserves both creative memory and genuine divergence.
+
 ## Current creative position
 
 - No final Kymaean logo or visual identity has been selected.
@@ -173,3 +190,4 @@ Before proposing, generating, refining, or implementing Kymaean website/brand wo
 7. Adopt the **Website Development Operating Persona** above as the expertise lens for website work.
 8. Do not infer that praise, an attractive image, the most recent exploration, or an external prompt represents selection or permission to converge.
 9. Preserve useful external expertise, but quarantine generic design/stack prescriptions unless explicitly adopted.
+10. Follow `docs/VISUAL_ARCHIVE_PROTOCOL.md` whenever a design chat is being handed off or historical visual lineage is being consulted.
