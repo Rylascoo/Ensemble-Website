@@ -1,29 +1,6 @@
 # Ensemble Website — Current State
 
-Updated: 2026-09-01
-
-
-### 📋 The Optimized Master Prompt
-
-
-> **System Role & Persona:** Act as an elite, multi-disciplinary product team consisting of a Chief Marketing Officer, a Master Web Architect, and a Senior Windows 11 ARM64 Developer. You will utilize extended reasoning to analyze, plan, and execute at a world-class level.
-> **Project Context:** I am building a native Windows 11 ARM64 application optimized for Snapdragon processors.
-> **App Function:** check project files
-> I have secured the domain and now need an elite, production-ready website to market, explain, and distribute this application.
-> **The Engineering & Design Standard:** The website's architecture and UX must rival Apple's product pages in technical fluidity (scroll-driven animations, high-performance asset loading, WebGL integration, responsive modularity). However, it must feature a highly distinct, modern visual identity that feels at home in a premium Windows/Snapdragon ecosystem, sharply distinct from macOS aesthetics.
-> **Collaboration Directives:**
-> * **Iterative Development:** Do not attempt to write the entire website code in one response; this leads to shallow, unoptimized code. We will build this architecture component by component for maximum depth.
-> * **Strategic Alignment:** Before writing code, use your extended thinking to briefly explain how the Marketing (conversion/hook) and Engineering (performance/DOM structure) strategies align.
-> 
-> 
-> **Your Initial Execution Steps:**
-> 1. **Brand & Tech Strategy:** Define a unique visual identity (motion language, typography, aesthetic feel). Then, select and justify the optimal modern web stack (e.g., Next.js, React, GSAP, Tailwind) required to achieve Apple-tier scroll performance and modularity.
-> 2. **Master Architecture:** Outline a highly scalable component hierarchy for the entire website, accounting for Hero sections, Feature Grids, Technical Specs (highlighting ARM64/NPU benefits), and Download flows.
-> 3. **Component 1 (The Hero):** Using your proposed tech stack, write the production-ready code for the Hero Section. Include the structural markup, styling, and the exact JavaScript animation logic (e.g., GSAP timelines) needed for a breathtaking first impression.
->
->
-
-
+Updated: 2026-09-02
 
 ## Identity and authority
 
@@ -36,11 +13,11 @@ Updated: 2026-09-01
 
 ## Current phase
 
-**Visual World Exploration V0.4 — Presence Physics Probe / Fresh-Chat Handoff**
+**Visual World Exploration V0.4.1 — Presence Isolation Study**
 
 Website Blueprint 0.2 / Brand Seed discipline remains the approved working direction. No final Kymaean logo, wordmark, color system, visual identity, or production website design is selected yet.
 
-The project has moved beyond treating all generated imagery as logo exploration. Four parallel identity lanes are now explicit:
+The project has moved beyond treating all generated imagery as logo exploration. Four parallel identity lanes remain explicit:
 
 - **I0 — Primary Symbol / App Icon:** compact brand mark. Still open. B2 Consequence Aperture remains an incumbent benchmark only.
 - **W0 — KYMAEAN Wordmark:** mandatory independent identity work. The name must be designed intentionally regardless of the final symbol.
@@ -49,6 +26,40 @@ The project has moved beyond treating all generated imagery as logo exploration.
 
 Do not evaluate one lane as though it must solve the others.
 
+## Working project identity thesis
+
+The project now has a principle-level identity strong enough to guide future work without freezing an aesthetic:
+
+> **Human Causality, Living Consequence.**
+>
+> Kymaean should feel like a world that notices people, remembers what they do, and is changed by what follows.
+
+This is an internal design thesis, not a public tagline and not a selected visual identity.
+
+It does **not** freeze:
+
+- logo or app icon;
+- wordmark;
+- palette;
+- typography;
+- material language;
+- website layout;
+- photographic/illustrative style;
+- animation technology or implementation stack.
+
+It does establish a durable center:
+
+- person before effect;
+- cause before decoration;
+- evidence before generic symbolism;
+- consequence may change structure;
+- history accumulates rather than resets;
+- distinct identities influence one another without merging;
+- mystery comes from bounded perspective;
+- quiet normally precedes spectacle.
+
+A radically different visual world can still be Kymaean if it embodies these laws.
+
 ## Creative continuity law
 
 Read `docs/DESIGN_CONTINUITY.md` before any brand, website, visual-asset, or motion work.
@@ -56,6 +67,24 @@ Read `docs/DESIGN_CONTINUITY.md` before any brand, website, visual-asset, or mot
 Core rule: **exploration remains broad until the user and assistant explicitly agree to converge. Praise or enthusiasm for an exploration is not permission to refine that branch.**
 
 Negative-space/aperture work is one preserved branch, not the visual universe. B2 Consequence Aperture is an incumbent benchmark only. Future exploration must remain open to otherworldly, symbolic, organic, architectural, historical, typographic, relational, theatrical, tactile, human, and unexpected visual worlds.
+
+## External-prompt contamination safeguard
+
+A generic external "optimized master prompt" was temporarily inserted into this file. It prescribed Apple-comparison language, mandatory hero-first marketing architecture, WebGL/GSAP-style animation, and a premium Windows/Snapdragon aesthetic.
+
+That prompt has been **removed completely** and is not project authority.
+
+Do not silently import generic website templates, competitor-aesthetic targets, marketing prescriptions, or technology stacks into Kymaean merely because they are presented as best practices.
+
+Specifically:
+
+- "Apple-tier" is not a visual identity target.
+- A hero section is not automatically the first design problem.
+- React, Next.js, Tailwind, GSAP, WebGL, or any other framework must earn adoption through demonstrated need.
+- "Premium Windows/Snapdragon" must not collapse into dark luxury, gold, portals, monoliths, particles, grids, or generic futuristic spectacle.
+- Conversion optimization cannot outrank product truth, artistic identity, accessibility, or performance evidence.
+
+External prompts may be reviewed as references later, but only explicitly adopted decisions may change project authority.
 
 ## Current durable visual grammar
 
@@ -176,13 +205,44 @@ The concepts themselves remain strong:
 
 A subsequent single-image Presence test was closer but still insufficient. It showed a person **inside an extraordinary place** more strongly than it showed **the place becoming extraordinary because that person was there**. It also retained prestige monumentality, polished stone, gold tracery, and architectural spectacle.
 
-This causal distinction is the current frontier.
+This causal distinction remains the current frontier.
+
+### V0.4.1 — Generic-prompt / genre-attractor correction
+
+A generic external website prompt caused repeated image-generation attempts to reconstruct branded presentation boards rather than perform the requested Presence experiment.
+
+Repeated attractor traits included:
+- charcoal/black + antique gold;
+- luxury serif typography;
+- portals, apertures, thresholds, monoliths, and monumental rooms;
+- tiny lone human figures dominated by scenery;
+- orbital/celestial geometry;
+- UI panels, logos, navigation, and design-system collateral;
+- premium fantasy / speculative-technology spectacle.
+
+Those renders are **invalid as Presence studies** and are not candidate website designs.
+
+The useful result is methodological: more negative instructions did not solve the drift. Focused V0 visual-world experiments should temporarily isolate the artwork from brand/website vocabulary, then evaluate the result against Kymaean afterward.
 
 ## Next exact visual experiment
 
-Start with **Presence only**, one image at a time.
+Continue **Presence only**, one image at a time, using the isolation protocol in `docs/HANDOFF_V0_4_PRESENCE.md`.
 
-Do not create a presentation board, moodboard, taxonomy, UI mockup, logo candidate, wordmark, footer, labels, or explanatory text unless specifically requested.
+Do not create a presentation board, moodboard, taxonomy, UI mockup, hero section, logo candidate, wordmark, footer, labels, or explanatory text unless specifically requested.
+
+### Generation-isolation protocol
+
+For the next image-generation request itself, omit brand/website/product vocabulary that has proven to trigger the rejected attractor, including terms such as `Kymaean`, `Ensemble`, `website`, `brand`, `premium`, `Windows`, `Snapdragon`, `AI`, `Stage`, `design system`, and similar framing.
+
+Describe only:
+
+1. an ordinary human-scale place;
+2. tactile believable materials;
+3. one person occupying it;
+4. one localized impossible physical response caused by that person's presence;
+5. quiet cinematic or photographic observation.
+
+Then evaluate the resulting artwork against Kymaean's working identity thesis and visual laws **after** generation.
 
 Goal:
 
@@ -250,10 +310,13 @@ For every fresh Kymaean/Ensemble Website project chat:
 4. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before drawing product conclusions.
 5. Read only relevant product/design sources; do not reload or summarize the entire project unnecessarily.
 6. Treat Google Drive `Ensemble Project` as visual-master authority.
-7. Do not infer selection from praise, recency, or generated mockup usage.
+7. Do not infer selection from praise, recency, generated mockup usage, or an external prompt.
 8. Preserve the four identity lanes I0/W0/V0/M0.
-9. Continue in exploration mode. Refinement begins only after explicit mutual convergence.
+9. Treat **Human Causality, Living Consequence** as the working project-level design thesis, not a selected surface aesthetic.
+10. Continue in exploration mode. Refinement begins only after explicit mutual convergence.
 
 ## Next permissible work
 
-Continue V0.4 with the single-image **Presence** causal-space experiment described above. Do not initialize production website code yet and do not narrow the symbol/app-icon track unless explicitly requested.
+Continue V0.4.1 with the single-image **Presence Isolation Study** described above and in `docs/HANDOFF_V0_4_PRESENCE.md`.
+
+Do not initialize production website code yet and do not narrow the symbol/app-icon or wordmark tracks unless explicitly requested.
