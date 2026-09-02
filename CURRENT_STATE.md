@@ -4,12 +4,32 @@ Updated: 2026-09-02
 
 ## Identity and authority
 
-- Internal website project: **Ensemble Website**.
+- The underlying application is **Ensemble**, intended to be publicly branded **Kymaean**.
+- Internal website project/repository: **Ensemble Website**.
 - Future public app/domain brand: **Kymaean**.
 - `Rylascoo/Ensemble-Website` is the website engineering source of truth.
 - `Rylascoo/Ensemble-Project` is the authoritative product-engineering source and is read-only for website work unless explicitly instructed otherwise.
 - Google Drive **Ensemble Project** is the canonical design/visual workspace and master-asset authority.
 - The old `Rylascoo/Kymaean-Project` is a separate application and must not influence this website/new Kymaean identity unless explicitly requested.
+
+## Parallel project workstreams
+
+The ChatGPT Ensemble project contains two ongoing handoff-driven workstreams for the same future Kymaean product:
+
+1. **Application engineering workstream** — develops the actual Ensemble/Kymaean Windows application. It resumes from `Rylascoo/Ensemble-Project` and its engineering handoffs.
+2. **Website / brand workstream** — develops Kymaean's public website, visual identity, marketing experience, brand expression, and eventual web implementation. It resumes from `Rylascoo/Ensemble-Website`, its website handoffs, and Google Drive visual masters.
+
+Do not merge the two continuation tracks. Website chats may read application state to remain technically accurate, but website decisions do not silently become application architecture or product authority. Application chats do not silently inherit website visual/marketing decisions.
+
+## Website development operating persona
+
+Fresh chats resuming this **website / brand workstream** should inherit the intended multidisciplinary expertise from the originating website-development prompt:
+
+- **Chief Marketing Officer:** truthful positioning, audience insight, conversion strategy, product narrative, launch communication, and evidence-based claims.
+- **Master Web Architect:** information architecture, UX, responsive systems, accessibility, SEO, performance, asset loading, progressive enhancement, animation discipline, maintainability, testing, and deployment architecture.
+- **Senior Windows 11 ARM64 Developer:** enough native Windows/ARM64/Snapdragon/Copilot+ product expertise to explain the application accurately, distinguish verified capabilities from aspirations, and avoid technically false marketing.
+
+This is an **expertise persona**, not a preselected visual style, page hierarchy, or framework prescription. The website team should reconcile marketing purpose with implementation cost, performance, accessibility, DOM/asset complexity, and long-term maintainability before major implementation decisions.
 
 ## Current phase
 
@@ -26,15 +46,15 @@ The project has moved beyond treating all generated imagery as logo exploration.
 
 Do not evaluate one lane as though it must solve the others.
 
-## Working project identity thesis
+## Working website / brand exploration thesis
 
-The project now has a principle-level identity strong enough to guide future work without freezing an aesthetic:
+The website/brand stream has a principle-level thesis strong enough to guide future visual work without freezing an aesthetic:
 
 > **Human Causality, Living Consequence.**
 >
 > Kymaean should feel like a world that notices people, remembers what they do, and is changed by what follows.
 
-This is an internal design thesis, not a public tagline and not a selected visual identity.
+This is an internal website/brand design thesis, not a public tagline, not an application-product constitution, and not a selected visual identity.
 
 It does **not** freeze:
 
@@ -47,7 +67,7 @@ It does **not** freeze:
 - photographic/illustrative style;
 - animation technology or implementation stack.
 
-It does establish a durable center:
+It does establish a durable visual-exploration center:
 
 - person before effect;
 - cause before decoration;
@@ -58,7 +78,7 @@ It does establish a durable center:
 - mystery comes from bounded perspective;
 - quiet normally precedes spectacle.
 
-A radically different visual world can still be Kymaean if it embodies these laws.
+A radically different visual world can still be valid Kymaean website/brand exploration if it embodies these laws.
 
 ## Creative continuity law
 
@@ -68,23 +88,27 @@ Core rule: **exploration remains broad until the user and assistant explicitly a
 
 Negative-space/aperture work is one preserved branch, not the visual universe. B2 Consequence Aperture is an incumbent benchmark only. Future exploration must remain open to otherworldly, symbolic, organic, architectural, historical, typographic, relational, theatrical, tactile, human, and unexpected visual worlds.
 
-## External-prompt contamination safeguard
+## External-prompt interpretation safeguard
 
-A generic external "optimized master prompt" was temporarily inserted into this file. It prescribed Apple-comparison language, mandatory hero-first marketing architecture, WebGL/GSAP-style animation, and a premium Windows/Snapdragon aesthetic.
+The earlier website-development persona prompt contained both intentional expertise and generic execution assumptions. A copy of that prompt was temporarily inserted into this file and has been removed as raw project authority.
 
-That prompt has been **removed completely** and is not project authority.
+Preserve the intentional expertise layer:
 
-Do not silently import generic website templates, competitor-aesthetic targets, marketing prescriptions, or technology stacks into Kymaean merely because they are presented as best practices.
+- elite marketing judgment;
+- elite web architecture and UX engineering;
+- strong Windows 11 ARM64/Snapdragon product literacy;
+- iterative, component-by-component development rather than shallow whole-site generation;
+- strategic alignment between user/marketing purpose and engineering/performance structure.
 
-Specifically:
+Do **not** automatically preserve generic assumptions that were not deliberately selected for Kymaean:
 
-- "Apple-tier" is not a visual identity target.
-- A hero section is not automatically the first design problem.
-- React, Next.js, Tailwind, GSAP, WebGL, or any other framework must earn adoption through demonstrated need.
-- "Premium Windows/Snapdragon" must not collapse into dark luxury, gold, portals, monoliths, particles, grids, or generic futuristic spectacle.
-- Conversion optimization cannot outrank product truth, artistic identity, accessibility, or performance evidence.
+- "Apple-tier" is not a visual identity target or competitor imitation brief;
+- a hero section is not automatically the first design problem;
+- React, Next.js, Tailwind, GSAP, WebGL, or any other framework must earn adoption through demonstrated need;
+- "premium Windows/Snapdragon" must not collapse into dark luxury, gold, portals, monoliths, particles, grids, or generic futuristic spectacle;
+- conversion optimization cannot outrank product truth, artistic identity, accessibility, or performance evidence.
 
-External prompts may be reviewed as references later, but only explicitly adopted decisions may change project authority.
+External prompts and best-practice references can contribute expertise and hypotheses, but only explicitly adopted project decisions may change active design or implementation authority.
 
 ## Current durable visual grammar
 
@@ -177,7 +201,7 @@ Failed surface tendency: the board collapsed too strongly into dark-gold ancient
 
 ### V0.2 — The Stage Without Scenery
 
-Successful discovery: The Stage survives removal of literal arches/ruins. This validates The Stage as a design principle rather than a single picture.
+Successful discovery: The Stage survives removal of arches/ruins. This validates The Stage as a design principle rather than a single picture.
 
 Failed surface tendency: ancient scenery was replaced by premium sci-fi/luxury-tech scenery — monolithic light, reflective grid floors, particles, translucent energy ribbons, and cosmic motifs.
 
@@ -207,9 +231,9 @@ A subsequent single-image Presence test was closer but still insufficient. It sh
 
 This causal distinction remains the current frontier.
 
-### V0.4.1 — Generic-prompt / genre-attractor correction
+### V0.4.1 — Generic-execution / genre-attractor correction
 
-A generic external website prompt caused repeated image-generation attempts to reconstruct branded presentation boards rather than perform the requested Presence experiment.
+A generic execution brief embedded alongside the intended website persona caused repeated image-generation attempts to reconstruct branded presentation boards rather than perform the requested Presence experiment.
 
 Repeated attractor traits included:
 - charcoal/black + antique gold;
@@ -222,7 +246,7 @@ Repeated attractor traits included:
 
 Those renders are **invalid as Presence studies** and are not candidate website designs.
 
-The useful result is methodological: more negative instructions did not solve the drift. Focused V0 visual-world experiments should temporarily isolate the artwork from brand/website vocabulary, then evaluate the result against Kymaean afterward.
+The useful result is methodological: preserve the multidisciplinary website expertise, but isolate focused visual experiments from implementation/marketing vocabulary when that vocabulary overwhelms the experiment.
 
 ## Next exact visual experiment
 
@@ -234,6 +258,8 @@ Do not create a presentation board, moodboard, taxonomy, UI mockup, hero section
 
 For the next image-generation request itself, omit brand/website/product vocabulary that has proven to trigger the rejected attractor, including terms such as `Kymaean`, `Ensemble`, `website`, `brand`, `premium`, `Windows`, `Snapdragon`, `AI`, `Stage`, `design system`, and similar framing.
 
+This isolation applies only to the **image-generation prompt**, not to the assistant's operating expertise. The website chat should still reason with the full Website Development Operating Persona before and after generation.
+
 Describe only:
 
 1. an ordinary human-scale place;
@@ -242,7 +268,7 @@ Describe only:
 4. one localized impossible physical response caused by that person's presence;
 5. quiet cinematic or photographic observation.
 
-Then evaluate the resulting artwork against Kymaean's working identity thesis and visual laws **after** generation.
+Then evaluate the resulting artwork against Kymaean's working website/brand thesis and visual laws **after** generation.
 
 Goal:
 
@@ -280,7 +306,7 @@ Provisional implementation architecture once visual direction is ready for code:
 - Avoid React/WebGL/large animation frameworks until a demonstrated design need earns them.
 - Initial site remains truthful about development state: no fake download flow, fake testimonials, or unsupported product/hardware claims.
 
-This technical direction remains subordinate to the approved visual/product blueprint and may be revisited if implementation evidence warrants it.
+This technical direction remains subordinate to the approved visual/product blueprint and may be revisited if implementation evidence warrants it. The Master Web Architect persona is expected to challenge this stack later if concrete implementation evidence demonstrates a better choice; generic fashion alone is insufficient.
 
 ## Infrastructure state
 
@@ -304,16 +330,18 @@ Design masters stay in Drive. GitHub receives implementation specifications and 
 
 For every fresh Kymaean/Ensemble Website project chat:
 
-1. Read this file first.
-2. Read `docs/DESIGN_CONTINUITY.md`.
-3. Read `docs/HANDOFF_V0_4_PRESENCE.md` for the current visual handoff.
-4. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before drawing product conclusions.
-5. Read only relevant product/design sources; do not reload or summarize the entire project unnecessarily.
-6. Treat Google Drive `Ensemble Project` as visual-master authority.
-7. Do not infer selection from praise, recency, generated mockup usage, or an external prompt.
-8. Preserve the four identity lanes I0/W0/V0/M0.
-9. Treat **Human Causality, Living Consequence** as the working project-level design thesis, not a selected surface aesthetic.
-10. Continue in exploration mode. Refinement begins only after explicit mutual convergence.
+1. Treat the chat as the **website / brand workstream**, distinct from the application-engineering workstream.
+2. Read this file first.
+3. Read `docs/DESIGN_CONTINUITY.md`.
+4. Read `docs/HANDOFF_V0_4_PRESENCE.md` for the current visual handoff.
+5. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before drawing product or capability conclusions.
+6. Read only relevant product/design sources; do not reload or summarize the entire project unnecessarily.
+7. Treat Google Drive `Ensemble Project` as visual-master authority.
+8. Adopt the **Website Development Operating Persona** in this file and `docs/DESIGN_CONTINUITY.md`.
+9. Do not infer selection from praise, recency, generated mockup usage, or generic execution language from an external prompt.
+10. Preserve the four identity lanes I0/W0/V0/M0.
+11. Treat **Human Causality, Living Consequence** as the working website/brand exploration thesis, not a selected surface aesthetic or application-level product law.
+12. Continue in exploration mode. Refinement begins only after explicit mutual convergence.
 
 ## Next permissible work
 
