@@ -2,17 +2,21 @@
 
 Status: **ACTIVE PROJECT LAW FOR WEBSITE / BRAND ARTWORK HANDOFFS**
 
-Purpose: prevent visual-development knowledge from disappearing when a project chat is retired while preserving the ability to run genuinely fresh, surface-blind experiments.
+Purpose: prevent visual-development knowledge from disappearing when a project chat or branch is retired while preserving a genuinely clean active discovery workspace.
 
 ## Core law
 
-A website-artwork handoff is **not complete** until the current chat's visual output and design judgment have been reconciled into the canonical Google Drive archive.
+A website-artwork handoff is **not complete** until the current chat's visual output, user signals, design judgment, and asset lineage have been reconciled into canonical Google Drive state.
 
-The governing principle is:
+The governing principles are:
 
 > **Preserve the concept, the evidence, and the judgment. Control when the picture is reopened.**
 
-Google Drive `Ensemble Project` remains the visual-master authority. GitHub records the archive protocol, current checkpoint, implementation-facing specifications, and handoff instructions.
+and, after the R0 re-foundation:
+
+> **Preserve the lineage. Restart the search.**
+
+Google Drive `Ensemble Project` remains the visual-master authority. GitHub records the protocol, current checkpoint, implementation-facing specifications, and handoff instructions.
 
 ## Canonical Drive locations
 
@@ -20,139 +24,191 @@ Root:
 
 `Ensemble Project / 03 Visual Identity & Artwork / Kymaean`
 
-Intake queue:
-
-`00 Intake — New Material for Interpretation`
+### 00 Intake — New Material for Interpretation
 
 - `00 Unreviewed — Drop New Material Here`
 - `01 Reviewed & Classified`
 
-Continuity records:
+The intake queue is for forgotten mockups, screenshots, historical artwork, prompts, notes, references, source files, or other material awaiting interpretation.
 
-`01 Brand Thesis & Continuity`
+### 01 Brand Thesis & Continuity
 
-This folder contains:
+Contains:
 
 - `Kymaean Visual Continuity Constitution`
 - `Kymaean Visual Exploration Registry & Critique Ledger`
+- `Kymaean Visual Re-Foundation Charter — Inspiration Library + Clean-Slate Discovery`
 
-Artwork archive:
+### 02 Historical Inspiration Library — Prior Visual Branches
 
-`02 Visual Exploration Archive`
+This is the canonical historical visual-memory repository.
 
-Lane folders:
+Historical lanes:
 
 - `I0 Primary Symbol & App Icon`
 - `W0 Wordmark`
 - `V0 Visual World & Atmosphere`
 - `M0 Motion & System Grammar`
 - `X0 Cross-Lane Boards & Research`
+- `00 Original Concept Foundation — Recovered Ensemble Vision` (O0)
+
+O0 currently contains:
+
+- `O0-A Early Integrated UI Realizations`
+- `O0-B Refined Original Concept Screens`
+- `O0-C Original Source HTML & Five Directions`
+
+The Historical Inspiration Library is not an active candidate ladder. Historical favorites, benchmarks, failures, and strongest-at-the-time judgments remain evidence about prior checkpoints only.
+
+### 03 Clean-Slate Visual Discovery — Active
+
+This is the only default location for newly generated or newly developed visual branches during R0.
+
+Active lanes:
+
+- `I0 Primary Symbol & App Icon — Clean Slate`
+- `W0 KYMAEAN Wordmark — Clean Slate`
+- `V0 Visual World & Atmosphere — Clean Slate`
+- `M0 Motion & System Grammar — Clean Slate`
+- `X0 Cross-Lane Discovery & Research — Clean Slate`
+
+At R0 reset these lanes have no incumbent visual answer.
 
 ## New-material intake rule
 
-The intake queue exists so the user can add forgotten mockups, screenshots, old artwork, prompts, notes, references, or other material for later interpretation without prematurely changing project authority.
+Anything placed in `00 Unreviewed — Drop New Material Here` is **uninterpreted evidence**. It is not approved design, not active inspiration by default, and not current visual authority.
 
-Anything placed in `00 Unreviewed — Drop New Material Here` is **uninterpreted evidence**, not an approved design, not a canonical visual master, and not automatically part of the current creative direction.
+When the user asks to reconcile intake material:
 
-When the user asks to review or reconcile intake material:
-
-1. inspect the new material in context;
-2. determine whether it belongs to the present Ensemble/Kymaean lineage, a predecessor project, external reference material, or another category;
-3. recover any available provenance, approximate chronology, concept name, related user reaction, and prior design judgment;
+1. inspect the new material in project context;
+2. determine whether it belongs to Ensemble/Kymaean lineage, a predecessor project, external reference material, or another category;
+3. recover available provenance, chronology, concept identity, user reaction, and prior design judgment;
 4. record the interpretation in `Kymaean Visual Exploration Registry & Critique Ledger`;
-5. classify meaningful material into the proper I0/W0/V0/M0/X0 archive lane, preserving the original binary whenever possible;
-6. move the processed intake item into `01 Reviewed & Classified` or otherwise mark it as reconciled so the unreviewed queue remains actionable;
-7. never silently promote newly discovered historical material into current authority or convergence.
+5. classify historical material into the Historical Inspiration Library, preserving the original binary whenever possible;
+6. classify genuinely new active work into the Clean-Slate Visual Discovery workspace only when the user intends it to be part of the current search;
+7. move processed intake items out of the unreviewed queue or otherwise mark them reconciled;
+8. never silently promote historical material into current convergence or active incumbency.
 
-For surface-blind divergence, do not inspect the intake queue before the first independent artwork unless the user explicitly asks to interpret that material first.
+For an intentionally independent clean-slate experiment, do not inspect new visual intake before its first independent work unless the user explicitly asks to interpret the intake first.
 
-## Mandatory pre-handoff audit
+## O0 Original Concept Foundation rule
 
-Before preparing or finalizing any website/brand artwork handoff, audit the retiring chat for all of the following:
+Recovered original Ensemble artwork and source files are preserved under O0 because they materially explain the project's original visual and experiential thinking.
 
-1. every generated artwork or materially distinct visual variant;
-2. failed generations that provide useful diagnostic evidence about visual attractors, prompt contamination, or execution failure;
-3. concept names and phase/round identifiers;
-4. explicit user reactions, including praise, dislike, concern, favorite status, rejection, and requests to preserve or avoid something;
-5. assistant/design-team judgments, including unusually strong preferences, critiques, comparisons, and reasons;
-6. rankings or conclusions printed inside generated design boards, clearly labeled as **generated-board evaluation** rather than user approval;
-7. convergence or divergence decisions;
-8. durable discoveries worth carrying forward;
-9. surface vocabulary that should be quarantined rather than inherited;
-10. asset lineage and whether the exact binary is actually recoverable.
+O0 is a **major conceptual ancestor**, not a selected style.
 
-Do not summarize only the latest or strongest branch. Preserve contradictory or competing historical judgments when they materially explain why the project changed direction.
+Preserve its transferable discoveries, including persistent character presence, relational attention/social geometry, bounded perspective, distinct identity without merger, causal Archive/history, theatrical/literary typography, and distributed identity across cast/word/stage/perspective/consequence/history.
+
+Do not give O0's exact dark ground, gold/amber, serif treatment, character colors, constellation/particle imagery, island imagery, three-person geometry, borders, icons, or layouts inheritance rights.
 
 ## Required classification
 
-For each meaningful visual branch, the registry should distinguish:
+For every meaningful historical or retired branch, the registry should distinguish:
 
 - **USER SIGNAL** — explicit user preference or reaction;
 - **DESIGN JUDGMENT** — assistant/design-team evaluation made during the work;
-- **GENERATED-BOARD EVALUATION** — conclusions or scores embedded in generated collateral;
-- **STATUS** — selected, benchmark, promising research, failure evidence, superseded surface, rejected manifestation, open, or another precise status;
-- **ASSET STATE** — archived in Drive, catalogued but binary pending recovery, or intentionally absent;
-- **TRANSFERABLE DISCOVERY** — principle or visual physics worth preserving;
+- **GENERATED-BOARD EVALUATION** — conclusions or scores embedded in generated collateral, when relevant;
+- **STATUS** — conceptual ancestor, historical benchmark, promising research, failure evidence, rejected manifestation, superseded surface, open research, selected only if explicitly selected, or another precise state;
+- **ASSET STATE** — archived in Drive, catalogued but binary pending recovery, or intentionally unavailable;
+- **TRANSFERABLE DISCOVERY** — principle, interaction idea, or visual physics worth preserving;
 - **SURFACE QUARANTINE** — appearance that has no inheritance rights.
 
-Never convert praise, assistant preference, recency, repetition, development cost, or a generated board's score into user approval or convergence.
+Never convert praise, assistant preference, recency, repetition, development cost, or a generated board's score into user approval.
+
+After R0, an earlier label such as “incumbent benchmark” must be understood as historical checkpoint language unless the user explicitly re-establishes it as active.
+
+## Mandatory pre-handoff audit
+
+Before preparing or finalizing any website/brand artwork handoff, audit the retiring chat for:
+
+1. every generated artwork or materially distinct visual variant;
+2. failed generations with useful diagnostic evidence;
+3. concept names and phase/round identifiers;
+4. explicit user reactions, including praise, dislike, concern, favorite status, rejection, and preservation requests;
+5. assistant/design-team judgments, including unusually strong preferences and comparative critiques;
+6. generated-board rankings or conclusions, clearly distinguished from user approval;
+7. convergence/divergence decisions;
+8. durable discoveries;
+9. surface vocabulary to quarantine rather than inherit;
+10. asset lineage and exact binary availability.
+
+Do not summarize only the latest or strongest branch. Preserve materially relevant competing or contradictory judgments that explain why direction changed.
+
+## Active-to-historical lifecycle
+
+During active exploration, new work lives under:
+
+`03 Clean-Slate Visual Discovery — Active`
+
+When a branch, phase, or design chat is complete or being handed off:
+
+1. finish the current creative/evaluation work;
+2. audit assets, variants, failures, user signals, and design judgments;
+3. reconcile relevant intake material;
+4. transfer or archive the completed branch into the corresponding historical lane under `02 Historical Inspiration Library — Prior Visual Branches` with clear phase/provenance naming;
+5. preserve diagnostic failures as failures rather than candidates;
+6. update `Kymaean Visual Exploration Registry & Critique Ledger`;
+7. update the Drive continuity constitution/Re-Foundation Charter if project law changed;
+8. update the GitHub active handoff and `CURRENT_STATE.md`;
+9. only then declare the old chat/branch ready to retire.
+
+Historical assets do not silently migrate back into active clean-slate lanes. A deliberate revival is allowed only when explicitly labeled as a revival/re-test.
 
 ## Binary-asset rule
 
-Every available artwork binary must be copied into the correct Drive lane before handoff completion.
+Every available meaningful artwork binary must be preserved in Drive before handoff completion.
 
-Use a descriptive filename that identifies the phase, concept, and status. Diagnostic failures should be visibly named as failures rather than mixed with candidates.
+Use filenames that identify phase, concept, and status. Diagnostic failures should be visibly labeled as failures.
 
-If an older binary cannot be recovered through the available runtime or connectors:
+If an older binary cannot be recovered:
 
-1. preserve the concept and evaluation record in the registry;
-2. mark the asset explicitly as **PENDING RECOVERY**;
-3. retain any available source title/file identifier needed to find it later;
-4. never claim the visual archive is complete until the missing binary is restored or explicitly declared unrecoverable.
+1. preserve the concept and evaluation record;
+2. mark the asset **PENDING RECOVERY**;
+3. retain source title/file identifier or other retrieval clues;
+4. never claim binary completeness until restored or explicitly declared unrecoverable.
 
-## Handoff ordering
+The R0 reset does not erase prior PENDING RECOVERY records.
 
-For artwork-development chats, the normal retirement order is:
+## Fresh-chat continuity and historical access
 
-1. complete the current creative/evaluation work;
-2. audit the full chat for assets and judgments;
-3. reconcile any relevant unreviewed intake material the user has asked to incorporate;
-4. populate/update Google Drive artwork folders;
-5. update `Kymaean Visual Exploration Registry & Critique Ledger`;
-6. update the Drive `Kymaean Visual Continuity Constitution` when project law changed;
-7. update the GitHub active handoff/current checkpoint;
-8. only then declare the old chat ready to retire.
+Conceptual memory and visual independence are different requirements.
 
-A handoff generated before the archive and registry steps are complete is incomplete.
+### Ordinary continuation/refinement or deliberate revival
 
-## Fresh-chat continuity vs surface-blind isolation
+When a task explicitly depends on an existing visual branch, a fresh chat may read the registry and inspect the relevant Historical Inspiration Library assets before continuing.
 
-Conceptual memory and visual isolation are different concerns and must both be preserved.
+### Clean-slate independent exploration
 
-### Ordinary continuation or refinement
+When the active handoff calls for independent R0 discovery:
 
-A fresh chat may read the registry and inspect the relevant archived imagery before continuing because the task explicitly depends on prior visual surfaces.
+1. read `CURRENT_STATE.md`, `DESIGN_CONTINUITY.md`, the active R0 handoff, and current product truth;
+2. read the Drive Re-Foundation Charter and textual critique/branch registry so historical concepts, user favorites, failures, and design judgments are understood;
+3. inherit durable abstract discoveries and project laws;
+4. do **not** open historical artwork binaries, detailed image surfaces, or visual intake before the first independent concept/artwork unless the user explicitly asks;
+5. evaluate the first independent work without resemblance to old imagery as a criterion;
+6. afterward inspect historical images when comparison, inspiration, lineage analysis, or critique will improve the work;
+7. label any deliberate historical revival explicitly.
 
-### Surface-blind divergence
+The purpose is not amnesia. It is to prevent visual memory from becoming automatic reproduction.
 
-When the active handoff calls for a surface-blind/fresh-palette experiment:
+## Rediscovery rule
 
-1. read `CURRENT_STATE.md`, `DESIGN_CONTINUITY.md`, the active handoff, and current product truth first;
-2. inherit the abstract discoveries and explicit project laws contained in those active text sources;
-3. do **not** open archived imagery, intake imagery, or detailed surface descriptions before the first independent artwork unless the user explicitly asks;
-4. after the first independent artwork and its initial evaluation, read `Kymaean Visual Exploration Registry & Critique Ledger` to recover historical concepts, user favorites, prior design-team judgments, and branch status;
-5. only then inspect historical images or reconciled intake material when comparison is useful and the active experiment permits it.
+A new branch may independently rediscover an earlier surface or idea.
 
-This sequencing prevents accidental visual copying while ensuring that the project does not lose its accumulated artistic judgment.
+Similarity is not automatically a failure. The test is whether the choice is newly earned from product truth, artistic judgment, and current evidence rather than inherited through contextual inertia.
 
-## Current historical repair
+Conversely, no amount of previous investment creates preservation rights.
 
-A retrospective audit begun on 2026-09-02 recovered prior website/brand visual branches from project conversation continuity, File Library artifacts, GitHub handoffs, and the active V0.5A chat.
+## Current historical repair state
 
-Current-chat V0.5A binaries were archived to Drive. Several older File Library binaries are catalogued in the registry but remain **PENDING RECOVERY** because their raw bytes are not exposed to the current Drive-upload path.
+The 2026-09-02 retrospective repair recovered prior website/brand visual branches from project conversations, GitHub handoffs, File Library artifacts, Drive assets, and new intake.
 
-The registry is therefore authoritative for recovered concept/evaluation history, but binary completeness must not be overstated.
+Drive-accessible origin material has now been classified into O0, including eight original UI concept images and two original HTML source files. The unreviewed intake queue was emptied after reconciliation.
+
+Several older historical File Library binaries catalogued elsewhere in the critique ledger remain **PENDING RECOVERY**. The registry is authoritative for their recovered conceptual/evaluation history, but binary completeness must not be overstated.
 
 ## Permanent rule
 
-Every future website-artwork handoff repeats this archive audit incrementally. The project should never again depend on a retiring chat as the only place where a visual concept, generated asset, favorite, critique, or rejected direction is remembered.
+Every future artwork-development handoff repeats this archive audit incrementally.
+
+The project should never again depend on a retiring chat as the only place where a visual concept, generated asset, favorite, critique, rejected direction, historical source, or transferable discovery is remembered.
