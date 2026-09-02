@@ -2,7 +2,7 @@
 
 Status: **ACTIVE VISUAL CONTINUATION HANDOFF**
 
-Purpose: give a fresh project chat enough authoritative context to continue Kymaean visual-world exploration without inheriting the current conversation's accidental visual fixation.
+Purpose: give a fresh project chat enough authoritative context to continue Kymaean visual-world exploration without inheriting the current conversation's accidental visual fixation or generic external website-prompt assumptions.
 
 ## Read first
 
@@ -19,6 +19,29 @@ Do not use the old `Rylascoo/Kymaean-Project` as source material for this brand 
 - Future public app/domain identity: **Kymaean**.
 - The underlying product is the current Ensemble project; Kymaean is the intended future public name.
 
+## Working identity thesis
+
+The project now has a principle-level identity strong enough to guide exploration without freezing a surface aesthetic:
+
+> **Human Causality, Living Consequence.**
+>
+> Kymaean should feel like a world that notices people, remembers what they do, and is changed by what follows.
+
+This is **not** a public tagline, selected visual identity, or permission to converge. It does not choose the mark, wordmark, palette, typography, materials, website layout, or animation stack.
+
+Use it as a test:
+
+- person before effect;
+- cause before decoration;
+- evidence before generic symbolism;
+- consequence may change structure;
+- history accumulates rather than resets;
+- distinct identities influence one another without merging;
+- mystery comes from bounded perspective;
+- quiet normally precedes spectacle.
+
+A radically different visual style that obeys these laws remains valid Kymaean exploration.
+
 ## Collaboration law
 
 The user explicitly values broad artistic exploration and does **not** want praise interpreted as a request for refinement.
@@ -29,6 +52,22 @@ The user explicitly values broad artistic exploration and does **not** want prai
 - Reverse audits remain internal discipline unless the user asks what you think, a serious contradiction appears, or a direction becomes strong enough to warrant explicit convergence.
 - Different concepts must be genuinely different artistic interpretations, not variants of one geometry.
 - Negative-space/aperture work is one branch, not the whole identity.
+
+## External-prompt quarantine
+
+A generic external website prompt was briefly inserted into `CURRENT_STATE.md`. It prescribed Apple-comparison language, mandatory hero-first structure, WebGL/GSAP-style animation, and a premium Windows/Snapdragon aesthetic. That prompt has been removed and is **not project authority**.
+
+Fresh chats must not silently adopt generic external briefs, generated strategy templates, competitor-aesthetic targets, or technology prescriptions merely because they sound polished.
+
+In particular:
+
+- do not treat "Apple-tier" as a visual goal;
+- do not assume a hero section is the correct first design problem;
+- do not assume React, Next.js, Tailwind, GSAP, WebGL, or any other stack before a demonstrated need;
+- do not translate "premium Windows/Snapdragon" into dark luxury, gold, portals, monoliths, particles, grids, or generic futuristic spectacle;
+- do not let conversion language outrank product truth, creative identity, accessibility, or performance evidence.
+
+External material may be reviewed later, but only explicitly adopted project decisions can change the active direction.
 
 ## Four parallel identity lanes
 
@@ -131,15 +170,58 @@ Emerging synthesis: **human materiality inside impossible space**.
 
 The triptych reintroduced literal scenery and therefore failed as a clean test, though the concepts remained valid.
 
-The latest single-image Presence experiment was closer. It used a quiet monumental room and one figure, but the key causal idea was still missing: it looked like a person inside an extraordinary place rather than the place becoming extraordinary **because that person was present**.
+The latest valid pre-handoff single-image Presence experiment was closer. It used a quiet monumental room and one figure, but the key causal idea was still missing: it looked like a person inside an extraordinary place rather than the place becoming extraordinary **because that person was present**.
 
 It also retained monumentality, polished stone, gold tracery, and prestige-tech/fantasy associations.
 
-## Exact next task
+### V0.4.1 Generic-prompt / genre-attractor failure
 
-Do **not** make another board, taxonomy, style guide, logo comparison, or integrated website mockup.
+A later generic website prompt contaminated `CURRENT_STATE.md` and strongly biased image generation toward integrated marketing boards. Repeated attempts produced the same attractor even when asked for a single artwork:
+
+- dark charcoal + antique gold;
+- luxury serif typography;
+- portal/aperture/threshold imagery;
+- monumental architecture with a tiny human figure;
+- orbital/celestial diagrams;
+- UI panels, logos, navigation, and design-system collateral;
+- premium fantasy / speculative-technology spectacle.
+
+Those outputs are **invalid as V0.4 Presence results**. They should not be treated as candidates or evidence of convergence.
+
+The useful discovery is methodological: when brand/website context causes the generator to reconstruct rejected collateral, the experiment must be isolated from brand vocabulary rather than overloaded with more negative instructions.
+
+## Exact next task — Presence Isolation Study
+
+Do **not** make another board, taxonomy, style guide, logo comparison, integrated website mockup, hero section, or marketing page.
 
 Generate one full-canvas **Presence** artwork only.
+
+### Isolation protocol
+
+For the generation prompt itself, temporarily omit words such as:
+
+- Kymaean;
+- Ensemble;
+- website;
+- brand;
+- identity;
+- premium;
+- Windows;
+- Snapdragon;
+- AI;
+- Stage;
+- consequence;
+- design system.
+
+Describe only:
+
+1. an ordinary human-scale place;
+2. believable tactile materials;
+3. one person occupying it;
+4. one localized impossible physical response that happens **because that person is there**;
+5. quiet photographic or cinematic observation without branding or explanatory composition.
+
+After generation, evaluate the artwork against the Kymaean thesis and laws. Do not ask the generator to package the thesis into the picture.
 
 ### Creative problem
 
@@ -154,7 +236,7 @@ The causal dependence must be visually legible without explanatory text.
 - quiet and restrained;
 - emotionally charged without spectacle;
 - one impossible spatial/material response localized to the person's presence;
-- the response should feel like a property of Kymaean's world rather than an effect added on top;
+- the response should feel inherent to the world's physical behavior rather than an effect added on top;
 - no requirement to use gold;
 - no UI, logos, labels, or presentation framing.
 
@@ -202,7 +284,7 @@ Avoid React/WebGL/large animation frameworks until a demonstrated visual need ea
 
 ## Current standard
 
-The goal is not to find another impressive image.
+The goal is not to find another impressive image or emulate a premium technology website.
 
 The goal is to discover a world whose visual physics make these statements true without illustrating them literally:
 
