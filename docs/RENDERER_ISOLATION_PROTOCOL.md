@@ -8,12 +8,24 @@ Purpose: separate persistent project intelligence from image-rendering context s
 
 > **The director remembers everything. The canvas remembers nothing.**
 
-Kymaean visual development now uses two deliberately different contexts:
+Kymaean visual development uses two deliberately different contexts:
 
 1. **Director Context** — persistent, project-only, historically informed.
-2. **Renderer Context** — disposable, non-personalized, history-blind.
+2. **Renderer Context** — short-lived, outside the Ensemble project, intentionally history-blind.
 
 The Director Context owns product truth, visual lineage, user reactions, critique history, Drive continuity, evaluation, and experiment design. The Renderer Context receives only a bounded concrete scene description and generates artwork without knowing it is part of Kymaean, Ensemble, a website, an app, AI software, or a visual-identity exercise.
+
+## Current ChatGPT capability correction
+
+A non-personalized Temporary Chat is **not the default renderer** because image generation may be unavailable in Temporary Chat in the user's current ChatGPT configuration. Do not require Temporary Chat merely for sterility.
+
+The default Renderer Context is therefore a **new regular chat outside the Ensemble project**.
+
+The Ensemble project should use **Project-only memory** when available. Under current ChatGPT project-memory behavior, project information remains available inside the project while project information is removed from memory used outside the project. This makes an ordinary non-project chat the practical rendering boundary while retaining image-generation capability.
+
+For stronger isolation when needed, the user may temporarily disable account-level Memory and Custom Instructions before opening the renderer chat, generate the bounded experiment, and then restore those account settings afterward. Do not delete saved memories merely to run an experiment; the goal is to prevent their use during rendering, not destroy them.
+
+Product settings and tool availability can change. Preserve the architectural intent rather than a particular UI label: **persistent informed Director; short-lived history-blind renderer with image generation available.**
 
 ## Why this protocol exists
 
@@ -46,21 +58,36 @@ Its job is to formulate the human situation, causal structure, experiment bounda
 
 ## Renderer Context
 
-For normal R0 clean-slate visual generation, the renderer should be a **non-personalized Temporary Chat outside the Ensemble project**.
+For normal R0 clean-slate visual generation, use a **new regular chat outside the Ensemble project**.
 
 The Renderer Context should:
 
 - have no project files;
-- have no historical Kymaean artwork;
-- have no project-chat continuity;
-- have no Kymaean/Ensemble design documents;
+- receive no Kymaean/Ensemble design documents;
+- receive no historical Kymaean artwork;
+- receive no project-chat continuity in its prompt;
 - receive no visual-history blacklist;
-- receive no previous prompt unless the current experiment intentionally depends on it;
+- receive no previous renderer prompt unless the current experiment intentionally depends on it;
 - have the shortest practical lifetime, normally one concept or a very small bounded attempt set.
 
 For an orthogonal visual experiment, start a new Renderer Context rather than allowing the previous renderer chat to accumulate its own visual attractor.
 
 **Creative intelligence persists. Rendering context expires.**
+
+## Optional stronger-isolation settings
+
+When an ordinary outside-project chat still shows evidence of unwanted personalization or historical influence:
+
+1. keep the Ensemble project itself on Project-only memory;
+2. temporarily disable account-level Memory before creating the renderer chat;
+3. temporarily disable Custom Instructions before creating the renderer chat;
+4. create the renderer as a new regular non-project chat;
+5. paste only the Sterile Render Packet;
+6. generate the artwork;
+7. return the artwork to the Director Context;
+8. restore the user's normal Memory and Custom Instructions settings.
+
+Do not make this stronger-isolation sequence mandatory unless evidence shows it is needed. Project-only memory plus a new ordinary non-project chat is the default first test.
 
 ## Sterile Render Packet law
 
@@ -169,25 +196,13 @@ At handoff/retirement, the existing visual archive protocol still governs Drive 
 When diagnosis requires evidence, the project may deliberately run the same bounded scene under two conditions:
 
 - **A — In-project render** with project context available;
-- **B — Sterile render** in a non-personalized Temporary Chat using only the Render Packet.
+- **B — Isolated render** in a new regular non-project chat using only the Sterile Render Packet.
 
 Compare the outputs for recurrence of historical visual vocabulary, branding/collateral contamination, causal specificity, human importance, and novelty.
 
+If necessary, repeat B with Memory and Custom Instructions temporarily disabled to distinguish project-context contamination from account-level personalization.
+
 This is an explicit experiment, not the normal production workflow.
-
-## ChatGPT configuration guidance
-
-For the intended separation:
-
-- keep the Ensemble project as the persistent Director Context;
-- use **Project-only memory** for the Ensemble project when available;
-- retain normal account memory settings needed for project memory rather than disabling all memory globally;
-- use a **non-personalized Temporary Chat outside the project** for rendering;
-- do not enable personalization for the renderer;
-- do not create a persistent rendering project whose chats can accumulate visual history;
-- normally preserve results and prompts in canonical project records rather than preserving the disposable renderer conversation itself.
-
-Product settings may evolve. If ChatGPT changes the exact setting names or behavior, preserve the architectural intent: persistent informed Director, disposable history-blind renderer.
 
 ## Relationship to R0
 
@@ -207,4 +222,4 @@ No historical surface becomes forbidden. No historical surface receives inherita
 
 For clean-slate visual-world generation, **do not render inside the persistent Ensemble project by default**.
 
-The Director designs the experiment. The sterile renderer makes the image. The Director interprets the result.
+The Director designs the experiment. The isolated renderer makes the image. The Director interprets the result.
