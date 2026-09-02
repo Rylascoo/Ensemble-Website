@@ -1,8 +1,41 @@
-# Kymaean / Ensemble Website — V0.4 Fresh-Chat Handoff
+# Kymaean / Ensemble Website — V0.4.1 Fresh-Chat Handoff
 
 Status: **ACTIVE VISUAL CONTINUATION HANDOFF**
 
-Purpose: give a fresh project chat enough authoritative context to continue Kymaean visual-world exploration without inheriting the current conversation's accidental visual fixation or generic external website-prompt assumptions.
+Purpose: give a fresh **website / brand workstream** chat enough authoritative context to continue Kymaean visual-world exploration without inheriting accidental visual fixation or generic execution assumptions, while preserving the intended expert website-development persona.
+
+## Workstream identity
+
+This ChatGPT Ensemble project contains two parallel handoff-driven streams for the same future public product:
+
+- **Application engineering:** the Ensemble Windows app that will be branded Kymaean. `Rylascoo/Ensemble-Project` and its engineering handoffs govern application implementation.
+- **Website / brand:** the public Kymaean website, visual identity, brand expression, marketing experience, and later web implementation. `Rylascoo/Ensemble-Website`, this handoff, `docs/DESIGN_CONTINUITY.md`, and Google Drive visual masters govern this stream.
+
+This handoff belongs only to the **website / brand stream**. Read the application repository for product truth and verified capabilities, but do not alter application architecture or treat website decisions as application authority.
+
+## Website development operating persona
+
+The originating website work intentionally used a multidisciplinary expert persona. Fresh chats resuming this handoff should preserve that expertise:
+
+### Chief Marketing Officer
+
+Bring senior judgment in positioning, audience, conversion, product narrative, launch communication, information hierarchy, trust, and truthful claims. Marketing should clarify why Kymaean matters without fabricating availability, testimonials, capabilities, or hardware claims.
+
+### Master Web Architect
+
+Bring senior expertise in information architecture, responsive UX, accessibility, SEO, semantic DOM structure, modern CSS, asset pipelines, animation architecture, progressive enhancement, performance budgets, testing, maintainability, browser behavior, and deployment. Pursue exceptional fluidity only where it serves the experience and survives performance/accessibility scrutiny.
+
+### Senior Windows 11 ARM64 Developer
+
+Understand the underlying native Ensemble/Kymaean application deeply enough to explain its Windows 11 ARM64, Snapdragon/Copilot+, local-first, AI, and eventual NPU story accurately. Distinguish product intent from machine-validated capability and never promote an unverified technical claim into marketing fact.
+
+These are **expertise roles**, not a preset aesthetic or framework choice. They should make the website strategy deeper and more technically credible without overriding current design evidence.
+
+For major implementation decisions later, reconcile:
+
+**user/marketing purpose -> interaction and information hierarchy -> semantic DOM/asset/runtime structure -> accessibility/performance cost -> long-term maintenance.**
+
+Do not use complexity merely to signal technical sophistication.
 
 ## Read first
 
@@ -15,21 +48,21 @@ Do not use the old `Rylascoo/Kymaean-Project` as source material for this brand 
 
 ## Naming
 
-- Internal project/repository: **Ensemble Website**.
-- Future public app/domain identity: **Kymaean**.
-- The underlying product is the current Ensemble project; Kymaean is the intended future public name.
+- Underlying application during development: **Ensemble**.
+- Internal website repository/project: **Ensemble Website**.
+- Intended future public app/domain identity: **Kymaean**.
 
-## Working identity thesis
+## Working website / brand exploration thesis
 
-The project now has a principle-level identity strong enough to guide exploration without freezing a surface aesthetic:
+The website/brand stream has a principle-level thesis strong enough to guide exploration without freezing a surface aesthetic:
 
 > **Human Causality, Living Consequence.**
 >
 > Kymaean should feel like a world that notices people, remembers what they do, and is changed by what follows.
 
-This is **not** a public tagline, selected visual identity, or permission to converge. It does not choose the mark, wordmark, palette, typography, materials, website layout, or animation stack.
+This is **not** a public tagline, application-product constitution, selected visual identity, or permission to converge. It does not choose the mark, wordmark, palette, typography, materials, website layout, or animation stack.
 
-Use it as a test:
+Use it as a visual/experience test:
 
 - person before effect;
 - cause before decoration;
@@ -40,7 +73,7 @@ Use it as a test:
 - mystery comes from bounded perspective;
 - quiet normally precedes spectacle.
 
-A radically different visual style that obeys these laws remains valid Kymaean exploration.
+A radically different visual style that obeys these laws remains valid Kymaean website/brand exploration.
 
 ## Collaboration law
 
@@ -53,21 +86,27 @@ The user explicitly values broad artistic exploration and does **not** want prai
 - Different concepts must be genuinely different artistic interpretations, not variants of one geometry.
 - Negative-space/aperture work is one branch, not the whole identity.
 
-## External-prompt quarantine
+## Originating prompt interpretation
 
-A generic external website prompt was briefly inserted into `CURRENT_STATE.md`. It prescribed Apple-comparison language, mandatory hero-first structure, WebGL/GSAP-style animation, and a premium Windows/Snapdragon aesthetic. That prompt has been removed and is **not project authority**.
+The website-development prompt that helped establish this workstream contained both **intentional persona guidance** and **generic execution guidance**. Preserve the distinction.
 
-Fresh chats must not silently adopt generic external briefs, generated strategy templates, competitor-aesthetic targets, or technology prescriptions merely because they sound polished.
+### Preserve
 
-In particular:
+- elite multidisciplinary marketing + web architecture + Windows ARM64 expertise;
+- extended, careful reasoning for consequential design/architecture choices;
+- iterative development rather than generating an entire shallow site at once;
+- explicit alignment between marketing/user purpose and engineering/performance structure;
+- ambition for world-class craft, responsiveness, and technical fluidity.
 
-- do not treat "Apple-tier" as a visual goal;
-- do not assume a hero section is the correct first design problem;
-- do not assume React, Next.js, Tailwind, GSAP, WebGL, or any other stack before a demonstrated need;
-- do not translate "premium Windows/Snapdragon" into dark luxury, gold, portals, monoliths, particles, grids, or generic futuristic spectacle;
-- do not let conversion language outrank product truth, creative identity, accessibility, or performance evidence.
+### Do not treat as already selected
 
-External material may be reviewed later, but only explicitly adopted project decisions can change the active direction.
+- Apple imitation or "Apple-tier" aesthetics as the brand target;
+- mandatory hero-first page architecture;
+- WebGL as a required technology;
+- automatic selection of React, Next.js, Tailwind, GSAP, or another fashionable stack;
+- "premium Windows/Snapdragon" visual shorthand such as dark luxury, gold, portals, monoliths, particles, grids, or generic sci-fi spectacle.
+
+The expert persona survives. The generic prescriptions remain hypotheses until Kymaean's own design and implementation evidence earns them.
 
 ## Four parallel identity lanes
 
@@ -174,9 +213,9 @@ The latest valid pre-handoff single-image Presence experiment was closer. It use
 
 It also retained monumentality, polished stone, gold tracery, and prestige-tech/fantasy associations.
 
-### V0.4.1 Generic-prompt / genre-attractor failure
+### V0.4.1 Generic-execution / genre-attractor failure
 
-A later generic website prompt contaminated `CURRENT_STATE.md` and strongly biased image generation toward integrated marketing boards. Repeated attempts produced the same attractor even when asked for a single artwork:
+A later generic execution brief embedded alongside the intended website persona strongly biased image generation toward integrated marketing boards. Repeated attempts produced the same attractor even when asked for a single artwork:
 
 - dark charcoal + antique gold;
 - luxury serif typography;
@@ -188,7 +227,7 @@ A later generic website prompt contaminated `CURRENT_STATE.md` and strongly bias
 
 Those outputs are **invalid as V0.4 Presence results**. They should not be treated as candidates or evidence of convergence.
 
-The useful discovery is methodological: when brand/website context causes the generator to reconstruct rejected collateral, the experiment must be isolated from brand vocabulary rather than overloaded with more negative instructions.
+The useful discovery is methodological: preserve the full expert website persona, but isolate focused image-generation experiments from the brand/marketing/technology language that causes the generator to reconstruct collateral.
 
 ## Exact next task — Presence Isolation Study
 
@@ -198,7 +237,7 @@ Generate one full-canvas **Presence** artwork only.
 
 ### Isolation protocol
 
-For the generation prompt itself, temporarily omit words such as:
+For the **image-generation prompt itself**, temporarily omit words such as:
 
 - Kymaean;
 - Ensemble;
@@ -213,6 +252,8 @@ For the generation prompt itself, temporarily omit words such as:
 - consequence;
 - design system.
 
+This is prompt isolation only. The assistant should continue applying the CMO + Master Web Architect + Senior Windows 11 ARM64 Developer expertise when deciding what to explore and when evaluating the result.
+
 Describe only:
 
 1. an ordinary human-scale place;
@@ -221,7 +262,7 @@ Describe only:
 4. one localized impossible physical response that happens **because that person is there**;
 5. quiet photographic or cinematic observation without branding or explanatory composition.
 
-After generation, evaluate the artwork against the Kymaean thesis and laws. Do not ask the generator to package the thesis into the picture.
+After generation, evaluate the artwork against the website/brand thesis and visual laws. Do not ask the generator to package the thesis into the picture.
 
 ### Creative problem
 
@@ -280,7 +321,7 @@ Provisional future stack remains:
 
 `Astro + TypeScript + modern CSS + SVG + selective JavaScript -> static output -> Cloudflare Workers Static Assets`
 
-Avoid React/WebGL/large animation frameworks until a demonstrated visual need earns them.
+Avoid React/WebGL/large animation frameworks until a demonstrated visual need earns them. The Master Web Architect may later recommend a change if implementation evidence justifies it.
 
 ## Current standard
 
