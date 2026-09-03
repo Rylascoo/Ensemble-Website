@@ -22,26 +22,32 @@ Canonical final R0 synthesis:
 
 The Director approved transition into integrated app + website design synthesis.
 
-Blueprint 01 has now been prepared:
+Blueprint 01 has been prepared:
 
 `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md`
 
-A subsequent continuity recovery found that the first follow-on experience-model sequence narrowed the product too quickly into competing entry-perspective choices.
-
-Current active design-review artifact:
+A continuity recovery subsequently corrected an over-narrowed experience-model sequence. The recovered ontology is now Director-accepted as the downstream design basis:
 
 `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
 
+Current active Director-review artifact:
+
+`docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`
+
 Status:
 
-> **RECOVERED CONTINUITY SYNTHESIS — DIRECTOR REVIEW / NO PRODUCTION IMPLEMENTATION AUTHORIZED**
+> **APP INFORMATION-RELATIONSHIP ARCHITECTURE — DIRECTOR PROPOSAL FOR REVIEW / NO PRODUCTION IMPLEMENTATION AUTHORIZED**
 
-The two narrowed follow-on proposals are preserved as process history but are no longer active decision gates:
+The proposal recommends:
+
+> **One persistent Production context, with possibility, present performance, and causal history as connected focusable information orientations; creator posture and Presentation Perspective intersect them orthogonally rather than becoming separate products or navigation silos.**
+
+The two narrowed follow-on proposals remain preserved as process history but are not active decision gates:
 
 - `docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md`
 - `docs/KYMAEAN_ENTRY_EXPERIENCE_DECISION_PROPOSAL_01.md`
 
-No final logo, symbol, wordmark, typography, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, interaction system, app UI system, final information architecture, or production design is selected.
+No final logo, symbol, wordmark, typography, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, interaction system, app UI system, final navigation grammar, final information architecture, or production design is selected.
 
 No production XAML, C#, Astro, CSS, JavaScript, or equivalent substantial implementation is authorized from the current design state.
 
@@ -53,7 +59,7 @@ Anti-churn discipline remains:
 
 ## Recovered experience foundation
 
-Current design synthesis must preserve the richer frozen/recovered product structure rather than choosing one simplified experience identity.
+Current design synthesis preserves the richer frozen/recovered product structure rather than choosing one simplified experience identity.
 
 ### Authoritative creative cycle
 
@@ -102,19 +108,51 @@ Creator-facing labels and dramatic concepts are not automatically permanent engi
 
 ---
 
+## Active information-relationship architecture
+
+The current proposal treats the Production as persistent scope rather than forcing the creator through three rigid modes.
+
+Descriptive information orientations are:
+
+- current possibility — conditions, people, relationships, knowledge, pressures and options relevant now;
+- present performance — what is happening now and whose agency is salient;
+- causal history — what became authoritative, what changed, and what remains unresolved.
+
+Their relationship is recursive:
+
+```text
+POSSIBILITY
+    -> PRESENT PERFORMANCE
+    -> CAUSAL HISTORY
+    -> changed future possibility
+```
+
+Persistent continuity anchors proposed for later validation include:
+
+- Production identity;
+- active Scene context;
+- persistent Character/roster identity;
+- active Presentation Perspective when disclosure is constrained;
+- authority/effect status such as current, proposed/non-effective, accepted historical, or unresolved;
+- blocking capability state when a requested function is unavailable.
+
+History inspection must not silently move authoritative current state backward. A provisional Performance must not visually collapse into accepted/effective history. Accepted historical texture must not be mistaken for a permanent durable state field merely because it happened.
+
+The exact visual shell, navigation control, labels and component geometry remain open.
+
+---
+
 ## Current smallest unresolved design question
 
-The active recovery synthesis identifies the next high-leverage question as:
+The active proposal's Director gate asks whether to adopt the principle:
 
-> **How should the app make the transition between possibility, present performance, and causal history comprehensible without turning them into rigid modes or exposing engineering ontology?**
+> **One persistent Production context, with possibility, present performance, and causal history as connected focusable information orientations; creator posture and Presentation Perspective intersect them orthogonally rather than becoming separate products or navigation silos.**
 
-This is an information/interaction architecture question, not yet a visual-style question.
+If the Director approves this architecture basis, the next smallest unresolved design question is:
 
-If the Director approves the recovered ontology basis, the next justified artifact is proposed as:
+> **What minimal shell/navigation grammar can express this relationship clearly on Windows without prematurely fixing final labels or component aesthetics?**
 
-`docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`
-
-Do not create it automatically. Current gate is Director review of the recovered ontology synthesis.
+Do not create that next structural exploration automatically. Current gate is Director review of `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`.
 
 ---
 
@@ -122,7 +160,7 @@ Do not create it automatically. Current gate is Director review of the recovered
 
 `docs/DESIGN_CONTINUITY.md` remains active substantive project law.
 
-Historical R0-era status wording in that document is superseded for live phase/checkpoint status by this file and the active recovery artifact.
+Historical R0-era status wording in that document is superseded for live phase/checkpoint status by this file and the active design-synthesis artifacts.
 
 Its authority boundaries, Renderer Isolation law, prompt-seed discipline, asset-continuity rules, creative-collaboration law, phase-authority safeguards, source-of-truth rules, and surface-inheritance safeguards remain active unless stronger current authority explicitly supersedes them.
 
@@ -306,10 +344,10 @@ For a new Kymaean app + website design Director chat:
 
 1. read this file first;
 2. resolve current `Rylascoo/Ensemble-Website` `main` commit;
-3. read `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`;
-4. read `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` for the integrated baseline and its recovery note;
-5. read `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md` and `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md` only as needed for transition/R0 evidence;
-6. read `docs/DESIGN_CONTINUITY.md`, treating this file and the active recovery artifact as live phase authority where historical status wording differs;
+3. read `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`;
+4. read `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md` as the accepted recovery basis;
+5. read `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` for the integrated baseline;
+6. read `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`, `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`, and `docs/DESIGN_CONTINUITY.md` only as needed for transition/R0/continuity evidence, treating this file and active artifacts as live phase authority where historical wording differs;
 7. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and resolve that repository's current `main` commit;
 8. read `docs/blueprint/CREATOR_ONTOLOGY_EXTENSIBILITY_GUARD.md` from the application repository when app IA or creator-facing ontology is in scope;
 9. read only additional application roadmap/blueprint/source/evidence files actually needed for the current question;
@@ -318,7 +356,8 @@ For a new Kymaean app + website design Director chat:
 12. do not create TEO-03, PAC-01F, or another calibration branch;
 13. do not inherit an R0 renderer surface or O0 surface as the aesthetic;
 14. do not revive the superseded Creator-first/Witness-first/Understanding-first/Cycle-first selection gate;
-15. stop at the current Director-review gate before generating the proposed next IA artifact or substantial production implementation.
+15. do not turn Watch/Direct/Perform/Write into navigation silos or Presentation Perspective into a cosmetic theme without new evidence and explicit approval;
+16. stop at the current Director-review gate before generating the proposed next shell/navigation exploration or substantial production implementation.
 
 ---
 
@@ -340,6 +379,6 @@ Preserve:
 
 Current gate:
 
-> **Director review of `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`.**
+> **Director review of `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`.**
 
-No next design phase, visual experiment, or implementation is automatically authorized.
+No next structural exploration, visual experiment, or implementation is automatically authorized.
