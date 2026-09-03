@@ -5,8 +5,8 @@ Updated: 2026-09-03
 ## Identity and authority
 
 - The underlying application is **Ensemble**, intended to be publicly branded **Kymaean**.
-- `Rylascoo/Ensemble-Website` is authoritative for website engineering and website/brand continuity.
-- `Rylascoo/Ensemble-Project` is authoritative for exact application-engineering truth and validation boundaries and is read-only for website work unless explicitly instructed otherwise.
+- `Rylascoo/Ensemble-Website` is authoritative for website engineering, website/brand continuity, and the current cross-product app + website design-synthesis proposal work.
+- `Rylascoo/Ensemble-Project` is authoritative for exact application-engineering truth, source, tests, architecture status, and validation boundaries; design work may read it but must not silently mutate or supersede its authority.
 - Google Drive `Ensemble Project` is the canonical visual/design workspace and master-asset authority.
 - The old `Rylascoo/Kymaean-Project` is a separate application and must not influence this Ensemble/Kymaean identity unless explicitly requested.
 
@@ -18,25 +18,37 @@ Canonical final synthesis:
 
 `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`
 
+The Director has approved the transition requested by that synthesis.
+
+Active work is now:
+
+> **KYMAEAN APP + WEBSITE DESIGN SYNTHESIS — BLUEPRINT 01 PREPARATION**
+
+Canonical fresh-chat transition handoff:
+
+`docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`
+
 Status:
 
-> **DESIGN-SYNTHESIS TRANSITION RECOMMENDED / AWAITING EXPLICIT DIRECTOR APPROVAL**
+> **DIRECTOR APPROVED FOR DESIGN-SYNTHESIS BLUEPRINT WORK / NO PRODUCTION CODE AUTHORIZED**
 
 No further calibration render is justified by current evidence.
 
-No final logo, symbol, wordmark, typography, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, interaction system, app UI system or production design is selected yet.
+No final logo, symbol, wordmark, typography, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, interaction system, app UI system, information architecture, or production design is selected yet.
 
-Renderer Isolation remains a historical/operational research law:
-
-> **The director remembers everything. The canvas remembers nothing.**
-
-Renderer Cartography remains a transferable methodology law:
-
-> **For cross-surface research, the Director controls semantic law and the variable under test. The Renderer invents only the remaining unconstrained local manifestation.**
+The immediate deliverable is one integrated app + website design-synthesis blueprint, proposed and recursively audited before substantial XAML/C#/Astro/CSS implementation.
 
 Anti-churn discipline:
 
 > **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
+
+## Authority note about `DESIGN_CONTINUITY.md`
+
+`docs/DESIGN_CONTINUITY.md` remains active substantive project law.
+
+Some of its historical R0-era passages describe R0/cross-surface robustness as the then-current gate. For **live phase/checkpoint status**, this file and `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md` now supersede those historical status lines.
+
+Its authority boundaries, Renderer Isolation law, prompt-seed discipline, asset-continuity rules, creative-collaboration law, phase-authority safeguards, and source-of-truth rules remain active unless stronger current authority explicitly supersedes them.
 
 ## Authoritative completed evidence
 
@@ -51,6 +63,7 @@ Read only as needed:
 - `docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`
 - `docs/R0_TEMPORAL_OBSERVABILITY_TEO_02_RESULT.md`
 - `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`
+- `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`
 
 ## Critical lineage safeguards
 
@@ -183,26 +196,54 @@ Current non-aesthetic system hypothesis:
 
 ## Active checkpoint
 
-> **Kymaean App + Website Design Synthesis — Director Transition Gate**
+> **Kymaean App + Website Design Synthesis — Blueprint 01 Preparation**
 
-The final R0 synthesis recommends transition because the remaining questions are now design questions rather than renderer-calibration questions.
+The transition from R0 calibration to design-synthesis blueprint work is Director-approved.
 
-The next justified action, **after explicit Director approval**, is to prepare one integrated app + website design-synthesis blueprint grounded in:
+Exact next action:
 
-1. actual product truth from `Rylascoo/Ensemble-Project`;
-2. validated R0 visual laws;
-3. Windows 11 / WinUI 3 / ARM64-native constraints for the app;
-4. website brand/product communication needs;
-5. privacy-first, low-idle-impact, deterministic product principles;
-6. no inherited R0 renderer surface unless independently re-earned through design use.
+> **Prepare `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` as one integrated Director proposal grounded in actual product truth and validated R0 laws.**
 
-Do not generate production code before that blueprint is recursively audited and approved.
+The blueprint must cover product-truth mapping, user/task model, app information/flow architecture, website information architecture/product narrative, cross-product visual-system exploration plan, temporal/motion semantics, accessibility, Windows-native feasibility, ARM64/battery suitability, website performance, privacy/trust, validation strategy, and explicit decision gates.
+
+Before presentation, recursively audit:
+
+> **product truth -> authority -> scope -> user model -> information architecture -> visual-law continuity -> accessibility -> Windows-native feasibility -> ARM64/battery suitability -> website performance -> privacy/trust -> implementation simplicity -> distinctiveness -> surface-inheritance check -> evidence quality -> contradictions -> open decisions**
+
+Restart after every material correction until one full pass finds no material correction or worthwhile improvement.
+
+Do not generate production XAML/C#/Astro/CSS before Blueprint 01 is explicitly approved.
 
 ## Product-validation boundary
 
 `Rylascoo/Ensemble-Project/CURRENT_STATE.md` remains authority for exact application implementation and validation.
 
+At the transition checkpoint, application engineering states:
+
+- E0-A Harness Implementation / H1 Deterministic Spine is active;
+- Patch 0011 Take Semantics is the latest machine-validated executable checkpoint;
+- Patch 0012 Atomic Causal Commit architecture is approved/canonical but implementation has not started;
+- final creator-facing Production/Studio ontology, evolved Character Context disclosure model, and final Take/branch/rehearsal UX are not frozen by current deterministic patches;
+- no current authority establishes final WinUI behavior, Windows AI/NPU execution, packaging/WACK, or Store certification.
+
+Design proposals must distinguish implemented/validated behavior, approved-but-unimplemented architecture, open ontology/UX, and new design proposal.
+
 Website/brand work must not create unsupported claims about WinUI completion, Windows AI/NPU execution, ARM64 performance, packaging, WACK, Partner Center certification or Store readiness.
+
+## App design feasibility boundary
+
+The design synthesis must remain compatible with the established target:
+
+- Windows 11 Copilot+ PCs;
+- native ARM64 operation;
+- WinUI 3 / Windows App SDK 2.x;
+- C# / .NET 9;
+- privacy-first/local-first behavior;
+- low idle CPU/GPU/NPU/battery impact;
+- capability gating and deterministic/fail-closed degradation where required;
+- keyboard, pointer, touch, screen reader, high contrast, scaling and reduced-motion accessibility.
+
+Avoid design assumptions that require permanent GPU animation, constant background inference, idle polling, or embedded-web-app behavior without a demonstrated product reason.
 
 ## Website implementation state
 
@@ -211,18 +252,48 @@ Website/brand work must not create unsupported claims about WinUI completion, Wi
 - No production website implementation has been initialized.
 - Provisional implementation architecture remains Astro + TypeScript + modern CSS + SVG + selective JavaScript, static generation, Cloudflare Workers Static Assets, and no large JS/3D framework unless a demonstrated design need earns it.
 
+Website design must preserve semantic structure, accessibility, reduced motion, responsive behavior, performance, progressive enhancement, maintainability, SEO/discoverability, and truthful claims.
+
+## Renderer/image-generation status
+
+R0 calibration rendering is closed.
+
+Renderer Isolation remains available as a controlled method when a future design question genuinely needs clean-slate image generation:
+
+> **The director remembers everything. The canvas remembers nothing.**
+
+But image generation is now subordinate to design synthesis. Do not reopen open-ended Renderer Cartography.
+
 ## Fresh-chat bootstrap
 
-For a new Kymaean website/brand/design Director chat:
+For a new Kymaean app + website design Director chat:
 
 1. read this file first;
-2. read `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`;
-3. read `docs/DESIGN_CONTINUITY.md`;
-4. read `docs/RENDERER_ISOLATION_PROTOCOL.md` and `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md` only as needed for research provenance;
-5. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` for product truth and validation boundaries;
-6. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md` for transition context;
-7. consult older R0 synthesis/result files only when exact evidence is needed;
-8. never use the misattributed three-person image as RST-05B evidence;
-9. do not resume calibration rendering unless a genuinely new design question later requires a controlled experiment;
-10. do not begin production code before the integrated design-synthesis blueprint is approved;
-11. do not treat transition recommendation as automatic R1 promotion without explicit Director approval.
+2. resolve the current `Rylascoo/Ensemble-Website` `main` commit;
+3. read `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`;
+4. read `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`;
+5. read `docs/DESIGN_CONTINUITY.md`, treating this file/new handoff as live phase authority where its historical R0 status wording differs;
+6. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and resolve its current `main` commit;
+7. read only the additional application roadmap/blueprint/source files needed to ground Blueprint 01;
+8. consult older R0 result files and Drive assets only when exact evidence/provenance is needed;
+9. never use the misattributed three-person image as RST-05B evidence;
+10. do not create TEO-03, PAC-01F, or another calibration branch;
+11. do not inherit an R0 renderer surface as the aesthetic;
+12. prepare and recursively audit Blueprint 01;
+13. stop at the Blueprint 01 Director-review gate before substantial production implementation.
+
+## Phase authority
+
+Preserve:
+
+> **Research discovery != phase transition.**
+>
+> **Assistant/design-team preference != user approval.**
+>
+> **Recent strength != incumbent.**
+>
+> **Metaphor != identity.**
+>
+> **Surface != law.**
+
+The transition to Blueprint 01 preparation has Director approval. Specific design selections and production implementation do not.
