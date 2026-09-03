@@ -6,7 +6,7 @@ Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography at the **Persistent Affordance Carrier Design 01** Director gate.
+Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography at the **Persistent Affordance Carrier Design 02** Director gate.
 
 Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production surface.
 
@@ -19,15 +19,16 @@ Do not promote a new visual phase. Do not select a logo, wordmark, palette, mate
 5. `docs/VISUAL_ARCHIVE_PROTOCOL.md`
 6. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
 7. `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
-8. `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_01.md`
-9. this handoff
-10. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-11. Drive `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
-12. relevant standalone assets in Drive `R0 Renderer Cartography — Active Research`
+8. `docs/R0_RENDERER_CARTOGRAPHY_PAC_01A_RESULT.md`
+9. `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`
+10. this handoff
+11. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
+12. Drive `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
+13. PAC-01A asset/evaluation and current Drive design mirror
 
 GitHub and Drive are durable project state. Do not ask the user to reconstruct completed research from chat history when these sources resolve it.
 
-## Governing R0 laws
+## Governing laws
 
 > **The director remembers everything. The canvas remembers nothing.**
 
@@ -35,122 +36,109 @@ GitHub and Drive are durable project state. Do not ask the user to reconstruct c
 
 > **Renderer Isolation controls known project-context leakage. Renderer Cartography controls experimental variables.**
 
-Do not return to open-ended `invent the visual language` prompting.
-
-## Completed evidence
-
-Controlled Formal Matrix 01 is complete and proved that explicit formal grammar can suppress environment-first architectural/cinematic attractors while keeping people primary and individually attributable.
-
-The subsequent generated SOV/RST sequence is complete through `RST-05B` and is synthesized in:
-
-`docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
-
-The Drive dataset contains the detailed experiment rows.
-
-## Critical lineage correction
+## Corrected lineage safeguard
 
 The correct RST-05B is the five-person image:
 
 `RST-05B — Persistent Human-Created Condition — CORRECT.png`
 
-Drive ID:
+Drive ID: `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`
 
-`1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`
-
-The three-person seated image archived as:
+The three-person seated image:
 
 `MISATTRIBUTED — NOT RST-05B — three-person seated image.png`
 
-Drive ID:
+Drive ID: `1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`
 
-`1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`
+is non-evidence for RST-05B. Never reuse conclusions derived from it as experiment evidence.
 
-is **NON-EVIDENCE** for RST-05B. Never carry conclusions from that image into RST-05B reasoning.
+## Completed PAC-01A
 
-## Durable SOV/RST findings
+Canonical result:
 
-The current evidence supports:
+`docs/R0_RENDERER_CARTOGRAPHY_PAC_01A_RESULT.md`
 
-- people can remain the complete structural field;
-- individual attribution can survive formal simplification;
-- relational geometry can carry action, continuity and asymmetry;
-- direct physical causality tends toward control/help/conflict semantics;
-- protecting independent agency weakens visible causal linkage;
-- persistent relational traces can imply prior condition/history;
-- asymmetric evidentiary position is measurable, private knowledge is not;
-- human-history language without constructive structure tends toward aftermath/melancholy;
-- independent agency is not the same as enabled agency;
-- abstract persistent-condition prompts with no visible carrier collapse into generic social grouping.
+Returned asset:
 
-The principal correction is:
+`PAC-01A — Ordinary Shared Arrangement Distributed Use.png`
 
-> **A persistent system property needs a visible carrier if the image is expected to make history + persistence + changed capability recoverable.**
+Drive ID: `1ol4PJz8DIVWyXV-3lvlfkvfU1s4FJd4m`
 
-No individual surface has inheritance rights.
+PAC-01A gate outcome:
 
-## Active design checkpoint
+- carrier visibility — PASS;
+- human-shaped history — PARTIAL;
+- plural affordance — STRONG PASS;
+- independent agency — PASS;
+- human primacy — PASS/PARTIAL;
+- metaphor suppression — PASS.
 
-Canonical file:
+Principal result:
 
-`docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_01.md`
+> **A mundane visible carrier can restore persistent plural affordance that human-only abstraction failed to make recoverable.**
 
-Research target:
+Remaining limitation:
 
-> **Can one modest persistent human-made arrangement make prior human agency and expanded present capability visually observable while remaining subordinate to distinct people?**
+> **Usability is visible, but prior human configuration is not.**
 
-The carrier is a controlled measurement variable, not identity language or metaphor.
+Additional distinction:
 
-### PAC-01A — Ordinary Shared Arrangement / Distributed Use
+> **Supported action is not necessarily carrier-dependent action.**
 
-The proposed packet permits one modest human-made arrangement that:
+Do not inherit PAC-01A's worn stone, ledges, steps, painterly treatment, public-space mood, objects, palette, clothing or architecture.
 
-- remains from earlier human activity;
-- is integrated into ordinary shared life;
-- is visibly subordinate to people;
-- is simultaneously used in different ways by several people;
-- supports independent actions rather than helper/recipient or leader/follower relations;
-- is not a bridge, path, door, threshold, route, repair, ruin, accommodation device, monument or product demo.
+## Active checkpoint — PAC-01B
 
-The exact sterile packet and evaluation gates are in the canonical design file.
+Canonical design:
 
-## Render budget / stop law
+`docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`
 
-PAC-01A budget if approved: **one image**.
+Drive mirror:
+
+`R0 Renderer Cartography — Persistent Affordance Carrier Design 02`
+
+Drive document ID: `1rHClBXdZHI0lvg2A8g08PqxKaXB5-YcGKwOAoTuSmg0`
+
+Name:
+
+**PAC-01B — Repositioned Ordinary Elements / Configuration-Dependent Use**
+
+Research question:
+
+> **Can ordinary human-made elements make prior human configuration and expanded present capability visually recoverable when several people independently use the resulting arrangement?**
+
+The new variables are deliberately narrow:
+
+1. visible configuration history rather than generic fixed infrastructure;
+2. at least two present actions that visibly depend on the specific configuration rather than merely occurring near it.
+
+The packet keeps elements ordinary, modest and visually subordinate. It names no specific object, setting, architecture, culture, era, technology or medium.
+
+## Budget / stop law
+
+PAC-01B budget if approved: **one image**.
 
 Use one fresh regular non-project Renderer Context. No correction chain.
 
-If it collapses into route/access/threshold imagery, monumentality, repair, product-demo staging, or helper/recipient hierarchy, record the collapse and stop. Do not rerender PAC-01A.
+After the result returns, archive and evaluate it before designing another carrier topology.
+
+Reject/stop if it becomes a special installation, product showcase, symbolic object, route/access/threshold device, repair/damage scene, monumental environment, contraption, or helper/recipient mechanism.
 
 ## Exact next action
 
 **No image is currently authorized.**
 
-Director review must decide whether:
+Review the exact PAC-01B packet in `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`.
 
-1. permitting one ordinary persistent carrier is the correct methodological correction after RST-05B;
-2. `human-made arrangement` is neutral enough or over-seeds furniture/workspace imagery;
-3. plural independent use is the right observable proxy for enabled possibility;
-4. carrier-subordination controls are adequate;
+Director approval should decide whether:
+
+1. visible deliberate configuration is the correct missing variable after PAC-01A;
+2. `ordinary human-made elements` is sufficiently neutral;
+3. requiring two configuration-dependent uses is a defensible observable proxy for changed capability;
+4. human-primacy and anti-installation controls are adequate;
 5. the one-render budget is justified.
 
-Stop for explicit user approval before PAC-01A rendering.
-
-## External research discipline
-
-Preserve these source classes:
-
-- **PROJECT EMPIRICAL LAW**
-- **OFFICIAL OPENAI GUIDANCE**
-- **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION**
-- **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT**
-
-The user-supplied Gemini Pro guide remains external research input, not authority over hidden model mechanics.
-
-## Archival law
-
-Every generated image, prompt lineage, user signal, Director judgment and asset state must be reconciled incrementally into Drive and the Cartography dataset.
-
-Do not infer qualitative preference from image return alone.
+Stop for explicit user approval before PAC-01B rendering.
 
 ## Phase authority
 
