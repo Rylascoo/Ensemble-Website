@@ -1,96 +1,74 @@
-# Kymaean Visual Development Handoff
+# SUPERSEDED — R0 Crossing-Language Draft
 
-## R0 Complete → R1 Crossing Language
+Status: **SUPERSEDED / NON-AUTHORITATIVE PROCESS EVIDENCE**
 
-## Purpose
+Updated: 2026-09-02
 
-Preserve the reasoning from the R0 visual discovery phase and begin refinement without restarting aesthetic exploration.
+This file was created during R0 Cross-Lab Synthesis and incorrectly described R0 Visual Discovery as complete and **R1 Crossing Language** as the next active phase.
 
-## R0 Discovery Status
+That phase promotion was not supported by the authoritative project state and is superseded.
 
-R0 established that Kymaean visual identity is not a specific architecture style, palette, material, or illustration genre.
+## Current authority
 
-The durable discovery is:
+The project remains in:
 
-> Human decisions embedded into shared environments.
+**R0 Visual Re-Foundation — Clean-Slate Rediscovery**
 
-## Frozen Visual Laws
+Current active handoff:
 
-### Human consequence over decoration
+`docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`
 
-People must be structurally important. Removing them should collapse the meaning of the image.
+Required supporting checkpoint:
 
-### Boundaries matter
+`docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
 
-Strong Kymaean imagery explores relationships between:
+## Preserved research value
 
-- separated and connected;
-- known and unknown;
-- inherited and changed;
-- present state and prior cause.
+The crossing/boundary branch produced a valid principle-level discovery:
 
-### Scale contrast
+> **Human choices can alter inherited conditions and create new relationships or possibilities.**
 
-A recurring principle:
+The historical phrase:
 
-> Massive inherited structure + small human decision = meaning.
+> **We inherit boundaries. We create crossings.**
 
-### The environment remembers
+is retained only as research shorthand from this branch.
 
-The world should contain evidence of choices without becoming a literal narrative explanation.
+It is **not**:
 
-### The crossing
+- a public tagline;
+- the governing Kymaean thesis;
+- a frozen visual law;
+- a selected brand metaphor;
+- authorization for a new R1 phase.
 
-The strongest R0 discovery:
+## Surface quarantine
 
-> We inherit boundaries. We create crossings.
+No inheritance rights for:
 
-The important subject is not the wall, bridge, door, or structure. The subject is the changed relationship created by human intention.
+- giant walls;
+- bridges as core symbols;
+- doors/portals as identity shorthand;
+- monumental thresholds;
+- ruins or abandoned megastructures;
+- repair scaffolding;
+- architectural archaeology;
+- post-collapse environments;
+- pale-gold monumentality;
+- crossing imagery as a mandatory website/brand motif.
 
-## Anchor Research
+## Process correction
 
-### R0 Synthesis 06
+Preserve the following anti-regression law:
 
-Architecture carrying memory.
+> **Research discovery != phase transition.**  
+> **Assistant/design-team preference != user approval.**  
+> **Recent strength != incumbent.**  
+> **Metaphor != identity.**  
+> **Surface != law.**
 
-### R0 Synthesis 07
+The research insight survives. The premature R1 promotion does not.
 
-Visible human intervention changing inherited structure.
+## Do not use this file as a fresh-chat handoff
 
-### R0 Synthesis 08
-
-Current conceptual north star:
-
-A human-created passage transforms separation into possibility.
-
-## R1 Mission
-
-Explore the language of crossing without becoming literal symbolism.
-
-Do not simply repeat bridges or walls. Explore the broader principle:
-
-> A human choice changes how separate realities relate.
-
-## R1 Evaluation Questions
-
-- Does the image show a transformed relationship rather than just an object?
-- Is the human choice discoverable but not explained?
-- Does the environment carry memory?
-- Do people interpret the same reality differently?
-- Does the image preserve ambiguity?
-
-## Restrictions
-
-Do not converge on:
-
-- abandoned architecture aesthetics;
-- generic dystopia;
-- futuristic concept art;
-- obvious bridge/wall symbolism;
-- previous renderer surfaces.
-
-The next phase should discover new visual grammar from the principle, not reproduce previous images.
-
-## Next Work
-
-Begin R1 Crossing Language exploration.
+Fresh chats must follow `CURRENT_STATE.md` and the active handoff named there.
