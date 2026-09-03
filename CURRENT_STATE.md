@@ -122,9 +122,9 @@ No inheritance rights for worn stone, ledges, steps, public-space mood, painterl
 
 ## Active methodology checkpoint
 
-> **R0 Renderer Cartography — Persistent Affordance Carrier Design 02 — Director Review Gate**
+> **R0 Renderer Cartography — PAC-01B Authorized Renderer Handoff**
 
-Canonical design:
+Canonical design and authorized packet:
 
 `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`
 
@@ -147,9 +147,9 @@ The new controlled variables are:
 
 The exact sterile packet and evaluation gates are in the canonical design file.
 
-Render budget if approved: **one image**, one fresh regular non-project Renderer Context, no correction chain.
+**Director approval is complete. Exactly one PAC-01B image is authorized.**
 
-**No PAC-01B image is currently authorized. Stop for Director approval.**
+Use one fresh regular non-project Renderer Context and the authorized packet unchanged. No correction chain. Return the first result to Director Context for archival and evaluation before any further design.
 
 ## Working website / brand thesis
 
@@ -208,5 +208,6 @@ For the next Kymaean website/brand Director chat:
 11. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
 12. read the Drive Renderer Cartography dataset, corrected assets, PAC-01A evaluation, and active design mirror;
 13. never use the misattributed three-person image as RST-05B evidence;
-14. do not generate PAC-01B until explicit Director approval;
-15. remain in R0 unless explicit mutual convergence occurs.
+14. PAC-01B is authorized for exactly one render in one fresh regular non-project Renderer Context using the canonical packet unchanged;
+15. after that image returns, archive/evaluate before any further rendering or topology design;
+16. remain in R0 unless explicit mutual convergence occurs.
