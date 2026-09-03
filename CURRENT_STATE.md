@@ -5,13 +5,12 @@ Updated: 2026-09-03
 ## Identity and authority
 
 - The underlying application is **Ensemble**, intended to be publicly branded **Kymaean**.
-- Internal website/brand repository: `Rylascoo/Ensemble-Website`.
 - `Rylascoo/Ensemble-Website` is authoritative for website engineering and website/brand continuity.
 - `Rylascoo/Ensemble-Project` is authoritative for application-engineering truth and validation boundaries and is read-only for website work unless explicitly instructed otherwise.
 - Google Drive `Ensemble Project` is the canonical visual/design workspace and master-asset authority.
 - The old `Rylascoo/Kymaean-Project` is a separate application and must not influence this new Ensemble/Kymaean identity unless explicitly requested.
 
-The ChatGPT Ensemble project contains two parallel handoff-driven workstreams for the same future Kymaean product: application engineering and website/brand. Website chats may read application state for product truth, but brand decisions do not silently become application architecture or implementation authority.
+The ChatGPT Ensemble project contains parallel application-engineering and website/brand workstreams. Website chats may read application state for product truth, but brand decisions do not silently become application architecture or implementation authority.
 
 ## Current phase
 
@@ -19,7 +18,7 @@ The ChatGPT Ensemble project contains two parallel handoff-driven workstreams fo
 
 No final logo, symbol, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production design is selected.
 
-Completed R0 research checkpoints include:
+Completed R0 evidence/checkpoints include:
 
 - `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
 - `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
@@ -51,20 +50,20 @@ Historical handoffs remain process/provenance evidence only unless this file nam
 
 Renderer Isolation remains an operational boundary: persistent project Director Context plus a short-lived regular non-project Renderer Context, normally one image per renderer chat.
 
-Its claim is deliberately narrow. It reduces known project-context inheritance; it does not prove a mathematically memory-free renderer and does not remove base-model semantic priors.
+Its claim is narrow. It reduces known project-context inheritance; it does not prove a mathematically memory-free renderer and does not remove base-model semantic priors.
 
 Do not spend render budget on preambles such as `ignore all memories` or `start with no image memory`. They are not a verifiable isolation control. Temporary Chat is not the project default renderer because image generation has been observed unavailable there in the user's current ChatGPT configuration.
 
 ## Renderer Cartography — active methodological law
 
-Cross-Surface Robustness Experiments 01–04 repeatedly translated open-ended causal/relational packets into familiar high-probability visual shortcuts:
+Cross-Surface Robustness Experiments 01–04 repeatedly translated open-ended causal/relational packets into familiar visual shortcuts:
 
 - E01 -> monumental inherited architecture and opening/threshold logic;
 - E02 -> period-coded painterly interpersonal drama;
 - E03 -> literal accessibility/crossing intervention in ruined architecture;
 - E04 -> monumental antiquarian interior with a literal suspended bridge.
 
-The retrospective Cartography checkpoint then recovered a crucial counterexample: earlier experiments produced materially different non-architectural grammars when formal behavior was explicitly constrained, including `AL-B01`, `AL-C01`, `AL-D01`, `AL-E01`, `R1-STUDY-C`, and the V0.4 Ordinary-Room Presence study.
+The retrospective Cartography checkpoint recovered an important counterexample: earlier experiments produced materially different non-architectural grammars when formal behavior was explicitly constrained, including `AL-B01`, `AL-C01`, `AL-D01`, `AL-E01`, `R1-STUDY-C`, and the V0.4 Ordinary-Room Presence study.
 
 Therefore:
 
@@ -84,11 +83,9 @@ Canonical Drive dataset:
 
 `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
 
-The first retrospective pass currently contains 46 records covering CSR-E01–E04, RI-001A/001B through RI-011, AL-A01 through AL-H01, Round 1 Study A–F and Synthesis 06–08, selected V0.4 branches, and V0.5A failure/research evidence.
+The first retrospective pass contains 46 records covering CSR-E01–E04, RI-001A/001B through RI-011, AL-A01 through AL-H01, Round 1 Study A–F and Synthesis 06–08, selected V0.4 branches, and V0.5A failure/research evidence.
 
 Exact CSR-E01–E04 Director packets are recovered. Most earlier exact prompt text remains `PENDING EXACT PROMPT RECOVERY`; do not reconstruct false precision.
-
-The dataset separates semantic kernel, formal variables, renderer-invented elements, attractors, causal/artistic gates, user signals, Director judgments, asset state, confidence, and missing evidence.
 
 ## Prompt-engineering evidence classes
 
@@ -99,7 +96,7 @@ Fresh chats must distinguish:
 3. **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION** — useful outside guidance requiring project verification.
 4. **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT** — syntax or controls from other generators.
 
-The user-supplied Google Gemini Pro guide is preserved as external research input. Camera/lens, lighting, material, composition, and de-biasing vocabulary are test hypotheses. Fixed first-3-to-5-word weighting, predictable word-by-word dilution, claims about targeting hidden neural pathways, physically exact lens simulation, Midjourney `::` weighting, and Stable Diffusion `(term:1.3)` weighting are not project law for ChatGPT Images.
+The user-supplied Google Gemini Pro guide is external research input. Camera/lens, lighting, material, composition, and de-biasing vocabulary are test hypotheses. Fixed first-3-to-5-word weighting, predictable word-by-word dilution, claims about targeting hidden neural pathways, physically exact lens simulation, Midjourney `::` weighting, and Stable Diffusion `(term:1.3)` weighting are not project law for ChatGPT Images.
 
 ## High-confidence renderer behaviors
 
@@ -145,11 +142,11 @@ Preserve:
 
 ## Controlled Formal Matrix 01 — current gate
 
-Matrix 01 holds one relational semantic route substantially constant while explicitly changing formal grammar.
+Matrix 01 keeps a present relational-change semantic route substantially constant while explicitly changing formal grammar.
 
 Fixed semantic kernel:
 
-> Three distinct people share one present situation. One person's visible choice changes the relationship among them in the depicted moment. Their different responses make unequal understanding legible. People must carry the structure and meaning.
+> Three distinct people share one present moment. One person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding legible. The people must carry the structure and meaning.
 
 Variants:
 
@@ -157,11 +154,11 @@ Variants:
 - `CFM-01B` — Sparse Contour / Void
 - `CFM-01C` — Shallow Overlap / Occlusion
 
-Shared controls include participant count, action timing, asymmetric response, individual recognizability through multiple non-facial perceptual cues, people-dominant composition, diffuse moderate-contrast illumination, artwork-only output, no reference images, and no branding/UI/presentation framing.
+Shared controls include participant count, visible present action, asymmetric response, individual recognizability through a small combination of silhouette/bodily proportion/posture/characteristic gesture, people-dominant composition, diffuse moderate-contrast illumination, artwork-only output, no reference images, and no branding/UI/presentation framing.
 
-Matrix 01 is not a strict A/B reproduction of CSR-E04. Comparison to E04 is diagnostic only and cannot prove that a single isolated factor caused the historical bridge/monumental output.
+Matrix 01 is not a strict A/B reproduction of CSR-E04. Participant count, observable-action wording and formal controls are now explicitly fixed. Comparison to E04 is diagnostic only and cannot prove that a single isolated factor caused the historical bridge/monumental output.
 
-Render budget: maximum three images, one fresh non-project renderer chat per image. Stop before C if A and B both collapse into the same quarantined architectural/period/cinematic family. Stop after C regardless of success and synthesize before any further generation.
+Render budget: maximum three images, one fresh non-project renderer chat per image. Stop before C if A and B both collapse into the same quarantined architectural/period/cinematic family. If B loses person attribution, record B as a failure and do not rerender it; proceed to C unless the attractor stop condition fired. Stop after C regardless of success and synthesize before any further generation.
 
 ## Exact next work
 
