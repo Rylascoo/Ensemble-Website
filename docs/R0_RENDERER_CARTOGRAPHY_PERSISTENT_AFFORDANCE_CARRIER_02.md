@@ -1,6 +1,6 @@
 # R0 Renderer Cartography — Persistent Affordance Carrier Design 02
 
-Status: **DIRECTOR DESIGN CHECKPOINT — NO RENDER AUTHORIZED**
+Status: **DIRECTOR APPROVED — ONE RENDER AUTHORIZED**
 
 Updated: 2026-09-03
 
@@ -60,7 +60,7 @@ Question:
 - the configuration remains modest and visually subordinate to the people;
 - the surrounding world stays restrained.
 
-## Draft sterile packet — NO RENDER AUTHORIZED
+## Exact sterile packet — AUTHORIZED FOR ONE RENDER
 
 > Create one uninterrupted artwork centered on several distinct people whose presence and relationships are necessary to the image.
 >
@@ -140,17 +140,13 @@ Use one fresh regular non-project Renderer Context. No correction chain.
 
 After the returned image is archived and evaluated, stop before designing another carrier topology.
 
-## Director gate
+## Director authorization
 
-No image is authorized yet.
+Director approval was given in the persistent Director Context on 2026-09-03 by the user's `continue` instruction after review of the PAC-01B packet.
 
-Director review should decide whether:
+Exactly one PAC-01B render is authorized using the packet above unchanged.
 
-1. visible deliberate configuration is the correct missing variable after PAC-01A;
-2. `ordinary human-made elements` is sufficiently neutral;
-3. requiring two configuration-dependent uses is a defensible observable proxy for changed capability;
-4. the anti-installation and human-primacy controls are strong enough;
-5. the one-render budget remains appropriate.
+Do not generate a second PAC-01B image, revise the packet in the Renderer Context, or conduct a correction chain. Return the first generated artwork to Director Context for archival and evaluation.
 
 ## Phase authority
 
