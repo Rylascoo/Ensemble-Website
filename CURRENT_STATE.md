@@ -40,23 +40,14 @@ Read only as needed:
 - `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
 - `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
+- `docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`
 - individual PAC/SOV/RST result files only when exact experiment evidence is needed
 
 ## Critical lineage safeguards
 
-Correct RST-05B:
+Correct RST-05B is `RST-05B — Persistent Human-Created Condition — CORRECT.png`, Drive ID `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`.
 
-`RST-05B — Persistent Human-Created Condition — CORRECT.png`
-
-Drive ID: `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`
-
-The separate three-person seated image:
-
-`MISATTRIBUTED — NOT RST-05B — three-person seated image.png`
-
-Drive ID: `1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`
-
-is non-evidence for RST-05B.
+`MISATTRIBUTED — NOT RST-05B — three-person seated image.png`, Drive ID `1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`, is non-evidence for RST-05B.
 
 PAC-01D is valid clean-render evidence. The user confirmed it was generated in a fresh regular non-project Renderer Context; the same packet was accidentally pasted into the project chat afterward and is not the render provenance.
 
@@ -93,83 +84,101 @@ The empirical progression is:
 - PAC-01D: shared-element overlap is not distributed configuration dependence;
 - PAC-01E: distributed carrier topology is not distributed configuration dependence.
 
-Canonical synthesis:
-
-`docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
+Canonical synthesis: `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`.
 
 Major methodological conclusion:
 
 > **Not every system law must be directly observable in one static visual surface.**
 
-Do not automatically proceed to PAC-01F.
+Do not proceed to PAC-01F.
 
 ## Cross-medium semantic allocation audit — completed
 
-Canonical audit:
+Canonical audit: `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`.
 
-`docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
+Sequence, motion and interaction remain candidate research media only. No R0 experiment has selected a motion treatment, interaction pattern, hero behavior or website state-transition direction.
 
-This audit explicitly withdrew the premature Director-chat proposals for a conventional static hero contract, motion hierarchy, interactive revelation concept and M1/M2/M3 progression.
+## Temporal Observability Experiment 01 — completed
 
-Sequence, motion and interaction remain **candidate research media only**. No current R0 experiment has empirically validated them as solutions to authorship, propagation or enabled possibility.
+Canonical design: `docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_01.md`.
+
+Canonical result: `docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`.
+
+Returned asset:
+
+`TEO-01 — Two-Moment Temporal Observability.png`
+
+Drive ID: `1sBqZ2IdMQIEmLBb7FFJKY4LBTlJu_LPm`
+
+Evaluation Drive Doc ID: `1h1adhS1l5M3nVPGSrzGGr-0D6S95I_xNBaeJ2Gt39zo`
+
+Gate result:
+
+- TEO1 cross-moment correspondence — STRONG PASS;
+- TEO2 visible authorship — PASS;
+- TEO3 persistence — PASS;
+- TEO4 later independent use — PASS;
+- TEO5 enabled-possibility gain — STRONG PASS;
+- TEO6 temporal information gain — STRONG PASS;
+- TEO7 independent agency — STRONG PASS;
+- TEO8 human primacy — PASS;
+- TEO9 ordinary/non-symbolic condition — PASS;
+- TEO10 attractor/narrative suppression — FAIL / PARTIAL.
+
+Overall:
+
+> **STRONG TEMPORAL-OBSERVABILITY PASS / ACCESS-SHORTCUT LIMITATION**
+
+Durable discovery:
+
+> **Minimal temporal comparison materially improves recoverability of specific human authorship, persistence and enabled possibility.**
+
+Companion limitation:
+
+> **Temporal information gain and semantic-route robustness are separate questions.**
+
+TEO-01 obtained its causal clarity through a literal physical-access route: a stool was repositioned and later another person used it to reach a higher shelf. The two-panel format also carries storyboard grammar. Therefore TEO-01 does not yet prove that temporal information gain survives a non-access semantic route.
+
+No inheritance rights for the bookcase, stool, reading-room setting, furniture, books, painterly treatment, palette, clothing, two-panel split or reach-the-shelf scenario.
 
 ## Active methodology checkpoint
 
-> **R0 Temporal Observability Experiment 01 — Director Review Gate**
+> **R0 Temporal Observability Experiment 02 — Final Semantic-Route Robustness Director Gate**
 
 Canonical design:
 
-`docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_01.md`
+`docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_02.md`
 
 Drive mirror:
 
-`R0 Renderer Cartography — Temporal Observability Experiment 01`
+`R0 Renderer Cartography — Temporal Observability Experiment 02`
 
-Drive document ID: `1pacGabQiAT51gkUwRvzKIijxM_tynJCVKP2LZZygOxY`
+Drive document ID: `1g1EX-AGinh1g4qJavxRaxyrADTkUHVC_5v1TrGU93nc`
 
 Research question:
 
-> **Does adding minimal temporal evidence materially improve recoverability of prior human authorship and enabled possibility without forcing literal mechanism, hierarchy or narrative explanation?**
+> **Does the same temporal information gain survive when the later benefit comes from changed organization within an ordinary shared arrangement rather than from gaining physical access?**
 
-### TEO-01 design
+The controlled variable is narrow:
 
-One generated artwork would contain **two adjacent moments of the same scene**.
-
-This provides an internal control:
-
-1. score each moment independently;
-2. score what becomes recoverable only when the two moments are compared.
-
-No separate static-baseline render is required.
-
-The only new semantic resource is direct earlier/later comparison.
-
-Core causal target:
-
-> **who changed the condition -> what persisted -> how a later independent action became possible or materially better supported**
-
-A dedicated temporal-information-gain gate requires the pair itself to add causal evidence that neither moment alone reliably provides.
-
-### Recursive design audit
-
-- variable isolation — PASS;
-- second baseline generation — REJECTED as unnecessary;
-- named carrier examples — REJECTED as visual seeds;
-- repeated viewpoint/scale and restrained formal controls — sufficient for comparison without selecting a medium;
-- recurring-person correspondence — necessary control only;
-- storyboard/infographic risk — material but acceptable for one diagnostic and scored as failure if realized;
-- literal access/help/repair risk — material and intentionally scored rather than blacklisted;
-- inference from a positive result to motion/interaction selection — prohibited.
+- preserve the same two-moment earlier/later measurement structure;
+- preserve visible authorship, persistence, later independent use, human primacy and ordinary subordinate conditions;
+- change only the semantic route of the later benefit from physical access to organization-dependent use.
 
 ### Render budget / stop law
 
 If approved: **one generated artwork**, **one fresh regular non-project Renderer Context**, **no correction chain**.
 
-Return first output to Director Context, archive, evaluate, then stop.
+After the first output returns:
 
-Do not automatically design TEO-02, animation, interaction or website behavior.
+1. archive and evaluate it;
+2. **stop temporal rendering regardless of outcome**;
+3. perform final R0 visual-research synthesis;
+4. decide whether the evidence is sufficient to begin actual app and website design synthesis.
 
-**No TEO-01 image is currently authorized.**
+Do not automatically design TEO-03.
+
+**No TEO-02 image is currently authorized.**
 
 ## Working website / brand thesis
 
@@ -219,10 +228,11 @@ For a new website/brand Director chat:
 2. read `docs/DESIGN_CONTINUITY.md`;
 3. read `docs/RENDERER_ISOLATION_PROTOCOL.md` and `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`;
 4. read `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`;
-5. read `docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_01.md`;
-6. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
-7. consult older synthesis/result files only as needed;
-8. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
-9. never use the misattributed three-person image as RST-05B evidence;
-10. do not generate TEO-01 until explicit Director approval;
-11. remain in R0 unless explicit mutual convergence occurs.
+5. read `docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`;
+6. read `docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_02.md`;
+7. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
+8. consult older synthesis/result files only as needed;
+9. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
+10. never use the misattributed three-person image as RST-05B evidence;
+11. do not generate TEO-02 until explicit Director approval;
+12. remain in R0 until final R0 synthesis and explicit transition decision.
