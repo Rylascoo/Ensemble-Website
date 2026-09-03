@@ -154,7 +154,7 @@ Variants:
 - `CFM-01B` — Sparse Contour / Void
 - `CFM-01C` — Shallow Overlap / Occlusion
 
-Shared controls include participant count, visible present action, asymmetric response, individual recognizability through a small combination of silhouette/bodily proportion/posture/characteristic gesture, people-dominant composition, diffuse moderate-contrast illumination, artwork-only output, no reference images, and no branding/UI/presentation framing.
+Shared controls include participant count, visible present action, asymmetric response, individual recognizability through a small combination of silhouette/bodily proportion/posture/characteristic gesture, people-dominant composition, an even tonal field with moderate contrast, artwork-only output, and no reference images.
 
 Matrix 01 is not a strict A/B reproduction of CSR-E04. Participant count, observable-action wording and formal controls are now explicitly fixed. Comparison to E04 is diagnostic only and cannot prove that a single isolated factor caused the historical bridge/monumental output.
 
