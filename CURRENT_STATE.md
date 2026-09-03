@@ -25,6 +25,7 @@ Completed R0 evidence/checkpoints include:
 - Cross-Surface Robustness Experiments 01–04 as archived diagnostic evidence
 - `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`
+- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`
 
 Current active methodology checkpoint:
 
@@ -53,18 +54,13 @@ Renderer Isolation remains an operational boundary: persistent project Director 
 
 Its claim is narrow. It reduces known project-context inheritance; it does not prove a mathematically memory-free renderer and does not remove base-model semantic priors.
 
-Do not spend render budget on preambles such as `ignore all memories` or `start with no image memory`. They are not a verifiable isolation control. Temporary Chat is not the project default renderer because image generation has been observed unavailable there in the user's current ChatGPT configuration.
+Do not spend render budget on memory-negation preambles. Temporary Chat is not the project default renderer because image generation has been observed unavailable there in the user's current ChatGPT configuration.
 
 ## Renderer Cartography — active methodological law
 
-Cross-Surface Robustness Experiments 01–04 repeatedly translated open-ended causal/relational packets into familiar visual shortcuts:
+Cross-Surface Robustness Experiments 01–04 repeatedly translated open-ended causal/relational packets into familiar visual shortcuts: monumental architecture/thresholds, period-coded interpersonal drama, accessibility/crossing intervention, and monumental antiquarian bridge imagery.
 
-- E01 -> monumental inherited architecture and opening/threshold logic;
-- E02 -> period-coded painterly interpersonal drama;
-- E03 -> literal accessibility/crossing intervention in ruined architecture;
-- E04 -> monumental antiquarian interior with a literal suspended bridge.
-
-The retrospective Cartography checkpoint recovered an important counterexample: earlier experiments produced materially different non-architectural grammars when formal behavior was explicitly constrained, including `AL-B01`, `AL-C01`, `AL-D01`, `AL-E01`, `R1-STUDY-C`, and the V0.4 Ordinary-Room Presence study.
+The retrospective Cartography checkpoint recovered an important counterexample: earlier experiments produced materially different non-architectural grammars when formal behavior was explicitly constrained.
 
 Therefore:
 
@@ -84,9 +80,9 @@ Canonical Drive dataset:
 
 `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
 
-The dataset now contains **47 experiment/research records**, including completed `CFM-01A`, plus Attractor Map, Controlled Formal Matrix, and Source Classification sheets.
+The dataset now contains **48 experiment/research records**, including completed `CFM-01A` and `CFM-01B`, plus Attractor Map, Controlled Formal Matrix, and Source Classification sheets.
 
-Exact CSR-E01–E04 and CFM-01A Director packets are recovered. Most earlier exact prompt text remains `PENDING EXACT PROMPT RECOVERY`; do not reconstruct false precision.
+Exact CSR-E01–E04 and CFM-01A/B Director packets are recovered. Most earlier exact prompt text remains `PENDING EXACT PROMPT RECOVERY`; do not reconstruct false precision.
 
 ## Prompt-engineering evidence classes
 
@@ -97,7 +93,7 @@ Fresh chats must distinguish:
 3. **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION** — useful outside guidance requiring project verification.
 4. **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT** — syntax or controls from other generators.
 
-The user-supplied Google Gemini Pro guide is external research input. Camera/lens, lighting, material, composition, and de-biasing vocabulary are test hypotheses. Fixed first-3-to-5-word weighting, predictable word-by-word dilution, claims about targeting hidden neural pathways, physically exact lens simulation, Midjourney `::` weighting, and Stable Diffusion `(term:1.3)` weighting are not project law for ChatGPT Images.
+The user-supplied Google Gemini Pro guide remains external research input. Camera/lens, lighting, material, composition, and de-biasing vocabulary are test hypotheses. Fixed first-3-to-5-word weighting, predictable token dilution, hidden-neural-pathway claims, physically exact lens simulation, Midjourney `::` weighting, and Stable Diffusion `(term:1.3)` weighting are not project law for ChatGPT Images.
 
 ## High-confidence renderer behaviors
 
@@ -111,7 +107,7 @@ Current empirical evidence supports these working laws:
 - brand/website/identity framing can trigger presentation-board/collateral output;
 - environment-first monumental scale tends to make scenery the protagonist and people observers/scale figures;
 - changing many variables at once destroys attribution;
-- flatness/negative space, sparse contour/void, shallow overlap/occlusion, reduced descriptive detail, and ordinary human-scale reality have already produced useful escapes from the old attractors.
+- explicit flatness/negative-space and sparse-contour/void control have now both preserved a human relational field while suppressing the old environmental attractors.
 
 These are renderer-behavior findings, not selected Kymaean aesthetics.
 
@@ -150,41 +146,47 @@ Fixed semantic kernel:
 Variants:
 
 - `CFM-01A` — Flat Mass / Negative Space — **COMPLETED; FORMAL METHOD PASS**
-- `CFM-01B` — Sparse Contour / Void — **NEXT; PACKET READY FOR DIRECTOR REVIEW**
-- `CFM-01C` — Shallow Overlap / Occlusion — pending
+- `CFM-01B` — Sparse Contour / Void — **COMPLETED; FORMAL METHOD PASS**
+- `CFM-01C` — Shallow Overlap / Occlusion — **NEXT; PACKET READY FOR DIRECTOR REVIEW**
 
-Shared controls include participant count, visible present action, asymmetric response, individual recognizability through a small combination of silhouette/bodily proportion/posture/characteristic gesture, people-dominant composition, an even tonal field with moderate contrast, artwork-only output, and no reference images.
+Shared controls include participant count, visible present action, asymmetric response, individual recognizability through silhouette/bodily proportion/posture/characteristic gesture, people-dominant composition, an even tonal field with moderate contrast, artwork-only output, and no reference images.
 
 ### CFM-01A result
 
-CFM-01A successfully suppressed the previous monumental architecture / bridge / threshold / period-world / deep-cinematic family. Three people became the complete structural and relational field. Human structural importance and the Flat Mass / Negative Space formal package passed strongly. Present relational action and unequal response were legible; exact relational before/after and unequal knowledge/understanding remained partial.
-
-The renderer still chose a restrained painterly figurative medium, which remains surface evidence only. No CFM-01A palette, medium, clothing, gesture, arrangement, or neutral-field treatment has inheritance rights.
+A strongly followed the flat-mass/negative-space package and suppressed the old architecture/bridge/period/cinematic family. Human structural importance passed strongly; relational action was partial-strong; unequal understanding remained partial.
 
 See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`.
 
-Matrix 01 remains comparative rather than a strict historical A/B test. CFM-01A is evidence that explicit formal control can materially reduce recurrence of the old attractor family; it does not prove one isolated variable caused CSR-E04.
+### CFM-01B result
 
-Render budget remains maximum three images. If B loses person attribution, record B as a failure and do not rerender it. If A and B both collapse into the same old attractor family, stop before C. Otherwise C remains eligible. Stop after C regardless of success and synthesize before further generation.
+B strongly followed the sparse-contour/void package. Three people remained individually attributable despite sparse representation. The central action and asymmetric responses remained legible, while exact before/after relation and unequal knowledge remained inferential. The old architecture/bridge/period/cinematic family again did not recur.
+
+A and B are materially different formal grammars carrying the same basic relational kernel. This strengthens the working finding that formal grammar is a controllable experimental variable on the current renderer.
+
+See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`.
+
+Matrix 01 remains comparative rather than a strict historical A/B test. It does not prove hidden renderer mechanics or establish final Kymaean aesthetics.
+
+The early-stop condition has not fired. CFM-01C is warranted. Stop after C regardless of outcome and synthesize Matrix 01 before any further generation.
 
 ## Exact next work
 
-`CFM-01B — Sparse Contour / Void` is **packet-ready but not render-authorized until explicit user approval**.
+`CFM-01C — Shallow Overlap / Occlusion` is **packet-ready but not render-authorized until explicit user approval**.
 
-Exact packet and CFM-01A evaluation are preserved in:
+Exact packet is preserved in:
 
-`docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`
+`docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`
 
 Current Director action:
 
-1. review/present the exact CFM-01B packet;
+1. review/present the exact CFM-01C packet;
 2. stop for explicit user approval;
 3. do not generate inside the Ensemble project;
 4. after approval, transfer only the exact packet into a fresh regular non-project renderer chat;
 5. use no memory-negation preamble and add no examples;
 6. generate one image and close that renderer chat;
 7. return the image to Director Context;
-8. evaluate, archive, and update Cartography before deciding whether CFM-01C is warranted.
+8. evaluate, archive, and **stop to synthesize Matrix 01 before any further generation**.
 
 ## Product-validation boundary
 
@@ -210,11 +212,11 @@ For the next Kymaean website/brand Director chat:
 4. read `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`;
 5. read `docs/VISUAL_ARCHIVE_PROTOCOL.md`;
 6. read `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`;
-7. read `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`;
+7. read `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md` and `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`;
 8. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
 9. read RI/AL and Round 1 checkpoints only when needed for evidence;
 10. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
-11. read the named Drive Renderer Cartography dataset, registry, evaluation, retrospective checkpoint, and archive records;
+11. read the named Drive Renderer Cartography dataset, registry, evaluations, retrospective checkpoint, and archive records;
 12. do not restart renderer research from generic external prompting advice;
-13. do not render CFM-01B unless explicit user approval has already been recorded;
+13. do not render CFM-01C unless explicit user approval has already been recorded;
 14. remain in R0 unless explicit mutual convergence occurs.
