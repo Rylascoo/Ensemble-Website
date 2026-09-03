@@ -1,216 +1,67 @@
 # Kymaean / Ensemble Website — R0 Cross-Surface Robustness Validation Handoff
 
-Status: **ACTIVE VISUAL CONTINUATION HANDOFF**
+Status: **SUPERSEDED AS ACTIVE HANDOFF — HISTORICAL R0 PROCESS / EXPERIMENT EVIDENCE ONLY**
 
 Updated: 2026-09-03
 
-## 1. Mission
+This file preserves the handoff that initiated R0 Cross-Surface Robustness Validation. It is no longer the active continuation authority.
 
-Continue the Ensemble/Kymaean website-brand visual research from the completed first Renderer Isolation checkpoint and completed R0 Cross-Lab Synthesis Round 1.
+Current active authority:
 
-Do **not** promote a new phase. Do **not** refine a recent image. Do **not** treat the crossing/boundary branch as the identity.
+- `CURRENT_STATE.md`
+- `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`
+- `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
 
-The current objective is to validate whether the consolidated Kymaean visual-physics laws survive genuinely unrelated artistic grammars.
+## Historical mission
 
-## 2. Read order
+This handoff originally asked whether the consolidated non-aesthetic Kymaean system laws would survive genuinely unrelated artistic grammars using fresh non-project renderer chats and minimal sterile packets.
 
-Read in this order:
+It correctly preserved:
 
-1. `Rylascoo/Ensemble-Website/CURRENT_STATE.md`
-2. `Rylascoo/Ensemble-Website/docs/DESIGN_CONTINUITY.md`
-3. `Rylascoo/Ensemble-Website/docs/RENDERER_ISOLATION_PROTOCOL.md`
-4. `Rylascoo/Ensemble-Website/docs/VISUAL_ARCHIVE_PROTOCOL.md`
-5. `Rylascoo/Ensemble-Website/docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
-6. `Rylascoo/Ensemble-Website/docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
-7. this handoff
-8. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth and validation boundaries
-9. relevant Google Drive continuity/checkpoint records as named below
+- R0 Visual Re-Foundation as the active phase;
+- Renderer Isolation;
+- no convergence;
+- no selected logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production surface;
+- the completed RI/AL and Round 1 discoveries;
+- the correction that Crossing/Boundary research was not R1 and did not grant inheritance rights to bridges, walls, portals, thresholds, ruins, repair scaffolding, architectural archaeology, post-collapse imagery, or pale-gold monumentality.
 
-Google Drive `Ensemble Project` remains visual-master and human-readable creative-continuity authority.
+## What happened after this handoff
 
-## 3. Governing phase
+Cross-Surface Robustness Experiments 01–04 were executed and archived in Google Drive.
 
-The active phase remains:
+They produced useful diagnostic evidence but did **not** demonstrate cross-surface robustness:
 
-**R0 Visual Re-Foundation — Clean-Slate Rediscovery**
+- E01: changed condition / prior cause -> monumental inherited architecture and opening/threshold logic;
+- E02: unseen earlier choice / relational consequence -> period-coded painterly interpersonal drama;
+- E03: immediate changed possibility -> literal accessibility/crossing intervention in ruined architecture;
+- E04: visible relational change -> monumental antiquarian interior with a literal suspended bridge.
 
-Governing principles:
+The sequence exposed a flaw in the experimental method: the project was trying to test surface robustness while leaving the surface itself as an uncontrolled renderer choice.
 
-> **Preserve the lineage. Restart the search.**
+## Superseding method correction
 
-and
+The active project law is now:
 
-> **The director remembers everything. The canvas remembers nothing.**
+> **For cross-surface research, the Director controls both semantic law and the experimental formal grammar. The Renderer invents only the unconstrained local manifestation.**
 
-No final Kymaean visual identity, palette, medium, portrait system, architecture, symbol, wordmark, website composition, or production surface is selected.
+Renderer Isolation remains active, but its claim is narrower: it reduces known project-context inheritance; it does not prove a mathematically memory-free renderer or remove base-model semantic priors.
 
-## 4. Completed research
+Open-ended renderer prompting is paused while the project performs:
 
-### RI — Causal Physics
+> **R0 Renderer Cartography — Retrospective Dataset & Controlled Surface Matrix**
 
-Established mechanisms for present-state evidence, altered affordance, asymmetric access, repeated-pattern exception, interrupted correspondence, bounded knowledge, and causal history without requiring ruins or magical traces.
+## Do not use this file for exact next work
 
-### AL — Artistic Language
+Do **not** restart Experiment 01 or derive Experiment 05 from this historical handoff.
 
-Established human structural importance, relationship as visual geometry, persistent identity through perceptual invariants, influence without merger, partial access, active absence, and shared reality emerging from bodies/gaps/overlaps rather than scenery alone.
+Read `CURRENT_STATE.md` and `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md` instead.
 
-### R0 Cross-Lab Synthesis Round 1
+Preserve the phase-authority safeguards:
 
-Established the stronger combined progression:
+> **Research discovery != phase transition.**  
+> **Assistant/design-team preference != user approval.**  
+> **Recent strength != incumbent.**  
+> **Metaphor != identity.**  
+> **Surface != law.**
 
-> present condition -> evidence of prior action -> inherited condition -> altered affordance -> changed relationship -> changed possibility
-
-The late boundary/crossing branch produced useful causal insight but did **not** become a new phase or selected surface.
-
-The companion Drive atlas has been re-verified and currently preserves **nine distinct embedded visual copies** from the Round 1 continuation: six earlier studies labeled `Study A` through `Study F`, followed by `R0 Synthesis 06`, `07`, and `08`. Those labels are archival provenance, not a mandate to reconstruct a strict missing-number sequence.
-
-## 5. Current consolidated system hypothesis
-
-> **Distinct people are structurally important; human choices can change shared conditions and future possibilities; identities can persist across transformed representations; relationships can structure the visual field; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
-
-This is deliberately non-aesthetic.
-
-## 6. Critical process correction
-
-A previous Director-chat draft prematurely described R0 as complete and proposed `R1 Crossing Language`.
-
-That promotion is **superseded**.
-
-Preserve the research insight only:
-
-> Human choices can alter inherited conditions and create new relationships or possibilities.
-
-Do not inherit literal bridges, walls, portals, thresholds, ruins, repair scaffolding, architectural archaeology, post-collapse environments, or pale-gold monumental architecture.
-
-Preserve the anti-regression law:
-
-- research discovery != phase transition;
-- assistant/design-team preference != user approval;
-- recent strength != incumbent;
-- metaphor != identity;
-- surface != law.
-
-## 7. Renderer Isolation protocol
-
-Use two contexts:
-
-- **Director Context:** persistent Ensemble project, with full continuity and evaluation law.
-- **Renderer Context:** one fresh regular non-project chat, one sterile render packet, normally one generated image, then close the renderer chat.
-
-Do not transfer:
-
-- Kymaean/Ensemble names;
-- project files;
-- historical images;
-- branch names;
-- previous prompts;
-- surface blacklists;
-- concrete example menus.
-
-Examples are visual seeds.
-
-When causal recoverability matters, specify only the smallest required causal/relational truth. Let the renderer invent the unrelated surface grammar.
-
-Saved-memory controls, deleting renderer chats, or disabling project memory are not the project's visual-isolation mechanism. GitHub/Drive preserve continuity; context separation and minimal sterile packets provide the controllable isolation boundary.
-
-## 8. Cross-surface robustness validation
-
-The next gate asks:
-
-> **Does the Kymaean system survive when the surface changes radically?**
-
-Do not test by making four versions of one image.
-
-Test by generating unrelated artistic grammars that share only the minimum system law.
-
-The Director should run a small validation matrix across genuinely different visual logics. Candidate categories are intentionally abstract and should not be copied into renderer packets as concrete style menus; the Director must derive sterile packets one at a time.
-
-For each experiment, evaluate:
-
-1. Are people structurally important?
-2. Is there evidence that human action changed a present condition?
-3. Did that change alter possibility, access, constraint, relationship, or affordance?
-4. Can distinct identity survive transformation without one fixed portrait?
-5. Can several people inhabit one authoritative reality with asymmetric access/understanding?
-6. Does the artwork remain meaningful without relying on a bridge/wall/portal/threshold metaphor?
-7. Does it avoid recent surface attractors and obvious learned genre shorthand?
-8. Does it work as art before it works as explanation?
-
-## 9. Success criterion
-
-R0 Cross-Surface Robustness is successful only if multiple genuinely unrelated artistic grammars independently preserve the system laws.
-
-Success does **not** mean the images look alike.
-
-Success means the Kymaean causal/relational logic remains recognizable after surface replacement.
-
-## 10. Failure criterion
-
-Pause and diagnose if outputs repeatedly collapse into:
-
-- recent painterly repeated-character montage;
-- monumental architecture;
-- bridges/walls/thresholds;
-- cinematic fantasy or post-collapse worldbuilding;
-- causal diagrams or infographics;
-- symbolic machinery;
-- rustic craft/history shorthand;
-- branded presentation boards;
-- people used only as scale figures.
-
-Do not fight a repeated attractor indefinitely. Extract the diagnostic law, archive, and move laterally.
-
-## 11. Google Drive continuity
-
-Read as needed:
-
-- `Kymaean Visual Continuity Constitution`
-- `Kymaean Visual Re-Foundation Charter — Inspiration Library + Clean-Slate Discovery`
-- `Kymaean Renderer Isolation Protocol`
-- `Kymaean Visual Archive & Handoff Protocol`
-- `Kymaean Visual Exploration Registry & Critique Ledger`
-- `R0 Renderer Isolation Checkpoint — RI-001–011 + AL-A01–H01`
-- `R0 Renderer Isolation Image Atlas — RI + AL`
-- `R0 Cross-Lab Synthesis Round 1 — Checkpoint & Critique`
-- `R0 Cross-Lab Synthesis Round 1 — Image Atlas`
-- `R0 Cross-Surface Robustness Validation — Fresh Chat Handoff`
-
-The document named `SUPERSEDED — R0 Crossing Language Draft (Process Evidence Only)` is historical process evidence only and must not be used as an active handoff.
-
-Current active-research folder:
-
-`03 Clean-Slate Visual Discovery — Active / X0 Cross-Lane Discovery & Research — Clean Slate / R0 Cross-Surface Robustness Validation — Active Research`
-
-At handoff verification this folder is intentionally empty because Experiment 01 has not yet been rendered. That empty state is correct; it prevents a fresh chat from mistaking preparatory continuity work for completed experiment evidence.
-
-## 12. Exact next permissible work
-
-Perform **R0 Cross-Surface Robustness Validation — Experiment 01** in two stages.
-
-### Stage A — Director review
-
-In the fresh Ensemble project chat:
-
-- reconstruct current R0 state from the authoritative sources above;
-- derive one new sterile packet from the consolidated system law;
-- do not include a concrete setting, named medium, culture, architecture, bridge, wall, threshold, portal, historical material, or example list unless the specific experiment deliberately tests that seed;
-- request one uninterrupted artwork with no branding, labels, explanatory copy, UI, or presentation-board framing;
-- **stop and present the sterile packet for user/Director review. Do not generate the image inside the project chat.**
-
-### Stage B — isolated renderer execution
-
-After the user approves or accepts the packet:
-
-- open a new regular non-project renderer chat;
-- paste only the approved sterile packet;
-- generate exactly one image;
-- close that renderer chat after generation;
-- return the image to Director Context for evaluation and archival.
-
-Do not infer convergence from Experiment 01.
-
-## 13. Fresh-chat bootstrap sentence
-
-> Resume the Ensemble Website / Kymaean website-brand workstream from `Rylascoo/Ensemble-Website`. Read `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, `docs/RENDERER_ISOLATION_PROTOCOL.md`, `docs/VISUAL_ARCHIVE_PROTOCOL.md`, `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`, `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`, and `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`, then read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth. R0 remains active; no convergence is authorized. Renderer Isolation remains active. The late Crossing branch is research evidence only, not R1 and not an incumbent surface. Reconstruct the current state, formulate the minimal sterile packet for R0 Cross-Surface Robustness Validation Experiment 01, and stop for my review before any image generation. Use the persistent project chat only as Director Context and a fresh regular non-project chat for the single image render after the packet is approved.
-
-END OF HANDOFF
+No production website implementation is authorized by this historical record.
