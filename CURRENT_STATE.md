@@ -5,79 +5,140 @@ Updated: 2026-09-03
 ## Identity and authority
 
 - The underlying application is **Ensemble**, intended to be publicly branded **Kymaean**.
-- `Rylascoo/Ensemble-Website` is authoritative for website engineering, website/brand continuity, and the current cross-product app + website design-synthesis proposal work.
-- `Rylascoo/Ensemble-Project` is authoritative for exact application-engineering truth, source, tests, architecture status, and validation boundaries; design work may read it but must not silently mutate or supersede its authority.
+- `Rylascoo/Ensemble-Website` is authoritative for website engineering, website/brand continuity, and cross-product app + website design-synthesis proposal work.
+- `Rylascoo/Ensemble-Project` is authoritative for exact application-engineering truth, source, tests, architecture status, and validation boundaries. Website/design work may read it but must not silently mutate or supersede that authority.
 - Google Drive `Ensemble Project` is the canonical visual/design workspace and master-asset authority.
-- The old `Rylascoo/Kymaean-Project` is a separate application and must not influence this Ensemble/Kymaean identity unless explicitly requested.
+- The old `Rylascoo/Kymaean-Project` is a separate application and must not influence Ensemble/Kymaean unless explicitly requested.
+
+---
 
 ## Current phase checkpoint
 
 **R0 Visual Re-Foundation — research calibration is complete.**
 
-Canonical final synthesis:
+Canonical final R0 synthesis:
 
 `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`
 
-The Director has approved the transition requested by that synthesis.
+The Director approved transition into integrated app + website design synthesis.
 
-Active work is now:
+Blueprint 01 has now been prepared:
 
-> **KYMAEAN APP + WEBSITE DESIGN SYNTHESIS — BLUEPRINT 01 PREPARATION**
+`docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md`
 
-Canonical fresh-chat transition handoff:
+A subsequent continuity recovery found that the first follow-on experience-model sequence narrowed the product too quickly into competing entry-perspective choices.
 
-`docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`
+Current active design-review artifact:
+
+`docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
 
 Status:
 
-> **DIRECTOR APPROVED FOR DESIGN-SYNTHESIS BLUEPRINT WORK / NO PRODUCTION CODE AUTHORIZED**
+> **RECOVERED CONTINUITY SYNTHESIS — DIRECTOR REVIEW / NO PRODUCTION IMPLEMENTATION AUTHORIZED**
 
-No further calibration render is justified by current evidence.
+The two narrowed follow-on proposals are preserved as process history but are no longer active decision gates:
 
-No final logo, symbol, wordmark, typography, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, interaction system, app UI system, information architecture, or production design is selected yet.
+- `docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md`
+- `docs/KYMAEAN_ENTRY_EXPERIENCE_DECISION_PROPOSAL_01.md`
 
-The immediate deliverable is one integrated app + website design-synthesis blueprint, proposed and recursively audited before substantial XAML/C#/Astro/CSS implementation.
+No final logo, symbol, wordmark, typography, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, interaction system, app UI system, final information architecture, or production design is selected.
 
-Anti-churn discipline:
+No production XAML, C#, Astro, CSS, JavaScript, or equivalent substantial implementation is authorized from the current design state.
+
+Anti-churn discipline remains:
 
 > **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
+
+---
+
+## Recovered experience foundation
+
+Current design synthesis must preserve the richer frozen/recovered product structure rather than choosing one simplified experience identity.
+
+### Authoritative creative cycle
+
+```text
+CAST -> WORLD -> KNOWLEDGE -> PRESSURE -> SCENE -> PERFORMANCE -> CONSEQUENCE
+  ^                                                                  |
+  +------------------------------------------------------------------+
+```
+
+Consequence changes future conditions and therefore future possibility.
+
+### Creator postures
+
+Blueprint 0.1 preserves:
+
+- Watch;
+- Direct;
+- Perform;
+- Write.
+
+These are relationships to one engine, not four separate products and not automatically four navigation tabs. The dominant posture remains open.
+
+### Conceptual product spaces
+
+Blueprint 0.1 preserves the conceptual functions:
+
+- Studio — what could happen;
+- Stage — what happens;
+- Archive — what happened, what changed, and what did it mean.
+
+Their exact labels, screen boundaries, layouts, and navigation manifestations remain design questions. Do not freeze creator-facing Production/Studio terminology merely because historical mockups used it.
+
+### Presentation Perspective
+
+Production/Creator View, Audience View, and Character View are disclosure projections over one authoritative Production. Switching perspective changes disclosure, not reality.
+
+Final perspective-switching UX remains open.
+
+### Product experience ontology != storage ontology
+
+`Rylascoo/Ensemble-Project/docs/blueprint/CREATOR_ONTOLOGY_EXTENSIBILITY_GUARD.md` remains a STRONG DIRECTION / OPEN DESIGN GUARD:
+
+> **Keep authority semantics precise; keep creative semantics open.**
+
+Creator-facing labels and dramatic concepts are not automatically permanent engine enums or one-to-one storage types.
+
+---
+
+## Current smallest unresolved design question
+
+The active recovery synthesis identifies the next high-leverage question as:
+
+> **How should the app make the transition between possibility, present performance, and causal history comprehensible without turning them into rigid modes or exposing engineering ontology?**
+
+This is an information/interaction architecture question, not yet a visual-style question.
+
+If the Director approves the recovered ontology basis, the next justified artifact is proposed as:
+
+`docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`
+
+Do not create it automatically. Current gate is Director review of the recovered ontology synthesis.
+
+---
 
 ## Authority note about `DESIGN_CONTINUITY.md`
 
 `docs/DESIGN_CONTINUITY.md` remains active substantive project law.
 
-Some of its historical R0-era passages describe R0/cross-surface robustness as the then-current gate. For **live phase/checkpoint status**, this file and `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md` now supersede those historical status lines.
+Historical R0-era status wording in that document is superseded for live phase/checkpoint status by this file and the active recovery artifact.
 
-Its authority boundaries, Renderer Isolation law, prompt-seed discipline, asset-continuity rules, creative-collaboration law, phase-authority safeguards, and source-of-truth rules remain active unless stronger current authority explicitly supersedes them.
+Its authority boundaries, Renderer Isolation law, prompt-seed discipline, asset-continuity rules, creative-collaboration law, phase-authority safeguards, source-of-truth rules, and surface-inheritance safeguards remain active unless stronger current authority explicitly supersedes them.
 
-## Authoritative completed evidence
+Google Drive `Kymaean Visual Continuity Constitution` remains the canonical human-readable continuity mirror.
 
-Read only as needed:
+---
 
-- `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
-- `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
-- `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
-- `docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`
-- `docs/R0_TEMPORAL_OBSERVABILITY_TEO_02_RESULT.md`
-- `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`
-- `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`
+## R0 closure and durable laws
 
-## Critical lineage safeguards
+R0 calibration is closed.
 
-Correct RST-05B is:
+> **No TEO-03. No PAC-01F. No further calibration render by default.**
 
-`RST-05B — Persistent Human-Created Condition — CORRECT.png`
+Future image generation must answer a concrete design-synthesis question rather than reopen Renderer Cartography.
 
-Drive ID: `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`.
-
-`MISATTRIBUTED — NOT RST-05B — three-person seated image.png`, Drive ID `1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`, is non-evidence for RST-05B.
-
-PAC-01D is valid clean-render evidence per the user's provenance clarification.
-
-## Durable R0 laws
+Validated transferable R0 laws include:
 
 ### Human primacy
 
@@ -89,11 +150,11 @@ Distance, orientation, overlap, negative space, interruption, occlusion, recurre
 
 ### Identity through invariants
 
-Recurring identity can persist through scale, crop, pose, orientation, completeness and viewpoint change when coherent perceptual invariants survive.
+Recurring identity can persist through transformation when coherent perceptual invariants survive.
 
 ### Asymmetric evidence, not inferred private mind
 
-Static artwork can show unequal evidentiary/visual position. It should not be scored as proving private knowledge, belief, memory, intention or interpretation.
+Static artwork can show unequal evidentiary/visual position. It should not be treated as proving private knowledge, belief, memory, intention or interpretation.
 
 ### Present structure can carry history
 
@@ -109,21 +170,11 @@ Self-directed action alone does not prove that a prior condition enabled it.
 
 ### Object presence != systemic causality
 
-PAC established:
-
-- supported action is not necessarily carrier-dependent action;
-- object affordance is not configuration affordance;
-- local relational affordance is not shared systemic affordance;
-- shared-element overlap is not distributed configuration dependence;
-- distributed carrier topology is not distributed configuration dependence.
+Persistent objects or shared elements do not automatically establish system-level causal dependence.
 
 ### Static observability boundary
 
 > **Not every system law must be directly observable in one static visual surface.**
-
-Static evidence is strong for human specificity, relational field, independent agency, present consequence, asymmetric evidentiary position and some recoverable history/affordance.
-
-Static evidence is not robust for every case of specific prior authorship, definite prior human creation/configuration, full enabled-possibility chain, distributed no-single-element common cause, or private mental state.
 
 ### Temporal observability
 
@@ -131,48 +182,13 @@ TEO-01 and TEO-02 establish:
 
 > **Minimal earlier/later comparison materially improves recoverability of specific human authorship, persistence and changed possibility.**
 
-TEO-02 further establishes that this temporal information gain survives removal of the literal physical-access route.
+Temporal comparison is a validated causal-observability resource, not a selected motion treatment, split-panel identity, hero behavior or interaction pattern.
 
-Temporal comparison is therefore a validated **causal-observability resource**, not a selected motion treatment, split-panel identity, hero behavior or interaction pattern.
+### Multi-surface burden sharing
 
-## TEO-02 closure
+No single logo, hero, artwork, screen or animation must explain the entire system.
 
-Canonical design:
-
-`docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_02.md`
-
-Canonical result:
-
-`docs/R0_TEMPORAL_OBSERVABILITY_TEO_02_RESULT.md`
-
-Returned asset:
-
-`TEO-02 — Semantic-Route Robustness.png`
-
-Drive ID: `1ZSbMoncwJFbbSmaoIomYbvIfzVntVcGd`
-
-Evaluation Drive Doc ID: `1mSUQGkbkGa1ky8PF1RNcgT0BtOZdolnWbk7beyeythM`
-
-Outcome:
-
-- cross-moment correspondence — STRONG PASS;
-- visible authorship — PASS;
-- persistence — PASS;
-- later independent use — PASS;
-- organization-dependent gain — PASS / PARTIAL;
-- non-access semantic route — STRONG PASS;
-- temporal information gain — STRONG PASS;
-- independent agency — STRONG PASS;
-- human primacy / ordinary condition — PASS;
-- narrative / attractor suppression — PASS / PARTIAL.
-
-Overall:
-
-> **STRONG TEMPORAL-ROUTE ROBUSTNESS PASS / ORGANIZATIONAL-DEPENDENCE PARTIAL**
-
-Per the precommitted stop law:
-
-> **No TEO-03. No PAC-01F. No further calibration render by default.**
+---
 
 ## Surface quarantine
 
@@ -182,105 +198,129 @@ This includes painterly figurative realism, ink/wash, beige/brown palettes, worn
 
 > **Surface != law.**
 
+The recovered O0 Original Concept Foundation is a major conceptual ancestor, not a selected surface. Its exact dark/gold styling, typography, iconography, portrait treatment and layouts have no inheritance rights.
+
+---
+
 ## Working internal thesis
 
 > **Human Causality, Living Consequence.**
 >
 > Kymaean should feel like a world that notices people, remembers what they do, and is changed by what follows.
 
-This is not a public tagline and not a selected aesthetic.
+This is an internal design principle, not a public tagline and not a selected aesthetic.
 
-Current non-aesthetic system hypothesis:
+Durable semantic implication:
 
-> **Distinct people are structurally important; human choices can change shared conditions and future possibilities; identities can persist across transformed representations; relationships can structure the visual field; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
+- people matter;
+- choices can change shared conditions and future possibilities;
+- identities can persist through transformed representation;
+- relationships can structure experience;
+- access/visibility can be asymmetric;
+- present arrangements can contain evidence of prior human causes.
 
-## Active checkpoint
+---
 
-> **Kymaean App + Website Design Synthesis — Blueprint 01 Preparation**
+## Critical lineage safeguards
 
-The transition from R0 calibration to design-synthesis blueprint work is Director-approved.
+Correct RST-05B is:
 
-Exact next action:
+`RST-05B — Persistent Human-Created Condition — CORRECT.png`
 
-> **Prepare `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` as one integrated Director proposal grounded in actual product truth and validated R0 laws.**
+Drive ID: `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`.
 
-The blueprint must cover product-truth mapping, user/task model, app information/flow architecture, website information architecture/product narrative, cross-product visual-system exploration plan, temporal/motion semantics, accessibility, Windows-native feasibility, ARM64/battery suitability, website performance, privacy/trust, validation strategy, and explicit decision gates.
+`MISATTRIBUTED — NOT RST-05B — three-person seated image.png`, Drive ID `1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`, is non-evidence for RST-05B.
 
-Before presentation, recursively audit:
+PAC-01D is valid clean-render evidence per the Director's provenance clarification.
 
-> **product truth -> authority -> scope -> user model -> information architecture -> visual-law continuity -> accessibility -> Windows-native feasibility -> ARM64/battery suitability -> website performance -> privacy/trust -> implementation simplicity -> distinctiveness -> surface-inheritance check -> evidence quality -> contradictions -> open decisions**
-
-Restart after every material correction until one full pass finds no material correction or worthwhile improvement.
-
-Do not generate production XAML/C#/Astro/CSS before Blueprint 01 is explicitly approved.
+---
 
 ## Product-validation boundary
 
 `Rylascoo/Ensemble-Project/CURRENT_STATE.md` remains authority for exact application implementation and validation.
 
-At the transition checkpoint, application engineering states:
+Current application checkpoint establishes:
 
-- E0-A Harness Implementation / H1 Deterministic Spine is active;
-- Patch 0011 Take Semantics is the latest machine-validated executable checkpoint;
-- Patch 0012 Atomic Causal Commit architecture is approved/canonical but implementation has not started;
-- final creator-facing Production/Studio ontology, evolved Character Context disclosure model, and final Take/branch/rehearsal UX are not frozen by current deterministic patches;
-- no current authority establishes final WinUI behavior, Windows AI/NPU execution, packaging/WACK, or Store certification.
+- Blueprint 0.1 remains frozen for E0;
+- E0-A Harness Implementation / H1 Deterministic Spine is active engineering work;
+- Patch 0011 Take Semantics remains the latest machine-validated executable checkpoint unless newer application-repository authority explicitly supersedes it;
+- Patch 0012 Atomic Causal Commit architecture is approved/canonical for implementation but is not current machine-validated executable authority;
+- final creator-facing Production/Studio ontology, evolved Character Context disclosure model, and final Take/branch/rehearsal UX remain open;
+- no current design authority establishes final WinUI behavior, Windows AI/NPU execution, packaging/WACK, or Store certification.
 
-Design proposals must distinguish implemented/validated behavior, approved-but-unimplemented architecture, open ontology/UX, and new design proposal.
+Design proposals must distinguish:
+
+1. validated/frozen product authority;
+2. approved-but-unimplemented architecture;
+3. strong direction/open guard;
+4. design proposal/open decision;
+5. unsupported/future claim.
 
 Website/brand work must not create unsupported claims about WinUI completion, Windows AI/NPU execution, ARM64 performance, packaging, WACK, Partner Center certification or Store readiness.
 
+---
+
 ## App design feasibility boundary
 
-The design synthesis must remain compatible with the established target:
+Design synthesis must remain compatible with the established target:
 
 - Windows 11 Copilot+ PCs;
 - native ARM64 operation;
-- WinUI 3 / Windows App SDK 2.x;
-- C# / .NET 9;
+- WinUI 3 / Windows App SDK 2.x direction;
+- C# / .NET 9 direction;
 - privacy-first/local-first behavior;
-- low idle CPU/GPU/NPU/battery impact;
-- capability gating and deterministic/fail-closed degradation where required;
+- low idle CPU/GPU/NPU and battery impact;
+- deterministic/fail-closed degradation and capability gating where applicable;
 - keyboard, pointer, touch, screen reader, high contrast, scaling and reduced-motion accessibility.
 
-Avoid design assumptions that require permanent GPU animation, constant background inference, idle polling, or embedded-web-app behavior without a demonstrated product reason.
+Avoid design assumptions requiring permanent GPU animation, constant background inference, idle polling, or persistent NPU activity.
 
-## Website implementation state
+Visual richness must be able to become quiescent without losing semantic meaning.
 
-- GitHub repository `Rylascoo/Ensemble-Website` exists and is connected to Cloudflare.
+---
+
+## Website implementation boundary
+
+- Repository `Rylascoo/Ensemble-Website` is connected to Cloudflare.
 - Cloudflare project/Worker identity remains `ensemble-website`.
 - No production website implementation has been initialized.
-- Provisional implementation architecture remains Astro + TypeScript + modern CSS + SVG + selective JavaScript, static generation, Cloudflare Workers Static Assets, and no large JS/3D framework unless a demonstrated design need earns it.
+- Provisional implementation direction remains Astro + TypeScript + modern CSS + SVG + selective JavaScript, static generation and Cloudflare Workers Static Assets unless a demonstrated design need earns something heavier.
 
-Website design must preserve semantic structure, accessibility, reduced motion, responsive behavior, performance, progressive enhancement, maintainability, SEO/discoverability, and truthful claims.
+Website design must preserve semantic structure, accessibility, reduced motion, responsive behavior, performance, progressive enhancement, maintainability, SEO/discoverability and truthful claims.
+
+---
 
 ## Renderer/image-generation status
-
-R0 calibration rendering is closed.
 
 Renderer Isolation remains available as a controlled method when a future design question genuinely needs clean-slate image generation:
 
 > **The director remembers everything. The canvas remembers nothing.**
 
-But image generation is now subordinate to design synthesis. Do not reopen open-ended Renderer Cartography.
+Image generation is subordinate to design synthesis. Do not reopen open-ended Renderer Cartography.
+
+---
 
 ## Fresh-chat bootstrap
 
 For a new Kymaean app + website design Director chat:
 
 1. read this file first;
-2. resolve the current `Rylascoo/Ensemble-Website` `main` commit;
-3. read `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`;
-4. read `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`;
-5. read `docs/DESIGN_CONTINUITY.md`, treating this file/new handoff as live phase authority where its historical R0 status wording differs;
-6. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and resolve its current `main` commit;
-7. read only the additional application roadmap/blueprint/source files needed to ground Blueprint 01;
-8. consult older R0 result files and Drive assets only when exact evidence/provenance is needed;
-9. never use the misattributed three-person image as RST-05B evidence;
-10. do not create TEO-03, PAC-01F, or another calibration branch;
-11. do not inherit an R0 renderer surface as the aesthetic;
-12. prepare and recursively audit Blueprint 01;
-13. stop at the Blueprint 01 Director-review gate before substantial production implementation.
+2. resolve current `Rylascoo/Ensemble-Website` `main` commit;
+3. read `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`;
+4. read `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` for the integrated baseline and its recovery note;
+5. read `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md` and `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md` only as needed for transition/R0 evidence;
+6. read `docs/DESIGN_CONTINUITY.md`, treating this file and the active recovery artifact as live phase authority where historical status wording differs;
+7. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and resolve that repository's current `main` commit;
+8. read `docs/blueprint/CREATOR_ONTOLOGY_EXTENSIBILITY_GUARD.md` from the application repository when app IA or creator-facing ontology is in scope;
+9. read only additional application roadmap/blueprint/source/evidence files actually needed for the current question;
+10. consult older R0 result files and Drive assets only when exact evidence/provenance is needed;
+11. never use the misattributed three-person image as RST-05B evidence;
+12. do not create TEO-03, PAC-01F, or another calibration branch;
+13. do not inherit an R0 renderer surface or O0 surface as the aesthetic;
+14. do not revive the superseded Creator-first/Witness-first/Understanding-first/Cycle-first selection gate;
+15. stop at the current Director-review gate before generating the proposed next IA artifact or substantial production implementation.
+
+---
 
 ## Phase authority
 
@@ -295,5 +335,11 @@ Preserve:
 > **Metaphor != identity.**
 >
 > **Surface != law.**
+>
+> **Product experience ontology != storage ontology.**
 
-The transition to Blueprint 01 preparation has Director approval. Specific design selections and production implementation do not.
+Current gate:
+
+> **Director review of `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`.**
+
+No next design phase, visual experiment, or implementation is automatically authorized.
