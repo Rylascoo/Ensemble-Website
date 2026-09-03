@@ -48,143 +48,50 @@ Therefore the accumulated evidence supports the methodological correction:
 
 > **The renderer is capable of substantial surface divergence when formal grammar is explicitly controlled. Leaving formal grammar open is itself a strong experimental variable and repeatedly invites high-probability genre shortcuts.**
 
-This finding is stronger than the hypothesis that account memory alone explains the repeated architecture/bridge results.
-
-It does not prove account-level context is absent; it makes that hidden mechanism less useful as the primary experimental explanation because the same product surface has already produced orthogonal outputs under different formal constraints.
+This finding is stronger than the hypothesis that account memory alone explains the repeated architecture/bridge results. It does not prove account-level context is absent; it makes that hidden mechanism less useful as the primary experimental explanation because the same image surface has already produced orthogonal outputs under different formal constraints.
 
 ## High-confidence attractor map
 
-### 1. Open-world artistic freedom
+1. **Open-world artistic freedom** — `RI-002` -> cinematic fantasy/concept-art prior with weaker causal recoverability.
+2. **Material-history / handmade / wear / repair vocabulary** — `RI-004` and related branches -> rustic craft, boathouse, atelier, inherited-material worlds.
+3. **Beneficial changed access / changed route / “what another person can do”** — `RI-005`, `CSR-E03` -> accessibility/accommodation/traversal narrative.
+4. **Abstract pair / mechanism language** — `RI-009` -> monumental symbolic machinery.
+5. **Concrete examples** — `RI-010` and repeated RI/Round 1 evidence -> examples selected literally and treated as visual seeds.
+6. **Brand / website / identity framing inside image packets** — V0.5A invalid boards and first in-project R0 failure -> collateral/presentation-board output and accumulated-attractor recombination.
+7. **Environment-first monumental scale** — V0.4 monumental family, `AL-A01`, Round 1 A/D/F, `CSR-E01/E04` -> scenery protagonist; people become observers or scale figures.
 
-Evidence: `RI-002`.
-
-Observed response: visually magnetic cinematic fantasy / concept-art prior with weaker causal recoverability.
-
-Classification: **PROJECT EMPIRICAL LAW**.
-
-### 2. Material-history / handmade / wear / repair vocabulary
-
-Evidence: `RI-004` and related historical craft branches.
-
-Observed response: rustic craft, boathouse, atelier, inherited-material worlds.
-
-Classification: **PROJECT EMPIRICAL LAW**.
-
-### 3. Beneficial changed access / changed route / “what another person can do”
-
-Evidence: `RI-005`, `CSR-E03`.
-
-Observed response: accessibility/civic editorial or accommodation/traversal narrative.
-
-Classification: **STRONG PROJECT LAW**.
-
-### 4. Abstract pair / mechanism language
-
-Evidence: `RI-009`.
-
-Observed response: monumental symbolic machinery.
-
-Classification: **PROJECT EMPIRICAL LAW**.
-
-### 5. Concrete examples
-
-Evidence: `RI-010` and repeated user reactions throughout RI/Round 1.
-
-Observed response: examples selected literally and treated as visual seeds.
-
-Classification: **PROJECT EMPIRICAL LAW**.
-
-### 6. Brand / website / identity framing inside image packets
-
-Evidence: V0.5A invalid brand boards and the first in-project R0 generation.
-
-Observed response: presentation boards, labels, titles, palette/collateral framing, and accumulated prior-attractor recombination.
-
-Classification: **PROJECT EMPIRICAL LAW**.
-
-### 7. Environment-first monumental scale
-
-Evidence: V0.4 monumental family, `AL-A01`, Round 1 Studies A/D/F, `CSR-E01`, `CSR-E04`.
-
-Observed response: scenery becomes protagonist; people become observers or scale figures.
-
-Classification: **PROJECT EMPIRICAL LAW**.
+These are project empirical renderer-behavior findings, not selected Kymaean aesthetics.
 
 ## High-confidence useful control mechanisms
 
-These are not visual identities. They are experimental mechanisms that successfully changed renderer behavior.
-
-### Formal flatness + negative space
-
-Evidence: `AL-B01`.
-
-Effect: people remained structurally important without relying on portrait realism or deep scenic architecture.
-
-### Sparse contour + active void
-
-Evidence: `AL-D01`; identity caution from `AL-G01`; identity solution evidence from `AL-H01`.
-
-Effect: relationship can be carried by gesture, distance and mark density; persistent distinguishing features are needed to avoid identity-attribution failure.
-
-### Shallow overlap / occlusion
-
-Evidence: `AL-C01`, `AL-E01`.
-
-Effect: social asymmetry and influence can be encoded through visibility, overlap, shared regions and interrupted edges rather than literal walls/bridges.
-
-### Reduced descriptive detail
-
-Evidence: `R1-STUDY-C`.
-
-Effect: human and relational reading strengthens while environmental/object symbolism loses dominance.
-
-### Human-scale ordinary reality
-
-Evidence: V0.4 Ordinary-Room Presence Study.
-
-Effect: human-caused visual change can remain meaningful without monumental spectacle or overt magic.
-
-### Repeated-pattern exception
-
-Evidence: `RI-010`, `RI-011`.
-
-Effect: present state can robustly reveal prior organization and changed consequence.
-
-This remains a causal mechanism, not an artistic grammar.
+- **Formal flatness + negative space** — `AL-B01`: people remained structurally important without realistic depth or scenic architecture.
+- **Sparse contour + active void** — `AL-D01`, with identity caution from `AL-G01` and identity-invariant evidence from `AL-H01`: relationship can be carried by gesture, distance and mark density when person attribution survives.
+- **Shallow overlap / occlusion** — `AL-C01`, `AL-E01`: social asymmetry and influence can be encoded through visibility, overlap and shared regions without literal walls/bridges.
+- **Reduced descriptive detail** — `R1-STUDY-C`: human and relational reading strengthens while environmental/object symbolism loses dominance.
+- **Human-scale ordinary reality** — V0.4 Ordinary-Room Presence: meaningful human-caused change can remain non-monumental and non-magical.
+- **Repeated-pattern exception** — `RI-010/011`: present state can reveal prior organization and changed consequence. This is a causal mechanism, not an artistic grammar.
 
 ## External Gemini guide — retained value
 
-The user-supplied Gemini Pro guide is useful chiefly as a **prompt-variable taxonomy** and source of test hypotheses, especially:
-
-- composition and framing vocabulary;
-- apparent camera/lens behavior;
-- lighting structure;
-- material/surface behavior;
-- de-biasing descriptions.
+The user-supplied Gemini Pro guide is useful chiefly as a prompt-variable taxonomy and source of test hypotheses, especially composition/framing, apparent camera/lens behavior, lighting, material/surface behavior, and de-biasing descriptions.
 
 It is not project authority for claims about hidden vector-space mechanics.
 
-Do not treat as established:
-
-- fixed “first 3–5 words” mathematical weighting;
-- predictable word-by-word dilution;
-- technical jargon targeting specific hidden neural pathways;
-- physically exact lens simulation from camera names;
-- Midjourney or Stable Diffusion weighting syntax in ChatGPT Images.
+Do not treat as established: fixed first-3-to-5-word mathematical weighting; predictable word-by-word dilution; jargon targeting hidden neural pathways; physically exact lens simulation from camera names; or Midjourney / Stable Diffusion weighting syntax in ChatGPT Images.
 
 See `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md` and the Drive `Source Classification` sheet.
 
 ## Controlled Formal Matrix 01 — audited proposal
 
-The first controlled matrix deliberately keeps the **relational semantic route close to CSR-E04** while making formal grammar explicit.
+The first controlled matrix keeps the **present relational-change route close to CSR-E04** while making formal grammar explicit and making the required event directly observable.
 
 Fixed semantic kernel:
 
-> Three distinct people share one present situation. One person's visible choice changes the relationship among them in the depicted moment. Their different responses make unequal understanding legible. People must carry the structure and meaning.
+> Three distinct people share one present moment. One person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding legible. The people must carry the structure and meaning.
 
 Important attribution safeguard:
 
-> **Matrix 01 is not a strict A/B reproduction of CSR-E04.** Participant count and formal controls are now explicitly fixed. Comparison to E04 is diagnostic evidence only; Matrix 01 must not be used to claim that one isolated factor caused E04's bridge/monumental result.
+> **Matrix 01 is not a strict A/B reproduction of CSR-E04.** Participant count, observable-action wording, and formal controls are now explicitly fixed. Comparison to E04 is diagnostic evidence only; Matrix 01 must not be used to claim that one isolated factor caused E04's bridge/monumental result.
 
 ### CFM-01A — Flat Mass / Negative Space
 
@@ -229,9 +136,9 @@ Hold constant:
 
 - semantic kernel;
 - three distinct people;
-- one visible present choice;
+- one visible present action;
 - unequal understanding/response;
-- each person's individual recognizability through a small combination of silhouette, bodily proportion, posture, and characteristic movement rather than facial detail alone;
+- individual recognizability through a small combination of silhouette, bodily proportion, posture, and characteristic gesture;
 - artwork-only contract;
 - people dominate the composition;
 - diffuse illumination with moderate contrast;
@@ -248,9 +155,9 @@ Execution order: CFM-01A -> CFM-01B -> CFM-01C.
 
 Stop early before CFM-01C if both first two outputs collapse into the same quarantined architectural/period/cinematic attractor family despite formal control.
 
-Stop after the third render regardless of apparent success. Archive and synthesize before any further generation.
+If CFM-01B loses individual attribution, record B as a formal-grammar failure and do not rerender it. Proceed to C unless the attractor stop condition has fired.
 
-If CFM-01B loses individual attribution, record that as a formal-grammar failure rather than entering a corrective prompt chain.
+Stop after the third render regardless of apparent success. Archive and synthesize before any further generation.
 
 ## What Matrix 01 can and cannot establish
 
@@ -266,11 +173,11 @@ A later matrix can reintroduce causal history/changed possibility after the form
 
 No image is authorized yet. If approved, transfer **only** the following packet to a fresh regular non-project Renderer Context:
 
-> Create one uninterrupted artwork centered on three distinct people. In the depicted moment, one person's visible choice changes the relationship among the three. Their different responses should make unequal understanding visible. The people must carry the structure and meaning of the artwork.
+> Create one uninterrupted artwork centered on three distinct people. In the depicted moment, one person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding visible. The people must carry the structure and meaning of the artwork.
 >
 > Build the image on a shallow picture plane using large contiguous human shapes and deliberate negative space. Keep depth cues minimal. Let proximity, overlap, separation, and void carry the relationship. Keep the surroundings visually simple and subordinate to the people.
 >
-> Keep each person individually recognizable through a small combination of silhouette, bodily proportion, posture, and characteristic movement rather than facial detail alone. Use diffuse illumination with moderate contrast.
+> Distinguish each person through a small combination of silhouette, bodily proportion, posture, and characteristic gesture. Use diffuse illumination with moderate contrast.
 >
 > Return only the uninterrupted artwork. Do not add text or any surrounding explanatory, interface, promotional, branding, or presentation layout.
 
