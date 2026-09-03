@@ -1,14 +1,14 @@
 # Kymaean / Ensemble Website — R0 Renderer Cartography Handoff
 
-Status: **ACTIVE VISUAL CONTINUATION HANDOFF — CROSS-MEDIUM SEMANTIC ALLOCATION GATE**
+Status: **ACTIVE VISUAL CONTINUATION HANDOFF — TEMPORAL-EVIDENCE DECISION GATE**
 
 Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation from the completed Persistent Affordance Carrier sequence through a Director-only semantic-allocation audit.
+Continue R0 Visual Re-Foundation from the completed Persistent Affordance Carrier sequence and completed Cross-Medium Semantic Allocation Evidence Audit 01.
 
-Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production surface.
+Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, or production surface.
 
 ## Authoritative read order
 
@@ -19,11 +19,12 @@ Do not promote a new visual phase. Do not select a logo, wordmark, palette, mate
 5. `docs/VISUAL_ARCHIVE_PROTOCOL.md`
 6. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
 7. `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
-8. PAC-01A/B/C/D/E result files as needed
+8. PAC-01A/B/C/D/E result files only as needed
 9. `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
-10. this handoff
-11. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-12. Drive Renderer Cartography dataset, critique ledger, PAC assets/evaluations and PAC synthesis mirror
+10. `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
+11. this handoff
+12. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
+13. Drive Renderer Cartography dataset, critique ledger, PAC assets/evaluations and synthesis as needed
 
 GitHub and Drive are durable project state. Do not ask the user to reconstruct completed research from chat history when these sources resolve it.
 
@@ -35,7 +36,13 @@ GitHub and Drive are durable project state. Do not ask the user to reconstruct c
 
 > **Renderer Isolation controls known project-context leakage. Renderer Cartography controls experimental variables.**
 
-## Corrected lineage safeguard
+Anti-churn discipline:
+
+> **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
+
+Do not create an automatic M1/M2/M3 or similar ladder.
+
+## Corrected lineage safeguards
 
 Correct RST-05B is the five-person image `RST-05B — Persistent Human-Created Condition — CORRECT.png`, Drive ID `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`.
 
@@ -43,7 +50,7 @@ Correct RST-05B is the five-person image `RST-05B — Persistent Human-Created C
 
 PAC-01D is valid clean-render evidence. The user clarified that it was generated in a fresh regular non-project Renderer Context; the same packet was accidentally pasted into the project chat afterward.
 
-## Persistent Affordance Carrier sequence
+## Completed PAC sequence
 
 PAC-01A:
 
@@ -65,76 +72,78 @@ PAC-01E:
 
 > distributed object cluster -> reduced hub dominance, but no robust no-single-element sufficiency
 
-Canonical PAC-01E result:
-
-`docs/R0_RENDERER_CARTOGRAPHY_PAC_01E_RESULT.md`
-
-Returned asset Drive ID: `1aInmjVm8v8Pyaufc1KxLvmXFJr5BGNd1`
-
-Evaluation Doc ID: `14G1u7zb8mYneHZ5b7VIbTyZoBIZcPtyMp5HD2t15WJo`
-
-PAC synthesis:
+Canonical PAC synthesis:
 
 `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
 
-Drive synthesis ID: `1ZkpgtZT0RU_VCXny4HhESsdS_GgtGAVluSsWhL2jszo`
-
-## Durable PAC findings
-
-> **Supported action is not necessarily carrier-dependent action.**
-
-> **Object affordance is not configuration affordance.**
-
-> **Relational affordance can emerge locally without producing shared systemic affordance.**
-
-> **Multiple local configurations are not one shared capability-bearing configuration.**
-
-> **Shared-element overlap is not distributed configuration dependence.**
-
-> **Distributed carrier topology is not distributed configuration dependence.**
-
-Major methodological conclusion:
+Major conclusion:
 
 > **Not every system law must be directly observable in one static visual surface.**
 
-## Why the PAC branch stops here
-
-The sequence increasingly constrained ordinary-object topology while preserving people, agency and non-symbolic carriers.
-
-By PAC-01E, removing a dominant hub mainly produced a denser chair/crate/surface constellation. Human actions still remained largely explainable through familiar local affordances.
-
-Continuing with stronger static wording about necessity is likely to force contraptions, modular systems, products or installations rather than produce cleaner causal evidence.
-
 Do not proceed automatically to PAC-01F.
+
+## Completed Cross-Medium Evidence Audit 01
+
+Canonical audit:
+
+`docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
+
+The audit corrected premature Director-chat speculation about a conventional static hero, motion hierarchy, interactive revelation and M1/M2/M3 progression. Those proposals are not project authority.
+
+### Supported for static artwork
+
+Current evidence supports:
+
+- distinct human presence and structural human primacy;
+- relationship as visual geometry;
+- transformed-but-recognizable identity when deliberately tested;
+- asymmetric evidentiary/visual position;
+- independent agency;
+- present consequence;
+- recoverable prior state/history when the image contains its own comparison evidence;
+- ordinary persistent affordance.
+
+### Partial / static observability boundary
+
+Current still-image evidence does not robustly establish:
+
+- specific prior human authorship without hierarchy, force or literal mechanism;
+- definite prior human creation/configuration of a persistent condition;
+- the full chain `prior human choice -> persistent condition -> newly enabled independent action`;
+- one shared multi-element condition as the necessary common cause of several independent capabilities;
+- no-single-element sufficiency.
+
+### Not a defensible static claim
+
+A still image should not be scored as proving private knowledge, belief, memory, intention, understanding or interpretation. Asymmetric evidentiary position is the defensible visible proxy.
+
+### Critical correction about other media
+
+Motion, sequence and interaction are **candidate research media only**. No current R0 experiment has empirically validated them as solutions to authorship, propagation or enabled possibility.
+
+Do not treat motion treatment, interactive revelation, homepage behavior, hero composition or website state transitions as selected or validated direction.
 
 ## Active checkpoint
 
-**R0 Cross-Medium Semantic Allocation — Director Analysis Gate**
+**R0 Cross-Medium Semantic Allocation — Temporal-Evidence Decision Gate**
 
-Before any new render, determine which project laws belong to which medium.
+Smallest unresolved question:
 
-Audit at least four buckets:
+> **Does adding minimal temporal evidence materially improve recoverability of prior human authorship and enabled possibility without forcing literal mechanism, hierarchy or narrative explanation?**
 
-1. **Static artwork** — directly observable without narrative explanation.
-2. **Sequence / motion** — requires before/after or propagation.
-3. **Interaction / state transition** — requires user-visible persistent change or changed capability.
-4. **Internal generative constraints** — important to Kymaean but not required to be literally depicted.
-
-Required questions:
-
-- Which system laws have already proved robust in still images?
-- Which repeatedly fail because they require counterfactual or temporal evidence?
-- What is the minimum added temporal information needed to recover human authorship and enabled possibility?
-- Can motion/sequence encode those laws without returning to bridges, thresholds, repair, access shorthand or cinematic spectacle?
-- Which principles should stop being compressed into one hero artwork?
+This is a research question, not an authorization.
 
 ## Exact next action
 
-**No new image is authorized.**
+**No new image, motion experiment or website implementation is authorized.**
 
-Perform the semantic-allocation audit first. Produce a Director proposal for the smallest next cross-medium experiment only after the audit converges.
+Director review should decide only whether the evidence justifies designing **one tightly controlled temporal-observability experiment**.
 
-Do not initialize production website code.
+If yes, design the smallest possible experiment and stop for review before execution.
+
+If no, keep those system laws as internal/product-level principles rather than forcing additional visual proof.
+
+Do not introduce a new visual direction, hero specification, motion system or interaction architecture while making this decision.
 
 ## Phase authority
 
@@ -144,4 +153,4 @@ Do not initialize production website code.
 > **Metaphor != identity.**  
 > **Surface != law.**
 
-R0 remains active.
+R0 remains active. No convergence or production website implementation is authorized.
