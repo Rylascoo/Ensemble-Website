@@ -142,7 +142,6 @@ Hold constant:
 - artwork-only contract;
 - people dominate the composition;
 - diffuse illumination with moderate contrast;
-- no brand/product/UI/presentation framing;
 - no reference images in Matrix 01.
 
 Do not add historical-surface blacklists to the renderer packet. The formal grammar itself is the control.
@@ -173,13 +172,13 @@ A later matrix can reintroduce causal history/changed possibility after the form
 
 No image is authorized yet. If approved, transfer **only** the following packet to a fresh regular non-project Renderer Context:
 
-> Create one uninterrupted artwork centered on three distinct people. In the depicted moment, one person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding visible. The people must carry the structure and meaning of the artwork.
+> Three distinct people must form the primary structure of one uninterrupted artwork. In the depicted moment, one person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding visible.
 >
 > Build the image on a shallow picture plane using large contiguous human shapes and deliberate negative space. Keep depth cues minimal. Let proximity, overlap, separation, and void carry the relationship. Keep the surroundings visually simple and subordinate to the people.
 >
 > Distinguish each person through a small combination of silhouette, bodily proportion, posture, and characteristic gesture. Use diffuse illumination with moderate contrast.
 >
-> Return only the uninterrupted artwork. Do not add text or any surrounding explanatory, interface, promotional, branding, or presentation layout.
+> Return only the uninterrupted artwork, with no text or surrounding layout.
 
 Renderer execution contract after approval:
 
