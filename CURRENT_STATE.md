@@ -24,6 +24,7 @@ Completed R0 evidence/checkpoints include:
 - `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
 - Cross-Surface Robustness Experiments 01–04 as archived diagnostic evidence
 - `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
+- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`
 
 Current active methodology checkpoint:
 
@@ -83,9 +84,9 @@ Canonical Drive dataset:
 
 `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
 
-The first retrospective pass contains 46 records covering CSR-E01–E04, RI-001A/001B through RI-011, AL-A01 through AL-H01, Round 1 Study A–F and Synthesis 06–08, selected V0.4 branches, and V0.5A failure/research evidence.
+The dataset now contains **47 experiment/research records**, including completed `CFM-01A`, plus Attractor Map, Controlled Formal Matrix, and Source Classification sheets.
 
-Exact CSR-E01–E04 Director packets are recovered. Most earlier exact prompt text remains `PENDING EXACT PROMPT RECOVERY`; do not reconstruct false precision.
+Exact CSR-E01–E04 and CFM-01A Director packets are recovered. Most earlier exact prompt text remains `PENDING EXACT PROMPT RECOVERY`; do not reconstruct false precision.
 
 ## Prompt-engineering evidence classes
 
@@ -142,42 +143,48 @@ Preserve:
 
 ## Controlled Formal Matrix 01 — current gate
 
-Matrix 01 keeps a present relational-change semantic route substantially constant while explicitly changing formal grammar.
-
 Fixed semantic kernel:
 
 > Three distinct people share one present moment. One person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding legible. The people must carry the structure and meaning.
 
 Variants:
 
-- `CFM-01A` — Flat Mass / Negative Space
-- `CFM-01B` — Sparse Contour / Void
-- `CFM-01C` — Shallow Overlap / Occlusion
+- `CFM-01A` — Flat Mass / Negative Space — **COMPLETED; FORMAL METHOD PASS**
+- `CFM-01B` — Sparse Contour / Void — **NEXT; PACKET READY FOR DIRECTOR REVIEW**
+- `CFM-01C` — Shallow Overlap / Occlusion — pending
 
 Shared controls include participant count, visible present action, asymmetric response, individual recognizability through a small combination of silhouette/bodily proportion/posture/characteristic gesture, people-dominant composition, an even tonal field with moderate contrast, artwork-only output, and no reference images.
 
-Matrix 01 is not a strict A/B reproduction of CSR-E04. Participant count, observable-action wording and formal controls are now explicitly fixed. Comparison to E04 is diagnostic only and cannot prove that a single isolated factor caused the historical bridge/monumental output.
+### CFM-01A result
 
-Render budget: maximum three images, one fresh non-project renderer chat per image. Stop before C if A and B both collapse into the same quarantined architectural/period/cinematic family. If B loses person attribution, record B as a failure and do not rerender it; proceed to C unless the attractor stop condition fired. Stop after C regardless of success and synthesize before any further generation.
+CFM-01A successfully suppressed the previous monumental architecture / bridge / threshold / period-world / deep-cinematic family. Three people became the complete structural and relational field. Human structural importance and the Flat Mass / Negative Space formal package passed strongly. Present relational action and unequal response were legible; exact relational before/after and unequal knowledge/understanding remained partial.
+
+The renderer still chose a restrained painterly figurative medium, which remains surface evidence only. No CFM-01A palette, medium, clothing, gesture, arrangement, or neutral-field treatment has inheritance rights.
+
+See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`.
+
+Matrix 01 remains comparative rather than a strict historical A/B test. CFM-01A is evidence that explicit formal control can materially reduce recurrence of the old attractor family; it does not prove one isolated variable caused CSR-E04.
+
+Render budget remains maximum three images. If B loses person attribution, record B as a failure and do not rerender it. If A and B both collapse into the same old attractor family, stop before C. Otherwise C remains eligible. Stop after C regardless of success and synthesize before further generation.
 
 ## Exact next work
 
-`CFM-01A` is **packet-ready but not render-authorized**.
+`CFM-01B — Sparse Contour / Void` is **packet-ready but not render-authorized until explicit user approval**.
 
-The exact packet is preserved in:
+Exact packet and CFM-01A evaluation are preserved in:
 
-`docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
+`docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`
 
 Current Director action:
 
-1. review/present the exact CFM-01A packet;
+1. review/present the exact CFM-01B packet;
 2. stop for explicit user approval;
 3. do not generate inside the Ensemble project;
 4. after approval, transfer only the exact packet into a fresh regular non-project renderer chat;
 5. use no memory-negation preamble and add no examples;
 6. generate one image and close that renderer chat;
 7. return the image to Director Context;
-8. evaluate, archive, and update the Cartography dataset before deciding whether CFM-01B is warranted.
+8. evaluate, archive, and update Cartography before deciding whether CFM-01C is warranted.
 
 ## Product-validation boundary
 
@@ -203,10 +210,11 @@ For the next Kymaean website/brand Director chat:
 4. read `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`;
 5. read `docs/VISUAL_ARCHIVE_PROTOCOL.md`;
 6. read `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`;
-7. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
-8. read RI/AL and Round 1 checkpoints only when needed for evidence;
-9. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
-10. read the named Drive Renderer Cartography dataset, registry, retrospective checkpoint, and archive records;
-11. do not restart retrospective prompting research from generic advice;
-12. do not render CFM-01A unless explicit user approval has already been recorded;
-13. remain in R0 unless explicit mutual convergence occurs.
+7. read `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`;
+8. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
+9. read RI/AL and Round 1 checkpoints only when needed for evidence;
+10. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
+11. read the named Drive Renderer Cartography dataset, registry, evaluation, retrospective checkpoint, and archive records;
+12. do not restart renderer research from generic external prompting advice;
+13. do not render CFM-01B unless explicit user approval has already been recorded;
+14. remain in R0 unless explicit mutual convergence occurs.
