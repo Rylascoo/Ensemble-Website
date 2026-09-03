@@ -8,7 +8,7 @@ Updated: 2026-09-03
 - `Rylascoo/Ensemble-Website` is authoritative for website engineering and website/brand continuity.
 - `Rylascoo/Ensemble-Project` is authoritative for application-engineering truth and validation boundaries and is read-only for website work unless explicitly instructed otherwise.
 - Google Drive `Ensemble Project` is the canonical visual/design workspace and master-asset authority.
-- The old `Rylascoo/Kymaean-Project` is a separate application and must not influence this new Ensemble/Kymaean identity unless explicitly requested.
+- The old `Rylascoo/Kymaean-Project` is a separate application and must not influence this Ensemble/Kymaean identity unless explicitly requested.
 
 ## Current phase
 
@@ -36,27 +36,23 @@ Read as needed:
 - `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_PAC_01A_RESULT.md`
+- `docs/R0_RENDERER_CARTOGRAPHY_PAC_01B_RESULT.md`
 
 Controlled Formal Matrix 01 established that materially different Director-controlled formal grammars can preserve a human relational kernel while strongly suppressing the former environment-first monumental architecture / bridge / threshold / period-world / deep-cinematic attractor family.
 
-## Corrected SOV/RST lineage
+## Corrected SOV/RST lineage safeguard
 
-The generated Semantic Observability / Reference-State sequence is complete through corrected `RST-05B`.
+The Semantic Observability / Reference-State sequence is complete through corrected `RST-05B`.
 
-Canonical synthesis:
-
-`docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
-
-The **correct** RST-05B is the five-person image:
+The **correct** RST-05B is:
 
 `RST-05B — Persistent Human-Created Condition — CORRECT.png`
 
 Drive ID: `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`
 
-The separately archived three-person seated image:
+The separately archived:
 
 `MISATTRIBUTED — NOT RST-05B — three-person seated image.png`
 
@@ -79,23 +75,21 @@ Durable SOV/RST findings include:
 
 No individual SOV/RST surface has inheritance rights. Painterly recurrence is not convergence.
 
-## PAC-01A — completed
+## Persistent Affordance Carrier branch
 
-Canonical design:
-
-`docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_01.md`
+### PAC-01A — completed
 
 Canonical result:
 
 `docs/R0_RENDERER_CARTOGRAPHY_PAC_01A_RESULT.md`
 
-Archived returned image:
+Returned asset:
 
 `PAC-01A — Ordinary Shared Arrangement Distributed Use.png`
 
 Drive ID: `1ol4PJz8DIVWyXV-3lvlfkvfU1s4FJd4m`
 
-PAC-01A result:
+Outcome:
 
 - carrier visibility — PASS;
 - human-shaped history — PARTIAL;
@@ -104,52 +98,91 @@ PAC-01A result:
 - human primacy — PASS/PARTIAL;
 - metaphor suppression — PASS.
 
-Principal finding:
+Principal findings:
 
 > **A mundane visible carrier can restore persistent plural affordance that human-only abstraction failed to make recoverable.**
 
-Remaining bottleneck:
-
-> **Usability is visible, but prior human configuration is not.**
-
-Additional measurement correction:
-
 > **Supported action is not necessarily carrier-dependent action.**
 
-The integrated ledges/steps in PAC-01A may simply be generic pre-existing architecture, and some depicted actions could occur without that exact carrier.
+PAC-01A's integrated ledges/steps could be generic pre-existing architecture, and some depicted actions could occur without that exact carrier.
 
-No inheritance rights for worn stone, ledges, steps, public-space mood, painterly treatment, personal objects, clothing, palette, or architecture.
+### PAC-01B — completed
 
-## Active methodology checkpoint
-
-> **R0 Renderer Cartography — PAC-01B Authorized Renderer Handoff**
-
-Canonical design and authorized packet:
+Canonical design:
 
 `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`
 
+Canonical result:
+
+`docs/R0_RENDERER_CARTOGRAPHY_PAC_01B_RESULT.md`
+
+Returned asset:
+
+`PAC-01B — Repositioned Ordinary Elements Configuration-Dependent Use.png`
+
+Drive ID: `13dNj8pa7n3cfus074cS0gN3-n5YmU0_Y`
+
+Drive evaluation Doc ID: `1vQQlwDgpQkpUXJLBr8kL-KDh9vCWZu0E2nO1jlWOrR4`
+
+Gate outcome:
+
+- PACB1 configuration evidence — PARTIAL;
+- PACB2 persistence — PASS;
+- PACB3 configuration-dependent plural affordance — FAIL;
+- PACB4 independent agency — STRONG PASS;
+- PACB5 human primacy — PASS;
+- PACB6 ordinary/non-symbolic carrier — PASS;
+- PACB7 attractor suppression — PASS.
+
+Overall:
+
+> **PARTIAL METHOD PASS / TARGET FAILURE**
+
+PAC-01B successfully replaced generic fixed infrastructure with ordinary repositionable elements, but the renderer treated the scene as a collection of familiar single-object affordances: chair -> sitting/reading, table -> writing, crate -> sitting, chair -> phone use.
+
+The decisive new empirical distinction is:
+
+> **Object affordance is not configuration affordance.**
+
+The actions did not visibly depend on the relationships among multiple elements. If the objects were separated, most uses would remain intelligible.
+
+Empirical ladder:
+
+- PAC-01A: generic built carrier -> plural supported use;
+- PAC-01B: repositionable ordinary objects -> plural object-level use;
+- unresolved: relational configuration -> emergent capability produced by the arrangement itself.
+
+No inheritance rights for PAC-01A/PAC-01B's worn interiors, furniture, stone, ledges, tables, chairs, crate, painterly treatment, clothing, objects, palettes, or improvised-room mood.
+
+## Active methodology checkpoint
+
+> **R0 Renderer Cartography — Persistent Affordance Carrier Design 03 — Director Review Gate**
+
+Canonical design:
+
+`docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_03.md`
+
 Drive mirror:
 
-`R0 Renderer Cartography — Persistent Affordance Carrier Design 02`
+`R0 Renderer Cartography — Persistent Affordance Carrier Design 03`
 
-Drive document ID: `1rHClBXdZHI0lvg2A8g08PqxKaXB5-YcGKwOAoTuSmg0`
+Drive document ID: `1Hgnc5E_fwfYxs1m4KXlkUXtIna_nd4TMapND_gSSUgE`
 
-### PAC-01B — Repositioned Ordinary Elements / Configuration-Dependent Use
+### PAC-01C — Relational Configuration / Emergent Affordance
 
 Research question:
 
-> **Can ordinary human-made elements make prior human configuration and expanded present capability visually recoverable when several people independently use the resulting arrangement?**
+> **Can ordinary movable elements become a capability-bearing configuration when multiple independent human actions visibly depend on their relationship to one another?**
 
-The new controlled variables are:
+The next controlled variable is deliberately narrow:
 
-1. **configuration evidence** — ordinary elements should visibly read as deliberately positioned/combined by prior human activity rather than generic fixed architecture;
-2. **affordance dependence** — at least two different independent present actions should make particular sense because of the way the elements are positioned together.
+> **relational configuration dependence**
+
+PAC-01C keeps the same broad carrier class as PAC-01B and changes only the required level of affordance. At least two independent actions must visibly depend on relationships among multiple ordinary elements rather than on any one object by itself.
 
 The exact sterile packet and evaluation gates are in the canonical design file.
 
-**Director approval is complete. Exactly one PAC-01B image is authorized.**
-
-Use one fresh regular non-project Renderer Context and the authorized packet unchanged. No correction chain. Return the first result to Director Context for archival and evaluation before any further design.
+**No PAC-01C image is authorized yet. Stop for Director review.**
 
 ## Working website / brand thesis
 
@@ -203,11 +236,11 @@ For the next Kymaean website/brand Director chat:
 6. read `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`;
 7. read `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`;
 8. read `docs/R0_RENDERER_CARTOGRAPHY_PAC_01A_RESULT.md`;
-9. read `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`;
-10. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
-11. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
-12. read the Drive Renderer Cartography dataset, corrected assets, PAC-01A evaluation, and active design mirror;
-13. never use the misattributed three-person image as RST-05B evidence;
-14. PAC-01B is authorized for exactly one render in one fresh regular non-project Renderer Context using the canonical packet unchanged;
-15. after that image returns, archive/evaluate before any further rendering or topology design;
+9. read `docs/R0_RENDERER_CARTOGRAPHY_PAC_01B_RESULT.md`;
+10. read `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_03.md`;
+11. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
+12. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
+13. read the Drive Renderer Cartography dataset, corrected assets, PAC evaluations, and active design mirror;
+14. never use the misattributed three-person image as RST-05B evidence;
+15. do not generate PAC-01C until explicit Director approval;
 16. remain in R0 unless explicit mutual convergence occurs.
