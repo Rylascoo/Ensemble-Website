@@ -2,7 +2,7 @@
 
 Status: **COMPLETED R0 RESEARCH CHECKPOINT — NO CONVERGENCE**
 
-Updated: 2026-09-02
+Updated: 2026-09-03
 
 ## Purpose
 
@@ -36,6 +36,19 @@ The useful conceptual progression was:
 The sequence moved through literal causal scenes, independent artistic-language studies, abstract/shared spatial fields, inherited environmental conditions, visible intervention, altered boundaries, and finally a literal crossing condition.
 
 This was a **conceptual** progression, not an aesthetic progression.
+
+## Verified visual-evidence inventory
+
+The companion Drive atlas currently contains **nine distinct embedded archival visual copies** from the Round 1 continuation:
+
+- six earlier studies preserved under the historical atlas labels `Study A` through `Study F`;
+- `R0 Synthesis 06`;
+- `R0 Synthesis 07`;
+- `R0 Synthesis 08`.
+
+These labels preserve the actual archive that survived the Director chat. They should not be reinterpreted as evidence that the project had a perfectly continuous strict `01` through `08` naming scheme. Future chats should use the atlas/checkpoint labels as provenance rather than reconstructing numbering from memory.
+
+The nine embedded copies are archival visual evidence, not standalone raw image-file preservation. No image receives inheritance rights from being preserved here.
 
 ## Transferable laws
 
@@ -147,7 +160,7 @@ This is not an aesthetic selection.
 
 ## Google Drive checkpoint
 
-Active visual research location:
+Completed Round 1 visual-research location:
 
 `03 Clean-Slate Visual Discovery — Active / X0 Cross-Lane Discovery & Research — Clean Slate / R0 Cross-Lab Synthesis Round 1 — Active Research`
 
