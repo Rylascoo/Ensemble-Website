@@ -82,9 +82,9 @@ The three probes also share:
 
 - individual recognizability through a small combination of silhouette, bodily proportion, posture, and characteristic gesture;
 - people-dominant composition;
-- diffuse illumination with moderate contrast;
+- an even tonal field with moderate contrast;
 - artwork-only output;
-- no references, branding, UI, or presentation framing.
+- no references.
 
 Matrix 01 is **not** a strict A/B reproduction of CSR-E04. Participant count, observable-action wording and formal controls are now explicitly fixed. Comparison to E04 is diagnostic only and cannot prove that one isolated factor caused the historical output.
 
