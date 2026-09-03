@@ -141,7 +141,7 @@ Hold constant:
 - individual recognizability through a small combination of silhouette, bodily proportion, posture, and characteristic gesture;
 - artwork-only contract;
 - people dominate the composition;
-- diffuse illumination with moderate contrast;
+- an even tonal field with moderate contrast;
 - no reference images in Matrix 01.
 
 Do not add historical-surface blacklists to the renderer packet. The formal grammar itself is the control.
@@ -176,7 +176,7 @@ No image is authorized yet. If approved, transfer **only** the following packet 
 >
 > Build the image on a shallow picture plane using large contiguous human shapes and deliberate negative space. Keep depth cues minimal. Let proximity, overlap, separation, and void carry the relationship. Keep the surroundings visually simple and subordinate to the people.
 >
-> Distinguish each person through a small combination of silhouette, bodily proportion, posture, and characteristic gesture. Use diffuse illumination with moderate contrast.
+> Distinguish each person through a small combination of silhouette, bodily proportion, posture, and characteristic gesture. Use an even tonal field with moderate contrast.
 >
 > Return only the uninterrupted artwork, with no text or surrounding layout.
 
