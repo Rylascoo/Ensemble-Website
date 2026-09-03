@@ -1,28 +1,36 @@
 # Kymaean / Ensemble Website — R0 Renderer Isolation: Cross-Branch Synthesis
 
-Status: **ACTIVE VISUAL CONTINUATION HANDOFF**
+Status: **COMPLETED / SUPERSEDED AS ACTIVE HANDOFF**
 
-Purpose: continue R0 clean-slate rediscovery after the first controlled Renderer Isolation laboratories, preserving their transferable causal/artistic laws without inheriting any generated surface.
+Superseded as the active continuation by:
+
+`docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`
+
+The research and laws in this document remain valid R0 lineage. Its exact-next-work section was completed by `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`.
+
+Purpose: preserve the R0 cross-branch synthesis handoff that followed the first controlled Renderer Isolation laboratories, retaining its transferable causal/artistic laws without granting any generated surface inheritance rights.
 
 ## 1. Authority
 
-This handoff governs only the Ensemble/Kymaean **website / brand workstream**.
+This handoff governs historical R0 lineage only and is **not** the current active handoff.
 
-Read in this order:
+For current continuation, read:
 
 1. `Rylascoo/Ensemble-Website/CURRENT_STATE.md`
 2. `Rylascoo/Ensemble-Website/docs/DESIGN_CONTINUITY.md`
 3. `Rylascoo/Ensemble-Website/docs/RENDERER_ISOLATION_PROTOCOL.md`
-4. `Rylascoo/Ensemble-Website/docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
-5. this handoff
-6. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-7. relevant Google Drive continuity/checkpoint records
+4. `Rylascoo/Ensemble-Website/docs/VISUAL_ARCHIVE_PROTOCOL.md`
+5. `Rylascoo/Ensemble-Website/docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
+6. `Rylascoo/Ensemble-Website/docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
+7. `Rylascoo/Ensemble-Website/docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`
+8. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
+9. relevant Google Drive continuity/checkpoint records
 
 Google Drive `Ensemble Project` remains visual-master and human-readable continuity authority. The application repository is read-only for website work unless explicitly instructed otherwise.
 
 ## 2. R0 remains the governing phase
 
-The active phase is still:
+The governing phase remains:
 
 **R0 Visual Re-Foundation — Clean-Slate Rediscovery**
 
@@ -34,13 +42,13 @@ and, for rendering:
 
 > **The director remembers everything. The canvas remembers nothing.**
 
-No final logo, symbol, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production design is selected.
+No final logo, symbol, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production design was selected by this checkpoint.
 
 Historical work remains inspiration/evidence, not incumbent direction.
 
-## 3. Renderer Isolation is now active project law
+## 3. Renderer Isolation is active project law
 
-Clean-slate visual generation is no longer performed inside the persistent Ensemble project by default.
+Clean-slate visual generation is not performed inside the persistent Ensemble project by default.
 
 Use two contexts:
 
@@ -120,17 +128,17 @@ This does **not** select H01's painterly montage, palette, costumes, composition
 
 ## 7. First cross-lab system hypothesis
 
-The current synthesis is not an aesthetic.
+The synthesis was not an aesthetic:
 
 > **Distinct people are structurally important; relationships can alter the shared visual field; identities persist across transformed representations; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
 
-This is the strongest system-level hypothesis produced by the first Renderer Isolation checkpoint.
+This selected no palette, medium, architecture, portrait system, material language, icon, wordmark, motion treatment, website surface, or composition.
 
-It selects no palette, medium, architecture, portrait system, material language, icon, wordmark, motion treatment, website surface, or composition.
+Round 1 later strengthened this hypothesis; see `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`.
 
 ## 8. Renderer prompt-control laws
 
-The first laboratory recovered several prompt-engineering laws that are now mandatory for clean-slate image research:
+The first laboratory recovered several prompt-engineering laws that remain mandatory for clean-slate image research:
 
 - **Examples are visual seeds.** Do not provide examples of what the renderer is free to invent unless deliberately selecting those seeds.
 - Broad invented-world/artistic-latitude language can activate cinematic concept-art priors.
@@ -140,6 +148,8 @@ The first laboratory recovered several prompt-engineering laws that are now mand
 - Abstract pair/mechanism language can become monumental symbolic machinery.
 - When causal recoverability matters, the Director specifies the smallest causal/physical truth that must survive; the renderer invents the surrounding world.
 - Do not ask one still image to simultaneously prove every product concept and discover the brand aesthetic.
+
+Later R0 work also established that appending prompts can accumulate concrete visual seeds rather than reset them, and that saved-memory/chat-deletion controls are not the visual-isolation mechanism. See the current Renderer Isolation protocol.
 
 ## 9. Surface quarantine
 
@@ -161,31 +171,27 @@ Do not initialize production website code from these experiments.
 
 The provisional web architecture remains subordinate to approved visual/product evidence. No research image becomes a website master, app master, icon, wordmark, portrait master, or production derivative automatically.
 
-## 12. Exact next permissible work
+## 12. Completed exact-next-work record
 
-Begin **R0 Cross-Lab Synthesis Round 1**.
+This handoff originally required **R0 Cross-Lab Synthesis Round 1**.
 
-The purpose is not to combine favorite pictures. It is to test whether several independently surviving laws can coexist in a **new artistic grammar** that does not resemble the recent AL surfaces and does not become a causal diagram.
+That work is now complete and preserved in:
 
-The next sterile render packet should therefore:
+- GitHub `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`;
+- Drive `R0 Cross-Lab Synthesis Round 1 — Checkpoint & Critique`;
+- Drive `R0 Cross-Lab Synthesis Round 1 — Image Atlas`;
+- the updated Drive registry and continuity records.
 
-- preserve human structural importance;
-- preserve distinct recurring identity through perceptual invariants;
-- make relationships alter the shared visual field;
-- permit partial/asymmetric visibility;
-- include one subtle present-state trace that could imply prior human influence without turning the image into a narrative puzzle;
-- avoid importing the surface vocabulary of H01, E01, B01, or any other recent branch;
-- avoid examples that seed a specific setting, medium, culture, object, or genre;
-- request one uninterrupted artwork with no branding/collateral.
+The late crossing/boundary metaphor from that round was classified as research only, and the premature `R1 Crossing Language` promotion was explicitly superseded.
 
-The Director should define the minimum relational/identity physics. The renderer should invent the new visual world and grammar.
+## 13. Current continuation
 
-Generate exactly one image in a new regular non-project renderer chat, close that renderer chat, then return the image to the Director Context for evaluation.
+Do **not** resume from this file's former next-work instruction.
 
-Do not infer convergence from the result.
+Follow `CURRENT_STATE.md` and:
 
-## 13. Fresh-chat continuation sentence
+`docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`
 
-> Resume the Ensemble Website / Kymaean website-brand workstream from `Rylascoo/Ensemble-Website`. Read `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, `docs/RENDERER_ISOLATION_PROTOCOL.md`, `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`, and `docs/HANDOFF_R0_RENDERER_ISOLATION_CROSS_BRANCH_SYNTHESIS.md`, then read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth. Continue R0 Visual Re-Foundation with Renderer Isolation active. The RI-001–011 and AL-A01–H01 surfaces are research only; carry their abstract causal/artistic laws, not their pictures. Use the persistent project chat as Director Context and generate only through a new regular non-project renderer chat using one sterile packet. Begin R0 Cross-Lab Synthesis Round 1 from the exact-next-work section. No convergence is authorized.
+The current gate is R0 Cross-Surface Robustness Validation. No convergence is authorized.
 
-END OF HANDOFF
+END OF COMPLETED HANDOFF
