@@ -1,12 +1,12 @@
 # Kymaean / Ensemble Website — R0 Renderer Cartography Handoff
 
-Status: **ACTIVE VISUAL CONTINUATION HANDOFF — TEO-01 DIRECTOR REVIEW GATE**
+Status: **ACTIVE VISUAL CONTINUATION HANDOFF — TEO-02 FINAL TEMPORAL ROBUSTNESS DIRECTOR GATE**
 
 Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation from the completed Persistent Affordance Carrier sequence, completed Cross-Medium Semantic Allocation Evidence Audit 01, and designed Temporal Observability Experiment 01.
+Continue R0 Visual Re-Foundation from completed TEO-01 into exactly one final temporal semantic-route robustness decision.
 
 Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, interaction system or production surface.
 
@@ -16,15 +16,13 @@ Do not promote a new visual phase. Do not select a logo, wordmark, palette, mate
 2. `docs/DESIGN_CONTINUITY.md`
 3. `docs/RENDERER_ISOLATION_PROTOCOL.md`
 4. `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
-5. `docs/VISUAL_ARCHIVE_PROTOCOL.md`
-6. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
-7. `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
-8. `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
-9. `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
-10. `docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_01.md`
-11. this handoff
-12. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-13. Drive Renderer Cartography dataset, critique ledger, assets/evaluations and current experiment mirror as needed
+5. `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
+6. `docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`
+7. `docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_02.md`
+8. this handoff
+9. older PAC/SOV/RST/RI/AL synthesis files only as needed
+10. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
+11. Drive Renderer Cartography dataset, TEO assets/evaluations and critique records as needed
 
 GitHub and Drive are durable project state. Do not ask the user to reconstruct completed research from chat history when these sources resolve it.
 
@@ -40,108 +38,96 @@ Anti-churn discipline:
 
 Do not create automatic experiment ladders.
 
-## Corrected lineage safeguards
+## TEO-01 completed result
 
-Correct RST-05B is the five-person image `RST-05B — Persistent Human-Created Condition — CORRECT.png`, Drive ID `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`.
+Canonical result:
 
-`MISATTRIBUTED — NOT RST-05B — three-person seated image.png`, Drive ID `1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`, is non-evidence for RST-05B.
+`docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`
 
-PAC-01D is valid clean-render evidence per the user's provenance clarification.
+Returned asset:
 
-## Completed evidence immediately relevant to TEO-01
+`TEO-01 — Two-Moment Temporal Observability.png`
 
-Persistent Affordance Carrier sequence:
+Drive ID: `1sBqZ2IdMQIEmLBb7FFJKY4LBTlJu_LPm`
 
-- PAC-01A: visible carrier -> plural supported use;
-- PAC-01B: object affordance is not configuration affordance;
-- PAC-01C: local relational affordance is not shared systemic affordance;
-- PAC-01D: shared-element overlap is not distributed configuration dependence;
-- PAC-01E: distributed carrier topology is not distributed configuration dependence.
+Evaluation Drive Doc ID: `1h1adhS1l5M3nVPGSrzGGr-0D6S95I_xNBaeJ2Gt39zo`
 
-Canonical synthesis:
+Outcome:
 
-`docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
+- cross-moment correspondence — STRONG PASS;
+- visible authorship — PASS;
+- persistence — PASS;
+- later independent use — PASS;
+- enabled-possibility gain — STRONG PASS;
+- temporal information gain — STRONG PASS;
+- independent agency — STRONG PASS;
+- human primacy — PASS;
+- ordinary/non-symbolic condition — PASS;
+- attractor/narrative suppression — FAIL / PARTIAL.
 
-Major conclusion:
+Overall:
 
-> **Not every system law must be directly observable in one static visual surface.**
+> **STRONG TEMPORAL-OBSERVABILITY PASS / ACCESS-SHORTCUT LIMITATION**
 
-Cross-Medium Evidence Audit 01 then established:
+Durable finding:
 
-### Supported for static artwork
+> **Minimal temporal comparison materially improves recoverability of specific human authorship, persistence and enabled possibility.**
 
-- distinct human presence / structural primacy;
-- relationship as visual geometry;
-- transformed-but-recognizable identity when deliberately tested;
-- asymmetric evidentiary position;
-- independent agency;
-- present consequence;
-- recoverable prior state/history when internal visual evidence exists;
-- ordinary persistent affordance.
+Limitation:
 
-### Static boundary / partial evidence
+> **Temporal information gain and semantic-route robustness are separate questions.**
 
-- specific prior human authorship without hierarchy or literal mechanism;
-- definite prior human creation/configuration of a persistent condition;
-- full `prior human choice -> persistent condition -> newly enabled independent action` chain;
-- distributed common-cause capability;
-- no-single-element sufficiency.
+TEO-01 obtained causal clarity through a literal physical-access route: one person repositioned a stool and later another independently used it to reach a higher shelf. The two-panel format also carries storyboard grammar.
 
-### Other-media safeguard
+No TEO-01 surface has inheritance rights.
 
-Motion, sequence and interaction remain candidate research media only. No R0 experiment has validated a motion treatment, interaction pattern, hero behavior or website state-transition direction.
-
-## Active checkpoint — TEO-01
+## Active checkpoint — TEO-02
 
 Canonical design:
 
-`docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_01.md`
+`docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_02.md`
 
-Drive mirror:
+Drive mirror ID:
 
-`R0 Renderer Cartography — Temporal Observability Experiment 01`
-
-Drive document ID: `1pacGabQiAT51gkUwRvzKIijxM_tynJCVKP2LZZygOxY`
+`1g1EX-AGinh1g4qJavxRaxyrADTkUHVC_5v1TrGU93nc`
 
 Name:
 
-**TEO-01 — Minimal Temporal Evidence / Authorship and Enabled Possibility**
+**TEO-02 — Semantic-Route Robustness**
 
 Research question:
 
-> **Does adding minimal temporal evidence materially improve recoverability of prior human authorship and enabled possibility without forcing literal mechanism, hierarchy or narrative explanation?**
+> **Does the same temporal information gain survive when the later benefit comes from changed organization within an ordinary shared arrangement rather than from gaining physical access?**
 
-## Experimental design
+Controlled change from TEO-01:
 
-One generated artwork contains **two adjacent moments of the same scene**.
+> preserve the two-moment temporal comparison; change only the semantic route of the later benefit from direct physical access to organization-dependent use.
 
-This provides an internal control:
+## Exact sterile packet
 
-- score each moment independently;
-- then score what becomes recoverable only through comparison.
-
-No separate static-baseline render is required.
-
-The only added semantic resource is direct earlier/later comparison.
-
-Core target:
-
-> **who changed the condition -> what persisted -> how a later independent action became possible or materially better supported**
-
-Evaluation includes a dedicated **temporal information gain** gate: the pair must add causal information that neither moment alone reliably provides.
+> Create one artwork showing the same small group of distinct people at two adjacent moments, with the same viewpoint, scale, and surrounding world in both moments.
+>
+> In the first moment, one person is visibly completing a small reorganization of several ordinary shared elements, changing how those elements relate to one another. The other people remain present and self-directed.
+>
+> In the second moment, a short time later, that reorganization remains even though the person who made it is no longer acting on it. A different person is independently performing an action that works because of the changed organization. The contrast between the two moments should make the causal sequence recoverable: who changed the arrangement, what persisted, and why the later action works differently because of the new relationship among the elements.
+>
+> Make the later benefit arise from the changed organization within the shared arrangement rather than from gaining physical access to a place or object.
+>
+> Keep the same people recognizable across both moments. No one should guide, rescue, instruct, direct, or control another person. Keep the shared elements ordinary, modest, and visually subordinate to the people.
+>
+> Use a shallow, restrained composition with minimal environmental spectacle and enough repeated spatial structure that the two moments can be compared directly. Keep the visual treatment consistent across both moments.
+>
+> Return only the artwork. Do not add text, captions, arrows, labels, diagrams, interface elements, promotional framing, or surrounding presentation layout.
 
 ## Recursive audit result
 
-The design survived the bounded recursive audit:
-
-- variable isolation — PASS;
-- extra static baseline — REJECTED as unnecessary;
-- literal carrier examples — REJECTED as visual seeds;
-- formal comparison controls — sufficient without selecting a medium;
-- recurring-person correspondence — necessary control, not a new product claim;
-- storyboard risk — material but acceptable for one diagnostic and scored as failure if realized;
-- literal affordance/access risk — material and intentionally scored rather than hidden with a blacklist;
-- motion/interaction inference — explicitly prohibited.
+- one identified TEO-01 confound only — PASS;
+- two-moment measurement structure preserved — PASS;
+- named alternative carrier examples — REJECTED;
+- detailed blacklist — REJECTED; only the positive non-access route is exposed to Renderer;
+- PAC regression risk — material and intentionally scored;
+- storyboard risk — accepted for this final diagnostic only;
+- automatic TEO-03 — REJECTED by default.
 
 ## Render budget / stop law
 
@@ -149,15 +135,18 @@ If approved: **one generated artwork** in **one fresh regular non-project Render
 
 No correction chain.
 
-Return first output to Director Context, archive, evaluate, then stop.
+After the first output returns:
 
-Do not automatically design TEO-02, animation, interaction or website behavior.
+1. archive and evaluate it;
+2. **STOP TEMPORAL RENDERING REGARDLESS OF OUTCOME**;
+3. perform final R0 visual-research synthesis;
+4. decide whether the project has enough calibrated evidence to begin actual app and website design synthesis.
 
 ## Exact next action
 
-**No TEO-01 image is currently authorized.**
+**No TEO-02 image is currently authorized.**
 
-Stop for Director review of the exact sterile packet in `docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_01.md`.
+Stop for Director review of the packet above.
 
 ## Phase authority
 
@@ -167,4 +156,4 @@ Stop for Director review of the exact sterile packet in `docs/R0_TEMPORAL_OBSERV
 > **Metaphor != identity.**  
 > **Surface != law.**
 
-R0 remains active. No convergence or production website implementation is authorized.
+R0 remains active. No convergence or production website implementation is authorized before the TEO-02 result and final R0 synthesis.
