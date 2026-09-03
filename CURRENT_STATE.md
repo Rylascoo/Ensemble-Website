@@ -31,29 +31,30 @@ Current accepted design chain:
 5. `docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md` — accepted causal-session prototype basis;
 6. `docs/KYMAEAN_TASK_FIRST_LOW_FIDELITY_STATE_WIREFRAME_PROPOSAL_01.md` — accepted semantic state validation;
 7. `docs/KYMAEAN_CONTINUOUS_WORKSPACE_WIREFRAME_PROPOSAL_01.md` — accepted continuous-workspace structural basis;
-8. `docs/KYMAEAN_CONTINUOUS_WORKSPACE_GRAYSCALE_WIREFRAME_01.md` — Director-accepted structural wireframe control for visual-system exploration.
+8. `docs/KYMAEAN_CONTINUOUS_WORKSPACE_GRAYSCALE_WIREFRAME_01.md` — Director-accepted structural wireframe control for visual-system exploration;
+9. `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` — Director-accepted, recursively audited visual-system constraint set for controlled divergence.
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md`
+`docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md`
 
 Status:
 
-> **VISUAL SYSTEM GRAMMAR — DIRECTOR PROPOSAL FOR REVIEW / RECURSIVELY AUDITED / NO PRODUCTION IMPLEMENTATION AUTHORIZED**
+> **VSG-A / VSG-B / VSG-C CONTROLLED MULTI-STATE STUDIES 01 — DIRECTOR PROPOSAL FOR REVIEW / LOW-FIDELITY PRE-RENDER EVIDENCE / NO REFINEMENT OR PRODUCTION IMPLEMENTATION AUTHORIZED**
 
-Latest visual-system audit commit:
+Study commit:
 
-`5361dbdba96a121ff2733a613af86fc1705df295`
+`0a6b965a05b86648f5f5b59fb34f93a8b64aaf2`
 
 Live structural principle:
 
 > **Stable Production, fluid focus.**
 
-Candidate visual-system principle:
+Accepted visual-system priority law:
 
 > **Human signal over system ornament.**
 
-This is a priority law, not a minimalism law. People and relationships should carry the strongest product identity signal; system status remains explicit but quiet; consequence may alter structure/hierarchy rather than merely trigger decorative effects; and the experience remains semantically complete when motion, transparency, color, or decorative artwork is absent.
+This remains a priority law, not a minimalism law and not a selected aesthetic. People and relationships should carry the strongest product identity signal; system status remains explicit but quiet; consequence may alter structure/hierarchy rather than merely trigger decorative effects; and the experience remains semantically complete when motion, transparency, color, or decorative artwork is absent.
 
 The app may still be atmospheric, theatrical, textural, typographic, strange, or visually rich when those qualities strengthen the living Production and remain accessible/quiescent.
 
@@ -220,9 +221,9 @@ Rejected baseline assumptions include:
 
 ---
 
-## Active visual-system grammar
+## Accepted visual-system grammar
 
-`docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` defines visual **jobs and laws before selecting surfaces**.
+`docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` defines visual **jobs and laws before selecting surfaces** and was recursively audited before Director continuation into controlled studies.
 
 ### Primary hierarchy
 
@@ -264,7 +265,7 @@ No particle portrait, photoreal portrait, illustrated avatar, or abstract-token 
 
 ### Typography
 
-Two conceptual registers are proposed:
+Two conceptual registers are available for exploration:
 
 - **operational typography** for navigation, commands, status, metadata, forms and accessibility-critical labeling;
 - **expressive narrative typography** for selected Character/Scene/history/brand identity roles.
@@ -375,38 +376,103 @@ A visual branch does not earn convergence rights until it survives a lightweight
 
 ---
 
-## Controlled visual exploration matrix after grammar approval
+## Active controlled VSG studies
 
-The recursively audited proposal rejects a single-state VSG comparison as insufficient evidence.
+`docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md` is the active pre-render comparison artifact.
 
-If the grammar is approved, every visual branch must use the **same controlled multi-state packet**, with the same scenario, participants, content lengths, authority facts and disclosure facts.
+Every branch uses the same deliberately neutral semantic packet:
 
-Required controls:
+```text
+Production P0
+Scene S0
+Character A / B / C
+R0 -> E1 -> R1
+non-effective M1
+successful causal-effect boundary -> E2
+R1 -> R2
+P2 unresolved/still active
+return to same P0/S0/A/B/C with changed present R2/P2
+```
+
+The packet avoids concrete scenery, occupations, objects, cultures and genre cues so those do not become hidden surface seeds.
+
+Required controlled states:
 
 1. **Present / Watch** — human primacy, relational structure, transcript/command restraint, persistent identity;
 2. **Causal Trace / Historical Focus** — current/history distinction, causality before chronology, state comparison, return clarity;
 3. **Character-Bounded Perspective** — subtractive disclosure, same Production/Scene, no privileged leakage, perspective without cosmetic theming;
 4. **Causal-Effect Boundary + Consequence + Changed Present** — non-effective/effective distinction, consequence recognition, changed organization/affordance, return to changed possibility.
 
-The fourth control may be a compact two- or three-moment sequence.
-
-Candidate experimental branches remain:
-
 ### VSG-A — Human Editorial / Typographic
 
-Test whether human presence, editorial scale and typography can carry Kymaean with minimal ornamental geometry.
+Study-only hypothesis:
+
+> **Human presence, names, language scale, whitespace and editorial hierarchy can carry Kymaean with very little ornamental geometry.**
+
+Study posture:
+
+- high-key/light-neutral field;
+- mostly flat hierarchy;
+- expressive typographic scale;
+- simplified figurative human presence;
+- minimal containers;
+- editorial alignment/whitespace as relational structure.
+
+Current evidence:
+
+- strongest O0 experiential continuity;
+- strongest natural transcript restraint;
+- risk of becoming editorial/magazine software rather than a living Production;
+- risk that expressive typography becomes the spectacle.
 
 ### VSG-B — Relational Field / Abstract Human
 
-Test whether persistent identity and relationship can dominate through restrained abstract/invariant human representation without becoming anonymous tokens or causal diagrams.
+Study-only hypothesis:
+
+> **Persistent specific people and relationship itself can organize the visual field without becoming a social graph, causal diagram or anonymous token system.**
+
+Study posture:
+
+- mid-value continuous field;
+- reduced but unmistakably human invariant forms;
+- restrained typography;
+- open spatial/relational composition;
+- minimal depth;
+- connective line/shape language with semantic text equivalents.
+
+Current evidence:
+
+- strongest direct expression of relationship-as-visual-structure;
+- potentially the most category-distinctive app language;
+- potentially strongest changed-present return;
+- highest risk of reducing people to graph nodes or implying quantified psychology.
 
 ### VSG-C — Material / Living Record
 
-Test whether state/history/consequence can gain tactile/layered visual character without falling into parchment, antiquarian, collage, rustic-craft or magical-library shorthand.
+Study-only hypothesis:
 
-These names are functional visual hypotheses, not selected directions and not renderer prompts.
+> **Quiet digital material depth and state registration can make continuity/consequence feel persistent without turning history into parchment, collage, antique record, magical trace or glassmorphism identity.**
 
-Divergence requirement: the three branches must materially differ across at least four of these six axes:
+Study posture:
+
+- matte shallow depth;
+- current state as clearest/frontmost readable layer;
+- contextual/historical registered layers;
+- concise figurative contour/relief identity cues;
+- compact typography;
+- low-chroma value-driven hierarchy;
+- edge/inset/registration shape behavior.
+
+Current evidence:
+
+- strongest authority/history material logic;
+- strong persistence/effect intuition;
+- risk that material metaphor outranks people;
+- risk of drifting toward card stacks, archive metaphors or historical-surface attractors.
+
+### Divergence result
+
+The branches differ materially across at least five of six required axes:
 
 1. human-representation medium;
 2. typographic hierarchy/personality;
@@ -415,11 +481,29 @@ Divergence requirement: the three branches must materially differ across at leas
 5. color posture;
 6. line/shape language.
 
-No branch may change the scenario facts to make its design problem easier.
+> **PASS — the current branches are genuinely different visual hypotheses, not variants of one surface grammar.**
 
-No branch earns refinement rights by being first, polished, recent, or initially preferred.
+### Current design-team interpretation
 
-After app-study comparison, any branch considered for convergence must pass the lightweight cross-product transfer check before refinement.
+No branch is selected.
+
+- **A** currently carries the strongest O0 human/theatrical continuity.
+- **B** currently carries the strongest uniquely Kymaean relational possibility.
+- **C** currently carries the strongest persistence/authority/history intuition.
+
+This is design-team interpretation only, not convergence authority.
+
+The correct next evidence is actual visualized/rendered comparison using isolated positive render packets.
+
+### Cross-product transfer pre-check
+
+All three branches are plausibly transferable to the website by law rather than copied composition:
+
+- A -> large human presence + authored typographic rhythm + editorial relationship spacing;
+- B -> persistent human invariants + changing relational composition without literal graphs;
+- C -> present/history registration + changed organization as consequence + shallow material continuity.
+
+No branch has earned convergence.
 
 ---
 
@@ -455,9 +539,7 @@ O0 surface vocabulary has no inheritance rights: exact dark/black ground, warm g
 
 `Rylascoo/Ensemble-Project/CURRENT_STATE.md` remains authority for exact implementation and validation.
 
-Application `main` resolved during this audit:
-
-`8c89f998fe6f42e04a75b9090fbcc10f0574f5a2`
+Application authority re-read during this study pass remains:
 
 Latest completed engineering patch:
 
@@ -610,11 +692,13 @@ PAC-01D remains valid clean-render evidence per the Director's provenance clarif
 
 ## Renderer/image-generation status
 
-Renderer Isolation remains available when a concrete future design question genuinely needs clean-slate image generation:
+Renderer Isolation remains available for the now-concrete next design question:
 
 > **The director remembers everything. The canvas remembers nothing.**
 
-Image generation is subordinate to design synthesis. Do not reopen open-ended Renderer Cartography.
+The controlled VSG studies provide the evidence basis for three future isolated positive render packets. Those packets must use the smallest positive semantic/formal brief required by each branch and must not copy the Director-side anti-attractor catalog into renderer prompts.
+
+Image generation remains subordinate to design synthesis. Do not reopen open-ended Renderer Cartography.
 
 ---
 
@@ -624,33 +708,35 @@ For a new Kymaean app + website design Director chat:
 
 1. read this file first;
 2. resolve current `Rylascoo/Ensemble-Website` `main` commit;
-3. read `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` as the active recursively audited Director-review artifact;
-4. read `docs/KYMAEAN_CONTINUOUS_WORKSPACE_GRAYSCALE_WIREFRAME_01.md` as the accepted structural control;
-5. read `docs/KYMAEAN_CONTINUOUS_WORKSPACE_WIREFRAME_PROPOSAL_01.md` as the accepted structural basis;
-6. read `docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md` as the accepted causal-session basis;
-7. read `docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md` as the accepted shell/navigation basis;
-8. read `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md` as the accepted information-relationship basis;
-9. read `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md` as the accepted recovery basis;
-10. read `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` for the integrated baseline;
-11. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and resolve that repository's current `main` before making application-truth claims;
-12. read `docs/blueprint/CREATOR_ONTOLOGY_EXTENSIBILITY_GUARD.md` when creator-facing ontology or visual state labels are in scope;
-13. read Google Drive `Kymaean Visual Continuity Constitution` and `R0 Visual Research — Final Synthesis 01` when visual-system decisions are in scope;
-14. consult Google Drive O0 Original Concept Foundation only when exact historical experiential/visual comparison is useful; O0 remains conceptual ancestor, not selected surface;
-15. read only additional application/design evidence actually needed for the current question;
-16. never use the misattributed three-person image as RST-05B evidence;
-17. do not create TEO-03, PAC-01F, or another calibration branch;
-18. do not inherit an R0 renderer surface or O0 surface as the aesthetic;
-19. do not revive the superseded Creator-first/Witness-first/Understanding-first/Cycle-first selection gate;
-20. do not turn Watch/Direct/Perform/Write into navigation silos or Presentation Perspective into a cosmetic theme;
-21. do not turn possibility/performance/history or Studio/Stage/Archive into permanent primary navigation merely because they are conceptually important;
-22. preserve Back as navigation history, never causal undo/retcon;
-23. preserve O0 experiential benchmarks while remaining free to discover a better implementation;
-24. preserve the changed-present return as the causal-loop endpoint;
-25. preserve `Human signal over system ornament` as proposal-stage visual-system law, not final aesthetic selection or minimalism mandate;
-26. preserve the orthogonal visual-state axes and never collapse Take acceptance into causal-effect status;
-27. if the visual grammar is approved, use the controlled multi-state VSG packet; do not revert to a single flattering screen;
-28. no branch may earn convergence before the app-study comparison and lightweight cross-product transfer check;
-29. stop at the current Director-review gate before generating/refining VSG visual studies or production implementation.
+3. read `docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md` as the active Director-review artifact;
+4. read `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` as the accepted recursively audited visual constraint set;
+5. read `docs/KYMAEAN_CONTINUOUS_WORKSPACE_GRAYSCALE_WIREFRAME_01.md` as the accepted structural control;
+6. read `docs/KYMAEAN_CONTINUOUS_WORKSPACE_WIREFRAME_PROPOSAL_01.md` as the accepted structural basis;
+7. read `docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md` as the accepted causal-session basis;
+8. read `docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md` as the accepted shell/navigation basis;
+9. read `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md` as the accepted information-relationship basis;
+10. read `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md` as the accepted recovery basis;
+11. read `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` for the integrated baseline;
+12. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and resolve that repository's current `main` before making application-truth claims;
+13. read `docs/blueprint/CREATOR_ONTOLOGY_EXTENSIBILITY_GUARD.md` when creator-facing ontology or visual state labels are in scope;
+14. read Google Drive `Kymaean Visual Continuity Constitution` and `R0 Visual Research — Final Synthesis 01` when visual-system decisions are in scope;
+15. consult Google Drive O0 Original Concept Foundation only when exact historical experiential/visual comparison is useful; O0 remains conceptual ancestor, not selected surface;
+16. read only additional application/design evidence actually needed for the current question;
+17. never use the misattributed three-person image as RST-05B evidence;
+18. do not create TEO-03, PAC-01F, or another calibration branch;
+19. do not inherit an R0 renderer surface or O0 surface as the aesthetic;
+20. do not revive the superseded Creator-first/Witness-first/Understanding-first/Cycle-first selection gate;
+21. do not turn Watch/Direct/Perform/Write into navigation silos or Presentation Perspective into a cosmetic theme;
+22. do not turn possibility/performance/history or Studio/Stage/Archive into permanent primary navigation merely because they are conceptually important;
+23. preserve Back as navigation history, never causal undo/retcon;
+24. preserve O0 experiential benchmarks while remaining free to discover a better implementation;
+25. preserve the changed-present return as the causal-loop endpoint;
+26. preserve `Human signal over system ornament` as visual priority law, not final aesthetic selection or minimalism mandate;
+27. preserve the orthogonal visual-state axes and never collapse Take acceptance into causal-effect status;
+28. preserve the controlled VSG semantic packet across all branches; do not let a branch change narrative facts to improve its result;
+29. no branch may earn convergence before rendered comparison and the cross-product transfer check;
+30. renderer packets must be positive/minimal and must not reproduce the full anti-attractor list;
+31. stop at the current Director-review gate before preparing render packets, rendering/refining VSG studies, selecting a winner, synthesizing branches, or production implementation.
 
 ---
 
@@ -679,13 +765,15 @@ Preserve:
 > **Continuity of meaning does not require continuity of appearance.**
 >
 > **Take acceptance != causal effectiveness.**
+>
+> **Controlled facts stay fixed while visual grammar changes.**
 
 Current gate:
 
-> **Director review of the recursively audited `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md`.**
+> **Director review of `docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md`.**
 
 If approved, the next justified design action is:
 
-> **Create VSG-A / VSG-B / VSG-C as three deliberately unrelated low-fidelity visual-system studies applied to the same controlled multi-state packet, compare them against the grammar, then require a lightweight cross-product transfer check before any refinement.**
+> **Prepare three isolated positive render packets — one each for VSG-A, VSG-B and VSG-C — from the controlled semantic packet and each branch's positive formal hypothesis, then render/evaluate them independently before any convergence or refinement.**
 
-No visual-system convergence, final palette/type/material selection, production UI implementation, or website implementation is automatically authorized.
+No visual-system convergence, branch synthesis, final palette/type/material selection, production UI implementation, or website implementation is automatically authorized.
