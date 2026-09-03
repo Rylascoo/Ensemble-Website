@@ -1,12 +1,12 @@
-# Kymaean / Ensemble Website — R0 Renderer Cartography
+# Kymaean / Ensemble Website — R0 Renderer Cartography Handoff
 
-Status: **ACTIVE VISUAL CONTINUATION HANDOFF**
+Status: **ACTIVE VISUAL CONTINUATION HANDOFF — CROSS-MEDIUM SEMANTIC ALLOCATION GATE**
 
 Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography at the **Persistent Affordance Carrier Design 05 Director gate**.
+Continue R0 Visual Re-Foundation from the completed Persistent Affordance Carrier sequence through a Director-only semantic-allocation audit.
 
 Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production surface.
 
@@ -19,15 +19,11 @@ Do not promote a new visual phase. Do not select a logo, wordmark, palette, mate
 5. `docs/VISUAL_ARCHIVE_PROTOCOL.md`
 6. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
 7. `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
-8. `docs/R0_RENDERER_CARTOGRAPHY_PAC_01A_RESULT.md`
-9. `docs/R0_RENDERER_CARTOGRAPHY_PAC_01B_RESULT.md`
-10. `docs/R0_RENDERER_CARTOGRAPHY_PAC_01C_RESULT.md`
-11. `docs/R0_RENDERER_CARTOGRAPHY_PAC_01D_RESULT.md`
-12. `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_05.md`
-13. this handoff
-14. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-15. Drive `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
-16. PAC assets/evaluations, critique ledger and current Drive design mirror
+8. PAC-01A/B/C/D/E result files as needed
+9. `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
+10. this handoff
+11. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
+12. Drive Renderer Cartography dataset, critique ledger, PAC assets/evaluations and PAC synthesis mirror
 
 GitHub and Drive are durable project state. Do not ask the user to reconstruct completed research from chat history when these sources resolve it.
 
@@ -39,120 +35,106 @@ GitHub and Drive are durable project state. Do not ask the user to reconstruct c
 
 > **Renderer Isolation controls known project-context leakage. Renderer Cartography controls experimental variables.**
 
-## Corrected lineage safeguards
+## Corrected lineage safeguard
 
 Correct RST-05B is the five-person image `RST-05B — Persistent Human-Created Condition — CORRECT.png`, Drive ID `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`.
 
 `MISATTRIBUTED — NOT RST-05B — three-person seated image.png`, Drive ID `1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`, is non-evidence for RST-05B.
 
-PAC-01D provenance is also settled: the user confirmed the canonical artwork was generated in a fresh regular non-project Renderer Context. The duplicate packet submission in the persistent project chat was accidental and is not the render provenance.
+PAC-01D is valid clean-render evidence. The user clarified that it was generated in a fresh regular non-project Renderer Context; the same packet was accidentally pasted into the project chat afterward.
 
-## Persistent Affordance Carrier empirical ladder
+## Persistent Affordance Carrier sequence
 
 PAC-01A:
 
-> generic built carrier -> plural supported use
-
-Correction:
-
-> **Supported action is not necessarily carrier-dependent action.**
+> visible carrier -> plural supported use
 
 PAC-01B:
 
-> repositionable ordinary objects -> plural object-level use
-
-Correction:
-
-> **Object affordance is not configuration affordance.**
+> movable ordinary objects -> object affordance
 
 PAC-01C:
 
-> local relationships among ordinary objects -> local emergent affordance
-
-Corrections:
-
-> **Relational affordance can emerge locally without producing shared systemic affordance.**
-
-> **Multiple local configurations are not the same as one shared capability-bearing configuration.**
+> local multi-object relationships -> local relational affordance
 
 PAC-01D:
 
-> one shared arrangement -> overlapping use, but hub-object collapse
+> one shared arrangement -> overlapping use with dominant-hub collapse
 
-Returned asset:
+PAC-01E:
 
-`PAC-01D — Shared Overlap Common-Cause Configuration.png`
+> distributed object cluster -> reduced hub dominance, but no robust no-single-element sufficiency
 
-Drive ID: `15XhIGQTuxIKwF-byZACPu0P4RsdZdkjo`
+Canonical PAC-01E result:
 
-Evaluation Doc ID: `1K1Of4ZHzDB8Q376HAnHlv_fTASqV6xMvrkmBrTJDPD0`
+`docs/R0_RENDERER_CARTOGRAPHY_PAC_01E_RESULT.md`
 
-Gate outcome:
+Returned asset Drive ID: `1aInmjVm8v8Pyaufc1KxLvmXFJr5BGNd1`
 
-- one shared configuration — PASS;
-- persistence — PASS;
-- overlapping relational affordance — PARTIAL PASS;
-- common-cause readability — PARTIAL;
-- independent agency — STRONG PASS;
-- human primacy — PASS;
-- ordinary/non-symbolic carrier — PASS;
-- attractor suppression — PASS.
+Evaluation Doc ID: `14G1u7zb8mYneHZ5b7VIbTyZoBIZcPtyMp5HD2t15WJo`
 
-Overall:
+PAC synthesis:
 
-> **PARTIAL METHOD PASS / HUB-COLLAPSE TARGET FAILURE**
+`docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
 
-Principal finding:
+Drive synthesis ID: `1ZkpgtZT0RU_VCXny4HhESsdS_GgtGAVluSsWhL2jszo`
+
+## Durable PAC findings
+
+> **Supported action is not necessarily carrier-dependent action.**
+
+> **Object affordance is not configuration affordance.**
+
+> **Relational affordance can emerge locally without producing shared systemic affordance.**
+
+> **Multiple local configurations are not one shared capability-bearing configuration.**
 
 > **Shared-element overlap is not distributed configuration dependence.**
 
-A common hub object can support several overlapping uses without making the relationships among multiple elements the capability-bearing cause.
+> **Distributed carrier topology is not distributed configuration dependence.**
 
-No PAC surface has inheritance rights.
+Major methodological conclusion:
 
-## Active checkpoint — PAC-01E
+> **Not every system law must be directly observable in one static visual surface.**
 
-Canonical design:
+## Why the PAC branch stops here
 
-`docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_05.md`
+The sequence increasingly constrained ordinary-object topology while preserving people, agency and non-symbolic carriers.
 
-Name:
+By PAC-01E, removing a dominant hub mainly produced a denser chair/crate/surface constellation. Human actions still remained largely explainable through familiar local affordances.
 
-**PAC-01E — Distributed Dependency / No-Single-Element Sufficiency**
+Continuing with stronger static wording about necessity is likely to force contraptions, modular systems, products or installations rather than produce cleaner causal evidence.
 
-Research question:
+Do not proceed automatically to PAC-01F.
 
-> **Can one modest arrangement of ordinary movable elements visibly enable several different independent actions through distributed relationships among its parts rather than through one dominant hub object?**
+## Active checkpoint
 
-The controlled variable is deliberately narrow:
+**R0 Cross-Medium Semantic Allocation — Director Analysis Gate**
 
-> **distributed multi-element necessity**
+Before any new render, determine which project laws belong to which medium.
 
-PAC-01E retains the same broad carrier class and changes one requirement only: at least two different independent actions must depend on overlapping relationships among several elements while no single shared element is sufficient by itself to explain those uses.
+Audit at least four buckets:
 
-## Render budget / stop law
+1. **Static artwork** — directly observable without narrative explanation.
+2. **Sequence / motion** — requires before/after or propagation.
+3. **Interaction / state transition** — requires user-visible persistent change or changed capability.
+4. **Internal generative constraints** — important to Kymaean but not required to be literally depicted.
 
-PAC-01E budget if approved: **one image**.
+Required questions:
 
-Use one fresh regular non-project Renderer Context. No correction chain.
-
-After the first output returns, archive and evaluate it before introducing modification traces, a new carrier class, topology or environmental mechanism.
-
-Reject/stop if the result becomes a contraption, modular product, installation, special technology, dominant-hub shortcut, forced cooperation/helper hierarchy, route/access/threshold mechanism, repair scene, monumental environment or symbolic system.
+- Which system laws have already proved robust in still images?
+- Which repeatedly fail because they require counterfactual or temporal evidence?
+- What is the minimum added temporal information needed to recover human authorship and enabled possibility?
+- Can motion/sequence encode those laws without returning to bridges, thresholds, repair, access shorthand or cinematic spectacle?
+- Which principles should stop being compressed into one hero artwork?
 
 ## Exact next action
 
-**No image is currently authorized.**
+**No new image is authorized.**
 
-Read the exact PAC-01E sterile packet in `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_05.md` and stop for explicit Director approval before rendering.
+Perform the semantic-allocation audit first. Produce a Director proposal for the smallest next cross-medium experiment only after the audit converges.
 
-Director review should decide whether:
-
-1. no-single-element sufficiency is the correct minimal next variable after PAC-01D;
-2. the phrase `the arrangement should work through relationships among its parts rather than through one dominant object` is strong enough without over-seeding a contraption;
-3. ordinary/unmodified carrier status can survive the added dependency requirement;
-4. human primacy and independent agency sufficiently prevent system/object fetishism or forced cooperation;
-5. the one-render budget remains appropriate.
+Do not initialize production website code.
 
 ## Phase authority
 
@@ -162,4 +144,4 @@ Director review should decide whether:
 > **Metaphor != identity.**  
 > **Surface != law.**
 
-R0 remains active. Do not initialize production website code during this checkpoint.
+R0 remains active.
