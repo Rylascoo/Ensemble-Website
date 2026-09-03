@@ -43,6 +43,7 @@ Read as needed:
 - `docs/R0_RENDERER_CARTOGRAPHY_PAC_01D_RESULT.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_PAC_01E_RESULT.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`
+- `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
 
 ## Corrected SOV/RST lineage safeguard
 
@@ -169,44 +170,68 @@ Major methodological conclusion:
 
 > **Not every system law must be directly observable in one static visual surface.**
 
-Strong PAC evidence supports static depiction of:
-
-- human specificity;
-- relational field;
-- independent agency;
-- persistent present affordance;
-- some local multi-object relational affordance;
-- non-symbolic ordinary conditions.
-
-Still not robustly proven in one static artwork under the current controls:
-
-- definite prior human authorship;
-- one shared multi-element configuration as the necessary common cause of several independent capabilities;
-- no-single-element sufficiency;
-- fully legible enabled possibility without literalizing the mechanism or turning the carrier into a contraption/product/installation.
-
 Do not automatically proceed to PAC-01F.
+
+## Cross-medium semantic allocation audit — completed
+
+Canonical audit:
+
+`docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
+
+The audit corrected a Director-context drift that prematurely proposed a conventional hero-image contract, motion hierarchy, interactive revelation concept and an M1/M2/M3 progression. Those proposals are **not project authority**.
+
+### Supported for static artwork
+
+Current evidence supports static artwork carrying:
+
+- distinct human presence and structural human primacy;
+- relationship as visual geometry;
+- transformed-but-recognizable identity when deliberately tested;
+- asymmetric evidentiary/visual position;
+- independent agency;
+- present consequence;
+- recoverable prior state/history when the image contains its own comparison evidence;
+- ordinary persistent affordance.
+
+### Static boundary / partial evidence
+
+Current evidence does **not** robustly establish in one static artwork under the current controls:
+
+- specific prior human authorship without force/help/conflict or literal mechanism;
+- definite prior human creation/configuration of a persistent condition;
+- the full chain `prior human choice -> persistent condition -> newly enabled independent action`;
+- one shared multi-element condition as the necessary common cause of several independent capabilities;
+- no-single-element sufficiency.
+
+### Not a defensible static claim
+
+A still image should not be scored as proving private knowledge, belief, memory, intention, understanding or interpretation. The defensible visible proxy is asymmetric evidentiary position.
+
+### Other-media correction
+
+Sequence, motion and interaction are **candidate research media only**. No current R0 experiment has empirically validated them as solutions to authorship, propagation or enabled possibility.
+
+Do not treat motion, interactive revelation, homepage behavior, hero composition or website state transitions as selected or validated direction.
 
 ## Active methodology checkpoint
 
-> **R0 Cross-Medium Semantic Allocation — Director Analysis Gate**
+> **R0 Cross-Medium Semantic Allocation — Temporal-Evidence Decision Gate**
 
-Before any new render, determine which Kymaean laws belong to:
+Smallest unresolved research question:
 
-1. static artwork;
-2. temporal sequence / motion;
-3. interaction / state transition;
-4. internal generative constraints that need not be literally visible.
+> **Does adding minimal temporal evidence materially improve recoverability of prior human authorship and enabled possibility without forcing literal mechanism, hierarchy or narrative explanation?**
 
-Research questions:
+This is a research question, not an authorization.
 
-- Which laws are directly observable in a still image?
-- Which require before/after or interactive evidence?
-- What is the minimum additional temporal information needed to recover authorship and enabled possibility?
-- Can sequence or motion carry those laws without returning to crossing/repair/access metaphors?
-- Which internal principles should stop being treated as requirements for one hero image?
+Before any generation or implementation, decide whether designing **one tightly controlled temporal-observability experiment** is justified by the evidence.
 
-**No new image is authorized at this checkpoint.**
+Do not create an automatic M1/M2/M3 sequence.
+
+Anti-churn discipline:
+
+> **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
+
+**No new image, motion experiment or website implementation is authorized at this checkpoint.**
 
 ## Working website / brand thesis
 
@@ -259,12 +284,13 @@ For the next Kymaean website/brand Director chat:
 5. read `docs/VISUAL_ARCHIVE_PROTOCOL.md`;
 6. read `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`;
 7. read `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`;
-8. read PAC-01A/B/C/D/E result files as needed;
+8. read PAC-01A/B/C/D/E result files only as needed;
 9. read `docs/R0_RENDERER_CARTOGRAPHY_PAC_SYNTHESIS_01.md`;
-10. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
-11. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
-12. read the Drive Renderer Cartography dataset, critique ledger, PAC synthesis, assets and evaluations;
-13. never use the misattributed three-person image as RST-05B evidence;
-14. treat PAC-01D as valid clean-render evidence per the user's provenance clarification;
-15. do not generate another PAC image until the cross-medium semantic-allocation gate is resolved;
-16. remain in R0 unless explicit mutual convergence occurs.
+10. read `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`;
+11. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
+12. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
+13. read the Drive Renderer Cartography dataset, critique ledger, PAC synthesis, assets and evaluations as needed;
+14. never use the misattributed three-person image as RST-05B evidence;
+15. treat PAC-01D as valid clean-render evidence per the user's provenance clarification;
+16. do not generate PAC-01F or any temporal experiment until the Temporal-Evidence Decision Gate is explicitly resolved;
+17. remain in R0 unless explicit mutual convergence occurs.
