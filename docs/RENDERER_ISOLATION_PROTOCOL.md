@@ -2,65 +2,99 @@
 
 Status: **ACTIVE PROJECT LAW FOR CLEAN-SLATE VISUAL GENERATION**
 
-Purpose: separate persistent project intelligence from image-rendering context so Kymaean can preserve its complete creative memory without repeatedly contaminating new visual generations with historical surface vocabulary.
+Updated: 2026-09-02
 
-## Core principle
+Purpose: separate persistent project intelligence from image-rendering context so Kymaean can preserve complete creative memory without repeatedly contaminating new visual generations with historical surface vocabulary.
+
+## 1. Core principle
 
 > **The director remembers everything. The canvas remembers nothing.**
 
 Kymaean visual development uses two deliberately different contexts:
 
-1. **Director Context** — persistent, project-only, historically informed.
+1. **Director Context** — persistent, project-based, historically informed.
 2. **Renderer Context** — short-lived, outside the Ensemble project, intentionally history-blind.
 
-The Director Context owns product truth, visual lineage, user reactions, critique history, Drive continuity, evaluation, and experiment design. The Renderer Context receives only a bounded sterile render packet and generates artwork without knowing it is part of Kymaean, Ensemble, a website, an app, AI software, or a visual-identity exercise.
+The Director owns product truth, visual lineage, user reactions, critique history, Drive continuity, evaluation, experiment design, archival classification, and phase authority.
 
-## Current ChatGPT execution boundary
+The Renderer receives only a bounded sterile render packet and should not need to know that the image belongs to Kymaean, Ensemble, a website, an app, AI software, or a brand exercise.
 
-A non-personalized Temporary Chat is **not the default renderer** because image generation may be unavailable in Temporary Chat in the user's current ChatGPT configuration.
+## 2. Current ChatGPT execution boundary
 
-The default Renderer Context is therefore a **new regular chat outside the Ensemble project**.
+A Temporary Chat is not assumed to be the renderer because image generation may be unavailable there.
 
-The Ensemble project should use **Project-only memory** when available. Project information remains useful inside the Director Context while the renderer remains outside the project boundary.
+Default Renderer Context:
 
-For stronger isolation when a controlled test suggests unwanted personalization, the user may temporarily disable account-level Memory and Custom Instructions before opening the renderer chat, generate the bounded experiment, then restore those settings. Do not delete saved memories merely to run an experiment.
+> **A new regular chat outside the Ensemble project.**
 
-Product settings and tool availability can change. Preserve the architectural intent rather than a particular UI label:
+Preferred laboratory discipline:
+
+> **One generated image per Renderer Context, then close that renderer chat.**
+
+For an orthogonal experiment, open a new Renderer Context rather than letting a renderer conversation accumulate its own visual attractor.
+
+> **Creative intelligence persists. Rendering context expires.**
+
+## 3. Saved-memory and chat-deletion clarification
+
+Saved-memory controls are **not** the project's visual-continuity or visual-isolation mechanism.
+
+The user explicitly inspected visible ChatGPT saved-memory content during R0. The visible memories were broad project/workflow summaries rather than a detailed archive of prior image generations. The user also deleted disposable image-renderer chats during the experiment, but recurring visual tendencies did not disappear merely because those chats were deleted.
+
+Therefore:
+
+- preserve project continuity in GitHub and Google Drive;
+- do **not** require disabling project memory for clean-slate visual research;
+- do **not** require deleting saved memories to run an experiment;
+- do **not** treat chat deletion as proof that visual priors have been removed;
+- use project-boundary separation plus minimal prompt construction as the controllable isolation mechanism.
+
+Product settings and labels may change. Preserve the architecture:
 
 > **Persistent informed Director; short-lived history-blind renderer with image generation available.**
 
-## Why this protocol exists
+## 4. Why the protocol exists
 
-Repeated long design chats and fresh chats inside the Ensemble project repeatedly collapsed toward related unapproved visual attractors: monumental/cinematic scale, thresholds and apertures, dark-luxury treatment, gold accents, portals, abstract symbolic figures, brand-board composition, explanatory collateral, and other previously discussed visual vocabulary.
+Repeated long design chats and fresh chats inside the Ensemble project repeatedly collapsed toward related unapproved attractors even when prompts explicitly attempted to avoid them: monumental/cinematic scale, thresholds/apertures, dark-luxury treatment, pale gold, portals, abstract symbolic figures, presentation-board composition, explanatory collateral, and related inherited vocabulary.
 
-The first R0 generation inside the persistent project context reproduced the same failure family despite the clean-slate handoff. The first isolated non-project render instead became a literal contemporary repair workshop. That contrast established that project-context isolation materially changes output.
+The first R0 generation inside persistent project context reproduced the same family. The first isolated non-project render instead became a literal contemporary repair workshop. That contrast established that project-context isolation materially changes output.
 
-The project had been asking one context to perform two incompatible jobs:
+The project had been asking one context to do two incompatible jobs:
 
-- remember all prior design history well enough to preserve continuity;
-- forget that history well enough to invent an independent visual surface.
+- remember enough history to preserve continuity;
+- forget enough history to invent an independent surface.
 
-The solution is architectural separation rather than increasingly elaborate negative prompting.
+Renderer Isolation solves that conflict architecturally rather than with increasingly elaborate negative prompts.
 
-## Director Context
+## 5. Director Context
 
-The Director Context is the Ensemble/Kymaean website-brand project.
+The Director Context is the persistent Ensemble/Kymaean website-brand project.
 
 It may and should know:
 
-- `Rylascoo/Ensemble-Website` current state and design law;
-- `Rylascoo/Ensemble-Project` product truth and validation boundaries;
-- Google Drive `Ensemble Project` visual masters and critique history;
+- `Rylascoo/Ensemble-Website` current state, design law, active handoff, and completed checkpoints;
+- `Rylascoo/Ensemble-Project` current product truth and validation boundaries;
+- Google Drive `Ensemble Project` visual masters, registry, and critique history;
 - O0 and all later historical branches;
 - historical favorites, failures, user reactions, and design judgments;
 - prior generated artwork once comparative review is appropriate;
 - the complete evaluation framework and project vocabulary.
 
-The Director Context must **not generate clean-slate artwork directly by default**. Its job is to formulate the experiment, decide what must remain controlled, emit the Sterile Render Packet, and interpret the returned artwork.
+The Director Context should **not generate clean-slate artwork directly by default**.
 
-## Renderer Context
+Its job is to:
 
-For normal R0 clean-slate generation, use a **new regular chat outside the Ensemble project**.
+1. define the research question;
+2. determine the minimum truth that must survive;
+3. formulate one sterile packet;
+4. send that packet to a fresh Renderer Context;
+5. evaluate the returned artwork;
+6. archive visual evidence and critique;
+7. update project authority only when the relevant gate is actually satisfied.
+
+## 6. Renderer Context
+
+For normal R0 clean-slate generation, use a new regular chat outside the Ensemble project.
 
 The renderer should:
 
@@ -70,17 +104,14 @@ The renderer should:
 - receive no project-chat continuity in its prompt;
 - receive no visual-history blacklist;
 - receive no previous renderer prompt unless the experiment intentionally depends on it;
+- receive no example menu merely to explain creative freedom;
 - have the shortest practical lifetime.
 
-**Preferred laboratory discipline: one generated image per renderer chat, then close that chat.**
+After generation, return the image to Director Context for evaluation and archival.
 
-For an orthogonal experiment, always start a new Renderer Context rather than allowing a renderer conversation to accumulate its own visual attractor.
+## 7. Sterile Render Packet law
 
-> **Creative intelligence persists. Rendering context expires.**
-
-## Sterile Render Packet law
-
-A Sterile Render Packet is normally the only material transferred from the Director Context into the Renderer Context.
+A Sterile Render Packet is normally the only material transferred from Director to Renderer.
 
 Do not include, unless indispensable to a deliberate experiment:
 
@@ -92,7 +123,7 @@ Do not include, unless indispensable to a deliberate experiment:
 - website;
 - branding;
 - visual identity;
-- logo or wordmark language;
+- logo/wordmark language;
 - historical branch names;
 - project documents;
 - design-critique terminology;
@@ -100,48 +131,72 @@ Do not include, unless indispensable to a deliberate experiment:
 - previous renderer prompts;
 - long negative lists of historical motifs.
 
-Avoid asking the renderer to visualize abstract project concepts directly. Encode needed conditions through observable human circumstances, physical relationships, actions, evidence, access, interruption, orientation, and unequal knowledge.
+Avoid asking the renderer to visualize abstract project concepts directly. Encode only the observable human/relational/physical truth required by the experiment.
 
-## Critical prompt-control law: examples are visual seeds
+## 8. Critical prompt-control law: examples are visual seeds
 
-Concrete examples offered merely to explain an open invention space are **not neutral**. Image generators frequently select them literally.
-
-Therefore:
+Concrete examples offered merely to explain an open invention space are **not neutral**.
 
 > **Do not give examples of what the renderer is free to invent unless the example is intentionally being selected as a seed.**
 
-This applies to settings, objects, mechanisms, cultures, media, materials, architecture, clothing, and narrative situations.
+This applies to:
 
-The first laboratory showed this repeatedly: optional berth/vessel examples produced boats; pair/mechanism language produced monumental symbolic machinery; textile examples caused the medium to rhyme with patchwork story illustration.
+- settings;
+- objects;
+- mechanisms;
+- cultures;
+- media;
+- materials;
+- architecture;
+- clothing;
+- occupations;
+- historical eras;
+- narrative situations;
+- named visual genres.
 
-## Causal Physics construction law
+The first RI laboratory demonstrated this repeatedly: berth/vessel examples produced boats; pair/mechanism language produced monumental symbolic machinery; textile examples caused the medium to rhyme with patchwork story illustration.
 
-When causal recoverability matters, the Director—not the renderer—should define the **smallest physical or relational truth that must remain legible**.
+## 9. Prompt accumulation law
 
-Useful construction grammar:
+Appending a new instruction to an earlier render packet does not guarantee a reset.
 
-**Prior human act -> present evidence -> changed affordance or constraint -> another person's response -> unequal understanding.**
+During R0 the user deliberately combined successive prompts and observed that the renderer often retained or compounded the earlier concrete seeds.
 
-This is a design aid, not a mandatory composition or genre.
+Therefore:
 
-Do not ask one still image to invent both a complex world and a complex causal mechanism when the viewer must be able to reconstruct history.
+- use a newly derived packet for a genuinely new experiment;
+- do not treat appended corrective prose as equivalent to a clean packet;
+- minimize concrete nouns not required by the research question;
+- when a packet develops a visible attractor, retire it and derive a new packet from the surviving abstract law.
 
-The Director specifies the causal mechanism. The renderer may invent the world around it.
+## 10. Causal-physics construction law
 
-## Artistic Language laboratory law
+When causal recoverability matters, the Director—not the renderer—defines the **smallest physical or relational truth that must remain legible**.
+
+Useful design grammar:
+
+> **Prior human act -> present evidence -> changed affordance/constraint -> another person's response -> unequal understanding.**
+
+This is a reasoning aid, not a mandatory composition.
+
+Do not ask one still image to invent both a complex world and a complex causal mechanism when the viewer must reconstruct history.
+
+## 11. Artistic-language laboratory law
 
 Do not demand that every experimental artwork simultaneously prove the product thesis and discover the brand aesthetic.
 
 Use separate laboratories when useful:
 
-- **Causal Physics** — tests legibility of consequence, changed possibility, history, evidence, and unequal knowledge.
-- **Artistic Language** — tests human structural importance, relational composition, identity, partial visibility, material behavior, abstraction, emotional magnetism, and visual authorship without requiring a complete explanatory narrative.
+- **Causal Physics:** consequence, changed possibility, history, evidence, asymmetric knowledge/access.
+- **Artistic Language:** human structural importance, relational composition, identity, partial visibility, material behavior, abstraction, emotional magnetism, and visual authorship.
 
-Cross-lab synthesis happens after independent discoveries exist. A strong causal illustration is not automatically a visual-world candidate. A beautiful visual world is not automatically product-truth proof.
+Cross-lab synthesis happens after independent discoveries exist.
 
-## Artwork-only execution contract
+A strong causal illustration is not automatically a visual-world candidate. A beautiful visual world is not automatically product-truth proof.
 
-Unless a specific experiment intentionally studies typography or collateral, the Renderer Packet should request one uninterrupted artwork.
+## 12. Artwork-only execution contract
+
+Unless an experiment intentionally studies typography or collateral, request one uninterrupted artwork.
 
 Do not include:
 
@@ -149,7 +204,7 @@ Do not include:
 - wordmarks;
 - marketing copy;
 - explanatory captions;
-- website or app UI;
+- website/app UI;
 - presentation boards;
 - moodboards;
 - comparison grids;
@@ -157,45 +212,47 @@ Do not include:
 - experiment titles;
 - branding panels.
 
-If branded collateral nevertheless appears, classify it as execution-failure evidence before evaluating visual discoveries.
+If branded collateral appears, classify it as execution-failure evidence before evaluating any transferable visual discovery.
 
-## First-pass causal gates
+## 13. Causal gates
 
-When the experiment is intended to carry causal meaning, evaluate before beauty:
+For experiments intended to carry causal meaning, evaluate before beauty:
 
-1. **Person-removal test:** If the people disappeared, would the image lose its essential meaning?
-2. **Evidence test:** Can something be identified that exists or changed because somebody previously acted?
-3. **Changed-possibility test:** Does the earlier act materially alter what another person can do now?
-4. **Unequal-understanding test:** Can different people plausibly know or interpret the situation differently?
+1. **Person-removal test:** if the people disappeared, would essential meaning collapse?
+2. **Evidence test:** is there a present condition that exists or changed because somebody acted?
+3. **Changed-possibility test:** did the earlier act materially alter what another person can do, know, access, inherit, resist, maintain, or further change?
+4. **Unequal-understanding test:** can different people plausibly know, want, access, interpret, or benefit from the situation differently?
 
 These are diagnostic gates, not scores.
 
-## Artistic-language gates
+## 14. Artistic-language gates
 
 When an experiment is primarily artistic-language research, ask:
 
-- Are people structurally important to the composition rather than decorative occupants?
+- Are people structurally important rather than decorative occupants?
 - Do relationships between people alter the visual field?
 - Can individuals remain specific without relying only on portrait realism?
+- Can identity persist through transformed representation?
 - Can the grammar express partial access, interruption, asymmetry, recurrence, or changed state without explanatory scenery?
 - Does the work feel authored rather than like a learned genre shortcut?
-- Would removing the people collapse both structural and emotional logic?
+- Would removing the people collapse structural and emotional logic?
 
 Do not infer convergence from one successful image.
 
-## Recovered prompt-attractor laws
+## 15. Recovered attractor laws
 
-The first RI/AL checkpoint established the following practical laws:
+The RI/AL and Round 1 work established:
 
-- broad phrases such as *emotionally compelling invented world* can activate generic cinematic concept-art priors;
-- over-specified narrative objects can make the medium/style literally rhyme with the story and collapse into illustration;
+- broad invented-world language can activate generic cinematic concept-art priors;
+- over-specified narrative objects can make medium/style literally rhyme with story;
 - material-history vocabulary can activate rustic craft-world imagery;
 - history does not require age, patina, ruin, dirt, or handcraft;
 - beneficial changed-access scenarios can activate civic/accessibility editorial shortcuts;
 - abstract pair/mechanism language can become monumental symbolic machinery;
 - conventional contemporary interpersonal prompts can drift toward lifestyle/editorial illustration;
-- painterly social-figure exploration can quickly become its own attractor;
-- one strong surface must be left alone once it has yielded the intended discovery unless explicit convergence is later authorized.
+- painterly social-figure exploration can become its own attractor;
+- monumental architecture and thresholds can reappear as inherited project-context attractors;
+- one strong surface must be left alone after it yields the intended discovery unless explicit convergence is later authorized.
 
 Do not confuse:
 
@@ -204,112 +261,132 @@ Do not confuse:
 - consequence with damage;
 - benevolence with accessibility accommodation;
 - originality with cinematic worldbuilding;
-- abstraction with monumentality.
+- abstraction with monumentality;
+- changed relationship with a literal bridge/door/wall metaphor.
 
-## Transferable discoveries — Causal Physics
+## 16. Transferable Causal Physics laws
 
-Carry these as abstract mechanisms, not motifs:
+Carry as abstract mechanisms, not motifs:
 
 - present state can prove prior state;
 - exception against repetition can reveal history;
 - interrupted correspondence can reveal former continuity or belonging;
-- a boundary is strongest when it changes actual possibility;
+- a boundary matters when it changes actual possibility;
 - partial visibility can express unequal access to one authoritative reality;
-- consequences are strongest when they change affordances or constraints;
-- attention, possession, interrupted action, posture, and orientation can expose unequal knowledge;
+- consequence is strongest when it changes affordance, constraint, access, relationship, or possibility;
+- attention, possession, interrupted action, posture, orientation, and gesture can expose unequal knowledge;
 - history can be recent, maintained, clean, modular, or visually fresh.
 
-## Transferable discoveries — Artistic Language
+## 17. Transferable Artistic Language laws
 
-Carry these as system principles, not surfaces:
+Carry as system discoveries, not surfaces:
 
-- **Human structural importance:** the strongest images collapse if the people are removed.
-- **Relationship as visual geometry:** distance, orientation, overlap, negative space, interruption, occlusion, and recurrence can carry social meaning.
-- **Distinct identity without portrait dependence:** a character can remain specific through perceptual invariants rather than one fixed face.
-- **Identity can survive transformation:** scale, crop, pose, viewpoint, completeness, and context can change while recognition persists.
-- **Influence without merger:** interaction can change a shared visual condition while individuals remain separately legible.
-- **Partial access:** openings, occlusion, reflection, interruption, and selective visibility can make one person differently available from different positions.
-- **Absence is active:** gaps, missing portions, negative space, and interrupted forms can carry relational information.
-- **The shared world need not be scenery:** it can emerge from bodies, gaps, overlaps, recurrence, and material conditions.
+- human structural importance;
+- relationship as visual geometry;
+- distinct identity without portrait dependence;
+- transformation plus persistent perceptual invariants can preserve identity;
+- influence without merger;
+- partial/asymmetric access;
+- active absence/gaps;
+- the shared world can emerge from people and their relationships rather than functioning only as scenery.
 
-## H01 identity proof
+## 18. R0 Cross-Lab Synthesis Round 1
 
-AL-H01 established the strongest identity-system mechanism so far: recurring individuals remained recognizable across different scale, crop, orientation, pose, completeness, and viewpoint through combinations of persistent perceptual invariants rather than one permanent portrait.
+Round 1 consolidated the following progression:
 
-Potential invariant families include:
+> **present condition -> evidence of prior action -> inherited condition -> altered affordance -> changed relationship -> changed possibility**
 
-- silhouette;
-- bodily proportion;
-- garment construction;
-- hair geometry;
-- characteristic movement/gesture;
-- restrained color association.
+Current non-aesthetic system hypothesis:
 
-The design principle is:
+> **Distinct people are structurally important; human choices can change shared conditions and future possibilities; identities can persist across transformed representations; relationships can structure the visual field; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
 
-> **Transformation + persistent perceptual invariants can create durable character identity without a fixed portrait.**
+### Crossing / boundary correction
 
-This does not select H01's painterly montage, costumes, palette, or composition.
+The late Round 1 phrase:
 
-## First cross-lab system hypothesis
+> **We inherit boundaries. We create crossings.**
 
-The current synthesis is **not an aesthetic selection**:
+is historical research shorthand only.
 
-> **Distinct people are structurally important; relationships can alter the shared visual field; identities persist across transformed representations; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
+It is not a public tagline, governing thesis, frozen visual law, selected metaphor, or phase authorization.
 
-This selects no palette, medium, material system, architecture, portrait style, symbol, wordmark, motion treatment, website surface, or composition.
+Preserved law:
 
-## Surface quarantine
+> **Human choices can alter inherited conditions and create new relationships or possibilities.**
 
-Every first-checkpoint RI/AL surface remains research only. No recent attractiveness, coherence, repetition, or assistant preference grants inheritance rights.
+Do not inherit literal bridges, giant walls, portals, thresholds, ruins, repair scaffolding, architectural archaeology, post-collapse environments, or pale-gold monumentality.
 
-A future branch may independently rediscover a prior surface only if newly earned from first principles.
+## 19. Phase-authority safeguard
 
-## Return path
+The Director must not promote project state from conversational momentum.
 
-After each render:
+> **Research discovery != phase transition.**  
+> **Assistant/design-team preference != user approval.**  
+> **Recent strength != incumbent.**  
+> **Metaphor != identity.**  
+> **Surface != law.**
 
-1. bring the artwork back into the Director Context;
-2. evaluate it with full project intelligence;
-3. preserve useful failure evidence as failure evidence;
-4. extract transferable discoveries without granting surface inheritance rights;
-5. record relevant user reaction and design judgment;
-6. prepare the next Sterile Render Packet;
-7. use a new Renderer Context for orthogonal exploration.
+Before phase promotion:
 
-At meaningful checkpoints, reconcile Drive and GitHub before continuing so no disposable renderer chat becomes the sole record of a concept or image.
+1. audit the chat and visual evidence;
+2. reconcile Drive archive/registry;
+3. check GitHub `CURRENT_STATE.md` and active handoff;
+4. verify convergence status;
+5. obtain explicit mutual convergence where required;
+6. only then update project authority.
 
-The first checkpoint is preserved in:
+The previous `R1 Crossing Language` proposal failed this gate and is superseded.
 
-- `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`;
-- Google Drive `R0 Renderer Isolation Checkpoint — RI-001–011 + AL-A01–H01`;
-- Google Drive `R0 Renderer Isolation Image Atlas — RI + AL`.
+## 20. Current gate — cross-surface robustness
 
-## Controlled contamination test
+R0 now asks:
 
-When diagnosis requires evidence, the project may deliberately run the same bounded scene under two conditions:
+> **Does the Kymaean system survive when the surface changes radically?**
 
-- **A — In-project render** with project context available;
-- **B — Isolated render** in a new regular non-project chat using only the Sterile Render Packet.
+Do not test by generating variants of one recent image.
 
-If necessary, repeat B with Memory and Custom Instructions temporarily disabled to distinguish project-context contamination from account-level personalization.
+Success means multiple genuinely unrelated artistic grammars independently preserve the system laws.
 
-This is an explicit experiment, not the normal production workflow.
+Success does **not** mean the images look alike.
 
-## Relationship to R0
+Avoid collapse into:
 
-Renderer Isolation strengthens rather than replaces R0.
+- recent painterly repeated-character montage;
+- monumental architecture;
+- bridges/walls/portals/thresholds;
+- cinematic fantasy or post-collapse worldbuilding;
+- causal diagrams/infographics;
+- symbolic machinery;
+- rustic craft/history shorthand;
+- branded presentation boards;
+- people used only as scale figures.
 
-R0 still governs:
+If an attractor repeats, extract the diagnostic law, archive, and move laterally.
 
-> **Preserve the lineage. Restart the search.**
+## 21. Return path and archival contract
 
-Historical inspiration remains available to the Director and withheld from the renderer unless a deliberate historical revival or comparison experiment requires it.
+After each renderer image:
 
-No historical surface becomes forbidden. No historical surface receives inheritance rights.
+1. close the Renderer Context;
+2. return the image to Director Context;
+3. evaluate against the experiment's causal/artistic gates;
+4. preserve user reaction and Director judgment;
+5. update the Drive registry/checkpoint when the experiment yields durable information;
+6. preserve an available binary or embedded archival visual copy with precise asset-state wording;
+7. do not promote a surface or phase without the relevant gate.
 
-## Permanent rule
+Google Drive remains visual-master authority. GitHub carries current state, protocol, checkpoints, and active handoff.
 
-For clean-slate visual generation, **do not render inside the persistent Ensemble project by default**.
+## 22. Current active continuation
 
-The Director designs the experiment. The isolated renderer makes the image. The Director interprets the result.
+Follow `CURRENT_STATE.md`.
+
+As of 2026-09-02 the active handoff is:
+
+`docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`
+
+The completed supporting checkpoint is:
+
+`docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
+
+Begin the exact-next-work defined by the active handoff. No convergence is authorized.
