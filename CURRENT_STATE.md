@@ -22,37 +22,45 @@ Canonical final R0 synthesis:
 
 The Director approved transition into integrated app + website design synthesis.
 
-Blueprint 01 has been prepared:
+Prepared integrated baseline:
 
 `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md`
 
-A continuity recovery subsequently corrected an over-narrowed experience-model sequence. The recovered ontology is Director-accepted as the downstream design basis:
+Director-accepted recovered ontology basis:
 
 `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
 
-The information-relationship architecture was then proposed, recursively audited, and accepted by Director continuation as the basis for shell/navigation work:
+Director-accepted information-relationship architecture:
 
 `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`
 
-Its live accepted principle is:
-
-> **One persistent Production context, with possibility, present performance, and causal history as connected focusable information orientations; creator posture and Presentation Perspective intersect them orthogonally rather than becoming separate products or navigation silos.**
-
-Its proposal-stage header remains historical text; this `CURRENT_STATE.md` establishes the live downstream acceptance state.
-
-Current active Director-review artifact:
+Director-accepted shell/navigation grammar:
 
 `docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md`
 
-Status:
-
-> **APP SHELL + NAVIGATION GRAMMAR — DIRECTOR PROPOSAL FOR REVIEW / NO PRODUCTION IMPLEMENTATION AUTHORIZED**
-
-The shell proposal's candidate principle is:
+Its live accepted principle is:
 
 > **Stable Production, fluid focus.**
 
-No final logo, symbol, wordmark, typography, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, detailed interaction system, app UI system, final root navigation control, final navigation destinations, or production design is selected.
+Meaning:
+
+- navigation changes durable scope;
+- within one Production, focus transitions follow causal/relational meaning;
+- possibility, present performance, and causal history are connected information orientations rather than permanent product silos;
+- Watch / Direct / Perform / Write are creator postures, not root navigation;
+- Creator/Production, Audience, and Character views are disclosure perspectives, not cosmetic themes;
+- Back means navigation history and never silently mutates causal history;
+- the shell remains coherent without AI and computationally quiescent when idle.
+
+Current active Director-review artifact:
+
+`docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md`
+
+Status:
+
+> **TASK-FIRST LOW-FIDELITY INTERACTION PROTOTYPE — DIRECTOR PROPOSAL FOR REVIEW / NO PRODUCTION IMPLEMENTATION AUTHORIZED**
+
+No final logo, symbol, wordmark, typography, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, detailed interaction styling, final root navigation control, final creator-facing terminology, final Take/rehearsal/branch UX, final Character Context disclosure UX, or production design is selected.
 
 No production XAML, C#, Astro, CSS, JavaScript, or equivalent substantial implementation is authorized from the current design state.
 
@@ -63,8 +71,6 @@ Anti-churn discipline remains:
 ---
 
 ## Recovered experience foundation
-
-Current design synthesis preserves the richer frozen/recovered product structure rather than choosing one simplified experience identity.
 
 ### Authoritative creative cycle
 
@@ -115,7 +121,7 @@ Creator-facing labels and dramatic concepts are not automatically permanent engi
 
 ## Accepted information-relationship architecture
 
-The accepted architecture treats the Production as persistent scope rather than forcing the creator through three rigid modes.
+The Production is persistent scope.
 
 Descriptive information orientations are:
 
@@ -132,7 +138,7 @@ POSSIBILITY
     -> changed future possibility
 ```
 
-Persistent continuity anchors proposed for later validation include:
+Persistent continuity anchors include, subject to later implementation validation:
 
 - Production identity;
 - active Scene context;
@@ -145,17 +151,17 @@ History inspection must not silently move authoritative current state backward. 
 
 ---
 
-## Active shell/navigation grammar proposal
+## Accepted shell/navigation grammar
 
-The current shell proposal applies the accepted information architecture through the structural rule:
+The accepted structural rule is:
 
 > **Navigate between durable scopes; transition within one Production by following meaning.**
 
-Proposed hierarchy:
+Navigation responsibilities:
 
 ### Level 0 — Application / Production scope
 
-Durable navigation for entering, opening, switching or leaving a persistent Production and for app-level destinations such as settings/help/diagnostics when later required.
+Durable navigation for entering, opening, switching or leaving a persistent Production and for app-level settings/help/diagnostics when later required.
 
 ### Level 1 — Persistent Production workspace
 
@@ -169,9 +175,7 @@ Possibility, performance and history are reached through contextual transitions 
 
 Deep/adjacent information such as causal provenance, consequence detail, Character context, unresolved pressure or diagnostics appears contextually rather than becoming permanent global navigation.
 
-### Candidate shell regions
-
-Semantic regions, not fixed pixel geometry:
+Candidate semantic shell regions remain:
 
 - scope/identity;
 - minimum current-context anchors;
@@ -186,53 +190,156 @@ Semantic regions, not fixed pixel geometry:
 
 It must never silently mean undo, rewind, reject, retcon, branch or mutate authoritative Production history.
 
-### Presentation Perspective
-
-Perspective remains semantic disclosure state, not top-level navigation or a cosmetic theme.
-
-### Creator postures
-
-Watch / Direct / Perform / Write affect emphasis, available commands and disclosure of tools without becoming four permanent shell silos by default.
-
-### Adaptive behavior
+### Adaptive and multi-window boundary
 
 Wide/medium/narrow windows may change pane arrangement, but no essential meaning may depend on simultaneous multi-column display.
-
-### Multi-window
 
 One-window completeness is the baseline. Multi-window behavior remains deferred until a concrete creator workflow demonstrates durable benefit.
 
 ### Windows-native feasibility
 
-Current Microsoft Windows navigation guidance supports simple, clear, consistent, adaptive navigation and standard WinUI navigation patterns. `NavigationView`/standard back behavior are feasibility references only; exact root-control topology, pane mode, Frame structure and version-specific APIs remain unselected.
+Current Microsoft Windows navigation guidance is feasibility evidence only. Standard WinUI navigation patterns may later be appropriate, but exact `NavigationView`, pane mode, Frame topology, title-bar composition and version-specific APIs remain unselected.
 
 ### ARM64/battery
 
-The shell must be capable of computational quiescence when state is unchanged. No baseline dependence on continuous animation, graph physics, polling, idle inference or persistent GPU/NPU work.
+The shell must be computationally quiescent when state is unchanged. No baseline dependence on continuous animation, graph physics, polling, idle inference or persistent GPU/NPU work.
+
+---
+
+## Active task-first interaction prototype
+
+The current prototype asks:
+
+> **Can a creator complete one meaningful causal session while continuously feeling that they remain inside one persistent Production rather than moving among disconnected software modules?**
+
+The proposed test spine is:
+
+```text
+OPEN / RESUME PRODUCTION
+        ↓
+CURRENT SCENE / WATCH
+        ↓
+INSPECT RELEVANT CONTEXT
+        ↓
+RETURN TO CURRENT SCENE
+        ↓
+DIRECT / INTERVENE
+        ↓
+OPTIONAL CHARACTER-BOUNDED PERFORMANCE
+        ↓
+PROVISIONAL PERFORMANCE
+        ↓
+ACCEPTED / EFFECTIVE PERFORMANCE BOUNDARY
+        ↓
+WHAT CHANGED?
+        ↓
+TRACE CAUSE / HISTORY
+        ↓
+RETURN TO CHANGED PRESENT
+        ↓
+NEXT POSSIBILITY IS DIFFERENT
+```
+
+The final step is mandatory. The prototype should not end on a summary/history page. It must return to the same persistent Production where the consequence is now part of present conditions.
+
+Core success feeling:
+
+> **I am back in the same world, but it is different because of what happened.**
+
+---
+
+## O0 Original Concept Foundation — experiential benchmark role
+
+The recovered early Ensemble UI concepts in Google Drive remain **major conceptual ancestors, not selected layouts or visual surfaces**.
+
+The current task-first prototype deliberately uses three O0 experiences as regression benchmarks:
+
+### Refined Stage benchmark
+
+> **Can people and relationships become more important than software chrome during live performance?**
+
+Preserve the experiential idea that the people are the scene and transcript/interface machinery supports rather than replaces them.
+
+### Refined Character View / Take a Seat benchmark
+
+> **Can changing disclosure perspective materially transform the creator's experience of the same Production without implying a different reality?**
+
+Preserve bounded perspective as lived experience. Do not freeze the historical `knows / believes / remembers / wants / won't say` list as final product ontology.
+
+### Refined Archive benchmark
+
+> **Can history answer `what changed and why does it matter now?` rather than only `what happened before?`**
+
+`What Changed` and `Still in Motion` remain useful historical benchmark language, not selected final copy.
+
+If a new prototype is architecturally cleaner but fails these three experiential tests, it should be considered weaker than the original conceptual lineage.
+
+### O0 surface boundary
+
+No inheritance rights for the exact dark/black ground, warm gold/amber treatment, serif typography, particle/constellation figures, portrait treatment, island imagery, card borders, three-person geometry, iconography, composition, or Windows-app layout.
+
+Surface choices may be rediscovered later only if independently earned from first principles.
+
+---
+
+## Prototype authority boundaries
+
+The prototype may test the conceptual distinction:
+
+```text
+PERFORMANCE MATERIAL
+        ≠ automatically
+AUTHORITATIVE HISTORY
+```
+
+But it must not claim final implemented atomic commit behavior or freeze final Take/rehearsal UX.
+
+Patch 0011 Take semantics remain the latest machine-validated executable authority unless newer `Ensemble-Project` authority supersedes it.
+
+Patch 0012 Atomic Causal Commit remains approved/canonical architecture for implementation but is not current machine-validated executable authority.
+
+Character-bounded prototype views may test the disclosure experience, but evolved Character Context categories and final disclosure UX remain open.
+
+Creator intervention may test the distinction between changing circumstance and secretly dictating Character agency, but final intervention taxonomy remains open.
+
+---
+
+## Prototype accessibility and degradation requirements
+
+The low-fidelity interaction model is not complete unless it works without visual styling.
+
+Required semantic distinctions:
+
+- current versus historical material;
+- Creator versus Character-bounded perspective;
+- provisional versus effective/accepted material;
+- selected Character/current object;
+- consequence and unresolved status;
+- disabled/unavailable AI capability versus fictional in-world state.
+
+Keyboard users must be able to complete the entire causal loop.
+
+Reduced motion must preserve every navigation/state meaning.
+
+High contrast/scaling must not depend on subtle borders, glow, portrait color, spatial distance or simultaneous multi-column layout.
+
+AI capability failure must remove automation without corrupting creative truth, inventing fictional Character behavior, or creating causal history from a technical failure.
 
 ---
 
 ## Current smallest unresolved design question
 
-The active shell proposal asks whether to adopt:
+The active prototype proposal asks whether to adopt:
 
-> **Stable Production, fluid focus.**
+> **The first Kymaean interaction prototype should test one uninterrupted causal creator session: resume a living Production, experience people in a current Scene, inspect context/cause without losing the present, intervene or temporarily inhabit a Character, distinguish provisional performance from effective history, understand what changed, trace why, and return to the same Production in a meaningfully changed present.**
 
-Meaning:
+If the Director approves this interaction thesis, the next smallest justified step is:
 
-- the persistent creative reality remains legible;
-- navigation changes durable scope;
-- focus transitions follow causal/relational meaning;
-- adjacent information is inspectable rather than permanently exposed;
-- posture and perspective alter relationship/disclosure rather than fragmenting the product;
-- current authority remains distinguishable from history and proposal;
-- the shell remains coherent without AI and quiescent when idle.
+> **Produce the first actual low-fidelity screen/state wireframe set for this exact flow.**
 
-If the Director approves this shell grammar, the next smallest unresolved question is:
+That next artifact must remain structural/grayscale, avoid visual-identity selection, and test hierarchy, transitions, accessibility, current/history distinction, perspective, provisional/effective status and adaptive Windows behavior before any aesthetic system is applied.
 
-> **What task-first low-fidelity interaction prototype should test “Stable Production, fluid focus” before visual styling begins?**
-
-Do not create wireframes/prototypes automatically. Current gate is Director review of `docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md`.
+Do not generate that wireframe set automatically. Current gate is Director review of `docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md`.
 
 ---
 
@@ -242,7 +349,7 @@ Do not create wireframes/prototypes automatically. Current gate is Director revi
 
 Historical R0-era status wording in that document is superseded for live phase/checkpoint status by this file and the active design-synthesis artifacts.
 
-Its authority boundaries, Renderer Isolation law, prompt-seed discipline, asset-continuity rules, creative-collaboration law, phase-authority safeguards, source-of-truth rules, and surface-inheritance safeguards remain active unless stronger current authority explicitly supersedes them.
+Its authority boundaries, Renderer Isolation law, prompt-seed discipline, asset-continuity rules, creative-collaboration law, phase-authority safeguards, source-of-truth rules and surface-inheritance safeguards remain active unless stronger current authority explicitly supersedes them.
 
 Google Drive `Kymaean Visual Continuity Constitution` remains the canonical human-readable continuity mirror.
 
@@ -316,7 +423,7 @@ This includes painterly figurative realism, ink/wash, beige/brown palettes, worn
 
 > **Surface != law.**
 
-The recovered O0 Original Concept Foundation is a major conceptual ancestor, not a selected surface. Its exact dark/gold styling, typography, iconography, portrait treatment and layouts have no inheritance rights.
+The recovered O0 Original Concept Foundation is a major conceptual ancestor, not a selected surface.
 
 ---
 
@@ -357,14 +464,14 @@ PAC-01D is valid clean-render evidence per the Director's provenance clarificati
 
 `Rylascoo/Ensemble-Project/CURRENT_STATE.md` remains authority for exact application implementation and validation.
 
-Current application checkpoint establishes:
+Current application checkpoint establishes, unless newer application-repository authority supersedes it:
 
 - Blueprint 0.1 remains frozen for E0;
 - E0-A Harness Implementation / H1 Deterministic Spine is active engineering work;
-- Patch 0011 Take Semantics remains the latest machine-validated executable checkpoint unless newer application-repository authority explicitly supersedes it;
+- Patch 0011 Take Semantics is the latest machine-validated executable checkpoint;
 - Patch 0012 Atomic Causal Commit architecture is approved/canonical for implementation but is not current machine-validated executable authority;
-- final creator-facing Production/Studio ontology, evolved Character Context disclosure model, and final Take/branch/rehearsal UX remain open;
-- no current design authority establishes final WinUI behavior, Windows AI/NPU execution, packaging/WACK, or Store certification.
+- final creator-facing Production/Studio ontology, evolved Character Context disclosure model and final Take/branch/rehearsal UX remain open;
+- no current design authority establishes final WinUI behavior, Windows AI/NPU execution, packaging/WACK or Store certification.
 
 Design proposals must distinguish:
 
@@ -391,7 +498,7 @@ Design synthesis must remain compatible with the established target:
 - deterministic/fail-closed degradation and capability gating where applicable;
 - keyboard, pointer, touch, screen reader, high contrast, scaling and reduced-motion accessibility.
 
-Avoid design assumptions requiring permanent GPU animation, constant background inference, idle polling, or persistent NPU activity.
+Avoid design assumptions requiring permanent GPU animation, constant background inference, idle polling or persistent NPU activity.
 
 Visual richness must be able to become quiescent without losing semantic meaning.
 
@@ -424,23 +531,25 @@ For a new Kymaean app + website design Director chat:
 
 1. read this file first;
 2. resolve current `Rylascoo/Ensemble-Website` `main` commit;
-3. read `docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md` as the active Director-review artifact;
-4. read `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md` as the accepted structural basis;
-5. read `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md` as the accepted recovery basis;
-6. read `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` for the integrated baseline;
-7. read `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`, `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`, and `docs/DESIGN_CONTINUITY.md` only as needed for transition/R0/continuity evidence, treating this file and active artifacts as live phase authority where historical wording differs;
+3. read `docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md` as the active Director-review artifact;
+4. read `docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md` as the accepted shell/navigation basis;
+5. read `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md` as the accepted structural basis;
+6. read `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md` as the accepted recovery basis;
+7. read `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md` for the integrated baseline;
 8. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and resolve that repository's current `main` commit;
 9. read `docs/blueprint/CREATOR_ONTOLOGY_EXTENSIBILITY_GUARD.md` from the application repository when app IA or creator-facing ontology is in scope;
-10. read only additional application roadmap/blueprint/source/evidence files actually needed for the current question;
-11. consult older R0 result files and Drive assets only when exact evidence/provenance is needed;
-12. never use the misattributed three-person image as RST-05B evidence;
-13. do not create TEO-03, PAC-01F, or another calibration branch;
-14. do not inherit an R0 renderer surface or O0 surface as the aesthetic;
-15. do not revive the superseded Creator-first/Witness-first/Understanding-first/Cycle-first selection gate;
-16. do not turn Watch/Direct/Perform/Write into navigation silos or Presentation Perspective into a cosmetic theme without new evidence and explicit approval;
-17. do not turn possibility/performance/history or Studio/Stage/Archive into permanent primary navigation merely because they are conceptually important;
-18. preserve Back as navigation history, never causal undo/retcon;
-19. stop at the current Director-review gate before generating low-fidelity prototype artifacts, visual styling, or substantial production implementation.
+10. consult the Google Drive O0 Original Concept Foundation only when exact historical experiential/visual comparison is useful; O0 remains conceptual ancestor, not selected surface;
+11. read `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`, `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`, and `docs/DESIGN_CONTINUITY.md` only as needed for transition/R0/continuity evidence, treating this file and active artifacts as live phase authority where historical wording differs;
+12. read only additional application roadmap/blueprint/source/evidence files actually needed for the current question;
+13. never use the misattributed three-person image as RST-05B evidence;
+14. do not create TEO-03, PAC-01F, or another calibration branch;
+15. do not inherit an R0 renderer surface or O0 surface as the aesthetic;
+16. do not revive the superseded Creator-first/Witness-first/Understanding-first/Cycle-first selection gate;
+17. do not turn Watch/Direct/Perform/Write into navigation silos or Presentation Perspective into a cosmetic theme without new evidence and explicit approval;
+18. do not turn possibility/performance/history or Studio/Stage/Archive into permanent primary navigation merely because they are conceptually important;
+19. preserve Back as navigation history, never causal undo/retcon;
+20. preserve the O0 experiential benchmarks while remaining free to discover a better implementation;
+21. stop at the current Director-review gate before generating the actual wireframe set, visual styling, or substantial production implementation.
 
 ---
 
@@ -461,9 +570,11 @@ Preserve:
 > **Product experience ontology != storage ontology.**
 >
 > **Navigation history != causal history mutation.**
+>
+> **Architectural cleanliness does not outrank human experiential truth.**
 
 Current gate:
 
-> **Director review of `docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md`.**
+> **Director review of `docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md`.**
 
-No low-fidelity prototype, visual experiment, or implementation is automatically authorized.
+No actual wireframe set, visual experiment, or production implementation is automatically authorized.
