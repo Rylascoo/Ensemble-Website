@@ -19,10 +19,11 @@ Do not promote a new visual phase. Do not select a logo, wordmark, palette, mate
 5. `docs/VISUAL_ARCHIVE_PROTOCOL.md`
 6. `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
 7. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`
-8. `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md` and `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md` only as needed for evidence
-9. this handoff
-10. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-11. the Drive Renderer Cartography dataset, CFM-01A evaluation, retrospective checkpoint, registry, and relevant archival records
+8. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`
+9. RI/AL and Round 1 checkpoints only as needed for evidence
+10. this handoff
+11. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
+12. the Drive Renderer Cartography dataset, A/B evaluations, retrospective checkpoint, registry, and relevant archival records
 
 GitHub/Drive are durable project state. Do not ask the user to reconstruct previous research from chat history when these sources resolve it.
 
@@ -36,20 +37,20 @@ Renderer Isolation remains active operational law:
 
 Disposable non-project renderer chats reduce known project-context inheritance; they do not prove a mathematically memory-free image model or remove base-model semantic priors.
 
-## Completed methodology work
+## Methodology state
 
 Cross-Surface Experiments 01–04 are archived diagnostic failures, not robustness proof.
 
-The Renderer Cartography retrospective and first controlled probe are now complete:
+The first Renderer Cartography retrospective is complete, and Controlled Formal Matrix 01 has two completed probes:
 
-- `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`
+- `CFM-01A — Flat Mass / Negative Space` — formal method pass
+- `CFM-01B — Sparse Contour / Void` — formal method pass
 
 Canonical Drive dataset:
 
 `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
 
-Current dataset coverage is **47 records**, including `CFM-01A`. Exact CSR-E01–E04 and CFM-01A packet lineage is recovered; most earlier exact prompts remain `PENDING EXACT PROMPT RECOVERY` and must not be reconstructed.
+Current dataset coverage is **48 records**, including A and B. Exact CSR-E01–E04 and CFM-01A/B packet lineage is recovered; most earlier exact prompts remain `PENDING EXACT PROMPT RECOVERY` and must not be reconstructed.
 
 The methodological law remains:
 
@@ -57,43 +58,21 @@ The methodological law remains:
 
 ## CFM-01A result
 
-`CFM-01A — Flat Mass / Negative Space` is **COMPLETED — FORMAL METHOD PASS**.
+A strongly obeyed the shallow picture-plane / large-human-mass / negative-space package, made the three people structurally necessary, and avoided the old monumental architecture / bridge / threshold / period-world / deep-cinematic family.
 
-The returned image:
+See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`.
 
-- strongly obeyed the shallow picture-plane / large-human-mass / negative-space package;
-- made the three people structurally necessary;
-- preserved individual distinction;
-- made present relational action and unequal response legible;
-- left exact before/after relational change and unequal knowledge only partially provable;
-- did **not** reproduce the old monumental architecture / bridge / threshold / period-world / deep-cinematic family.
+## CFM-01B result
 
-The renderer independently selected restrained painterly figurative realism. That is surface evidence only and has no inheritance rights.
+B strongly obeyed the sparse-contour / active-void package. Three people remained individually attributable despite sparse representation. The visible action and asymmetric responses remained legible; exact relational before/after and unequal knowledge remained only partially provable.
 
-Transferable finding:
+The old monumental architecture / bridge / threshold / period-world / deep-cinematic family again did not recur.
 
-> **Explicit picture-plane depth, human massing, negative-space and environmental-subordination controls can materially reduce recurrence of environment-first spectacle while preserving a legible human relational field.**
+A and B therefore provide materially different formal grammars carrying the same basic relational kernel. This is strong comparative evidence that explicit formal control is a useful experimental variable on the current renderer.
 
-This remains comparative evidence, not strict one-variable proof about historical CSR-E04.
+See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`.
 
-Standalone Drive asset:
-
-`R0 Renderer Cartography CFM-01A — Returned Renderer Artwork.jpeg`
-
-Evaluation:
-
-`R0 Renderer Cartography CFM-01A — Evaluation & Critique`
-
-## Evidence discipline
-
-Preserve these source classes:
-
-- **PROJECT EMPIRICAL LAW** — archived Kymaean evidence;
-- **OFFICIAL OPENAI GUIDANCE** — current official documentation;
-- **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION** — useful outside guidance requiring verification;
-- **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT** — syntax or controls from other generators.
-
-The user-supplied Gemini Pro guide remains external research input. Do not promote unsupported model-mechanics claims or other-generator weighting syntax into ChatGPT Images project law.
+No A/B surface has inheritance rights. No convergence is authorized.
 
 ## Controlled Formal Matrix 01
 
@@ -104,8 +83,8 @@ Fixed semantic kernel:
 Variants:
 
 1. `CFM-01A` — Flat Mass / Negative Space — **COMPLETE / PASS**
-2. `CFM-01B` — Sparse Contour / Void — **NEXT / PACKET READY**
-3. `CFM-01C` — Shallow Overlap / Occlusion — pending
+2. `CFM-01B` — Sparse Contour / Void — **COMPLETE / PASS**
+3. `CFM-01C` — Shallow Overlap / Occlusion — **NEXT / PACKET READY**
 
 Shared controls:
 
@@ -118,19 +97,19 @@ Shared controls:
 - artwork-only output;
 - no references.
 
-Matrix 01 is not a strict A/B reproduction of CSR-E04.
+Matrix 01 remains comparative, not a strict historical A/B reproduction of CSR-E04.
 
-Render budget remains maximum three images, one new non-project renderer chat per image. If B loses person attribution, record B as a failure and do not rerender it. Proceed to C unless the attractor stop condition fires. Stop after C regardless of success and synthesize before further generation.
+The early-stop condition has not fired. B also preserved identity attribution, so C is eligible. Stop after C regardless of success and synthesize Matrix 01 before any further image generation.
 
 ## Exact next work — Director gate
 
-`CFM-01B — Sparse Contour / Void` is packet-ready but **not render-authorized until explicit user approval**.
+`CFM-01C — Shallow Overlap / Occlusion` is packet-ready but **not render-authorized until explicit user approval**.
 
 Exact packet:
 
 > Three distinct people must form the primary structure of one uninterrupted artwork. In the depicted moment, one person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding visible.
 >
-> Use sparse, incomplete contours and a high proportion of unfilled space. Let gesture, orientation, distance, and differences in mark density carry the relationship. Leave most of the field undescribed.
+> Use compact human forms in shallow depth with controlled overlap and occlusion. Let the relationships alter edges, visibility, and shared visual regions while each person remains separately traceable. Keep environmental depth and descriptive background minimal.
 >
 > Distinguish each person through a small combination of silhouette, bodily proportion, posture, and characteristic gesture. Use an even tonal field with moderate contrast.
 >
@@ -138,13 +117,25 @@ Exact packet:
 
 Execution contract:
 
-1. present/review the exact B packet in Director Context;
+1. present/review the exact C packet in Director Context;
 2. do not generate inside the Ensemble project;
 3. after explicit user approval, copy only the packet into a fresh regular non-project renderer chat;
 4. use no memory-negation preamble and add no examples;
 5. generate exactly one image and close the renderer chat;
 6. return the image to Director Context;
-7. evaluate/archive/update Cartography before deciding whether C is warranted.
+7. evaluate/archive/update Cartography;
+8. **stop and synthesize Matrix 01 before any further generation**.
+
+## Evidence discipline
+
+Preserve these source classes:
+
+- **PROJECT EMPIRICAL LAW** — archived Kymaean evidence;
+- **OFFICIAL OPENAI GUIDANCE** — current official documentation;
+- **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION** — useful outside guidance requiring verification;
+- **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT** — syntax or controls from other generators.
+
+The user-supplied Gemini Pro guide remains external research input. Do not promote unsupported model-mechanics claims or other-generator weighting syntax into ChatGPT Images project law.
 
 ## Archival law
 
