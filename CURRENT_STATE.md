@@ -1,6 +1,6 @@
 # Ensemble Website — Current State
 
-Updated: 2026-09-02
+Updated: 2026-09-03
 
 ## Identity and authority
 
@@ -129,7 +129,9 @@ Round 1 companion Drive records:
 - `R0 Cross-Lab Synthesis Round 1 — Image Atlas`
 - `SUPERSEDED — R0 Crossing Language Draft (Process Evidence Only)`
 
-The atlas contains embedded archival copies of available Round 1 visual evidence. Do not describe embedded copies as standalone raw-file preservation unless standalone image files are separately verified.
+The Round 1 atlas has been re-verified and contains **nine distinct embedded visual copies**: `Study A` through `Study F`, plus `R0 Synthesis 06`, `07`, and `08`. The atlas labels are provenance, not a mandate to reconstruct a strict missing-number sequence. Embedded copies are archival visual evidence; do not describe them as standalone raw-file preservation unless standalone files are separately verified.
+
+The current `R0 Cross-Surface Robustness Validation — Active Research` folder is intentionally empty at handoff because Experiment 01 has not yet been rendered.
 
 ## Working website / brand thesis
 
@@ -302,8 +304,8 @@ Use the Drive folder:
 
 `03 Clean-Slate Visual Discovery — Active / X0 Cross-Lane Discovery & Research — Clean Slate / R0 Cross-Surface Robustness Validation — Active Research`
 
-Derive one new sterile packet from the consolidated system law without seeding a concrete setting, named medium, culture, architecture, bridge, wall, threshold, portal, historical material, or example menu unless that element is deliberately being tested.
+The first action belongs in the **Director Context**: reconstruct state, derive the minimal sterile render packet, and stop for user review. Do **not** generate the image inside the Ensemble project chat.
 
-Generate exactly one uninterrupted artwork in a fresh regular non-project renderer chat, close that renderer chat, and return the image to Director Context for evaluation and archival.
+After the packet is approved, execute it in a new regular non-project renderer chat, generate exactly one uninterrupted artwork, close that renderer chat, and return the image to Director Context for evaluation and archival.
 
 Do not infer convergence from Experiment 01 and do not initialize production website code yet.
