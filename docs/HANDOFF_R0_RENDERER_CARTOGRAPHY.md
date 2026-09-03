@@ -1,159 +1,142 @@
 # Kymaean / Ensemble Website — R0 Renderer Cartography Handoff
 
-Status: **ACTIVE VISUAL CONTINUATION HANDOFF — TEO-02 FINAL TEMPORAL ROBUSTNESS DIRECTOR GATE**
+Status: **R0 CALIBRATION COMPLETE — DESIGN-SYNTHESIS TRANSITION GATE**
 
 Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation from completed TEO-01 into exactly one final temporal semantic-route robustness decision.
+Preserve the completed R0 Renderer Cartography research and hand off cleanly into the next Director decision.
 
-Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, hero treatment, interaction system or production surface.
+Do **not** resume calibration rendering by default.
+
+Do **not** promote any generated surface into Kymaean identity.
+
+Do **not** begin production app or website code until an integrated design-synthesis blueprint is proposed, recursively audited and approved.
 
 ## Authoritative read order
 
 1. `CURRENT_STATE.md`
-2. `docs/DESIGN_CONTINUITY.md`
-3. `docs/RENDERER_ISOLATION_PROTOCOL.md`
-4. `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
-5. `docs/R0_CROSS_MEDIUM_SEMANTIC_ALLOCATION_AUDIT_01.md`
-6. `docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`
-7. `docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_02.md`
-8. this handoff
-9. older PAC/SOV/RST/RI/AL synthesis files only as needed
-10. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-11. Drive Renderer Cartography dataset, TEO assets/evaluations and critique records as needed
+2. `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`
+3. `docs/DESIGN_CONTINUITY.md`
+4. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` for product truth and validation boundaries
+5. `docs/R0_TEMPORAL_OBSERVABILITY_TEO_02_RESULT.md`
+6. older R0 synthesis/result files only when exact research evidence is needed
+7. Drive Renderer Cartography dataset, critique ledger, TEO/PAC assets and evaluations as needed
 
-GitHub and Drive are durable project state. Do not ask the user to reconstruct completed research from chat history when these sources resolve it.
-
-## Governing laws
-
-> **The director remembers everything. The canvas remembers nothing.**
-
-> **For cross-surface research, the Director controls semantic law and the variable under test. The Renderer invents only the remaining unconstrained local manifestation.**
-
-Anti-churn discipline:
+## Governing anti-churn law
 
 > **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
 
-Do not create automatic experiment ladders.
+## Completed research arc
 
-## TEO-01 completed result
+R0 Renderer Isolation / Artistic Language established:
+
+- human structural importance;
+- relationship as visual geometry;
+- identity-through-invariants;
+- asymmetric access/visibility;
+- separation of semantic law from surface style.
+
+Controlled Formal Matrix established that those human/relational laws can survive materially different formal grammars while suppressing old architecture/bridge/period attractors.
+
+Semantic Observability / RST established:
+
+- present arrangements can imply history;
+- direct physical causality strengthens authorship but tends toward control/help/conflict;
+- independent agency is not enabled agency;
+- abstract persistent enabling conditions collapse into generic social grouping when no carrier is allowed.
+
+PAC-01A through PAC-01E established:
+
+- supported action != carrier-dependent action;
+- object affordance != configuration affordance;
+- local relational affordance != shared systemic affordance;
+- shared-element overlap != distributed configuration dependence;
+- distributed carrier topology != distributed configuration dependence;
+- one static artwork has a practical observability boundary for the full causal-capability chain.
+
+Cross-Medium Semantic Allocation Audit 01 established that motion/interaction were only candidate media, not validated solutions.
+
+TEO-01 then demonstrated strong temporal information gain for authorship, persistence and enabled possibility, but through a literal physical-access shortcut.
+
+TEO-02 demonstrated that the temporal information gain survives a non-access semantic route based on reorganization of an ordinary shared workspace.
+
+## TEO-02 final result
 
 Canonical result:
 
-`docs/R0_TEMPORAL_OBSERVABILITY_TEO_01_RESULT.md`
+`docs/R0_TEMPORAL_OBSERVABILITY_TEO_02_RESULT.md`
 
 Returned asset:
 
-`TEO-01 — Two-Moment Temporal Observability.png`
+`TEO-02 — Semantic-Route Robustness.png`
 
-Drive ID: `1sBqZ2IdMQIEmLBb7FFJKY4LBTlJu_LPm`
+Drive ID: `1ZSbMoncwJFbbSmaoIomYbvIfzVntVcGd`
 
-Evaluation Drive Doc ID: `1h1adhS1l5M3nVPGSrzGGr-0D6S95I_xNBaeJ2Gt39zo`
-
-Outcome:
-
-- cross-moment correspondence — STRONG PASS;
-- visible authorship — PASS;
-- persistence — PASS;
-- later independent use — PASS;
-- enabled-possibility gain — STRONG PASS;
-- temporal information gain — STRONG PASS;
-- independent agency — STRONG PASS;
-- human primacy — PASS;
-- ordinary/non-symbolic condition — PASS;
-- attractor/narrative suppression — FAIL / PARTIAL.
+Evaluation Drive Doc ID: `1mSUQGkbkGa1ky8PF1RNcgT0BtOZdolnWbk7beyeythM`
 
 Overall:
 
-> **STRONG TEMPORAL-OBSERVABILITY PASS / ACCESS-SHORTCUT LIMITATION**
+> **STRONG TEMPORAL-ROUTE ROBUSTNESS PASS / ORGANIZATIONAL-DEPENDENCE PARTIAL**
 
-Durable finding:
+Durable temporal law:
 
-> **Minimal temporal comparison materially improves recoverability of specific human authorship, persistence and enabled possibility.**
+> **Minimal earlier/later comparison materially improves recoverability of specific human authorship, persistence and changed possibility, and that information gain can survive removal of direct physical-access shorthand.**
 
-Limitation:
+This is a semantic resource, not a selected motion treatment or split-panel identity.
 
-> **Temporal information gain and semantic-route robustness are separate questions.**
+## Research closure
 
-TEO-01 obtained causal clarity through a literal physical-access route: one person repositioned a stool and later another independently used it to reach a higher shelf. The two-panel format also carries storyboard grammar.
+Canonical final synthesis:
 
-No TEO-01 surface has inheritance rights.
+`docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`
 
-## Active checkpoint — TEO-02
+Final calibration decision:
 
-Canonical design:
+> **No additional calibration renders are justified.**
 
-`docs/R0_TEMPORAL_OBSERVABILITY_EXPERIMENT_02.md`
+Precommitted stop laws are now active:
 
-Drive mirror ID:
+- no PAC-01F;
+- no TEO-03;
+- no automatic new renderer branch;
+- no cosmetic rerendering of completed evidence.
 
-`1g1EX-AGinh1g4qJavxRaxyrADTkUHVC_5v1TrGU93nc`
+## Surface quarantine
 
-Name:
+No R0 surface has inheritance rights.
 
-**TEO-02 — Semantic-Route Robustness**
+Do not inherit painterly realism, beige/brown palettes, worn rooms, shared tables, chairs/crates, books/notebooks/lamps, bridges/walls/thresholds/crossings, ruins/repair, monumental mechanisms, two-panel layouts, specific people, clothing, settings, occupations or compositions unless independently re-earned during actual design work.
 
-Research question:
+> **Surface != law.**
 
-> **Does the same temporal information gain survive when the later benefit comes from changed organization within an ordinary shared arrangement rather than from gaining physical access?**
+## Active next checkpoint
 
-Controlled change from TEO-01:
+> **Kymaean App + Website Design Synthesis — Director Transition Gate**
 
-> preserve the two-moment temporal comparison; change only the semantic route of the later benefit from direct physical access to organization-dependent use.
+The final R0 synthesis recommends moving on because the remaining questions are design questions, not calibration questions.
 
-## Exact sterile packet
+The next justified action **after explicit Director approval** is:
 
-> Create one artwork showing the same small group of distinct people at two adjacent moments, with the same viewpoint, scale, and surrounding world in both moments.
->
-> In the first moment, one person is visibly completing a small reorganization of several ordinary shared elements, changing how those elements relate to one another. The other people remain present and self-directed.
->
-> In the second moment, a short time later, that reorganization remains even though the person who made it is no longer acting on it. A different person is independently performing an action that works because of the changed organization. The contrast between the two moments should make the causal sequence recoverable: who changed the arrangement, what persisted, and why the later action works differently because of the new relationship among the elements.
->
-> Make the later benefit arise from the changed organization within the shared arrangement rather than from gaining physical access to a place or object.
->
-> Keep the same people recognizable across both moments. No one should guide, rescue, instruct, direct, or control another person. Keep the shared elements ordinary, modest, and visually subordinate to the people.
->
-> Use a shallow, restrained composition with minimal environmental spectacle and enough repeated spatial structure that the two moments can be compared directly. Keep the visual treatment consistent across both moments.
->
-> Return only the artwork. Do not add text, captions, arrows, labels, diagrams, interface elements, promotional framing, or surrounding presentation layout.
+> **Prepare one integrated app + website design-synthesis blueprint.**
 
-## Recursive audit result
+That blueprint should ground itself in:
 
-- one identified TEO-01 confound only — PASS;
-- two-moment measurement structure preserved — PASS;
-- named alternative carrier examples — REJECTED;
-- detailed blacklist — REJECTED; only the positive non-access route is exposed to Renderer;
-- PAC regression risk — material and intentionally scored;
-- storyboard risk — accepted for this final diagnostic only;
-- automatic TEO-03 — REJECTED by default.
+- authoritative `Rylascoo/Ensemble-Project` product truth;
+- validated R0 laws rather than renderer surfaces;
+- Windows 11 / WinUI 3 / ARM64-native app constraints;
+- privacy-first context access and deterministic fallback principles;
+- website communication and brand needs;
+- no unsupported product/Store/NPU claims;
+- a clear division between shared Kymaean identity and surface-specific app/web requirements.
 
-## Render budget / stop law
+The blueprint should define the design problem, shared identity laws, app design workstreams, website design workstreams, cross-surface consistency rules, open decisions, evidence needed, and a bounded prototype/validation sequence.
 
-If approved: **one generated artwork** in **one fresh regular non-project Renderer Context**.
-
-No correction chain.
-
-After the first output returns:
-
-1. archive and evaluate it;
-2. **STOP TEMPORAL RENDERING REGARDLESS OF OUTCOME**;
-3. perform final R0 visual-research synthesis;
-4. decide whether the project has enough calibrated evidence to begin actual app and website design synthesis.
-
-## Exact next action
-
-**No TEO-02 image is currently authorized.**
-
-Stop for Director review of the packet above.
+Stop for Director review before large XAML, C#, Astro, CSS or other production implementation.
 
 ## Phase authority
 
-> **Research discovery != phase transition.**  
-> **Assistant/design-team preference != user approval.**  
-> **Recent strength != incumbent.**  
-> **Metaphor != identity.**  
-> **Surface != law.**
+The research recommends transition but does not self-authorize an R1 label or implementation.
 
-R0 remains active. No convergence or production website implementation is authorized before the TEO-02 result and final R0 synthesis.
+Explicit Director approval remains required.
