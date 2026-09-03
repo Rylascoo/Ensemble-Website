@@ -6,7 +6,7 @@ Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography at the **Persistent Affordance Carrier Design 02** Director gate.
+Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography at the **PAC-01B authorized Renderer handoff**.
 
 Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production surface.
 
@@ -87,9 +87,9 @@ Additional distinction:
 
 Do not inherit PAC-01A's worn stone, ledges, steps, painterly treatment, public-space mood, objects, palette, clothing or architecture.
 
-## Active checkpoint — PAC-01B
+## PAC-01B — Director approved
 
-Canonical design:
+Canonical design and authorized packet:
 
 `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`
 
@@ -107,38 +107,42 @@ Research question:
 
 > **Can ordinary human-made elements make prior human configuration and expanded present capability visually recoverable when several people independently use the resulting arrangement?**
 
-The new variables are deliberately narrow:
+The variables are deliberately narrow:
 
 1. visible configuration history rather than generic fixed infrastructure;
 2. at least two present actions that visibly depend on the specific configuration rather than merely occurring near it.
 
 The packet keeps elements ordinary, modest and visually subordinate. It names no specific object, setting, architecture, culture, era, technology or medium.
 
-## Budget / stop law
+## Authorization / budget / stop law
 
-PAC-01B budget if approved: **one image**.
+Director approval was given in persistent Director Context on 2026-09-03 by the user's `continue` instruction after review of the canonical PAC-01B packet.
 
-Use one fresh regular non-project Renderer Context. No correction chain.
+Exactly **one image** is authorized.
 
-After the result returns, archive and evaluate it before designing another carrier topology.
+Use one fresh regular non-project Renderer Context. Paste only the exact sterile packet from `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`. No correction chain and no additional Director context in the Renderer chat.
+
+After the first result returns, close the Renderer Context, return the artwork to Director Context, archive it, and evaluate it before designing another carrier topology.
 
 Reject/stop if it becomes a special installation, product showcase, symbolic object, route/access/threshold device, repair/damage scene, monumental environment, contraption, or helper/recipient mechanism.
 
 ## Exact next action
 
-**No image is currently authorized.**
+Render PAC-01B **once** in a fresh regular non-project Renderer Context using this packet unchanged:
 
-Review the exact PAC-01B packet in `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_02.md`.
+> Create one uninterrupted artwork centered on several distinct people whose presence and relationships are necessary to the image.
+>
+> A small set of ordinary human-made elements was deliberately positioned together before this moment and now remains as part of ordinary shared life. Several people are independently using different parts or aspects of the resulting arrangement at the same time. Their different actions should make particular sense because of the way the elements are positioned together.
+>
+> The elements should still feel like ordinary everyday things rather than a special installation, product, exhibit, or symbol. The original act of arranging them is not shown.
+>
+> Keep every person specific and individually active. No one should guide, help, direct, rescue, or control anyone else. Keep the arrangement modest and visually subordinate to the people.
+>
+> Keep the surrounding world restrained. Let posture, orientation, spacing, and independent use reveal how the persistent configuration supports different actions.
+>
+> Return only the uninterrupted artwork, with no text or surrounding presentation layout.
 
-Director approval should decide whether:
-
-1. visible deliberate configuration is the correct missing variable after PAC-01A;
-2. `ordinary human-made elements` is sufficiently neutral;
-3. requiring two configuration-dependent uses is a defensible observable proxy for changed capability;
-4. human-primacy and anti-installation controls are adequate;
-5. the one-render budget is justified.
-
-Stop for explicit user approval before PAC-01B rendering.
+Do not render a second PAC-01B image.
 
 ## Phase authority
 
