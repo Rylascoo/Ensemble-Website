@@ -8,7 +8,7 @@ Updated: 2026-09-02
 - Internal website project/repository: **Ensemble Website**.
 - Future public app/domain brand: **Kymaean**.
 - `Rylascoo/Ensemble-Website` is the website engineering and website/brand continuity source of truth.
-- `Rylascoo/Ensemble-Project` is the authoritative product-engineering source and is read-only for website work unless explicitly instructed otherwise.
+- `Rylascoo/Ensemble-Project` is authoritative for product-engineering truth and validation boundaries and is read-only for website work unless explicitly instructed otherwise.
 - Google Drive **Ensemble Project** is the canonical visual/design workspace and master-asset authority.
 - The old `Rylascoo/Kymaean-Project` is a separate application and must not influence this website/new Kymaean identity unless explicitly requested.
 
@@ -35,43 +35,52 @@ This is an expertise standard, not a selected aesthetic, page hierarchy, impleme
 
 **R0 Visual Re-Foundation — Clean-Slate Rediscovery** remains active.
 
+Completed R0 research checkpoints:
+
+- `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
+- `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
+
 Current active handoff:
 
-`docs/HANDOFF_R0_RENDERER_ISOLATION_CROSS_BRANCH_SYNTHESIS.md`
+`docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`
 
-Required supporting law/checkpoint:
+Required supporting law/protocol:
 
 - `docs/DESIGN_CONTINUITY.md`
 - `docs/RENDERER_ISOLATION_PROTOCOL.md`
-- `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
 - `docs/VISUAL_ARCHIVE_PROTOCOL.md`
 
-The earlier `docs/HANDOFF_R0_VISUAL_REFOUNDATION_CLEAN_SLATE_REDISCOVERY.md` remains valid R0 lineage but its original "first artwork" next-step is complete/superseded by the renderer-isolation checkpoint.
+Historical active-handoff lineage remains available, including `docs/HANDOFF_R0_RENDERER_ISOLATION_CROSS_BRANCH_SYNTHESIS.md`, but its exact-next-work section has now been completed by Round 1.
 
 R0 still governs:
 
 > **Preserve the lineage. Restart the search.**
 
-Renderer Isolation adds:
+Renderer Isolation still governs generation:
 
 > **The director remembers everything. The canvas remembers nothing.**
 
 No final Kymaean logo, symbol, wordmark, palette, material system, portrait system, visual world, motion treatment, website layout, or production design is selected.
 
-## Why Renderer Isolation is now active law
+## Renderer Isolation — active law
 
-Repeated long design chats and fresh chats inside the Ensemble project repeatedly collapsed toward related unapproved visual attractors even when the text explicitly attempted to avoid them.
-
-The first new R0 image generated inside the persistent project context again produced branded collateral, monumental/cinematic architecture, a giant aperture, pale-gold treatment, distant archetypal figures, and explanatory copy.
-
-The project therefore separated creative intelligence from image-rendering context:
+Clean-slate image rendering should normally use two contexts:
 
 - **Director Context:** the persistent Ensemble project with product truth, historical lineage, user signals, critique history, Drive continuity, and evaluation law.
-- **Renderer Context:** a new regular chat outside the Ensemble project, receiving only a sterile render packet and normally producing one image before that renderer chat is closed.
+- **Renderer Context:** a new regular non-project chat receiving one sterile render packet and normally producing one image before that renderer chat is closed.
 
-The first isolated image became a literal contemporary repair workshop instead of the repeated Kymaean attractor family. The contrast established that project-context isolation materially changes output.
+The user explicitly followed the one-image / disposable-renderer-chat discipline through the completed RI/AL and Round 1 synthesis work.
 
-For clean-slate generation, do not render inside the persistent Ensemble project by default.
+Do not use ChatGPT saved-memory controls as the project continuity or visual-isolation mechanism. The user inspected visible saved memories and found broad project/workflow memory rather than a detailed image-history cache; deleting disposable renderer chats did not itself eliminate recurring visual tendencies. GitHub/Drive remain continuity authority; renderer isolation and prompt discipline remain the controllable generation mechanism.
+
+Prompt-control laws remain:
+
+- examples are visual seeds;
+- concrete settings, objects, occupations, mechanisms, materials, cultures, and story examples should not be supplied unless deliberately tested;
+- broad invented-world language can activate strong learned genre priors;
+- appending prompts can accumulate seeds rather than reset the surface;
+- when causal recoverability matters, specify the smallest required causal/relational truth and let the renderer invent the surrounding world;
+- do not ask one still image to both prove every product concept and discover the brand aesthetic.
 
 ## Google Drive visual topology
 
@@ -79,26 +88,26 @@ Canonical root:
 
 `Ensemble Project / 03 Visual Identity & Artwork / Kymaean`
 
-### 00 Intake — New Material for Interpretation
+### `00 Intake — New Material for Interpretation`
 
 New/forgotten material enters here for classification. Intake is evidence, not authority.
 
-### 01 Brand Thesis & Continuity
+### `01 Brand Thesis & Continuity`
 
-Contains the durable human-readable continuity records, now including:
+Canonical human-readable continuity includes:
 
 - `Kymaean Visual Continuity Constitution`
 - `Kymaean Visual Exploration Registry & Critique Ledger`
 - `Kymaean Visual Re-Foundation Charter — Inspiration Library + Clean-Slate Discovery`
 - `Kymaean Renderer Isolation Protocol`
 
-### 02 Historical Inspiration Library — Prior Visual Branches
+### `02 Historical Inspiration Library — Prior Visual Branches`
 
-Canonical historical visual-memory repository. It preserves prior I0/W0/V0/M0/X0 research plus O0 Original Concept Foundation. Historical favorites, benchmarks, failures, and strongest-at-the-time judgments remain evidence only; none is an active R0 incumbent.
+Historical visual-memory repository. Earlier favorites, benchmarks, failures, and strongest-at-the-time judgments remain evidence only; none is an active R0 incumbent.
 
-### 03 Clean-Slate Visual Discovery — Active
+### `03 Clean-Slate Visual Discovery — Active`
 
-Active lanes:
+Active lanes remain:
 
 - `I0 Primary Symbol & App Icon — Clean Slate`
 - `W0 KYMAEAN Wordmark — Clean Slate`
@@ -106,35 +115,22 @@ Active lanes:
 - `M0 Motion & System Grammar — Clean Slate`
 - `X0 Cross-Lane Discovery & Research — Clean Slate`
 
-X0 now contains the active Renderer Isolation research checkpoint:
+X0 currently contains:
 
-`R0 Renderer Isolation Laboratory — Active Research`
+- `R0 Renderer Isolation Laboratory — Active Research`
+- `R0 Cross-Lab Synthesis Round 1 — Active Research`
 
-with:
+Round 1 companion Drive records:
 
-- `01 RI Causal Physics — RI-001 to RI-011`
-- `02 AL Artistic Language — A01 to H01`
+- `R0 Cross-Lab Synthesis Round 1 — Checkpoint & Critique`
+- `R0 Cross-Lab Synthesis Round 1 — Image Atlas`
+- `SUPERSEDED — R0 Crossing Language Draft (Process Evidence Only)`
 
-and companion Drive records:
+The atlas contains embedded archival copies of available Round 1 visual evidence. Do not describe embedded copies as standalone raw-file preservation unless standalone image files are separately verified.
 
-- `R0 Renderer Isolation Checkpoint — RI-001–011 + AL-A01–H01`
-- `R0 Renderer Isolation Image Atlas — RI + AL`
+## Working website / brand thesis
 
-The atlas contains embedded archival copies of all available first-checkpoint RI/AL images. Do not describe those embedded copies as standalone raw image-file preservation when standalone files have not been separately created.
-
-## O0 and historical lineage
-
-O0 Original Concept Foundation remains a major conceptual ancestor, not a selected surface.
-
-Its durable discoveries include persistent character identity without fixed photorealistic portraiture, relational/spatial attention, bounded perspective, information asymmetry, causal history, theatrical/literary language, and distributed identity across cast/word/stage/perspective/consequence/history.
-
-O0's exact dark ground, gold/amber, serif treatment, constellation/particle portraits, island imagery, fixed three-person geometry, borders, iconography, compositions, and app layouts have no inheritance rights.
-
-The full historical branch map and user/design judgments live in the Drive `Kymaean Visual Exploration Registry & Critique Ledger` and the R0 handoff/continuity documents. Do not reload or summarize every branch unless the current task requires it.
-
-## Working website / brand exploration thesis
-
-Internal principle-level thesis:
+Internal principle-level thesis remains:
 
 > **Human Causality, Living Consequence.**
 >
@@ -142,32 +138,27 @@ Internal principle-level thesis:
 
 This is not a public tagline and not a selected aesthetic.
 
-Durable creative laws still include:
+Durable laws include:
 
 - person before effect;
 - cause before decoration;
 - evidence before generic symbolism;
-- consequence may change structure;
+- consequence may change structure, affordance, access, constraint, relationship, or possibility;
 - history accumulates rather than resets;
 - distinct identities influence without merging;
-- mystery comes from bounded perspective;
-- quiet normally precedes spectacle;
-- humanity, agency, imperfection, relationship, and lived evidence outrank machinery;
+- identity may persist through perceptual invariants rather than one fixed portrait;
+- mystery comes from bounded perspective and asymmetric access;
 - shared reality does not imply shared understanding;
 - people should live inside consequences;
 - human causality includes friction as well as care;
 - artistic integrity precedes explanation;
 - exploration remains broad until explicit mutual convergence.
 
-## First Renderer Isolation checkpoint — completed research
-
-The first checkpoint deliberately separated two laboratories.
+## Completed first Renderer Isolation checkpoint
 
 ### RI — Causal Physics
 
-RI-001A/001B through RI-011 tested how prior action, changed possibility, unequal knowledge, and persistent history can become legible in a still image.
-
-Durable RI laws:
+RI-001A/001B through RI-011 established, among other laws:
 
 - present state can prove prior state;
 - exception against repetition can reveal history;
@@ -175,87 +166,102 @@ Durable RI laws:
 - boundaries matter when they alter actual possibility;
 - partial visibility can express unequal access to one authoritative reality;
 - consequence is strongest when it changes affordance or constraint;
-- attention, possession, interrupted action, posture, and orientation can expose unequal knowledge;
-- history can be recent, maintained, clean, modular, or visually fresh;
+- history does not require antiquity, damage, patina, ruins, flashback, or magical trace;
 - meaning engineering and art direction are separate jobs.
-
-RI scene surfaces such as workshops, fantasy halls, quilts, rustic craft environments, greenhouse accommodation, studio partitions, giant mechanisms, boats, and stables are research only.
 
 ### AL — Artistic Language
 
-AL-A01 through AL-H01 tested independent visual grammars without requiring each artwork to explain the full product thesis.
+AL-A01 through AL-H01 established, among other laws:
 
-Durable AL laws:
+- people can be structurally necessary to the composition;
+- relationship can operate as visual geometry;
+- recurring identity can persist without one fixed face;
+- identity can survive transformation of scale, crop, pose, viewpoint, completeness, and context;
+- influence can alter a shared visual condition without merging people;
+- partial access and active absence can carry relational information;
+- the shared world need not be scenery.
 
-- **Human structural importance:** the strongest images collapse if the people are removed.
-- **Relationship as visual geometry:** distance, orientation, overlap, negative space, interruption, occlusion, and recurrence can carry social meaning.
-- **Distinct identity without portrait dependence:** a character can remain specific through perceptual invariants rather than one fixed face.
-- **Identity can survive transformation:** scale, crop, pose, viewpoint, completeness, and context can change while recognition persists.
-- **Influence without merger:** interaction can change a shared visual condition while individuals remain separately legible.
-- **Partial access:** openings, occlusion, reflection, interruption, and selective visibility can make one person differently available from different positions.
-- **Absence is active:** gaps, missing portions, negative space, and interrupted forms can carry relational information.
-- **The shared world need not be scenery:** it can emerge from bodies, gaps, overlaps, recurrence, and material conditions.
+AL-H01 remains the strongest identity-mechanism proof so far, but its painterly montage surface has no inheritance rights.
 
-AL-H01 provided the strongest identity-system proof so far: recurring individuals remained recognizable across major changes of scale, crop, orientation, pose, completeness, and viewpoint through combinations of silhouette, bodily proportion, garment construction, hair geometry, characteristic movement/gesture, and restrained color association.
+## Completed R0 Cross-Lab Synthesis Round 1
 
-This proves an identity mechanism. It does not select H01's painterly montage, palette, costumes, or composition.
+Round 1 strengthened the combined conceptual progression:
 
-## First cross-lab system hypothesis
+> **present condition -> evidence of prior action -> inherited condition -> altered affordance -> changed relationship -> changed possibility**
 
-The strongest current synthesis is **not an aesthetic selection**:
+The consolidated system hypothesis is:
 
-> **Distinct people are structurally important; relationships can alter the shared visual field; identities persist across transformed representations; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
+> **Distinct people are structurally important; human choices can change shared conditions and future possibilities; identities can persist across transformed representations; relationships can structure the visual field; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
 
-This system hypothesis selects no palette, medium, material system, portrait style, architecture, symbol, wordmark, website surface, or motion treatment.
+This is a system hypothesis, not an aesthetic selection.
 
-## Renderer prompt-control laws
+### Crossing / boundary branch — corrected classification
 
-The first laboratory recovered several mandatory prompt laws:
+Late Round 1 work used inherited boundaries, intervention, openings, and crossing as a research metaphor.
 
-- use one fresh regular non-project renderer chat per generated image when practical;
-- **examples are visual seeds** — do not offer concrete examples of what the renderer is free to invent unless intentionally selecting them;
-- do not transfer Kymaean/Ensemble naming, project files, historical artwork, branch names, prior prompts, or visual-history blacklists into clean-slate renderer chats;
-- broad invented-world/artistic-latitude wording activates strong learned genre priors;
-- over-specified story objects can make the aesthetic literally rhyme with the narrative;
-- material-history vocabulary can activate rustic craft-world priors;
-- beneficial changed-access scenarios can collapse into accessibility/civic editorial illustration;
-- abstract pair/mechanism language can become monumental symbolic machinery;
-- when causal recoverability matters, the Director specifies the smallest causal/physical truth that must survive and lets the renderer invent the surrounding world;
-- do not ask one still image to both prove every product concept and discover the brand aesthetic.
+Preserved principle:
 
-## Surface quarantine
+> **Human choices can alter inherited conditions and create new relationships or possibilities.**
 
-No RI/AL surface has inheritance rights.
+The historical research shorthand `We inherit boundaries. We create crossings.` is not a public tagline, not the governing Kymaean thesis, not a frozen visual law, and not authorization for a new phase.
 
-Do not automatically continue workshop realism, painterly workshop texture, cinematic fantasy, folk/quilt illustration, rustic craft worlds, civic/accessibility editorial illustration, movable studio partitions, modern figurative mural geometry, monumental paired mechanisms, boats, stables, melancholic atriums, contemporary painterly social montage, modernist graphic mural language, cubist/bas-relief construction, expressive line studies, translucent watercolor/cut-paper treatment, sparse sunlit-room realism, beige fragmented figures, or H01's painterly repeated-character montage.
+No inheritance rights for giant walls, bridges, portals, monumental thresholds, ruins, repair scaffolding, architectural archaeology, post-collapse environments, pale-gold monumentality, or crossing imagery as a mandatory website motif.
 
-A future branch may independently rediscover any surface only if newly earned from first principles.
+A previous assistant-created `R1 Crossing Language` draft was a premature phase promotion. It is now explicitly superseded in Drive and must not be used as an active handoff.
+
+Preserve the anti-regression law:
+
+> **Research discovery != phase transition.**  
+> **Assistant/design-team preference != user approval.**  
+> **Recent strength != incumbent.**  
+> **Metaphor != identity.**  
+> **Surface != law.**
+
+## Current next gate — cross-surface robustness
+
+The project must now test whether the consolidated system laws survive genuinely unrelated artistic grammars.
+
+Success means Kymaean's causal/relational logic remains legible after surface replacement.
+
+Success does **not** require images to look alike.
+
+Do not test by refining recent images or producing variants of one scene.
+
+Avoid collapse into:
+
+- recent painterly repeated-character montage;
+- monumental architecture;
+- bridges, walls, portals, or thresholds;
+- cinematic fantasy / post-collapse worldbuilding;
+- causal diagrams or infographics;
+- symbolic machinery;
+- rustic craft/history shorthand;
+- branded presentation boards;
+- humans used only as scale figures.
 
 ## Active identity lanes
 
 - **I0 — Primary Symbol / App Icon:** open from scratch.
 - **W0 — KYMAEAN Wordmark:** open from scratch; independent design work, not font selection.
-- **V0 — Visual World / Atmosphere:** open; first independent R0 work completed, but no visual-world candidate selected.
-- **M0 — Motion & System Grammar:** open; historical motion abstractions remain principles only.
-- **X0 — Cross-Lane Discovery & Research:** active Renderer Isolation laboratory and cross-branch synthesis live here.
+- **V0 — Visual World / Atmosphere:** open; no visual-world candidate selected.
+- **M0 — Motion & System Grammar:** open; abstract causal-motion discoveries only.
+- **X0 — Cross-Lane Discovery & Research:** active; current robustness-validation work lives here.
 
 Do not let an early success in one lane dictate the others.
 
 ## Creative collaboration law
 
-Core rules remain:
-
 - exploration and refinement are separate modes;
 - praise is not permission to refine;
-- historical favorites and recent strong images do not narrow R0 automatically;
+- recent strength does not narrow R0 automatically;
 - different concepts should represent genuinely different artistic interpretations;
-- when the user asks to explore, make the work rather than reopening settled process questions;
-- once a visual grammar repeats, archive/extract and deliberately move laterally rather than fighting the attractor indefinitely;
+- when the user asks to explore, make the work rather than repeatedly reopening settled process questions;
+- once a grammar repeats, archive/extract and move laterally rather than fighting the attractor indefinitely;
 - convergence begins only after explicit mutual agreement.
 
 ## Product-validation boundary
 
-The application repository remains authority for exact implementation and validation state.
+`Rylascoo/Ensemble-Project/CURRENT_STATE.md` remains authority for exact application implementation and validation.
 
 Website artwork may express product meaning but must not create unsupported claims about WinUI completion, Windows AI/NPU execution, ARM64 performance, packaging, WACK, Partner Center certification, or Store readiness.
 
@@ -266,39 +272,30 @@ Website artwork may express product meaning but must not create unsupported clai
 - No production website implementation has been initialized.
 - Do not initialize production website code from R0 research.
 
-Provisional architecture remains Astro + TypeScript + modern CSS + SVG + selective JavaScript, static generation, Cloudflare Workers Static Assets, and no large JS/3D framework unless a demonstrated design need earns it.
+Provisional implementation architecture remains Astro + TypeScript + modern CSS + SVG + selective JavaScript, static generation, Cloudflare Workers Static Assets, and no large JS/3D framework unless a demonstrated design need earns it.
 
 ## Fresh-chat bootstrap
 
-For the next Kymaean visual-design chat:
+For the next Kymaean website/brand visual-design chat:
 
 1. read this file first;
 2. read `docs/DESIGN_CONTINUITY.md`;
 3. read `docs/RENDERER_ISOLATION_PROTOCOL.md`;
 4. read `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`;
-5. read `docs/HANDOFF_R0_RENDERER_ISOLATION_CROSS_BRANCH_SYNTHESIS.md`;
-6. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth;
-7. read the Drive continuity records/checkpoint as needed;
-8. recognize every RI/AL image as research, not an incumbent;
-9. use the persistent project chat as Director Context and a new regular non-project chat as Renderer Context;
-10. remain in exploration mode unless explicit mutual convergence occurs.
+5. read `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`;
+6. read `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`;
+7. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth;
+8. read the named Drive registry/checkpoint records as needed;
+9. treat every prior image as research evidence, not an incumbent;
+10. use the persistent project chat as Director Context and a fresh regular non-project chat as Renderer Context;
+11. remain in R0 exploration unless explicit mutual convergence occurs.
 
 ## Exact next permissible work
 
-Begin **R0 Cross-Lab Synthesis Round 1**.
+Begin **R0 Cross-Surface Robustness Validation — Experiment 01** from `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`.
 
-Do not combine favorite pictures. Test whether several independently surviving laws can coexist in a genuinely new artistic grammar.
+Derive one new sterile packet from the consolidated system law without seeding a concrete setting, named medium, culture, architecture, bridge, wall, threshold, portal, historical material, or example menu unless that element is deliberately being tested.
 
-The next sterile render packet should preserve:
+Generate exactly one uninterrupted artwork in a fresh regular non-project renderer chat, close that renderer chat, and return the image to Director Context for evaluation and archival.
 
-- human structural importance;
-- recurring identity through perceptual invariants;
-- relationships that alter the shared visual field;
-- partial/asymmetric visibility;
-- one subtle present-state trace of prior human influence that does not become a narrative puzzle.
-
-It must avoid importing the surface vocabulary of H01, E01, B01, or another recent branch; avoid concrete examples that seed a setting/object/culture/genre; and request one uninterrupted artwork with no branding/collateral.
-
-Generate exactly one image in a new regular non-project renderer chat, close that renderer chat, then return the image to the Director Context for evaluation.
-
-Do not infer convergence from the result and do not initialize production website code yet.
+Do not infer convergence from Experiment 01 and do not initialize production website code yet.
