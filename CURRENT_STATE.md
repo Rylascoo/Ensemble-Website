@@ -10,186 +10,145 @@ Updated: 2026-09-03
 - Google Drive `Ensemble Project` is the canonical visual/design workspace and master-asset authority.
 - The old `Rylascoo/Kymaean-Project` is a separate application and must not influence this new Ensemble/Kymaean identity unless explicitly requested.
 
-The ChatGPT Ensemble project contains parallel application-engineering and website/brand workstreams. Website chats may read application state for product truth, but brand decisions do not silently become application architecture or implementation authority.
-
 ## Current phase
 
 **R0 Visual Re-Foundation — Clean-Slate Rediscovery** remains active.
 
 No final logo, symbol, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production design is selected.
 
-Completed R0 evidence/checkpoints include:
-
-- `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
-- `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
-- Cross-Surface Robustness Experiments 01–04 as archived diagnostic evidence
-- `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01C_RESULT.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
-- `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`
-
-Current active methodology checkpoint:
-
-> **R0 Renderer Cartography — Semantic Observability Design 01 — Director Review Gate**
-
-A two-render contrastive design is proposed but **no new renderer image is authorized**.
-
-Current active handoff:
-
-`docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`
-
-Required supporting law:
-
-- `docs/DESIGN_CONTINUITY.md`
-- `docs/RENDERER_ISOLATION_PROTOCOL.md`
-- `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
-- `docs/VISUAL_ARCHIVE_PROTOCOL.md`
-
-Historical handoffs remain process/provenance evidence only unless this file names them active.
-
-## Governing R0 laws
-
-> **Preserve the lineage. Restart the search.**
+Renderer Isolation remains operational law:
 
 > **The director remembers everything. The canvas remembers nothing.**
 
-Renderer Isolation remains an operational boundary: persistent project Director Context plus a short-lived regular non-project Renderer Context, normally one image per renderer chat.
+Renderer Cartography remains methodological law:
 
-Its claim is narrow. It reduces known project-context inheritance; it does not prove a mathematically memory-free renderer and does not remove base-model semantic priors.
-
-Do not spend render budget on memory-negation preambles. Temporary Chat is not the project default renderer because image generation has been observed unavailable there in the user's current ChatGPT configuration.
-
-## Renderer Cartography — validated methodology law
-
-Cross-Surface Robustness Experiments 01–04 repeatedly translated open-ended causal/relational packets into familiar visual shortcuts: monumental architecture/thresholds, period-coded interpersonal drama, accessibility/crossing intervention, and monumental antiquarian bridge imagery.
-
-Controlled Formal Matrix 01 then tested three Director-controlled formal grammars against substantially the same relational semantic kernel:
-
-- `CFM-01A` — Flat Mass / Negative Space
-- `CFM-01B` — Sparse Contour / Void
-- `CFM-01C` — Shallow Overlap / Occlusion
-
-All three formal packages passed strongly. All three kept people structurally primary. All three preserved single-image individual attribution. None returned to the old environment-first monumental architecture / bridge / threshold / period-world / deep-cinematic family.
-
-Therefore the current empirical methodology law is:
-
-> **For cross-surface research, the Director controls semantic law and the formal variable under test. The Renderer invents only the remaining unconstrained local manifestation.**
+> **For cross-surface research, the Director controls semantic law and the variable under test. The Renderer invents only the remaining unconstrained local manifestation.**
 
 > **Renderer Isolation controls known project-context leakage. Renderer Cartography controls experimental variables.**
 
-Do not return to open-ended `invent the visual language` prompts.
+Do not return to open-ended `invent the visual language` prompting.
 
-## Matrix 01 synthesis — principal findings
+## Completed authoritative evidence
 
-### Formal control works
+Read as needed:
 
-The current renderer materially responds to explicit picture-plane, massing, negative-space, contour, void, overlap and occlusion instructions.
+- `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
+- `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
+- `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
+- `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
+- `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`
+- `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
 
-### People can remain the complete structural field
+Controlled Formal Matrix 01 is complete and established that three materially different Director-controlled formal grammars could preserve a human relational kernel while strongly suppressing the old environment-first monumental architecture / bridge / threshold / period-world / deep-cinematic attractor family.
 
-Across A/B/C, removing the people would remove essentially all action, composition and meaning. The environment-first protagonist failure did not recur.
+## Corrected Semantic Observability / RST state
 
-### Medium/render treatment is separable
+The actual generated sequence after Semantic Observability Design 01 is complete through:
 
-A and C independently returned to painterly figurative realism while B selected gestural ink/wash. Formal geometry remained controlled. Painterly recurrence is not convergence and creates no inheritance rights.
+- SOV-01A
+- SOV-02
+- SOV-03
+- SOV-04
+- SOV-05
+- RST-01A
+- RST-02A
+- RST-03A
+- RST-03B
+- RST-04A
+- RST-04B
+- RST-04C
+- RST-04D
+- RST-05A
+- RST-05B
 
-### The semantic bottleneck was real
+Canonical synthesis:
 
-Across all three probes, visible present action and different responses were readable, but exact relational before/after and private `unequal understanding` were not directly observable.
-
-See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`.
-
-## Semantic Observability Design 01 — current finding
-
-The Director audit of RI/AL, Round 1, Matrix 01 and the Cartography dataset produced a measurement correction.
-
-### A still image can directly support
-
-- orientation, contact/separation, overlap/occlusion, alignment/interruption;
-- physical action contiguous with visible change;
-- repeated organization and visible exception;
-- unobstructed versus obstructed access to causal evidence;
-- structural inclusion/exclusion/connection/interruption.
-
-### A still image can support historical inference when it contains its own baseline
-
-RI-010/011 provide the strongest recovered mechanism:
-
-> **Repeated pattern + visible exception can make a prior/common state recoverable from present evidence.**
-
-### A still image cannot directly prove private mental state
-
-Knowledge, belief, memory, intention, understanding and interpretation remain inferential.
-
-Therefore the next still-image measurement uses:
-
-> **asymmetric evidentiary position / unequal access to causal evidence**
-
-instead of treating `unequal understanding` as directly provable.
-
-This is a measurement correction, not a change to the broader Kymaean system hypothesis.
-
-Canonical design checkpoint:
-
-`docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`
-
-Drive mirror:
-
-`R0 Renderer Cartography — Semantic Observability Design 01`
-
-Drive document ID: `18nY-dOHUy6S9_pYJpKdWjczyfuZE_23y2tWcFvISSN0`
-
-## Proposed Semantic Observability Matrix 01 — not authorized
-
-The design proposes a genuine two-image internal contrastive pair using one fixed shallow/flat human-dominant formal baseline.
-
-### `SOV-01A` — Repeated Pattern / Visible Departure / Equal Evidence Access
-
-- exactly three distinct people;
-- positions/orientations establish a simple repeated relational pattern;
-- two people preserve the pattern;
-- the third visibly changes their own position/orientation so their part no longer matches;
-- the two unchanged people provide an internal baseline for inferring the changing person's immediately prior relation;
-- both unchanged people have comparably clear access to the changing action.
-
-### `SOV-01B` — Same structure / Asymmetric Evidence Access
-
-Hold A constant and change one variable only:
-
-- one unchanged person retains clear access to the changing action;
-- the other has partly obscured access created by orientation/body occlusion;
-- score access geometry, not private knowledge.
-
-Render budget if later approved: maximum two images. If A fails the baseline/departure/actor/equal-access controls or collapses into a diagram/environment-first repeated-unit scene, stop before B. If A passes, B may be rendered once. Stop and synthesize after B regardless of outcome.
-
-No SOV render is currently authorized.
-
-## Durable Renderer Cartography state
-
-Canonical Drive research folder:
-
-`03 Clean-Slate Visual Discovery — Active / X0 Cross-Lane Discovery & Research — Clean Slate / R0 Renderer Cartography — Active Research`
+`docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
 
 Canonical Drive dataset:
 
 `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
 
-The dataset contains **49 generated experiment/research records**, including completed CFM-01A/B/C. Semantic Observability Design 01 is a design checkpoint, not yet a generated experiment record.
+Dataset rows 51–65 contain SOV/RST evidence; row 66 is an explicit archive-correction/non-evidence record.
 
-Exact CSR-E01–E04 and CFM-01A/B/C Director packet lineage is recovered. Most earlier exact prompt text remains `PENDING EXACT PROMPT RECOVERY`; do not reconstruct false precision.
+### Critical RST-05B lineage correction
 
-## Prompt-engineering evidence classes
+The **correct** RST-05B output is the five-person ensemble image archived as:
 
-Fresh chats must distinguish:
+`RST-05B — Persistent Human-Created Condition — CORRECT.png`
 
-1. **PROJECT EMPIRICAL LAW** — supported by archived Kymaean prompt/output evidence.
-2. **OFFICIAL OPENAI GUIDANCE** — supported by current OpenAI documentation.
-3. **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION** — useful outside guidance requiring project verification.
-4. **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT** — syntax or controls from other generators.
+Drive file ID:
 
-The user-supplied Google Gemini Pro guide remains external research input. Camera/lens, lighting, material, composition, and de-biasing vocabulary are test hypotheses. Fixed first-3-to-5-word weighting, predictable token dilution, hidden-neural-pathway claims, physically exact lens simulation, Midjourney `::` weighting, and Stable Diffusion `(term:1.3)` weighting are not project law for ChatGPT Images.
+`1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`
+
+A separate three-person seated image was briefly misattributed as RST-05B in Director Context. It is preserved only as:
+
+`MISATTRIBUTED — NOT RST-05B — three-person seated image.png`
+
+Drive file ID:
+
+`1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`
+
+It is **not valid experiment evidence**. Never use conclusions derived from that image as RST-05B evidence.
+
+## Durable SOV/RST findings
+
+Supported strongly enough to guide continued R0 research:
+
+1. People can remain structurally primary across controlled formal grammars.
+2. Individual attribution can survive substantial formal simplification.
+3. Relational geometry can carry action, attention, continuity and asymmetry.
+4. Direct physical causality improves attribution but tends to create control/help/conflict semantics.
+5. Removing physical control preserves agency but weakens visible causal linkage.
+6. Persistent human relational traces can imply a prior/common condition.
+7. `Asymmetric evidentiary position` / unequal access to evidence is more defensible than claiming a still image proves private knowledge.
+8. Human-history language without constructive structure tends to drift toward aftermath, melancholy or isolation.
+9. Independent agency is not the same as enabled agency.
+10. When a persistent enabling condition is described abstractly while concrete carriers are prohibited, the renderer collapses the condition into the social grouping itself.
+11. A persistent system property therefore needs a visible carrier if the image is expected to make `history + persistence + changed capability` recoverable.
+
+No individual SOV/RST surface has inheritance rights. Painterly figurative recurrence is not convergence.
+
+## Active methodology checkpoint
+
+> **R0 Renderer Cartography — Persistent Affordance Carrier Design 01 — Director Review Gate**
+
+Canonical design:
+
+`docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_01.md`
+
+Research correction:
+
+The project will temporarily permit one **ordinary, modest, subordinate, human-made persistent carrier** as the controlled variable instead of demanding that an invisible enabling condition be inferred only from posture/gaze/spacing.
+
+The carrier is an experimental measurement device, not identity language or metaphor.
+
+### PAC-01A proposed test — NOT AUTHORIZED YET
+
+Name:
+
+`Persistent Affordance Carrier 01A — Ordinary Shared Arrangement / Distributed Use`
+
+Question:
+
+> Can one modest persistent human-made arrangement make prior human agency and expanded present capability visually observable while remaining subordinate to distinct people?
+
+Required carrier properties:
+
+- human-made or visibly human-shaped;
+- persistent;
+- ordinary;
+- modest in scale;
+- subordinate to people;
+- non-symbolic;
+- usable by multiple people in distinct independent ways;
+- no helper/recipient hierarchy;
+- no bridge/door/path/threshold/crossing/route logic;
+- no repair/ruin/accommodation/triumph/product-demo framing.
+
+Render budget if approved: **one image**, one fresh regular non-project Renderer Context, no corrective chain.
+
+Do not generate PAC-01A until explicit Director approval after review of the exact packet in the design checkpoint.
 
 ## Working website / brand thesis
 
@@ -205,9 +164,9 @@ Current non-aesthetic system hypothesis remains:
 
 > **Distinct people are structurally important; human choices can change shared conditions and future possibilities; identities can persist across transformed representations; relationships can structure the visual field; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
 
-The late Crossing/Boundary work remains research evidence only. `We inherit boundaries. We create crossings.` is historical shorthand, not a public tagline, governing thesis, frozen visual law, selected metaphor, or R1 authorization.
+The late Crossing/Boundary work remains research evidence only. `We inherit boundaries. We create crossings.` is historical shorthand, not a governing thesis, public tagline, selected metaphor, or R1 authorization.
 
-No inheritance rights for literal bridges, giant walls, portals, thresholds, ruins, repair scaffolding, architectural archaeology, post-collapse environments, pale-gold monumentality, or crossing imagery as Kymaean brand language.
+No inheritance rights for literal bridges, walls, portals, thresholds, ruins, repair scaffolding, architectural archaeology, post-collapse environments, pale-gold monumentality, or crossing imagery.
 
 Preserve:
 
@@ -217,29 +176,22 @@ Preserve:
 > **Metaphor != identity.**  
 > **Surface != law.**
 
-## Exact next work — Director review only
+## Prompt-intelligence discipline
 
-Read `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`.
+Fresh chats must distinguish:
 
-The next Director decision is whether the proposed measurement model and two draft packets are acceptable:
+1. **PROJECT EMPIRICAL LAW**
+2. **OFFICIAL OPENAI GUIDANCE**
+3. **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION**
+4. **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT**
 
-1. approve or correct `asymmetric evidentiary position` as the measurable still-image replacement for `unequal understanding`;
-2. approve or correct repeated human spatial relation + visible departure as the first temporal/relational observability mechanism;
-3. verify that `SOV-01A` genuinely controls for equal evidence access and `SOV-01B` changes only that variable;
-4. audit the draft packets for hidden setting/object/genre/surface seeds;
-5. approve, revise or reject the two-render budget and stop rules.
-
-**Do not generate SOV-01A until explicit user approval after this Director review.**
-
-Medium-control research remains a valid later lane but is secondary until the semantic observability test is resolved.
-
-Unknown information remains `UNKNOWN` or `PENDING RECOVERY`. Do not reconstruct false precision.
+The user-supplied Gemini Pro guide remains external research input. Do not promote unsupported model-mechanics claims or other-generator syntax into ChatGPT Images project law.
 
 ## Product-validation boundary
 
 `Rylascoo/Ensemble-Project/CURRENT_STATE.md` remains authority for exact application implementation and validation.
 
-Fresh website/brand chats must read the application `CURRENT_STATE.md` at handoff time rather than relying on a copied snapshot here. Website artwork may express product meaning but must not create unsupported claims about WinUI completion, Windows AI/NPU execution, ARM64 performance, packaging, WACK, Partner Center certification, or Store readiness.
+Website/brand artwork must not create unsupported claims about WinUI completion, Windows AI/NPU execution, ARM64 performance, packaging, WACK, Partner Center certification, or Store readiness.
 
 ## Website implementation state
 
@@ -259,11 +211,12 @@ For the next Kymaean website/brand Director chat:
 4. read `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`;
 5. read `docs/VISUAL_ARCHIVE_PROTOCOL.md`;
 6. read `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`;
-7. read `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`;
-8. read RI/AL and Round 1 checkpoints only when needed for underlying semantic-observability evidence;
+7. read `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`;
+8. read `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_01.md`;
 9. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
 10. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
-11. read the named Drive Renderer Cartography dataset, Matrix 01 synthesis, Semantic Observability design, registry, evaluations, and archive records;
-12. do not restart renderer research from generic external prompting advice;
-13. do not generate SOV-01A until explicit user approval;
-14. remain in R0 unless explicit mutual convergence occurs.
+11. read the Drive Renderer Cartography dataset and active archive records named above;
+12. do not reconstruct prompt lineage already marked recovered or unknown;
+13. do not use the misattributed three-person image as RST-05B evidence;
+14. do not generate PAC-01A until explicit Director approval;
+15. remain in R0 unless explicit mutual convergence occurs.
