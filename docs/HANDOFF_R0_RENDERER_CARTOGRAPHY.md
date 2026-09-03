@@ -6,7 +6,7 @@ Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation by replacing open-ended renderer prompting with retrospective Renderer Cartography and controlled formal-grammar testing.
+Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography and controlled formal-grammar testing.
 
 Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production surface.
 
@@ -17,11 +17,11 @@ Do not promote a new visual phase. Do not select a logo, wordmark, palette, mate
 3. `docs/RENDERER_ISOLATION_PROTOCOL.md`
 4. `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
 5. `docs/VISUAL_ARCHIVE_PROTOCOL.md`
-6. `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
-7. `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
+6. `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
+7. `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md` and `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md` only as needed for evidence
 8. this handoff
 9. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-10. relevant Google Drive continuity, registry, checkpoint, image-atlas, and active Renderer Cartography records named by current state
+10. the Drive Renderer Cartography dataset, retrospective checkpoint, registry, and relevant archival records
 
 GitHub/Drive are durable project state. Do not ask the user to reconstruct previous research from chat history when these sources resolve it.
 
@@ -33,87 +33,82 @@ Renderer Isolation remains active operational law:
 
 > **The director remembers everything. The canvas remembers nothing.**
 
-Its claim is now narrower: disposable non-project renderer chats reduce known project-context inheritance; they do not prove a mathematically memory-free image model or remove base-model semantic priors.
+Disposable non-project renderer chats reduce known project-context inheritance; they do not prove a mathematically memory-free image model or remove base-model semantic priors.
 
-## Method correction after Cross-Surface Experiments 01–04
+## Completed methodology work
 
-Experiments 01–04 were useful diagnostic evidence but did not demonstrate cross-surface robustness.
+Cross-Surface Experiments 01–04 are archived diagnostic failures, not robustness proof.
 
-The sequence repeatedly translated abstract causal/relational language into familiar renderer shortcuts:
+The first Renderer Cartography retrospective is complete enough to advance to the first controlled matrix. Canonical checkpoint:
 
-- E01 -> monumental inherited architecture and threshold/opening logic;
-- E02 -> period-coded painterly interpersonal drama;
-- E03 -> literal accessibility/crossing intervention in ruined architecture;
-- E04 -> monumental antiquarian interior with literal suspended bridge.
+`docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
 
-The correction is:
+Canonical Drive dataset:
+
+`R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
+
+Current retrospective coverage is 46 records. Exact CSR-E01–E04 packets are recovered; most earlier exact prompts remain `PENDING EXACT PROMPT RECOVERY` and must not be reconstructed.
+
+Retrospective evidence establishes that the renderer previously escaped monumental/cinematic attractors when formal grammar was explicitly controlled, including AL-B01 flat mass/negative space, AL-D01 line/void, AL-C01/E01 overlap/occlusion, R1 Study C reduced detail, and the V0.4 Ordinary-Room Presence study.
+
+Therefore:
 
 > **For cross-surface research, the Director controls both semantic law and formal grammar. The Renderer invents only unconstrained local manifestation.**
 
-Do not spend additional renders on open-ended "invent the visual language" packets until the retrospective dataset and controlled matrix are complete.
+## Evidence discipline
 
-## External prompt-engineering research classification
+Preserve these source classes:
 
-The user supplied an external Google Gemini Pro guide covering prompt hierarchy, camera/lens vocabulary, lighting, composition, materials, model-specific weighting syntax, and de-biasing prompts.
+- **PROJECT EMPIRICAL LAW** — archived Kymaean evidence;
+- **OFFICIAL OPENAI GUIDANCE** — current official documentation;
+- **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION** — useful outside guidance requiring verification;
+- **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT** — syntax or controls from other generators.
 
-Treat it as research input, not authority.
+The user-supplied Gemini Pro guide is external research input. Camera/lens, lighting, material, composition and de-biasing vocabulary are test hypotheses. Fixed first-3-to-5-word weighting, predictable token dilution, hidden-neural-pathway claims, physically exact lens simulation, Midjourney `::` weights and Stable Diffusion `(term:1.3)` weights are not project law for ChatGPT Images.
 
-Preserve these distinctions:
+## Controlled Formal Matrix 01
 
-- **OFFICIAL OPENAI GUIDANCE:** clear, specific prompts; short prompts often sufficient; specify subject/action, setting when needed, style, framing/lighting/constraints; make small targeted revisions; use reference images with explicit roles.
-- **EXTERNAL HYPOTHESES TO TEST:** camera/lens terms, lighting terminology, material terminology, composition terminology, and de-biasing descriptions may provide useful renderer control.
-- **NOT VERIFIED PROJECT LAW:** claims that first 3–5 words always carry highest mathematical weight; that each new word predictably dilutes earlier tokens; that jargon targets specific neural pathways; that camera terms force physically exact optics.
-- **GENERATOR-SPECIFIC / DO NOT TRANSFER:** Midjourney `::` weights and Stable Diffusion `(term:1.3)` syntax unless OpenAI explicitly supports equivalent syntax.
+Matrix 01 keeps one relational semantic route substantially constant while testing three formal grammar packages:
 
-See `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`.
+1. `CFM-01A` — Flat Mass / Negative Space
+2. `CFM-01B` — Sparse Contour / Void
+3. `CFM-01C` — Shallow Overlap / Occlusion
 
-## Exact next work — no image generation yet
+The three probes share:
 
-### Phase RC-0: retrospective recovery
+- three distinct people;
+- one visible present choice that changes their relationship;
+- unequal understanding expressed through different responses;
+- individual recognizability through a small combination of non-facial perceptual cues;
+- people-dominant composition;
+- diffuse illumination with moderate contrast;
+- artwork-only output;
+- no references, branding, UI, or presentation framing.
 
-Audit all recoverable visual-generation evidence before creating another image:
+Matrix 01 is **not** a strict A/B reproduction of CSR-E04. Comparison to E04 is diagnostic only and cannot prove that one isolated factor caused the historical output.
 
-- RI-001A/001B through RI-011;
-- AL-A01 through AL-H01;
-- Round 1 studies and synthesis images;
-- Cross-Surface Robustness Experiments 01–04;
-- prior website/brand visual branches available in Drive, repository evidence, File Library, or current runtime;
-- exact prompts or best-known prompt lineage;
-- evaluation records;
-- explicit user reactions and favorites;
-- asset-state evidence.
+Render budget: maximum three images, one new non-project renderer chat per image. Stop before C if A and B both collapse into the same quarantined architectural/period/cinematic family. Stop after C regardless of success and synthesize before any further generation.
 
-Do not open historical image binaries merely for aesthetic inspiration. Open them when needed for evidence classification, prompt-response analysis, or provenance recovery.
+## Exact next work — Director gate
 
-### Phase RC-1: Renderer Cartography dataset
+`CFM-01A` is packet-ready but **not render-authorized**.
 
-Create/update one durable dataset record per recoverable experiment using the schema in `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`.
+The exact packet is recorded in `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`.
 
-Unknown information must remain UNKNOWN or PENDING RECOVERY.
+Current action:
 
-### Phase RC-2: prompt -> response synthesis
-
-Identify high-confidence associations between prompt variables and renderer behavior, including attractors, escapes, and failure modes.
-
-Separate correlation from causation. Do not claim a prompt term caused an output unless contrastive evidence is strong enough.
-
-### Phase RC-3: controlled formal matrix
-
-Design a small set of orthogonal formal grammars using descriptive visual properties rather than named artists, eras, cultures, or movements.
-
-Keep the semantic kernel substantially constant and vary one meaningful formal dimension or tightly coupled grammar family at a time.
-
-Define render budget and stop conditions before execution.
-
-### Director gate
-
-After the retrospective dataset and first controlled matrix are formulated, stop for user review before any new renderer image is generated.
+1. present/review the exact `CFM-01A` packet in Director Context;
+2. do not generate an image inside the Ensemble project;
+3. after explicit user approval, copy only that packet into a fresh regular non-project renderer chat;
+4. use no memory-negation preamble and add no examples;
+5. generate exactly one image, close the renderer chat, and return the image here;
+6. evaluate and archive before deciding whether `CFM-01B` is warranted.
 
 ## Archival law
 
-Every recovered/generated image, prompt lineage, user signal, Director judgment, and asset state must be reconciled incrementally into Google Drive and the critique registry.
+Every generated image, prompt lineage, user signal, Director judgment, asset state, and experiment result must be reconciled incrementally into Google Drive and the Renderer Cartography dataset.
 
-Do not claim an image is archived unless the connector write succeeded and was verified.
+Do not claim an image is archived unless the write succeeded and was verified.
 
 Do not silently promote praise, recency, repeated motifs, or generated-board scores into user approval.
 
