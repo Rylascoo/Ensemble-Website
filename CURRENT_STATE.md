@@ -266,9 +266,7 @@ Do not let an early success in one lane dictate the others.
 
 `Rylascoo/Ensemble-Project/CURRENT_STATE.md` remains authority for exact application implementation and validation.
 
-As of the latest read during this handoff, the application repository remains at the machine-validated H1 Patch 0009 State Interpreter boundary with 330/330 Core tests at its documented tested head; later Windows AI/NPU execution, WinUI, packaging/WACK, and Store certification remain explicitly unvalidated/excluded there. Website artwork must not promote any of those excluded capabilities into validated product claims.
-
-Website artwork may express product meaning but must not create unsupported claims about WinUI completion, Windows AI/NPU execution, ARM64 performance, packaging, WACK, Partner Center certification, or Store readiness.
+Fresh website/brand chats must read the application `CURRENT_STATE.md` at handoff time rather than relying on a copied snapshot in this website repository. Website artwork may express product meaning but must not create unsupported claims about WinUI completion, Windows AI/NPU execution, ARM64 performance, packaging, WACK, Partner Center certification, or Store readiness.
 
 ## Website implementation state
 
