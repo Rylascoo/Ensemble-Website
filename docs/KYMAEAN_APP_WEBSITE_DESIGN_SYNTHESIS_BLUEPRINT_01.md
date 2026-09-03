@@ -1,13 +1,21 @@
 # KYMAEAN APP + WEBSITE DESIGN SYNTHESIS — BLUEPRINT 01
 
-Status: DIRECTOR PROPOSAL FOR REVIEW
+Status: PREPARED INTEGRATED BASELINE — CURRENT DIRECTOR REVIEW CONTINUES THROUGH EXPERIENCE ONTOLOGY RECOVERY
+
+Current continuation artifact:
+
+`docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
+
+Continuity note:
+
+Blueprint 01 successfully opened the integrated app + website design-synthesis phase, but its first follow-on sequence narrowed the experience-model question too quickly. The recovered experience ontology now provides the current Director-review basis. This Blueprint remains a useful integrated baseline and is not production authority; where a follow-on question or gate conflicts with the recovered ontology synthesis, the recovery artifact governs the current design continuation.
 
 Phase: R0 Visual Re-Foundation -> integrated app + website design synthesis
 
 Authority level:
-- This document is a design proposal.
+- This document is a design proposal/baseline.
 - It does not freeze final UX, visual identity, implementation, or application ontology.
-- Production code is not authorized from this document until Director approval.
+- Production code is not authorized from this document until Director approval and the relevant downstream design gate.
 
 ## 1. Purpose
 
@@ -108,6 +116,10 @@ Inspect consequences, history, relationships, and continuity.
 The final labels remain open. The architecture must preserve:
 
 Creation -> Performance -> Consequence -> Future possibility.
+
+Recovery qualification:
+
+These labels are not current proposed navigation and should not displace the richer frozen/recovered Studio / Stage / Archive conceptual functions, Watch / Direct / Perform / Write creator postures, or Presentation Perspective axis. See `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`.
 
 ## 6. Website information architecture proposal
 
@@ -331,6 +343,8 @@ evidence -> smallest unresolved question -> recursive audit -> one justified nex
 
 ## 18. Director decision gates
 
+Original Blueprint 01 gate sequence:
+
 Gate 1:
 Approve product/experience architecture direction.
 
@@ -343,20 +357,24 @@ Approve symbol/identity exploration strategy.
 Gate 4:
 Approve app and website implementation translation.
 
-No production XAML, C#, Astro, CSS, or JavaScript begins before the appropriate gate.
+Recovery qualification:
+
+Do not execute these as an automatic sequence. The current gate is review of `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`, which recovers the actual experience structure before choosing the next smallest IA/design question.
+
+No production XAML, C#, Astro, CSS, or JavaScript begins before the appropriate explicit Director approval.
 
 ## 19. Recursive audit record
 
-Audit order:
+Original audit order:
 
 product truth -> authority -> scope -> user model -> information architecture -> visual-law continuity -> accessibility -> Windows-native feasibility -> ARM64/battery suitability -> website performance -> privacy/trust -> implementation simplicity -> distinctiveness -> surface-inheritance check -> evidence quality -> contradictions -> open decisions
 
-Current result:
+Original result:
 
 PASS FOR DIRECTOR REVIEW
 
-No material contradiction identified in this proposal.
+Subsequent recovery identified a worthwhile improvement in the follow-on framing rather than a contradiction in the integrated baseline itself.
 
-Remaining work:
+Current continuation:
 
-Director review and explicit selection of the smallest next unresolved design question.
+`docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
