@@ -28,12 +28,13 @@ Completed R0 evidence/checkpoints include:
 - `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_CFM_01C_RESULT.md`
 - `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
+- `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`
 
 Current active methodology checkpoint:
 
-> **R0 Renderer Cartography — Semantic Observability Design**
+> **R0 Renderer Cartography — Semantic Observability Design 01 — Director Review Gate**
 
-This is a research-design checkpoint only. **No new renderer image is authorized.**
+A two-render contrastive design is proposed but **no new renderer image is authorized**.
 
 Current active handoff:
 
@@ -64,8 +65,6 @@ Do not spend render budget on memory-negation preambles. Temporary Chat is not t
 
 Cross-Surface Robustness Experiments 01–04 repeatedly translated open-ended causal/relational packets into familiar visual shortcuts: monumental architecture/thresholds, period-coded interpersonal drama, accessibility/crossing intervention, and monumental antiquarian bridge imagery.
 
-The retrospective Cartography checkpoint recovered an important counterexample: earlier experiments produced materially different non-architectural grammars when formal behavior was explicitly constrained.
-
 Controlled Formal Matrix 01 then tested three Director-controlled formal grammars against substantially the same relational semantic kernel:
 
 - `CFM-01A` — Flat Mass / Negative Space
@@ -86,34 +85,86 @@ Do not return to open-ended `invent the visual language` prompts.
 
 ### Formal control works
 
-The current renderer materially responds to explicit picture-plane, massing, negative-space, contour, void, overlap and occlusion instructions. A, B and C are meaningfully different formal organizations despite sharing substantially the same semantic route.
+The current renderer materially responds to explicit picture-plane, massing, negative-space, contour, void, overlap and occlusion instructions.
 
 ### People can remain the complete structural field
 
 Across A/B/C, removing the people would remove essentially all action, composition and meaning. The environment-first protagonist failure did not recur.
 
-### The semantic bottleneck is now clearer than the surface bottleneck
+### Medium/render treatment is separable
 
-Across all three probes:
+A and C independently returned to painterly figurative realism while B selected gestural ink/wash. Formal geometry remained controlled. Painterly recurrence is not convergence and creates no inheritance rights.
 
-- visible present action was legible;
-- different responses were legible;
-- exact relational before/after remained inferential;
-- unequal understanding remained only partial because a still image cannot independently prove what each person knows from expression/posture alone.
+### The semantic bottleneck was real
 
-Repeating more surface variations with the same semantic packet is not the next priority.
-
-### Medium/render treatment is a separate variable
-
-A and C independently returned to painterly figurative realism while B selected gestural ink/wash. Formal geometry remained controlled.
-
-Therefore medium/render treatment must be treated as a separable Cartography variable. Painterly recurrence is **not** aesthetic convergence and creates no inheritance rights.
-
-### Matrix 01 remains comparative, not strict causal attribution
-
-Participant count, observable-action wording, people-dominant composition and formal controls were fixed together. Matrix 01 does not prove that one isolated factor caused the historical CSR-E04 architecture/bridge output and does not reveal hidden model mechanics.
+Across all three probes, visible present action and different responses were readable, but exact relational before/after and private `unequal understanding` were not directly observable.
 
 See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`.
+
+## Semantic Observability Design 01 — current finding
+
+The Director audit of RI/AL, Round 1, Matrix 01 and the Cartography dataset produced a measurement correction.
+
+### A still image can directly support
+
+- orientation, contact/separation, overlap/occlusion, alignment/interruption;
+- physical action contiguous with visible change;
+- repeated organization and visible exception;
+- unobstructed versus obstructed access to causal evidence;
+- structural inclusion/exclusion/connection/interruption.
+
+### A still image can support historical inference when it contains its own baseline
+
+RI-010/011 provide the strongest recovered mechanism:
+
+> **Repeated pattern + visible exception can make a prior/common state recoverable from present evidence.**
+
+### A still image cannot directly prove private mental state
+
+Knowledge, belief, memory, intention, understanding and interpretation remain inferential.
+
+Therefore the next still-image measurement uses:
+
+> **asymmetric evidentiary position / unequal access to causal evidence**
+
+instead of treating `unequal understanding` as directly provable.
+
+This is a measurement correction, not a change to the broader Kymaean system hypothesis.
+
+Canonical design checkpoint:
+
+`docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`
+
+Drive mirror:
+
+`R0 Renderer Cartography — Semantic Observability Design 01`
+
+Drive document ID: `18nY-dOHUy6S9_pYJpKdWjczyfuZE_23y2tWcFvISSN0`
+
+## Proposed Semantic Observability Matrix 01 — not authorized
+
+The design proposes a genuine two-image internal contrastive pair using one fixed shallow/flat human-dominant formal baseline.
+
+### `SOV-01A` — Repeated Pattern / Visible Departure / Equal Evidence Access
+
+- exactly three distinct people;
+- positions/orientations establish a simple repeated relational pattern;
+- two people preserve the pattern;
+- the third visibly changes their own position/orientation so their part no longer matches;
+- the two unchanged people provide an internal baseline for inferring the changing person's immediately prior relation;
+- both unchanged people have comparably clear access to the changing action.
+
+### `SOV-01B` — Same structure / Asymmetric Evidence Access
+
+Hold A constant and change one variable only:
+
+- one unchanged person retains clear access to the changing action;
+- the other has partly obscured access created by orientation/body occlusion;
+- score access geometry, not private knowledge.
+
+Render budget if later approved: maximum two images. If A fails the baseline/departure/actor/equal-access controls or collapses into a diagram/environment-first repeated-unit scene, stop before B. If A passes, B may be rendered once. Stop and synthesize after B regardless of outcome.
+
+No SOV render is currently authorized.
 
 ## Durable Renderer Cartography state
 
@@ -125,15 +176,9 @@ Canonical Drive dataset:
 
 `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
 
-The dataset now contains **49 experiment/research records**, including completed CFM-01A/B/C, plus Attractor Map, Controlled Formal Matrix, and Source Classification sheets.
+The dataset contains **49 generated experiment/research records**, including completed CFM-01A/B/C. Semantic Observability Design 01 is a design checkpoint, not yet a generated experiment record.
 
 Exact CSR-E01–E04 and CFM-01A/B/C Director packet lineage is recovered. Most earlier exact prompt text remains `PENDING EXACT PROMPT RECOVERY`; do not reconstruct false precision.
-
-Drive Matrix 01 synthesis:
-
-`R0 Renderer Cartography — Controlled Formal Matrix 01 Synthesis`
-
-Drive document ID: `1FiVMco7N2_k3-eiZN4I7s22e8fSfPKakrMHYX1eukBs`
 
 ## Prompt-engineering evidence classes
 
@@ -172,21 +217,21 @@ Preserve:
 > **Metaphor != identity.**  
 > **Surface != law.**
 
-## Exact next work — no image generation
+## Exact next work — Director review only
 
-Follow `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`.
+Read `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`.
 
-The next Director task is **Semantic Observability Design**:
+The next Director decision is whether the proposed measurement model and two draft packets are acceptable:
 
-1. audit Matrix 01 and prior RI/AL evidence specifically for observable evidence of temporal/relational change and asymmetric knowledge;
-2. distinguish what a still image can directly show from mental-state inference;
-3. design candidate observable invariants that do not depend on named settings, objects, cultures, eras, architectures, or genre examples;
-4. identify which variables must be fixed versus varied;
-5. formulate a small testable semantic experiment only after the observability model is coherent;
-6. define budget/stop conditions;
-7. stop for explicit user review before any new renderer packet is authorized.
+1. approve or correct `asymmetric evidentiary position` as the measurable still-image replacement for `unequal understanding`;
+2. approve or correct repeated human spatial relation + visible departure as the first temporal/relational observability mechanism;
+3. verify that `SOV-01A` genuinely controls for equal evidence access and `SOV-01B` changes only that variable;
+4. audit the draft packets for hidden setting/object/genre/surface seeds;
+5. approve, revise or reject the two-render budget and stop rules.
 
-Medium-control research is a valid later lane but is secondary until the semantic observability problem is designed cleanly.
+**Do not generate SOV-01A until explicit user approval after this Director review.**
+
+Medium-control research remains a valid later lane but is secondary until the semantic observability test is resolved.
 
 Unknown information remains `UNKNOWN` or `PENDING RECOVERY`. Do not reconstruct false precision.
 
@@ -214,11 +259,11 @@ For the next Kymaean website/brand Director chat:
 4. read `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`;
 5. read `docs/VISUAL_ARCHIVE_PROTOCOL.md`;
 6. read `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`;
-7. read CFM-01A/B/C result files only as needed for underlying evidence;
-8. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
-9. read RI/AL and Round 1 checkpoints only when needed for semantic-observability evidence;
+7. read `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`;
+8. read RI/AL and Round 1 checkpoints only when needed for underlying semantic-observability evidence;
+9. read `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`;
 10. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
-11. read the named Drive Renderer Cartography dataset, Matrix 01 synthesis, registry, evaluations, and archive records;
+11. read the named Drive Renderer Cartography dataset, Matrix 01 synthesis, Semantic Observability design, registry, evaluations, and archive records;
 12. do not restart renderer research from generic external prompting advice;
-13. do not generate another image until Semantic Observability Design is complete and explicitly approved;
+13. do not generate SOV-01A until explicit user approval;
 14. remain in R0 unless explicit mutual convergence occurs.
