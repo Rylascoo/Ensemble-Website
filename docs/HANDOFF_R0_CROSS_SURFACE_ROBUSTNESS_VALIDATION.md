@@ -19,11 +19,12 @@ Read in this order:
 1. `Rylascoo/Ensemble-Website/CURRENT_STATE.md`
 2. `Rylascoo/Ensemble-Website/docs/DESIGN_CONTINUITY.md`
 3. `Rylascoo/Ensemble-Website/docs/RENDERER_ISOLATION_PROTOCOL.md`
-4. `Rylascoo/Ensemble-Website/docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
-5. `Rylascoo/Ensemble-Website/docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
-6. this handoff
-7. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth and validation boundaries
-8. relevant Google Drive continuity/checkpoint records as named below
+4. `Rylascoo/Ensemble-Website/docs/VISUAL_ARCHIVE_PROTOCOL.md`
+5. `Rylascoo/Ensemble-Website/docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
+6. `Rylascoo/Ensemble-Website/docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`
+7. this handoff
+8. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth and validation boundaries
+9. relevant Google Drive continuity/checkpoint records as named below
 
 Google Drive `Ensemble Project` remains visual-master and human-readable creative-continuity authority.
 
@@ -108,6 +109,8 @@ Examples are visual seeds.
 
 When causal recoverability matters, specify only the smallest required causal/relational truth. Let the renderer invent the unrelated surface grammar.
 
+Saved-memory controls, deleting renderer chats, or disabling project memory are not the project's visual-isolation mechanism. GitHub/Drive preserve continuity; context separation and minimal sterile packets provide the controllable isolation boundary.
+
 ## 8. Cross-surface robustness validation
 
 The next gate asks:
@@ -159,11 +162,16 @@ Do not fight a repeated attractor indefinitely. Extract the diagnostic law, arch
 
 Read as needed:
 
+- `Kymaean Visual Continuity Constitution`
+- `Kymaean Visual Re-Foundation Charter — Inspiration Library + Clean-Slate Discovery`
+- `Kymaean Renderer Isolation Protocol`
+- `Kymaean Visual Archive & Handoff Protocol`
 - `Kymaean Visual Exploration Registry & Critique Ledger`
 - `R0 Renderer Isolation Checkpoint — RI-001–011 + AL-A01–H01`
 - `R0 Renderer Isolation Image Atlas — RI + AL`
 - `R0 Cross-Lab Synthesis Round 1 — Checkpoint & Critique`
 - `R0 Cross-Lab Synthesis Round 1 — Image Atlas`
+- `R0 Cross-Surface Robustness Validation — Fresh Chat Handoff`
 
 The document named `SUPERSEDED — R0 Crossing Language Draft (Process Evidence Only)` is historical process evidence only and must not be used as an active handoff.
 
@@ -183,6 +191,6 @@ Do not infer convergence from Experiment 01.
 
 ## 13. Fresh-chat bootstrap sentence
 
-> Resume the Ensemble Website / Kymaean website-brand workstream from `Rylascoo/Ensemble-Website`. Read `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, `docs/RENDERER_ISOLATION_PROTOCOL.md`, `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`, `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`, and `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`, then read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth. R0 remains active; no convergence is authorized. Renderer Isolation remains active. The late Crossing branch is research evidence only, not R1 and not an incumbent surface. Begin R0 Cross-Surface Robustness Validation Experiment 01 from the exact-next-work section. Use the persistent project chat only as Director Context and a fresh regular non-project chat for the single image render.
+> Resume the Ensemble Website / Kymaean website-brand workstream from `Rylascoo/Ensemble-Website`. Read `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, `docs/RENDERER_ISOLATION_PROTOCOL.md`, `docs/VISUAL_ARCHIVE_PROTOCOL.md`, `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`, `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`, and `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`, then read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth. R0 remains active; no convergence is authorized. Renderer Isolation remains active. The late Crossing branch is research evidence only, not R1 and not an incumbent surface. Begin R0 Cross-Surface Robustness Validation Experiment 01 from the exact-next-work section. Use the persistent project chat only as Director Context and a fresh regular non-project chat for the single image render.
 
 END OF HANDOFF
