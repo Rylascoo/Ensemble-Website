@@ -50,7 +50,7 @@ Required supporting law/protocol:
 - `docs/RENDERER_ISOLATION_PROTOCOL.md`
 - `docs/VISUAL_ARCHIVE_PROTOCOL.md`
 
-Historical active-handoff lineage remains available, including `docs/HANDOFF_R0_RENDERER_ISOLATION_CROSS_BRANCH_SYNTHESIS.md`, but its exact-next-work section has now been completed by Round 1.
+Historical active-handoff lineage remains available, including `docs/HANDOFF_R0_RENDERER_ISOLATION_CROSS_BRANCH_SYNTHESIS.md` and `docs/HANDOFF_R0_VISUAL_REFOUNDATION_CLEAN_SLATE_REDISCOVERY.md`, but both are now explicitly marked completed/superseded as active handoffs.
 
 R0 still governs:
 
@@ -100,6 +100,8 @@ Canonical human-readable continuity includes:
 - `Kymaean Visual Exploration Registry & Critique Ledger`
 - `Kymaean Visual Re-Foundation Charter — Inspiration Library + Clean-Slate Discovery`
 - `Kymaean Renderer Isolation Protocol`
+- `Kymaean Visual Archive & Handoff Protocol`
+- `R0 Cross-Surface Robustness Validation — Fresh Chat Handoff`
 
 ### `02 Historical Inspiration Library — Prior Visual Branches`
 
@@ -118,7 +120,8 @@ Active lanes remain:
 X0 currently contains:
 
 - `R0 Renderer Isolation Laboratory — Active Research`
-- `R0 Cross-Lab Synthesis Round 1 — Active Research`
+- `R0 Cross-Lab Synthesis Round 1 — Active Research` — completed checkpoint retained in the active R0 lineage;
+- `R0 Cross-Surface Robustness Validation — Active Research` — **current research gate**.
 
 Round 1 companion Drive records:
 
@@ -207,7 +210,7 @@ The historical research shorthand `We inherit boundaries. We create crossings.` 
 
 No inheritance rights for giant walls, bridges, portals, monumental thresholds, ruins, repair scaffolding, architectural archaeology, post-collapse environments, pale-gold monumentality, or crossing imagery as a mandatory website motif.
 
-A previous assistant-created `R1 Crossing Language` draft was a premature phase promotion. It is now explicitly superseded in Drive and must not be used as an active handoff.
+A previous assistant-created `R1 Crossing Language` draft was a premature phase promotion. It is explicitly superseded in GitHub and Drive and must not be used as an active handoff.
 
 Preserve the anti-regression law:
 
@@ -263,6 +266,8 @@ Do not let an early success in one lane dictate the others.
 
 `Rylascoo/Ensemble-Project/CURRENT_STATE.md` remains authority for exact application implementation and validation.
 
+As of the latest read during this handoff, the application repository remains at the machine-validated H1 Patch 0009 State Interpreter boundary with 330/330 Core tests at its documented tested head; later Windows AI/NPU execution, WinUI, packaging/WACK, and Store certification remain explicitly unvalidated/excluded there. Website artwork must not promote any of those excluded capabilities into validated product claims.
+
 Website artwork may express product meaning but must not create unsupported claims about WinUI completion, Windows AI/NPU execution, ARM64 performance, packaging, WACK, Partner Center certification, or Store readiness.
 
 ## Website implementation state
@@ -281,18 +286,23 @@ For the next Kymaean website/brand visual-design chat:
 1. read this file first;
 2. read `docs/DESIGN_CONTINUITY.md`;
 3. read `docs/RENDERER_ISOLATION_PROTOCOL.md`;
-4. read `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`;
-5. read `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`;
-6. read `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`;
-7. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth;
-8. read the named Drive registry/checkpoint records as needed;
-9. treat every prior image as research evidence, not an incumbent;
-10. use the persistent project chat as Director Context and a fresh regular non-project chat as Renderer Context;
-11. remain in R0 exploration unless explicit mutual convergence occurs.
+4. read `docs/VISUAL_ARCHIVE_PROTOCOL.md`;
+5. read `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`;
+6. read `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`;
+7. read `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`;
+8. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth;
+9. read the named Drive registry/checkpoint records as needed;
+10. treat every prior image as research evidence, not an incumbent;
+11. use the persistent project chat as Director Context and a fresh regular non-project chat as Renderer Context;
+12. remain in R0 exploration unless explicit mutual convergence occurs.
 
 ## Exact next permissible work
 
 Begin **R0 Cross-Surface Robustness Validation — Experiment 01** from `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`.
+
+Use the Drive folder:
+
+`03 Clean-Slate Visual Discovery — Active / X0 Cross-Lane Discovery & Research — Clean Slate / R0 Cross-Surface Robustness Validation — Active Research`
 
 Derive one new sterile packet from the consolidated system law without seeding a concrete setting, named medium, culture, architecture, bridge, wall, threshold, portal, historical material, or example menu unless that element is deliberately being tested.
 
