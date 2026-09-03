@@ -1,6 +1,6 @@
 # KYMAEAN VISUAL SYSTEM GRAMMAR — PROPOSAL 01
 
-Status: DIRECTOR PROPOSAL FOR REVIEW / NO PRODUCTION IMPLEMENTATION AUTHORIZED
+Status: DIRECTOR PROPOSAL FOR REVIEW / RECURSIVELY AUDITED / NO PRODUCTION IMPLEMENTATION AUTHORIZED
 
 Phase: Kymaean App + Website Design Synthesis — visual-system architecture after accepted grayscale continuous-workspace wireframe
 
@@ -21,7 +21,8 @@ Current basis:
 - Google Drive `Kymaean Visual Continuity Constitution`;
 - Google Drive `R0 Visual Research — Final Synthesis 01`;
 - Google Drive O0 Original Concept Foundation as experiential/historical evidence only;
-- current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` for product-engineering authority.
+- current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` for product-engineering authority;
+- `Rylascoo/Ensemble-Project/docs/blueprint/CREATOR_ONTOLOGY_EXTENSIBILITY_GUARD.md` when creator-facing semantic labels are involved.
 
 The proposal respects the clean-slate rule:
 
@@ -47,6 +48,8 @@ Meaning:
 - consequence should alter hierarchy/organization where appropriate rather than merely add decorative effects;
 - history should be recoverable from state comparison and causal structure rather than a permanent timeline motif;
 - visual richness may be expressive, but the product should remain semantically complete when motion, transparency, color, and decorative imagery are removed.
+
+This is a **priority law, not a minimalism law**. Kymaean may be atmospheric, theatrical, textural, typographic, strange, or visually rich when those qualities strengthen human presence, relationship, causality, bounded perspective, or consequence. The rule only rejects system ornament becoming more important than the living Production.
 
 This is a design-system principle, not a public tagline and not a selected aesthetic.
 
@@ -86,6 +89,8 @@ Failure conditions:
 - decorative AI effects become the primary motion/contrast attractor;
 - characters read as generic profile badges rather than persistent specific identities.
 
+Provider/model identity is always secondary to Character identity. A model/provider may be inspectable technical metadata, but it must never visually substitute for the person being portrayed.
+
 O0 continuity value:
 
 > **The people are the scene.**
@@ -123,19 +128,20 @@ Spatial relation alone may never carry essential meaning. Equivalent text/struct
 
 Kymaean needs persistent Character identity that can survive multiple visual contexts.
 
-The system should therefore treat Character identity as a **bundle of coherent perceptual invariants**, not as one permanent headshot.
+The system should therefore treat visual Character identity as a **bundle of coherent perceptual invariants**, not as one permanent headshot.
 
-Candidate invariant classes for later exploration include:
+Candidate visual invariant classes for later exploration include:
 
 - name / designed typographic signature;
 - silhouette or body-form characteristics when figurative representation is used;
 - characteristic line/shape construction;
 - restrained personal accent association where accessible;
 - recurring gesture/posture cues when motion/illustration supports them;
-- consistent iconographic or compositional marker when appropriate;
-- voice/language rhythm outside the purely visual layer.
+- consistent iconographic or compositional marker when appropriate.
 
 No one invariant is mandatory.
+
+Voice/language rhythm may contribute to **cross-modal Character continuity**, but it is not a visual invariant and must not be used to paper over weak visual identity.
 
 The visual system should permit several representation depths:
 
@@ -170,7 +176,7 @@ Those remain surface explorations.
 
 O0 demonstrated that typography can participate in theatrical/literary identity rather than functioning only as neutral application text.
 
-Windows-native readability still requires conventional interface hierarchy and robust scaling.
+Windows-native readability still requires robust interface hierarchy, scaling, localization, and accessibility.
 
 Proposal:
 
@@ -198,7 +204,7 @@ Requirements:
 
 Windows feasibility reference:
 
-Current Microsoft Windows guidance recommends Segoe UI Variable as the primary Windows UI type family and supports optical-size/weight variation. This is a compatibility reference, not a final Kymaean typeface selection.
+Current Microsoft Windows guidance recommends Segoe UI Variable as the default/recommended Windows app UI family for supported languages and uses its weight/optical-size capabilities for legibility. This is compatibility evidence, not a final Kymaean typeface selection.
 
 ### Register B — expressive narrative typography
 
@@ -207,7 +213,7 @@ Potential responsibilities:
 - Character identity/name presentation;
 - Scene titles or dramatic context;
 - consequential state transitions;
-- Archive/history emphasis;
+- history emphasis;
 - selected brand/wordmark relationships.
 
 Constraint:
@@ -269,15 +275,17 @@ No palette is selected.
 
 Before choosing colors, define their jobs.
 
-Candidate semantic jobs:
+Candidate semantic jobs may support:
 
 - interactive/action emphasis;
 - current focus/selection;
 - Character identity association where accessible;
-- provisional/non-effective status;
-- accepted/effective status;
+- non-effective/provisional material;
+- effective/committed material;
 - historical focus;
-- warning/blocking capability state;
+- unresolved/still-active dramatic pressure;
+- bounded disclosure;
+- warning/blocking technical capability state;
 - positive/negative validation only where culturally and semantically appropriate.
 
 Rules:
@@ -286,31 +294,82 @@ Rules:
 - state meaning must remain readable in monochrome/high contrast;
 - Character identity cannot depend solely on hue;
 - the user's Windows theme/accent should be considered as part of the eventual system rather than treated as an enemy of brand consistency;
-- dramatic emotional color may exist in artwork/brand surfaces without becoming the sole UI state code.
+- dramatic emotional color may exist in app artwork/brand surfaces without becoming the sole UI state code.
 
-Current Microsoft Windows color guidance recommends using color sparingly and meaningfully, and recognizes user accent/theme personalization. Kymaean should be compatible with that expectation while retaining its own identity.
+Current Microsoft Windows color guidance uses color sparingly and meaningfully and recognizes user theme/accent personalization. Kymaean should be compatible with that expectation while retaining its own identity.
 
 ---
 
-## 9. State language — explicit semantic evidence
+## 9. State language — orthogonal semantic axes, not one state enum
 
-Kymaean has unusually important state distinctions.
+Kymaean has unusually important semantic distinctions. They must not be flattened into one mutually exclusive visual status list.
 
-The visual system must make these understandable without requiring backend vocabulary.
+The visual system should instead support **orthogonal axes** that can coexist.
 
-Core classes:
+### Axis A — temporal locus
 
 ```text
 CURRENT
 HISTORICAL
-PROVISIONAL / NON-EFFECTIVE
-ACCEPTED / EFFECTIVE
-UNRESOLVED / STILL ACTIVE
-BOUNDED PERSPECTIVE
-CAPABILITY UNAVAILABLE
 ```
 
-Each state should have a redundant semantic signature assembled from some combination of:
+Historical focus must never imply that the selected historical material is editable current state.
+
+### Axis B — causal effect
+
+```text
+NON-EFFECTIVE / PROVISIONAL
+EFFECTIVE / COMMITTED
+```
+
+Final creator-facing wording remains open.
+
+Important authority distinction:
+
+> **Take acceptance and causal effectiveness are related, but they are not the same semantic dimension.**
+
+Patch 0012 establishes that the exact Accepted Take Performance plus every retained Approved consequence becomes effective atomically, or neither does. Retained Rejected consequences remain non-effective. The UI must therefore not casually use `Accepted` and `Effective` as interchangeable labels or imply that every retained consequence becomes effective.
+
+Final Take/rehearsal/branch language remains open and is not frozen by this visual proposal.
+
+### Axis C — dramatic continuation
+
+Where product truth supports it:
+
+```text
+RESOLVED
+UNRESOLVED / STILL ACTIVE
+```
+
+This is creator-facing dramatic meaning, not automatically a permanent storage enum.
+
+### Axis D — disclosure perspective
+
+Conceptually:
+
+```text
+CREATOR / PRODUCTION
+AUDIENCE
+CHARACTER-BOUNDED
+```
+
+These describe disclosure over one authoritative Production. They are not cosmetic themes.
+
+### Axis E — technical capability
+
+Conceptually:
+
+```text
+AVAILABLE
+DEGRADED / PARTIAL
+UNAVAILABLE
+```
+
+Exact capability state names must follow the eventual implementation/API authority. Technical capability state is never fictional dramatic state and never creates causal history.
+
+### Redundant signatures
+
+Each active axis should have a redundant semantic signature assembled from some combination of:
 
 - wording;
 - icon;
@@ -318,13 +377,12 @@ Each state should have a redundant semantic signature assembled from some combin
 - placement;
 - typographic emphasis;
 - color;
-- disclosure behavior.
+- disclosure behavior;
+- enabled/disabled action availability.
 
 No single cue carries the whole distinction.
 
-Historical focus must not visually imply editable current state.
-
-Technical capability failure must not resemble fictional dramatic consequence.
+The visual layer may use legible creator-facing labels without turning those labels into one-to-one engine enums or storage ontology.
 
 ---
 
@@ -340,7 +398,7 @@ Prefer:
 - altered affordance/action availability;
 - changed prominence of a pressure or unresolved issue;
 - before/after comparison when causal attribution needs it;
-- traceable connection to the accepted event.
+- traceable connection to the effective event.
 
 Avoid making every consequence a visual spectacle such as:
 
@@ -431,7 +489,9 @@ Potential mapping:
 
 Do not build the product's identity around glass/blur/translucency.
 
-Current Microsoft guidance notes that Mica is designed as a performant long-lived window backdrop, while acrylic is suited to more transient surfaces and may fall back under battery saver, high contrast, disabled transparency, remote/unsupported conditions. Any Kymaean material choice must remain semantically complete under those fallbacks.
+Current Microsoft guidance consistently positions Mica as a performant long-lived backdrop option and Acrylic primarily for transient/secondary surfaces. System materials can fall back or be suppressed under platform, theme, accessibility, hardware, remote-session, or power conditions.
+
+**Implementation rule:** exact API behavior and fallback matrices are volatile platform details and must be re-verified against current Microsoft documentation and the targeted Windows App SDK version before implementation. The durable Kymaean law is only that the interface remain semantically complete under solid/high-contrast/material fallback.
 
 No final Mica/Acrylic/solid-surface composition is selected by this proposal.
 
@@ -460,7 +520,7 @@ Potential future domain concepts:
 - causal consequence;
 - unresolved pressure;
 - bounded perspective;
-- effective versus provisional performance;
+- causal-effect status;
 - Character relationship/attention.
 
 No bespoke domain icon set is selected yet.
@@ -474,7 +534,7 @@ Motion may communicate:
 - focus transfer;
 - relationship reorganization;
 - disclosure entering/leaving;
-- transition from provisional to effective;
+- transition across the causal-effect boundary;
 - return from historical inspection to the changed present.
 
 Motion should generally be:
@@ -520,9 +580,11 @@ low chrome + high human field
 INSPECT / UNDERSTAND
 moderate contextual density
 
-DIRECT / WRITE / CONFIGURE
+DIRECT / WRITE / DETAILED SETUP
 higher purposeful density
 ```
+
+`Detailed setup` is a task-density description, not a fifth creator posture.
 
 Density changes with task; the product does not need one permanent information-density level.
 
@@ -535,16 +597,17 @@ Every expressive decision must preserve:
 - keyboard completion of the causal loop;
 - visible focus;
 - screen-reader-readable hierarchy;
-- programmatic current/history status;
-- programmatic active perspective;
-- programmatic provisional/effective state;
+- programmatic temporal locus;
+- programmatic active disclosure perspective;
+- programmatic causal-effect status where applicable;
+- programmatic technical capability state where applicable;
 - high-contrast survival;
 - non-color state cues;
 - scaling/reflow without essential spatial loss;
 - reduced-motion equivalence;
 - target sizes appropriate for pointer/touch where applicable.
 
-Visual originality that disappears in high contrast or at 200% text scaling is not sufficient as the only semantic carrier.
+Visual originality that disappears in high contrast or under substantial text scaling is not sufficient as the only semantic carrier.
 
 ---
 
@@ -559,7 +622,7 @@ Preferred baseline:
 - no continuous graph solvers;
 - no idle inference for decoration;
 - no required live blur beyond system-managed material choices;
-- no persistent video/canvas/WebGL-style surface in the retail app shell;
+- no persistent custom-rendered or animated surface that requires a continuous frame loop merely to make the shell feel alive;
 - no visual behavior that requires the NPU to remain active simply to make the UI feel alive.
 
 The product should feel alive because **the Production changes**, not because the compositor is always moving.
@@ -580,7 +643,9 @@ They need to share durable laws.
 - causal continuity;
 - interaction restraint.
 
-### Website may carry more
+The app may also carry atmosphere, artistry, theatricality, and expressive material when those qualities strengthen the living Production and remain accessible/quiescent. `Interaction restraint` must not be interpreted as visual sterility.
+
+### Website may carry more freedom of scale
 
 - atmosphere;
 - large-scale human artwork;
@@ -588,12 +653,16 @@ They need to share durable laws.
 - broader symbolic/typographic expression;
 - campaign-level visual worlds.
 
+This is a difference in expressive latitude and scale, not an exclusive assignment of beauty or atmosphere to the website.
+
 ### Wordmark/symbol carry
 
 - recognition and ownership;
 - not the burden of explaining the full causal system.
 
 Cross-product coherence therefore comes from shared principles rather than copied layouts or one universal motif.
+
+Before a visual branch earns convergence rights, it should survive a lightweight cross-product transfer check: the app study and a small website/brand translation must still feel related by law without requiring copied composition or identical surface treatment.
 
 ---
 
@@ -619,6 +688,8 @@ This proposal does not select or imply inheritance rights for:
 - generic sci-fi/Copilot visual language.
 
 Any future experiment may independently rediscover a historical property only if it is re-earned from current product truth and visual-system laws.
+
+**Prompt-seed safeguard:** this anti-attractor list is a Director-side audit tool. Do not paste the whole list into renderer/image-generation prompts, because exclusions themselves can reactivate historical visual seeds. Future visual prompts should state the positive formal hypothesis being tested with the smallest required semantic packet.
 
 ---
 
@@ -646,13 +717,57 @@ These are not implementation omissions. They are the remaining design search.
 
 ---
 
-## 22. First visual exploration matrix after approval
+## 22. First visual exploration matrix after approval — controlled multi-state packet
 
 If this grammar is approved, do not immediately style the entire application.
 
-The smallest justified next experiment is to apply the **same accepted grayscale wireframe state** to several deliberately different visual grammars while preserving all laws above.
+A single wireframe state is **not** sufficient evidence because it cannot test the grammar's handling of history, perspective, causal effect, and changed-present continuity.
 
-Recommended first matrix:
+The smallest justified experiment is therefore to apply each visual branch to the **same controlled multi-state packet**, using the same scenario, participant count, text/content lengths, authority facts, and disclosure facts across every branch.
+
+Required controlled states:
+
+### Control 1 — Present / Watch
+
+Tests:
+
+- human primacy;
+- relational structure;
+- transcript restraint;
+- command restraint;
+- persistent Character identity.
+
+### Control 2 — Causal Trace / Historical Focus
+
+Tests:
+
+- current versus historical distinction;
+- causality before chronology;
+- state comparison;
+- Back/current-return clarity.
+
+### Control 3 — Character-Bounded Perspective
+
+Tests:
+
+- subtractive disclosure;
+- persistence of the same Production/Scene;
+- Character identity continuity;
+- absence of creator-only leakage;
+- perspective semantics without cosmetic theming.
+
+### Control 4 — Causal-Effect Boundary + Consequence + Changed Present
+
+May be represented as a compact two- or three-moment sequence.
+
+Tests:
+
+- non-effective versus effective material without conflating Take acceptance with causal effect;
+- consequence recognition;
+- changed organization/affordance;
+- return to the same persistent world with different possibility.
+
+The final comparison must judge both individual frames and the transition relationships among them.
 
 ### VSG-A — Human Editorial / Typographic
 
@@ -666,11 +781,26 @@ Test whether persistent identity and relationship can dominate through restraine
 
 Test whether state/history/consequence can gain tactile or layered visual character without falling into parchment, antiquarian, collage, rustic-craft or magical-library shorthand.
 
-These are experiment descriptions, not selected directions.
+These are **functional visual hypotheses**, not selected directions or renderer prompts.
 
-The three studies should be visually unrelated enough that success demonstrates the grammar survives surface replacement.
+Divergence requirement:
 
-No branch earns refinement rights merely by being the first or strongest initial result.
+The three studies must materially differ across at least four of the following six surface axes:
+
+1. human-representation medium;
+2. typographic hierarchy/personality;
+3. spatial composition/relational field behavior;
+4. material/depth treatment;
+5. color posture;
+6. line/shape language.
+
+They should not all inherit the same dark/light posture, the same panel grammar, the same representation medium, or the same compositional skeleton merely because the underlying wireframe data is controlled.
+
+No branch may change the scenario or content facts to make its design problem easier.
+
+No branch earns refinement rights merely by being first, polished, or initially preferred.
+
+After the three app studies are compared, any branch considered for convergence must pass the lightweight cross-product transfer check described in section 19 before refinement begins.
 
 ---
 
@@ -678,9 +808,9 @@ No branch earns refinement rights merely by being the first or strongest initial
 
 Audit order:
 
-`product truth -> authority -> scope -> O0 experiential continuity -> R0 law continuity -> visual hierarchy -> typography -> human representation -> relational structure -> state semantics -> causality/history -> bounded perspective -> accessibility -> Windows-native feasibility -> ARM64/battery -> implementation simplicity -> cross-product coherence -> distinctiveness -> surface-inheritance check -> contradictions -> open decisions`
+`product truth -> authority -> scope -> O0 experiential continuity -> R0 law continuity -> creator-ontology guard -> visual hierarchy -> typography -> human representation -> relational structure -> state semantics -> causal-commit semantics -> causality/history -> bounded perspective -> accessibility -> Windows-native feasibility -> ARM64/battery -> implementation simplicity -> cross-product coherence -> distinctiveness -> experimental rigor -> prompt-seed discipline -> surface-inheritance check -> contradictions -> open decisions`
 
-Material corrections required during audit:
+### Earlier material corrections preserved
 
 1. rejected a single dark/light/palette recommendation because the clean-slate search has no incumbent palette;
 2. replaced `portrait system` with an invariant-bundle identity model so the design does not freeze photorealistic or illustrated faces;
@@ -695,7 +825,25 @@ Material corrections required during audit:
 11. added explicit anti-attractor boundaries without turning them into the positive creative premise;
 12. preserved several deliberately unrelated visual-exploration branches rather than converging on one surface before evidence exists.
 
-After correction and restart, the final complete pass found no material correction or worthwhile improvement within this proposal's scope.
+### Recursive audit 02 material corrections
+
+13. replaced the flat `core state classes` list with orthogonal semantic axes so temporal locus, causal effect, dramatic continuation, disclosure perspective, and technical capability can coexist without becoming one false state enum;
+14. separated **Take acceptance** from **causal effectiveness** in accordance with frozen/validated Patch 0012 semantics;
+15. moved voice/language rhythm out of the visual invariant bundle and classified it correctly as cross-modal continuity;
+16. made provider/model identity explicitly subordinate to persistent Character identity;
+17. clarified that `Human signal over system ornament` is a priority law, not a minimalism/sterility prescription;
+18. removed web-specific `canvas/WebGL` wording from the native app visual budget and replaced it with platform-neutral continuous-frame-loop constraints;
+19. clarified that Windows material fallback details are volatile implementation evidence and require version-time re-verification rather than becoming durable design law;
+20. corrected cross-product burden sharing so the website has greater expressive latitude without implying that the app should lack atmosphere or artistry;
+21. added a mandatory lightweight app-to-website transfer check before any visual branch earns convergence rights;
+22. marked the anti-attractor list as Director-side audit material that must not be copied wholesale into renderer prompts;
+23. replaced the weak single-state VSG comparison with a controlled **multi-state packet** exercising present performance, causal history, bounded perspective, causal effect, consequence, and changed-present return;
+24. added controlled-content and divergence requirements so VSG branches cannot win by changing scenario facts or converging on the same underlying surface grammar;
+25. clarified `Detailed setup` as a density condition rather than a fifth creator posture.
+
+After each material correction the audit restarted from product truth.
+
+The final complete pass found no further material error, inconsistency, scope violation, or worthwhile improvement within this proposal's current pre-render scope.
 
 ---
 
@@ -703,10 +851,10 @@ After correction and restart, the final complete pass found no material correcti
 
 Director decision requested:
 
-> **Adopt the visual-system grammar in this proposal as the constraint set for the first cross-surface app visual studies, while leaving palette, typography selection, human-representation medium, material treatment, symbol/wordmark and other surface variables open.**
+> **Adopt the recursively audited visual-system grammar in this proposal as the constraint set for the first controlled multi-state visual studies, while leaving palette, typography selection, human-representation medium, material treatment, symbol/wordmark and other surface variables open.**
 
 If approved, the next smallest justified action is:
 
-> **Create VSG-A / VSG-B / VSG-C as three deliberately unrelated low-fidelity visual-system studies applied to the same accepted wireframe state, then compare them against the grammar before any refinement.**
+> **Create VSG-A / VSG-B / VSG-C as three deliberately unrelated low-fidelity visual-system studies applied to the same controlled multi-state packet, compare them against the grammar, then require a lightweight cross-product transfer check before any refinement.**
 
 No production XAML/C#, final design tokens, asset system, visual identity, website implementation, or polished mockup is authorized by this proposal.
