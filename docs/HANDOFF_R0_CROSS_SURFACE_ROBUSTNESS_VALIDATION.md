@@ -2,7 +2,7 @@
 
 Status: **ACTIVE VISUAL CONTINUATION HANDOFF**
 
-Updated: 2026-09-02
+Updated: 2026-09-03
 
 ## 1. Mission
 
@@ -61,6 +61,8 @@ Established the stronger combined progression:
 > present condition -> evidence of prior action -> inherited condition -> altered affordance -> changed relationship -> changed possibility
 
 The late boundary/crossing branch produced useful causal insight but did **not** become a new phase or selected surface.
+
+The companion Drive atlas has been re-verified and currently preserves **nine distinct embedded visual copies** from the Round 1 continuation: six earlier studies labeled `Study A` through `Study F`, followed by `R0 Synthesis 06`, `07`, and `08`. Those labels are archival provenance, not a mandate to reconstruct a strict missing-number sequence.
 
 ## 5. Current consolidated system hypothesis
 
@@ -175,22 +177,40 @@ Read as needed:
 
 The document named `SUPERSEDED — R0 Crossing Language Draft (Process Evidence Only)` is historical process evidence only and must not be used as an active handoff.
 
+Current active-research folder:
+
+`03 Clean-Slate Visual Discovery — Active / X0 Cross-Lane Discovery & Research — Clean Slate / R0 Cross-Surface Robustness Validation — Active Research`
+
+At handoff verification this folder is intentionally empty because Experiment 01 has not yet been rendered. That empty state is correct; it prevents a fresh chat from mistaking preparatory continuity work for completed experiment evidence.
+
 ## 12. Exact next permissible work
 
-Perform **R0 Cross-Surface Robustness Validation — Experiment 01**.
+Perform **R0 Cross-Surface Robustness Validation — Experiment 01** in two stages.
 
-Before rendering:
+### Stage A — Director review
 
+In the fresh Ensemble project chat:
+
+- reconstruct current R0 state from the authoritative sources above;
 - derive one new sterile packet from the consolidated system law;
 - do not include a concrete setting, named medium, culture, architecture, bridge, wall, threshold, portal, historical material, or example list unless the specific experiment deliberately tests that seed;
-- request one uninterrupted artwork with no branding, labels, explanatory copy, UI, or presentation-board framing.
+- request one uninterrupted artwork with no branding, labels, explanatory copy, UI, or presentation-board framing;
+- **stop and present the sterile packet for user/Director review. Do not generate the image inside the project chat.**
 
-Generate exactly one image in a new regular non-project renderer chat. Close that renderer chat after generation. Return the image to Director Context for evaluation and archival.
+### Stage B — isolated renderer execution
+
+After the user approves or accepts the packet:
+
+- open a new regular non-project renderer chat;
+- paste only the approved sterile packet;
+- generate exactly one image;
+- close that renderer chat after generation;
+- return the image to Director Context for evaluation and archival.
 
 Do not infer convergence from Experiment 01.
 
 ## 13. Fresh-chat bootstrap sentence
 
-> Resume the Ensemble Website / Kymaean website-brand workstream from `Rylascoo/Ensemble-Website`. Read `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, `docs/RENDERER_ISOLATION_PROTOCOL.md`, `docs/VISUAL_ARCHIVE_PROTOCOL.md`, `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`, `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`, and `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`, then read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth. R0 remains active; no convergence is authorized. Renderer Isolation remains active. The late Crossing branch is research evidence only, not R1 and not an incumbent surface. Begin R0 Cross-Surface Robustness Validation Experiment 01 from the exact-next-work section. Use the persistent project chat only as Director Context and a fresh regular non-project chat for the single image render.
+> Resume the Ensemble Website / Kymaean website-brand workstream from `Rylascoo/Ensemble-Website`. Read `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, `docs/RENDERER_ISOLATION_PROTOCOL.md`, `docs/VISUAL_ARCHIVE_PROTOCOL.md`, `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`, `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`, and `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`, then read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth. R0 remains active; no convergence is authorized. Renderer Isolation remains active. The late Crossing branch is research evidence only, not R1 and not an incumbent surface. Reconstruct the current state, formulate the minimal sterile packet for R0 Cross-Surface Robustness Validation Experiment 01, and stop for my review before any image generation. Use the persistent project chat only as Director Context and a fresh regular non-project chat for the single image render after the packet is approved.
 
 END OF HANDOFF
