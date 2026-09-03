@@ -1,14 +1,22 @@
 # KYMAEAN PRODUCT EXPERIENCE MODEL DECISION PROPOSAL 01
 
-Status: DIRECTOR PROPOSAL FOR REVIEW
+Status: SUPERSEDED AS ACTIVE DECISION GATE — PRESERVED AS EXPLORATORY PROCESS HISTORY
+
+Superseding recovery artifact:
+
+`docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
+
+Recovery note:
+
+This proposal narrowed the product-experience question too quickly into competing Studio-first / Stage-first / Archive-first / Continuous Loop models. Subsequent recovery from frozen Blueprint 0.1, current engineering authority, the Creator Ontology Extensibility Guard, and canonical visual-continuity material established that creator postures, product-space functions, presentation perspective, and the causal creative loop are orthogonal structures rather than mutually exclusive identity candidates. Do not use this document as a current Director gate or prerequisite for visual synthesis.
 
 Phase: Blueprint 01 -> Product experience architecture clarification
 
 Authority level:
 
-- This document is a design proposal.
+- This document is preserved as design-process history.
 - It does not freeze final UX, application ontology, creator terminology, or implementation.
-- It exists to resolve the smallest high-leverage question before visual-system refinement.
+- It does not authorize production code.
 
 ---
 
@@ -204,22 +212,18 @@ Audit:
 
 product truth -> authority -> scope -> user model -> implementation feasibility -> accessibility -> distinctiveness -> open ontology preservation
 
-Result:
+Historical result at time written:
 
 PASS FOR DIRECTOR REVIEW
 
-No material contradiction identified.
-
-Remaining decision:
-
-Director selection of the experience relationship model before visual-system refinement.
+Subsequent recovery superseded this document as an active decision gate.
 
 ---
 
-# 9. Decision gate
+# 9. Historical decision gate
 
-No production UI or brand system should be created until this relationship question is resolved.
+The original document proposed selecting an experience relationship model before visual-system refinement.
 
-Next action:
+That gate is no longer active. See:
 
-Select the smallest unresolved experience-model decision.
+`docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
