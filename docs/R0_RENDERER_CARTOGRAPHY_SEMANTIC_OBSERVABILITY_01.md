@@ -31,11 +31,11 @@ Evidence that present interruption/correspondence can imply a former continuity 
 
 ### RI-010 / RI-011 — Exception Against Pattern
 
-The strongest recovered historical-state mechanism. A repeated present rule plus one exception allowed the viewer to reconstruct prior organization. RI-011 showed that this logic remained strong even when no concrete example menu was supplied.
+The strongest recovered historical-state mechanism. A repeated present pattern plus one exception allowed the viewer to reconstruct prior organization. RI-011 showed that this logic remained strong even when no concrete example menu was supplied.
 
 Transferable law:
 
-> **A still image can contain its own temporal comparison baseline when repetition establishes the rule and an exception establishes the changed state.**
+> **A still image can contain its own temporal comparison baseline when repetition establishes the common pattern and an exception establishes the changed state.**
 
 ### AL-A03 — Attention as geometry
 
@@ -71,7 +71,7 @@ These can be used as experiment gates.
 
 A still image may support a defensible inference about a prior state when the image itself contains an internal comparison baseline, such as:
 
-- repeated rule + one exception;
+- repeated pattern + one exception;
 - correspondence + one interruption;
 - several intact relations + one visibly altered relation.
 
@@ -104,29 +104,30 @@ Likewise:
 
 > **`changed relationship` requires a co-present comparison baseline.**
 
-Different reactions alone are insufficient. The image must make the prior/common relational rule recoverable from visible structure.
+Different reactions alone are insufficient. The image must make the immediately prior/common relation recoverable from visible structure.
 
 ## Candidate observable invariants
 
-A clean still-image semantic test should require the following invariants.
-
 ### O1 — Internal baseline
 
-The image contains at least two intact instances of the same visible relational rule.
+The people establish a simple repeated spatial/relational pattern that remains intact in at least two comparable parts of the image.
 
 ### O2 — Observable exception
 
-A third comparable instance visibly departs from that rule.
+A third comparable part visibly departs from that pattern.
 
 ### O3 — Causal linkage
 
-One person's present action is physically continuous with the altered instance, so the action-to-change relationship does not depend on narrative backstory.
+One person's present action is physically continuous with the departure, so the action-to-change relationship does not depend on narrative backstory.
 
-### O4 — Asymmetric evidentiary access
+### O4 — Evidentiary access control
 
-When this variable is enabled, one other person has unobstructed access to the action/changed relation while another person's access is partly obstructed by the arrangement of the people themselves.
+For the contrastive pair, the two non-acting people must have either:
 
-The experiment scores **access geometry**, not whether either person actually knows or understands the cause.
+- **A:** comparably clear visual access to the changing action; or
+- **B:** deliberately unequal visual access, created by orientation and body occlusion.
+
+The experiment scores **access geometry**, not whether anyone actually knows or understands the cause.
 
 ### O5 — Human structural importance
 
@@ -134,13 +135,13 @@ Removing the people removes the experiment's structure and meaning.
 
 ### O6 — Distinct person attribution
 
-Each person remains separately attributable through a small combination of silhouette, bodily proportion, posture, hair geometry and characteristic gesture.
+Each person remains separately attributable through a small combination of silhouette, bodily proportion, posture and characteristic gesture.
 
 ## Why pattern/exception is preferred
 
 Matrix 01 showed that `one action changes the relationship` without a visible baseline leaves the before-state underdetermined.
 
-RI-010/011 provide stronger evidence: repeated organization functions as an internal control. The viewer does not need a flashback, caption, symbolic ruin, or external story to infer what the altered instance used to be.
+RI-010/011 provide stronger evidence: repeated organization functions as an internal control. The viewer does not need a flashback, caption, symbolic ruin or external story to infer what the altered relation was immediately before the change.
 
 This converts temporal change from a primarily narrative requirement into a structural comparison problem.
 
@@ -156,15 +157,9 @@ The next experiment therefore asks whether **the opportunity to know** is asymme
 
 The semantic variable should be tested while formal grammar remains fixed.
 
-Recommended formal baseline is derived from CFM-01A because it produced:
+Recommended baseline is derived from CFM-01A because it produced strong human structural importance, shallow organization, low environmental distraction and no old-attractor recurrence.
 
-- strong human structural importance;
-- shallow spatial organization;
-- low environmental distraction;
-- strong negative-space readability;
-- no return to the old environment-first attractor family.
-
-For semantic testing, tighten the baseline slightly so medium/render treatment is also less free:
+For semantic testing, the formal/render baseline is fixed as:
 
 - shallow picture plane;
 - large contiguous human shapes;
@@ -175,39 +170,43 @@ For semantic testing, tighten the baseline slightly so medium/render treatment i
 - even tonal field with moderate contrast;
 - simple flat tonal treatment with little descriptive surface texture.
 
-This formal package is an experimental control only. It has no aesthetic inheritance rights.
+This is an experimental control only. It has no aesthetic inheritance rights and is not a causal reproduction of CFM-01A.
 
 ## Proposed Semantic Observability Matrix 01
 
-### SOV-01A — Baseline / Exception / Causal Link
+### SOV-01A — Repeated Pattern / Visible Departure / Equal Evidence Access
 
-Purpose: test whether relational before/after becomes recoverable when the image contains an internal repeated baseline.
+Purpose: test whether relational before/after becomes recoverable when the image contains its own baseline, while both non-acting people have comparable access to the change.
 
 Semantic requirements:
 
 - exactly three distinct people;
-- each participates in one comparable instance of the same visible relational rule;
-- two instances remain intact and establish the baseline;
-- the third instance is visibly being changed by the action of the person participating in it;
-- the action must be physically continuous with the changed relation;
+- their positions/orientations establish a simple repeated spatial/relational pattern;
+- two people preserve the pattern;
+- the third is visibly in the act of changing their own position/orientation so their part of the pattern no longer matches;
+- the action itself must make the departure legible;
+- the two unchanged people must provide enough internal comparison for the changing person's immediately prior relation to be inferable;
+- both unchanged people must have comparably clear visual access to the changing action;
 - no emotional reaction or private mental state is required for the causal gate.
 
 Primary pass gates:
 
-1. viewer can state the repeated relational rule from the image alone;
-2. viewer can identify the exception;
-3. viewer can identify which person's action is changing it;
-4. the immediately prior/common relation is recoverable without invented backstory;
-5. people remain the structural field.
+1. viewer can identify the repeated pattern from the image alone;
+2. viewer can identify the visible departure;
+3. viewer can identify which person's action is producing it;
+4. the changing person's immediately prior relation is recoverable without invented backstory;
+5. both non-acting people have comparably clear access to the action;
+6. people remain the structural field;
+7. the result does not collapse into an explanatory diagram or environment-first repeated-unit scene.
 
-### SOV-01B — Add Asymmetric Evidentiary Access
+### SOV-01B — Same Pattern / Same Departure / Asymmetric Evidence Access
 
 Purpose: hold SOV-01A constant and change one semantic variable: access to the causal evidence.
 
-Additional requirement only:
+Changed requirement only:
 
-- of the two people not causing the change, the arrangement/orientation of the people makes the causal action and changed instance fully available from one person's position and partly obscured from the other's position;
-- the asymmetry must be carried by orientation and body occlusion rather than facial expression or a literal environmental barrier.
+- of the two non-acting people, one retains clear visual access to the changing action while the other's access is partly obscured by the arrangement/orientation of the people themselves;
+- orientation and body occlusion must carry the difference in access, not facial expression or an environmental barrier.
 
 Primary additional pass gate:
 
@@ -217,32 +216,32 @@ Primary additional pass gate:
 
 ### Draft SOV-01A
 
-> Three distinct people must form the primary structure of one uninterrupted artwork. Each person participates in one comparable instance of the same visible relational rule. Keep two instances intact so they establish the common pattern. In the depicted moment, the third instance is visibly being changed by the action of the person participating in it. Make the action physically continuous with the changed relation so the common relation that existed immediately before the change can be inferred from the image itself without relying on expression or backstory.
+> Three distinct people must form the primary structure of one uninterrupted artwork. Arrange their positions and orientations so they establish a simple repeated relational pattern. Keep two people in that pattern. In the depicted moment, the third person is visibly in the act of changing their own position or orientation so their part of the pattern no longer matches. The two unchanged people must provide enough internal comparison for the changing person's immediately prior relation to be inferred from the image itself. Give both unchanged people comparably clear visual access to the changing action.
 >
-> Use a shallow picture plane, large contiguous human shapes, deliberate negative space, and minimal depth cues. Keep the surroundings nearly absent. Show enough of each body for posture and orientation to be unambiguous. Distinguish each person through a small combination of silhouette, bodily proportion, posture, hair geometry, and characteristic gesture. Use an even tonal field with moderate contrast and a simple flat tonal treatment with little descriptive surface texture.
+> Use a shallow picture plane, large contiguous human shapes, deliberate negative space, and minimal depth cues. Keep the surroundings nearly absent. Show enough of each body for posture and orientation to be unambiguous. Distinguish each person through a small combination of silhouette, bodily proportion, posture, and characteristic gesture. Use an even tonal field with moderate contrast and a simple flat tonal treatment with little descriptive surface texture.
 >
 > Return only the uninterrupted artwork, with no text or surrounding layout.
 
 ### Draft SOV-01B
 
-> Three distinct people must form the primary structure of one uninterrupted artwork. Each person participates in one comparable instance of the same visible relational rule. Keep two instances intact so they establish the common pattern. In the depicted moment, the third instance is visibly being changed by the action of the person participating in it. Make the action physically continuous with the changed relation so the common relation that existed immediately before the change can be inferred from the image itself without relying on expression or backstory.
+> Three distinct people must form the primary structure of one uninterrupted artwork. Arrange their positions and orientations so they establish a simple repeated relational pattern. Keep two people in that pattern. In the depicted moment, the third person is visibly in the act of changing their own position or orientation so their part of the pattern no longer matches. The two unchanged people must provide enough internal comparison for the changing person's immediately prior relation to be inferred from the image itself.
 >
-> Of the two people not causing the change, arrange the people so the causal action and changed relation are fully visible from one person's position and partly obscured from the other's position. Let orientation and the bodies themselves create this difference in access.
+> Of the two unchanged people, give one clear visual access to the changing action while the other's access is partly obscured by the arrangement and orientation of the people themselves. Let body geometry carry this difference in access.
 >
-> Use a shallow picture plane, large contiguous human shapes, deliberate negative space, and minimal depth cues. Keep the surroundings nearly absent. Show enough of each body for posture and orientation to be unambiguous. Distinguish each person through a small combination of silhouette, bodily proportion, posture, hair geometry, and characteristic gesture. Use an even tonal field with moderate contrast and a simple flat tonal treatment with little descriptive surface texture.
+> Use a shallow picture plane, large contiguous human shapes, deliberate negative space, and minimal depth cues. Keep the surroundings nearly absent. Show enough of each body for posture and orientation to be unambiguous. Distinguish each person through a small combination of silhouette, bodily proportion, posture, and characteristic gesture. Use an even tonal field with moderate contrast and a simple flat tonal treatment with little descriptive surface texture.
 >
 > Return only the uninterrupted artwork, with no text or surrounding layout.
 
 ## Contrastive discipline
 
-SOV-01A and SOV-01B are a genuine internal contrastive pair.
+SOV-01A and SOV-01B form one internal contrastive pair.
 
 Held constant:
 
 - participant count;
-- repeated relational rule;
-- two intact baseline instances;
-- one action-caused exception;
+- repeated spatial/relational pattern;
+- two unchanged people establishing the baseline;
+- one action-caused departure;
 - causal linkage;
 - individual attribution;
 - formal grammar;
@@ -252,9 +251,9 @@ Held constant:
 
 Changed variable:
 
-> **access to the causal evidence**
+> **access to the changing action / causal evidence**
 
-SOV-01A does not require access asymmetry. SOV-01B does.
+A requires comparable access for both non-acting people. B requires unequal access.
 
 ## Render budget and stop conditions
 
@@ -264,10 +263,11 @@ One fresh regular non-project Renderer Context per image. No corrective chain.
 
 Stop conditions:
 
-1. If SOV-01A fails to establish a readable baseline + exception + actor linkage, **stop before B**. Asymmetric access cannot be meaningfully tested on top of a failed causal structure.
-2. If A passes, render B once.
-3. If B turns the access requirement into a literal wall, door, bridge, architectural divider or other environment-first boundary, record the collapse and stop. Do not rerender B.
-4. Stop after B regardless of outcome and synthesize before further generation.
+1. If SOV-01A fails any core measurement control — readable repeated pattern, visible departure, actor linkage, recoverable immediately prior relation, comparable evidence access, or human structural importance — **stop before B**.
+2. If A collapses into an explanatory diagram or an environment-first repeated-unit scene, stop before B and diagnose.
+3. If A passes, render B once.
+4. If B turns access asymmetry into a literal environmental boundary or loses the A causal structure, record the collapse and stop. Do not rerender B.
+5. Stop after B regardless of outcome and synthesize before further generation.
 
 ## Surface and authority safeguards
 
@@ -283,13 +283,14 @@ Do not promote this checkpoint into R1 or production website work.
 
 ## Director gate
 
-This design is coherent enough for Director review.
+The recursive design audit now finds no material contradiction between the measurement model and the proposed A/B pair.
 
 **No image is authorized yet.**
 
-Before any renderer execution, the Director should review:
+Before execution, Director review should decide whether:
 
-- whether `asymmetric evidentiary position` is the correct measurable replacement for `unequal understanding` in still-image research;
-- whether pattern/exception is the right first mechanism for making relational before/after observable;
-- whether the two-render A/B budget is justified;
-- whether the exact draft packets contain any unwanted semantic or surface seed.
+- `asymmetric evidentiary position` is the correct measurable replacement for `unequal understanding` in still-image research;
+- repeated human spatial relation + visible departure is the right first mechanism for making relational before/after observable without named objects/settings;
+- the equal-access A control is sufficiently clear to make B a one-variable contrast;
+- the two-render budget is justified;
+- the exact draft packets contain any unwanted semantic or surface seed.
