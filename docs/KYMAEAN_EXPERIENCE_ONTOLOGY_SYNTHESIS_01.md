@@ -1,6 +1,12 @@
 # KYMAEAN EXPERIENCE ONTOLOGY SYNTHESIS 01
 
-Status: RECOVERED CONTINUITY SYNTHESIS — DIRECTOR REVIEW / NO PRODUCTION IMPLEMENTATION AUTHORIZED
+Status: DIRECTOR-ACCEPTED DESIGN BASIS / NO PRODUCTION IMPLEMENTATION AUTHORIZED
+
+Acceptance note:
+
+The Director continued from this document's review gate on 2026-09-03, authorizing the one justified next design action: preparation of `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`.
+
+Acceptance means this recovered ontology is the current basis for downstream design synthesis. It does not freeze final UI labels, navigation, visual identity, creator-facing ontology, Take/branch/rehearsal UX, Character Context disclosure UX, Presentation Perspective switching UX, or production implementation.
 
 Phase: Kymaean App + Website Design Synthesis — Blueprint 01 recovery pass
 
@@ -449,11 +455,11 @@ It is small enough to test without selecting an aesthetic and broad enough to pr
 
 ## 16. Required next design artifact
 
-If the Director accepts this recovery synthesis as the correct basis, the next justified artifact is:
+Director continuation approved the creation of:
 
-`KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`
+`docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`
 
-Its task would be limited to:
+Its task is limited to:
 
 - relationships among possibility / current performance / causal history;
 - how Watch / Direct / Perform / Write intersect those functions;
@@ -521,18 +527,18 @@ No material correction or worthwhile improvement found within current design-syn
 
 Result:
 
-> **RECOVERY PASS COMPLETE — READY FOR DIRECTOR REVIEW**
+> **RECOVERY PASS COMPLETE — DIRECTOR-ACCEPTED AS DOWNSTREAM DESIGN BASIS**
 
 ---
 
-## 18. Stop gate
+## 18. Continuation state
 
-Stop here.
+This recovery gate is complete.
 
-Do not automatically create the next IA proposal, visual variants, identity exploration or production code from this synthesis.
+Current active Director-review artifact:
 
-Anti-churn law:
+`docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`
+
+Anti-churn law remains:
 
 > **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
-
-The one justified next action is Director review of this recovered experience ontology.
