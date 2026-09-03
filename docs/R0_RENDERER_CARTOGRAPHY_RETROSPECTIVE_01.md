@@ -1,6 +1,6 @@
 # R0 Renderer Cartography — Retrospective Synthesis 01
 
-Status: **COMPLETED RETROSPECTIVE CHECKPOINT — MATRIX PROPOSED, NO RENDER AUTHORIZED**
+Status: **COMPLETED RETROSPECTIVE CHECKPOINT — CFM-01 AUDITED, NO RENDER AUTHORIZED**
 
 Updated: 2026-09-03
 
@@ -174,15 +174,17 @@ Do not treat as established:
 
 See `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md` and the Drive `Source Classification` sheet.
 
-## Controlled Formal Matrix 01 — proposed
+## Controlled Formal Matrix 01 — audited proposal
 
-The first controlled matrix deliberately reuses the **relational semantic route that failed in CSR-E04**, because that provides a useful falsifiable baseline.
+The first controlled matrix deliberately keeps the **relational semantic route close to CSR-E04** while making formal grammar explicit.
 
 Fixed semantic kernel:
 
-> Three distinct people share one present situation. One person's visible choice changes the relationship among them in the depicted moment. The others respond differently because their understanding is unequal. People must carry the structure and meaning.
+> Three distinct people share one present situation. One person's visible choice changes the relationship among them in the depicted moment. Their different responses make unequal understanding legible. People must carry the structure and meaning.
 
-This deliberately avoids changing the semantic hypothesis again. The experimental change is formal control.
+Important attribution safeguard:
+
+> **Matrix 01 is not a strict A/B reproduction of CSR-E04.** Participant count and formal controls are now explicitly fixed. Comparison to E04 is diagnostic evidence only; Matrix 01 must not be used to claim that one isolated factor caused E04's bridge/monumental result.
 
 ### CFM-01A — Flat Mass / Negative Space
 
@@ -203,9 +205,9 @@ Formal package:
 
 - sparse, incomplete contours;
 - high unfilled-space proportion;
-- small set of persistent distinguishing features per person;
+- a small set of persistent distinguishing features per person;
 - gesture, orientation, distance and mark density carry relationship;
-- descriptive scenery withheld.
+- most of the field remains undescribed.
 
 Evidence basis: `AL-D01`, with identity safeguards from `AL-G01` and `AL-H01`.
 
@@ -229,9 +231,10 @@ Hold constant:
 - three distinct people;
 - one visible present choice;
 - unequal understanding/response;
+- each person's individual recognizability through a small combination of silhouette, bodily proportion, posture, and characteristic movement rather than facial detail alone;
 - artwork-only contract;
 - people dominate the composition;
-- restrained non-theatrical illumination;
+- diffuse illumination with moderate contrast;
 - no brand/product/UI/presentation framing;
 - no reference images in Matrix 01.
 
@@ -249,13 +252,36 @@ Stop after the third render regardless of apparent success. Archive and synthesi
 
 If CFM-01B loses individual attribution, record that as a formal-grammar failure rather than entering a corrective prompt chain.
 
-## What Matrix 01 can and cannot prove
+## What Matrix 01 can and cannot establish
 
-It can test whether the same relational semantic kernel survives materially different controlled formal grammars and whether E04's bridge/monumental result was substantially caused by leaving formal language open.
+Matrix 01 can test whether the same relational semantic kernel remains legible across materially different controlled formal grammars and whether explicit formal control materially reduces recurrence of the old attractor family relative to prior open-ended evidence.
 
-It cannot establish final Kymaean aesthetics, full causal-history robustness, motion language, wordmark design, palette, website composition, or identity-through-transformation by itself.
+It **cannot by itself prove** that leaving formal language open caused CSR-E04's bridge/monumental result. The historical comparison is not a strict one-variable A/B test.
+
+It also cannot establish final Kymaean aesthetics, full causal-history robustness, motion language, wordmark design, palette, website composition, or identity-through-transformation by itself.
 
 A later matrix can reintroduce causal history/changed possibility after the formal-control method is validated.
+
+## CFM-01A — exact Director review packet
+
+No image is authorized yet. If approved, transfer **only** the following packet to a fresh regular non-project Renderer Context:
+
+> Create one uninterrupted artwork centered on three distinct people. In the depicted moment, one person's visible choice changes the relationship among the three. Their different responses should make unequal understanding visible. The people must carry the structure and meaning of the artwork.
+>
+> Build the image on a shallow picture plane using large contiguous human shapes and deliberate negative space. Keep depth cues minimal. Let proximity, overlap, separation, and void carry the relationship. Keep the surroundings visually simple and subordinate to the people.
+>
+> Keep each person individually recognizable through a small combination of silhouette, bodily proportion, posture, and characteristic movement rather than facial detail alone. Use diffuse illumination with moderate contrast.
+>
+> Return only the uninterrupted artwork. Do not add text or any surrounding explanatory, interface, promotional, branding, or presentation layout.
+
+Renderer execution contract after approval:
+
+1. new regular non-project chat;
+2. paste the packet exactly, with no memory-negation preamble and no additional examples;
+3. generate one image;
+4. close that renderer chat;
+5. return the image to Director Context;
+6. evaluate and archive before deciding whether CFM-01B is warranted.
 
 ## Current authority
 
@@ -263,6 +289,6 @@ R0 remains active.
 
 No convergence is authorized.
 
-No render from Controlled Formal Matrix 01 is authorized until explicit Director/user review of this checkpoint.
+**CFM-01A is packet-ready but not render-authorized until explicit user approval.**
 
 No production website implementation is authorized.
