@@ -68,32 +68,33 @@ The user-supplied Gemini Pro guide is external research input. Camera/lens, ligh
 
 ## Controlled Formal Matrix 01
 
-Matrix 01 keeps one relational semantic route substantially constant while testing three formal grammar packages:
+Matrix 01 keeps one present relational-change route substantially constant while testing three formal grammar packages:
 
 1. `CFM-01A` — Flat Mass / Negative Space
 2. `CFM-01B` — Sparse Contour / Void
 3. `CFM-01C` — Shallow Overlap / Occlusion
 
-The three probes share:
+Fixed semantic kernel:
 
-- three distinct people;
-- one visible present choice that changes their relationship;
-- unequal understanding expressed through different responses;
-- individual recognizability through a small combination of non-facial perceptual cues;
+> Three distinct people share one present moment. One person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding legible. The people must carry the structure and meaning.
+
+The three probes also share:
+
+- individual recognizability through a small combination of silhouette, bodily proportion, posture, and characteristic gesture;
 - people-dominant composition;
 - diffuse illumination with moderate contrast;
 - artwork-only output;
 - no references, branding, UI, or presentation framing.
 
-Matrix 01 is **not** a strict A/B reproduction of CSR-E04. Comparison to E04 is diagnostic only and cannot prove that one isolated factor caused the historical output.
+Matrix 01 is **not** a strict A/B reproduction of CSR-E04. Participant count, observable-action wording and formal controls are now explicitly fixed. Comparison to E04 is diagnostic only and cannot prove that one isolated factor caused the historical output.
 
-Render budget: maximum three images, one new non-project renderer chat per image. Stop before C if A and B both collapse into the same quarantined architectural/period/cinematic family. Stop after C regardless of success and synthesize before any further generation.
+Render budget: maximum three images, one new non-project renderer chat per image. Stop before C if A and B both collapse into the same quarantined architectural/period/cinematic family. If B loses person attribution, record B as a failure and do not rerender it; proceed to C unless the attractor stop condition fired. Stop after C regardless of success and synthesize before any further generation.
 
 ## Exact next work — Director gate
 
 `CFM-01A` is packet-ready but **not render-authorized**.
 
-The exact packet is recorded in `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`.
+The exact packet is recorded in `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md` and the Drive retrospective checkpoint.
 
 Current action:
 
@@ -106,9 +107,9 @@ Current action:
 
 ## Archival law
 
-Every generated image, prompt lineage, user signal, Director judgment, asset state, and experiment result must be reconciled incrementally into Google Drive and the Renderer Cartography dataset.
+Every recovered/generated image, prompt lineage, user signal, Director judgment, and asset state must be reconciled incrementally into Google Drive and the critique registry.
 
-Do not claim an image is archived unless the write succeeded and was verified.
+Do not claim an image is archived unless the connector write succeeded and was verified.
 
 Do not silently promote praise, recency, repeated motifs, or generated-board scores into user approval.
 
