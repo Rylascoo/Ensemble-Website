@@ -6,7 +6,7 @@ Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography after completion of Controlled Formal Matrix 01 and the first Semantic Observability design pass.
+Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography at the **Persistent Affordance Carrier Design 01** Director gate.
 
 Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production surface.
 
@@ -18,190 +18,141 @@ Do not promote a new visual phase. Do not select a logo, wordmark, palette, mate
 4. `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
 5. `docs/VISUAL_ARCHIVE_PROTOCOL.md`
 6. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
-7. `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`
-8. CFM-01A/B/C result files only as needed for underlying evidence
-9. RI/AL and Round 1 checkpoints only as needed for semantic-observability evidence
-10. this handoff
-11. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-12. the Drive Renderer Cartography dataset, Matrix 01 synthesis, Semantic Observability design, critique registry, evaluations, and relevant archival records
+7. `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
+8. `docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_01.md`
+9. this handoff
+10. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
+11. Drive `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
+12. relevant standalone assets in Drive `R0 Renderer Cartography — Active Research`
 
-GitHub/Drive are durable project state. Do not ask the user to reconstruct previous research from chat history when these sources resolve it.
+GitHub and Drive are durable project state. Do not ask the user to reconstruct completed research from chat history when these sources resolve it.
 
-## Governing phase
-
-R0 Visual Re-Foundation — Clean-Slate Rediscovery remains active.
-
-Renderer Isolation remains active operational law:
+## Governing R0 laws
 
 > **The director remembers everything. The canvas remembers nothing.**
 
-Disposable non-project renderer chats reduce known project-context inheritance; they do not prove a mathematically memory-free image model or remove base-model semantic priors.
-
-## Completed Renderer Cartography evidence
-
-Cross-Surface Experiments 01–04 are archived diagnostic failures, not robustness proof.
-
-Controlled Formal Matrix 01 is fully complete:
-
-- `CFM-01A — Flat Mass / Negative Space` — strong formal pass
-- `CFM-01B — Sparse Contour / Void` — strong formal pass
-- `CFM-01C — Shallow Overlap / Occlusion` — strong formal pass
-
-Canonical synthesis:
-
-`docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
-
-Canonical Drive dataset:
-
-`R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
-
-Current dataset coverage is **49 generated experiment/research records**, including A/B/C. Semantic Observability Design 01 is a design checkpoint and is not counted as a generated experiment record.
-
-## Matrix 01 conclusions
-
-### Formal grammar is controllable
-
-The renderer materially followed three distinct Director-controlled formal packages while preserving substantially the same relational semantic route.
-
-### People remained structurally primary
-
-Across all three probes, people carried essentially all structure, action and meaning. The prior environment-first architecture-as-protagonist failure did not recur.
-
-### The old environment-first attractor was strongly suppressed
-
-None of A/B/C returned to monumental architecture, literal bridge/threshold logic, ruins, period-world scenery or deep cinematic environmental spectacle.
-
-### The semantic bottleneck remains
-
-Across all three probes:
-
-- visible action was legible;
-- different responses were legible;
-- exact relational before/after remained inferential;
-- private `unequal understanding` remained only partially defensible.
-
-Do not spend additional render budget merely varying surfaces against the same semantic packet.
-
-### Medium/render treatment is separate
-
-A and C independently returned to painterly figurative realism while B selected gestural ink/wash. Formal geometry still obeyed the packet. Treat medium/render treatment as a separable future variable.
-
-## Validated methodology law
-
-> **For cross-surface research, the Director controls semantic law and the formal variable under test. The Renderer invents only the remaining unconstrained local manifestation.**
+> **For cross-surface research, the Director controls semantic law and the variable under test. The Renderer invents only the remaining unconstrained local manifestation.**
 
 > **Renderer Isolation controls known project-context leakage. Renderer Cartography controls experimental variables.**
 
 Do not return to open-ended `invent the visual language` prompting.
 
-## Semantic Observability Design 01
+## Completed evidence
 
-Canonical checkpoint:
+Controlled Formal Matrix 01 is complete and proved that explicit formal grammar can suppress environment-first architectural/cinematic attractors while keeping people primary and individually attributable.
 
-`docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md`
+The subsequent generated SOV/RST sequence is complete through `RST-05B` and is synthesized in:
 
-Drive mirror:
+`docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_SYNTHESIS_02.md`
 
-`R0 Renderer Cartography — Semantic Observability Design 01`
+The Drive dataset contains the detailed experiment rows.
 
-Drive document ID: `18nY-dOHUy6S9_pYJpKdWjczyfuZE_23y2tWcFvISSN0`
+## Critical lineage correction
 
-### Measurement correction
+The correct RST-05B is the five-person image:
 
-The RI/AL and Matrix 01 audit distinguishes:
+`RST-05B — Persistent Human-Created Condition — CORRECT.png`
 
-- directly observable visual state;
-- recoverable historical inference grounded in an internal visual baseline;
-- private mental state, which is not directly provable from a still image.
+Drive ID:
 
-For the next still-image test:
+`1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`
 
-> **`unequal understanding` becomes `asymmetric evidentiary position` / unequal access to causal evidence.**
+The three-person seated image archived as:
 
-This does not change the broader Kymaean system hypothesis; it changes only what a still-image experiment is allowed to claim as demonstrated.
+`MISATTRIBUTED — NOT RST-05B — three-person seated image.png`
 
-### Temporal/relational observability mechanism
+Drive ID:
 
-RI-010/011 provide the strongest recovered evidence that:
+`1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2`
 
-> **Repeated pattern + visible exception can make a prior/common state recoverable from present evidence.**
+is **NON-EVIDENCE** for RST-05B. Never carry conclusions from that image into RST-05B reasoning.
 
-The design therefore tests a simple repeated human spatial relation, with one person visibly departing from it.
+## Durable SOV/RST findings
 
-## Proposed Semantic Observability Matrix 01 — not render-authorized
+The current evidence supports:
 
-### SOV-01A — Repeated Pattern / Visible Departure / Equal Evidence Access
+- people can remain the complete structural field;
+- individual attribution can survive formal simplification;
+- relational geometry can carry action, continuity and asymmetry;
+- direct physical causality tends toward control/help/conflict semantics;
+- protecting independent agency weakens visible causal linkage;
+- persistent relational traces can imply prior condition/history;
+- asymmetric evidentiary position is measurable, private knowledge is not;
+- human-history language without constructive structure tends toward aftermath/melancholy;
+- independent agency is not the same as enabled agency;
+- abstract persistent-condition prompts with no visible carrier collapse into generic social grouping.
 
-Exactly three people. Their positions/orientations establish a simple repeated relational pattern. Two preserve it. The third visibly changes their own position/orientation. The unchanged people provide the internal baseline for inferring the changing person's immediately prior relation.
+The principal correction is:
 
-Crucially, **both unchanged people must have comparably clear visual access to the changing action**. This is the control condition.
+> **A persistent system property needs a visible carrier if the image is expected to make history + persistence + changed capability recoverable.**
 
-### SOV-01B — Same structure / Asymmetric Evidence Access
+No individual surface has inheritance rights.
 
-Hold A constant and change one semantic variable only:
+## Active design checkpoint
 
-- one unchanged person retains clear visual access to the changing action;
-- the other has partly obscured access created by orientation and body occlusion;
-- do not score private knowledge or use facial expression as the asymmetry mechanism.
+Canonical file:
 
-### Fixed formal/render baseline
+`docs/R0_RENDERER_CARTOGRAPHY_PERSISTENT_AFFORDANCE_CARRIER_01.md`
 
-Derived from CFM-01A and tightened for measurement:
+Research target:
 
-- shallow picture plane;
-- large contiguous human shapes;
-- deliberate negative space;
-- minimal depth cues;
-- surroundings nearly absent;
-- enough body information for posture/orientation to be clear;
-- even tonal field with moderate contrast;
-- simple flat tonal treatment with little descriptive surface texture.
+> **Can one modest persistent human-made arrangement make prior human agency and expanded present capability visually observable while remaining subordinate to distinct people?**
 
-This is an experimental control only and has no aesthetic inheritance rights.
+The carrier is a controlled measurement variable, not identity language or metaphor.
 
-### Budget / stop law
+### PAC-01A — Ordinary Shared Arrangement / Distributed Use
 
-Maximum two images, one fresh non-project renderer chat per image, no corrective chain.
+The proposed packet permits one modest human-made arrangement that:
 
-Stop before B if A fails any core control: readable pattern, visible departure, actor linkage, recoverable immediately prior relation, equal-access control, or human structural importance. Also stop if A collapses into an explanatory diagram or environment-first repeated-unit scene.
+- remains from earlier human activity;
+- is integrated into ordinary shared life;
+- is visibly subordinate to people;
+- is simultaneously used in different ways by several people;
+- supports independent actions rather than helper/recipient or leader/follower relations;
+- is not a bridge, path, door, threshold, route, repair, ruin, accommodation device, monument or product demo.
 
-If A passes, B may be rendered once. Stop and synthesize after B regardless of outcome.
+The exact sterile packet and evaluation gates are in the canonical design file.
 
-## Exact next work — Director review gate
+## Render budget / stop law
 
-**No new image is authorized.**
+PAC-01A budget if approved: **one image**.
 
-Read `docs/R0_RENDERER_CARTOGRAPHY_SEMANTIC_OBSERVABILITY_01.md` and review the exact draft packets there.
+Use one fresh regular non-project Renderer Context. No correction chain.
 
-The Director decision is whether to approve or revise:
+If it collapses into route/access/threshold imagery, monumentality, repair, product-demo staging, or helper/recipient hierarchy, record the collapse and stop. Do not rerender PAC-01A.
 
-1. `asymmetric evidentiary position` as the measurable still-image replacement for `unequal understanding`;
-2. repeated human spatial relation + visible departure as the first temporal/relational observability mechanism;
-3. the equal-access A control and asymmetric-access B variable;
-4. the fixed shallow/flat human-dominant formal baseline;
-5. the two-render budget and stop conditions;
-6. any hidden surface, genre, setting, object or diagram seed in the exact draft packets.
+## Exact next action
 
-Do not render SOV-01A until explicit user approval after this Director review.
+**No image is currently authorized.**
 
-## External prompting research discipline
+Director review must decide whether:
+
+1. permitting one ordinary persistent carrier is the correct methodological correction after RST-05B;
+2. `human-made arrangement` is neutral enough or over-seeds furniture/workspace imagery;
+3. plural independent use is the right observable proxy for enabled possibility;
+4. carrier-subordination controls are adequate;
+5. the one-render budget is justified.
+
+Stop for explicit user approval before PAC-01A rendering.
+
+## External research discipline
 
 Preserve these source classes:
 
-- **PROJECT EMPIRICAL LAW** — archived Kymaean evidence;
-- **OFFICIAL OPENAI GUIDANCE** — current official documentation;
-- **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION** — useful outside guidance requiring verification;
-- **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT** — syntax or controls from other generators.
+- **PROJECT EMPIRICAL LAW**
+- **OFFICIAL OPENAI GUIDANCE**
+- **EXTERNAL HYPOTHESIS — TEST BEFORE ADOPTION**
+- **GENERATOR-SPECIFIC / NOT TRANSFERABLE BY DEFAULT**
 
-The user-supplied Gemini Pro guide remains external research input. Do not promote unsupported model-mechanics claims or other-generator weighting syntax into ChatGPT Images project law.
+The user-supplied Gemini Pro guide remains external research input, not authority over hidden model mechanics.
 
 ## Archival law
 
-Every generated image, prompt lineage, user signal, Director judgment, and asset state must be reconciled incrementally into Google Drive and the critique registry.
+Every generated image, prompt lineage, user signal, Director judgment and asset state must be reconciled incrementally into Drive and the Cartography dataset.
 
-Do not claim an image is archived unless the connector write succeeded and was verified. Do not convert praise, recency, repetition, or design-team preference into user approval.
+Do not infer qualitative preference from image return alone.
 
-## Phase-authority safeguard
+## Phase authority
 
 > **Research discovery != phase transition.**  
 > **Assistant/design-team preference != user approval.**  
@@ -209,8 +160,4 @@ Do not claim an image is archived unless the connector write succeeded and was v
 > **Metaphor != identity.**  
 > **Surface != law.**
 
-No convergence is authorized by Renderer Cartography itself.
-
-## Production boundary
-
-Do not initialize website production code during this R0 research checkpoint.
+R0 remains active. Do not initialize production website code during this checkpoint.
