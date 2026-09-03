@@ -6,7 +6,7 @@ Updated: 2026-09-03
 
 ## Mission
 
-Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography and controlled formal-grammar testing.
+Continue R0 Visual Re-Foundation through evidence-based Renderer Cartography after completion of Controlled Formal Matrix 01.
 
 Do not promote a new visual phase. Do not select a logo, wordmark, palette, material system, portrait system, visual world, motion treatment, website composition, or production surface.
 
@@ -17,13 +17,12 @@ Do not promote a new visual phase. Do not select a logo, wordmark, palette, mate
 3. `docs/RENDERER_ISOLATION_PROTOCOL.md`
 4. `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
 5. `docs/VISUAL_ARCHIVE_PROTOCOL.md`
-6. `docs/R0_RENDERER_CARTOGRAPHY_RETROSPECTIVE_01.md`
-7. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`
-8. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`
-9. RI/AL and Round 1 checkpoints only as needed for evidence
-10. this handoff
-11. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
-12. the Drive Renderer Cartography dataset, A/B evaluations, retrospective checkpoint, registry, and relevant archival records
+6. `docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
+7. CFM-01A/B/C result files only as needed for underlying evidence
+8. RI/AL and Round 1 checkpoints only as needed for semantic-observability evidence
+9. this handoff
+10. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries
+11. the Drive Renderer Cartography dataset, Matrix 01 synthesis, critique registry, evaluations, and relevant archival records
 
 GitHub/Drive are durable project state. Do not ask the user to reconstruct previous research from chat history when these sources resolve it.
 
@@ -37,96 +36,96 @@ Renderer Isolation remains active operational law:
 
 Disposable non-project renderer chats reduce known project-context inheritance; they do not prove a mathematically memory-free image model or remove base-model semantic priors.
 
-## Methodology state
+## Completed Renderer Cartography evidence
 
 Cross-Surface Experiments 01–04 are archived diagnostic failures, not robustness proof.
 
-The first Renderer Cartography retrospective is complete, and Controlled Formal Matrix 01 has two completed probes:
+The Renderer Cartography retrospective is complete enough for current work.
 
-- `CFM-01A — Flat Mass / Negative Space` — formal method pass
-- `CFM-01B — Sparse Contour / Void` — formal method pass
+Controlled Formal Matrix 01 is fully complete:
+
+- `CFM-01A — Flat Mass / Negative Space` — strong formal pass
+- `CFM-01B — Sparse Contour / Void` — strong formal pass
+- `CFM-01C — Shallow Overlap / Occlusion` — strong formal pass
+
+Canonical synthesis:
+
+`docs/R0_RENDERER_CARTOGRAPHY_CFM_01_SYNTHESIS.md`
 
 Canonical Drive dataset:
 
 `R0 Renderer Cartography — Dataset & Controlled Surface Matrix`
 
-Current dataset coverage is **48 records**, including A and B. Exact CSR-E01–E04 and CFM-01A/B packet lineage is recovered; most earlier exact prompts remain `PENDING EXACT PROMPT RECOVERY` and must not be reconstructed.
+Current dataset coverage is **49 records**, including A/B/C. Exact CSR-E01–E04 and CFM-01A/B/C packet lineage is recovered; most earlier exact prompts remain `PENDING EXACT PROMPT RECOVERY` and must not be reconstructed.
 
-The methodological law remains:
+## Matrix 01 conclusions
 
-> **For cross-surface research, the Director controls both semantic law and formal grammar. The Renderer invents only unconstrained local manifestation.**
+### Formal grammar is controllable
 
-## CFM-01A result
+The renderer materially followed three distinct Director-controlled formal packages while preserving substantially the same relational semantic route.
 
-A strongly obeyed the shallow picture-plane / large-human-mass / negative-space package, made the three people structurally necessary, and avoided the old monumental architecture / bridge / threshold / period-world / deep-cinematic family.
+### People remained structurally primary
 
-See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01A_RESULT.md`.
+Across all three probes, people carried essentially all structure, action and meaning. The prior environment-first architecture-as-protagonist failure did not recur.
 
-## CFM-01B result
+### The old environment-first attractor was strongly suppressed
 
-B strongly obeyed the sparse-contour / active-void package. Three people remained individually attributable despite sparse representation. The visible action and asymmetric responses remained legible; exact relational before/after and unequal knowledge remained only partially provable.
+None of A/B/C returned to monumental architecture, literal bridge/threshold logic, ruins, period-world scenery or deep cinematic environmental spectacle.
 
-The old monumental architecture / bridge / threshold / period-world / deep-cinematic family again did not recur.
+### Single-image identity attribution survived
 
-A and B therefore provide materially different formal grammars carrying the same basic relational kernel. This is strong comparative evidence that explicit formal control is a useful experimental variable on the current renderer.
+All three people remained separately attributable across the three formal grammars. This is not evidence of identity persistence across transformed representations.
 
-See `docs/R0_RENDERER_CARTOGRAPHY_CFM_01B_RESULT.md`.
+### The semantic bottleneck remains
 
-No A/B surface has inheritance rights. No convergence is authorized.
+Across all three probes:
 
-## Controlled Formal Matrix 01
+- visible action was legible;
+- different responses were legible;
+- exact relational before/after remained inferential;
+- unequal understanding remained only partial because knowledge cannot be independently inferred from expression/posture alone.
 
-Fixed semantic kernel:
+Do not spend additional render budget merely varying surfaces against the same semantic packet.
 
-> Three distinct people share one present moment. One person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding legible. The people must carry the structure and meaning.
+### Medium/render treatment is separate
 
-Variants:
+A and C independently returned to painterly figurative realism while B selected gestural ink/wash. Formal geometry still obeyed the packet.
 
-1. `CFM-01A` — Flat Mass / Negative Space — **COMPLETE / PASS**
-2. `CFM-01B` — Sparse Contour / Void — **COMPLETE / PASS**
-3. `CFM-01C` — Shallow Overlap / Occlusion — **NEXT / PACKET READY**
+Treat medium/render treatment as a separable future Cartography variable. Painterly recurrence is not convergence and has no inheritance rights.
 
-Shared controls:
+### Attribution safeguard
 
-- three distinct people;
-- one visible present action;
-- asymmetric response;
-- individual recognizability through silhouette, bodily proportion, posture and characteristic gesture;
-- people-dominant composition;
-- even tonal field with moderate contrast;
-- artwork-only output;
-- no references.
+Matrix 01 is comparative evidence, not a strict historical A/B test. It does not prove that one isolated prompt factor caused CSR-E04 or reveal hidden model mechanics.
 
-Matrix 01 remains comparative, not a strict historical A/B reproduction of CSR-E04.
+## Validated methodology law
 
-The early-stop condition has not fired. B also preserved identity attribution, so C is eligible. Stop after C regardless of success and synthesize Matrix 01 before any further image generation.
+> **For cross-surface research, the Director controls semantic law and the formal variable under test. The Renderer invents only the remaining unconstrained local manifestation.**
 
-## Exact next work — Director gate
+> **Renderer Isolation controls known project-context leakage. Renderer Cartography controls experimental variables.**
 
-`CFM-01C — Shallow Overlap / Occlusion` is packet-ready but **not render-authorized until explicit user approval**.
+Do not return to open-ended `invent the visual language` prompting.
 
-Exact packet:
+## Exact next work — Semantic Observability Design
 
-> Three distinct people must form the primary structure of one uninterrupted artwork. In the depicted moment, one person takes a visible action that changes the relationship among the three. The other two respond differently in ways that make unequal understanding visible.
->
-> Use compact human forms in shallow depth with controlled overlap and occlusion. Let the relationships alter edges, visibility, and shared visual regions while each person remains separately traceable. Keep environmental depth and descriptive background minimal.
->
-> Distinguish each person through a small combination of silhouette, bodily proportion, posture, and characteristic gesture. Use an even tonal field with moderate contrast.
->
-> Return only the uninterrupted artwork, with no text or surrounding layout.
+**No new image is authorized.**
 
-Execution contract:
+The next research question is:
 
-1. present/review the exact C packet in Director Context;
-2. do not generate inside the Ensemble project;
-3. after explicit user approval, copy only the packet into a fresh regular non-project renderer chat;
-4. use no memory-negation preamble and add no examples;
-5. generate exactly one image and close the renderer chat;
-6. return the image to Director Context;
-7. evaluate/archive/update Cartography;
-8. **stop and synthesize Matrix 01 before any further generation**.
+> **How can one still image contain observable evidence of relational change and asymmetric knowledge without relying on inaccessible mental-state inference, while preserving the validated formal-control methodology?**
 
-## Evidence discipline
+Proceed in Director Context only:
+
+1. audit Matrix 01, RI/AL and relevant Round 1 evidence for cases where temporal/relational change or asymmetric knowledge was genuinely observable rather than inferred;
+2. separate directly visible state from narrative interpretation and mental-state guessing;
+3. identify candidate observable invariants for before/after relation, cause/consequence, and asymmetry that do not require named settings, objects, cultures, eras, architectures, or example menus;
+4. audit those candidates for hidden visual seeds and genre attractors;
+5. determine the smallest semantic variable set that could be tested while holding formal grammar constant;
+6. define render budget and stop conditions;
+7. stop for explicit user review before authorizing any new renderer packet.
+
+Medium-control research remains a valid later lane, but is secondary until semantic observability is designed cleanly.
+
+## External prompting research discipline
 
 Preserve these source classes:
 
