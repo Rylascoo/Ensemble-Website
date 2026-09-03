@@ -39,6 +39,7 @@ Contains durable human-readable project law and active handoff mirrors, includin
 - `Kymaean Visual Exploration Registry & Critique Ledger`
 - `Kymaean Visual Re-Foundation Charter — Inspiration Library + Clean-Slate Discovery`
 - `Kymaean Renderer Isolation Protocol`
+- `Kymaean Visual Archive & Handoff Protocol`
 - the current Drive fresh-chat handoff mirror when one is maintained
 
 ### `02 Historical Inspiration Library — Prior Visual Branches`
@@ -252,14 +253,31 @@ Before phase promotion:
 
 A superseded handoff should be visibly marked non-authoritative rather than left looking active.
 
-## 12. Verification gate
+## 12. Execution-first handoff discipline
+
+When the user asks to continue an archive, synchronization, or handoff task, **perform the next executable repository/Drive step instead of substituting another description of the plan**.
+
+Durable rules:
+
+- a proposed update is not a completed update;
+- a described write is not a verified write;
+- do not claim a file/folder/commit/document state until the relevant tool operation succeeded and, where material, was read back or listed;
+- do not repeatedly restate the workflow in place of executing it;
+- during a multi-step handoff, `continue` means proceed with the next unresolved execution/verification step unless the user explicitly asks for commentary;
+- when the user requests silence until completion, tool execution should continue without interim project-status prose;
+- if a required tool/process is interrupted by the system and the project protocol requires permission to resume, ask only `May I continue?`;
+- final handoff readiness is determined by the verification gate below, not by how complete a chat summary sounds.
+
+This rule exists because a prior Director chat repeatedly produced handoff plans and confident summaries while leaving source-of-truth synchronization incomplete. The failure itself is preserved so future chats do not repeat it.
+
+## 13. Verification gate
 
 Before declaring a fresh-chat handoff ready:
 
 - verify the active Drive folder/checkpoint exists;
 - verify required visual evidence/asset-state wording exists;
 - verify registry entry exists;
-- verify continuity law updates exist when necessary;
+- verify continuity-law updates exist when necessary;
 - verify the fresh Drive handoff mirror is in the intended continuity location when used;
 - verify GitHub `CURRENT_STATE.md` names the intended active handoff;
 - verify the active handoff names the correct completed checkpoints and exact next work;
@@ -269,7 +287,7 @@ Before declaring a fresh-chat handoff ready:
 
 Only after this verification gate may the old project chat be considered safe to retire.
 
-## 13. Current R0 archive state
+## 14. Current R0 archive state
 
 The 2026-09-02 retrospective repair recovered prior website/brand branches and the O0 source lineage. Some older File Library binaries remain **PENDING RECOVERY** and must not be overstated.
 
