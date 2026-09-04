@@ -7,7 +7,7 @@ Updated: 2026-09-04
 - Product/application engineering authority: `Rylascoo/Ensemble-Project`.
 - Website, brand/design continuity, and cross-product design-synthesis authority: `Rylascoo/Ensemble-Website`.
 - Google Drive `Ensemble Project` is canonical visual/design workspace and master-asset authority.
-- Public product brand direction: **Kymaean**; underlying application project: **Ensemble**.
+- Public brand direction: **Kymaean**; underlying application project: **Ensemble**.
 - Old `Rylascoo/Kymaean-Project` is unrelated unless explicitly requested.
 
 Checkpoint law:
@@ -20,36 +20,29 @@ Checkpoint law:
 
 R0 Visual Re-Foundation calibration is closed. Integrated app + website design synthesis is active.
 
-Key accepted/active artifacts include:
+Current accepted chain includes:
 
-1. `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md`
-2. `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
-3. `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`
-4. `docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md`
-5. continuous-workspace / task-first wireframe artifacts
-6. `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md`
-7. `docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md`
-8. `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_CROSSWALK_01.md`
-9. `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_PATCH_0014_ADDENDUM_01.md`
-10. `docs/KYMAEAN_CHARACTER_REPRESENTATION_REQUIREMENTS_PROPOSAL_01.md`
-11. `docs/KYMAEAN_CRV_01_CHARACTER_REPRESENTATION_VIABILITY_RESULT.md`
-12. `docs/KYMAEAN_TCV_01_TEMPORAL_CHARACTER_CONTINUITY_RESULT.md`
-13. `docs/KYMAEAN_SIPD_01_STAGE_INFORMATION_PRESENCE_PROGRESSIVE_DISCLOSURE_PROPOSAL.md`
-14. `docs/KYMAEAN_SIPD_V1_LIVE_STAGE_PRESENCE_RESULT.md`
-15. `docs/KYMAEAN_CDT_01_CONTEXT_DISCLOSURE_TRANSITION_PROPOSAL.md`
-16. `docs/KYMAEAN_CDT_V1_BOUNDED_CONTEXT_INVOCATION_RESULT.md`
-17. `docs/KYMAEAN_BCA_01_BOUNDED_CONTEXT_ANSWER_PROPOSAL.md`
-18. `docs/KYMAEAN_BCA_V1_ONE_QUESTION_ONE_ANSWER_RESULT.md`
-19. `docs/KYMAEAN_AAS_01_AUTHORITATIVE_ANSWER_SOURCING_PROPOSAL.md`
-20. `docs/KYMAEAN_AAS_V1_SOURCE_SUFFICIENCY_MATRIX_RESULT.md`
+1. app/website synthesis + experience ontology;
+2. information-relationship architecture + shell/navigation grammar;
+3. task-first / continuous-workspace wireframes;
+4. Visual System Grammar + A/B convergence evidence;
+5. Character-Bounded Watch/Perform contract;
+6. app-architecture visual crosswalk + Patch 0014 addendum;
+7. Character Representation Requirements + CRV-01;
+8. TCV-01 Temporal Character Continuity;
+9. SIPD-01 + SIPD-V1 Stage information presence;
+10. CDT-01 + CDT-V1 context disclosure transition;
+11. BCA-01 + BCA-V1 bounded answer composition;
+12. AAS-01 + AAS-V1 authoritative answer sourcing;
+13. `docs/KYMAEAN_ARS_01_ANSWER_ROUTE_SUFFICIENCY_SIGNALING_PROPOSAL.md`.
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_AAS_V1_SOURCE_SUFFICIENCY_MATRIX_RESULT.md`
+`docs/KYMAEAN_ARS_01_ANSWER_ROUTE_SUFFICIENCY_SIGNALING_PROPOSAL.md`
 
 Status:
 
-> **AAS-V1 — SOURCE-SUFFICIENCY MODEL VALIDATED / RESULT AWAITING DIRECTOR ACCEPTANCE / NO ANSWER ENGINE OR NEW APP AUTHORITY SELECTED**
+> **ARS-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER ANSWER-STATE COMMUNICATION CONTRACT / NO FINAL COPY, HISTORY UI, ANSWER ENGINE, OR VISUAL STATUS SYSTEM SELECTED**
 
 ---
 
@@ -79,6 +72,12 @@ Status:
 
 > **Answer availability is claim-specific.**
 
+> **An unavailable answer must describe the authority limitation without falsely negating the fiction.**
+
+ARS candidate law awaiting Director approval:
+
+> **Deterministic authority boundaries must not be presented as probabilistic confidence.**
+
 Core distinctions:
 
 ```text
@@ -95,18 +94,16 @@ true fact + true fact != causal because
 model/renderer completion != authority source
 not available in current authority != did not happen
 not permitted to this perspective != does not exist
+history exists != requested explanation is answerable
+current insufficiency != low confidence
+technical limitation != fictional Character behavior
 ```
-
-Bounded Character disclosure is subtractive. Never infer observation, knowledge, belief, intent, recall, trust, confidence, skepticism, agreement, desire, or causal explanation from gaze, pose, dialogue, proximity, co-presence, nomination, relationship, Director selection, SceneState, or visual salience alone.
 
 ---
 
 ## 4. Visual / interaction checkpoints
 
 A/B convergence:
-
-- VSG-B = stronger relational/living-Production structure evidence.
-- VSG-A = stronger editorial/language/information hierarchy evidence.
 
 > **Relationship organizes the living Production; editorial hierarchy explains only what the relationship cannot responsibly carry alone.**
 
@@ -166,7 +163,9 @@ one anchor
 
 ---
 
-## 5. AAS-01 + AAS-V1 checkpoint
+## 5. AAS-01 + AAS-V1 — accepted checkpoint
+
+Director approval received 2026-09-04.
 
 AAS authoritative path:
 
@@ -190,7 +189,7 @@ Source lanes:
 
 Visual/model inference is never an authority lane.
 
-Same-state current-answer law where Production + Character Context are combined:
+Same-state law when Production + Character Context are combined:
 
 ```text
 ProductionState.StateHash
@@ -200,39 +199,19 @@ ProductionState.StateHash
 
 `SourceStateHash` remains engineering association metadata, not Character-facing fictional knowledge.
 
-### AAS-V1 five-case matrix
-
-1. **Direct Current Opportunity** — `Who currently has the opportunity?`
-   - source: `ProductionState.CurrentOpportunityCharacterId`;
-   - result: **SUFFICIENT CURRENT ANSWER**.
-
-2. **Character-bounded shared current state** — `What current shared condition is available to B?`
-   - source: same-state, question-relevant permitted `SceneState` / `Pressure`;
-   - result: **SUFFICIENT CHARACTER-BOUNDED ANSWER WHEN RELEVANT PERMITTED SOURCE EXISTS**.
-
-3. **Unsupported Observation** — `What did B observe about C?`
-   - no question-relevant B-owned permitted Observation;
-   - visual portrayal is non-source;
-   - result: **BOUNDED INSUFFICIENCY**.
-
-4. **Unavailable recent dialogue** — `What did C just say, from B's current bounded context?`
-   - Patch 0014 canonical `recentPerformances = []`, `RecentPerformanceText = empty`;
-   - result: **BOUNDED INSUFFICIENCY AT PATCH 0014**.
-
-5. **Causal explanation of Current Opportunity** — `Why does C currently have the opportunity?`
-   - current state answers who, not why;
-   - Patch 0013 transition proves deterministic selection but canonical event omits full Director trace/rationale;
-   - result: **HISTORICAL ROUTE REQUIRED; SUFFICIENCY CONDITIONAL ON EXACT AUTHORITATIVE HISTORICAL MATERIAL**.
-
-AAS-V1 formal verdict:
+AAS-V1 result:
 
 > **PASS — SOURCE-SUFFICIENCY MODEL VALIDATED ACROSS CURRENT, CHARACTER-BOUNDED, HISTORICAL-ROUTE, AND INSUFFICIENT CASES.**
 
-New durable trust law:
+Five controlled findings:
 
-> **An unavailable answer must describe the authority limitation without falsely negating the fiction.**
+1. `Who currently has the opportunity?` -> **SUFFICIENT CURRENT ANSWER** from `ProductionState.CurrentOpportunityCharacterId`.
+2. `What current shared condition is available to B?` -> **SUFFICIENT CHARACTER-BOUNDED ANSWER** only when a same-state question-relevant permitted `SceneState`/`Pressure` source exists.
+3. `What did B observe about C?` -> **BOUNDED INSUFFICIENCY** when no relevant B-owned permitted Observation exists; rendered visibility is non-source.
+4. `What did C just say?` from B's current bounded context -> **BOUNDED INSUFFICIENCY AT PATCH 0014** because canonical `recentPerformances = []` / `RecentPerformanceText = empty`.
+5. `Why does C currently have the opportunity?` -> **HISTORICAL ROUTE REQUIRED; SUFFICIENCY CONDITIONAL**. Current state proves who; Patch 0013 proves deterministic selection transition; canonical opportunity event intentionally omits full Director input/trace/rationale.
 
-Example distinction:
+Critical trust distinction:
 
 ```text
 No recent dialogue is available in B's current bounded context.
@@ -242,9 +221,93 @@ C said nothing.
 
 ---
 
-## 6. Current application-engineering authority
+## 6. ARS-01 — active proposal
 
-Re-resolved at this checkpoint.
+ARS addresses:
+
+> **How should Kymaean communicate `answerable now`, `authoritative history required`, and `not currently supportable` without exposing engineering internals, disguising absence as uncertainty, or promising a `Why?` route that cannot actually answer?**
+
+Primary communication classes:
+
+```text
+SUPPORTED NOW
+HISTORY REQUIRED / AVAILABLE
+NOT CURRENTLY SUPPORTABLE
+```
+
+These are semantic communication classes, not proposed implementation enums or permanent UI badges.
+
+Primary law:
+
+> **State the supported truth first; state the boundary second; offer only a route that authority can justify.**
+
+### Supported now
+
+- answer directly;
+- scope to `From B's current perspective` only when needed;
+- perspective scope does not itself mean `B knows`;
+- no `verified`, confidence score, truth meter, or status dashboard required.
+
+### Historical explanation
+
+- preserve the current supported fact first;
+- current fact and causal rationale remain distinct;
+- a question-specific `Why?` / `Trace why` action may appear only when an authoritative route for the requested explanation is established as available;
+- existence of history alone does not justify the affordance;
+- if only the current fact is supported, communicate that the current authority does not establish the reason without saying that no reason exists.
+
+### Not currently supportable
+
+- describe the answer boundary precisely;
+- do not convert `not available` into `did not happen`;
+- do not convert perspective restriction into proof that denied material exists;
+- unsupported Observation remains unsupported rather than inferred from Stage portrayal;
+- unavailable recent dialogue remains a context limitation, not proof of silence.
+
+### Technical limitations
+
+Technical/capability unavailability remains operational rather than fictional. ARS-01 does not introduce or claim Windows AI/`AIFeatureReadyState` implementation behavior in the current baseline.
+
+### Route law
+
+> **The next action follows the meaning of the answer, not the existence of more data.**
+
+Reject generic `Ask anything`, `Explore more`, schema browsing, or a `Why?` action that promises unsupported explanation.
+
+### Visual signaling boundary
+
+ARS-01 rejects traffic-light truth semantics, confidence percentages, certainty meters, and color-only meaning.
+
+Preferred hierarchy:
+
+```text
+1. exact answer/limitation language
+2. compact scope/temporal cue when necessary
+3. route availability
+4. optional redundant icon/color later, never sole meaning
+```
+
+No final visual treatment is selected.
+
+### Accessibility / quiescence
+
+- answer state must be recoverable semantically without color/icon/position/motion;
+- disabled visible controls must not leak inaccessible content categories;
+- no continuous answer generation;
+- no idle historical reconstruction;
+- no background summarization/provider polling;
+- no speculative `Why?` generation;
+- no face/emotion analysis or persistent GPU/NPU work.
+
+ARS-01 recursive audit result:
+
+> **PASS — no remaining false-fiction negation, confidence masquerade, perspective/knowledge conflation, unsupported `Why?` promise, private-category leak, opportunity/obligation conflation, technical/fictional confusion, accessibility-only visual dependency, or worthwhile correction within ARS-01 scope.**
+
+---
+
+## 7. Current application-engineering authority
+
+Re-resolved 2026-09-04.
 
 `Rylascoo/Ensemble-Project` main:
 
@@ -280,41 +343,17 @@ Patch 0014 boundaries remain:
 - canonical recent Performance remains empty;
 - source hashes never become Character-facing fictional prose.
 
-Patch 0013 remains the deterministic Current Opportunity authority. Its canonical opportunity transition proves selected Character + causal state transition but intentionally does not embed the complete Director input/trace/diagnostics as event payload.
-
----
-
-## 7. Accessibility / ARM64 / quiescence
-
-All Stage, context, answer, sufficiency, and route states must survive high contrast, monochrome, reduced motion, text scaling, narrow/sequential layouts, image-unavailable states, and assistive technology.
-
-A user must be able to distinguish semantically:
-
-- answerable current fact;
-- Character-bounded fact;
-- history route required;
-- unsupported/unavailable answer;
-- return to Stage.
-
-At rest:
-
-- no continuous graph solver;
-- no persistent GPU animation requirement;
-- no idle/decorative AI or NPU inference;
-- no background summarization/polling to pre-populate answers;
-- no speculative answer generation for all anchors/questions;
-- no face/emotion analysis;
-- no motion-only meaning.
+Patch 0013 remains deterministic Current Opportunity authority. Its canonical opportunity transition proves selected Character + causal state transition but does not embed complete Director input/trace/diagnostics as event payload.
 
 ---
 
 ## 8. Surface quarantine
 
-No generated cast, names, faces, clothing, photoreal office/meeting medium, cream/white UI, exact typography, portrait-chip row, Current Opportunity card, inspector geometry, tab treatment, evidence iconography, cinematic lighting/camera, or generic premium productivity/SaaS styling has inheritance rights.
+No generated cast, names, faces, clothing, photoreal office/meeting medium, cream/white UI, exact typography, portrait-chip row, Current Opportunity card, inspector geometry, status badge, color semantics, evidence iconography, cinematic lighting/camera, or generic premium productivity/SaaS styling has inheritance rights.
 
 > **Surface != law.**
 
-Repeated use of the same surface for controlled experiments is experimental consistency, not convergence.
+Repeated controlled surfaces remain experimental consistency, not convergence.
 
 ---
 
@@ -322,11 +361,11 @@ Repeated use of the same surface for controlled experiments is experimental cons
 
 Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record.
 
-Google Drive `Kymaean Visual Continuity Constitution` should identify AAS-V1 as the active design artifact after synchronization.
+Google Drive `Kymaean Visual Continuity Constitution` should identify ARS-01 as the active design artifact after synchronization.
+
+ARS-01 is non-render; no new image belongs to this checkpoint.
 
 Embedded archival visual copies do not equal standalone raw Drive image files.
-
-AAS-V1 itself is non-render; no new image belongs to this checkpoint.
 
 ---
 
@@ -334,26 +373,30 @@ AAS-V1 itself is non-render; no new image belongs to this checkpoint.
 
 Director decision requested:
 
-> **Accept AAS-V1: answerability is claim-specific; current/routing truth, Character-bounded truth, historical explanation, and unsupported information must remain distinct, and an unavailable answer must state the authority limitation without falsely negating the fiction.**
+> **Adopt ARS-01: Kymaean states supported truth directly, describes insufficiency as an authority boundary rather than uncertainty or fictional negation, and offers a historical explanation action only when that requested explanation is authoritatively available. Perspective, temporal locus, and technical capability are clarified only when needed and never collapsed into one generic status system.**
 
-If approved, the next smallest justified action is a non-render proposal:
+If approved, the next smallest justified action is a non-render controlled validation:
 
-`ARS-01 — Answer Route & Sufficiency Signaling`
+`ARS-V1 — Answer State Language Matrix`
 
-Its question:
+It should test exact wording/affordance semantics for:
 
-> **How should Kymaean communicate `answerable now`, `requires an authoritative historical route`, and `not currently supportable` without exposing engineering internals, disguising absence as uncertainty, or promising a `Why?` route that cannot actually answer?**
+1. supported current answer;
+2. supported Character-bounded answer;
+3. current fact + authoritative history route available;
+4. current fact + requested reason unavailable;
+5. perspective-bounded insufficiency;
+6. recent-dialogue insufficiency.
 
-No ARS proposal, render, answer engine, provenance UI, observation/recent-Performance system, causal-history implementation, WinUI code, or website implementation is authorized until this Director gate is approved.
+No final copy, visual badge/color system, history UI, answer engine, Observation/recent-Performance implementation, WinUI code, or website implementation is authorized by this gate.
 
 ---
 
 ## 11. Fresh-chat bootstrap
 
 1. Read this file first and resolve current `Ensemble-Website` main.
-2. Read `docs/KYMAEAN_AAS_V1_SOURCE_SUFFICIENCY_MATRIX_RESULT.md` as the active Director gate.
-3. Read AAS-01, BCA-V1/BCA-01, CDT-V1/CDT-01, and SIPD-V1/SIPD-01 only as needed for the active question.
-4. Read Character-Bounded Watch/Perform contract and Patch 0014 visual addendum for disclosure/agency authority.
-5. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
-6. Preserve `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `true facts != causal because`, `not available != did not happen`, and `Surface != law`.
-7. Do not create ARS-01 until the Director approves AAS-V1.
+2. Read `docs/KYMAEAN_ARS_01_ANSWER_ROUTE_SUFFICIENCY_SIGNALING_PROPOSAL.md` as the active Director gate.
+3. Read AAS-V1/AAS-01 for source sufficiency and only then BCA/CDT/SIPD as needed.
+4. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
+5. Preserve `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `true facts != causal because`, `not available != did not happen`, `history exists != answerable Why?`, and `Surface != law`.
+6. Do not create ARS-V1 until the Director approves ARS-01.
