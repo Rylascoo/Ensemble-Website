@@ -14,46 +14,117 @@ Checkpoint law:
 
 > **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
 
----
+Efficiency law approved 2026-09-04:
 
-## 2. Current design phase
+> **Maximize useful reasoning per Director turn; minimize approval overhead without weakening authority boundaries.**
 
-R0 Visual Re-Foundation calibration is closed. Integrated app + website design synthesis is active.
-
-Accepted/active chain:
-
-1. app/website synthesis + experience ontology;
-2. information-relationship architecture + shell/navigation grammar;
-3. task-first / continuous-workspace wireframes;
-4. Visual System Grammar + A/B convergence evidence;
-5. Character-Bounded Watch/Perform contract;
-6. app-architecture visual crosswalk + Patch 0014 addendum;
-7. Character Representation Requirements + CRV-01;
-8. TCV-01 Temporal Character Continuity;
-9. SIPD-01 + SIPD-V1 Stage information presence;
-10. CDT-01 + CDT-V1 context disclosure transition;
-11. BCA-01 + BCA-V1 bounded answer composition;
-12. AAS-01 + AAS-V1 authoritative answer sourcing;
-13. ARS-01 + ARS-V1 answer-route/sufficiency signaling;
-14. ARS-R1 answer-state surface integration;
-15. CSI-01 + CSI-R1 continuous Stage integration;
-16. SPR-01 + SPR-R1 Stage presence reduction;
-17. CIR-01 + CIR-V1 Character identity recoverability;
-18. CIR-R1 first-use identity discoverability;
-19. CIR-T1 adaptive identity explicitness;
-20. CIR-T1V1 adaptive identity explicitness state matrix.
-
-Current active Director-review artifact:
-
-`docs/KYMAEAN_CIR_T1V1_ADAPTIVE_IDENTITY_EXPLICITNESS_STATE_MATRIX_RESULT.md`
-
-Status:
-
-> **CIR-T1V1 — ADAPTIVE IDENTITY EXPLICITNESS STATE-MATRIX PASS / REVERSIBLE RECOVERABILITY CONTRACT VALIDATED / SURFACE UNSELECTED**
+GPT-5.6 Sol High reasoning may define larger coherent work packages for the remainder of project creation. A work package may complete all logically coupled source synthesis, artifact work, archival/checkpoint updates and recursive audit for one bounded objective, then stop at the next consequential Director gate. It must not silently cross a major creative convergence decision, implementation authorization, product-architecture boundary or external validation gate.
 
 ---
 
-## 3. Durable laws
+## 2. Current cross-product design phase
+
+R0 Visual Re-Foundation is historical foundation, not the active phase.
+
+The integrated app + website semantic-design laboratory has progressed through CIR-T1R1 and is sufficiently mature to begin **true Kymaean visual-identity divergence**.
+
+Canonical remaining-sequence roadmap:
+
+`docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`
+
+Phase reconciliation for older continuity text:
+
+`docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`
+
+Current active Director-review / next-gate artifact:
+
+`docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`
+
+Current next major gate:
+
+> **SHARED BRAND — KYMAEAN VISUAL IDENTITY DIVERGENCE 01**
+
+No final Kymaean symbol, app icon, wordmark, palette, typography, Character/human medium, material language, motion system, Stage surface, app visual system, website composition or website implementation is selected.
+
+---
+
+## 3. Workstream tags
+
+Every meaningful future design checkpoint should identify one primary workstream:
+
+- `SHARED BRAND` — symbol, wordmark, typography, color, imagery, material, iconography, voice and motion principles shared across surfaces;
+- `APP VISUAL` — native Windows application visual/asset design;
+- `WEB` — public exploratory website narrative, visual design and implementation;
+- `CROSS-SURFACE` — app/web/brand translation, architecture-to-visual reconciliation and shared-system validation;
+- `LAUNCH` — final implementation-derived Store/web/promotional assets, public claims and launch consistency.
+
+Website exploration never silently becomes native-app UI authority. App visual research never silently becomes website composition authority. Shared-brand decisions require explicit convergence.
+
+---
+
+## 4. App / website product-surface separation
+
+### Native application
+
+Kymaean for Windows is the actual creative product. It owns Productions, persistent Characters, Scene/Stage work, Watch/Direct/Perform/Write creator postures, bounded Presentation Perspective, accepted Performance, consequence, causal continuity/history, context, local/private state and eventual supported Windows AI behavior.
+
+### Public website
+
+The website is an **explorable introduction to a new creative medium**, leading to the native Windows product rather than duplicating it in the browser.
+
+It should progressively help a visitor understand:
+
+1. what Kymaean is;
+2. why it differs from chat/content generation;
+3. persistent Characters;
+4. Performance and accepted creative occurrence;
+5. consequence changing future possibility;
+6. bounded Perspective over one authoritative Production;
+7. causal history as `Why is this true now?` rather than chat history;
+8. local ownership/privacy/provider separation;
+9. truthful current product capability;
+10. Windows/Store acquisition when launch authority exists.
+
+Deterministic authored interactive demonstrations are encouraged where they teach the product. The website does not need user Productions, provider inference, user accounts, cloud simulation state or a browser port of Ensemble merely to explain Kymaean.
+
+Required synthesis:
+
+> **APP = immersive working environment. WEB = expressive explanatory environment. SHARED BRAND = one identity and one product truth.**
+
+---
+
+## 5. Accepted semantic/design chain
+
+The active visual-identity phase inherits the following accepted research/checkpoints without inheriting their generated surfaces:
+
+1. `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md`;
+2. `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`;
+3. information-relationship architecture + shell/navigation grammar;
+4. task-first / continuous-workspace wireframes;
+5. Visual System Grammar + A/B law-role convergence;
+6. Character-Bounded Watch/Perform contract;
+7. app-architecture visual crosswalk;
+8. Patch 0014 visual-authority addendum;
+9. `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_PATCH_0015_ADDENDUM_01.md`;
+10. Character Representation Requirements + CRV-01;
+11. TCV-01 Temporal Character Continuity;
+12. SIPD-01 + SIPD-V1 Stage information presence;
+13. CDT-01 + CDT-V1 context disclosure transition;
+14. BCA-01 + BCA-V1 bounded answer composition;
+15. AAS-01 + AAS-V1 authoritative answer sourcing;
+16. ARS-01 + ARS-V1 answer-route/sufficiency signaling;
+17. ARS-R1 answer-state surface integration;
+18. CSI-01 + CSI-R1 continuous Stage integration;
+19. SPR-01 + SPR-R1 Stage presence reduction;
+20. CIR-01 + CIR-V1 Character identity recoverability;
+21. CIR-R1 first-use identity discoverability;
+22. CIR-T1 adaptive identity explicitness;
+23. CIR-T1V1 adaptive identity explicitness state matrix;
+24. `docs/KYMAEAN_CIR_T1R1_ADAPTIVE_IDENTITY_EXPLICITNESS_VISUAL_SEQUENCE_RESULT.md`.
+
+---
+
+## 6. Durable laws carried forward
 
 > **Stable Production, fluid focus.**
 
@@ -74,8 +145,6 @@ Status:
 > **Question-bounded, not schema-complete.**
 
 > **Representation can depict; authority must establish.**
-
-> **Insufficient authority is an answer state, not an invitation to hallucinate.**
 
 > **Answer availability is claim-specific.**
 
@@ -129,6 +198,8 @@ Status:
 
 > **First-use memorability does not justify Character summarization.**
 
+> **Identity can become quieter without becoming weaker.**
+
 Core distinctions:
 
 ```text
@@ -140,7 +211,9 @@ Character identity != Current Opportunity
 identity disclosure != Character summarization
 Presentation Perspective != Creator Posture
 Present in Scene != Current Opportunity != Must Respond
-candidate Performance != Accepted Take != effective historical Performance
+candidate Performance != Accepted Take != effective durable consequence
+accepted recent Performance occurred != Character observed/knows/remembers/believes it
+accepted Performance occurrence != durable state mutation
 social/relational visibility != epistemic authority
 visible in Stage representation != observed by Character
 changed circumstance != changed identity
@@ -156,293 +229,116 @@ technical limitation != fictional Character behavior
 semantic persistence != visual duplication
 identity recoverable != name continuously printed
 adaptive explicitness != identity mutation
-state references Character identity != state defines Character identity
-first-use explicitness != permanent nameplate requirement
 identity explicitness transition != Production mutation
 research alias != product-facing Character identity
+Production continuity != provider conversation memory
 ```
 
 ---
 
-## 4. Established Stage / context evidence
+## 7. Current Stage / identity evidence checkpoint
 
-A/B convergence:
+### SPR-R1
 
-> **Relationship organizes the living Production; editorial hierarchy explains only what the relationship cannot responsibly carry alone.**
+`SPR-R1B — CLOSED-STAGE REDUCTION PASS / SURFACE SYSTEM STILL UNSELECTED`
 
-CRV-01:
+The Stage remained understandable with quiet Production/Scene, living people/relationship, bounded Perspective, Watch, Current Opportunity and non-obligation while removing duplicate roster, global Stage navigation, permanent context/transcript/history dashboards, generic AI composer, confidence machinery and marketing copy.
 
-> **PASS — Character representation viability demonstrated across depths.**
+### CIR-V1
 
-CRV establishes identity as a redundant invariant bundle rather than one immutable portrait; rich depiction is not required for persistent identity, bounded perspective or relational presence, and rich portrayal creates no epistemic authority.
-
-TCV-01:
-
-> **SINGLE-SURFACE STRONG PARTIAL PASS.**
-
-```text
-stable Character identity
-+ changed relational organization/opportunity
-+ trustworthy current authoritative evidence
-= legible causal continuity
-```
-
-SIPD-V1B:
-
-> **STRONG PARTIAL PASS / DEFAULT-STAGE PURITY SUBSTANTIALLY PROVEN.**
-
-The Stage can remain coherent without permanent evidence dashboard, transcript, history, diagnostics, universal command chrome or Watch composer.
-
-CDT-V1:
-
-> **STRUCTURAL TRANSITION PASS / DISCLOSURE-CONTENT PARTIAL FAIL.**
-
-Accepted transition:
-
-```text
-LIVE STAGE
--> meaningful current anchor
--> bounded contextual disclosure
--> dismiss / Back
--> SAME LIVE STAGE
-```
-
-BCA-V1:
-
-> **ANSWER-COMPOSITION PASS / AUTHORITY-SOURCING FAIL.**
-
-Accepted answer shape:
-
-```text
-one anchor
--> one exact question
--> one direct answer
--> minimum supporting basis only if necessary
--> one meaning-connected next path / return
-```
-
-AAS-V1:
-
-> **PASS — SOURCE-SUFFICIENCY MODEL VALIDATED ACROSS CURRENT, CHARACTER-BOUNDED, HISTORICAL-ROUTE, AND INSUFFICIENT CASES.**
-
-ARS-V1:
-
-> **PASS — ANSWER-STATE LANGUAGE SEMANTICS VALIDATED ACROSS DIRECT, CHARACTER-BOUNDED, CONDITIONAL-HISTORY, CAUSAL-INSUFFICIENT, OBSERVATION-INSUFFICIENT, AND RECENT-DIALOGUE-INSUFFICIENT CASES.**
-
-ARS-R1:
-
-> **SEMANTIC INTEGRATION PASS / SURFACE-RESTRAINT PARTIAL.**
-
-CSI-R1:
-
-> **WHOLE-STAGE SEMANTIC INTEGRATION PASS / SURFACE-RESTRAINT PARTIAL FAIL.**
-
-CSI proved that Perspective, Watch, Current Opportunity, non-obligation, bounded answer semantics and the retained human Stage can coexist while exposing dashboard-perimeter, marketing and generic-SaaS failures.
-
----
-
-## 5. SPR-R1 — accepted Stage reduction checkpoint
-
-Artifact:
-
-`docs/KYMAEAN_SPR_R1_STAGE_PRESENCE_REDUCTION_RESULT.md`
-
-SPR-R1A:
-
-> **PERSISTENCE-REDUCTION PARTIAL PASS / CLOSED-STAGE VALIDATION NOT ACHIEVED**
-
-SPR-R1B:
-
-> **CLOSED-STAGE REDUCTION PASS / SURFACE SYSTEM STILL UNSELECTED**
-
-The valid closed Stage remained understandable with approximately:
-
-```text
-Production / Scene
-Watch
-living people / relationship
-Perspective: Wren
-Current Opportunity: C
-Response is not required
-```
-
-Strong findings:
-
-- people/relationship became the unmistakable first read;
-- Production/Scene remained quietly recoverable;
-- Perspective and Watch remained separate without `(You)`;
-- Opportunity remained explicit and non-obligatory;
-- duplicate roster, global Stage navigation, marketing, AI composer, context panel, transcript, evidence taxonomy, history controls, confidence system and trust machinery were not required at rest;
-- removing UI increased the perceptual authority of the Production.
-
-No SPR surface has inheritance rights.
-
----
-
-## 6. CIR identity evidence
-
-### CIR-01 + CIR-V1
-
-Proposal:
-
-`docs/KYMAEAN_CIR_01_CHARACTER_IDENTITY_RECOVERABILITY_PROPOSAL.md`
-
-Result:
-
-`docs/KYMAEAN_CIR_V1_CHARACTER_IDENTITY_RECOVERABILITY_MATRIX_RESULT.md`
-
-Formal result:
-
-> **PASS — THE CIR-01 RECOVERABILITY CONTRACT REMAINS COHERENT ACROSS FULL, REDUCED, NARROW, IMAGE-UNAVAILABLE, ASSISTIVE, SPLIT-STATE, AND INDEPENDENT-SELECTION CONDITIONS WITHOUT RESTORING A PERMANENT ROSTER.**
-
-Primary finding:
-
-> **As visual certainty decreases, semantic identity explicitness increases.**
-
-CIR-V1 confirms no permanent roster is required; every active Character needs deterministic human-readable/programmatic identity; visual invariants are redundant rather than authoritative; Perspective, Opportunity, focus and Posture reference but do not define identity; `A/B/C` remain research aliases; and identity recovery needs no biometric or continuous-AI inference.
+`PASS — identity recoverability remains coherent across full, reduced, narrow, image-unavailable, assistive, split-state and independent-selection conditions without restoring a permanent roster.`
 
 ### CIR-R1
 
-Artifact:
+`FIRST-USE IDENTITY DISCOVERABILITY PASS / IDENTITY-SEMANTIC CONTAMINATION FAIL`
 
-`docs/KYMAEAN_CIR_R1_FIRST_USE_IDENTITY_DISCOVERABILITY_RESULT.md`
+Direct names can identify living Characters without a roster, but personality/professional summaries, A/B/C product tokens, marketing narration and annotation-like state decorations were rejected.
+
+### CIR-T1V1
+
+`PASS — adaptive identity explicitness remains coherent across introduction, recession, local focus, independent Perspective, human-readable Opportunity, narrow/reduced, image-unavailable/assistive and reversible-return conditions.`
+
+### CIR-T1R1
 
 Render ID:
 
-`331ec805-fde9-45a1-96c7-24939d949d27`
-
-Formal judgment:
-
-> **FIRST-USE IDENTITY DISCOVERABILITY PASS / IDENTITY-SEMANTIC CONTAMINATION FAIL**
-
-Strong evidence:
-
-- direct human-readable naming can associate Riven, Wren and Vale with living Stage representations without a roster;
-- Perspective=Wren can resolve to the same Wren identity while Watch remains separate;
-- face recognition, color and A/B/C translation are unnecessary.
-
-Material failures:
-
-- invented personality/professional summaries improperly collapse identity into Character summarization;
-- Opportunity still foregrounded `C` instead of `Vale`;
-- first-use labels do not prove permanent nameplates;
-- connector dots/leader lines remain unselected state-looking decoration;
-- Stage marketing returned and is rejected;
-- eye/Watch treatment risks Observation collision;
-- expressive Opportunity staging risks coupling salience with intent/speaking/leadership.
-
-No CIR-R1 surface has inheritance rights.
-
----
-
-## 7. CIR-T1 + CIR-T1V1 — current checkpoint
-
-Proposal:
-
-`docs/KYMAEAN_CIR_T1_ADAPTIVE_IDENTITY_EXPLICITNESS_PROPOSAL.md`
-
-Result:
-
-`docs/KYMAEAN_CIR_T1V1_ADAPTIVE_IDENTITY_EXPLICITNESS_STATE_MATRIX_RESULT.md`
-
-CIR-T1 conceptual states:
-
-```text
-E0 Established / low ambiguity
-E1 First encounter / identity introduction
-E2 Re-identification / ambiguity increase
-E3 Focus / current anchor
-E4 State reference requires identity
-E5 Reduced / narrow / image-limited / assistive
-```
-
-These remain conceptual states, not implementation enums.
-
-CIR-T1V1 validates eight conditions:
-
-1. first encounter -> direct explicit naming — **STRONG PASS**;
-2. established low-ambiguity Stage -> local names may recede safely — **PASS**;
-3. deliberate focus on Riven -> local re-explicitness — **STRONG PASS**;
-4. Perspective=Wren -> independent human-readable state reference — **STRONG PASS**;
-5. Current Opportunity=Vale -> independent human-readable state reference, not `C` — **STRONG PASS**;
-6. narrow/reduced-detail layout -> broader explicitness — **STRONG PASS**;
-7. image-unavailable/assistive state -> textual/programmatic identity primary — **STRONG PASS**;
-8. return to full low-ambiguity Stage -> reversible recession without identity loss — **STRONG PASS**.
+`ec8cbcc5-c821-47a5-8b41-cafc0efcee9b`
 
 Formal result:
 
-> **PASS — ADAPTIVE IDENTITY EXPLICITNESS REMAINS COHERENT ACROSS INTRODUCTION, RECESSION, LOCAL FOCUS, INDEPENDENT PERSPECTIVE, HUMAN-READABLE OPPORTUNITY, NARROW/REDUCED, IMAGE-UNAVAILABLE/ASSISTIVE, AND REVERSIBLE RETURN CONDITIONS WITHOUT RESTORING A PERMANENT ROSTER OR MUTATING CHARACTER IDENTITY.**
+> **ADAPTIVE EXPLICITNESS SEQUENCE PASS / PRODUCT-SURFACE PARTIAL FAIL**
 
-Promoted findings:
-
-> **Identity explicitness is reversible presentation state, not Character state.**
-
-> **Identity explicitness may be locally selective while Character identity remains globally stable.**
-
-> **Recession removes redundant presentation, never identity information.**
-
-> **First-use memorability does not justify Character summarization.**
-
-Valid simultaneous state remains:
+The four-state board visually demonstrated:
 
 ```text
-Focused = Riven
-Perspective = Wren
-Current Opportunity = Vale
-Creator Posture = Watch
+first encounter -> explicit names
+established -> local names recede
+focus -> one identity becomes explicit again
+reduced visual certainty -> broader naming returns
 ```
 
-Each state can independently increase the explicitness of its human-readable Character reference without manufacturing identity or transferring state.
+It also reconfirmed that the current photoreal office/SaaS laboratory, floating tags/leader lines, `C` Opportunity token, eye/Watch icon and presentation-board slogans have no inheritance rights.
 
-CIR-T1V1 remains non-render and selects no nameplate, motion, focus, Opportunity, Perspective, Character-medium or WinUI surface.
+CIR identity-mechanics research is now sufficient. Do not continue polishing the same office/control surface merely because it has been repeatedly used as a controlled laboratory.
 
 ---
 
 ## 8. Current application-engineering authority
 
-Re-resolved 2026-09-04.
+Re-resolved 2026-09-04 during cross-product reconciliation.
 
-`Rylascoo/Ensemble-Project` latest established main checkpoint remains:
+`Rylascoo/Ensemble-Project` current `main`:
 
-`7475a9397cff9063673908c666a729f0f3cd4525`
+`a92199a0a66810d201b4c7834b813b45f4999184`
 
 Latest completed patch:
 
-`H1 Patch 0014 — E0 Production Context Continuity`
+`H1 Patch 0015 — E0 Accepted Performance History + Context Continuity`
 
 Architecture:
 
-`FROZEN — Proposal 0.10`
+`FROZEN — Proposal 0.15`
 
 Implementation/native validation:
 
-`COMPLETE FOR EXERCISED PATCH 0014 CORE/TEST/HARNESS GATES / PROMOTED TO MAIN`
+`COMPLETE FOR EXERCISED PATCH 0015 CORE/TEST/HARNESS/FIXTURE GATES / PROMOTED TO MAIN`
 
-Exact machine authority remains:
+Exact machine authority recorded by the app repository:
 
-- Core tests `538/538` PASS at `4ac0250005c8d88c3b815c5d53cfca0a982e454c`;
-- native Core/Harness + fixtures at `84b3e23db55910f746670cd2e06a67b8a5dea2b3`.
+- full Core tests `571/571` PASS at `b890b7eca66c391fae3ec30af0442dcc0e9f6aec`;
+- native Harness/Core + fixtures exercised at `5cb055e6dddea721aee98fee7f633191543e6490`.
 
-No current evidence establishes Windows AI/NPU execution/performance, WinUI implementation, MSIX/WACK success, or Store certification.
+No current evidence establishes WinUI runtime behavior, Windows AI Foundry/NPU execution or measured TOPS/performance, MSIX/WACK success, or Store certification.
 
-Patch 0014 boundaries remain binding:
+### Patch 0015 visually material correction
 
-- Access before Context;
-- subject-owned Character domains remain owner-only;
-- other-owned subjective material denied;
-- CharacterClaim disclosure/recall deferred;
-- no Observation inferred from co-presence, visible text, addressing, nomination, Director selection, relationships, SceneState or causal adjacency;
-- canonical recent Performance remains empty;
-- source hashes remain engineering association metadata, never fictional Character-facing prose;
-- Current Opportunity remains unchanged by Patch 0014.
+Patch 0014's Context-v2 rule that recent Performance remained empty is still historically exact for v2, but it is no longer the complete current product boundary.
 
-Patch 0013 provides deterministic Current Opportunity authority but does not automatically provide a complete creator-facing rationale for why a Character was selected.
+Patch 0015 adds exact synchronized accepted-Performance history through Context v3.
+
+Current design law:
+
+> **Recent accepted Character-legible Performance may be authoritatively present on the exact Patch 0015 v3 path; it remains fictional historical occurrence rather than automatic Observation, Knowledge, Belief, Suspicion, Memory, CharacterClaim or objective truth.**
+
+Also:
+
+> **Accepted Performance occurrence and durable consequence are separate layers.**
+
+> **Authority for ordered recent Performance does not select transcript/chat geometry.**
+
+> **Production continuity is product state/history, not provider-session memory.**
+
+Read:
+
+`docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_PATCH_0015_ADDENDUM_01.md`
+
+before future Stage/context/history visual work that depends on recent Performance.
 
 ---
 
 ## 9. Shell/navigation boundary
 
-Accepted shell law remains:
+Accepted shell law:
 
 > **Navigate between durable scopes; transition within one Production by following meaning.**
 
@@ -462,80 +358,128 @@ Therefore:
 
 ## 10. Accessibility / ARM64 / privacy / quiescence
 
-Character identity and adaptive explicitness must remain semantically/programmatically recoverable without:
+The visual system must remain semantically useful without:
 
 - portrait recognition;
 - color;
 - motion;
 - precise spatial position;
 - simultaneous wide layout;
-- hover-only UI;
+- hover-only interaction;
 - image availability.
 
 As visual certainty decreases, textual/programmatic identity becomes stronger rather than biometric inference becoming stronger.
 
-At rest, identity recoverability / explicitness requires no:
+Current design requirements need no facial recognition, biometric identity inference, embedding comparison, gaze/confusion/emotion analysis, camera access, continuous image generation, background summarization/provider polling or persistent GPU/NPU work merely to preserve identity/state presentation.
 
-- facial recognition;
-- biometric identity inference;
-- embedding comparison;
-- gaze/confusion/emotion analysis;
-- camera access;
-- continuous image generation;
-- background summarization/provider polling;
-- persistent GPU/NPU work.
-
-Actual WinUI accessibility roles, `AutomationProperties`, keyboard focus, high-contrast and screen-reader behavior remain implementation-stage validation work.
+Actual WinUI accessibility roles, `AutomationProperties`, keyboard/focus behavior, high contrast, screen-reader behavior and native performance remain implementation-stage validation work.
 
 ---
 
 ## 11. Surface quarantine
 
-No generated cast, names, faces, clothing, photoreal office/meeting medium, city-window setting, cream/white UI, exact typography, portrait-chip row, status dots, `(You)` label, A/B/C product token grammar, Current Opportunity token/card, inspector geometry, green treatment, top-bar geometry, search/menu arrangement, marketing taglines, permanent nameplates, floating identity cards, personality descriptors, connector dots/leader lines, eye icon, hover tooltips, focus ring, fallback glyph/avatar, fade/timing system, exact Perspective treatment, exact Opportunity treatment, cinematic lighting/camera, or generic productivity/SaaS styling has inheritance rights.
+No generated cast, names, faces, clothing, photoreal office/meeting medium, city-window setting, cream/white UI, exact typography, portrait-chip row, status dots, `(You)` label, A/B/C product-token grammar, Current Opportunity token/card, green ring, inspector geometry, top-bar geometry, search/menu arrangement, marketing taglines, permanent nameplates, floating identity cards, personality descriptors, connector dots/leader lines, eye icon, hover tooltips, focus ring, fallback glyph/avatar, exact fade/timing system, exact Perspective/Opportunity treatment, cinematic lighting/camera, four-panel identity board, or generic premium-productivity/SaaS styling has inheritance rights.
 
 > **Surface != law.**
 
-Repeated controlled surfaces remain experimental consistency, not convergence.
+Repeated controlled surfaces are experimental consistency, not convergence.
 
 ---
 
-## 12. Drive continuity
+## 12. Design-continuity phase reconciliation
 
-Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record.
+`docs/DESIGN_CONTINUITY.md` remains active law for visual lineage, Renderer Isolation, prompt-seed discipline, exploration/refinement, asset continuity, archival requirements and anti-convergence safeguards.
 
-SPR-R1A, SPR-R1B and CIR-R1 are preserved there with exact judgments and embedded archival visual copies when available. Embedded evidence is not a standalone raw image file unless separately verified.
+However its old statements naming R0/cross-surface robustness as the current active phase are superseded.
 
-CIR-T1 and CIR-T1V1 are non-render checkpoints and therefore create no new visual asset.
+Interpret them through:
 
-Google Drive `Kymaean Visual Continuity Constitution` should identify `docs/KYMAEAN_CIR_T1V1_ADAPTIVE_IDENTITY_EXPLICITNESS_STATE_MATRIX_RESULT.md` as the active design artifact after synchronization.
+`docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`
 
----
+Required law:
 
-## 13. Current Director gate
-
-Director decision requested:
-
-> **Accept CIR-T1V1: Character identity explicitness can increase and recede reversibly according to ambiguity and task need without changing Character identity; local naming may recede only while recoverability remains intact; focus, Perspective and Current Opportunity independently re-explicitize the human-readable identity they reference; reduced/narrow/image-unavailable/assistive states become more semantically explicit; state references never require A/B/C translation; and no roster, Character summarization, biometric inference, motion dependency or continuous AI work is required.**
-
-Smallest unresolved question:
-
-> **Can one visual system make the transition from explicit identity -> quiet established identity -> selective re-explicitness -> quiet established identity feel deterministic and understandable without arbitrary label popping, Character-tokenization, psychology leakage or Stage clutter?**
-
-Candidate next controlled gate after Director acceptance:
-
-`CIR-T1R1 — Adaptive Identity Explicitness Visual Sequence`
-
-No such render/sequence, final Character medium, final label/hover/motion system, WinUI implementation, Windows AI/NPU behavior, packaging, or website implementation is authorized yet.
+> **A historical phase instruction cannot override a newer CURRENT_STATE checkpoint simply because the historical continuity document remains active project law.**
 
 ---
 
-## 14. Fresh-chat bootstrap
+## 13. Remaining launch sequence
 
-1. Read this file first and resolve current `Ensemble-Website` main.
-2. Read `docs/KYMAEAN_CIR_T1V1_ADAPTIVE_IDENTITY_EXPLICITNESS_STATE_MATRIX_RESULT.md` as the active Director-review evidence.
-3. Read `docs/KYMAEAN_CIR_T1_ADAPTIVE_IDENTITY_EXPLICITNESS_PROPOSAL.md` for the approved temporal identity contract.
-4. Read CIR-R1 for immediate visual evidence and CIR-V1/CIR-01 for identity-recoverability authority.
-5. Read SPR-R1 and Character Representation Requirements + CRV-01 only as needed.
-6. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
-7. Preserve `Character != Portrait`, `identity != state`, `identity disclosure != Character summarization`, `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `semantic persistence != visual duplication`, `identity recoverable != name always visible`, `adaptive explicitness != identity mutation`, `identity explicitness transition != Production mutation`, `research alias != product-facing identity`, and `Surface != law`.
-8. Do not create CIR-T1R1 or any subsequent render until the Director approves CIR-T1V1.
+Canonical roadmap:
+
+`docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`
+
+Remaining high-level phases:
+
+```text
+A. continuity closure / visual-identity entry — COMPLETE WITH THIS CHECKPOINT
+B. true Kymaean visual-identity divergence — NEXT
+C. controlled shared-brand convergence
+D. native app visual foundation
+E. app production asset + accessibility system
+F. website experience architecture
+G. website high-fidelity visual system
+H. website implementation + web validation
+I. launch translation against real app implementation
+```
+
+The sequence is not a rigid waterfall. Visually material app-engineering authority changes require the smallest crosswalk reconciliation before stale assumptions are used. Native implementation constraints may patch the smallest design surface. Website discoveries may be tested cross-surface but do not automatically become app law.
+
+---
+
+## 14. Drive continuity
+
+Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` remains the living visual/provenance record.
+
+Before a design/artwork handoff closes, preserve generated visual evidence, diagnostic failures, Director reactions and durable critique according to the Visual Archive Protocol.
+
+CIR-T1R1 must be preserved with:
+
+- render ID `ec8cbcc5-c821-47a5-8b41-cafc0efcee9b`;
+- formal judgment `ADAPTIVE EXPLICITNESS SEQUENCE PASS / PRODUCT-SURFACE PARTIAL FAIL`;
+- embedded archival visual copy when the current-session binary is available;
+- surface-quarantine status.
+
+Embedded archival visual copies are evidence, not automatically standalone raw Drive image masters.
+
+The Drive Visual Continuity Constitution should point to the new cross-product roadmap/current visual-identity divergence gate after synchronization.
+
+---
+
+## 15. Current Director gate
+
+Phase A reconciliation is complete at the repository level.
+
+Next consequential design gate:
+
+> **SHARED BRAND — KYMAEAN VISUAL IDENTITY DIVERGENCE 01**
+
+Central question:
+
+> **What visual world could belong specifically to Kymaean while preserving its mature human, relational, causal, epistemic, identity, accessibility and quiescence laws?**
+
+Do not refine the current photoreal office laboratory.
+
+The first divergence work package should:
+
+1. re-resolve current website/app authority;
+2. synthesize only durable laws, not inherited surface vocabulary;
+3. define a small set of genuinely orthogonal visual-universe hypotheses;
+4. use Renderer Isolation / sterile packets where surface independence materially improves the experiment;
+5. generate/evaluate broad evidence rather than polish one answer;
+6. archive each meaningful branch and critique;
+7. stop before visual-family convergence unless the Director explicitly approves convergence.
+
+---
+
+## 16. Fresh-chat bootstrap
+
+1. Read this `CURRENT_STATE.md` first and resolve current `Rylascoo/Ensemble-Website` `main`.
+2. Read `docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`.
+3. Read `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`.
+4. Read `docs/DESIGN_CONTINUITY.md` for durable visual/brand law, treating obsolete R0 active-phase pointers as historical.
+5. Read `docs/KYMAEAN_CIR_T1R1_ADAPTIVE_IDENTITY_EXPLICITNESS_VISUAL_SEQUENCE_RESULT.md` only when the immediate identity-to-visual transition evidence is relevant.
+6. Read the Patch 0015 visual addendum before Stage/context/history work that depends on recent Performance.
+7. Resolve current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact product/validation claims; do not assume Patch 0015 remains latest if engineering has advanced.
+8. Use Google Drive as visual-master/provenance authority and preserve artwork/handoff archive law.
+9. Preserve `Surface != law`, `Research discovery != phase transition`, `Recent strength != incumbent`, `Metaphor != identity`, and `Assistant preference != Director approval`.
+10. Use GPT-5.6 Sol High work packages to maximize useful reasoning per Director turn while stopping at consequential creative/implementation/validation gates.
