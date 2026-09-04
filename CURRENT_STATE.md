@@ -38,15 +38,17 @@ Accepted/active chain:
 14. ARS-R1 answer-state surface integration;
 15. CSI-01 + CSI-R1 continuous Stage integration;
 16. SPR-01 + SPR-R1 Stage presence reduction;
-17. CIR-01 + CIR-V1 Character identity recoverability.
+17. CIR-01 + CIR-V1 Character identity recoverability;
+18. CIR-R1 first-use identity discoverability;
+19. `docs/KYMAEAN_CIR_T1_ADAPTIVE_IDENTITY_EXPLICITNESS_PROPOSAL.md`.
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_CIR_V1_CHARACTER_IDENTITY_RECOVERABILITY_MATRIX_RESULT.md`
+`docs/KYMAEAN_CIR_T1_ADAPTIVE_IDENTITY_EXPLICITNESS_PROPOSAL.md`
 
 Status:
 
-> **CIR-V1 — NON-RENDER IDENTITY-RECOVERABILITY MATRIX PASS / NO FINAL CHARACTER MEDIUM, LABELING SYSTEM, OR WINUI CONTROL TOPOLOGY SELECTED**
+> **CIR-T1 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER TEMPORAL IDENTITY-DISCLOSURE CONTRACT / NO FINAL LABELING, MOTION, OR CHARACTER SURFACE SELECTED**
 
 ---
 
@@ -106,6 +108,12 @@ Status:
 
 > **Character imagery enriches identity presentation; it is not the authority for who the Character is.**
 
+> **Direct identity association can replace duplicate roster identity.**
+
+> **Identity recovery should reveal who the person is, not summarize what kind of person the system thinks they are.**
+
+> **Active Stage surfaces contain no product-thesis or marketing narration by default.**
+
 Core distinctions:
 
 ```text
@@ -114,6 +122,7 @@ Character entity identity != creator-facing name != visual representation
 Character identity != selection / focus
 Character identity != Presentation Perspective
 Character identity != Current Opportunity
+identity disclosure != Character summarization
 Presentation Perspective != Creator Posture
 Present in Scene != Current Opportunity != Must Respond
 candidate Performance != Accepted Take != effective historical Performance
@@ -131,7 +140,9 @@ current insufficiency != low confidence
 technical limitation != fictional Character behavior
 semantic persistence != visual duplication
 identity recoverable != name continuously printed
+adaptive explicitness != identity mutation
 state references Character identity != state defines Character identity
+first-use explicitness != permanent nameplate requirement
 ```
 
 ---
@@ -170,12 +181,7 @@ SIPD-V1B:
 
 > **STRONG PARTIAL PASS / DEFAULT-STAGE PURITY SUBSTANTIALLY PROVEN.**
 
-Durable findings:
-
-- people/relationship remain first read;
-- Watch does not require a permanent text-input surface;
-- Current Opportunity may remain explicit while `opportunity != obligation`;
-- transcript, evidence dashboard, history, diagnostics, and universal command chrome are not required persistently.
+The Stage can remain coherent without permanent evidence dashboard, transcript, history, diagnostics, universal command chrome, or Watch composer.
 
 CDT-V1:
 
@@ -231,29 +237,19 @@ Artifact:
 
 `docs/KYMAEAN_SPR_R1_STAGE_PRESENCE_REDUCTION_RESULT.md`
 
-### SPR-R1A
-
-Render ID:
-
-`a6333435-b6b5-4e92-a2aa-3704b56011ed`
-
-Judgment:
+SPR-R1A:
 
 > **PERSISTENCE-REDUCTION PARTIAL PASS / CLOSED-STAGE VALIDATION NOT ACHIEVED**
 
-It successfully removed the duplicate roster, undefined Character status dots, global `People / Context / Progress`, generic AI composer, evidence taxonomy, dossier, transcript, confidence/provenance systems, and other persistent chrome. But the context answer was already open, so it did not prove the reduced closed Stage.
+Render ID: `a6333435-b6b5-4e92-a2aa-3704b56011ed`.
 
-### SPR-R1B
-
-Render ID:
-
-`467c5246-57d8-41c4-afef-35af0ffc2e3b`
-
-Formal judgment:
+SPR-R1B:
 
 > **CLOSED-STAGE REDUCTION PASS / SURFACE SYSTEM STILL UNSELECTED**
 
-The valid closed Stage retained approximately:
+Render ID: `467c5246-57d8-41c4-afef-35af0ffc2e3b`.
+
+The valid closed Stage remained understandable with approximately:
 
 ```text
 P0 / S0
@@ -271,7 +267,7 @@ Strong findings:
 
 - people/relationship became the unmistakable first read;
 - Production/Scene remained quietly recoverable;
-- Perspective=Wren and Watch remained separately legible without `(You)` or embodiment implication;
+- Perspective=Wren and Watch remained separate without `(You)`;
 - Current Opportunity remained explicit and non-obligatory;
 - duplicate portrait roster was not required;
 - global Stage navigation, marketing copy, AI composer, context panel, transcript, evidence taxonomy, history controls, confidence system, and trust machinery were not required at rest;
@@ -283,17 +279,11 @@ Promoted laws:
 
 > **The default Stage does not need to visually explain the architecture that makes it trustworthy.**
 
-Remaining partials:
-
-- Current Opportunity visual treatment still risks turn-token/gameplay semantics;
-- product branding should continue to recede behind active Production identity;
-- full Character identity recoverability without a roster required independent validation.
-
 No SPR surface has inheritance rights.
 
 ---
 
-## 6. CIR-01 + CIR-V1 — current checkpoint
+## 6. CIR-01 + CIR-V1 — accepted identity-recoverability checkpoint
 
 Proposal:
 
@@ -303,26 +293,11 @@ Result:
 
 `docs/KYMAEAN_CIR_V1_CHARACTER_IDENTITY_RECOVERABILITY_MATRIX_RESULT.md`
 
-CIR-01 central question:
-
-> **How can every Character remain durably, accessibly and contextually identifiable when the living Stage no longer relies on a duplicate permanent roster?**
-
-CIR separates:
-
-```text
-Character entity identity
-!= creator-facing Character name
-!= visual representation / portrait
-!= selection / focus
-!= Presentation Perspective
-!= Current Opportunity
-```
-
 CIR-V1 formal result:
 
 > **PASS — THE CIR-01 RECOVERABILITY CONTRACT REMAINS COHERENT ACROSS FULL, REDUCED, NARROW, IMAGE-UNAVAILABLE, ASSISTIVE, SPLIT-STATE, AND INDEPENDENT-SELECTION CONDITIONS WITHOUT RESTORING A PERMANENT ROSTER.**
 
-Seven validated conceptual conditions:
+Validated conditions:
 
 1. full living Stage with no permanent roster — **PASS**;
 2. reduced-detail representation — **PASS**;
@@ -332,37 +307,121 @@ Seven validated conceptual conditions:
 6. Perspective=Wren while Opportunity=Vale — **STRONG PASS**;
 7. focus/selection=Riven while Perspective=Wren and Opportunity=Vale — **STRONG PASS**.
 
-Primary CIR-V1 finding:
+Primary finding:
 
 > **As visual certainty decreases, semantic identity explicitness increases.**
 
-Promoted candidate law:
+CIR-V1 confirms:
 
-> **Identity explicitness should adapt to ambiguity; Character identity itself must remain stable.**
-
-CIR-V1 also confirms:
-
-- no permanent duplicate portrait roster is required for identity recoverability;
-- every active Character requires a deterministic human-readable/programmatic identity equivalent;
-- visual identity should use redundant non-state invariants when imagery exists;
+- no permanent duplicate portrait roster is required;
+- every active Character requires deterministic human-readable/programmatic identity;
+- visual identity uses redundant non-state invariants where imagery exists;
 - hover, face recognition, color, spatial memory, motion, or image availability cannot be sole identity channels;
-- `Perspective: Wren` references Wren without creator embodiment/Perform/account ownership implication;
-- Opportunity references Vale without reducing Vale to `C` or a turn token;
-- focus/selection can reference Riven without rewriting Riven's identity;
-- image-unavailable operation preserves Scene participation, Perspective, Opportunity, task attribution and accessible identity;
+- Perspective, Opportunity, focus and Posture reference but do not define identity;
+- image-unavailable operation preserves Scene participation, state references, task attribution and accessible identity;
 - `A / B / C` remain research aliases only;
-- creator-facing identity does not expose engineering IDs/hashes/provenance;
-- identity recovery needs no facial recognition, biometric inference, embeddings, gaze/emotion analysis, camera access, provider polling, or persistent GPU/NPU work.
-
-CIR-V1 does **not** prove final first-glance surface discoverability, exact name visibility, final focus geometry, actual WinUI screen-reader behavior, touch/keyboard implementation, high-contrast rendering, or a final Character medium.
-
-Smallest unresolved design question:
-
-> **Can a no-roster live Stage make all present Characters discoverably identifiable at first use while keeping people first, avoiding permanent nameplate clutter, and preserving independent Perspective, Opportunity and focus references?**
+- identity recovery requires no facial recognition, biometric inference, embeddings, gaze/emotion analysis, camera access, provider polling, or persistent GPU/NPU work.
 
 ---
 
-## 7. Current application-engineering authority
+## 7. CIR-R1 — accepted first-use visual evidence
+
+Artifact:
+
+`docs/KYMAEAN_CIR_R1_FIRST_USE_IDENTITY_DISCOVERABILITY_RESULT.md`
+
+Render ID:
+
+`331ec805-fde9-45a1-96c7-24939d949d27`
+
+Formal judgment:
+
+> **FIRST-USE IDENTITY DISCOVERABILITY PASS / IDENTITY-SEMANTIC CONTAMINATION FAIL**
+
+Strong evidence:
+
+- a first-time viewer can associate Riven, Wren and Vale directly with the living Stage representations;
+- no permanent portrait roster is required;
+- Perspective=Wren resolves to the same Wren identity while Watch remains separate;
+- face recognition, color, or A/B/C translation are not required to identify the people.
+
+Material failures:
+
+- renderer-invented personality/professional summaries (`Strategic / Systems Thinker`, `Analytical / Bridges Ideas`, `People Focused / Turns Insight Into Action`) improperly collapse identity into Character summarization/psychology;
+- Current Opportunity still foregrounds `C` rather than human-readable `Vale`;
+- direct-name treatments prove first-use explicitness but do not prove permanent nameplates;
+- connector dots/leader lines remain state-looking and unselected;
+- Stage marketing narration returned and is rejected;
+- eye icon for Watch risks semantic collision with fictional Observation;
+- Vale's expressive staging plus Opportunity risks coupling salience with speaking/intent/leadership.
+
+Promoted findings:
+
+> **Direct identity association can replace duplicate roster identity.**
+
+> **Identity recovery should reveal who the person is, not summarize what kind of person the system thinks they are.**
+
+> **Active Stage surfaces contain no product-thesis or marketing narration by default.**
+
+No CIR-R1 surface has inheritance rights.
+
+---
+
+## 8. CIR-T1 — active proposal
+
+Artifact:
+
+`docs/KYMAEAN_CIR_T1_ADAPTIVE_IDENTITY_EXPLICITNESS_PROPOSAL.md`
+
+Central question:
+
+> **How should identity explicitness increase when ambiguity or task need rises and recede when identity is established, without ever reducing recoverability or confusing identity with state?**
+
+Core proposal:
+
+```text
+E0 Established / low ambiguity
+E1 First encounter / identity introduction
+E2 Re-identification / ambiguity increase
+E3 Focus / current anchor
+E4 State reference requires identity
+E5 Reduced / narrow / image-limited / assistive
+```
+
+These are conceptual states, not implementation enums.
+
+Candidate laws:
+
+> **Labels may recede; recoverability may not.**
+
+> **Identity disclosure is not Character summarization.**
+
+> **Product-facing state references should resolve to human-readable Character identity, not require research-alias translation.**
+
+Key requirements:
+
+- first encounter makes human-readable identity directly discoverable;
+- established low-ambiguity Stage may reduce visible labels while preserving programmatic/human-readable recovery;
+- re-identification increases explicitness only as ambiguity requires;
+- focus may make one Character more explicit without becoming identity/Opportunity/Perspective;
+- Perspective, Opportunity and task attribution resolve to human-readable Character identity;
+- `A/B/C` remain research notation, not product identity grammar;
+- reduced/narrow/image-unavailable/assistive states become more semantically explicit, not less;
+- no personality/profession/psychology copy is added merely to support identity;
+- recession cannot be based on elapsed time alone while ambiguity remains;
+- Stage marketing/onboarding remains outside active Production truth unless deliberately invoked;
+- motion is optional and never required for identity;
+- no biometric or continuous-AI inference is required.
+
+Proposed first validation after Director approval:
+
+`CIR-T1V1 — Adaptive Identity Explicitness State Matrix` — non-render.
+
+No CIR-T1 render is authorized yet.
+
+---
+
+## 9. Current application-engineering authority
 
 Re-resolved 2026-09-04.
 
@@ -392,7 +451,6 @@ No current evidence establishes Windows AI/NPU execution/performance, WinUI impl
 Patch 0014 boundaries remain:
 
 - Access before Context;
-- `SceneState`/`Pressure` may be shared/public when active;
 - subject-owned Character domains remain owner-only;
 - other-owned subjective material denied;
 - CharacterClaim disclosure/recall deferred;
@@ -405,7 +463,7 @@ Patch 0013 remains deterministic Current Opportunity authority but does not auto
 
 ---
 
-## 8. Shell/navigation boundary
+## 10. Shell/navigation boundary
 
 Accepted shell law remains:
 
@@ -420,13 +478,12 @@ Therefore:
 - posture is agency/task grammar, not navigation;
 - context begins from a meaningful current anchor;
 - causal history begins from an authoritatively answerable `Why?` or deliberate history task;
-- Back returns focus/location and never mutates Production truth.
-
-CIR does not create a new global People/Character destination merely to solve identity recoverability.
+- Back returns focus/location and never mutates Production truth;
+- identity recoverability does not create a global People/Character destination.
 
 ---
 
-## 9. Accessibility / ARM64 / privacy / quiescence
+## 11. Accessibility / ARM64 / privacy / quiescence
 
 Character identity must remain semantically/programmatically recoverable without:
 
@@ -438,26 +495,26 @@ Character identity must remain semantically/programmatically recoverable without
 - hover-only UI;
 - image availability.
 
-CIR-V1 strengthens this with adaptive explicitness: reduced visual certainty requires stronger textual/programmatic identity, not stronger biometric inference.
+Adaptive explicitness means reduced visual certainty requires stronger textual/programmatic identity, not stronger biometric inference.
 
-At rest, identity recoverability requires no:
+At rest, identity recoverability / explicitness requires no:
 
 - facial recognition;
 - biometric identity inference;
 - embedding comparison;
-- gaze/emotion analysis;
+- gaze/confusion/emotion analysis;
 - camera access;
 - continuous image generation;
 - background summarization/provider polling;
 - persistent GPU/NPU work.
 
-Future creator-authored/generated imagery requires separate privacy/consent/storage/model-processing design.
+Actual WinUI accessibility control roles, AutomationProperties, keyboard focus, high-contrast and screen-reader behavior remain implementation-stage validation work.
 
 ---
 
-## 10. Surface quarantine
+## 12. Surface quarantine
 
-No generated cast, names, faces, clothing, photoreal office/meeting medium, city-window setting, cream/white UI, exact typography, portrait-chip row, status dots, `(You)` label, A/B/C token grammar, Current Opportunity card/token, inspector geometry, green treatment, top-bar geometry, search/menu/avatar arrangement, marketing taglines, permanent nameplates, hover tooltips, silhouette system, focus ring, fallback glyph/avatar, exact Perspective treatment, exact Opportunity treatment, cinematic lighting/camera, or generic productivity/SaaS styling has inheritance rights.
+No generated cast, names, faces, clothing, photoreal office/meeting medium, city-window setting, cream/white UI, exact typography, portrait-chip row, status dots, `(You)` label, A/B/C token grammar, Current Opportunity token/card, inspector geometry, green treatment, top-bar geometry, search/menu arrangement, marketing taglines, permanent nameplates, floating identity cards, personality descriptors, connector dots/leader lines, eye icon, hover tooltips, silhouette system, focus ring, fallback glyph/avatar, exact Perspective treatment, exact Opportunity treatment, cinematic lighting/camera, or generic productivity/SaaS styling has inheritance rights.
 
 > **Surface != law.**
 
@@ -465,38 +522,43 @@ Repeated controlled surfaces remain experimental consistency, not convergence.
 
 ---
 
-## 11. Drive continuity
+## 13. Drive continuity
 
 Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record.
 
-SPR-R1A and SPR-R1B are preserved there with exact judgments and embedded archival visual copies. Embedded evidence is not a standalone raw image file unless separately verified.
+SPR-R1A and SPR-R1B remain preserved with embedded archival visual copies.
 
-CIR-01 and CIR-V1 are non-render checkpoints and therefore require no new visual asset.
+CIR-V1 is non-render.
 
-Google Drive `Kymaean Visual Continuity Constitution` should identify `docs/KYMAEAN_CIR_V1_CHARACTER_IDENTITY_RECOVERABILITY_MATRIX_RESULT.md` as the active design artifact after synchronization.
+CIR-R1 must be preserved with its exact judgment and an embedded archival visual copy when the current-session binary is available. Embedded evidence is not a standalone raw image file unless separately verified.
+
+Google Drive `Kymaean Visual Continuity Constitution` should identify `docs/KYMAEAN_CIR_T1_ADAPTIVE_IDENTITY_EXPLICITNESS_PROPOSAL.md` as the active design artifact after synchronization.
 
 ---
 
-## 12. Current Director gate
+## 14. Current Director gate
 
 Director decision requested:
 
-> **Accept CIR-V1: Character identity remains recoverable without a permanent roster by combining a stable human-readable/programmatic identity channel with medium-appropriate redundant visual invariants and adaptive semantic explicitness; Perspective, Opportunity, focus and Posture reference but do not define identity; reduced, narrow, image-unavailable and assistive states preserve the same Character truth without biometric or continuous-AI inference.**
+> **Adopt CIR-T1: identity explicitness increases when ambiguity or task need rises and may recede only while Character identity remains unambiguously and accessibly recoverable; first-use identity support reveals who the Character is without personality/professional summarization; Perspective, Opportunity, focus and Posture remain independent references; product-facing Opportunity resolves to human-readable Character identity rather than A/B/C tokens; reduced/narrow/image-unavailable/assistive states become more semantically explicit; and adaptive identity behavior requires no biometric or continuous-AI inference.**
 
-If approved, the next single action should test the smallest unresolved surface question: first-use Character identity discoverability in a no-roster live Stage without restoring permanent nameplate clutter or conflating Perspective, Opportunity and focus.
+If approved, run exactly one non-render:
 
-No next proposal or render has been created yet. No final Character medium, nameplate/hover system, WinUI implementation, Windows AI/NPU behavior, packaging, or website implementation is authorized by CIR-V1.
+`CIR-T1V1 — Adaptive Identity Explicitness State Matrix`
+
+Recursively audit and stop.
+
+No CIR-T1 render, final Character medium, final label/hover/motion system, WinUI implementation, Windows AI/NPU behavior, packaging, or website implementation is authorized.
 
 ---
 
-## 13. Fresh-chat bootstrap
+## 15. Fresh-chat bootstrap
 
 1. Read this file first and resolve current `Ensemble-Website` main.
-2. Read `docs/KYMAEAN_CIR_V1_CHARACTER_IDENTITY_RECOVERABILITY_MATRIX_RESULT.md` as the active Director-review evidence.
-3. Read `docs/KYMAEAN_CIR_01_CHARACTER_IDENTITY_RECOVERABILITY_PROPOSAL.md` for the approved identity contract.
-4. Read `docs/KYMAEAN_SPR_R1_STAGE_PRESENCE_REDUCTION_RESULT.md` for the immediate visual evidence.
-5. Read Character Representation Requirements + CRV-01 for the upstream identity contract.
-6. Read SPR/CSI/ARS/AAS/BCA/CDT/SIPD only as needed for the exact task.
-7. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
-8. Preserve `Character != Portrait`, `identity != state`, `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `not available != did not happen`, `semantic persistence != visual duplication`, `identity recoverable != name always visible`, `adaptive explicitness != identity mutation`, and `Surface != law`.
-9. Do not create the next identity-surface proposal or render until the Director approves CIR-V1.
+2. Read `docs/KYMAEAN_CIR_T1_ADAPTIVE_IDENTITY_EXPLICITNESS_PROPOSAL.md` as the active Director gate.
+3. Read `docs/KYMAEAN_CIR_R1_FIRST_USE_IDENTITY_DISCOVERABILITY_RESULT.md` for the immediate visual evidence.
+4. Read CIR-V1 + CIR-01 for the approved identity-recoverability contract.
+5. Read SPR-R1 and Character Representation Requirements + CRV-01 only as needed.
+6. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
+7. Preserve `Character != Portrait`, `identity != state`, `identity disclosure != Character summarization`, `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `not available != did not happen`, `semantic persistence != visual duplication`, `identity recoverable != name always visible`, `adaptive explicitness != identity mutation`, `first-use explicitness != permanent nameplates`, and `Surface != law`.
+8. Do not run CIR-T1V1 until the Director approves CIR-T1.
