@@ -16,18 +16,14 @@ Fresh design chat read order:
 2. `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md` — protocol `0.2`;
 3. `docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`;
 4. `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md` + `docs/DESIGN_CONTINUITY.md`;
-5. current method/result/packet named below;
+5. current result/method/packet named below;
 6. current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact product/validation claims.
-
-Checkpoint law:
-
-> **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
 
 Required task-scope interpretation:
 
 > **Do more of the already-authorized coherent work before returning; ask fewer unnecessary questions; stop only when Director/external input is actually consequential or execution cannot continue without it.**
 
-For this project, anti-churn means minimizing unnecessary clarifying questions, repeated intermediate approval requests and artificial conversational stops. It does **not** mean doing less work per Director turn.
+Anti-churn means minimizing unnecessary clarifying questions, repeated intermediate approval requests and artificial conversational stops. It does **not** mean doing less work per Director turn.
 
 ---
 
@@ -43,19 +39,19 @@ Director carrier map:
 
 `docs/KYMAEAN_VID_01_DIRECTOR_HYPOTHESIS_MAP.md`
 
-Latest comparative result:
+Latest result:
 
-`docs/KYMAEAN_VID_01_V0_RENDER_07_COMPARATIVE_RESULT.md`
+`docs/KYMAEAN_VID_01_V0_RENDER_08_RESULT.md`
 
 Current method authority:
 
-`docs/KYMAEAN_VID_01_ARI_01_ACTION_RESPONSE_INTERLOCK_PROPOSAL.md`
+`docs/KYMAEAN_VID_01_BAF_01_BOUNDED_ACCESS_FIELD_PROPOSAL.md`
 
 Current authorized external renderer packet:
 
-`docs/KYMAEAN_VID_01_V0_RENDER_08_ACTION_RESPONSE_INTERLOCK_PACKET.md`
+`docs/KYMAEAN_VID_01_V0_RENDER_09_BOUNDED_ACCESS_FIELD_PACKET.md`
 
-Exactly one V0R8 image is authorized in one fresh regular non-project renderer chat. No additional intermediate approval is required.
+Exactly one V0R9 image is authorized in one fresh regular non-project renderer chat. No additional intermediate approval is required.
 
 No final visual family, symbol, app icon, wordmark, palette, typography, Character/human medium, material language, motion system, Stage surface, app visual system, website composition or website implementation is selected.
 
@@ -65,9 +61,9 @@ No final visual family, symbol, app icon, wordmark, palette, typography, Charact
 
 > **APP = immersive working environment. WEB = expressive explanatory environment. SHARED BRAND = one identity and one product truth.**
 
-Kymaean for Windows is the actual creative product. The public website is an explorable introduction to the creative medium and eventual acquisition path to the native Windows product; it is not assumed to host or replace the application in a browser.
+Kymaean for Windows is the actual creative product. The public website is an explorable introduction to the creative medium and eventual acquisition path to the native Windows product; it is not assumed to host or replace the application in the browser.
 
-Website exploration never silently becomes native-app UI authority. App visual research never silently becomes website composition authority. Shared-brand convergence requires explicit Director approval.
+Shared-brand convergence requires explicit Director approval.
 
 Remaining roadmap:
 
@@ -87,31 +83,30 @@ I. launch translation against real app implementation
 
 ## 4. Durable laws most relevant now
 
-Core continuity:
+Core:
 
 - **Human signal over system ornament.**
 - **Relationship as composition, not relationship as drawn connection.**
-- **Stable Production, fluid focus.**
 - **I am back in the same world, but it is different because of what happened.**
-- **Keep authority semantics precise; keep creative semantics open.**
 - **Representation can depict; authority must establish.**
 - **Social/relational visibility != epistemic authority.**
-- **Semantic persistence does not require visual duplication.**
 - **Identity must always be recoverable; labels need not remain continuously visible.**
 - **Identity explicitness should adapt to ambiguity; Character identity itself remains stable.**
-- **Identity recovery should reveal who the person is, not summarize what kind of person the system thinks they are.**
-- **Labels may recede; recoverability may not.**
-
-Research discipline:
-
 - **Surface != law.**
 - **Research discovery != phase transition.**
 - **Recent strength != incumbent.**
 - **Renderer prior != Director convergence.**
 - **Controlled formal grammar != selected identity.**
-- **Formal orthogonality and action-field interdependence are independent design axes.**
-- **Local action-responsive composition != distributed action-field interdependence.**
+
+VID method findings:
+
+- **History-like atmosphere != causal recoverability.**
+- **Shared social condition != recoverable causal transformation.**
+- **Formal orthogonality != semantic carrier success.**
+- **Distributed figure-ground dependency != distributed action-field causality.**
 - **Pairwise action-response != distributed action relay.**
+- **A chain-shaped composition can remain condition/presence-driven rather than action-driven.**
+- **Different physically available evidence/access != different Knowledge/Belief/Memory.**
 
 Renderer Isolation remains:
 
@@ -121,23 +116,19 @@ Every VID renderer image is produced in a clean new regular non-project chat rec
 
 ---
 
-## 5. VID-01 evidence chain through V0R7
+## 5. VID-01 evidence through V0R8
 
 ### V0R1 — H1 Living Relational Field
 
 **Human relational field strong / causal recoverability partial-fail / surface unselected.**
 
-Relationship and human specificity can organize an image without diagrammatic connection. History-like atmosphere does not establish recoverable cause.
-
 ### V0R2 — H4-adjacent shared condition
 
 **Shared condition + asymmetric human positioning strong / earlier-human-decision recoverability partial-fail / surface unselected.**
 
-Shared social condition is not the same as recoverable causal transformation.
-
 ### V0R3 — H2 Inherited Condition
 
-**SURVIVES FOR LATERAL EXPLORATION AT H2 CARRIER LEVEL / exact surface quarantined / no convergence.**
+> **SURVIVES FOR LATERAL EXPLORATION AT H2 CARRIER LEVEL / CHANGED USABLE STRUCTURE PASS / EXACT SURFACE QUARANTINED / NO CONVERGENCE.**
 
 Supported causal class:
 
@@ -147,172 +138,116 @@ people reconfigured a shared interior
 -> people inhabit and use those changed possibilities
 ```
 
+H2 remains the only carrier-level survivor so far.
+
 ### V0R4 — H3 Transformational Continuity
 
 **Identity-continuity mechanism pass / transformational necessity partial-fail / surface-divergence fail / no convergence.**
 
-Materially different depiction can preserve personhood through redundant coherent identity cues, but recognizable transformation alone is insufficient when removing the transformation leaves the human field essentially unchanged.
+Materially different depiction can preserve personhood through redundant coherent identity cues, but the transformation was not structurally necessary to the human situation.
 
-### V0R5 — H5 Expressive Performance Field
+### V0R5–V0R7 — H5 mechanism development
 
-**Independent-action pass / expressive-performance-field partial-fail / formal-control partial-fail / surface-divergence fail / no convergence.**
+V0R5 established independent action but literalized the field into one dominant physical carrier.
 
-The requested pictorial field was literalized as one dominant physical sheet/material.
+V0R6 removed the single-carrier failure and established distributed people-dependent composition, but not action-dependent composition.
 
-### V0R6 — DFI / H5
+V0R7 comparative probes separated formal and semantic axes:
 
-**DFI anti-single-carrier pass / independent-action pass / distributed depiction-field partial-pass / action-field interdependence partial-fail / formal-divergence partial-pass / no convergence.**
+- V0R7A: strongest whole-surface formal-orthogonality probe so far; H5 action interdependence still partial-fail.
+- V0R7B: stronger local/pairwise action-response; distributed action relay still partial-fail.
 
-Promoted distinction:
-
-```text
-distributed figure-ground dependency
-!=
-distributed action-field causality
-```
-
-AFI action-substitution test:
-
-> Keep a relevant person in approximately the same location and scale but replace their action. If the surrounding field remains essentially unchanged, that region is probably presence-driven rather than action-driven.
-
-### V0R7 — AFI comparative batch
+### V0R8 — ARI action-response propagation
 
 Canonical result:
 
-`docs/KYMAEAN_VID_01_V0_RENDER_07_COMPARATIVE_RESULT.md`
+`docs/KYMAEAN_VID_01_V0_RENDER_08_RESULT.md`
 
-Combined classification:
+Formal classification:
 
-> **FORMAL-DIVERGENCE METHOD PASS / ACTION-FIELD INTERDEPENDENCE NOT YET PROVEN / H5 REMAINS OPEN / NO CONVERGENCE.**
+> **LOCAL ACTION-RESPONSE STRONG / THREE-PERSON ACTION-RESPONSE PROPAGATION PARTIAL-FAIL / H5 DEPRIORITIZED NOT REJECTED / SURFACE UNSELECTED / NO CONVERGENCE.**
 
-#### V0R7A — Flat-Plane Action Field
+The foreground center/right pair is the strongest local H5 spatial interlock so far. Full ARI propagation does not pass because the upstream kneeling person's specific reaching action is not sufficiently necessary: another low action in the same occupied region could preserve much of the central route constraint.
 
-> **FLAT-PLANE GRAMMAR PASS / WHOLE-SURFACE FORMAL-ORTHOGONALITY PROBE PASS / HUMAN SPECIFICITY PASS / INDEPENDENT-ACTION PASS / ANTI-SINGLE-CARRIER PASS / ACTION-FIELD INTERDEPENDENCE PARTIAL-FAIL / NO CONVERGENCE.**
+Promoted finding:
 
-This is the strongest whole-surface formal-orthogonality probe so far. Positive depiction-level control creates a shallow interlocking-plane grammar without converting the requirement into one dominant literal prop.
+> **A convincing chain-shaped composition is not sufficient evidence of a fully action-dependent chain.**
 
-This is probe evidence only. It gives the exact surface no inheritance rights and does not establish visual-family incumbency.
-
-#### V0R7B — Contour / Void Action Field
-
-> **CONTOUR/VOID GRAMMAR PARTIAL-PASS / HUMAN SPECIFICITY PASS / INDEPENDENT-ACTION PASS / ANTI-SINGLE-CARRIER PASS / LOCAL ACTION-RESPONSE PARTIAL-PASS / DISTRIBUTED ACTION-FIELD INTERDEPENDENCE PARTIAL-FAIL / FORMAL-ORTHOGONALITY PARTIAL-PASS / NO CONVERGENCE.**
-
-The central moving pair provides stronger local action-response than A, but the remaining actions stay substantially self-contained. Large voids and selective line/wash appear, while conventional illustrative naturalism remains active.
-
-### V0R7 comparative synthesis
-
-V0R7 proves that two axes must remain separate:
-
-```text
-formal orthogonality
-!=
-semantic carrier success
-```
-
-It also exposes the next H5 ambiguity:
-
-```text
-several locally specific actions
--> can remain parallel action islands
--> even when each locally affects composition
-```
-
-The missing property is propagation:
-
-```text
-Action A changes B's usable/visual situation
--> B visibly adapts through a different action
--> B's adaptation changes C's usable/visual situation
--> C acts in the changed field
-```
-
-No shared intention, hierarchy, motive, knowledge, emotion or private response need be inferred.
+H5 is now **DEPRIORITIZED for current static V0 lateral exploration, not rejected**. Its established mechanisms remain available for later motion, interaction, website choreography and app-system research.
 
 ---
 
 ## 6. Current carrier state
 
-- **H1 Living Relational Field:** strong diagnostic; no selected exact family.
-- **H2 Inherited Condition:** **one carrier-level survivor through V0R3**; exact surface quarantined.
-- **H3 Transformational Continuity:** identity-continuity mechanism viable; relational/structural necessity still insufficient.
-- **H4 Bounded Field:** strong asymmetric shared-condition diagnostic; no private-knowledge claim and no carrier-level exact family.
-- **H5 Expressive Performance Field:** independent agency, anti-single-carrier field organization, probe-level formal orthogonality and local action-response now demonstrated; **distributed three-person action-response propagation remains unproven**.
+- **H1 Living Relational Field:** strong diagnostic; no carrier-level exact family.
+- **H2 Inherited Condition:** **carrier-level survivor through V0R3**; exact surface quarantined.
+- **H3 Transformational Continuity:** identity-continuity mechanism viable; relational/structural necessity remains insufficient.
+- **H4 Bounded Field:** now the active underexplored carrier; V0R2 supplied strong asymmetry evidence but not bounded-access carrier proof.
+- **H5 Expressive Performance Field:** **deprioritized, not rejected** after V0R5–V0R8; distributed action propagation remains unproven.
 
 This remains insufficient for shared-brand convergence.
 
 ---
 
-## 7. ARI-01 current method
+## 7. BAF-01 current method
 
-ARI-01 asks whether visible action consequence can propagate across at least three independent people.
+BAF-01 asks:
 
-Required abstract chain:
+> **Can one shared present reality make different evidence/access physically available to different people, while remaining unified and never claiming what anyone privately knows?**
+
+Governing distinction:
 
 ```text
-A acts
--> B's available field changes
--> B visibly adapts
--> B's adaptation changes C's available field
--> C acts inside the changed situation
+different physically available evidence/access
+!=
+different Knowledge/Belief/Memory
 ```
 
-Downstream substitution test:
+A valid result should show at least three distinct people with materially different relations to what they can directly see, reach, inspect, enter, use or act upon. Those differences must change present human possibility while remaining one shared reality.
 
-> If A stayed nearby but performed a materially different action, B's action and at least one downstream C-region should need to reorganize. Replacing B's response should likewise force C's available action/field to change.
+The image may establish physically available access. It may not infer from access alone that anyone noticed, understood, remembered, believed, or knew the available evidence.
 
-ARI must not be solved through:
+BAF must not rely on split panels, separate alternate realities, diagrams, visibility cones, labels, thought bubbles, one all-knowing focal person, or one monumental barrier/metaphor overwhelming the human field.
 
-- one giant object/barrier/mechanism;
-- three separate vignettes;
-- synchronized group action;
-- common intention;
-- private-state inference;
-- arrows, labels, text, panels or timeline explanation.
-
-V0R8 isolates this semantic propagation variable and leaves surface choice open so V0R7A does not gain formal incumbency merely because it was the strongest formal probe.
+V0R9 leaves medium, palette, setting, era and abstraction open because the unresolved variable is the bounded-access carrier rather than formal-family comparison.
 
 ---
 
 ## 8. Renderer-prior / surface quarantine
 
-V0R1–V0R6 repeatedly returned toward broad painterly figurative/social realism despite clean isolation and semantic variation.
+V0R1–V0R6 repeatedly returned toward broad painterly figurative/social realism despite clean isolation and semantic variation. V0R7A proved positive depiction-level formal control can break that prior at probe level.
 
-V0R7A demonstrates that a positive depiction-level grammar can break that prior at probe level. V0R7B demonstrates a weaker contour/void departure.
+None of those exact surfaces has inheritance rights.
 
-Neither fact constitutes convergence.
+V0R8 likewise grants no inheritance rights to painterly market realism, produce/market imagery, oranges, crates, greens, awnings/stalls, exact palette, cast, clothing, poses, camera, lighting, brushwork, or inferred occupation/motive/private awareness.
 
-No inheritance rights exist for exact V0 surfaces, palettes, casts, clothing, settings, props, architecture, camera, lighting, brush/line treatment, geometric treatment, inferred occupations, relationships, motives or private states.
+H5 deprioritization does not create H4 incumbency.
 
 ---
 
 ## 9. Drive visual provenance
 
-Standalone raw active-discovery masters are stored in:
+Standalone raw active-discovery masters live in:
 
 `03 Clean-Slate Visual Discovery — Active / V0 Visual World & Atmosphere — Clean Slate`
 
-- V0R1 — `VID-01_V0_Render_01_2026-09-04.png` — `1T2Wno5Ug5mlxPCCPtbOLaIxPScnINugR`
-- V0R2 — `VID-01_V0_Render_02_2026-09-04.png` — `1FLpUlQs-d2ijsD4amwBYC845XvvOiflh`
-- V0R3 — `VID-01_V0_Render_03_2026-09-04.png` — `1xxyES-ndIn3bs07I74HckQIbozuF5WBB`
-- V0R4 — `VID-01_V0_Render_04_2026-09-04.png` — `1ixqM-tIXr2uUxOI8076Epa8IhL8_F0kC`
-- V0R5 — `VID-01_V0_Render_05_2026-09-04.png` — `1wJvbksZ5NttYfynFobpT4h5xTsehYYTt`
-- V0R6 — `VID-01_V0_Render_06_2026-09-04.png` — `1J3i7-lnZTPL4qjZokj69-9liUZn3x8hj`
-- V0R7A — `VID-01_V0_Render_07A_2026-09-04.png` — `1OzibR3bkDsF_z0Na62_SQU7nV101ZFZe`
-- V0R7B — `VID-01_V0_Render_07B_2026-09-04.png` — `1NqcRhDS9VcH_S1SMyq3Vk_m3jNWyARsx`
+- V0R1 — `1T2Wno5Ug5mlxPCCPtbOLaIxPScnINugR`
+- V0R2 — `1FLpUlQs-d2ijsD4amwBYC845XvvOiflh`
+- V0R3 — `1xxyES-ndIn3bs07I74HckQIbozuF5WBB`
+- V0R4 — `1ixqM-tIXr2uUxOI8076Epa8IhL8_F0kC`
+- V0R5 — `1wJvbksZ5NttYfynFobpT4h5xTsehYYTt`
+- V0R6 — `1J3i7-lnZTPL4qjZokj69-9liUZn3x8hj`
+- V0R7A — `1OzibR3bkDsF_z0Na62_SQU7nV101ZFZe`
+- V0R7B — `1NqcRhDS9VcH_S1SMyq3Vk_m3jNWyARsx`
+- V0R8 — `VID-01_V0_Render_08_2026-09-04.png` — `1Y5AQoPg4LnJqjbAuAoRiYqzz6NLf6_3u`
 
-Both V0R7 raw files were re-verified after upload against their expected byte sizes. The Registry contains embedded archival copies and the Continuity Constitution is synchronized through V0R7/ARI-01.
+The Visual Exploration Registry contains the V0R8 critique and embedded archival copy. The Visual Continuity Constitution is synchronized through the V0R8/H5-deprioritization/BAF-01 transition.
 
 ---
 
 ## 10. Current application-engineering boundary
 
-Re-resolved 2026-09-04.
-
-`Rylascoo/Ensemble-Project/main`:
-
-`99e0b9fc7fc346a7276928df8f92a6e133f58c2f`
-
-The current head only adds the cross-project anti-churn/task-scope clarification over the prior planning/documentation head. It does not replace exact machine-validation authority.
+Re-resolve `Rylascoo/Ensemble-Project/main` before exact current-head claims.
 
 Latest completed implementation authority remains:
 
@@ -329,41 +264,41 @@ Current planning authority includes `docs/roadmap/KYMAEAN_ARCHITECTURE_AND_SHIP_
 
 No current evidence establishes WinUI runtime behavior, Windows AI Foundry/NPU execution or measured TOPS/performance, MSIX/WACK success, or Store certification.
 
-Patch0015 visual law remains: accepted recent Performance can participate in Context v3, but occurrence does not automatically establish Observation, Knowledge, Belief, Memory, objective truth or durable state mutation; Production continuity is product state/history rather than provider-session memory.
+Patch 0015 visual law remains: accepted recent Performance can participate in Context v3, but occurrence does not automatically establish Observation, Knowledge, Belief, Memory, objective truth or durable state mutation; Production continuity is product state/history rather than provider-session memory.
 
 ---
 
 ## 11. Accessibility / privacy / quiescence boundary
 
-Eventually the product visual system must remain semantically useful without portrait recognition, color, motion, exact spatial position, hover-only interaction, simultaneous wide layout or image availability.
+The eventual product visual system must remain semantically useful without portrait recognition, color, motion, exact spatial position, hover-only interaction, simultaneous wide layout or image availability.
 
-Current visual-research laws require no facial recognition, biometric inference, embeddings, gaze/emotion/confusion analysis, camera access, continuous image generation, background provider polling or persistent GPU/NPU work.
+Current visual research requires no facial recognition, biometric inference, embeddings, gaze/emotion/confusion analysis, camera access, continuous image generation, background provider polling or persistent GPU/NPU work.
 
-Actual WinUI accessibility/high-contrast/screen-reader behavior, runtime performance, NPU routing, WACK and Store validation remain later external/implementation work.
+Actual WinUI accessibility/high-contrast/screen-reader behavior, runtime performance, NPU routing, WACK and Store validation remain later implementation/external gates.
 
 ---
 
 ## 12. Current external dependency / next action
 
-Execute the sterile V0R8 packet from:
+Execute exactly one clean isolated V0R9 image using:
 
-`docs/KYMAEAN_VID_01_V0_RENDER_08_ACTION_RESPONSE_INTERLOCK_PACKET.md`
+`docs/KYMAEAN_VID_01_V0_RENDER_09_BOUNDED_ACCESS_FIELD_PACKET.md`
 
-in **one fresh regular non-project renderer chat**, exactly one image.
+in one fresh regular non-project renderer chat.
 
 No additional Director approval is required.
 
-On return, continue the already-authorized work package without artificial stops:
+On return, continue the already-authorized evidence chain without artificial stops:
 
 ```text
-archive V0R8 raw master
--> evaluate ARI downstream-substitution falsification
--> decide whether H5 reaches carrier-level viability, remains open, or should be deprioritized
--> synthesize transferable findings
+archive V0R9 raw master
+-> evaluate BAF bounded-access falsification
+-> decide H4 carrier status
+-> compare against H2/H3/H5 evidence without convergence
 -> recursively audit
 -> update GitHub + Drive
--> perform any next already-authorized non-convergent internal work
+-> continue any next already-authorized non-convergent work
 -> stop only at a consequential Director choice or unavoidable external dependency
 ```
 
-No automatic visual-family selection, shared-brand convergence, app visual implementation or website implementation is authorized.
+No automatic shared-brand convergence, app visual implementation or website implementation is authorized.
