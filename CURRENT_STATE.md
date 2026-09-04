@@ -5,7 +5,7 @@ Updated: 2026-09-03
 ## 1. Identity and authority
 
 - The underlying application is **Ensemble**, intended to be publicly branded **Kymaean**.
-- `Rylascoo/Ensemble-Website` is authoritative for website engineering, website/brand continuity, and cross-product app + website design synthesis.
+- `Rylascoo/Ensemble-Website` is authoritative for website engineering, brand/design continuity, and cross-product app + website design synthesis.
 - `Rylascoo/Ensemble-Project` is authoritative for exact application-engineering truth, source, tests, architecture status, and validation boundaries.
 - Google Drive `Ensemble Project` is canonical visual/design workspace and master-asset authority.
 - The old `Rylascoo/Kymaean-Project` is unrelated unless explicitly requested.
@@ -14,15 +14,13 @@ Checkpoint law:
 
 > **evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop**
 
-This file is checkpoint authority, not a replacement for detailed canonical artifacts.
-
 ---
 
 ## 2. Current phase
 
 R0 Visual Re-Foundation calibration is closed. The project is in integrated app + website design synthesis.
 
-Accepted/active design chain includes:
+Accepted/active design chain now includes:
 
 1. `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md`
 2. `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
@@ -41,16 +39,18 @@ Accepted/active design chain includes:
 15. `docs/KYMAEAN_CRV_01_CHARACTER_REPRESENTATION_VIABILITY_RESULT.md`
 16. `docs/KYMAEAN_TCV_01_TEMPORAL_CHARACTER_CONTINUITY_RESULT.md`
 17. `docs/KYMAEAN_SIPD_01_STAGE_INFORMATION_PRESENCE_PROGRESSIVE_DISCLOSURE_PROPOSAL.md`
+18. `docs/KYMAEAN_SIPD_V1_LIVE_STAGE_PRESENCE_RESULT.md`
+19. `docs/KYMAEAN_CDT_01_CONTEXT_DISCLOSURE_TRANSITION_PROPOSAL.md`
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_SIPD_01_STAGE_INFORMATION_PRESENCE_PROGRESSIVE_DISCLOSURE_PROPOSAL.md`
+`docs/KYMAEAN_CDT_01_CONTEXT_DISCLOSURE_TRANSITION_PROPOSAL.md`
 
 Status:
 
-> **SIPD-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER INFORMATION-PRESENCE ARCHITECTURE / NO UI SURFACE OR IMPLEMENTATION SELECTED**
+> **CDT-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER INTERACTION CONTRACT / NO FINAL CONTEXT SURFACE OR IMPLEMENTATION SELECTED**
 
-No final logo, palette, typeface, portrait/human-representation medium, Character-image workflow, material system, icon system, motion identity, website composition, exact WinUI composition, final Stage composition, transcript architecture, Character Context taxonomy, causal-history UI, or production design is selected.
+No final logo, palette, typeface, Character medium, Character-image workflow, material/icon/motion system, exact Stage/context composition, transcript architecture, Character Context taxonomy, causal-history UI, WinUI composition, or production website/app implementation is selected.
 
 ---
 
@@ -67,6 +67,8 @@ No final logo, palette, typeface, portrait/human-representation medium, Characte
 > **Keep authority semantics precise; keep creative semantics open.**
 
 > **Importance does not imply permanence.**
+
+> **Context inspection must not itself change the world being inspected.**
 
 Core distinctions:
 
@@ -88,29 +90,20 @@ social/relational visibility != epistemic authority
 changed circumstance != changed identity
 
 current evidence != historical explanation
+
+more detail != more privilege
 ```
 
-Bounded Character disclosure is subtractive. Never infer private mind, knowledge, observation, belief, intent, or recall from gaze, pose, dialogue, proximity, co-presence, nomination, relationship, Director selection, or causal adjacency alone.
+Bounded Character disclosure is subtractive. Never infer private mind, knowledge, observation, belief, intent, or recall from gaze, pose, dialogue, proximity, co-presence, nomination, relationship, Director selection, SceneState, or causal adjacency alone.
 
 ---
 
-## 4. A/B convergence checkpoint
+## 4. A/B convergence + Character/temporal checkpoints
 
-VSG-A parity is complete:
+A/B law-role allocation remains:
 
-- **A-P1 PASS** — architecture-corrected Character-Bounded Watch + independent Current Opportunity works under a genuinely editorial/whitespace-led grammar.
-- **A-P2 PARTIAL PASS / parity limit reached** — A prioritizes legitimate current facts cleanly but relies more heavily than B on explanatory language for changed-present consequence.
-
-VSG-B has stronger evidence for relational/living-Production structure, bounded disclosure, independent perspective/agency/salience, and changed-present consequence through changed human organization.
-
-A/B result:
-
-> **CONVERGENCE READY AT LAW-ROLE LEVEL.**
-
-Evidence-supported roles:
-
-- B contribution: **relational / living-Production structure**;
-- A contribution: **editorial / language / information hierarchy**.
+- VSG-B = stronger **relational / living-Production structure** evidence;
+- VSG-A = stronger **editorial / language / information hierarchy** evidence.
 
 Convergence thesis:
 
@@ -120,59 +113,17 @@ AB1 result:
 
 > **LAW-ROLE CONVERGENCE PASS / SURFACE UNSELECTED.**
 
-AB1 render IDs:
-
-- `567e96d3-f027-4409-b81e-162888d01873`;
-- `e9142296-ac35-4608-803a-23c95d3bdd70`.
-
----
-
-## 5. Character representation checkpoint
-
-Minimum contract remains:
-
-1. persistent identity;
-2. human specificity;
-3. relational participation;
-4. state-channel independence;
-5. epistemic restraint;
-6. accessibility-equivalent identity.
-
-Identity law:
-
-> **Identity is a redundant invariant bundle, not a single image.**
-
-CRV-01 render ID:
-
-`50956820-3675-4ea7-abcd-eef7a7bc1d46`
-
 CRV-01 result:
 
 > **PASS — CHARACTER REPRESENTATION VIABILITY DEMONSTRATED ACROSS DEPTHS.**
 
-Rich depiction improves immediacy but is not required for persistent identity, relational presence, bounded perspective or independent salience. No representation depth or Character medium is selected. User-supplied Character imagery remains plausible future design, not a frozen feature.
+Identity remains a redundant invariant bundle, not one fixed portrait. No Character medium is selected.
 
----
+TCV-01 result:
 
-## 6. Temporal Character continuity checkpoint
+> **SINGLE-SURFACE STRONG PARTIAL PASS.**
 
-TCV-01 attempt 1 render:
-
-`4e8f7d02-950e-4555-80b6-5842b874adf1`
-
-Judgment:
-
-> **METHOD FAIL / USEFUL TEMPORAL-COMPARISON EVIDENCE.**
-
-TCV-01 single-surface render:
-
-`742a36f3-c9f1-48a3-92b5-deaf4f1f1a23`
-
-Judgment:
-
-> **STRONG PARTIAL PASS.**
-
-Accepted research law:
+Accepted temporal allocation:
 
 ```text
 stable Character identity
@@ -184,34 +135,17 @@ trustworthy current authoritative evidence
 legible causal continuity
 ```
 
-Allocation law:
-
 > **Relationship and current evidence share the burden of making the changed present understandable.**
-
-Present evidence may carry provenance without becoming a permanent history summary. TEO remains a causal-observability resource for possible on-demand history/trace, not mandatory Stage structure.
-
-No additional TCV polish is justified by default.
 
 ---
 
-## 7. SIPD-01 — current proposal
+## 5. SIPD-01 + SIPD-V1 checkpoint
 
-SIPD specializes the existing shell law:
+SIPD specializes the shell law:
 
 > **persistent Production context + focusable information orientation + progressively disclosed adjacent context**
 
-for the live present-performance Stage.
-
-Core presence rule:
-
-Information earns persistent Stage presence only when removing it would materially create:
-
-- scope ambiguity;
-- disclosure ambiguity;
-- agency ambiguity;
-- authority ambiguity;
-- blocking capability ambiguity;
-- immediate current-action ambiguity.
+for the live Stage.
 
 Five semantic layers:
 
@@ -223,56 +157,106 @@ L3  task / agency layer
 L4  deep explanation / specialist context
 ```
 
-### Default allocation
+Default allocation:
 
 **Persistent / ambient**
 
 - Production identity;
-- active Scene when one exists;
+- active Scene when applicable;
 - active Presentation Perspective when disclosure materially differs;
 - current/historical locus when ambiguity is possible;
 - creator posture when it materially changes agency;
 - people/relational field;
 - Current Opportunity while materially active, with `opportunity != obligation`;
-- blocking/degraded capability state only when relevant to the current task.
+- blocking/degraded capability state only when relevant.
 
 **Contextual / progressive**
 
-- smallest current authoritative fact set needed to understand selected/current circumstance;
+- smallest current authoritative fact set needed to understand the selected/current circumstance;
 - Character-bounded evidence detail;
-- unresolved current condition detail;
-- most creator commands according to posture/task;
+- unresolved current-condition detail;
+- most creator commands by posture/task;
 - local authority/effect status where confusion is plausible.
 
 **On demand / deep**
 
-- full transcript / recent Performance history;
+- full transcript / Performance history;
 - causal trace / `why is this true now?`;
 - detailed consequence provenance;
 - deep Character/context detail where permitted;
-- relationship development history;
+- relationship history;
 - provider/model/cost/diagnostics;
-- advanced authority/capability metadata;
-- future alternate/rejected material if later Take/rehearsal semantics authorize it.
+- advanced authority/capability metadata.
 
-Special laws:
+### SIPD-V1 render evidence
 
-- Character identity remains the human field and does not require a permanent roster rail.
-- Character-bounded perspective gets quieter through subtraction; privileged information is absent rather than visible-but-dimmed.
-- An `Unknown` surface must not reveal the existence of private categories unless that existence is itself legitimately available.
-- Watch exposes no Character portrayal controls.
-- Perform input is the justified persistent L3 exception while Perform posture is active.
-- Current Stage presents what is true now; causal trace explains why.
-- Wide layouts do not automatically justify multiple simultaneous inspectors.
-- progressive disclosure state is navigation/session state unless product authority separately says otherwise; opening/closing an inspector does not create causal history.
+Expanded-context attempt:
 
-Patch 0014 correction remains binding: current canonical Context v2 has `recentPerformances = []` / empty `RecentPerformanceText`, so a permanent transcript is not required by current bounded-Context architecture.
+`6795ea29-f1c4-4c47-b419-b29f0b6c83e7`
+
+Judgment:
+
+> **PARTIAL PASS — contextual-inspector viability shown / default-stage purity not tested.**
+
+Closed/default Stage correction:
+
+`a7024142-9cbb-44ed-aa1a-6d44ea530c52`
+
+Judgment:
+
+> **STRONG PARTIAL PASS / DEFAULT-STAGE PURITY SUBSTANTIALLY PROVEN.**
+
+Accepted SIPD-V1 findings:
+
+- the live Stage remains coherent with a very small persistent information footprint;
+- people/relationship remain the first read;
+- Current Opportunity can remain explicit without becoming obligation/game-turn grammar;
+- **Watch does not require a permanent text-input surface**;
+- permanent transcript, evidence dashboard, history panel, diagnostics and universal command ribbon are not required for default Stage coherence;
+- environmental narrative text must not substitute for information architecture;
+- exact roster/portrait duplication and perspective signaling remain open;
+- current photoreal/premium-productivity surface remains quarantined.
 
 ---
 
-## 8. Current application-engineering authority
+## 6. CDT-01 — current proposal
 
-Re-resolved for SIPD-01.
+CDT-01 addresses the smallest unresolved question:
+
+> **How can the creator reveal deeper bounded context without making the living Production feel as though it switched into dashboard mode?**
+
+Core transition:
+
+```text
+closed live Stage
+-> creator follows a meaningful current anchor
+-> contextual disclosure opens
+-> creator dismisses/returns
+-> same live Stage and focus continuity are restored
+```
+
+Required CDT laws:
+
+- opening/closing context is navigation/session state, not Production mutation;
+- invocation should originate from a meaningful current anchor rather than a generic permanent dashboard;
+- **more detail does not mean more privilege**;
+- active Production, Scene, Character identity, Presentation Perspective, creator posture and Current Opportunity remain invariant unless separately changed by product authority;
+- one active contextual question / one primary disclosure surface is the default;
+- Character-bounded context never exposes inaccessible-category placeholders merely to show what is missing;
+- Watch remains Watch while context is inspected;
+- opening context does not consume or assign Current Opportunity;
+- current-context expansion and causal-trace/history expansion are distinct routes;
+- Back/dismissal returns to the invoking anchor and never undoes causal state;
+- motion is optional/local/redundant;
+- progressive disclosure must remain keyboard/screen-reader coherent and computationally quiescent.
+
+If approved, the smallest validation is `CDT-V1 — Bounded Context Invocation` using the existing SIPD-V1B closed Stage as the controlled baseline and generating exactly one context-open state.
+
+---
+
+## 7. Current application-engineering authority
+
+Re-resolved for this checkpoint.
 
 App `main`:
 
@@ -286,7 +270,7 @@ Architecture:
 
 `FROZEN — Proposal 0.10`
 
-Implementation / native validation:
+Implementation/native validation:
 
 `COMPLETE FOR EXERCISED PATCH 0014 CORE/TEST/HARNESS GATES / PROMOTED TO MAIN`
 
@@ -296,102 +280,81 @@ Exact machine authority:
 - native Harness/Core + fixtures at `84b3e23db55910f746670cd2e06a67b8a5dea2b3`;
 - no current evidence establishes Windows AI/NPU execution/performance, WinUI implementation, MSIX/WACK success, or Store certification.
 
-Patch 0014 material SIPD boundaries:
+Patch 0014 material design boundaries remain:
 
-- Access remains before Context;
-- no observation is inferred from co-presence, Candidate visible text, addressed Characters, nomination, Director selection, relationships, SceneState, or causal adjacency;
-- other-owned Character subjective state remains denied;
-- CharacterClaim disclosure/recall remains deferred;
-- canonical recent Performance remains absent from Context v2;
+- Access before Context;
+- no observation inferred from co-presence, Candidate visible text, addressed Characters, nomination, Director selection, relationships, SceneState, or causal adjacency;
+- other-owned Character subjective state denied;
+- CharacterClaim disclosure/recall deferred;
+- canonical `recentPerformances = []` and empty `RecentPerformanceText`;
 - source hashes/context proof metadata do not enter Character-facing rendered text;
-- Patch 0014 adds no idle/background/network/provider/clock/random/GPU/NPU work.
-
-Do not enter deferred CharacterClaim/recent-Performance/Observation/full-Scene-loop/provider/model scope from visual design.
+- no idle/background/network/provider/clock/random/GPU/NPU work added by Patch 0014.
 
 ---
 
-## 9. Accessibility + ARM64 boundary
+## 8. Accessibility + ARM64 boundary
 
-Character, relational, temporal and disclosure meaning must survive high contrast, monochrome, reduced motion, text scaling, reduced transparency/material, reduced-detail Character representation, narrow/single-surface layouts, and appropriate image-unavailable states with programmatic/textual equivalents.
+Character, relationship, temporal continuity and progressive disclosure must survive high contrast, monochrome, reduced motion, text scaling, material fallback, reduced-detail Character representation, narrow/sequential layouts, and appropriate image-unavailable states with programmatic/textual equivalents.
 
-Progressive disclosure must remain discoverable to assistive technology, with predictable focus entry/return and semantic relation to the invoking item.
+Context invocation must expose semantic relationship to the anchor, deliberate focus entry, predictable focus return, current/historical locus and perspective state where relevant.
 
 At rest:
 
 - no continuous graph solver;
-- no persistent GPU animation required for Scene vitality;
+- no persistent GPU animation required;
 - no decorative idle AI/NPU inference;
-- no motion-only salience;
-- no continuous face/portrait rendering;
-- no temporal animation required to understand changed current state;
-- no background summarization/polling/inference merely to keep contextual panels populated.
+- no background summarization/polling merely to pre-populate contextual panels;
+- no motion-only disclosure meaning.
 
 The product feels alive because **Production state changes**, not because the compositor is always moving.
 
 ---
 
-## 10. Surface quarantine
+## 9. Surface quarantine
 
-No generated cast, names, faces, clothing, table/meeting environment, photorealism, illustration style, cream/beige field, exact typography, state colors, glass panels, props, permanent transcript/evidence panels, editorial slogans, camera angle, or explicit Earlier/Now layout has inheritance rights.
+No generated cast, names, faces, clothing, photoreal meeting-office medium, table/laptops/props, whiteboard copy, cream/white UI, exact typography, orange/green state accents, portrait-chip row, Current Opportunity card, top-bar geometry, inspector card treatment, cinematic lighting/camera, or generic premium productivity/SaaS styling has inheritance rights.
 
 > **Surface != law.**
 
-Photoreal people remain useful test actors only. No final Character medium or Stage surface is selected.
+---
+
+## 10. Drive continuity
+
+Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record and should preserve both SIPD-V1 render states with precise asset-state wording.
+
+Google Drive `Kymaean Visual Continuity Constitution` should identify CDT-01 as the active design artifact after synchronization.
+
+Embedded archival visual copies do not equal standalone raw Drive image files.
 
 ---
 
-## 11. Drive continuity
-
-Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living critique/provenance record.
-
-AB1, CRV-01 and TCV-01 render lineage is preserved there with explicit asset-state wording. Embedded archival visual copies do not equal standalone raw Drive image files.
-
-Google Drive `Kymaean Visual Continuity Constitution` should identify SIPD-01 as the active design artifact after synchronization.
-
----
-
-## 12. Current Director gate
+## 11. Current Director gate
 
 Director decision requested:
 
-> **Accept SIPD-01: the live Stage keeps only continuity anchors, the living human field, materially active opportunity/agency truth, and the smallest current evidence necessary to avoid ambiguity; evidence detail, transcript/Performance history, causal trace, diagnostics and most commands are progressively disclosed according to task and perspective.**
+> **Adopt CDT-01: context is invoked from a meaningful current anchor, increases detail without increasing privilege, preserves Production/Scene/perspective/posture/opportunity, remains one contextual question at a time, and closes back to the same live Stage without causal mutation.**
 
-If approved, the next smallest justified action is one controlled render experiment:
+If approved, the next smallest justified action is exactly one controlled:
 
-`SIPD-V1 — Live Stage Presence Test`
+`CDT-V1 — Bounded Context Invocation`
 
-Required first-state constraints:
+Use SIPD-V1B as the existing closed/default baseline and generate one unrefined context-open state that answers one bounded current question. Then critique and stop.
 
-- same P0 / S0 / A / B / C;
-- Character-Bounded Watch;
-- Current Opportunity = C;
-- response not required;
-- one already-effective changed current condition;
-- no Perform controls;
-- no private-mind inference;
-- no permanent transcript;
-- no permanent evidence dashboard;
-- no history panel;
-- no provider diagnostics;
-- no thematic narration.
-
-Exactly one user-invoked contextual evidence expansion may be tested as a second state if needed. Stop after first unrefined presence/expanded-context evidence and critique. No automatic refinement chain.
-
-No Stage implementation, final Stage layout, transcript architecture, Character Context taxonomy, history UX, WinUI mapping/code, or website implementation is authorized by this gate.
+No final context UI, Character Context taxonomy, history architecture, animation system, Stage implementation, WinUI mapping/code, or website implementation is authorized by this gate.
 
 ---
 
-## 13. Fresh-chat bootstrap
+## 12. Fresh-chat bootstrap
 
 For a new Kymaean app + website design Director chat:
 
 1. read this file first and resolve current `Ensemble-Website` main;
-2. read `docs/KYMAEAN_SIPD_01_STAGE_INFORMATION_PRESENCE_PROGRESSIVE_DISCLOSURE_PROPOSAL.md` as the active gate;
-3. read `docs/KYMAEAN_TCV_01_TEMPORAL_CHARACTER_CONTINUITY_RESULT.md` for changed-present allocation evidence;
-4. read `docs/KYMAEAN_CRV_01_CHARACTER_REPRESENTATION_VIABILITY_RESULT.md` + Character Representation Requirements for identity constraints;
-5. read the Character-Bounded Watch/Perform contract for perspective/agency semantics;
-6. read the Patch 0014 addendum + base architecture-to-visual crosswalk for app-derived authority;
+2. read `docs/KYMAEAN_CDT_01_CONTEXT_DISCLOSURE_TRANSITION_PROPOSAL.md` as the active gate;
+3. read `docs/KYMAEAN_SIPD_V1_LIVE_STAGE_PRESENCE_RESULT.md` + SIPD-01 for default Stage evidence/allocation;
+4. read the Character-Bounded Watch/Perform contract for perspective/agency semantics;
+5. read TCV/CRV result files for temporal and identity constraints;
+6. read the Patch 0014 visual addendum + base crosswalk for app-derived authority;
 7. re-read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims;
-8. preserve `Perspective != Posture`, `Present != Salient != Obliged`, `social visibility != epistemic authority`, `changed circumstance != changed identity`, `current evidence != historical explanation`, and `importance != permanence`;
+8. preserve `Perspective != Posture`, `Present != Salient != Obliged`, `social visibility != epistemic authority`, `changed circumstance != changed identity`, `current evidence != historical explanation`, `importance != permanence`, and `more detail != more privilege`;
 9. preserve `Surface != law`, `Recent strength != incumbent`, and `Research discovery != phase transition`;
-10. do not generate SIPD-V1 until the Director approves SIPD-01.
+10. do not generate CDT-V1 until the Director approves CDT-01.
