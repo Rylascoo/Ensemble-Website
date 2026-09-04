@@ -41,17 +41,17 @@ Director carrier map:
 
 Latest result:
 
-`docs/KYMAEAN_VID_01_V0_RENDER_08_RESULT.md`
+`docs/KYMAEAN_VID_01_V0_RENDER_09_RESULT.md`
 
 Current method authority:
 
-`docs/KYMAEAN_VID_01_BAF_01_BOUNDED_ACCESS_FIELD_PROPOSAL.md`
+`docs/KYMAEAN_VID_01_BAF_CF1_CROSS_FORMAL_ROBUSTNESS_PROPOSAL.md`
 
 Current authorized external renderer packet:
 
-`docs/KYMAEAN_VID_01_V0_RENDER_09_BOUNDED_ACCESS_FIELD_PACKET.md`
+`docs/KYMAEAN_VID_01_V0_RENDER_10_BOUNDED_ACCESS_CROSS_FORMAL_PACKET.md`
 
-Exactly one V0R9 image is authorized in one fresh regular non-project renderer chat. No additional intermediate approval is required.
+Exactly one V0R10 image is authorized in one fresh regular non-project renderer chat. No additional intermediate approval is required.
 
 No final visual family, symbol, app icon, wordmark, palette, typography, Character/human medium, material language, motion system, Stage surface, app visual system, website composition or website implementation is selected.
 
@@ -61,7 +61,7 @@ No final visual family, symbol, app icon, wordmark, palette, typography, Charact
 
 > **APP = immersive working environment. WEB = expressive explanatory environment. SHARED BRAND = one identity and one product truth.**
 
-Kymaean for Windows is the actual creative product. The public website is an explorable introduction to the creative medium and eventual acquisition path to the native Windows product; it is not assumed to host or replace the application in the browser.
+Kymaean for Windows is the actual creative product. The public website is an explorable introduction to the creative medium and eventual acquisition path to the native Windows product; it is not assumed to host or replace the application in a browser.
 
 Shared-brand convergence requires explicit Director approval.
 
@@ -87,26 +87,18 @@ Core:
 
 - **Human signal over system ornament.**
 - **Relationship as composition, not relationship as drawn connection.**
-- **I am back in the same world, but it is different because of what happened.**
 - **Representation can depict; authority must establish.**
 - **Social/relational visibility != epistemic authority.**
+- **Shared reality does not require shared availability.**
+- **Physically available evidence/access != Knowledge/Belief/Memory.**
+- **Situational access is not a permanent Character attribute.**
 - **Identity must always be recoverable; labels need not remain continuously visible.**
-- **Identity explicitness should adapt to ambiguity; Character identity itself remains stable.**
 - **Surface != law.**
 - **Research discovery != phase transition.**
 - **Recent strength != incumbent.**
 - **Renderer prior != Director convergence.**
-- **Controlled formal grammar != selected identity.**
-
-VID method findings:
-
-- **History-like atmosphere != causal recoverability.**
-- **Shared social condition != recoverable causal transformation.**
-- **Formal orthogonality != semantic carrier success.**
-- **Distributed figure-ground dependency != distributed action-field causality.**
-- **Pairwise action-response != distributed action relay.**
-- **A chain-shaped composition can remain condition/presence-driven rather than action-driven.**
-- **Different physically available evidence/access != different Knowledge/Belief/Memory.**
+- **Carrier viability != surface incumbency.**
+- **Cross-formal robustness != convergence.**
 
 Renderer Isolation remains:
 
@@ -116,7 +108,7 @@ Every VID renderer image is produced in a clean new regular non-project chat rec
 
 ---
 
-## 5. VID-01 evidence through V0R8
+## 5. VID-01 evidence through V0R9
 
 ### V0R1 — H1 Living Relational Field
 
@@ -138,42 +130,49 @@ people reconfigured a shared interior
 -> people inhabit and use those changed possibilities
 ```
 
-H2 remains the only carrier-level survivor so far.
-
 ### V0R4 — H3 Transformational Continuity
 
 **Identity-continuity mechanism pass / transformational necessity partial-fail / surface-divergence fail / no convergence.**
 
 Materially different depiction can preserve personhood through redundant coherent identity cues, but the transformation was not structurally necessary to the human situation.
 
-### V0R5–V0R7 — H5 mechanism development
+### V0R5–V0R8 — H5 Expressive Performance Field
 
-V0R5 established independent action but literalized the field into one dominant physical carrier.
+The sequence progressively established independent action, anti-single-carrier organization, distributed people-dependent composition, probe-level formal orthogonality and strong local/pairwise action-response.
 
-V0R6 removed the single-carrier failure and established distributed people-dependent composition, but not action-dependent composition.
-
-V0R7 comparative probes separated formal and semantic axes:
-
-- V0R7A: strongest whole-surface formal-orthogonality probe so far; H5 action interdependence still partial-fail.
-- V0R7B: stronger local/pairwise action-response; distributed action relay still partial-fail.
-
-### V0R8 — ARI action-response propagation
-
-Canonical result:
-
-`docs/KYMAEAN_VID_01_V0_RENDER_08_RESULT.md`
-
-Formal classification:
+V0R8 final H5 classification:
 
 > **LOCAL ACTION-RESPONSE STRONG / THREE-PERSON ACTION-RESPONSE PROPAGATION PARTIAL-FAIL / H5 DEPRIORITIZED NOT REJECTED / SURFACE UNSELECTED / NO CONVERGENCE.**
 
-The foreground center/right pair is the strongest local H5 spatial interlock so far. Full ARI propagation does not pass because the upstream kneeling person's specific reaching action is not sufficiently necessary: another low action in the same occupied region could preserve much of the central route constraint.
-
-Promoted finding:
+Promoted distinction:
 
 > **A convincing chain-shaped composition is not sufficient evidence of a fully action-dependent chain.**
 
-H5 is now **DEPRIORITIZED for current static V0 lateral exploration, not rejected**. Its established mechanisms remain available for later motion, interaction, website choreography and app-system research.
+H5 is deprioritized for current static V0 research. Its mechanisms remain available later for motion, interaction, website choreography and app-system work.
+
+### V0R9 — H4 Bounded Field
+
+Canonical result:
+
+`docs/KYMAEAN_VID_01_V0_RENDER_09_RESULT.md`
+
+Formal classification:
+
+> **H4 BOUNDED-ACCESS CARRIER PASS / EPISTEMIC-RESTRAINT PASS / SURFACE-DIVERGENCE FAIL / EXACT SURFACE QUARANTINED / NO CONVERGENCE.**
+
+One continuous interior/exterior situation gives four distinct people materially different present physical access: low service/plumbing region, open ceiling cavity, tabletop materials and exterior-side line/materials. Those differences support different present action possibilities without requiring any claim about private knowledge, belief, memory, motive or emotion.
+
+Promoted H4 laws:
+
+> **Shared reality does not require shared availability.**
+
+> **Physically available evidence/access is not epistemic authority.**
+
+> **What is reachable, inspectable or usable from a person's present relation to the scene can shape current possibility without becoming Knowledge, Belief or Memory.**
+
+> **Situational access is not a permanent Character attribute.**
+
+V0R9 fails as a new exact visual family because the renderer again returns to the broad painterly/naturalistic, worn lived-in domestic/workspace family.
 
 ---
 
@@ -182,50 +181,79 @@ H5 is now **DEPRIORITIZED for current static V0 lateral exploration, not rejecte
 - **H1 Living Relational Field:** strong diagnostic; no carrier-level exact family.
 - **H2 Inherited Condition:** **carrier-level survivor through V0R3**; exact surface quarantined.
 - **H3 Transformational Continuity:** identity-continuity mechanism viable; relational/structural necessity remains insufficient.
-- **H4 Bounded Field:** now the active underexplored carrier; V0R2 supplied strong asymmetry evidence but not bounded-access carrier proof.
-- **H5 Expressive Performance Field:** **deprioritized, not rejected** after V0R5–V0R8; distributed action propagation remains unproven.
+- **H4 Bounded Field:** **carrier-level survivor through V0R9**; exact surface quarantined.
+- **H5 Expressive Performance Field:** **deprioritized, not rejected** after V0R5–V0R8; distributed static action propagation remains unproven.
 
-This remains insufficient for shared-brand convergence.
+Two carrier hypotheses now survive, but this is **not** equivalent to two genuinely distinct surviving visual families.
 
 ---
 
-## 7. BAF-01 current method
+## 7. Current visual-family state
 
-BAF-01 asks:
+The successful H2 V0R3 and H4 V0R9 exact renders both remain within the recurring broad painterly/naturalistic human-world family.
 
-> **Can one shared present reality make different evidence/access physically available to different people, while remaining unified and never claiming what anyone privately knows?**
+V0R7A demonstrated a genuinely orthogonal shallow flat/interlocking-plane grammar at probe level, but its H5 semantic carrier did not pass. Therefore V0R7A is formal-method evidence, not yet a surviving visual family for convergence purposes.
 
-Governing distinction:
+Current state:
 
 ```text
-different physically available evidence/access
-!=
-different Knowledge/Belief/Memory
+carrier survivors: H2 + H4
+
+genuinely distinct surviving visual families required for convergence gate: >= 2
+
+currently established: < 2
 ```
 
-A valid result should show at least three distinct people with materially different relations to what they can directly see, reach, inspect, enter, use or act upon. Those differences must change present human possibility while remaining one shared reality.
-
-The image may establish physically available access. It may not infer from access alone that anyone noticed, understood, remembered, believed, or knew the available evidence.
-
-BAF must not rely on split panels, separate alternate realities, diagrams, visibility cones, labels, thought bubbles, one all-knowing focal person, or one monumental barrier/metaphor overwhelming the human field.
-
-V0R9 leaves medium, palette, setting, era and abstraction open because the unresolved variable is the bounded-access carrier rather than formal-family comparison.
+No controlled convergence is authorized yet.
 
 ---
 
-## 8. Renderer-prior / surface quarantine
+## 8. BAF-CF1 current method
 
-V0R1–V0R6 repeatedly returned toward broad painterly figurative/social realism despite clean isolation and semantic variation. V0R7A proved positive depiction-level formal control can break that prior at probe level.
+BAF-CF1 asks:
 
-None of those exact surfaces has inheritance rights.
+> **Can the passing H4 bounded-access carrier survive deliberate replacement of the painterly/naturalistic surface grammar?**
 
-V0R8 likewise grants no inheritance rights to painterly market realism, produce/market imagery, oranges, crates, greens, awnings/stalls, exact palette, cast, clothing, poses, camera, lighting, brushwork, or inferred occupation/motive/private awareness.
+Semantic kernel held:
 
-H5 deprioritization does not create H4 incumbency.
+- one unified present reality;
+- at least three specific people;
+- materially unequal physical access;
+- present action possibility changes because access differs;
+- no private Knowledge/Belief/Memory claim;
+- no all-knowing focal figure;
+- no split-panel/diagram solution;
+- human primacy.
+
+Positive formal grammar under test:
+
+- shallow constructed field;
+- broad interlocking planes and shape masses;
+- strong figure-ground separation;
+- substantial negative space;
+- restrained depth cues;
+- adjacency, overlap, cut edges, occlusion and openings carry access structure;
+- environment remains selective;
+- people remain specific rather than becoming icons/game pieces;
+- no one giant physical prop substitutes for the depiction-level field.
+
+This grammar is an **experimental instrument**, not an incumbent or selected identity.
+
+If V0R10 establishes H4 survival under a genuinely orthogonal whole-surface family strongly enough to produce a second distinct surviving visual family, the project must stop at the consequential **Director convergence decision**. It may not automatically converge, select/refine a winner, or begin app/website implementation.
 
 ---
 
-## 9. Drive visual provenance
+## 9. Surface quarantine / renderer prior
+
+V0R1–V0R6 and V0R8–V0R9 repeatedly return toward broad painterly figurative/naturalistic worlds under open surface conditions. V0R7A proved that positive depiction-level control can break this prior at probe level.
+
+No inheritance rights exist for any exact VID cast, setting, palette, objects, clothing, architecture, camera, lighting, brush/line treatment or inferred private states.
+
+V0R9 specifically grants no inheritance rights to painterly domestic/laundry/repair imagery, ceiling cavity/leak, plumbing, photographs/papers, exterior line, buckets, tables, washing-machine/iron/household props, muted earth/blue/cream palette or worn patina.
+
+---
+
+## 10. Drive visual provenance
 
 Standalone raw active-discovery masters live in:
 
@@ -239,15 +267,20 @@ Standalone raw active-discovery masters live in:
 - V0R6 — `1J3i7-lnZTPL4qjZokj69-9liUZn3x8hj`
 - V0R7A — `1OzibR3bkDsF_z0Na62_SQU7nV101ZFZe`
 - V0R7B — `1NqcRhDS9VcH_S1SMyq3Vk_m3jNWyARsx`
-- V0R8 — `VID-01_V0_Render_08_2026-09-04.png` — `1Y5AQoPg4LnJqjbAuAoRiYqzz6NLf6_3u`
+- V0R8 — `1Y5AQoPg4LnJqjbAuAoRiYqzz6NLf6_3u`
+- V0R9 — `VID-01_V0_Render_09_2026-09-04.png` — `1urq9HPrPyF1Omf4S8RsFgMA08acEg-fD`
 
-The Visual Exploration Registry contains the V0R8 critique and embedded archival copy. The Visual Continuity Constitution is synchronized through the V0R8/H5-deprioritization/BAF-01 transition.
+The Visual Exploration Registry contains the V0R9 critique and embedded archival visual copy. The Visual Continuity Constitution is synchronized through the V0R9/H4-survival/BAF-CF1 transition.
 
 ---
 
-## 10. Current application-engineering boundary
+## 11. Current application-engineering boundary
 
-Re-resolve `Rylascoo/Ensemble-Project/main` before exact current-head claims.
+Re-resolved 2026-09-04.
+
+`Rylascoo/Ensemble-Project/main`:
+
+`99e0b9fc7fc346a7276928df8f92a6e133f58c2f`
 
 Latest completed implementation authority remains:
 
@@ -268,7 +301,7 @@ Patch 0015 visual law remains: accepted recent Performance can participate in Co
 
 ---
 
-## 11. Accessibility / privacy / quiescence boundary
+## 12. Accessibility / privacy / quiescence boundary
 
 The eventual product visual system must remain semantically useful without portrait recognition, color, motion, exact spatial position, hover-only interaction, simultaneous wide layout or image availability.
 
@@ -278,27 +311,27 @@ Actual WinUI accessibility/high-contrast/screen-reader behavior, runtime perform
 
 ---
 
-## 12. Current external dependency / next action
+## 13. Current external dependency / next action
 
-Execute exactly one clean isolated V0R9 image using:
+Execute exactly one clean isolated V0R10 image using:
 
-`docs/KYMAEAN_VID_01_V0_RENDER_09_BOUNDED_ACCESS_FIELD_PACKET.md`
+`docs/KYMAEAN_VID_01_V0_RENDER_10_BOUNDED_ACCESS_CROSS_FORMAL_PACKET.md`
 
 in one fresh regular non-project renderer chat.
 
 No additional Director approval is required.
 
-On return, continue the already-authorized evidence chain without artificial stops:
+On return:
 
 ```text
-archive V0R9 raw master
--> evaluate BAF bounded-access falsification
--> decide H4 carrier status
--> compare against H2/H3/H5 evidence without convergence
+archive V0R10 raw master
+-> evaluate H4 carrier independently from formal-family success
+-> test cross-formal robustness against V0R9
+-> determine whether a second genuinely distinct surviving visual family now exists
 -> recursively audit
 -> update GitHub + Drive
--> continue any next already-authorized non-convergent work
--> stop only at a consequential Director choice or unavoidable external dependency
 ```
 
-No automatic shared-brand convergence, app visual implementation or website implementation is authorized.
+If the two-surviving-family prerequisite is met, **stop at the consequential Director convergence decision**. Do not automatically enter convergence, select/refine a winner, or begin native-app/website implementation.
+
+If the threshold is not met, continue only already-authorized non-convergent work until the next real external dependency.
