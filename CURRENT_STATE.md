@@ -20,7 +20,7 @@ Checkpoint law:
 
 R0 Visual Re-Foundation calibration is closed. Integrated app + website design synthesis is active.
 
-Current accepted/active chain includes:
+Accepted/active chain:
 
 1. app/website synthesis + experience ontology;
 2. information-relationship architecture + shell/navigation grammar;
@@ -34,16 +34,17 @@ Current accepted/active chain includes:
 10. CDT-01 + CDT-V1 context disclosure transition;
 11. BCA-01 + BCA-V1 bounded answer composition;
 12. AAS-01 + AAS-V1 authoritative answer sourcing;
-13. ARS-01 Answer Route & Sufficiency Signaling;
-14. `docs/KYMAEAN_ARS_V1_ANSWER_STATE_LANGUAGE_MATRIX_RESULT.md`.
+13. ARS-01 + ARS-V1 answer-route/sufficiency signaling;
+14. ARS-R1 answer-state surface integration;
+15. `docs/KYMAEAN_CSI_01_CONTINUOUS_STAGE_INTEGRATION_PROPOSAL.md`.
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_ARS_V1_ANSWER_STATE_LANGUAGE_MATRIX_RESULT.md`
+`docs/KYMAEAN_CSI_01_CONTINUOUS_STAGE_INTEGRATION_PROPOSAL.md`
 
 Status:
 
-> **ARS-V1 — ANSWER-STATE LANGUAGE SEMANTICS VALIDATED / RESULT AWAITING DIRECTOR ACCEPTANCE / NO FINAL COPY SYSTEM, HISTORY UI, ANSWER ENGINE, OR VISUAL STATUS SYSTEM SELECTED**
+> **CSI-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER WHOLE-STAGE COMPOSITION CONTRACT / NO FINAL STAGE SURFACE OR IMPLEMENTATION SELECTED**
 
 ---
 
@@ -77,6 +78,8 @@ Status:
 
 > **Deterministic authority boundaries must not be presented as probabilistic confidence.**
 
+> **Trust signaling should be semantic before it is decorative.**
+
 Core distinctions:
 
 ```text
@@ -98,13 +101,17 @@ current insufficiency != low confidence
 technical limitation != fictional Character behavior
 ```
 
-ARS-V1 candidate law awaiting Director acceptance:
+CSI-01 candidate integration laws awaiting Director approval:
 
-> **Trust signaling should be semantic before it is decorative.**
+> **The Stage presents the living Production first; system authority remains recoverable at the smallest level required for truthful understanding and action.**
+
+> **Trust machinery should govern behavior more strongly than it occupies the interface.**
+
+> **Authority precision is foundational behavior, not a dashboard aesthetic.**
 
 ---
 
-## 4. Visual / interaction checkpoints
+## 4. Established Stage / context evidence
 
 A/B convergence:
 
@@ -129,7 +136,7 @@ SIPD-V1B:
 
 > **STRONG PARTIAL PASS / DEFAULT-STAGE PURITY SUBSTANTIALLY PROVEN.**
 
-Accepted Stage findings:
+Durable findings:
 
 - people/relationship remain first read;
 - Watch does not require a permanent text-input surface;
@@ -140,7 +147,7 @@ CDT-V1:
 
 > **STRUCTURAL TRANSITION PASS / DISCLOSURE-CONTENT PARTIAL FAIL.**
 
-Accepted transition law:
+Accepted transition:
 
 ```text
 LIVE STAGE
@@ -160,13 +167,13 @@ Accepted answer shape:
 one anchor
 -> one exact question
 -> one direct answer
--> minimum supporting basis if necessary
+-> minimum supporting basis only if necessary
 -> one meaning-connected next path / return
 ```
 
----
+AAS-V1:
 
-## 5. AAS-01 + AAS-V1 — accepted checkpoint
+> **PASS — SOURCE-SUFFICIENCY MODEL VALIDATED ACROSS CURRENT, CHARACTER-BOUNDED, HISTORICAL-ROUTE, AND INSUFFICIENT CASES.**
 
 AAS source path:
 
@@ -181,124 +188,149 @@ question
    OR truthful bounded insufficiency
 ```
 
-Source lanes:
-
-- current Production/routing authority;
-- Character-bounded current fictional authority via Patch 0014 Access-before-Context;
-- historical/causal authority;
-- technical capability/product-operation authority.
-
-Visual/model inference is never an authority lane.
-
-Same-state law when Production + Character Context are combined:
-
-```text
-ProductionState.StateHash
-== CharacterAccessProjection.SourceStateHash
-== ContextPacket.SourceStateHash
-```
-
-AAS-V1 verdict:
-
-> **PASS — SOURCE-SUFFICIENCY MODEL VALIDATED ACROSS CURRENT, CHARACTER-BOUNDED, HISTORICAL-ROUTE, AND INSUFFICIENT CASES.**
-
-Key distinctions:
-
-```text
-No recent dialogue is available in B's current bounded context.
-!=
-C said nothing.
-
-current state proves who has Current Opportunity
-!=
-current state proves why that Character was selected
-```
-
----
-
-## 6. ARS-01 — accepted checkpoint
-
-Director approval received 2026-09-04.
-
-Primary communication law:
-
-> **State the supported truth first; state the boundary second; offer only a route that authority can justify.**
-
-Primary semantic conditions:
-
-```text
-SUPPORTED NOW
-HISTORY REQUIRED / AVAILABLE
-NOT CURRENTLY SUPPORTABLE
-```
-
-These are semantic classes, not required visible badges or implementation enums.
-
-Accepted ARS laws:
-
-- direct supported answers should answer directly;
-- perspective scope is shown only when needed and does not itself assert Character knowledge;
-- a question-specific `Why?`/`Trace why` route is allowed only when that requested historical explanation is established as authoritatively available;
-- history existence alone does not justify an explanation affordance;
-- insufficiency is communicated as a source/perspective boundary, not uncertainty or fictional negation;
-- technical capability limitations remain operational, not fictional;
-- confidence percentages, certainty meters, traffic-light truth semantics, permanent status dashboards, and color-only meaning are rejected.
-
----
-
-## 7. ARS-V1 — active result
-
-Artifact:
-
-`docs/KYMAEAN_ARS_V1_ANSWER_STATE_LANGUAGE_MATRIX_RESULT.md`
-
-Formal verdict:
+ARS-V1:
 
 > **PASS — ANSWER-STATE LANGUAGE SEMANTICS VALIDATED ACROSS DIRECT, CHARACTER-BOUNDED, CONDITIONAL-HISTORY, CAUSAL-INSUFFICIENT, OBSERVATION-INSUFFICIENT, AND RECENT-DIALOGUE-INSUFFICIENT CASES.**
 
-Six controlled cases:
+Key language laws:
 
-1. supported current routing answer:
-   - `C currently has the opportunity.`
-   - no sufficiency/confidence badge required.
-
-2. supported Character-bounded current answer:
-   - `From B's current perspective: [supported fact].`
-   - scope cue does not mean `B knows`.
-
-3. current fact + exact authoritative historical explanation route established available:
-   - current fact + one meaning-connected `Trace why`-type route;
-   - conditional UX case only, not a claim that current Patch 0013/0014 implements the full history route.
-
-4. current fact + requested reason unavailable:
-   - `C currently has the opportunity. The current context establishes that fact, but not why C was selected.`
-   - no `Why?` route.
-
-5. unsupported Observation:
-   - `B's current perspective does not establish an observation about C for this question.`
-   - not `B saw nothing`.
-
-6. unavailable recent dialogue under Patch 0014:
-   - `Recent dialogue is not available in B's current perspective for this question.`
-   - not `C said nothing`.
-
-ARS-V1 cross-case findings:
-
-- the semantic class normally does not need to be named visibly;
-- `does not establish` / `is not available in this perspective` describe deterministic boundaries better than confidence language;
-- user-facing copy should avoid engineering nouns such as `SourceStateHash`, `ContextPacket`, `AccessReason`, and `DirectorTrace`;
-- unsupported routes should usually be omitted rather than displayed disabled;
-- all six states remain recoverable semantically without color, iconography, portrait, motion, or confidence scoring.
-
-No production-localized copy strings are frozen. No visual surface is selected.
+- direct truth answers directly;
+- exact boundary follows only when needed;
+- perspective scope does not itself mean Character knowledge;
+- unsupported causal/history routes are omitted;
+- current insufficiency is not low confidence;
+- semantic wording outranks badge/color/status treatment.
 
 ---
 
-## 8. Current application-engineering authority
+## 5. ARS-R1 — accepted checkpoint
+
+Artifact:
+
+`docs/KYMAEAN_ARS_R1_ANSWER_STATE_SURFACE_INTEGRATION_RESULT.md`
+
+Render ID:
+
+`f97eca04-0564-419f-815c-d44ebcde645b`
+
+Formal judgment:
+
+> **SEMANTIC INTEGRATION PASS / SURFACE-RESTRAINT PARTIAL**
+
+Strong evidence:
+
+- `C currently has the opportunity. The current context establishes that fact, but not why C was selected.` cleanly separates current truth from unsupported causal explanation;
+- no visible confidence/status taxonomy is needed;
+- no false `Why?`/history route appears;
+- the same Stage remains retained;
+- Watch remains Watch;
+- C remains Current Opportunity and response remains non-obligatory;
+- rich visual portrayal is not promoted into Character Observation/knowledge.
+
+Corrections carried forward:
+
+- remove default `About This Answer` disclosure lectures;
+- do not name inaccessible categories such as `private thoughts` merely to explain omission;
+- supporting basis appears only when it adds distinct necessary support;
+- avoid default engineering provenance such as `(Production state)`;
+- do not allow answer-card color to become truth-status semantics;
+- reduce contextual visual gravity so the human field remains primary;
+- `B WREN (You)` is not an acceptable default encoding of Character-bounded Watch because Presentation Perspective and creator embodiment/agency are different concepts.
+
+Promoted law:
+
+> **Kymaean's authority system should create confidence through restraint, not through visible machinery explaining why it is trustworthy.**
+
+No ARS-R1 surface has inheritance rights.
+
+---
+
+## 6. CSI-01 — active proposal
+
+Artifact:
+
+`docs/KYMAEAN_CSI_01_CONTINUOUS_STAGE_INTEGRATION_PROPOSAL.md`
+
+CSI asks:
+
+> **Can the accepted Stage, perspective/posture, opportunity, contextual disclosure, bounded-answer, authority-sourcing, and trust-signaling laws coexist as one continuous human-first Stage without the machinery becoming the product?**
+
+### Default Stage budget
+
+Primary hierarchy:
+
+```text
+1. people / relationship / current human situation
+2. materially relevant consequence / possibility / opportunity
+3. quiet Production / Scene / perspective / posture continuity
+4. contextual current answer only when invoked
+5. deep history / diagnostics only on demand
+```
+
+Closed/default Stage does not require permanent:
+
+- transcript;
+- evidence taxonomy;
+- Character dossier;
+- contextual answer panel;
+- causal-history timeline;
+- disclosure explanation;
+- provider/model/NPU telemetry;
+- universal command ribbon;
+- generic AI composer;
+- confidence/truth-status system.
+
+### Perspective / posture
+
+Presentation Perspective controls disclosure. Creator Posture controls creator agency.
+
+CSI candidate law:
+
+> **Perspective identity must not be encoded as creator embodiment when Creator Posture remains Watch.**
+
+Exact final labels remain open.
+
+### Context-open answer budget
+
+```text
+question
+
+supported answer
+
+exact boundary — only if necessary
+
+one justified continuation
+or return
+```
+
+Supporting basis and scope cues are optional and must earn their presence. Inaccessible categories remain absent. Historical routes appear only when the requested explanation is authoritatively satisfiable.
+
+### Invisible authority
+
+Access-before-Context, source/state association, claim-specific sufficiency, no-inferred-Observation, no unsupported causal `because`, and bounded insufficiency remain foundational behavior. They do not become permanent creator-facing architecture merely because they are important.
+
+### Whole-Stage continuity
+
+Context remains:
+
+```text
+LIVE STAGE
+-> one meaningful anchor
+-> one bounded question
+-> one primary answer surface
+-> return
+-> SAME LIVE STAGE
+```
+
+One-context-at-a-time remains the default even on wide displays.
+
+---
+
+## 7. Current application-engineering authority
 
 Re-resolved 2026-09-04.
 
-`Rylascoo/Ensemble-Project` main:
+`Rylascoo/Ensemble-Project` current `main` remains:
 
 `7475a9397cff9063673908c666a729f0f3cd4525`
 
@@ -324,32 +356,39 @@ No current evidence establishes Windows AI/NPU execution/performance, WinUI impl
 Patch 0014 boundaries remain:
 
 - Access before Context;
-- active `SceneState` and `Pressure` permitted as shared/public;
-- subject-owned Character domains permitted only for owning subject;
-- other-owned Character material denied;
+- `SceneState`/`Pressure` may be shared/public when active;
+- subject-owned Character domains remain owner-only;
+- other-owned subjective material denied;
 - CharacterClaim disclosure/recall deferred;
-- no observation inferred from co-presence/visible text/addressing/nomination/Director selection/relationship/SceneState/causal adjacency;
+- no Observation inferred from co-presence, visible text, addressing, nomination, Director selection, relationships, SceneState, or causal adjacency;
 - canonical recent Performance remains empty;
-- source hashes never become Character-facing fictional prose.
+- source hashes remain engineering association metadata, never fictional Character-facing prose;
+- Current Opportunity remains unchanged by Patch 0014.
 
-Patch 0013 remains deterministic Current Opportunity authority. Its canonical opportunity transition proves selected Character + causal state transition but does not embed complete Director input/trace/diagnostics as event payload.
+Patch 0013 remains deterministic Current Opportunity authority but does not automatically provide a complete creator-facing rationale for why a Character was selected.
 
 ---
 
-## 9. Accessibility / ARM64 / surface quarantine
+## 8. Accessibility / ARM64 / quiescence
 
-All answer states must survive high contrast, monochrome, reduced motion, text scaling, narrow/sequential layouts, image-unavailable states, and assistive technology.
+The Stage and context model must remain semantically recoverable without portrait recognition, color, animation, spatial geometry, or simultaneous wide-layout columns.
 
-At rest:
+Required at rest:
 
 - no continuous answer generation;
+- no speculative context pre-generation;
 - no idle historical reconstruction;
 - no background summarization/provider polling;
-- no speculative `Why?` generation;
 - no face/emotion analysis;
 - no persistent GPU/NPU work.
 
-No generated cast, names, faces, clothing, photoreal office/meeting medium, cream/white UI, exact typography, portrait-chip row, Current Opportunity card, inspector geometry, answer-status badge, color semantics, evidence iconography, cinematic lighting/camera, or generic premium productivity/SaaS styling has inheritance rights.
+Future AI-required actions must degrade truthfully; capability failure remains technical state, not fictional state.
+
+---
+
+## 9. Surface quarantine
+
+No generated cast, names, faces, clothing, photoreal office/meeting medium, cream/white UI, exact typography, portrait-chip row, `(You)` label, Current Opportunity card, inspector geometry, green answer treatment, status badge, color semantics, evidence iconography, top-bar geometry, cinematic lighting/camera, or generic productivity/SaaS styling has inheritance rights.
 
 > **Surface != law.**
 
@@ -361,11 +400,11 @@ Repeated controlled surfaces remain experimental consistency, not convergence.
 
 Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record.
 
-Google Drive `Kymaean Visual Continuity Constitution` should identify ARS-V1 as the active design artifact after synchronization.
+ARS-R1 should be preserved there with an embedded archival visual copy; embedded visual evidence is not a standalone raw image file unless separately verified.
 
-ARS-V1 is non-render; no new image belongs to this checkpoint.
+Google Drive `Kymaean Visual Continuity Constitution` should identify `docs/KYMAEAN_CSI_01_CONTINUOUS_STAGE_INTEGRATION_PROPOSAL.md` as the active design artifact after synchronization.
 
-Embedded archival visual copies do not equal standalone raw Drive image files.
+CSI-01 itself is non-render.
 
 ---
 
@@ -373,31 +412,24 @@ Embedded archival visual copies do not equal standalone raw Drive image files.
 
 Director decision requested:
 
-> **Accept ARS-V1: answer sufficiency should normally be communicated through semantic answer/limitation language and route availability, not a visible truth-status system. Direct truth answers directly; unsupported claims receive exact source/perspective-boundary wording; and a causal-history affordance appears only when that requested explanation is established as available.**
+> **Adopt CSI-01: the live Stage remains a human-first Production with only the semantic minimum continuously present; perspective, posture, opportunity, and authority stay independently recoverable; deeper context is one question at a time; answers show supported truth and only necessary boundaries; trust machinery governs behavior more strongly than it occupies the interface; and context returns to the same Stage without causal mutation.**
 
-If approved, the next smallest justified action is one controlled visual experiment:
+If approved, the next single action is exactly one controlled:
 
-`ARS-R1 — Answer State Surface Integration`
+`CSI-R1 — Continuous Stage Integration`
 
-Its question:
+render, followed by critique and stop.
 
-> **Can validated answer states appear inside the human-first continuous Stage without becoming a status dashboard, generic assistant message, modal interruption, or visually dominant warning system?**
-
-Recommended later visual cases:
-
-1. one supported Character-bounded answer;
-2. one bounded-insufficiency answer;
-3. one current fact with a legitimately available historical explanation route as a clearly conditional test state.
-
-No ARS-R1 render, final copy system, history UI, answer engine, Observation/recent-Performance implementation, WinUI code, or website implementation is authorized until the Director approves ARS-V1.
+No final Stage surface, visual identity, history UI, answer engine, WinUI implementation, Windows AI/NPU behavior, packaging, or website implementation is authorized by CSI-01.
 
 ---
 
 ## 12. Fresh-chat bootstrap
 
 1. Read this file first and resolve current `Ensemble-Website` main.
-2. Read `docs/KYMAEAN_ARS_V1_ANSWER_STATE_LANGUAGE_MATRIX_RESULT.md` as the active Director gate.
-3. Read ARS-01 and AAS-V1/AAS-01 for semantic/source authority; read BCA/CDT/SIPD only as needed.
-4. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
-5. Preserve `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `true facts != causal because`, `not available != did not happen`, `history exists != answerable Why?`, `current insufficiency != confidence`, and `Surface != law`.
-6. Do not render ARS-R1 until the Director approves ARS-V1.
+2. Read `docs/KYMAEAN_CSI_01_CONTINUOUS_STAGE_INTEGRATION_PROPOSAL.md` as the active Director gate.
+3. Read `docs/KYMAEAN_ARS_R1_ANSWER_STATE_SURFACE_INTEGRATION_RESULT.md` for the immediate visual evidence.
+4. Read ARS/AAS/BCA/CDT/SIPD only as needed for the exact current task.
+5. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
+6. Preserve `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `true facts != causal because`, `not available != did not happen`, `history exists != answerable Why?`, `current insufficiency != confidence`, and `Surface != law`.
+7. Do not render CSI-R1 until the Director approves CSI-01.
