@@ -259,15 +259,23 @@ Treat this as evidence of a renderer prior under the semantic prompts—not as t
 
 ## 8. Current application-engineering authority
 
-Re-resolved 2026-09-04 during VID-01 V0R3 work.
+Re-resolved 2026-09-04 during the restarted V0R3 authority audit.
 
 `Rylascoo/Ensemble-Project` current `main`:
 
-`1238b568565bf704a6e6fff70828730982db4b3e`
+`5186b0ab624165ab9872630592b164bf3764273d`
 
-The current `main` includes workflow/documentation commits after Patch 0015 promotion. These do not replace exact machine-observed validation SHAs.
+Current program-architecture authority also includes approved:
 
-Latest completed engineering patch:
+`docs/roadmap/KYMAEAN_ARCHITECTURE_AND_SHIP_PLAN.md` — Proposal `0.7`
+
+Exact recursively audited plan commit recorded by application authority:
+
+`c2687b4905f6f5eddcd7744c14643421f7ff79e4`
+
+The ship-plan/main advancement freezes program dependency ordering and promotion history; it does **not** replace exact machine-observed validation SHAs or silently change the visual-semantic conclusions in VID-01.
+
+Latest completed engineering patch remains:
 
 `H1 Patch 0015 — E0 Accepted Performance History + Context Continuity`
 
@@ -410,7 +418,7 @@ After V0R4 returns, evaluate H3 laterally against the surviving H2 carrier and H
 5. For current VID work, read `docs/KYMAEAN_VID_01_VISUAL_IDENTITY_DIVERGENCE_ENTRY.md` plus only the result/packet directly relevant to the current Director task.
 6. Current next renderer packet: `docs/KYMAEAN_VID_01_V0_RENDER_04_LATERAL_PACKET.md`.
 7. Do not expose the Director hypothesis map or previous-render critique to an isolated Renderer Context.
-8. Resolve current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact product/validation claims; current app `main` may contain later documentation commits without changing exact machine-validation SHAs.
+8. Resolve current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact product/validation claims; current app `main` may contain later documentation/program-plan commits without changing exact machine-validation SHAs.
 9. Use Google Drive as visual-master/provenance authority.
 10. Preserve `Surface != law`, `Research discovery != phase transition`, `Recent strength != incumbent`, `Metaphor != identity`, `Renderer prior != convergence`, and `Assistant preference != Director approval`.
 11. Keep active clean-slate work separate from historical inspiration and preserve Renderer Isolation.
