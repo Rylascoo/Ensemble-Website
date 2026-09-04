@@ -35,22 +35,23 @@ Accepted design chain:
 9. `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md`
 10. `docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md`
 11. `docs/KYMAEAN_VSG_ISOLATED_POSITIVE_RENDER_PACKETS_01.md`
-12. `docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md` — Director-accepted; visual falsification supports its core distinction.
+12. `docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md` — Director-accepted; visual falsification supports the core distinction.
 13. `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_CROSSWALK_01.md` — Director-accepted architecture-to-design bridge.
+14. `docs/KYMAEAN_VSG_A_B_EVIDENCE_COMPARISON_01.md` — accepted evidence-asymmetry checkpoint; A parity subsequently completed.
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_VSG_A_B_EVIDENCE_COMPARISON_01.md`
+`docs/KYMAEAN_VSG_A_B_CONVERGENCE_READINESS_AUDIT_01.md`
 
 Status:
 
-> **VSG-A / VSG-B EVIDENCE COMPARISON 01 — DIRECTOR PROPOSAL FOR REVIEW / EVIDENCE-ASYMMETRIC / NO CONVERGENCE OR PRODUCTION IMPLEMENTATION AUTHORIZED**
+> **VSG-A / VSG-B CONVERGENCE READINESS AUDIT 01 — DIRECTOR PROPOSAL FOR REVIEW / CONVERGENCE READY AT LAW-ROLE LEVEL / NO CONVERGENCE RENDER OR PRODUCTION IMPLEMENTATION AUTHORIZED**
 
-Comparison creation commit:
+Audit creation commit:
 
-`74bdf942029a8faab5362307f5acc2b34fca27be`
+`6e80da1e0647c9c56c8c7754c5fad871b3adb915`
 
-No final logo, palette, typeface, portrait/human-representation medium, Character-image workflow, material system, icon system, motion identity, website composition, exact WinUI control composition, creator-facing ontology, Character Context UI, Take/rehearsal/branch UX, or production design is selected.
+No final logo, palette, typeface, portrait/human-representation medium, Character-image workflow, material system, icon system, motion identity, website composition, exact WinUI control composition, creator-facing ontology, Character Context UI, Take/rehearsal/branch UX, final Stage composition, or production design is selected.
 
 ---
 
@@ -92,7 +93,7 @@ candidate Performance != Accepted Take != effective historical Performance
 meaningful Performance != mandatory meter movement
 ```
 
-People remain primary; transcript/language is supporting evidence rather than automatically the Stage's dominant object.
+People remain primary. Transcript/language is supporting evidence rather than automatically the Stage's dominant object.
 
 Bounded Character disclosure is primarily subtractive: prohibited creator/other-Character information is absent unless awareness of its existence is itself authorized.
 
@@ -106,7 +107,7 @@ Current bridge:
 
 `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_CROSSWALK_01.md`
 
-Visually material app contracts currently include Character-bounded Access Control, Context Composer, Performer candidate output, Director opportunity, Take semantics, atomic causal commit, Patch 0013 effective opportunity authority, and Creator Ontology Extensibility Guard.
+Visually material app contracts include Character-bounded Access Control, Context Composer, Performer candidate output, Director opportunity, Take semantics, atomic causal commit, Patch 0013 effective opportunity authority, and Creator Ontology Extensibility Guard.
 
 Key requirements:
 
@@ -122,38 +123,54 @@ Do not use generic `Tension`, `Progress`, `Risk`, relationship scoring, private-
 
 ---
 
-## 5. VSG evidence checkpoint
+## 5. VSG-A parity result
 
-### VSG-A — Human Editorial / Typographic
+### A-P1 — Character-Bounded Watch + independent Current Opportunity
 
-Positive evidence:
+The first attempted parity image was semantically useful but formally contaminated by VSG-B's cinematic surface and therefore was **not** counted as valid branch-parity evidence.
 
-- strong human specificity;
-- people-before-chrome hierarchy;
-- strongest O0 experiential continuity;
-- strong whitespace/editorial breathing room;
-- natural transcript restraint;
-- plausible expressive Character/name treatment.
+The clean A-isolated correction used a light-neutral / editorial / whitespace-led grammar and materially passed:
 
-Known risks:
+- same P0 / S0 / A / B / C continuity;
+- Character B bounded perspective;
+- Watch posture;
+- Current Opportunity = C;
+- response explicitly not required;
+- no Perform controls;
+- no privileged Director/full-Production information;
+- compact Character identity + presence rather than personality dossier;
+- people primary;
+- transcript subordinate;
+- formal branch visibly distinct from B.
 
-- cast dossier;
-- magazine/editorial product;
-- conventional productivity UI beneath the human field;
-- typography becoming spectacle.
+Judgment:
 
-Important unknowns:
+> **A-P1 PASS.**
 
-A has not yet received architecture-corrected parity testing for strict Character-bounded Watch, independent Current Opportunity, or single-surface changed-present legibility.
+A can preserve bounded disclosure and independent salience without becoming a dossier/report by necessity.
 
-These are unknowns, not failures.
+### A-P2 — Single-surface Changed Present
 
-### VSG-B — Relational Field
+First A-P2 result was a partial pass because editorial copy explicitly stated the changed-present conclusion (`A new understanding holds`, `The same people. A different now`).
 
-Strong evidence now supports:
+One clean correction pass removed those large explanatory statements. The renderer then displaced explanatory work into prominent environmental text (`Revised Agreement — Operative`). Without that explicit announcement, the human arrangement remained substantially similar to A-P1 and did not carry changed-present consequence as strongly as B.
+
+A nevertheless proved that legitimate current authoritative facts can be prioritized through editorial hierarchy without numeric meters or analytical psychology.
+
+Judgment:
+
+> **A-P2 PARTIAL PASS / PARITY LIMIT REACHED.**
+
+Per the agreed one-clean-correction discipline, no further A polishing is justified merely to force a full-system pass.
+
+---
+
+## 6. VSG-B evidence
+
+Strong evidence supports:
 
 - specific people can organize a relational field without graph connectors;
-- relation can be communicated through orientation, proximity, scale, attention and negative space;
+- relationship can be communicated through orientation, proximity, scale, attention and negative space;
 - Character-bounded perspective can preserve one Production while disclosure changes;
 - Watch vs Perform can share disclosure authority while creator agency changes;
 - perspective, creator agency and Current Opportunity are independent dimensions;
@@ -167,7 +184,7 @@ Rejected/quarantined B tendencies include:
 
 - graph nodes / halos / rings / particles / connectors;
 - analytical psychology/tension/progress/risk instrumentation;
-- dark cinematic photography or warm brick-room setting as branch identity;
+- dark cinematic photography or recurring warm brick-room/table setting as branch identity;
 - over-the-shoulder/first-person camera as mandatory Character perspective;
 - global recoloring as Watch/Perform semantics;
 - tactical action menus as Character ontology;
@@ -175,93 +192,109 @@ Rejected/quarantined B tendencies include:
 - explanatory causal timelines/summaries;
 - renderer-authored private psychology.
 
-Latest B changed-present evidence is a near-pass at the law level, not a selected UI surface.
+B's strongest transferable laws:
 
-### VSG-C — Material / Living Record
+> **Relationship as composition, not relationship as visualization.**
 
-Paused and unselected. Current evidence shows the material/persistence hypothesis easily drifts toward archival/paper/aged-record surface language. C is not permanently rejected as a source of later material/persistence ideas.
+> **The changed present can be carried by changed human organization.**
 
----
-
-## 6. Evidence-asymmetry correction
-
-B currently has stronger architecture-critical evidence because it has been tested much more deeply.
-
-Do **not** conclude:
-
-```text
-B tested more deeply
-=
-B wins
-```
-
-Current correct interpretation:
-
-- A has cleaner default tendencies for human primacy, breathing room and transcript restraint;
-- B has much stronger evidence for relational structure, bounded disclosure, perspective/agency/salience orthogonality and changed-present consequence;
-- a fair convergence decision requires minimum A parity testing first.
-
-Possible future A+B compatibility is only a hypothesis, not synthesis authority.
+> **Perspective, creator agency, and current salience are independent dimensions of one living relational workspace.**
 
 ---
 
-## 7. Current Director gate
+## 7. Convergence-readiness result
 
-Director decision requested:
+The project now has enough architecture-corrected A/B evidence to justify one controlled convergence experiment.
 
-> **Accept the VSG-A / VSG-B comparison as evidence-asymmetric. Do not select or synthesize a winner yet.**
+This is **law-role convergence readiness**, not final visual convergence.
 
-If approved, the next smallest justified action is two isolated architecture-corrected VSG-A parity renders:
+Evidence-supported role hypothesis:
 
-### A-P1 — Character-Bounded Watch + independent Current Opportunity
+### VSG-B
 
-Test whether A can preserve:
+Primary contribution:
 
-- P0/S0/A/B/C continuity;
-- Character-B bounded disclosure;
-- Watch posture;
-- Current Opportunity belonging to another Character;
-- `opportunity != obligation`;
-- no Perform controls;
-- no creator-only disclosure;
-- no personality dossier / psychology instrumentation;
-- people/names/editorial hierarchy primary;
-- transcript subordinate.
+> **RELATIONAL / LIVING-PRODUCTION STRUCTURE**
 
-Question:
+Jobs:
 
-> **Can A preserve bounded disclosure and independent salience without becoming a dossier or editorial report?**
+- human relational field;
+- current action/salience;
+- bounded disclosure transformation;
+- changed-human-organization consequence;
+- changed-present continuity.
 
-### A-P2 — Single-surface Changed Present
+### VSG-A
 
-Test whether A can preserve:
+Supporting contribution:
 
-- same P0/S0/A/B/C;
-- one prior causal change already effective;
-- changed current human/editorial organization;
-- new Current Opportunity as salience, not obligation;
-- no timeline / before-event panel / `what changed` summary;
-- no generic tension/progress/risk/relationship meters;
-- no private-mind inference;
-- still-frame and monochrome legibility.
+> **EDITORIAL / LANGUAGE / INFORMATION HIERARCHY**
 
-Question:
+Jobs:
 
-> **Can A make `same world, different now` perceptible through people, hierarchy and editorial organization without relying on explanatory copy?**
+- breathing room;
+- quiet chrome;
+- transcript restraint;
+- compact identity treatment;
+- expressive Character/name/Scene language;
+- legitimate authoritative facts organized without meters;
+- information hierarchy around what relationship alone cannot carry.
 
-If A passes both, a genuine A/B convergence comparison becomes justified.
+Convergence thesis:
 
-If A materially fails either after one clean correction pass, A's role may narrow from complete visual-system candidate to transferable supporting grammar.
+> **Relationship organizes the living Production; editorial hierarchy explains only what the relationship cannot responsibly carry alone.**
 
-No A/B synthesis, final visual identity, C revival, production UI, or website implementation is authorized by this gate.
+This is not permission to combine rendered styling.
+
+Rejected superficial convergence includes:
+
+- B cinematic photograph + A serif headings;
+- A cream field + B glass cards;
+- photoreal people + generic premium editorial layout;
+- amber/green render accents promoted as final semantic color;
+- recurring test cast, agreement scenario, table, room, clothing, or composition promoted as Kymaean identity;
+- A typography explaining causal meaning that the relational field should carry;
+- B analytical relationship instrumentation returning under editorial polish.
+
+Surface law remains:
+
+> **Surface != law.**
 
 ---
 
-## 8. Current application-engineering truth
+## 8. VSG-C status
 
-Always re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
+VSG-C remains paused and unselected. Its material/persistence hypothesis remains useful research but current render evidence drifts readily toward archival/paper/aged-record metaphors.
 
-Last resolved app `main` for this design checkpoint:
+C is not permanently rejected as a future source of material/persistence ideas. It is simply not the smallest unresolved branch while A/B convergence readiness is active.
+
+---
+
+## 9. Human representation remains open
+
+Photoreal recurring people were useful test actors for identity and relational falsification. They do not select Kymaean's final Character medium.
+
+Still open:
+
+- user-provided reference image(s);
+- AI-assisted imagery;
+- illustrated representation;
+- reduced figurative representation;
+- mixed representation depths;
+- no portrait on some surfaces;
+- other identity-invariant systems.
+
+Character remains distinct from every single representation.
+
+---
+
+## 10. Current application-engineering truth
+
+Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
+
+Resolved for this checkpoint:
+
+App `main`:
 
 `e06668a2307433bf99b0501dc38a701db392c633`
 
@@ -277,51 +310,82 @@ Implementation:
 
 `COMPLETE FOR EXERCISED PATCH 0013 SCOPE / PROMOTED TO MAIN`
 
-Machine authority:
+Machine authority remains:
 
-- full Core-test head `a3fae23dc4df302e834b031ecfc848a3bb2d37fc`;
-- `496/496` Core tests PASS;
-- native Core/Harness build + fixture head `382e11f9fbe6774806152fad75b6a23cc8733187`;
-- native `net9.0/win-arm64` Core/Harness Debug build PASS;
-- Missing Raft and generic smoke fixture validation PASS.
-
-No current evidence establishes Windows AI/NPU execution, WinUI implementation, MSIX/WACK success, or Store certification.
+- full Core tests `496/496` PASS at `a3fae23dc4df302e834b031ecfc848a3bb2d37fc`;
+- native Core/Harness Debug build and fixtures at `382e11f9fbe6774806152fad75b6a23cc8733187`;
+- no current evidence establishes Windows AI/NPU execution, WinUI implementation, MSIX/WACK success, or Store certification.
 
 ---
 
-## 9. Accessibility + ARM64 boundary
+## 11. Accessibility + ARM64 boundary
 
 Essential state may not rely on spatial composition, portrait recognition, color, motion, transparency, or material depth alone.
 
 Presentation Perspective, Creator Posture, relevant authority/effect state, Current Opportunity and available actions require programmatic/textual equivalents when exposed.
 
-The visual system should be computationally quiescent when Production state is unchanged. No continuous graph solver, idle AI inference, permanent GPU animation, or decorative persistent NPU work is needed to communicate relationship, posture, disclosure, or opportunity.
+Convergence must remain computationally quiescent when Production state is unchanged:
+
+- deterministic layout at rest;
+- no continuous graph solver;
+- no persistent GPU animation needed for Scene vitality;
+- no decorative idle AI/NPU inference;
+- no motion-only salience;
+- solid/high-contrast/reduced-motion/text-scaling fallbacks remain semantically complete.
 
 The product feels alive because **the Production changes**, not because the compositor is always moving.
 
 ---
 
-## 10. Drive continuity
+## 12. Current Director gate
 
-Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` now records the architecture-grounded VSG-B render lineage, judgments, surface quarantine and retrieval render identifiers.
+Director decision requested:
 
-Those entries explicitly distinguish textual/render-ID preservation from standalone Drive binary preservation; no standalone raw image asset is claimed unless separately verified.
+> **Accept A/B as convergence-ready at the law-role level: VSG-B supplies the primary relational/living-Production structure; VSG-A supplies supporting editorial/language/information hierarchy. This is not final visual convergence and grants no surface inheritance rights.**
 
-Google Drive `Kymaean Visual Continuity Constitution` points to `docs/KYMAEAN_VSG_A_B_EVIDENCE_COMPARISON_01.md` as the active design artifact.
+If approved, the next smallest justified action is exactly one isolated convergence render:
+
+`VSG-AB1 — Relational Editorial Field`
+
+AB1 controlled state:
+
+- same P0 / S0 / A / B / C;
+- Presentation Perspective = Character B bounded;
+- Creator Posture = Watch;
+- Current Opportunity = C;
+- response not required;
+- one prior effective consequence already reflected in current Production;
+- no before/event panel;
+- no timeline;
+- no `what changed` sentence;
+- no large editorial thesis sentence;
+- no environmental text announcing the consequence;
+- no private-mind inference;
+- no personality dossiers;
+- no Tension / Progress / Risk / relationship scores;
+- no Perform controls;
+- no graph connectors / halos / rings / particles;
+- no explanatory Director rationale.
+
+Falsification question:
+
+> **Can Kymaean feel simultaneously relationally alive and editorially clear without becoming either an AI social dashboard or premium magazine software?**
+
+Generate one unrefined output only, preserve it, critique it, and stop. No correction chain, final identity, VSG-C revival, production UI, or website implementation is automatically authorized.
 
 ---
 
-## 11. Fresh-chat bootstrap
+## 13. Fresh-chat bootstrap
 
 For a new Kymaean app + website design Director chat:
 
 1. read this file first and resolve current `Ensemble-Website` main;
-2. read `docs/KYMAEAN_VSG_A_B_EVIDENCE_COMPARISON_01.md` as the active gate;
-3. read `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_CROSSWALK_01.md` for architecture-derived visual constraints;
-4. read `docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md` when posture/perspective is involved;
-5. read VSG studies/render packets only as experiment provenance;
+2. read `docs/KYMAEAN_VSG_A_B_CONVERGENCE_READINESS_AUDIT_01.md` as the active gate;
+3. read `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_CROSSWALK_01.md` for app-derived design authority;
+4. read `docs/KYMAEAN_VSG_A_B_EVIDENCE_COMPARISON_01.md` only for pre-parity provenance;
+5. read `docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md` when posture/perspective is relevant;
 6. re-read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims;
-7. preserve `Character != Performer`, `Character != Portrait`, `Presentation Perspective != Creator Posture`, `Present != Salient != Obliged`, and `Accepted Take != causal effectiveness`;
+7. preserve `Character != Performer`, `Character != Portrait`, `Presentation Perspective != Creator Posture`, `Present != Salient != Obliged`, `Accepted Take != causal effectiveness`, and `Meaningful Performance != mandatory meter movement`;
 8. never infer Character private mind from visual/social evidence;
 9. preserve `Surface != law`, `Recent strength != incumbent`, and `Research discovery != phase transition`;
-10. stop before A-P1/A-P2 rendering unless the Director approves the current comparison gate.
+10. do not render AB1 until the Director approves the current convergence-readiness gate.
