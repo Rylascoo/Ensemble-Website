@@ -5,12 +5,12 @@ Updated: 2026-09-03
 ## 1. Identity and authority
 
 - The underlying application is **Ensemble**, intended to be publicly branded **Kymaean**.
-- `Rylascoo/Ensemble-Website` is authoritative for website engineering, website/brand continuity, and cross-product app + website design-synthesis proposal work.
+- `Rylascoo/Ensemble-Website` is authoritative for website engineering, website/brand continuity, and cross-product app + website design synthesis.
 - `Rylascoo/Ensemble-Project` is authoritative for exact application-engineering truth, source, tests, architecture status, and validation boundaries.
-- Google Drive `Ensemble Project` is the canonical visual/design workspace and master-asset authority.
-- The old `Rylascoo/Kymaean-Project` is unrelated and must not influence Ensemble/Kymaean unless explicitly requested.
+- Google Drive `Ensemble Project` is canonical visual/design workspace and master-asset authority.
+- The old `Rylascoo/Kymaean-Project` is unrelated unless explicitly requested.
 
-This file is a **checkpoint authority**, not a replacement for the detailed canonical artifacts it links. The more verbose prior checkpoint remains preserved in Git history at `d77854c919e66a17e98bf8df4af57f1c1791cff8`.
+This file is checkpoint authority, not a replacement for detailed canonical artifacts.
 
 Anti-churn law:
 
@@ -20,9 +20,7 @@ Anti-churn law:
 
 ## 2. Current phase checkpoint
 
-**R0 Visual Re-Foundation research calibration is closed.**
-
-The project is in integrated app + website design synthesis.
+R0 Visual Re-Foundation calibration is closed. The project is in integrated app + website design synthesis.
 
 Accepted design chain:
 
@@ -34,20 +32,21 @@ Accepted design chain:
 6. `docs/KYMAEAN_TASK_FIRST_LOW_FIDELITY_STATE_WIREFRAME_PROPOSAL_01.md` — accepted semantic-state validation;
 7. `docs/KYMAEAN_CONTINUOUS_WORKSPACE_WIREFRAME_PROPOSAL_01.md` — accepted continuous-workspace basis;
 8. `docs/KYMAEAN_CONTINUOUS_WORKSPACE_GRAYSCALE_WIREFRAME_01.md` — Director-accepted structural control;
-9. `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` — Director-accepted, recursively audited visual-system constraint set;
-10. `docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md` — Director-accepted controlled A/B/C pre-render divergence studies.
+9. `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` — Director-accepted recursively audited visual constraint set;
+10. `docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md` — Director-accepted controlled A/B/C divergence studies;
+11. `docs/KYMAEAN_VSG_ISOLATED_POSITIVE_RENDER_PACKETS_01.md` — accepted render-packet basis for isolated visual evidence.
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_VSG_ISOLATED_POSITIVE_RENDER_PACKETS_01.md`
+`docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md`
 
 Status:
 
-> **VSG ISOLATED POSITIVE RENDER PACKETS 01 — DIRECTOR PROPOSAL FOR REVIEW / PACKETS PREPARED / NO IMAGE GENERATION, REFINEMENT, CONVERGENCE, OR PRODUCTION IMPLEMENTATION AUTHORIZED**
+> **CHARACTER-BOUNDED WATCH / PERFORM CONTRACT 01 — DIRECTOR PROPOSAL FOR REVIEW / RECURSIVELY AUDITED / NO PRODUCTION IMPLEMENTATION AUTHORIZED**
 
-Render-packet preparation commit:
+Contract commit:
 
-`26776dee28fc2ea788ba3cf02d9b3309d65d1705`
+`254c5172cd16ae71488fb742bfe8fd4705dc9408`
 
 Live structural principle:
 
@@ -57,15 +56,13 @@ Accepted visual priority law:
 
 > **Human signal over system ornament.**
 
-This is a priority law, not a minimalism law or selected aesthetic. The app may be atmospheric, theatrical, textural, typographic, strange, or visually rich when those qualities strengthen the living Production while preserving accessibility and quiescent operation.
-
-No final logo, symbol, wordmark, palette, typeface, human-representation medium, material system, icon system, motion identity, website composition, exact WinUI control composition, creator-facing terminology, Take/rehearsal/branch UX, Character Context disclosure UX, or production design is selected.
+No final logo, palette, typeface, portrait/human-representation medium, material system, icon system, motion identity, website composition, exact WinUI control composition, creator-facing terminology, Character Context ontology, Take/rehearsal/branch UX, or production design is selected.
 
 No production XAML, C#, Astro, CSS, JavaScript, final design tokens, or substantial implementation is authorized by the current design state.
 
 ---
 
-## 3. Durable product/experience model
+## 3. Durable product and interaction model
 
 Authoritative creative cycle:
 
@@ -74,8 +71,6 @@ CAST -> WORLD -> KNOWLEDGE -> PRESSURE -> SCENE -> PERFORMANCE -> CONSEQUENCE
   ^                                                                  |
   +------------------------------------------------------------------+
 ```
-
-Consequence changes future conditions and therefore future possibility.
 
 Creator postures remain:
 
@@ -86,13 +81,7 @@ Creator postures remain:
 
 They are relationships to one engine, not navigation silos.
 
-Historical conceptual functions remain useful but unfrozen as UI:
-
-- Studio — what could happen;
-- Stage — what happens;
-- Archive — what happened, what changed, and what did it mean.
-
-Presentation Perspective remains disclosure over one authoritative Production:
+Presentation Perspective remains a separate disclosure axis over one authoritative Production:
 
 - Creator / Production;
 - Audience;
@@ -106,11 +95,7 @@ Creator ontology guard:
 
 UI vocabulary does not automatically become storage ontology.
 
----
-
-## 4. Accepted information + interaction architecture
-
-One persistent Production contains three descriptive information orientations:
+Within one persistent Production:
 
 ```text
 POSSIBILITY
@@ -123,21 +108,17 @@ Shell rule:
 
 > **Navigate between durable scopes; transition within one Production by following meaning.**
 
-`Back` means navigation history only. It never means undo, reject, rewind, retcon, branch, or causal mutation.
+`Back` means navigation history only; never causal undo, rewind, reject, retcon, branch, or mutation.
 
-One-window completeness remains the baseline. Wide/medium/narrow layouts may rearrange information; no essential meaning may depend on simultaneous panes.
-
-The accepted causal-session endpoint is:
+The causal-loop endpoint remains:
 
 > **I am back in the same world, but it is different because of what happened.**
-
-The changed present, not a history summary, completes the causal loop.
 
 Take acceptance and causal effectiveness remain distinct semantic dimensions.
 
 ---
 
-## 5. Accepted visual-system grammar
+## 4. Accepted visual-system laws
 
 Primary present-performance hierarchy:
 
@@ -155,24 +136,20 @@ CREATOR COMMANDS
 ADVANCED SYSTEM METADATA
 ```
 
-Durable visual laws:
+Durable laws:
 
-- people remain structurally/semantically primary;
-- relationship may organize the visual field through distance, orientation, overlap, negative space, interruption, occlusion, recurrence, and attention;
+- people remain structurally and semantically primary;
+- relationship may organize the field through orientation, distance, overlap, negative space, interruption, occlusion, recurrence, and attention;
 - spatial meaning always has accessible non-spatial equivalents;
 - Character identity is an invariant bundle, not one mandatory portrait;
 - provider/model identity remains secondary to Character identity;
-- operational and expressive typographic registers may coexist, but exact fonts remain open;
-- contiguous primary fields and contextual layers are preferred over universal card walls;
-- color jobs precede color selection and no essential distinction is color-only;
 - consequence should first alter understandable organization/state/affordance rather than trigger spectacle;
-- history should primarily answer **why is this true now?**;
+- history primarily answers **why is this true now?**;
 - bounded perspective is disclosure-driven and usually subtractive rather than cosmetic;
-- material depth may clarify persistence/hierarchy/transience but cannot become the semantic mechanism;
 - motion is local, causal, optional, brief, and redundant with the final static state;
-- visual richness must remain semantically complete under reduced motion, high contrast, solid-material fallback, and stillness.
+- the system remains semantically complete under reduced motion, high contrast, solid-material fallback, text scaling, and stillness.
 
-Orthogonal visual-state axes:
+Orthogonal semantic axes remain:
 
 ```text
 TEMPORAL LOCUS
@@ -187,6 +164,9 @@ resolved | unresolved/still active   [where product truth supports it]
 DISCLOSURE PERSPECTIVE
 creator/production | audience | character-bounded
 
+CREATOR POSTURE
+watch | direct | perform | write
+
 TECHNICAL CAPABILITY
 available | degraded/partial | unavailable   [exact implementation terminology later]
 ```
@@ -195,146 +175,154 @@ Technical capability state is never fictional dramatic state and never creates c
 
 ---
 
-## 6. Accepted controlled VSG studies
+## 5. VSG render evidence to date
 
-All branches share the same neutral semantic packet:
-
-```text
-Production P0
-Scene S0
-three specific people A / B / C
-R0 -> E1 -> R1
-non-effective performance material M1
-successful causal-effect boundary -> E2
-R1 -> R2
-P2 unresolved / still active
-return to same P0 / S0 / A / B / C with R2 / P2 current
-```
-
-No concrete scenery, occupation, prop, culture, or genre is part of the controlled packet.
-
-Required controlled states:
-
-1. Present / Watch;
-2. Causal Trace / Historical Focus;
-3. Character-B Bounded Perspective;
-4. Causal-Effect Sequence / Changed Present.
-
-Accepted experimental branches:
+Controlled render work has produced useful exploratory evidence but no branch convergence and no final surface inheritance.
 
 ### VSG-A — Human Editorial / Typographic
 
-Hypothesis: human presence, names, language scale, whitespace, and editorial hierarchy carry most of the visual identity with quiet chrome.
+Evidence supports:
 
-Current pre-render interpretation:
+- strong human specificity and people-before-chrome hierarchy;
+- strong O0 experiential continuity;
+- good transcript restraint potential.
 
-- strongest O0 human/theatrical continuity;
-- strongest natural transcript restraint;
-- risk: editorial/magazine surface can become more important than the living Production.
+Risks remain:
 
-### VSG-B — Relational Field / Abstract Human
+- cast-dossier/editorial-product feel;
+- conventional dashboard structure below the human field;
+- typography or polished productivity conventions becoming the spectacle.
 
-Hypothesis: persistent specific people and relationship itself organize the field through individually persistent human-form invariants.
+### VSG-B — Relational Field
 
-Current pre-render interpretation:
+The strongest recovered law is now:
 
-- strongest relationship-as-visual-structure expression;
-- potentially most category-distinctive Kymaean-native language;
-- potentially strongest changed-present return;
-- highest risk: people collapse into nodes/diagram or spatial relation implies quantified psychology.
+> **Relationship as composition, not relationship as drawn connection.**
+
+Evidence supports:
+
+- specific people can remain primary while relationship organizes the field;
+- A/B social focus can be legible through orientation, scale, proximity, eye-line, depth, negative space, and attention without graph connectors;
+- Character-bounded perspective can preserve the same Production and relational field while disclosure changes;
+- relational composition remains promising as a uniquely Kymaean visual mechanism.
+
+Rejected/failed B surface tendencies include:
+
+- graph-node reduction;
+- halos, rings, particle traces, explicit relationship connectors, analytical instrumentation;
+- global-looking psychology/tension/progress summaries where disclosure authority does not support them;
+- treating cinematic first-person/over-the-shoulder composition as the only Character-perspective solution.
 
 ### VSG-C — Material / Living Record
 
-Hypothesis: quiet digital material depth and state registration make persistence/current authority/consequence feel durable while people remain primary.
+Current render evidence exposed the predicted risk: material persistence readily drifts into archival/paper/aged-record surface language. C remains unselected and paused while the more fundamental relational hypothesis is tested.
 
-Current pre-render interpretation:
-
-- strongest persistence/authority/history intuition;
-- risk: material/history metaphor outranks people or becomes a card/document stack.
-
-No branch is selected. These interpretations are design-team hypotheses only.
+No current render surface has inheritance rights merely because it was attractive or informative.
 
 ---
 
-## 7. Active isolated render packets
+## 6. Active semantic correction — Character-bounded Watch versus Perform
 
-`docs/KYMAEAN_VSG_ISOLATED_POSITIVE_RENDER_PACKETS_01.md` defines the exact pre-render experiment.
+`docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md` resolves a contradiction exposed by bounded-perspective render evidence.
 
-Renderer Isolation:
+Core law:
 
-> **The director remembers everything. The canvas remembers nothing.**
+> **Presentation Perspective governs what may be disclosed; Creator Posture governs how the creator may act.**
 
-Each branch has:
+Therefore:
 
-- one isolated positive formal packet;
-- four independent state packets: A1–A4, B1–B4, C1–C4;
-- identical controlled semantic facts across branches;
-- no historical anti-attractor catalog in renderer-visible instructions;
-- no concrete narrative seed added to make a branch easier;
-- no final Take/Accept terminology introduced;
-- Character-B privileged information removed rather than dimmed;
-- changed-present return required in every branch.
+> **Character-bounded Watch and Character-bounded Perform use the same Character disclosure authority but different creator agency.**
 
-Recommended future generation sequence after Director approval:
+### Character-bounded Watch
+
+Meaning:
+
+> the creator witnesses the current Production through what Character B may perceive or legitimately access without taking over B's performance agency.
+
+Must not expose B-performance controls such as `Speak as B`, `Act as B`, or `I act through B`.
+
+The creator may inspect permitted bounded context, follow observable action, navigate focus, and explicitly exit/change perspective through creator-level controls.
+
+### Character-bounded Perform
+
+Meaning:
+
+> the creator temporarily assumes the Performer role for B while remaining inside the same Character-B disclosure authority.
+
+Entering Perform changes agency, not reality or disclosure privilege.
+
+Performance input creates candidate/non-effective Performance material and must not visually imply that authoritative Production history changed merely because the creator chose an action.
+
+Final Take/rehearsal/branch interaction remains open.
+
+### Evidence classes for bounded testing
+
+Where useful and supported, distinguish conceptually:
 
 ```text
-A1 -> A2 -> A3 -> A4
-clear branch context
-B1 -> B2 -> B3 -> B4
-clear branch context
-C1 -> C2 -> C3 -> C4
+OBSERVED
+HEARD / RECEIVED
+ESTABLISHED / AVAILABLE TO B
+UNRESOLVED / UNKNOWN
 ```
 
-Do not use a generated image from one branch as reference material for another branch.
+These are testing evidence classes, not frozen UI labels or storage enums.
 
-Preserve original unrefined outputs before any iteration.
-
-Post-render evaluation dimensions:
-
-1. human specificity;
-2. human primacy;
-3. relationship legibility;
-4. persistent identity across states;
-5. current/historical clarity;
-6. non-effective/effective clarity;
-7. bounded-disclosure integrity;
-8. changed-present legibility;
-9. accessibility plausibility;
-10. quiescent ARM64 plausibility;
-11. cross-product distinctiveness potential;
-12. branch-specific failure-mode exposure.
-
-A beautiful render that fails authority, disclosure, identity, or changed-present semantics is evidence **against** the branch.
+Do not infer private mind from posture, gaze, silence, spatial position, or dialogue alone.
 
 ---
 
-## 8. O0 experiential benchmarks
+## 7. Next falsification test if current gate is approved
 
-O0 remains a major conceptual ancestor, not selected surface.
+Create two isolated VSG-B states from the same relational packet:
 
-Refined Stage benchmark:
+### B3-W — Character-bounded Watch
 
-> **Can people and relationships become more important than software chrome during live performance?**
+Required:
 
-Refined Character View / Take a Seat benchmark:
+- same P0 / S0 / A / B / C;
+- same Character-B disclosure boundary;
+- relational composition remains primary;
+- no B performance input;
+- no `I act through B` semantics;
+- privileged information absent.
 
-> **Can changing disclosure perspective materially transform the creator's experience of the same Production without implying a different reality?**
+Question:
 
-Refined Archive benchmark:
+> **Can Character-bounded Watch feel rich and relational without granting the creator B's agency?**
 
-> **Can history answer what changed and why it matters now rather than only what happened before?**
+### B3-P — Character-bounded Perform
 
-If a new design is architecturally cleaner but fails these tests, it is weaker than the original conceptual lineage.
+Required:
+
+- exact same P0 / S0 / A / B / C and disclosure boundary;
+- explicit posture change to Perform;
+- bounded Character-performance input;
+- candidate/non-effective semantics after input where applicable;
+- no creator-only information leak;
+- no implication that performance input automatically changes history.
+
+Question:
+
+> **Can the creator clearly feel that agency changed while reality and disclosure did not?**
+
+Preserve original unrefined outputs before comparison.
+
+No causal-history render, changed-present render, A/B synthesis, C revival, or branch convergence is authorized by this gate.
 
 ---
 
-## 9. R0 closure and visual inheritance
+## 8. O0 and R0 continuity
 
-R0 calibration is closed:
+O0 remains conceptual ancestor, not selected surface.
 
-> **No TEO-03. No PAC-01F. No further calibration render by default.**
+Experiential benchmarks:
 
-Durable R0 laws include:
+- people and relationships outrank software chrome during live performance;
+- bounded disclosure materially changes experience without implying a different reality;
+- history answers what changed and why it matters now.
+
+R0 durable laws include:
 
 - human primacy;
 - relationship as visual structure;
@@ -354,31 +342,23 @@ Working internal thesis:
 >
 > Kymaean should feel like a world that notices people, remembers what they do, and is changed by what follows.
 
-Internal only; not public tagline or aesthetic prescription.
-
 Surface law:
 
 > **Surface != law.**
 
-No O0 or R0 surface inherits automatically. Historical material may reappear only if independently re-earned from current product truth.
+Renderer Isolation:
 
-The detailed surface-quarantine / anti-attractor catalog remains Director-side audit material and must not be pasted wholesale into renderer prompts.
+> **The director remembers everything. The canvas remembers nothing.**
 
-Critical provenance safeguard:
-
-- correct RST-05B Drive ID: `1Co2-lrv2Hzv6rfGbP3hT9og7HYAyc7ai`;
-- misattributed three-person seated image Drive ID `1DehL35OpP8KuHy_owdTv96Q_5_lNR1Q2` is non-evidence for RST-05B;
-- PAC-01D remains valid clean-render evidence.
+R0 remains closed: no TEO-03, PAC-01F, or renewed calibration render by default.
 
 ---
 
-## 10. Application-engineering truth
+## 9. Application-engineering truth
 
 Always re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
 
-Resolved during this checkpoint:
-
-Application `main`:
+Last resolved app `main` at this checkpoint lineage:
 
 `8c89f998fe6f42e04a75b9090fbcc10f0574f5a2`
 
@@ -386,26 +366,26 @@ Latest completed patch:
 
 `H1 Patch 0012 — E0 Atomic Causal Commit`
 
-Current validated scope:
+Validated exercised scope includes:
 
-- Proposal 0.10 frozen;
-- implementation complete for exercised Patch 0012 scope and promoted to main;
-- exact native Windows ARM64 machine-tested executable/test head: `39bc078c130ab1165c6a81c1673dd5cd25da3724`;
+- exact native Windows ARM64 machine-tested head `39bc078c130ab1165c6a81c1673dd5cd25da3724`;
 - 473/473 Core tests PASS;
 - native `net9.0/win-arm64` Core/Harness Debug build PASS;
 - Missing Raft Harness PASS exit `0`;
 - generic smoke Harness PASS exit `0`;
-- exact Accepted Take Performance plus every retained Approved consequence becomes effective atomically or neither does;
+- exact Accepted Take Performance plus retained Approved consequences become effective atomically or neither does;
 - retained Rejected consequences remain non-effective;
-- Patch 0012 adds no idle/background/network/provider/clock/random/GPU/NPU work.
+- no added idle/background/network/provider/clock/random/GPU/NPU work in Patch 0012.
 
 Still outside validated Patch 0012 scope include final creator-facing ontology, evolved Character Context disclosure, final Take/branch/rehearsal UX, next-opportunity transition, evolved Production -> Access/Context integration, full multi-turn replay, Windows AI/NPU execution, package/WACK validation, and Store certification.
 
-Do not promote static analysis into compiler/runtime/NPU/WACK/Store authority.
+Never promote static analysis into compiler/runtime/NPU/WACK/Store authority.
 
 ---
 
-## 11. Accessibility + ARM64/battery boundary
+## 10. Accessibility + ARM64/battery boundary
+
+Both Presentation Perspective and Creator Posture must be programmatically exposed when relevant.
 
 The experience must remain complete under:
 
@@ -420,58 +400,46 @@ The experience must remain complete under:
 - disabled transparency/material fallback;
 - narrow sequential layouts.
 
-The visual system must be computationally quiescent when Production state is unchanged.
+Watch <-> Perform must be representable as a state-driven command/view transition with no baseline need for idle inference, continuous graph solving, permanent GPU animation, or persistent NPU decoration.
 
-Avoid baseline dependence on continuous graph solvers, permanent GPU animation, idle polling, idle AI inference, decorative persistent NPU work, or continuous custom rendering whose motion is needed for comprehension.
-
-The product should feel alive because **the Production changes**, not because the compositor is always moving.
-
-Exact Windows controls, materials, typography implementation, and fallback behavior remain implementation-time verification work against the targeted Windows App SDK version.
+The product feels alive because **the Production changes**, not because the compositor is always moving.
 
 ---
 
-## 12. Website boundary
+## 11. Website boundary
 
 - Cloudflare project/Worker identity remains `ensemble-website`.
 - No production website implementation is initialized.
-- Provisional implementation direction remains Astro + TypeScript + modern CSS + SVG + selective JavaScript, static generation, and Cloudflare Workers Static Assets unless design evidence earns something heavier.
-- Website must preserve accessibility, responsive behavior, reduced motion, performance, progressive enhancement, maintainability, discoverability, and truthful claims.
-
-App and website share laws rather than identical forms. The website has greater expressive latitude/scale; the app may still be atmospheric and artistically distinctive.
-
-No branch earns visual convergence until rendered app comparison and the lightweight cross-product transfer check are complete.
+- Provisional direction remains Astro + TypeScript + modern CSS + SVG + selective JavaScript, static generation, and Cloudflare Workers Static Assets unless design evidence earns something heavier.
+- App and website share laws rather than identical forms.
+- No visual branch earns convergence until rendered app comparison and the lightweight cross-product transfer check are complete.
 
 ---
 
-## 13. Fresh-chat bootstrap
+## 12. Fresh-chat bootstrap
 
 For a new Kymaean app + website design Director chat:
 
 1. read this file first;
 2. resolve current `Rylascoo/Ensemble-Website` `main`;
-3. read `docs/KYMAEAN_VSG_ISOLATED_POSITIVE_RENDER_PACKETS_01.md` as the active Director-review artifact;
-4. read `docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md` as the accepted branch-definition and comparison basis;
-5. read `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` as the accepted recursively audited visual constraint set;
-6. read `docs/KYMAEAN_CONTINUOUS_WORKSPACE_GRAYSCALE_WIREFRAME_01.md` as the accepted structural control;
-7. read only earlier accepted design-chain artifacts needed for the current question;
+3. read `docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md` as the active Director-review artifact;
+4. read `docs/KYMAEAN_VSG_ISOLATED_POSITIVE_RENDER_PACKETS_01.md` for the accepted render experiment basis;
+5. read `docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md` for branch definitions;
+6. read `docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md` for accepted visual-system laws;
+7. read accepted information/shell/interaction artifacts only as needed;
 8. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and resolve app `main` before exact engineering claims;
-9. read `docs/blueprint/CREATOR_ONTOLOGY_EXTENSIBILITY_GUARD.md` when creator-facing ontology/state labels are in scope;
-10. consult Google Drive `Kymaean Visual Continuity Constitution` and R0 synthesis when visual continuity is in scope;
-11. consult O0 only when exact historical comparison is useful; O0 is conceptual ancestor, not selected surface;
-12. never use the misattributed three-person image as RST-05B evidence;
-13. do not reopen Renderer Cartography, TEO-03, or PAC-01F;
-14. preserve `Human signal over system ornament` as priority law, not minimalism mandate;
-15. preserve orthogonal state axes and `Take acceptance != causal effectiveness`;
-16. preserve fixed controlled facts across VSG branches;
-17. do not expose the Director-side anti-attractor catalog to renderers;
-18. do not use one VSG branch's rendered output as another branch's reference;
-19. preserve original unrefined render evidence before iteration;
-20. no branch convergence before equivalent rendered comparison plus cross-product transfer check;
-21. stop at the current Director gate before image generation, refinement, synthesis, winner selection, or implementation.
+9. preserve Creator Posture and Presentation Perspective as orthogonal axes;
+10. never infer Character private mind from visual/social evidence;
+11. preserve `Take acceptance != causal effectiveness`;
+12. preserve original unrefined render evidence before iteration;
+13. do not use one VSG branch render as another branch's visual reference;
+14. do not expose the Director-side anti-attractor catalog to renderers;
+15. do not reopen R0 Renderer Cartography;
+16. stop at the current Director gate before B3-W/B3-P rendering, causal-history rendering, branch synthesis, convergence, or implementation.
 
 ---
 
-## 14. Phase authority
+## 13. Phase authority
 
 Preserve:
 
@@ -480,8 +448,6 @@ Preserve:
 > **Assistant/design-team preference != user approval.**
 >
 > **Recent strength != incumbent.**
->
-> **Metaphor != identity.**
 >
 > **Surface != law.**
 >
@@ -493,20 +459,18 @@ Preserve:
 >
 > **The changed present, not the history screen, completes the causal loop.**
 >
-> **Continuity of meaning does not require continuity of appearance.**
->
 > **Take acceptance != causal effectiveness.**
 >
-> **Controlled facts stay fixed while visual grammar changes.**
+> **Presentation Perspective != Creator Posture.**
 >
-> **The director remembers everything. The canvas remembers nothing.**
+> **Changing agency does not change disclosure authority.**
 
 Current gate:
 
-> **Director review of `docs/KYMAEAN_VSG_ISOLATED_POSITIVE_RENDER_PACKETS_01.md`.**
+> **Director review of `docs/KYMAEAN_CHARACTER_BOUNDED_WATCH_PERFORM_CONTRACT_01.md`.**
 
 If approved, the next smallest justified action is:
 
-> **Generate the first isolated Present / Watch comparison unit: A1, B1, and C1 independently from their prepared positive packets, preserve the three original outputs, and compare them before generating later states or refining any branch.**
+> **Render B3-W and B3-P independently from the same relational-field packet, preserving original outputs and testing whether creator agency can change without changing reality, disclosure, or the core relational workspace.**
 
-No image generation, branch refinement, synthesis, final visual identity, production UI implementation, or website implementation is automatically authorized.
+No broader refinement, branch synthesis, final visual identity, production UI implementation, or website implementation is automatically authorized.
