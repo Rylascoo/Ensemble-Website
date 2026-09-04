@@ -37,15 +37,16 @@ Accepted/active chain:
 13. ARS-01 + ARS-V1 answer-route/sufficiency signaling;
 14. ARS-R1 answer-state surface integration;
 15. CSI-01 + CSI-R1 continuous Stage integration;
-16. `docs/KYMAEAN_SPR_01_STAGE_PRESENCE_REDUCTION_PROPOSAL.md`.
+16. SPR-01 + SPR-R1 Stage presence reduction;
+17. `docs/KYMAEAN_CIR_01_CHARACTER_IDENTITY_RECOVERABILITY_PROPOSAL.md`.
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_SPR_01_STAGE_PRESENCE_REDUCTION_PROPOSAL.md`
+`docs/KYMAEAN_CIR_01_CHARACTER_IDENTITY_RECOVERABILITY_PROPOSAL.md`
 
 Status:
 
-> **SPR-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER PERSISTENCE-BUDGET CONTRACT / NO FINAL STAGE SURFACE OR IMPLEMENTATION SELECTED**
+> **CIR-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER IDENTITY-RECOVERABILITY CONTRACT / NO FINAL CHARACTER MEDIUM OR LABELING SYSTEM SELECTED**
 
 ---
 
@@ -91,10 +92,15 @@ Status:
 
 > **State-like decoration requires defined semantics or removal.**
 
+> **Reduction is not loss when the living Production already carries the meaning.**
+
+> **The default Stage does not need to visually explain the architecture that makes it trustworthy.**
+
 Core distinctions:
 
 ```text
 Character != Performer != Portrait
+Character entity identity != creator-facing name != visual representation
 Presentation Perspective != Creator Posture
 Present in Scene != Current Opportunity != Must Respond
 candidate Performance != Accepted Take != effective historical Performance
@@ -111,6 +117,7 @@ history exists != requested explanation is answerable
 current insufficiency != low confidence
 technical limitation != fictional Character behavior
 semantic persistence != visual duplication
+identity recoverable != name continuously printed
 ```
 
 ---
@@ -124,6 +131,15 @@ A/B convergence:
 CRV-01:
 
 > **PASS — Character representation viability demonstrated across depths.**
+
+CRV durable findings:
+
+- rich depiction improves immediacy but is not required for persistent identity, relational presence, bounded perspective, or independent salience;
+- identity is a redundant invariant bundle rather than one immutable portrait;
+- relationship survives meaningful representation reduction;
+- B Perspective and C Current Opportunity remain independent across representation depths;
+- rich portrayal increases epistemic temptation but does not create knowledge/Observation/private-mind authority;
+- image-limited/reduced-detail accessibility remains structurally plausible.
 
 TCV-01:
 
@@ -191,168 +207,134 @@ CSI-R1:
 
 > **WHOLE-STAGE SEMANTIC INTEGRATION PASS / SURFACE-RESTRAINT PARTIAL FAIL.**
 
+CSI-R1 established that Perspective=Wren, Watch, Current Opportunity=C, non-obligation, bounded answer semantics, and retained human Stage can coexist. It also exposed dashboard-perimeter accumulation, redundant roster/status decoration, generic global navigation, marketing copy, overbuilt Opportunity UI, and conventional inspector geometry.
+
+---
+
+## 5. SPR-R1 — accepted checkpoint
+
 Artifact:
 
-`docs/KYMAEAN_CSI_R1_CONTINUOUS_STAGE_INTEGRATION_RESULT.md`
+`docs/KYMAEAN_SPR_R1_STAGE_PRESENCE_REDUCTION_RESULT.md`
+
+### SPR-R1A
 
 Render ID:
 
-`7e082dbc-1522-46f3-9233-abf6e577f4ab`
+`a6333435-b6b5-4e92-a2aa-3704b56011ed`
 
-CSI-R1 strong evidence:
+Judgment:
 
-- Character-bounded perspective and Watch posture coexist without `(You)` embodiment semantics;
-- Current Opportunity C remains explicit, independent and non-obligatory;
-- minimum bounded answer survives inside the whole Stage;
-- no redundant supporting basis, disclosure lecture, confidence status, private-category explanation, provenance label, or false historical route is needed;
-- people remain the first read;
-- the same Production/Scene remains retained;
-- rich portrayal is not promoted into Character Observation/knowledge.
+> **PERSISTENCE-REDUCTION PARTIAL PASS / CLOSED-STAGE VALIDATION NOT ACHIEVED**
 
-CSI-R1 surface failures:
+It successfully removed the duplicate roster, undefined Character status dots, global `People / Context / Progress`, generic AI composer, evidence taxonomy, dossier, transcript, confidence/provenance systems, and other persistent chrome. But the context answer was already open, so it did not prove the reduced closed Stage.
 
-- the context surface remains too much like a conventional sidebar;
-- duplicate portrait roster is unproven and likely redundant;
-- colored Character status dots have no defined authoritative semantics;
-- `PEOPLE / CONTEXT / PROGRESS` recreates generic global silos and conflicts with meaning-following navigation;
-- Stage marketing copy is not Production information;
-- product branding is over-weighted relative to Production identity;
-- Current Opportunity card treatment risks gameplay/turn-order semantics;
-- perimeter chrome accumulation creates a dashboard around a human center.
+### SPR-R1B
 
-CSI-R1 promoted conclusions:
+Render ID:
 
-> **The architecture is now more mature than the recurring visual surface carrying it.**
+`467c5246-57d8-41c4-afef-35af0ffc2e3b`
 
-> **A human-first center can still become dashboard-like if the perimeter accumulates persistent system chrome.**
+Formal judgment:
 
-No CSI-R1 surface has inheritance rights.
+> **CLOSED-STAGE REDUCTION PASS / SURFACE SYSTEM STILL UNSELECTED**
+
+The valid closed Stage retained approximately:
+
+```text
+P0 / S0
+Watch
+
+living people / relationship
+
+Perspective: Wren
+
+Current Opportunity: C
+Response is not required
+```
+
+Strong findings:
+
+- people/relationship became the unmistakable first read;
+- Production/Scene remained quietly recoverable;
+- Perspective=Wren and Watch remained separately legible without `(You)` or embodiment implication;
+- Current Opportunity remained explicit and non-obligatory;
+- duplicate portrait roster was not required;
+- global Stage navigation, marketing copy, AI composer, context panel, transcript, evidence taxonomy, history controls, confidence system, and trust machinery were not required at rest;
+- removing UI increased rather than reduced the perceptual authority of the Production.
+
+Promoted laws:
+
+> **Reduction is not loss when the living Production already carries the meaning.**
+
+> **The default Stage does not need to visually explain the architecture that makes it trustworthy.**
+
+Remaining partials:
+
+- Current Opportunity visual treatment still risks turn-token/gameplay semantics;
+- product branding should continue to recede behind active Production identity;
+- full Character identity recoverability without a roster is not yet proven for first-time, narrow-layout, reduced-detail, image-unavailable, and assistive-technology states.
+
+No SPR surface has inheritance rights.
 
 ---
 
-## 5. SPR-01 — active proposal
+## 6. CIR-01 — active proposal
 
 Artifact:
 
-`docs/KYMAEAN_SPR_01_STAGE_PRESENCE_REDUCTION_PROPOSAL.md`
+`docs/KYMAEAN_CIR_01_CHARACTER_IDENTITY_RECOVERABILITY_PROPOSAL.md`
 
 Central question:
 
-> **What is the smallest persistent visible Stage surface that preserves scope, human identity, disclosure, agency, opportunity, truthful context access, and accessibility without duplicating information or surrounding the Production with system chrome?**
+> **How can every Character remain durably, accessibly and contextually identifiable when the living Stage no longer relies on a duplicate permanent roster?**
 
-Governing law:
-
-> **Persistence is earned by ambiguity prevention, not by conceptual importance.**
-
-Classification vocabulary:
+CIR separates:
 
 ```text
-PERSIST
-CONTEXTUAL
-ON DEMAND
-REMOVE
+Character entity identity
+!= creator-facing Character name
+!= visual representation / portrait
+!= selection / focus
+!= Presentation Perspective
+!= Current Opportunity
 ```
 
-These are design allocation labels, not implementation enums.
+Core requirements:
 
-### PERSIST
+- every active Character representation has a deterministic human-readable/programmatic identity equivalent;
+- identity must remain recoverable without face recognition, color, hover, precise spatial memory, animation, or image availability;
+- when imagery exists, identity should use a redundant invariant bundle appropriate to the medium;
+- a permanent visible name is not required when identity remains unambiguous and accessible;
+- hover may supplement identity but requires touch/keyboard/assistive equivalents;
+- `Perspective: Wren` references the enduring Character but does not imply creator embodiment/Perform/account ownership/Opportunity;
+- Current Opportunity references a Character but must not reduce that Character to a letter/turn token;
+- `A / B / C` remain research aliases, not selected product-facing identity grammar;
+- selection/focus may make identity more explicit but cannot rewrite Character identity;
+- legitimate renaming must not destroy underlying Character continuity;
+- narrow/reduced-detail states should become more semantically explicit when visual distinction weakens;
+- image-unavailable operation preserves Character attribution, Perspective and Opportunity;
+- creator-facing identity must not expose engineering IDs/hashes/provenance;
+- identity cues must not encode private psychology as authoritative state;
+- no continuous AI, biometric, facial-recognition, embedding-comparison, gaze, emotion, camera, GPU or NPU work is required.
 
-- living people / relational field;
-- Character identity semantics for people currently present;
-- current Production identity;
-- active Scene identity;
-- minimal safe application-scope navigation affordance at shell level, exact form open.
+Candidate laws awaiting Director approval:
 
-`PERSIST` means continuously recoverable, not necessarily large or duplicated.
+> **State may reference a Character; state does not define who that Character is.**
 
-### CONTEXTUAL
+> **A Character must remain identifiable when any one non-essential visual cue disappears.**
 
-- Presentation Perspective when disclosure materially differs;
-- Creator Posture when agency materially differs;
-- Current Opportunity while materially active;
-- `response is not required` when needed to prevent obligation inference;
-- task-specific creator commands;
-- Perform input only while Perform is active;
-- blocking capability state when it affects the current task;
-- current/historical locus when ambiguity exists;
-- meaning-linked context invocation;
-- Back/return while context is open.
+> **Identity must always be recoverable; identity labels do not need to be continuously visible.**
 
-### ON DEMAND
-
-- bounded context answer surface;
-- exact question/answer/boundary/supporting basis when invoked and necessary;
-- causal/history route only when the requested explanation is authoritatively satisfiable;
-- transcript/recent Performance when future authority supports it;
-- engineering provenance/specialist diagnostics;
-- provider/model/cost/NPU detail;
-- app-level Production selection/settings/help/diagnostics;
-- TEO-style earlier/later causal comparison when useful;
-- product branding at application/scope level rather than as dominant Stage content.
-
-### REMOVE from default Stage / tested form
-
-- duplicate portrait-chip roster when living field already carries identity;
-- undefined Character status dots;
-- `(You)` Character-perspective shorthand;
-- universal Watch/Direct/Perform/Write tab strip;
-- large gameplay-like Opportunity card/token form;
-- universal command ribbon;
-- generic `About This Answer` explanation;
-- inaccessible/private-category placeholders;
-- generic `Ask anything about C` continuation;
-- permanent history timeline/status badge;
-- evidence taxonomy/Character dossier as default context model;
-- confidence/truth-status system;
-- `PEOPLE / CONTEXT / PROGRESS`;
-- generic AI composer in Watch;
-- Stage marketing/tagline copy.
-
-SPR candidate closed-Stage contract:
-
-```text
-CURRENT PRODUCTION / ACTIVE SCENE
-
-LIVING PEOPLE + RELATIONAL SITUATION
-
-[Perspective — only if materially necessary]
-[Posture — only if materially necessary]
-[Current Opportunity — only while active]
-[Blocking capability — only if relevant]
-[Current task commands — only if earned]
-```
-
-Candidate context-open contract:
-
-```text
-retained live Stage
-+
-invoking anchor / exact question
-+
-supported answer
-+
-[exact authority boundary — only if needed]
-+
-[one justified next route]
-+
-return
-```
-
-SPR also freezes:
-
-> **Any visual treatment that plausibly reads as application or fictional state must have a defined semantic contract, accessibility equivalent, and authoritative source—or it is removed.**
-
-and:
-
-> **Inside an active Production, product branding must not outrank the Production itself by default.**
+> **Opportunity may point to a Character; it must not reduce the Character to a turn token.**
 
 ---
 
-## 6. Current application-engineering authority
+## 7. Current application-engineering authority
 
 Re-resolved 2026-09-04.
 
-`Rylascoo/Ensemble-Project` current `main`:
+`Rylascoo/Ensemble-Project` current `main` remains:
 
 `7475a9397cff9063673908c666a729f0f3cd4525`
 
@@ -391,7 +373,7 @@ Patch 0013 remains deterministic Current Opportunity authority but does not auto
 
 ---
 
-## 7. Shell/navigation boundary
+## 8. Shell/navigation boundary
 
 Accepted shell law remains:
 
@@ -408,31 +390,40 @@ Therefore:
 - causal history begins from an authoritatively answerable `Why?` or deliberate history task;
 - Back returns focus/location and never mutates Production truth.
 
+CIR does not create a new global People/Character destination merely to solve identity recoverability.
+
 ---
 
-## 8. Accessibility / ARM64 / quiescence
+## 9. Accessibility / ARM64 / privacy / quiescence
 
-Reduction must preserve semantic/programmatic recoverability without portrait recognition, color, motion, spatial geometry, or simultaneous columns.
+Character identity must remain semantically/programmatically recoverable without:
 
-At rest the Stage requires no:
+- portrait recognition;
+- color;
+- motion;
+- precise spatial position;
+- simultaneous wide layout;
+- hover-only UI;
+- image availability.
 
-- continuous answer generation;
-- speculative context pre-generation;
-- idle historical reconstruction;
+At rest, identity recoverability requires no:
+
+- facial recognition;
+- biometric identity inference;
+- embedding comparison;
+- gaze/emotion analysis;
+- camera access;
+- continuous image generation;
 - background summarization/provider polling;
-- face/emotion analysis;
-- relationship graph physics;
 - persistent GPU/NPU work.
 
-Future AI-required actions must degrade truthfully; capability failure remains technical state, not fictional state.
-
-Fewer persistent surfaces should reduce—not increase—idle layout, rendering, polling, or inference pressure on ARM64.
+Future creator-authored/generated imagery requires separate privacy/consent/storage/model-processing design.
 
 ---
 
-## 9. Surface quarantine
+## 10. Surface quarantine
 
-No generated cast, names, faces, clothing, photoreal office/meeting medium, city-window setting, cream/white UI, exact typography, portrait-chip row, status dots, `(You)` label, Current Opportunity card, inspector geometry, green answer treatment, top-bar geometry, search/menu/avatar arrangement, `People / Context / Progress`, marketing taglines, cinematic lighting/camera, or generic productivity/SaaS styling has inheritance rights.
+No generated cast, names, faces, clothing, photoreal office/meeting medium, city-window setting, cream/white UI, exact typography, portrait-chip row, status dots, `(You)` label, A/B/C token grammar, Current Opportunity card/token, inspector geometry, green treatment, top-bar geometry, search/menu/avatar arrangement, marketing taglines, permanent nameplates, hover tooltips, silhouette system, focus ring, cinematic lighting/camera, or generic productivity/SaaS styling has inheritance rights.
 
 > **Surface != law.**
 
@@ -440,40 +431,41 @@ Repeated controlled surfaces remain experimental consistency, not convergence.
 
 ---
 
-## 10. Drive continuity
+## 11. Drive continuity
 
 Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record.
 
-CSI-R1 should be preserved there with its exact judgment and an embedded archival visual copy; embedded evidence is not a standalone raw image file unless separately verified.
+SPR-R1A and SPR-R1B should be preserved there with exact judgments and embedded archival visual copies where current-session binaries are available. Embedded evidence is not a standalone raw image file unless separately verified.
 
-Google Drive `Kymaean Visual Continuity Constitution` should identify `docs/KYMAEAN_SPR_01_STAGE_PRESENCE_REDUCTION_PROPOSAL.md` as the active design artifact after synchronization.
+Google Drive `Kymaean Visual Continuity Constitution` should identify `docs/KYMAEAN_CIR_01_CHARACTER_IDENTITY_RECOVERABILITY_PROPOSAL.md` as the active design artifact after synchronization.
 
-SPR-01 itself is non-render.
+CIR-01 itself is non-render.
 
 ---
 
-## 11. Current Director gate
+## 12. Current Director gate
 
 Director decision requested:
 
-> **Adopt SPR-01: visible persistence is earned only by preventing material ambiguity; the living human field, Production, Scene, and Character identity remain durably recoverable; perspective, posture, opportunity, blocking capability, and commands appear only when materially relevant; context/history/provenance are on demand; duplicate roster, ambiguous status decoration, generic Stage marketing, global People/Context/Progress silos, permanent AI composer, and unnecessary trust chrome are removed from the default Stage.**
+> **Adopt CIR-01: every Character remains durably identifiable through a redundant identity bundle with a mandatory human-readable/programmatic identity channel and medium-appropriate visual invariants; identity remains distinct from name-only dependence, portrait, selection, Perspective, Posture and Current Opportunity; roster duplication is not required; hover/face/color/position cannot be sole identity channels; image-limited and assistive-technology states preserve the same Character truth; and identity recoverability requires no continuous AI or biometric inference.**
 
-If approved, the next single action is exactly one controlled:
+If approved, the next single action is exactly one non-render:
 
-`SPR-R1 — Reduced Continuous Stage`
+`CIR-V1 — Character Identity Recoverability Matrix`
 
-render, followed by critique and stop.
+Validate full Stage/no roster, reduced detail, narrow layout, image-unavailable fallback, assistive traversal, Perspective/Opportunity split references, and independent focus/selection; recursively audit and stop.
 
-No final visual system, Character medium, app-shell control topology, history UI, WinUI implementation, Windows AI/NPU behavior, packaging, or website implementation is authorized by SPR-01.
+No CIR render, final Character medium, final nameplate/hover system, user-image feature, WinUI implementation, Windows AI/NPU behavior, packaging, or website implementation is authorized by CIR-01.
 
 ---
 
-## 12. Fresh-chat bootstrap
+## 13. Fresh-chat bootstrap
 
 1. Read this file first and resolve current `Ensemble-Website` main.
-2. Read `docs/KYMAEAN_SPR_01_STAGE_PRESENCE_REDUCTION_PROPOSAL.md` as the active Director gate.
-3. Read `docs/KYMAEAN_CSI_R1_CONTINUOUS_STAGE_INTEGRATION_RESULT.md` for the immediate visual evidence.
-4. Read CSI/ARS/AAS/BCA/CDT/SIPD only as needed for the exact current task.
-5. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
-6. Preserve `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `true facts != causal because`, `not available != did not happen`, `history exists != answerable Why?`, `current insufficiency != confidence`, `semantic persistence != visual duplication`, and `Surface != law`.
-7. Do not render SPR-R1 until the Director approves SPR-01.
+2. Read `docs/KYMAEAN_CIR_01_CHARACTER_IDENTITY_RECOVERABILITY_PROPOSAL.md` as the active Director gate.
+3. Read `docs/KYMAEAN_SPR_R1_STAGE_PRESENCE_REDUCTION_RESULT.md` for the immediate visual evidence.
+4. Read Character Representation Requirements + CRV-01 for the upstream identity contract.
+5. Read SPR/CSI/ARS/AAS/BCA/CDT/SIPD only as needed for the exact task.
+6. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
+7. Preserve `Character != Portrait`, `identity != state`, `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `not available != did not happen`, `semantic persistence != visual duplication`, `identity recoverable != name always visible`, and `Surface != law`.
+8. Do not run CIR-V1 until the Director approves CIR-01.
