@@ -49,11 +49,14 @@ Completed V0 evidence:
 1. `docs/KYMAEAN_VID_01_V0_RENDER_01_RESULT.md`;
 2. `docs/KYMAEAN_VID_01_V0_RENDER_02_RESULT.md`;
 3. `docs/KYMAEAN_VID_01_V0_RENDER_03_RESULT.md`;
-4. `docs/KYMAEAN_VID_01_V0_RENDER_04_RESULT.md`.
+4. `docs/KYMAEAN_VID_01_V0_RENDER_04_RESULT.md`;
+5. `docs/KYMAEAN_VID_01_V0_RENDER_05_RESULT.md`.
 
-Current next-operation artifact:
+Current Director-review artifact:
 
-`docs/KYMAEAN_VID_01_V0_RENDER_05_CONTROLLED_FORMAL_LATERAL_PACKET.md`
+`docs/KYMAEAN_VID_01_DFI_01_DEPICTION_FIELD_INDEPENDENCE_PROPOSAL.md`
+
+**No renderer packet or new image is currently authorized.**
 
 No final Kymaean symbol, app icon, wordmark, palette, typography, Character/human medium, material language, motion system, Stage surface, app visual system, website composition, website implementation, or visual family is selected.
 
@@ -104,7 +107,8 @@ The visual-identity phase inherits accepted semantic laws without inheriting gen
 - CSI-01 + CSI-R1;
 - SPR-01 + SPR-R1;
 - CIR-01 + CIR-V1 + CIR-R1 + CIR-T1 + CIR-T1V1 + CIR-T1R1;
-- VID-01 entry + Director carrier map + V0R1/V0R2/V0R3/V0R4 evidence.
+- VID-01 entry + Director carrier map + V0R1/V0R2/V0R3/V0R4/V0R5 evidence;
+- current non-render DFI-01 depiction-field method gate.
 
 ---
 
@@ -172,11 +176,21 @@ VID-01 findings promoted so far:
 
 > **Recognizable transformation is not enough; a Kymaean transformation carrier must change how the human field is organized or understood without requiring explanatory symbolism.**
 
+> **Independent simultaneous actions are necessary for an expressive performance field, but they are not sufficient to create one.**
+
+> **A shared physical carrier can organize composition without becoming an expressive performance field.**
+
 > **Repeated isolated recurrence can reveal a renderer prior; renderer prior must not be mistaken for brand convergence.**
 
 > **A semantic lateral move does not guarantee a formal lateral move.**
 
 > **When repeated isolated renders preserve semantic variation but collapse into one surface family, the next divergence probe should control a positive orthogonal formal grammar rather than ask the renderer to invent orthogonality unaided.**
+
+> **Formal control is not satisfied when the renderer converts a pictorial instruction into one dominant physical prop.**
+
+DFI-01 candidate method law under Director review:
+
+> **A formal-control prompt should describe where organization must appear in the depiction, not merely what visual effects should exist somewhere in the image.**
 
 Core distinctions include:
 
@@ -206,6 +220,11 @@ semantic lateral move != formal lateral move
 renderer isolation != formal orthogonality
 renderer recurrence != Director convergence
 controlled formal grammar != selected identity
+independent action != distributed field causality
+shared object != expressive performance field
+formal instruction != literal scene object
+formal field != large physical object occupying the field
+setting change != visual-family orthogonality
 ```
 
 ---
@@ -246,13 +265,36 @@ One standing person's depiction changes materially into a fragmented/translucent
 
 The result does not prove maximum-severity identity robustness because face/hair/location remain strongly literal. It also fails the transformation-removal test: most of the shared human situation would remain intelligible if the collage effect disappeared. H3 therefore contributes a valid identity-continuity mechanism but not yet a primary relationship-bearing carrier and not a second surviving exact visual family.
 
-### Four-render process finding
+### V0R5 — H5 Expressive Performance Field diagnostic
 
-The Director confirms every VID render was generated in a clean, new regular renderer chat. V0R1–V0R4 nevertheless independently recur toward a broad painterly social-realist / lived-in human world.
+> **DIAGNOSTIC / TRANSFERABLE LAW ONLY — H5 INDEPENDENT-ACTION PASS / EXPRESSIVE-PERFORMANCE-FIELD PARTIAL-FAIL / FORMAL-CONTROL PARTIAL-FAIL / SURFACE-DIVERGENCE FAIL / NO CONVERGENCE.**
+
+Four distinct people perform different simultaneous actions in a garment-making workspace. Independent agency passes: the figures are not synchronized into one collective gesture.
+
+The dominant field, however, is a literal large red physical sheet/material. It is tied mostly to one or two people and remains substantially intact if the seated or kneeling person is removed. Concurrent activity therefore does not become distributed action-to-field causality.
+
+The controlled formal grammar also only partially lands. Broad mass, restrained tonal organization and a strong diagonal appear, but the whole artwork remains a modeled naturalistic painterly workspace with dense objects, volumetric depth, limited negative space and rich material texture.
+
+The strongest method finding is that a pictorial requirement was implemented at the wrong level:
+
+```text
+requested depiction-level field
+-> renderer literalizes broad mass as dominant physical prop
+-> apparent formal compliance
+-> intended distributed performance field not established
+```
+
+H5 remains open diagnostic evidence; no carrier-level pass or orthogonal exact family survives from V0R5.
+
+### Five-render process finding
+
+The Director confirms every VID render was generated in a clean, new regular renderer chat.
+
+V0R1–V0R5 nevertheless recur toward a broad painterly figurative / lived-in human-world family despite material changes in semantic carrier. V0R5's positive formal control influenced composition but did not break the whole-surface prior because the renderer converted much of the requested grammar into literal scene content.
 
 > **Independent recurrence is not convergence.**
 
-Four semantic lateral moves have not produced four formal visual universes. That is now sufficient evidence to stop leaving formal orthogonality entirely to renderer invention.
+> **Controlled formal vocabulary can still fail when it is implemented at scene-object level rather than depiction level.**
 
 ---
 
@@ -316,18 +358,19 @@ Actual WinUI accessibility/high contrast/screen-reader behavior, runtime perform
 
 No prior office/SaaS laboratory surface has inheritance rights.
 
-V0R1–V0R4 additionally grant no inheritance rights to:
+V0R1–V0R5 additionally grant no inheritance rights to:
 
-- painterly/oil-like social realism or naturalistic deep-room modeling;
-- muted earth/brown/blue/amber/rust tonal worlds;
-- worn domestic, transit, industrial, communal or archive-like settings;
+- painterly/oil-like social realism, painterly workshop realism or naturalistic deep-room modeling;
+- muted earth/brown/blue/amber/rust/cream/navy/olive tonal worlds;
+- worn domestic, transit, industrial, communal, archive-like or garment-workshop settings;
 - tables/chairs/books/framed objects/plants/papers/photos/letters/boxes/cups/lamps;
 - rainy-night shelter/transit imagery, reflective pavement or city-light atmosphere;
 - improvised partitions, tarpaulin, exposed plaster, laundry/fabric, sewing/water vocabulary;
+- sewing machine, dress form, paper patterns, scissors, cloth, worktables or giant diagonal material carrier;
 - phones, briefcases, packs, canes, bicycles, basins or other exact props;
 - paper/collage fragmentation or transparency/dissolution as mandatory identity devices;
-- exact casts, faces, ages, clothing, poses, inferred occupations/relationships, camera, crop, lighting or brushwork;
-- inferred family/grief/inheritance/memory narratives.
+- exact casts, faces, ages, clothing, poses/actions, inferred occupations/relationships, camera, crop, lighting or brushwork;
+- inferred family/grief/inheritance/memory/ownership/hierarchy/collaboration/private-state narratives.
 
 Historical resemblance does not invalidate independent rediscovery; independent rediscovery grants no incumbency.
 
@@ -345,13 +388,23 @@ The Director has confirmed a clean, new regular chat is used for every renderer 
 
 > **The director remembers everything. The canvas remembers nothing.**
 
-Do not show an isolated renderer Kymaean/Ensemble naming, prior artworks, critiques, the Director hypothesis map, or historical visual references unless a controlled experiment explicitly requires it.
+Do not show an isolated renderer Kymaean/Ensemble naming, prior artworks, critiques, the Director carrier map, or historical visual references unless a controlled experiment explicitly requires it.
 
-Historical `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md` remains a closed R0 research artifact, not the active phase. Its validated experimental method may be reused:
+Historical `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md` remains a closed R0 research artifact, not the active phase. Its validated experimental method may be reused without phase rollback.
 
-> **Renderer Isolation controls project-context leakage; positive formal control can control the experimental surface variable.**
+V0R5 adds an important correction to the formal-control method: controlling formal vocabulary is insufficient when the renderer can satisfy most of that vocabulary by inventing one dominant scene object.
 
-For V0R5, the Director intentionally controls one orthogonal formal grammar in addition to the H5 semantic kernel. This is a test variable, not identity selection and not a Renderer Cartography phase rollback.
+The current non-render DFI-01 proposal therefore distinguishes:
+
+```text
+depiction-level field
+!=
+scene-level physical carrier
+```
+
+A depiction-level field distributes organization through contour, figure-ground relation, gaps, planes, density, interruption and several people's actions. A scene-level carrier lets one object or scenic element do most of that work.
+
+DFI-01 preserves independent agency, avoids a historical object/style blacklist, and does not select a palette, medium or final abstraction depth.
 
 ---
 
@@ -364,9 +417,10 @@ Standalone raw active-discovery masters in:
 - V0R1 — `VID-01_V0_Render_01_2026-09-04.png` — Drive ID `1T2Wno5Ug5mlxPCCPtbOLaIxPScnINugR`;
 - V0R2 — `VID-01_V0_Render_02_2026-09-04.png` — Drive ID `1FLpUlQs-d2ijsD4amwBYC845XvvOiflh`;
 - V0R3 — `VID-01_V0_Render_03_2026-09-04.png` — Drive ID `1xxyES-ndIn3bs07I74HckQIbozuF5WBB`;
-- V0R4 — `VID-01_V0_Render_04_2026-09-04.png` — Drive ID `1ixqM-tIXr2uUxOI8076Epa8IhL8_F0kC`.
+- V0R4 — `VID-01_V0_Render_04_2026-09-04.png` — Drive ID `1ixqM-tIXr2uUxOI8076Epa8IhL8_F0kC`;
+- V0R5 — `VID-01_V0_Render_05_2026-09-04.png` — Drive ID `1wJvbksZ5NttYfynFobpT4h5xTsehYYTt`.
 
-`Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record. `Kymaean Visual Continuity Constitution` is canonical human-readable visual law. Both have been advanced through V0R4/H5 controlled-formal method state.
+`Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record. `Kymaean Visual Continuity Constitution` is canonical human-readable visual law. Both are synchronized through V0R5 and the DFI-01 Director-review gate.
 
 Active discovery remains separate from historical inspiration.
 
@@ -386,29 +440,44 @@ H. website implementation + web validation
 I. launch translation against real app implementation
 ```
 
-H2 has one surviving carrier-level result. H3 has a valid identity-continuity mechanism but not a surviving orthogonal exact family. That is still insufficient for convergence. VID-01 requires genuinely distinct surviving carrier/family evidence before a deliberate shared-brand convergence gate; prefer more evidence if survivors remain structurally close.
+Current carrier evidence:
+
+- H1: strong relational diagnostic, no surviving exact family;
+- H2: one carrier-level viability result through V0R3, exact surface quarantined;
+- H3: identity-continuity mechanism viability through V0R4, transformational relational necessity still partial, exact surface quarantined;
+- H4: strong asymmetric shared-condition diagnostic, no private-knowledge claim and no surviving exact family;
+- H5: independent-action diagnostic through V0R5, but distributed expressive-performance-field causality and whole-surface formal divergence remain insufficient.
+
+This is still insufficient for convergence. VID-01 requires genuinely distinct surviving carrier/family evidence before a deliberate shared-brand convergence gate; prefer more evidence if survivors remain structurally close.
 
 ---
 
-## 14. Current Director / renderer gate
+## 14. Current Director gate
 
-V0R1–V0R4 are complete.
+V0R1–V0R5 are complete.
 
-H2 `Inherited Condition` survives at carrier level through V0R3. H3 `Transformational Continuity` has mechanism viability through V0R4, but transformational relational necessity and whole-surface divergence remain insufficient.
+The smallest unresolved question is no longer `generate another more different H5 image`. V0R5 exposed a more precise method ambiguity:
 
-The remaining underrepresented carrier is H5 `Expressive Performance Field`:
+> **How can a controlled formal grammar be specified so the renderer changes the depiction itself rather than satisfying the instruction through one dominant physical object inside an otherwise familiar naturalistic scene?**
 
-> **Can distinct people's independent actions organize one expressive visual field so that timing, interruption, response and mutual effect become part of the artwork's structure—without literal theater, software chrome, explanatory text, or loss of individual identity?**
+Canonical current proposal:
 
-Canonical next packet:
+`docs/KYMAEAN_VID_01_DFI_01_DEPICTION_FIELD_INDEPENDENCE_PROPOSAL.md`
 
-`docs/KYMAEAN_VID_01_V0_RENDER_05_CONTROLLED_FORMAL_LATERAL_PACKET.md`
+DFI-01 is intentionally non-render. It proposes:
 
-V0R5 deliberately combines H5 semantic testing with one positive controlled formal grammar: shallow picture plane, broad shape masses, sparse contour, deliberate negative space, restrained texture, limited tonal steps and selective environment. This grammar is a diagnostic control, not a selected style.
+- depiction-level field vs scene-level physical carrier as the governing distinction;
+- distributed human dependency across several independent actions;
+- a removal test requiring the ensemble's actions—not one dominant object—to explain field organization;
+- positive depiction-level controls through figure/ground, contour, gaps, planes and density;
+- one direct anti-literalization constraint: do not let one shared physical object or scenic element carry most requested field organization;
+- no historical style/object blacklist;
+- no named artists/movements/cultures/eras;
+- no fixed palette, medium or final abstraction depth;
+- no synchronized collective authorship requirement;
+- no render before Director approval.
 
-Execute exactly one V0R5 artwork in a fresh regular non-project Renderer Context using only the sterile packet in Section 4 of that file.
-
-After V0R5 returns: archive the raw asset, evaluate H5/action-to-field dependency, compare formal orthogonality against V0R1–V0R4, recursively audit, choose one justified next action, and stop.
+If the Director approves DFI-01, exactly one new isolated renderer packet may then be prepared from it. That packet itself will be the next artifact; **DFI-01 does not pre-authorize a render.**
 
 No automatic correction chain, H5 refinement, shared-brand convergence, app visual implementation or website implementation is authorized.
 
@@ -420,11 +489,11 @@ No automatic correction chain, H5 refinement, shared-brand convergence, app visu
 2. Read `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md` and optimize the current substantive task for GPT-5.6 Sol High.
 3. Read `docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`.
 4. Read `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md` and `docs/DESIGN_CONTINUITY.md` for durable visual law.
-5. For current VID work, read `docs/KYMAEAN_VID_01_V0_RENDER_04_RESULT.md` and `docs/KYMAEAN_VID_01_V0_RENDER_05_CONTROLLED_FORMAL_LATERAL_PACKET.md`; read earlier V0 results only if comparative evidence is needed.
-6. Current next renderer packet: Section 4 of `docs/KYMAEAN_VID_01_V0_RENDER_05_CONTROLLED_FORMAL_LATERAL_PACKET.md`.
-7. Do not expose the Director hypothesis map, prior VID images/critiques, Kymaean/Ensemble naming, historical artwork or historical surface blacklists to the isolated V0R5 renderer.
+5. For the current VID gate, read `docs/KYMAEAN_VID_01_V0_RENDER_05_RESULT.md` and `docs/KYMAEAN_VID_01_DFI_01_DEPICTION_FIELD_INDEPENDENCE_PROPOSAL.md`; read earlier V0 results only when comparative evidence is needed.
+6. There is **no authorized renderer packet at the current checkpoint**. Stop for Director review of DFI-01.
+7. Do not expose the Director carrier map, prior VID images/critiques, Kymaean/Ensemble naming, historical artwork or historical surface blacklists to any future isolated renderer unless a controlled experiment explicitly requires it.
 8. Treat `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md` only as historical method authority for controlled experimental variables; do not reopen Renderer Cartography as the active phase.
 9. Resolve current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact product/validation claims; later plan/documentation commits do not replace exact native-validation SHAs.
 10. Use Google Drive as visual-master/provenance authority.
-11. Preserve `Surface != law`, `Research discovery != phase transition`, `Recent strength != incumbent`, `Metaphor != identity`, `Renderer prior != convergence`, `Controlled grammar != selected identity`, and `Assistant preference != Director approval`.
+11. Preserve `Surface != law`, `Research discovery != phase transition`, `Recent strength != incumbent`, `Metaphor != identity`, `Renderer prior != convergence`, `Controlled grammar != selected identity`, `Formal instruction != literal scene object`, and `Assistant preference != Director approval`.
 12. Stop before shared-brand visual-family convergence unless the Director explicitly approves it after sufficient lateral evidence.
