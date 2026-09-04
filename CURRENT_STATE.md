@@ -22,7 +22,7 @@ This file is checkpoint authority, not a replacement for detailed canonical arti
 
 R0 Visual Re-Foundation calibration is closed. The project is in integrated app + website design synthesis.
 
-Accepted/active design chain now includes:
+Accepted/active design chain includes:
 
 1. `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md`
 2. `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`
@@ -37,14 +37,17 @@ Accepted/active design chain now includes:
 11. `docs/KYMAEAN_VSG_A_B_EVIDENCE_COMPARISON_01.md`
 12. `docs/KYMAEAN_VSG_A_B_CONVERGENCE_READINESS_AUDIT_01.md`
 13. `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_PATCH_0014_ADDENDUM_01.md`
+14. `docs/KYMAEAN_CHARACTER_REPRESENTATION_REQUIREMENTS_PROPOSAL_01.md`
+15. `docs/KYMAEAN_CRV_01_CHARACTER_REPRESENTATION_VIABILITY_RESULT.md`
+16. `docs/KYMAEAN_TCV_01_TEMPORAL_CHARACTER_CONTINUITY_RESULT.md`
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_CHARACTER_REPRESENTATION_REQUIREMENTS_PROPOSAL_01.md`
+`docs/KYMAEAN_TCV_01_TEMPORAL_CHARACTER_CONTINUITY_RESULT.md`
 
 Status:
 
-> **CHARACTER REPRESENTATION REQUIREMENTS PROPOSAL 01 — DIRECTOR PROPOSAL FOR REVIEW / MINIMUM REPRESENTATION CONTRACT / NO CHARACTER MEDIUM OR PRODUCTION UI SELECTED**
+> **TCV-01 — DIRECTOR-ACCEPTED RESEARCH EVIDENCE / SINGLE-SURFACE STRONG PARTIAL PASS / NO TEMPORAL UI OR STAGE SURFACE SELECTED**
 
 No final logo, palette, typeface, portrait/human-representation medium, Character-image workflow, material system, icon system, motion identity, website composition, exact WinUI composition, final Stage composition, or production design is selected.
 
@@ -78,13 +81,15 @@ candidate Performance != Accepted Take != effective historical Performance
 meaningful Performance != mandatory meter movement
 
 social/relational visibility != epistemic authority
+
+changed circumstance != changed identity
 ```
 
 Bounded Character disclosure is subtractive. Never infer private mind, knowledge, observation, belief, intent, or recall from gaze, pose, dialogue, proximity, co-presence, nomination, relationship, Director selection, or causal adjacency alone.
 
 ---
 
-## 4. A/B convergence evidence
+## 4. A/B convergence result
 
 VSG-A parity is complete:
 
@@ -93,11 +98,11 @@ VSG-A parity is complete:
 
 VSG-B has stronger evidence for relational/living-Production structure, bounded disclosure, independent perspective/agency/salience, and changed-present consequence through changed human organization.
 
-A/B convergence-readiness result:
+A/B result:
 
 > **CONVERGENCE READY AT LAW-ROLE LEVEL.**
 
-Role hypothesis:
+Evidence-supported roles:
 
 - B contribution: **relational / living-Production structure**;
 - A contribution: **editorial / language / information hierarchy**.
@@ -106,13 +111,7 @@ Convergence thesis:
 
 > **Relationship organizes the living Production; editorial hierarchy explains only what the relationship cannot responsibly carry alone.**
 
-This grants no surface inheritance rights.
-
----
-
-## 5. AB1 checkpoint
-
-Two Relational Editorial Field renders were generated after Director approval:
+AB1 render IDs:
 
 - `567e96d3-f027-4409-b81e-162888d01873`;
 - `e9142296-ac35-4608-803a-23c95d3bdd70`.
@@ -121,24 +120,93 @@ AB1 result:
 
 > **LAW-ROLE CONVERGENCE PASS / SURFACE UNSELECTED.**
 
-Positive evidence:
+---
 
-- people/relationship remain the first read;
-- Current Opportunity remains separate from Character-B perspective;
-- opportunity remains non-obligatory;
-- Character-Bounded Watch exposes no Perform controls;
-- bounded evidence can be quiet/supporting;
-- A-style breathing room/hierarchy can coexist with B-style relational structure;
-- transcript can remain subordinate;
-- no relationship graph or psychology meters are needed.
+## 5. Character representation result
 
-Surface quarantine remains absolute for the exact generated cast, names, photorealism, warm studio/table environment, cream/beige field, serif treatment, glass panels, state colors, clothing, props, camera angle, persistent transcript panel, and editorial narration.
+Minimum contract remains:
 
-AB1 answered the convergence question well enough that no further AB1 styling pass is justified by default.
+1. persistent identity;
+2. human specificity;
+3. relational participation;
+4. state-channel independence;
+5. epistemic restraint;
+6. accessibility-equivalent identity.
+
+Identity law:
+
+> **Identity is a redundant invariant bundle, not a single image.**
+
+CRV-01 render ID:
+
+`50956820-3675-4ea7-abcd-eef7a7bc1d46`
+
+CRV-01 compared:
+
+- Reduced Human Invariant;
+- Expressive Figurative;
+- Rich Representational Control.
+
+CRV-01 result:
+
+> **PASS — CHARACTER REPRESENTATION VIABILITY DEMONSTRATED ACROSS DEPTHS.**
+
+Findings:
+
+- rich depiction improves immediacy but is not required for persistent identity, relational presence, bounded perspective or independent salience;
+- relational structure survives meaningful representation reduction;
+- `B = bounded perspective` and `C = Current Opportunity` remain independently legible across depths;
+- rich depiction increases temptation to infer private mind, but does not grant such authority;
+- no representation depth is selected and the research depths are not creator-facing modes;
+- user-supplied Character imagery remains plausible future design, not a frozen feature.
 
 ---
 
-## 6. Current application-engineering authority
+## 6. Temporal Character continuity result
+
+TCV-01 tested whether stable Character identity can inhabit a changed current Production without Character mutation or permanent temporal storyboard structure.
+
+Attempt 1 render ID:
+
+`4e8f7d02-950e-4555-80b6-5842b874adf1`
+
+Judgment:
+
+> **METHOD FAIL / USEFUL TEMPORAL-COMPARISON EVIDENCE.**
+
+It proved earlier/later comparison can improve causal observability but used explicit `Earlier / Now` explanation and therefore did not test the single-current-surface hypothesis.
+
+Single-surface render ID:
+
+`742a36f3-c9f1-48a3-92b5-deaf4f1f1a23`
+
+Judgment:
+
+> **STRONG PARTIAL PASS.**
+
+TCV-01 materially supports:
+
+```text
+stable Character identity
++
+changed relational organization / opportunity
++
+trustworthy current authoritative evidence
+=
+legible causal continuity
+```
+
+Important allocation law:
+
+> **Relationship and current evidence share the burden of making the changed present understandable.**
+
+Present evidence may carry provenance without becoming a permanent history summary. TEO remains a causal-observability resource for possible on-demand history/trace, not mandatory Stage structure.
+
+No additional TCV polish is justified by default.
+
+---
+
+## 7. Current application-engineering authority
 
 Always re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
 
@@ -175,38 +243,11 @@ Patch 0014 materially adds:
 - canonical recent Performance remains absent from Context v2;
 - source hashes/context proof metadata do not enter Character-facing rendered text.
 
-Visual addendum:
-
-`docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_PATCH_0014_ADDENDUM_01.md`
-
----
-
-## 7. Character representation — current proposal
-
-Current proposal:
-
-`docs/KYMAEAN_CHARACTER_REPRESENTATION_REQUIREMENTS_PROPOSAL_01.md`
-
-Minimum required jobs:
-
-1. **Persistent identity** — same Character recoverable across perspective, state, scale, crop, density and representation-depth changes.
-2. **Human specificity** — not a generic avatar, provider badge, node, profile record, or game token.
-3. **Relational participation** — identity can participate in composition without being reduced to a graph.
-4. **State-channel independence** — identity remains distinct from perspective, posture, presence, opportunity/salience, lifecycle/effect and technical capability.
-5. **Epistemic restraint** — representation never manufactures knowledge, observation, psychology or intent from appearance.
-6. **Accessibility-equivalent identity** — essential identity/state does not depend on face recognition, color, spatial position, motion, transparency, depth, expression, or audio alone.
-
-Identity should use a **redundant invariant bundle**, not one immutable portrait or one color cue.
-
-The contract does not require photorealism, a face, a full body, animation, lip sync, user-uploaded imagery, generated imagery, 3D, or continuous re-rendering.
-
-User-supplied Character reference imagery remains plausible future product design but is not frozen.
-
 ---
 
 ## 8. Accessibility + ARM64 boundary
 
-Character and relational meaning must survive high contrast, monochrome, reduced motion, text scaling, reduced transparency/material, and appropriate image-unavailable states with programmatic/textual equivalents.
+Character, relational and temporal meaning must survive high contrast, monochrome, reduced motion, text scaling, reduced transparency/material, reduced-detail Character representation, and appropriate image-unavailable states with programmatic/textual equivalents.
 
 At rest:
 
@@ -214,53 +255,74 @@ At rest:
 - no persistent GPU animation required for Scene vitality;
 - no decorative idle AI/NPU inference;
 - no motion-only salience;
-- no continuous face/portrait rendering required.
+- no continuous face/portrait rendering required;
+- no temporal animation required to understand changed current state.
 
 The product feels alive because **Production state changes**, not because the compositor is always moving.
 
 ---
 
-## 9. Drive continuity
+## 9. Surface quarantine
 
-Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` remains the living critique/provenance record.
+No generated cast, names, faces, clothing, table/meeting environment, photorealism, illustration style, cream/beige field, exact typography, state colors, glass panels, props, persistent transcript panel, editorial slogans, camera angle, or explicit Earlier/Now layout has inheritance rights.
 
-Google Drive `Kymaean Visual Continuity Constitution` must point to the Character Representation Requirements proposal as the active design artifact after this checkpoint is synchronized.
+> **Surface != law.**
 
-Conversation render IDs do not by themselves prove standalone Drive binary preservation; asset state must remain explicit.
+Photoreal people remain useful test actors only. No final Character medium is selected.
 
 ---
 
-## 10. Current Director gate
+## 10. Drive continuity
+
+Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living critique/provenance record.
+
+The AB1, CRV-01 and TCV-01 render lineage should be preserved there with precise asset-state wording. Embedded archival visual copies do not equal standalone raw Drive image files.
+
+Google Drive `Kymaean Visual Continuity Constitution` should identify the TCV-01 result as the active design artifact after synchronization.
+
+---
+
+## 11. Current Director gate
 
 Director decision requested:
 
-> **Accept the minimum Character representation contract: Kymaean requires persistent specific identity, relational participation, state-channel independence, epistemic restraint, and accessibility-equivalent recognition; it does not require photorealism, a fixed portrait, animation, or user-uploaded imagery.**
+> **Accept TCV-01 as a strong partial single-surface temporal-continuity pass: stable Characters can inhabit a changed current Production whose causal continuity is communicated by a combination of relational reorganization, changed opportunity, and trustworthy current evidence without requiring Character mutation or a permanent before/after timeline.**
 
-If approved, the next smallest justified action is `CRV-01 — Character Representation Viability`:
+The smallest unresolved design boundary is now **information presence**:
 
-- same architecture-corrected semantic state;
-- three independent representation-depth probes;
-- Reduced Human Invariant;
-- Expressive Figurative;
-- Rich Representational Control;
-- one unrefined output per branch;
-- no branch uses a prior branch image as required visual reference;
-- compare identity persistence, relational legibility, B perspective vs C opportunity, epistemic restraint, accessibility plausibility and quiescence;
-- stop after cross-branch critique.
+> **What information belongs persistently in the live Stage, and what should be progressive/on-demand?**
 
-No final Character medium, upload workflow, portrait pipeline, AI image implementation, production UI, or website implementation is authorized by this gate.
+This applies to:
+
+- Character-bounded evidence;
+- current authoritative facts;
+- Current Opportunity;
+- recent Performance/transcript;
+- creator commands;
+- causal trace/history;
+- advanced system/capability material.
+
+If the Director approves this gate, the next smallest justified action is a non-render proposal:
+
+`SIPD-01 — Stage Information Presence & Progressive Disclosure`
+
+Then recursively audit and stop before rendering or implementation.
+
+No additional TCV render, Stage implementation, final Character medium, transcript architecture, Archive UI, WinUI code, or website implementation is authorized by this gate.
 
 ---
 
-## 11. Fresh-chat bootstrap
+## 12. Fresh-chat bootstrap
 
 For a new Kymaean app + website design Director chat:
 
 1. read this file first and resolve current `Ensemble-Website` main;
-2. read `docs/KYMAEAN_CHARACTER_REPRESENTATION_REQUIREMENTS_PROPOSAL_01.md` as the active gate;
-3. read `docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_PATCH_0014_ADDENDUM_01.md` and the base crosswalk for app-derived design authority;
-4. read `docs/KYMAEAN_VSG_A_B_CONVERGENCE_READINESS_AUDIT_01.md` for convergence provenance;
-5. re-read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims;
-6. preserve `Character != Performer`, `Character != Portrait`, `Perspective != Posture`, `Present != Salient != Obliged`, `Accepted Take != causal effectiveness`, `Meaningful Performance != mandatory meter movement`, and `social visibility != epistemic authority`;
-7. preserve `Surface != law`, `Recent strength != incumbent`, and `Research discovery != phase transition`;
-8. do not render CRV-01 until the Director approves the current representation gate.
+2. read `docs/KYMAEAN_TCV_01_TEMPORAL_CHARACTER_CONTINUITY_RESULT.md` as the active gate;
+3. read `docs/KYMAEAN_CRV_01_CHARACTER_REPRESENTATION_VIABILITY_RESULT.md` for representation evidence;
+4. read `docs/KYMAEAN_CHARACTER_REPRESENTATION_REQUIREMENTS_PROPOSAL_01.md` for the minimum identity contract;
+5. read the Patch 0014 addendum + base architecture-to-visual crosswalk for app-derived authority;
+6. re-read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims;
+7. preserve `Character != Performer`, `Character != Portrait`, `Perspective != Posture`, `Present != Salient != Obliged`, `Accepted Take != causal effectiveness`, `Meaningful Performance != mandatory meter movement`, `social visibility != epistemic authority`, and `changed circumstance != changed identity`;
+8. preserve `Surface != law`, `Recent strength != incumbent`, and `Research discovery != phase transition`;
+9. do not render another temporal/Character study merely to refine the current surface;
+10. do not begin SIPD-01 until the Director approves the current TCV gate.
