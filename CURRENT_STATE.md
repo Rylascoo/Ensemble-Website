@@ -39,16 +39,18 @@ Accepted/active design chain now includes:
 15. `docs/KYMAEAN_CDT_01_CONTEXT_DISCLOSURE_TRANSITION_PROPOSAL.md`
 16. `docs/KYMAEAN_CDT_V1_BOUNDED_CONTEXT_INVOCATION_RESULT.md`
 17. `docs/KYMAEAN_BCA_01_BOUNDED_CONTEXT_ANSWER_PROPOSAL.md`
+18. `docs/KYMAEAN_BCA_V1_ONE_QUESTION_ONE_ANSWER_RESULT.md`
+19. `docs/KYMAEAN_AAS_01_AUTHORITATIVE_ANSWER_SOURCING_PROPOSAL.md`
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_BCA_01_BOUNDED_CONTEXT_ANSWER_PROPOSAL.md`
+`docs/KYMAEAN_AAS_01_AUTHORITATIVE_ANSWER_SOURCING_PROPOSAL.md`
 
 Status:
 
-> **BCA-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER CONTEXT-CONTENT CONTRACT / NO FINAL CONTEXT TAXONOMY OR IMPLEMENTATION SELECTED**
+> **AAS-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER AUTHORITY-SOURCING CONTRACT / NO ANSWER ENGINE OR NEW APP AUTHORITY SELECTED**
 
-No final logo, palette, typeface, Character medium, Character-image workflow, material/icon/motion system, exact Stage/context composition, transcript architecture, observation system, Character Context taxonomy, causal-history UI, WinUI composition, AI inference pipeline, or production website/app implementation is selected.
+No final logo, palette, typeface, Character medium, Character-image workflow, material/icon/motion system, exact Stage/context composition, transcript architecture, observation system, Character Context taxonomy, causal-history UI, answer engine, new provenance UI, WinUI composition, AI inference pipeline, or production website/app implementation is selected.
 
 ---
 
@@ -72,6 +74,10 @@ No final logo, palette, typeface, Character medium, Character-image workflow, ma
 
 > **Question-bounded, not schema-complete.**
 
+> **Representation can depict; authority must establish.**
+
+> **Insufficient authority is an answer state, not an invitation to hallucinate.**
+
 Core distinctions:
 
 ```text
@@ -94,6 +100,12 @@ changed circumstance != changed identity
 current evidence != historical explanation
 
 more detail != more privilege
+
+true fact + true fact != causal because
+
+creator-operational truth != Character knowledge
+
+model/renderer completion != authority source
 ```
 
 Bounded Character disclosure is subtractive. Never infer private mind, knowledge, observation, belief, intent, recall, trust, confidence, skepticism, agreement or desire from gaze, pose, dialogue, proximity, co-presence, nomination, relationship, Director selection, SceneState, or causal adjacency alone.
@@ -175,7 +187,7 @@ Accepted findings:
 
 ---
 
-## 6. CDT-01 + CDT-V1 checkpoint
+## 6. CDT checkpoint
 
 CDT transition law:
 
@@ -187,8 +199,6 @@ LIVE STAGE
 -> SAME LIVE STAGE
 ```
 
-Opening/closing context is navigation/session state, not Production mutation.
-
 CDT-V1 render:
 
 `7c46abf4-9743-43a8-959d-f5c2b6566627`
@@ -197,37 +207,22 @@ Judgment:
 
 > **STRUCTURAL TRANSITION PASS / DISCLOSURE-CONTENT PARTIAL FAIL.**
 
-Structural passes:
+Accepted CDT findings:
 
+- opening/closing context is navigation/session state, not Production mutation;
 - Stage remains perceptually retained;
-- C is a clear context anchor while B remains the bounded perspective;
+- C can be the context anchor while B remains bounded perspective;
 - Watch remains Watch;
 - Current Opportunity remains C and non-obligatory;
 - return-to-Scene is conceptually exact/reversible;
-- no motion is required.
-
-Material content failures:
-
-- the context surface becomes too schema-complete;
-- `What I Can Observe` promotes rendered Scene visibility into unsupported B-observation claims;
-- quoted recent dialogue remains future UX hypothesis because Patch 0014 canonical Context v2 has no recent Performance content;
-- Causal Trace is too prominent as a standing sibling route instead of a deliberate `Why?` transition from current truth.
-
-Accepted CDT law:
-
-> **A temporary anchor-specific context surface can coexist with the living human Stage, but the answer content must be narrower and more authoritative than the first CDT-V1 panel.**
-
-No additional CDT panel refinement is justified by default.
+- context must increase detail without increasing privilege;
+- one contextual question / one primary disclosure surface is the default.
 
 ---
 
-## 7. BCA-01 — current proposal
+## 7. BCA-01 + BCA-V1 checkpoint
 
-BCA addresses the smallest unresolved question:
-
-> **Given one current anchor and one creator question, what is the minimum truthful answer Kymaean should reveal without becoming a dossier, schema dump, inferred psychology, transcript assumption, or privilege leak?**
-
-Four answer gates:
+BCA answer gates:
 
 ```text
 1. Question relevance
@@ -235,10 +230,6 @@ Four answer gates:
 3. Current authority
 4. Minimum sufficiency
 ```
-
-Required principle:
-
-> **The answer is composed for the question, not rendered from the storage schema.**
 
 Default semantic shape:
 
@@ -249,27 +240,117 @@ A2  minimum supporting authoritative basis, only if needed
 A3  one justified next path / return
 ```
 
-BCA laws:
+BCA-V1 render:
 
-- one current question -> one bounded answer -> one clear return path;
-- no full evidence taxonomy merely because fields exist;
-- no observation claim unless observation authority actually exists;
-- current Patch 0014 recent Performance remains empty, so transcript cannot be required for a bounded answer;
-- CharacterClaim disclosure/recall remains deferred;
-- inaccessible private categories are omitted rather than named as locked/unknown placeholders;
-- current answer remains distinct from causal trace/history;
-- technical capability truth remains separate from fictional state;
-- deterministic local composition from already-authoritative state is preferred; speculative background inference is not required.
+`10243c60-e2c3-489a-ace5-fa05838bfbf2`
 
-If approved, the next controlled validation is:
+Judgment:
 
-`BCA-V1 — One Question / One Answer`
+> **ANSWER-COMPOSITION PASS / AUTHORITY-SOURCING FAIL.**
 
-using the established P0/S0/A/B/C, Character-Bounded Watch, Current Opportunity C baseline. Exactly one current question and one compact bounded answer; then critique and stop.
+What BCA-V1 proved:
+
+- one question can organize the entire contextual answer;
+- direct answer + minimum basis is substantially stronger than a standing evidence taxonomy;
+- schema/dossier navigation is not required;
+- boundedness can be communicated without naming inaccessible categories;
+- Watch and Current Opportunity remain orthogonal to context answering;
+- narrow/accessibility reading order remains conceptually viable.
+
+What failed:
+
+- the renderer invented plausible facts such as C `leading the discussion` / `presenting terms` from the visible meeting scene;
+- visual plausibility was promoted into authoritative semantic explanation;
+- `Ask a different question about C` drifted toward generic entity-chat behavior.
+
+Durable correction:
+
+> **The answer format works; renderer-authored factual completion does not.**
+
+A truthful answer may state bounded insufficiency when current authority does not establish the requested reason.
 
 ---
 
-## 8. Current application-engineering authority
+## 8. AAS-01 — current proposal
+
+AAS addresses the smallest unresolved question:
+
+> **Which exact authoritative sources may satisfy a contextual question, how are source freshness and disclosure authority proven, and what does Kymaean do when those sources are insufficient?**
+
+Core path:
+
+```text
+question
+-> identify requested proposition
+-> identify permitted source lane(s)
+-> prove state/history association
+-> apply disclosure authority
+-> test semantic sufficiency
+-> sufficient?
+   yes -> compose minimum supported answer
+   no  -> state bounded insufficiency truthfully
+```
+
+Source lanes are separated by job rather than treated as one information pool:
+
+- **Current Production / routing authority** — current operational facts such as Scene/roster/Current Opportunity; creator-visible system truth is not automatically Character knowledge.
+- **Character-bounded current fictional authority** — Patch 0014 Access-before-Context projection/Context v2 for information legitimately available to the active Character perspective.
+- **Historical / causal authority** — accepted causal commits, opportunity transitions/history and their causal state association when a deliberate history route is entered; event existence does not automatically provide a natural-language rationale.
+- **Technical capability / operation authority** — technical availability/state, kept separate from fiction.
+- **Visual/model inference** — never an authority source.
+
+Current answer freshness law when combining Production + Character Context material:
+
+```text
+current ProductionState.StateHash
+== CharacterAccessProjection.SourceStateHash
+== ContextPacket.SourceStateHash
+```
+
+where those artifacts are used.
+
+Stale/foreign/missing required association fails closed.
+
+Statement-level support law:
+
+- causal language (`because`, `caused`, `therefore`) requires causal authority;
+- epistemic language (`saw`, `heard`, `knows`, `remembers`) requires matching permitted authority;
+- psychological/intent language requires actual permitted subjective state;
+- modal language (`can`, `must`, `required`) requires actual capability/action authority;
+- temporal language must respect current/historical locus.
+
+Important Current Opportunity correction:
+
+```text
+C has Current Opportunity
+!=
+why C was selected
+!=
+why C matters fictionally in the Scene
+```
+
+Patch 0013 can establish the selected Character and deterministic opportunity transition, but its canonical opportunity event intentionally omits full Director Trace/diagnostic explanation. Do not invent a semantic reason from the current meeting portrayal.
+
+AAS sufficiency outcomes:
+
+1. sufficient current answer;
+2. sufficient Character-bounded answer;
+3. historical route required;
+4. bounded insufficiency.
+
+Required law:
+
+> **No answer may be more specific, more certain, more causal, or more epistemically privileged than its source authority.**
+
+If AAS-01 is approved, the next validation is intentionally non-render:
+
+`AAS-V1 — Source Sufficiency Matrix`
+
+It will test direct routing fact, same-state Character-bounded fact, unsupported Observation, unavailable recent dialogue, and causal reason for Current Opportunity, then recursively audit and stop.
+
+---
+
+## 9. Current application-engineering authority
 
 Re-resolved at this checkpoint.
 
@@ -298,20 +379,37 @@ Exact machine authority:
 Patch 0014 material design boundaries:
 
 - Access before Context;
-- no observation inferred from co-presence, Candidate visible text, addressed Characters, nomination, Director selection, relationships, SceneState, or causal adjacency;
-- other-owned subjective state denied;
+- active `HistoricalTruth`, `UnresolvedProposition`, and `WorldState` remain denied;
+- active `SceneState` and `Pressure` are shared/public permitted state;
+- Constitution, Disposition, Circumstance, Observation, Knowledge, Belief, Suspicion, Memory, Goal, and Relationship are permitted only for the owning subject;
+- other-owned Character material denied;
 - CharacterClaim disclosure/recall deferred;
+- no observation inferred from co-presence, visible Candidate text, address, nomination, Director selection, relationship, SceneState, or causal adjacency;
+- Production-backed `CharacterAccessProjection` and Context v2 carry exact `SourceStateHash` association metadata;
 - canonical `recentPerformances = []` and empty `RecentPerformanceText`;
 - source hashes/context proof metadata do not enter Character-facing rendered text;
 - no idle/background/network/provider/clock/random/GPU/NPU work added by Patch 0014.
 
+Patch 0013 opportunity authority remains relevant:
+
+- deterministic authority establishes Current Opportunity;
+- opportunity establishment changes only `CurrentOpportunityCharacterId` in Production projection;
+- canonical opportunity event records parent/result StateHash, strategy contract and selected Character;
+- it does not embed full Director trace, Context prose, Candidate prose/control or diagnostics.
+
 ---
 
-## 9. Accessibility + ARM64 boundary
+## 10. Accessibility + ARM64 boundary
 
-Character, relationship, temporal continuity, disclosure transitions, and bounded answers must survive high contrast, monochrome, reduced motion, text scaling, material fallback, reduced-detail Character representation, narrow/sequential layouts, and appropriate image-unavailable states with programmatic/textual equivalents.
+Character, relationship, temporal continuity, disclosure transitions, bounded answers, and insufficiency states must survive high contrast, monochrome, reduced motion, text scaling, material fallback, reduced-detail Character representation, narrow/sequential layouts, and appropriate image-unavailable states with programmatic/textual equivalents.
 
-Context/answer invocation must expose semantic relation to the anchor, direct-answer-first reading order, active perspective where relevant, deliberate focus entry, predictable focus return, and clear current-versus-history transitions.
+A user must be able to determine semantically:
+
+- the anchor/question;
+- what answer is supported;
+- whether the answer is current or historical;
+- whether additional explanation is unavailable or requires a deliberate history route;
+- how to return to Stage.
 
 At rest:
 
@@ -326,52 +424,55 @@ The product feels alive because **Production state changes**, not because the co
 
 ---
 
-## 10. Surface quarantine
+## 11. Surface quarantine
 
-No generated cast, names, faces, clothing, photoreal office/meeting medium, table/laptops/props, cream/white UI, exact typography, orange/green/blue state accents, portrait-chip row, Current Opportunity card, top-bar geometry, inspector card treatment, tab structure, evidence iconography, cinematic lighting/camera, or generic premium productivity/SaaS styling has inheritance rights.
+No generated cast, names, faces, clothing, photoreal office/meeting medium, table/laptops/props, cream/white UI, exact typography, orange/green/blue state accents, portrait-chip row, Current Opportunity card, top-bar geometry, answer/inspector card treatment, cinematic lighting/camera, or generic premium productivity/SaaS styling has inheritance rights.
+
+Repeated use of that surface during SIPD/CDT/BCA was controlled experimental continuity, not convergence.
 
 > **Surface != law.**
 
 ---
 
-## 11. Drive continuity
+## 12. Drive continuity
 
-Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record and should preserve CDT-V1 with precise judgment and asset-state wording.
+Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record and should preserve BCA-V1 with exact composition-pass/authority-sourcing-fail judgment and precise asset-state wording.
 
-Google Drive `Kymaean Visual Continuity Constitution` should identify BCA-01 as the active design artifact after synchronization.
+Google Drive `Kymaean Visual Continuity Constitution` should identify AAS-01 as the active design artifact after synchronization.
 
 Embedded archival visual copies do not equal standalone raw Drive image files.
 
 ---
 
-## 12. Current Director gate
+## 13. Current Director gate
 
 Director decision requested:
 
-> **Adopt BCA-01: one current anchor and one creator question produce one minimal truthful answer composed only from question-relevant, perspective-authorized, currently authoritative information; unsupported observation/private mind, schema dumps, transcript assumptions, inaccessible-category placeholders, and hidden historical explanation are excluded.**
+> **Adopt AAS-01: every contextual answer is grounded only in permitted authoritative source lanes with same-state freshness where applicable; each material proposition must be semantically supported; causal, epistemic, psychological, modal and temporal language require matching authority; and insufficient authority produces a truthful bounded-insufficiency answer rather than model/renderer completion.**
 
-If approved, the next smallest justified action is exactly one controlled:
+If approved, the next smallest justified action is exactly one non-render:
 
-`BCA-V1 — One Question / One Answer`
+`AAS-V1 — Source Sufficiency Matrix`
 
-Then critique and stop.
+Then recursive audit and stop.
 
-No final Character Context taxonomy, transcript system, observation system, causal-history UI, WinUI implementation, AI inference pipeline, or website implementation is authorized by this gate.
+No answer engine, new Core API, new persistence layer, Observation system, recent-Performance context, Director strategy change, causal-history implementation, WinUI implementation, AI inference pipeline, or website implementation is authorized by this gate.
 
 ---
 
-## 13. Fresh-chat bootstrap
+## 14. Fresh-chat bootstrap
 
 For a new Kymaean app + website design Director chat:
 
 1. read this file first and resolve current `Ensemble-Website` main;
-2. read `docs/KYMAEAN_BCA_01_BOUNDED_CONTEXT_ANSWER_PROPOSAL.md` as the active gate;
-3. read `docs/KYMAEAN_CDT_V1_BOUNDED_CONTEXT_INVOCATION_RESULT.md` + CDT-01 for transition evidence;
-4. read SIPD-V1 + SIPD-01 for default Stage presence/allocation;
-5. read the Character-Bounded Watch/Perform contract for perspective/agency semantics;
-6. read TCV/CRV result files for temporal/identity constraints;
-7. read the Patch 0014 visual addendum + base crosswalk for app-derived authority;
-8. re-read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims;
-9. preserve `Perspective != Posture`, `Present != Salient != Obliged`, `social visibility != epistemic authority`, `visible != observed`, `changed circumstance != changed identity`, `current evidence != historical explanation`, `importance != permanence`, `more detail != more privilege`, and `question-bounded != schema-complete`;
-10. preserve `Surface != law`, `Recent strength != incumbent`, and `Research discovery != phase transition`;
-11. do not generate BCA-V1 until the Director approves BCA-01.
+2. read `docs/KYMAEAN_AAS_01_AUTHORITATIVE_ANSWER_SOURCING_PROPOSAL.md` as the active gate;
+3. read `docs/KYMAEAN_BCA_V1_ONE_QUESTION_ONE_ANSWER_RESULT.md` + BCA-01 for answer-composition evidence;
+4. read CDT-V1/CDT-01 for transition invariants;
+5. read SIPD-V1/SIPD-01 for default Stage information-presence laws;
+6. read the Character-Bounded Watch/Perform contract for perspective/agency semantics;
+7. read TCV/CRV result files for temporal/identity constraints;
+8. read the Patch 0014 visual addendum + base crosswalk for app-derived authority;
+9. re-read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and relevant Patch 0013/0014 canonical sources before exact engineering claims;
+10. preserve `Perspective != Posture`, `Present != Salient != Obliged`, `social visibility != epistemic authority`, `visible != observed`, `changed circumstance != changed identity`, `current evidence != historical explanation`, `importance != permanence`, `more detail != more privilege`, `question-bounded != schema-complete`, `creator-operational truth != Character knowledge`, and `model completion != authority`;
+11. preserve `Surface != law`, `Recent strength != incumbent`, and `Research discovery != phase transition`;
+12. do not create AAS-V1 until the Director approves AAS-01.
