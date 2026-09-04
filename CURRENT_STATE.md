@@ -18,7 +18,11 @@ Efficiency law approved 2026-09-04:
 
 > **Maximize useful reasoning per Director turn; minimize approval overhead without weakening authority boundaries.**
 
-GPT-5.6 Sol High reasoning may define larger coherent work packages for the remainder of project creation. A work package may complete all logically coupled source synthesis, artifact work, archival/checkpoint updates and recursive audit for one bounded objective, then stop at the next consequential Director gate. It must not silently cross a major creative convergence decision, implementation authorization, product-architecture boundary or external validation gate.
+Canonical reasoning/task-scope protocol:
+
+`docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`
+
+For each substantive Director turn, deliberately optimize task granularity for GPT-5.6 Sol High: choose the largest logically coupled, falsifiable scope that belongs to one objective; use High reasoning for source synthesis, dependency closure, contradiction detection, falsification and recursive audit; keep simple tasks simple; stop at consequential Director/architecture/implementation/runtime/WACK/Store/external-validation gates.
 
 ---
 
@@ -26,7 +30,7 @@ GPT-5.6 Sol High reasoning may define larger coherent work packages for the rema
 
 R0 Visual Re-Foundation is historical foundation, not the active phase.
 
-The integrated app + website semantic-design laboratory has progressed through CIR-T1R1 and is sufficiently mature to begin **true Kymaean visual-identity divergence**.
+The integrated app + website semantic-design laboratory progressed through CIR-T1R1 and has entered **true Kymaean visual-identity divergence**.
 
 Canonical remaining-sequence roadmap:
 
@@ -36,15 +40,27 @@ Phase reconciliation for older continuity text:
 
 `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`
 
-Current active Director-review / next-gate artifact:
+VID-01 entry authority:
 
-`docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`
+`docs/KYMAEAN_VID_01_VISUAL_IDENTITY_DIVERGENCE_ENTRY.md`
 
-Current next major gate:
+Director-only orthogonal hypothesis map:
 
-> **SHARED BRAND — KYMAEAN VISUAL IDENTITY DIVERGENCE 01**
+`docs/KYMAEAN_VID_01_DIRECTOR_HYPOTHESIS_MAP.md`
 
-No final Kymaean symbol, app icon, wordmark, palette, typography, Character/human medium, material language, motion system, Stage surface, app visual system, website composition or website implementation is selected.
+First isolated V0 evidence/result:
+
+`docs/KYMAEAN_VID_01_V0_RENDER_01_RESULT.md`
+
+Current active next-operation artifact:
+
+`docs/KYMAEAN_VID_01_V0_RENDER_02_LATERAL_PACKET.md`
+
+Current phase:
+
+> **SHARED BRAND — KYMAEAN VISUAL IDENTITY DIVERGENCE 01 — ACTIVE / LATERAL EXPLORATION**
+
+No final Kymaean symbol, app icon, wordmark, palette, typography, Character/human medium, material language, motion system, Stage surface, app visual system, website composition, website implementation, or visual family is selected.
 
 ---
 
@@ -95,7 +111,7 @@ Required synthesis:
 
 ## 5. Accepted semantic/design chain
 
-The active visual-identity phase inherits the following accepted research/checkpoints without inheriting their generated surfaces:
+The active visual-identity phase inherits accepted research/checkpoints without inheriting generated surfaces:
 
 1. `docs/KYMAEAN_APP_WEBSITE_DESIGN_SYNTHESIS_BLUEPRINT_01.md`;
 2. `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`;
@@ -120,7 +136,10 @@ The active visual-identity phase inherits the following accepted research/checkp
 21. CIR-R1 first-use identity discoverability;
 22. CIR-T1 adaptive identity explicitness;
 23. CIR-T1V1 adaptive identity explicitness state matrix;
-24. `docs/KYMAEAN_CIR_T1R1_ADAPTIVE_IDENTITY_EXPLICITNESS_VISUAL_SEQUENCE_RESULT.md`.
+24. `docs/KYMAEAN_CIR_T1R1_ADAPTIVE_IDENTITY_EXPLICITNESS_VISUAL_SEQUENCE_RESULT.md`;
+25. `docs/KYMAEAN_VID_01_VISUAL_IDENTITY_DIVERGENCE_ENTRY.md`;
+26. `docs/KYMAEAN_VID_01_DIRECTOR_HYPOTHESIS_MAP.md`;
+27. `docs/KYMAEAN_VID_01_V0_RENDER_01_RESULT.md` as diagnostic evidence, not a selected visual family.
 
 ---
 
@@ -176,7 +195,7 @@ The active visual-identity phase inherits the following accepted research/checkp
 
 > **Identity explicitness should adapt to ambiguity; Character identity itself must remain stable.**
 
-> **Character imagery enriches identity presentation; it is not the authority for who the Character is.**
+> **Character imagery enriches identity presentation; it is not the authority for who that Character is.**
 
 > **Direct identity association can replace duplicate roster identity.**
 
@@ -199,6 +218,14 @@ The active visual-identity phase inherits the following accepted research/checkp
 > **First-use memorability does not justify Character summarization.**
 
 > **Identity can become quieter without becoming weaker.**
+
+VID-01 diagnostic findings now under further validation:
+
+> **History-like atmosphere is not the same as causal recoverability.**
+
+> **Human primacy does not remove the need for present-state causal evidence.**
+
+> **A charged conversation is not enough; consequence should be legible in what the present permits, prevents, redirects, or makes possible.**
 
 Core distinctions:
 
@@ -232,6 +259,8 @@ adaptive explicitness != identity mutation
 identity explicitness transition != Production mutation
 research alias != product-facing Character identity
 Production continuity != provider conversation memory
+historical atmosphere != recoverable cause
+relational tension != materially changed present possibility
 ```
 
 ---
@@ -277,21 +306,23 @@ focus -> one identity becomes explicit again
 reduced visual certainty -> broader naming returns
 ```
 
-It also reconfirmed that the current photoreal office/SaaS laboratory, floating tags/leader lines, `C` Opportunity token, eye/Watch icon and presentation-board slogans have no inheritance rights.
+It also reconfirmed that the photoreal office/SaaS laboratory, floating tags/leader lines, `C` Opportunity token, eye/Watch icon and presentation-board slogans have no inheritance rights.
 
-CIR identity-mechanics research is now sufficient. Do not continue polishing the same office/control surface merely because it has been repeatedly used as a controlled laboratory.
+CIR identity-mechanics research is sufficient. Do not resume polishing that office/control surface merely because it was repeatedly used as a controlled laboratory.
 
 ---
 
 ## 8. Current application-engineering authority
 
-Re-resolved 2026-09-04 during cross-product reconciliation.
+Re-resolved 2026-09-04 during VID-01 V0R1 review.
 
 `Rylascoo/Ensemble-Project` current `main`:
 
-`a92199a0a66810d201b4c7834b813b45f4999184`
+`1238b568565bf704a6e6fff70828730982db4b3e`
 
-Latest completed patch:
+The current `main` includes later workflow/documentation commits after Patch 0015 promotion. These do not replace exact machine-observed validation SHAs.
+
+Latest completed engineering patch:
 
 `H1 Patch 0015 — E0 Accepted Performance History + Context Continuity`
 
@@ -358,7 +389,7 @@ Therefore:
 
 ## 10. Accessibility / ARM64 / privacy / quiescence
 
-The visual system must remain semantically useful without:
+The eventual product visual system must remain semantically useful without:
 
 - portrait recognition;
 - color;
@@ -374,15 +405,26 @@ Current design requirements need no facial recognition, biometric identity infer
 
 Actual WinUI accessibility roles, `AutomationProperties`, keyboard/focus behavior, high contrast, screen-reader behavior and native performance remain implementation-stage validation work.
 
+Expressive V0 artwork may violate eventual product-surface constraints at the literal surface level; only transferable properties are candidates for later system translation and accessibility testing.
+
 ---
 
 ## 11. Surface quarantine
 
 No generated cast, names, faces, clothing, photoreal office/meeting medium, city-window setting, cream/white UI, exact typography, portrait-chip row, status dots, `(You)` label, A/B/C product-token grammar, Current Opportunity token/card, green ring, inspector geometry, top-bar geometry, search/menu arrangement, marketing taglines, permanent nameplates, floating identity cards, personality descriptors, connector dots/leader lines, eye icon, hover tooltips, focus ring, fallback glyph/avatar, exact fade/timing system, exact Perspective/Opportunity treatment, cinematic lighting/camera, four-panel identity board, or generic premium-productivity/SaaS styling has inheritance rights.
 
+V0R1 additionally grants no inheritance rights to:
+
+- painterly/oil appearance;
+- warm brown/beige/cream/muted-blue tonal field;
+- domestic/worn interior;
+- central table/chair composition;
+- bookshelves, framed pictures, plants, lamp, photographs/papers, cups or similar object vocabulary;
+- exact four-person arrangement, poses, ages, faces, clothing, hairstyles, daylight-window lighting, camera, crop, brushwork or visual era.
+
 > **Surface != law.**
 
-Repeated controlled surfaces are experimental consistency, not convergence.
+Clean-slate rediscovery is allowed. Repeated or independently rediscovered surfaces do not become incumbents through repetition.
 
 ---
 
@@ -408,11 +450,11 @@ Canonical roadmap:
 
 `docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`
 
-Remaining high-level phases:
+High-level phases:
 
 ```text
-A. continuity closure / visual-identity entry — COMPLETE WITH THIS CHECKPOINT
-B. true Kymaean visual-identity divergence — NEXT
+A. continuity closure / visual-identity entry — COMPLETE
+B. true Kymaean visual-identity divergence — ACTIVE
 C. controlled shared-brand convergence
 D. native app visual foundation
 E. app production asset + accessibility system
@@ -424,62 +466,77 @@ I. launch translation against real app implementation
 
 The sequence is not a rigid waterfall. Visually material app-engineering authority changes require the smallest crosswalk reconciliation before stale assumptions are used. Native implementation constraints may patch the smallest design surface. Website discoveries may be tested cross-surface but do not automatically become app law.
 
+VID-01 cannot converge from one renderer result. At least two genuinely distinct visual families must survive evidence review before deliberate shared-brand convergence; prefer more if surviving families remain close in grammar.
+
 ---
 
 ## 14. Drive continuity
 
 Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` remains the living visual/provenance record.
 
-Before a design/artwork handoff closes, preserve generated visual evidence, diagnostic failures, Director reactions and durable critique according to the Visual Archive Protocol.
+V0R1 is preserved as a standalone raw PNG in:
 
-CIR-T1R1 must be preserved with:
+`03 Clean-Slate Visual Discovery — Active / V0 Visual World & Atmosphere — Clean Slate`
 
-- render ID `ec8cbcc5-c821-47a5-8b41-cafc0efcee9b`;
-- formal judgment `ADAPTIVE EXPLICITNESS SEQUENCE PASS / PRODUCT-SURFACE PARTIAL FAIL`;
-- embedded archival visual copy when the current-session binary is available;
-- surface-quarantine status.
+File:
 
-Embedded archival visual copies are evidence, not automatically standalone raw Drive image masters.
+`VID-01_V0_Render_01_2026-09-04.png`
 
-The Drive Visual Continuity Constitution should point to the new cross-product roadmap/current visual-identity divergence gate after synchronization.
+Drive file ID:
+
+`1T2Wno5Ug5mlxPCCPtbOLaIxPScnINugR`
+
+The Registry contains the V0R1 critique, classification, hypothesis-map correspondence, transferable findings, surface quarantine, and V0R2 lateral direction.
+
+Historical inspiration remains separate from active discovery. V0R1 is active research evidence, not a historical incumbent and not an approved master identity surface.
 
 ---
 
-## 15. Current Director gate
+## 15. Current Director / renderer gate
 
-Phase A reconciliation is complete at the repository level.
+VID-01 V0R1 is complete.
 
-Next consequential design gate:
+Formal result:
 
-> **SHARED BRAND — KYMAEAN VISUAL IDENTITY DIVERGENCE 01**
+> **DIAGNOSTIC / TRANSFERABLE LAW ONLY — HUMAN RELATIONAL FIELD STRONG / CAUSAL RECOVERABILITY PARTIAL-FAIL / SURFACE UNSELECTED.**
 
-Central question:
+Strongest V0R1 discovery:
 
-> **What visual world could belong specifically to Kymaean while preserving its mature human, relational, causal, epistemic, identity, accessibility and quiescence laws?**
+> **H1 Living Relational Field is visually viable: people and relational position can strongly organize attention without UI or relationship diagrams.**
 
-Do not refine the current photoreal office laboratory.
+Strongest V0R1 falsification:
 
-The first divergence work package should:
+> **Human specificity + relational tension + historical atmosphere do not by themselves make a prior human cause or materially changed present possibility recoverable.**
 
-1. re-resolve current website/app authority;
-2. synthesize only durable laws, not inherited surface vocabulary;
-3. define a small set of genuinely orthogonal visual-universe hypotheses;
-4. use Renderer Isolation / sterile packets where surface independence materially improves the experiment;
-5. generate/evaluate broad evidence rather than polish one answer;
-6. archive each meaningful branch and critique;
-7. stop before visual-family convergence unless the Director explicitly approves convergence.
+Do not refine V0R1.
+
+The next lateral experiment is V0R2, which tests H2 changed present affordance:
+
+> **Can an earlier human decision become recoverable because the present environment itself now permits, prevents, redirects, divides, or enables different human possibilities?**
+
+Canonical isolated-render packet:
+
+`docs/KYMAEAN_VID_01_V0_RENDER_02_LATERAL_PACKET.md`
+
+Execute exactly one V0R2 artwork in a new regular non-project Renderer Context using only the sterile packet contained there. Do not show the renderer V0R1, its critique, the Director hypothesis map, Kymaean/Ensemble naming, project files, historical artwork, or concrete surface examples.
+
+After V0R2 returns, critique and archive it laterally against V0R1. Do not generate variants or converge.
 
 ---
 
 ## 16. Fresh-chat bootstrap
 
 1. Read this `CURRENT_STATE.md` first and resolve current `Rylascoo/Ensemble-Website` `main`.
-2. Read `docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`.
-3. Read `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`.
-4. Read `docs/DESIGN_CONTINUITY.md` for durable visual/brand law, treating obsolete R0 active-phase pointers as historical.
-5. Read `docs/KYMAEAN_CIR_T1R1_ADAPTIVE_IDENTITY_EXPLICITNESS_VISUAL_SEQUENCE_RESULT.md` only when the immediate identity-to-visual transition evidence is relevant.
-6. Read the Patch 0015 visual addendum before Stage/context/history work that depends on recent Performance.
-7. Resolve current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact product/validation claims; do not assume Patch 0015 remains latest if engineering has advanced.
-8. Use Google Drive as visual-master/provenance authority and preserve artwork/handoff archive law.
-9. Preserve `Surface != law`, `Research discovery != phase transition`, `Recent strength != incumbent`, `Metaphor != identity`, and `Assistant preference != Director approval`.
-10. Use GPT-5.6 Sol High work packages to maximize useful reasoning per Director turn while stopping at consequential creative/implementation/validation gates.
+2. Read `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md` and optimize the current substantive task for GPT-5.6 Sol High.
+3. Read `docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`.
+4. Read `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`.
+5. Read `docs/DESIGN_CONTINUITY.md` for durable visual/brand law, treating obsolete R0 active-phase pointers as historical.
+6. For current VID-01 work, read `docs/KYMAEAN_VID_01_VISUAL_IDENTITY_DIVERGENCE_ENTRY.md`, then the result/packet directly relevant to the current render. Do not expose the Director hypothesis map or prior-render critique to an isolated Renderer Context.
+7. Current next renderer packet at this checkpoint: `docs/KYMAEAN_VID_01_V0_RENDER_02_LATERAL_PACKET.md`.
+8. Read `docs/KYMAEAN_CIR_T1R1_ADAPTIVE_IDENTITY_EXPLICITNESS_VISUAL_SEQUENCE_RESULT.md` only when the identity-to-visual transition evidence is directly relevant.
+9. Read the Patch 0015 visual addendum before Stage/context/history work depending on recent Performance.
+10. Resolve current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact product/validation claims; latest completed patch is Patch 0015 at this checkpoint, but later documentation/workflow commits on app `main` do not replace exact machine-validation SHAs.
+11. Use Google Drive as visual-master/provenance authority and preserve artwork/handoff archive law.
+12. Preserve `Surface != law`, `Research discovery != phase transition`, `Recent strength != incumbent`, `Metaphor != identity`, and `Assistant preference != Director approval`.
+13. Keep active clean-slate work separate from historical inspiration and preserve Renderer Isolation when surface independence materially strengthens the experiment.
+14. Stop before shared-brand visual-family convergence unless the Director explicitly approves convergence after sufficient lateral evidence.
