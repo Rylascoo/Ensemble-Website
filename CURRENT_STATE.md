@@ -20,7 +20,7 @@ Checkpoint law:
 
 R0 Visual Re-Foundation calibration is closed. Integrated app + website design synthesis is active.
 
-Current accepted chain includes:
+Current accepted/active chain includes:
 
 1. app/website synthesis + experience ontology;
 2. information-relationship architecture + shell/navigation grammar;
@@ -34,15 +34,16 @@ Current accepted chain includes:
 10. CDT-01 + CDT-V1 context disclosure transition;
 11. BCA-01 + BCA-V1 bounded answer composition;
 12. AAS-01 + AAS-V1 authoritative answer sourcing;
-13. `docs/KYMAEAN_ARS_01_ANSWER_ROUTE_SUFFICIENCY_SIGNALING_PROPOSAL.md`.
+13. ARS-01 Answer Route & Sufficiency Signaling;
+14. `docs/KYMAEAN_ARS_V1_ANSWER_STATE_LANGUAGE_MATRIX_RESULT.md`.
 
 Current active Director-review artifact:
 
-`docs/KYMAEAN_ARS_01_ANSWER_ROUTE_SUFFICIENCY_SIGNALING_PROPOSAL.md`
+`docs/KYMAEAN_ARS_V1_ANSWER_STATE_LANGUAGE_MATRIX_RESULT.md`
 
 Status:
 
-> **ARS-01 — DIRECTOR PROPOSAL FOR REVIEW / NON-RENDER ANSWER-STATE COMMUNICATION CONTRACT / NO FINAL COPY, HISTORY UI, ANSWER ENGINE, OR VISUAL STATUS SYSTEM SELECTED**
+> **ARS-V1 — ANSWER-STATE LANGUAGE SEMANTICS VALIDATED / RESULT AWAITING DIRECTOR ACCEPTANCE / NO FINAL COPY SYSTEM, HISTORY UI, ANSWER ENGINE, OR VISUAL STATUS SYSTEM SELECTED**
 
 ---
 
@@ -74,8 +75,6 @@ Status:
 
 > **An unavailable answer must describe the authority limitation without falsely negating the fiction.**
 
-ARS candidate law awaiting Director approval:
-
 > **Deterministic authority boundaries must not be presented as probabilistic confidence.**
 
 Core distinctions:
@@ -98,6 +97,10 @@ history exists != requested explanation is answerable
 current insufficiency != low confidence
 technical limitation != fictional Character behavior
 ```
+
+ARS-V1 candidate law awaiting Director acceptance:
+
+> **Trust signaling should be semantic before it is decorative.**
 
 ---
 
@@ -165,9 +168,7 @@ one anchor
 
 ## 5. AAS-01 + AAS-V1 — accepted checkpoint
 
-Director approval received 2026-09-04.
-
-AAS authoritative path:
+AAS source path:
 
 ```text
 question
@@ -182,10 +183,10 @@ question
 
 Source lanes:
 
-- **A — current Production/routing authority**;
-- **B — Character-bounded current fictional authority via Patch 0014 Access-before-Context**;
-- **C — historical/causal authority**;
-- **D — technical capability/product-operation authority**.
+- current Production/routing authority;
+- Character-bounded current fictional authority via Patch 0014 Access-before-Context;
+- historical/causal authority;
+- technical capability/product-operation authority.
 
 Visual/model inference is never an authority lane.
 
@@ -197,37 +198,33 @@ ProductionState.StateHash
 == ContextPacket.SourceStateHash
 ```
 
-`SourceStateHash` remains engineering association metadata, not Character-facing fictional knowledge.
-
-AAS-V1 result:
+AAS-V1 verdict:
 
 > **PASS — SOURCE-SUFFICIENCY MODEL VALIDATED ACROSS CURRENT, CHARACTER-BOUNDED, HISTORICAL-ROUTE, AND INSUFFICIENT CASES.**
 
-Five controlled findings:
-
-1. `Who currently has the opportunity?` -> **SUFFICIENT CURRENT ANSWER** from `ProductionState.CurrentOpportunityCharacterId`.
-2. `What current shared condition is available to B?` -> **SUFFICIENT CHARACTER-BOUNDED ANSWER** only when a same-state question-relevant permitted `SceneState`/`Pressure` source exists.
-3. `What did B observe about C?` -> **BOUNDED INSUFFICIENCY** when no relevant B-owned permitted Observation exists; rendered visibility is non-source.
-4. `What did C just say?` from B's current bounded context -> **BOUNDED INSUFFICIENCY AT PATCH 0014** because canonical `recentPerformances = []` / `RecentPerformanceText = empty`.
-5. `Why does C currently have the opportunity?` -> **HISTORICAL ROUTE REQUIRED; SUFFICIENCY CONDITIONAL**. Current state proves who; Patch 0013 proves deterministic selection transition; canonical opportunity event intentionally omits full Director input/trace/rationale.
-
-Critical trust distinction:
+Key distinctions:
 
 ```text
 No recent dialogue is available in B's current bounded context.
 !=
 C said nothing.
+
+current state proves who has Current Opportunity
+!=
+current state proves why that Character was selected
 ```
 
 ---
 
-## 6. ARS-01 — active proposal
+## 6. ARS-01 — accepted checkpoint
 
-ARS addresses:
+Director approval received 2026-09-04.
 
-> **How should Kymaean communicate `answerable now`, `authoritative history required`, and `not currently supportable` without exposing engineering internals, disguising absence as uncertainty, or promising a `Why?` route that cannot actually answer?**
+Primary communication law:
 
-Primary communication classes:
+> **State the supported truth first; state the boundary second; offer only a route that authority can justify.**
+
+Primary semantic conditions:
 
 ```text
 SUPPORTED NOW
@@ -235,77 +232,69 @@ HISTORY REQUIRED / AVAILABLE
 NOT CURRENTLY SUPPORTABLE
 ```
 
-These are semantic communication classes, not proposed implementation enums or permanent UI badges.
+These are semantic classes, not required visible badges or implementation enums.
 
-Primary law:
+Accepted ARS laws:
 
-> **State the supported truth first; state the boundary second; offer only a route that authority can justify.**
-
-### Supported now
-
-- answer directly;
-- scope to `From B's current perspective` only when needed;
-- perspective scope does not itself mean `B knows`;
-- no `verified`, confidence score, truth meter, or status dashboard required.
-
-### Historical explanation
-
-- preserve the current supported fact first;
-- current fact and causal rationale remain distinct;
-- a question-specific `Why?` / `Trace why` action may appear only when an authoritative route for the requested explanation is established as available;
-- existence of history alone does not justify the affordance;
-- if only the current fact is supported, communicate that the current authority does not establish the reason without saying that no reason exists.
-
-### Not currently supportable
-
-- describe the answer boundary precisely;
-- do not convert `not available` into `did not happen`;
-- do not convert perspective restriction into proof that denied material exists;
-- unsupported Observation remains unsupported rather than inferred from Stage portrayal;
-- unavailable recent dialogue remains a context limitation, not proof of silence.
-
-### Technical limitations
-
-Technical/capability unavailability remains operational rather than fictional. ARS-01 does not introduce or claim Windows AI/`AIFeatureReadyState` implementation behavior in the current baseline.
-
-### Route law
-
-> **The next action follows the meaning of the answer, not the existence of more data.**
-
-Reject generic `Ask anything`, `Explore more`, schema browsing, or a `Why?` action that promises unsupported explanation.
-
-### Visual signaling boundary
-
-ARS-01 rejects traffic-light truth semantics, confidence percentages, certainty meters, and color-only meaning.
-
-Preferred hierarchy:
-
-```text
-1. exact answer/limitation language
-2. compact scope/temporal cue when necessary
-3. route availability
-4. optional redundant icon/color later, never sole meaning
-```
-
-No final visual treatment is selected.
-
-### Accessibility / quiescence
-
-- answer state must be recoverable semantically without color/icon/position/motion;
-- disabled visible controls must not leak inaccessible content categories;
-- no continuous answer generation;
-- no idle historical reconstruction;
-- no background summarization/provider polling;
-- no speculative `Why?` generation;
-- no face/emotion analysis or persistent GPU/NPU work.
-
-ARS-01 recursive audit result:
-
-> **PASS — no remaining false-fiction negation, confidence masquerade, perspective/knowledge conflation, unsupported `Why?` promise, private-category leak, opportunity/obligation conflation, technical/fictional confusion, accessibility-only visual dependency, or worthwhile correction within ARS-01 scope.**
+- direct supported answers should answer directly;
+- perspective scope is shown only when needed and does not itself assert Character knowledge;
+- a question-specific `Why?`/`Trace why` route is allowed only when that requested historical explanation is established as authoritatively available;
+- history existence alone does not justify an explanation affordance;
+- insufficiency is communicated as a source/perspective boundary, not uncertainty or fictional negation;
+- technical capability limitations remain operational, not fictional;
+- confidence percentages, certainty meters, traffic-light truth semantics, permanent status dashboards, and color-only meaning are rejected.
 
 ---
 
-## 7. Current application-engineering authority
+## 7. ARS-V1 — active result
+
+Artifact:
+
+`docs/KYMAEAN_ARS_V1_ANSWER_STATE_LANGUAGE_MATRIX_RESULT.md`
+
+Formal verdict:
+
+> **PASS — ANSWER-STATE LANGUAGE SEMANTICS VALIDATED ACROSS DIRECT, CHARACTER-BOUNDED, CONDITIONAL-HISTORY, CAUSAL-INSUFFICIENT, OBSERVATION-INSUFFICIENT, AND RECENT-DIALOGUE-INSUFFICIENT CASES.**
+
+Six controlled cases:
+
+1. supported current routing answer:
+   - `C currently has the opportunity.`
+   - no sufficiency/confidence badge required.
+
+2. supported Character-bounded current answer:
+   - `From B's current perspective: [supported fact].`
+   - scope cue does not mean `B knows`.
+
+3. current fact + exact authoritative historical explanation route established available:
+   - current fact + one meaning-connected `Trace why`-type route;
+   - conditional UX case only, not a claim that current Patch 0013/0014 implements the full history route.
+
+4. current fact + requested reason unavailable:
+   - `C currently has the opportunity. The current context establishes that fact, but not why C was selected.`
+   - no `Why?` route.
+
+5. unsupported Observation:
+   - `B's current perspective does not establish an observation about C for this question.`
+   - not `B saw nothing`.
+
+6. unavailable recent dialogue under Patch 0014:
+   - `Recent dialogue is not available in B's current perspective for this question.`
+   - not `C said nothing`.
+
+ARS-V1 cross-case findings:
+
+- the semantic class normally does not need to be named visibly;
+- `does not establish` / `is not available in this perspective` describe deterministic boundaries better than confidence language;
+- user-facing copy should avoid engineering nouns such as `SourceStateHash`, `ContextPacket`, `AccessReason`, and `DirectorTrace`;
+- unsupported routes should usually be omitted rather than displayed disabled;
+- all six states remain recoverable semantically without color, iconography, portrait, motion, or confidence scoring.
+
+No production-localized copy strings are frozen. No visual surface is selected.
+
+---
+
+## 8. Current application-engineering authority
 
 Re-resolved 2026-09-04.
 
@@ -347,9 +336,20 @@ Patch 0013 remains deterministic Current Opportunity authority. Its canonical op
 
 ---
 
-## 8. Surface quarantine
+## 9. Accessibility / ARM64 / surface quarantine
 
-No generated cast, names, faces, clothing, photoreal office/meeting medium, cream/white UI, exact typography, portrait-chip row, Current Opportunity card, inspector geometry, status badge, color semantics, evidence iconography, cinematic lighting/camera, or generic premium productivity/SaaS styling has inheritance rights.
+All answer states must survive high contrast, monochrome, reduced motion, text scaling, narrow/sequential layouts, image-unavailable states, and assistive technology.
+
+At rest:
+
+- no continuous answer generation;
+- no idle historical reconstruction;
+- no background summarization/provider polling;
+- no speculative `Why?` generation;
+- no face/emotion analysis;
+- no persistent GPU/NPU work.
+
+No generated cast, names, faces, clothing, photoreal office/meeting medium, cream/white UI, exact typography, portrait-chip row, Current Opportunity card, inspector geometry, answer-status badge, color semantics, evidence iconography, cinematic lighting/camera, or generic premium productivity/SaaS styling has inheritance rights.
 
 > **Surface != law.**
 
@@ -357,46 +357,47 @@ Repeated controlled surfaces remain experimental consistency, not convergence.
 
 ---
 
-## 9. Drive continuity
+## 10. Drive continuity
 
 Google Drive `Kymaean Visual Exploration Registry & Critique Ledger` is the living visual/provenance record.
 
-Google Drive `Kymaean Visual Continuity Constitution` should identify ARS-01 as the active design artifact after synchronization.
+Google Drive `Kymaean Visual Continuity Constitution` should identify ARS-V1 as the active design artifact after synchronization.
 
-ARS-01 is non-render; no new image belongs to this checkpoint.
+ARS-V1 is non-render; no new image belongs to this checkpoint.
 
 Embedded archival visual copies do not equal standalone raw Drive image files.
 
 ---
 
-## 10. Current Director gate
+## 11. Current Director gate
 
 Director decision requested:
 
-> **Adopt ARS-01: Kymaean states supported truth directly, describes insufficiency as an authority boundary rather than uncertainty or fictional negation, and offers a historical explanation action only when that requested explanation is authoritatively available. Perspective, temporal locus, and technical capability are clarified only when needed and never collapsed into one generic status system.**
+> **Accept ARS-V1: answer sufficiency should normally be communicated through semantic answer/limitation language and route availability, not a visible truth-status system. Direct truth answers directly; unsupported claims receive exact source/perspective-boundary wording; and a causal-history affordance appears only when that requested explanation is established as available.**
 
-If approved, the next smallest justified action is a non-render controlled validation:
+If approved, the next smallest justified action is one controlled visual experiment:
 
-`ARS-V1 — Answer State Language Matrix`
+`ARS-R1 — Answer State Surface Integration`
 
-It should test exact wording/affordance semantics for:
+Its question:
 
-1. supported current answer;
-2. supported Character-bounded answer;
-3. current fact + authoritative history route available;
-4. current fact + requested reason unavailable;
-5. perspective-bounded insufficiency;
-6. recent-dialogue insufficiency.
+> **Can validated answer states appear inside the human-first continuous Stage without becoming a status dashboard, generic assistant message, modal interruption, or visually dominant warning system?**
 
-No final copy, visual badge/color system, history UI, answer engine, Observation/recent-Performance implementation, WinUI code, or website implementation is authorized by this gate.
+Recommended later visual cases:
+
+1. one supported Character-bounded answer;
+2. one bounded-insufficiency answer;
+3. one current fact with a legitimately available historical explanation route as a clearly conditional test state.
+
+No ARS-R1 render, final copy system, history UI, answer engine, Observation/recent-Performance implementation, WinUI code, or website implementation is authorized until the Director approves ARS-V1.
 
 ---
 
-## 11. Fresh-chat bootstrap
+## 12. Fresh-chat bootstrap
 
 1. Read this file first and resolve current `Ensemble-Website` main.
-2. Read `docs/KYMAEAN_ARS_01_ANSWER_ROUTE_SUFFICIENCY_SIGNALING_PROPOSAL.md` as the active Director gate.
-3. Read AAS-V1/AAS-01 for source sufficiency and only then BCA/CDT/SIPD as needed.
+2. Read `docs/KYMAEAN_ARS_V1_ANSWER_STATE_LANGUAGE_MATRIX_RESULT.md` as the active Director gate.
+3. Read ARS-01 and AAS-V1/AAS-01 for semantic/source authority; read BCA/CDT/SIPD only as needed.
 4. Re-read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before exact engineering claims.
-5. Preserve `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `true facts != causal because`, `not available != did not happen`, `history exists != answerable Why?`, and `Surface != law`.
-6. Do not create ARS-V1 until the Director approves ARS-01.
+5. Preserve `Perspective != Posture`, `Opportunity != Obligation`, `visible != observed`, `current != historical`, `true facts != causal because`, `not available != did not happen`, `history exists != answerable Why?`, `current insufficiency != confidence`, and `Surface != law`.
+6. Do not render ARS-R1 until the Director approves ARS-V1.
