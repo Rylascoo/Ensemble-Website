@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kymaean · Stage Geometry Comparison 01</title>
+<link rel="stylesheet" href="lane-a-semantic-tokens-01.css">
+<style>
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:var(--kym-canvas);color:var(--kym-text)}body{font:13px/1.45 var(--kym-font-ui)}
+.board{min-height:100vh;padding:28px;background:radial-gradient(ellipse at 50% 0%,#d5a65b0b,transparent 34%),linear-gradient(#11151b,#0d0f14)}
+.head{max-width:1180px;margin:auto auto 22px;display:flex;align-items:end;gap:22px}.eyebrow{font:700 9px var(--kym-font-mono);letter-spacing:.11em;text-transform:uppercase;color:var(--kym-chrome-accent)}h1{font:30px/1.1 var(--kym-font-display);font-weight:500;margin:7px 0 0}.meta{margin-left:auto;color:var(--kym-text-muted);font:9px var(--kym-font-mono);text-align:right}
+.grid{max-width:1180px;margin:auto;display:grid;grid-template-columns:1fr 1fr;gap:16px}.case{border:1px solid var(--kym-line);border-radius:14px;overflow:hidden;background:#0d1015}.casehead{padding:15px 17px;border-bottom:1px solid var(--kym-line);display:flex;align-items:center;gap:10px}.casehead b{font:20px var(--kym-font-display);font-weight:500}.badge{margin-left:auto;border:1px solid var(--kym-line);border-radius:999px;padding:4px 7px;color:var(--kym-text-muted);font:8px var(--kym-font-mono);text-transform:uppercase;letter-spacing:.06em}.badge.incumbent{border-color:#d5a65b66;color:#e0be83}
+.stage{height:510px;position:relative;overflow:hidden;background:radial-gradient(ellipse at 50% 82%,#ffffff08,transparent 40%),linear-gradient(#10141a,#090b0f 68%,#080a0d)}.floor{position:absolute;left:-8%;right:-8%;bottom:-24%;height:52%;border-radius:50%;background:radial-gradient(ellipse at center,#ffffff05,transparent 63%);border-top:1px solid #ffffff0b;transform:perspective(700px) rotateX(62deg);transform-origin:center top}
+.cast{position:absolute;inset:60px 28px 34px;display:flex;justify-content:center;align-items:flex-end;gap:34px}.person{width:138px;height:385px;position:relative;text-align:center;--c:#e8a659;--pattern:repeating-linear-gradient(90deg,#fff0 0 6px,#ffffff16 6px 7px)}.person.voss{--c:#5b9dd9;--pattern:repeating-linear-gradient(135deg,#fff0 0 8px,#ffffff18 8px 9px)}.person.wren{--c:#7fbf8f;--pattern:repeating-radial-gradient(circle at 50% 75%,#fff0 0 11px,#ffffff18 12px,#fff0 13px 21px)}
+.pool{position:absolute;bottom:55px;left:50%;width:110px;height:34px;transform:translateX(-50%);border-radius:50%;background:radial-gradient(ellipse,color-mix(in srgb,var(--c) 36%,#fff 8%) 0,color-mix(in srgb,var(--c) 18%,transparent) 48%,transparent 72%);filter:blur(.2px);box-shadow:0 0 28px color-mix(in srgb,var(--c) 16%,transparent)}
+.cone .beam{position:absolute;left:50%;bottom:68px;width:124px;height:285px;transform:translateX(-50%);clip-path:polygon(44% 0,56% 0,92% 100%,8% 100%);background:linear-gradient(180deg,color-mix(in srgb,var(--c) 12%,transparent),color-mix(in srgb,var(--c) 24%,transparent) 68%,color-mix(in srgb,var(--c) 9%,transparent)),var(--pattern);filter:blur(.3px);opacity:.82}
+.cone .beam:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,color-mix(in srgb,var(--c) 14%,transparent),transparent)}
+.cylinder .beam{position:absolute;left:50%;bottom:68px;width:92px;height:285px;transform:translateX(-50%);border-radius:46px 46px 22px 22px/18px 18px 22px 22px;background:linear-gradient(180deg,color-mix(in srgb,var(--c) 15%,transparent),color-mix(in srgb,var(--c) 25%,transparent) 64%,color-mix(in srgb,var(--c) 10%,transparent)),var(--pattern);box-shadow:inset 1px 0 #ffffff0e,inset -1px 0 #ffffff0e;opacity:.82}
+.cylinder .beam:before{content:"";position:absolute;left:0;right:0;top:-9px;height:24px;border-radius:50%;border:1px solid #ffffff13;background:radial-gradient(ellipse,color-mix(in srgb,var(--c) 9%,transparent),transparent 68%)}
+.name{position:absolute;left:50%;bottom:14px;transform:translateX(-50%);white-space:nowrap;font:17px var(--kym-font-display);color:#e7e2d9}.cue{position:absolute;left:50%;bottom:39px;transform:translateX(-50%);width:22px;height:22px;border:1.6px solid #eee8ddc7;border-radius:var(--rad);rotate:var(--rot);opacity:.9}.person.wren .cue{box-shadow:0 0 0 5px #ffffff08}
+.opp{position:absolute;left:0;right:0;top:18px;text-align:center;color:var(--kym-text-muted);font:9px var(--kym-font-mono);letter-spacing:.05em}.opp b{color:var(--kym-text)}
+.notes{padding:14px 17px 16px;display:grid;grid-template-columns:1fr 1fr;gap:12px;border-top:1px solid var(--kym-line)}.note{font-size:10px;color:var(--kym-text-secondary)}.note strong{display:block;color:var(--kym-text);margin-bottom:3px;font-weight:600}.recommend{max-width:1180px;margin:16px auto 0;border:1px solid #d5a65b55;border-radius:12px;padding:14px 17px;background:#d5a65b08;color:var(--kym-text-secondary)}.recommend b{color:var(--kym-text)}
+@media(max-width:850px){.grid{grid-template-columns:1fr}.stage{height:455px}.cast{gap:12px}.person{width:110px}.head{align-items:start;flex-direction:column}.meta{margin-left:0;text-align:left}.notes{grid-template-columns:1fr}}@media(max-width:480px){.board{padding:14px}.person{width:92px}.cone .beam{width:104px}.cylinder .beam{width:76px}.name{font-size:15px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body><main class="board">
+<header class="head"><div><div class="eyebrow">Lane A · selected light-volume Stage carrier</div><h1>Geometry decision · controlled comparison</h1></div><div class="meta">Same cast · same state · same floor · same identity channels<br>Only visible beam geometry changes</div></header>
+<section class="grid">
+<article class="case cone"><header class="casehead"><b>Cone</b><span class="badge incumbent">O0-C1 incumbent</span></header><div class="stage"><div class="floor"></div><div class="opp">CURRENT OPPORTUNITY · <b>WREN</b> · response is not required</div><div class="cast">
+<div class="person" style="--rot:0deg;--rad:50%"><div class="beam"></div><div class="pool"></div><div class="cue"></div><div class="name">Marlowe</div></div>
+<div class="person voss" style="--rot:45deg;--rad:5px"><div class="beam"></div><div class="pool"></div><div class="cue"></div><div class="name">Dr. Voss</div></div>
+<div class="person wren" style="--rot:0deg;--rad:45% 15% 45% 15%"><div class="beam"></div><div class="pool"></div><div class="cue"></div><div class="name">Wren</div></div>
+</div></div><div class="notes"><div class="note"><strong>Strength</strong>Theatrical illumination; visibly joins overhead presence to the floor; inherits the executable ancestor.</div><div class="note"><strong>Risk</strong>Visible edges are less object-like. Interaction must use semantic hit targets rather than beam silhouette alone.</div></div></article>
+<article class="case cylinder"><header class="casehead"><b>Cylinder</b><span class="badge">alternative</span></header><div class="stage"><div class="floor"></div><div class="opp">CURRENT OPPORTUNITY · <b>WREN</b> · response is not required</div><div class="cast">
+<div class="person" style="--rot:0deg;--rad:50%"><div class="beam"></div><div class="pool"></div><div class="cue"></div><div class="name">Marlowe</div></div>
+<div class="person voss" style="--rot:45deg;--rad:5px"><div class="beam"></div><div class="pool"></div><div class="cue"></div><div class="name">Dr. Voss</div></div>
+<div class="person wren" style="--rot:0deg;--rad:45% 15% 45% 15%"><div class="beam"></div><div class="pool"></div><div class="cue"></div><div class="name">Wren</div></div>
+</div></div><div class="notes"><div class="note"><strong>Strength</strong>Clear bounded body; easiest visible reading as a discrete selectable region.</div><div class="note"><strong>Risk</strong>Reads more like containment, portal or UI object; weakens theatrical causality between source and floor.</div></div></article>
+</section>
+<div class="recommend"><b>Design recommendation: Cone.</b> Selectability should be solved by the Character's accessible semantic target, name and floor-region interaction—not by turning the visible Character carrier into a hard-edged container. Geometry remains unselected until Director choice.</div>
+</main></body></html>
