@@ -6,7 +6,7 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTROLLED_REFINEMENT_01.md` -> relevant evidence -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTEXT_DEPLOYMENT_01.md` -> relevant evidence -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A — static/executable reference closed
 
@@ -14,27 +14,20 @@ O0-B remains UI lineage; O0-C1 executable ancestry/provenance. Stage carrier = *
 
 Motion timing remains unfrozen pending Read-Through evidence. Do not fabricate pacing values or reopen general Lane A refinement.
 
-## Lane B — Threshold K control
+## Lane B — Threshold K context pass
 
-W0 wordmark divergence remains evidence, not selected authority. A Tensional Æ ranked first only when the word was evaluated alone.
+Historical **Threshold K** remains the working symbol control/candidate, not a final logo. Durable mechanism: K is discovered in negative space; it is not drawn. Historical 88.8 / 12px claims are evidence, not current validation.
 
-Director reopened historical **Threshold K** as a temporary shared-brand candidate. Durable mechanism: the K is discovered in negative space; it is not drawn. Historical board claims (88.8 / 12px) remain historical evidence, not current validation.
+The earlier **M2 Open Threshold + W2 Threshold Echo** recommendation remains withdrawn. Controlled mark refinement found no modified variant better than the historical candidate; contour simplification is only a later implementation hypothesis.
 
-The first integration study's **M2 Open Threshold + W2 Threshold Echo recommendation is withdrawn** after quality audit. It changed too many mark variables at once and the wordmark sketch was too provisional.
-
-Successor authority/evidence:
+Current authority/evidence:
 - `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTROLLED_REFINEMENT_01.md`
-- `prototypes/lane-b/threshold-k-controlled-refinement-01.html`
+- `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTEXT_DEPLOYMENT_01.md`
+- `prototypes/lane-b/threshold-k-context-deployment-01.html`
 
-Controlled one-variable result:
-- spacing-open: do not advance;
-- gentler right waist: do not advance;
-- reduced left mass: do not advance by default;
-- contour simplification: implementation hypothesis only.
+Context pass used the historical mark unchanged with a neutral `KYMÆAN` text proxy. Result: **Threshold K needs breathing room more than geometric correction.** Strong deployments keep its negative space self-contained, keep mark and name distinct, and do not let branding displace Production scope. Moderate titlebar scale, medium icon inset, separated website-header lockup and mark-as-prelude hero all outperform tighter/emblem-dominant treatments as static study judgments; none are production metrics.
 
-**No modified mark earns promotion. The recovered Threshold K remains the working control/candidate, not a final logo.**
-
-Role hypothesis remains open: `THRESHOLD K = compact symbolic event`; `KYMÆAN = readable name`. Do not select or construct a final wordmark yet.
+Wordmark consequence: do not copy, contain or complete Threshold K inside the name. Future bespoke `KYMÆAN` needs strong spacing/proportion, a deliberate `Æ`, standalone ownership, and **lower emblematic density** than the mark.
 
 ## Guards / external gates
 
@@ -44,4 +37,4 @@ Read-Through depends on engineering provider-neutral Performer ingress. WinUI/AR
 
 ## Next
 
-Test the recovered Threshold K unchanged in app-titlebar, app-icon, website-header and website-hero contexts. Then construct a bespoke KYMÆAN wordmark from contextual evidence. Lane A waits for Read-Through before Stage motion timing.
+Construct a bounded bespoke `KYMÆAN` wordmark round around the question: **How can the name carry equal ownership with quieter means?** Keep Threshold K as contextual control, not as geometry to echo. Lane A waits for Read-Through before Stage motion timing.
