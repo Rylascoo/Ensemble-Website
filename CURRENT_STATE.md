@@ -22,11 +22,13 @@ Laws: stable Production/fluid focus; Perspective/posture orthogonal; quiet human
 
 **02 Take Acceptance** — **review consequence, not prose**; candidate is non-history; review terminal before Take disposition; effective history only after commit. `Another Take` != frozen engine `Alternate`. `prototypes/lane-a/take-acceptance-01.html`.
 
-**03 Archive Causality** — O0 `What Changed` / `Still in Motion`; Performance history != durable state; cause trace -> same changed Production; no invented next Opportunity. `prototypes/lane-a/archive-causality-01.html`.
+**03 Archive Causality** — `What Changed` / `Still in Motion`; Performance history != durable state; cause trace -> same changed Production; no invented next Opportunity. `prototypes/lane-a/archive-causality-01.html`.
 
 **04 Character Recasting** — identity stable across Performer A -> B and manual monochrome; Performer metadata stays outside Stage identity; future Performance boundary required. `prototypes/lane-a/character-recasting-01.html`.
 
-**05 Long Scene** — `docs/KYMAEAN_LANE_A_LONG_SCENE_01.md`, `prototypes/lane-a/long-scene-01.html`. 40-Performance stress state: live Stage stays primary; accepted chronology is an on-demand Scene thread, distinct from causal Archive. Wide = one inspector; narrow = Stage -> thread -> return. Exact split/timings remain open.
+**05 Long Scene** — 40-Performance stress state; live Stage stays primary; accepted chronology is an on-demand Scene thread distinct from causal Archive; wide = one inspector, narrow = Stage -> thread -> return. Exact split/timings remain open. `prototypes/lane-a/long-scene-01.html`.
+
+**06 Degradation / Failure States** — `docs/KYMAEAN_LANE_A_DEGRADATION_FAILURE_STATES_01.md`, `prototypes/lane-a/degradation-failure-states-01.html`. No-provider, not-ready, refusal, cancellation/partial output and generation-error states preserve the same Production/history/Opportunity. Technical failure never becomes Character behavior or fiction; local inspection/editing remains available where authority permits.
 
 ## Lane B
 
@@ -38,4 +40,4 @@ Opportunity != obligation/intent/turn order. Representation may depict; authorit
 
 ## Next
 
-Complete **degradation/failure states**: no provider configured, model not ready, refusal, cancellation and generation error. Technical failure must reduce capability without becoming Character behavior, accepted Performance or Production history. Preserve local inspection/editing where authority permits.
+Close the remaining application-scope gap: **Production Library switching / multi-Production continuity**. Extend Package 01 so create/open/switch are all explicit while only one Production is active at a time. Do not make provider configuration a prerequisite and do not confuse switching Productions with changing Scene/history state inside a Production.
