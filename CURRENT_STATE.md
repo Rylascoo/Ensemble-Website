@@ -6,40 +6,35 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md` -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_A_INTEGRATION_CLOSURE_01.md` -> relevant evidence -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_WORDMARK_DIVERGENCE_01.md` -> relevant evidence -> app `CURRENT_STATE.md` before engineering claims.
 
-## Phase
+## Lane A — closed at static/executable reference level
 
-> **LANE A O0 REINTEGRATION — CLOSED AT STATIC / EXECUTABLE DESIGN-REFERENCE LEVEL**
+O0-B remains UI lineage; O0-C1 executable ancestry/provenance. Covered: Production Entry, Take Acceptance, Archive Causality, Character Recasting, Long Scene, Degradation/Failure, Production Library and integrated reference.
 
-O0-B remains UI lineage; O0-C1 remains executable ancestry/provenance, not production CSS. Covered: Production Entry, Take Acceptance, Archive Causality, Character Recasting, Long Scene, Degradation/Failure, Production Library. Integration: `prototypes/lane-a/integration-reference-01.html`.
+Stage carrier is **Characters as volumes of light on a dark floor using CONE geometry**. The cone is presence, not a button. Full semantic target is allowed; visible selection belongs around floor pool + name. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`. Take a Seat = `Perspective: Character + Posture: Perform`; return = `Creator + Watch`.
 
-## Stage — selected
+Motion timing remains unfrozen pending Read-Through evidence. Do not fabricate pacing values or reopen general Lane A refinement.
 
-Director selected **Characters as volumes of light on a dark floor using CONE geometry**.
+## Lane B — W0 wordmark
 
-No figures/faces/scenery/audience seating required by the default carrier. Colour + texture are presentation channels; name + stable programmatic identity remain required identity recovery. Representation may depict; authority must establish. No runtime AI is required for the carrier.
+Fixed three-direction wordmark round complete:
+- A **Tensional Æ** — rank 1 / recommended survivor;
+- B **Causal Cut** — rank 2;
+- C **Open Counter** — rank 3 / do not advance.
 
-Authority: `docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md`.
+Authority/evidence: `docs/KYMAEAN_LANE_B_WORDMARK_DIVERGENCE_01.md` + `prototypes/lane-b/wordmark-divergence-01.html`.
 
-## Cone interaction
+A is recommended for its word-first ownership, legible authored `Æ`, small-scale survival and monochrome integrity. Its refinement risk is classical/heritage drift; selection is for the structural idea, not current stroke/serif details.
 
-Study: `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` + `prototypes/lane-a/stage-cone-interaction-01.html`.
+**Director selection required before A becomes shared-brand authority.** No primary symbol, icon, palette, typography system or website atmosphere was selected by this round.
 
-**The cone is presence, not a button.** The full Character region may be a semantic target; visible focus/selection belongs around floor pool + name. Full-cone container outlines are rejected as card/portal semantics.
-
-`USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`.
-
-Selection may expose creator actions but cannot nominate, interrupt, change Director authority or mutate history. Take a Seat is explicit: `Perspective: Character + Posture: Perform`; return restores `Creator + Watch`.
-
-## Guards / gates
+## Guards / external gates
 
 Opportunity != obligation/intent/turn order. Character != Performer/Portrait. UI is projection, not authority. Identity survives without colour/portrait/motion/exact position/hover.
 
-**Motion timing remains unfrozen pending Read-Through evidence.** Prototype timings are scaffolding only. Beam falloff, texture vocabulary, Stage camera, typography and exact motion remain open.
-
-Lane B wordmark/mark/palette/typography/website atmosphere remain separate. WinUI/ARM64/accessibility-runtime/performance/WACK/Store remain external validation.
+Read-Through depends on engineering provider-neutral Performer ingress; current engineering state does not yet authorize real pacing evidence. WinUI/ARM64/accessibility-runtime/performance/WACK/Store remain external validation.
 
 ## Next
 
-Do not open another general Lane A round. Preserve cone interaction semantics; after Read-Through, author the Stage motion specification (`ACTION -> TRACE -> ECHO -> NEW STATE -> HISTORY`). Lane B may proceed separately.
+Director selects W0 direction. If A is selected, refine Tensional Æ away from classical inscription while preserving the authored ligature and small-scale clarity. Lane A waits for Read-Through before Stage motion timing.
