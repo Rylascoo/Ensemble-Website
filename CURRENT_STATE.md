@@ -12,27 +12,29 @@ Fresh read: this -> `docs/KYMAEAN_LANE_A_O0_REINTEGRATION_01.md` -> `docs/KYMAEA
 
 > **LANE A — O0 PRODUCT-UI REINTEGRATION / REFINEMENT — PRIMARY**
 
-O0-B Studio / Stage / Character View / Archive are incumbent; O0-C1 is the executable ancestor. Lane A requires inheritance.
+O0-B Studio / Stage / Character View / Archive are incumbent; O0-C1 is executable ancestor. Lane A requires inheritance.
 
 Laws: stable Production/fluid focus; Perspective/posture orthogonal; human-first quiet Stage; causal history; Character != Performer/Portrait; identity not color-only; UI is projection, not authority.
 
 ## Completed Lane A
 
-**01 Production Entry** — returning, first-run/empty, offline; local open/create/inspect remains available. `prototypes/lane-a/production-entry-01.html`.
+**01 Production Entry** — returning, first-run/empty, offline; local open/create/inspect available. `production-entry-01.html`.
 
-**02 Take Acceptance** — review consequence, not prose; candidate is non-history; review terminal before Take disposition; history only after successful commit. `Another Take` != frozen engine `Alternate`. `prototypes/lane-a/take-acceptance-01.html`.
+**02 Take Acceptance** — review consequence, not prose; candidate non-history; terminal review before Take; history after successful commit. `Another Take` != frozen engine `Alternate`. `take-acceptance-01.html`.
 
-**03 Archive Causality** — `What Changed` / `Still in Motion`; Performance history != durable state; cause trace -> same changed Production; no invented next Opportunity. `prototypes/lane-a/archive-causality-01.html`.
+**03 Archive Causality** — `What Changed` / `Still in Motion`; Performance history != durable state; cause trace -> same changed Production; no invented next Opportunity. `archive-causality-01.html`.
 
-**04 Character Recasting** — identity stable across Performer change and manual monochrome; Performer metadata stays outside Stage identity. `prototypes/lane-a/character-recasting-01.html`.
+**04 Character Recasting** — identity stable across Performer change/manual monochrome; Performer metadata outside Stage identity. `character-recasting-01.html`.
 
-**05 Long Scene** — 40-Performance stress state; Stage stays primary; accepted chronology is on-demand Scene thread, distinct from causal Archive; exact split/timings remain open. `prototypes/lane-a/long-scene-01.html`.
+**05 Long Scene** — 40-Performance stress state; Stage primary; accepted chronology on-demand Scene thread != causal Archive; exact split/timings open. `long-scene-01.html`.
 
-**06 Degradation / Failure** — no-provider, not-ready, refusal, cancellation/partial output and generation-error states preserve Production/history/Opportunity. Technical failure never becomes Character behavior or fiction. `prototypes/lane-a/degradation-failure-states-01.html`.
+**06 Degradation / Failure** — no-provider/not-ready/refusal/cancellation/error preserve Production/history/Opportunity; technical failure never fiction. `degradation-failure-states-01.html`.
+
+**07 Production Library** — `docs/KYMAEAN_LANE_A_PRODUCTION_LIBRARY_01.md`, `prototypes/lane-a/production-library-01.html`. Create locally; exactly one current Production; `Switch` changes application scope only; `Open current Production` enters that scope. Switching creates no fictional/causal mutation. Import/export remains open.
 
 ## Lane B
 
-V0R1–V0R10 remain brand/atmosphere evidence; V0R11 is not default next action. No final mark, wordmark, Stage medium or complete visual system is selected.
+V0R1–V0R10 remain brand/atmosphere evidence; V0R11 is not default. No final mark, wordmark, Stage medium or complete visual system selected.
 
 ## Guards
 
@@ -40,4 +42,4 @@ Opportunity != obligation/intent/turn order. Representation may depict; authorit
 
 ## Next
 
-Close the application-scope gap: **Production Library switching / multi-Production continuity**. Extend Package 01 so create/open/switch are explicit while only one Production is active at a time. Provider configuration stays secondary; switching Productions must not masquerade as Scene/history mutation.
+Run an **integrated Lane A closure audit** against O0-B/O0-C1, accepted downstream architecture, accessibility requirements and current engineering authority. Do not open another refinement package unless the audit finds a genuine uncovered requirement. Preserve Read-Through as the prerequisite for Stage motion timing.
