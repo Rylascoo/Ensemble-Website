@@ -6,7 +6,7 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> extension-laws approval -> Site Spine approval -> Material Roles 01 -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> extension-laws approval -> Site Spine approval -> Mineral Theater approval -> Hero Artwork Brief 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A
 
@@ -22,25 +22,32 @@ Deployment laws remain: app brand recedes behind Production; Stage excludes bran
 
 **C — Quiet Stage** remains Director-approved temporary primary V0 visual-world incumbent.
 
-Approved extension grammars: **Bounded Chorus** for unequal perspective; **Causal Scar** for committed consequence deforming later composition; **Posture Proximity** for Watch/Direct/Perform/Write around one Production. Cone imagery is reserved for genuine Stage/product-truth roles. Light material fields are allowed. Extension grammar never overrides Production truth/native semantics.
+Approved grammars: **Bounded Chorus** for unequal perspective; **Causal Scar** for committed consequence deforming later composition; **Posture Proximity** for Watch/Direct/Perform/Write around one Production. Cone imagery is reserved for genuine Stage/product-truth roles.
 
-**Website V0 Site Spine 01 is Director-approved** as temporary site-spine incumbent:
+**Website V0 Site Spine 01 is Director-approved**:
 
 `HERO -> ONE PRODUCTION -> BOUNDED PERSPECTIVE -> CAUSAL COMMIT -> HISTORY -> CREATOR POSTURE -> LOCAL SOVEREIGNTY -> INVITATION`
 
-Artwork-need map approved: one primary bespoke hero/world-setting job is high value; explanatory systems stay deterministic by default.
+Artwork map: one primary bespoke hero/world-setting job is high value; explanatory systems stay deterministic by default.
 
-## Material Roles 01
+## Material authority
 
-Fixed three-family round complete. **B — Mineral Theater is RECOMMENDED / DIRECTOR SELECTION REQUIRED** as temporary V0 material-family incumbent.
+**B — Mineral Theater is Director-approved** as temporary V0 website material-family incumbent.
 
-Roles: Void/Theatrical; Archive/Material; Warm Causal/Human; Cool Presence/Counter-signal.
+Roles: Void/Theatrical; Archive/Material; Warm Causal/Human; Cool Presence/Counter-signal. Study values remain non-final. **Warm causal is not generic brand/interaction chrome.** Cool never carries identity/state alone. Threshold K/O3 remain materially neutral.
 
-Mineral Theater study values: Void `#080c0f`; secondary dark `#10171b`; Archive `#cfcbbc`; Archive ink `#1a1e1e`; Warm `#a96743`; Cool `#5f8790`. These are testing values, not final production tokens.
+## Hero Artwork Brief 01
 
-Audit law: **Warm causal is not generic brand or interaction chrome.** Cool never carries identity/state alone. Threshold K/O3 remain neutral enough to survive outside the material family. Static audited text pairs meet/exceed conservative `4.5:1`; runtime accessibility remains external.
+Brief complete. Hero job: make **HUMAN CAUSALITY, LIVING CONSEQUENCE** perceptible before product vocabulary through distinct necessary people, recoverable prior human cause, altered present possibility, shared reality with unequal physical availability, relational composition, and quiet before spectacle.
 
-No final palette, texture system, hero artwork, website copy, logo, wordmark master, motion timing or production implementation selected.
+Threshold K/O3 stay outside the artwork. Quiet Stage does not require cones in hero art. Mineral Theater is a material-role lens, not literal subject matter.
+
+First isolated comparative batch is prepared:
+- **H-A** Inhabited spatial realism;
+- **H-B** Constructed relational field;
+- **H-C** Transformational identity field.
+
+No hero candidate has been generated or selected.
 
 ## Guards
 
@@ -48,4 +55,4 @@ Character != Performer/Portrait. Take acceptance selects what may commit; **atom
 
 ## Next
 
-Director approves/rejects **Mineral Theater** plus its seven material-role laws. If approved, run `Website V0 Hero Artwork Brief 01`; define the single high-value bespoke hero/world artwork job before generating candidates. Do not broaden the palette round or redesign the site spine.
+Execute H-A / H-B / H-C in **three separate fresh regular non-project Renderer Contexts**, one sterile packet and normally one image each. Archive raw outputs, evaluate independently, run mobile-crop integration tests, then stop at Director review. Do not refine/merge candidates or generate H-D by default.
