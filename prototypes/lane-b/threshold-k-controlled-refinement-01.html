@@ -1,0 +1,36 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kymaean — Threshold K Controlled Refinement 01</title>
+<style>
+:root{--bg:#0c0f13;--p:#14181f;--t:#eee9df;--m:#9d978d;--l:#303640;--w:#d9cbb3;--a:#c8a56a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font-family:system-ui,"Segoe UI",sans-serif}header{padding:24px 30px 17px;border-bottom:1px solid var(--l)}h1{font:500 21px Georgia,serif;margin:0 0 5px}header p,.card p,.note{font-size:11px;color:var(--m);line-height:1.5;margin:0}main{padding:20px 30px 38px}.law{padding:13px 15px;border:1px solid var(--l);border-radius:10px;background:#10141a;font:500 14px Georgia,serif}.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:16px}.card{border:1px solid var(--l);border-radius:12px;overflow:hidden;background:var(--p)}.card.control{border-color:#6d604c}.head{min-height:92px;padding:14px}.head h2{font:500 15px Georgia,serif;margin:0 0 5px}.stage{height:220px;display:flex;align-items:center;justify-content:center;background:#101319}.mark{width:180px;height:180px}.mark path{fill:var(--w)}.control .mark path{fill:var(--a)}.micro{border-top:1px solid var(--l);display:flex;justify-content:space-around;align-items:end;padding:10px}.probe{font-size:8px;color:#777;display:grid;gap:5px;justify-items:center}.probe svg{display:block}.note{margin-top:16px;padding:13px 15px;border:1px solid var(--l);border-radius:10px;background:var(--p)}@media(max-width:900px){.grid{grid-template-columns:1fr 1fr}}@media(max-width:560px){.grid{grid-template-columns:1fr}}
+</style></head><body>
+<header><h1>Threshold K · Controlled Refinement 01</h1><p>Recovered control + one-variable changes. No wordmark changes in this round.</p></header>
+<main><div class="law">The K should be discovered in the void, not drawn by the pieces.</div><section class="grid" id="grid"></section>
+<div class="note">12–32 px rows are browser-raster comparison probes only; they are not production/device validation. No modified mark is promoted by this artifact alone.</div></main>
+<script>
+const TL="M18 46L66 18L66 54C66 74 58 86 43 95L18 107Z";
+const BL="M18 117L43 132C58 141 66 153 66 173L66 202L18 174Z";
+const R ="M151 24L93 59C76 69 69 84 69 104L69 118C69 139 79 153 98 164L151 199L151 183C151 172 144 162 133 155L106 139C90 130 83 121 83 110C83 99 88 92 98 84L140 57C147 52 151 43 151 32Z";
+const RG="M151 24L93 59C79 69 74 84 74 104L74 118C74 136 82 150 99 160L151 199L151 183C151 172 144 162 133 155L107 139C93 131 86 121 86 110C86 100 91 93 100 85L140 57C147 52 151 43 151 32Z";
+const TLS="M26 46L66 18L66 54C66 74 58 86 43 95L26 103Z";
+const BLS="M26 121L43 132C58 141 66 153 66 173L66 202L26 179Z";
+const TLM="M18 46L66 18L66 59L50 86L18 107Z", BLM="M18 117L50 138L66 163L66 202L18 174Z";
+const RM="M151 24L93 59L77 70L69 89L69 133L81 157L151 199L151 183L146 169L98 140L88 130L83 118L83 105L90 90L146 53L151 40Z";
+function svg(paths,groups="",size=180){
+  return `<svg class="mark" viewBox="0 0 220 220" role="img" aria-label="Threshold K" style="width:${size}px;height:${size}px">${groups||paths.map(d=>`<path d="${d}"/>`).join("")}</svg>`
+}
+const items=[
+["O · Recovered control","Historical structure retained.",()=>svg([TL,BL,R])],
+["S · Open the void","Spacing only.",()=>svg([],`<g transform="translate(-5 0)"><path d="${TL}"/><path d="${BL}"/></g><g transform="translate(5 0)"><path d="${R}"/></g>`)],
+["C · Gentler waist","Right inner curvature only.",()=>svg([TL,BL,RG])],
+["M · Reduce left mass","Left-field mass only.",()=>svg([TLS,BLS,R])],
+["μ · Simplify contour","Contour complexity only.",()=>svg([TLM,BLM,RM])]
+];
+const grid=document.getElementById("grid");
+items.forEach((it,i)=>{
+ const a=document.createElement("article");a.className="card"+(i===0?" control":"");
+ let probes=[12,16,24,32].map(s=>`<div class="probe"><span>${s}px</span>${it[2]().replace('width:180px;height:180px',`width:${s}px;height:${s}px`)}</div>`).join("");
+ a.innerHTML=`<div class="head"><h2>${it[0]}</h2><p>${it[1]}</p></div><div class="stage">${it[2]()}</div><div class="micro">${probes}</div>`;
+ grid.appendChild(a);
+});
+</script></body></html>

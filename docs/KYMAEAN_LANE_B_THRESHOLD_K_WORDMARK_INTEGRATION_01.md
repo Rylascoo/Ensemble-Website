@@ -1,8 +1,19 @@
 # KYMAEAN LANE B — THRESHOLD K + WORDMARK INTEGRATION 01
 
-Status: TEMPORARY SHARED-BRAND SCAFFOLD STUDY / DIRECTOR REVIEW REQUIRED  
+Status: HISTORICAL INTEGRATION STUDY / M2+W2 RECOMMENDATION WITHDRAWN  
 Date: 2026-09-05  
 Workstream: SHARED BRAND / I0 + W0 CROSS-LANE
+
+## Later audit correction
+
+A subsequent quality audit found that this study changed too many properties of the historical Threshold K at once and therefore could not support the confidence of its M2 Open Threshold + W2 Threshold Echo recommendation.
+
+That recommendation is **withdrawn**.
+
+Current authority continues in:
+`docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTROLLED_REFINEMENT_01.md`
+
+This document remains evidence for the mark/word role hypothesis and for why a quieter wordmark may be appropriate when a symbol is present. It must not be read as selecting or recommending M2/W2.
 
 ## Director intent
 
@@ -15,7 +26,7 @@ This does **not** select Threshold K as the final logo and does not select a fin
 Historical project evidence describes B0.1 Direction B — Threshold K as:
 - the highest result on that board's own 10-criterion rubric (`88.8`);
 - a `K` emerging from negative space rather than being drawn;
-- surviving `12px`;
+- surviving `12px` in that historical board's own claim;
 - encoding no fixed count;
 - requiring caution against forcing the K.
 
@@ -27,122 +38,81 @@ The historical exact surface remains inspiration/evidence rather than automatic 
 
 **The K should be perceived, not drawn.**
 
-The surrounding fields are useful only insofar as they create that negative-space discovery. Refinement should therefore reduce object/emblem weight before reducing the negative-space relationship itself.
+The surrounding fields are useful only insofar as they create that negative-space discovery.
 
-## Mark study
+## Historical mark study
 
 ### M1 — Reduced Threshold
 
 Closest refinement to the historical mechanism.
 
-Result:
-- strongest safety at micro scale;
-- negative K remains direct;
-- surrounding forms remain somewhat emblem-first.
+Historical study result:
+- negative K remained direct;
+- surrounding forms remained somewhat emblem-first.
 
-Status: viable fallback / not recommended first.
+Status now: evidence only.
 
 ### M2 — Open Threshold
 
 More breathing room around the missing K and less visual weight in the surrounding fields.
 
-Result:
-- preserves the negative-space mechanism;
-- gives the absence more visual authorship;
-- integrates most naturally with a quieter wordmark;
-- still reads coherently in the study's 12/16/24/32px probes.
+Historical study result:
+- preserved the negative-space mechanism;
+- integrated naturally with a quieter wordmark.
 
-Risk:
-- must be validated in real app-icon/favicon rasterization before any production freeze.
-
-Status: **recommended temporary scaffold**.
+Status now: **recommendation withdrawn**. Later audit found the redesign changed too many variables and regularized away some of the original candidate's specificity.
 
 ### M3 — Quiet Threshold
 
 Maximum reduction.
 
-Result:
+Historical study result:
 - elegant at display scale;
-- overall silhouette authority and K recovery weaken sooner at small scale.
+- overall silhouette authority and K recovery weakened sooner.
 
-Status: do not advance by default.
+Status: evidence only.
 
 ## Wordmark consequence
 
 The prior W0 round evaluated the wordmark as if the name might need to carry most brand ownership alone. Adding Threshold K changes that premise.
 
-New role split:
+Role hypothesis retained for later testing:
 
 `THRESHOLD K = compressed symbolic event`
 
 `KYMÆAN = human-readable name`
 
-The wordmark should therefore become quieter, not more decorative.
+The wordmark may therefore become quieter rather than more decorative.
 
 ### W1 — Independent Name
 
 Maximum separation between mark and word.
 
-Strength:
-- excellent role clarity.
-
-Weakness:
-- too little common authorship may remain between the two elements.
+Status: exploratory evidence only.
 
 ### W2 — Threshold Echo
 
-The `Æ` borrows one diagonal/counter tension from Threshold K without embedding, copying, or containing the mark.
+The `Æ` borrowed one diagonal/counter tension from Threshold K without embedding, copying, or containing the mark.
 
-Strength:
-- strongest shared authorship with minimal duplication;
-- preserves readable KYMÆAN;
-- lets Threshold K remain symbolically primary;
-- avoids turning the ligature into a second logo.
-
-Status: **recommended integration hypothesis**.
+Status now: **recommendation withdrawn**. The typographic sketch was too provisional to justify a wordmark decision.
 
 ### W3 — Reduced Tensional Æ
 
-Carries more ancestry from W0-A Tensional Æ.
+Carried more ancestry from W0-A Tensional Æ.
 
-Strength:
-- strongest standalone word authorship.
+Status: exploratory evidence only.
 
-Weakness:
-- begins competing with Threshold K when used as a lockup.
+## Superseded recommendation
 
-Status: viable only if later mark reduction becomes stronger.
+The earlier recommendation to evaluate **M2 Open Threshold + W2 Threshold Echo** as the leading temporary integration scaffold is no longer active.
 
-## Current recommendation
-
-Do **not** select W0-A in isolation yet.
-
-Use the next shared-brand Director gate to evaluate:
-
-**M2 Open Threshold + W2 Threshold Echo**
-
-as the leading **temporary integration scaffold**.
-
-Selection would mean only:
-- Threshold K is allowed as the current working symbol scaffold;
-- the wordmark is refined in its presence;
-- M2/W2 become the incumbent integration direction for further testing.
-
-It would **not** mean:
-- final logo approval;
-- final wordmark drawing;
-- final app icon;
-- final palette/typeface;
-- trademark clearance;
-- production implementation.
+The controlled-refinement successor instead keeps the recovered historical Threshold K as the working control and postpones bespoke wordmark construction until contextual mark tests are complete.
 
 ## Evidence
 
-Executable study:
+Executable historical study:
 `prototypes/lane-b/threshold-k-wordmark-integration-01.html`
-
-Rendered study preserved separately in Drive.
 
 ## Validation boundary
 
-The study is static/vector design evidence. It does not establish production raster behavior, Windows icon packaging, real 12px device rendering, high-contrast/assistive runtime behavior, trademark availability, font licensing, or Store readiness.
+The study is static/vector design evidence. It does not establish production raster behavior, Windows icon packaging, real device rendering, high-contrast/assistive runtime behavior, trademark availability, font licensing, or Store readiness.
