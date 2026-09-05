@@ -6,37 +6,40 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_BESPOKE_WORDMARK_CONSTRUCTION_02.md` -> `docs/evidence/LANE_B_O3_WORDMARK_DIRECTOR_APPROVAL_01.md` -> `docs/evidence/LANE_B_INTEGRATED_DEPLOYMENT_LAWS_APPROVAL_01.md` -> `docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md` -> `docs/KYMAEAN_LANE_B_WEBSITE_VISUAL_WORLD_COMPOSITION_01.md` -> `docs/evidence/LANE_B_QUIET_STAGE_DIRECTOR_APPROVAL_01.md` -> `docs/KYMAEAN_LANE_B_QUIET_STAGE_EXTENSION_TEST_01.md` -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> Quiet Stage Extension Test -> extension-laws approval -> Website V0 Site Spine 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A
 
-O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`. Motion timing stays unfrozen pending Read-Through evidence.
+O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`. Motion timing stays unfrozen pending Read-Through.
 
-## Lane B — shared brand
+## Shared brand
 
 Historical **Threshold K** remains unchanged working symbol candidate/control, not final logo; SVG is testing adapter only. **O3 Balanced Hierarchy** remains Director-approved temporary W0 wordmark incumbent/source asset, non-final.
 
-Approved deployment laws remain: app brand recedes behind Production; Stage excludes brand geometry from Stage semantics; website header may breathe more; hero may use Threshold K as prelude + O3 as name; O3 may appear alone; no universal fixed ratio.
+Deployment laws remain: app brand recedes behind Production; Stage excludes brand geometry from Stage semantics; website may breathe more; hero may use Threshold K as prelude + O3 as name; O3 may appear alone; no universal fixed ratio.
 
 ## Website visual world
 
-**C — Quiet Stage remains Director-approved temporary primary V0 incumbent.** `Quiet Stage Extension Test 01` completed and **passed falsification**: the thesis can extend beyond cone imagery.
+**C — Quiet Stage** remains Director-approved temporary primary V0 incumbent.
 
-Recommended non-cone grammars:
-- **Bounded Chorus** — relationship/bounded perspective through unequal availability in one shared present;
-- **Causal Scar** — accepted consequence deforms later composition; strongest extension result;
-- **Posture Proximity** — Watch/Direct/Perform/Write expressed as spatial relationship to one Production, not feature cards.
+Director-approved extension laws: cone imagery only for genuine Stage/product-truth roles; **Bounded Chorus** may express unequal perspective; **Causal Scar** may express **committed** causal consequence through later structural deformation; **Posture Proximity** may express Watch/Direct/Perform/Write around one Production; light material fields are allowed; extension grammar never overrides Production truth/native semantics.
 
-Audit corrections before closure: Archive table/timeline structure removed in favor of continuous deformation; posture connector lines removed; readable supporting-text floor raised. All three extension systems contain no cone/Stage raster imagery.
+`Website V0 Site Spine 01` completed static desktop + 390px mobile PASS. Recommended order:
 
-These grammars are **RECOMMENDED / DIRECTOR CONFIRMATION REQUIRED**, not yet promoted to shared visual-world law. A Inhabited Interval remains spatial research only; B Living Marginalia remains secondary editorial/history research only.
+`HERO -> ONE PRODUCTION -> BOUNDED PERSPECTIVE -> CAUSAL COMMIT -> HISTORY -> CREATOR POSTURE -> LOCAL SOVEREIGNTY -> INVITATION`
 
-No final website, palette/material system, copy, image system, logo, wordmark master, motion timing or production implementation selected.
+Audit corrected product truth: Take acceptance only selects what may commit; **atomic commit establishes consequence**.
 
-## Guards / external gates
+Artwork need: one primary bespoke hero/world-setting job is high-value; other explanatory systems remain deterministic by default.
 
-Opportunity != obligation/intent/turn order. Character != Performer/Portrait. UI is projection, not authority. Identity survives without colour/portrait/motion/exact position/hover. WinUI/ARM64/accessibility-runtime/performance/WACK/Store remain external validation.
+Next material roles: **Void/Theatrical**, **Archive/Material**, **Warm Causal/Human**, **Cool Presence/Counter-signal**. Exact colors remain scaffolding.
+
+No final website, palette, copy, image system, logo, wordmark master, motion timing or production implementation selected.
+
+## Guards
+
+Character != Performer/Portrait. UI is projection, not authority. Identity survives without colour/portrait/motion/exact position/hover. Runtime accessibility/performance/Store validation remain external.
 
 ## Next
 
-Director confirms or rejects the seven extension laws in `KYMAEAN_LANE_B_QUIET_STAGE_EXTENSION_TEST_01.md`. If confirmed, run `Website V0 Site Spine 01` using the hero + three grammars; audit narrative order, responsive hierarchy, static accessibility structure, artwork need, and only then palette/material decisions. Lane A still waits for Read-Through before Stage motion timing.
+Director approves/rejects Site Spine 01 narrative + artwork-need map. If approved, run `Website V0 Material Roles 01` with architecture, O3, Threshold K, extension grammars and Stage semantics fixed.
