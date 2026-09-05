@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kymaean · Long Scene 01</title>
+<style>
+:root{--bg:#0d0f14;--top:#101319;--stage:#11151b;--panel:#161a22;--line:#ffffff17;--line2:#ffffff0d;--text:#ece8df;--dim:#aaa59b;--muted:#8b867d;--gold:#d5a65b;--amber:#e8a659;--blue:#5b9dd9;--green:#7fbf8f}
+*{box-sizing:border-box}html,body{height:100%;margin:0;background:var(--bg);color:var(--text)}body{font:13px system-ui,"Segoe UI",sans-serif}button{font:inherit}.app{min-height:100%;display:grid;grid-template-rows:56px 1fr 40px;background:var(--bg)}
+.top{display:flex;align-items:center;gap:12px;padding:0 22px;background:var(--top);border-bottom:1px solid var(--line)}.brand{font:17px Georgia,serif}.prod{font:14px Georgia,serif}.scene{font-size:11px;color:var(--muted)}.spacer{flex:1}.pill,.toggle,.btn{border:1px solid var(--line);background:transparent;color:var(--dim);border-radius:9px}.pill,.toggle{padding:7px 10px;font-size:10px}.pill b{color:var(--text)}.toggle[aria-pressed=true]{border-color:#d5a65b55;background:#d5a65b0d;color:var(--text)}
+.workspace{min-height:0;display:grid;grid-template-columns:minmax(0,1fr);position:relative}.workspace.thread-open{grid-template-columns:minmax(0,1fr) 450px}.stage{min-width:0;padding:34px 34px 28px;background:radial-gradient(ellipse at 50% 12%,#e8a6590b,transparent 38%),linear-gradient(#12161d,#0e1116);display:flex;flex-direction:column}.stagehead{display:flex;align-items:center;gap:10px}.eyebrow,.label{font:700 9px ui-monospace,monospace;letter-spacing:.11em;text-transform:uppercase;color:var(--gold)}.stagehead .hint{margin-left:auto;color:var(--muted);font-size:10px}.cast{display:flex;justify-content:center;gap:86px;margin-top:58px}.person{width:130px;text-align:center;opacity:.62}.person.opportunity{opacity:1}.volume{width:86px;height:86px;border-radius:50%;display:grid;place-items:center;margin:0 auto 14px;background:radial-gradient(circle,#ffffff13 0 18%,color-mix(in srgb,var(--c) 54%,transparent) 45%,transparent 72%);box-shadow:0 0 38px color-mix(in srgb,var(--c) 24%,transparent)}.person.opportunity .volume{box-shadow:0 0 0 1px #ffffff18,0 0 42px color-mix(in srgb,var(--c) 32%,transparent)}.name{font:18px Georgia,serif}.state{margin-top:7px;color:var(--muted);font:8.5px ui-monospace,monospace;letter-spacing:.07em;text-transform:uppercase}.person.opportunity .state{color:#d9bd88}
+.opp{text-align:center;margin-top:26px;color:var(--muted);font:9px ui-monospace,monospace;letter-spacing:.07em}.opp b{color:var(--text)}.current{width:min(700px,85%);margin:42px auto 0;padding:18px 20px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);text-align:left}.currentmeta{display:flex;gap:9px;align-items:baseline}.who{font-weight:650}.accepted{font:italic 10px Georgia,serif;color:var(--muted)}.line{margin-top:8px;font:18px/1.55 Georgia,serif;color:#dfdcd4}.stageactions{display:flex;justify-content:center;gap:8px;margin-top:26px}.btn{padding:9px 12px;font-size:10px}.btn.primary{border-color:#d5a65b55;background:#d5a65b0c;color:#e4c68e}.btn .count{color:var(--muted);margin-left:6px}.quietlaw{max-width:700px;margin:auto auto 0;padding-top:28px;text-align:center;color:var(--muted);font-size:10px;line-height:1.5}.quietlaw b{color:var(--dim)}
+.thread{display:none;min-height:0;background:linear-gradient(#181c24,#12161c);border-left:1px solid var(--line);overflow:hidden}.thread-open .thread{display:grid;grid-template-rows:auto auto 1fr}.threadhead{padding:22px 20px 14px;border-bottom:1px solid var(--line)}.threadtitle{font:24px Georgia,serif;margin-top:7px}.threadsub{margin-top:6px;color:var(--muted);font-size:10px;line-height:1.5}.threadactions{display:flex;gap:7px;padding:10px 20px;border-bottom:1px solid var(--line2)}.threadactions .btn:last-child{margin-left:auto}.threadscroll{min-height:0;overflow:auto;padding:0 20px 22px;scrollbar-gutter:stable}.older{margin:16px 0 8px;width:100%;padding:10px;border:1px dashed #ffffff24;border-radius:9px;background:transparent;color:var(--dim);font-size:10px}.earlier{display:none}.threadscroll.show-all .earlier{display:block}.moment{display:grid;grid-template-columns:40px 1fr;gap:12px;padding:13px 0;border-top:1px solid var(--line2)}.moment:first-of-type{border-top:0}.num{font:9px ui-monospace,monospace;color:var(--muted);padding-top:2px}.mhead{display:flex;gap:8px;align-items:baseline}.mwho{font-weight:650;font-size:11px}.mstatus{font:italic 9px Georgia,serif;color:var(--muted)}.mtext{margin-top:5px;color:#d9d6cf;font:14px/1.45 Georgia,serif}.moment.currentmoment{margin:5px -8px 0;padding:13px 8px;border:1px solid #d5a65b46;border-radius:10px;background:#d5a65b08}.moment.currentmoment .num{color:var(--gold)}.divider{margin:17px 0 2px;color:var(--muted);font:8.5px ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase}
+.foot{display:flex;align-items:center;padding:0 22px;background:var(--top);border-top:1px solid var(--line);color:var(--muted);font:8.5px ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase}.foot span:last-child{margin-left:auto}
+body[data-layout=narrow]{display:flex;justify-content:center;background:#090b0f}body[data-layout=narrow] .app{width:720px;max-width:100%;border-left:1px solid var(--line);border-right:1px solid var(--line)}body[data-layout=narrow] .workspace.thread-open{grid-template-columns:1fr}body[data-layout=narrow] .workspace.thread-open .stage{display:none}body[data-layout=narrow] .thread{border-left:0}body[data-layout=narrow] .cast{gap:28px}body[data-layout=narrow] .person{width:110px}body[data-layout=narrow] .current{width:94%}body[data-layout=narrow] .stagehead .hint{display:none}
+button:focus-visible{outline:2px solid var(--text);outline-offset:2px}@media(max-width:760px){.top{padding:0 14px}.scene{display:none}.cast{gap:16px}.person{width:94px}.stage{padding:28px 15px}.volume{width:70px;height:70px}.current{width:100%}.workspace.thread-open{grid-template-columns:1fr}.workspace.thread-open .stage{display:none}.thread{border-left:0}}@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body data-layout="wide"><div class="app">
+<header class="top"><span class="brand">Kymaean</span><span class="prod">Long Scene Test</span><span class="scene">Prototype Scene · accepted Performance 40</span><span class="spacer"></span><button class="toggle" id="wide" aria-pressed="true">Wide</button><button class="toggle" id="narrow" aria-pressed="false">Narrow test</button><span class="pill">Perspective · <b>Creator</b></span><span class="pill">Posture · <b>Watch</b></span></header>
+<main class="workspace" id="workspace">
+<section class="stage" aria-label="Live Stage long-scene test"><div class="stagehead"><span class="eyebrow">Live Stage · after Performance 40</span><span class="hint">Full Scene thread remains on demand</span></div>
+<div class="cast">
+<div class="person" style="--c:var(--amber)"><div class="volume"></div><div class="name">Marlowe</div><div class="state">present</div></div>
+<div class="person opportunity" style="--c:var(--blue)"><div class="volume"></div><div class="name">Dr. Voss</div><div class="state">current opportunity</div></div>
+<div class="person" style="--c:var(--green)"><div class="volume"></div><div class="name">Wren</div><div class="state">most recent Performance</div></div>
+</div>
+<div class="opp">CURRENT OPPORTUNITY · <b>DR. VOSS</b> · response is not required</div>
+<div class="current"><div class="currentmeta"><span class="who">Wren</span><span class="accepted">accepted Performance · most recent</span></div><div class="line">“We have forty moments behind us. I only need you to answer the one in front of us.”</div></div>
+<div class="stageactions"><button class="btn primary" id="openThread" aria-controls="threadPanel" aria-expanded="false">Open Scene thread <span class="count">40 accepted</span></button></div>
+<div class="quietlaw"><b>Long scenes do not require long-lived transcript chrome.</b> The Stage keeps people, current action, and opportunity primary; chronology opens only when the creator asks for it.</div>
+</section>
+<aside class="thread" id="threadPanel" aria-label="Scene thread"><div class="threadhead"><div class="label">Scene thread</div><div class="threadtitle">40 accepted Performances</div><div class="threadsub">Chronological Performance history for this Scene. This is not the causal Archive: it answers what happened in sequence, not what became durable state or why.</div></div><div class="threadactions"><button class="btn" id="returnStage">Return to Stage</button><button class="btn" id="jumpCurrent">Jump to current</button></div><div class="threadscroll" id="threadscroll"><button class="older" id="older" aria-expanded="false">Show Performances 1–32</button><div class="earlier" id="earlier"></div><div class="divider">Recent · 33–40</div><div id="recent"></div></div></aside>
+</main>
+<footer class="foot"><span>Prototype story content · not Production canon</span><span>Lane A · Long Scene 01</span></footer>
+</div>
+<script>
+const people=['Marlowe','Dr. Voss','Wren'];
+const lines=[
+'“That is not the same question you asked ten minutes ago.”',
+'Folds the note once and leaves it beside the lamp.',
+'“Then stop protecting the answer from the room.”',
+'Turns the cup in both hands without drinking.',
+'“I remember what you promised. I am asking what changed.”',
+'Lets the silence stand before answering.',
+'“We can keep the uncertainty without pretending it is harmless.”',
+'Looks back to the marked page and waits.'
+];
+function moment(i){const who=i===40?'Wren':people[(i-1)%3], text=i===40?'“We have forty moments behind us. I only need you to answer the one in front of us.”':lines[(i-1)%lines.length];return `<article class="moment ${i===40?'currentmoment':''}" ${i===40?'id="moment40" aria-current="true"':''}><div class="num">${String(i).padStart(2,'0')}</div><div><div class="mhead"><span class="mwho">${who}</span><span class="mstatus">accepted Performance</span></div><div class="mtext">${text}</div></div></article>`}
+document.querySelector('#earlier').innerHTML=Array.from({length:32},(_,i)=>moment(i+1)).join('');
+document.querySelector('#recent').innerHTML=Array.from({length:8},(_,i)=>moment(i+33)).join('');
+const workspace=document.querySelector('#workspace'),scroll=document.querySelector('#threadscroll'),wide=document.querySelector('#wide'),narrow=document.querySelector('#narrow');
+function openThread(){workspace.classList.add('thread-open');document.querySelector('#openThread').setAttribute('aria-expanded','true');requestAnimationFrame(()=>{document.querySelector('#moment40').scrollIntoView({block:'end'});document.querySelector('#returnStage').focus();});}
+function closeThread(){workspace.classList.remove('thread-open');document.querySelector('#openThread').setAttribute('aria-expanded','false');document.querySelector('#openThread').focus();}
+document.querySelector('#openThread').onclick=openThread;document.querySelector('#returnStage').onclick=closeThread;
+document.querySelector('#jumpCurrent').onclick=()=>document.querySelector('#moment40').scrollIntoView({block:'end'});
+document.querySelector('#older').onclick=()=>{const b=document.querySelector('#older'),open=!scroll.classList.contains('show-all');scroll.classList.toggle('show-all',open);b.setAttribute('aria-expanded',String(open));b.textContent=open?'Hide Performances 1–32':'Show Performances 1–32';if(open)scroll.scrollTop=0};
+function layout(v){document.body.dataset.layout=v;wide.setAttribute('aria-pressed',v==='wide');narrow.setAttribute('aria-pressed',v==='narrow')}
+wide.onclick=()=>layout('wide');narrow.onclick=()=>layout('narrow');
+</script></body></html>
