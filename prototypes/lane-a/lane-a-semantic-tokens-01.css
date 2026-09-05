@@ -1,0 +1,62 @@
+/*
+  Kymaean Lane A Semantic Tokens 01
+  Integration baseline for O0 product-UI reintegration.
+  This is NOT a final brand palette and NOT production WinUI/XAML.
+  Character accents are data channels only; never identity/status authority by themselves.
+*/
+:root {
+  /* Surfaces */
+  --kym-canvas: #0d0f14;
+  --kym-surface: #11151b;
+  --kym-panel: #171b23;
+  --kym-panel-raised: #1b2029;
+  --kym-overlay: #0b0e13;
+
+  /* Text — arithmetic contrast remains >= 5:1 on the darkest/raised surfaces used here. */
+  --kym-text: #ece8df;
+  --kym-text-secondary: #b8b1a7;
+  --kym-text-muted: #938c81;
+
+  /* Structural chrome — reference UI accent, not frozen brand identity. */
+  --kym-chrome-accent: #d5a65b;
+  --kym-focus: #e0be83;
+  --kym-line: #ffffff1c;
+  --kym-line-subtle: #ffffff0d;
+
+  /* Character accent ancestry — optional redundant data only. */
+  --kym-character-amber: #e8a659;
+  --kym-character-blue: #5b9dd9;
+  --kym-character-green: #7fbf8f;
+
+  /* Typography */
+  --kym-font-ui: "Segoe UI", system-ui, sans-serif;
+  --kym-font-display: Georgia, "Times New Roman", serif;
+  --kym-font-mono: "Cascadia Mono", Consolas, monospace;
+  --kym-text-xs: 0.6875rem;
+  --kym-text-sm: 0.8125rem;
+  --kym-text-md: 0.9375rem;
+  --kym-text-lg: 1.125rem;
+  --kym-text-xl: 1.5rem;
+  --kym-text-2xl: 2rem;
+
+  /* Spacing */
+  --kym-space-1: 0.25rem;
+  --kym-space-2: 0.5rem;
+  --kym-space-3: 0.75rem;
+  --kym-space-4: 1rem;
+  --kym-space-6: 1.5rem;
+  --kym-space-8: 2rem;
+  --kym-space-12: 3rem;
+
+  /* Shape */
+  --kym-radius-sm: 0.5rem;
+  --kym-radius-md: 0.75rem;
+  --kym-radius-lg: 1rem;
+
+  /* Semantic state is always paired with text/programmatic meaning. */
+  --kym-state-provisional-border: #d5a65b66;
+  --kym-state-effective-border: #9dbf9f66;
+  --kym-state-error-border: #d3989866;
+
+  /* Stage performance/motion timing intentionally UNSELECTED until Read-Through evidence. */
+}
