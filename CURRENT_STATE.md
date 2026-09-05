@@ -6,7 +6,7 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> extension-laws approval -> Site Spine approval -> Material Roles 01 -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> extension-laws approval -> Site Spine approval -> Mineral Theater approval -> Hero Artwork Brief 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A
 
@@ -16,31 +16,27 @@ O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a d
 
 Historical **Threshold K** remains unchanged working symbol candidate/control, not final logo; SVG is testing adapter only. **O3 Balanced Hierarchy** remains Director-approved temporary W0 wordmark incumbent/source asset, non-final.
 
-Deployment laws remain: app brand recedes behind Production; Stage excludes brand geometry from Stage semantics; website may breathe more; hero may use Threshold K as prelude + O3 as name; O3 may appear alone; no universal fixed ratio.
-
 ## Website V0 authority
 
-**C — Quiet Stage** remains Director-approved temporary primary V0 visual-world incumbent.
+**C — Quiet Stage** remains Director-approved temporary primary V0 visual-world incumbent. Approved extensions: **Bounded Chorus**, **Causal Scar**, **Posture Proximity**. Cone imagery is reserved for genuine Stage/product-truth roles; light material fields are allowed; extension grammar never overrides Production truth/native semantics.
 
-Approved extension grammars: **Bounded Chorus** for unequal perspective; **Causal Scar** for committed consequence deforming later composition; **Posture Proximity** for Watch/Direct/Perform/Write around one Production. Cone imagery is reserved for genuine Stage/product-truth roles. Light material fields are allowed. Extension grammar never overrides Production truth/native semantics.
-
-**Website V0 Site Spine 01 is Director-approved** as temporary site-spine incumbent:
+**Website V0 Site Spine 01** is Director-approved:
 
 `HERO -> ONE PRODUCTION -> BOUNDED PERSPECTIVE -> CAUSAL COMMIT -> HISTORY -> CREATOR POSTURE -> LOCAL SOVEREIGNTY -> INVITATION`
 
-Artwork-need map approved: one primary bespoke hero/world-setting job is high value; explanatory systems stay deterministic by default.
+One primary bespoke hero/world-setting artwork job is approved as high value; explanatory systems stay deterministic by default.
 
-## Material Roles 01
+**B — Mineral Theater** is Director-approved temporary V0 website material-family incumbent. Roles: Void/Theatrical; Archive/Material; Warm Causal/Human; Cool Presence/Counter-signal. Warm is not generic CTA/focus/brand chrome; cool never carries identity/state alone. Exact colors remain study values, not final tokens.
 
-Fixed three-family round complete. **B — Mineral Theater is RECOMMENDED / DIRECTOR SELECTION REQUIRED** as temporary V0 material-family incumbent.
+## Hero artwork
 
-Roles: Void/Theatrical; Archive/Material; Warm Causal/Human; Cool Presence/Counter-signal.
+`Website V0 Hero Artwork Brief 01` is complete. Candidate generation has **not started**.
 
-Mineral Theater study values: Void `#080c0f`; secondary dark `#10171b`; Archive `#cfcbbc`; Archive ink `#1a1e1e`; Warm `#a96743`; Cool `#5f8790`. These are testing values, not final production tokens.
+Hero semantic contract: 2–4 distinct non-interchangeable people; visible present evidence of an earlier human choice; consequence materially changes another person’s current possibilities; unequal awareness must be legible without text. Relationship is composition, not connectors.
 
-Audit law: **Warm causal is not generic brand or interaction chrome.** Cool never carries identity/state alone. Threshold K/O3 remain neutral enough to survive outside the material family. Static audited text pairs meet/exceed conservative `4.5:1`; runtime accessibility remains external.
+Artwork may inherit theatrical absence and Mineral Theater atmosphere but must not reproduce app UI/cone carrier, logos, text, portal/AI/sci-fi shorthand, or color-only state coding. Desktop reserves ~34–40% quiet identity territory; portrait crop must preserve at least two people + causal evidence + asymmetric reaction.
 
-No final palette, texture system, hero artwork, website copy, logo, wordmark master, motion timing or production implementation selected.
+No final hero story, people, style, composition, artwork, palette, logo, wordmark master, motion timing or production implementation selected.
 
 ## Guards
 
@@ -48,4 +44,4 @@ Character != Performer/Portrait. Take acceptance selects what may commit; **atom
 
 ## Next
 
-Director approves/rejects **Mineral Theater** plus its seven material-role laws. If approved, run `Website V0 Hero Artwork Brief 01`; define the single high-value bespoke hero/world artwork job before generating candidates. Do not broaden the palette round or redesign the site spine.
+Director reviews Hero Artwork Brief 01. If approved, generate exactly **three fresh isolated hero artwork candidates** from the brief, with no candidate fed into another, then score all three before any website integration.
