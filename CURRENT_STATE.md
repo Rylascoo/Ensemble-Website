@@ -6,33 +6,33 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTEXT_DEPLOYMENT_01.md` -> `docs/KYMAEAN_LANE_B_BESPOKE_WORDMARK_CONSTRUCTION_02.md` -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_BESPOKE_WORDMARK_CONSTRUCTION_02.md` -> `docs/evidence/LANE_B_O3_WORDMARK_DIRECTOR_APPROVAL_01.md` -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A — static/executable reference closed
 
-O0-B remains UI lineage; O0-C1 executable ancestry/provenance. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button; visible selection belongs around floor pool + name. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`.
+O0-B remains UI lineage; O0-C1 executable ancestry/provenance. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button; visible selection belongs around floor pool + name. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`. Take a Seat = `Perspective: Character + Posture: Perform`; return = `Creator + Watch`.
 
-Motion timing remains unfrozen pending Read-Through evidence.
+Motion timing remains unfrozen pending Read-Through evidence. Do not fabricate pacing values or reopen general Lane A refinement.
 
-## Lane B — Threshold K + bespoke wordmark
+## Lane B — shared-brand working incumbents
 
-Historical **Threshold K** remains the working symbol control/candidate, not a final logo. K is discovered in negative space; it is not drawn. Earlier M2/W2 recommendation remains withdrawn. Controlled mark refinement found no modified mark better than the historical candidate. Context testing found Threshold K needs breathing room more than geometric correction; mark and name should keep distinct jobs.
+Historical **Threshold K** remains the working symbol candidate/control, not a final logo. K is discovered in negative space; it is not drawn. Earlier M2/W2 recommendation remains withdrawn; no modified Threshold K has earned promotion.
 
-Wordmark Construction 02 asked how `KYMÆAN` can carry equal ownership with quieter means. Three custom vector systems were tested; Q Quiet Structure survived. One-variable refinement narrowed Æ, shallowed M and softened tracking into Q4. Optical hierarchy then produced **O3 Balanced Hierarchy**: modest vertical anchoring + lighter horizontals.
+**O3 Balanced Hierarchy is DIRECTOR APPROVED as the temporary W0 wordmark incumbent for integrated app + website testing.** Approval is for the current structural wordmark direction only; it is not final brand approval.
 
-O3 browser-raster probes at 14/16/18/22/28 px found Æ pressure first at 14–16 px and clear reading from 18 px upward in this browser. Word-alone testing retained authored identity without Threshold K. This is static evidence, not Windows/device typography validation.
-
-**O3 is recommended for Director review as a temporary wordmark incumbent candidate; it is not selected.** Threshold K remains unchanged.
-
-Authority/evidence:
-- `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTEXT_DEPLOYMENT_01.md`
+O3 evidence:
 - `docs/KYMAEAN_LANE_B_BESPOKE_WORDMARK_CONSTRUCTION_02.md`
 - `prototypes/lane-b/bespoke-wordmark-o3-legibility-gate-01.html`
+- `docs/evidence/LANE_B_O3_WORDMARK_DIRECTOR_APPROVAL_01.md`
+
+O3 laws: custom `KYMÆAN`; deliberate `Æ`; standalone ownership; lower emblematic density than Threshold K; no copied/contained/completed Threshold K geometry. Browser/static gate found 14–16px as first `Æ` pressure range and 18px+ clear in that raster. These are not production metrics.
 
 ## Guards / external gates
 
-Opportunity != obligation/intent/turn order. Character != Performer/Portrait. UI is projection, not authority. Identity survives without colour/portrait/motion/exact position/hover. WinUI/ARM64/accessibility-runtime/performance/WACK/Store remain external validation.
+Opportunity != obligation/intent/turn order. Character != Performer/Portrait. UI is projection, not authority. Identity survives without colour/portrait/motion/exact position/hover.
+
+Read-Through depends on engineering provider-neutral Performer ingress. WinUI/ARM64/accessibility-runtime/performance/WACK/Store remain external validation.
 
 ## Next
 
-Director reviews O3. If approved, test O3 + historical Threshold K in integrated app/website brand surfaces without reopening mark geometry. Lane A waits for Read-Through before Stage motion timing.
+Test **unchanged historical Threshold K + approved temporary O3 KYMÆAN** together in integrated app and website surfaces. Judge product belonging, hierarchy and deployment without reopening mark geometry or calling either asset final. Lane A waits for Read-Through before Stage motion timing.
