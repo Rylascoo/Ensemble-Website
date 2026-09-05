@@ -6,7 +6,7 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_THRESHOLD_K_WORDMARK_INTEGRATION_01.md` -> relevant evidence -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTROLLED_REFINEMENT_01.md` -> relevant evidence -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A — static/executable reference closed
 
@@ -14,21 +14,27 @@ O0-B remains UI lineage; O0-C1 executable ancestry/provenance. Stage carrier = *
 
 Motion timing remains unfrozen pending Read-Through evidence. Do not fabricate pacing values or reopen general Lane A refinement.
 
-## Lane B — Threshold K + wordmark integration
+## Lane B — Threshold K control
 
-W0 wordmark divergence remains evidence, not selected authority. A Tensional Æ ranked first when the word was evaluated alone.
+W0 wordmark divergence remains evidence, not selected authority. A Tensional Æ ranked first only when the word was evaluated alone.
 
-Director reopened the historical **Threshold K** candidate as a temporary shared-brand scaffold. Historical evidence: K emerges from negative space, is not drawn, scored 88.8 on its board rubric, survived 12px, and encoded no fixed count. Historical surface is inspiration/evidence, not automatic restoration.
+Director reopened historical **Threshold K** as a temporary shared-brand candidate. Durable mechanism: the K is discovered in negative space; it is not drawn. Historical board claims (88.8 / 12px) remain historical evidence, not current validation.
 
-New controlled integration study: `docs/KYMAEAN_LANE_B_THRESHOLD_K_WORDMARK_INTEGRATION_01.md` + `prototypes/lane-b/threshold-k-wordmark-integration-01.html`.
+The first integration study's **M2 Open Threshold + W2 Threshold Echo recommendation is withdrawn** after quality audit. It changed too many mark variables at once and the wordmark sketch was too provisional.
 
-Current recommendation only:
-- **M2 Open Threshold** — preserve negative-space K while reducing surrounding-emblem weight;
-- **W2 Threshold Echo** — quieter KYMÆAN; Æ borrows one diagonal/counter tension without containing the logo.
+Successor authority/evidence:
+- `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTROLLED_REFINEMENT_01.md`
+- `prototypes/lane-b/threshold-k-controlled-refinement-01.html`
 
-Role split: `THRESHOLD K = compressed symbolic event`; `KYMÆAN = human-readable name`. Do not select W0-A in isolation before this integration gate resolves.
+Controlled one-variable result:
+- spacing-open: do not advance;
+- gentler right waist: do not advance;
+- reduced left mass: do not advance by default;
+- contour simplification: implementation hypothesis only.
 
-**Director approval required before M2/W2 becomes even a temporary incumbent.** Approval would not mean final logo, wordmark, app icon, palette/typeface, trademark clearance, or production implementation.
+**No modified mark earns promotion. The recovered Threshold K remains the working control/candidate, not a final logo.**
+
+Role hypothesis remains open: `THRESHOLD K = compact symbolic event`; `KYMÆAN = readable name`. Do not select or construct a final wordmark yet.
 
 ## Guards / external gates
 
@@ -38,4 +44,4 @@ Read-Through depends on engineering provider-neutral Performer ingress. WinUI/AR
 
 ## Next
 
-Director reviews the Threshold K + wordmark integration scaffold. Lane A waits for Read-Through before Stage motion timing.
+Test the recovered Threshold K unchanged in app-titlebar, app-icon, website-header and website-hero contexts. Then construct a bespoke KYMÆAN wordmark from contextual evidence. Lane A waits for Read-Through before Stage motion timing.
