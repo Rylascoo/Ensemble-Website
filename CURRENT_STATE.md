@@ -6,7 +6,7 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> Quiet Stage Extension Test -> extension-laws approval -> Website V0 Site Spine 01 -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> extension-laws approval -> Site Spine approval -> Material Roles 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A
 
@@ -18,28 +18,34 @@ Historical **Threshold K** remains unchanged working symbol candidate/control, n
 
 Deployment laws remain: app brand recedes behind Production; Stage excludes brand geometry from Stage semantics; website may breathe more; hero may use Threshold K as prelude + O3 as name; O3 may appear alone; no universal fixed ratio.
 
-## Website visual world
+## Website V0 authority
 
-**C — Quiet Stage** remains Director-approved temporary primary V0 incumbent.
+**C — Quiet Stage** remains Director-approved temporary primary V0 visual-world incumbent.
 
-Director-approved extension laws: cone imagery only for genuine Stage/product-truth roles; **Bounded Chorus** may express unequal perspective; **Causal Scar** may express **committed** causal consequence through later structural deformation; **Posture Proximity** may express Watch/Direct/Perform/Write around one Production; light material fields are allowed; extension grammar never overrides Production truth/native semantics.
+Approved extension grammars: **Bounded Chorus** for unequal perspective; **Causal Scar** for committed consequence deforming later composition; **Posture Proximity** for Watch/Direct/Perform/Write around one Production. Cone imagery is reserved for genuine Stage/product-truth roles. Light material fields are allowed. Extension grammar never overrides Production truth/native semantics.
 
-`Website V0 Site Spine 01` completed static desktop + 390px mobile PASS. Recommended order:
+**Website V0 Site Spine 01 is Director-approved** as temporary site-spine incumbent:
 
 `HERO -> ONE PRODUCTION -> BOUNDED PERSPECTIVE -> CAUSAL COMMIT -> HISTORY -> CREATOR POSTURE -> LOCAL SOVEREIGNTY -> INVITATION`
 
-Audit corrected product truth: Take acceptance only selects what may commit; **atomic commit establishes consequence**.
+Artwork-need map approved: one primary bespoke hero/world-setting job is high value; explanatory systems stay deterministic by default.
 
-Artwork need: one primary bespoke hero/world-setting job is high-value; other explanatory systems remain deterministic by default.
+## Material Roles 01
 
-Next material roles: **Void/Theatrical**, **Archive/Material**, **Warm Causal/Human**, **Cool Presence/Counter-signal**. Exact colors remain scaffolding.
+Fixed three-family round complete. **B — Mineral Theater is RECOMMENDED / DIRECTOR SELECTION REQUIRED** as temporary V0 material-family incumbent.
 
-No final website, palette, copy, image system, logo, wordmark master, motion timing or production implementation selected.
+Roles: Void/Theatrical; Archive/Material; Warm Causal/Human; Cool Presence/Counter-signal.
+
+Mineral Theater study values: Void `#080c0f`; secondary dark `#10171b`; Archive `#cfcbbc`; Archive ink `#1a1e1e`; Warm `#a96743`; Cool `#5f8790`. These are testing values, not final production tokens.
+
+Audit law: **Warm causal is not generic brand or interaction chrome.** Cool never carries identity/state alone. Threshold K/O3 remain neutral enough to survive outside the material family. Static audited text pairs meet/exceed conservative `4.5:1`; runtime accessibility remains external.
+
+No final palette, texture system, hero artwork, website copy, logo, wordmark master, motion timing or production implementation selected.
 
 ## Guards
 
-Character != Performer/Portrait. UI is projection, not authority. Identity survives without colour/portrait/motion/exact position/hover. Runtime accessibility/performance/Store validation remain external.
+Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority. Identity survives without colour/portrait/motion/exact position/hover. Runtime accessibility/performance/Store validation remain external.
 
 ## Next
 
-Director approves/rejects Site Spine 01 narrative + artwork-need map. If approved, run `Website V0 Material Roles 01` with architecture, O3, Threshold K, extension grammars and Stage semantics fixed.
+Director approves/rejects **Mineral Theater** plus its seven material-role laws. If approved, run `Website V0 Hero Artwork Brief 01`; define the single high-value bespoke hero/world artwork job before generating candidates. Do not broaden the palette round or redesign the site spine.
