@@ -4,62 +4,60 @@ Updated: 2026-09-05
 
 ## Authority
 
-- Product/engineering: `Rylascoo/Ensemble-Project`.
+- Engineering truth: `Rylascoo/Ensemble-Project`.
 - App/web design + brand: `Rylascoo/Ensemble-Website`.
-- Master visual/design assets: Drive `Ensemble Project`.
-- `Rylascoo/Kymaean-Project` and Drive-root `Kymaean Project` are quarantined legacy donor material.
+- Master visual assets: Drive `Ensemble Project`.
+- `Rylascoo/Kymaean-Project` and Drive-root `Kymaean Project` are quarantined legacy.
 
-Fresh design read order:
-
-1. this file;
-2. `docs/KYMAEAN_LANE_A_O0_REINTEGRATION_01.md`;
-3. `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`;
-4. `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`;
-5. later design results referenced by the reintegration artifact as needed;
-6. current app `CURRENT_STATE.md` before exact engineering/validation claims.
+Fresh design read order: this file -> `docs/KYMAEAN_LANE_A_O0_REINTEGRATION_01.md` -> `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md` -> current package evidence as needed -> app `CURRENT_STATE.md` before exact engineering claims.
 
 ## Current phase
 
 > **LANE A — O0 PRODUCT-UI REINTEGRATION / REFINEMENT — PRIMARY**
 
-O0-B Studio / Audience Stage / Character View / Archive are revived as the incumbent Lane A interface family. O0-C1 is the executable token/state/motion ancestor.
+O0-B Studio / Audience Stage / Character View / Archive are the incumbent Lane A family. O0-C1 is the executable token/state/motion ancestor. Renderer isolation/quarantine do not apply to Lane A inheritance.
 
-This is not a rewind. Later accepted laws remain binding: stable Production/fluid focus; posture and Presentation Perspective orthogonal; human-first quiet Stage; bounded contextual answers; causal history; graceful degradation; Character identity independent of Performer/portrait/private psychology; identity not dependent on color alone.
+Later accepted laws remain binding: stable Production/fluid focus; Presentation Perspective and creator posture are orthogonal; quiet human-first Stage; bounded context; causal history; Character != Performer/Portrait; identity cannot depend on color alone; UI is projection, not authority.
 
-Renderer isolation/quarantine do not apply to O0 inheritance in Lane A.
+## Completed Lane A packages
 
-## Completed first Lane A package
+### 01 — Production Entry
 
 - `prototypes/lane-a/o0-c1-ancestor-tokens.css`
 - `docs/KYMAEAN_LANE_A_O0_STATE_COVERAGE_01.md`
 - `prototypes/lane-a/production-entry-01.html`
 
-The interactive prototype covers returning, first-run/empty and offline states. Offline generation does not block local Production creation/open/inspection.
+Covers returning, first-run/empty and offline. Local Production creation/open/inspection remain available offline.
+
+### 02 — Take Acceptance
+
+- `docs/KYMAEAN_LANE_A_TAKE_ACCEPTANCE_01.md`
+- `prototypes/lane-a/take-acceptance-01.html`
+
+Covers Needs Review, Ready, Committed, Rejected and Another Take. Core design law: **review consequence, not prose**. Candidate material is explicitly non-history; review must become terminal before a Take decision; success is shown only after atomic commit; rejected material remains non-effective. User-facing `Another Take` is not yet frozen as engine `Alternate` semantics.
 
 ## Lane B
 
-VID-01 V0R1–V0R10 remain brand/atmosphere research evidence. **V0R11 is not the default next action.**
-
-Future Lane B work requires one explicit question, frozen criteria, finite round budget and Director selection at budget end.
-
-No final wordmark, symbol, icon, Stage/Character medium or app/web visual system is selected.
+VID-01 V0R1–V0R10 remain preserved brand/atmosphere evidence. V0R11 is not the default next action. No final wordmark, mark, Stage medium or complete visual system is selected.
 
 ## Durable guards
 
-- Character != Performer; Character != Portrait.
-- Representation may depict; authority must establish.
 - Current Opportunity != obligation / intent / turn order.
+- Representation may depict; authority must establish.
 - Identity remains recoverable without color, portrait recognition, motion, exact position or hover.
-- UI is projection, not authority.
-- Website explanatory IA need not mirror native app navigation.
 - Director selection != audit result.
+- Website explanatory IA need not mirror native app navigation.
 
 ## Next design package
 
-Design the missing live-authority transition as a state of the revived O0 family:
+Connect a **successful committed Take** to the revived O0 Archive and changed-present loop:
 
-> **candidate Performance → consequence review → Accept / Reject / Another Take**
+```text
+accepted history
+-> What Changed
+-> Still in Motion
+-> trace cause back to the accepted Performance
+-> return to the same Production with changed current state
+```
 
-Requirements: provisional material is visibly non-history; acceptance is consequence-centered; accepted Performance + approved consequences become effective coherently; rejected/cancelled material never appears as canon.
-
-Do not block this on Stage cone/cylinder geometry, final Character medium, brand selection or performance-rhythm timing.
+Do not invent a next Current Opportunity transition. Preserve Presentation Perspective and distinguish authoritative consequence from unresolved continuity.
