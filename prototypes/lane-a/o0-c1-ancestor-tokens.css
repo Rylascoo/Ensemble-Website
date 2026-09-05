@@ -1,0 +1,92 @@
+/*
+ * O0-C1 ANCESTOR TOKENS — PROVENANCE ARTIFACT, NOT PRODUCTION TOKENS
+ * Source: Drive O0-C1 — Original Ensemble Mockup Source.html
+ * Drive file ID: 1IIYnpmr0szAlPH9LOveElsQ3nErkvsbC
+ * Revived for Lane A on 2026-09-05.
+ *
+ * Purpose:
+ * - preserve the executable ancestor's actual token/state relationships;
+ * - give Lane A a concrete inheritance point;
+ * - prevent memory-based reconstruction from silently changing O0.
+ *
+ * Explicit non-inheritance hazards from O0-C1:
+ * - obsolete "a stage for language models" framing;
+ * - provider/model attached to Character identity;
+ * - runtime Google Fonts @import;
+ * - color-only Character identity;
+ * - exact values below are ancestors, not automatically selected production values.
+ */
+
+:root {
+  /* Foundational surfaces */
+  --o0-bg: #0d0f14;
+  --o0-bg-raised: #14171f;
+  --o0-bg-panel: #191d27;
+  --o0-line: rgba(255, 255, 255, 0.08);
+  --o0-line-soft: rgba(255, 255, 255, 0.05);
+
+  /* Text */
+  --o0-text: #e8e6df;
+  --o0-text-dim: #9a978f;
+  --o0-text-faint: #625f58;
+
+  /* Original cast accents — user/Character data ancestor, NOT identity-safe alone */
+  --o0-cast-amber: #e8a659;
+  --o0-cast-blue: #5b9dd9;
+  --o0-cast-green: #7fbf8f;
+
+  /* Executable state/motion ancestors */
+  --o0-focus-opacity-rest: 0.5;
+  --o0-focus-opacity-active: 1;
+  --o0-focus-transition: 400ms ease;
+  --o0-spotlight-blur: 6px;
+  --o0-spotlight-active-opacity: 0.16;
+
+  /* Geometry / frame ancestors */
+  --o0-app-max-width: 920px;
+  --o0-app-radius: 14px;
+  --o0-control-radius: 8px;
+  --o0-pill-radius: 20px;
+}
+
+/*
+ * Ancestor state grammar.
+ * The original executable artifact used `.persona.speaking` to move a Character
+ * from reduced to full opacity and reveal the cone. Lane A may refine the
+ * semantics, but should preserve the distinction between persistent identity
+ * and temporary performance/current-salience state.
+ */
+.o0-persona-state {
+  opacity: var(--o0-focus-opacity-rest);
+  transition: opacity var(--o0-focus-transition);
+}
+
+.o0-persona-state[data-speaking="true"] {
+  opacity: var(--o0-focus-opacity-active);
+}
+
+.o0-spotlight-cone-ancestor {
+  width: 130px;
+  height: 120px;
+  background: linear-gradient(180deg, var(--o0-character-accent, transparent) 0%, transparent 75%);
+  opacity: 0;
+  filter: blur(var(--o0-spotlight-blur));
+  pointer-events: none;
+}
+
+.o0-persona-state[data-speaking="true"] .o0-spotlight-cone-ancestor {
+  opacity: var(--o0-spotlight-active-opacity);
+}
+
+/*
+ * Accessibility audit anchors from the declared ancestor values:
+ * amber/green ≈ 1.03:1 luminance contrast;
+ * blue/green ≈ 1.34:1;
+ * amber/blue ≈ 1.38:1;
+ * text-faint/base ≈ 3.01:1;
+ * text-faint/panel ≈ 2.65:1.
+ *
+ * These arithmetic findings demonstrate that cast color and faint text cannot
+ * be accepted unchanged as sole semantic channels. They are not device/AT test
+ * results.
+ */
