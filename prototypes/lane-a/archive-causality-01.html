@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kymaean · Archive Causality 01</title>
+<style>
+:root{
+  --bg:#0d0f14;--surface:#12161d;--panel:#171b23;--panel2:#11151b;
+  --line:#ffffff17;--line2:#ffffff0d;--text:#ece8df;--dim:#aaa59b;--muted:#7f7a72;
+  --amber:#e8a659;--blue:#5b9dd9;--green:#7fbf8f;--gold:#d5a65b;--soft:#f2efe8;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;background:var(--bg);color:var(--text)}
+body{font:13px system-ui,"Segoe UI",sans-serif}
+button{font:inherit}
+.app{min-height:100%;display:grid;grid-template-rows:56px 1fr 40px}
+.top{display:flex;align-items:center;gap:12px;padding:0 22px;border-bottom:1px solid var(--line);background:#101319}
+.brand{font:17px Georgia,serif;letter-spacing:.02em}.prod{font:14px Georgia,serif;margin-left:8px}.scene{font-size:11px;color:var(--muted)}
+.topspacer{flex:1}.pill,.ghost,.tab,.linkbtn{border:1px solid var(--line);background:transparent;color:var(--dim);border-radius:9px}
+.pill{padding:7px 10px;font-size:10px}.pill strong{color:var(--text);font-weight:650}.ghost{padding:7px 10px;font-size:10px}
+.shell{min-height:0;display:grid;grid-template-columns:250px minmax(0,1fr)}
+.rail{border-right:1px solid var(--line);padding:24px 18px;background:#0f1217}
+.railtitle{color:var(--gold);font:700 9px ui-monospace,monospace;letter-spacing:.12em;text-transform:uppercase;margin-bottom:13px}
+.event{position:relative;padding:14px 13px 14px 17px;border:1px solid var(--line);border-radius:11px;background:#ffffff04;margin-bottom:10px;color:var(--dim)}
+.event.selected{border-color:#d5a65b55;background:#d5a65b0b;color:var(--text)}
+.event:before{content:"";position:absolute;left:-5px;top:20px;width:8px;height:8px;border-radius:50%;background:#73716c;border:2px solid #0f1217}
+.event.selected:before{background:var(--gold)}
+.evmeta{font:8.5px ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.evtitle{font:15px/1.25 Georgia,serif;margin-top:6px}.evsub{margin-top:7px;font-size:10px;line-height:1.4;color:var(--muted)}
+.railnote{margin-top:18px;padding:11px 12px;border-left:2px solid var(--line);color:var(--muted);font-size:10px;line-height:1.45}
+.main{min-width:0;overflow:auto;background:radial-gradient(ellipse at 55% 0,#d5a65b0b,transparent 36%),linear-gradient(#11151b,#0e1116)}
+.toolbar{display:flex;align-items:center;gap:7px;padding:17px 24px 0}.tab{padding:8px 12px;font-size:10px}.tab.active{color:var(--text);border-color:#d5a65b5c;background:#d5a65b0c}
+.return{margin-left:auto;border:1px solid #d5a65b44;background:#d5a65b0a;color:#e7c78e;border-radius:9px;padding:8px 12px;font-size:10px}
+.content{padding:22px 24px 30px;display:grid;grid-template-columns:minmax(420px,1.18fr) minmax(320px,.82fr);gap:18px;max-width:1300px}
+.hero{grid-column:1/-1;border:1px solid var(--line);border-radius:14px;padding:19px 20px;background:#ffffff04;display:grid;grid-template-columns:1fr auto;gap:18px;align-items:center}
+.kicker,.sectionlabel{font:700 9px ui-monospace,monospace;letter-spacing:.11em;text-transform:uppercase;color:var(--gold)}
+h1{font:400 30px/1.1 Georgia,serif;margin:8px 0 7px}.lead{font:14px/1.45 Georgia,serif;color:var(--dim);max-width:720px;margin:0}
+.statusbox{padding:10px 12px;border:1px solid #7fbf8f48;border-radius:10px;background:#7fbf8f0b;color:#bed7bb;font-size:10px;white-space:nowrap}
+.stack{display:grid;gap:14px}.section{border:1px solid var(--line);border-radius:13px;background:#ffffff035;padding:17px}.section h2{font:400 20px Georgia,serif;margin:6px 0 3px}.section p.sub{margin:0 0 13px;color:var(--muted);font:12px Georgia,serif;font-style:italic}
+.change{display:grid;grid-template-columns:30px 1fr auto;gap:11px;padding:13px 0;border-top:1px solid var(--line2)}.change:first-of-type{border-top:0}
+.glyph{width:26px;height:26px;border-radius:9px;border:1px solid var(--line);display:grid;place-items:center;font:700 11px ui-monospace,monospace;color:var(--gold)}
+.ctitle{font:14px/1.3 Georgia,serif}.ctype{margin-top:4px;color:var(--muted);font:8.5px ui-monospace,monospace;text-transform:uppercase;letter-spacing:.08em}.statebadge{align-self:start;border:1px solid var(--line);border-radius:999px;padding:5px 8px;font:700 8px ui-monospace,monospace;letter-spacing:.06em}.statebadge.effective{color:#b8d6b4;border-color:#7fbf8f48}.statebadge.unresolved{color:#dfc08a;border-color:#d5a65b48}
+.motion{padding:12px 0;border-top:1px solid var(--line2)}.motion:first-of-type{border-top:0}.motion strong{font:14px Georgia,serif;font-weight:400}.motion span{display:block;margin-top:5px;color:var(--muted);font-size:10px;line-height:1.45}
+.source{border:1px solid #d5a65b3d;border-radius:12px;background:#d5a65b08;padding:15px}.sourcehead{display:flex;align-items:center;gap:9px}.sourcechar{width:28px;height:28px;border-radius:50%;background:var(--green);box-shadow:0 0 14px #7fbf8f45}.sourcewho{font-weight:650}.sourcewhen{font-size:9px;color:var(--muted);margin-top:2px}.quote{margin-top:13px;padding-top:12px;border-top:1px solid var(--line);font:16px/1.52 Georgia,serif;color:#dedbd4}.trace{margin-top:13px;display:grid;gap:8px}.traceitem{display:grid;grid-template-columns:18px 1fr;gap:8px;align-items:start}.traceitem i{width:8px;height:8px;border-radius:50%;margin-top:4px;background:#77736b;box-shadow:0 0 0 3px #ffffff08}.traceitem.current i{background:var(--gold)}.tracetitle{font-size:10px}.tracesub{margin-top:2px;color:var(--muted);font-size:9px;line-height:1.4}
+.linkbtn{width:100%;margin-top:13px;padding:9px 10px;text-align:left;font-size:10px;color:#e2c38d}.linkbtn span{float:right}
+.present{display:none;grid-column:1/-1;border:1px solid var(--line);border-radius:14px;min-height:480px;background:radial-gradient(ellipse at 50% 18%,#e8a6590c,transparent 38%);padding:46px 34px;position:relative}
+.cast{display:flex;justify-content:center;gap:82px}.person{text-align:center;width:110px;opacity:.63}.orb{width:48px;height:48px;border-radius:50%;margin:0 auto 12px;background:var(--c);box-shadow:0 0 18px color-mix(in srgb,var(--c) 34%,transparent)}.name{font-weight:650}.role{margin-top:7px;color:var(--muted);font:8.5px ui-monospace,monospace;text-transform:uppercase;letter-spacing:.07em}
+.now{max-width:650px;margin:48px auto 0;text-align:center}.now h2{font:400 25px Georgia,serif;margin:0 0 9px}.now p{font:14px/1.5 Georgia,serif;color:var(--dim);margin:0}.nowmeta{margin-top:18px;display:flex;justify-content:center;gap:9px;flex-wrap:wrap}.nowtag{border:1px solid var(--line);border-radius:999px;padding:7px 9px;color:var(--muted);font-size:9px}.historytag{color:#bed7bb;border-color:#7fbf8f44}
+.foot{display:flex;align-items:center;padding:0 22px;border-top:1px solid var(--line);background:#101319;color:var(--muted);font:8.5px ui-monospace,monospace;letter-spacing:.08em;text-transform:uppercase}.foot span:last-child{margin-left:auto}
+body[data-view="present"] .historyview{display:none}body[data-view="present"] .rail{display:none}body[data-view="present"] .shell{grid-template-columns:1fr}body[data-view="present"] .return{display:none}body[data-view="present"] .present{display:block}body[data-view="present"] .tab[data-view="present"]{color:var(--text);border-color:#d5a65b5c;background:#d5a65b0c}body[data-view="present"] .tab[data-view="history"]{color:var(--dim);border-color:var(--line);background:transparent}
+button:focus-visible{outline:2px solid var(--soft);outline-offset:2px}
+@media(max-width:980px){.shell{grid-template-columns:1fr}.rail{display:none}.content{grid-template-columns:1fr}.hero{grid-column:auto}.content>.stack{grid-column:auto}.content{padding:18px}.toolbar{padding:14px 18px 0}.present{grid-column:auto}.cast{gap:28px}.person{width:90px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+</style>
+</head>
+<body data-view="history">
+<div class="app">
+<header class="top">
+  <span class="brand">Kymaean</span><span class="prod">Gilligan’s Isle</span><span class="scene">The Missing Raft</span>
+  <span class="topspacer"></span><span class="pill">Perspective · <strong>Creator</strong></span><span class="pill">Posture · <strong>Watch</strong></span>
+</header>
+<div class="shell">
+<aside class="rail" aria-label="Accepted history">
+  <div class="railtitle">Accepted history</div>
+  <div class="event"><div class="evmeta">Earlier accepted moment</div><div class="evtitle">Marlowe points to the drag marks.</div><div class="evsub">Historical texture. No durable change is shown here.</div></div>
+  <div class="event"><div class="evmeta">Earlier accepted moment</div><div class="evtitle">Voss examines the bank.</div><div class="evsub">Part of Scene history and later Character-legible context.</div></div>
+  <div class="event selected" aria-current="true"><div class="evmeta">Accepted & committed</div><div class="evtitle">Wren admits she withheld a claim.</div><div class="evsub">Selected because this moment produced durable consequences.</div></div>
+  <div class="railnote">History inspection does not move the Production backward. Current state remains current while this cause is inspected.</div>
+</aside>
+<main class="main">
+  <div class="toolbar"><button class="tab active" data-view="history">History</button><button class="tab" data-view="present">Present</button><button class="return" id="returnCurrent">Return to current Production</button></div>
+  <div class="content historyview">
+    <section class="hero"><div><div class="kicker">Causal history · accepted moment</div><h1>What changed because this moment was accepted?</h1><p class="lead">This view keeps the exact Performance separate from the authoritative consequences it caused. Claims remain claims; suspicions remain subjective; only committed consequence state is shown as effective.</p></div><div class="statusbox">ACCEPTED · HISTORY</div></section>
+
+    <div class="stack">
+      <section class="section"><div class="sectionlabel">What changed</div><h2>Durable consequences</h2><p class="sub">Effective current state caused by the selected accepted Performance.</p>
+        <div class="change"><div class="glyph">C</div><div><div class="ctitle">Wren’s claim now persists: the rope was already cut when she arrived.</div><div class="ctype">Character claim · Wren · not objective truth</div></div><span class="statebadge effective">EFFECTIVE</span></div>
+        <div class="change"><div class="glyph">S</div><div><div class="ctitle">Wren now suspects the group will blame Marlowe first.</div><div class="ctype">Character suspicion · Wren</div></div><span class="statebadge effective">EFFECTIVE</span></div>
+        <div class="change"><div class="glyph">R</div><div><div class="ctitle">Wren is now more guarded with Marlowe.</div><div class="ctype">Relationship · Wren → Marlowe</div></div><span class="statebadge effective">EFFECTIVE</span></div>
+      </section>
+
+      <section class="section"><div class="sectionlabel">Still in motion</div><h2>Unresolved continuity</h2><p class="sub">Questions and pressures that remain capable of shaping later scenes.</p>
+        <div class="motion"><strong>Who cut the raft loose?</strong><span>Wren’s accepted claim does not establish objective truth. The underlying event remains unresolved in this prototype.</span></div>
+        <div class="motion"><strong>Can Wren and Marlowe trust one another?</strong><span>The relationship has changed, but this is not a score or prediction of what either Character must do next.</span></div>
+      </section>
+    </div>
+
+    <div class="stack">
+      <section class="section"><div class="sectionlabel">Cause</div><h2>Trace the change back</h2><p class="sub">Selected consequence → authority review → accepted Performance.</p>
+        <div class="source"><div class="sourcehead"><div class="sourcechar" aria-hidden="true"></div><div><div class="sourcewho">Wren</div><div class="sourcewhen">Accepted Performance · selected historical cause</div></div></div><div class="quote">“The rope was already cut when I got here. I didn’t say anything because I thought you’d blame Marlowe first.”</div></div>
+        <div class="trace">
+          <div class="traceitem current"><i></i><div><div class="tracetitle">Relationship consequence became effective</div><div class="tracesub">Creator review approved this consequence before the Take became commit-eligible.</div></div></div>
+          <div class="traceitem"><i></i><div><div class="tracetitle">Take accepted</div><div class="tracesub">Acceptance selected the exact fully evaluated Performance package; it was not history yet.</div></div></div>
+          <div class="traceitem"><i></i><div><div class="tracetitle">History became effective</div><div class="tracesub">The exact accepted Performance and every approved change became effective together.</div></div></div>
+        </div>
+        <button class="linkbtn" id="showPresent">See the changed present <span>→</span></button>
+      </section>
+      <section class="section"><div class="sectionlabel">Current authority</div><h2>The Production did not rewind</h2><p class="sub">History is an orientation over the same Production, not a historical state replacement.</p>
+        <div class="motion"><strong>Current Opportunity</strong><span>None shown. The successful commit consumed the prior opportunity, and this prototype does not invent a next-opportunity transition.</span></div>
+        <div class="motion"><strong>Presentation Perspective</strong><span>Creator perspective remains active while this Production-level history is inspected.</span></div>
+      </section>
+    </div>
+  </div>
+
+  <div class="content"><section class="present" aria-label="Changed present">
+    <div class="cast">
+      <div class="person" style="--c:var(--amber)"><div class="orb"></div><div class="name">Marlowe</div><div class="role">present</div></div>
+      <div class="person" style="--c:var(--blue)"><div class="orb"></div><div class="name">Dr. Voss</div><div class="role">present</div></div>
+      <div class="person" style="--c:var(--green)"><div class="orb"></div><div class="name">Wren</div><div class="role">most recent accepted Performance</div></div>
+    </div>
+    <div class="now"><div class="sectionlabel">Changed present</div><h2>The same Production, after the accepted moment</h2><p>Wren’s accepted Performance remains historical texture. The claim, suspicion, and relationship change accepted with it now shape current state. No new Character action is implied.</p><div class="nowmeta"><span class="nowtag historytag">LAST PERFORMANCE · ACCEPTED HISTORY</span><span class="nowtag">CURRENT OPPORTUNITY · NONE</span><span class="nowtag">PERSPECTIVE · CREATOR</span></div></div>
+  </section></div>
+</main>
+</div>
+<footer class="foot"><span>Prototype story content · not Production canon</span><span>Lane A · Archive Causality 01</span></footer>
+</div>
+<script>
+const setView=v=>{document.body.dataset.view=v;document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active',b.dataset.view===v));};
+document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));
+document.querySelector('#returnCurrent').addEventListener('click',()=>setView('present'));
+document.querySelector('#showPresent').addEventListener('click',()=>setView('present'));
+</script>
+</body>
+</html>
