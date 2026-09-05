@@ -1,0 +1,45 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kymaean O3 Legibility Gate 01</title><style>
+:root{--b:#0c0f13;--p:#14181f;--t:#eee9df;--m:#989188;--l:#303640}*{box-sizing:border-box}body{margin:0;background:var(--b);color:var(--t);font-family:system-ui,"Segoe UI",sans-serif}
+header,main{max-width:1180px;margin:auto}header{padding:28px 24px 18px;border-bottom:1px solid var(--l)}h1{font:500 22px Georgia,serif;margin:0 0 6px}p{font-size:11px;color:var(--m);line-height:1.5;margin:0}main{padding:20px 24px 42px;display:grid;gap:16px}
+.panel{border:1px solid var(--l);border-radius:12px;background:var(--p);overflow:hidden}.head{padding:14px 16px;border-bottom:1px solid var(--l)}.head h2{font:500 15px Georgia,serif;margin:0 0 5px}
+.solo{height:180px;padding:28px;display:flex;align-items:center;background:#101319}.solo .wm{width:620px;max-width:100%}.row{min-height:86px;padding:10px 14px;border-bottom:1px solid var(--l);display:grid;grid-template-columns:55px 220px 1fr;gap:16px;align-items:center}.row:last-child{border-bottom:0}
+.size{font-size:9px;color:#867f77}.live .wm{display:block;width:100%;height:100%}canvas{image-rendering:pixelated;max-width:100%;background:var(--b)}.note{padding:14px 16px;border:1px solid var(--l);border-radius:12px;background:#10141a}
+@media(max-width:700px){.row{grid-template-columns:45px 1fr}.pixel{grid-column:2}}
+</style></head><body>
+<header><h1>KYMÆAN · O3 Legibility Gate 01</h1><p>Executable wordmark-only evidence. Historical Threshold K is intentionally outside this page; contextual authority remains in the preceding Threshold K deployment package.</p></header>
+<main><section class="panel"><div class="head"><h2>O3 · balanced optical hierarchy</h2><p>Custom deterministic vector geometry. No font or logo geometry is embedded.</p></div><div class="solo"><svg class="wm" viewBox="0 0 690 122" role="img" aria-label="KYMÆAN">
+<style>
+.v{fill:none;stroke:currentColor;stroke-width:5.9;stroke-linecap:round;stroke-linejoin:round}
+.d{fill:none;stroke:currentColor;stroke-width:5.35;stroke-linecap:round;stroke-linejoin:round}
+.h{fill:none;stroke:currentColor;stroke-width:4.55;stroke-linecap:round;stroke-linejoin:round}
+.fine{fill:none;stroke:currentColor;stroke-width:2.35;stroke-linecap:round;stroke-linejoin:round;opacity:.7}
+</style>
+<path class="v" d="M30 18L30 104"/><path class="d" d="M33 62L96 18"/><path class="d" d="M33 62L98 104"/>
+<path class="d" d="M118 18L156 62L194 18"/><path class="v" d="M156 62L156 104"/>
+<path class="v" d="M220 104L220 18"/><path class="d" d="M220 18L262 58L304 18"/><path class="v" d="M304 18L304 104"/>
+<path class="d" d="M338 104L376 18"/><path class="d" d="M376 18L400 104"/>
+<path class="h" d="M377 18L432 18"/><path class="h" d="M358 64L414 64"/><path class="h" d="M400 104L432 104"/><path class="fine" d="M414 64L436 64"/>
+<path class="d" d="M462 104L501 18L540 104"/><path class="h" d="M480 64L522 64"/>
+<path class="v" d="M570 104L570 18"/><path class="d" d="M570 18L648 104"/><path class="v" d="M648 104L648 18"/>
+</svg></div></section>
+<section class="panel"><div class="head"><h2>Browser raster probes</h2><p>Live vector at exact CSS height plus canvas raster enlarged with nearest-neighbor display.</p></div><div id="rows"></div></section>
+<div class="note"><p>Static result: 14–16 px puts first pressure on the Æ middle extension; at 18 px and above the ligature is clear in this browser raster. The full word remains intentionally authored without logo support. This is not Windows/device typography validation.</p></div>
+</main><script>
+const source=`<svg class="wm" viewBox="0 0 690 122" role="img" aria-label="KYMÆAN">
+<style>
+.v{fill:none;stroke:currentColor;stroke-width:5.9;stroke-linecap:round;stroke-linejoin:round}
+.d{fill:none;stroke:currentColor;stroke-width:5.35;stroke-linecap:round;stroke-linejoin:round}
+.h{fill:none;stroke:currentColor;stroke-width:4.55;stroke-linecap:round;stroke-linejoin:round}
+.fine{fill:none;stroke:currentColor;stroke-width:2.35;stroke-linecap:round;stroke-linejoin:round;opacity:.7}
+</style>
+<path class="v" d="M30 18L30 104"/><path class="d" d="M33 62L96 18"/><path class="d" d="M33 62L98 104"/>
+<path class="d" d="M118 18L156 62L194 18"/><path class="v" d="M156 62L156 104"/>
+<path class="v" d="M220 104L220 18"/><path class="d" d="M220 18L262 58L304 18"/><path class="v" d="M304 18L304 104"/>
+<path class="d" d="M338 104L376 18"/><path class="d" d="M376 18L400 104"/>
+<path class="h" d="M377 18L432 18"/><path class="h" d="M358 64L414 64"/><path class="h" d="M400 104L432 104"/><path class="fine" d="M414 64L436 64"/>
+<path class="d" d="M462 104L501 18L540 104"/><path class="h" d="M480 64L522 64"/>
+<path class="v" d="M570 104L570 18"/><path class="d" d="M570 18L648 104"/><path class="v" d="M648 104L648 18"/>
+</svg>`, sizes=[14,16,18,22,28], rows=document.getElementById("rows");
+sizes.forEach(sz=>{const w=Math.round(sz*690/122),r=document.createElement("div");r.className="row";r.innerHTML=`<div class="size">${sz}px</div><div class="live" style="width:${w}px;height:${sz}px">${source}</div><div class="pixel"><canvas width="${w}" height="${sz}" style="width:${w*5}px;height:${sz*5}px"></canvas></div>`;rows.appendChild(r);const s=r.querySelector("svg");s.setAttribute("width",w);s.setAttribute("height",sz);const img=new Image();img.onload=()=>r.querySelector("canvas").getContext("2d").drawImage(img,0,0,w,sz);img.src="data:image/svg+xml;charset=utf-8,"+encodeURIComponent(new XMLSerializer().serializeToString(s));});
+</script></body></html>
