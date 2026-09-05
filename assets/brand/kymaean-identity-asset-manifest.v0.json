@@ -1,0 +1,43 @@
+{
+  "schema": "kymaean.identity.assets.v0",
+  "status": "temporary_design_authority",
+  "assets": [
+    {
+      "id": "threshold-k-working-candidate",
+      "file": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+      "authority": "historical_raster_control",
+      "role": "working_symbol_candidate",
+      "final": false,
+      "source_readiness": "deterministic_testing_adapter_ready",
+      "may_use_alone": true,
+      "may_enter_stage_semantics": false
+    },
+    {
+      "id": "o3-balanced-hierarchy",
+      "file": "assets/brand/kymaean-o3-wordmark-temporary-incumbent.svg",
+      "accessible_text": "KYMÆAN",
+      "role": "temporary_wordmark_incumbent",
+      "director_approved": true,
+      "final": false,
+      "source_readiness": "temporary_source_asset_ready",
+      "may_use_alone": true
+    }
+  ],
+  "deployment_laws": {
+    "app_brand_recedes_behind_production": true,
+    "stage_brand_geometry_excluded_from_stage_semantics": true,
+    "website_header_may_use_more_breathing_room": true,
+    "website_hero_may_use_threshold_k_as_prelude": true,
+    "o3_may_appear_without_symbol": true,
+    "universal_fixed_mark_word_ratio": false
+  },
+  "external_validation_open": [
+    "final_symbol_selection",
+    "final_vector_master",
+    "brand_palette_material_system",
+    "trademark",
+    "windows_device_raster",
+    "runtime_accessibility",
+    "packaging_store"
+  ]
+}
