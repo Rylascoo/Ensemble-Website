@@ -1,0 +1,20 @@
+STAGE CONE INTERACTION 01 — STATIC ORACLE
+
+Selected geometry: CONE
+
+Required separations:
+- USER SELECTION != CURRENT OPPORTUNITY
+- USER SELECTION != SPEAKING
+- TAKE A SEAT changes Perspective + Posture, not Character identity
+- RETURN restores Creator + Watch
+- Selection/focus visible treatment is floor/name-local, not a full-cone container
+- Cone remains presence; semantic hit target may be larger than visible feedback
+- Motion timings are NON-AUTHORITATIVE pending Read-Through
+
+Browser interaction assertions observed in the local executable prototype:
+PASS speaking state can be applied independently of selection
+PASS selecting Wren does not add Current Opportunity to Wren
+PASS Take a Seat => Perspective: Wren · Posture: Perform
+PASS Return => Perspective: Creator · Posture: Watch
+
+Validation level: local static/browser design evidence only; not WinUI/device/accessibility-runtime validation.
