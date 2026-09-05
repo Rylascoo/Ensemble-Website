@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kymaean Lane A — Production Entry 01</title>
+<style>
+:root{
+  --bg:#0d0f14;--raised:#14171f;--panel:#191d27;--panel2:#11151c;
+  --line:rgba(255,255,255,.09);--line2:rgba(255,255,255,.055);
+  --text:#e8e6df;--dim:#aaa69c;--muted:#77746d;
+  --bronze:#d8a354;--bronze-soft:rgba(216,163,84,.16);--ok:#92b98e;--warn:#d69d5d;
+  --radius:14px;--radius-sm:9px;
+  --shadow:0 30px 80px rgba(0,0,0,.32);
+}
+*{box-sizing:border-box}html,body{height:100%;margin:0}body{
+  background:
+    radial-gradient(900px 520px at 50% -120px,rgba(216,163,84,.07),transparent 64%),
+    linear-gradient(180deg,#0b0e13,#0d0f14 58%,#0a0d11);
+  color:var(--text);font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+button{font:inherit}.app{min-height:100%;display:grid;grid-template-rows:64px 1fr 44px}.topbar{
+  display:flex;align-items:center;padding:0 28px;border-bottom:1px solid var(--line2);background:rgba(8,11,15,.68);backdrop-filter:blur(18px)
+}
+.brand{font-family:ui-serif,Georgia,serif;font-size:21px;letter-spacing:.015em}.brand-note{margin-left:12px;color:var(--muted);font-size:11px;letter-spacing:.08em;text-transform:uppercase}.top-actions{margin-left:auto;display:flex;gap:8px}.icon-btn,.ghost-btn,.secondary-btn,.primary-btn{
+  border:1px solid var(--line);border-radius:var(--radius-sm);color:var(--text);background:rgba(255,255,255,.02);min-height:38px;padding:0 14px;cursor:pointer
+}
+.icon-btn:focus-visible,.ghost-btn:focus-visible,.secondary-btn:focus-visible,.primary-btn:focus-visible,.state-btn:focus-visible{outline:2px solid var(--text);outline-offset:2px}
+.icon-btn{width:40px;padding:0;color:var(--dim)}.shell{width:min(1240px,calc(100% - 48px));margin:0 auto;padding:72px 0 56px}.eyebrow{
+  font:600 10px/1 ui-monospace,"Cascadia Mono",monospace;letter-spacing:.13em;text-transform:uppercase;color:var(--bronze)
+}
+h1{font-family:ui-serif,Georgia,serif;font-weight:400;font-size:46px;line-height:1.05;margin:16px 0 12px;letter-spacing:-.015em}.lede{margin:0;color:var(--dim);font-family:ui-serif,Georgia,serif;font-size:17px;line-height:1.55;max-width:620px}.heading-row{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:34px}.new-top{white-space:nowrap}.content-grid{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(290px,.75fr);gap:18px}.card{
+  border:1px solid var(--line);border-radius:var(--radius);background:linear-gradient(180deg,rgba(255,255,255,.025),rgba(255,255,255,.012));box-shadow:var(--shadow);overflow:hidden
+}
+.production-card{min-height:360px;display:grid;grid-template-columns:1.08fr .92fr}.production-copy{padding:34px 34px 30px;display:flex;flex-direction:column}.tiny-label{font:600 10px/1 ui-monospace,"Cascadia Mono",monospace;letter-spacing:.1em;color:var(--muted);text-transform:uppercase}.production-title{font-family:ui-serif,Georgia,serif;font-size:34px;font-weight:400;margin:14px 0 8px}.production-desc{font-family:ui-serif,Georgia,serif;color:var(--dim);line-height:1.55;max-width:520px}.scene-block{margin-top:34px;padding-top:20px;border-top:1px solid var(--line2)}.scene-name{font-family:ui-serif,Georgia,serif;font-style:italic;font-size:21px;margin-top:7px}.scene-meta{display:flex;gap:14px;flex-wrap:wrap;margin-top:12px;color:var(--muted);font-size:12px}.scene-meta span{display:inline-flex;gap:6px;align-items:center}.scene-meta span::before{content:"";width:4px;height:4px;border-radius:50%;background:currentColor;opacity:.7}.production-actions{display:flex;gap:9px;margin-top:auto;padding-top:28px}.primary-btn{background:linear-gradient(180deg,#e4b35f,#c68e3d);border-color:#e4b35f;color:#17120b;font-weight:650;box-shadow:0 0 0 1px rgba(255,255,255,.1) inset,0 10px 28px rgba(216,163,84,.12)}.secondary-btn{color:var(--dim)}.production-art{position:relative;min-height:360px;border-left:1px solid var(--line2);overflow:hidden;background:
+  radial-gradient(circle at 62% 42%,rgba(216,163,84,.14),transparent 17%),
+  radial-gradient(ellipse at 50% 105%,rgba(216,163,84,.07),transparent 44%),
+  linear-gradient(145deg,#171c23,#0d1117 65%)}
+.production-art::after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(115deg,transparent 0 19px,rgba(255,255,255,.014) 20px 21px)}.island{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:210px;height:150px;opacity:.86}.orbit{position:absolute;inset:50% auto auto 50%;width:260px;height:260px;transform:translate(-50%,-50%);border:1px solid rgba(216,163,84,.12);border-radius:50%}.orbit::before,.orbit::after{content:"";position:absolute;inset:34px;border:1px solid rgba(216,163,84,.09);border-radius:50%}.orbit::after{inset:72px}.right-card{padding:28px;min-height:360px;display:flex;flex-direction:column}.right-card h2{font-family:ui-serif,Georgia,serif;font-weight:400;font-size:25px;margin:16px 0 10px}.right-card p{color:var(--dim);line-height:1.55;margin:0}.steps{display:grid;gap:11px;margin:28px 0}.step{display:grid;grid-template-columns:28px 1fr;gap:10px;align-items:start;color:var(--dim);font-size:13px}.step-num{width:24px;height:24px;border:1px solid var(--line);border-radius:50%;display:grid;place-items:center;font:600 10px ui-monospace,"Cascadia Mono",monospace;color:var(--bronze)}.right-card .primary-btn{margin-top:auto;width:100%}.status-note{display:flex;align-items:flex-start;gap:10px;margin-top:16px;padding:12px 13px;border:1px solid var(--line2);border-radius:9px;background:rgba(255,255,255,.015);color:var(--muted);font-size:12px;line-height:1.45}.status-dot{margin-top:4px;width:7px;height:7px;border-radius:50%;background:var(--ok);box-shadow:0 0 0 3px rgba(146,185,142,.08);flex:0 0 auto}
+.empty-state{display:none;min-height:430px;place-items:center;text-align:center;padding:60px}.empty-state .empty-inner{max-width:520px}.empty-glyph{width:74px;height:74px;margin:0 auto 22px;position:relative}.empty-glyph span{position:absolute;width:26px;height:26px;border:1px solid rgba(216,163,84,.7)}.empty-glyph .a{border-radius:50%;left:4px;top:23px}.empty-glyph .b{transform:rotate(45deg);right:5px;top:23px}.empty-glyph .c{clip-path:polygon(50% 0,100% 100%,0 100%);background:rgba(216,163,84,.08);border:1px solid rgba(216,163,84,.7);left:24px;bottom:0}.empty-state h2{font-family:ui-serif,Georgia,serif;font-weight:400;font-size:30px;margin:0 0 10px}.empty-state p{color:var(--dim);line-height:1.6;margin:0 auto 24px}.offline-banner{display:none;margin-bottom:18px;padding:14px 16px;border:1px solid rgba(214,157,93,.3);border-radius:10px;background:rgba(214,157,93,.07);color:#d7b487;font-size:13px}.offline-banner strong{color:#e5c69d}.prototype-controls{margin-top:24px;display:flex;align-items:center;gap:8px;color:var(--muted);font-size:11px}.state-btn{border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:999px;padding:6px 10px;cursor:pointer}.state-btn[aria-pressed="true"]{color:var(--text);background:var(--panel);border-color:rgba(216,163,84,.3)}
+.footer{border-top:1px solid var(--line2);display:flex;align-items:center;padding:0 28px;color:var(--muted);font:500 10px ui-monospace,"Cascadia Mono",monospace;letter-spacing:.07em;text-transform:uppercase}.local{display:flex;align-items:center;gap:8px}.local::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--ok)}.version{margin-left:auto}
+body[data-state="empty"] .content-grid{display:none}body[data-state="empty"] .empty-state{display:grid}body[data-state="empty"] .new-top{display:none}body[data-state="offline"] .offline-banner{display:block}
+@media(max-width:880px){.shell{padding-top:46px}.heading-row{align-items:start;flex-direction:column}.content-grid{grid-template-columns:1fr}.production-card{grid-template-columns:1fr}.production-art{display:none}.brand-note{display:none}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+</style>
+</head>
+<body data-state="returning">
+<div class="app">
+  <header class="topbar">
+    <div class="brand">Kymaean</div><div class="brand-note">Lane A prototype</div>
+    <div class="top-actions"><button class="ghost-btn">Import Production</button><button class="icon-btn" aria-label="Application settings">⚙</button></div>
+  </header>
+  <main class="shell">
+    <div class="heading-row">
+      <div><div class="eyebrow">Production Library</div><h1>Your Productions</h1><p class="lede">Return to a living world or begin another. A Production keeps its cast, circumstances, continuity, and accepted history together.</p></div>
+      <button class="primary-btn new-top">＋ New Production</button>
+    </div>
+
+    <div class="offline-banner" role="status"><strong>Generation is unavailable.</strong> Your local Productions remain available to open, inspect, and edit. Performance actions will stay unavailable until a configured provider is reachable.</div>
+
+    <section class="content-grid" aria-label="Production entry">
+      <article class="card production-card">
+        <div class="production-copy">
+          <div class="tiny-label">Last opened · Production</div>
+          <div class="production-title">Gilligan’s Isle</div>
+          <div class="production-desc">A stranded crew unravels as a vital raft goes missing and suspicion turns the island against itself.</div>
+          <div class="scene-block">
+            <div class="tiny-label">Current continuity</div>
+            <div class="scene-name">The Missing Raft</div>
+            <div class="scene-meta"><span>Scene ended</span><span>23 exchanges</span><span>3 threads still in motion</span></div>
+          </div>
+          <div class="production-actions"><button class="primary-btn">Open Production</button><button class="secondary-btn">Open Archive</button></div>
+        </div>
+        <div class="production-art" aria-hidden="true">
+          <div class="orbit"></div>
+          <svg class="island" viewBox="0 0 210 150" fill="none">
+            <path d="M35 105c17-8 24-26 38-31 13-5 25-1 37-16 10-12 12-31 25-38 13 16 14 34 27 43 12 8 19 23 23 42H35Z" fill="rgba(216,163,84,.12)" stroke="rgba(216,163,84,.56)"/>
+            <path d="M28 108c42 5 78 5 156 0M42 119c50 4 88 4 132 0M60 130c36 3 66 3 99 0" stroke="rgba(232,230,223,.13)"/>
+            <circle cx="136" cy="48" r="3" fill="#d8a354"/><circle cx="136" cy="48" r="13" stroke="rgba(216,163,84,.18)"/>
+          </svg>
+        </div>
+      </article>
+
+      <aside class="card right-card">
+        <div class="tiny-label">Begin another world</div>
+        <h2>New Production</h2>
+        <p>Start with people and a situation. Performer configuration can wait until you are ready to stage a scene.</p>
+        <div class="steps"><div class="step"><div class="step-num">1</div><div>Establish the Production and its cast.</div></div><div class="step"><div class="step-num">2</div><div>Shape what is true, known, wanted, and under pressure.</div></div><div class="step"><div class="step-num">3</div><div>Raise the curtain when the conditions are ready.</div></div></div>
+        <button class="primary-btn">Create Production</button>
+        <div class="status-note"><span class="status-dot"></span><span>Provider setup is not required to create, open, or inspect a Production.</span></div>
+      </aside>
+    </section>
+
+    <section class="card empty-state" aria-label="Empty Production library">
+      <div class="empty-inner"><div class="empty-glyph" aria-hidden="true"><span class="a"></span><span class="b"></span><span class="c"></span></div><div class="tiny-label">No Productions yet</div><h2>Begin with people, not machinery.</h2><p>Create a Production to establish a cast, a world, and the circumstances that might set something in motion. You can configure performers later.</p><button class="primary-btn">Create your first Production</button></div>
+    </section>
+
+    <div class="prototype-controls" aria-label="Prototype state controls"><span>Prototype state:</span><button class="state-btn" data-set="returning" aria-pressed="true">Returning</button><button class="state-btn" data-set="empty" aria-pressed="false">First run</button><button class="state-btn" data-set="offline" aria-pressed="false">Offline</button></div>
+  </main>
+  <footer class="footer"><div class="local">Local-first · changes stay under your control</div><div class="version">Production entry study · 01</div></footer>
+</div>
+<script>
+const controls=[...document.querySelectorAll('[data-set]')];
+for(const button of controls){button.addEventListener('click',()=>{document.body.dataset.state=button.dataset.set;for(const item of controls)item.setAttribute('aria-pressed',String(item===button));});}
+</script>
+</body>
+</html>
