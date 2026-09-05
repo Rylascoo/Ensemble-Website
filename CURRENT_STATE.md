@@ -6,7 +6,7 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTEXT_DEPLOYMENT_01.md` -> relevant evidence -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` -> `docs/KYMAEAN_LANE_B_THRESHOLD_K_CONTEXT_DEPLOYMENT_01.md` -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A — static/executable reference closed
 
