@@ -6,7 +6,7 @@ Date: 2026-09-05
 
 ## Purpose
 
-Add the missing live-authority transition to the revived O0 product family without creating a new module:
+Add the missing live-authority transition inside the revived O0 Stage:
 
 ```text
 Candidate Performance
@@ -17,128 +17,56 @@ Candidate Performance
 -> history + changed current state
 ```
 
-The surface remains part of the live Production/Stage experience.
+## Authority contract
 
-## Exact authority basis
-
-The current deterministic spine requires these distinctions:
-
-- CandidatePerformance is provisional Performer output.
-- State Authority decides each proposed consequence as Approved / Rejected / RequiresReview.
-- Hard deterministic rejection is unwaivable.
-- Explicit creator/authorized review may approve or reject reviewable mutations.
-- `Approved` means commit-eligible, not already true/effective.
-- A Take may bind only after State Authority is terminal Complete with no RequiresReview decision.
-- Take disposition is independent from consequence disposition.
-- Accepted Take is selected for later commit; it is not yet history merely because it is Accepted.
-- A successful atomic causal commit makes the exact Accepted Performance and every Approved consequence effective together.
+- Candidate Performance is provisional and must read as **not history**.
+- State Authority decides consequences as Approved / Rejected / RequiresReview.
+- Hard rejection is unwaivable; explicit review may resolve reviewable consequences.
+- Approved means commit-eligible, not already true.
+- A Take exists only after consequence review is terminal.
+- Take disposition and consequence disposition are independent.
+- Acceptance alone is not history; successful atomic commit makes the exact Accepted Performance plus every Approved consequence effective together.
 - Rejected consequences remain non-effective provenance.
-- Rejected / Alternate / failed-before-Take / Accepted-but-failed-commit material remains non-effective.
-- Successful commit consumes the current opportunity; rejected/request-another material does not silently become opportunity history.
+- Rejected / Another Take material remains non-effective; successful commit consumes the current opportunity.
 
-ODR-19 still leaves final product acceptance modes open. This prototype therefore tests one **Review-oriented** creator surface without freezing Autopilot / Review / Strict Creator or equivalent modes.
+ODR-19 remains open. This tests a Review-oriented surface without freezing final acceptance modes.
 
 ## Surface thesis
 
 > **Review consequence, not prose.**
 
-The creator sees the exact candidate Performance in the living Stage, visibly marked:
+The exact candidate remains visible in the living Stage as `CANDIDATE · NOT HISTORY`. The adjacent surface answers **What would change if this becomes history?** rather than asking the creator to rewrite, score, or inspect model reasoning.
 
-> `CANDIDATE · NOT HISTORY`
+Consequence rows demonstrate: already-terminal Approved; explicit-review required; and explicitly Rejected while the Performance can still be accepted. Human-facing wording must never imply a proposal is already true.
 
-The adjacent review surface answers:
+## Actions
 
-> **What would change if this Take becomes history?**
+**Accept Take** — disabled until every consequence is terminal. Success UI appears only after atomic commit succeeds, then the Performance becomes `ACCEPTED · HISTORY` and the consumed opportunity is no longer shown as current.
 
-It does not ask the creator to edit/model-score the Performance or expose engine diagnostics by default.
+**Reject Take** — Performance and proposed consequences remain non-effective; rejection is creator/application authority, not fiction.
 
-## Consequence presentation
+**Another Take** — keeps the candidate out of history and requests another Performance. The prototype deliberately does not equate this UI phrase with `E0TakeDisposition.Alternate`; branch/rehearsal retention remains open.
 
-The prototype demonstrates three distinct cases:
+## O0 refinement
 
-1. **Policy-approved consequence** — already terminal Approved, but still non-effective.
-2. **Explicit-review consequence** — cannot proceed to a Take until the creator resolves it.
-3. **Explicitly rejected consequence** — may remain provenance while an otherwise valid Performance can still become an Accepted Take.
+Preserved: dark restrained Stage, cast-first composition, Character accents, current-opportunity cue, readable recent Performance, restrained controls, serif Performance text and quiet authority labels.
 
-The UI must never imply that a proposed consequence is true merely because it appears in review.
+Corrected from O0: no provider-as-identity metadata; opportunity separated from identity; proposed/effective authority explicit; consequence review appears progressively rather than as permanent dashboard chrome.
 
-A reviewable consequence uses human-facing semantic language while retaining exact underlying authority. No confidence meters, numeric psychology, model rationale, provider identity or hidden reasoning are shown.
+## Semantic/accessibility requirements
 
-## Take actions
+Candidate/history/rejected meaning is textual, not color-only. Character identity and Current Opportunity are explicitly named. Keyboard focus is visible; reduced-motion removes transition dependence. No WinUI, screen-reader, forced-colors or device validation is claimed.
 
-### Accept Take
+## Executable evidence
 
-Available only after every consequence decision is terminal.
+`prototypes/lane-a/take-acceptance-01.html` contains five states: Needs Review, Ready, Committed, Rejected, Another Take. Prototype story content is non-canon.
 
-Before commit, the candidate remains visually non-history.
+## Audit corrections
 
-A success confirmation may appear only after the atomic commit succeeds. The successful state changes the Performance marker to:
+The iterative render audit corrected: hidden consequence rows; committed Performance still labeled candidate; stale Current Opportunity after commit; relationship wording that overclaimed observation; and approved-count drift after rejecting a consequence.
 
-> `ACCEPTED · HISTORY`
+Final bounded result: **no material authority contradiction found within prototype scope.**
 
-and no longer presents the consumed opportunity as current.
+## Next implication
 
-### Reject Take
-
-The Performance and all proposed consequences remain non-effective. Rejection is application/creator authority, not a fictional event inside the Production.
-
-The existing opportunity remains effective unless later product authority establishes another transition.
-
-### Another Take
-
-User-facing action proposal:
-
-> keep the current candidate out of history and request another Performance.
-
-This prototype deliberately does **not** equate the button automatically with `E0TakeDisposition.Alternate`; final rehearsal/branch/alternate-retention UX remains open. The engine's Alternate disposition and the creator phrase `Another Take` may later map together, but that is a separate product decision.
-
-## O0 reintegration
-
-The prototype preserves O0 lineage through:
-
-- dark restrained Stage;
-- cast-first composition;
-- Character-specific accent ancestry;
-- current-opportunity cue;
-- readable recent Performance;
-- restrained creator controls;
-- serif Performance language + quiet monospaced authority labels.
-
-Later design laws correct O0 by keeping provider identity absent, separating opportunity from identity, making proposed-vs-effective authority explicit, and treating consequence review as progressive context rather than a permanent dashboard.
-
-## Accessibility / semantics
-
-- Candidate / history / rejected meaning is textual, not color-only.
-- Current Opportunity has explicit text.
-- Character identity remains named; color is redundant decoration only.
-- Controls have visible keyboard focus.
-- reduced-motion media query removes animation/transition dependence.
-- no real WinUI/screen-reader/high-contrast validation is claimed.
-
-## Rendered states
-
-`prototypes/lane-a/take-acceptance-01.html` supports:
-
-- Needs review;
-- Ready for Take decision;
-- Committed;
-- Rejected;
-- Another Take requested.
-
-Prototype content is explicitly non-canon.
-
-## Recursive audit corrections
-
-1. Initial review render accidentally hid the consequence list because shared-state CSS classes conflicted; corrected and re-rendered.
-2. Initial committed state still labeled the Performance `Candidate · not history`; corrected to accepted history.
-3. Initial committed state still labeled Wren as Current Opportunity; corrected because successful commit consumes it.
-4. Relationship example originally used `observation` language that could overstate epistemic authority; corrected to refer to the admitted/withheld claim instead.
-5. Explicitly rejecting the relationship consequence now reduces the accepted-consequence count instead of leaving a false `3 approved` summary.
-
-Final rendered pass: **no material authority contradiction found within this prototype scope.**
-
-## Next design implication
-
-The Stage now has a coherent authority bridge from provisional Performance to causal history.
-
-The next refinement should connect the successful committed state into the revived O0 Archive / changed-present loop, without inventing the next Current Opportunity transition before the application architecture authorizes it.
+Connect successful commit into O0 Archive / changed-present causality without inventing a next Current Opportunity transition before application authority defines it.
