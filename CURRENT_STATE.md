@@ -6,7 +6,7 @@ Updated: 2026-09-06
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> criteria approval evidence -> Hero Renderer Method Director Authorization/Approval -> renderer method -> renderer audit/status reconciliation -> Renderer Cartography phase reconciliation -> corrected/re-frozen Hero Integration Harness 01 -> Round 01 specification/packet/package approval -> Round 01 evaluation -> Round 01 provenance + harness-correction approval -> Harness correction completion -> Round 01 harness completion -> Round 02 Candidate Specification -> Sterile Renderer Packet 02 -> Pre-Render Review Package 02 -> Round 02 recursive audit -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> criteria approval evidence -> Hero Renderer Method Director Authorization/Approval -> renderer method -> renderer audit/status reconciliation -> Renderer Cartography phase reconciliation -> corrected/re-frozen Hero Integration Harness 01 -> Round 01 specification/packet/package approval -> Round 01 evaluation -> Round 01 provenance + harness-correction approval -> Harness correction completion -> Round 01 harness completion -> Round 02 Candidate Specification -> Sterile Renderer Packet 02 -> Pre-Render Review Package 02 -> Round 02 recursive audit -> Round 02 Director approval -> Round 02 execution-integrity defect -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A / brand
 
@@ -91,16 +91,15 @@ Interpretation: Round 01 successfully escaped the historical-domestic ordinary-t
 
 One failed round alone does not trigger the frozen early stop.
 
-## Hero Pre-Render Review Package 02
-
-Round 02 package is now **COMPLETE / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED / NO RENDER AUTHORIZED**.
+## Hero Pre-Render Review Package 02 — DIRECTOR APPROVED
 
 Components:
 
 - `docs/KYMAEAN_HERO_QUALIFYING_ROUND_02_CANDIDATE_SPECIFICATION.md`;
 - `docs/KYMAEAN_HERO_STERILE_RENDERER_PACKET_02.md`;
 - `docs/KYMAEAN_HERO_PRE_RENDER_REVIEW_PACKAGE_02.md`;
-- audit: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_02_RECURSIVE_AUDIT.md`.
+- audit: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_02_RECURSIVE_AUDIT.md`;
+- approval: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_02_DIRECTOR_APPROVAL.md`.
 
 Drive mirror folder: `Hero Pre-Render Review Package 02`.
 
@@ -121,21 +120,29 @@ Round 02 is planned to differ on all four frozen dimensions:
 
 Actual returned output determines whether material difference is established; packet intent alone does not.
 
-### Recursive audit
+### Director approval boundary
 
-First pass found one worthwhile issue: direct contact could become an emotional/symbolic climax and let sentiment substitute for causality. The exact packet was corrected to make contact an understated physical fact and forbid posture/expression from carrying required meaning.
+The Director approved the complete Round 02 package after reviewing the substantive Candidate Specification, exact sterile renderer-facing text, material-difference declaration, recursive audit, and early-stop consequence.
 
-A complete second pass found no remaining material correction or worthwhile improvement that changes the approval recommendation.
+That approval authorizes exactly one **isolated** Round 02 renderer execution under Hero Renderer Method 01. Approval itself does not consume a round.
 
-Audit recommendation: **APPROVE PACKAGE 02**.
+## Round 02 execution-integrity defect — OUTPUT NON-QUALIFYING
 
-### Consequential early-stop boundary
+After Package 02 approval, the design-governance project chat itself invoked image generation. That execution violated the frozen Renderer Isolation requirement and the packet's fresh regular non-project execution requirement.
 
-If an approved Round 02 produces a judgeable output that is actually materially different from Round 01 and repeats **any same frozen hard requirement failure**, the project immediately enters:
+Evidence: `docs/evidence/HERO_QUALIFYING_ROUND_02_EXECUTION_INTEGRITY_DEFECT_01.md`.
 
-**CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED**
+The resulting project-chat image is contaminated/non-qualifying process evidence only. It does **not**:
 
-A third round is not automatic.
+- consume Round 02;
+- advance the qualifying counter;
+- establish actual material difference from Round 01;
+- trigger the two-round suspected-unsatisfiable stop;
+- justify Round 03 or criteria/method revision.
+
+Any chat-only Round 02 scores, early-stop conclusion, or reconciliation reasoning derived from that contaminated output is non-authoritative and must not be promoted into project law.
+
+Because the original Director approval authorized exactly one isolated execution and a nonconforming generation occurred instead, replacement execution authority must not be silently assumed. Director disposition is required before a proper replacement Round 02 execution.
 
 ## Guards / next
 
@@ -147,16 +154,24 @@ Qualifying counter = **1 / 3**.
 
 Round 01 = COMPLETE / FAIL.
 
-Hero Pre-Render Review Package 02 = **COMPLETE / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED**.
+Hero Pre-Render Review Package 02 = **DIRECTOR APPROVED**.
 
-Round 02 Candidate Specification = NOT YET DIRECTOR APPROVED.
+Round 02 Candidate Specification = DIRECTOR APPROVED as part of Package 02.
 
-Sterile Renderer Packet 02 = NOT YET DIRECTOR APPROVED / DO NOT EXECUTE.
+Sterile Renderer Packet 02 = DIRECTOR APPROVED as part of Package 02.
 
-Round 02 render = NOT AUTHORIZED.
+Project-context Round 02 image = **NON-QUALIFYING / CONTAMINATED PROCESS EVIDENCE**.
+
+Proper isolated Round 02 execution = NOT YET COMPLETED.
+
+Round 02 qualifying result = NONE.
+
+Suspected-unsatisfiable stop = NOT TRIGGERED.
 
 Third qualifying render = NOT AUTHORIZED.
 
+Hero causality reconciliation = NOT CURRENTLY REQUIRED by qualifying evidence; chat-only reconciliation reasoning after the contaminated output is non-authoritative.
+
 Final hero, final style/palette, implementation, motion and Lane A change = NOT AUTHORIZED.
 
-Exact next gate: Director **APPROVE / CORRECT / REJECT HERO PRE-RENDER REVIEW PACKAGE 02** after examining the substantive specification, exact renderer-facing text, material-difference declaration and early-stop consequence. Approval would authorize exactly one isolated Round 02 renderer request. Approval itself leaves the counter at 1 / 3 until a judgeable output returns.
+Exact next gate: Director disposition on whether to authorize **one replacement isolated Round 02 execution** using the already-approved exact Sterile Renderer Packet 02 in a fresh regular non-project image-capable context. No packet change is implied by this correction.
