@@ -6,36 +6,55 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Hero Candidate 01 -> Stage-Inspired Visual Physics 01 -> Hero Candidate 02 -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Candidate 01 -> Stage-Inspired Visual Physics -> Candidate 02 -> G1 integration/replication gates -> app `CURRENT_STATE.md` before engineering claims.
 
-## Lane A
+## Lane A / brand
 
-O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`. Motion timing remains unfrozen pending Read-Through.
-
-## Brand / Website V0
+O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. Lane A untouched.
 
 Historical **Threshold K** remains non-final working symbol candidate/control. **O3 Balanced Hierarchy** remains Director-approved temporary wordmark incumbent/source.
 
-**Quiet Stage**, **Site Spine 01**, and **Mineral Theater** remain Director-approved temporary authority. Approved deterministic grammars: **Bounded Chorus**, **Causal Scar**, **Posture Proximity**.
+## Website V0
 
-## Stage-Inspired Visual Physics
-
-Director-approved temporary website-art laws: presence = local law of shared space; identity continuity may use repeatable matter/space behavior without replacing the person; consequence = field fails to return to neutral; relationship changes another's available space; impossible presence stays grounded; Stage = meaningful emptiness; transformation stays human-first; color is redundant.
+**Quiet Stage**, **Site Spine 01**, **Mineral Theater**, **Bounded Chorus**, **Causal Scar**, and **Posture Proximity** remain temporary approved authority.
 
 ## Hero Candidate 02
 
-Three isolated renders evaluated with 4:5 crop, desktop copy-zone and G4 pressure.
+G1 Residual Presence is Director-approved as the **sole Batch-02 semantic survivor** for controlled hero integration. G2/G3 do not advance. No renderer refinement, merge or Candidate 03.
 
-- **G1 Residual Presence — PASS / SOLE SEMANTIC SURVIVOR.** Earlier human cause is recoverable; residual floor condition changes another person's usable space; causal cluster survives mobile and leaves desktop copy zone quiet. Surface remains generic rustic/historical realism.
-- **G2 Shared Pressure Field — FAIL C.** Strongest shared-substrate behavior; prior human cause not recoverable enough.
-- **G3 Translated Identity — FAIL C.** Successful person-to-material continuity; prior human cause not recoverable enough.
+Controlled integration behind Threshold K + O3 in Mineral Theater:
+- desktop identity coexistence PASS;
+- semantic survival PASS;
+- 390px crop PASS;
+- Mineral Theater compatibility PASS;
+- surface ownership FAIL: image still reads as conventional historical-domestic spill/cleanup.
 
-G1 is **not final hero art**. Do not refine it in renderer yet. Do not merge G2/G3 into it. Do not launch Candidate 03 yet.
+G1 remains **not final art**.
+
+## Residual Presence status
+
+The law remains **PROVISIONAL**, because G1/G2/G3 reused essentially one blocking family.
+
+Director requires exactly one different-composition replication before general promotion:
+- exactly 2 adults;
+- no child / elder-in-doorway;
+- different spatial logic/material behavior;
+- completed act, not act-in-progress.
+
+Pre-render scoring is frozen in `docs/KYMAEAN_RESIDUAL_PRESENCE_REPLICATION_GATE_01.md`. All R1-R12 must pass; no compensating average.
+
+TEO transfer: temporal comparison supports authorship/persistence/changed possibility. Current design inference: a still may encode elapsed causal time when **the act is already complete and the world visibly retains its consequence**.
+
+## Surface gate
+
+Before any surface-divergence prompt, `docs/KYMAEAN_HERO_SURFACE_ESCAPE_GATE_01.md` freezes the hard falsification criterion:
+
+**ORDINARY TASK TABLEAU MUST BE ABSENT.**
+
+If removing the impossible/material physics leaves a coherent conventional period/domestic/work genre tableau, surface escape FAILS.
 
 ## Guards / next
 
 Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority.
 
-Status: **G1 RECOMMENDED FOR DIRECTOR REVIEW AS SOLE BATCH-02 SEMANTIC SURVIVOR.**
-
-Proposed next action if approved: controlled G1 website-hero integration behind O3 + Threshold K in Mineral Theater context. If semantics survive but the historical-domestic surface remains too generic, solve **surface divergence around proven Residual Presence**, not causality again.
+Next: run exactly one isolated Residual Presence replication from the frozen renderer packet. Do not start surface divergence until replication result is known.
