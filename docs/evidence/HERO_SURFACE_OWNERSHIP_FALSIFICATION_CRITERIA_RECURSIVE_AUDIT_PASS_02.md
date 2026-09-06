@@ -1,19 +1,21 @@
 # Hero Surface Ownership Falsification Criteria — Recursive Audit Pass 02
 
-Status: CLEAN PASS / NO MATERIAL CORRECTION
+Status: HISTORICAL PRE-APPROVAL CLEAN PASS / SUPERSEDED BY DIRECTOR REVIEW CORRECTION
 Date: 2026-09-06
 
-Second complete pass checked the corrected criteria, authorization correction, current-state boundary, and fresh-chat handoff against one another.
+This pass checked the then-current criteria, authorization correction, current-state boundary, and fresh-chat handoff against one another before Director review.
 
-Result:
+Result at that point:
 - no authority mismatch;
 - no lost Hero Brief 02 floor;
 - no averaging path;
 - no contradiction with ODR-33;
 - no conflict with Surface Escape;
-- stop-condition trigger and three-round ceiling agree across artifacts;
-- `materially different` has the same bounded definition everywhere it is used for stop evidence;
-- next gate is criteria review only;
-- no downstream method/render authorization is implied.
+- stop-condition trigger and three-round ceiling agreed across artifacts;
+- `materially different` had the same bounded definition everywhere it was used for stop evidence;
+- next gate was criteria review only;
+- no downstream method/render authorization was implied.
 
-Verdict: **CLEAN PASS — NO MATERIAL CORRECTION OR WORTHWHILE IMPROVEMENT REMAINS WITHIN AUTHORIZED SCOPE.**
+Director review subsequently found one worthwhile S3 clarification: candidates are not required to instantiate every Mineral Theater material role; every material/surface signal actually used must obey the approved role discipline. That bounded correction was approved and is recorded in `HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md`.
+
+This file therefore remains historical evidence of the pre-approval audit and is not the final freeze authority.
