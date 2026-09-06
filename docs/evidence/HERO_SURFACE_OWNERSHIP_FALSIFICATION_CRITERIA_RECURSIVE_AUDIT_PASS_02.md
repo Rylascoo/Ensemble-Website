@@ -16,6 +16,8 @@ Result at that point:
 - next gate was criteria review only;
 - no downstream method/render authorization was implied.
 
-Director review subsequently found one worthwhile S3 clarification: candidates are not required to instantiate every Mineral Theater material role; every material/surface signal actually used must obey the approved role discipline. That bounded correction was approved and is recorded in `HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md`.
+Director review subsequently found one worthwhile S3 clarification: candidates are not required to instantiate every Mineral Theater material role; every material/surface signal actually used must obey the approved role discipline. That bounded correction was approved.
 
-This file therefore remains historical evidence of the pre-approval audit and is not the final freeze authority.
+Final freeze authority: `docs/evidence/HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md` plus the corrected criteria file.
+
+This file remains historical evidence of the pre-approval audit and is not the final freeze authority.
