@@ -33,22 +33,14 @@ H-A / H-B / H-C are archived. **NO CANDIDATE ADVANCES.** H-A is prop-led; H-B fa
 
 ## Stage-Inspired Visual Physics 01
 
-Director approved pausing Batch 02 to mine historical Stage/O0 work as **inspiration, not incumbent surface**.
+**DIRECTOR APPROVED.** Historical Stage/O0 work remains inspiration, not incumbent surface.
 
-Proposed website-art physics:
-1. presence = local law of shared space;
-2. material/spatial behavior may support identity continuity without replacing the person;
-3. consequence = field does not fully return to neutral;
-4. relationship = one presence changes another's available space;
-5. impossible presence stays grounded;
-6. Stage = meaningful emptiness around people, not literal scenery;
-7. transformation stays human-first;
-8. color is redundant support only.
+Approved physics: presence = local law of shared space; material/spatial behavior may support identity continuity without replacing the person; consequence = field fails to return to neutral; relationship changes another's available space; impossible presence stays grounded; Stage = meaningful emptiness, not scenery; transformation stays human-first; color is redundant support only.
 
-Hypotheses: **G1 Residual Presence**, **G2 Shared Pressure Field**, **G3 Translated Identity**, **G4 Occluded Chorus** as evaluation pressure.
-
-Status: **SYNTHESIS COMPLETE / DIRECTOR REVIEW REQUIRED.**
+Approved experiment: **G1 Residual Presence**, **G2 Shared Pressure Field**, **G3 Translated Identity**. **G4 Occluded Chorus** = evaluation pressure only.
 
 ## Guards / next
 
-Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority. Do not generate Batch 02 yet. Proposed next gate: approve the eight laws and use **G1/G2/G3** as sterile renderer packets. Actor + affected person + changed evidence must fit one 4:5-safe cluster; left desktop copy zone remains quiet/expendable.
+Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority.
+
+Renderer packets are prepared. Execute G1/G2/G3 in three separate fresh regular non-project renderer chats, one image each. Historical images stay out. Actor + affected person + changed evidence must fit one 4:5-safe cluster; left desktop copy zone remains quiet/expendable. Archive raw outputs, evaluate independently, test crop/identity zone, then compare and stop at Director review.
