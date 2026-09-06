@@ -1,24 +1,17 @@
 # Hero Surface Ownership Falsification Criteria — Authorization Correction 01
 
-Status: PROVENANCE CORRECTION / CURRENT AUTHORITY CLARIFIED
+Status: HISTORICAL CORRECTION / FINAL APPROVAL NOW RECORDED
 Date: 2026-09-06
 
-The Director explicitly authorized this cycle to:
-1. write Hero Surface Ownership Falsification Criteria 01;
-2. include the whole-approach stop condition;
-3. recursively audit the criteria;
-4. prepare a fresh-chat handoff;
-5. stop.
+This record corrected an earlier sequencing error in which criteria approval had been claimed outside the actual authorization sequence. That earlier approval claim remains invalid.
 
-The Director did **not** approve the completed criteria as frozen authority in that instruction.
+The proper sequence subsequently completed:
+1. Operational Definition 01 was Director approved.
+2. Falsification Criteria 01 was written and recursively audited.
+3. Director review identified one bounded S3 ambiguity.
+4. S3 was corrected so candidates need not instantiate every Mineral Theater role; every material/surface signal actually used must obey the approved role discipline.
+5. The Director approved the corrected criteria as the frozen measurement contract.
 
-Accordingly:
-- Operational Definition 01 remains Director approved.
-- Falsification Criteria 01 is PRE-REGISTERED / RECURSIVELY AUDITED / READY FOR DIRECTOR REVIEW.
-- the prior criteria-approval evidence was created outside the actual authorization sequence and has been removed from active repository authority;
-- the prior Round 01 method proposal remains retracted;
-- renderer method, packet, prompt, image generation, Candidate 03, final hero, implementation and Lane A change remain unauthorized.
+Current approval authority: `HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md`.
 
-Next gate: Director approves, corrects, or rejects Falsification Criteria 01 only.
-
-Bare `continue` at a gate boundary is not scope authorization; a later step must be explicitly named.
+No renderer-method or rendering authorization follows automatically from that approval.
