@@ -10,4 +10,4 @@ Current authority:
 - `docs/evidence/HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md`
 - `CURRENT_STATE.md`
 
-No renderer-method or rendering authorization is implied.
+No renderer-method or rendering authorization is implied. Any next renderer-method step requires separate explicit Director authorization.
