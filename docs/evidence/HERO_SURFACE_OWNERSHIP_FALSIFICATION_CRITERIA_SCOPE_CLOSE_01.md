@@ -1,14 +1,12 @@
-# Hero Surface Ownership Falsification Criteria — Authorized Scope Close 01
+# Hero Surface Ownership Falsification Criteria — Scope Close 01
 
-Status: AUTHORIZED WORK COMPLETE / STOP AT DIRECTOR REVIEW
+Status: CLOSED / DIRECTOR APPROVED / FROZEN
 Date: 2026-09-06
 
-The explicitly authorized work is complete:
-- criteria written;
-- whole-approach stop condition included;
-- recursive audits completed through a clean pass;
-- fresh-chat handoff prepared.
+The criteria-review scope is complete.
 
-No work beyond that authorization has been performed.
+Director decision: correct S3 to clarify that candidates need not instantiate every Mineral Theater material role; every material/surface signal actually used must obey the approved role discipline. The corrected Falsification Criteria 01 is frozen as the measurement contract.
 
-Current next action is not a design-development action. It is Director review of the completed criteria only.
+Final approval authority: `HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md`.
+
+No renderer method, packet, prompt, image generation, Candidate 03, final hero, final style system or Lane A change is authorized by this closure.
