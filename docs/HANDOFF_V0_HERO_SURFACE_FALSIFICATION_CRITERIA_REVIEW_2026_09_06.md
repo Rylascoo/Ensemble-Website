@@ -1,62 +1,24 @@
 # HANDOFF — V0 HERO SURFACE FALSIFICATION CRITERIA REVIEW
 
 Date: 2026-09-06
-Status: FRESH-CHAT TRANSITION / CRITERIA REVIEW GATE
+Status: HISTORICAL / REVIEW GATE COMPLETED
 
-## Mission
+## Closure
 
-Resume Kymaean website visual-design work from the audited surface-ownership measurement contract. Do not advance into renderer method or image generation.
+This fresh-chat transition completed its sole authorized decision gate.
 
-## Read first
+The Director reviewed Falsification Criteria 01, approved one bounded S3 correction, and approved the corrected contract as the frozen measurement contract.
 
-1. `CURRENT_STATE.md`
-2. `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_OPERATIONAL_DEFINITION_01.md`
-3. `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md`
-4. `docs/evidence/HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_RECURSIVE_AUDIT_01.md`
-5. `docs/KYMAEAN_LANE_B_WEBSITE_V0_HERO_ARTWORK_BRIEF_02.md`
-6. frozen Hero Surface Escape Gate 01 from canonical Drive continuity
-7. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product/engineering truth and boundaries.
+S3 now clarifies that a candidate is not required to instantiate every Mineral Theater material role; every material/surface signal actually used must obey the approved role discipline.
 
-## Current authority
+Final approval authority:
+`docs/evidence/HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md`
 
-- ODR-33 RESOLVED: hero carries human presence, changed shared condition, living consequence and altered present possibility; exact authorship/commit causality belongs later in deterministic site sections.
-- Operational Definition 01: DIRECTOR APPROVED.
-- Falsification Criteria 01: PRE-REGISTERED + RECURSIVELY AUDITED; **AWAITING DIRECTOR REVIEW/APPROVAL**.
-- Surface Escape remains an independent hard gate.
-- G1/R1/A1 remain evidence, not incumbents.
-- Lane A unchanged.
+Current state:
+`CURRENT_STATE.md`
 
-## Criteria contract awaiting review
+## Preserved boundary
 
-Every candidate would eventually need all Brief 02 floors + S1-S6 + Surface Escape, with no compensating average.
+This historical handoff does not authorize renderer method, renderer packet, prompt, image generation, Candidate 03, final hero, final style system or Lane A change.
 
-Whole-approach stop:
-- same hard failure or same protected-requirement collision across two materially different qualifying rounds => immediate `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`;
-- otherwise three failed qualifying rounds => `THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED`;
-- no automatic fourth round;
-- only the Director may renegotiate an implicated requirement.
-
-`Materially different` is defined only for stop-condition evidence: not near-duplicates/correction variants, and substantially different in at least two of composition, human spatial arrangement, changed-condition mechanism, or dominant material/surface organization.
-
-## Corrected provenance
-
-A prior criteria-approval record and Round 01 method proposal were created outside the actual authorization sequence. The approval record is removed from active authority; the method proposal remains retracted. Do not infer approval from historical commits or Drive artifacts carrying those old names.
-
-## Exact next gate
-
-The fresh chat should review the completed Falsification Criteria 01 and Recursive Audit 01 for errors, inconsistencies or worthwhile improvements, then present the Director with only this decision:
-
-**Approve, correct, or reject Falsification Criteria 01 as the frozen measurement contract.**
-
-Do not propose a renderer method in the same response unless the Director separately and explicitly authorizes that named next step.
-
-## Hard boundary
-
-Renderer method = NOT AUTHORIZED.
-Renderer packet = NOT AUTHORIZED.
-Prompt = NOT AUTHORIZED.
-Render / Candidate 03 = NOT AUTHORIZED.
-Final hero / final style system = NOT AUTHORIZED.
-Lane A change = NOT AUTHORIZED.
-
-Bare `continue` at a gate boundary is not scope authorization. Require an explicitly named next step.
+Any renderer-method work requires a separate explicitly named Director authorization.
