@@ -1,24 +1,13 @@
 # Hero Surface Ownership Falsification Criteria — Handoff Readiness 01
 
-Status: HANDOFF READY / CRITERIA REVIEW GATE ONLY
+Status: HISTORICAL / HANDOFF COMPLETED
 Date: 2026-09-06
 
-Handoff readiness audit:
-- current Website authority re-read;
-- current app `CURRENT_STATE.md` re-read for product truth and boundary;
-- approved Operational Definition 01 re-read;
-- Hero Brief 02 re-read;
-- frozen Surface Escape gate re-read;
-- Falsification Criteria 01 rewritten in the explicitly authorized cycle;
-- recursive audit completed after corrections;
-- stale criteria-approval evidence removed/retracted from active authority;
-- prior Round 01 method remains retracted;
-- current state updated to criteria-review gate;
-- fresh-chat handoff created in GitHub and Drive;
-- no renderer method, packet, prompt, image generation, Candidate 03, final hero, implementation, or Lane A change created.
+The criteria-review handoff was successfully consumed. Director review found one bounded S3 ambiguity, approved the correction, and approved the corrected Falsification Criteria 01 as the frozen measurement contract.
 
-Exact next gate for the fresh chat:
+Current authority:
+- `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md`
+- `docs/evidence/HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md`
+- `CURRENT_STATE.md`
 
-**Approve, correct, or reject Falsification Criteria 01 as the frozen measurement contract.**
-
-No later step may be inferred from that review. A later method step requires a separately named Director authorization.
+No renderer-method or rendering authorization is implied.
