@@ -1,23 +1,19 @@
-# KYMAEAN HERO CANDIDATE 02 — G1 RESIDUAL PRESENCE
+# G1 — RESIDUAL PRESENCE
 
 Use this packet only in a fresh regular non-project renderer chat.
 
-Create one uninterrupted artwork centered on **two or three specific, non-interchangeable people** in one shared world.
+Create one uninterrupted artwork. Use two or three specific, non-interchangeable people in one shared world.
 
-A human action has already changed the local behavior of the shared environment. The action itself does not need to be shown. Its **residual effect remains physically present**: nearby matter, air, shadow, ground, light, surface, or spatial behavior has not fully returned to neutral.
+The people remain primary. Make them distinct through body, age, posture, gesture, silhouette, clothing, and relationship to the shared environment. Do not rely on color alone for identity. Do not assert or depict private thoughts, beliefs, memories, or knowledge.
 
-That remaining change must now materially alter what another person can occupy, reach, use, avoid, perceive, or do. Keep the cause, the affected person, and the changed evidence close enough together that the complete relationship survives a 4:5 portrait crop.
+A human action has already changed the local behavior of the shared environment. The action itself does not need to be shown. Its residual effect remains physically present: nearby matter, air, shadow, ground, light, surface, or spatial behavior has not fully returned to neutral.
 
-The people remain primary. Make them specific through body, age, posture, gesture, silhouette, clothing, and relationship to the shared space. Do not rely on color alone for identity. Do not assert or illustrate private thoughts, beliefs, memories, or knowledge.
+That remaining change must materially alter what another person can occupy, reach, use, avoid, perceive, or do now. The changed condition should feel like a local law of the world rather than an added magical effect or one giant symbolic prop. Give the impossible response grounding through contact, weight, occlusion, residue, displacement, or another physical consequence.
 
-The environmental response should feel like a **local law of the world**, not an added effect, magical power, interface, or giant symbolic prop. It should have contact, weight, occlusion, residue, displacement, or another grounded physical consequence.
+The complete causal relationship must fit inside one meaningful 4:5 portrait-safe cluster. For the wide desktop composition, keep the left roughly 40% genuinely quiet and expendable as negative space; do not place indispensable people or evidence there.
 
-Compose for a wide website hero while keeping the left roughly 40% genuinely quiet and expendable. Place the complete causal/relational cluster in the remaining area without making it feel like a layout diagram.
+Choose all unstated subject matter, setting, culture, time, materials, and rendering medium yourself.
 
-Choose all unstated subject matter, setting, time, culture, materials, and rendering medium yourself.
+Avoid literal theater stages, spotlights, cones, portals, arches, arrows, connector lines, avatar cards, trenches, repair scenes, bridges, walls/crossings as metaphor, giant mechanisms, monumental machinery, holograms, HUDs, AI symbols, logos, text, and presentation-board framing.
 
-Avoid literal stage scenery, spotlights, cones, portals, arches, connector lines, avatar cards, trenches, repair scenes, bridges, walls/crossings as metaphor, giant mechanisms, monumental machinery, holograms, HUDs, AI symbols, branded boards, logos, and text.
-
-The result should stand first as compelling artwork. Quiet before spectacle. Human relationship before effect.
-
-Return only the uninterrupted artwork.
+Quiet before spectacle. Human relationship before effect. Return only the uninterrupted artwork.
