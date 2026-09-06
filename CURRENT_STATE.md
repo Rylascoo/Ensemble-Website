@@ -6,7 +6,7 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> extension-laws approval -> Site Spine approval -> Mineral Theater approval -> Hero Artwork Brief 01 -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> extension-laws approval -> Site Spine approval -> Mineral Theater approval -> Hero Artwork Brief 01 -> `docs/KYMAEAN_LANE_B_HERO_CANDIDATE_01_EVALUATION.md` -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A
 
@@ -20,39 +20,33 @@ Deployment laws remain: app brand recedes behind Production; Stage excludes bran
 
 ## Website V0 authority
 
-**C — Quiet Stage** remains Director-approved temporary primary V0 visual-world incumbent.
+**C — Quiet Stage** remains Director-approved temporary primary V0 visual-world incumbent. **Website V0 Site Spine 01** and **B — Mineral Theater** remain Director-approved temporary V0 authority.
 
-Approved grammars: **Bounded Chorus** for unequal perspective; **Causal Scar** for committed consequence deforming later composition; **Posture Proximity** for Watch/Direct/Perform/Write around one Production. Cone imagery is reserved for genuine Stage/product-truth roles.
-
-**Website V0 Site Spine 01 is Director-approved**:
-
+Approved site order:
 `HERO -> ONE PRODUCTION -> BOUNDED PERSPECTIVE -> CAUSAL COMMIT -> HISTORY -> CREATOR POSTURE -> LOCAL SOVEREIGNTY -> INVITATION`
 
-Artwork map: one primary bespoke hero/world-setting job is high value; explanatory systems stay deterministic by default.
+Approved grammars: **Bounded Chorus**, **Causal Scar**, **Posture Proximity**. Cone imagery remains reserved for genuine Stage/product-truth roles. Warm causal is not generic brand/interaction chrome; cool never carries identity/state alone.
 
-## Material authority
+## Hero Candidate 01
 
-**B — Mineral Theater is Director-approved** as temporary V0 website material-family incumbent.
+Hero Artwork Brief 01 remains governing specification: distinct necessary people; recoverable prior human cause; materially altered present possibility; one shared reality with unequal physical availability; relationship by composition; quiet before spectacle; left desktop identity zone + meaningful 4:5 crop.
 
-Roles: Void/Theatrical; Archive/Material; Warm Causal/Human; Cool Presence/Counter-signal. Study values remain non-final. **Warm causal is not generic brand/interaction chrome.** Cool never carries identity/state alone. Threshold K/O3 remain materially neutral.
+Raw isolated candidates received + archived:
+- **H-A** Inhabited Spatial Realism;
+- **H-B** Constructed Relational Field;
+- **H-C** Transformational Identity Field.
 
-## Hero Artwork Brief 01
+Independent rubric + mobile-crop tests complete. **NO CANDIDATE ADVANCES.**
 
-Brief complete. Hero job: make **HUMAN CAUSALITY, LIVING CONSEQUENCE** perceptible before product vocabulary through distinct necessary people, recoverable prior human cause, altered present possibility, shared reality with unequal physical availability, relational composition, and quiet before spectacle.
+Mandatory-gate summary:
+- H-A `A3/C3/D2/E5/I2/J3/L2` — repair/trench is prop-led; altered possibility too weak.
+- H-B `A4/C4/D4/E5/I2/J2/L4` — strongest causal semantics; causal relation cannot coexist with left identity zone or survive one 4:5 crop.
+- H-C `A4/C3/D4/E4/I2/J3/L4` — strongest Kymaean specificity; prior cause too ambiguous; operator occupies copy zone; monumental mechanism violates hard pressure.
 
-Threshold K/O3 stay outside the artwork. Quiet Stage does not require cones in hero art. Mineral Theater is a material-role lens, not literal subject matter.
+Historical comparison confirms recurring quarantined renderer priors: H-A worn-room/repair; H-B muted painterly walls/crossings; H-C archive/books/monumental mechanism. Useful inheritance is law-level only.
 
-First isolated comparative batch is prepared:
-- **H-A** Inhabited spatial realism;
-- **H-B** Constructed relational field;
-- **H-C** Transformational identity field.
+## Guards / next
 
-No hero candidate has been generated or selected.
+Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority. Runtime accessibility/performance/Store validation remain external.
 
-## Guards
-
-Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority. Identity survives without colour/portrait/motion/exact position/hover. Runtime accessibility/performance/Store validation remain external.
-
-## Next
-
-Execute H-A / H-B / H-C in **three separate fresh regular non-project Renderer Contexts**, one sterile packet and normally one image each. Archive raw outputs, evaluate independently, run mobile-crop integration tests, then stop at Director review. Do not refine/merge candidates or generate H-D by default.
+Stop at Director review. Do not refine/merge H-A/H-B/H-C or generate H-D by default. Smallest unresolved question: can a fresh explicitly authorized batch keep actor + affected person + changed evidence inside one mobile-safe semantic cluster, reserve the left ~40% as truly quiet/expendable, and avoid quarantined prop/metaphor families?
