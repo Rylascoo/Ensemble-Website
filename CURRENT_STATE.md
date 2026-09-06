@@ -22,7 +22,7 @@ Hero Brief 02 floors: Human necessity >=4; Changed-condition legibility >=4; Alt
 
 ## Hero surface ownership
 
-Operational Definition 01 is Director approved. `Recognizably Kymaean` means current-project conformance, not proven public recognition.
+No prior image is promoted: G1/R1/A1 remain evidence, not incumbents. Operational Definition 01 is Director approved. `Recognizably Kymaean` means current-project conformance, not proven public recognition.
 
 `KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` has now been written in the explicitly authorized cycle and recursively audited. Status: **PRE-REGISTERED / READY FOR DIRECTOR REVIEW — NOT YET DIRECTOR APPROVED**.
 
