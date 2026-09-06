@@ -22,15 +22,17 @@ h1{font:500 22px/1.2 Georgia,serif;margin:0 0 6px}
 .desktop-wrap{overflow:auto;border:1px solid var(--line);background:#030608;padding:12px}
 .desktop{width:1280px;height:720px;position:relative;overflow:hidden;background:var(--void)}
 .candidate{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 50%;display:block}
-.copy{position:absolute;z-index:2;left:6%;top:12%;width:38%;max-width:486px}
-.mark{height:52px;margin-bottom:16px}.mark img{height:100%;width:auto;display:block}
-.word{width:360px;max-width:100%;margin-bottom:22px}.word img{display:block;width:100%;height:auto}
+.copy{position:absolute;z-index:2;left:6%;top:12%;width:38%;max-width:486px;color:var(--ink)}
+.mark{height:52px;margin-bottom:16px;color:var(--ink)}
+.mark svg{height:100%;width:auto;display:block}
+.word{width:360px;max-width:100%;margin-bottom:22px;color:var(--ink)}
+.word svg{display:block;width:100%;height:auto}
 .ey{font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-bottom:15px}
 .copy h2{font:400 36px/1.08 Georgia,serif;margin:0 0 14px;max-width:460px}
 .copy p{font:400 15px/1.52 Georgia,serif;color:var(--muted);max-width:450px;margin:0}
 .mobile-wrap{margin-top:28px;display:flex;gap:22px;align-items:flex-start;flex-wrap:wrap}
 .phone{width:390px;background:var(--void);border:1px solid var(--line)}
-.identity-band{height:150px;padding:22px 20px;background:var(--void);border-bottom:1px solid var(--line)}
+.identity-band{height:150px;padding:22px 20px;background:var(--void);border-bottom:1px solid var(--line);color:var(--ink)}
 .identity-band .mark{height:32px;margin-bottom:12px}
 .identity-band .word{width:218px;margin-bottom:11px}
 .identity-band .ey{font-size:9px;margin:0}
@@ -50,8 +52,32 @@ code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;color:var(--ink)
   <section class="desktop" aria-label="Desktop hero integration evidence">
     <img class="candidate" src="__CANDIDATE_ARTWORK__" alt="Qualifying hero candidate artwork">
     <div class="copy">
-      <div class="mark"><img src="../../assets/brand/kymaean-threshold-k-working-candidate.svg" alt=""></div>
-      <div class="word"><img src="../../assets/brand/kymaean-o3-wordmark-temporary-incumbent.svg" alt="KYMÆAN"></div>
+      <div class="mark" aria-label="Threshold K">
+        <svg viewBox="0 0 170 233" aria-hidden="true">
+          <g fill="currentColor">
+            <path d="M 65 15 L 54 21 L 52 23 L 47 25 L 45 27 L 40 29 L 38 31 L 33 33 L 31 35 L 26 37 L 24 39 L 21 40 L 19 42 L 10 47 L 10 116 L 23 109 L 28 105 L 31 104 L 49 92 L 55 86 L 61 77 L 61 75 L 63 72 L 64 65 L 65 64 Z"/>
+            <path d="M 10 126 L 10 192 L 16 196 L 19 197 L 21 199 L 24 200 L 26 202 L 29 203 L 31 205 L 41 210 L 43 212 L 48 214 L 55 219 L 65 224 L 65 179 L 64 178 L 63 171 L 60 164 L 55 158 L 55 157 L 50 152 L 22 133 L 19 132 Z"/>
+            <path d="M 160 22 L 88 64 L 77 74 L 71 84 L 68 94 L 67 140 L 71 158 L 84 175 L 161 221 L 161 201 L 156 188 L 148 180 L 100 152 L 89 140 L 84 127 L 85 111 L 94 95 L 102 88 L 148 62 L 156 54 L 161 42 Z"/>
+          </g>
+        </svg>
+      </div>
+      <div class="word" aria-label="KYMÆAN">
+        <svg viewBox="0 0 690 122" aria-hidden="true">
+          <style>
+          .v{fill:none;stroke:currentColor;stroke-width:5.9;stroke-linecap:round;stroke-linejoin:round}
+          .d{fill:none;stroke:currentColor;stroke-width:5.35;stroke-linecap:round;stroke-linejoin:round}
+          .h{fill:none;stroke:currentColor;stroke-width:4.55;stroke-linecap:round;stroke-linejoin:round}
+          .fine{fill:none;stroke:currentColor;stroke-width:2.35;stroke-linecap:round;stroke-linejoin:round;opacity:.7}
+          </style>
+          <path class="v" d="M30 18L30 104"/><path class="d" d="M33 62L96 18"/><path class="d" d="M33 62L98 104"/>
+          <path class="d" d="M118 18L156 62L194 18"/><path class="v" d="M156 62L156 104"/>
+          <path class="v" d="M220 104L220 18"/><path class="d" d="M220 18L262 58L304 18"/><path class="v" d="M304 18L304 104"/>
+          <path class="d" d="M338 104L376 18"/><path class="d" d="M376 18L400 104"/>
+          <path class="h" d="M377 18L432 18"/><path class="h" d="M358 64L414 64"/><path class="h" d="M400 104L432 104"/><path class="fine" d="M414 64L436 64"/>
+          <path class="d" d="M462 104L501 18L540 104"/><path class="h" d="M480 64L522 64"/>
+          <path class="v" d="M570 104L570 18"/><path class="d" d="M570 18L648 104"/><path class="v" d="M648 104L648 18"/>
+        </svg>
+      </div>
       <div class="ey">Local-first generative theater</div>
       <h2>A world with continuity, not a stream of replies.</h2>
       <p>One persistent Production carries Characters, world conditions, bounded knowledge and committed consequence forward.</p>
@@ -64,8 +90,32 @@ code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;color:var(--ink)
     <p class="label">Mobile evidence · 390px + fixed 4:5 crop</p>
     <section class="phone" aria-label="Mobile hero integration evidence">
       <div class="identity-band">
-        <div class="mark"><img src="../../assets/brand/kymaean-threshold-k-working-candidate.svg" alt=""></div>
-        <div class="word"><img src="../../assets/brand/kymaean-o3-wordmark-temporary-incumbent.svg" alt="KYMÆAN"></div>
+        <div class="mark" aria-label="Threshold K">
+          <svg viewBox="0 0 170 233" aria-hidden="true">
+            <g fill="currentColor">
+              <path d="M 65 15 L 54 21 L 52 23 L 47 25 L 45 27 L 40 29 L 38 31 L 33 33 L 31 35 L 26 37 L 24 39 L 21 40 L 19 42 L 10 47 L 10 116 L 23 109 L 28 105 L 31 104 L 49 92 L 55 86 L 61 77 L 61 75 L 63 72 L 64 65 L 65 64 Z"/>
+              <path d="M 10 126 L 10 192 L 16 196 L 19 197 L 21 199 L 24 200 L 26 202 L 29 203 L 31 205 L 41 210 L 43 212 L 48 214 L 55 219 L 65 224 L 65 179 L 64 178 L 63 171 L 60 164 L 55 158 L 55 157 L 50 152 L 22 133 L 19 132 Z"/>
+              <path d="M 160 22 L 88 64 L 77 74 L 71 84 L 68 94 L 67 140 L 71 158 L 84 175 L 161 221 L 161 201 L 156 188 L 148 180 L 100 152 L 89 140 L 84 127 L 85 111 L 94 95 L 102 88 L 148 62 L 156 54 L 161 42 Z"/>
+            </g>
+          </svg>
+        </div>
+        <div class="word" aria-label="KYMÆAN">
+          <svg viewBox="0 0 690 122" aria-hidden="true">
+            <style>
+            .v{fill:none;stroke:currentColor;stroke-width:5.9;stroke-linecap:round;stroke-linejoin:round}
+            .d{fill:none;stroke:currentColor;stroke-width:5.35;stroke-linecap:round;stroke-linejoin:round}
+            .h{fill:none;stroke:currentColor;stroke-width:4.55;stroke-linecap:round;stroke-linejoin:round}
+            .fine{fill:none;stroke:currentColor;stroke-width:2.35;stroke-linecap:round;stroke-linejoin:round;opacity:.7}
+            </style>
+            <path class="v" d="M30 18L30 104"/><path class="d" d="M33 62L96 18"/><path class="d" d="M33 62L98 104"/>
+            <path class="d" d="M118 18L156 62L194 18"/><path class="v" d="M156 62L156 104"/>
+            <path class="v" d="M220 104L220 18"/><path class="d" d="M220 18L262 58L304 18"/><path class="v" d="M304 18L304 104"/>
+            <path class="d" d="M338 104L376 18"/><path class="d" d="M376 18L400 104"/>
+            <path class="h" d="M377 18L432 18"/><path class="h" d="M358 64L414 64"/><path class="h" d="M400 104L432 104"/><path class="fine" d="M414 64L436 64"/>
+            <path class="d" d="M462 104L501 18L540 104"/><path class="h" d="M480 64L522 64"/>
+            <path class="v" d="M570 104L570 18"/><path class="d" d="M570 18L648 104"/><path class="v" d="M648 104L648 18"/>
+          </svg>
+        </div>
         <div class="ey">Local-first generative theater</div>
       </div>
       <img class="mobile-art" src="__CANDIDATE_ARTWORK__" alt="Fixed mobile crop of the same qualifying hero candidate artwork">
