@@ -6,7 +6,7 @@ Updated: 2026-09-06
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> criteria approval evidence -> Hero Renderer Method Director Authorization 01 -> `KYMAEAN_HERO_RENDERER_METHOD_01.md` -> renderer-method recursive audit -> renderer-method Director approval -> renderer-method status reconciliation -> Renderer Cartography phase reconciliation -> Hero Integration Harness 01 -> Round 01 Candidate Specification -> Sterile Renderer Packet 01 -> Pre-Render Review Package 01 -> package recursive audit -> package Director approval -> Round 01 evaluation -> Harness 01 rendering defect -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> criteria approval evidence -> Hero Renderer Method Director Authorization/Approval -> renderer method -> renderer audit/status reconciliation -> Renderer Cartography phase reconciliation -> corrected/re-frozen Hero Integration Harness 01 -> Round 01 specification/packet/package approval -> Round 01 evaluation -> Round 01 provenance + harness-correction approval -> Harness correction completion -> Round 01 harness completion -> Round 02 Candidate Specification -> Sterile Renderer Packet 02 -> Pre-Render Review Package 02 -> Round 02 recursive audit -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A / brand
 
@@ -22,92 +22,141 @@ Hero Brief 02 floors: Human necessity >=4; Changed-condition legibility >=4; Alt
 
 ## Hero surface ownership
 
-No prior image is promoted: G1/R1/A1 remain evidence, not incumbents. Operational Definition 01 is Director approved. `Recognizably Kymaean` means current-project conformance, not proven public recognition.
+No prior image is promoted: G1/R1/A1/R0 remain evidence, not incumbents. Operational Definition 01 is Director approved. `Recognizably Kymaean` means current-project conformance, not proven public recognition.
 
-`KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` is **DIRECTOR APPROVED / FROZEN MEASUREMENT CONTRACT** after one bounded S3 correction: a candidate need not instantiate every Mineral Theater role; every material/surface signal actually used must obey the approved role discipline.
+`docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` is **DIRECTOR APPROVED / FROZEN MEASUREMENT CONTRACT**. All S1-S6 must PASS independently with Brief 02 + Surface Escape.
 
-All S1-S6 must PASS independently with Brief 02 + Surface Escape. Stop condition: same hard failure or protected-requirement collision across **two materially different qualifying rounds** immediately pauses at `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`; otherwise three failed qualifying rounds pause at `THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED`. No automatic fourth round. Only the Director may renegotiate an implicated requirement.
+Frozen stop law:
+
+- same hard failure or protected-requirement collision across **two materially different qualifying rounds** -> immediately `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`; no automatic third round;
+- otherwise three failed qualifying rounds -> `THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED`;
+- no automatic fourth round;
+- only the Director may renegotiate an implicated requirement.
 
 ## Hero renderer method
 
 `docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` is **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**. Approval authority: `docs/evidence/HERO_RENDERER_METHOD_DIRECTOR_APPROVAL_01.md`; recursive audit: `docs/evidence/HERO_RENDERER_METHOD_RECURSIVE_AUDIT_01.md`; status reconciliation: `docs/evidence/HERO_RENDERER_METHOD_STATUS_RECONCILIATION_01.md`.
 
-The frozen method requires one global deterministic Hero Integration Harness, one judgeable visible candidate per consumed qualifying round except genuine technical nulls, independent hard-gate evaluation, no free rerolls, and the frozen two-round suspected-unsatisfiable / three-round exhaustion laws.
+The method requires one global deterministic integration harness, one judgeable visible candidate per consumed round except genuine technical nulls, independent hard-gate evaluation, no free rerolls, clean renderer isolation, and the frozen stop laws.
 
-Historical R0 Renderer Cartography remains empirical method evidence only. R0 calibration is closed; no R0 rendered surface has inheritance rights. The earlier unauthorized Post-Definition Round 01 Method Proposal remains **RETRACTED / NOT AUTHORITY**.
+Historical R0 Renderer Cartography remains empirical method evidence only. R0 calibration is closed; no historical surface has inheritance rights. The earlier unauthorized Post-Definition Round 01 Method Proposal remains RETRACTED / NOT AUTHORITY.
 
-## Hero Pre-Render Review Package 01
+## Hero Integration Harness 01
 
-The Director explicitly approved the complete package before the returned candidate was submitted. Approval evidence: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_01_DIRECTOR_APPROVAL.md`.
+Harness 01 was frozen with Pre-Render Package 01, then Round 01 execution exposed a candidate-neutral identity-rendering defect: canonical Threshold K/O3 SVGs used `currentColor` but were embedded as external `<img>` resources, causing dark/black identity geometry on the mobile Void band.
 
-Approved package:
+Defect evidence: `docs/evidence/HERO_INTEGRATION_HARNESS_01_RENDERING_DEFECT_01.md`.
 
-- `docs/KYMAEAN_HERO_INTEGRATION_HARNESS_01.md` — frozen globally for the qualifying sequence at approval;
-- `prototypes/lane-b/hero-integration-harness-01.html`;
-- `docs/KYMAEAN_HERO_QUALIFYING_ROUND_01_CANDIDATE_SPECIFICATION.md`;
-- `docs/KYMAEAN_HERO_STERILE_RENDERER_PACKET_01.md` — exact one-output packet;
-- `docs/KYMAEAN_HERO_PRE_RENDER_REVIEW_PACKAGE_01.md`;
-- package audit: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_01_RECURSIVE_AUDIT.md`.
+The Director approved only the narrow candidate-neutral correction. Authority: `docs/evidence/HERO_QUALIFYING_ROUND_01_PROVENANCE_AND_HARNESS_CORRECTION_DIRECTOR_APPROVAL.md`.
 
-Approval authorized exactly one isolated renderer request and consumed 0/3 by itself.
+Correction applied: `prototypes/lane-b/hero-integration-harness-01.html` now renders the exact canonical Threshold K/O3 vector geometry inline under the harness's existing neutral identity foreground. Canonical brand source assets, all candidate pixels, desktop/mobile geometry, copy, crop positions and material/chrome roles remain unchanged.
 
-## Qualifying Round 01 — returned candidate
+Completion authority: `docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md`.
 
-A 1586x992 PNG candidate has been returned to the governance chat and archived in Drive under `Hero Qualifying Round 01 — Returned Candidate`.
+Harness 01 is now **RE-FROZEN AFTER APPROVED NARROW CANDIDATE-NEUTRAL CORRECTION** and must remain unchanged for later qualifying candidates.
 
-Evaluation authority: `docs/evidence/HERO_QUALIFYING_ROUND_01_EVALUATION_01.md`.
+## Qualifying Round 01 — COMPLETE
 
-Visual result is already **RAW HARD-SET FAIL** independent of integration-harness scoring:
+Director execution provenance is confirmed: the returned PNG was the single image returned from the approved fresh non-project renderer context using the exact approved packet unchanged, with no alternate selected from multiple outputs.
+
+Round 01 is formally consumed.
+
+Counter: **1 / 3**.
+
+Evaluation authority:
+
+- `docs/evidence/HERO_QUALIFYING_ROUND_01_EVALUATION_01.md`;
+- `docs/evidence/HERO_QUALIFYING_ROUND_01_HARNESS_COMPLETION_01.md`.
+
+Final Round 01 result: **FAIL**.
+
+Complete hard results:
 
 - Human necessity = **3/5 FAIL**;
 - Changed-condition legibility = **2/5 FAIL**;
 - Altered possibility = **2/5 FAIL**;
 - Epistemic restraint = **5/5 PASS**;
+- Brand Integration = **3/5 PASS** after corrected harness;
+- Mobile Survival = **3/5 PASS**;
 - Removal test = **2/5 FAIL**;
 - Surface Escape = **PASS**;
-- S1 Human-first salience = **FAIL**;
-- S2-S5 = **PASS**;
-- fixed mobile crop preserves two necessary people + condition evidence, so Mobile Survival = **3/5 PASS, bounded to crop survival**.
+- S1 = **FAIL**;
+- S2 = PASS;
+- S3 = PASS;
+- S4 = PASS;
+- S5 = PASS;
+- S6 = **FAIL** because the candidate never established the changed-condition/altered-possibility semantic core strongly enough for the tall crop to preserve it, even though identity coexistence and crop geometry themselves work.
 
-Interpretation: Round 01 successfully escapes the historical-domestic ordinary-task attractor and is materially compatible with Quiet Stage/Mineral Theater, but the changed field reads as designed abstract architecture rather than a visibly changed shared condition. The intended availability asymmetry requires packet knowledge. Environment-first architectural/threshold organization also weakens human-first salience.
+Interpretation: Round 01 successfully escaped the historical-domestic ordinary-task attractor and fit Quiet Stage/Mineral Theater better than prior surfaces, but the shared planes read as designed abstract architecture rather than a visibly changed condition. The intended availability asymmetry required packet knowledge. Environment-first architectural organization weakened human necessity/S1.
 
-Required non-threshold judgment: relational composition partial; Quiet Stage belonging moderate-strong; Mineral Theater compatibility strong; category distinctiveness weak-moderate; specific prior-author recovery low/advisory; secondary portal/threshold + editorial/architectural drift moderate.
+One failed round alone does not trigger the frozen early stop.
 
-### Execution provenance still pending
+## Hero Pre-Render Review Package 02
 
-The governance record knows that one image was submitted after package approval, but does **not yet independently establish** the exact renderer/model, exact generation time, whether the required fresh regular non-project context was used, whether the packet was transferred unchanged, or whether exactly one image total was produced.
+Round 02 package is now **COMPLETE / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED / NO RENDER AUTHORIZED**.
 
-Therefore formal qualifying-round accounting is **PENDING DIRECTOR EXECUTION-PROVENANCE CONFIRMATION**. If confirmed, Round 01 is consumed and the counter becomes **1 / 3**. The image is not a technical null.
+Components:
 
-## Harness 01 rendering defect
+- `docs/KYMAEAN_HERO_QUALIFYING_ROUND_02_CANDIDATE_SPECIFICATION.md`;
+- `docs/KYMAEAN_HERO_STERILE_RENDERER_PACKET_02.md`;
+- `docs/KYMAEAN_HERO_PRE_RENDER_REVIEW_PACKAGE_02.md`;
+- audit: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_02_RECURSIVE_AUDIT.md`.
 
-Round 01 harness execution exposed a candidate-neutral defect: the prototype embeds Threshold K and O3 as external `<img>` SVGs, while both canonical assets use `currentColor`. The external-image embedding resolves the identity geometry dark/black instead of inheriting the intended neutral foreground; on the mobile Mineral Theater Void band the identity becomes nearly invisible.
+Drive mirror folder: `Hero Pre-Render Review Package 02`.
 
-Evidence: `docs/evidence/HERO_INTEGRATION_HARNESS_01_RENDERING_DEFECT_01.md`.
+### Round 02 hypothesis
 
-This defect was missed during pre-render audit. It is **not** a candidate failure. Brand Integration and S6 remain UNSCORED rather than receiving manufactured values. The raw candidate already fails independently, so unresolved Brand Integration/S6 cannot change the Round 01 overall FAIL.
+Two large, proximate adults replace Round 01's three separated scale-prone figures. A broad continuous flexible opaque matte band crosses their shared human-scale field. A wide segment is already folded back along an extended crease; exposed underside + displaced edge + continuing alignment make the changed state visually inferable. At that fold, direct hand/forearm contact is physically possible while still-unfolded portions remain between other body regions. Contact is treated as a simple physical fact, not emotional/symbolic climax.
 
-No silent repair is authorized. The narrow candidate-neutral correction proposed in the evidence record preserves every frozen frame, crop, copy and candidate-placement rule and changes only deterministic resolution of the canonical SVG `currentColor` geometry to the harness's already-defined neutral identity foreground. No canonical brand asset would be edited.
+The aim is to make people visually primary, make `changed` legible without prompt knowledge, replace viewpoint-dependent availability with externally visible physical affordance, and make the consequential change load-bearing to the relation.
+
+### Pre-registered material difference from Round 01
+
+Round 02 is planned to differ on all four frozen dimensions:
+
+1. composition — wide environmental panorama -> closer human-dominant cluster;
+2. human spatial arrangement — three separated adults -> two proximate adults/direct contact;
+3. changed-condition mechanism — rigid displacement/viewpoint occlusion -> flexible visible fold/direct physical affordance;
+4. material/surface organization — room-scale rigid architecture -> human-scale flexible material subordinate to bodies.
+
+Actual returned output determines whether material difference is established; packet intent alone does not.
+
+### Recursive audit
+
+First pass found one worthwhile issue: direct contact could become an emotional/symbolic climax and let sentiment substitute for causality. The exact packet was corrected to make contact an understated physical fact and forbid posture/expression from carrying required meaning.
+
+A complete second pass found no remaining material correction or worthwhile improvement that changes the approval recommendation.
+
+Audit recommendation: **APPROVE PACKAGE 02**.
+
+### Consequential early-stop boundary
+
+If an approved Round 02 produces a judgeable output that is actually materially different from Round 01 and repeats **any same frozen hard requirement failure**, the project immediately enters:
+
+**CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED**
+
+A third round is not automatic.
 
 ## Guards / next
 
-Renderer Method 01 = **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**.
+Renderer Method 01 = DIRECTOR APPROVED / FROZEN.
 
-Hero Pre-Render Review Package 01 = **DIRECTOR APPROVED / EXECUTED TO RETURNED CANDIDATE**.
+Hero Integration Harness 01 = CORRECTED UNDER NARROW DIRECTOR AUTHORITY / RE-FROZEN.
 
-Qualifying Round 01 visual result = **HARD-SET FAIL**.
+Qualifying counter = **1 / 3**.
 
-Formal qualifying-round counter = **PENDING PROVENANCE CONFIRMATION; becomes 1 / 3 if confirmed**.
+Round 01 = COMPLETE / FAIL.
 
-Harness 01 = **FROZEN AT PACKAGE APPROVAL / RENDERING DEFECT OPEN / NO SILENT FIX**.
+Hero Pre-Render Review Package 02 = **COMPLETE / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED**.
 
-Round 02 = **NOT AUTHORIZED / NOT YET AUTHORED**.
+Round 02 Candidate Specification = NOT YET DIRECTOR APPROVED.
 
-Final hero, final style selection, implementation and Lane A change = NOT AUTHORIZED.
+Sterile Renderer Packet 02 = NOT YET DIRECTOR APPROVED / DO NOT EXECUTE.
 
-Exact Director decisions now required before further experiment work:
+Round 02 render = NOT AUTHORIZED.
 
-1. confirm whether the returned PNG was the single image produced in the approved fresh non-project renderer context using the exact packet unchanged;
-2. **APPROVE NARROW CORRECTION** or reject/reopen the Harness 01 SVG color-resolution defect described in `docs/evidence/HERO_INTEGRATION_HARNESS_01_RENDERING_DEFECT_01.md`.
+Third qualifying render = NOT AUTHORIZED.
 
-No Round 02 packet may be authored or executed until those decisions are resolved and Round 01 accounting is closed.
+Final hero, final style/palette, implementation, motion and Lane A change = NOT AUTHORIZED.
+
+Exact next gate: Director **APPROVE / CORRECT / REJECT HERO PRE-RENDER REVIEW PACKAGE 02** after examining the substantive specification, exact renderer-facing text, material-difference declaration and early-stop consequence. Approval would authorize exactly one isolated Round 02 renderer request. Approval itself leaves the counter at 1 / 3 until a judgeable output returns.
