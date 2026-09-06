@@ -1,6 +1,6 @@
 # KYMAEAN — HERO RENDERER METHOD 01
 
-Status: PRE-REGISTERED DRAFT / AUTHORIZED METHOD DESIGN / DIRECTOR REVIEW REQUIRED / NO PACKET OR RENDER AUTHORIZED
+Status: PRE-REGISTERED / RECURSIVELY AUDITED / READY FOR DIRECTOR REVIEW / NO PACKET OR RENDER AUTHORIZED
 Date: 2026-09-06
 
 ## 0. Purpose
@@ -65,17 +65,7 @@ The project retains the durable Renderer Isolation architecture where clean-slat
 
 ### Director Context
 
-The persistent Ensemble/Kymaean design context owns:
-
-- current authority;
-- product truth;
-- visual lineage and quarantined historical evidence;
-- renderer empirical history;
-- experiment design;
-- packet design;
-- evaluation;
-- archival provenance;
-- Director decisions.
+The persistent Ensemble/Kymaean design context owns current authority, product truth, visual lineage, quarantined historical evidence, renderer empirical history, experiment design, packet design, evaluation, archival provenance, and Director decisions.
 
 The Director Context remembers the project.
 
@@ -89,8 +79,7 @@ The Renderer Context should not receive:
 
 - `Kymaean` or `Ensemble` naming;
 - project files;
-- the scoring rubric;
-- S1-S6 labels;
+- the scoring rubric or S1-S6 labels;
 - current brand-asset images;
 - G1/R1/A1 images or critique;
 - R0 artwork;
@@ -103,41 +92,30 @@ Do not attempt to create isolation by adding unverifiable memory-negation prose 
 
 If the available image-generation surface cannot provide the intended isolation boundary, record that limitation and stop for a Director execution decision before treating an output as a qualifying clean-slate round. Do not silently redefine isolation after seeing a result.
 
+Renderer Isolation is a process-control requirement for this clean-slate hero experiment, not an additional aesthetic success criterion.
+
 ## 4. Measurement contract versus renderer language
 
 The Director sees the complete measurement contract. The renderer does not.
 
 A successful method must distinguish:
 
-- **what must be true of the result**, which is governed by Brief 02 + S1-S6 + Surface Escape; from
-- **what must be said to the renderer**, which should be only the minimum picture-making information needed to create an evaluable candidate.
+- **what must be true of the result**, governed by Brief 02 + S1-S6 + Surface Escape; from
+- **what must be said to the renderer**, only the minimum picture-making information needed to create an evaluable candidate.
 
 Dumping the measurement rubric into the renderer packet would turn evaluation language into visual seed, invite checklist imagery, and make the experiment partly self-referential.
 
-Therefore:
-
-- do not name S1-S6 in renderer-facing language;
-- do not include numeric thresholds;
-- do not ask for a `recognizably Kymaean` image;
-- do not name Quiet Stage, Mineral Theater, Threshold K or O3;
-- do not convert the operational definition into prose the renderer is asked to illustrate;
-- do not expose prior failure imagery as a negative example menu.
+Therefore do not name S1-S6, numeric thresholds, `recognizably Kymaean`, Quiet Stage, Mineral Theater, Threshold K or O3 in renderer-facing language; do not convert the Operational Definition into prose the renderer is asked to illustrate; and do not expose prior failure imagery as a negative example menu.
 
 The frozen Surface Escape gate is the deliberate exception: its own frozen rule requires the next surface prompt to be written to satisfy the gate. A future packet may therefore contain **one compact gate-level negative constraint** against an ordinary domestic/occupational task or ordinary-accident tableau. Do not copy its historical example list into the renderer packet.
 
 ## 5. Pre-render semantic construction
 
-Every future qualifying packet must be derived from a Director-side **Hero Candidate Specification** before any renderer-facing prose is written.
-
-The specification is not itself an image prompt.
+Every future qualifying packet must be derived from a Director-side **Hero Candidate Specification** before any renderer-facing prose is written. The specification is not itself an image prompt.
 
 ### 5.1 Necessary people
 
-Record:
-
-- participant count, with at least two;
-- why each depicted person is structurally necessary to the shared situation;
-- the minimum observable identity anchors that make the people non-interchangeable.
+Record participant count, with at least two; why each depicted person is structurally necessary to the shared situation; and the minimum observable identity anchors that make the people non-interchangeable.
 
 Do not create character biography that the image cannot observe.
 
@@ -147,7 +125,7 @@ No cross-round recurring-character system is required. Each candidate is judged 
 
 ### 5.2 Changed shared condition
 
-Record the one present condition that is materially different from an otherwise ordinary shared state.
+Record the one present condition that is materially different from the shared baseline state.
 
 The condition must be visible enough to function as part of the image's causal/relational structure. It cannot be arbitrary atmosphere.
 
@@ -193,23 +171,24 @@ Quiet is compositional function, not generic darkness, literal stage scenery, co
 
 The changed condition should not require a single spectacular effect to be legible.
 
-## 6. Responsive composition pre-commitment
+## 6. Responsive composition and global harness pre-commitment
 
 Hero Brief 02 makes website integration part of the artwork burden. Responsive survival cannot be invented after seeing the image.
 
-Before each packet is written, record a **Responsive Composition Plan**:
+After this method is approved and **before the Qualifying Round 01 packet is approved or rendered**, one deterministic **Hero Integration Harness 01** must be defined from current temporary website authority. Its desktop frame, identity/copy geometry, artwork placement rule, tall/mobile frame and crop/alignment rule are then held unchanged across every qualifying candidate in this sequence.
+
+Every future Hero Candidate Specification must therefore include a **Responsive Composition Plan** designed to survive that already-fixed harness:
 
 - one calm identity/copy region occupying roughly 35-45% of the desktop composition;
 - one denser consequential region;
-- a predeclared meaningful tall/mobile crop zone;
-- confirmation that at least two necessary people plus changed-condition evidence are intended to survive that tall crop;
-- the fixed crop/alignment rule that the deterministic integration harness will use after generation.
+- composition compatible with the harness's fixed tall/mobile crop;
+- confirmation that at least two necessary people plus changed-condition evidence are intended to survive that crop.
 
-The renderer receives this as picture geometry, not as website/brand vocabulary.
+The renderer receives only the necessary picture geometry, not website/brand vocabulary.
 
 Do not solve mobile after the fact by independently rerendering a second mobile scene. Mobile is tested as a crop/survival property of the same artwork candidate unless a later Director decision changes the product requirement.
 
-Do not manually hunt for a favorable post-hoc crop. The crop rule must be frozen for that packet before generation.
+Do not manually hunt for a favorable post-hoc crop and do not change the harness between candidates. The candidate must adapt to the test; the test does not adapt to the candidate.
 
 ## 7. Formal grammar control
 
@@ -228,21 +207,7 @@ Therefore every qualifying hero packet must deliberately control enough formal g
 
 Before renderer-facing prose is written, declare which picture-making variables are controlled and which are intentionally left free.
 
-Available control dimensions include, without selecting any as Kymaean identity:
-
-- picture-plane depth;
-- human massing / figure completeness;
-- contour / edge behavior;
-- negative-space proportion and location;
-- overlap / occlusion / separation;
-- representational distance;
-- environment-detail budget;
-- tonal range and contrast organization;
-- chroma distribution;
-- material/surface treatment;
-- texture density;
-- lighting structure;
-- medium/render treatment.
+Available control dimensions include, without selecting any as Kymaean identity: picture-plane depth; human massing / figure completeness; contour / edge behavior; negative-space proportion and location; overlap / occlusion / separation; representational distance; environment-detail budget; tonal range and contrast organization; chroma distribution; material/surface treatment; texture density; lighting structure; and medium/render treatment.
 
 The packet need not specify every dimension. It must specify a coherent tightly coupled subset sufficient to make the dominant formal organization intentional rather than accidental.
 
@@ -276,14 +241,7 @@ A conceptual role remap is an evaluation. A corrective recolor is a new artwork 
 
 Threshold K and O3 stay outside the artwork.
 
-The renderer packet must not include:
-
-- Threshold K imagery or geometry;
-- O3 imagery or glyph construction;
-- instructions to hide, discover or complete a `K`;
-- logo puzzles;
-- brand marks;
-- requests to make the image itself function as a second logo event.
+The renderer packet must not include Threshold K imagery or geometry, O3 imagery or glyph construction, instructions to hide/discover/complete a `K`, logo puzzles, brand marks, or requests to make the image itself function as a second logo event.
 
 S5 is tested after generation.
 
@@ -308,29 +266,13 @@ Secondary Surface Escape observations — fantasy/videogame drift, luxury/editor
 
 A qualifying request asks for exactly **one uninterrupted artwork**.
 
-No:
-
-- text;
-- captions;
-- arrows or connectors;
-- labels;
-- app UI;
-- website UI;
-- storyboard/multi-panel explanation;
-- presentation board;
-- moodboard;
-- logo lockup;
-- palette swatches;
-- promotional framing;
-- surrounding experiment collateral.
+No text, captions, arrows/connectors, labels, app UI, website UI, explanatory storyboard/multi-panel layout, presentation board, moodboard, logo lockup, palette swatches, promotional framing, or surrounding experiment collateral.
 
 This contract exists because the hero is artwork, not because these formats are universally forbidden elsewhere in Kymaean design.
 
 ## 12. Sterile Renderer Packet schema
 
-After this method is separately approved, a future candidate-specific packet may be authored from the following schema.
-
-This section defines the schema only. It does **not** instantiate Round 01 language.
+After this method is separately approved, a future candidate-specific packet may be authored from the following schema. This section defines the schema only. It does **not** instantiate Round 01 language.
 
 ### Director-only packet record
 
@@ -338,6 +280,7 @@ Record:
 
 - packet ID and qualifying-round number;
 - authority versions;
+- Hero Integration Harness 01 version;
 - candidate question;
 - participant count and minimum identity anchors;
 - changed shared condition;
@@ -347,7 +290,7 @@ Record:
 - Formal Grammar Declaration;
 - controlled versus intentionally free variables;
 - Surface Escape preflight result;
-- anticipated known renderer attractor risks;
+- anticipated known renderer-attractor risks;
 - exact renderer-facing text once separately authorized;
 - renderer-context isolation state;
 - requested output count = 1.
@@ -365,23 +308,9 @@ The future sterile packet may contain only the minimum needed from these classes
 
 ### Content excluded by default
 
-Do not transfer:
+Do not transfer project/product naming, public/marketing thesis, scoring thresholds, S-gate labels, historical candidate names, prior outputs, long anti-attractor lists, narrative backstory not visually required, private-state assertions, named style/artist/era/culture shorthand, generic `AI`/software/app/website/brand framing, renderer-calibration language, or instructions to explain the concept.
 
-- project or product naming;
-- public/marketing thesis;
-- scoring thresholds;
-- S-gate labels;
-- historical candidate names;
-- prior outputs;
-- long anti-attractor lists;
-- narrative backstory not visually required;
-- private-state assertions;
-- named style/artist/era/culture shorthand;
-- generic `AI`, software, app, website or brand framing;
-- renderer-calibration language;
-- instructions to explain the concept.
-
-Reference images are excluded by default from qualifying rounds. A reference-image experiment requires a separate explicit Director decision naming the single intended transferred variable and still counts against the qualifying-round budget if it produces an evaluable candidate.
+Reference images are excluded by default from qualifying rounds. A reference-image experiment requires a separate explicit Director decision naming the intended transferred variable and still counts against the qualifying-round budget if it produces an evaluable candidate.
 
 ## 13. One qualifying round = one visible candidate
 
@@ -398,6 +327,8 @@ Request exactly one image.
 No same-context alternate, correction chain, aesthetic retry, `one more version`, seed hunt, inpainting repair or second interpretation is permitted inside one qualifying round.
 
 If the renderer returns an evaluable but weak/nonconforming visible image, **it counts**. Do not protect the budget by relabeling an unattractive, ordinary, branded, storyboard-like, semantically weak or surface-failing visible output as `method-invalid` merely because it fails.
+
+If an output contains enough artwork to establish a hard failure, that is judgeable failure evidence even when its format is poor. Format failure is not a loophole for free rerolls.
 
 ### 13.2 Technical-null exception
 
@@ -418,12 +349,7 @@ Historical Renderer Cartography used one-variable contrastive experiments to lea
 
 The current three-round budget is too small and too consequential to spend on sacrificial calibration images.
 
-Therefore:
-
-- every rendered round must be intended as a genuine complete hero candidate against the unchanged frozen contract;
-- no hidden image-bearing preflight generations are permitted;
-- no uncounted style tests are permitted after this method enters qualifying execution;
-- known renderer behavior should be taken from the existing R0 dataset instead of relearned through extra renders.
+Therefore every rendered round must be intended as a genuine complete hero candidate against the unchanged frozen contract; no hidden image-bearing preflight generations or uncounted style tests are permitted; and known renderer behavior should be taken from the existing R0 dataset instead of relearned through extra renders.
 
 Textual packet alternatives, compositional diagrams or non-image reasoning may be used before a packet is approved as long as they do not create an image that could function as an uncounted candidate.
 
@@ -431,13 +357,7 @@ Textual packet alternatives, compositional diagrams or non-image reasoning may b
 
 A failed first round does not authorize a correction chain.
 
-If another round is proposed, record **before generation**:
-
-- the smallest failure set from the previous round;
-- what the next packet preserves;
-- what it changes;
-- why the change is expected to test the unresolved problem rather than merely beautify the image;
-- whether the planned candidate will be materially different under the frozen definition.
+If another round is proposed, record **before generation** the smallest failure set from the previous round; what the next packet preserves; what it changes; why the change is expected to test the unresolved problem rather than merely beautify the image; and whether the planned candidate will be materially different under the frozen definition.
 
 For the two-round suspected-unsatisfiable inference, candidates must be more than correction variants and differ substantially in at least two of:
 
@@ -466,19 +386,18 @@ If a candidate passes the complete hard set, stop. It becomes eligible for Direc
 
 If it fails, the next justified action is evidence synthesis and, only if allowed by the frozen stop rules, a new bounded packet proposal.
 
-## 17. Deterministic integration harness
+## 17. Deterministic Hero Integration Harness 01
 
 Brand Integration, Mobile Survival and S6 cannot depend on candidate-specific rescue work.
 
-Before Round 01 is generated, freeze one deterministic hero-integration harness using current temporary website authority.
+Before the Qualifying Round 01 packet is approved or rendered, freeze one deterministic **Hero Integration Harness 01** using current temporary website authority. The harness remains unchanged through the qualifying sequence unless the Director explicitly halts the experiment and reopens the method rather than adapting the harness to an image.
 
 The harness must preserve:
 
 - unchanged Threshold K and O3 assets as separate identity elements;
 - the same representative website copy geometry across candidates;
-- the same desktop frame/container rules across candidates;
-- the packet's predeclared crop/alignment rule;
-- the same mobile frame/crop rule across candidates;
+- the same desktop frame/container and artwork-placement rules across candidates;
+- the same tall/mobile frame and crop/alignment rule across candidates;
 - the untouched raw artwork pixels except for deterministic crop/scale/composite operations needed to place the artwork in the harness.
 
 Do not alter the artwork through inpainting, object removal, repainting, recoloring, relighting, extension/generative outpainting or candidate-specific masking before it is scored.
@@ -487,41 +406,25 @@ The harness is evidence, not website implementation.
 
 A candidate that only passes after bespoke rescue treatment has not passed as the qualifying raw candidate.
 
+The Harness 01 definition and Qualifying Round 01 packet may be presented together as one pre-render Director review package, but the harness portion must be declared global for all qualifying rounds rather than candidate-specific.
+
 ## 18. Evaluation order
 
 The evaluation sequence is pre-registered to reduce aesthetic halo and preserve the independent gates.
 
 ### E0 — provenance / execution record
 
-Archive before critique:
-
-- raw output;
-- exact approved packet;
-- renderer context type;
-- product/model surface when known;
-- generation time/date;
-- output count;
-- technical deviations;
-- asset location / identifier;
-- qualifying-round number.
+Archive before critique: raw output; exact approved packet; renderer context type; product/model surface when known; generation time/date; output count; technical deviations; asset location/identifier; qualifying-round number.
 
 Unknown implementation details remain `UNKNOWN`; do not invent precision.
 
 ### E1 — technical validity
 
-Determine whether a judgeable visual candidate exists.
-
-If no: apply the technical-null rule.
-
-If yes: the round counts and proceeds through evaluation even if the output is obviously weak.
+Determine whether a judgeable visual candidate exists. If no, apply the technical-null rule. If yes, the round counts and proceeds through evaluation even if the output is obviously weak.
 
 ### E2 — frozen Surface Escape hard gate
 
-Apply the frozen operational question **before aesthetic preference**.
-
-Record PASS/FAIL and the literal primary-reading rationale.
-
-Do not let secondary drift observations replace this hard gate.
+Apply the frozen operational question **before aesthetic preference**. Record PASS/FAIL and the literal primary-reading rationale. Do not let secondary drift observations replace this hard gate.
 
 ### E3 — Hero Brief 02 raw-artwork gates
 
@@ -549,25 +452,17 @@ Apply the frozen tests verbatim in meaning:
 - S4 Authored restraint;
 - S5 Discovery without emblem imitation.
 
-Each is independent PASS/FAIL.
-
-No candidate can compensate for one failed S-gate with strength elsewhere.
+Each is independent PASS/FAIL. No candidate can compensate for one failed S-gate with strength elsewhere.
 
 ### E5 — deterministic desktop/mobile evidence
 
-Apply the frozen integration harness.
+Apply the unchanged Hero Integration Harness 01.
 
-Produce the standard desktop coexistence view and standard meaningful tall/mobile crop from the same raw candidate.
-
-No bespoke rescue edit.
+Produce the standard desktop coexistence view and standard meaningful tall/mobile crop from the same raw candidate. No bespoke rescue edit.
 
 ### E6 — remaining hard gates
 
-Complete:
-
-- Brand Integration score;
-- Mobile Survival score;
-- S6 Responsive asymmetry / identity coexistence.
+Complete Brand Integration score, Mobile Survival score and S6 Responsive asymmetry / identity coexistence.
 
 Recheck whether the mobile crop still carries the Brief 02 minimum: at least two necessary people plus changed-condition evidence.
 
@@ -587,20 +482,22 @@ A qualifying candidate advances only if:
 
 There is no compensating average.
 
-### E8 — advisory / diagnostic observations
+### E8 — required non-threshold and diagnostic judgments
 
-Only after the hard result is recorded, judge and archive:
+Only after the hard result is recorded, separately judge and archive:
 
 - relational composition;
 - Quiet Stage belonging;
 - Mineral Theater compatibility beyond the hard S3 test;
 - category distinctiveness;
-- specific prior-author recoverability — advisory only;
+- specific prior-author recoverability — explicitly advisory only;
 - Surface Escape secondary observations;
 - renderer-attractor lineage;
 - artistic magnetism / Director taste as a separate selection consideration.
 
-Advisory observations cannot rescue a hard failure and cannot be silently promoted into a new mandatory gate after seeing the output.
+The first four are required Brief 02 judgments but have no independent numeric advancement floor in the frozen contract. They must be recorded; they may not be silently converted into a new post-result hard gate. Specific prior-author recoverability remains advisory by explicit Brief 02 authority.
+
+These judgments cannot rescue a failed hard gate.
 
 ### E9 — historical comparison
 
@@ -612,14 +509,7 @@ This order prevents historical resemblance or user preference from biasing the i
 
 For every failed qualifying round, record the **smallest failed requirement set**.
 
-For each failure record:
-
-- requirement ID/name;
-- exact observed evidence;
-- whether the failure is independent or appears caused by satisfying another protected requirement;
-- any implicated renderer attractor;
-- material-difference dimensions of the round;
-- whether the evidence is strong enough to support a cross-round collision claim.
+For each failure record include requirement ID/name; exact observed evidence; whether the failure is independent or appears caused by satisfying another protected requirement; any implicated renderer attractor; material-difference dimensions of the round; and whether evidence is strong enough to support a cross-round collision claim.
 
 A protected-requirement collision requires evidence that satisfying one current requirement is causing failure of another. Mere simultaneous failure is not automatically a collision.
 
@@ -631,12 +521,7 @@ This method inherits the frozen stop contract unchanged.
 
 ### Early suspected-unsatisfiable stop
 
-As soon as two **materially different qualifying rounds** establish either:
-
-1. the same hard requirement failing in both; or
-2. the same protected-requirement collision;
-
-the state immediately becomes:
+As soon as two **materially different qualifying rounds** establish either the same hard requirement failing in both or the same protected-requirement collision, the state immediately becomes:
 
 **CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED**
 
@@ -656,15 +541,7 @@ Only the Director may renegotiate an implicated requirement according to the fro
 
 A complete hard-set PASS means the candidate has survived the pre-registered measurement contract.
 
-It does **not** automatically mean:
-
-- final hero;
-- final art direction;
-- final brand recognition;
-- final material system;
-- final palette;
-- final character system;
-- final website implementation.
+It does **not** automatically mean final hero, final art direction, final brand recognition, final material system, final palette, final character system or final website implementation.
 
 A passing candidate becomes eligible for a separate Director selection/reverse-audit decision.
 
@@ -674,17 +551,7 @@ The Director may decline a technically passing candidate on broader artistic/str
 
 Every qualifying output remains evidence until explicitly promoted.
 
-Archive:
-
-- raw output;
-- packet;
-- evaluation;
-- desktop/mobile integration evidence;
-- user reaction;
-- Director judgment;
-- failure/conflict matrix if applicable;
-- transferable discovery;
-- surface quarantine statement.
+Archive raw output, packet, evaluation, desktop/mobile integration evidence, user reaction, Director judgment, failure/conflict matrix if applicable, transferable discovery and surface-quarantine statement.
 
 No palette, medium, clothing, setting, prop family, architecture, lighting treatment, crop, gesture or composition gains inheritance rights through repetition or attractiveness alone.
 
@@ -727,7 +594,7 @@ Before a candidate-specific packet can be submitted for Director approval, the D
 5. Have private-state assertions been removed from mandatory meaning?
 6. Does composition carry relationship rather than an explanatory device?
 7. Is meaningful quiet structurally planned?
-8. Is the desktop identity/copy region and mobile crop zone predeclared?
+8. Has Hero Integration Harness 01 already fixed the desktop/mobile geometry for the entire sequence, and is this candidate designed to survive it without candidate-specific crop rescue?
 9. Is formal grammar intentionally controlled rather than left open by accident?
 10. Is material/color/texture restraint defined without literalizing Mineral Theater?
 11. Are Threshold K/O3/project names absent from the artwork packet?
@@ -737,20 +604,31 @@ Before a candidate-specific packet can be submitted for Director approval, the D
 15. Is the renderer isolation state known?
 16. Are output count and archival/accounting rules fixed before generation?
 17. If this is Round 02/03, is the planned difference from prior rounds pre-recorded and is any claimed `materially different` status justified under the frozen definition?
-18. Has the Director explicitly approved this specific packet before generation?
+18. Has the Director explicitly approved the pre-render package containing the global harness state and this specific packet before generation?
 
 Any `NO` means stop before image generation.
 
-## 25. Boundary / next gate
+## 25. Recursive audit result
+
+The authorized method-design pass found and corrected four material process risks before Director review:
+
+1. **Epistemic overreach** — removed mandatory prior-cause/private-awareness inputs that exceeded Hero Brief 02 and could violate Epistemic Restraint.
+2. **Calibration/qualification conflation** — preserved historical one-variable Renderer Cartography only as empirical evidence; current qualifying rounds are complete hero candidates, not sacrificial calibration probes.
+3. **Budget-gaming ambiguity** — narrowed non-counting events to genuine technical nulls; an evaluable weak or visibly format-failing candidate counts.
+4. **Candidate-specific integration rescue** — replaced per-packet crop flexibility with one global Hero Integration Harness 01 held unchanged across all qualifying candidates.
+
+A complete second pass against Brief 02, Operational Definition 01, frozen Falsification Criteria 01, frozen Surface Escape, Mineral Theater role law, completed R0 renderer evidence and current product truth found no remaining material contradiction, authority leak, missing hard gate, post-hoc threshold path, renderer-calibration regression, or worthwhile method simplification that changes the decision.
+
+## 26. Boundary / next gate
 
 This method document authorizes **no** candidate-specific renderer packet, renderer-facing prompt, image generation, Candidate 03, final hero, style selection, website implementation, motion implementation or Lane A change.
 
 The next sequence is:
 
-1. recursively audit this method against current authority and historical renderer evidence;
-2. correct any material defect;
-3. present `KYMAEAN_HERO_RENDERER_METHOD_01.md` for explicit Director approval/rejection/correction;
-4. only after method approval, prepare one candidate-specific Qualifying Round 01 packet for separate Director review;
-5. no image is generated until that packet is explicitly authorized.
+1. present `KYMAEAN_HERO_RENDERER_METHOD_01.md` for explicit Director **approve / correct / reject** decision;
+2. only after method approval, prepare **Hero Integration Harness 01 + Qualifying Round 01 Hero Candidate Specification + Sterile Renderer Packet 01** as one pre-render review package;
+3. obtain separate explicit Director approval of that pre-render package;
+4. only then execute one isolated renderer request;
+5. archive and evaluate the returned candidate before any next-round work.
 
 Method approval consumes **0 / 3** qualifying rounds.
