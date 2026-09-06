@@ -8,7 +8,7 @@ The people remain primary. Make them distinct through body, age, posture, gestur
 
 Each person changes the shared environment locally simply by occupying and acting within it. Their local spatial/material behaviors must be distinct but belong to one authoritative world.
 
-One person's earlier action has already left the shared field in a changed condition. A second person's presence now encounters that altered condition. Their local fields should bend, compress, occlude, redirect, displace, or otherwise modify the same substrate without becoming beams, halos, connector graphics, or separate fantasy powers.
+One person's earlier action has already left the shared field in a changed condition. A second person's presence now encounters that altered condition. Their local fields should bend, compress, occlude, redirect, displace, or otherwise modify the same substrate. Do not render the fields as visible auras, force bubbles, colored zones, rings, beams, connector graphics, or separate fantasy powers; show the interaction through the shared matter/space itself.
 
 Make the interaction materially change what one person can occupy, reach, use, avoid, perceive, or do. The relationship should be visible through the shared substrate itself, not through a giant object or diagram.
 
