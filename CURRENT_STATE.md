@@ -6,11 +6,11 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Candidate 01 -> Stage-Inspired Visual Physics -> Candidate 02 -> G1 integration/replication gates -> Residual Presence Replication R1 -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Candidate 01 -> Stage-Inspired Visual Physics -> Candidate 02 -> G1 integration/replication gates -> Residual Presence R1 -> Attributable Aftermath Gate 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A / brand
 
-O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. Lane A untouched.
+Stage carrier remains **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. Lane A untouched.
 
 Historical **Threshold K** remains non-final working symbol candidate/control. **O3 Balanced Hierarchy** remains Director-approved temporary wordmark incumbent/source.
 
@@ -18,44 +18,41 @@ Historical **Threshold K** remains non-final working symbol candidate/control. *
 
 **Quiet Stage**, **Site Spine 01**, **Mineral Theater**, **Bounded Chorus**, **Causal Scar**, and **Posture Proximity** remain temporary approved authority.
 
-## G1 / integration
+G1 remains the sole Batch-02 semantic survivor and not final art. Controlled integration passed identity coexistence, semantic survival, mobile crop and Mineral Theater compatibility; surface ownership failed.
 
-G1 remains the sole Batch-02 semantic survivor and **not final art**. Controlled integration passed identity coexistence, semantic survival, mobile crop and Mineral Theater compatibility; its historical-domestic surface failed ownership.
+## Residual Presence R1
 
-## Residual Presence replication R1
-
-The frozen R1-R12 gate was executed on a deliberately different composition: 2 adults, no child/elder-in-doorway, non-liquid distributed field, different blocking.
-
-Result:
-- R1 PASS completed act;
-- R2 PASS persistent residue;
-- **R3 FAIL prior-human-cause recoverability**;
+Frozen R1-R12 result:
+- R1-R2 PASS;
+- **R3 prior-human-cause recoverability FAIL**;
 - R4-R12 PASS.
-
-The black filament field persists, alters the second adult's footing/occupancy, fits the left-copy + 4:5 envelope, and reads as aftermath. But matching fragments on the man's clothing do not prove that his earlier action produced the field; a pre-existing anomaly he merely crossed is equally plausible.
 
 Therefore:
 
 **RESIDUAL PRESENCE — PROVISIONAL / G1-SPECIFIC SUCCESS NOT GENERALIZED**
 
-No compensating average. No third replication automatically authorized.
+The surviving temporal inference is narrower:
 
-## Surface gate observation
+**A still can encode elapsed time through completed-act aftermath, but aftermath alone does not guarantee recoverable human authorship.**
 
-The replication also passes the frozen **ORDINARY TASK TABLEAU MUST BE ABSENT** gate: remove the impossible field and the image no longer remains a coherent period/domestic/work task tableau.
+R1 also passed the independent **ORDINARY TASK TABLEAU MUST BE ABSENT** surface gate. No third Residual Presence replication is automatically authorized.
 
-This does not rescue R3.
+## Attributable Aftermath Gate 01
 
-## Current temporal insight
+Director approved the R1 falsification and authorized a pre-render gate for the unresolved authorship problem.
 
-Supported design inference after TEO + replication:
+`KYMAEAN_ATTRIBUTABLE_AFTERMATH_GATE_01.md` is now **FROZEN BEFORE PROMPT / FROZEN BEFORE RENDER**.
 
-**A still can encode elapsed time through a completed act's persistent aftermath, but aftermath alone does not guarantee recoverable human authorship.**
+Core hypothesis under test:
 
-The unresolved problem is attributable aftermath: preserving both completed-act residue and who caused it.
+**A completed act can remain attributable in a still when the aftermath itself contains source-specific physical correspondence plus an independent second cue, while later-contact and rival-source readings are not equally plausible.**
+
+A1-A16 are binary; all must PASS. No average. A first pass is eligible for replication only, not generalization.
+
+The existing surface escape gate remains independent; aesthetics cannot rescue causal failure.
 
 ## Guards / next
 
 Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority.
 
-Do not refine the R1 image, run a third replication, or build surface divergence on Residual Presence as a settled law. Director review is required before the next art experiment.
+No renderer prompt exists yet. No render is authorized by the gate-setting step. If separately approved, the next step is one renderer prompt constrained by Attributable Aftermath Gate 01 plus the frozen surface escape gate.
