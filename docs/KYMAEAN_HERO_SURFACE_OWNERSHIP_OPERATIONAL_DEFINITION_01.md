@@ -1,13 +1,13 @@
 # KYMAEAN — HERO SURFACE OWNERSHIP OPERATIONAL DEFINITION 01
 
-Status: OPERATIONAL DEFINITION DRAFT / DERIVED FROM APPROVED AUTHORITY / DIRECTOR REVIEW REQUIRED / NO FALSIFICATION CRITERIA YET  
+Status: DIRECTOR APPROVED / CURRENT BOUNDED SURFACE-OWNERSHIP AUTHORITY  
 Date: 2026-09-06
 
 ## Purpose
 
-Define the phrase **“recognizably Kymaean surface”** before any surface-ownership falsification criteria are written.
+Define the phrase **“recognizably Kymaean surface”** before any surface-ownership falsification criteria are applied.
 
-This document is deliberately definition-only. It authorizes no renderer prompt, Candidate 03, new image generation, method proposal, final hero selection or Lane A change.
+This document is definition-only. It authorizes no renderer prompt, Candidate 03, new image generation, method proposal, final hero selection or Lane A change.
 
 ## What “recognizably” means here
 
@@ -75,8 +75,6 @@ A **recognizably Kymaean hero surface** is:
 
 ## Constituent properties of the definition
 
-These are the components of the definition, **not yet a scored or pass/fail criteria sheet**.
-
 1. **Human-first salience**  
    People and their consequential relationship remain the primary meaningful event; system ornament or environmental spectacle does not become the subject.
 
@@ -97,17 +95,7 @@ These are the components of the definition, **not yet a scored or pass/fail crit
 
 ## What this definition intentionally does not select
 
-This does not select:
-- a final illustration genre;
-- realism versus abstraction;
-- a final palette or production token set;
-- literal mineral subject matter;
-- a final texture system;
-- a final photographic / painterly / vector technique;
-- a final hero image;
-- motion;
-- a new symbol;
-- a broader typography system.
+This does not select a final illustration genre, realism versus abstraction, final palette/tokens, literal mineral subject matter, final texture system, photographic/painterly/vector technique, final hero, motion, new symbol or broader typography system.
 
 A future surface may therefore be realistic, illustrative, abstracted or hybrid **only if** it remains continuous with the operational properties above.
 
@@ -119,6 +107,4 @@ That stronger public-recognition claim is not established and is not required by
 
 ## Next boundary
 
-If the Director approves this operational definition, the next step may write falsification criteria **against this definition**.
-
-No criteria sheet may precede that approval, and the criteria may not introduce a new positive aesthetic doctrine under the guise of measurement.
+The Director approved this definition with an added requirement that falsification criteria include an explicit whole-approach stop condition. Criteria may now be written against this definition, but no renderer-facing work is authorized until those criteria receive separate Director approval.
