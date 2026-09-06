@@ -1,6 +1,6 @@
 # KYMAEAN — HERO SURFACE OWNERSHIP FALSIFICATION CRITERIA 01
 
-Status: PRE-REGISTERED / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED
+Status: DIRECTOR APPROVED / FROZEN MEASUREMENT CONTRACT
 Date: 2026-09-06
 
 ## Authority
@@ -40,7 +40,7 @@ All six must PASS independently.
 **Fill test:** PASS only if empty or low-information space materially contributes hierarchy, tension or presence. If neutral detail could fill that region without materially changing the composition, the quiet is decorative and FAILS. Literal stage scenery, cone/spotlight shorthand or featureless generic darkness also FAILS.
 
 ### S3 — Material-role discipline
-**Role-remap test:** PASS only if the image can map into Mineral Theater's approved roles without losing its core hierarchy: slate/void quiet; earned material-field shift; bounded warm human/causal emphasis; bounded cool presence/counter-signal; low-amplitude texture; no color-only semantics. FAIL if saturated multicolor, luxury-metallic treatment, fantasy glow or texture spectacle is necessary to identity.
+**Role-remap test:** PASS only if every material/surface signal actually used by the image can be assigned to Mineral Theater’s approved roles without losing the image’s core hierarchy. The candidate is not required to instantiate every material role: material-field shift, warm causal signal, cool presence signal, and texture may be absent when the subject does not require them. When present, they must obey their approved roles: slate/void quiet; earned material-field shift; bounded warm human/causal emphasis; bounded cool presence/counter-signal; low-amplitude non-semantic texture; and no color-only semantics. FAIL if the image’s identity requires material or color treatment that cannot obey those roles, including saturated multicolor branding, luxury-metallic emphasis, fantasy glow, or texture spectacle.
 
 ### S4 — Authored restraint
 **Hierarchy test:** PASS only if ownership remains legible through proportion, spacing, selective emphasis and optical weight after decorative detail is mentally removed. FAIL if distinctiveness depends mainly on ornament, faux-historical styling, busy texture, decorative complexity or equal-weight insistence.
@@ -95,4 +95,4 @@ No threshold may be lowered, failure averaged away, property relabeled advisory,
 
 This document authorizes no renderer method, renderer packet, prompt, image generation, Candidate 03, final hero, final style system or Lane A change.
 
-**Director approval of this completed measurement contract is required before any later step may be proposed.**
+**Director approved this corrected contract on 2026-09-06. Falsification Criteria 01 is now frozen as the measurement contract. This approval does not authorize renderer method, renderer packet, prompt, image generation, Candidate 03, final hero, final style system or Lane A change.**
