@@ -8,7 +8,7 @@ The people remain primary. Make them distinct through body, age, posture, gestur
 
 A human action has already changed the local behavior of the shared environment. The action itself does not need to be shown. Its residual effect remains physically present: nearby matter, air, shadow, ground, light, surface, or spatial behavior has not fully returned to neutral.
 
-That remaining change must materially alter what another person can occupy, reach, use, avoid, perceive, or do now. The changed condition should feel like a local law of the world rather than an added magical effect or one giant symbolic prop. Give the impossible response grounding through contact, weight, occlusion, residue, displacement, or another physical consequence.
+That remaining change must materially alter what another person can occupy, reach, use, avoid, perceive, or do now. The changed condition should feel like a local law of the world rather than an added magical effect or one giant symbolic prop. Give the impossible response grounding through contact, weight, occlusion, residue, displacement, or another physical consequence. Do not represent the response primarily as a colored aura, glow, energy plume, or force effect.
 
 The complete causal relationship must fit inside one meaningful 4:5 portrait-safe cluster. For the wide desktop composition, keep the left roughly 40% genuinely quiet and expendable as negative space; do not place indispensable people or evidence there.
 
