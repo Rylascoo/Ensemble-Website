@@ -50,12 +50,11 @@ Corrected synthesis:
 
 ## ODR status
 
-Blueprint 0.1 ODR-01..31 registers no requirement that the website hero visually prove specific earlier human authorship. Post-freeze continuation previously added ODR-32 for Context continuity only.
+Blueprint 0.1 ODR-01..31 registers no requirement that the website hero visually prove specific earlier human authorship. ODR-33 is now registered open in the post-freeze continuation:
 
-Proposed:
 **ODR-33 — Website hero causal-observability burden.**
 
-No resolution is encoded here.
+It asks whether direct specific-authorship recovery belongs in the hero itself or in later deterministic site sections. No resolution is encoded.
 
 ## Guards / next
 
