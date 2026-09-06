@@ -18,7 +18,7 @@ Quiet Stage, Site Spine 01, Mineral Theater, Bounded Chorus, Causal Scar and Pos
 
 ODR-33 is RESOLVED: the hero carries human presence, changed shared condition, living consequence and altered present possibility; exact authorship/commit causality belongs to later deterministic sections. Specific prior-author recovery is advisory only.
 
-Hero Brief 02 mandatory floors remain explicit: Human necessity >=4; Changed-condition legibility >=4; Altered possibility >=4; Epistemic restraint >=4; Brand integration >=3; Mobile survival >=3; Removal test >=4; Surface Escape = PASS. No compensating average.
+Hero Brief 02 mandatory floors: Human necessity >=4; Changed-condition legibility >=4; Altered possibility >=4; Epistemic restraint >=4; Brand integration >=3; Mobile survival >=3; Removal test >=4; Surface Escape = PASS. No compensating average.
 
 ## Hero evidence / surface ownership
 
@@ -28,9 +28,9 @@ Director approved `KYMAEAN_HERO_SURFACE_OWNERSHIP_OPERATIONAL_DEFINITION_01.md` 
 
 Definition properties: human-first salience; theatrical absence/meaningful quiet; Mineral Theater material-role discipline; authored restraint; discovery rather than emblem imitation; responsive asymmetry/identity coexistence.
 
-`KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` is now pre-registered for Director review. All six surface properties must PASS in addition to Brief 02 and the frozen Surface Escape gate.
+`KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` is pre-registered for Director review. All six S-gates must PASS in addition to Brief 02 and frozen Surface Escape.
 
-Whole-approach stop: after **three post-definition qualifying candidate rounds**, if no candidate passes the full constraint set and the same hard failure or requirement collision repeats across >=2 materially different rounds, rendering stops as `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`. No threshold loosening or fourth-round retry by default; only the Director may renegotiate a specific implicated requirement.
+Whole-approach stop: after **three post-definition qualifying rounds**, if no candidate passes the full set, there is no automatic fourth round. Repeated hard failure or requirement collision across >=2 materially different rounds => `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`; unrelated failures across all three => `THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED`. Only the Director may renegotiate an implicated requirement.
 
 ## Guards / next
 
