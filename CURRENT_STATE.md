@@ -6,47 +6,49 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 approval -> integrated deployment approval -> Quiet Stage approval -> extension-laws approval -> Site Spine approval -> Mineral Theater approval -> Hero Artwork Brief 01 -> `docs/KYMAEAN_LANE_B_HERO_CANDIDATE_01_EVALUATION.md` -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> deployment -> Quiet Stage -> extension laws -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Hero Candidate 01 evaluation -> Stage-Inspired Visual Physics 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A
 
-O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`. Motion timing stays unfrozen pending Read-Through.
+O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`. Motion timing remains unfrozen pending Read-Through.
 
 ## Shared brand
 
-Historical **Threshold K** remains unchanged working symbol candidate/control, not final logo; SVG is testing adapter only. **O3 Balanced Hierarchy** remains Director-approved temporary W0 wordmark incumbent/source asset, non-final.
+Historical **Threshold K** remains unchanged working symbol candidate/control, non-final; SVG = testing adapter. **O3 Balanced Hierarchy** remains Director-approved temporary wordmark incumbent/source, non-final.
 
-Deployment laws remain: app brand recedes behind Production; Stage excludes brand geometry from Stage semantics; website may breathe more; hero may use Threshold K as prelude + O3 as name; O3 may appear alone; no universal fixed ratio.
+Deployment: app brand recedes behind Production; Stage excludes brand geometry from Stage semantics; website may breathe more; O3 may stand alone; no universal fixed ratio.
 
-## Website V0 authority
+## Website V0
 
-**C — Quiet Stage** remains Director-approved temporary primary V0 visual-world incumbent. **Website V0 Site Spine 01** and **B — Mineral Theater** remain Director-approved temporary V0 authority.
+**C — Quiet Stage**, **Site Spine 01**, and **B — Mineral Theater** remain Director-approved temporary authority.
 
-Approved site order:
+Site order:
 `HERO -> ONE PRODUCTION -> BOUNDED PERSPECTIVE -> CAUSAL COMMIT -> HISTORY -> CREATOR POSTURE -> LOCAL SOVEREIGNTY -> INVITATION`
 
-Approved grammars: **Bounded Chorus**, **Causal Scar**, **Posture Proximity**. Cone imagery remains reserved for genuine Stage/product-truth roles. Warm causal is not generic brand/interaction chrome; cool never carries identity/state alone.
+Approved grammars: **Bounded Chorus**, **Causal Scar**, **Posture Proximity**. Cone imagery is reserved for genuine Stage/product-truth roles. Warm causal is not generic chrome; cool is redundant.
 
 ## Hero Candidate 01
 
-Hero Artwork Brief 01 remains governing specification: distinct necessary people; recoverable prior human cause; materially altered present possibility; one shared reality with unequal physical availability; relationship by composition; quiet before spectacle; left desktop identity zone + meaningful 4:5 crop.
+H-A / H-B / H-C are archived. **NO CANDIDATE ADVANCES.** H-A is prop-led; H-B fails hero/crop composition; H-C has ambiguous prior cause + monumental-mechanism pressure. Do not refine/merge them.
 
-Raw isolated candidates received + archived:
-- **H-A** Inhabited Spatial Realism;
-- **H-B** Constructed Relational Field;
-- **H-C** Transformational Identity Field.
+## Stage-Inspired Visual Physics 01
 
-Independent rubric + mobile-crop tests complete. **NO CANDIDATE ADVANCES.**
+Director approved pausing Batch 02 to mine historical Stage/O0 work as **inspiration, not incumbent surface**.
 
-Mandatory-gate summary:
-- H-A `A3/C3/D2/E5/I2/J3/L2` — repair/trench is prop-led; altered possibility too weak.
-- H-B `A4/C4/D4/E5/I2/J2/L4` — strongest causal semantics; causal relation cannot coexist with left identity zone or survive one 4:5 crop.
-- H-C `A4/C3/D4/E4/I2/J3/L4` — strongest Kymaean specificity; prior cause too ambiguous; operator occupies copy zone; monumental mechanism violates hard pressure.
+Proposed website-art physics:
+1. presence = local law of shared space;
+2. material/spatial behavior may support identity continuity without replacing the person;
+3. consequence = field does not fully return to neutral;
+4. relationship = one presence changes another's available space;
+5. impossible presence stays grounded;
+6. Stage = meaningful emptiness around people, not literal scenery;
+7. transformation stays human-first;
+8. color is redundant support only.
 
-Historical comparison confirms recurring quarantined renderer priors: H-A worn-room/repair; H-B muted painterly walls/crossings; H-C archive/books/monumental mechanism. Useful inheritance is law-level only.
+Hypotheses: **G1 Residual Presence**, **G2 Shared Pressure Field**, **G3 Translated Identity**, **G4 Occluded Chorus** as evaluation pressure.
+
+Status: **SYNTHESIS COMPLETE / DIRECTOR REVIEW REQUIRED.**
 
 ## Guards / next
 
-Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority. Runtime accessibility/performance/Store validation remain external.
-
-Stop at Director review. Do not refine/merge H-A/H-B/H-C or generate H-D by default. Smallest unresolved question: can a fresh explicitly authorized batch keep actor + affected person + changed evidence inside one mobile-safe semantic cluster, reserve the left ~40% as truly quiet/expendable, and avoid quarantined prop/metaphor families?
+Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority. Do not generate Batch 02 yet. Proposed next gate: approve the eight laws and use **G1/G2/G3** as sterile renderer packets. Actor + affected person + changed evidence must fit one 4:5-safe cluster; left desktop copy zone remains quiet/expendable.
