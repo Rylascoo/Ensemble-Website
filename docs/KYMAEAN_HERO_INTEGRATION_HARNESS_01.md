@@ -69,9 +69,9 @@ Fixed identity/copy scaffold:
 - O3 displayed width: **360 CSS px**, constrained to the copy block;
 - fixed scaffold eyebrow: `Local-first generative theater`;
 - fixed scaffold heading: `A world with continuity, not a stream of replies.`;
-- fixed scaffold supporting line: `One persistent Production carries people, circumstance and committed consequence forward.`
+- fixed scaffold supporting line: `One persistent Production carries Characters, world conditions, bounded knowledge and committed consequence forward.`
 
-The scaffold copy is measurement text borrowed from current Site Spine language. It is not final website copy and gains no production authority through this harness.
+The scaffold copy is measurement text taken directly from current Site Spine language. It is not final website copy and gains no production authority through this harness.
 
 No outline is drawn around the left 40% in scored evidence. The percentage exists as a pre-registered geometry constraint, not visible UI.
 
