@@ -62,11 +62,11 @@ Corrected statement:
 
 ## Authority correction
 
-Blueprint 0.1 ODR-01..31 contains no requirement that the website hero visually prove specific earlier human authorship. Post-freeze ODR continuation adds ODR-32 only for Context continuity at scale.
+Blueprint 0.1 ODR-01..31 contains no requirement that the website hero visually prove specific earlier human authorship.
 
 The stronger hero burden arose later in Lane B Hero Artwork Brief 01 / Attributable Aftermath Gate 01.
 
-Proposed open question is tracked separately as **ODR-33 — Website hero causal-observability burden**.
+**ODR-33 — Website hero causal-observability burden** is now registered as an open post-freeze question. It does not resolve the burden allocation.
 
 ## Boundary
 
