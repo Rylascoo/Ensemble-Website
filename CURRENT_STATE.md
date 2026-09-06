@@ -6,7 +6,7 @@ Updated: 2026-09-06
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> hero evidence reclassification -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> hero evidence reclassification -> Surface Ownership Operational Definition 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A / brand
 
@@ -24,17 +24,21 @@ Director approved Option B:
 
 **The hero is not required to make one specific earlier human author directly recoverable. It carries human presence, a changed shared condition, living consequence and altered present possibility. Exact authorship / commit causality belongs to later deterministic causal-cycle and history sections.**
 
-Hero Brief 01 is historical evidence. **Hero Artwork Brief 02 is current hero-burden authority.** Required gates retain human necessity, changed-condition legibility, altered possibility, epistemic restraint, brand integration, mobile survival, removal significance and Surface Escape. Specific prior-author recovery is advisory only.
+Hero Brief 02 is current hero-burden authority. Specific prior-author recovery is advisory only.
 
-## Hero evidence / next question
+## Hero evidence / surface ownership
 
 No prior image is promoted:
 - G1: semantic evidence; historical-domestic surface failure.
 - R1: temporal/surface-escape evidence; no owned surface selected.
 - A1: reduced-burden semantic evidence; fantasy/cinematic-surrealist substitution.
 
-Smallest unresolved question:
+Director approved the narrowed surface-ownership problem with a **definition-first condition**: no falsification criteria until `recognizably Kymaean surface` is operationally defined from existing approved material/graphic authority rather than new brand invention.
 
-**Can the hero preserve necessary people + changed shared condition + altered present possibility while achieving a recognizably Kymaean surface rather than historical-domestic realism, generic surrealism or fantasy key art?**
+`KYMAEAN_HERO_SURFACE_OWNERSHIP_OPERATIONAL_DEFINITION_01.md` is now a **definition draft for Director review**. It defines current-project conformance through human-first salience, theatrical absence/meaningful quiet, Mineral Theater material-role discipline, authored restraint, discovery rather than emblem imitation, and responsive asymmetry/identity coexistence.
 
-No prompt, render, Candidate 03, final hero, method proposal or Lane A change is authorized. A separate Director gate is required before the narrowed surface-ownership question advances.
+This is not a public-recognition claim or final image-style selection.
+
+## Guards / next
+
+No falsification criteria, prompt, render, Candidate 03, final hero, method proposal or Lane A change is authorized until the operational definition is reviewed.
