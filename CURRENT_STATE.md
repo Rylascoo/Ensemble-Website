@@ -6,7 +6,7 @@ Updated: 2026-09-06
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> criteria approval evidence -> Hero Renderer Method Director Authorization 01 -> `KYMAEAN_HERO_RENDERER_METHOD_01.md` -> renderer-method recursive audit -> Renderer Cartography phase reconciliation -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> criteria approval evidence -> Hero Renderer Method Director Authorization 01 -> `KYMAEAN_HERO_RENDERER_METHOD_01.md` -> renderer-method recursive audit -> renderer-method Director approval -> Renderer Cartography phase reconciliation -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A / brand
 
@@ -32,28 +32,34 @@ Current criteria approval authority is `docs/evidence/HERO_SURFACE_OWNERSHIP_FAL
 
 ## Hero renderer method
 
-The Director explicitly authorized **renderer-method design only** on 2026-09-06. Authority record: `docs/evidence/HERO_RENDERER_METHOD_DIRECTOR_AUTHORIZATION_01.md`.
+The Director explicitly authorized renderer-method design on 2026-09-06. Authority record: `docs/evidence/HERO_RENDERER_METHOD_DIRECTOR_AUTHORIZATION_01.md`.
 
-`docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` is now **PRE-REGISTERED / RECURSIVELY AUDITED / READY FOR DIRECTOR REVIEW / NOT YET DIRECTOR APPROVED**.
+`docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` is now **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**.
 
 Recursive-audit authority: `docs/evidence/HERO_RENDERER_METHOD_RECURSIVE_AUDIT_01.md`.
 
-The audit corrected four load-bearing process risks: private-state/prior-cause overreach; confusion between historical calibration and current qualifying rounds; free-reroll/method-invalid budget ambiguity; and candidate-specific crop/integration rescue. It also corrected Brief 02's non-threshold judgment classification. A complete second pass found no remaining material correction.
+Director-approval authority: `docs/evidence/HERO_RENDERER_METHOD_DIRECTOR_APPROVAL_01.md`.
 
-Current method architecture requires, after method approval but before any render, one global deterministic `Hero Integration Harness 01` held unchanged across all qualifying candidates. The Qualifying Round 01 candidate specification and sterile renderer packet will be prepared only after method approval and will require their own explicit pre-render Director approval.
+The method audit corrected four load-bearing process risks: private-state/prior-cause overreach; confusion between historical calibration and current qualifying rounds; free-reroll/method-invalid budget ambiguity; and candidate-specific crop/integration rescue. It also corrected Brief 02's non-threshold judgment classification. A complete second pass found no remaining material correction.
+
+The frozen method requires one global deterministic `Hero Integration Harness 01` before Round 01, held unchanged across all qualifying candidates. It also requires every judgeable visible candidate to consume one qualifying round, except genuine technical nulls, and preserves the frozen two-round suspected-unsatisfiable and three-round exhaustion stop laws.
 
 Historical R0 Renderer Cartography is empirical method evidence only. R0 calibration remains closed and no R0 rendered surface has inheritance rights. `docs/RENDERER_CARTOGRAPHY_PHASE_RECONCILIATION_2026_09_06.md` overrides stale `ACTIVE R0` phase language in the historical Cartography protocol without erasing its empirical laws.
 
-The earlier unauthorized `Post-Definition Round 01 Method Proposal` remains **RETRACTED / NOT AUTHORITY** and is not restored by the new method.
+The earlier unauthorized `Post-Definition Round 01 Method Proposal` remains **RETRACTED / NOT AUTHORITY** and is not restored by the approved method.
 
 ## Guards / next
 
-Renderer Method 01 = **READY FOR DIRECTOR REVIEW / NOT YET APPROVED**.
+Renderer Method 01 = **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**.
 
 Qualifying-round counter = **0 / 3**.
 
-Hero Integration Harness 01 = NOT YET AUTHORIZED FOR EXECUTION / NOT YET FROZEN.
+Hero Integration Harness 01 = NOT YET FROZEN.
 
-Qualifying Round 01 candidate specification = NOT AUTHORIZED. Sterile renderer packet/prompt = NOT AUTHORIZED. Render / Candidate 03 = NOT AUTHORIZED. Final hero, final style selection, implementation and Lane A change = NOT AUTHORIZED.
+Qualifying Round 01 Hero Candidate Specification = NOT YET APPROVED.
 
-Next gate: Director decision on `KYMAEAN_HERO_RENDERER_METHOD_01.md` — **approve, correct, or reject**. If approved, prepare `Hero Integration Harness 01 + Qualifying Round 01 Hero Candidate Specification + Sterile Renderer Packet 01` as one pre-render review package. No image generation occurs without separate explicit approval of that package.
+Sterile Renderer Packet 01 / renderer-facing prompt = NOT YET APPROVED.
+
+Render / Candidate 03 = NOT AUTHORIZED. Final hero, final style selection, implementation and Lane A change = NOT AUTHORIZED.
+
+Next gate: prepare and recursively audit `Hero Integration Harness 01 + Qualifying Round 01 Hero Candidate Specification + Sterile Renderer Packet 01` as one pre-render review package, then obtain separate explicit Director approval before any image generation. Method approval itself consumes **0 / 3** qualifying rounds.
