@@ -57,8 +57,6 @@ Corrected synthesis:
 
 Blueprint 0.1 §24 lists ODR-01 through ODR-31. None requires the website hero itself to prove specific earlier human authorship.
 
-The post-freeze ODR continuation adds ODR-32 (Context continuity at scale), not a hero-authorship requirement.
-
 The burden arose later in Lane B:
 - Hero Artwork Brief 01 required present evidence of prior human action / prior-cause recoverability;
 - Attributable Aftermath Gate 01 strengthened that local experiment into recovery of one specific earlier human source.
@@ -66,10 +64,12 @@ The burden arose later in Lane B:
 Therefore:
 **"the hero must visually prove specific authorship" is not frozen Blueprint/ODR authority.**
 
-### Proposed ODR-33 — Website hero causal-observability burden
+### ODR-33 — Website hero causal-observability burden
+
+Now registered as an open post-freeze question:
 
 **Should the website hero artwork itself be required to make a specific earlier human author directly recoverable from the hero image, or should that authorship burden be carried by subsequent deterministic site sections while the hero carries a different level of causal meaning?**
 
-Status: **PROPOSED OPEN QUESTION / NOT RESOLVED HERE.**
+Status: **OPEN / NOT RESOLVED HERE.**
 
 No prompt, method proposal, Candidate 03, or Lane A change follows from this correction.
