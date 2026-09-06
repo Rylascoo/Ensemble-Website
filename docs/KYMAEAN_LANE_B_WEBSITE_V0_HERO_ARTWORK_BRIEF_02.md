@@ -21,7 +21,7 @@ Artwork lens:
 
 **HUMAN CAUSALITY, LIVING CONSEQUENCE.**
 
-Human causality is carried at hero level through necessary people, relational structure and consequential change. Exact source attribution is not mandatory.
+At hero level, the observable burden is necessary people, relational structure, changed shared condition and altered present possibility. Exact causal attribution is deferred to later deterministic sections.
 
 ## Required truths
 
