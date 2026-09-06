@@ -1,60 +1,63 @@
 # Ensemble Website — Current State
 
-Updated: 2026-09-05
+Updated: 2026-09-06
 
 ## Authority
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Candidate 01 -> Stage-Inspired Visual Physics -> Candidate 02 -> G1 integration/replication -> Residual Presence R1 -> Attributable Aftermath Gate 01 -> Experiment A1 Result 01 -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Candidate 01 -> Stage-Inspired Visual Physics -> Candidate 02 -> G1 integration/replication -> Residual Presence R1 -> Attributable Aftermath Gate 01 -> A1 Result 01 -> A1 Reconciliation 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A / brand
 
-Stage carrier remains **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. Lane A untouched.
-
-Historical **Threshold K** remains non-final working symbol candidate/control. **O3 Balanced Hierarchy** remains Director-approved temporary wordmark incumbent/source.
+Stage cone authority unchanged. Historical Threshold K remains non-final working symbol candidate/control. O3 remains temporary wordmark incumbent/source.
 
 ## Website V0
 
-**Quiet Stage**, **Site Spine 01**, **Mineral Theater**, **Bounded Chorus**, **Causal Scar**, and **Posture Proximity** remain approved temporary authority.
+Quiet Stage, Site Spine 01, Mineral Theater, Bounded Chorus, Causal Scar, and Posture Proximity remain approved temporary authority.
 
-G1 remains the sole Batch-02 semantic survivor and not final art. Controlled integration passed identity, semantics, mobile crop and Mineral Theater compatibility; its historical-domestic surface failed ownership.
+G1 remains Batch-02 semantic survivor, not final art.
 
-## Residual Presence
+## Temporal / authorship evidence
 
-R1 failed only prior-human-cause recoverability under its frozen gate.
+TEO-01 and TEO-02 each scored **Visible authorship PASS** using two-moment temporal comparison. TEO-02 concluded that before/after state information can carry causal burden one static surface cannot reliably carry alone.
 
-Therefore:
+R1/A1 are therefore single-still transfer tests, not proof that visual authorship is globally unresolved.
 
-**RESIDUAL PRESENCE — PROVISIONAL / G1-SPECIFIC SUCCESS NOT GENERALIZED**
+Residual Presence R1 remains provisional.
 
-Surviving inference:
+## A1 reconciled result
 
-**A still can encode elapsed time through completed-act aftermath, but aftermath alone does not guarantee recoverable human authorship.**
-
-## Attributable Aftermath A1
-
-A1 was evaluated against frozen A1-A16 plus the independent surface gate.
-
-PASS: A1, A2, A4, A8-A15.  
-FAIL: **A3 Specific Source, A5 Independent Second Cue, A6 Later-Contact Confound, A7 Rival-Source Exclusion, A16 Complete 4:5 Attribution Cluster.**
-
-Therefore:
+Overall verdict remains:
 
 **ATTRIBUTABLE AFTERMATH — NOT ESTABLISHED**
 
-The woven correspondence successfully associates the source woman with the aftermath, but the intended body-orientation/deformation cue did not survive as a legible independent authorship cue. Later-contact, affected-person/rival-source and pre-existing-anomaly readings remain plausible.
+Correct causal dependency:
+- independent failure: **A5**
+- dependents: **A3 / A6 / A7 / A16**
+- prior **A9 PASS is invalid** while A3 fails; A9 = NOT ESTABLISHED.
 
-Independent surface gate:
+A4:
+- frozen-gate wording: PASS
+- stricter renderer-packet property ("inside / through depth / formed with field"): **CONTESTED / strict FAIL**
+- recorded protocol defect: frozen A4 was weaker than the property tested.
 
-**ORDINARY TASK TABLEAU MUST BE ABSENT — PASS**
+Independent surface gate remains PASS.
 
-This is the second result showing the historical-domestic task attractor can be suppressed. Non-gating drift remains fantasy/cinematic-surreal.
+Corrected synthesis:
+
+**Specific human authorship survived twice in TEO-01/02 through two-moment comparison. What has not survived is transfer of that burden into one aftermath-only hero still under A1.**
+
+## ODR status
+
+Blueprint 0.1 ODR-01..31 registers no requirement that the website hero visually prove specific earlier human authorship. ODR-33 is now registered open in the post-freeze continuation:
+
+**ODR-33 — Website hero causal-observability burden.**
+
+It asks whether direct specific-authorship recovery belongs in the hero itself or in later deterministic site sections. No resolution is encoded.
 
 ## Guards / next
 
-Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority.
+Character != Performer/Portrait. Atomic commit establishes consequence. UI is projection, not authority.
 
-No automatic A1 retry/refinement, second A1 prompt, Candidate 03, final-art promotion, or Lane A change.
-
-Next step requires Director decision about method, not another image by momentum.
+No prompt, method proposal, Candidate 03, A1 retry/refinement, final-art promotion, or Lane A change is authorized by this reconciliation.

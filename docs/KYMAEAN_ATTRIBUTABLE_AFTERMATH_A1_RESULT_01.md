@@ -1,71 +1,73 @@
 # KYMAEAN — ATTRIBUTABLE AFTERMATH A1 RESULT 01
 
-Status: FALSIFICATION COMPLETE / ATTRIBUTABLE AFTERMATH NOT ESTABLISHED / SURFACE ESCAPE PASS  
-Date: 2026-09-05
+Status: FALSIFICATION COMPLETE / RECONCILED 2026-09-06 / ATTRIBUTABLE AFTERMATH NOT ESTABLISHED / SURFACE ESCAPE PASS
 
-## Frozen-gate result
+## Frozen-gate verdict
 
-Evaluated against pre-render `KYMAEAN_ATTRIBUTABLE_AFTERMATH_GATE_01.md` and independent `KYMAEAN_HERO_SURFACE_ESCAPE_GATE_01.md`.
-
-All A1-A16 were mandatory.
-
-PASS:
-A1 Completed Act; A2 Persistent Aftermath; A4 Residue Correspondence; A8 Altered Present Possibility; A9 Source Necessity; A10 Affected Necessity; A11 Aftermath Removal; A12 Distributed Evidence; A13 One-World Restraint; A14 Temporal Residue; A15 Desktop Zone.
-
-FAIL:
-- **A3 Specific Source** — the woman is associated through woven continuity, but the frame does not establish that she caused the aftermath earlier.
-- **A5 Independent Second Cue** — the intended body-orientation/deformation correspondence is not visually recoverable; the ground geometry reads generically.
-- **A6 Later-Contact Confound** — garment loss/transfer direction is not clear enough to exclude later contact/snaring.
-- **A7 Rival-Source Exclusion** — the man's current stepping geometry and a pre-existing anomalous-field reading remain plausible.
-- **A16 4:5 Complete Attribution Cluster** — both adults/aftermath survive the crop, but the required second cue does not exist strongly enough to survive it.
-
-Mandatory verdict:
+Evaluated against frozen `KYMAEAN_ATTRIBUTABLE_AFTERMATH_GATE_01.md` plus independent `KYMAEAN_HERO_SURFACE_ESCAPE_GATE_01.md`.
 
 **ATTRIBUTABLE AFTERMATH — NOT ESTABLISHED**
 
-No automatic retry or refinement.
+No automatic retry/refinement.
 
-## What the image proves
+## Corrected dependency structure
 
-The renderer successfully produced:
-- completed-act aftermath rather than causal action in progress;
-- non-liquid distributed shared-field change;
-- clear altered footing/occupancy;
-- source-related woven material visibly embedded in the aftermath;
-- two necessary adults in one authoritative world;
-- quiet left ~40% desktop zone;
-- viable two-person 4:5 crop.
+Independent causal failure:
+- **A5 Independent Second Cue — FAIL.** The intended body-orientation/deformation correspondence is not legible.
 
-The experiment therefore improved attribution evidence beyond Residual Presence R1, but **association did not become authorship**.
+Dependent failures:
+- **A3 Specific Source — FAIL:** woven continuity alone gives association, not specific authorship.
+- **A6 Later-Contact Confound — FAIL:** without A5, later contact/snaring remains viable.
+- **A7 Rival-Source Exclusion — FAIL:** without A5, rival-person / anomaly readings remain viable.
+- **A16 4:5 Causal Cluster — FAIL:** a crop cannot preserve an absent second cue.
 
-The planned abstract second cue was too fragile: repeated deformation geometry did not read as uniquely corresponding to the source woman's asymmetrical body orientation.
+**A9 Source Necessity:** prior PASS was logically invalid while A3 failed. Reclassified **NOT ESTABLISHED because A3 fails**.
+
+Other frozen gates remain PASS under their registered wording.
+
+## A4 packet-level correction
+
+Frozen A4 only required source-specific correspondence "embedded in the field/material"; on that wording A4 remains PASS.
+
+The renderer packet required a stronger property: woven material visibly **INSIDE** the aftermath, not merely on top, distributed **through the depth**, and clearly incorporated **when the field formed**.
+
+The render does not establish that stricter property confidently.
+
+Therefore:
+- **A4 frozen-gate score: PASS**
+- **A4 packet-property compliance: CONTESTED / strict FAIL**
+
+The frozen A4 wording was weaker than the property the packet was written to test. This is recorded as a pre-registration defect, not a retroactive gate rewrite.
 
 ## Surface result
 
-Frozen hard gate:
-
 **ORDINARY TASK TABLEAU MUST BE ABSENT — PASS**
 
-Removing the impossible filament physics leaves two adults in sparse, non-domestic, temporally nonspecific space rather than a coherent household/work/task tableau.
+Removing the impossible filament physics leaves two adults in sparse, non-domestic, temporally nonspecific space, not a coherent household/work/task tableau.
 
-Non-gating observations:
-- fantasy / videogame-key-art drift: present;
-- generic cinematic-surrealism drift: present;
-- spectacular-effect dependence: moderate.
+## TEO reconciliation
 
-These do not alter the causal verdict.
+The prior statement that specific earlier human authorship "has not yet survived" was too broad.
 
-## Repeated findings
+- **TEO-01: Visible authorship PASS.**
+- **TEO-02: Visible authorship PASS.**
 
-Now supported across more than one experiment:
-1. **Completed-act aftermath can encode elapsed time in a still.**
-2. **The historical-domestic task-tableau attractor can be suppressed with sufficiently constrained prompting.**
+Both used two-moment temporal comparison. TEO-02 explicitly concluded that before/after information can carry causal burden that one static surface cannot reliably carry alone and said further temporal rendering was not justified.
 
-Still unresolved:
-**specific earlier human authorship has not yet survived the frozen single-still attribution standard.**
+R1/A1 were therefore not tests of whether visual authorship is possible. They were later **single-still transfer tests** asking whether that TEO burden could survive an aftermath-only website hero.
+
+Corrected statement:
+
+**Specific human authorship survived twice in TEO-01/02 through two-moment temporal comparison. What has not survived is transfer of that burden into one aftermath-only hero still under A1.**
+
+## Authority correction
+
+Blueprint 0.1 ODR-01..31 contains no requirement that the website hero visually prove specific earlier human authorship.
+
+The stronger hero burden arose later in Lane B Hero Artwork Brief 01 / Attributable Aftermath Gate 01.
+
+**ODR-33 — Website hero causal-observability burden** is now registered as an open post-freeze question. It does not resolve the burden allocation.
 
 ## Boundary
 
-Do not refine A1, retry A1, create a second A1 prompt, promote the image as final hero art, or change Lane A.
-
-Next step requires Director decision about method, not another image by momentum.
+No prompt, method proposal, Candidate 03, final-art promotion, or Lane A change follows from this reconciliation.
