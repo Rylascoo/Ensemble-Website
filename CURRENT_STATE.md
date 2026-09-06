@@ -6,7 +6,7 @@ Updated: 2026-09-06
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> criteria approval evidence -> Hero Renderer Method Director Authorization 01 -> `KYMAEAN_HERO_RENDERER_METHOD_01.md` -> renderer-method recursive audit -> renderer-method Director approval -> Renderer Cartography phase reconciliation -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> criteria approval evidence -> Hero Renderer Method Director Authorization 01 -> `KYMAEAN_HERO_RENDERER_METHOD_01.md` -> renderer-method recursive audit -> renderer-method Director approval -> renderer-method status reconciliation -> Renderer Cartography phase reconciliation -> Hero Integration Harness 01 -> Round 01 Candidate Specification -> Sterile Renderer Packet 01 -> Pre-Render Review Package 01 -> package recursive audit -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A / brand
 
@@ -34,11 +34,13 @@ Current criteria approval authority is `docs/evidence/HERO_SURFACE_OWNERSHIP_FAL
 
 The Director explicitly authorized renderer-method design on 2026-09-06. Authority record: `docs/evidence/HERO_RENDERER_METHOD_DIRECTOR_AUTHORIZATION_01.md`.
 
-`docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` is now **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**.
+`docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` is **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**.
 
 Recursive-audit authority: `docs/evidence/HERO_RENDERER_METHOD_RECURSIVE_AUDIT_01.md`.
 
 Director-approval authority: `docs/evidence/HERO_RENDERER_METHOD_DIRECTOR_APPROVAL_01.md`.
+
+Status continuity: the frozen method file itself still contains its historical pre-approval status/boundary wording. `docs/evidence/HERO_RENDERER_METHOD_STATUS_RECONCILIATION_01.md` records that the later Director approval evidence + this `CURRENT_STATE.md` establish current authority without rewriting the frozen method body.
 
 The method audit corrected four load-bearing process risks: private-state/prior-cause overreach; confusion between historical calibration and current qualifying rounds; free-reroll/method-invalid budget ambiguity; and candidate-specific crop/integration rescue. It also corrected Brief 02's non-threshold judgment classification. A complete second pass found no remaining material correction.
 
@@ -48,18 +50,41 @@ Historical R0 Renderer Cartography is empirical method evidence only. R0 calibra
 
 The earlier unauthorized `Post-Definition Round 01 Method Proposal` remains **RETRACTED / NOT AUTHORITY** and is not restored by the approved method.
 
+## Hero Pre-Render Review Package 01
+
+The method-authorized pre-render package is now **PREPARED / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED / NO RENDER AUTHORIZED**.
+
+Components:
+
+- `docs/KYMAEAN_HERO_INTEGRATION_HARNESS_01.md`;
+- `prototypes/lane-b/hero-integration-harness-01.html`;
+- `docs/KYMAEAN_HERO_QUALIFYING_ROUND_01_CANDIDATE_SPECIFICATION.md`;
+- `docs/KYMAEAN_HERO_STERILE_RENDERER_PACKET_01.md`;
+- `docs/KYMAEAN_HERO_PRE_RENDER_REVIEW_PACKAGE_01.md`;
+- audit: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_01_RECURSIVE_AUDIT.md`.
+
+Harness 01 is candidate-neutral and not yet frozen: desktop 1280x720, fixed 50%/50% candidate placement, fixed left identity/copy geometry, unchanged Threshold K + O3, no candidate-specific scrim; mobile uses the same raw candidate in a fixed 390x488 4:5 crop at `object-position:72% 50%`. Approval would freeze this harness globally for the current qualifying sequence.
+
+Round 01 hypothesis: three specific adults inside one shallow continuous material field; a connected band of several interlocking planes is visibly displaced as one distributed changed condition; that condition changes physical visual availability/occlusion between people without asserting Knowledge, Belief, Memory, intent or exact prior authorship. Dominant formal grammar is intentionally controlled; Surface Escape preflight passes.
+
+The exact sterile renderer packet is written and marked **DO NOT EXECUTE**. It requests exactly one uninterrupted landscape artwork in a fresh regular non-project renderer context if and only if the complete package is later approved.
+
+Recursive audit found and corrected two issues before review: Site Spine scaffold copy was normalized to exact current authority, and the changed condition was distributed across several connected planes to avoid pre-seeding a single-dominant-mechanism failure. A second pass found no remaining material correction or worthwhile improvement that changes the decision.
+
 ## Guards / next
 
 Renderer Method 01 = **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**.
 
 Qualifying-round counter = **0 / 3**.
 
-Hero Integration Harness 01 = NOT YET FROZEN.
+Hero Pre-Render Review Package 01 = **PREPARED / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED**.
 
-Qualifying Round 01 Hero Candidate Specification = NOT YET APPROVED.
+Hero Integration Harness 01 = **NOT YET FROZEN**.
 
-Sterile Renderer Packet 01 / renderer-facing prompt = NOT YET APPROVED.
+Qualifying Round 01 Hero Candidate Specification = **NOT YET APPROVED**.
+
+Sterile Renderer Packet 01 / renderer-facing prompt = **NOT YET APPROVED / DO NOT EXECUTE**.
 
 Render / Candidate 03 = NOT AUTHORIZED. Final hero, final style selection, implementation and Lane A change = NOT AUTHORIZED.
 
-Next gate: prepare and recursively audit `Hero Integration Harness 01 + Qualifying Round 01 Hero Candidate Specification + Sterile Renderer Packet 01` as one pre-render review package, then obtain separate explicit Director approval before any image generation. Method approval itself consumes **0 / 3** qualifying rounds.
+Exact next gate: Director **APPROVE / CORRECT / REJECT Hero Pre-Render Review Package 01**. Approval would freeze Harness 01, approve the Round 01 specification + exact packet, and authorize exactly one isolated renderer request. Approval itself consumes **0 / 3**; the counter changes only when a judgeable visible candidate returns.
