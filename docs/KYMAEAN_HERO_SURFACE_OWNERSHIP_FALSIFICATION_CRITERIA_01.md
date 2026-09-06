@@ -1,13 +1,13 @@
 # KYMAEAN — HERO SURFACE OWNERSHIP FALSIFICATION CRITERIA 01
 
-Status: PRE-REGISTERED CRITERIA / DEFINITION-BOUND / DIRECTOR REVIEW REQUIRED BEFORE RENDER
+Status: PRE-REGISTERED / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED
 Date: 2026-09-06
 
 ## Authority
 
-These criteria are subordinate to Hero Artwork Brief 02, approved Hero Surface Ownership Operational Definition 01, frozen Hero Surface Escape Gate 01, and current Quiet Stage / Mineral Theater / Threshold K / O3 temporary authority.
+Subordinate to Hero Artwork Brief 02, Director-approved Hero Surface Ownership Operational Definition 01, frozen Hero Surface Escape Gate 01, and current Quiet Stage / Mineral Theater / Threshold K / O3 temporary authority.
 
-No criterion below invents a new positive aesthetic doctrine.
+No criterion below invents new positive aesthetic doctrine.
 
 ## Approved operational definition
 
@@ -17,7 +17,7 @@ A recognizably Kymaean hero surface is:
 
 ## Existing hard gates remain unchanged
 
-Hero Brief 02 numeric floors, no compensating average:
+Hero Brief 02; no compensating average:
 - Human necessity >= 4
 - Changed-condition legibility >= 4
 - Altered possibility >= 4
@@ -29,62 +29,70 @@ Hero Brief 02 numeric floors, no compensating average:
 
 Specific prior-author recoverability remains advisory only.
 
-## Surface-ownership falsification criteria
+## Surface-ownership gates
 
-All six must PASS. No averaging.
+All six must PASS independently.
 
 ### S1 — Human-first salience
-**Removal/interchangeability test:** PASS only if removing the people, or making them generic/interchangeable, materially collapses the image's core proposition. FAIL if environment, ornament or one impossible/spectacular effect remains sufficient to carry the primary meaning while the people function mainly as witnesses, scale figures or decoration.
+**Removal/interchangeability test:** PASS only if removing the people, or making them generic/interchangeable, materially collapses the image's primary proposition. FAIL if environment, ornament, mechanism or spectacle still carries the main meaning while people are witnesses, scale figures or decoration.
 
 ### S2 — Theatrical absence / meaningful quiet
-**Fill test:** PASS only if low-information or empty space materially contributes hierarchy, tension or presence. If filling that quiet region with neutral detail would leave the hierarchy essentially unchanged, the quiet is decorative and the criterion FAILS. Literal stage scenery, cone/spotlight shorthand or featureless generic darkness also FAILS.
+**Fill test:** PASS only if empty or low-information space materially contributes hierarchy, tension or presence. If neutral detail could fill that region without materially changing the composition, the quiet is decorative and FAILS. Literal stage scenery, cone/spotlight shorthand or featureless generic darkness also FAILS.
 
-### S3 — Mineral Theater material-role discipline
-**Role-remap test:** PASS only if the image can be mapped into Mineral Theater's approved material roles without destroying its core hierarchy or meaning: restrained slate/void quiet, earned material/light-field shift, bounded warm human/causal emphasis, bounded cool presence/counter-signal, low-amplitude texture, and no color-only semantics. FAIL if saturated multicolor, luxury-metallic, fantasy-glow or texture spectacle is necessary to the image's identity.
+### S3 — Material-role discipline
+**Role-remap test:** PASS only if the image can map into Mineral Theater's approved roles without losing its core hierarchy: slate/void quiet; earned material-field shift; bounded warm human/causal emphasis; bounded cool presence/counter-signal; low-amplitude texture; no color-only semantics. FAIL if saturated multicolor, luxury-metallic treatment, fantasy glow or texture spectacle is necessary to identity.
 
 ### S4 — Authored restraint
-**Hierarchy test:** PASS only if specific ownership can be pointed to in proportion, spacing, selective emphasis and optical weight even when decorative detail is mentally removed. FAIL if the image's distinctiveness depends mainly on ornament, faux-historical styling, busy texture, decorative complexity or equal-weight insistence across the frame.
+**Hierarchy test:** PASS only if ownership remains legible through proportion, spacing, selective emphasis and optical weight after decorative detail is mentally removed. FAIL if distinctiveness depends mainly on ornament, faux-historical styling, busy texture, decorative complexity or equal-weight insistence.
 
 ### S5 — Discovery without emblem imitation
-**Geometry test:** PASS only if structure emerges from relationships, negative space or material consequence without drawing, hiding, completing or quoting Threshold K / O3 geometry inside the scene. Any scene mechanism whose point is a logo puzzle is FAIL.
+**Geometry test:** PASS only if structure emerges from relationships, negative space or material consequence without drawing, hiding, completing or quoting Threshold K / O3 geometry inside the scene. A scene mechanism whose point is a logo puzzle FAILS.
 
 ### S6 — Responsive asymmetry / identity coexistence
-**Crop/coexistence test:** PASS only if the artwork supports a calm identity/copy region and a denser consequential region while Threshold K + O3 remain separate assets. Desktop and meaningful tall/mobile crops must preserve the semantic core without forcing symmetry or making the artwork compete as a second logo event.
+**Crop/coexistence test:** PASS only if a calm identity/copy region and denser consequential region can coexist while Threshold K + O3 remain separate assets. Desktop and meaningful tall/mobile crops must preserve the semantic core without forcing symmetry or making the artwork compete as a second logo event.
 
 ## Whole-approach stop condition
 
-Only **post-definition qualifying rounds** count. A qualifying round must be judged against this frozen document and Hero Brief 02 before any result is promoted. G1/R1/A1 do not consume this new-round budget.
+Only **post-definition qualifying rounds** count. G1/R1/A1 do not consume this budget. A qualifying round is one candidate that is actually evaluable against the unchanged Brief 02 hard gates, S1-S6 and Surface Escape; a weak result still counts.
 
 There is **no automatic fourth round**.
 
-After **three qualifying candidate rounds**, if no candidate has passed every Brief 02 hard gate, all six S-gates and Surface Escape, renderer work pauses and a Director reconciliation is mandatory.
+### Early suspected-unsatisfiable stop
 
-If, within those three rounds, either condition is also observed:
-1. the same hard requirement fails across at least two materially different rounds; or
-2. at least two materially different rounds show the same conflict in which satisfying one protected requirement reliably causes failure of another protected requirement;
+As soon as **two materially different qualifying rounds** establish either:
+1. the same hard requirement failing in both; or
+2. the same protected-requirement collision, where satisfying one requirement is evidenced to cause failure of another;
 
-then the state is specifically:
+renderer experimentation pauses immediately at:
 
 **CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED**
 
-If three rounds fail for unrelated reasons and no repeated collision is established, the state is:
+A third round is not automatic after this trigger.
+
+For this inference, `materially different` means the candidates are not near-duplicates or correction variants and differ substantially in at least two of: composition, human spatial arrangement, changed-condition mechanism, or dominant material/surface organization.
+
+### Three-round exhaustion stop
+
+If no early collision is established but **three qualifying rounds** all fail to pass the complete constraint set, the state becomes:
 
 **THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED**
 
-Either state blocks a fourth round until the Director acts.
+No fourth round is authorized.
 
-## What happens at the stop
+## What happens at either stop
 
-Prepare one conflict matrix naming the smallest implicated requirement set and the evidence for each failure/collision.
+Prepare one conflict matrix naming the smallest implicated requirement set and evidence for each failure/collision. There is no preselected sacrificial requirement.
 
-There is **no preselected sacrificial requirement**. Evidence must identify the collision. Only the Director may:
+Only the Director may:
 - relax or retire one specific Hero Brief 02 requirement;
 - revise one specific surface-ownership property;
-- revise Surface Escape only if evidence specifically identifies it as the blocker;
-- keep all requirements and pause/change the hero-art approach rather than continue rendering.
+- revise Surface Escape if evidence specifically identifies it as the blocker; or
+- preserve all requirements and pause/change the hero-art approach.
 
-No threshold may be lowered, failure averaged away, property relabeled advisory, or criterion rewritten after a render merely to obtain a pass. ODR-33 remains resolved unless separately reopened by the Director.
+No threshold may be lowered, failure averaged away, property relabeled advisory, or criterion rewritten after seeing a result merely to manufacture a pass. ODR-33 remains resolved unless separately reopened by the Director.
 
 ## Boundary
 
-This document authorizes no prompt, render, Candidate 03, method proposal, final hero selection, final style system or Lane A change. Director approval of these criteria is required before renderer-facing work.
+This document authorizes no renderer method, renderer packet, prompt, image generation, Candidate 03, final hero, final style system or Lane A change.
+
+**Director approval of this completed measurement contract is required before any later step may be proposed.**
