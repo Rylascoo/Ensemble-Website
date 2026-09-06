@@ -25,7 +25,7 @@ No biography, profession, motive, belief, memory, knowledge or intent is specifi
 
 The shared reality is a shallow, continuous material field organized through broad interlocking planes.
 
-Across the center-right, one broad layer is visibly displaced from an otherwise coherent alignment. The change is distributed across the field rather than carried by one object, prop, gadget or symbolic mechanism.
+Across the center-right, a connected band of several interlocking planes is visibly shifted out of an otherwise coherent alignment. This remains one shared changed condition, but its evidence is distributed through the field rather than carried by one slab, object, prop, gadget or symbolic mechanism.
 
 The displacement must read as a materially changed condition, not arbitrary decorative asymmetry.
 
@@ -35,9 +35,9 @@ Exact prior authorship is not required.
 
 The required observable coupling is:
 
-`displaced shared layer -> different physical visual availability between depicted people`
+`distributed displacement in the shared field -> different physical visual availability between depicted people`
 
-From Person A's position, the displaced field leaves an unobstructed line to Person B's figure. From Person C's position, the same shared layer still materially occludes Person B.
+From Person A's position, the displaced field leaves an unobstructed line to Person B's figure. From Person C's position, the same shared field still materially occludes Person B.
 
 This establishes different present physical availability inside one shared reality. It does not assert that A or C actually observes, understands, knows or interprets anything.
 
@@ -65,13 +65,13 @@ Desktop intent:
 - left ~40% remains calm / low-information;
 - semantic cluster occupies approximately x=46-96% of the raw composition;
 - semantic cluster remains primarily within the middle ~70% of image height;
-- Person A + Person B + displaced-layer evidence remain inside the center-right cluster;
+- Person A + Person B + distributed displaced-field evidence remain inside the center-right cluster;
 - Person C may sit farther toward the right or rear edge but must remain legible in the raw candidate.
 
 Mobile intent:
 
 - fixed Harness 01 crop uses `object-position:72% 50%` into a 4:5 frame;
-- that crop is expected to retain at least Person A + Person B + displaced-layer evidence;
+- that crop is expected to retain at least Person A + Person B + displaced-field evidence;
 - no alternate mobile rendering or post-hoc focal-point shift is permitted.
 
 ## Formal Grammar Declaration
