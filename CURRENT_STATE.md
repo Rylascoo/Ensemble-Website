@@ -6,41 +6,36 @@ Updated: 2026-09-05
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> deployment -> Quiet Stage -> extension laws -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Hero Candidate 01 evaluation -> Stage-Inspired Visual Physics 01 -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 01 -> Hero Candidate 01 -> Stage-Inspired Visual Physics 01 -> Hero Candidate 02 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A
 
 O0-B remains UI lineage. Stage carrier = **Characters as volumes of light on a dark floor using CONE geometry**. Cone is presence, not a button. `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`. Motion timing remains unfrozen pending Read-Through.
 
-## Shared brand
+## Brand / Website V0
 
-Historical **Threshold K** remains unchanged working symbol candidate/control, non-final; SVG = testing adapter. **O3 Balanced Hierarchy** remains Director-approved temporary wordmark incumbent/source, non-final.
+Historical **Threshold K** remains non-final working symbol candidate/control. **O3 Balanced Hierarchy** remains Director-approved temporary wordmark incumbent/source.
 
-Deployment: app brand recedes behind Production; Stage excludes brand geometry from Stage semantics; website may breathe more; O3 may stand alone; no universal fixed ratio.
+**Quiet Stage**, **Site Spine 01**, and **Mineral Theater** remain Director-approved temporary authority. Approved deterministic grammars: **Bounded Chorus**, **Causal Scar**, **Posture Proximity**.
 
-## Website V0
+## Stage-Inspired Visual Physics
 
-**C — Quiet Stage**, **Site Spine 01**, and **B — Mineral Theater** remain Director-approved temporary authority.
+Director-approved temporary website-art laws: presence = local law of shared space; identity continuity may use repeatable matter/space behavior without replacing the person; consequence = field fails to return to neutral; relationship changes another's available space; impossible presence stays grounded; Stage = meaningful emptiness; transformation stays human-first; color is redundant.
 
-Site order:
-`HERO -> ONE PRODUCTION -> BOUNDED PERSPECTIVE -> CAUSAL COMMIT -> HISTORY -> CREATOR POSTURE -> LOCAL SOVEREIGNTY -> INVITATION`
+## Hero Candidate 02
 
-Approved grammars: **Bounded Chorus**, **Causal Scar**, **Posture Proximity**. Cone imagery is reserved for genuine Stage/product-truth roles. Warm causal is not generic chrome; cool is redundant.
+Three isolated renders evaluated with 4:5 crop, desktop copy-zone and G4 pressure.
 
-## Hero Candidate 01
+- **G1 Residual Presence — PASS / SOLE SEMANTIC SURVIVOR.** Earlier human cause is recoverable; residual floor condition changes another person's usable space; causal cluster survives mobile and leaves desktop copy zone quiet. Surface remains generic rustic/historical realism.
+- **G2 Shared Pressure Field — FAIL C.** Strongest shared-substrate behavior; prior human cause not recoverable enough.
+- **G3 Translated Identity — FAIL C.** Successful person-to-material continuity; prior human cause not recoverable enough.
 
-H-A / H-B / H-C are archived. **NO CANDIDATE ADVANCES.** H-A is prop-led; H-B fails hero/crop composition; H-C has ambiguous prior cause + monumental-mechanism pressure. Do not refine/merge them.
-
-## Stage-Inspired Visual Physics 01
-
-**DIRECTOR APPROVED.** Historical Stage/O0 work remains inspiration, not incumbent surface.
-
-Approved physics: presence = local law of shared space; material/spatial behavior may support identity continuity without replacing the person; consequence = field fails to return to neutral; relationship changes another's available space; impossible presence stays grounded; Stage = meaningful emptiness, not scenery; transformation stays human-first; color is redundant support only.
-
-Approved experiment: **G1 Residual Presence**, **G2 Shared Pressure Field**, **G3 Translated Identity**. **G4 Occluded Chorus** = evaluation pressure only.
+G1 is **not final hero art**. Do not refine it in renderer yet. Do not merge G2/G3 into it. Do not launch Candidate 03 yet.
 
 ## Guards / next
 
 Character != Performer/Portrait. Take acceptance selects what may commit; **atomic commit establishes consequence**. UI is projection, not authority.
 
-Renderer packets are prepared. Execute G1/G2/G3 in three separate fresh regular non-project renderer chats, one image each. Historical images stay out. Actor + affected person + changed evidence must fit one 4:5-safe cluster; left desktop copy zone remains quiet/expendable. Archive raw outputs, evaluate independently, test crop/identity zone, then compare and stop at Director review.
+Status: **G1 RECOMMENDED FOR DIRECTOR REVIEW AS SOLE BATCH-02 SEMANTIC SURVIVOR.**
+
+Proposed next action if approved: controlled G1 website-hero integration behind O3 + Threshold K in Mineral Theater context. If semantics survive but the historical-domestic surface remains too generic, solve **surface divergence around proven Residual Presence**, not causality again.
