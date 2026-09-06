@@ -38,21 +38,23 @@ The renderer-facing packet must not reproduce the scoring rubric or name the S-g
 The future packet should encode only four positive picture-making necessities:
 
 1. **Necessary specific people** — at least two distinct people whose relationship is structurally necessary to the artwork.
-2. **Changed shared condition** — the present situation visibly contains a material/spatial condition produced by prior human involvement; exact prior author need not be recoverable.
-3. **Altered present possibility** — that changed condition materially changes what another depicted person can presently do, occupy, reach, use, avoid, approach or otherwise physically negotiate.
+2. **Changed shared condition** — one materially changed shared condition must be visibly present rather than arbitrary atmosphere; exact prior author need not be recoverable.
+3. **Altered present possibility** — the changed condition must visibly matter to another depicted person's present possibilities; leave the specific mechanism for how it matters unstated rather than seeding a menu of objects, tasks or access mechanics.
 4. **Asymmetric compositional hierarchy** — substantial quiet/low-information space coexists with a denser consequential human region so desktop identity/copy and tall/mobile crop can be tested later.
 
-All other requirements remain evaluation constraints unless a later audit proves that one must be explicitly exposed to the renderer.
+Surface Escape is the one frozen negative constraint that must cross into renderer-packet construction because its own frozen rule requires the next surface prompt to satisfy it. Express it only at gate level: **do not organize the image around a recognizable ordinary domestic/occupational task or routine accident response.** Do not enumerate the historical failure examples.
+
+All other surface exclusions and S-gates remain evaluation constraints unless a later audit proves that one must be explicitly exposed to the renderer.
 
 ### 3. Do not seed brand geometry or historical failure vocabulary
 
-The future packet must not name Kymaean, Quiet Stage, Mineral Theater, Threshold K, O3, cones, logos, negative-space K geometry, prior failed genres, prior candidate labels, or historical attractor inventories.
+The future packet must not name Kymaean, Quiet Stage, Mineral Theater, Threshold K, O3, cones, logos, negative-space K geometry, prior candidate labels, or historical attractor inventories.
 
-This prevents the measurement contract from becoming the visual seed.
+This prevents the measurement contract from becoming the visual seed. The single Surface Escape clause above is the deliberate exception because it is already frozen prompt-facing authority.
 
 ### 4. Surface role guidance must remain pictorial, not stylistic doctrine
 
-The packet may require restraint in density, shallow-to-moderate visual hierarchy, meaningful quiet, and a materially coherent field, but it must not prescribe a named art movement, production medium, historical period, culture, architecture, cinematic genre, fantasy vocabulary, luxury treatment, or fixed palette.
+The packet may require restraint in density, meaningful quiet, and a materially coherent field, but it must not prescribe a named art movement, production medium, historical period, culture, architecture, cinematic genre, fantasy vocabulary, luxury treatment, or fixed palette.
 
 Mineral Theater conformance is tested after generation through the approved role-remap criterion; it is not converted into literal mineral subject matter or forced color values in the renderer packet.
 
@@ -96,7 +98,9 @@ If Round 01 passes every Brief 02 hard gate, S1-S6 and Surface Escape, it become
 
 The method deliberately separates **what must be true of the result** from **what must be said to the renderer**. This avoids repeating the earlier pattern in which accumulating causal, material and anti-attractor language itself became a visual seed.
 
-The four renderer necessities are the minimum currently justified by the hero job. S3 Mineral Theater conformance, S5 non-imitation, and most of S6 brand coexistence are intentionally post-render tests because exposing them directly would increase style seeding without being necessary to generate the semantic event.
+The four positive renderer necessities are the minimum currently justified by the hero job. S3 Mineral Theater conformance, S5 non-imitation, and most of S6 brand coexistence are intentionally post-render tests because exposing them directly would increase style seeding without being necessary to generate the semantic event.
+
+Surface Escape is treated differently only because the already-frozen gate explicitly requires the next surface prompt to be written to satisfy it. The audit therefore permits one compact gate-level negative clause while still rejecting the long historical blacklist as renderer vocabulary.
 
 The round-validity rule prevents both budget gaming and unfair budget consumption from a non-artwork execution failure.
 
