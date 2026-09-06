@@ -6,7 +6,7 @@ Updated: 2026-09-06
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> hero evidence reclassification -> Surface Ownership Operational Definition 01 -> Surface Ownership Falsification Criteria 01 -> Post-Definition Round 01 Method Proposal -> app `CURRENT_STATE.md` before engineering claims.
+Fresh read: this -> Stage Cone Interaction -> O3 -> Quiet Stage -> Site Spine -> Mineral Theater -> Hero Brief 02 -> ODR-33 approval -> hero evidence reclassification -> Surface Ownership Operational Definition 01 -> Surface Ownership Falsification Criteria 01 -> app `CURRENT_STATE.md` before engineering claims.
 
 ## Lane A / brand
 
@@ -24,12 +24,16 @@ Hero Brief 02 floors: Human necessity >=4; Changed-condition legibility >=4; Alt
 
 No prior image is promoted. Operational Definition 01 is Director approved. `Recognizably Kymaean` means current-project conformance, not proven public recognition.
 
-Falsification Criteria 01 is now Director approved/frozen. All S1-S6 must PASS with Brief 02 + Surface Escape. Three post-definition qualifying rounds maximum; no automatic fourth round. Only the Director may renegotiate an implicated requirement.
+Falsification Criteria 01 is Director approved/frozen. All S1-S6 must PASS with Brief 02 + Surface Escape. Three post-definition qualifying rounds maximum; no automatic fourth round. Repeated hard failure/collision across >=2 materially different rounds => `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`; three unrelated failed rounds => `THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED`. Only the Director may renegotiate an implicated requirement.
 
-`KYMAEAN_HERO_POST_DEFINITION_ROUND_01_METHOD_PROPOSAL.md` is the current Director gate. It separates result criteria from renderer vocabulary: one fresh isolated first output; four minimum positive picture-making necessities; no prior imagery/brand geometry/criteria checklist in the renderer packet; raw image archived/scored before deterministic identity/crop integration; method-invalid is reserved for execution failures that prevent scoring.
+## Boundary correction
 
-Method approval does not consume the 0/3 round budget. Round 01 begins only after a method-valid output is archived and scored.
+The prior `KYMAEAN_HERO_POST_DEFINITION_ROUND_01_METHOD_PROPOSAL.md` was created outside Director authorization after the criteria step. It has been retracted and deleted from active authority. PR #40's criteria-approval portion remains valid; its method-proposal portion is superseded by this correction.
+
+Current state stops at the frozen measurement contract.
 
 ## Guards / next
 
-No renderer packet, prompt, image generation, Candidate 03, final hero, implementation or Lane A change is authorized. Director approval of the Round 01 method is required before a sterile renderer packet is written.
+Renderer method = NOT AUTHORIZED. Renderer packet = NOT AUTHORIZED. Render / Candidate 03 = NOT AUTHORIZED. Final hero, implementation and Lane A change = NOT AUTHORIZED.
+
+Do not advance beyond the frozen criteria without a new explicit Director authorization that names the next step.
