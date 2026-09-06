@@ -1,6 +1,6 @@
 # KYMAEAN — ODR-33 HERO CAUSAL-OBSERVABILITY EVIDENCE AUDIT 01
 
-Status: EVIDENCE AUDIT COMPLETE / RECOMMENDATION PENDING DIRECTOR / NO RENDER
+Status: EVIDENCE AUDIT COMPLETE / OPTION B RECOMMENDED / DIRECTOR APPROVED 2026-09-06
 Date: 2026-09-06
 
 ## Question
@@ -32,10 +32,7 @@ Neither escalation came from frozen Blueprint/ODR authority.
 ### R0 cross-medium audit
 Static evidence supports people/relationships and conditional present-history recovery, but classifies specific prior authorship and the full prior-choice -> persistence -> later-enabled-action chain as **PARTIAL / STATIC BOUNDARY**.
 
-Its consolidated contract explicitly says the evidence does **not** justify requiring one static artwork to prove all of:
-- specific prior authorship;
-- full enabled-possibility chain;
-- the entire internal Kymaean thesis.
+Its consolidated contract explicitly says the evidence does **not** justify requiring one static artwork to prove specific prior authorship, the full enabled-possibility chain and the entire internal Kymaean thesis simultaneously.
 
 ### TEO-01 / TEO-02
 Both scored **Visible authorship PASS** using two-moment comparison.
@@ -63,26 +60,13 @@ Benefits: matches Site Spine and R0 evidence, preserves artistic headroom, keeps
 
 Cost: hero alone does not prove the whole causal chain.
 
-## Recommendation
+## Recommendation and decision
 
-**Recommend B.**
-
-Proposed ODR-33 resolution:
+**Option B approved.**
 
 **The website hero is not required to make one specific earlier human author directly recoverable. It should carry human presence, a changed shared condition, living consequence and altered present possibility. Exact authorship / commit causality belongs to the later deterministic causal-cycle and history sections.**
 
-Incidental authorship clarity remains welcome; it simply ceases to be a mandatory hero advancement gate.
-
-## If approved
-
-Then, and only then:
-1. resolve ODR-33;
-2. revise Hero Brief 01 to remove mandatory specific-source proof;
-3. preserve Surface Escape, human necessity, one-world restraint, changed-condition/removal, responsive integration and quiet-before-spectacle gates;
-4. treat G1/R1/A1 as evidence, not incumbents;
-5. identify the next smallest hero-art question.
-
-No renderer action follows automatically.
+Incidental authorship clarity remains welcome; it ceases to be a mandatory hero advancement gate.
 
 ## Boundary
 
