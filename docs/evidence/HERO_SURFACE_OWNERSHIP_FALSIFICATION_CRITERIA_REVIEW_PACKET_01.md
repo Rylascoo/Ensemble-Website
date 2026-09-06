@@ -1,13 +1,12 @@
 # Hero Surface Ownership Falsification Criteria — Review Packet 01
 
-Status: DIRECTOR REVIEW PACKET / NO DOWNSTREAM AUTHORIZATION
+Status: HISTORICAL / DIRECTOR REVIEW COMPLETED
 Date: 2026-09-06
 
-Review together:
-1. `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_OPERATIONAL_DEFINITION_01.md` — approved positive definition.
-2. `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` — completed pre-registered measurement contract.
-3. `docs/evidence/HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_RECURSIVE_AUDIT_01.md` — corrections and audit rationale.
-4. `docs/evidence/HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_RECURSIVE_AUDIT_PASS_02.md` — clean final pass.
-5. `docs/HANDOFF_V0_HERO_SURFACE_FALSIFICATION_CRITERIA_REVIEW_2026_09_06.md` — fresh-chat transition.
+Director decision: **CORRECT, THEN APPROVE**.
 
-Director decision requested in the next chat: **approve, correct, or reject Falsification Criteria 01 as the frozen measurement contract.**
+Approved correction: S3 now states that candidates need not instantiate every Mineral Theater material role; every material/surface signal actually used must obey the approved role discipline.
+
+The corrected Falsification Criteria 01 is frozen as the measurement contract. Final authority is `HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_DIRECTOR_APPROVAL_01.md` plus the corrected criteria file and `CURRENT_STATE.md`.
+
+Renderer method and rendering remain separately gated and not authorized by this decision.
