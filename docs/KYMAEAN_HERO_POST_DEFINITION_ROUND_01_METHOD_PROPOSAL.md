@@ -40,7 +40,7 @@ The future packet should encode only four positive picture-making necessities:
 1. **Necessary specific people** — at least two distinct people whose relationship is structurally necessary to the artwork.
 2. **Changed shared condition** — one materially changed shared condition must be visibly present rather than arbitrary atmosphere; exact prior author need not be recoverable.
 3. **Altered present possibility** — the changed condition must visibly matter to another depicted person's present possibilities; leave the specific mechanism for how it matters unstated rather than seeding a menu of objects, tasks or access mechanics.
-4. **Asymmetric compositional hierarchy** — substantial quiet/low-information space coexists with a denser consequential human region so desktop identity/copy and tall/mobile crop can be tested later.
+4. **Asymmetric responsive hierarchy** — reserve roughly 35–45% of the desktop composition as calm low-information identity/copy space, while the consequential region keeps at least two necessary people plus changed-condition evidence close enough to survive a meaningful tall/mobile crop. The renderer receives this as composition geometry, not brand vocabulary.
 
 Surface Escape is the one frozen negative constraint that must cross into renderer-packet construction because its own frozen rule requires the next surface prompt to satisfy it. Express it only at gate level: **do not organize the image around a recognizable ordinary domestic/occupational task or routine accident response.** Do not enumerate the historical failure examples.
 
@@ -98,7 +98,9 @@ If Round 01 passes every Brief 02 hard gate, S1-S6 and Surface Escape, it become
 
 The method deliberately separates **what must be true of the result** from **what must be said to the renderer**. This avoids repeating the earlier pattern in which accumulating causal, material and anti-attractor language itself became a visual seed.
 
-The four positive renderer necessities are the minimum currently justified by the hero job. S3 Mineral Theater conformance, S5 non-imitation, and most of S6 brand coexistence are intentionally post-render tests because exposing them directly would increase style seeding without being necessary to generate the semantic event.
+The four positive renderer necessities are the minimum currently justified by the hero job. Responsive layout geometry is exposed because Brief 02 makes desktop identity space and mobile survival hard requirements; withholding those constraints would make the experiment needlessly fail on information the renderer could not infer.
+
+S3 Mineral Theater conformance, S5 non-imitation, and most of S6 brand coexistence remain post-render tests because exposing them directly would increase style seeding without being necessary to generate the semantic event.
 
 Surface Escape is treated differently only because the already-frozen gate explicitly requires the next surface prompt to be written to satisfy it. The audit therefore permits one compact gate-level negative clause while still rejecting the long historical blacklist as renderer vocabulary.
 
