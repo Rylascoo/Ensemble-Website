@@ -21,13 +21,15 @@ This file alone owns volatile phase/current-boundary state.
 
 ## D-R1 restructuring
 
-Phase 0: **COMPLETE / CLEAN**. Phase 1: **COMPLETE**.
+Phase 0: **COMPLETE / CLEAN AFTER RAW-ARTIFACT RE-AUDIT**. Phase 1: **COMPLETE**.
 
-Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_01.txt`.
+Correct Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_02.txt`.
+
+Raw Astra artifact identities: `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`.
 
 Baseline census: **280 Markdown / 23 prototypes / 43 branches**; exact-path zero-inbound **106**; broken local Markdown links **0**; branch split **6 zero-unique strict ancestors / 36 unique**. Raw prototype smoke was **21 PASS / 2 harness-conditioned failures**; no prototype source defect was established and no prototype was edited.
 
-Baseline classification: **35 ACTIVE LAW / 8 SUPERSEDED / 226 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. Exact map: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json`.
+Correct baseline classification: **40 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. Exact map: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json`. Classification v1 is preserved as the audit-failed predecessor and is not current authority.
 
 VID, R0, Hero Method 01 and Method 02 all have written success/termination states. D-R1 Phase 6 is **NOT TRIGGERED**.
 
@@ -37,11 +39,11 @@ Semantic guardrail complete: `docs/PRIOR_CONVERGENCE_EVIDENCE.md`.
 
 Mechanical implementation is **PREPARED / NOT YET ADOPTED**:
 
-`docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_01.txt`
+`docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_02.txt`
 
-That task must work on `design/d-r1-phase-2-document-status-index-ci`, preserve all historical bodies, add exactly one D-R1 machine-status header to every Markdown file, generate `docs/INDEX.md`, and add deterministic validation/CI. Expected final corpus after INDEX: **282 Markdown**, with **37 ACTIVE LAW / 8 SUPERSEDED / 226 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
+That task must work on `design/d-r1-phase-2-document-status-index-ci`, preserve all historical bodies, add exactly one D-R1 machine-status header to every Markdown file, generate `docs/INDEX.md`, and add deterministic validation/CI. Expected final corpus after INDEX: **282 Markdown**, with **42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
 
-Do not treat Phase 2 as complete until Sol High reviews the returned branch/diff and recursively audits it clean.
+Do not use Task 01 or classification v1. Do not treat Phase 2 as complete until Sol High reviews the returned branch/diff and recursively audits it clean.
 
 Phase 3 branch deletion is **NOT AUTHORIZED YET**. Do not move `prototypes/` or `assets/` or change Cloudflare root.
 
