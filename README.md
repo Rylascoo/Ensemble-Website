@@ -1,37 +1,35 @@
 # Ensemble Website
 
-Website and public-brand development for **Kymaean**, the future public identity of the product currently developed in `Rylascoo/Ensemble-Project`.
+Website, public-brand and visual-design authority for **Kymaean**, the public identity of the product developed in `Rylascoo/Ensemble-Project`.
 
 ## Fresh-chat bootstrap
 
-Before making brand, visual, motion, asset, or website changes:
+Before substantive brand, visual, asset, motion or website work:
 
-1. Read [`CURRENT_STATE.md`](CURRENT_STATE.md) first.
-2. Read [`docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`](docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md) and deliberately optimize the current task scope for GPT-5.6 Sol High reasoning.
-3. Read [`docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`](docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md).
-4. Read [`docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`](docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md).
-5. Read [`docs/DESIGN_CONTINUITY.md`](docs/DESIGN_CONTINUITY.md) for durable law; treat stale R0 active-phase pointers as historical per the reconciliation.
-6. Read the current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` and only the product sources relevant to the task.
-7. Treat Google Drive **Ensemble Project** as the visual-master/design authority.
+1. Read [`CURRENT_STATE.md`](CURRENT_STATE.md) first. It is the repository's only volatile phase/current-boundary authority.
+2. Read [`AGENTS.md`](AGENTS.md) for durable repository workflow and structural safeguards.
+3. Read [`docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`](docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md) for recursive-audit and earned-approval law.
+4. Read [`docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`](docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md) for Sol High task-scope and Astra/Codex allocation.
+5. Read [`docs/evidence/DESIGN_LEDGER.md`](docs/evidence/DESIGN_LEDGER.md) before reopening or repeating prior design questions.
+6. Read the active handoff/evidence named by `CURRENT_STATE.md`.
+7. Use [`docs/DESIGN_CONTINUITY.md`](docs/DESIGN_CONTINUITY.md) for durable design law and lineage; historical phase/status statements inside it do not override `CURRENT_STATE.md`.
+8. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only when exact current product/engineering truth materially matters.
+9. Treat Google Drive **Ensemble Project** as the visual-master/provenance workspace.
 
-For every substantive Director turn, task granularity should be shaped before execution so GPT-5.6 Sol High can complete the largest logically coupled, falsifiable work package that belongs to one objective. Optimize for source synthesis, dependency closure, contradiction detection, falsification, recursive audit, and checkpoint completeness—not for verbosity, code volume, artifact count, or artificially broad scope. Simple tasks remain simple, and consequential creative, implementation, architecture, runtime, WACK, Store, or other external-validation gates remain explicit.
+Do not reconstruct current authority from old handoffs, branch names, historical approval records, attractive recent work or chat summaries.
 
-Do not infer that praise, recency, repetition, or an attractive exploration means a direction has been selected. Exploration remains broad until explicit mutual convergence.
+## Working discipline
 
-## Workstream tags
+GPT-5.6 Sol High is the primary reasoning, repository-work, design-governance, recursive-audit and continuity surface. Astra/Codex is a scarce external specialist reserved for tightly bounded work where its local/batch or otherwise unavailable environment materially adds evidence.
 
-Meaningful future design checkpoints should identify a primary workstream:
-
-- `SHARED BRAND` — identity system shared across surfaces;
-- `APP VISUAL` — native Windows application visual/asset design;
-- `WEB` — public exploratory website design/implementation;
-- `CROSS-SURFACE` — app/web/brand translation and authority reconciliation;
-- `LAUNCH` — final implementation-derived Store/web/launch assets and claims.
+Within the website/brand/design lane, a clean recursive audit earns the gate under standing Director delegation. Consequential product/engineering/outside-lane authority remains separate.
 
 ## Repository boundary
 
-- **This repository:** website implementation specifications/source/tests plus cross-product design checkpoints and approved optimized web derivatives.
-- **Google Drive — Ensemble Project:** visual masters, identity explorations, mockups, artwork, motion studies, and design references.
-- **Rylascoo/Ensemble-Project:** authoritative product engineering source; read-only for website/design work unless explicitly instructed otherwise.
+- **This repository:** design/brand authority, website specifications/source, prototypes, repository assets, evidence and continuity.
+- **Google Drive — Ensemble Project:** visual masters, identity/artwork exploration, mockups, motion studies and provenance.
+- **`Rylascoo/Ensemble-Project`:** product/engineering authority; read-only from the design lane unless explicitly authorized otherwise.
 
-The public website is an explorable introduction to Kymaean and acquisition path to the native Windows product; it is not assumed to host or replace the Ensemble/Kymaean application in the browser.
+During the active D-R1 restructuring, do not move or rewrite `prototypes/` or `assets/`, do not rewrite historical outcomes, and do not delete any branch with unique commits. Future publication source under `site/` is not implied until the publication-isolation phase explicitly creates it.
+
+The public website is an explorable introduction to Kymaean and an acquisition path to the native Windows product; it is not assumed to host or replace the application in the browser.
