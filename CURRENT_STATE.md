@@ -15,106 +15,121 @@ Updated: 2026-09-07
 
 > **Clean recursive audit = earned approval.**
 
-After a clean design-gate audit record:
+After a clean design-gate audit record, record:
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
 
 Do not ask the Director to approve that design gate. Proceed to the next defined design action. Fresh chats/handoffs must inherit this rule. This delegation does not create engineering/product authority outside the design lane.
 
-## Hero program
+## Hero program — inherited frozen state
 
 Method 01: **CLOSED / 3 OF 3 QUALIFYING ROUNDS CONSUMED**. Director Option A preserved the frozen hero contract and authorized Method 02.
 
-Method 02: **APPROVED**. Direction: **ASYMMETRIC COUPLED LOAD-TRANSFER HUMAN RELATION**. Candidate: `C04-ACLT-01`.
+Method 02: **APPROVED**.
 
-Stages 1–5 complete/audited. Stage 06 deterministic scaffold complete/audited/approved. Stage 07 sterile translation package complete/audited/approved by standing delegation.
+Frozen post-render law remains unchanged: Hero Artwork Brief 02, Falsification Criteria 01, Surface Escape, fixed Harness 01, no compensating average, pixels authoritative, renderer isolation, no free rerolls/rescues.
 
-## Method 02 Round 04 — COMPLETE / FAIL / NO RETRY
+## Candidate 04 / D1 — CLOSED AS ACTIVE PATH
 
-Experiment: `METHOD02-R04-C04`.
+Candidate `C04-ACLT-01`, direction D1 **ASYMMETRIC COUPLED LOAD-TRANSFER HUMAN RELATION**, completed Method 02 Stages 1–7 and two isolated renderer experiments.
 
-The single authorized image was returned from a fresh regular non-project renderer chat with **no modifications and no retries**. Round 04 is consumed.
+Round 04: **FAIL / consumed / no retry**. Primary failure: line-reference causal field naturalized into ordinary terrain.
 
-Canonical evaluation:
+Round 05: **FAIL / consumed / stop condition triggered**. The filled structural-mass reference corrected the terrain attractor and Brand Integration, but the field became a pre-existing sculpted/architectural basin. The same `A load -> field change -> B altered position -> relation` topology remained unrecoverable.
 
-- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_04_EVALUATION_01.md`
+Canonical Round 05 evaluation:
 
-Result:
+- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_05_EVALUATION_01.md`
 
-- Human Necessity **4/5 PASS**
-- Changed-condition legibility **2/5 FAIL**
-- Altered Possibility **2/5 FAIL**
-- Epistemic Restraint **5/5 PASS**
-- Brand Integration **1/5 FAIL**
-- Mobile Survival **3/5 PASS**
-- Removal Test **2/5 FAIL**
-- Surface Escape **PASS**
-- S1–S5 **PASS**
-- S6 **FAIL**
+Round 05 Drive evidence:
 
-Drive evidence folder: `1CWEKP0ihYyQouhQQpUrU4IXCJDu0_2i8`. Raw artwork: `12UPw1Y1nMJz0ol5SvA_NSglMiMXDhkJv`.
+- folder `1BFWis7RTDXWENv4vjzkPJ8d_TcW32KOm`;
+- raw artwork `1RR9uvYAQFDsLcZRvLTzrCeqt7m8QBhrV`;
+- desktop Harness crop `1M7w9jtqWWdtzWkZFAj-_Y74wX47CBlfW`;
+- mobile Harness crop `16cXAYpgCgw9mbDf5YZkXWBD577N2X-U3`.
 
-Primary finding:
+Post-Round 05 review:
 
-> **The renderer preserved gross relational composition but naturalized the scaffold's causal field geometry into ordinary terrain.**
+- `docs/KYMAEAN_HERO_METHOD_02_POST_ROUND_05_CAUSAL_TOPOLOGY_REVIEW_01.md`
 
-The pixels therefore lost visible `A load -> field change -> B altered position -> contact` causality and the baseline-restoration counterfactual. Separately, the calm-left region became pale/high-key beneath Harness 01's fixed light identity scaffold.
+That review retired Candidate 04 as a renderable construction and required transfer-visible pre-existing-form ambiguity testing before future renderer execution.
 
-## Post-Round 04 correction path — COMPLETE / AUDITED
+## Candidate 05 — REJECTED BEFORE RENDER
 
-Canonical synthesis and transfer-fidelity work:
+Candidate 05 tested a stronger D1 + D4 compression/inversion implementation. Stages 1–5 passed their recursive audit, but deterministic Stage 06 transfer preflight rejected the branch:
 
-- `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_ROUND_04_FAILURE_SYNTHESIS_01.md`
-- `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_TRANSFER_FIDELITY_ANALYSIS_01.md`
-- `docs/evidence/renderer/C04-ACLT-01_CONTINUATION_SAFE_STRUCTURAL_MASS_TRANSFER_PROXY_02.svg`
-- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_CONTINUATION_SAFE_PROXY_02_RECURSIVE_AUDIT.md`
-- `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_TRANSFER_PACKAGE_DELTA_02.md`
-- `docs/evidence/renderer/C04-ACLT-01_TRANSFER_FIDELITY_RENDERER_PACKET_02.txt`
-- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_TRANSFER_PACKAGE_DELTA_02_RECURSIVE_AUDIT.md`
+- a body-conforming version still read coherently as pre-shaped support;
+- stronger foldback reduced that ambiguity only by becoming bridge/platform/installation-like mechanism geometry.
 
-Proxy 02 preserves Stage 06 core geometry while presenting the shared field as one continuation-safe filled structural mass. Transfer Package Delta 02 adds only the audited reference-representation correction and the bounded calm-left low-luminance compatibility control.
+No renderer attempt was spent on Candidate 05.
 
-## Method 02 Round 05 — EXECUTION AUTHORIZED / READY
+Rejected preflight evidence is preserved in Drive folder `1Xe5vc_pzHvhcJ_Vo-xhKzx_mYvFuV_gB`.
 
-Experiment: `METHOD02-R05-C04`.
+This evidence retired D1 as the active next-candidate direction rather than weakening the frozen hero contract.
 
-Execution-readiness audit:
+## Active direction — D9 APPROVED
 
-- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_05_EXECUTION_READINESS_AUDIT.md`
+Canonical direction reconsideration:
 
-Result:
+- `docs/KYMAEAN_HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_RECONSIDERATION_03.md`
+- `docs/evidence/HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_RECONSIDERATION_03_RECURSIVE_AUDIT.md`
 
-**CLEAN FINAL PASS / APPROVED BY STANDING DIRECTOR DELEGATION.**
+Approved active direction:
 
-Frozen input manifest:
+# ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE
 
-- `docs/evidence/renderer/C04-ACLT-01_ROUND05_FROZEN_INPUTS_MANIFEST.json`
+Key corrected laws:
 
-Exactly two renderer inputs:
+- exact authorship of the changed field is not required;
+- changed field carries B's vertical weight;
+- A is independently stable and supplies only lateral/rotational stabilization;
+- no grasping, lifting, pulling, pushing, catching or rescue action;
+- baseline restoration must make B independently stable **and geometrically remove the A↔B contact** by positive separation margin;
+- residual changed state must be recoverable from multiple correspondences;
+- future sanitized transfer geometry must pass the pre-existing-form ambiguity test before any renderer call.
 
-1. `STRUCTURAL_MASS_REFERENCE_02.png` — Drive `1-Pecd65L2VM0v_NhZ3tUgnjDY5KtRHdl`, SHA-256 `a268cca3a03c2f9852ed3becbd2a448574cc63d1aad8d9d66e88514a569b060e`;
-2. `STERILE_RENDERER_PACKET_02.txt` — Drive `1gTk5xavfVttzA9LREI7P-KaOMRvGiunS`, SHA-256 `0fc6ecff07be64938a4f12bffa1c1170908e8e027ee3d407870b4c688c6ffd3b`.
+D9 recursive audit: **CLEAN / APPROVED BY STANDING DIRECTOR DELEGATION**.
 
-Drive pre-render folder: `11y-fhdHEPZlv1HDMmhk6zZYd4GNIEn33`.
+## Active candidate — C06-ASPB-01
 
-Renderer handoff:
+Candidate 06 mechanism investigation:
 
-- `docs/evidence/renderer/C04-ACLT-01_ROUND05_RENDERER_HANDOFF.txt`
+- `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01.md`
+- `docs/evidence/HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01_RECURSIVE_AUDIT.md`
 
-Accounting:
+Selected hypothesis:
 
-- one fresh regular ChatGPT chat outside the Ensemble project;
-- one renderer request;
-- one image;
-- zero rerolls/modifications/refinements;
-- no historical image, project document, rubric, or critique transferred;
-- technical no-image result stops rather than retries;
-- judgeable returned image returns untouched to Director Context for frozen evaluation.
+**Asymmetric Shear-Posture Brace — residual slip / passive torso contact**.
 
-Stop consequence: **no automatic Round 06**. If causal-topology naturalization repeats despite Proxy 02, pause at **CAUSAL-TOPOLOGY TRANSFER APPROACH SUSPECTED INSUFFICIENT / DIRECTOR REVIEW REQUIRED**.
+Mechanism investigation audit: **CLEAN / STAGES 1–5 AUTHORIZED BY STANDING DELEGATION**.
+
+Candidate 06 Stages 1–5 construction:
+
+- `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`
+
+Status: **CONSTRUCTION COMPLETE / RECURSIVE AUDIT REQUIRED**.
+
+Pre-registered stability geometry includes:
+
+- A support polygon x `900–980`, COM x `940`, independent margin `40 px`;
+- B changed support polygon x `1095–1135`, COM x `1080`, unsupported instability margin `15 px` toward A;
+- B restored support polygon x `1240–1300`, COM x `1270`, independent margin `30 px`;
+- B support/root translates outward approximately `155 px` under baseline restoration;
+- A brace locus approximately `(1015,400)`;
+- B restored contact-side locus approximately `(1250,400)`;
+- baseline contact separation `235 px` against pre-registered minimum `120 px`.
+
+These are prospective Method 02 construction filters, not new post-render scoring criteria.
 
 ## Current boundary / exact next action
 
-Execute `METHOD02-R05-C04` in **one fresh regular ChatGPT chat outside the Ensemble project** using exactly the two frozen inputs above. Do not add context or alter either input. Return the single untouched image here for evaluation.
+**No Candidate 06 Stage 6 scaffold, transfer proxy, renderer packet, reference transfer, image generation, Round 06, final hero/style/palette selection, website implementation, Lane A/app UI implementation or motion is authorized.**
 
-Final hero/style/palette selection, website implementation, Lane A/app UI implementation and motion remain downstream.
+Exact next action:
+
+1. recursively audit `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md` for correctness, internal consistency, frozen-law integrity, stability geometry, rescue/performance ambiguity, responsive containment, pre-existing-form safeguards, simplicity and worthwhile improvements;
+2. correct in place until one complete pass is clean;
+3. under standing delegation, a clean audit earns the gate automatically and authorizes Candidate 06 Stage 6 deterministic scaffold construction only;
+4. do not ask the Director for another approval after a clean audit.
+
+Fresh chats must read `CURRENT_STATE.md` first and treat historical status/approval wording as non-authoritative when it conflicts with this file and the standing design-gate law.
