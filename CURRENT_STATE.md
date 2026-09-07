@@ -6,7 +6,7 @@ Updated: 2026-09-06
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh-read this file first. For current hero work, then read: Hero Artwork Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> frozen Surface Escape -> approved Renderer Method 01 + audit/status reconciliation -> corrected/re-frozen Hero Integration Harness 01 -> Round 01 evaluation + harness completion -> Round 02 Candidate Specification -> Sterile Renderer Packet 02 -> Pre-Render Review Package 02 + audit/Director approval -> Round 02 execution-integrity defect -> replacement-execution Director authorization -> Round 02 Evaluation 01. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only before engineering/product-truth claims.
+Fresh-read this file first. For current hero work, then read: Hero Artwork Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> frozen Surface Escape -> approved Renderer Method 01 + audit/status reconciliation -> corrected/re-frozen Hero Integration Harness 01 -> Round 01 evaluation + harness completion -> Round 02 Candidate Specification -> Sterile Renderer Packet 02 -> Pre-Render Review Package 02 + audit/Director approval -> Round 02 execution-integrity defect -> replacement-execution Director authorization -> Round 02 Evaluation 01 -> Round 02 Provenance and Closure 01 -> Hero Constraint Reconciliation 01 + recursive audit. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only before engineering/product-truth claims.
 
 ## Lane A / brand
 
@@ -29,26 +29,21 @@ Hero Brief 02 hard floors, no compensating average:
 - Removal Test >=4;
 - Surface Escape = PASS.
 
-## Hero surface ownership
-
-No historical image is incumbent. Operational Definition 01 is Director approved. `Recognizably Kymaean` means current-project conformance, not proven public recognition.
+## Frozen hero measurement / execution authority
 
 `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` is **DIRECTOR APPROVED / FROZEN MEASUREMENT CONTRACT**. S1-S6 must all PASS independently.
 
-Frozen stop law:
+Frozen early stop:
 
-- same hard failure or protected-requirement collision across **two materially different qualifying rounds** -> immediately `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`; no automatic third round;
-- otherwise three failed qualifying rounds -> `THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED`;
-- no automatic fourth round;
-- only the Director may renegotiate an implicated requirement.
+- same hard failure or protected-requirement collision across **two materially different qualifying rounds** -> immediately `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`; no automatic third round.
 
-## Hero renderer method
+`docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` is **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**. It requires clean renderer isolation, one judgeable candidate per consumed round except genuine technical nulls, unchanged deterministic Harness 01, independent scoring, no free rerolls and pixel-result material-difference judgment.
 
-`docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` is **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**.
+Hero Integration Harness 01 is **CORRECTED UNDER NARROW DIRECTOR AUTHORITY / RE-FROZEN**:
 
-It requires clean renderer isolation, one judgeable visible candidate per consumed round except genuine technical nulls, one unchanged deterministic integration harness, independent hard-gate evaluation, no free rerolls, pixel-result material-difference judgment, and the frozen stop laws.
-
-Historical R0 Renderer Cartography remains empirical method evidence only. The earlier unauthorized Post-Definition Round 01 Method Proposal remains RETRACTED / NOT AUTHORITY.
+- desktop 1280 × 720, candidate `object-position:50% 50%`, fixed left identity/copy block;
+- mobile artwork 390 × 488, candidate `object-position:72% 50%`, separate dark identity band;
+- no candidate-specific scrim, recolor, focal adjustment or alternate render.
 
 ## Director authorization cadence
 
@@ -61,19 +56,9 @@ Director instruction: optimize high-reasoning chat value and avoid routine appro
 
 Authority: `docs/evidence/HERO_QUALIFYING_ROUND_02_REPLACEMENT_EXECUTION_DIRECTOR_AUTHORIZATION.md`.
 
-## Hero Integration Harness 01
+## Qualifying Round 01 — COMPLETE / FAIL / CONSUMED
 
-Harness 01 is **RE-FROZEN AFTER DIRECTOR-APPROVED NARROW CANDIDATE-NEUTRAL CORRECTION**. Exact canonical Threshold K/O3 vector geometry is rendered inline under the existing neutral foreground. Candidate pixels, desktop/mobile geometry, copy, crop positions and material/chrome roles remain unchanged.
-
-Frozen geometry:
-
-- desktop: 1280 × 720, candidate `object-position:50% 50%`, fixed left identity/copy block;
-- mobile artwork: 390 × 488, candidate `object-position:72% 50%`, separate dark identity band;
-- no candidate-specific scrim, recolor, focal adjustment or alternate render.
-
-## Qualifying Round 01 — COMPLETE / FAIL
-
-Director provenance confirmed; Round 01 consumed. Counter after closure: **1 / 3**.
+Counter after closure: **1 / 3**.
 
 Authority:
 
@@ -96,41 +81,25 @@ Final results:
 
 Primary lesson: ordinary-task/historical-domestic escape succeeded, but environment-first architectural abstraction suppressed changed-condition/altered-possibility semantics and weakened human salience.
 
-## Hero Pre-Render Review Package 02 — DIRECTOR APPROVED
+## Qualifying Round 02 — COMPLETE / FAIL / CONSUMED
 
-Components:
+The first project-chat generation was contaminated/non-qualifying and does not count. The Director later authorized one replacement isolated execution.
 
-- `docs/KYMAEAN_HERO_QUALIFYING_ROUND_02_CANDIDATE_SPECIFICATION.md`;
-- `docs/KYMAEAN_HERO_STERILE_RENDERER_PACKET_02.md`;
-- `docs/KYMAEAN_HERO_PRE_RENDER_REVIEW_PACKAGE_02.md`;
-- `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_02_RECURSIVE_AUDIT.md`;
-- `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_02_DIRECTOR_APPROVAL.md`.
+The Director has now explicitly confirmed that the returned 1586 × 992 PNG was the **single image returned from one fresh regular non-project renderer context using the approved Sterile Renderer Packet 02 unchanged, with no alternate output selected**.
 
-Round 02 tests a materially different human-dominant two-person mechanism: one broad continuous flexible matte band has a folded-back segment whose changed state is intended to make direct reach/contact physically possible. Actual pixels, not packet intent, determine material difference and success.
+Provenance/closure authority:
 
-## Round 02 execution-integrity defect — NON-QUALIFYING
+- `docs/evidence/HERO_QUALIFYING_ROUND_02_PROVENANCE_AND_CLOSURE_01.md`.
 
-The first project-chat generation violated Renderer Isolation. It is contaminated/non-qualifying process evidence only and does not consume a round or support scoring/cross-round inference.
-
-Authority: `docs/evidence/HERO_QUALIFYING_ROUND_02_EXECUTION_INTEGRITY_DEFECT_01.md`.
-
-## Round 02 replacement execution — RETURNED / JUDGEABLE / PROVENANCE CONFIRMATION PENDING
-
-The Director explicitly authorized one replacement isolated Round 02 execution. Authority: `docs/evidence/HERO_QUALIFYING_ROUND_02_REPLACEMENT_EXECUTION_DIRECTOR_AUTHORIZATION.md`.
-
-A single PNG was subsequently returned to this governance chat. Raw dimensions: **1586 × 992 px**. It is visually judgeable and not a technical null.
-
-Drive evidence folder: `Hero Qualifying Round 02 Evidence` — ID `1AQg7Aw1rw2g0d1nfEd0Yj0tezbVa_A1O`.
-
-Archived evidence includes the untouched raw candidate, deterministic desktop/mobile crops, and corrected/re-frozen Harness 01 desktop/mobile composites.
-
-Formal visual evaluation authority:
+Formal evaluation authority:
 
 - `docs/evidence/HERO_QUALIFYING_ROUND_02_EVALUATION_01.md`.
 
-### Visual result, independent of provenance
+Drive evidence folder: `Hero Qualifying Round 02 Evidence` — ID `1AQg7Aw1rw2g0d1nfEd0Yj0tezbVa_A1O`.
 
-**HARD-SET FAIL.**
+Round 02 is formally consumed. Counter: **2 / 3**.
+
+Final results:
 
 - Human necessity = **4/5 PASS**;
 - Changed-condition legibility = **4/5 PASS**;
@@ -143,27 +112,58 @@ Formal visual evaluation authority:
 - S1-S5 = PASS;
 - S6 = **FAIL**.
 
-Actual output is materially different from Round 01 on all four pre-registered axes.
+Actual output is materially different from Round 01 on all four frozen dimensions.
 
-The key semantic failure is precise: the fold is visibly a changed state and the people/contact are human-primary, but the image does not establish that the fold **causes** contact to become physically possible. The band remains approximately waist-height; restoring it to an unfolded state would still plausibly allow essentially the same reach/contact. This is the explicit pre-registered Candidate Specification 02 failure condition.
+Key semantic finding: the fold is visibly a changed condition and people are human-primary, but the image does not establish that the fold **causes** contact to become physically possible. The waist-height band could plausibly be restored while preserving essentially the same reach/contact. This exactly matches Candidate Specification 02's pre-registered failure condition.
 
-Harness result: desktop spatial separation is good, but the pale left artwork field causes the fixed light Threshold K/O3/copy system to lose sufficient contrast; no candidate-specific scrim/recolor/relocation is allowed. The mobile fixed crop succeeds geometrically and preserves both people + fold/contact evidence.
+Separate integration finding: the pale left field gives insufficient contrast to the fixed light Threshold K/O3/copy system in the unchanged desktop harness. Mobile crop survival is strong.
 
-### Provenance/accounting boundary
+## Mandatory frozen stop — ACTIVE
 
-The chat record still lacks one explicit factual confirmation that the returned PNG was:
+Round 01 and Round 02 are materially different qualifying failures and repeat:
 
-> the single image returned from one fresh regular non-project renderer context using the approved Sterile Renderer Packet 02 unchanged, with no alternate output selected.
+- Altered possibility = FAIL;
+- Removal Test = FAIL;
+- S6 = FAIL.
 
-Until that execution fact is confirmed, qualifying accounting and cross-round stop inference remain pending. **Counter remains 1 / 3 pending provenance.**
-
-If confirmed, Round 02 immediately becomes consumed and counter becomes **2 / 3**. Because the actual output is materially different from Round 01 and repeats Altered Possibility, Removal Test and S6 failures, the frozen state then becomes:
+Therefore the frozen state is now:
 
 **CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED**
 
-This would also satisfy the Director's two-consecutive-qualifying-render-failures cadence gate. No Round 03 render would be automatic or authorized.
+This is an experimental stop label, not proof that the hero requirements are impossible.
 
-## Guards / exact next action
+Round 03 = **NOT AUTHORIZED** and is not automatic.
+
+## Hero Constraint Reconciliation 01 — READY FOR DIRECTOR REVIEW
+
+Primary package:
+
+- `docs/KYMAEAN_HERO_CONSTRAINT_RECONCILIATION_01.md`;
+- audit: `docs/evidence/HERO_CONSTRAINT_RECONCILIATION_01_RECURSIVE_AUDIT.md`.
+
+Smallest repeated-failure set:
+
+1. Altered possibility;
+2. Removal Test.
+
+S6 repeats but is partly derivative of the same semantic core and in Round 02 also contains a separate desktop identity-contrast failure. Brand Integration is not part of the repeated-failure stop core because Round 01 passed it.
+
+Reconciliation finding: evidence does **not** establish that the static hero contract is impossible. It establishes that two materially different tested mechanisms failed to make the changed condition physically necessary to the depicted present possibility.
+
+Recommendation:
+
+**A — PRESERVE CONTRACT / AUTHORIZE NEW MECHANISM-CLASS DESIGN ONLY.**
+
+This would permit non-rendering investigation of genuinely different causal architectures and return to the Director before committing to one specific visual direction. It would not authorize Candidate 03 or any renderer request.
+
+Alternative Director choices preserved in the package:
+
+- B — preserve contract / interpretation clarification only;
+- C — reopen one specific frozen requirement;
+- D — preserve contract / pause static hero rendering;
+- correct the reconciliation package.
+
+## Guards / exact next gate
 
 Renderer Method 01 = FROZEN.
 
@@ -171,12 +171,14 @@ Harness 01 = corrected/re-frozen.
 
 Round 01 = COMPLETE / FAIL / consumed.
 
-Round 02 returned candidate = JUDGEABLE / VISUAL EVALUATION COMPLETE / QUALIFYING PROVENANCE PENDING.
+Round 02 = COMPLETE / FAIL / consumed.
 
-Round 02 result = not yet formally closed for qualifying accounting.
+Qualifying counter = **2 / 3**.
+
+Mandatory reconciliation stop = ACTIVE.
 
 Round 03 = NOT AUTHORIZED.
 
 Final hero, final visual direction/style/palette, implementation, motion and Lane A change = NOT AUTHORIZED.
 
-**Exact next action:** obtain the single execution-provenance confirmation quoted above. If confirmed, close Round 02 as FAIL at 2/3 and enter the mandatory Director reconciliation/conflict-matrix gate. No further render occurs before that gate.
+**Exact next gate: Director decision on `KYMAEAN_HERO_CONSTRAINT_RECONCILIATION_01`.** No further render occurs before that decision.
