@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Renderer Method — Director Authorization 01
 
 Status: DIRECTOR AUTHORIZED / METHOD DESIGN ONLY

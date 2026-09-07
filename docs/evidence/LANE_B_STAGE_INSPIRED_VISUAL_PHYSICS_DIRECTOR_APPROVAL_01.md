@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Lane B — Stage-Inspired Visual Physics Director Approval 01
 
 Status: DIRECTOR APPROVED

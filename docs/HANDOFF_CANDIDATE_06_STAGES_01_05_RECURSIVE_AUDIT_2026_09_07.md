@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Ensemble / Kymaean Visual Design Fresh-Chat Handoff — Candidate 06 Stages 1–5 Audit
 
 Date: 2026-09-07

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Renderer Method — Director Approval 01
 
 Status: **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**

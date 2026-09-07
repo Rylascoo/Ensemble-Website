@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Kymaean / Ensemble Website — R0 Cross-Lab Synthesis Round 1
 
 Status: **COMPLETED R0 RESEARCH CHECKPOINT — NO CONVERGENCE**

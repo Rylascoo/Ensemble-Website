@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: SUPERSEDED -->
+
 # Kymaean / Ensemble Website — R0 Cross-Surface Robustness Validation Handoff
 
 Status: **SUPERSEDED AS ACTIVE HANDOFF — HISTORICAL R0 PROCESS / EXPERIMENT EVIDENCE ONLY**

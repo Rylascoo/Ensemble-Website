@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Kymaean Design Continuity Constitution
 
 Status: **ACTIVE PROJECT LAW FOR BRAND / WEBSITE EXPLORATION**

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Renderer Method — Status Reconciliation 01
 
 Status: CONTINUITY CORRECTION / NO METHOD SUBSTANCE CHANGE  

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Kymaean Visual Design Workflow Authority 01
 
 Updated: 2026-09-07

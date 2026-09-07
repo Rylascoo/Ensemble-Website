@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Ensemble Website
 
 Website, public-brand and visual-design authority for **Kymaean**, the public identity of the product developed in `Rylascoo/Ensemble-Project`.

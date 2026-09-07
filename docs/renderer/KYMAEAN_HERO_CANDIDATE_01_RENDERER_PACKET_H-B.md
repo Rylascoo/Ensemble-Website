@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # KYMAEAN HERO CANDIDATE 01 — RENDERER PACKET H-B
 
 Use this packet only in a fresh regular non-project renderer chat.

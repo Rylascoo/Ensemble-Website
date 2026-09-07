@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Ensemble Website — Current State
 
 Updated: 2026-09-07

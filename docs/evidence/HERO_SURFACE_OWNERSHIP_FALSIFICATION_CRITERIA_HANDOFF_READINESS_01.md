@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Ownership Falsification Criteria — Handoff Readiness 01
 
 Status: HISTORICAL / HANDOFF COMPLETED

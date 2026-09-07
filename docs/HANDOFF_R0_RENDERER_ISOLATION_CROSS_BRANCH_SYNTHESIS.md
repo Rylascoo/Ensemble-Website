@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: SUPERSEDED -->
+
 # Kymaean / Ensemble Website — R0 Renderer Isolation: Cross-Branch Synthesis
 
 Status: **COMPLETED / SUPERSEDED AS ACTIVE HANDOFF**

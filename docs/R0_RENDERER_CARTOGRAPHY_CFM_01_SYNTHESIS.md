@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Renderer Cartography — Controlled Formal Matrix 01 Synthesis
 
 Status: **COMPLETED METHODOLOGY CHECKPOINT — FORMAL CONTROL VALIDATED / NO CONVERGENCE**

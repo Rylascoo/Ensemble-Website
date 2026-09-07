@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: SUPERSEDED -->
+
 # Kymaean Renderer Cartography & Prompt Intelligence Protocol
 
 Status: **ACTIVE R0 PROJECT LAW FOR VISUAL-GENERATION RESEARCH**

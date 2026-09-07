@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Kymaean Renderer Isolation — First Cross-Branch Checkpoint
 
 Status: **ACTIVE R0 RESEARCH CHECKPOINT — NO CONVERGENCE**

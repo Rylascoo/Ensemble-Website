@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Ownership Falsification Criteria — Recursive Audit Pass 02
 
 Status: HISTORICAL PRE-APPROVAL CLEAN PASS / SUPERSEDED BY DIRECTOR REVIEW CORRECTION

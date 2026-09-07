@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Ownership Operational Definition — Director Approval 01
 
 Status: DIRECTOR APPROVED / DEFINITION AUTHORITY ONLY

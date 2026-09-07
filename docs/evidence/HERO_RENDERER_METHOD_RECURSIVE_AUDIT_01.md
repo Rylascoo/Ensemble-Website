@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Renderer Method 01 — Recursive Audit 01
 
 Status: COMPLETE / CLEAN SECOND PASS / READY FOR DIRECTOR REVIEW

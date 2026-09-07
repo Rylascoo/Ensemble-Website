@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # ATTRIBUTABLE AFTERMATH — EXPERIMENT A1 RENDERER PACKET
 
 Use this packet only in one fresh regular non-project renderer conversation.

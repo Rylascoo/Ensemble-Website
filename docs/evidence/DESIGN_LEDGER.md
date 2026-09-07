@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Kymaean Design Ledger
 
 Status: ACTIVE DURABLE CLOSURE / RE-DERIVATION LEDGER

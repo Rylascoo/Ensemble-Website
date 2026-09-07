@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: SUPERSEDED -->
+
 # Kymaean / Ensemble Website — R0 Visual Re-Foundation: Clean-Slate Rediscovery
 
 Status: **COMPLETED / SUPERSEDED AS ACTIVE HANDOFF**

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Method Boundary Correction — 2026-09-06
 
 Status: DIRECTOR AGREED / AUTHORITY RESTORED

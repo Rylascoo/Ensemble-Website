@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Ensemble Website / Kymaean — Repository Agent Authority
 
 Status: ACTIVE REPOSITORY WORKFLOW LAW

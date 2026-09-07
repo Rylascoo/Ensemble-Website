@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Renderer Cartography — Persistent Affordance Carrier Design 01
 
 Status: **DIRECTOR DESIGN CHECKPOINT — NO RENDER AUTHORIZED**

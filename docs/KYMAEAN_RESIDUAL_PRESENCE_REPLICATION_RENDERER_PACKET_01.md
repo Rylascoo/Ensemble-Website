@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Residual Presence — Replication R1
 
 Use this packet only in one fresh regular non-project renderer conversation.

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Kymaean Hero Candidate 04 — Method 02 Stage 06 Neutral Geometry Scaffold Construction Record
 
 Status:

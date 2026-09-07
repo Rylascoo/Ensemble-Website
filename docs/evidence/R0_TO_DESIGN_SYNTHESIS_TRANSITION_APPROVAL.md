@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 -> Kymaean App + Website Design Synthesis — Director Approval
 
 Status: **APPROVED**

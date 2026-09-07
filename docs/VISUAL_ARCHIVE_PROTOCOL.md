@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Kymaean Website Artwork — Visual Archive & Handoff Protocol
 
 Status: **ACTIVE PROJECT LAW FOR WEBSITE / BRAND ARTWORK HANDOFFS**

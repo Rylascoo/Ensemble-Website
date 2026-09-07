@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Pre-Render Review Package 02 — Director Approval
 
 Status: DIRECTOR APPROVED

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Temporal Observability Experiment 02 — Result
 
 Status: **COMPLETED EMPIRICAL RESULT / TEMPORAL CALIBRATION CLOSED**

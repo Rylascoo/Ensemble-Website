@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Ownership — Definition-First Director Approval 01
 
 Status: DIRECTOR APPROVED / DEFINITION-FIRST CONDITION BINDING  

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Renderer Cartography — Persistent Affordance Carrier Synthesis 01
 
 Status: **SYNTHESIS CHECKPOINT — NO NEW RENDER AUTHORIZED**

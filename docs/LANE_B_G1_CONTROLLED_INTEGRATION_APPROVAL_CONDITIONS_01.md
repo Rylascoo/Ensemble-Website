@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Lane B — G1 Controlled Integration Approval + Conditions 01
 
 Status: DIRECTOR APPROVED / CONDITIONS BINDING

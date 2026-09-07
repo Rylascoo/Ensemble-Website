@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Renderer Cartography — Phase Reconciliation 2026-09-06
 
 Status: ACTIVE CONTINUITY CORRECTION / HISTORICAL-METHOD POINTER

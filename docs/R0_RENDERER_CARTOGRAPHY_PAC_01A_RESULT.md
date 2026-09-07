@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Renderer Cartography — PAC-01A Result
 
 Status: **COMPLETE — PARTIAL-STRONG METHOD PASS**

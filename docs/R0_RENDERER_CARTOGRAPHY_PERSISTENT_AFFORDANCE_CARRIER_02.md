@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Renderer Cartography — Persistent Affordance Carrier Design 02
 
 Status: **COMPLETED — FIRST RENDER ARCHIVED AND EVALUATED**

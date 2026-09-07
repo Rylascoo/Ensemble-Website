@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Renderer Cartography — PAC-01D Result
 
 Status: **COMPLETED — CANONICAL CLEAN-RENDER EVIDENCE**

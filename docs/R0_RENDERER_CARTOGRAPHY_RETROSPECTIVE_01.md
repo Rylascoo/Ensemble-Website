@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Renderer Cartography — Retrospective Synthesis 01
 
 Status: **COMPLETED RETROSPECTIVE CHECKPOINT — CFM-01 AUDITED, NO RENDER AUTHORIZED**

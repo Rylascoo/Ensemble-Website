@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Ownership Falsification Criteria — Director Approval 01
 
 Status: DIRECTOR APPROVED / FROZEN

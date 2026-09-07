@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Cross-Medium Semantic Allocation — Evidence Audit 01
 
 Status: **DIRECTOR EVIDENCE AUDIT COMPLETE — NO NEW RENDER AUTHORIZED**

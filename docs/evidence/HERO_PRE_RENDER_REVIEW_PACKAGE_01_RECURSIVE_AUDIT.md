@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Pre-Render Review Package 01 — Recursive Audit
 
 Status: COMPLETE / CLEAN AFTER TWO CORRECTIONS / DIRECTOR REVIEW REQUIRED  

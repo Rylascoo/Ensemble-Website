@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Kymaean — Residual Presence Replication Gate 01
 
 Status: FROZEN BEFORE RENDER / MANDATORY PASS CONDITIONS

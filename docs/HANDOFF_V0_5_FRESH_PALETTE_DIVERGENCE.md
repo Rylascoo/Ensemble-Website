@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: UNCLASSIFIED -->
+
 # Kymaean / Ensemble Website — V0.5 Fresh-Palette Divergence Handoff
 
 Status: **ACTIVE VISUAL CONTINUATION HANDOFF**

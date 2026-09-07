@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Kymaean Renderer Isolation Protocol
 
 Status: **ACTIVE PROJECT LAW FOR CLEAN-SLATE VISUAL GENERATION**

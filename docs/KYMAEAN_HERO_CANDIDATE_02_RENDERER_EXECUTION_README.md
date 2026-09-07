@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Kymaean Hero Candidate 02 — Renderer Execution
 
 Status: DIRECTOR AUTHORIZED / RENDERER ISOLATION REQUIRED

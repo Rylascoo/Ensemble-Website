@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # Kymaean — Hero Surface Escape Gate 01
 
 Status: FROZEN BEFORE SURFACE PROMPT

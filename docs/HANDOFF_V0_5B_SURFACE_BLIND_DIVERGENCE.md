@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: UNCLASSIFIED -->
+
 # Kymaean / Ensemble Website — V0.5B Surface-Blind Divergence Handoff
 
 Status: **ACTIVE VISUAL CONTINUATION HANDOFF**

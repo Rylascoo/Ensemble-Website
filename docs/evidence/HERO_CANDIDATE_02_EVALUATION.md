@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Candidate 02 — Independent Evaluation Evidence
 
 Status: COMPLETE

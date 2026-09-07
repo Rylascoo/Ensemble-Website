@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
 # ODR-33 — Hero Causal-Observability Director Approval 01
 
 Status: DIRECTOR APPROVED / OPTION B SELECTED

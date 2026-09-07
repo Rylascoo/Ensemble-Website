@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: UNCLASSIFIED -->
+
 # Kymaean / Ensemble Website — V0.4.1 Fresh-Chat Handoff
 
 Status: **ACTIVE VISUAL CONTINUATION HANDOFF**

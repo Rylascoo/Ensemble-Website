@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Ownership Falsification Criteria — Authorization Correction 01
 
 Status: HISTORICAL CORRECTION / FINAL APPROVAL NOW RECORDED

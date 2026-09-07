@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # G1 — RESIDUAL PRESENCE
 
 Use this packet only in a fresh regular non-project renderer chat.

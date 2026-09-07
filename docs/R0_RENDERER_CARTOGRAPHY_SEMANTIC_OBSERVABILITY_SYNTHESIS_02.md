@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Renderer Cartography — Semantic Observability & Reference-State Synthesis 02
 
 Status: **COMPLETED EMPIRICAL SYNTHESIS / ACTIVE INPUT TO PERSISTENT AFFORDANCE CARRIER DESIGN**

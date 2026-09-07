@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Ownership Falsification Criteria — Scope Close 01
 
 Status: CLOSED / DIRECTOR APPROVED / FROZEN

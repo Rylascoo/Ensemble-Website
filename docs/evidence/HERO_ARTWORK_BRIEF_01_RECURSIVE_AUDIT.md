@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Artwork Brief 01 — Recursive Audit
 
 Status: PASS

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: SUPERSEDED -->
+
 # Kymaean / Ensemble Website — R0 Renderer Cartography Handoff
 
 Status: **SUPERSEDED — R0 CALIBRATION COMPLETE**

@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # R0 Temporal Observability Experiment 01
 
 Status: **COMPLETED EXPERIMENT — SEE CANONICAL RESULT**

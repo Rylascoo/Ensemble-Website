@@ -1,3 +1,5 @@
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+
 # Hero Surface Ownership Falsification Criteria — Recursive Audit 01
 
 Status: HISTORICAL PRE-DIRECTOR-REVIEW AUDIT / SUPERSEDED BY APPROVED S3 CORRECTION
