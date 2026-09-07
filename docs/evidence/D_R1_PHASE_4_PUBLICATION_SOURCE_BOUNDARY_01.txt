@@ -1,0 +1,52 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 4 PUBLICATION-SOURCE BOUNDARY 01
+
+Status: ACTIVE PHASE / ISOLATION BOUNDARY CREATED / DEPLOYABLE CONTENT MIGRATION NOT AUTHORIZED
+Date: 2026-09-07
+
+PURPOSE
+Enter D-R1 Phase 4 without silently promoting design research into production publication source.
+
+AUTHORITY CHECK
+Current repository law establishes all of the following:
+
+1. AGENTS.md reserves future `site/` as publication source only when the publication-isolation phase creates it; `prototypes/` is not publication source by implication.
+2. README.md repeats that future publication source under `site/` is not implied until the publication-isolation phase explicitly creates it.
+3. `docs/evidence/LANE_B_WEBSITE_V0_SITE_SPINE_APPROVAL_01.md` makes the Site Spine narrative order and artwork-need map temporary approved authority, but explicitly does NOT select final website or production implementation.
+4. `docs/KYMAEAN_LANE_B_WEBSITE_V0_SITE_SPINE_01.md` is machine-classified HISTORICAL EVIDENCE and explicitly says not to promote the final production website.
+5. `docs/KYMAEAN_LANE_B_WEBSITE_V0_HERO_ARTWORK_BRIEF_02.md` remains ACTIVE LAW with status NO HERO SELECTED and explicitly authorizes no implementation.
+
+PHASE 4 CONSEQUENCE
+The historical executable `prototypes/lane-b/website-v0-site-spine-01.html` may inform later production work, but copying or moving it into publication source now would incorrectly promote historical prototype evidence into a production implementation.
+
+STRUCTURAL ACTION COMPLETED
+Created:
+`site/README.txt`
+
+The new directory is now the explicit publication-source boundary. It intentionally contains no `index.html` and therefore does not claim a production website exists.
+
+PRESERVED
+- no file under `prototypes/` moved, renamed or rewritten;
+- no file under `assets/` moved, renamed or rewritten;
+- no historical design document was reclassified by Phase 4;
+- no final website, hero, copy, palette, imagery system, brand master or motion system was selected;
+- Cloudflare root/configuration was not changed;
+- `prototypes/` was not substituted as a publication root.
+
+AUDIT
+Authority separation: PASS.
+Prototype/evidence non-promotion: PASS.
+Publication boundary clarity: PASS.
+No accidental deployable page: PASS — no `site/index.html` exists.
+Prototype/assets immutability: PASS.
+Cloudflare non-mutation: PASS.
+Hero/design-selection boundary: PASS.
+
+One complete pass after construction found no material correction or worthwhile improvement inside the current structural boundary.
+
+DISPOSITION
+D-R1 Phase 4 publication-source ISOLATION is established.
+Deployable-content MIGRATION remains intentionally unexecuted because current ACTIVE LAW has not selected a production website implementation and the current hero authority says NO HERO SELECTED.
+
+Do not fabricate a production source merely to close restructuring. Keep D-R1 Phase 4 active until a deployable source is legitimately authorized or the governing phase contract explicitly permits closure with an empty publication boundary.
+
+Candidate 06 creative construction remains paused while D-R1 restructuring is the active structural workstream.
