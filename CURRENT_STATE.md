@@ -40,6 +40,8 @@ Canonical Stage 06:
 - `docs/evidence/scaffolds/C04-ACLT-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json`
 - `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT.md`
 
+Drive mirror: folder `1Aug2yh59_WQZwe5q8L4A1J9UTkhzldKp`; SVG `1lmALhdw5rQAJEHMz-yooIwaYXVUsm6PZ`; manifest `1mG-TtNK4H1I8FxkaI8oOWXQv0ynh67LM`.
+
 Scaffold facts:
 
 - source artboard `1536×960`;
