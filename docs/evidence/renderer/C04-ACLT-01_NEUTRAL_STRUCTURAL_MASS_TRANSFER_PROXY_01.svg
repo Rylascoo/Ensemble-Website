@@ -30,28 +30,28 @@
       C1245 630 1270 630 1300 630"/>
 
     <!-- Person A structural silhouette: exact Stage 06 regions. -->
-    <ellipse id="A-head" cx="846" cy="322" rx="54" ry="62" fill="#363636"/>
-    <path id="A-body" fill="#363636" d="M810 385
+    <ellipse id="A-head" cx="846" cy="322" rx="54" ry="62" fill="#454545"/>
+    <path id="A-body" fill="#454545" d="M810 385
       C835 365 875 365 900 390
       L875 610
       C870 655 852 686 826 700
       C797 696 772 660 777 610
       Z"/>
-    <path id="A-forearm" fill="#363636" d="M884 391
+    <path id="A-forearm" fill="#454545" d="M884 391
       C920 392 960 392 1002 397
       L1004 411
       C960 414 922 414 884 413
       Z"/>
 
     <!-- Person B structural silhouette: exact Stage 06 regions. -->
-    <ellipse id="B-head" cx="1112" cy="305" rx="42" ry="50" fill="#666666"/>
-    <path id="B-body" fill="#666666" d="M1076 365
+    <ellipse id="B-head" cx="1112" cy="305" rx="42" ry="50" fill="#454545"/>
+    <path id="B-body" fill="#454545" d="M1076 365
       C1092 350 1124 350 1140 368
       L1152 474
       C1152 496 1134 510 1112 510
       C1092 510 1082 497 1084 475
       Z"/>
-    <path id="B-forearm" fill="#666666" d="M1114 393
+    <path id="B-forearm" fill="#454545" d="M1114 393
       C1076 394 1040 398 996 406
       L995 420
       C1040 415 1077 414 1114 414
