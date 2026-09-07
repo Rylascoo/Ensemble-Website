@@ -8,6 +8,7 @@ Updated: 2026-09-07
 - Engineering/product truth: `Rylascoo/Ensemble-Project`; fresh-read its `CURRENT_STATE.md` before exact capability claims.
 - Visual master/continuity: Google Drive `Ensemble Project`.
 - Workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
+- Reasoning/task scope: `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`.
 - Design continuity: `docs/DESIGN_CONTINUITY.md`.
 - Renderer isolation: `docs/RENDERER_ISOLATION_PROTOCOL.md`.
 
@@ -20,6 +21,12 @@ After a clean design-gate audit record, record:
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
 
 Do not ask the Director to approve that design gate. Proceed to the next defined design action. Fresh chats/handoffs must inherit this rule. This delegation does not create engineering/product authority outside the design lane.
+
+## Reasoning / external-specialist law
+
+**GPT-5.6 Sol High is the primary project reasoning, design-governance, repository-work and continuity surface.** Astra/Codex is a scarce external specialist, normally reserved for one or two tightly bounded high-leverage tasks when its local/batch environment, unavailable runtime capability, or independent falsification perspective materially exceeds what can be done here. Astra output is advisory evidence and must be reconciled and recursively audited in Sol High before it changes project state.
+
+Do not pause normal project work because Astra capacity is unavailable. Use `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md` and the workflow authority for the binding allocation rules.
 
 ## Hero program — inherited frozen state
 
@@ -132,7 +139,7 @@ Exact next action:
 3. under standing delegation, a clean audit earns the gate automatically and authorizes Candidate 06 Stage 6 deterministic scaffold construction only;
 4. do not ask the Director for another approval after a clean audit.
 
-Fresh chats must read `CURRENT_STATE.md` first and treat historical status/approval wording as non-authoritative when it conflicts with this file and the standing design-gate law.
+Fresh chats must read `CURRENT_STATE.md` first and treat historical status/approval wording as non-authoritative when it conflicts with this file, the standing design-gate law, or the Sol-High-primary / Astra-scarcity rule.
 
 Fresh-chat handoff artifact:
 
