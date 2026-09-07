@@ -155,3 +155,13 @@ GitHub-hosted Actions run `34169485152` executed at the exact implementation hea
 Full adoption evidence: `docs/evidence/D_R1_PHASE_2_ADOPTION_01.txt`.
 
 **Guardrail:** machine status does not rewrite historical body text, and `UNCLASSIFIED` remains valid reconciliation debt. Any new Markdown document must carry exactly one canonical first-line D-R1 status header and keep `docs/INDEX.md` byte-for-byte current.
+
+## L-015 — D-R1 Phase 3 branch disposition is complete
+
+**State:** COMPLETE / CLEAN
+
+All seven freshly verified zero-unique strict-ancestor branches were preserved under the exact `archive/d-r1-phase3/...` lightweight tags and then deleted one at a time. Sol independently read back the remote state: seven exact preservation tags remain, all seven source branches are absent, `main` was unchanged by the ref operations, and the remote now contains **37 branches = main + the 36 previously protected unique-commit branches**.
+
+Full closure evidence: `docs/evidence/D_R1_PHASE_3_CLOSURE_01.txt`.
+
+**Guardrail:** Phase 3 closure does not authorize deletion of any of the remaining 36 unique-commit branches. D-R1 continues into Phase 4 publication-source isolation/migration; Candidate 06 creative construction remains paused until restructuring permits return.
