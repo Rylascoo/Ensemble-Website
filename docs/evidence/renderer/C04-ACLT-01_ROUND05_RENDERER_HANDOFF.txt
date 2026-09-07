@@ -1,0 +1,27 @@
+METHOD02-R05-C04 — DIRECTOR-SIDE RENDERER HANDOFF
+
+Execution is authorized by:
+docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_05_EXECUTION_READINESS_AUDIT.md
+
+Use one fresh regular ChatGPT chat outside the Ensemble project.
+
+Transfer exactly two inputs and nothing else:
+
+1. STRUCTURAL_MASS_REFERENCE_02.png
+   Drive ID: 1-Pecd65L2VM0v_NhZ3tUgnjDY5KtRHdl
+   SHA-256: a268cca3a03c2f9852ed3becbd2a448574cc63d1aad8d9d66e88514a569b060e
+
+2. STERILE_RENDERER_PACKET_02.txt
+   Drive ID: 1gTk5xavfVttzA9LREI7P-KaOMRvGiunS
+   SHA-256: 0fc6ecff07be64938a4f12bffa1c1170908e8e027ee3d407870b4c688c6ffd3b
+
+Execution procedure:
+- upload the PNG structural reference;
+- paste the exact text contents of STERILE_RENDERER_PACKET_02.txt unchanged as the renderer request;
+- do not add an introduction, explanation, project name, critique, prior image, scoring rubric, or follow-up instruction;
+- request/accept exactly one image;
+- no modification, retry, refinement, alternate selection, or reroll;
+- if no image is returned, stop and report the technical result rather than submitting another request;
+- if one judgeable image is returned, close the renderer context and return that untouched image to Director Context for frozen evaluation.
+
+No automatic Round 06 exists.
