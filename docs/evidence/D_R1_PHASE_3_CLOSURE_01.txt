@@ -1,0 +1,83 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 3 CLOSURE 01
+
+Status: COMPLETE / RECURSIVELY AUDITED / CLEAN
+Date: 2026-09-07
+
+PURPOSE
+Close D-R1 Phase 3 after the seven verified zero-unique strict-ancestor branches were preserved by exact lightweight tags and then deleted one at a time under the Phase 3 execution contract.
+
+PRE-DISPOSITION AUTHORITY
+Repository main immediately before execution remained:
+f35e122a6aa3e987cb35ca7d471d9d708dee46c2
+
+The eligible set and exact expected heads/tags were defined in:
+docs/evidence/D_R1_PHASE_3_BRANCH_DISPOSITION_VERIFICATION_01.txt
+
+EXECUTION EVIDENCE
+The Director executed the PowerShell-native Phase 3 disposition procedure from an authenticated local checkout. Immediately before each individual disposition the procedure freshly fetched current origin/main and that target branch, then required:
+- target head equals the recorded SHA;
+- branch has zero commits unique to main;
+- branch head is an ancestor of main and is not equal to main;
+- the exact lightweight preservation tag is created/pushed first;
+- the remote tag resolves to the exact branch-head SHA before deletion;
+- only that remote branch is deleted;
+- branch absence and preservation-tag survival are verified after deletion.
+
+All seven completed without mismatch:
+
+1. Site
+   head/tag SHA: 40da8b95ea549f0249a9fa8009561891d0836294
+   tag: archive/d-r1-phase3/Site
+
+2. design/lane-a-archive-causality-2026-09-05
+   head/tag SHA: e0a39195e118d6a989fbcce487ffb28e958e600c
+   tag: archive/d-r1-phase3/design/lane-a-archive-causality-2026-09-05
+
+3. design/lane-a-character-recasting-2026-09-05
+   head/tag SHA: a6ad604bcf12f0e7710439aec9c58ca1ce5a77df
+   tag: archive/d-r1-phase3/design/lane-a-character-recasting-2026-09-05
+
+4. design/lane-a-long-scene-2026-09-05
+   head/tag SHA: 2bd03fb1534ba9f4ac9e22431fdd8e443544c061
+   tag: archive/d-r1-phase3/design/lane-a-long-scene-2026-09-05
+
+5. design/lane-a-take-acceptance-2026-09-05
+   head/tag SHA: 9caa81c70ea4d1a359a05e5f0a53555916dcbe43
+   tag: archive/d-r1-phase3/design/lane-a-take-acceptance-2026-09-05
+
+6. visual/v0-5-fresh-palette-handoff
+   head/tag SHA: 39bab8f53d5589975d7941d20c576d242a67a42d
+   tag: archive/d-r1-phase3/visual/v0-5-fresh-palette-handoff
+
+7. design/d-r1-phase-2-document-status-index-ci
+   head/tag SHA: 5b36975655b870d4270808200b6f9bee59a43ebd
+   tag: archive/d-r1-phase3/design/d-r1-phase-2-document-status-index-ci
+
+INDEPENDENT SOL READBACK
+After execution, Sol independently queried GitHub rather than relying only on terminal output.
+
+Verified:
+- all seven archive/d-r1-phase3/* remote tags exist;
+- every tag resolves to the exact SHA recorded above;
+- all seven disposed branch names are absent from the remote branch collection;
+- remote branch count is now 37 total = main + the 36 branches previously protected for unique commits;
+- current main remains f35e122a6aa3e987cb35ca7d471d9d708dee46c2;
+- because main did not move during ref disposition, no repository file, prototype, asset, historical evaluation or Cloudflare publication source/root changed as part of Phase 3.
+
+RECURSIVE AUDIT
+Authority: PASS — execution followed the recorded Phase 3 contract.
+Eligibility: PASS — every target was freshly reverified immediately before disposition.
+Preservation-before-deletion: PASS — exact remote tag verified before every branch deletion.
+Post-delete preservation: PASS — every tag remained at the exact SHA.
+Unique-branch safety: PASS — 36 protected unique-commit branches remain; no unique branch was admitted to the disposition set.
+Scope: PASS — ref hygiene only; no design, prototype, asset, publication or Cloudflare mutation occurred.
+Continuity: PASS — Phase 3 result is now preserved in durable repository evidence.
+
+One complete pass after independent readback found no material error, inconsistency, scope violation or worthwhile Phase 3 correction.
+
+PHASE 3 DISPOSITION
+COMPLETE / CLEAN.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+NEXT STRUCTURAL BOUNDARY
+D-R1 Phase 4 — publication-source isolation/migration. Enter Phase 4 from current repository state; do not resume Candidate 06 creative construction while D-R1 restructuring remains active.
