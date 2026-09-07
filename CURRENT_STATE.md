@@ -28,6 +28,7 @@ Phase 0: **COMPLETE / CLEAN AFTER RAW-ARTIFACT RE-AUDIT**. Phase 1: **COMPLETE**
 Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_02.txt`.
 Classification authority: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json`.
 Raw Astra artifact identities: `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`.
+Phase 2 adoption evidence: `docs/evidence/D_R1_PHASE_2_ADOPTION_01.txt`.
 
 Phase 2 adopted audited branch head `5b36975655b870d4270808200b6f9bee59a43ebd` by fast-forward. GitHub-hosted `Document status structure` run `34169485152` completed successfully at that exact head.
 
