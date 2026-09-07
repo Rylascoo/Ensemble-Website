@@ -2,7 +2,7 @@
 
 Status: **ACTIVE PROJECT LAW FOR CLEAN-SLATE VISUAL GENERATION**
 
-Updated: 2026-09-03
+Updated: 2026-09-07
 
 Purpose: separate persistent project intelligence from image-rendering context so Kymaean can preserve complete creative memory while reducing direct inheritance of historical surface vocabulary.
 
@@ -17,7 +17,7 @@ Kymaean visual development uses two deliberately different contexts:
 1. **Director Context** — persistent, project-based, historically informed.
 2. **Renderer Context** — short-lived, outside the Ensemble project, intentionally deprived of project history.
 
-The Director owns product truth, visual lineage, user reactions, critique history, Drive continuity, evaluation, experiment design, formal-grammar control, archival classification, and phase authority.
+The Director Context owns product truth, visual lineage, user reactions, critique history, Drive continuity, evaluation, experiment design, formal-grammar control, archival classification, and design-phase authority.
 
 The Renderer receives only the bounded experiment packet needed for that render and should not need to know that the image belongs to Kymaean, Ensemble, a website, an app, AI software, or a brand exercise.
 
@@ -59,9 +59,7 @@ It does **not** prove:
 
 Saved-memory controls are not the project's visual-continuity or visual-isolation mechanism.
 
-The user previously inspected visible saved-memory content and found broad project/workflow memories rather than a detailed archive of prior image generations. Deleting disposable renderer chats also did not eliminate recurring visual tendencies.
-
-Do not spend further render budget on memory-negation preambles such as:
+Do not spend render budget on memory-negation preambles such as:
 
 - "ignore all memories";
 - "do not use personalization";
@@ -75,10 +73,10 @@ Project continuity remains GitHub/Drive-based. Renderer isolation remains a cont
 
 The persistent Ensemble/Kymaean Director Context may and should know:
 
-- `Rylascoo/Ensemble-Website` current state, design law, active handoff, completed checkpoints, and Renderer Cartography;
+- `Rylascoo/Ensemble-Website` current state, design law, active evidence, and renderer research;
 - `Rylascoo/Ensemble-Project` current product truth and validation boundaries;
 - Google Drive `Ensemble Project` visual masters, registry, archive, and critique history;
-- O0 and all later historical branches;
+- O0 and later historical branches;
 - historical favorites, failures, user reactions, and design judgments;
 - prior generated artwork when evidence review or deliberate comparison requires it;
 - the complete evaluation framework and project vocabulary.
@@ -90,18 +88,19 @@ Its job is to:
 1. define the research question;
 2. identify the semantic kernel that must survive;
 3. identify the formal variable/grammar being tested;
-4. formulate a bounded renderer packet;
-5. send it to a fresh Renderer Context;
-6. evaluate the returned artwork;
-7. archive visual evidence and critique;
-8. update Renderer Cartography;
-9. update project authority only when the relevant gate is actually satisfied.
+4. construct a bounded renderer packet;
+5. recursively audit the packet and transfer surface;
+6. under the standing delegation, treat a clean pass as earned approval;
+7. send only the approved bounded inputs to a fresh Renderer Context;
+8. evaluate the returned artwork;
+9. archive visual evidence and critique;
+10. update project authority only after the relevant recursive audit is clean.
 
 ## 6. Renderer Context restrictions
 
-For normal R0 generation, the renderer should:
+For normal generation, the renderer should:
 
-- have no project files;
+- have no project files except an explicitly authorized sanitized structural reference for a controlled transfer experiment;
 - receive no Kymaean/Ensemble design documents;
 - receive no historical Kymaean artwork unless a deliberate reference-transfer experiment requires one;
 - receive no project-chat continuity in its prompt;
@@ -111,9 +110,9 @@ For normal R0 generation, the renderer should:
 
 After generation, return the image to Director Context for evaluation and archival.
 
-## 7. Sterile packet law — revised
+## 7. Sterile packet law
 
-A sterile packet is still the normal transfer unit, but "sterile" now means **free of irrelevant project-history contamination**, not "artistically unconstrained."
+A sterile packet is the normal transfer unit. "Sterile" means free of irrelevant project-history contamination, not artistically unconstrained.
 
 Do not include, unless indispensable to a deliberate experiment:
 
@@ -124,11 +123,10 @@ Do not include, unless indispensable to a deliberate experiment:
 - historical branch names;
 - project documents;
 - previous artwork descriptions;
+- scoring rubric or critique history;
 - long historical motif blacklists.
 
-However, when the experiment is testing cross-surface robustness, the Director should **explicitly control the formal grammar** rather than asking the renderer to invent one freely.
-
-See `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`.
+A controlled formal or structural reference may be transferred only when the active experiment package explicitly defines the transferred variable and its contamination test.
 
 ## 8. Examples remain visual seeds
 
@@ -175,18 +173,11 @@ For causal experiments, evaluate before beauty:
 1. person-removal test;
 2. evidence test;
 3. changed-state/possibility test appropriate to the experiment;
-4. unequal-understanding test.
+4. unequal-understanding test where relevant.
 
 For artistic-language experiments, ask whether people are structurally necessary, relationships alter the visual field, individuals remain specific, identity can persist through transformed representation, and the result feels authored rather than like a learned genre shortcut.
 
-For Renderer Cartography, additionally record:
-
-- which variables were controlled;
-- which variable changed;
-- predicted effect;
-- observed effect;
-- unintended changes;
-- confidence of attribution.
+For Renderer Cartography, additionally record controlled variables, predicted effect, observed effect, unintended changes and attribution confidence.
 
 ## 13. Recovered attractor laws
 
@@ -210,30 +201,34 @@ Current non-aesthetic system hypothesis:
 
 > **Distinct people are structurally important; human choices can change shared conditions and future possibilities; identities can persist across transformed representations; relationships can structure the visual field; visibility/access can be asymmetric; and present arrangements can contain evidence of prior human causes.**
 
-The late phrase `We inherit boundaries. We create crossings.` remains historical research shorthand only.
+Historical shorthand such as `We inherit boundaries. We create crossings.` creates no visual inheritance rights.
 
-No literal bridge, wall, portal, threshold, ruin, repair scaffold, architectural archaeology, post-collapse environment, or pale-gold monumentality has inheritance rights.
+## 15. Standing approval discipline
 
-## 15. Phase-authority safeguard
+`docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md` governs design-gate approval.
 
-> **Research discovery != phase transition.**  
-> **Assistant/design-team preference != user approval.**  
-> **Recent strength != incumbent.**  
-> **Metaphor != identity.**  
-> **Surface != law.**
+> **Clean recursive audit = earned approval for a design-lane gate.**
 
-Before phase promotion, audit evidence, reconcile Drive/GitHub, verify convergence status, obtain explicit mutual convergence where required, and only then update project authority.
+A renderer/reference-transfer/image-generation gate that reaches a clean recursive audit is recorded as:
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+Do not request another Director approval for that gate. Proceed according to the frozen execution accounting.
+
+This does not relax renderer isolation, experimental accounting, one-image limits, no-reroll rules, or post-render evaluation law.
 
 ## 16. Active continuation
 
-Follow `CURRENT_STATE.md`.
+Always follow `CURRENT_STATE.md`; historical active-handoff pointers are non-authoritative.
 
-As of 2026-09-03, the active handoff is:
+Current Candidate 04 Method 02 work uses:
 
-`docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`
+- approved Stage 06 deterministic structural scaffold;
+- approved Stage 07 sterile artwork translation/pre-render package;
+- experiment label `METHOD02-R04-C04`;
+- exactly one isolated renderer request for one image;
+- zero free rerolls;
+- exact sanitized structural reference + exact frozen sterile packet;
+- immediate post-render evaluation under unchanged frozen law.
 
-The controlling prompt-research protocol is:
-
-`docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
-
-Do not generate another open-ended Cross-Surface image until the retrospective dataset and first controlled formal matrix are complete and reviewed.
+A clean execution-readiness audit earns the execution gate under the standing delegation. The actual renderer context must still be a fresh regular chat outside the Ensemble project unless a later audited protocol explicitly changes that isolation method.
