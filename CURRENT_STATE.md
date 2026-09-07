@@ -38,9 +38,11 @@ VID, R0, Hero Method 01 and Method 02 all have written success/termination state
 
 ### Active structural phase — Phase 3
 
-Branch archival/disposal only. Before changing any ref, freshly compare each candidate against current `main`; only a **zero-unique strict ancestor** may be archived. Create a preservation tag at the exact branch head before deleting the branch. Never delete a branch with unique commits.
+Fresh branch-disposition verification is complete at `docs/evidence/D_R1_PHASE_3_BRANCH_DISPOSITION_VERIFICATION_01.txt`.
 
-Baseline candidates from Phase 0 were: `Site`, `design/lane-a-archive-causality-2026-09-05`, `design/lane-a-character-recasting-2026-09-05`, `design/lane-a-long-scene-2026-09-05`, `design/lane-a-take-acceptance-2026-09-05`, and `visual/v0-5-fresh-palette-handoff`. Fresh verification may add or remove candidates; do not infer eligibility from the old census.
+Verified eligible set: **7 zero-unique strict ancestors** — the original six Phase 0 candidates plus adopted work branch `design/d-r1-phase-2-document-status-index-ci`. The original 36 unique-commit branches remain protected.
+
+Phase 3 ref disposition is **VERIFIED / NOT YET EXECUTED**. A tag/delete-capable Git surface must reverify each target immediately before action, push the recorded preservation tag at the exact branch head, verify that tag, then delete only that branch. Do not substitute another branch for the required tag.
 
 Do not move `prototypes/` or `assets/`, change Cloudflare root, or begin Phase 4 publication-source migration during Phase 3.
 
