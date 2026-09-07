@@ -5,16 +5,15 @@
   "artboard": [1536, 960],
   "geometry_changes": "none",
   "semantic_changes": "none",
-  "representation_change": "line-based field boundaries are combined into one filled finite-width 2D structural mass; exact secondary correspondence retained; A/B regions filled with distinct neutral technical values",
+  "representation_change": "line-based field boundaries are combined into one filled finite-width 2D structural mass; exact secondary correspondence retained; A/B regions are filled with the same neutral human value",
   "structural_values": {
     "background": "#ffffff",
     "field": "#b8b8b8",
     "field_edge": "#2f2f2f",
     "secondary_correspondence": "#737373",
-    "A": "#363636",
-    "B": "#666666"
+    "human": "#454545"
   },
-  "value_semantics": "technical region separation only; no aesthetic or brand authority",
+  "value_semantics": "technical region separation only; A and B use the same neutral human value so identity is not color-coded; no aesthetic or brand authority",
   "excluded": [
     "final palette",
     "material identity",
