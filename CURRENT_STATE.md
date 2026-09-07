@@ -10,63 +10,39 @@ Updated: 2026-09-07
 - Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`.
 - Visual masters: Google Drive `Ensemble Project`.
 - Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
-- Reasoning allocation: `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`.
-- Closure history: `docs/evidence/DESIGN_LEDGER.md`.
+- Reasoning: `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`.
+- Closure: `docs/evidence/DESIGN_LEDGER.md`.
 
-This file alone owns volatile phase/current-boundary state.
-
-## Workflow
-
-**GPT-5.6 Sol High is primary.** Astra/Codex is a scarce specialist for bounded work where its environment materially adds evidence.
-
-> **Clean recursive audit = earned approval.**
+This file alone owns volatile phase/current-boundary state. GPT-5.6 Sol High is primary; clean recursive audit earns in-lane approval.
 
 ## D-R1 restructuring
 
-Phase 0: **COMPLETE / CLEAN AFTER RAW-ARTIFACT RE-AUDIT**. Phase 1: **COMPLETE**. Phase 2: **COMPLETE / ADOPTED AFTER CLEAN SOL AUDIT**.
+Phases 0–2: **COMPLETE**. Phase 2 adopted head `5b36975655b870d4270808200b6f9bee59a43ebd`; GitHub run `34169485152` succeeded at that head. Corpus remains **282 Markdown = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
 
-Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_02.txt`.
-Classification authority: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json`.
-Raw Astra artifact identities: `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`.
-Phase 2 adoption evidence: `docs/evidence/D_R1_PHASE_2_ADOPTION_01.txt`.
+Phase 3: **COMPLETE / CLEAN**. Seven freshly reverified zero-unique strict ancestors were preserved by exact `archive/d-r1-phase3/...` lightweight tags and deleted one at a time. Independent GitHub readback confirmed all seven tags at exact SHAs, all seven branches absent, and **37 remote branches = main + 36 protected unique-commit branches**.
 
-Phase 2 adopted audited branch head `5b36975655b870d4270808200b6f9bee59a43ebd` by fast-forward. GitHub-hosted `Document status structure` run `34169485152` completed successfully at that exact head.
+Phase 3 closure: `docs/evidence/D_R1_PHASE_3_CLOSURE_01.txt`.
 
-Current corpus: **282 Markdown** with exactly one first-line D-R1 machine-status header each and generated `docs/INDEX.md`: **42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. `UNCLASSIFIED` remains valid reconciliation debt and is not an error by itself.
+### Active structural phase — Phase 4
 
-VID, R0, Hero Method 01 and Method 02 all have written success/termination states. D-R1 Phase 6 is **NOT TRIGGERED**.
+**PUBLICATION-SOURCE ISOLATION / MIGRATION.**
 
-### Active structural phase — Phase 3
+`site/` now exists as the explicit publication-source boundary via `site/README.txt`. It intentionally has no `index.html`.
 
-Fresh branch-disposition verification is complete at `docs/evidence/D_R1_PHASE_3_BRANCH_DISPOSITION_VERIFICATION_01.txt`.
+Current ACTIVE LAW does not yet select a production website implementation: the Site Spine approval preserves narrative/artwork planning but explicitly excludes final production implementation, and Hero Artwork Brief 02 remains **NO HERO SELECTED**. Therefore no historical prototype may be copied/moved into `site/` merely to populate it.
 
-Verified eligible set: **7 zero-unique strict ancestors** — the original six Phase 0 candidates plus adopted work branch `design/d-r1-phase-2-document-status-index-ci`. The original 36 unique-commit branches remain protected.
+Phase 4 evidence: `docs/evidence/D_R1_PHASE_4_PUBLICATION_SOURCE_BOUNDARY_01.txt`.
 
-Phase 3 ref disposition is **VERIFIED / NOT YET EXECUTED**. A tag/delete-capable Git surface must reverify each target immediately before action, push the recorded preservation tag at the exact branch head, verify that tag, then delete only that branch. Do not substitute another branch for the required tag.
+Preserve: no `prototypes/` or `assets/` moves/rewrites; no prototype-as-publication substitution; no Cloudflare-root change until a legitimately authorized deployable source exists and is audited.
 
-Do not move `prototypes/` or `assets/`, change Cloudflare root, or begin Phase 4 publication-source migration during Phase 3.
+D-R1 Phase 6 remains **NOT TRIGGERED**.
 
-## Hero program
+## Creative work — paused by active restructuring
 
-Method 01: **CLOSED / 3 OF 3 ROUNDS CONSUMED**.
+Method 02 remains approved. Active creative continuation is Candidate `C06-ASPB-01` / D9; Stages 1–5 are constructed and await recursive audit.
 
-Method 02: **APPROVED**. Frozen post-render law remains Hero Artwork Brief 02 + Falsification Criteria 01 + Surface Escape + fixed Harness 01; no compensating average, rescue or free reroll.
+Do **not** resume Candidate 06 Stage 6, renderer work, image generation, final hero selection, website implementation, Lane A implementation or motion while D-R1 Phase 4 remains active.
 
-Active direction: **D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**.
+## Exact next action
 
-Active candidate: `C06-ASPB-01` — **Asymmetric Shear-Posture Brace / residual slip / passive torso contact**.
-
-Mechanism investigation: **COMPLETE / AUDITED / CLEAN**.
-Stages 1–5: **COMPLETE / RECURSIVE AUDIT REQUIRED**.
-
-## Exact next creative action
-
-Recursively audit `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`.
-
-A clean pass authorizes **Candidate 06 Stage 6 deterministic Neutral Geometry Scaffold construction only**.
-
-## Hard boundary
-
-Before that clean audit: no Candidate 06 Stage 6, transfer proxy, renderer packet/reference transfer/image generation/Round 06, final hero/style/palette selection, website implementation, Lane A/app UI implementation or motion.
-
-Active handoff: `docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md`
+Resolve Phase 4 deployable-source eligibility from current ACTIVE LAW without promoting historical evidence. If no production source is authorized, preserve the empty `site/` boundary and keep deployment configuration unchanged rather than inventing one.
