@@ -10,7 +10,7 @@ Updated: 2026-09-06
 
 Fresh-read this file first. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` before engineering/product-truth claims.
 
-Current hero authority/evidence chain:
+For current hero/design work, current authority/evidence includes:
 
 1. `docs/KYMAEAN_LANE_B_WEBSITE_V0_HERO_ARTWORK_BRIEF_02.md`;
 2. ODR-33 resolved hero definition;
@@ -19,12 +19,42 @@ Current hero authority/evidence chain:
 5. Drive `KYMAEAN_HERO_SURFACE_ESCAPE_GATE_01.md` — frozen;
 6. corrected/re-frozen Hero Integration Harness 01;
 7. completed Round 01–03 evaluations/closures;
-8. `docs/KYMAEAN_HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01.md` + audit + Director Option A decision;
+8. three-round exhaustion review + Director Option A decision;
 9. `docs/KYMAEAN_HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02.md` + audit + Director approval;
-10. Method 02 mechanism-neutral tooling + tooling audit;
+10. Method 02 mechanism-neutral tooling + audit;
 11. `docs/KYMAEAN_HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_INVESTIGATION_02.md` + audit;
 12. `docs/evidence/HERO_METHOD_02_DIRECTION_02_DIRECTOR_APPROVAL.md`;
-13. `docs/KYMAEAN_VISUAL_ASSET_MATERIALIZATION_ROADMAP_01.md`.
+13. `docs/KYMAEAN_VISUAL_ASSET_MATERIALIZATION_ROADMAP_01.md`;
+14. `docs/KYMAEAN_ENGINEERING_INFORMED_VISUAL_TRANSLATION_PROTOCOL_01.md`.
+
+## Cross-lane engineering-informed visual translation — ACTIVE PROTOCOL
+
+The Director explicitly approved targeted scans of `Rylascoo/Ensemble-Project` at any time when current application architecture/semantics can make the visual identity, interaction language, or app design more intuitive.
+
+Protocol:
+
+- `docs/KYMAEAN_ENGINEERING_INFORMED_VISUAL_TRANSLATION_PROTOCOL_01.md`.
+
+Rules:
+
+- `Ensemble-Project` is a truth input, not aesthetic authority;
+- read engineering `CURRENT_STATE.md` first, then only the exact roadmap/blueprint/source/evidence needed;
+- distinguish implemented truth, approved-but-not-implemented architecture, and open UX/product ontology;
+- separate `ENGINEERING FACT -> DESIGN INFERENCE -> VISUAL PROPOSAL`;
+- do not expose backend seams merely because they exist in code;
+- no separate routine Director gate is required for these reads inside already-authorized design work.
+
+Current high-value translation inputs from engineering include:
+
+- `Character != Performer` -> Character identity should survive provider/casting changes;
+- UI is projection, not causal authority -> visual states reveal authority without creating it;
+- accepted Performance + approved consequences commit atomically -> eventual visible adoption should read as one coherent event;
+- next Opportunity is explicit state -> future interaction/motion may express changing possibility structurally;
+- Access before Context/relevance -> future disclosure/perspective design must not conflate allowed, available, and relevant information;
+- claim/fact/knowledge/belief/memory/provenance remain distinct -> creator-facing visual language should preserve epistemic distinctions when exposed;
+- Studio / Stage / Archive remain product spaces, while exact launch semantics/navigation remain downstream product-runtime decisions.
+
+Current engineering `main` checked during protocol creation: `f9cb1a79ad7923b640ff1a97c46d8fd6ab9dac25`.
 
 ## Website V0 temporary authority
 
@@ -74,15 +104,13 @@ Director cadence:
 | S2–S5 | PASS | PASS | PASS |
 | S6 | FAIL | FAIL | FAIL |
 
-Durable findings:
+Durable synthesis:
 
-- Epistemic Restraint, Surface Escape, S2–S5 and numeric Mobile Survival passed all three rounds;
-- Round 02 demonstrated Human Necessity + Changed-condition legibility + S1 but failed causal necessity;
-- Round 03 demonstrated Altered Possibility + Removal necessity but failed Human Necessity + Changed-condition legibility + S1;
-- S6 failed through changing mechanisms and does not justify changing Harness 01 from current evidence;
-- smallest unresolved conjunction is two-person Human Necessity + Changed-condition legibility + Altered Possibility/Removal necessity + S1 Human-first salience.
-
-Three-round exhaustion is evidence of Method 01 exhaustion, not logical impossibility of the static hero contract.
+- Round 02 proved Human Necessity + Changed-condition legibility + S1 can coexist;
+- Round 03 proved Altered Possibility + Removal necessity can coexist with restraint;
+- smallest unresolved conjunction remains two-person Human Necessity + Changed-condition legibility + Altered Possibility/Removal necessity + S1;
+- S6 failed through changing mechanisms and does not justify changing Harness 01;
+- three-round exhaustion is Method 01 exhaustion, not proof the static hero contract is impossible.
 
 ## Exhaustion decision — OPTION A APPROVED
 
@@ -90,13 +118,11 @@ Director selected:
 
 **A — PRESERVE CONTRACT / CLOSE CURRENT ONE-SHOT QUALIFYING METHOD / AUTHORIZE SUCCESSOR DESIGN-CONSTRUCTION METHOD DEVELOPMENT ONLY.**
 
-All frozen hero requirements remain unchanged. No automatic fourth Method 01 round exists.
+No automatic fourth Method 01 round exists.
 
 ## Successor Design-Construction Method 02 — DIRECTOR APPROVED
 
-Primary: `docs/KYMAEAN_HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02.md`.
-
-Method 02 changes construction process only. It preserves frozen post-render measurement law.
+Method 02 changes construction process only and preserves frozen post-render measurement law.
 
 Seven ordered stages:
 
@@ -122,11 +148,9 @@ Mechanism-neutral tooling is complete/audited:
 - `docs/templates/HERO_METHOD_02_CONSTRUCTION_REVIEW_PACKAGE_TEMPLATE.md`;
 - audit: `docs/evidence/HERO_METHOD_02_MECHANISM_NEUTRAL_TOOLING_RECURSIVE_AUDIT.md`.
 
-## Direction Investigation 02 — COMPLETE / AUDITED
+## Direction 02 — DIRECTOR APPROVED
 
-Investigation: `docs/KYMAEAN_HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_INVESTIGATION_02.md`.
-
-Leading direction:
+Approved direction:
 
 **ASYMMETRIC COUPLED LOAD-TRANSFER HUMAN RELATION**
 
@@ -134,25 +158,17 @@ Core proposition:
 
 > Two visually distinct adults share one continuous, visibly changed field. Person A's passive body load is visibly coupled through changed field geometry to create Person B's otherwise unavailable body position. That B position enables one direct externally visible human relation between A and B. Restoring baseline or removing A physically removes B's altered position and therefore the relation. Removing B removes the depicted altered human consequence rather than leaving an essentially complete A-only mechanism proposition. People remain the primary meaningful event.
 
-The recursive investigation audit closed B-removal tautology, invisible-coupling and single-dominant-mechanism loopholes.
-
-## Direction 02 — DIRECTOR APPROVED
-
 Authority: `docs/evidence/HERO_METHOD_02_DIRECTION_02_DIRECTOR_APPROVAL.md`.
 
 Authorized now:
 
 **Candidate 04 Method 02 construction through Stages 1–5 plus recursive audit.**
 
-This includes:
+Candidate construction record in progress/current:
 
-1. Semantic Dependency Record;
-2. Baseline / Change Evidence Record;
-3. Counterfactual Ledger;
-4. Two-Person Necessity Matrix;
-5. Responsive Semantic Envelope.
+- `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_CONSTRUCTION_STAGES_01_05.md`.
 
-Not authorized by this approval:
+Not authorized by Direction 02 approval:
 
 - candidate-specific Neutral Geometry Scaffold;
 - renderer reference transfer;
@@ -167,19 +183,19 @@ Not authorized by this approval:
 
 Canonical synthesis: `docs/KYMAEAN_VISUAL_ASSET_MATERIALIZATION_ROADMAP_01.md`.
 
-Key milestones:
+Milestones:
 
-- **now:** Candidate 04 Stages 1–5 construction/audit;
-- **next Director construction gate:** if approved, Stage 6 candidate-specific Neutral Geometry Scaffold may be authorized;
-- **first structural visual artifact:** Stage 6 scaffold — geometry only, not aesthetic artwork;
-- **then:** scaffold audit + Stage 7 sterile translation/pre-render package;
-- **separate execution gate:** required before any image generation;
-- **first aesthetic website artwork:** first approved isolated Method 02 render;
-- **broader website/brand asset families:** converge only after visual-world evidence earns it; canonical Drive lanes include I0 symbol/app icon, W0 wordmark, V0 visual world, M0 motion/system grammar, X0 cross-lane research;
-- **app design masters:** may be developed in Drive before executable UI once separately authorized, but remain proposals;
-- **shipping app assets:** wait for post-E0 product-runtime architecture and engineering P2/P4 Windows shell + UI/design implementation convergence.
+- now: Candidate 04 Stages 1–5 construction/audit;
+- next Director construction gate: if approved, Stage 6 candidate-specific Neutral Geometry Scaffold may be authorized;
+- first structural visual artifact: Stage 6 scaffold — geometry only;
+- then scaffold audit + Stage 7 sterile translation/pre-render package;
+- separate execution gate before image generation;
+- first aesthetic website artwork: first approved isolated Method 02 render;
+- broader website/brand asset families only after visual-world evidence earns convergence;
+- app design masters may be developed in Drive before executable UI once separately authorized, but remain proposals;
+- shipping app assets wait for post-E0 product-runtime architecture plus engineering P2/P4 Windows shell/UI-design convergence.
 
-Application engineering remains in E0-A Phase B; no WinUI runtime/UI authority exists yet. Do not let design mockups imply implemented or validated app behavior.
+Application engineering remains in E0-A Phase B; no WinUI runtime/UI authority exists yet. Design mockups must not imply implemented or validated app behavior.
 
 ## Drive continuity
 
@@ -191,7 +207,7 @@ Direction Investigation 02: `Visual Mechanism Direction Investigation 02` — `1
 
 GitHub remains canonical for exact design-law/template source; Drive remains visual-master/continuity authority.
 
-## Exact current boundary / next gate
+## Exact current boundary / next work
 
 Method 01 qualifying sequence = CLOSED at **3 / 3**.
 
@@ -201,7 +217,9 @@ Method 02 tooling = **COMPLETE / AUDITED**.
 
 Direction 02 = **DIRECTOR APPROVED**.
 
-Candidate 04 Stages 1–5 = **AUTHORIZED / NOT YET COMPLETED**.
+Engineering-informed visual translation protocol = **ACTIVE**.
+
+Candidate 04 Stages 1–5 = **AUTHORIZED / CONSTRUCTION RECORD CREATED / RECURSIVE AUDIT STILL REQUIRED BEFORE DIRECTOR REVIEW**.
 
 Candidate-specific Neutral Geometry Scaffold = **NOT AUTHORIZED**.
 
@@ -213,4 +231,4 @@ Final hero = NOT SELECTED.
 
 Final style/palette, website implementation, application UI implementation, motion and Lane A change = NOT AUTHORIZED.
 
-**Exact next work: complete Candidate 04 Method 02 Stages 1–5 and recursive audit, then return one construction-review package for Director decision.**
+**Exact next work: finish Candidate 04 Stages 1–5 recursive audit, correct any material defect, and return one construction-review package for Director decision.**
