@@ -17,32 +17,30 @@ This file alone owns volatile phase/current-boundary state. GPT-5.6 Sol High is 
 
 ## D-R1 restructuring
 
-Phases 0–2: **COMPLETE**. Phase 2 adopted head `5b36975655b870d4270808200b6f9bee59a43ebd`; GitHub run `34169485152` succeeded at that head. Corpus remains **282 Markdown = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
+Phases 0–2: **COMPLETE**. Phase 2 adopted head `5b36975655b870d4270808200b6f9bee59a43ebd`; GitHub run `34169485152` succeeded. Corpus remains **282 Markdown = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
 
-Phase 3: **COMPLETE / CLEAN**. Seven freshly reverified zero-unique strict ancestors were preserved by exact `archive/d-r1-phase3/...` lightweight tags and deleted one at a time. Independent GitHub readback confirmed all seven tags at exact SHAs, all seven branches absent, and **37 remote branches = main + 36 protected unique-commit branches**.
+Phase 3: **COMPLETE / CLEAN**. Seven freshly reverified zero-unique strict ancestors were preserved under exact `archive/d-r1-phase3/...` tags and deleted one at a time. Independent readback confirmed all seven tags, all seven branches absent, and **37 remote branches = main + 36 protected unique-commit branches**.
 
 Phase 3 closure: `docs/evidence/D_R1_PHASE_3_CLOSURE_01.txt`.
 
-### Active structural phase — Phase 4
+Phase 4: **COMPLETE / CLEAN**. `site/` is now the explicit publication-source namespace via `site/README.txt`. No `index.html` was invented; no historical prototype was promoted; no `prototypes/` or `assets/` file moved/rewritten; Cloudflare root/configuration was unchanged. Production content migration is deferred until a legitimate production website source is later authorized and is not a D-R1 blocker.
 
-**PUBLICATION-SOURCE ISOLATION / MIGRATION.**
-
-`site/` now exists as the explicit publication-source boundary via `site/README.txt`. It intentionally has no `index.html`.
-
-Current ACTIVE LAW does not yet select a production website implementation: the Site Spine approval preserves narrative/artwork planning but explicitly excludes final production implementation, and Hero Artwork Brief 02 remains **NO HERO SELECTED**. Therefore no historical prototype may be copied/moved into `site/` merely to populate it.
-
-Phase 4 evidence: `docs/evidence/D_R1_PHASE_4_PUBLICATION_SOURCE_BOUNDARY_01.txt`.
-
-Preserve: no `prototypes/` or `assets/` moves/rewrites; no prototype-as-publication substitution; no Cloudflare-root change until a legitimately authorized deployable source exists and is audited.
+Phase 4 closure: `docs/evidence/D_R1_PHASE_4_PUBLICATION_SOURCE_BOUNDARY_01.txt`.
 
 D-R1 Phase 6 remains **NOT TRIGGERED**.
 
-## Creative work — paused by active restructuring
+### Active structural boundary — post-Phase-4 authority gap
 
-Method 02 remains approved. Active creative continuation is Candidate `C06-ASPB-01` / D9; Stages 1–5 are constructed and await recursive audit.
+No current repository-authoritative Phase 5 contract was found in the required bootstrap/evidence/index surfaces or available D-R1 repository search/history. Do not infer Phase 5 from sequence, stale handoffs, branches or chat history.
 
-Do **not** resume Candidate 06 Stage 6, renderer work, image generation, final hero selection, website implementation, Lane A implementation or motion while D-R1 Phase 4 remains active.
+Authority-gap evidence: `docs/evidence/D_R1_POST_PHASE_4_NEXT_PHASE_AUTHORITY_GAP_01.txt`.
+
+## Creative work — paused
+
+Method 02 remains approved. Candidate `C06-ASPB-01` / D9 is the creative continuation; Stages 1–5 are constructed and await recursive audit.
+
+Do **not** silently resume Candidate 06 Stage 6, renderer work, image generation, final hero selection, website implementation, Lane A implementation or motion while the D-R1 next-phase authority gap remains unresolved.
 
 ## Exact next action
 
-Resolve Phase 4 deployable-source eligibility from current ACTIVE LAW without promoting historical evidence. If no production source is authorized, preserve the empty `site/` boundary and keep deployment configuration unchanged rather than inventing one.
+Locate a repository-authoritative Phase 5 definition if one exists outside the already resolved surfaces; otherwise establish the missing Phase 5/closure contract before further restructuring. Do not invent the phase merely to continue.
