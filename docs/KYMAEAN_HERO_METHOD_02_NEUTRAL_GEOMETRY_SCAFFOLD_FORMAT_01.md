@@ -39,7 +39,7 @@ A future candidate-specific scaffold may use only these primitive classes unless
 
 2. `critical_contact`
    - point or short segment where a physical/spatial relation is causally necessary;
-   - may identify relationship type only structurally, e.g. `support`, `reach`, `occlusion`, `shared-boundary`.
+   - relationship metadata must remain structural and externally observable rather than narrative.
 
 3. `condition_path`
    - contour/centerline/boundary describing the shared condition;
@@ -68,7 +68,7 @@ A scaffold must not encode or imply:
 - clothing style;
 - facial features;
 - hair style beyond a generic figure silhouette needed for non-overlap;
-- ethnicity, race, age coding beyond broad adult/non-child geometry if required by an already-approved candidate specification;
+- ethnicity, race or other identity coding;
 - historical period;
 - named artistic style;
 - symbolic props;
@@ -121,13 +121,13 @@ Zeros/empty arrays above are schema placeholders, not a candidate geometry.
 {
   "id": "contact-1",
   "type": "critical_contact",
-  "relation": "support",
+  "relation": "[structural relation from approved construction record]",
   "geometry": [[0, 0], [0, 0]],
   "participants": ["A", "condition-1"]
 }
 ```
 
-Allowed `relation` values are structural only and may be extended prospectively if a later Director-approved method revision requires another externally visible physical relation.
+`relation` is deliberately **not a closed mechanism enum**. It must be a concise externally visible physical/spatial relation already established by the separately authorized construction record. Examples such as support, reach or occlusion illustrate syntax only and gain no inheritance rights.
 
 ### Condition path
 
