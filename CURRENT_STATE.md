@@ -9,6 +9,7 @@ Updated: 2026-09-07
 - Visual master/continuity: Google Drive `Ensemble Project`.
 - Workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
 - Design continuity: `docs/DESIGN_CONTINUITY.md`.
+- Renderer isolation: `docs/RENDERER_ISOLATION_PROTOCOL.md`.
 - Cross-lane truth: `docs/KYMAEAN_ENGINEERING_INFORMED_VISUAL_TRANSLATION_PROTOCOL_01.md`.
 
 ## Standing design-gate law
@@ -49,11 +50,9 @@ Canonical:
 
 Drive Stage 06 folder: `1Aug2yh59_WQZwe5q8L4A1J9UTkhzldKp`.
 
-Key frozen geometry: artboard `1536×960`; mobile x `554–1321`; semantic core x `620–1300`, y `190–850`; changed root separation `215`; restored separation `410.112`; `R_A=132`, `R_B=138`, `m=35`; both counterfactual inequalities PASS.
-
 ## Stage 07 — APPROVED / PACKAGE COMPLETE / RECURSIVELY AUDITED
 
-The Stage 07 recursive audit is clean. Under the standing delegation, Stage 07 is therefore:
+The Stage 07 recursive audit is clean and therefore:
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
 
@@ -65,20 +64,42 @@ Canonical:
 
 Drive Stage 07 folder: `1huqAz8kaRABM7xOZuOw5BPMDPmEqWExo`.
 
-Frozen execution accounting: `METHOD02-R04-C04`; one isolated renderer request; one image; zero free rerolls; one sanitized Stage 06 structural reference; exact frozen Stage 07 sterile packet; stop after returned candidate and evaluate under unchanged frozen post-render law.
+## Round 04 execution gate — APPROVED / READY
 
-## Current boundary
+Experiment: `METHOD02-R04-C04`.
 
-Stage 07 package approval is earned and complete.
+Execution-readiness audit:
 
-Next defined design action is the Round 04 execution-readiness audit for exactly `METHOD02-R04-C04`.
+- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_04_EXECUTION_READINESS_AUDIT.md`
 
-If that audit reaches a clean pass, the standing delegation automatically earns the execution gate and authorizes exactly:
+Result:
 
-- transfer of the sanitized Stage 06 structural reference for relational composition only;
-- one isolated image-generation request;
-- one returned image;
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+Frozen transfer inputs:
+
+1. sanitized structural reference `docs/evidence/renderer/STRUCTURAL_REFERENCE_01.svg`; Drive PNG mirror `1A_wkyHj5qQm3VWkWDHvcFHL1saiKP1hv`;
+2. exact sterile packet `docs/evidence/renderer/C04-ACLT-01_STAGE07_STERILE_RENDERER_PACKET.txt`.
+
+Renderer handoff:
+
+- `docs/evidence/renderer/C04-ACLT-01_ROUND04_RENDERER_HANDOFF.txt`.
+
+Accounting:
+
+- one fresh regular ChatGPT chat outside the Ensemble project;
+- one renderer request;
+- one image;
 - zero free rerolls;
-- immediate post-render evaluation before any packet/scaffold modification.
+- no project context beyond the exact sanitized structural reference and sterile packet;
+- after return, close renderer context and evaluate pixels here before changing any input.
+
+## Current boundary / exact next action
+
+Round 04 execution is approved. No further approval request is permitted or required.
+
+The exact next action is to execute `METHOD02-R04-C04` in a **fresh regular chat outside the Ensemble project** using exactly the two frozen transfer inputs above, then bring the single returned image back to Director Context for frozen post-render evaluation.
+
+Do not generate the clean-slate image in this persistent project chat; that would violate Renderer Isolation.
 
 Final hero/style/palette selection, website implementation, Lane A/app UI implementation and motion remain downstream.
