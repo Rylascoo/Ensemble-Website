@@ -133,3 +133,7 @@ Exact next action:
 4. do not ask the Director for another approval after a clean audit.
 
 Fresh chats must read `CURRENT_STATE.md` first and treat historical status/approval wording as non-authoritative when it conflicts with this file and the standing design-gate law.
+
+Fresh-chat handoff artifact:
+
+- `docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md`
