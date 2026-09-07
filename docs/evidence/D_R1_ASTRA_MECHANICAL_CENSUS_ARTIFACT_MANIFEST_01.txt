@@ -1,0 +1,46 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 ASTRA MECHANICAL CENSUS ARTIFACT MANIFEST 01
+
+Status: SOURCE-IDENTITY MANIFEST / RAW ARTIFACTS SUPPLIED TO SOL AFTER PHASE 0 V1 CLASSIFICATION
+Date: 2026-09-07
+Baseline main: de0208a2895662be9d3762af06b2464b9e3d505e
+
+RAW ARTIFACT IDENTITIES
+
+- d_r1_markdown_census.json | bytes=307599 | sha256=86306ee9c6cbea41a45f22d02a110192f86a19a6a5eeba1122ba069a08a394df
+- d_r1_mechanical_census_summary.md | bytes=7056 | sha256=4b09dd7236ad531e927931152ad5426b11b8234b3d82be3119cca8865ebfb451
+- d_r1_prototype_smoke.json | bytes=14053 | sha256=d4ae23aac3b60abd0ce3d32a16920b938993af9ca51d6a98cadaac64a4485697
+- d_r1_branch_census.json | bytes=23495 | sha256=c7faa0925027c5066d6e9f2a08aea8e85ab79647d45441ad494b8327fca3c09f
+
+The four raw files were supplied directly to Sol after the first semantic-classification pass. This manifest pins their exact identities; it does not silently reconstruct or rewrite the raw external files.
+
+RECOMPUTED HEADLINES
+
+- Markdown: 280
+- prototypes: 23
+- remote branches including main: 43
+- zero Markdown-link inbound: 274
+- zero exact-path inbound: 106
+- zero under both: 106
+- broken local Markdown links: 0
+- branch split: 6 zero-unique strict ancestors / 36 unique
+- prototype smoke: 21 PASS / 2 FAIL / 0 UNAVAILABLE
+
+ZERO-UNIQUE STRICT ANCESTORS
+
+- Site
+- design/lane-a-archive-causality-2026-09-05
+- design/lane-a-character-recasting-2026-09-05
+- design/lane-a-long-scene-2026-09-05
+- design/lane-a-take-acceptance-2026-09-05
+- visual/v0-5-fresh-palette-handoff
+
+RAW SMOKE EXCEPTIONS
+
+- prototypes/lane-a/archive-causality-01.html: page 200; browser-generated /favicon.ico 404.
+- prototypes/lane-b/hero-integration-harness-01.html: page 200; two __CANDIDATE_ARTWORK__ image 404s.
+
+Neither raw failure establishes a prototype-source defect. Harness smoke requires a temporary valid candidate fixture; favicon traffic may be ignored only when browser-generated and not page-required.
+
+CLASSIFICATION CONSEQUENCE
+
+The raw Markdown census falsified D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json by exposing current authority and explicit supersession that v1 had defaulted to historical evidence. Corrected baseline authority is D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json.
