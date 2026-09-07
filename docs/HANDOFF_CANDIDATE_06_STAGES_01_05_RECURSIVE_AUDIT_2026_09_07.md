@@ -14,15 +14,17 @@ Do not rely on chat summaries as authority. Resolve repository state fresh.
 
 1. `CURRENT_STATE.md`
 2. `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`
-3. `docs/RENDERER_ISOLATION_PROTOCOL.md`
-4. `docs/KYMAEAN_HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_RECONSIDERATION_03.md`
-5. `docs/evidence/HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_RECONSIDERATION_03_RECURSIVE_AUDIT.md`
-6. `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01.md`
-7. `docs/evidence/HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01_RECURSIVE_AUDIT.md`
-8. `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`
-9. `docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_05_EVALUATION_01.md`
-10. `docs/KYMAEAN_HERO_METHOD_02_POST_ROUND_05_CAUSAL_TOPOLOGY_REVIEW_01.md`
-11. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current engineering/product truth and validation boundaries.
+3. `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`
+4. `docs/DESIGN_CONTINUITY.md`
+5. `docs/RENDERER_ISOLATION_PROTOCOL.md`
+6. `docs/KYMAEAN_HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_RECONSIDERATION_03.md`
+7. `docs/evidence/HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_RECONSIDERATION_03_RECURSIVE_AUDIT.md`
+8. `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01.md`
+9. `docs/evidence/HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01_RECURSIVE_AUDIT.md`
+10. `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`
+11. `docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_05_EVALUATION_01.md`
+12. `docs/KYMAEAN_HERO_METHOD_02_POST_ROUND_05_CAUSAL_TOPOLOGY_REVIEW_01.md`
+13. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current engineering/product truth and validation boundaries.
 
 Read older Candidate 04/05 records only when needed to verify a specific inherited constraint. Do not let historical approval/status wording override current authority.
 
@@ -39,6 +41,14 @@ When a recursive audit reaches a complete clean pass, record:
 Do not ask the Director for another approval at that gate. Proceed to the next defined design action automatically.
 
 This delegation does not create engineering/product authority outside the design lane.
+
+## Reasoning allocation — mandatory continuity
+
+**GPT-5.6 Sol High is the primary reasoning, design-governance, repository-work and continuity surface.** Complete normal project work here with available GitHub/Drive/tools, including recursive audit and documentation.
+
+Astra/Codex is a scarce external specialist. Reserve it for one or two tightly bounded high-leverage tasks when its local/batch environment, otherwise unavailable execution environment, codebase-scale mechanics, or independent falsification perspective materially exceeds what can be done here. Astra output is advisory evidence only and must be reconciled against current repository authority and recursively audited in Sol High before adoption.
+
+Do not pause Candidate 06 or ordinary project work merely because Astra capacity is unavailable.
 
 ## Current active direction
 
@@ -190,6 +200,9 @@ Candidate 05 rejected Stage 06 preflight evidence is preserved in Drive folder:
 
 - Fresh-read repository authority before acting.
 - Preserve frozen hero criteria and Harness geometry.
+- Use Sol High as the default project reasoning/execution surface.
+- Do not delegate routine work to Astra/Codex; conserve it for bounded high-leverage capability gaps under the workflow authority.
+- Reconcile any Astra result against current repository truth and recursively audit it here before adoption.
 - Treat pixels, not construction intent, as binding after any later render.
 - No post-hoc rescue.
 - No automatic renderer retry.
