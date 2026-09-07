@@ -1,10 +1,10 @@
 ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 4 PUBLICATION-SOURCE BOUNDARY 01
 
-Status: ACTIVE PHASE / ISOLATION BOUNDARY CREATED / DEPLOYABLE CONTENT MIGRATION NOT AUTHORIZED
+Status: COMPLETE / RECURSIVELY AUDITED / CLEAN
 Date: 2026-09-07
 
 PURPOSE
-Enter D-R1 Phase 4 without silently promoting design research into production publication source.
+Complete D-R1 Phase 4 without silently promoting design research into production publication source.
 
 AUTHORITY CHECK
 Current repository law establishes all of the following:
@@ -22,7 +22,7 @@ STRUCTURAL ACTION COMPLETED
 Created:
 `site/README.txt`
 
-The new directory is now the explicit publication-source boundary. It intentionally contains no `index.html` and therefore does not claim a production website exists.
+The new directory is the explicit repository publication-source boundary. It intentionally contains no `index.html` and therefore makes no false claim that a production website currently exists.
 
 PRESERVED
 - no file under `prototypes/` moved, renamed or rewritten;
@@ -32,7 +32,15 @@ PRESERVED
 - Cloudflare root/configuration was not changed;
 - `prototypes/` was not substituted as a publication root.
 
-AUDIT
+RECURSIVE AUDIT — CORRECTION
+The first Phase 4 checkpoint incorrectly said D-R1 Phase 4 must remain active until a deployable production source is authorized. Combined with the standing instruction not to resume Candidate 06 while D-R1 restructuring remains active, that created a circular dependency: final website/hero work could be required to close restructuring while that same creative work was paused by restructuring.
+
+Correction:
+D-R1 Phase 4 owns structural publication isolation, not premature production implementation. The absence of an authorized production site means there is no legitimate content to migrate now. That is a valid no-migration result, not an incomplete restructuring defect.
+
+Deployable website construction, hero integration, asset-path finalization and any later Cloudflare-root switch belong to the future website implementation/deployment gate once a production source actually exists. They do not keep D-R1 Phase 4 open.
+
+FINAL AUDIT
 Authority separation: PASS.
 Prototype/evidence non-promotion: PASS.
 Publication boundary clarity: PASS.
@@ -40,13 +48,19 @@ No accidental deployable page: PASS — no `site/index.html` exists.
 Prototype/assets immutability: PASS.
 Cloudflare non-mutation: PASS.
 Hero/design-selection boundary: PASS.
+Circular-dependency check: PASS after correction.
+Scope/minimality: PASS — one boundary file only.
 
-One complete pass after construction found no material correction or worthwhile improvement inside the current structural boundary.
+One complete pass after the correction found no material error, inconsistency, scope violation or worthwhile improvement inside Phase 4.
 
-DISPOSITION
-D-R1 Phase 4 publication-source ISOLATION is established.
-Deployable-content MIGRATION remains intentionally unexecuted because current ACTIVE LAW has not selected a production website implementation and the current hero authority says NO HERO SELECTED.
+PHASE 4 DISPOSITION
+COMPLETE / CLEAN.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
 
-Do not fabricate a production source merely to close restructuring. Keep D-R1 Phase 4 active until a deployable source is legitimately authorized or the governing phase contract explicitly permits closure with an empty publication boundary.
+Durable law after closure:
+- `site/` is the publication-source namespace;
+- `prototypes/` remains research evidence;
+- no deployable content is invented merely to populate `site/`;
+- production migration/deployment happens only when a legitimate production website source is later authorized.
 
-Candidate 06 creative construction remains paused while D-R1 restructuring is the active structural workstream.
+Do not infer a Phase 5 scope that is not recorded by current repository authority. Resolve the next D-R1 phase definition from authoritative repository evidence before additional restructuring.
