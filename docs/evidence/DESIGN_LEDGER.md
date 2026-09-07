@@ -147,20 +147,32 @@ A ledger entry may be reopened only by new evidence, a direct contradiction, a c
 
 ## L-010 — D-R1 repository census checkpoint
 
-**State:** PARTIAL MECHANICAL CENSUS / SEMANTIC FINDINGS RECORDED
+**State:** MECHANICAL CENSUS RETURNED / SOL RECONCILIATION COMPLETE / SEMANTIC CLASSIFICATION STILL OPEN
 
-**Verified at repository state immediately before Phase 1 bootstrap:**
+**Authoritative run baseline:** Astra/Codex audited `main` at `de0208a2895662be9d3762af06b2464b9e3d505e` under the read-only task in `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`.
 
-- Markdown corpus on main: **278 files**.
+**Gross counts:**
+
+- Markdown corpus: **280 files** — the 278-file pre-Phase-1 census plus `AGENTS.md` and this ledger.
 - HTML prototypes: **23 files**.
 - Remote branches including main: **43**.
 - Non-main branches: **42**.
-- Tag namespace at census time: **empty**.
-- Cloudflare Workers/Pages GitHub integration: connected and receiving push events; multiple recent main commits reported `Workers Builds: ensemble-website` failure.
 
-**Branch ancestry pass:** all 42 non-main branches were compared against current main. Exactly **6** were zero-unique strict ancestors in that pass; **36** contained one or more commits unique to the branch.
+**Inbound-reference census:**
 
-Zero-unique strict ancestors identified:
+- zero Markdown-link inbound: **274**;
+- zero exact-repository-path-mention inbound: **106**;
+- zero under both definitions: **106**;
+- missing local Markdown link targets: **0**.
+
+The very high Markdown-link zero count is not interpreted as “274 orphan documents”; exact path mentions capture the repository's dominant reference style more usefully. The exact 106-document list exists in the external census output but is not reproduced here unless that artifact is imported into repository evidence.
+
+**Branch census:**
+
+- zero-unique strict ancestors: **6**;
+- branches with one or more unique commits: **36**.
+
+The six zero-unique strict ancestors were independently reproduced:
 
 1. `Site`
 2. `design/lane-a-archive-causality-2026-09-05`
@@ -171,15 +183,19 @@ Zero-unique strict ancestors identified:
 
 **Safety consequence:** Phase 3 branch archival/deletion may consider at most those six unless a fresh comparison changes the result. The other 36 must not be deleted under the strict-ancestor rule merely because equivalent content may have reached main by cherry-pick.
 
-**Mechanical census still required before Phase 2 enforcement / Phase 3 deletion:**
+**Prototype smoke:** Astra reported **21 PASS / 2 FAIL / 0 UNAVAILABLE**. The reported failures were a favicon 404 and a `__CANDIDATE_ARTWORK__` 404.
 
-- per-Markdown-file line count;
-- per-Markdown-file last-touch commit/date;
-- complete inbound-reference graph and exact zero-inbound count;
-- per-branch committer date and explicit tree-difference flag;
-- browser/console smoke of all 23 HTML prototypes.
+Sol reconciliation found that `prototypes/lane-b/hero-integration-harness-01.html` deliberately contains `__CANDIDATE_ARTWORK__` as an operator-replaced input in both desktop and mobile evidence slots. Loading the raw template without substitution therefore cannot establish a source defect. The favicon failure likewise is not assigned to a source defect from the supplied summary because no source declaration was identified; browser-generated `/favicon.ico` traffic must not be conflated with a page-required resource.
 
-These residuals are intentionally grouped as one high-leverage local/batch verification candidate if the connected tools remain inefficient. They do not change the semantic Phase 0 conclusions and do not block the Phase 1 bootstrap structure.
+**Corrected smoke discipline:**
+
+- parameterized prototype templates must be smoke-tested with a non-mutating temporary valid fixture substituted at runtime;
+- a favicon request may be ignored only when it is browser-generated and not declared/required by the page;
+- no prototype source is to be edited merely to make a generic smoke harness green.
+
+Because the corrected two-page smoke was not rerun in the evidence supplied here, the literal “23/23 clean under corrected smoke conditions” claim is **not yet established**. The current evidence establishes 21 raw passes plus two validation-harness-conditioned failures, not two proven prototype defects.
+
+**Remaining D-R1 Phase 0 prerequisite before Phase 2 enforcement:** classify every Markdown document from its own content as `ACTIVE LAW`, `SUPERSEDED`, `HISTORICAL EVIDENCE`, or `UNCLASSIFIED`, with an exact unclassified count. This semantic classification remains Sol High work; it was intentionally excluded from the Astra mechanical task.
 
 ---
 
