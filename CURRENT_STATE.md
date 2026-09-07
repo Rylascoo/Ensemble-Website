@@ -23,19 +23,27 @@ This file alone owns volatile phase/current-boundary state.
 
 Phase 0: **COMPLETE / CLEAN**. Phase 1: **COMPLETE**.
 
-Canonical Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_01.txt`.
+Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_01.txt`.
 
 Baseline census: **280 Markdown / 23 prototypes / 43 branches**; exact-path zero-inbound **106**; broken local Markdown links **0**; branch split **6 zero-unique strict ancestors / 36 unique**. Raw prototype smoke was **21 PASS / 2 harness-conditioned failures**; no prototype source defect was established and no prototype was edited.
 
-Document classification: **35 ACTIVE LAW / 8 SUPERSEDED / 226 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. Exact map: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json`.
+Baseline classification: **35 ACTIVE LAW / 8 SUPERSEDED / 226 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. Exact map: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json`.
 
 VID, R0, Hero Method 01 and Method 02 all have written success/termination states. D-R1 Phase 6 is **NOT TRIGGERED**.
 
 ### Active structural phase — Phase 2
 
-Reconcile document-status surfaces without rewriting historical body text; preserve `UNCLASSIFIED` as a valid machine state until each ambiguity is explicitly reconciled. Generate `docs/INDEX.md` from repository state, create prior-convergence evidence, and add validation that prevents stale/missing status from silently regaining authority.
+Semantic guardrail complete: `docs/PRIOR_CONVERGENCE_EVIDENCE.md`.
 
-Phase 3 branch deletion is **NOT AUTHORIZED YET**. Do not move `prototypes/` or `assets/` and do not change Cloudflare root.
+Mechanical implementation is **PREPARED / NOT YET ADOPTED**:
+
+`docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_01.txt`
+
+That task must work on `design/d-r1-phase-2-document-status-index-ci`, preserve all historical bodies, add exactly one D-R1 machine-status header to every Markdown file, generate `docs/INDEX.md`, and add deterministic validation/CI. Expected final corpus after INDEX: **282 Markdown**, with **37 ACTIVE LAW / 8 SUPERSEDED / 226 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
+
+Do not treat Phase 2 as complete until Sol High reviews the returned branch/diff and recursively audits it clean.
+
+Phase 3 branch deletion is **NOT AUTHORIZED YET**. Do not move `prototypes/` or `assets/` or change Cloudflare root.
 
 ## Hero program
 
