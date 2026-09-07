@@ -1,0 +1,56 @@
+{
+  "schema": "kymaean-neutral-geometry-scaffold-01",
+  "candidate_id": "C04-ACLT-01",
+  "stage": 6,
+  "artifact_role": "neutral_geometry_scaffold",
+  "aesthetic_authority": "none",
+  "renderer_authority": "none",
+  "artboard": {"width": 1536, "height": 960},
+  "structural_export_layer": "scaffold",
+  "audit_guides_layer": {"id": "audit-guides", "default_visibility": "hidden", "transfer_authorized": false},
+  "responsive": {
+    "desktop_source_window": {"x0": 0, "x1": 1536, "y0": 48, "y1": 912},
+    "mobile_source_window": {"x0": 554, "x1": 1321, "y0": 0, "y1": 960},
+    "semantic_core": {"x0": 620, "x1": 1300, "y0": 190, "y1": 850},
+    "desktop_calm_region": {"x0": 0, "x1": 600, "y0": 48, "y1": 912},
+    "baseline_witness_left": {"x0": 620, "x1": 720, "y0": 520, "y1": 670},
+    "baseline_witness_right": {"x0": 1220, "x1": 1300, "y0": 520, "y1": 670},
+    "b_negative_space": {"x0": 1040, "x1": 1220, "y0": 650, "y1": 850}
+  },
+  "critical_points": {
+    "a_shoulder_forearm_root": [891, 403],
+    "b_changed_shoulder_forearm_root": [1106, 403],
+    "b_baseline_restored_shoulder_forearm_root": [1275, 547],
+    "contact_locus": [998, 407],
+    "a_load_point": [826, 700],
+    "b_support_point": [1112, 510]
+  },
+  "reach_counterfactual": {
+    "R_A": 132,
+    "R_B": 138,
+    "positive_margin_m": 35,
+    "combined_reach": 270,
+    "changed_root_distance": 215.0,
+    "baseline_root_distance": 410.112,
+    "required_changed_max": 235,
+    "required_baseline_min": 305,
+    "changed_inequality_pass": true,
+    "baseline_inequality_pass": true,
+    "a_root_to_contact_distance": 107.075,
+    "b_root_to_contact_distance": 108.074
+  },
+  "figure_regions": {
+    "A": {"head_bbox": [792, 260, 900, 384], "body_bbox": [772, 365, 900, 700], "role": "passive_load_source"},
+    "B": {"head_bbox": [1070, 255, 1154, 355], "body_bbox": [1076, 350, 1152, 510], "role": "altered_position_occupant"}
+  },
+  "field": {
+    "upper_path": "M620 590 C660 590 690 590 720 590 C745 592 760 622 782 655 C805 692 835 710 870 700 C918 686 958 622 990 568 C1024 510 1062 486 1100 500 C1145 516 1180 556 1220 590 C1245 590 1270 590 1300 590",
+    "lower_path": "M620 670 C660 670 690 670 720 670 C745 672 760 702 782 735 C805 772 835 790 870 780 C918 766 958 702 990 648 C1024 590 1062 566 1100 580 C1145 596 1180 636 1220 670 C1245 670 1270 670 1300 670",
+    "secondary_contour_path": "M620 630 C660 630 690 630 720 630 C745 632 760 662 782 695 C805 732 835 750 870 740 C918 726 958 662 990 608 C1024 550 1062 526 1100 540 C1145 556 1180 596 1220 630 C1245 630 1270 630 1300 630"
+  },
+  "forbidden_encoded_variables": [
+    "final_palette", "material_style", "clothing_style", "facial_appearance", "ethnicity",
+    "historical_period", "named_artistic_style", "texture", "lighting_mood", "Threshold_K_geometry",
+    "O3_geometry", "brand_colors", "scene_symbolism", "renderer_specific_language"
+  ]
+}

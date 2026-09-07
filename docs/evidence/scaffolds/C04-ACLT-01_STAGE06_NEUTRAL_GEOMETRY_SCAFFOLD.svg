@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="960" viewBox="0 0 1536 960">
+  <title>Candidate 04 Method 02 Stage 06 Neutral Geometry Scaffold</title>
+  <desc>Deterministic relational geometry only. Monochrome technical encoding carries no aesthetic authority.</desc>
+
+  <rect id="artboard" x="0" y="0" width="1536" height="960" fill="white"/>
+
+  <g id="scaffold" fill="none" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- One continuous distributed field with recoverable left/right baseline witnesses. -->
+    <path id="field-upper" d="M620 590
+      C660 590 690 590 720 590
+      C745 592 760 622 782 655
+      C805 692 835 710 870 700
+      C918 686 958 622 990 568
+      C1024 510 1062 486 1100 500
+      C1145 516 1180 556 1220 590
+      C1245 590 1270 590 1300 590"/>
+    <path id="field-lower" d="M620 670
+      C660 670 690 670 720 670
+      C745 672 760 702 782 735
+      C805 772 835 790 870 780
+      C918 766 958 702 990 648
+      C1024 590 1062 566 1100 580
+      C1145 596 1180 636 1220 670
+      C1245 670 1270 670 1300 670"/>
+    <path id="field-secondary-contour" stroke-width="3" d="M620 630
+      C660 630 690 630 720 630
+      C745 632 760 662 782 695
+      C805 732 835 750 870 740
+      C918 726 958 662 990 608
+      C1024 550 1062 526 1100 540
+      C1145 556 1180 596 1220 630
+      C1245 630 1270 630 1300 630"/>
+
+    <!-- Person A: broader, lower-set body region and oblique passive-load axis. -->
+    <ellipse id="A-head-region" cx="846" cy="322" rx="54" ry="62"/>
+    <path id="A-body-region" d="M810 385
+      C835 365 875 365 900 390
+      L875 610
+      C870 655 852 686 826 700
+      C797 696 772 660 777 610
+      Z"/>
+    <path id="A-forearm-region" d="M884 391
+      C920 392 960 392 1002 397
+      L1004 411
+      C960 414 922 414 884 413
+      Z"/>
+    <line id="A-body-axis" x1="891" y1="403" x2="826" y2="700" stroke-width="3"/>
+
+    <!-- Person B: narrower, higher/upright body region and different support geometry. -->
+    <ellipse id="B-head-region" cx="1112" cy="305" rx="42" ry="50"/>
+    <path id="B-body-region" d="M1076 365
+      C1092 350 1124 350 1140 368
+      L1152 474
+      C1152 496 1134 510 1112 510
+      C1092 510 1082 497 1084 475
+      Z"/>
+    <path id="B-forearm-region" d="M1114 393
+      C1076 394 1040 398 996 406
+      L995 420
+      C1040 415 1077 414 1114 414
+      Z"/>
+    <line id="B-body-axis" x1="1106" y1="403" x2="1112" y2="510" stroke-width="3"/>
+  </g>
+
+  <!-- Audit-only geometry; hidden by default and excluded from any future structural export. -->
+  <g id="audit-guides" visibility="hidden" fill="none" stroke="black" stroke-width="2" stroke-dasharray="12 10">
+    <rect id="desktop-calm-region" x="0" y="48" width="600" height="864"/>
+    <rect id="mobile-window" x="554" y="0" width="767" height="960"/>
+    <rect id="semantic-core" x="620" y="190" width="680" height="660"/>
+    <rect id="baseline-witness-left" x="620" y="520" width="100" height="150"/>
+    <rect id="baseline-witness-right" x="1220" y="520" width="80" height="150"/>
+    <rect id="B-negative-space" x="1040" y="650" width="180" height="200"/>
+    <circle id="A-load-point" cx="826" cy="700" r="10"/>
+    <circle id="B-support-point" cx="1112" cy="510" r="10"/>
+    <circle id="A-root" cx="891" cy="403" r="10"/>
+    <circle id="B-changed-root" cx="1106" cy="403" r="10"/>
+    <circle id="contact-locus" cx="998" cy="407" r="10"/>
+    <circle id="A-reach-envelope" cx="891" cy="403" r="132"/>
+    <circle id="B-changed-reach-envelope" cx="1106" cy="403" r="138"/>
+    <circle id="B-baseline-root-marker" cx="1275" cy="547" r="10"/>
+    <line id="B-baseline-shift" x1="1106" y1="403" x2="1275" y2="547"/>
+  </g>
+
+  <metadata id="geometry-metadata">
+    artboard=1536x960;
+    mobile_window=x554..1321,y0..960;
+    semantic_core=x620..1300,y190..850;
+    desktop_calm_region=x0..600,y48..912;
+    A_root=(891,403);
+    B_changed_root=(1106,403);
+    B_baseline_root=(1275,547);
+    contact=(998,407);
+    A_load_point=(826,700);
+    B_support_point=(1112,510);
+    R_A=132;
+    R_B=138;
+    margin=35;
+    changed_root_distance=215;
+    baseline_root_distance=410.112;
+    changed_limit=235;
+    baseline_minimum=305.
+  </metadata>
+</svg>

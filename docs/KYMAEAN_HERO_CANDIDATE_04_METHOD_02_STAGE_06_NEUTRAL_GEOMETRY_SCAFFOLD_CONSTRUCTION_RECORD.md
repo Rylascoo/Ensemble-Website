@@ -4,50 +4,63 @@ Status:
 
 ```text
 DIRECTOR AUTHORIZED
-CONSTRUCTION IN PROGRESS
+CONSTRUCTION COMPLETE
 AESTHETIC AUTHORITY: NONE
-RENDERING: NOT AUTHORIZED
+RENDERER AUTHORITY: NONE
 ```
 
-## Purpose
+Date: 2026-09-07
 
-Construct the first visible structural artifact for Candidate 04 without introducing aesthetic authority.
+## Material correction
 
-The scaffold may encode only:
+The prior repository state contained this prose construction record and an audit that described Stage 06 as complete, but no deterministic coordinate/vector scaffold artifact existed.
 
-- human-region placement;
-- causal relationship geometry;
-- support/load relationships;
-- changed-condition continuity;
-- baseline evidence;
-- required negative space;
-- responsive semantic envelope;
-- necessary occlusion relationships.
+That was a real completion defect against Method 02 §9.3.
 
-## Prohibited Inputs
+Correction completed in this work package:
 
-The scaffold must not encode:
+- created one canonical SVG scaffold from explicit vector primitives;
+- created a machine-readable geometry manifest;
+- re-ran the Stage 06 audit against the actual artifact;
+- preserved reference-transfer and image-generation prohibitions.
 
-- style;
-- palette;
-- material appearance;
-- lighting;
-- faces;
-- clothing;
-- branding;
-- renderer-specific visual language;
-- final artwork composition beyond causal geometry.
+## Canonical artifact
 
-## Construction Tests
+`docs/evidence/scaffolds/C04-ACLT-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg`
 
-1. Two-person necessity survives removal analysis.
-2. Altered possibility survives baseline restoration.
-3. Changed condition remains recoverable.
-4. The causal chain remains visible without explanation.
-5. Mobile semantic envelope preserves the complete causal core.
+Companion manifest:
 
-## Current Gate
+`docs/evidence/scaffolds/C04-ACLT-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json`
 
-Stage 06 construction requires recursive audit before any Stage 07 translation package.
+The visible scaffold encodes only:
 
-No renderer transfer or image generation is authorized by this record.
+- two distinct human regions;
+- A passive-load/body-axis geometry;
+- B changed-support/body-axis geometry;
+- one continuous distributed field;
+- redundant baseline witnesses;
+- one broad coupled flexure;
+- one direct forearm-contact region;
+- responsive geometry.
+
+The hidden audit layer encodes only deterministic test boundaries/points and is not a renderer-transfer layer.
+
+## Construction checks
+
+- two people fit inside the committed semantic core;
+- all three field traces remain continuous from left baseline witness through the changed region to right baseline witness;
+- no hinge, pivot, beam, seat, device, cable, actuator, hidden support or explanatory arrow is encoded;
+- the visible human relation is represented by overlapping body-region geometry, not a symbolic connector;
+- changed-state root separation is 215 px;
+- baseline-restored root separation is 410.112 px;
+- with `R_A=132`, `R_B=138`, `m=35`, both positive-margin inequalities pass;
+- the complete scaffold lies inside the fixed mobile source window;
+- the left desktop calm region contains no visible scaffold geometry.
+
+No palette, material, lighting, texture, face, clothing, ethnicity, historical period, brand geometry or renderer-specific styling entered construction.
+
+## Boundary
+
+Stage 06 is complete only at geometry level.
+
+No reference transfer, renderer packet or image generation is authorized.
