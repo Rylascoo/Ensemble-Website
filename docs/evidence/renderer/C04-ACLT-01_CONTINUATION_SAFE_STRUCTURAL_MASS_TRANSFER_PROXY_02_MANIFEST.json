@@ -1,0 +1,38 @@
+{
+  "id": "C04-ACLT-01-CONTINUATION-SAFE-STRUCTURAL-MASS-TRANSFER-PROXY-02",
+  "status": "deterministic-derived-structural-proxy",
+  "source_geometry": "docs/evidence/scaffolds/C04-ACLT-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg",
+  "predecessor": "docs/evidence/renderer/C04-ACLT-01_NEUTRAL_STRUCTURAL_MASS_TRANSFER_PROXY_01.svg",
+  "artboard": [1536, 960],
+  "core_geometry_window": "x620..1300; exact Stage06 upper/lower/secondary and all A/B regions",
+  "core_geometry_changes": "none",
+  "supplemental_representation_change": "baseline field continues horizontally at the established 80px thickness and 40px secondary spacing beyond both frame edges; visible vertical object endcaps removed",
+  "continuation_geometry": {
+    "upper_y": 590,
+    "secondary_y": 630,
+    "lower_y": 670,
+    "left_extension_to": -64,
+    "right_extension_to": 1600
+  },
+  "structural_values": {
+    "background": "#ffffff",
+    "field": "#b8b8b8",
+    "field_edge": "#2f2f2f",
+    "secondary_correspondence": "#737373",
+    "human": "#454545"
+  },
+  "value_semantics": "technical separation only; A/B share one human value; no aesthetic authority",
+  "excluded": [
+    "final palette",
+    "material identity",
+    "lighting",
+    "setting",
+    "clothing detail",
+    "facial detail",
+    "texture",
+    "brand geometry",
+    "symbols",
+    "narrative labels"
+  ],
+  "future_renderer_authority": "none; construction/audit only; no image generation authorized"
+}
