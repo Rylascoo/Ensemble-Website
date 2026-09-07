@@ -27,9 +27,7 @@ Method 01: **CLOSED / 3 OF 3 QUALIFYING ROUNDS CONSUMED**. Director Option A pre
 
 Method 02: **APPROVED**. Direction: **ASYMMETRIC COUPLED LOAD-TRANSFER HUMAN RELATION**. Candidate: `C04-ACLT-01`.
 
-Stages 1–5: complete/audited.  
-Stage 06 deterministic scaffold: complete/audited/approved.  
-Stage 07 sterile translation package: complete/audited/approved by standing delegation.
+Stages 1–5 complete/audited. Stage 06 deterministic scaffold complete/audited/approved. Stage 07 sterile translation package complete/audited/approved by standing delegation.
 
 ## Method 02 Round 04 — COMPLETE / FAIL / NO RETRY
 
@@ -41,7 +39,7 @@ Canonical evaluation:
 
 - `docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_04_EVALUATION_01.md`
 
-Frozen result:
+Result:
 
 - Human Necessity **4/5 PASS**
 - Changed-condition legibility **2/5 FAIL**
@@ -51,54 +49,62 @@ Frozen result:
 - Mobile Survival **3/5 PASS**
 - Removal Test **2/5 FAIL**
 - Surface Escape **PASS**
-- S1 **PASS**
-- S2 **PASS**
-- S3 **PASS**
-- S4 **PASS**
-- S5 **PASS**
+- S1–S5 **PASS**
 - S6 **FAIL**
 
-Round 04 Drive evidence folder: `1CWEKP0ihYyQouhQQpUrU4IXCJDu0_2i8`.  
-Raw artwork: `12UPw1Y1nMJz0ol5SvA_NSglMiMXDhkJv`.
+Drive evidence folder: `1CWEKP0ihYyQouhQQpUrU4IXCJDu0_2i8`. Raw artwork: `12UPw1Y1nMJz0ol5SvA_NSglMiMXDhkJv`.
 
 Primary finding:
 
 > **The renderer preserved gross relational composition but naturalized the scaffold's causal field geometry into ordinary terrain.**
 
-The result therefore lost visible A-load -> field-change -> B-position -> contact causality and the baseline-restoration counterfactual. A separate desktop integration failure occurred because the calm-left region became pale/high-key beneath Harness 01's fixed light identity scaffold.
+The pixels therefore lost visible A-load -> field-change -> B-position -> contact causality and the baseline-restoration counterfactual. Separately, the calm-left region became pale/high-key beneath Harness 01's fixed light identity scaffold.
 
-No criterion was changed and Surface Escape was not retroactively expanded.
+No criterion changed and Surface Escape was not retroactively expanded.
 
-## Post-Round 04 failure synthesis — COMPLETE / CLEAN
-
-Canonical:
+## Post-Round 04 synthesis — COMPLETE / CLEAN
 
 - `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_ROUND_04_FAILURE_SYNTHESIS_01.md`
+- `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_TRANSFER_FIDELITY_ANALYSIS_01.md`
 
-The clean recursive audit concluded that the smallest justified prospective change is **reference representation**, not mechanism, frozen scoring law, or prompt accretion.
+Conclusion: preserve Candidate 04 semantics and frozen law; correct **reference representation**, not mechanism or scoring criteria.
 
-## Neutral Structural-Mass Transfer Proxy 01 — COMPLETE / AUDITED
+## Transfer proxies — COMPLETE / AUDITED
 
-A derived deterministic proxy now represents the unchanged Stage 06 field as one filled finite-width structural mass while preserving all source geometry.
+Proxy 01 converted the exact Stage 06 line geometry into a filled finite-width structural mass. Its recursive audit found and corrected unnecessary A/B value coding.
+
+Proxy 02 then removed the capped-object cue by continuing the same baseline field beyond both frame edges while preserving all Stage 06 core coordinates.
+
+Canonical Proxy 02:
+
+- `docs/evidence/renderer/C04-ACLT-01_CONTINUATION_SAFE_STRUCTURAL_MASS_TRANSFER_PROXY_02.svg`
+- `docs/evidence/renderer/C04-ACLT-01_CONTINUATION_SAFE_STRUCTURAL_MASS_TRANSFER_PROXY_02_MANIFEST.json`
+- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_CONTINUATION_SAFE_PROXY_02_RECURSIVE_AUDIT.md`
+
+Drive transfer-fidelity folder: `1C3L3zAS-LR-nTjjQ_WBipb2pRg1z9txx`. Proxy 02 PNG: `1T1OG0SSAB1gCdWEGFpYY6eb6zGooLa_l`.
+
+Proxy 02 audit: **CLEAN / APPROVED BY STANDING DIRECTOR DELEGATION**. It carries no final aesthetic authority and no renderer authorization.
+
+## Prospective Transfer Package Delta 02 — COMPLETE / AUDITED
 
 Canonical:
 
-- `docs/evidence/renderer/C04-ACLT-01_NEUTRAL_STRUCTURAL_MASS_TRANSFER_PROXY_01.svg`
-- `docs/evidence/renderer/C04-ACLT-01_NEUTRAL_STRUCTURAL_MASS_TRANSFER_PROXY_01_MANIFEST.json`
-- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_STRUCTURAL_MASS_TRANSFER_PROXY_01_RECURSIVE_AUDIT.md`
+- `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_TRANSFER_PACKAGE_DELTA_02.md`
+- `docs/evidence/renderer/C04-ACLT-01_TRANSFER_FIDELITY_RENDERER_PACKET_02.txt`
+- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_TRANSFER_PACKAGE_DELTA_02_RECURSIVE_AUDIT.md`
 
-Drive folder: `1C3L3zAS-LR-nTjjQ_WBipb2pRg1z9txx`.
+The prospective package preserves Candidate 04 semantic/human wording and changes only the documented transfer-fidelity controls:
 
-Recursive audit found and corrected one unnecessary A/B gray-value distinction; both people now use the same neutral structural value so identity is carried only by approved silhouette geometry. Final pass is **CLEAN**.
+1. future structural reference would use Proxy 02 rather than the Round 04 line reference;
+2. proxy technical grayscale must not survive into artwork;
+3. far-left region must remain calm/nonessential and predominantly low-luminance without forcing the whole artwork uniformly dark.
 
-Under standing delegation, construction of this proxy is approved. It carries no final aesthetic authority.
+Recursive audit: **CLEAN / PACKAGE APPROVED BY STANDING DIRECTOR DELEGATION AS A DESIGN ARTIFACT ONLY**.
 
 ## Current boundary / exact next action
 
-**No new image generation, retry, reroll, or reference transfer is authorized.**
+**No new image generation, retry, reroll, reference transfer, or Round 05 execution is authorized.**
 
-Exact next design action:
-
-**non-render transfer-fidelity analysis of whether Structural-Mass Proxy 01 plus a prospective optically-dark calm-left integration constraint are sufficient to form a revised future transfer package without changing Candidate 04 semantics or frozen post-render law.**
+The next possible design step is a future execution-readiness analysis of Transfer Package Delta 02. It must separately decide whether another isolated renderer experiment is warranted and, if so, freeze exact sanitized reference bytes, exact packet text, accounting, and stop consequence before any renderer call.
 
 Final hero/style/palette selection, website implementation, Lane A/app UI implementation and motion remain downstream.
