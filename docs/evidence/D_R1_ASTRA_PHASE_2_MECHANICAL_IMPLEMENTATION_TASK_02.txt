@@ -1,0 +1,151 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 ASTRA PHASE 2 MECHANICAL IMPLEMENTATION TASK 02
+
+MODE: NARROW MECHANICAL REPOSITORY TRANSFORMATION + SELF-AUDIT
+REPOSITORY: Rylascoo/Ensemble-Website
+SEMANTIC AUTHORITY: Sol High artifacts already committed on main
+SUPERSEDES: docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_01.txt
+
+PURPOSE
+Implement the mechanical half of D-R1 Phase 2 exactly once: current-status headers, generated corpus index, and validation/CI. Do not make semantic classification decisions. Sol High has already made those decisions and corrected them after reviewing the raw Astra Phase 0 artifacts.
+
+START / HARD PRECONDITIONS
+1. Fetch authoritative remote main and record HEAD.
+2. Read, in order:
+   - CURRENT_STATE.md
+   - AGENTS.md
+   - docs/evidence/D_R1_PHASE_0_CLOSURE_02.txt
+   - docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt
+   - docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json
+   - docs/PRIOR_CONVERGENCE_EVIDENCE.md
+3. Before modifying anything verify:
+   - exactly 281 Markdown (*.md) files currently exist (the 280 baseline corpus plus docs/PRIOR_CONVERGENCE_EVIDENCE.md);
+   - exactly 23 HTML files exist under prototypes/;
+   - classification artifact baseline count is 280 and reconstructs 40 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED;
+   - docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json explicitly supersedes classification v1;
+   - no existing Markdown file contains more than one line matching the new machine-header syntax below.
+4. If any precondition differs, STOP and report. Do not improvise.
+
+CANONICAL MACHINE STATUS HEADER
+Use exactly one first-line HTML comment in every Markdown document:
+
+<!-- D-R1-STATUS: ACTIVE LAW -->
+<!-- D-R1-STATUS: SUPERSEDED -->
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+<!-- D-R1-STATUS: UNCLASSIFIED -->
+
+Only one of the four values is valid.
+
+The machine header is the current classification surface. It does NOT replace, edit, delete, reinterpret, or normalize any historical `Status:` line inside the document body.
+
+STATUS ASSIGNMENT
+A. For the 280 baseline paths represented by docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json:
+   - apply its exception mapping;
+   - every baseline Markdown path not listed as an exception receives its declared default `HISTORICAL EVIDENCE`.
+B. `docs/PRIOR_CONVERGENCE_EVIDENCE.md` = ACTIVE LAW.
+C. New generated `docs/INDEX.md` = ACTIVE LAW.
+D. Do not consult classification v1 for assignments.
+E. Do not change any classification based on your own interpretation. If a path cannot be reconstructed deterministically from these rules, STOP.
+
+HEADER INSERTION RULE
+For each existing Markdown document:
+- if no D-R1 machine header exists, prepend the correct header plus one blank line;
+- if exactly one exists and matches the required classification, leave content unchanged;
+- if one exists but disagrees, STOP; do not silently replace it;
+- preserve every byte of the pre-existing body after the inserted header/blank-line prefix (allow only the repository's existing newline normalization if Git itself requires it; report any such case).
+
+Do not alter historical `Status:` text. In particular, do not 'correct' stale old handoffs, Harness wording, Method 02 proposal wording, Candidate 06 source bodies, or historical next-action language. The D-R1 header exists precisely to separate current classification from historical body text.
+
+GENERATED INDEX
+Create a deterministic generator using only repository-local code and the standard runtime already available in Codex; prefer a small Python 3 script under `tools/`, e.g. `tools/generate_docs_index.py`. Do not add package dependencies.
+
+Generate `docs/INDEX.md` from the repository's Markdown corpus after header insertion.
+
+Requirements for INDEX:
+- first line `<!-- D-R1-STATUS: ACTIVE LAW -->`;
+- state that it is generated and must not be hand-maintained;
+- state the generation command;
+- record current total Markdown count, expected 282 after INDEX exists;
+- group every Markdown path exactly once under ACTIVE LAW, SUPERSEDED, HISTORICAL EVIDENCE, or UNCLASSIFIED;
+- sort paths lexicographically inside each group;
+- display group counts and total;
+- include the 11 UNCLASSIFIED paths explicitly so reconciliation debt is visible;
+- do not infer authority from legacy body `Status:` lines; parse only the D-R1 machine header.
+
+The generator must avoid self-count instability: generation over a tree in which `docs/INDEX.md` exists must reproduce the same INDEX exactly. If INDEX does not yet exist on first generation, account for the generated INDEX as ACTIVE LAW so the first emitted file already states the final 282-file corpus.
+
+VALIDATOR
+Add a deterministic standard-library-only validator, e.g. `tools/validate_document_status.py`, that fails nonzero when any of these is true:
+- any Markdown file lacks the D-R1 machine header;
+- any Markdown file has more than one D-R1 machine header;
+- a header contains a value outside the four-value enum;
+- `docs/INDEX.md` is missing;
+- regenerating INDEX in memory differs byte-for-byte from committed `docs/INDEX.md`;
+- INDEX total does not equal actual Markdown corpus count;
+- INDEX does not represent every Markdown path exactly once;
+- any path appears in more than one status group.
+
+The validator may report UNCLASSIFIED count but must NOT fail merely because UNCLASSIFIED is nonzero. D-R1 intentionally preserves unresolved self-status ambiguity until a semantic reconciliation explicitly resolves it.
+
+CI
+Add the smallest GitHub Actions workflow necessary to run the validator on pull requests and pushes that can affect Markdown/status/index/generator/validator files. Use an ordinary supported Python setup or the runner's Python as appropriate; do not add project dependencies.
+
+The CI validates repository-document structure only. It does not validate design correctness, render correctness, product behavior, or current creative authority.
+
+DO NOT TOUCH
+- prototypes/**
+- assets/**
+- existing non-Markdown evidence/artifacts except the new tools/workflow needed for this task
+- design scores/evaluations
+- visual artwork
+- branch refs/tags other than the single authorized work branch
+- Cloudflare config/publication root
+- Ensemble-Project
+- Method 02 creative disposition
+- Candidate 06 semantic content
+
+DO NOT
+- create a status taxonomy beyond the four values;
+- resolve the 11 UNCLASSIFIED documents;
+- rewrite old body `Status:` lines;
+- add a new design criterion;
+- delete/rename/move historical Markdown documents;
+- begin Phase 3.
+
+REQUIRED VALIDATION
+Run locally in the checkout and return exact output/exit status for:
+1. index generation in check/idempotence mode;
+2. document-status validator;
+3. a script/check proving actual Markdown count = 282;
+4. a script/check proving status counts = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED;
+5. `git diff --check`;
+6. `git status --short`;
+7. a changed-path audit proving no file under prototypes/ or assets/ changed.
+
+Why ACTIVE LAW becomes 42: baseline 40 + `docs/PRIOR_CONVERGENCE_EVIDENCE.md` + generated `docs/INDEX.md`. The remaining corrected baseline counts stay 9 / 220 / 11.
+
+COMMIT / PUSH
+This task is authorized to implement and commit the mechanical Phase 2 changes on a single dedicated branch based on current main. Do NOT write directly to main.
+
+Create branch:
+`design/d-r1-phase-2-document-status-index-ci`
+
+If that branch already exists from an aborted execution of Task 01, STOP and report its SHA and relationship to current main instead of overwriting or force-pushing it.
+
+Use one coherent commit unless a tooling constraint genuinely requires more. Push the branch. Do not merge it and do not open/merge unrelated work.
+
+RETURN
+Return:
+- baseline main SHA;
+- branch name and head SHA;
+- exact changed-file count;
+- final Markdown/status counts;
+- validator/generator command outputs and exit statuses;
+- confirmation that 11 UNCLASSIFIED remain unchanged;
+- confirmation that no prototypes/assets/Cloudflare config/design outcomes changed;
+- confirmation that no branch refs changed except creation/push of the authorized work branch;
+- any limitation or mismatch.
+
+SELF-AUDIT BEFORE RETURN
+Re-read this task and recursively audit the resulting diff for semantic overreach, body rewriting, missing headers, status-count mismatch, index drift, accidental prototype/asset changes, accidental classification decisions, stale use of v1, and scope creep. Correct mechanical defects on the same work branch and rerun until one complete pass is clean.
+
+STOP after pushing the clean branch. Do not merge. Sol High will review and reconcile the diff before adoption.
