@@ -2,9 +2,9 @@
 
 Status: ACTIVE CROSS-PROJECT WORKFLOW LAW
 
-Protocol version: 0.2
+Protocol version: 0.3
 
-Date: 2026-09-04
+Date: 2026-09-07
 
 ## 1. Purpose
 
@@ -69,6 +69,65 @@ Prefer using the additional reasoning capacity for:
 - recognizing when the next action is already authorized and should be executed without asking again.
 
 Do not spend High reasoning merely producing more prose, more variants, larger code blocks, more files, or broader scope without a dependency reason.
+
+## 3A. External specialist allocation — Astra / Codex
+
+GPT-5.6 Sol High is the **primary project reasoning and execution surface**. Astra/Codex is a scarce external specialist whose limited usage should be conserved rather than treated as the default place for repository work.
+
+### Default rule
+
+If Sol High can complete a task correctly with available GitHub, Drive, browser, analysis, coding or artifact tools, complete it here. Corpus size or mechanical tedium alone does not justify external delegation.
+
+### High-leverage Astra cases
+
+Reserve Astra for normally one or two tightly bounded work packages per available usage window when a material capability advantage exists, especially:
+
+1. **local/batch repository mechanics** — full-checkout scripts, large reference graphs, per-file Git history matrices, branch-wide comparisons, or other operations that are substantially more complete in a local repository environment than through conversational file calls;
+2. **environment-specific verification** — browser/runtime/toolchain execution unavailable to the current Sol surface;
+3. **independent falsification** — a deliberately separate model/context review when project-context contamination or confirmation bias is itself a material risk;
+4. **codebase-scale mechanical transformation** — only when Codex can execute and verify a narrowly specified change more reliably than the available connected editing surface.
+
+### Required Astra work-package contract
+
+Before using scarce Astra capacity, define:
+
+- one bounded question or transformation;
+- authoritative repository/ref baseline;
+- exact files/scope allowed;
+- expected machine-checkable output or evidence;
+- explicit non-goals/prohibited changes;
+- stop/failure conditions;
+- what artifact or report must be returned for reconciliation here.
+
+Do not combine unrelated audits merely to fill an Astra session. Optimize for the highest-value information gain per scarce task, not maximum task count.
+
+### What stays in Sol High
+
+Keep the following here by default:
+
+- current-state resolution and continuity maintenance;
+- ordinary GitHub/Drive reads and writes;
+- project-document drafting and reconciliation;
+- architecture/design reasoning;
+- candidate construction and evaluation;
+- recursive audits and earned-approval gates;
+- small or moderate code/doc patches supported by available tools;
+- interpretation of external audit results;
+- final project-authority decisions within the delegated lane.
+
+### Authority and adoption
+
+Astra findings are advisory evidence. They do not supersede `CURRENT_STATE.md`, frozen law, repository authority, Director authority, or a clean Sol High reconciliation.
+
+Before an Astra recommendation changes project state:
+
+1. verify its factual baseline against current authoritative sources;
+2. distinguish mechanical findings from interpretation;
+3. recursively audit the proposed consequence here;
+4. correct inconsistencies before adoption;
+5. preserve the accepted finding and resulting state in durable project documentation.
+
+If Astra capacity is exhausted, continue normal work here. Stop only if the missing external environment is genuinely required to establish the next claim or perform the next authorized action.
 
 ## 4. Scope-shaping laws
 
@@ -177,6 +236,12 @@ Treat archival/checkpoint work as part of the same objective when it is causally
 
 Separate source-derived facts from inference or external research.
 
+### External specialist audit
+
+`define unique capability gap -> spend one bounded Astra/Codex work package -> require machine-checkable evidence -> return evidence to Sol High -> verify baseline -> interpret/reconcile -> recursive audit -> durable project update`
+
+Do not send Astra a broad project-memory reconstruction task when one precise high-information audit will answer the unresolved question.
+
 ## 6. Recursive audit rule
 
 After any material correction discovered during an audit, restart the audit from the relevant authority layer rather than assuming downstream conclusions remain valid.
@@ -203,11 +268,12 @@ This protocol strengthens, rather than replaces:
 - source-of-truth and validation hierarchies;
 - Drive visual provenance requirements;
 - fresh-chat continuity;
-- Director approval at consequential creative/architecture/implementation gates.
+- Director approval at consequential creative/architecture/implementation gates;
+- `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md` Sol-High-primary / Astra-scarcity discipline.
 
 Required synthesis:
 
-> **The smallest unresolved question still defines the objective; GPT-5.6 Sol High determines how much logically coupled work should be completed around that objective before returning to the Director. `Stop` means stop at the next consequential authority/external-dependency boundary—not after every intermediate step.**
+> **The smallest unresolved question still defines the objective; GPT-5.6 Sol High determines how much logically coupled work should be completed around that objective before returning to the Director. `Stop` means stop at the next consequential authority/external-dependency boundary—not after every intermediate step. External specialist capacity is consumed only when it provides otherwise unavailable or materially superior evidence.**
 
 ## 8. Fresh-chat requirement
 
@@ -217,4 +283,6 @@ Do not ask the Director to restate this permission.
 
 Do not reinterpret `anti-churn` as reduced initiative or reduced in-scope work.
 
-For each substantive future turn, optimize task granularity deliberately before execution, minimize unnecessary questions, and complete already-authorized downstream work before returning.
+Do not assume Astra/Codex should inherit routine project work. Sol High remains the default project surface; external specialist use must satisfy Section 3A.
+
+For each substantive future turn, optimize task granularity deliberately before execution, minimize unnecessary questions, conserve external specialist capacity, and complete already-authorized downstream work before returning.
