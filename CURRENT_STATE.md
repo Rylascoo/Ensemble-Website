@@ -23,31 +23,25 @@ This file alone owns volatile phase/current-boundary state.
 
 ## D-R1 restructuring
 
-Phase 0: **COMPLETE / CLEAN AFTER RAW-ARTIFACT RE-AUDIT**. Phase 1: **COMPLETE**.
+Phase 0: **COMPLETE / CLEAN AFTER RAW-ARTIFACT RE-AUDIT**. Phase 1: **COMPLETE**. Phase 2: **COMPLETE / ADOPTED AFTER CLEAN SOL AUDIT**.
 
-Correct Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_02.txt`.
-
+Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_02.txt`.
+Classification authority: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json`.
 Raw Astra artifact identities: `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`.
 
-Baseline census: **280 Markdown / 23 prototypes / 43 branches**; exact-path zero-inbound **106**; broken local Markdown links **0**; branch split **6 zero-unique strict ancestors / 36 unique**. Raw prototype smoke was **21 PASS / 2 harness-conditioned failures**; no prototype source defect was established and no prototype was edited.
+Phase 2 adopted audited branch head `5b36975655b870d4270808200b6f9bee59a43ebd` by fast-forward. GitHub-hosted `Document status structure` run `34169485152` completed successfully at that exact head.
 
-Correct baseline classification: **40 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. Exact map: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json`. Classification v1 is preserved as the audit-failed predecessor and is not current authority.
+Current corpus: **282 Markdown** with exactly one first-line D-R1 machine-status header each and generated `docs/INDEX.md`: **42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. `UNCLASSIFIED` remains valid reconciliation debt and is not an error by itself.
 
 VID, R0, Hero Method 01 and Method 02 all have written success/termination states. D-R1 Phase 6 is **NOT TRIGGERED**.
 
-### Active structural phase — Phase 2
+### Active structural phase — Phase 3
 
-Semantic guardrail complete: `docs/PRIOR_CONVERGENCE_EVIDENCE.md`.
+Branch archival/disposal only. Before changing any ref, freshly compare each candidate against current `main`; only a **zero-unique strict ancestor** may be archived. Create a preservation tag at the exact branch head before deleting the branch. Never delete a branch with unique commits.
 
-Mechanical implementation is **PREPARED / NOT YET ADOPTED**:
+Baseline candidates from Phase 0 were: `Site`, `design/lane-a-archive-causality-2026-09-05`, `design/lane-a-character-recasting-2026-09-05`, `design/lane-a-long-scene-2026-09-05`, `design/lane-a-take-acceptance-2026-09-05`, and `visual/v0-5-fresh-palette-handoff`. Fresh verification may add or remove candidates; do not infer eligibility from the old census.
 
-`docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_02.txt`
-
-That task must work on `design/d-r1-phase-2-document-status-index-ci`, preserve all historical bodies, add exactly one D-R1 machine-status header to every Markdown file, generate `docs/INDEX.md`, and add deterministic validation/CI. Expected final corpus after INDEX: **282 Markdown**, with **42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
-
-Do not use Task 01 or classification v1. Do not treat Phase 2 as complete until Sol High reviews the returned branch/diff and recursively audits it clean.
-
-Phase 3 branch deletion is **NOT AUTHORIZED YET**. Do not move `prototypes/` or `assets/` or change Cloudflare root.
+Do not move `prototypes/` or `assets/`, change Cloudflare root, or begin Phase 4 publication-source migration during Phase 3.
 
 ## Hero program
 
@@ -60,7 +54,6 @@ Active direction: **D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**.
 Active candidate: `C06-ASPB-01` — **Asymmetric Shear-Posture Brace / residual slip / passive torso contact**.
 
 Mechanism investigation: **COMPLETE / AUDITED / CLEAN**.
-
 Stages 1–5: **COMPLETE / RECURSIVE AUDIT REQUIRED**.
 
 ## Exact next creative action
