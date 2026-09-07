@@ -7,12 +7,11 @@ Updated: 2026-09-07
 - Design/brand: `Rylascoo/Ensemble-Website`.
 - Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`.
 - Visual masters: Google Drive `Ensemble Project`.
-- Repository workflow: `AGENTS.md`.
-- Design-gate law: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
+- Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
 - Reasoning allocation: `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`.
 - Closure history: `docs/evidence/DESIGN_LEDGER.md`.
 
-This file alone owns volatile phase/current-boundary state. Historical status text cannot override it.
+This file alone owns volatile phase/current-boundary state.
 
 ## Workflow
 
@@ -20,17 +19,23 @@ This file alone owns volatile phase/current-boundary state. Historical status te
 
 > **Clean recursive audit = earned approval.**
 
-For clean in-lane gates record `APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT` and continue. No outside-lane authority is created.
-
 ## D-R1 restructuring
 
-Phase 0 termination/re-derivation analysis is complete and the Astra mechanical census has been reconciled. VID, R0, Hero Method 01 and Method 02 all have written success/termination states; D-R1 Phase 6 is not triggered.
+Phase 0: **COMPLETE / CLEAN**. Phase 1: **COMPLETE**.
 
-Phase 1 is complete: workflow lives in `AGENTS.md`, durable closure/history in `docs/evidence/DESIGN_LEDGER.md`, and this file is volatile state only.
+Canonical Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_01.txt`.
 
-Census at the Astra baseline: **280 Markdown / 23 prototypes / 43 branches**; zero inbound by exact path **106**; broken local Markdown links **0**; branch split **6 zero-unique strict ancestors / 36 unique**. Prototype raw smoke returned **21 PASS / 2 harness-conditioned failures**; ledger L-010 records the corrected interpretation and why no prototype source edit is authorized from those failures.
+Baseline census: **280 Markdown / 23 prototypes / 43 branches**; exact-path zero-inbound **106**; broken local Markdown links **0**; branch split **6 zero-unique strict ancestors / 36 unique**. Raw prototype smoke was **21 PASS / 2 harness-conditioned failures**; no prototype source defect was established and no prototype was edited.
 
-**Remaining structural prerequisite before Phase 2 enforcement:** complete Phase 0.2 semantic classification of every Markdown document from its own content as `ACTIVE LAW`, `SUPERSEDED`, `HISTORICAL EVIDENCE`, or `UNCLASSIFIED`, and record the exact unclassified count. Do not begin Phase 3 branch deletion. Do not move `prototypes/` or `assets/`.
+Document classification: **35 ACTIVE LAW / 8 SUPERSEDED / 226 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. Exact map: `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json`.
+
+VID, R0, Hero Method 01 and Method 02 all have written success/termination states. D-R1 Phase 6 is **NOT TRIGGERED**.
+
+### Active structural phase — Phase 2
+
+Reconcile document-status surfaces without rewriting historical body text; preserve `UNCLASSIFIED` as a valid machine state until each ambiguity is explicitly reconciled. Generate `docs/INDEX.md` from repository state, create prior-convergence evidence, and add validation that prevents stale/missing status from silently regaining authority.
+
+Phase 3 branch deletion is **NOT AUTHORIZED YET**. Do not move `prototypes/` or `assets/` and do not change Cloudflare root.
 
 ## Hero program
 
@@ -49,8 +54,6 @@ Stages 1–5: **COMPLETE / RECURSIVE AUDIT REQUIRED**.
 ## Exact next creative action
 
 Recursively audit `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`.
-
-Audit frozen-law fidelity, stability geometry, passive-brace ambiguity, changed-state recovery, baseline separation, pre-existing-form safeguards, responsive/Harness containment and simplicity. Correct material defects and restart the audit.
 
 A clean pass authorizes **Candidate 06 Stage 6 deterministic Neutral Geometry Scaffold construction only**.
 
