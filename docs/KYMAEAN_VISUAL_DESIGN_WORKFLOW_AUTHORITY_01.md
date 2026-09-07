@@ -14,6 +14,48 @@ Use deep analysis, synthesis, construction and recursive audits before consuming
 
 Image generations remain constrained experimental resources. Do not spend them on semantic, causal, responsive or geometry problems that can first be resolved through repository analysis, mechanism investigation, semantic construction, geometry scaffolding, engineering-informed truth checks and recursive audit.
 
+## Primary reasoning surface and external-auditor economy
+
+**GPT-5.6 Sol High is the default reasoning, design-governance, repository-work and continuity surface for this project.**
+
+Use Sol High for the complete ordinary project loop whenever its connected tools and current authority can perform the work:
+
+1. resolve current GitHub/Drive authority;
+2. analyze and synthesize project evidence;
+3. design or implement the bounded work package;
+4. recursively falsify and audit it;
+5. correct defects and re-audit until one complete pass is clean;
+6. update durable project documentation and continuity;
+7. continue through already-authorized downstream work.
+
+Do not offload work to an external reasoning surface merely because the corpus is large, the work is tedious, or an independent model is available.
+
+### Astra / Codex scarcity rule
+
+Astra/Codex is a **scarce external specialist**, not the normal project execution surface. Preserve its limited usage window for one or two high-leverage work packages when it can materially outperform the available Sol High workflow.
+
+Astra is justified primarily when at least one of these is true:
+
+- a local-checkout or batch-computation task can mechanically inspect the repository more completely than the connected GitHub interface available here;
+- a browser/runtime/local-tool environment can perform a verification that is not available here;
+- an independent external-model falsification pass is materially valuable because the current project context itself could bias interpretation;
+- a narrowly bounded codebase-scale transformation or audit is demonstrably more reliable through Codex's repository environment than through conversational file-by-file operations.
+
+Before spending Astra capacity, define one coherent task with:
+
+- the exact question or transformation;
+- the authoritative baseline/ref;
+- expected machine-checkable outputs;
+- explicit stop conditions;
+- prohibited scope;
+- the evidence that must be returned to this project surface.
+
+Do not spend Astra capacity on ordinary document editing, routine GitHub/Drive reads or writes, status checks, summaries, continuity maintenance, design-gate recursive audits, or other work Sol High can complete with available tools.
+
+Astra output is **evidence/advice, not project authority**. Before adopting it, Sol High must reconcile the result against current authoritative repository state, recursively audit any proposed consequence, and preserve the accepted result in durable project state.
+
+If Astra capacity is unavailable or exhausted, continue the work in Sol High unless a genuinely unavailable external capability blocks completion. Scarcity is not a reason to pause normal project progress.
+
 ## Standing recursive-audit earned-approval law
 
 For every approval gate that belongs to the Kymaean website/brand/design lane:
@@ -100,11 +142,12 @@ Every fresh visual-design chat must read, in order:
 
 1. `CURRENT_STATE.md`;
 2. this workflow authority;
-3. `docs/DESIGN_CONTINUITY.md`;
-4. the active handoff/evidence documents named by current state;
-5. engineering truth from `Rylascoo/Ensemble-Project/CURRENT_STATE.md` when product semantics materially matter.
+3. `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`;
+4. `docs/DESIGN_CONTINUITY.md`;
+5. the active handoff/evidence documents named by current state;
+6. engineering truth from `Rylascoo/Ensemble-Project/CURRENT_STATE.md` when product semantics materially matter.
 
-Fresh chats must explicitly inherit the standing recursive-audit earned-approval law and must not revert to historical approval-request behavior from older handoffs or evidence files.
+Fresh chats must explicitly inherit the standing recursive-audit earned-approval law and the Sol-High-primary / Astra-scarcity rule. They must not revert to historical approval-request behavior or external-auditor-heavy workflow from older handoffs or evidence files.
 
 Engineering remains a coherence input, not aesthetic authority.
 
@@ -112,4 +155,4 @@ Engineering remains a coherence input, not aesthetic authority.
 
 The Director has delegated normal website/brand/design gate progression to clean recursive audit.
 
-The goal is disciplined progress: fewer administrative interruptions, deeper reasoning, stronger audits, deliberate image-generation usage and durable fresh-chat continuity.
+The goal is disciplined progress: Sol High carries normal project reasoning and execution; external specialist capacity is conserved for genuinely high-leverage verification; administrative interruptions are minimized; image generation remains deliberate; and fresh-chat continuity remains durable.
