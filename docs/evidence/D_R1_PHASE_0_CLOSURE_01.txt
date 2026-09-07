@@ -1,0 +1,74 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 0 CLOSURE 01
+
+Status: COMPLETE / RECURSIVELY AUDITED / PHASE 2 STRUCTURAL RECONCILIATION MAY PROCEED
+Date: 2026-09-07
+
+PURPOSE
+Close the read-only/census/reconciliation phase of D-R1 without changing visual design outcomes, scores, prototypes, assets, Method 02 disposition, publication root, or branch refs.
+
+1. CORPUS / REFERENCE CENSUS
+Astra/Codex independently audited main at de0208a2895662be9d3762af06b2464b9e3d505e under docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt.
+Gross counts passed: 280 Markdown files, 23 prototype HTML files, 43 remote branches including main.
+Inbound census: 274 Markdown documents had zero inbound Markdown links; 106 had zero exact repository-path mentions; 106 were zero under both definitions. Broken local Markdown links: 0.
+Interpretation: Markdown-link count is not an orphan count because this repository predominantly references documents by exact paths in prose/backticks rather than Markdown link syntax.
+
+Prototype raw browser smoke: 21 PASS / 2 raw FAIL / 0 unavailable. One failure was the deliberately unresolved __CANDIDATE_ARTWORK__ template input in hero-integration-harness-01.html; the other was a favicon 404 not shown to be page-declared/required. These are validation-harness-conditioned findings, not established source defects. No prototype was edited. A future corrected smoke must substitute a temporary valid candidate fixture without mutating source and may ignore a browser-generated favicon request only when the page does not require it.
+
+2. DOCUMENT STATUS CLASSIFICATION
+Exact baseline classification is recorded in docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json.
+Counts:
+- ACTIVE LAW: 35
+- SUPERSEDED: 8
+- HISTORICAL EVIDENCE: 226
+- UNCLASSIFIED: 11
+Total: 280.
+
+The fourth machine state is UNCLASSIFIED. It is required because several documents cannot safely be assigned current authority from their own content. Notable examples include stale ACTIVE/CURRENT handoffs, the fixed Harness source still saying NOT YET FROZEN, the approved Method 02 source still saying DIRECTOR REVIEW REQUIRED, current Candidate 06 source artifacts whose closure exists in later audit evidence, and a roadmap whose CURRENT wording still names retired D1.
+
+Classification law for Phase 2: preserve historical body text. Reconcile status through an explicit machine-readable header/current-status layer; do not rewrite history to make a document appear contemporaneously correct.
+
+3. REMOTE BRANCH CENSUS
+All 42 non-main remote branches were compared against main. Result independently reproduced by Astra:
+- zero-unique strict ancestors: 6
+- branches with one or more unique commits: 36
+
+The six zero-unique strict ancestors are:
+- Site
+- design/lane-a-archive-causality-2026-09-05
+- design/lane-a-character-recasting-2026-09-05
+- design/lane-a-long-scene-2026-09-05
+- design/lane-a-take-acceptance-2026-09-05
+- visual/v0-5-fresh-palette-handoff
+
+Phase 3 may consider only a branch that freshly re-verifies as zero-unique strict ancestor. Tag before deletion. Never delete a branch with unique commits.
+
+4. RE-DERIVATION CENSUS
+Confirmed material re-derivation/reconciliation family: temporal authorship versus later single-still transfer.
+TEO-01 and TEO-02 established visible authorship through temporal comparison. Residual Presence R1 and Attributable Aftermath A1 later tested whether that burden transferred into a single still. Their local single-still failures do not erase TEO. This distinction is preserved in docs/evidence/DESIGN_LEDGER.md.
+
+5. TERMINATION / SUCCESS CENSUS
+The original stronger D-R1 premise that major searches lacked a written state in which they could succeed is rejected by repository evidence.
+- VID-01: explicit convergence prerequisite and stop state; at least two genuinely distinct surviving visual families were required.
+- R0: explicit termination; calibration complete and no additional calibration renders justified.
+- Hero Method 01: explicit passable frozen contract; all three qualifying rounds failed and the three-round budget is exhausted.
+- Hero Method 02: explicit construction-success conditions plus frozen post-render gates; Candidate 04 closed after Rounds 04/05, Candidate 05 rejected before render, Candidate 06 remains current.
+
+Consequence: D-R1 Phase 6 is NOT triggered by Phase 0 evidence. The restructure is justified for retrievability, status separation, durable closure, anti-re-derivation, and publication isolation—not for invention of missing success criteria.
+
+6. CLOUDFLARE / PUBLICATION SIGNAL
+Cloudflare Workers/Pages GitHub integration is connected and receives push events. Multiple recent main commits returned Workers Builds: ensemble-website failure. This supports publication-source isolation, but does not authorize changing the Cloudflare root or treating prototypes as publication source.
+
+RECURSIVE AUDIT
+- No prototype or asset source changed: PASS.
+- No design score/evaluation rewritten: PASS.
+- No Method 02 disposition changed: PASS.
+- No branch/tag/deletion operation performed: PASS.
+- Phase 6 trigger rechecked against termination evidence: NOT TRIGGERED.
+- 280-path status classification sums and exception uniqueness: PASS.
+- Branch 6/36 split independently reproduced: PASS.
+- Raw prototype failures kept separate from proven source defects: PASS.
+- One full pass after corrections found no remaining Phase 0 material correction within scope: CLEAN.
+
+PHASE 0 DISPOSITION
+COMPLETE / CLEAN.
+Phase 2 may now reconcile document status surfaces, generate the repository index, preserve prior-convergence evidence, and add validation discipline. Phase 3 branch disposal remains a separate later gate with fresh ancestry verification.
