@@ -141,3 +141,17 @@ Phase 2 mechanical package: `docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEME
 After that closure, `docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md` explicitly selected Characters-as-volumes-of-light with **cone geometry** as repository authority. `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` carries the selection into the current qualitative interaction grammar.
 
 **Guardrail:** do not equate “Lane A static reintegration is closed” with “Lane A Stage carrier/interaction laws are historical.” Reopening the generic Lane A refinement program and changing a selected Stage law are separate Director decisions.
+
+## L-014 — D-R1 Phase 2 machine-status/index layer is adopted
+
+**State:** COMPLETE / CLEAN / ADOPTED
+
+Astra implemented Task 02 on `design/d-r1-phase-2-document-status-index-ci` at `5b36975655b870d4270808200b6f9bee59a43ebd`. Sol independently verified the remote branch was one commit ahead and zero behind its exact baseline, that all 280 pre-existing Markdown changes were header-only `+2/-0`, that only `docs/INDEX.md`, two standard-library tools and one workflow were added, and that no prototype or asset path changed.
+
+The generated index and validator preserve the four-state machine taxonomy without interpreting legacy body status text. Current corpus after adoption is **282 Markdown = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
+
+GitHub-hosted Actions run `34169485152` executed at the exact implementation head and concluded **success**, including checkout and document-structure validation. The implementation was then fast-forwarded to `main` under standing Director delegation after a clean recursive audit.
+
+Full adoption evidence: `docs/evidence/D_R1_PHASE_2_ADOPTION_01.txt`.
+
+**Guardrail:** machine status does not rewrite historical body text, and `UNCLASSIFIED` remains valid reconciliation debt. Any new Markdown document must carry exactly one canonical first-line D-R1 status header and keep `docs/INDEX.md` byte-for-byte current.
