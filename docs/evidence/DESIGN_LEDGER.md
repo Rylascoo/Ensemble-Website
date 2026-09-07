@@ -73,9 +73,9 @@ VID, R0, Method 01 and Method 02 all contain explicit success and/or termination
 
 ## L-010 — D-R1 mechanical census
 
-**State:** COMPLETE / SOL RECONCILED
+**State:** COMPLETE / RAW ARTIFACTS RECEIVED / SOL RECONCILED
 
-Astra audited main at `de0208a2895662be9d3762af06b2464b9e3d505e` under `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`.
+Astra audited main at `de0208a2895662be9d3762af06b2464b9e3d505e` under `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`. The four raw outputs were later supplied directly to Sol; exact file identities and SHA-256 hashes are pinned in `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`.
 
 Verified baseline:
 
@@ -102,19 +102,40 @@ Primary authority: `AGENTS.md`, `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_0
 
 ## L-012 — D-R1 document classification and Phase 0 closure
 
-**State:** COMPLETE / CLEAN
+**State:** COMPLETE / CORRECTED AFTER RAW-ARTIFACT RE-AUDIT
 
-Exact 280-document baseline classification is encoded by `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json`:
+The first semantic map, `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json`, is preserved as an audit-failed predecessor. The raw Markdown census exposed five current-authority documents and one explicit supersession that v1 had incorrectly defaulted to historical evidence.
 
-- **35 ACTIVE LAW**;
-- **8 SUPERSEDED**;
-- **226 HISTORICAL EVIDENCE**;
+Current exact 280-document baseline classification is `docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json`:
+
+- **40 ACTIVE LAW**;
+- **9 SUPERSEDED**;
+- **220 HISTORICAL EVIDENCE**;
 - **11 UNCLASSIFIED**.
 
-`UNCLASSIFIED` is a valid machine state, not an error to guess away. It preserves documents whose own content cannot safely establish current authority—for example stale ACTIVE/CURRENT handoffs, the fixed Harness source still saying NOT YET FROZEN, the approved Method 02 source still saying DIRECTOR REVIEW REQUIRED, current Candidate 06 source artifacts whose closure lives in later audit evidence, and the stale-current D1 roadmap.
+Corrections from v1:
 
-Canonical Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_01.txt`.
+- ACTIVE LAW: `docs/KYMAEAN_LANE_A_O0_REINTEGRATION_01.md`;
+- ACTIVE LAW: `docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md`;
+- ACTIVE LAW: `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md`;
+- ACTIVE LAW: `docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md`;
+- ACTIVE LAW: `docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md`;
+- SUPERSEDED: `docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md`.
+
+`UNCLASSIFIED` remains a valid machine state, not an error to guess away. It preserves documents whose own operational/current status cannot safely establish present authority, including stale active handoffs, the Harness source's old NOT YET FROZEN wording, the Method 02 source's old DIRECTOR REVIEW REQUIRED wording, current Candidate 06 source artifacts whose closure lives in later audit evidence, and the stale-current D1 roadmap.
+
+Correct Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_02.txt`.
 
 Phase 2 semantic guardrail: `docs/PRIOR_CONVERGENCE_EVIDENCE.md`.
 
-Phase 2 mechanical implementation package: `docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_01.txt`. It must preserve historical body text, add the separate machine-status layer, generate the index, validate it, and return a branch for Sol review before adoption.
+Phase 2 mechanical package: `docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_02.txt`. Task 01 and classification v1 must not be used.
+
+## L-013 — Lane A static closure does not retire selected Stage authority
+
+**State:** CLOSED RECONCILIATION / CURRENT STAGE LAW PRESERVED
+
+`docs/KYMAEAN_LANE_A_INTEGRATION_CLOSURE_01.md` closes generic O0 product-UI reintegration at the static/executable design-reference level and says not to open another generic refinement package by default. That closure does not retire the reintegration laws.
+
+After that closure, `docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md` explicitly selected Characters-as-volumes-of-light with **cone geometry** as repository authority. `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` carries the selection into the current qualitative interaction grammar.
+
+**Guardrail:** do not equate “Lane A static reintegration is closed” with “Lane A Stage carrier/interaction laws are historical.” Reopening the generic Lane A refinement program and changing a selected Stage law are separate Director decisions.
