@@ -1,0 +1,43 @@
+ROUND 04 ISOLATED RENDERER HANDOFF
+
+Experiment: METHOD02-R04-C04
+
+Director Context only. Do not paste this entire handoff into the Renderer Context.
+
+EXECUTION LOCATION
+Open one new regular ChatGPT chat outside the Ensemble project. Use that chat only for this one image.
+
+TRANSFER EXACTLY TWO INPUTS
+
+1. Attach the generic sanitized structural reference:
+   STRUCTURAL_REFERENCE_01.png
+   Drive file ID: 1A_wkyHj5qQm3VWkWDHvcFHL1saiKP1hv
+
+2. Paste exactly the renderer packet below and nothing else:
+
+--- BEGIN RENDERER PACKET ---
+
+Create one uninterrupted artwork centered on two visibly specific adults whose shared physical relation is necessary to the image.
+
+Use the supplied neutral structural scaffold only for relational composition. Do not reproduce its diagram appearance, linework, annotations, audit geometry or technical character.
+
+One broad continuous physical field passes through both people. Its simpler baseline organization remains visibly recoverable on both sides of one local distributed deformation. Person A occupies the lower side of that deformation passively: body weight enters the field without hands operating, pulling, bracing, opening or controlling anything. Through the same continuous changed field, Person B occupies a higher and more inward support position that would not exist if the field returned to baseline.
+
+B's changed position enables one quiet, direct forearm-to-forearm contact with A. The contact is not load-bearing. Neither person holds, rescues, assists or stabilizes the other. Avoid dance, romance, rescue, accident, work-task or demonstration readings.
+
+The field must read as one changed condition, not a seesaw, chair, hammock, bridge, platform, portal, machine, engineered device or sculptural furniture. Do not add hinges, pivots, cables, brackets, controls, detached supports or a visible secondary support beneath B. Preserve enough continuous boundary and structural correspondence for the simpler baseline to be inferred from the still.
+
+Keep both people more visually important than the changed field. Make them recognizably different without relying on color: different body proportion/silhouette mass, different head or hair silhouette, and different outer-garment silhouette. Do not use labels or explanatory symbols.
+
+Use materially credible, restrained physical behavior. Keep the image quiet rather than spectacular. No fantastical glow, surreal energy, diagram language, interface chrome, branding, typography, arrows or explanatory text. Do not imitate a named artist or named visual style.
+
+The complete human relation, both baseline witnesses, the deformation and the absence of alternate support must remain concentrated in the central-right structural cluster supplied by the scaffold. Keep the far-left region calm and nonessential.
+
+Return only the uninterrupted artwork.
+
+--- END RENDERER PACKET ---
+
+ACCOUNTING
+One renderer request. One image. Zero free rerolls.
+
+After the image returns, do not continue in the renderer chat. Bring the returned image back to the Ensemble Director Context for frozen post-render evaluation.
