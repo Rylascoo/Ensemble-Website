@@ -1,0 +1,131 @@
+{
+  "schema": "kymaean.d-r1.document-status-classification.v2",
+  "classification_date": "2026-09-07",
+  "baseline_markdown_count": 280,
+  "baseline_main_sha": "de0208a2895662be9d3762af06b2464b9e3d505e",
+  "supersedes": "docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json",
+  "audit_basis": {
+    "raw_astra_artifacts_supplied_after_v1": {
+      "d_r1_markdown_census.json": {
+        "sha256": "86306ee9c6cbea41a45f22d02a110192f86a19a6a5eeba1122ba069a08a394df",
+        "bytes": 307599
+      },
+      "d_r1_mechanical_census_summary.md": {
+        "sha256": "4b09dd7236ad531e927931152ad5426b11b8234b3d82be3119cca8865ebfb451",
+        "bytes": 7056
+      },
+      "d_r1_prototype_smoke.json": {
+        "sha256": "d4ae23aac3b60abd0ce3d32a16920b938993af9ca51d6a98cadaac64a4485697",
+        "bytes": 14053
+      },
+      "d_r1_branch_census.json": {
+        "sha256": "c7faa0925027c5066d6e9f2a08aea8e85ab79647d45441ad494b8327fca3c09f",
+        "bytes": 23495
+      }
+    },
+    "correction_rule": "V1 was recursively reopened because the full Markdown census exposed explicit current authority and explicit supersession that V1 had defaulted to historical evidence. V2 preserves the same 280-file baseline and changes only classifications supported by the baseline document's own role/status/content."
+  },
+  "default_status": "HISTORICAL EVIDENCE",
+  "rule": "At the 280-Markdown baseline, every Markdown path not listed below is HISTORICAL EVIDENCE. Listed exceptions override the default. ACTIVE LAW includes current governing/operational authority, current canonical baselines, active tools, and current handoffs. SUPERSEDED requires explicit replacement/retraction of the document's former active role. UNCLASSIFIED preserves operational/current documents whose own content conflicts with or cannot safely establish current authority.",
+  "counts": {
+    "ACTIVE LAW": 40,
+    "SUPERSEDED": 9,
+    "HISTORICAL EVIDENCE": 220,
+    "UNCLASSIFIED": 11
+  },
+  "corrections_from_v1": {
+    "to_ACTIVE_LAW": [
+      "docs/KYMAEAN_LANE_A_O0_REINTEGRATION_01.md",
+      "docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md",
+      "docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md",
+      "docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md",
+      "docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md"
+    ],
+    "to_SUPERSEDED": [
+      "docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md"
+    ],
+    "reasoning": {
+      "docs/KYMAEAN_LANE_A_O0_REINTEGRATION_01.md": "Own content revives the Lane A incumbent baseline, declares mandatory reintegration laws, and requires explicit Director action to replace O0-B.",
+      "docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md": "Own content says cone/light-volume Stage carrier is Director-selected and 'explicit repository authority'.",
+      "docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md": "Own content carries the selected carrier forward as the current qualitative interaction grammar and states the implementation-survival rule.",
+      "docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md": "Own content contains a 'Current source authority' section for O3 and Threshold K deterministic sources.",
+      "docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md": "Own content says Harness 01 is re-frozen and the corrected harness is the only implementation authorized for later qualifying candidates.",
+      "docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md": "Own status says 'SUPERSEDED AS ACTIVE DECISION GATE' and names Experience Ontology Synthesis 01 as the superseding recovery artifact."
+    }
+  },
+  "exceptions": {
+    "ACTIVE LAW": [
+      "AGENTS.md",
+      "CURRENT_STATE.md",
+      "README.md",
+      "docs/DESIGN_CONTINUITY.md",
+      "docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md",
+      "docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md",
+      "docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md",
+      "docs/KYMAEAN_ENGINEERING_INFORMED_VISUAL_TRANSLATION_PROTOCOL_01.md",
+      "docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md",
+      "docs/KYMAEAN_HERO_METHOD_02_NEUTRAL_GEOMETRY_SCAFFOLD_FORMAT_01.md",
+      "docs/KYMAEAN_HERO_SURFACE_ESCAPE_GATE_01.md",
+      "docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md",
+      "docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_OPERATIONAL_DEFINITION_01.md",
+      "docs/KYMAEAN_LANE_A_O0_REINTEGRATION_01.md",
+      "docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md",
+      "docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md",
+      "docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md",
+      "docs/KYMAEAN_LANE_B_WEBSITE_V0_HERO_ARTWORK_BRIEF_02.md",
+      "docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md",
+      "docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md",
+      "docs/RENDERER_CARTOGRAPHY_PHASE_RECONCILIATION_2026_09_06.md",
+      "docs/RENDERER_ISOLATION_PROTOCOL.md",
+      "docs/VISUAL_ARCHIVE_PROTOCOL.md",
+      "docs/evidence/DESIGN_LEDGER.md",
+      "docs/evidence/HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01_RECURSIVE_AUDIT.md",
+      "docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md",
+      "docs/evidence/HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_RECONSIDERATION_03_RECURSIVE_AUDIT.md",
+      "docs/evidence/HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02_DIRECTOR_APPROVAL.md",
+      "docs/evidence/LANE_B_INTEGRATED_DEPLOYMENT_LAWS_APPROVAL_01.md",
+      "docs/evidence/LANE_B_MINERAL_THEATER_DIRECTOR_APPROVAL_01.md",
+      "docs/evidence/LANE_B_O3_WORDMARK_DIRECTOR_APPROVAL_01.md",
+      "docs/evidence/LANE_B_QUIET_STAGE_DIRECTOR_APPROVAL_01.md",
+      "docs/evidence/LANE_B_QUIET_STAGE_EXTENSION_LAWS_APPROVAL_01.md",
+      "docs/evidence/LANE_B_STAGE_INSPIRED_VISUAL_PHYSICS_DIRECTOR_APPROVAL_01.md",
+      "docs/evidence/LANE_B_WEBSITE_V0_SITE_SPINE_APPROVAL_01.md",
+      "docs/evidence/ODR_33_HERO_CAUSAL_OBSERVABILITY_DIRECTOR_APPROVAL_01.md",
+      "docs/templates/HERO_METHOD_02_CONSTRUCTION_RECORD_TEMPLATE.md",
+      "docs/templates/HERO_METHOD_02_CONSTRUCTION_REVIEW_PACKAGE_TEMPLATE.md",
+      "docs/templates/HERO_METHOD_02_RESPONSIVE_SEMANTIC_ENVELOPE_TEMPLATE.md",
+      "docs/templates/HERO_METHOD_02_TWO_PERSON_NECESSITY_MATRIX_TEMPLATE.md"
+    ],
+    "SUPERSEDED": [
+      "docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md",
+      "docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md",
+      "docs/HANDOFF_R0_RENDERER_ISOLATION_CROSS_BRANCH_SYNTHESIS.md",
+      "docs/HANDOFF_R0_VISUAL_REFOUNDATION_CLEAN_SLATE_REDISCOVERY.md",
+      "docs/HANDOFF_R1_CROSSING_LANGUAGE.md",
+      "docs/KYMAEAN_ENTRY_EXPERIENCE_DECISION_PROPOSAL_01.md",
+      "docs/KYMAEAN_LANE_B_WEBSITE_V0_HERO_ARTWORK_BRIEF_01.md",
+      "docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md",
+      "docs/RENDERER_CARTOGRAPHY_PROTOCOL.md"
+    ],
+    "UNCLASSIFIED": [
+      "docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md",
+      "docs/HANDOFF_V0_4_PRESENCE.md",
+      "docs/HANDOFF_V0_5B_SURFACE_BLIND_DIVERGENCE.md",
+      "docs/HANDOFF_V0_5_FRESH_PALETTE_DIVERGENCE.md",
+      "docs/HANDOFF_VID_01_AFTER_V0R10.md",
+      "docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md",
+      "docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01.md",
+      "docs/KYMAEAN_HERO_INTEGRATION_HARNESS_01.md",
+      "docs/KYMAEAN_HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_RECONSIDERATION_03.md",
+      "docs/KYMAEAN_HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02.md",
+      "docs/KYMAEAN_VISUAL_ASSET_MATERIALIZATION_ROADMAP_01.md"
+    ]
+  },
+  "self_audit": {
+    "exceptions": 60,
+    "default_paths": 220,
+    "total": 280,
+    "unique_exception_paths": 60,
+    "all_baseline_paths_partitioned_once": true
+  }
+}
