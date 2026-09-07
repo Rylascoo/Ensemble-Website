@@ -2,7 +2,7 @@
 
 Status: **ACTIVE PROJECT LAW FOR BRAND / WEBSITE EXPLORATION**
 
-Updated: 2026-09-02
+Updated: 2026-09-07
 
 Purpose: preserve Kymaean's artistic breadth, collaboration discipline, visual lineage, asset continuity, renderer-isolation method, website-development expertise, and fresh-chat continuity while keeping the active visual search genuinely open.
 
@@ -30,12 +30,13 @@ This is an expertise standard, not a preset visual style, page hierarchy, framew
 For website/brand visual work:
 
 1. `Rylascoo/Ensemble-Website/CURRENT_STATE.md`
-2. this constitution
-3. the active handoff named by `CURRENT_STATE.md`
-4. relevant completed GitHub checkpoints/protocols
-5. Google Drive `Ensemble Project` visual continuity, registry, and master assets
-6. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth and validation boundaries
-7. chat history as transient working context only
+2. `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`
+3. this constitution
+4. the active handoff named by `CURRENT_STATE.md`
+5. relevant completed GitHub checkpoints/protocols
+6. Google Drive `Ensemble Project` visual continuity, registry, and master assets
+7. `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for current product truth and validation boundaries
+8. chat history as transient working context only
 
 A chat conclusion does not override repository/Drive authority.
 
@@ -223,7 +224,8 @@ Durable rules:
 - reverse audits remain internal discipline unless a serious contradiction or unusually strong convergence signal must be surfaced;
 - different concepts should represent genuinely different artistic interpretations rather than variants of one grammar;
 - once a chat develops repeated surface vocabulary, archive/extract and move laterally rather than fighting the attractor indefinitely;
-- convergence begins only after explicit mutual agreement.
+- approval gates follow the standing recursive-audit earned-approval law in `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`;
+- irreducible subjective preference may still require a Director choice, but it must be presented as a choice rather than an approval request.
 
 ## 12. Exploration / refinement discipline
 
@@ -241,7 +243,7 @@ Do not assume the website must begin with a conventional hero or technology-luxu
 
 ### Refinement mode
 
-Begins only after explicit mutual convergence.
+Begins when evidence and recursive audit support convergence, or when a genuinely subjective Director choice selects among equally valid alternatives.
 
 Then apply severe tests appropriate to the lane: monochrome integrity, silhouette, 16–24 px survival, typography ownership, accessibility, reduced motion, responsive use, touch/keyboard behavior, category distinctiveness, asset cost, implementation suitability, and cross-product continuity.
 
@@ -325,7 +327,7 @@ Project state must not be promoted from conversational momentum.
 Mandatory distinctions:
 
 > **Research discovery != phase transition.**  
-> **Assistant/design-team preference != user approval.**  
+> **Assistant/design-team preference != evidence.**  
 > **Recent strength != incumbent.**  
 > **Metaphor != identity.**  
 > **Surface != law.**
@@ -336,8 +338,10 @@ Before promoting a branch:
 2. reconcile the Drive archive/registry;
 3. check GitHub `CURRENT_STATE.md` and active handoff;
 4. verify convergence status;
-5. obtain explicit mutual convergence where required;
-6. only then update project phase authority.
+5. run the required recursive audit to a clean pass;
+6. under the standing delegation, record the clean pass as approval and only then update project phase authority.
+
+A subjective choice among equally defensible artistic alternatives may still be requested, but a clean procedural gate must never be turned back into an approval request.
 
 ## 16. Current next gate — cross-surface robustness
 
@@ -394,10 +398,12 @@ Before any website/brand artwork-development handoff is considered complete:
 1. audit every generated artwork, meaningful variant, diagnostic failure, user reaction, design-team judgment, favorite, rejection, and durable discovery;
 2. preserve every available artwork binary or embedded archival visual copy in the correct Drive lane with precise asset-state wording;
 3. update `Kymaean Visual Exploration Registry & Critique Ledger` with provenance, user signals, design judgment, status, asset state/location, transferable discovery, and surface quarantine;
-4. never convert praise, assistant preference, recency, repetition, or generated scores into approval/convergence;
+4. never convert praise, assistant preference, recency, repetition, or generated scores into aesthetic selection/convergence;
 5. mark missing binaries **PENDING RECOVERY** rather than implying completeness;
 6. update relevant Drive continuity law when project law changes;
-7. only then update the active GitHub handoff/current checkpoint and retire the chat.
+7. recursively audit the handoff package to a clean pass;
+8. treat that clean pass as earned approval under the standing delegation;
+9. only then update the active GitHub handoff/current checkpoint and retire the chat.
 
 Historical files do not silently migrate back into active lanes.
 
@@ -428,14 +434,27 @@ Before proposing, generating, refining, or implementing Kymaean website/brand vi
 
 1. confirm this is the website/brand workstream;
 2. read `/CURRENT_STATE.md`;
-3. read this file;
-4. read `docs/RENDERER_ISOLATION_PROTOCOL.md`;
-5. read `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`;
-6. read `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`;
-7. read the active R0 handoff named by `CURRENT_STATE.md`;
-8. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
-9. treat Google Drive as visual-master authority and read the textual registry/checkpoints as needed;
-10. follow staged historical access appropriate to the experiment;
-11. never infer selection from praise, recency, previous effort, metaphor, or historical benchmark status;
-12. use the persistent project chat as Director Context and a fresh regular non-project chat as Renderer Context for actual clean-slate image generation;
-13. follow `docs/VISUAL_ARCHIVE_PROTOCOL.md` for every handoff and lineage update.
+3. read `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md` and explicitly inherit its standing recursive-audit earned-approval law;
+4. read this file;
+5. read `docs/RENDERER_ISOLATION_PROTOCOL.md`;
+6. read `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`;
+7. read `docs/R0_CROSS_LAB_SYNTHESIS_ROUND_1.md`;
+8. read the active handoff named by `CURRENT_STATE.md`;
+9. read current `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only for product truth and validation boundaries;
+10. treat Google Drive as visual-master authority and read the textual registry/checkpoints as needed;
+11. follow staged historical access appropriate to the experiment;
+12. never infer aesthetic selection from praise, recency, previous effort, metaphor, or historical benchmark status;
+13. never ask the Director to approve a design-lane gate after a clean recursive audit; record it as **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT** and proceed;
+14. when an irreducible subjective taste choice is genuinely required, present it as a choice rather than an approval request;
+15. use the persistent project chat as Director Context and an isolated renderer context for clean-slate image generation according to the active renderer protocol;
+16. follow `docs/VISUAL_ARCHIVE_PROTOCOL.md` for every handoff and lineage update.
+
+## 23. Superseding approval rule
+
+This section and `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md` supersede older handoffs, evidence files, and earlier sections of this constitution wherever they require an explicit Director approval exchange for a design-lane gate that has already reached a clean recursive audit.
+
+The durable law is:
+
+> **Clean recursive audit = earned approval for the design gate.**
+
+Fresh chats must not resurrect superseded approval-request behavior from historical documents.
