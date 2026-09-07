@@ -78,6 +78,16 @@ ODR-33 Option B established that the hero need not make one specific earlier hum
 
 `R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md` closed calibration and stated that additional calibration renders were not justified by default. Historical R0 results remain evidence; R0 is not an endlessly active render program.
 
+## 9. Lane A static reintegration is closed; its selected Stage laws are not retired
+
+`KYMAEAN_LANE_A_INTEGRATION_CLOSURE_01.md` closed generic O0 product-UI reintegration at the static/executable design-reference level and said not to open another refinement package by default. That closure did **not** erase the Lane A laws recovered during reintegration.
+
+Later `KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md` explicitly selected the light-volume **cone** Stage carrier as repository authority, and `KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md` carried that selection into the qualitative interaction grammar.
+
+**Do not re-derive:** whether Lane A needs another generic O0 reintegration package by default.
+
+**Do not infer:** that Lane A closure makes the selected Stage carrier or its interaction grammar historical. Those remain current design authority unless later evidence or an explicit Director decision changes them.
+
 ## Reopening rule
 
 A closed result above may be reopened only when at least one is true:
