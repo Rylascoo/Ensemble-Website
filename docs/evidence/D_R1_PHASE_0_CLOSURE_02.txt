@@ -1,0 +1,103 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 0 CLOSURE 02
+
+Status: COMPLETE / RECURSIVELY RE-AUDITED AFTER RAW ASTRA ARTIFACT DELIVERY / PHASE 2 MAY PROCEED
+Date: 2026-09-07
+Supersedes: docs/evidence/D_R1_PHASE_0_CLOSURE_01.txt
+
+PURPOSE
+Preserve the corrected Phase 0 disposition after the Director supplied the four raw Astra mechanical-census artifacts that had not been available during the first semantic-classification pass.
+
+1. MECHANICAL CENSUS — UNCHANGED / CONFIRMED
+Baseline main: de0208a2895662be9d3762af06b2464b9e3d505e.
+
+Raw artifact identities are pinned in:
+docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt
+
+Confirmed:
+- Markdown: 280
+- prototype HTML: 23
+- remote branches including main: 43
+- zero Markdown-link inbound: 274
+- zero exact-path inbound: 106
+- zero under both: 106
+- missing local Markdown links: 0
+- branch split: 6 zero-unique strict ancestors / 36 branches with unique commits
+- prototype raw smoke: 21 PASS / 2 FAIL / 0 UNAVAILABLE
+
+The two raw smoke failures remain validation-harness-conditioned findings, not proven prototype-source defects: one browser-generated favicon 404 and two literal __CANDIDATE_ARTWORK__ placeholder 404s in the hero harness. No prototype edit is authorized from those results.
+
+2. DOCUMENT CLASSIFICATION — V1 FALSIFIED / V2 CORRECTED
+The raw Markdown census exposed current authority and explicit supersession that the first role-based pass had defaulted to HISTORICAL EVIDENCE.
+
+D_R1_DOCUMENT_STATUS_CLASSIFICATION_01.json is preserved as the audit-failed predecessor.
+
+Correct authority:
+docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json
+
+Correct 280-document baseline counts:
+- ACTIVE LAW: 40
+- SUPERSEDED: 9
+- HISTORICAL EVIDENCE: 220
+- UNCLASSIFIED: 11
+
+Corrections from v1:
+ACTIVE LAW:
+- docs/KYMAEAN_LANE_A_O0_REINTEGRATION_01.md
+- docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md
+- docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md
+- docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md
+- docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md
+
+SUPERSEDED:
+- docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md
+
+Why these corrections are binding:
+- O0 Reintegration revives the Lane A incumbent baseline and declares mandatory reintegration laws.
+- Stage Carrier Selection states that cone/light-volume geometry is Director-selected and explicit repository authority.
+- Stage Cone Interaction carries that selection forward as the qualitative interaction grammar and gives an implementation-survival rule.
+- Identity Source Readiness contains an explicit Current source authority section for O3 and Threshold K deterministic sources.
+- Harness Narrow Correction says Harness 01 is re-frozen and that the corrected implementation is the only Harness 01 implementation authorized for later qualifying candidates.
+- Product Experience Model Decision Proposal explicitly says it is superseded as an active decision gate and names Experience Ontology Synthesis 01 as its superseding recovery artifact.
+
+The 11 UNCLASSIFIED paths are unchanged. UNCLASSIFIED remains a valid machine state rather than an invitation to guess.
+
+3. BRANCH SAFETY — UNCHANGED
+The six zero-unique strict ancestors at the baseline are:
+- Site
+- design/lane-a-archive-causality-2026-09-05
+- design/lane-a-character-recasting-2026-09-05
+- design/lane-a-long-scene-2026-09-05
+- design/lane-a-take-acceptance-2026-09-05
+- visual/v0-5-fresh-palette-handoff
+
+Phase 3 must freshly reverify ancestry before any archive/delete action. Never delete a branch with unique commits.
+
+4. RE-DERIVATION / TERMINATION — UNCHANGED
+TEO temporal-authorship success remains distinct from later single-still transfer failures.
+VID-01, R0, Hero Method 01 and Hero Method 02 all have written success and/or termination states.
+D-R1 Phase 6 remains NOT TRIGGERED.
+
+5. PHASE 2 CONSEQUENCE
+Phase 2 mechanical work must consume classification v2, not v1.
+Current Markdown corpus before generated INDEX remains 281: the 280 baseline documents plus docs/PRIOR_CONVERGENCE_EVIDENCE.md.
+Expected final corpus after generated docs/INDEX.md: 282 Markdown documents.
+Expected final status totals:
+- ACTIVE LAW: 42
+- SUPERSEDED: 9
+- HISTORICAL EVIDENCE: 220
+- UNCLASSIFIED: 11
+
+Historical body text must remain unchanged except for the separate D-R1 machine-status prefix. The 11 UNCLASSIFIED cases remain unresolved until explicit reconciliation.
+
+RECURSIVE RE-AUDIT
+- Raw Astra headline counts recomputed from supplied artifacts: PASS.
+- Branch 6/36 split and exact six names: PASS.
+- Smoke 21/2/0 and failure records: PASS.
+- Classification v1 challenged against raw literal status/role evidence: FAIL, corrected.
+- Classification v2 partitions all 280 baseline paths exactly once: PASS.
+- No design score/evaluation, prototype, asset, Method 02 disposition, branch ref, publication root or Cloudflare root changed: PASS.
+- One complete pass after the six classification corrections found no additional material correction within this Phase 0 boundary: CLEAN.
+
+PHASE 0 DISPOSITION
+COMPLETE / CLEAN UNDER CLOSURE 02.
+Phase 2 may proceed only from D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json.
