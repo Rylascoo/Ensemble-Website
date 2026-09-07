@@ -46,6 +46,8 @@ Canonical:
 - `docs/evidence/renderer/C04-ACLT-01_STAGE07_STERILE_RENDERER_PACKET.txt`
 - `docs/evidence/HERO_CANDIDATE_04_METHOD_02_STAGE_07_RECURSIVE_AUDIT.md`
 
+Drive Stage 07 folder: `1huqAz8kaRABM7xOZuOw5BPMDPmEqWExo`.
+
 Proposed later execution accounting: `METHOD02-R04-C04`; one isolated renderer request; one image; zero free rerolls; exact sanitized Stage 06 structural reference + frozen sterile packet; stop after returned candidate and evaluate under unchanged frozen post-render law.
 
 ## Current boundary
