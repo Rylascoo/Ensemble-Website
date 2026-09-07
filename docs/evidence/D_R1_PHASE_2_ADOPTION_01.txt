@@ -1,0 +1,52 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 2 ADOPTION 01
+
+Status: COMPLETE / CLEAN / ADOPTED BY STANDING DIRECTOR DELEGATION
+Date: 2026-09-07
+
+BASELINE
+main before adoption: 0d72276f554ea5d600f5eb277bcc4940233cdff7
+implementation branch: design/d-r1-phase-2-document-status-index-ci
+implementation head: 5b36975655b870d4270808200b6f9bee59a43ebd
+semantic authority: docs/evidence/D_R1_DOCUMENT_STATUS_CLASSIFICATION_02.json
+mechanical task: docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_02.txt
+
+ASTRA RETURN
+- one commit, 284 changed files;
+- 280 pre-existing Markdown files changed by header insertion only;
+- docs/INDEX.md added;
+- tools/generate_docs_index.py added;
+- tools/validate_document_status.py added;
+- .github/workflows/document-status.yml added;
+- 282 Markdown total;
+- 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED;
+- generator --check PASS;
+- validator PASS;
+- mechanical audit PASS;
+- git diff --check PASS;
+- clean worktree after commit/push;
+- no prototypes/assets/Cloudflare/design-outcome changes.
+
+SOL INDEPENDENT REMOTE AUDIT
+1. Branch remote head resolved at exactly 5b36975655b870d4270808200b6f9bee59a43ebd.
+2. Compare against baseline main returned ahead_by=1, behind_by=0, merge base exactly baseline main.
+3. Every pre-existing Markdown path in the compare showed +2/-0; the only added files were INDEX, two tools and one workflow. No prototype or asset path appeared.
+4. Representative ACTIVE LAW, SUPERSEDED, HISTORICAL EVIDENCE and UNCLASSIFIED documents were read back and matched classification v2.
+5. docs/INDEX.md readback reported 282 total and the expected four group counts; all 11 UNCLASSIFIED paths remained explicit.
+6. Generator and validator source were inspected for first-line canonical-header parsing, four-value enum enforcement, deterministic sorted index generation, idempotence and byte-for-byte index validation.
+7. GitHub Actions run 34169485152 executed at exact head 5b36975655b870d4270808200b6f9bee59a43ebd and concluded success. Checkout and Validate document structure steps both concluded success.
+8. Recursive audit found no semantic overreach, body rewrite, status-count drift, index drift, prototype/asset change, classification improvisation or scope creep.
+
+GIT TRANSPORT INCIDENT
+During Astra push, git-remote-https.exe crashed with a Windows application error referencing unreadable null memory. Astra retried outside the sandbox with a command-scoped ownership exception, completed push, resolved the remote branch/head, reran local validations, and stopped without merge. Sol independently confirmed the remote commit and successful hosted CI. The incident is therefore treated as a local Git-for-Windows/sandbox transport failure, not repository-content corruption.
+
+ADOPTION
+Clean recursive audit earned approval under standing Director delegation.
+main was fast-forwarded to 5b36975655b870d4270808200b6f9bee59a43ebd without force and without a merge commit.
+
+PHASE 2 RESULT
+COMPLETE / ADOPTED.
+Current machine-status corpus: 282 Markdown documents = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED.
+UNCLASSIFIED remains valid reconciliation debt; Phase 2 does not resolve those 11 documents.
+
+NEXT STRUCTURAL GATE
+D-R1 Phase 3 branch archival/disposal. Freshly verify every candidate against then-current main. Only zero-unique strict ancestors may be archived; create a preservation tag at the exact branch head before branch deletion. Never delete a branch with unique commits.
