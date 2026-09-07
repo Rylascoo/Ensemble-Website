@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="960" viewBox="0 0 1536 960">
+  <rect width="1536" height="960" fill="#ffffff"/>
+  <g id="transfer-proxy" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Shared finite-width field continues beyond both frame edges; Stage 06 core geometry x620..1300 is exact. -->
+    <path id="field-mass" fill="#b8b8b8" stroke="none" d="
+      M-64 590 L620 590
+      C660 590 690 590 720 590
+      C745 592 760 622 782 655
+      C805 692 835 710 870 700
+      C918 686 958 622 990 568
+      C1024 510 1062 486 1100 500
+      C1145 516 1180 556 1220 590
+      C1245 590 1270 590 1300 590
+      L1600 590 L1600 670 L1300 670
+      C1270 670 1245 670 1220 670
+      C1180 636 1145 596 1100 580
+      C1062 566 1024 590 990 648
+      C958 702 918 766 870 780
+      C835 790 805 772 782 735
+      C760 702 745 672 720 670
+      C690 670 660 670 620 670
+      L-64 670 Z"/>
+    <path id="field-upper-boundary" fill="none" stroke="#2f2f2f" stroke-width="5" d="M-64 590 L620 590
+      C660 590 690 590 720 590
+      C745 592 760 622 782 655
+      C805 692 835 710 870 700
+      C918 686 958 622 990 568
+      C1024 510 1062 486 1100 500
+      C1145 516 1180 556 1220 590
+      C1245 590 1270 590 1300 590 L1600 590"/>
+    <path id="field-lower-boundary" fill="none" stroke="#2f2f2f" stroke-width="5" d="M-64 670 L620 670
+      C660 670 690 670 720 670
+      C745 672 760 702 782 735
+      C805 772 835 790 870 780
+      C918 766 958 702 990 648
+      C1024 590 1062 566 1100 580
+      C1145 596 1180 636 1220 670
+      C1245 670 1270 670 1300 670 L1600 670"/>
+    <path id="field-secondary-correspondence" fill="none" stroke="#737373" stroke-width="4" d="M-64 630 L620 630
+      C660 630 690 630 720 630
+      C745 632 760 662 782 695
+      C805 732 835 750 870 740
+      C918 726 958 662 990 608
+      C1024 550 1062 526 1100 540
+      C1145 556 1180 596 1220 630
+      C1245 630 1270 630 1300 630 L1600 630"/>
+
+    <!-- A/B share one neutral technical value; identity is geometry only. -->
+    <ellipse id="A-head" cx="846" cy="322" rx="54" ry="62" fill="#454545"/>
+    <path id="A-body" fill="#454545" d="M810 385
+      C835 365 875 365 900 390
+      L875 610
+      C870 655 852 686 826 700
+      C797 696 772 660 777 610
+      Z"/>
+    <path id="A-forearm" fill="#454545" d="M884 391
+      C920 392 960 392 1002 397
+      L1004 411
+      C960 414 922 414 884 413
+      Z"/>
+
+    <ellipse id="B-head" cx="1112" cy="305" rx="42" ry="50" fill="#454545"/>
+    <path id="B-body" fill="#454545" d="M1076 365
+      C1092 350 1124 350 1140 368
+      L1152 474
+      C1152 496 1134 510 1112 510
+      C1092 510 1082 497 1084 475
+      Z"/>
+    <path id="B-forearm" fill="#454545" d="M1114 393
+      C1076 394 1040 398 996 406
+      L995 420
+      C1040 415 1077 414 1114 414
+      Z"/>
+  </g>
+</svg>
