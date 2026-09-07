@@ -1,0 +1,152 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 ASTRA MECHANICAL CENSUS TASK 01
+
+MODE: READ-ONLY EXTERNAL SPECIALIST VERIFICATION
+REPOSITORY: Rylascoo/Ensemble-Website
+AUTHORITY: repository state is authoritative; this task creates evidence only
+
+PURPOSE
+
+Complete the remaining D-R1 mechanical census that is inefficient through conversational GitHub calls. Do not perform design reasoning, redesign, semantic disposition, repository restructuring, branch deletion, tagging, status backfill, index creation, publication changes, or documentation edits.
+
+START
+
+1. Fetch the authoritative remote repository and resolve current `main` fresh.
+2. Record the exact main HEAD SHA before doing anything else.
+3. Verify the expected gross shape before continuing:
+   - 280 Markdown (`*.md`) files on current main;
+   - 23 HTML files under `prototypes/`;
+   - 43 remote branches including `main`.
+4. If any expected gross count differs, STOP and report the observed count and HEAD. Do not “fix” anything.
+
+The 280 Markdown expectation is the pre-restructure census of 278 plus Phase 1 `AGENTS.md` and `docs/evidence/DESIGN_LEDGER.md`. This `.txt` task file intentionally does not change the Markdown count.
+
+NON-NEGOTIABLE PROHIBITIONS
+
+- No repository writes.
+- No commits, pushes, PRs, branches, tags, merges, rebases, cherry-picks, resets or branch deletion.
+- No modification of `prototypes/`, `assets/`, scores, evaluations, frozen law, Method 02 state, Cloudflare configuration or publication root.
+- No semantic ACTIVE/SUPERSEDED/HISTORICAL classification decisions.
+- No design recommendation and no Candidate 06 disposition.
+- Do not install dependencies into the repository or commit lockfile/tool changes merely to run checks.
+
+TASK A — MARKDOWN CORPUS CENSUS
+
+For every one of the 280 Markdown files, emit one machine-readable record with at least:
+
+- `path`
+- `line_count` (physical lines; state the exact counting command/method)
+- `last_touch_commit_sha`
+- `last_touch_committer_date_iso8601`
+- `first_heading` (if any)
+- `explicit_status_text` (only status text literally present near the document header; null if none — do not interpret it)
+
+Compute two separate inbound-reference graphs so definition ambiguity remains visible instead of being hidden:
+
+A1. `markdown_link_inbound`
+- Parse Markdown links in all Markdown files.
+- Resolve relative repository-local link targets against the source file location.
+- Ignore external URLs, anchors-only links, images unless they target a Markdown document, and targets outside the repository.
+- Normalize `.` / `..`, URL-escaped spaces, and fragment suffixes before matching.
+- Count unique source Markdown files that link to each Markdown target.
+
+A2. `exact_path_mention_inbound`
+- Search repository text files for exact repository-relative Markdown paths, including backticked/plain path references.
+- Count unique source files containing the exact normalized path.
+- Do not treat a bare basename as an exact-path reference unless the literal repository-relative path is present.
+
+For each Markdown document report both counts and both source lists.
+
+Then report exactly:
+
+- count + list of documents with zero `markdown_link_inbound`;
+- count + list of documents with zero `exact_path_mention_inbound`;
+- count + list zero under BOTH definitions;
+- any links that resolve to missing local Markdown targets.
+
+Do not collapse these into one invented definition of “zero inbound.” Sol High will reconcile the two graphs.
+
+TASK B — REMOTE BRANCH CENSUS
+
+Enumerate every remote branch. For each branch emit:
+
+- branch name
+- head SHA
+- head committer date ISO-8601
+- head tree SHA
+- whether head tree SHA equals main head tree SHA
+- commits unique to branch relative to main
+- commits main has beyond branch relative to branch
+- whether branch head is an ancestor of main
+- merge-base SHA
+
+Use Git-native ancestry/count commands against fetched refs; state the exact commands.
+
+Cross-check the prior connected-GitHub result, but do not assume it is correct:
+
+Prior result at an earlier main checkpoint:
+- 42 non-main branches total;
+- 6 zero-unique strict ancestors;
+- 36 branches with >=1 unique commit.
+
+The six previously observed zero-unique strict ancestors were:
+
+1. Site
+2. design/lane-a-archive-causality-2026-09-05
+3. design/lane-a-character-recasting-2026-09-05
+4. design/lane-a-long-scene-2026-09-05
+5. design/lane-a-take-acceptance-2026-09-05
+6. visual/v0-5-fresh-palette-handoff
+
+If fresh results differ, report the difference; repository state wins.
+
+TASK C — 23-PROTOTYPE BROWSER / CONSOLE SMOKE
+
+Verify every HTML file under `prototypes/` (expected exactly 23) with an actual headless browser if an already-available browser/runtime exists in the Codex environment.
+
+For each file report:
+
+- path
+- load attempted: yes/no
+- HTTP/file load success
+- uncaught page errors
+- console messages at severity `error`
+- failed local-resource requests
+- final PASS only when it loads and produces no uncaught page error, console error, or failed local resource required by the page
+
+Prefer serving the repository from a temporary local HTTP server rather than mutating source files.
+
+If no suitable browser/runtime is already available, report `BROWSER_SMOKE_UNAVAILABLE` and the exact missing capability. Do not modify the repository or spend the task installing a project dependency to simulate success.
+
+TASK D — OUTPUT / SELF-AUDIT
+
+Return four artifacts or clearly delimited machine-readable sections:
+
+1. `d_r1_markdown_census.json`
+2. `d_r1_branch_census.json`
+3. `d_r1_prototype_smoke.json`
+4. `d_r1_mechanical_census_summary.md`
+
+Summary must include:
+
+- main HEAD audited;
+- gross counts;
+- exact zero-inbound counts under both graph definitions and their intersection;
+- missing/broken Markdown link count;
+- exact number of zero-unique strict-ancestor branches;
+- exact number of branches with unique commits;
+- prototype PASS/FAIL/UNAVAILABLE count;
+- commands/methods used;
+- any limitation that makes a count non-authoritative.
+
+Before returning, recursively self-audit the generated results for:
+
+- all 280 Markdown paths represented exactly once;
+- all 43 remote branches represented exactly once;
+- all 23 prototype HTML paths represented exactly once;
+- counts recompute from the emitted records;
+- no write operation occurred;
+- no semantic/project-law conclusion was smuggled into a mechanical field.
+
+STOP CONDITION
+
+Stop after returning the evidence. Do not propose or implement Phase 2, Phase 3, design changes, branch deletion, status classifications, or publication changes. Sol High will reconcile and decide the next authorized action.
