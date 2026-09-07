@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="960" viewBox="0 0 1536 960">
+<rect width="1536" height="960" fill="white"/>
+<g id="field" fill="none" stroke="black" stroke-linejoin="round" stroke-linecap="round">
+  <path id="upper" stroke-width="6" d="M0 620 L700 620
+    C748 620 775 623 797 636
+    C815 647 825 660 842 668
+    C858 676 878 678 897 668
+    C920 656 942 630 960 596
+    C980 558 1004 522 1032 500
+    C1060 478 1092 474 1118 489
+    C1146 506 1164 540 1188 574
+    C1212 608 1240 620 1285 620 L1536 620"/>
+  <path id="lower" stroke-width="6" d="M0 700 L700 700
+    C748 700 775 701 797 706
+    C817 711 835 717 852 721
+    C870 725 890 724 908 716
+    C930 706 950 688 968 664
+    C990 636 1016 616 1043 606
+    C1070 596 1096 596 1120 606
+    C1148 618 1168 642 1192 666
+    C1218 692 1244 700 1285 700 L1536 700"/>
+  <path id="secondary" stroke-width="3" d="M0 660 L700 660
+    C748 660 775 662 797 671
+    C816 679 830 689 847 695
+    C864 701 884 701 903 692
+    C925 681 946 659 964 630
+    C985 597 1010 569 1038 553
+    C1066 537 1094 535 1119 547
+    C1147 561 1166 591 1190 620
+    C1215 650 1242 660 1285 660 L1536 660"/>
+</g>
+<g id="A" fill="none" stroke="black" stroke-width="6" stroke-linejoin="round">
+  <ellipse cx="755" cy="492" rx="50" ry="57"/>
+  <ellipse cx="835" cy="610" rx="115" ry="86" transform="rotate(-18 835 610)"/>
+  <path id="A-forearm" d="M892 500 C930 484 966 462 1000 430 L1010 443 C974 476 938 500 900 517 Z"/>
+  <line x1="875" y1="470" x2="850" y2="661" stroke-width="3"/>
+</g>
+<g id="B" fill="none" stroke="black" stroke-width="6" stroke-linejoin="round">
+  <ellipse cx="1142" cy="274" rx="42" ry="50"/>
+  <path d="M1109 334 C1128 318 1154 320 1171 338 L1180 438 C1182 469 1172 497 1158 520 L1128 548 C1102 538 1090 513 1092 482 L1097 372 Z"/>
+  <path id="B-forearm" d="M1110 393 C1074 396 1038 407 1004 432 L1008 447 C1042 426 1078 416 1114 415 Z"/>
+  <line x1="1070" y1="400" x2="1125" y2="535" stroke-width="3"/>
+</g>
+<g id="audit" visibility="hidden" fill="none" stroke="black" stroke-width="2" stroke-dasharray="10 8">
+ <circle cx="850" cy="661" r="12"/>
+ <circle cx="1125" cy="535" r="12"/>
+ <circle cx="875" cy="470" r="10"/>
+ <circle cx="1070" cy="400" r="10"/>
+ <circle cx="1280" cy="560" r="10"/>
+ <circle cx="990" cy="438" r="10"/>
+ <rect x="554" y="0" width="767" height="960"/>
+ <rect x="640" y="180" width="660" height="670"/>
+</g>
+</svg>
