@@ -1,6 +1,6 @@
 # KYMAEAN — HERO METHOD 02 VISUAL / MECHANISM DIRECTION INVESTIGATION 02
 
-Status: **ANALYSIS COMPLETE / SPECIFIC-DIRECTION DIRECTOR GATE REQUIRED / NO CANDIDATE 04 AUTHORIZED**  
+Status: **ANALYSIS COMPLETE / RECURSIVELY CORRECTED / SPECIFIC-DIRECTION DIRECTOR GATE REQUIRED / NO CANDIDATE 04 AUTHORIZED**  
 Date: 2026-09-06
 
 ## 0. Purpose
@@ -59,9 +59,11 @@ Each direction is tested prospectively against these construction questions:
 - Does removing either person materially collapse that proposition?
 - Is baseline recoverable from at least two visible geometric correspondences?
 - Does restoring baseline physically remove the altered possibility rather than merely reducing convenience?
+- Is the physical coupling itself visible enough to infer from one still without hidden force diagrams?
 - Can people remain the meaningful event rather than the mechanism/environment?
 - Can all core evidence plausibly fit the fixed mobile semantic envelope?
 - Does the direction avoid private-state dependence and ordinary-task/accident shorthand?
+- Does it avoid one small hinge/pivot/clue carrying nearly all changed-state meaning?
 - Is it genuinely different from the already-tested independent-support and divider/access mechanisms?
 
 The comparative scores below are design-analysis estimates only. They are not frozen gate scores and create no new thresholds.
@@ -80,7 +82,7 @@ Potential relation examples remain unselected at this stage: direct hand/forearm
 
 **Method 02 strengths:**
 
-- strongest path to two-person irreducibility: remove A -> coupled displacement disappears; remove B -> altered possibility is no longer instantiated and the human proposition collapses;
+- strongest path to two-person irreducibility: remove A -> coupled displacement disappears; remove B -> the altered human consequence is no longer instantiated and the shared proposition collapses;
 - gravity / load gives an external physical reference law already validated by Round 03;
 - baseline restoration can simultaneously remove the deformation and B's altered position;
 - changed-state legibility can be designed with visible continuity + repeated baseline correspondence rather than inferred smooth topography;
@@ -93,15 +95,20 @@ Potential relation examples remain unselected at this stage: direct hand/forearm
 - if the deformation is too monumental, S1 fails again;
 - if A appears to operate or intentionally control the field, the image may drift toward task/mechanism demonstration;
 - if the human relation is emotionally theatrical, it can replace causal clarity with melodrama;
-- coupled displacement must be visually plausible enough to read without hidden force diagrams.
+- coupled displacement may remain understandable only from hidden physics if the visible geometry does not connect A's load region to B's displaced region;
+- a local pivot/lip can become a dominant clue mechanism, violating the human-first burden.
 
 **Safeguards if later selected:**
 
 - one broad continuous field, not a device with a pivot/control;
 - no visible mechanical hardware, cables or engineered actuator;
 - changed geometry includes at least two redundant baseline correspondences inside/near the mobile envelope;
+- the coupling path itself must be visibly continuous from A's load region toward B's displaced region through contour, level, boundary or deformation continuity; prompt knowledge cannot supply the coupling;
+- no single hinge, pivot, raised lip or one spectacular local effect may carry the entire change/coupling claim;
 - no independent support under B that preserves B's altered position after A removal or baseline restoration;
 - A's load role is passive bodily occupancy, not operation/manipulation;
+- B's altered position must be what enables the shared A↔B human consequence; B cannot already obtain essentially the same relation from the baseline position;
+- B's removal must collapse the depicted altered human consequence, not merely reduce the headcount of an otherwise complete A-only mechanism demonstration;
 - B's changed position and the A↔B human relation are visually more salient than the field;
 - A/B figure geometry is intentionally asymmetric so swapping/genericizing weakens the proposition.
 
@@ -281,13 +288,13 @@ D1 is strongest because it changes the dependency graph itself:
 
 `Person A bodily load`
 `↓`
-`one visible changed continuous field / coupled displacement`
+`one visibly coupled changed continuous field`
 `↓`
 `Person B physically gains a body position unavailable under baseline`
 `↓`
 `one direct A↔B human relation becomes possible`
 
-This yields distinct observable jobs instead of duplicate mechanism use.
+The coupling must be visible in the still rather than supplied by prose. This yields distinct observable jobs instead of duplicate mechanism use.
 
 ## 6. Recommended specific visual / mechanism direction
 
@@ -295,21 +302,23 @@ This yields distinct observable jobs instead of duplicate mechanism use.
 
 Proposed commitment, if separately Director-approved:
 
-> Construct Candidate 04 around two visually distinct adults in one continuous, visibly changed field where **Person A's passive body load is physically coupled through the changed field to create Person B's otherwise unavailable body position, and that B position enables one direct human relation between A and B.** Restoring the visible baseline or removing Person A must physically remove B's altered position; removing Person B must remove the altered human relation itself. The people, not the field, remain the primary meaningful event.
+> Construct Candidate 04 around two visually distinct adults in one continuous, visibly changed field where **Person A's passive body load is visibly coupled through the field's changed geometry to create Person B's otherwise unavailable body position, and that B position enables one direct human relation between A and B.** Restoring the visible baseline or removing Person A must physically remove B's altered position and therefore that human relation; removing Person B must remove the depicted altered human consequence rather than leave an essentially complete A-only mechanism proposition. The people, not the field, remain the primary meaningful event.
 
 ### Direction laws for later Method 02 construction
 
 1. **One irreducible pair proposition.** A and B perform different observable jobs in one causal relation; no two independent demonstrations.
 2. **Passive load source.** A does not operate, repair, hold open, manipulate or intentionally control the field. A's bodily occupancy supplies the visible load.
 3. **Altered-position occupant.** B's exact position must depend on the coupled changed geometry and must become physically unavailable under baseline restoration or A removal.
-4. **Direct human relation.** B's altered position produces one externally visible A↔B relation. Exact gesture remains unselected until Candidate 04 construction.
-5. **Non-swappable geometry.** A and B must use visibly different body-axis / scale / contact geometry so the construction does not reduce to interchangeable generic occupants.
-6. **Redundant change evidence.** At least two independent geometric correspondences between baseline and changed portions of the same field must survive inside/near the fixed mobile envelope.
-7. **No alternate support.** No visible floor/ledge/seat/secondary contact may preserve B's exact altered position after A removal or baseline restoration.
-8. **Mechanism subordinate.** The coupled field must not read as a seesaw, pressure device, furniture system, rig, monumental installation or spectacle protagonist.
-9. **Responsive-first.** Both people, the relevant baseline witnesses, the coupled changed segment, B's altered position and the direct human relation must fit inside the Method 02 mobile semantic envelope before any aesthetic rendering.
-10. **No private-state or ordinary-task dependence.** The relation is physical and externally observable; no knowledge, motive, emotion, rescue, work task or accident is required.
-11. **No direction-level style selection.** Material substance, palette, clothing, setting, camera treatment, rendering technique and exact deformation geometry remain unselected.
+4. **Direct human relation.** B's altered position produces one externally visible A↔B relation that B could not obtain in the recoverable baseline geometry. Exact gesture remains unselected until Candidate 04 construction.
+5. **Visible coupling path.** The still must visibly connect A's load zone to B's displaced zone through continuous field geometry; hidden force-vector reasoning cannot be necessary.
+6. **Non-swappable geometry.** A and B must use visibly different body-axis / scale / contact geometry so the construction does not reduce to interchangeable generic occupants.
+7. **Redundant change evidence.** At least two independent geometric correspondences between baseline and changed portions of the same field must survive inside/near the fixed mobile envelope.
+8. **Distributed causal evidence.** No single hinge, pivot, lip, crease, clue or spectacular local effect may carry the complete changed-state/coupling claim.
+9. **No alternate support.** No visible floor/ledge/seat/secondary contact may preserve B's exact altered position after A removal or baseline restoration.
+10. **Mechanism subordinate.** The coupled field must not read as a seesaw, pressure device, furniture system, rig, monumental installation or spectacle protagonist.
+11. **Responsive-first.** Both people, the relevant baseline witnesses, A's load zone, the visible coupling path, B's altered position and the direct human relation must fit inside the Method 02 mobile semantic envelope before any aesthetic rendering.
+12. **No private-state or ordinary-task dependence.** The relation is physical and externally observable; no knowledge, motive, emotion, rescue, work task or accident is required.
+13. **No direction-level style selection.** Material substance, palette, clothing, setting, camera treatment, rendering technique and exact deformation geometry remain unselected.
 
 ## 7. Why this direction outranks the alternatives
 
@@ -318,11 +327,12 @@ It is the only investigated family that simultaneously offers:
 - direct two-person semantic irreducibility;
 - the gravity/load observability that succeeded in Round 03;
 - a clear way to restore changed-state legibility through Method 02 redundant baseline witnesses;
+- a visible causal bridge rather than two independent affordances;
 - a human relation capable of carrying S1 rather than leaving the field as protagonist;
 - a compact causal chain that can be preconstructed inside the responsive envelope;
 - meaningful experimental difference from both the Round 02 divider/contact family and Round 03 independent-support field.
 
-The main remaining risks are known and falsifiable **before rendering**: seesaw/contraption drift, B alternate support, field spectacle, generic interchangeability and insufficient visible coupling.
+The main remaining risks are known and falsifiable **before rendering**: seesaw/contraption drift, invisible coupling, B alternate support, field spectacle, generic interchangeability, single-clue mechanism dominance and insufficient baseline evidence.
 
 ## 8. Boundary / Director gate
 
