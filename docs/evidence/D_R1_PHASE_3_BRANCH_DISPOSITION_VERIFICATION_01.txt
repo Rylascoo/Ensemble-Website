@@ -1,0 +1,69 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 3 BRANCH DISPOSITION VERIFICATION 01
+
+Status: VERIFICATION COMPLETE / REF DISPOSITION NOT EXECUTED
+Date: 2026-09-07
+
+VERIFICATION BASELINE
+current main: 224fddb9bfe527c8e448bfea06824f485503ef73
+
+RULE
+Only a zero-unique strict ancestor may be archived. Before branch deletion, create a preservation tag at the exact branch head. Never delete a branch containing unique commits.
+
+FRESHLY VERIFIED ELIGIBLE SET
+Each compare below returned status=behind, ahead_by=0, and merge-base equal to the branch head; therefore each is a zero-unique strict ancestor of the stated main baseline.
+
+1. Site
+   head: 40da8b95ea549f0249a9fa8009561891d0836294
+   main beyond branch: 193 commits
+   proposed preservation tag: archive/d-r1-phase3/Site
+
+2. design/lane-a-archive-causality-2026-09-05
+   head: e0a39195e118d6a989fbcce487ffb28e958e600c
+   main beyond branch: 282 commits
+   proposed preservation tag: archive/d-r1-phase3/design/lane-a-archive-causality-2026-09-05
+
+3. design/lane-a-character-recasting-2026-09-05
+   head: a6ad604bcf12f0e7710439aec9c58ca1ce5a77df
+   main beyond branch: 278 commits
+   proposed preservation tag: archive/d-r1-phase3/design/lane-a-character-recasting-2026-09-05
+
+4. design/lane-a-long-scene-2026-09-05
+   head: 2bd03fb1534ba9f4ac9e22431fdd8e443544c061
+   main beyond branch: 273 commits
+   proposed preservation tag: archive/d-r1-phase3/design/lane-a-long-scene-2026-09-05
+
+5. design/lane-a-take-acceptance-2026-09-05
+   head: 9caa81c70ea4d1a359a05e5f0a53555916dcbe43
+   main beyond branch: 286 commits
+   proposed preservation tag: archive/d-r1-phase3/design/lane-a-take-acceptance-2026-09-05
+
+6. visual/v0-5-fresh-palette-handoff
+   head: 39bab8f53d5589975d7941d20c576d242a67a42d
+   main beyond branch: 522 commits
+   proposed preservation tag: archive/d-r1-phase3/visual/v0-5-fresh-palette-handoff
+
+7. design/d-r1-phase-2-document-status-index-ci
+   head: 5b36975655b870d4270808200b6f9bee59a43ebd
+   main beyond branch: 4 commits
+   proposed preservation tag: archive/d-r1-phase3/design/d-r1-phase-2-document-status-index-ci
+
+WHY THE SET GREW FROM SIX TO SEVEN
+The Phase 0 census predated the Phase 2 implementation branch. After Sol adopted Phase 2 by fast-forward and then added Phase 2 closure/current-state commits, that work branch became a zero-unique strict ancestor. It is therefore eligible under the same rule after fresh verification.
+
+UNIQUE-BRANCH SAFETY
+The 36 non-main branches that contained unique commits at the Phase 0 census remain protected. Since that census, main advanced only through descendant commits from its own lineage plus the Phase 2 work branch; none of those 36 branch commit histories was merged. Their unique commits therefore did not become ancestors of main. No unique branch is admitted to this disposal set.
+
+EXECUTION CONTRACT
+A tag/delete-capable Git surface must, immediately before each disposition:
+1. fetch current origin/main and the target branch;
+2. verify `git rev-list --count origin/main..origin/<branch>` = 0;
+3. verify `git merge-base --is-ancestor origin/<branch> origin/main` succeeds;
+4. verify target head still equals the SHA recorded above, or stop and re-audit if it moved;
+5. create and push the proposed lightweight preservation tag at the exact target head;
+6. verify the remote tag resolves to that exact SHA;
+7. delete only the corresponding remote branch;
+8. verify the branch is absent and the preservation tag remains;
+9. repeat one branch at a time; stop on any mismatch.
+
+BOUNDARY
+No tag or branch deletion was executed by Sol in this verification because the connected GitHub write surface exposes branch/file updates but not tag creation or branch-ref deletion. Do not substitute a preservation branch for the required tag. Do not weaken the strict-ancestor rule.
