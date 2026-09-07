@@ -8,23 +8,27 @@ Engineering/product truth: `Rylascoo/Ensemble-Project`.
 Design/brand truth: `Rylascoo/Ensemble-Website`.
 Visual asset/continuity authority: Google Drive `Ensemble Project`.
 
-Fresh-read this file first. For current hero work, then read the current authority chain in this order:
+Fresh-read this file first.
 
-1. Hero Artwork Brief 02;
+For current hero work, read the authority chain in this order:
+
+1. `docs/KYMAEAN_LANE_B_WEBSITE_V0_HERO_ARTWORK_BRIEF_02.md`;
 2. ODR-33 resolved hero definition;
-3. Hero Surface Ownership Operational Definition 01;
-4. frozen Hero Surface Ownership Falsification Criteria 01;
-5. frozen Hero Surface Escape Gate 01;
-6. Director-approved/frozen Hero Renderer Method 01;
+3. `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_OPERATIONAL_DEFINITION_01.md`;
+4. `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` — frozen;
+5. Drive `KYMAEAN_HERO_SURFACE_ESCAPE_GATE_01.md` — frozen;
+6. `docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` — frozen;
 7. corrected/re-frozen Hero Integration Harness 01;
-8. Round 01 evaluation + harness completion;
-9. Round 02 specification / sterile packet / pre-render package / execution-integrity correction / replacement authorization / evaluation / provenance + closure;
-10. Hero Constraint Reconciliation 01 + recursive audit + Director Option A decision;
-11. Hero Mechanism-Class Investigation 01 + recursive audit;
-12. Candidate 03 mechanism-direction Director approval;
-13. Candidate 03 specification + recursive audit + Director approval;
-14. Sterile Renderer Packet 03;
-15. Pre-Render Review Package 03 + recursive audit + Director approval.
+8. Round 01 evaluation/closure;
+9. Round 02 specification, execution-integrity correction, replacement authorization, evaluation/closure;
+10. Hero Constraint Reconciliation 01 + Director Option A;
+11. Hero Mechanism-Class Investigation 01;
+12. Candidate 03 mechanism direction/specification approvals;
+13. Sterile Renderer Packet 03 + Pre-Render Review Package 03 + Director approval;
+14. `docs/evidence/HERO_QUALIFYING_ROUND_03_EVALUATION_01.md`;
+15. `docs/evidence/HERO_QUALIFYING_ROUND_03_PROVENANCE_AND_CLOSURE_01.md`;
+16. `docs/KYMAEAN_HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01.md`;
+17. `docs/evidence/HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01_RECURSIVE_AUDIT.md`.
 
 Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only before engineering/product-truth claims.
 
@@ -34,13 +38,13 @@ Quiet Stage, Site Spine 01, Mineral Theater, Bounded Chorus, Causal Scar and Pos
 
 Threshold K remains a non-final working symbol/control. O3 remains the temporary wordmark incumbent/source. Lane A is untouched.
 
-ODR-33 is RESOLVED:
+ODR-33 remains resolved:
 
 > hero = human presence + changed shared condition + living consequence + altered present possibility.
 
-Exact prior-author recovery is advisory only; exact deterministic authorship belongs later.
+Exact prior-author recovery is advisory only.
 
-Hero Brief 02 hard floors, no compensating average:
+Hero Brief 02 hard floors; no compensating average:
 
 - Human Necessity >= 4;
 - Changed-condition legibility >= 4;
@@ -54,7 +58,7 @@ Hero Brief 02 hard floors, no compensating average:
 
 ## Frozen execution / evaluation law
 
-`docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md` = DIRECTOR APPROVED / FROZEN.
+Falsification Criteria 01 = DIRECTOR APPROVED / FROZEN.
 
 Stop law:
 
@@ -62,186 +66,199 @@ Stop law:
 - three failed qualifying rounds -> `THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED`;
 - no automatic fourth round.
 
-`docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` = DIRECTOR APPROVED / FROZEN.
+Renderer Method 01 = DIRECTOR APPROVED / FROZEN.
 
-Qualifying execution requires fresh isolated Renderer Context, exactly one judgeable candidate per consumed round except genuine technical nulls, no free rerolls/same-context correction chains, unchanged harness, independent scoring and pixel-based material-difference judgment.
+Qualifying execution requires fresh isolated Renderer Context, exactly one judgeable candidate per consumed round except genuine technical nulls, no free rerolls/same-context correction chains, unchanged deterministic harness, independent scoring and pixel-based material-difference judgment.
 
 Hero Integration Harness 01 = corrected/re-frozen:
 
 - desktop 1280 x 720, candidate `object-position:50% 50%`, fixed left identity/copy;
-- mobile artwork 390 x 488, candidate `object-position:72% 50%`, separate dark identity band;
+- mobile identity band 390 x 150 + artwork 390 x 488, candidate `object-position:72% 50%`;
 - no candidate-specific scrim, recolor, crop rescue, focal adjustment or alternate render.
 
-Director cadence: routine authorized analysis/audits/archival work proceed without repeated approval chatter; explicit Director gates occur before committing to a specific visual direction and after two consecutive qualifying render failures. Stronger frozen authority always controls.
+Director cadence: routine already-authorized analysis, synthesis, recursive audit, archival and package preparation proceed without repeated approval chatter. Explicit Director authorization is required before committing to a specific visual direction. Stronger frozen gates always control.
 
-## Qualifying Round 01 — COMPLETE / FAIL / CONSUMED
+## Qualifying sequence — CLOSED AT 3 / 3
+
+| Gate | Round 01 | Round 02 | Round 03 |
+| --- | --- | --- | --- |
+| Human Necessity | 3 FAIL | 4 PASS | 3 FAIL |
+| Changed-condition legibility | 2 FAIL | 4 PASS | 3 FAIL |
+| Altered possibility | 2 FAIL | 3 FAIL | 4 PASS |
+| Epistemic restraint | 5 PASS | 5 PASS | 5 PASS |
+| Brand Integration | 3 PASS | 2 FAIL | 4 PASS |
+| Mobile Survival | 3 PASS | 4 PASS | 3 PASS |
+| Removal Test | 2 FAIL | 3 FAIL | 4 PASS |
+| Surface Escape | PASS | PASS | PASS |
+| S1 | FAIL | PASS | FAIL |
+| S2 | PASS | PASS | PASS |
+| S3 | PASS | PASS | PASS |
+| S4 | PASS | PASS | PASS |
+| S5 | PASS | PASS | PASS |
+| S6 | FAIL | FAIL | FAIL |
+
+All three rounds are materially different qualifying outputs.
+
+## Round 01 — COMPLETE / FAIL / CONSUMED
 
 Counter after closure: 1 / 3.
 
-Final:
+Lesson: ordinary-task escape succeeded, but environment-first architectural abstraction weakened Human Necessity, Changed-condition legibility, Altered Possibility, Removal Test and S1.
 
-- Human Necessity 3/5 FAIL;
-- Changed-condition legibility 2/5 FAIL;
-- Altered possibility 2/5 FAIL;
-- Epistemic restraint 5/5 PASS;
-- Brand Integration 3/5 PASS;
-- Mobile Survival 3/5 PASS;
-- Removal Test 2/5 FAIL;
-- Surface Escape PASS;
-- S1 FAIL;
-- S2-S5 PASS;
-- S6 FAIL.
-
-Lesson: ordinary-task escape succeeded, but environment-first architectural abstraction weakened human salience, changed-state legibility and causal altered possibility.
-
-## Qualifying Round 02 — COMPLETE / FAIL / CONSUMED
-
-The first project-context generation was contaminated/non-qualifying. The Director later authorized one replacement isolated execution and confirmed the returned image was the single output from one fresh regular non-project renderer context using approved Sterile Renderer Packet 02 unchanged, with no alternate selected.
+## Round 02 — COMPLETE / FAIL / CONSUMED
 
 Counter after closure: 2 / 3.
 
-Final:
+The valid replacement output came from one fresh isolated renderer context using Sterile Renderer Packet 02 unchanged. The earlier project-context generation remains contaminated/non-qualifying.
 
-- Human Necessity 4/5 PASS;
-- Changed-condition legibility 4/5 PASS;
-- Altered possibility 3/5 FAIL;
-- Epistemic restraint 5/5 PASS;
-- Brand Integration 2/5 FAIL;
-- Mobile Survival 4/5 PASS;
-- Removal Test 3/5 FAIL;
-- Surface Escape PASS;
-- S1-S5 PASS;
-- S6 FAIL.
-
-Actual output was materially different from Round 01 on all four frozen dimensions.
-
-Key semantic finding: the fold is visibly changed and people are human-primary, but restoring the waist-height band could plausibly preserve essentially the same reach/contact. Therefore the changed state was not visibly necessary to the depicted possibility.
-
-Separate integration finding: pale left field failed fixed light Threshold K/O3/copy contrast on desktop; mobile crop survival was strong.
+Round 02 proved that Human Necessity, Changed-condition legibility and S1 can coexist in a human-dominant two-person candidate. It failed because the waist-height fold did not physically make the depicted contact possible; Altered Possibility and Removal Test remained below floor. Desktop brand contrast also failed independently; mobile survival was strong.
 
 Drive evidence folder: `Hero Qualifying Round 02 Evidence` — `1AQg7Aw1rw2g0d1nfEd0Yj0tezbVa_A1O`.
 
-## Reconciliation — COMPLETE / OPTION A DIRECTOR APPROVED
+## Reconciliation after Round 02 — COMPLETE
 
-Rounds 01 and 02 repeated Altered Possibility, Removal Test and S6 failures across materially different qualifying outputs, triggering the frozen suspected-unsatisfiable stop.
+Rounds 01–02 repeated Altered Possibility, Removal Test and S6 failures across materially different qualifying outputs, triggering the frozen suspected-unsatisfiable stop.
 
-Hero Constraint Reconciliation 01 found the smallest repeated root set:
+Hero Constraint Reconciliation 01 identified the smallest repeated root set as:
 
 1. Altered Possibility;
 2. Removal Test.
 
-The evidence did not prove the static hero contract impossible; it showed that two tested mechanisms failed to make the changed condition physically necessary to the depicted present possibility.
-
-Director selected:
+The Director selected:
 
 **OPTION A — PRESERVE CONTRACT / AUTHORIZE NEW MECHANISM-CLASS DESIGN.**
 
-All frozen requirements remain unchanged.
+Mechanism-Class Investigation 01 selected **GRAVITY-DEPENDENT SUPPORT-STATE CAUSALITY** for Candidate 03. The Candidate 03 mechanism direction, specification, Sterile Renderer Packet 03 and Pre-Render Review Package 03 were each separately audited and Director-approved before execution.
 
-## Mechanism-Class Investigation 01 — COMPLETE / AUDITED
+## Round 03 — COMPLETE / QUALIFYING / FAIL / CONSUMED
 
-Highest-value recommendation:
+Director provenance confirmation:
 
-**GRAVITY-DEPENDENT SUPPORT-STATE CAUSALITY**
+- single returned image;
+- one fresh regular non-project image-capable context;
+- approved Sterile Renderer Packet 03 transferred unchanged and alone;
+- no alternate output, refinement or reroll.
 
-Principle:
+The returned 1536 x 961 JPEG is judgeable. Round 03 therefore consumed the third slot before scoring.
 
-> A broad continuous material field has a visibly changed deformation that physically bears human body weight in a way its recoverable baseline state could not. Restoring the baseline must make the depicted body position physically collapse rather than become merely less convenient.
+Counter after closure: **3 / 3**.
 
-Drive mirror folder: `Hero Mechanism-Class Investigation 01` — `1iZ9jvDWAoVijwqdPeeqV2DHWTvw384t8`.
+Authority:
 
-## Candidate 03 — DIRECTOR APPROVED THROUGH PRE-RENDER
+- `docs/evidence/HERO_QUALIFYING_ROUND_03_EVALUATION_01.md`;
+- `docs/evidence/HERO_QUALIFYING_ROUND_03_PROVENANCE_AND_CLOSURE_01.md`.
 
-Mechanism direction approval:
+Drive evidence folder: `Hero Qualifying Round 03 Evidence` — `11Ggh83xDPMtAv9XHbrs0z6bTIWx_WRkv`.
 
-- `docs/evidence/HERO_CANDIDATE_03_MECHANISM_DIRECTION_DIRECTOR_APPROVAL.md`.
+Evidence IDs:
 
-Specification:
+- raw candidate — `1d86cO1eMAck7gMbZlvAwd4-5E9AkGOpv`;
+- desktop Harness 01 composite — `1qiXKZUN27t2cRbss0KJ2Orr0XTTwKj6n`;
+- mobile Harness 01 composite — `1kE6_tEEp5a1fOnG6tJgsAzVDZfw11gwW`;
+- evaluation + closure mirror — `1gQhC-Hz4bkOSIuFKrGqxEH-TxhyLXPEZWlsl8rAQbHc`.
 
-- `docs/KYMAEAN_HERO_QUALIFYING_ROUND_03_CANDIDATE_SPECIFICATION.md`;
-- audit: `docs/evidence/HERO_QUALIFYING_ROUND_03_CANDIDATE_SPECIFICATION_RECURSIVE_AUDIT.md`;
-- Director approval: `docs/evidence/HERO_QUALIFYING_ROUND_03_CANDIDATE_SPECIFICATION_DIRECTOR_APPROVAL.md`.
+### Round 03 key finding
 
-Candidate 03 semantic architecture:
+The gravity-dependent mechanism **succeeded** at the exact repeated causal root:
 
-- exactly two distinct substantial adults;
-- one broad continuous opaque matte field with recoverable simpler baseline and one broad settled changed deformation;
-- Adult A = necessity anchor: substantial body load visibly borne by the changed deformation with no equivalent visible support under baseline restoration;
-- Adult B = shared-condition anchor: comparably substantial and materially borne by another continuation of the same changed field, not witness/helper/observer;
-- restore baseline -> Adult A support geometry disappears -> same depicted body position cannot remain stable against gravity -> living-consequence relation collapses;
-- no ordinary task/accident, rescue/stunt, familiar support carrier, rig/portal, spectacle dominance, private-state dependence or color-only semantics;
-- left identity region naturally dark-to-mid-dark enough for frozen light identity/copy without rescue;
-- fixed 72% mobile crop must retain both adults + baseline + deformation + gravity relation.
+- Altered Possibility = 4/5 PASS;
+- Removal Test = 4/5 PASS.
 
-Drive Candidate 03 folder: `1Kj70AI3Gye9NJNPqsa_NPmALbBfR07jr`.
+The left adult's oblique body position is visibly load-bearing on the deformation and cannot remain in the same physical pose if that geometry is flattened to the simpler field baseline.
 
-## Sterile Renderer Packet 03 — APPROVED FOR EXACTLY ONE EXECUTION
+The failure moved elsewhere:
 
-Primary:
+1. the smooth relief reads too readily as intentional sculptural/topographic seating rather than a reliably recoverable **changed** state -> Changed-condition legibility 3/5 FAIL;
+2. either adult can be removed while the other still demonstrates essentially the same support proposition -> Human Necessity 3/5 FAIL;
+3. the material field therefore regains excessive subject ownership / generic-occupant interchangeability -> S1 FAIL;
+4. the fixed mobile crop retains both people + deformation but removes much of the clearest flatter baseline evidence, so the complete semantic core cannot survive -> S6 FAIL.
 
-- `docs/KYMAEAN_HERO_STERILE_RENDERER_PACKET_03.md`.
+Surface Escape remains PASS under its frozen ordinary-task/accident definition. Do not retroactively convert sculptural/furniture drift into a different Surface Escape rule.
 
-The exact renderer-facing text is frozen and must be transferred unchanged and alone into one fresh regular non-project image-capable context.
+Desktop brand coexistence is strong: Brand Integration 4/5 PASS. Numeric Mobile Survival remains 3/5 PASS.
 
-Critical packet controls:
+Actual Round 03 pixels are materially different from both prior qualifying rounds.
 
-- two large distinct adults;
-- one continuous matte field with visible baseline and broad settled center-right deformation;
-- Adult A pelvis/lower torso plus another substantial body region visibly supported by deformation;
-- Adult A legs extend into negative space; no hidden or secondary body contact may preserve the same position after support removal;
-- Adult B is materially borne by a shallower continuation rather than merely touching/observing;
-- left 35–45% calm, low-information, naturally dark-to-mid-dark;
-- complete causal cluster composed for fixed tall crop;
-- shallow/compressed human-scale grammar, restrained low-saturation matte behavior, broad soft light, low detail/texture;
-- compact Surface Escape constraint;
-- exactly one uninterrupted artwork.
+## THREE-ROUND EXPERIMENTAL EXHAUSTION — ACTIVE
 
-## Pre-Render Review Package 03 — DIRECTOR APPROVED
+Because all three qualifying rounds failed the complete frozen conjunction:
 
-Primary:
+**THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED**
 
-- `docs/KYMAEAN_HERO_PRE_RENDER_REVIEW_PACKAGE_03.md`;
-- recursive audit: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_03_RECURSIVE_AUDIT.md`;
-- Director approval: `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_03_DIRECTOR_APPROVAL.md`.
+Round 04 = **NOT AUTHORIZED**.
 
-The recursive audit closed three material risks before approval:
+This is not proof that the frozen hero contract is logically impossible.
 
-1. alternate body-support loophole for Adult A;
-2. Adult B witness/redundancy risk by requiring real load-bearing participation;
-3. excessive renderer-facing negative-menu seeding.
+## Exhaustion Review 01 — COMPLETE / RECURSIVELY AUDITED
 
-Final audit result before approval:
+Authority:
 
-**COHERENT / FALSIFIABLE / STERILE / AUTHORITY-CONSISTENT.**
+- `docs/KYMAEAN_HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01.md`;
+- `docs/evidence/HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01_RECURSIVE_AUDIT.md`.
 
-Drive Pre-Render Review Package 03 folder: `19SUnVwm42oJ710W0bejJnhDLriMvJY5A`.
+Drive mirrors:
 
-Approval mirror: `Hero Pre-Render Review Package 03 — Director Approval` — `1mf3xLYewBA-N7FK45dmIiKhwnJSx5cszh65OLH-7BpA`.
+- exhaustion review — `1kP_AgXaVgJoq4xE5hUiXrarZ3KVa_Kd0LJoxrK0p6_c`;
+- recursive audit — `1RcmzjFw0UjauK0L_APm2U3wDfHMpUq-4zRAl0tU41sk`.
 
-## Exact current execution state
+### Durable experiment successes
 
-- Round 01 = COMPLETE / FAIL / consumed;
-- Round 02 = COMPLETE / FAIL / consumed;
-- qualifying counter = **2 / 3**;
-- reconciliation = COMPLETE / Option A approved;
-- Candidate 03 mechanism direction = DIRECTOR APPROVED;
-- Candidate 03 specification = DIRECTOR APPROVED;
-- Sterile Renderer Packet 03 = DIRECTOR APPROVED;
-- Pre-Render Review Package 03 = DIRECTOR APPROVED;
-- **exactly one isolated Round 03 execution = AUTHORIZED / NOT YET RETURNED**;
-- Round 03 counter consumption = NOT YET;
-- Round 04 = NOT AUTHORIZED;
-- final hero = NOT SELECTED;
-- final style/palette, implementation, motion and Lane A change = NOT AUTHORIZED.
+Across all three rounds:
 
-## Execution instruction / next state transition
+- Epistemic Restraint passed;
+- Surface Escape passed;
+- S2-S5 passed;
+- numeric Mobile Survival passed.
 
-The authorized Round 03 render must NOT occur in this persistent project/design-governance context.
+Round 03 additionally proves that externally visible Altered Possibility + Removal necessity are achievable in a static still.
 
-Use exactly one fresh regular non-project image-capable context. Transfer only the exact renderer-facing text from `KYMAEAN_HERO_STERILE_RENDERER_PACKET_03.md`, unchanged and without project framing, prior images, critique, rubric, brand assets, historical examples or reference images. Request/accept one uninterrupted artwork only, then close that renderer context. No reroll, refinement or alternate selection.
+### Smallest unresolved conjunction
 
-When the single image returns here, first confirm provenance/execution integrity. If judgeable and qualifying, Round 03 becomes consumed (3 / 3) before scoring. Then judge actual material difference, raw hard gates, unchanged Harness 01, recursive audit and final disposition.
+The current evidence isolates:
 
-If Round 03 fails the complete frozen constraint set: **THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED**; no automatic fourth render.
+1. **two-person Human Necessity**;
+2. **Changed-condition legibility**;
+3. **Altered Possibility / Removal necessity**;
+4. **S1 Human-first salience**.
 
-If Round 03 passes: it establishes a qualifying candidate but does not automatically select the final hero.
+Round 02 demonstrated 1 + 2 + 4 without 3.
+Round 03 demonstrated 3 without 1 + 2 + 4.
+
+No qualifying candidate demonstrated all four simultaneously.
+
+S6 failed all three rounds, but its failure mechanism changed; the evidence does not identify Harness 01 itself as the root blocker.
+
+## Recommended Director path
+
+**A — PRESERVE CONTRACT / CLOSE CURRENT ONE-SHOT QUALIFYING METHOD / AUTHORIZE SUCCESSOR DESIGN-CONSTRUCTION METHOD DEVELOPMENT ONLY.**
+
+Recommended because it:
+
+- preserves every frozen Hero Brief 02 / Surface Escape / S1-S6 requirement;
+- respects the 3/3 exhaustion law;
+- avoids a low-information fourth prompt-only reroll;
+- does not sacrifice a requirement already shown individually achievable;
+- moves methodological control toward the unresolved variable: intentionally constructing relational / causal geometry across two necessary people and a visibly changed field before rendering.
+
+Option A would authorize **method development + recursive audit only**. It would not authorize a specific visual direction, Candidate 04, renderer packet, image generation, fourth qualifying round, frozen-criterion change, Harness change, final hero selection or implementation.
+
+Other Director choices:
+
+- B — reopen one specific frozen requirement;
+- C — reopen S6 / responsive-integration law;
+- D — pause static hero artwork development;
+- correct the exhaustion review.
+
+## Exact current gate
+
+Qualifying counter = **3 / 3**.
+
+Round 04 = **NOT AUTHORIZED**.
+
+No new renderer packet or image generation = authorized.
+
+Final hero = NOT SELECTED.
+
+Final style/palette, implementation, motion and Lane A change = NOT AUTHORIZED.
+
+**Exact next gate: Director choose A / B / C / D or correct `KYMAEAN_HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01`. Recommendation: A.**
