@@ -1,0 +1,33 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 POST-PHASE-4 NEXT-PHASE AUTHORITY GAP 01
+
+Status: VERIFIED AUTHORITY GAP / STOP BEFORE INVENTED PHASE
+Date: 2026-09-07
+
+CONTEXT
+D-R1 Phases 0–4 are now complete or cleanly bounded in current repository evidence. Phase 6 is repeatedly recorded as NOT TRIGGERED by the corrected Phase 0 diagnosis.
+
+QUESTION
+What exact D-R1 Phase 5 work is authorized after Phase 4?
+
+CURRENT REPOSITORY FINDING
+The required fresh bootstrap sources, current D-R1 evidence set, generated document index, repository search, and D-R1 commit history available through the connected GitHub surface do not expose a current authoritative Phase 5 contract.
+
+Current authority does establish:
+- Phase 0 corrected diagnosis and closure;
+- Phase 1 bootstrap completion;
+- Phase 2 document-status/index adoption;
+- Phase 3 branch disposition and closure;
+- Phase 4 publication-source isolation and closure;
+- Phase 6 is NOT TRIGGERED.
+
+It does not establish enough to infer what Phase 5 must do, what files it may change, or what its completion criteria are.
+
+GUARDRAIL
+Do not reconstruct Phase 5 from chat history, branch names, stale handoffs or plausible sequencing. Do not invent a cleanup/finalization phase merely because Phase 6 exists.
+
+Do not resume Candidate 06 creative construction merely to avoid this structural authority gap: the Director explicitly required D-R1 restructuring to finish according to its authorized sequence before silently returning to Candidate 06.
+
+DISPOSITION
+D-R1 is stopped at a genuine authority/continuity boundary after clean Phase 4 closure.
+
+Next action is to locate a repository-authoritative Phase 5 definition if one exists outside the already indexed/read surfaces, or explicitly establish the missing Phase 5/closure contract before further restructuring. This evidence records the gap; it does not itself invent the missing authority.
