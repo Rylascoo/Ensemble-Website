@@ -1,0 +1,31 @@
+{
+  "id": "C04-ACLT-01-STRUCTURAL-MASS-TRANSFER-PROXY-01",
+  "status": "deterministic-derived-structural-proxy",
+  "source_geometry": "docs/evidence/scaffolds/C04-ACLT-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg",
+  "artboard": [1536, 960],
+  "geometry_changes": "none",
+  "semantic_changes": "none",
+  "representation_change": "line-based field boundaries are combined into one filled finite-width 2D structural mass; exact secondary correspondence retained; A/B regions filled with distinct neutral technical values",
+  "structural_values": {
+    "background": "#ffffff",
+    "field": "#b8b8b8",
+    "field_edge": "#2f2f2f",
+    "secondary_correspondence": "#737373",
+    "A": "#363636",
+    "B": "#666666"
+  },
+  "value_semantics": "technical region separation only; no aesthetic or brand authority",
+  "excluded": [
+    "final palette",
+    "material identity",
+    "lighting",
+    "setting",
+    "clothing detail",
+    "facial detail",
+    "texture",
+    "brand geometry",
+    "symbols",
+    "narrative labels"
+  ],
+  "future_renderer_authority": "none; construction/audit only; no image generation authorized"
+}
