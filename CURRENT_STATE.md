@@ -6,7 +6,7 @@ Updated: 2026-09-06
 
 Engineering: `Rylascoo/Ensemble-Project`. Design/brand: `Rylascoo/Ensemble-Website`. Assets: Drive `Ensemble Project`.
 
-Fresh-read this file first. For current hero work, then read: Hero Artwork Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> frozen Surface Escape -> approved Renderer Method 01 + audit/status reconciliation -> corrected/re-frozen Hero Integration Harness 01 -> Round 01 evaluation + harness completion -> Round 02 Candidate Specification -> Sterile Renderer Packet 02 -> Pre-Render Review Package 02 + audit/Director approval -> Round 02 execution-integrity defect -> replacement-execution Director authorization -> Round 02 Evaluation 01 -> Round 02 Provenance and Closure 01 -> Hero Constraint Reconciliation 01 + recursive audit -> Director Option A decision -> Hero Mechanism-Class Investigation 01 + recursive audit -> Candidate 03 mechanism-direction Director approval -> Candidate 03 specification + recursive audit. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only before engineering/product-truth claims.
+Fresh-read this file first. For current hero work, then read: Hero Artwork Brief 02 -> ODR-33 approval -> Surface Ownership Operational Definition 01 -> frozen Falsification Criteria 01 -> frozen Surface Escape -> approved Renderer Method 01 + audit/status reconciliation -> corrected/re-frozen Hero Integration Harness 01 -> Round 01 evaluation + harness completion -> Round 02 Candidate Specification / Sterile Packet / Pre-Render Package -> Round 02 execution-integrity defect + replacement authorization -> Round 02 Evaluation + Provenance/Closure -> Hero Constraint Reconciliation 01 + Director Option A decision -> Hero Mechanism-Class Investigation 01 + audit -> Candidate 03 mechanism-direction Director approval -> Candidate 03 specification + audit + Director approval -> Sterile Renderer Packet 03 -> Pre-Render Review Package 03 + recursive audit. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only before engineering/product-truth claims.
 
 ## Lane A / Website V0 temporary authority
 
@@ -33,8 +33,8 @@ Hero Brief 02 hard floors, no compensating average:
 
 Frozen stop law:
 
-- same hard failure or protected-requirement collision across **two materially different qualifying rounds** -> immediately `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`; no automatic third round;
-- otherwise three failed qualifying rounds -> experimental exhaustion / Director review;
+- same hard failure or protected-requirement collision across two materially different qualifying rounds -> `CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED`; no automatic third round;
+- otherwise three failed qualifying rounds -> `THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED`;
 - no automatic fourth round.
 
 `docs/KYMAEAN_HERO_RENDERER_METHOD_01.md` is **DIRECTOR APPROVED / FROZEN EXECUTION METHOD**. It requires clean renderer isolation, one judgeable candidate per consumed round except genuine technical nulls, unchanged deterministic Harness 01, independent scoring, no free rerolls and pixel-result material-difference judgment.
@@ -51,19 +51,12 @@ Director instruction: optimize high-reasoning chat value and avoid routine appro
 
 - already-authorized analysis, synthesis, recursive audit, archival work and preparation proceed without repeated approval requests;
 - Director authorization is required before committing to a specific visual direction that narrows/redefines the approved search;
-- after **two consecutive qualifying image-render failures**, stop before another render and present a Director visual-direction/reconciliation gate;
+- after two consecutive qualifying image-render failures, stop before another render and present a Director visual-direction/reconciliation gate;
 - stronger frozen authority remains binding.
-
-Authority: `docs/evidence/HERO_QUALIFYING_ROUND_02_REPLACEMENT_EXECUTION_DIRECTOR_AUTHORIZATION.md`.
 
 ## Qualifying Round 01 — COMPLETE / FAIL / CONSUMED
 
 Counter after closure: **1 / 3**.
-
-Authority:
-
-- `docs/evidence/HERO_QUALIFYING_ROUND_01_EVALUATION_01.md`;
-- `docs/evidence/HERO_QUALIFYING_ROUND_01_HARNESS_COMPLETION_01.md`.
 
 Final results:
 
@@ -83,83 +76,57 @@ Primary lesson: ordinary-task/historical-domestic escape succeeded, but environm
 
 ## Qualifying Round 02 — COMPLETE / FAIL / CONSUMED
 
-The first project-chat generation was contaminated/non-qualifying and does not count. The Director later authorized one replacement isolated execution and explicitly confirmed that the returned 1586 × 992 PNG was the **single image returned from one fresh regular non-project renderer context using the approved Sterile Renderer Packet 02 unchanged, with no alternate output selected**.
+The first project-chat generation was contaminated/non-qualifying and does not count. The Director later authorized one replacement isolated execution and confirmed the returned 1586 × 992 PNG was the single image returned from one fresh regular non-project renderer context using approved Sterile Renderer Packet 02 unchanged, with no alternate output selected.
 
-Authority:
-
-- `docs/evidence/HERO_QUALIFYING_ROUND_02_EVALUATION_01.md`;
-- `docs/evidence/HERO_QUALIFYING_ROUND_02_PROVENANCE_AND_CLOSURE_01.md`.
-
-Drive evidence folder: `Hero Qualifying Round 02 Evidence` — ID `1AQg7Aw1rw2g0d1nfEd0Yj0tezbVa_A1O`.
-
-Round 02 is formally consumed. Counter: **2 / 3**.
+Round 02 counter after closure: **2 / 3**.
 
 Final results:
 
-- Human necessity = **4/5 PASS**;
-- Changed-condition legibility = **4/5 PASS**;
-- Altered possibility = **3/5 FAIL**;
-- Epistemic restraint = **5/5 PASS**;
-- Brand Integration = **2/5 FAIL**;
-- Mobile Survival = **4/5 PASS**;
-- Removal Test = **3/5 FAIL**;
-- Surface Escape = PASS;
-- S1-S5 = PASS;
-- S6 = **FAIL**.
+- Human necessity 4/5 PASS;
+- Changed-condition legibility 4/5 PASS;
+- Altered possibility 3/5 FAIL;
+- Epistemic restraint 5/5 PASS;
+- Brand Integration 2/5 FAIL;
+- Mobile Survival 4/5 PASS;
+- Removal Test 3/5 FAIL;
+- Surface Escape PASS;
+- S1-S5 PASS;
+- S6 FAIL.
 
 Actual output is materially different from Round 01 on all four frozen dimensions.
 
-Key semantic finding: the fold is visibly a changed condition and people are human-primary, but the image does not establish that the fold **causes** contact to become physically possible. The waist-height band could plausibly be restored while preserving essentially the same reach/contact. This exactly matches Candidate Specification 02's pre-registered failure condition.
+Key semantic finding: the fold is visibly changed and people are human-primary, but the fold does not establish that contact becomes physically possible only because of the changed state. Restoring the waist-height band could plausibly preserve essentially the same reach/contact.
 
-Separate integration finding: the pale left field gives insufficient contrast to the fixed light Threshold K/O3/copy system in the unchanged desktop harness. Mobile crop survival is strong.
+Separate integration finding: the pale left field gives insufficient contrast to the fixed light Threshold K/O3/copy system. Mobile crop survival is strong.
 
-## Mandatory frozen stop — ACTIVE
+Drive evidence folder: `Hero Qualifying Round 02 Evidence` — ID `1AQg7Aw1rw2g0d1nfEd0Yj0tezbVa_A1O`.
 
-Round 01 and Round 02 are materially different qualifying failures and repeat Altered Possibility, Removal Test and S6 failures.
+## Mandatory frozen stop — TRIGGERED / RECONCILED THROUGH OPTION A PATH
 
-Frozen state:
+Rounds 01 and 02 are materially different qualifying failures and repeat Altered Possibility, Removal Test and S6 failures.
+
+Frozen experimental state remains historically valid:
 
 **CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED**
 
-This is an experimental stop label, not proof that the hero requirements are impossible.
-
-Round 03 remains **NOT AUTHORIZED** until a later explicit pre-render authorization resolves the stop for one qualifying execution.
-
-## Hero Constraint Reconciliation 01 — OPTION A DIRECTOR APPROVED
-
-Package:
-
-- `docs/KYMAEAN_HERO_CONSTRAINT_RECONCILIATION_01.md`;
-- `docs/evidence/HERO_CONSTRAINT_RECONCILIATION_01_RECURSIVE_AUDIT.md`;
-- Director decision: `docs/evidence/HERO_CONSTRAINT_RECONCILIATION_01_DIRECTOR_DECISION.md`.
-
-Smallest repeated root set:
+Hero Constraint Reconciliation 01 found the smallest repeated root set:
 
 1. Altered Possibility;
 2. Removal Test.
 
-S6 repeats but is partly downstream of the same semantic weakness and Round 02 also adds a separate desktop contrast failure. Brand Integration is not part of the repeated stop core because Round 01 passed it.
+S6 is partly downstream; Round 02 also has a separate desktop contrast failure.
 
-Reconciliation finding: the evidence does **not** establish that the static hero contract is impossible. It establishes that two tested mechanisms failed to make the changed condition physically necessary to the depicted present possibility.
+The evidence does not establish that the static hero contract is impossible. It establishes that two tested mechanisms failed to make the changed condition physically necessary to the depicted present possibility.
 
 Director selected:
 
-**A — PRESERVE CONTRACT / AUTHORIZE NEW MECHANISM-CLASS DESIGN ONLY.**
+**OPTION A — PRESERVE CONTRACT / AUTHORIZE NEW MECHANISM-CLASS DESIGN.**
 
 All frozen requirements remain unchanged.
 
 ## Hero Mechanism-Class Investigation 01 — COMPLETE / AUDITED
 
-Authority:
-
-- `docs/KYMAEAN_HERO_MECHANISM_CLASS_INVESTIGATION_01.md`;
-- audit: `docs/evidence/HERO_MECHANISM_CLASS_INVESTIGATION_01_RECURSIVE_AUDIT.md`.
-
-Drive mirror folder: `Hero Mechanism-Class Investigation 01` — ID `1iZ9jvDWAoVijwqdPeeqV2DHWTvw384t8`.
-
-Eight non-rendering causal classes were compared. Historical R0 Semantic Observability and Persistent Affordance Carrier findings were used as empirical evidence only; no historical surface or carrier gains inheritance rights.
-
-Highest-value recommendation was:
+Eight non-rendering causal classes were compared. Highest-value recommendation:
 
 **GRAVITY-DEPENDENT SUPPORT-STATE CAUSALITY**
 
@@ -167,19 +134,19 @@ Principle:
 
 > A broad continuous material field has a visibly changed deformation that physically bears human body weight in a way its recoverable baseline state could not. Restoring the baseline must make the depicted body position physically collapse rather than remain merely less convenient.
 
+Drive mirror folder: `Hero Mechanism-Class Investigation 01` — ID `1iZ9jvDWAoVijwqdPeeqV2DHWTvw384t8`.
+
 ## Candidate 03 mechanism direction — DIRECTOR APPROVED
 
-Approval evidence:
+Approval authority:
 
 - `docs/evidence/HERO_CANDIDATE_03_MECHANISM_DIRECTION_DIRECTOR_APPROVAL.md`.
 
-The Director explicitly approved **GRAVITY-DEPENDENT SUPPORT-STATE CAUSALITY** for Candidate 03 specification development and recursive audit only.
+The Director approved gravity-dependent support-state causality for Candidate 03 specification development. No rendering was bundled.
 
-This did not authorize rendering, counter consumption, frozen-criterion changes, final visual selection, implementation, motion, Lane A change or Harness modification.
+## Candidate 03 specification — DIRECTOR APPROVED
 
-## Candidate 03 specification — COMPLETE / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED
-
-Primary specification:
+Primary:
 
 - `docs/KYMAEAN_HERO_QUALIFYING_ROUND_03_CANDIDATE_SPECIFICATION.md`.
 
@@ -187,50 +154,88 @@ Audit:
 
 - `docs/evidence/HERO_QUALIFYING_ROUND_03_CANDIDATE_SPECIFICATION_RECURSIVE_AUDIT.md`.
 
-Drive mirror folder: `Hero Candidate 03 Specification` — ID `1Kj70AI3Gye9NJNPqsa_NPmALbBfR07jr`.
+Director approval:
 
-The folder contains:
+- `docs/evidence/HERO_QUALIFYING_ROUND_03_CANDIDATE_SPECIFICATION_DIRECTOR_APPROVAL.md`.
 
-- Director mechanism-direction approval mirror — ID `1kxg3rbphcbf0OqYvgIGLeg2jauhxw0cludnBq40tCOg`;
-- Candidate 03 specification mirror — ID `1UcQT4rIZLTEhbj8UVGC4lL6e9tO2slJhfm4tjfNre7Q`;
-- recursive audit mirror — ID `1EpwETt39xY4eFJgxf2Fyal-4iX0jAGzV3Bbu4Ee2A0s`.
+The Director explicitly approved the recursively audited specification for sterile renderer-packet + pre-render-package preparation/audit only.
 
-### Candidate 03 semantic architecture
+Candidate 03 semantic architecture:
 
-Exactly two distinct, substantial adults inhabit one broad continuous material field with a recoverable simpler baseline and one broad pre-existing changed deformation.
+- exactly two distinct, substantial adults;
+- one broad continuous matte material field with recoverable simpler baseline and one broad pre-existing changed deformation;
+- Adult A = necessity anchor: substantial body load visibly borne by the deformation with no credible equivalent support under baseline restoration;
+- Adult B = shared-condition anchor: comparably substantial and physically/materially implicated in another continuation of the same changed field;
+- restore baseline -> Adult A's support geometry disappears -> same body position cannot remain stable against gravity -> living-consequence relation materially collapses;
+- no ordinary task/accident, rescue/stunt, familiar support carrier, rig/portal, spectacle dominance, private-state claim or color-only semantics;
+- left identity region must naturally be dark-to-mid-dark enough for fixed light identity/copy without rescue;
+- fixed 72% mobile crop must retain both adults + baseline + deformation + gravity relation.
 
-- **Adult A** is the necessity anchor: substantial body load must be visibly borne by the changed deformation with no credible alternate support at the same depicted position.
-- **Adult B** is the shared-condition anchor: comparably specific/substantial, materially related to another continuous portion of the same changed field, and non-removable without materially weakening the human/causal reading.
+Drive folder: `Hero Candidate 03 Specification` — ID `1Kj70AI3Gye9NJNPqsa_NPmALbBfR07jr`.
 
-Binding counterfactual:
+## Sterile Renderer Packet 03 — COMPLETE / AUDITED / NOT YET APPROVED FOR EXECUTION
 
-1. mentally restore the changed segment to the baseline visible elsewhere;
-2. Adult A's load-bearing contact disappears/moves away;
-3. Adult A cannot remain stably in the same depicted position against gravity;
-4. the core living-consequence relation materially collapses rather than becoming merely less convenient.
+Primary:
 
-If the same position remains plausible, another visible surface explains support, or the consequence reduces to comfort/proximity/symbolism/elevation preference, Altered Possibility and Removal Test fail.
+- `docs/KYMAEAN_HERO_STERILE_RENDERER_PACKET_03.md`.
 
-### Candidate 03 safeguards
+The exact renderer-facing text is frozen within the current pre-render review package unless the Director requests correction. It contains no project naming, brand assets, rubric/S-gate labels, prior-round imagery/critique, historical artwork, reference images, private-state claims or named style shorthand.
 
-- no ordinary domestic/occupational task or routine accident response;
-- no repair/install/construction/cleanup;
-- no rescue, injury, escape, stunt, climbing challenge, ritual or performance;
-- no recognizable chair, bed, hammock, ledge, platform, staircase, bridge, scaffold or conventional support carrier;
-- no rigging/contraption or portal/crossing mechanism;
-- people read before material field; no spectacle/monument dominance;
-- no private-state dependence;
-- no color-only semantics or inherited historical surface;
-- left identity region must naturally be sufficiently dark-to-mid-dark for fixed light Threshold K/O3/copy without post-hoc scrim;
-- fixed 72% mobile crop must retain both people, baseline evidence, load-bearing deformation and gravity relation.
+Key renderer-facing construction:
 
-Candidate 03 is materially different from both prior rounds at design intent across composition, human arrangement, mechanism and material organization. Actual pixels remain authoritative.
+- two large, distinct adults;
+- one continuous opaque matte field with simpler baseline visible around a broad settled center-right deformation;
+- Adult A pelvis/lower torso plus another substantial body region visibly supported by deformation;
+- Adult A legs extend into clear negative space and no hidden/secondary body contact may preserve the same position if deformed support is removed;
+- Adult B is materially borne by a shallower continuation rather than merely touching/observing;
+- left 35–45% calm, low-information, naturally dark-to-mid-dark;
+- center-right cluster preserves both people + baseline/deformation/support evidence for tall crop;
+- shallow/compressed human-scale grammar, restrained low-saturation matte behavior, broad soft light, low detail/texture;
+- one compact ordinary-task/ordinary-accident Surface Escape constraint;
+- exactly one uninterrupted artwork only.
 
-Recursive audit result:
+## Hero Pre-Render Review Package 03 — COMPLETE / RECURSIVELY AUDITED / DIRECTOR REVIEW REQUIRED
 
-**COHERENT / FALSIFIABLE / AUTHORITY-CONSISTENT / READY FOR DIRECTOR REVIEW.**
+Primary:
 
-No material correction or worthwhile simplification remained after the complete recursive pass.
+- `docs/KYMAEAN_HERO_PRE_RENDER_REVIEW_PACKAGE_03.md`.
+
+Recursive audit:
+
+- `docs/evidence/HERO_PRE_RENDER_REVIEW_PACKAGE_03_RECURSIVE_AUDIT.md`.
+
+The recursive audit applied three worthwhile corrections before the final clean pass:
+
+1. closed an alternate-body-support loophole for Adult A;
+2. strengthened Adult B from mere positioning/contact to real load-bearing participation;
+3. simplified renderer-facing negative menus to reduce attractor seeding while retaining Director-side risk records.
+
+Final audit result:
+
+**COHERENT / FALSIFIABLE / STERILE / AUTHORITY-CONSISTENT / READY FOR DIRECTOR REVIEW.**
+
+Drive mirror folder: `Hero Pre-Render Review Package 03` — ID `19SUnVwm42oJ710W0bejJnhDLriMvJY5A`.
+
+Drive contents:
+
+- Candidate Specification Director Approval — ID `1zCs3EG6yj8_jGEVYgcTuoF5sNQnOwftyMalXTnvEIIc`;
+- Sterile Renderer Packet 03 — ID `1TTxJXbtjjUnKMbIGklFC2MooJgorBGzt01-7cZEbn2s`;
+- Pre-Render Review Package 03 — ID `1-oFpFIaRxiXeeUF61-9CiGr_mM_2q57-5dUN3muzqHg`;
+- Recursive Audit — ID `1Yl85Hsd3sAih95ZzfRSIQR8hUERSGJuyDZjU4dO9VR0`.
+
+## Round 03 execution consequence if package is approved
+
+Approval of Pre-Render Review Package 03 would explicitly:
+
+1. approve the exact Sterile Renderer Packet 03;
+2. resolve the active experimental stop for **one reconciled Option A execution only**;
+3. authorize exactly one fresh regular non-project image-capable Renderer Context receiving only the exact renderer-facing text unchanged;
+4. authorize exactly one returned uninterrupted artwork with no same-context refinement, alternate-output selection or reroll;
+5. leave the counter at 2 / 3 until a judgeable qualifying image actually returns;
+6. require provenance/execution-integrity confirmation before scoring;
+7. acknowledge that a judgeable failed Round 03 reaches **THREE-ROUND EXPERIMENTAL EXHAUSTION / DIRECTOR REVIEW REQUIRED** with no automatic fourth render.
+
+A complete Round 03 PASS would not automatically select the final hero; final selection remains a Director act.
 
 ## Guards / exact next gate
 
@@ -244,18 +249,18 @@ Round 02 = COMPLETE / FAIL / consumed.
 
 Qualifying counter = **2 / 3**.
 
-Mandatory reconciliation stop = ACTIVE.
+Reconciliation stop = TRIGGERED; Option A path = DIRECTOR APPROVED.
 
-Option A = DIRECTOR APPROVED.
+Candidate 03 mechanism direction = DIRECTOR APPROVED.
 
-Gravity-dependent support-state mechanism direction = DIRECTOR APPROVED for specification development.
+Candidate 03 specification = DIRECTOR APPROVED.
 
-Candidate 03 specification = COMPLETE / AUDITED / **NOT YET DIRECTOR APPROVED**.
+Sterile Renderer Packet 03 = PREPARED / AUDITED / **NOT YET EXECUTION-APPROVED**.
 
-Sterile Renderer Packet 03 = NOT AUTHORIZED FOR PREPARATION UNTIL Candidate 03 specification approval.
+Pre-Render Review Package 03 = COMPLETE / AUDITED / **DIRECTOR REVIEW REQUIRED**.
 
-Round 03 render = NOT AUTHORIZED.
+Round 03 render = **NOT AUTHORIZED**.
 
 Final hero, final style/palette, implementation, motion and Lane A change = NOT AUTHORIZED.
 
-**Exact next gate: Director APPROVE / CORRECT / REJECT `KYMAEAN_HERO_QUALIFYING_ROUND_03_CANDIDATE_SPECIFICATION`. Approval authorizes sterile renderer-packet + pre-render-package preparation/audit only; image generation requires a later explicit pre-render authorization.**
+**Exact next gate: Director APPROVE / CORRECT / REJECT `KYMAEAN_HERO_PRE_RENDER_REVIEW_PACKAGE_03`. Approval explicitly authorizes exactly one isolated Round 03 execution using the exact Sterile Renderer Packet 03 unchanged; no other render or downstream authority is bundled.**
