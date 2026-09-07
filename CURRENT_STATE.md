@@ -24,11 +24,13 @@ For clean in-lane gates record `APPROVED BY STANDING DIRECTOR DELEGATION — CLE
 
 ## D-R1 restructuring
 
-Phase 0 semantic investigation is complete. VID, R0, Hero Method 01 and Method 02 all have written success/termination states; D-R1 Phase 6 is therefore not triggered. The restructure remains justified for retrievability, status separation, closure persistence, anti-re-derivation and publication isolation.
+Phase 0 termination/re-derivation analysis is complete and the Astra mechanical census has been reconciled. VID, R0, Hero Method 01 and Method 02 all have written success/termination states; D-R1 Phase 6 is not triggered.
 
 Phase 1 is complete: workflow lives in `AGENTS.md`, durable closure/history in `docs/evidence/DESIGN_LEDGER.md`, and this file is volatile state only.
 
-Ledger L-010 contains the census and residual mechanical gate. **Do not begin Phase 2 status/index enforcement or Phase 3 branch deletion until that gate is complete and reconciled.** Do not move `prototypes/` or `assets/`.
+Census at the Astra baseline: **280 Markdown / 23 prototypes / 43 branches**; zero inbound by exact path **106**; broken local Markdown links **0**; branch split **6 zero-unique strict ancestors / 36 unique**. Prototype raw smoke returned **21 PASS / 2 harness-conditioned failures**; ledger L-010 records the corrected interpretation and why no prototype source edit is authorized from those failures.
+
+**Remaining structural prerequisite before Phase 2 enforcement:** complete Phase 0.2 semantic classification of every Markdown document from its own content as `ACTIVE LAW`, `SUPERSEDED`, `HISTORICAL EVIDENCE`, or `UNCLASSIFIED`, and record the exact unclassified count. Do not begin Phase 3 branch deletion. Do not move `prototypes/` or `assets/`.
 
 ## Hero program
 
@@ -46,9 +48,7 @@ Stages 1–5: **COMPLETE / RECURSIVE AUDIT REQUIRED**.
 
 ## Exact next creative action
 
-Recursively audit:
-
-`docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`
+Recursively audit `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`.
 
 Audit frozen-law fidelity, stability geometry, passive-brace ambiguity, changed-state recovery, baseline separation, pre-existing-form safeguards, responsive/Harness containment and simplicity. Correct material defects and restart the audit.
 
@@ -58,6 +58,4 @@ A clean pass authorizes **Candidate 06 Stage 6 deterministic Neutral Geometry Sc
 
 Before that clean audit: no Candidate 06 Stage 6, transfer proxy, renderer packet/reference transfer/image generation/Round 06, final hero/style/palette selection, website implementation, Lane A/app UI implementation or motion.
 
-Active handoff:
-
-`docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md`
+Active handoff: `docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md`
