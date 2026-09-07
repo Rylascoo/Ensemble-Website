@@ -1,6 +1,6 @@
 # KYMAEAN — HERO METHOD 02 VISUAL / MECHANISM DIRECTION RECONSIDERATION 03
 
-Status: **ANALYSIS COMPLETE / NEW LEADING DIRECTION SELECTED / RECURSIVE AUDIT REQUIRED / NO RENDER AUTHORIZED**  
+Status: **ANALYSIS COMPLETE / RECURSIVELY CORRECTED / NEW LEADING DIRECTION SELECTED / NO RENDER AUTHORIZED**  
 Date: 2026-09-07
 
 ## Purpose
@@ -69,32 +69,35 @@ Still useful as an evidence-design principle because it separates proof that the
 
 ### Core proposition
 
-One continuous shared field contains a **visibly recoverable residual shear/tilt state**. That changed geometry places Person B in a stable depicted body orientation that requires one minimal passive body contact with Person A. Person A does **not** cause or operate the changed field. A simply occupies a stable nearby position and acts as the necessary human brace through one neutral shoulder / upper-back contact.
+One continuous shared field contains a **visibly recoverable residual shear/tilt state**. That changed geometry places Person B in a depicted body orientation whose **vertical body weight remains carried by the changed field**, but whose lateral/rotational stability requires one minimal passive body contact with Person A. Person A does **not** cause or operate the changed field. A simply occupies a stable nearby position and supplies the necessary lateral/rotational brace through one neutral shoulder / upper-back / torso contact.
 
 The changed field therefore alters a present human possibility without requiring exact authorship:
 
 `visible residual changed field`
 `-> B support plane / body axis is displaced and tilted`
-`-> B's depicted stable posture requires passive contact with A`
+`-> B remains vertically field-supported but laterally/rotationally unstable without A`
+`-> one passive A↔B brace makes the depicted posture stable`
 `-> one irreducible human relation exists`
 
-Restoring the shared field to baseline removes B's displaced/tilted posture and therefore removes the brace relation. Removing A removes the support that makes B's depicted changed-state posture stable. Removing B removes the altered human consequence.
+Restoring the shared field to baseline must rotate/translate B into a self-supporting posture whose geometry no longer reaches the A brace locus; the relation therefore disappears rather than remaining as optional contact. Removing A removes the lateral/rotational support that makes B's depicted changed-state posture stable. Removing B removes the altered human consequence.
 
 ### Why this is materially different from D1
 
 - A no longer has to be inferred as the cause of the field state;
 - changed-state evidence can be carried by residual correspondence geometry alone;
-- physical necessity is carried by **B's balance/posture + A's passive body brace**, not by hidden load transfer through the field;
-- the people carry the final force relation, improving S1;
-- one-frame gravity/support reasoning is direct and externally observable.
+- physical necessity is carried by **B's changed support/posture + A's passive lateral brace**, not by hidden load transfer through the field;
+- the changed field, not A, carries B's vertical weight;
+- the people carry the final stabilizing relation, improving S1;
+- one-frame gravity/support reasoning is more direct and externally observable.
 
 ### Why it differs from generic D3
 
 D9 is intentionally asymmetric:
 
 - A is stable without B;
-- B's depicted changed-state posture is not stable without A;
-- A uses no hands/arms to help, hold or rescue B;
+- B's depicted changed-state posture is not laterally/rotationally stable without A;
+- A uses no hands/arms to help, hold, lift or rescue B;
+- A does not carry B's vertical body weight;
 - the necessary contact is shoulder/upper-back or equivalent broad passive torso contact, not grasping;
 - no reciprocal acrobatic counterbalance is required.
 
@@ -105,17 +108,18 @@ This reduces performance/dance/rescue shorthand while preserving two-person nece
 1. **No authored-field burden.** Neither person must be identified as the maker of the changed state.
 2. **Residual change proof.** At least two independent field correspondences must make the simpler baseline recoverable from the still.
 3. **B altered posture.** The changed field must physically alter B's support plane, body axis or center-of-mass relation.
-4. **Positive stability margin.** Without A's body contact, B's depicted changed-state center-of-mass projection must lie outside the available support polygon by a positive margin; no subjective “looks unstable” judgment is sufficient.
-5. **Passive human brace.** A provides one broad shoulder/upper-back/torso contact only by being present; no grasping, lifting, pulling or rescue gesture.
-6. **A stable independently.** A's own posture must not require B, avoiding reciprocal performance/equilibrium shorthand.
-7. **B removal matters.** Removing B removes the altered human consequence; A + field alone is incomplete hero infrastructure.
-8. **Baseline restoration removes relation.** Restoring the field must rotate/translate B into a self-supporting baseline posture that no longer requires/maintains the A↔B brace.
-9. **No ordinary task/accident.** Neither person is repairing, helping after a fall, rescuing, demonstrating balance or performing a recognizable exercise.
-10. **No private state.** Gaze, intention, emotion, consent or awareness are non-load-bearing to the proposition.
-11. **No mechanism protagonist.** The changed field remains visually subordinate to the people.
-12. **Transfer-visible change.** The future sanitized transfer representation must itself pass the pre-existing-form ambiguity test before any renderer call.
-13. **Responsive-first.** both people, B support geometry, brace contact and at least one strong baseline witness must survive the fixed mobile crop.
-14. **No direction-level style selection.** material, palette, setting, clothing, faces, lighting and renderer technique remain unselected.
+4. **Vertical support remains field-borne.** B's vertical body weight must remain visibly carried by the changed field; A may not hold B up.
+5. **Positive lateral/rotational stability margin.** Without A's body contact, B's depicted changed-state center-of-mass projection must lie outside the available support polygon (or an equivalent conservative stability model) by a positive margin; no subjective “looks unstable” judgment is sufficient.
+6. **Passive human brace.** A provides one broad shoulder/upper-back/torso contact only by being present; no grasping, lifting, pulling, pushing, catching or rescue gesture.
+7. **A stable independently.** A's own posture must not require B, avoiding reciprocal performance/equilibrium shorthand.
+8. **B removal matters.** Removing B removes the altered human consequence; A + field alone is incomplete hero infrastructure.
+9. **Baseline restoration geometrically removes relation.** Restoring the field must rotate/translate B into a self-supporting baseline posture whose body/contact locus separates from A by a positive margin; the brace cannot simply become optional while remaining in the same place.
+10. **No ordinary task/accident.** Neither person is repairing, helping after a fall, rescuing, demonstrating balance or performing a recognizable exercise.
+11. **No private state.** Gaze, intention, emotion, consent or awareness are non-load-bearing to the proposition.
+12. **No mechanism protagonist.** The changed field remains visually subordinate to the people.
+13. **Transfer-visible change.** The future sanitized transfer representation must itself pass the pre-existing-form ambiguity test before any renderer call.
+14. **Responsive-first.** both people, B support geometry, brace contact and at least one strong baseline witness must survive the fixed mobile crop.
+15. **No direction-level style selection.** material, palette, setting, clothing, faces, lighting and renderer technique remain unselected.
 
 ## D9 known risks
 
@@ -124,7 +128,8 @@ This reduces performance/dance/rescue shorthand while preserving two-person nece
 - residual shear/tilt may read as architecture/ramp designed that way;
 - B instability may become too dramatic;
 - the field may again dominate if the change is monumental;
-- a highly tilted support plane may look dangerous and cinematic.
+- a highly tilted support plane may look dangerous and cinematic;
+- if A carries any appreciable vertical load from B, the intended passive brace collapses into support/rescue shorthand.
 
 These risks are construction falsifiers, not reasons to hide the direction's weaknesses.
 
@@ -147,7 +152,7 @@ Candidate construction should no longer ask a renderer or viewer to infer who ca
 
 The next research question becomes:
 
-> **Can one visibly changed shared field alter B's support/posture so that one quiet, non-performative passive body brace with A is physically necessary, while the people remain the primary event and the changed state is recoverable without reading the field as purpose-built architecture?**
+> **Can one visibly changed shared field alter B's support/posture so that one quiet, non-performative passive lateral/rotational body brace with A is physically necessary, while the changed field still carries B's vertical weight, the people remain the primary event, and the changed state is recoverable without reading the field as purpose-built architecture?**
 
 ## Boundary
 
