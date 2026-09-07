@@ -1,0 +1,31 @@
+{
+  "experiment": "METHOD02-R05-C04",
+  "status": "frozen-pre-render-inputs",
+  "reference": {
+    "drive_id": "1-Pecd65L2VM0v_NhZ3tUgnjDY5KtRHdl",
+    "filename": "STRUCTURAL_MASS_REFERENCE_02.png",
+    "mime_type": "image/png",
+    "dimensions": [1536, 960],
+    "sha256": "a268cca3a03c2f9852ed3becbd2a448574cc63d1aad8d9d66e88514a569b060e",
+    "pixel_relation_to_proxy_02": "exact pixel equality; sanitized lossless re-encode with no embedded image metadata",
+    "intended_transfer_variable": "relational/causal geometry only"
+  },
+  "packet": {
+    "drive_id": "1gTk5xavfVttzA9LREI7P-KaOMRvGiunS",
+    "filename": "STERILE_RENDERER_PACKET_02.txt",
+    "mime_type": "text/plain",
+    "utf8_bytes": 2420,
+    "sha256": "0fc6ecff07be64938a4f12bffa1c1170908e8e027ee3d407870b4c688c6ffd3b",
+    "github_source": "docs/evidence/renderer/C04-ACLT-01_TRANSFER_FIDELITY_RENDERER_PACKET_02.txt",
+    "github_blob_sha": "195e42f76a7ec1b19c47d8431a0febf27eef79a7"
+  },
+  "renderer_context": "one fresh regular ChatGPT chat outside the Ensemble project",
+  "requests": 1,
+  "images_requested": 1,
+  "free_rerolls": 0,
+  "historical_candidate_images_transferred": false,
+  "project_documents_transferred": false,
+  "harness_changes": "none",
+  "post_render_scoring_changes": "none",
+  "automatic_followup_render": false
+}
