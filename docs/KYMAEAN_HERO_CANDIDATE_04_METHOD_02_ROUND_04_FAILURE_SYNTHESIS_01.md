@@ -83,7 +83,7 @@ Round 04 does **not** justify:
 
 The next change should target **reference representation**, not semantic mechanism and not frozen evaluation law.
 
-### Proposal: Neutral Volumetric Transfer Proxy 01
+### Proposal: Neutral Structural-Mass Transfer Proxy 01
 
 Keep the approved Candidate 04 semantic dependency, counterfactual, person roles, responsive envelope, and Stage 06 coordinates unchanged.
 
@@ -110,7 +110,7 @@ It must not encode:
 - scene symbolism;
 - final rendering technique.
 
-The original Stage 06 SVG remains canonical geometry authority. The proxy would be a **derived transfer-control artifact**, not a replacement scaffold and not artwork.
+The original Stage 06 SVG remains canonical geometry authority. The proxy would be a **derived transfer-control artifact**, not a replacement scaffold and not artwork. `Structural-Mass` refers only to the filled finite-width 2D encoding; it does not claim a 3D/depth render.
 
 ## 7. Why this is the smallest change
 
@@ -180,7 +180,7 @@ The future left-region luminance constraint is prospective only and does not mod
 
 **CLEAN.**
 
-No material contradiction, retrospective criterion change, hidden reroll, unsupported mechanism pivot, or worthwhile simpler corrective target remains.
+No material contradiction, retrospective criterion change, hidden reroll, unsupported mechanism pivot, terminology ambiguity, or worthwhile simpler corrective target remains.
 
 ## 11. Earned next action
 
@@ -188,6 +188,6 @@ Under the standing design-gate law:
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
 
-The next authorized design action is **construction of Neutral Volumetric Transfer Proxy 01 from the unchanged Stage 06 geometry, followed by recursive audit.**
+The next authorized design action is **construction of Neutral Structural-Mass Transfer Proxy 01 from the unchanged Stage 06 geometry, followed by recursive audit.**
 
 This authorizes no new renderer request and no image generation.
