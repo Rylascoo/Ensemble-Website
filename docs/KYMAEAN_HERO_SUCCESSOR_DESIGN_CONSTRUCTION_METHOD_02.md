@@ -39,6 +39,8 @@ Director Option A is current authority:
 
 **preserve the contract, close the exhausted one-shot qualifying method, and develop a successor design-construction method only.**
 
+Hero Renderer Method 01 remains a frozen historical/execution record for the completed sequence. Method 02 does not edit it retroactively. If Method 02 later receives explicit Director approval for future experiments, that approval may establish Method 02 as the successor execution/construction procedure prospectively while leaving Method 01 intact as authority for Rounds 01-03.
+
 ## 2. Problem statement
 
 The unresolved problem is not simply “write a better prompt.”
@@ -69,6 +71,8 @@ Method 02 has seven ordered stages:
 A future candidate may advance only if each earlier stage passes before the next begins.
 
 No compensating average exists between construction stages.
+
+These stages are **conservative pre-render admission controls**, not new post-render measurement criteria. Final artwork remains scored only by the already-frozen Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness authority. Method 02 may reject a construction that might hypothetically have passed, but it may not manufacture a pass or add a new hard gate after pixels exist.
 
 ## 4. Stage 1 — Semantic Dependency Construction
 
@@ -108,7 +112,7 @@ This requirement does not preselect which person causes, receives, enables, bloc
 
 The construction must prove that “changed” is visible from the still, not supplied by prompt history.
 
-Create a **Baseline / Change Evidence Record** with at least three independent geometric correspondences between unchanged and changed portions of the same condition, chosen as appropriate from:
+Create a **Baseline / Change Evidence Record** with at least **two independent geometric correspondence cues** between unchanged and changed portions of the same condition, chosen as appropriate from:
 
 - continuous edge alignment;
 - repeated spacing or interval;
@@ -119,7 +123,7 @@ Create a **Baseline / Change Evidence Record** with at least three independent g
 - continuous material boundary;
 - clear local displacement from a recoverable larger organization.
 
-The exact correspondence types are not a checklist and do not become style law. The requirement is redundancy: no single crease, color patch, hole, prop or spectacular effect may carry the entire changed-state claim.
+The exact correspondence types are not a checklist and do not become style law. The requirement is redundancy: no single crease, color patch, hole, prop or spectacular effect may carry the entire changed-state claim. More than two cues may be used when they arise naturally, but the method should not force extra visual complexity merely to satisfy a count.
 
 ### 5.1 Baseline recovery test
 
@@ -348,6 +352,8 @@ A candidate construction is rejected before rendering if any of the following is
 
 Any one failure returns the design to construction, not rendering.
 
+These rejection conditions are prospective method filters. They do not modify post-render scoring and cannot be invoked to retroactively invent a new failure category.
+
 ## 14. Construction review artifact set
 
 Before any future renderer request, one complete Director review package should contain:
@@ -452,9 +458,11 @@ Before Director review, audit this method against:
 
 After recursive audit, Director choices are:
 
-- **APPROVE Method 02** — authorizes development of construction templates/scaffold tooling and one future candidate-construction package only; does not authorize a specific visual direction or image generation;
+- **APPROVE Method 02** — authorizes development of mechanism-neutral construction templates, dependency-matrix tooling, responsive-envelope tooling and neutral-scaffold tooling only; it does not authorize a specific visual direction, Candidate 04 construction, reference transfer, renderer packet or image generation;
 - **CORRECT Method 02**;
 - **REJECT Method 02**.
+
+After Method 02 approval, any commitment to one specific future visual/mechanism direction remains a separate Director gate under the established authorization cadence.
 
 Until explicit Director approval:
 
