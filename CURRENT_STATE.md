@@ -19,7 +19,7 @@ After a clean design-gate audit record:
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
 
-Do not ask the Director to approve that design gate. Proceed to the next defined design action. Fresh chats/handoffs must inherit this rule and must not revive historical approval-request language. This delegation does not create engineering/product authority outside the design lane.
+Do not ask the Director to approve that design gate. Proceed to the next defined design action. Fresh chats/handoffs must inherit this rule. This delegation does not create engineering/product authority outside the design lane.
 
 ## Hero program
 
@@ -33,7 +33,7 @@ Stages 1–5 complete/audited. Stage 06 deterministic scaffold complete/audited/
 
 Experiment: `METHOD02-R04-C04`.
 
-The Director returned the single image from a fresh regular non-project renderer chat and confirmed **no modifications and no retries**. The authorized one-request / one-image / zero-reroll accounting is consumed.
+The single authorized image was returned from a fresh regular non-project renderer chat with **no modifications and no retries**. Round 04 is consumed.
 
 Canonical evaluation:
 
@@ -58,53 +58,63 @@ Primary finding:
 
 > **The renderer preserved gross relational composition but naturalized the scaffold's causal field geometry into ordinary terrain.**
 
-The pixels therefore lost visible A-load -> field-change -> B-position -> contact causality and the baseline-restoration counterfactual. Separately, the calm-left region became pale/high-key beneath Harness 01's fixed light identity scaffold.
+The pixels therefore lost visible `A load -> field change -> B altered position -> contact` causality and the baseline-restoration counterfactual. Separately, the calm-left region became pale/high-key beneath Harness 01's fixed light identity scaffold.
 
-No criterion changed and Surface Escape was not retroactively expanded.
+## Post-Round 04 correction path — COMPLETE / AUDITED
 
-## Post-Round 04 synthesis — COMPLETE / CLEAN
+Canonical synthesis and transfer-fidelity work:
 
 - `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_ROUND_04_FAILURE_SYNTHESIS_01.md`
 - `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_TRANSFER_FIDELITY_ANALYSIS_01.md`
-
-Conclusion: preserve Candidate 04 semantics and frozen law; correct **reference representation**, not mechanism or scoring criteria.
-
-## Transfer proxies — COMPLETE / AUDITED
-
-Proxy 01 converted the exact Stage 06 line geometry into a filled finite-width structural mass. Its recursive audit found and corrected unnecessary A/B value coding.
-
-Proxy 02 then removed the capped-object cue by continuing the same baseline field beyond both frame edges while preserving all Stage 06 core coordinates.
-
-Canonical Proxy 02:
-
 - `docs/evidence/renderer/C04-ACLT-01_CONTINUATION_SAFE_STRUCTURAL_MASS_TRANSFER_PROXY_02.svg`
-- `docs/evidence/renderer/C04-ACLT-01_CONTINUATION_SAFE_STRUCTURAL_MASS_TRANSFER_PROXY_02_MANIFEST.json`
 - `docs/evidence/HERO_CANDIDATE_04_METHOD_02_CONTINUATION_SAFE_PROXY_02_RECURSIVE_AUDIT.md`
-
-Drive transfer-fidelity folder: `1C3L3zAS-LR-nTjjQ_WBipb2pRg1z9txx`. Proxy 02 PNG: `1T1OG0SSAB1gCdWEGFpYY6eb6zGooLa_l`.
-
-Proxy 02 audit: **CLEAN / APPROVED BY STANDING DIRECTOR DELEGATION**. It carries no final aesthetic authority and no renderer authorization.
-
-## Prospective Transfer Package Delta 02 — COMPLETE / AUDITED
-
-Canonical:
-
 - `docs/KYMAEAN_HERO_CANDIDATE_04_METHOD_02_TRANSFER_PACKAGE_DELTA_02.md`
 - `docs/evidence/renderer/C04-ACLT-01_TRANSFER_FIDELITY_RENDERER_PACKET_02.txt`
 - `docs/evidence/HERO_CANDIDATE_04_METHOD_02_TRANSFER_PACKAGE_DELTA_02_RECURSIVE_AUDIT.md`
 
-The prospective package preserves Candidate 04 semantic/human wording and changes only the documented transfer-fidelity controls:
+Proxy 02 preserves Stage 06 core geometry while presenting the shared field as one continuation-safe filled structural mass. Transfer Package Delta 02 adds only the audited reference-representation correction and the bounded calm-left low-luminance compatibility control.
 
-1. future structural reference would use Proxy 02 rather than the Round 04 line reference;
-2. proxy technical grayscale must not survive into artwork;
-3. far-left region must remain calm/nonessential and predominantly low-luminance without forcing the whole artwork uniformly dark.
+## Method 02 Round 05 — EXECUTION AUTHORIZED / READY
 
-Recursive audit: **CLEAN / PACKAGE APPROVED BY STANDING DIRECTOR DELEGATION AS A DESIGN ARTIFACT ONLY**.
+Experiment: `METHOD02-R05-C04`.
+
+Execution-readiness audit:
+
+- `docs/evidence/HERO_CANDIDATE_04_METHOD_02_ROUND_05_EXECUTION_READINESS_AUDIT.md`
+
+Result:
+
+**CLEAN FINAL PASS / APPROVED BY STANDING DIRECTOR DELEGATION.**
+
+Frozen input manifest:
+
+- `docs/evidence/renderer/C04-ACLT-01_ROUND05_FROZEN_INPUTS_MANIFEST.json`
+
+Exactly two renderer inputs:
+
+1. `STRUCTURAL_MASS_REFERENCE_02.png` — Drive `1-Pecd65L2VM0v_NhZ3tUgnjDY5KtRHdl`, SHA-256 `a268cca3a03c2f9852ed3becbd2a448574cc63d1aad8d9d66e88514a569b060e`;
+2. `STERILE_RENDERER_PACKET_02.txt` — Drive `1gTk5xavfVttzA9LREI7P-KaOMRvGiunS`, SHA-256 `0fc6ecff07be64938a4f12bffa1c1170908e8e027ee3d407870b4c688c6ffd3b`.
+
+Drive pre-render folder: `11y-fhdHEPZlv1HDMmhk6zZYd4GNIEn33`.
+
+Renderer handoff:
+
+- `docs/evidence/renderer/C04-ACLT-01_ROUND05_RENDERER_HANDOFF.txt`
+
+Accounting:
+
+- one fresh regular ChatGPT chat outside the Ensemble project;
+- one renderer request;
+- one image;
+- zero rerolls/modifications/refinements;
+- no historical image, project document, rubric, or critique transferred;
+- technical no-image result stops rather than retries;
+- judgeable returned image returns untouched to Director Context for frozen evaluation.
+
+Stop consequence: **no automatic Round 06**. If causal-topology naturalization repeats despite Proxy 02, pause at **CAUSAL-TOPOLOGY TRANSFER APPROACH SUSPECTED INSUFFICIENT / DIRECTOR REVIEW REQUIRED**.
 
 ## Current boundary / exact next action
 
-**No new image generation, retry, reroll, reference transfer, or Round 05 execution is authorized.**
-
-The next possible design step is a future execution-readiness analysis of Transfer Package Delta 02. It must separately decide whether another isolated renderer experiment is warranted and, if so, freeze exact sanitized reference bytes, exact packet text, accounting, and stop consequence before any renderer call.
+Execute `METHOD02-R05-C04` in **one fresh regular ChatGPT chat outside the Ensemble project** using exactly the two frozen inputs above. Do not add context or alter either input. Return the single untouched image here for evaluation.
 
 Final hero/style/palette selection, website implementation, Lane A/app UI implementation and motion remain downstream.
