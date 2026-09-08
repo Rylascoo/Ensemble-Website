@@ -452,3 +452,16 @@ Program authority:
 The second expenditure is optional, not owed. If C01 fails and no materially different C02 survives pre-render falsification, the program closes after 1 of 2 possible expenditures. A full rendered PASS closes the program immediately. Any judgeable image consumes its candidate's expenditure; genuine no-image technical failure does not consume but creates no automatic retry.
 
 **Guardrail:** activation authorizes only DPSC-C01 construction through D0-D5 and recursive P1-P13 falsification. No renderer call is authorized until a specific candidate has frozen sanitized renderer-visible bytes, passed a candidate-specific clean pre-render audit, and `CURRENT_STATE.md` explicitly names the execution gate. No D9/R09/C09 continuation, C08 retry, frozen-contract/Harness mutation, final hero selection, production website deployment, Lane A implementation or motion is created by this program.
+
+## L-027 — DPSC-C01 earns candidate identity through D0-D5
+
+**State:** DPSC-C01 CONSTRUCTION COMPLETE / CANDIDATE IDENTITY EARNED / NOT RENDERER-READY / 0 RENDERER EXPENDITURES
+
+Under the frozen DPSC-RSP-01 method, `DPSC-C01 — COHERENT INTERIOR OFFSET / PASSIVE COUNTERBRACE` completed D0-D5 at construction level. Four independent correspondence families predict one simpler baseline; one continuous interior zone displaces them coherently; B's asymmetric support/posture depends on that displacement; and one separated-head passive posterior/lateral A↔B torso brace closes the intended relation.
+
+Candidate construction:
+`docs/evidence/HERO_DPSC_C01_CONSTRUCTION_D0_D5_01.txt`.
+
+The construction deliberately does not reuse C08's free-edge witness, coordinates, scaffold or reference image. Its principal unresolved pre-render falsification targets remain P3 purpose-designed-whole normalization, P7 architecture/terrain/installational shorthand, P8 pattern/diagram dominance, exact physical B-dependence/A-stability, and frozen mobile containment. These were not converted into prose passes.
+
+**Guardrail:** DPSC-C01 identity authorizes only the exact neutral current-state vector scaffold and its physical/P3/P7/P8/Harness falsification. No renderer-visible bytes are yet frozen and no DPSC-E1 call is authorized. The full P1-P13 audit must be rerun on the exact scaffold before a sterile packet or execution gate may exist.
