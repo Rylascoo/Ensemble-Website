@@ -8,11 +8,11 @@ Updated: 2026-09-07
 
 - Design/brand: `Rylascoo/Ensemble-Website`.
 - Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`.
-- Visual masters: Google Drive `Ensemble Project`.
+- Drive: `Ensemble Project`.
 - Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
 - Closure history: `docs/evidence/DESIGN_LEDGER.md`.
 
-This file alone owns volatile phase/current-boundary state. Clean recursive audit earns in-lane approval.
+This file owns volatile phase/current-boundary state; clean recursive audit earns in-lane approval.
 
 ## Repository restructuring
 
@@ -21,10 +21,10 @@ Evidence: `docs/evidence/D_R1_PHASE_5_CLOSURE_01.txt`.
 
 ## Hero program
 
-Method 02: **APPROVED**. Frozen law remains Hero Artwork Brief 02 + Falsification Criteria 01 + Surface Escape + fixed Harness 01; no rescue/free reroll.
+Method 02: **APPROVED** — `docs/evidence/HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02_DIRECTOR_APPROVAL.md`. Frozen law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + Harness 01.
 
 D9: **APPROVED / TESTABLE IN PRINCIPLE**.
-Stage 6M mechanism-neutral tooling: **COMPLETE / CLEAN / APPROVED** at `d274e968bd7ba75101aaf2d77393ace4ab38dd99`; hosted run `34180030728` succeeded at that head.
+Stage 6M tooling: **COMPLETE / CLEAN / APPROVED** at `d274e968bd7ba75101aaf2d77393ace4ab38dd99`; hosted run `34180030728` succeeded.
 Evidence: `docs/evidence/HERO_METHOD_02_STAGE_6M_TOOLING_CLOSURE_AND_D9_REENTRY_01.txt`.
 
 Candidate `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
@@ -43,7 +43,7 @@ Construct and recursively audit **C07 Stage 6M Neutral Physical Maquette** from 
 
 Until C07 Stage 6M is clean: **no Stage 7 renderer package/reference transfer, renderer request, image generation/Round 07, final hero/style/palette, website implementation, Harness change, Lane A/app UI or motion.**
 
-They do **not** decide final pixels/style, Stage 7 readiness, renderer success, website/Lane A implementation, motion, or engineering/product questions.
+They do **not** decide final pixels/style, Stage 7 readiness, renderer success, website/Lane A implementation, motion, or engineering/product authority.
 
 ## Currency finding
 
