@@ -29,8 +29,9 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
-      - name: Verify publication and control-plane boundaries
+          fetch-depth: 0
+      - name: Verify publication, continuity and residency boundaries
         run: python3 tools/validate_repository_boundaries.py
