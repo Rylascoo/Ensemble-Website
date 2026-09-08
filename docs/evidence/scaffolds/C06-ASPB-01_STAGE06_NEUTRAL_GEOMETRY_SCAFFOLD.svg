@@ -12,7 +12,7 @@
 
     <!-- Person A: anonymous, near-upright, independently stable figure region. No arm/hand support geometry is encoded. -->
     <g id="figure-A">
-      <ellipse id="A-head-region" cx="945" cy="280" rx="44" ry="55"/>
+      <ellipse id="A-head-region" cx="945" cy="290" rx="44" ry="55"/>
       <path id="A-body-region" d="M900 350
         C920 335 965 335 990 355
         L1015 395
