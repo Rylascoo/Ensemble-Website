@@ -42,7 +42,7 @@ Exact SHA-256:
 Director-side pin record:
 `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`.
 
-The exact same SVG hash was reproduced by canonical hosted Stage 6M validation on the candidate branch and after promotion to main. Exact-main run: `34255553033`.
+The exact same SVG hash was reproduced by canonical hosted Stage 6M validation. The later Stage 6 arithmetic/metadata correction does not alter these renderer-visible Stage 6M bytes.
 
 If later execution is authorized, supply these exact bytes under the neutral filename:
 `reference.svg`.
@@ -117,12 +117,12 @@ Canonical Director-side source-space results:
 - A coupled margin: 93.09357443 px;
 - conservative 2:1 A sensitivity margin: 44.009678473114956 px;
 - projected head gap: 51.91680000000012 px;
-- corrected Stage 6 changed support-root/free-edge clearance: 102.8395582822086 px;
-- normalized Stage 6M physical support-root/free-edge clearance: 102.85483969465605 px.
+- exact Stage 6 changed support-root/free-edge clearance: **102.8 px**;
+- normalized Stage 6M physical support-root/free-edge clearance: approximately 102.85483969465605 px.
 
 These values may not be supplied to the renderer and are not new post-render scoring thresholds.
 
-The older Stage 6 `120 px` planning number is retained only as undeformed-baseline provenance and is not transferred.
+The older Stage 6 `120 px` planning number and the withdrawn `102.8395582822086 px` first-correction result are not active clearance assertions and are not transferred.
 
 7. MATERIAL DIFFERENCE FROM C07 / NON-RETRY DECLARATION
 
@@ -217,6 +217,17 @@ Any judgeable returned artwork consumes Round 08 regardless of pass/fail.
 
 If the tool fails technically and returns no judgeable artwork, STOP and report the technical failure. No second request is silently authorized.
 
+D9 DIRECTION BUDGET — FROZEN BEFORE ROUND 08
+
+D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE — has exactly three judgeable renderer expenditures:
+- Round 06 / C06: consumed / fail;
+- Round 07 / C07: consumed / fail;
+- Round 08 / C08: third and final judgeable D9 renderer expenditure / currently unspent.
+
+A judgeable Round 08 result that fails the unchanged frozen success contract terminates D9. No Round 09 may be constructed under D9, regardless of whether the diagnosed failure is attributed to renderer naturalization, transfer fidelity, geometry realization, aesthetics, or another subordinate mechanism. Further hero exploration after such a failure requires a newly authorized direction or explicitly new bounded program.
+
+A genuine no-image technical failure does not consume the final judgeable attempt, but it also does not authorize an automatic retry. It stops and returns to Director Context for explicit execution disposition under the existing frozen inputs.
+
 14. STOP CONSEQUENCE
 
 After one later authorized returned image:
@@ -225,7 +236,9 @@ After one later authorized returned image:
 3. archive raw provenance/evidence before interpretation when practical;
 4. evaluate pixels under unchanged Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01;
 5. do not modify reference, packet or criteria before that evaluation closes;
-6. do not grant an automatic retry after failure.
+6. do not grant an automatic retry after failure;
+7. if the judgeable Round 08 result fails the frozen success contract, close C08 and terminate D9 with no Round 09 under that direction;
+8. if the result passes, D9 has satisfied its direction-level renderer proof and final hero selection remains a Director act under the standing selection boundary.
 
 15. COMPLETE PRE-RENDER REVIEW ARTIFACT SET
 
