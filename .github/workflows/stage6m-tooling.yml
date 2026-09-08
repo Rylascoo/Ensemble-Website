@@ -12,6 +12,7 @@ on:
       - 'tools/test_stage6m_core_bypass.py'
       - 'tools/verify_c08_stage6m.py'
       - 'docs/evidence/stage6m/**'
+      - 'docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg'
       - 'docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json'
       - '.github/workflows/stage6m-tooling.yml'
   pull_request:
@@ -25,6 +26,7 @@ on:
       - 'tools/test_stage6m_core_bypass.py'
       - 'tools/verify_c08_stage6m.py'
       - 'docs/evidence/stage6m/**'
+      - 'docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg'
       - 'docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json'
       - '.github/workflows/stage6m-tooling.yml'
 
