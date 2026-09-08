@@ -1,0 +1,423 @@
+KYMÆAN — HERO METHOD 02 D9-S2 CONSTRUCTION STAGES 01–05 — CORRECTED 01
+
+Status: CORRECTED CONSTRUCTION COMPLETE / QUANTITATIVE NON-RENDER / RECURSIVE AUDIT REQUIRED / NO CANDIDATE IDENTIFIER YET / NO STAGE 6 OR RENDER AUTHORIZED
+Date: 2026-09-08
+Working hypothesis: D9-S2 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE
+Direction: D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE
+Predecessor: `HERO_METHOD_02_D9_S2_CONSTRUCTION_STAGES_01_05_WORKING_01.txt`
+
+0. CORRECTION BASIS
+
+Recursive review of Working 01 found three worthwhile corrections before approval:
+
+1. SUPPORT-GEOMETRY DIFFERENCE
+The first working coordinates inherited C07's narrow/converged support geometry too closely even though Round 07 proved that visible A-dependence can survive with a wider stance. The corrected construction gives B a materially wider changed support hull while moving B COM farther outside it. This reduces deliberate-balancing/fashion-pose pressure and makes the successor less dependent on C07's exact root arrangement.
+
+2. HEAD / SCAPULAR ANATOMY
+The first working B head center was too far laterally from its scapular contact locus for a clean neutral proxy. The corrected construction re-centers the head and adds an exact future minimum visible head-volume gap rather than relying only on head-center distance.
+
+3. IDENTITY-REGION PRECOMMITMENT
+'Low-information left region' alone does not address Round 07's independent Brand Integration failure. The corrected Stage 5 adds a prospective candidate-neutral optical-value constraint: future translation must avoid a broad high-key field directly behind the fixed light identity/copy system. No exact color/palette is selected and no scrim is allowed.
+
+The predecessor remains historical working evidence. This file is the construction to audit.
+
+1. STAGE 1 — SEMANTIC DEPENDENCY CONSTRUCTION
+
+Shared proposition
+
+Two visibly distinct adults occupy one broad continuous finite-thickness field. A modest open torsional-flexure swath changes B's surface-borne support geometry and propagates physically to an exposed foreground free-edge / thickness-return witness, allowing the same changed volume to carry both support consequence and baseline/change evidence.
+
+Person A stands on unaffected baseline-adjacent field and remains independently stable.
+
+Person B's two visible feet are the only field-bearing contacts and remain materially interior to the free edge. The changed flexure alters their projected placement and local tangent relation. B's frozen changed-state COM lies outside the left side of the actual two-foot support hull by a positive margin.
+
+One broad posterior-lateral scapular / upper-back contact against A's lateral ribcage / upper-torso region supplies the only lateral/rotational reaction. A does not grasp, lift, pull, push or catch B and carries no appreciable B vertical load. B has no hand/arm/knee/hip/seat/torso field contact.
+
+The head volumes are visibly separate. B's head does not rest on A and no head-to-shoulder contact is permitted.
+
+Baseline restoration re-aligns the one-volume edge/return witness, restores B support to a wider/re-centered geometry, places B COM well inside the restored support hull, and separates the scapular brace loci.
+
+Directed dependency
+
+recoverable one-volume residual torsional flexure
+-> B surface-borne support roots occupy changed positions/orientations
+-> B frozen support/COM relation is laterally unstable toward A
+-> one passive separated-head scapular-to-ribcage contact closes equilibrium
+-> one irreducible present human relation exists.
+
+Person A planning geometry
+
+- support hull x-range: 800–1000;
+- unloaded COM projection x: 900;
+- minimum unloaded horizontal margin: 100 px;
+- brace-side ribcage / upper-torso contact locus: approximately (1004, 420);
+- head center target: approximately (925, 245);
+- near-upright body;
+- arms/hands non-supporting;
+- no appreciable B vertical carry.
+
+Person B changed planning geometry
+
+- left support footprint: x 1090–1120; center approximately (1105, 704);
+- right support footprint: x 1160–1190; center approximately (1175, 680);
+- conservative changed support hull: x 1090–1190;
+- changed COM projection target: x 1065;
+- unsupported outside-hull margin: 25 px toward A / screen-left;
+- scapular / posterior-lateral contact locus: approximately (1008, 420);
+- head center target: approximately (1055, 250).
+
+Head-gap law
+
+Planning head-center delta is approximately 130 px horizontally and 5 px vertically. Exact Stage 6 proxy geometry must preserve at least **50 px of visible negative-space gap between the two head-volume silhouettes under the fixed projection**.
+
+If exact body/head proportions cannot preserve that gap while retaining the scapular contact and support mechanics, reject/correct before Stage 6 approval. Do not move the contact back upward toward head-rest geometry.
+
+Changed local field relation — planning targets
+
+- nominal baseline top field z = 0;
+- left support neighborhood: small departure, local roll magnitude <= 2°, z departure about +4 planning units;
+- right support neighborhood: stronger changed region, local roll magnitude about 6–8°, z departure about +18 planning units;
+- these values are support-coupling witnesses, not the binding static proof;
+- exact Stage 6 geometry must remain one continuous volume and all margins must be recomputed if these targets materially change.
+
+A-removal consequence
+
+Freeze B's depicted changed geometry. B COM remains 25 px outside its support hull and no alternate support closes equilibrium.
+
+B-removal consequence
+
+A remains independently stable and field change may remain visible; the living altered consequence and human brace relation disappear.
+
+Person specificity
+
+Later translation must preserve at least three non-color channels:
+1. distinct body/silhouette proportion;
+2. distinct head/hair outer silhouette;
+3. distinct garment/outer-shape silhouette.
+
+The physical jobs are non-swappable:
+A = stable brace body.
+B = changed-support occupant dependent on A for the frozen pose.
+
+Stage 1: PASS AT CONSTRUCTION LEVEL.
+
+2. STAGE 2 — BASELINE / CHANGE RECONSTRUCTION PROOF
+
+One-volume baseline field
+
+The field is a broad finite-thickness volume, not a narrow strip or self-contained platform. Only one foreground/lower-frame free edge is used as a witness. The field extends laterally beyond the human causal cluster and must not read as an object made for B.
+
+Nominal baseline:
+- top field: low-relief, approximately z = 0 in causal region;
+- upper foreground free-edge trajectory outside flexure: y ≈ 824;
+- lower through-thickness return trajectory outside flexure: y ≈ 850;
+- projected thickness outside flexure: approximately 26 px;
+- unchanged witness segments occur on both sides of the changed exit region inside the fixed mobile envelope.
+
+Open propagated flexure swath
+
+Director-side planning axis only; not a visible line:
+- approximate centerline: (1190, 620) -> (1160, 690) -> (1045, 824);
+- effective transition width: approximately 170–210 px;
+- smooth C1-like volumetric transition;
+- no crack, seam, gap, hinge, step, rib, stripe, contour mark or drawn boundary;
+- open swath continues through the B support zone to the visible edge;
+- does not close around either foot;
+- does not terminate as basin/pocket/cradle/platform.
+
+Free-edge / thickness-return witness
+
+At flexure exit near x ≈ 1045–1090:
+- upper edge target local projected departure: approximately 18–24 px from surrounding baseline trajectory;
+- lower return departs coherently while preserving one continuous finite-thickness sidewall;
+- trajectories do not cross, split or form a notch;
+- unchanged left/right witness segments recover the simpler surrounding alignment.
+
+Correspondence cue A — upper free-edge alignment
+
+A neutral construction reviewer can trace one upper physical boundary:
+unchanged -> local departure -> unchanged.
+
+Correspondence cue B — thickness/return continuity
+
+Independently of the top-boundary alignment, the same volume retains a finite through-thickness return whose lower boundary and thickness relation continue through the same region. This supplies a second geometric cue type: persistent material thickness/return continuity rather than a second drawn copy of the top contour.
+
+Construction-level independence result
+
+The two cue types are structurally distinct enough for Stage 2 admission: one is recoverable upper-boundary alignment; the other is finite-thickness return/continuity. However they can still become perceptually redundant in an actual deterministic view.
+
+Therefore Stage 6 has a hard field-only falsifier:
+if a neutral reviewer can still coherently answer 'the slab/field was simply designed with a wavy edge' and cannot recover a changed local volume, reject before Stage 6 approval. No third clue line, rib, marking or pattern may be added merely to rescue this result.
+
+B material-root mapping
+
+Changed -> restored baseline:
+- left root center: (1105, 704) -> approximately (1150, 704);
+- right root center: (1175, 680) -> approximately (1260, 682).
+
+Root-center x separation:
+- changed: 70 px;
+- restored: 110 px.
+
+Differential restoration:
+- left root shift: +45 px;
+- right root shift: +85 px.
+
+Changed support extents:
+- left: 1090–1120;
+- right: 1160–1190;
+- hull: 1090–1190.
+
+Restored support extents:
+- left: 1135–1165;
+- right: 1245–1275;
+- hull: 1135–1275.
+
+Restored B COM:
+- target x = 1205;
+- minimum inside-hull margin = min(1205-1135,1275-1205) = 70 px.
+
+Restored B scapular/contact-side locus:
+- target x ≈ 1180.
+
+A contact locus:
+- x ≈ 1004.
+
+Restored contact separation:
+- nominal = 176 px;
+- pre-registered minimum = 130 px;
+- positive surplus = 46 px.
+
+Anti-pre-shaped-form / anti-edge-device law
+
+Reject before Stage 6 approval if the deterministic field-only geometry reads primarily as:
+- terrace/platform/stage;
+- bridge/walkway/ribbon;
+- bench/cradle/support furniture;
+- sculpted installation;
+- cliff/ledge/hazard;
+- geological fault/damage;
+- complete decorative wavy slab whose unusual form requires no changed-state inference.
+
+Interior-support / edge-clearance law
+
+Planning nearest support center y ≈ 704; baseline free-edge y ≈ 824.
+Projected center-to-edge clearance ≈ 120 px.
+
+Exact Stage 6 projection must preserve at least 100 px projected clearance from the nearest visible B support footprint to the free-edge trajectory and must show intervening top-field area. No foot may overlap, trace, align with or visually balance on that edge.
+
+Stage 2: PASS AT CONSTRUCTION LEVEL / STAGE 6 FIELD-ONLY TRANSFER PREFLIGHT REMAINS MANDATORY.
+
+3. STAGE 3 — COUNTERFACTUAL / STATIC-EQUILIBRIUM LEDGER
+
+B changed support
+- support hull x 1090–1190;
+- changed COM x 1065;
+- unsupported outside margin 25 px toward A.
+
+Planning passive brace
+- planning supported center of pressure x ≈ 1095;
+- horizontal moment arm from B COM = 30 px;
+- representative support-to-contact vertical separation ≈ 320 px;
+- normalized horizontal brace reaction ≈ 30 / 320 = 0.09375 B-weight units.
+
+Force class
+- B vertical weight is carried by the two field contacts;
+- A supplies lateral/rotational reaction only;
+- one A/B body contact only;
+- no hand/arm force;
+- no edge/rail/object support;
+- no hidden wider support.
+
+A stability
+- support hull x 800–1000;
+- unloaded COM x 900;
+- minimum unloaded margin 100 px.
+
+Conservative coupled stress test
+
+Use 2:1 B:A normalized-weight sensitivity and comparable lever scale.
+Conservative A resultant shift = 30 × 2 = 60 px.
+A unloaded minimum margin = 100 px.
+Worst-direction loaded minimum margin = 40 px.
+
+Result: POSITIVE / PASS AT PLANNING LEVEL.
+
+Exact Stage 6M rule
+
+Future exact visible proxy solids govern. If support hull, mass distribution, moment arm, contact height or effective mass sensitivity changes, recompute and reject/correct if any required positive margin closes.
+
+Restored B
+- support hull 1135–1275;
+- COM x 1205;
+- minimum inside margin 70 px;
+- upper-back locus x ≈ 1180;
+- A locus x ≈ 1004;
+- contact separation 176 px > 130 px floor.
+
+Baseline-restoration counterfactual
+
+restore one-volume flexure
+-> upper edge + thickness return recover surrounding baseline
+-> B left root 1105 -> 1150
+-> B right root 1175 -> 1260
+-> local support orientations return toward common low-relief baseline
+-> hull widens/re-centers to 1135–1275
+-> B COM re-centers to 1205 with >=70 px inside margin
+-> B upper-back locus moves to approximately 1180
+-> brace loci separate 176 px
+-> same depicted passive brace disappears geometrically.
+
+A-removal counterfactual
+
+remove A while changed field + B pose remain frozen
+-> B hull 1090–1190
+-> B COM 1065
+-> 25 px unsupported margin
+-> no alternate support
+-> same pose cannot remain statically available.
+
+B-removal counterfactual
+
+remove B
+-> A stable
+-> changed field may remain
+-> living altered possibility disappears.
+
+Alternate-support ledger
+
+PROHIBITED:
+- B hand/arm/forearm/elbow support;
+- B knee/hip/seat/torso field contact;
+- free-edge/ledge support;
+- rail/wall/object;
+- second A/B contact;
+- A vertical lift/carry;
+- hidden wider B foot proxy;
+- closed pocket/cradle;
+- same contact after baseline restoration.
+
+B changing posture after A removal is an alternate action, not preservation of the same frozen depicted possibility.
+
+Stage 3: PASS AT CONSTRUCTION LEVEL.
+
+4. STAGE 4 — TWO-PERSON NECESSITY PROOF
+
+Remove A
+B remains 25 px outside support with no alternate support.
+PASS.
+
+Remove B
+A remains stable and field change may remain, but living consequence + brace disappear.
+PASS.
+
+Restore baseline
+B gains >=70 px independent support margin and brace loci separate 176 px.
+PASS.
+
+Genericize/interchange
+A and B have different physical jobs and cannot be swapped without breaking the geometry. Later artwork still must preserve three non-color specificity channels.
+PASS AS TRANSLATION REQUIREMENT.
+
+Human-first guardrail
+
+People removed may leave changed-state field evidence, but no living consequence. If Stage 6/6M makes the field edge/flexure itself the primary proposition or support apparatus, reject before renderer.
+
+Stage 4: PASS AT CONSTRUCTION LEVEL.
+
+5. STAGE 5 — RESPONSIVE SEMANTIC ENVELOPE / IDENTITY COEXISTENCE
+
+Harness-derived source windows on 1536 × 960:
+- desktop source window approximately x 0–1536, y 48–912;
+- fixed mobile source window approximately x 554–1321, y 0–960.
+
+Core semantic envelope target
+- x approximately 700–1300;
+- y approximately 170–875.
+
+Required inside fixed mobile window
+- A specific head/body silhouette;
+- A full stable support stance;
+- A lateral ribcage/upper-torso contact region;
+- B specific head/body silhouette;
+- at least 50 px exact-proxy visible head-volume gap;
+- both B foot/support footprints;
+- B changed body-axis relation;
+- one broad posterior-lateral scapular contact;
+- flexure through B support;
+- foreground free-edge + thickness-return changed witness;
+- unchanged witness segment on both sides of local departure;
+- intervening field area showing B is materially interior to free edge;
+- enough broad-field continuation to defeat narrow ribbon/platform read;
+- negative space proving no alternate support.
+
+Planning x containment
+- A support/body: x 800–1004;
+- brace: x 1004–1008;
+- B body: approximately x 1008–1190;
+- changed B feet: 1090–1190;
+- restored audit targets: 1135–1275;
+- useful free-edge witness segment: approximately x 850–1260;
+- all essential targets remain within x 554–1321.
+
+Planning y containment
+- heads: y ≈ 245–250;
+- contact: y ≈ 420;
+- feet: y ≈ 680–704;
+- free-edge / return: roughly y 800–850 through changed projection;
+- all remain inside y 0–960.
+
+Head-gap survival
+
+The fixed mobile crop must preserve the exact Stage 6 head-volume gap. No crop-specific pose or focal adjustment is allowed.
+
+Edge-hazard survival
+
+The fixed mobile crop must show intervening top-field area between B feet and free edge. If the crop visually converts B into a ledge-balancing/fall tableau, reject at Stage 6 responsive preflight.
+
+Far-left identity/copy region
+
+Essential mechanics are excluded from x < approximately 620.
+
+Composition requirement:
+- no required B support, human contact, flexure, free-edge change proof or baseline witness lives there;
+- region remains low-information / calm;
+- no candidate-specific scrim, mask or Harness relocation is assumed.
+
+Prospective optical-value requirement carried to later translation:
+Because the Harness identity/copy assets are fixed light neutrals and Round 07 failed over a pale high-key left field, a future Stage 7 translation for this construction must constrain the identity-bearing left region away from a broad high-key background. It should remain predominantly low-to-mid optical value with enough natural separation for the unchanged light identity system.
+
+This is not a palette selection: no hue, material, setting, lighting mood or exact numeric luminance is chosen here. It is a candidate-neutral integration burden derived directly from the fixed no-scrim Harness and prior empirical failure.
+
+Stage 5 does not declare Brand Integration passed. Final pixels and fixed Harness remain binding.
+
+Supplemental desktop evidence may extend wider, but no hard semantic proof may depend on information outside fixed mobile coverage.
+
+Stage 5: PASS AT CONSTRUCTION LEVEL.
+
+6. MATERIAL-DIFFERENCE DECLARATION FROM C07
+
+This corrected construction changes more than the minimum two linked variables required by the post-Round-07 review:
+
+A. SURFACE CAUSAL EVIDENCE
+The support-changing flexure physically propagates to a viewer-facing one-volume free-edge/thickness-return witness instead of relying primarily on Director-side material-point history inside a smooth local depression.
+
+B. HUMAN CONTACT
+Head/shoulder adjacency is replaced by separated-head scapular/ribcage contact with an exact future visible-gap floor.
+
+C. SUPPORT / BODY GEOMETRY
+The changed support hull is widened relative to the Working 01 / C07-like narrow stance while B COM moves farther outside it. Mechanical dependence comes from the frozen body/support relation, not an artificially converged balancing pose.
+
+Retained deliberately:
+- two-foot field-borne vertical weight;
+- A independent stability;
+- passive brace only;
+- one contact only;
+- Stage 6M exact-visible-solid/statics discipline.
+
+7. PRE-AUDIT DISPOSITION
+
+All five construction stages are complete enough for recursive falsification.
+
+No Candidate 08 identifier is yet established.
+No Stage 6 / Stage 6M / Stage 7 / renderer authority is created.
