@@ -217,7 +217,6 @@ Primary closure evidence:
 This entry is a retroactive currency repair. Round 07 closure and the subsequent C08 succession were already established in repository evidence, but the ledger had no mandatory write-trigger law at the time and remained at L-018. L-018 is preserved as the historical pre-execution state rather than rewritten.
 
 Round 07 / `METHOD02-R07-C07` returned one judgeable 1586 × 992 image and consumed its single authorized attempt. The frozen result was:
-
 - Human Necessity = **4/5 PASS**;
 - Changed-condition legibility = **3/5 FAIL**;
 - Altered Possibility = **3/5 FAIL**;
@@ -384,3 +383,26 @@ Primary reconciliation evidence:
 `docs/evidence/HERO_METHOD_02_D9_THREE_RENDER_BUDGET_DIRECTOR_RECONCILIATION_01.txt`.
 
 **Guardrail:** future hero work requires a newly authorized direction or explicitly new bounded program with its own predeclared round budget. No D9 renderer succession, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero selection, website implementation, Cloudflare change, Lane A/app UI implementation or motion is authorized by this closure.
+
+## L-024 — HTCR-01 opens as a bounded non-render translation/carrier program
+
+**State:** ACTIVE / HTCR-A1 AUTHORIZED / 2 NON-RENDER ANALYSIS ROUNDS MAX / 0 RENDERER EXPENDITURES
+
+The Director instructed continuation after D9 closure. Under the standing in-lane delegation and a clean recursive pre-analysis audit, hero research re-enters through the explicitly new bounded program `HTCR-01 — HERO TRANSLATION / CARRIER RECONCILIATION` rather than through D9 succession.
+
+The frozen parent contract remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01. HTCR-01 changes no score, threshold, S1-S6 rule, Harness geometry/crop/identity treatment or renderer accounting law.
+
+The program investigates whether final translation/carrier is the repeated upstream break between `recoverable changed condition` and `B dependent posture / altered possibility`, while preserving C08's separated-head, passive-support and no-maquette-leakage gains.
+
+Budget was fixed before A1:
+- HTCR-A1 = carrier/depiction-logic divergence;
+- HTCR-A2 = adversarial falsification of A1 survivors;
+- zero renderer expenditures;
+- no A3;
+- A1 closes the program early if it leaves zero survivors;
+- A2 may promote at most one successor translation hypothesis and never a candidate, render packet, reference, prompt or image.
+
+Program authority:
+`docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`.
+
+**Guardrail:** HTCR-01 is not D9 continuation, R09/C09, C08 repair, criterion/Harness mutation or renderer authorization. Any rendered successor requires a separate explicitly bounded program with its own predeclared renderer budget.
