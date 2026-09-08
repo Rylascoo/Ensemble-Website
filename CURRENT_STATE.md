@@ -27,6 +27,7 @@ C08 clearance: normalized-manifest/verifier **102.8395582822086 px**; parallel i
 Contract: `docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`.
 A1: `docs/evidence/HERO_HTCR_01_A1_CARRIER_DIVERGENCE_RESULT_01.txt`.
 A2/closure: `docs/evidence/HERO_HTCR_01_A2_ADVERSARIAL_FALSIFICATION_RESULT_01.txt`.
+Audit: `docs/evidence/HERO_HTCR_01_RECURSIVE_CLOSURE_AUDIT_01.txt`.
 
 A2 promotes one successor translation hypothesis:
 
