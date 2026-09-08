@@ -1,0 +1,199 @@
+KYMÆAN — HERO METHOD 02 POST-ROUND-07 TRANSFER-FIDELITY / CAUSAL-TOPOLOGY REVIEW 01
+
+Status: COMPLETE / RECURSIVELY AUDITED / CLEAN / D9 REMAINS TESTABLE / NO RENDER AUTHORIZED
+Date: 2026-09-08
+Trigger: METHOD02-R07-C07 returned judgeable FAIL
+Primary evidence: HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt
+Comparison evidence: HERO_CANDIDATE_06_METHOD_02_ROUND_06_EVALUATION_01.txt; HERO_METHOD_02_TRANSFER_SURFACE_SUFFICIENCY_INVESTIGATION_01.txt; Stage 6M addendum/audits.
+
+1. PURPOSE
+
+Determine the smallest remaining failure layer after C07 tested the deterministic neutral physical-maquette transfer hypothesis, without laundering Round 07 into a retry, changing frozen post-render law, or prematurely selecting another renderer attempt.
+
+2. WHAT ROUND 07 CHANGED RELATIVE TO ROUND 06
+
+Round 06 / C06 lost both major physical relations during transfer:
+- B became conventionally self-supporting;
+- the surface became pre-existing shallow topography;
+- A↔B became an optional editorial lean.
+
+The post-Round-06 investigation therefore selected T3 — deterministic neutral physical maquette — because it could embody support footprint, body-axis relation, contact and surface depth in one deterministic transfer view.
+
+Round 07 / C07 establishes that T3 was not a null method change.
+
+Transferred successfully into final pixels:
+- two specific necessary people remain primary;
+- A remains independently stable;
+- B remains markedly oblique;
+- both B feet remain surface-borne;
+- B's visible upper-body mass lies materially left of its support contacts;
+- B's frozen depicted pose visibly depends on A lateral support;
+- broad A↔B contact survives;
+- no active hand/arm rescue appears;
+- maquette/CAD/mannequin appearance is translated away;
+- fixed mobile crop retains the human relation and local surface feature.
+
+Therefore Stage 6M materially improved support/mechanical transfer.
+
+3. WHAT STILL FAILED
+
+A. CHANGED-STATE RECOVERY
+The smooth local surface departure is visually acceptable as an already-existing carved/sculpted terrace or landform. A neutral viewer is not forced to reconstruct a simpler baseline.
+
+B. CHANGE -> POSTURE COUPLING
+Even though B is visibly dependent on A, the still does not establish that the local surface condition created B's support/posture relation. Human geometry and surface geometry coexist without an unavoidable causal link.
+
+C. BASELINE-RESTORATION CONSEQUENCE
+Mentally flattening/restoring the local surface does not visibly force B's dependent pose/contact to disappear. The two-person tableau remains coherent.
+
+D. SOCIAL RECODING
+The physically useful contact is translated as a head-on-shoulder intimate/consoling gesture. Mechanical dependence survives, but a familiar interpersonal explanation competes with the intended changed-condition consequence.
+
+E. BRAND-REGION COEXISTENCE
+The pale left environment again conflicts with the fixed light identity/copy system. This is an independent integration failure, not the causal-topology blocker.
+
+4. SMALLEST REMAINING CAUSAL BREAK
+
+The surviving chain is now:
+
+B depicted support/posture -> A passive brace.
+
+The failing chain is:
+
+recoverable changed surface -> B depicted support/posture.
+
+This distinction is binding. Do not summarize Round 07 as another total failure to transfer physical necessity. It transferred the later half of the chain and failed the earlier coupling.
+
+5. STAGE 6M METHOD VERDICT
+
+Stage 6M: PARTIALLY VALIDATED / RETAIN.
+
+It has now demonstrated empirical value at the representation level:
+- support geometry can survive more faithfully than under C06 abstract transfer;
+- visible instability can survive without CAD leakage;
+- passive contact can survive without active hand/arm rescue.
+
+Do not retire Stage 6M on the evidence of Round 07.
+
+Also do not treat Stage 6M as sufficient. Its existing neutral physical surface did not guarantee that baseline/change correspondence would survive naturalistic translation as a changed-state inference.
+
+6. REJECTED NEXT MOVES
+
+R0 — C07 prompt patch / same-reference retry
+REJECT. Consumed attempt; prohibited reroll.
+
+R1 — stronger prose saying the surface caused the lean
+REJECT. The unresolved variable is visual causal coupling; assigning it to more prose repeats the method failure.
+
+R2 — add arrows, marks, guides, registration lines or diagram labels
+REJECT. Violates sterile artwork transfer discipline and repeats the T2 diagram/device risk.
+
+R3 — simply deepen the trough/fold
+REJECT. Stronger depth alone trends toward C05 platform/device or pre-shaped-support failure and does not prove changed-from-baseline status.
+
+R4 — abandon D9 because Round 07 failed
+REJECT. Round 07 newly demonstrates the core passive-brace mechanical relation can survive transfer. D9 is not falsified at the human-support layer.
+
+R5 — keep exact C07 human geometry but merely change final material/style
+REJECT. This would be a cosmetic retry; material appearance alone does not close the change-to-posture causal break.
+
+7. REQUIRED MATERIAL DIFFERENCE FOR ANY D9 SUCCESSOR
+
+A future D9 successor would need a genuinely different candidate construction, not a C07 correction variant.
+
+At minimum it must materially change two linked construction variables:
+
+1. SURFACE CAUSAL EVIDENCE
+Changed-from-baseline evidence must be embodied in physical geometry that the renderer cannot discard while still preserving the transferred surface. It must use at least two natural correspondence families that are themselves physical features of the one continuous surface, not Director-only guides, decorative markings, seams added as clues or prose-only instructions.
+
+Candidate-neutral examples of allowed physical correspondence classes already admitted by Method 02 include:
+- finite free-edge continuation;
+- through-thickness return continuation;
+- repeated physical interval/rhythm only when intrinsic to the surface rather than added annotation;
+- paired contour/edge continuation belonging to the same physical volume.
+
+No specific final material is selected here.
+
+2. HUMAN-CONTACT ANTI-SOCIAL-SHORTCUT GEOMETRY
+The passive brace should not depend on head-rest/face-near-shoulder geometry that naturally becomes affection/consolation. A successor investigation should test whether a broader posterior-lateral upper-back/scapular-to-torso adjacency can remain passive and mechanically necessary while keeping heads clearly separated and hands/arms non-supporting.
+
+This is geometry-level anti-attractor control, not an instruction to suppress emotion in final pixels.
+
+8. CANDIDATE-LEVEL VERSUS METHOD-LEVEL DIAGNOSIS
+
+The new evidence does not justify another representation-method overhaul before candidate investigation.
+
+Why:
+- Stage 6M already solved the human-support transfer problem it was created to address;
+- the surface failure now depends on what physical changed-state evidence the candidate construction itself gives Stage 6M to embody;
+- making the current smooth surface more explicit via transfer markup would repeat rejected T2;
+- a materially different surface mechanism/correspondence topology can be investigated within existing Method 02 + Stage 6M law before proposing new method machinery.
+
+Therefore the next work belongs first at candidate-mechanism geometry investigation, not renderer wording and not a new Stage 6M method addendum.
+
+9. D9 VERDICT
+
+D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE:
+REMAINS TESTABLE IN PRINCIPLE.
+
+Reason:
+Round 07 supplies positive pixel evidence that a passive brace can remain physically necessary and visually primary under naturalistic translation. The unresolved failure is upstream changed-surface causality plus social recoding, both of which can be attacked by materially different candidate geometry without relaxing any frozen criterion.
+
+This is not permission to render again.
+
+10. EXACT NEXT ACTION
+
+Conduct one non-render D9 successor candidate mechanism-geometry investigation with this falsifiable question:
+
+Can one materially different D9 construction make `changed surface -> dependent B support/posture` visible through intrinsic physical correspondence while preserving:
+- one continuous shared surface;
+- no purpose-built support/device/installation reading;
+- B vertical weight surface-borne;
+- A independently stable;
+- passive torso/upper-back contact only;
+- heads separated enough to avoid head-rest shorthand;
+- no hand/arm support;
+- two necessary specific people;
+- fixed mobile semantic containment;
+- calm left identity region;
+- no private state;
+- no final material/style/palette selection?
+
+The investigation may compare candidate mechanism geometries and select at most one successor hypothesis for Stages 1–5 construction if one survives recursive falsification.
+
+No Candidate 08 render, Stage 6/6M artifact, Stage 7 packet, reference transfer or image generation is authorized by this review.
+
+11. RECURSIVE AUDIT
+
+Historical discrimination — PASS.
+C06 and C07 are not collapsed into the same failure. C07's successful transfer of mechanical dependence is preserved as new evidence.
+
+No retry laundering — PASS.
+Same C07 reference, prompt, geometry, material restyle and stronger-prose retry are explicitly rejected.
+
+Method sufficiency — PASS.
+Stage 6M is neither declared successful as a full hero method nor discarded despite demonstrated support-transfer value.
+
+Frozen-law integrity — PASS.
+No Hero Brief/Falsification/Surface Escape/Harness threshold changes.
+
+Candidate/method separation — PASS.
+The remaining surface-coupling failure is first assigned to candidate-mechanism investigation because no evidence yet requires another method-layer extension.
+
+Anti-attractor precision — PASS.
+Head-rest social recoding is addressed as prospective contact geometry, not as a private-state prohibition or post-render scoring rule.
+
+Simplicity / worthwhile improvement — PASS.
+The next question targets exactly the unresolved upstream causal link and does not reopen solved mechanical-transfer variables.
+
+FINAL PASS
+
+One complete recursive pass found no unsupported D9 retirement, hidden Round 08 authorization, C07 retry path, frozen-law change, redundant Stage 6M redesign, private-state rule, or worthwhile narrower next question.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+D9 REMAINS TESTABLE.
+ROUND 07 REMAINS CONSUMED.
+EXACT NEXT ACTION: NON-RENDER D9 SUCCESSOR CHANGE-TO-POSTURE MECHANISM-GEOMETRY INVESTIGATION ONLY.
