@@ -1,0 +1,328 @@
+KYMÆAN — HERO CANDIDATE 08 METHOD 02 STAGE 06 NEUTRAL GEOMETRY SCAFFOLD AUDIT 01
+
+Status: COMPLETE / CORRECTED / CLEAN FINAL PASS / STAGE 6 APPROVED / CANDIDATE-SPECIFIC STAGE 6M AUTHORIZED ONLY
+Date: 2026-09-08
+Candidate: C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE
+Direction: D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE
+
+AUDITED ARTIFACTS
+
+- `docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json`
+  final blob: `4723632104a3b244d23b8cfc7613833e7dc90446`
+- `docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg`
+  final blob: `2df441f01dde933bb1991d991ba5d97754eedae5`
+- final Stage 6 artifact head before this audit: `dd704815f87b7334f956b441ace700a7c2eeabb2`
+
+GOVERNING LAW
+
+- Hero Artwork Brief 02;
+- frozen Falsification Criteria 01;
+- frozen Surface Escape;
+- corrected/re-frozen Harness 01;
+- approved Method 02;
+- Method 02 Neutral Geometry Scaffold Format 01;
+- approved D9 direction;
+- approved Stage 6M Neutral Physical Maquette Transfer Addendum 01;
+- post-Round-07 transfer-fidelity / causal-topology review;
+- D9-S2 successor mechanism/geometry investigation;
+- C08 corrected Method 02 Stages 1–5 construction + clean recursive audit.
+
+AUTHORITY / SCOPE — PASS
+
+The clean C08 Stages 1–5 audit earned Candidate `C08-EWTF-01` and authorized Stage 6 only.
+
+This audit evaluates exact committed Stage 6 bytes. It does not treat a local preview, later maquette, prompt or renderer behavior as evidence for Stage 6.
+
+No Stage 7, renderer/reference transfer, renderer request, image generation, final visual style, final palette/material, website implementation, Harness change, Lane A/app UI implementation or motion is authorized here.
+
+PRE-COMMIT RECURSIVE CORRECTION — APPLIED
+
+The first local scaffold draft represented the lower through-thickness return as an exact constant +26 px copy of the upper free-edge curve through the changed zone.
+
+That was rejected before repository filing because it weakened the second Stage 2 correspondence cue: two exact parallel curves could be perceptually redundant and could read as a deliberately decorative wavy strip.
+
+Correction:
+- unchanged witnesses retain projected thickness 26 px;
+- local flexure projected thickness varies smoothly through 27, 28, 30, 34, 35, 34, 30, 27 px before returning to 26 px;
+- upper and lower boundaries remain continuous and never cross or split;
+- no seam, rib, marker, stripe or extra clue line was added.
+
+This preserves one physical finite-thickness sidewall while making local orientation/thickness departure independently visible rather than duplicating the upper contour.
+
+FORMAT / PRIMITIVE DISCIPLINE — PASS
+
+Transferable scaffold layer contains only:
+- two anonymous figure regions + major body axes;
+- one A↔B critical body-contact segment;
+- two condition paths that are physical boundaries of the same foreground sidewall.
+
+Baseline witness regions, responsive boundaries, support/COM/resultant geometry, material-root mapping, flexure axis, head-gap region and alternate-support/edge-clearance regions are audit objects and remain hidden by default with `transfer_authorized=false`.
+
+No new primitive class is required.
+
+NORMALIZATION / DETERMINISM — PASS
+
+Source artboard = 1536 × 960.
+
+Manifest coordinate values are normalized and rounded to no more than four decimal places.
+
+Direct reconciliation of source-space SVG field-path points against manifest normalized points differs by at most 0.00005 from deterministic rounding.
+
+Responsive windows are calculated from the frozen Harness geometry rather than adjusted for C08:
+- desktop source window = x 0–1536, y 48–912;
+- mobile source window = x 554–1321, y 0–960;
+- desktop calm region remains x 0–600, y 48–912.
+
+No candidate-specific crop/focal adjustment exists.
+
+C08 MATERIAL DIFFERENCE FROM C07 — PASS
+
+C08 is not a C07 reroll.
+
+The exact Stage 6 structure implements the three approved material differences:
+
+1. SURFACE CAUSAL EVIDENCE
+The changed support flexure is planned as one open deformation path that propagates from the B support neighborhood to a visible free-edge / thickness-return witness. C07 relied primarily on an interior smooth deformation whose causal mapping was difficult for a viewer to reconstruct.
+
+2. HUMAN CONTACT TOPOLOGY
+C08 uses separated-head scapular/upper-back ↔ lateral-ribcage/upper-torso contact. Head-on-shoulder contact is excluded.
+
+3. SUPPORT GEOMETRY
+C08 changed support hull = x 1090–1190 with COM x 1065; the 25 px unsupported margin is achieved with a wider two-foot stance rather than preserving C07's narrower convergence.
+
+Retaining D9 semantics and Stage 6M tooling is controlled continuity, not retry laundering.
+
+HEAD-SEPARATION / CONTACT AUDIT — PASS
+
+Exact Stage 6 head ellipses:
+- A center x 925, rx 42 -> right edge x 967;
+- B center x 1055, rx 36 -> left edge x 1019.
+
+Exact visible silhouette gap = 52 px.
+Required floor = 50 px.
+Positive surplus = 2 px.
+
+The only A↔B contact is x 1004–1008 at y 420, below the head regions, structurally representing broad scapular/upper-back ↔ lateral torso contact.
+
+No head/head, head/shoulder, hand/arm, grasp, catch, lift, push or second contact is encoded.
+
+The 2 px head-gap surplus is intentionally narrow but positive. Stage 6M exact solid construction must preserve the >=50 px fixed-projection visible-gap floor; it may not consume that surplus through proxy inflation without separately correcting Stage 6 geometry.
+
+B SUPPORT / STATIC LEDGER — PASS
+
+Changed B support:
+- left support x 1090–1120;
+- right support x 1160–1190;
+- conservative hull x 1090–1190;
+- changed COM x 1065;
+- unsupported margin = 1090 - 1065 = 25 px toward A;
+- planning COP x 1095;
+- representative brace moment arm = 30 px;
+- normalized lateral brace-reaction proxy = 30 / 320 = 0.09375 B-weight units.
+
+A support:
+- hull x 800–1000;
+- unloaded COM x 900;
+- unloaded minimum margin = 100 px;
+- 2:1 B:A conservative sensitivity shift = 60 px;
+- loaded minimum positive margin = 40 px.
+
+Restored B:
+- support hull x 1135–1275;
+- COM x 1205;
+- minimum inside margin = 70 px;
+- restored upper-back contact-side locus x 1180;
+- A contact locus x 1004;
+- restored separation = 176 px;
+- required floor = 130 px;
+- surplus = 46 px.
+
+No zero-margin or arithmetic contradiction exists.
+
+These are Stage 6 planning/static constraints only. Stage 6M must recompute COM/support/reaction from the exact visible transferable solids. Stage 6 numbers cannot manufacture a Stage 6M pass.
+
+MATERIAL-ROOT MAPPING / CONTINUITY — PASS
+
+Director-side baseline -> changed x map anchors:
+- 650 -> 650;
+- 950 -> 950;
+- 1000 -> 1000;
+- 1150 -> 1105;
+- 1260 -> 1175;
+- 1320 -> 1320.
+
+Segment slopes:
+- 1.0000;
+- 1.0000;
+- 0.7000;
+- 0.6364;
+- 2.4167.
+
+Every slope is positive. The mapping is continuous and orientation-preserving with no x foldover.
+
+It realizes exactly:
+- B-left root restoration +45 px;
+- B-right root restoration +85 px;
+- root-center separation 70 px changed -> 110 px restored.
+
+This is differential deformation, not rigid translation of one self-contained C06-style support patch.
+
+The hidden flexure centerline `(1190,620) -> (1160,690) -> (1045,824)` passes through the B support neighborhood and terminates at the same foreground sidewall whose changed geometry is visible. It is audit-only and not a transferable clue line.
+
+CHANGED-STATE CORRESPONDENCE — PASS AT STAGE 6 AFTER CORRECTION
+
+Cue A: upper free-edge alignment.
+The upper path has long unchanged straight continuation, one local open departure, then returns to the same larger alignment.
+
+Cue B: finite-thickness return continuity.
+The lower physical return preserves one continuous sidewall and a stable 26 px projected thickness in unchanged witnesses while local projected thickness changes smoothly through the torsional region and returns to 26 px.
+
+The two cue types are no longer exact parallel copies in the changed region.
+
+Neutral field-only construction inference:
+- simpler recoverable organization = straight, constant-projected-thickness foreground sidewall;
+- changed region = one local smooth coupled departure in edge position + projected thickness/orientation;
+- unchanged organization resumes on both sides.
+
+No extra seam, crack, joint, rib, stripe, contour marker, registration line, arrow, grid, label or measurement survives in the scaffold layer.
+
+Residual risk remains: a naturalistic renderer can still recode a flexed sidewall as pre-existing architecture/terrain. Stage 6 is not a final Changed-condition pass. The candidate-specific Stage 6M field-only view must rerun this falsifier on actual physical volume before Stage 7.
+
+FIELD-ONLY PRE-EXISTING-FORM / PLATFORM AUDIT — PASS AT STAGE 6
+
+The structural field witness is one localized smooth departure in a much longer baseline continuation.
+
+It does not close into:
+- basin;
+- cradle;
+- foot pocket;
+- chair;
+- bench;
+- ramp;
+- stair;
+- bridge;
+- rail;
+- narrow ribbon;
+- detached platform;
+- purpose-built support object.
+
+The flexure does not terminate under B; it continues to the visible edge and the field extends beyond the local mechanism.
+
+Because Stage 6 is a line scaffold rather than physical volume, this pass is conditional on Stage 6M reproducing the broad-field relation rather than turning the free edge into a slab/platform protagonist.
+
+B-REMOVED / PEOPLE-REMOVED PREFLIGHT — PASS AT STAGE 6
+
+B removed:
+A remains independently stable. Nothing in the field outline becomes a purpose-built support for A.
+
+Both people removed:
+the local coupled edge/thickness departure can remain as changed-condition evidence, but the altered human possibility and passive brace proposition disappear.
+
+Human necessity therefore remains separate from field-change visibility.
+
+ANTI-EDGE-HAZARD / INTERIOR-SUPPORT AUDIT — PASS
+
+Nearest B support center planning y = 704.
+Baseline foreground free edge y = 824.
+Planning projected center-to-edge clearance = 120 px.
+
+Required future Stage 6/6M projected clearance floor = 100 px.
+Current planning surplus = 20 px.
+
+Neither B foot overlaps, traces, aligns with or uses the free edge as a support boundary. An intervening top-field region is reserved.
+
+If Stage 6M fixed projection makes B appear to stand on a ledge/cliff despite this source relation, Stage 6M must fail/correct rather than reinterpret the edge as acceptable drama.
+
+RESPONSIVE / HARNESS CONTAINMENT — PASS
+
+Fixed mobile source window x 554–1321 contains:
+- all of A;
+- all of B;
+- exact head gap;
+- the only A↔B contact;
+- both changed B support footprints;
+- the flexure support neighborhood;
+- foreground free-edge + thickness-return witness;
+- unchanged witness continuation on both sides;
+- intervening field area needed to show B is interior rather than edge-balanced.
+
+The rightmost restored audit root x 1275 remains inside the fixed mobile window.
+
+No essential mechanism occupies the fixed desktop calm region x 0–600.
+
+The construction does not move the Harness or assume a crop rescue.
+
+IDENTITY-COEXISTENCE DISCIPLINE — PASS AS A LATER TRANSLATION BURDEN
+
+Round 07 independently failed Brand Integration because the fixed light identity/copy system sat over broad pale high-key artwork.
+
+C08 Stage 6 therefore preserves a nonessential calm left region and carries forward the prospective rule that later translation must not place a broad high-key field behind the fixed light identity system.
+
+No hue, palette, material, final luminance number, scrim, mask or brand geometry is encoded in Stage 6.
+
+Final Brand Integration remains unearned until final pixels are placed in the unchanged Harness.
+
+NEGATIVE SPACE / ALTERNATE SUPPORT — PASS
+
+Audit-only negative-space regions preserve:
+- the visible head gap;
+- no alternate B lower-body support;
+- intervening top-field area before the free edge.
+
+Prohibited alternate supports remain closed:
+- hand/arm/forearm/elbow;
+- knee/hip/seat/torso;
+- free-edge ledge;
+- rail/wall/vertical object;
+- second human contact;
+- A vertical lift/carry;
+- hidden wider B support;
+- closed pocket/cradle.
+
+AESTHETIC / PRIVATE-STATE CONTAMINATION — PASS
+
+No final palette, material identity, finish, texture, lighting, clothing style, facial feature, hair identity, demographic coding, culture, historical period, named style, symbolic prop, emotion, gaze meaning, knowledge, belief, memory, intention, motive, Threshold K/O3 geometry or brand color is encoded.
+
+The scaffold is monochrome structural instrumentation only.
+
+STAGE 6M NECESSITY — PASS / AUTHORIZED NEXT REPRESENTATION
+
+C08 specifically depends on a relationship that 2D Stage 6 cannot prove strongly enough for renderer transfer:
+- the same 3D surface flexure must physically affect B's two support neighborhoods;
+- the flexure must propagate through one broad continuous volume to the free-edge / thickness-return witness;
+- exact support solids, body COM, passive contact and free-edge clearance must coexist under the already-fixed orthographic instrumentation.
+
+Round 07 established that Stage 6M can successfully transfer mechanically dependent B->A posture without leaking the maquette medium. The unresolved problem is whether a new candidate-specific physical volume can make `changed field -> dependent posture` equally transfer-visible.
+
+Therefore C08 satisfies the existing Stage 6M addendum condition. Candidate-specific Stage 6M construction is warranted and is the only next representation authorized.
+
+Stage 6M may not:
+- change Stage 6 x/y causal relationships without separately audited correction;
+- tune camera/projection for this candidate;
+- add seam/rib/marker clues;
+- collapse the >=50 px head gap;
+- reduce the >=100 px projected edge clearance;
+- add any support contact;
+- select final style/material/palette;
+- enter Stage 7 until its own audit is clean.
+
+FINAL RECURSIVE PASS
+
+CLEAN.
+
+One complete pass after the edge/return correction found no remaining material schema violation, coordinate mismatch, arithmetic defect, foldover, zero-margin statics, hidden support, C07 retry laundering, head-rest shortcut, edge-balance dependency, platform/device dependency, responsive defect, identity-rescue assumption, private-state encoding, aesthetic contamination, camera-tuning loophole, renderer authority leak or worthwhile simpler Stage 6 correction.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Candidate C08-EWTF-01 Method 02 Stage 6 Neutral Geometry Scaffold:
+APPROVED.
+
+AUTHORIZED NEXT ACTION
+
+Construct Candidate 08 / C08-EWTF-01 Stage 6M Neutral Physical Maquette from the exact approved Stage 6 geometry using the already-approved/fixed mechanism-neutral Stage 6M instrumentation. Recompute exact visible-solid COM/support/contact statics and run field-only baseline/change, anti-platform/installation, head-gap, edge-clearance, leakage and responsive preflights. Recursively audit Stage 6M before any Stage 7 package.
+
+NOT AUTHORIZED
+
+No Stage 7 renderer packet, sanitized renderer reference, renderer request, image generation/Round 08, final hero/style/palette, production website implementation, Harness change, Lane A/app UI implementation or motion is authorized by this audit.
