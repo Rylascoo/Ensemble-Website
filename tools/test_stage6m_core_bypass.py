@@ -10,6 +10,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 FIXTURE = ROOT / "docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01.json"
 CORE = ROOT / "tools/stage6m_maquette_core.py"
 SOURCE_PARTS = sorted((ROOT / "tools").glob("stage6m_maquette_core_source.part*"))
+EXPECTED_SOURCE_PART_NAMES = [f"stage6m_maquette_core_source.part{i}" for i in range(1, 6)]
 
 
 class Stage6MCoreBypassTest(unittest.TestCase):
@@ -22,7 +23,7 @@ class Stage6MCoreBypassTest(unittest.TestCase):
         self.assertIn("mandatory hardening", proc.stderr)
 
     def test_preserved_source_data_is_not_directly_executable(self) -> None:
-        self.assertTrue(SOURCE_PARTS)
+        self.assertEqual([p.name for p in SOURCE_PARTS], EXPECTED_SOURCE_PART_NAMES)
         for source in SOURCE_PARTS:
             proc = subprocess.run(
                 [sys.executable, str(source), "validate", str(FIXTURE)],

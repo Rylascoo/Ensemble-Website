@@ -7,7 +7,7 @@ docs/evidence/HERO_METHOD_02_STAGE_6M_TOOLING_FORMAT_IMPLEMENTATION_01.txt
 
 PURPOSE
 
-Preserve the first Stage 6M tooling implementation as historical sequence while recording the physical/statics corrections found by recursive audit before tooling approval.
+Preserve the first Stage 6M implementation record as historical sequence while recording the physical/statics corrections found by recursive audit before tooling approval.
 
 This hardening does not create Candidate 07, does not reopen C06, and does not authorize a candidate-specific maquette or renderer request.
 
@@ -33,9 +33,11 @@ CORRECTIONS
 
 10. Each proxy's convex prism decomposition must itself be boundary-connected, preventing disconnected mass components from silently participating in COM/support calculations.
 
-11. The internal first-version generator core is no longer a canonical executable path. The public entrypoint requires the hardening layer; the base implementation is preserved only as compressed, encoded, inert data split across files whose contents begin with an intentionally non-Python sentinel. The loader verifies and decodes those parts before constructing the internal module. Direct execution of either the loader or any preserved source-data part is required to fail, and hosted CI tests both bypass paths.
+11. The internal base generator is not a canonical executable path. The public entrypoint requires the hardening layer. The base snapshot used by that layer is stored only as compressed, encoded, inert data split across exactly five files whose contents begin with an intentionally non-Python sentinel. The loader rejects missing or extra parts and verifies that the decoded snapshot has pinned Git-blob identity `fb3f367a4064129c1421c2008c7f4622e85bcc14` before executing it internally. Direct execution of either the loader or any source-data part is required to fail, and hosted CI tests both bypass paths.
 
-The source-data encoding correction was added after the first hardened hosted run passed: recursive audit noticed that Python will execute a plain `.txt` containing Python source. That first hardened run is therefore evidence of an intermediate state, not final approval evidence.
+The original first implementation remains preserved by repository history at blob `c99046240b0aa053ad8efa0de287d13cde8305b4`; the internal split-core snapshot is not claimed to be byte-identical to that historical blob because it already contains intermediate statics corrections made during recursive hardening.
+
+The source-data encoding correction was added after the first hardened hosted run passed: recursive audit noticed that Python will execute a plain `.txt` containing Python source. That run is therefore intermediate evidence, not final approval evidence.
 
 FINAL IMPLEMENTATION LAYOUT
 
@@ -48,8 +50,8 @@ Mandatory hardening layer:
 Fail-closed internal loader:
 `tools/stage6m_maquette_core.py`
 
-Preserved first-version core bytes as compressed/encoded noncanonical data:
-`tools/stage6m_maquette_core_source.part1` through the complete ordered `part*` set.
+Pinned compressed/encoded internal base snapshot:
+`tools/stage6m_maquette_core_source.part1` through `part5` exactly.
 
 Primary unit suite:
 `tools/test_stage6m_maquette.py`
@@ -70,7 +72,9 @@ NON-CANDIDATE VALIDATION RESULT
 
 Local final validation after all corrections:
 - 13 primary unit tests: PASS;
-- 2 bypass tests: PASS (loader bypass + direct execution of every source-data part);
+- 2 bypass tests: PASS (loader bypass + direct execution of every exact source-data part);
+- exact five-part set check: PASS;
+- decoded internal-source Git-blob identity check: PASS;
 - deterministic fixture SVG/report byte check: PASS;
 - `automated_validation_pass`: true;
 - `transfer_eligible`: false.
@@ -91,6 +95,6 @@ Therefore the fixture cannot become transfer-eligible merely because its mechani
 
 BOUNDARY
 
-A final hosted validation and independent committed-byte readback of this corrected source-data architecture are required before Stage 6M mechanism-neutral tooling can be approved.
+A final hosted validation and independent committed-byte readback of this corrected pinned-source architecture are required before Stage 6M mechanism-neutral tooling can be approved.
 
 No candidate-specific Stage 6M manifest, Candidate 07, C06 rerender, reference transfer, image generation, final hero/style/palette, Harness change, website/app implementation or motion is authorized by this record.
