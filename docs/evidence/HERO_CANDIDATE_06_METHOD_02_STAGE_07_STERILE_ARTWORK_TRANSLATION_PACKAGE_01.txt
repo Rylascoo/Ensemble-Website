@@ -27,16 +27,17 @@ Repository artifact:
 docs/evidence/renderer/C06-ASPB-01_STAGE07_SANITIZED_STRUCTURAL_REFERENCE.svg
 
 Blob SHA:
-c30751e7f04daf7d5b3bcd1d698c2d75aa9b8153
+8f362f03ab7adfc2a858ce4ef18f346eb0f75e53
 
 The sanitized reference contains only:
-- white artboard;
+- one transparent 1536 × 960 SVG viewport;
 - three visible continuous field-registration paths;
 - anonymous A figure geometry/body axis;
 - anonymous B figure geometry/body axis;
 - one compact passive contact segment.
 
 It contains no:
+- background fill;
 - project/candidate title or description;
 - element IDs or semantic labels;
 - metadata;
@@ -58,7 +59,7 @@ Repository artifact:
 docs/evidence/renderer/C06-ASPB-01_STAGE07_STERILE_RENDERER_PACKET.txt
 
 Blob SHA:
-1cf4594e8bcebc2ea65669c8e6ed8a832f31a123
+4201e78d5b627203b096ef1dc1257f740c51074c
 
 The packet contains no Kymaean/Ensemble/project/candidate name, repository/Drive history, prior artwork description, score threshold, critique history, brand asset or engineering implementation detail.
 
@@ -67,12 +68,13 @@ If later execution is authorized, renderer text must be byte-for-byte the packet
 5. SEMANTIC TRANSLATION PRESERVED
 The packet preserves only the construction facts needed beyond the geometry reference:
 - two visibly specific adults remain the primary event;
-- B remains vertically field-supported;
+- B remains vertically supported by the continuous physical surface;
 - B requires lateral/rotational passive contact with independently stable A;
 - A does not lift/catch/grasp/push/pull/actively help;
 - no hand/arm support is allowed;
 - baseline restoration moves B outward to independent balance and removes contact;
 - changed-state evidence is a modest local displacement inside one larger continuous organization;
+- redundant correspondences, rather than literal scaffold lines, must carry baseline recovery;
 - people are differentiated through non-color channels;
 - no private-state interpretation is required;
 - relation/change evidence remains central-right and far-left remains nonessential.
@@ -97,8 +99,8 @@ The structural reference is successful only if its geometry informs composition 
 Returned artwork fails the candidate if visible structural-reference leakage survives as a primary or material feature, including:
 - scaffold-like black linework;
 - diagram/technical-outline treatment;
-- white-board/reference-sheet presentation;
-- literal three-line schematic band rendered as unexplained annotation rather than physical structure;
+- reference-sheet presentation;
+- literal schematic registration lines rendered as unexplained annotation rather than natural physical correspondence;
 - visible reference marks or geometry-guide artifacts.
 
 Leakage failure consumes the attempt. It is not a free reroll.
@@ -122,7 +124,7 @@ This is not a retry or correction variant of Candidate 04/05.
 Materially different construction variables include:
 - exact authored-field burden removed under resolved ODR-33 authority;
 - A no longer causes the field change;
-- B's vertical weight remains field-borne;
+- B's vertical weight remains surface-borne;
 - physical necessity is B changed support/posture -> passive A lateral/rotational brace;
 - baseline restoration physically separates the human contact by 235 px in the precommitted model;
 - Stage 6 transfer surface is a modest local residual displacement rather than Candidate 04 smooth distributed flexure or Candidate 05 stronger fold/device geometry;
