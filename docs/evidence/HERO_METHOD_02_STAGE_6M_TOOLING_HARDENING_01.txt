@@ -1,0 +1,94 @@
+KYMÆAN — HERO METHOD 02 STAGE 6M TOOLING HARDENING 01
+
+Status: HARDENING IMPLEMENTED / HOSTED VALIDATION REQUIRED / NO CANDIDATE MAQUETTE OR RENDER AUTHORIZED
+Date: 2026-09-07
+Parent implementation:
+docs/evidence/HERO_METHOD_02_STAGE_6M_TOOLING_FORMAT_IMPLEMENTATION_01.txt
+
+PURPOSE
+
+Preserve the first Stage 6M tooling implementation as historical sequence while recording the physical/statics corrections found by recursive audit before tooling approval.
+
+This hardening does not create Candidate 07, does not reopen C06, and does not authorize a candidate-specific maquette or renderer request.
+
+CORRECTIONS
+
+1. Projection and neutral instrumentation remain frozen method constants. Candidate manifests cannot tune them.
+
+2. Proxy mass solids must be interior-disjoint. Positive-volume overlap is rejected so uniform-density COM cannot double-count material that the visible solid represents only once.
+
+3. Declared proxy-to-proxy contact must be literal coincident 3D adjacency contained by both exact proxy solids. A hidden symbolic contact cannot substitute for visible physical adjacency.
+
+4. Static moments use source-artboard physical scale: horizontal arms are multiplied by source width and vertical arms by source height. Normalized x/y are not treated as square physical coordinates.
+
+5. Unsupported instability means the exact uniform-density COM lies outside the actual support interval. minimum_margin remains a pre-registered pass threshold; merely missing a preferred positive safety margin does not redefine a geometrically supported pose as unstable.
+
+6. A support_contact solid must physically share a boundary segment with the one shared surface volume. Support extent is derived from that actual shared boundary, not from the whole nominal foot solid.
+
+7. Proxy solids may not penetrate shared-surface solids.
+
+8. Distinct proxies may meet at shared boundaries/contact but may not interpenetrate by positive volume.
+
+9. Stage 6M uses exactly one shared physical surface volume. Its convex prism decomposition must be interior-disjoint and boundary-connected.
+
+10. Each proxy's convex prism decomposition must itself be boundary-connected, preventing disconnected mass components from silently participating in COM/support calculations.
+
+11. The internal first-version generator core is no longer a canonical executable path. The public entrypoint requires the hardening layer; the preserved base implementation is loaded as internal source data and direct core execution/generation fails closed unless hardening has activated it. Hosted CI includes an explicit bypass test.
+
+FINAL IMPLEMENTATION LAYOUT
+
+Canonical entrypoint:
+tools/stage6m_maquette.py
+
+Mandatory hardening layer:
+tools/stage6m_maquette_hardening.py
+
+Fail-closed internal loader:
+tools/stage6m_maquette_core.py
+
+Preserved first-version core bytes as noncanonical source data:
+tools/stage6m_maquette_core_source.txt
+
+Primary unit suite:
+tools/test_stage6m_maquette.py
+
+Core-bypass test:
+tools/test_stage6m_core_bypass.py
+
+Schema / fixture / deterministic evidence:
+docs/evidence/stage6m/STAGE6M_MANIFEST_SCHEMA_01.json
+docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01.json
+docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_SANITIZED.svg
+docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_REPORT.json
+
+Hosted validator:
+.github/workflows/stage6m-tooling.yml
+
+NON-CANDIDATE VALIDATION RESULT
+
+Local final validation after these corrections:
+- 13 primary unit tests: PASS;
+- 1 direct-core bypass test: PASS;
+- deterministic fixture SVG/report byte check: PASS;
+- automated_validation_pass: true;
+- transfer_eligible: false.
+
+Fixture static facts:
+- P unsupported: stable, +56.98329208 source px support margin;
+- Q unsupported: unstable, -15.5052879 source px support margin;
+- Q supported by actual P↔Q contact: stable;
+- required horizontal reaction fraction on Q: 0.08137019 of normalized Q weight;
+- Q target-COP margin: +5 source px;
+- P loaded resultant margin: +52.21844059 source px.
+
+The two subjective transfer gates remain deliberately UNASSESSED:
+- maquette_leakage = UNASSESSED;
+- surface_read = UNASSESSED.
+
+Therefore the fixture cannot become transfer-eligible merely because its mechanical checks pass. The fixture is tooling evidence only and is not candidate artwork.
+
+BOUNDARY
+
+Hosted validation and independent committed-byte readback are still required before Stage 6M mechanism-neutral tooling can be approved.
+
+No candidate-specific Stage 6M manifest, Candidate 07, C06 rerender, reference transfer, image generation, final hero/style/palette, Harness change, website/app implementation or motion is authorized by this record.

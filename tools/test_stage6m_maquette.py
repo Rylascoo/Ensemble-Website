@@ -67,6 +67,57 @@ class Stage6MToolingTests(unittest.TestCase):
         with self.assertRaises(ValidationError):
             validate_manifest(mutated)
 
+    def test_support_solid_must_contact_shared_surface(self) -> None:
+        mutated = copy.deepcopy(self.fixture)
+        for solid in mutated["proxy_volumes"][0]["solids"]:
+            if solid["id"] == "P-foot":
+                solid["polygon"] = [[0.34, 0.72], [0.46, 0.72], [0.46, 0.76], [0.34, 0.76]]
+        with self.assertRaises(ValidationError):
+            validate_manifest(mutated)
+
+    def test_proxy_may_not_penetrate_shared_surface(self) -> None:
+        mutated = copy.deepcopy(self.fixture)
+        for solid in mutated["proxy_volumes"][0]["solids"]:
+            if solid["id"] == "P-foot":
+                solid["polygon"] = [[0.34, 0.76], [0.46, 0.76], [0.46, 0.80], [0.34, 0.80]]
+        with self.assertRaises(ValidationError):
+            validate_manifest(mutated)
+
+    def test_distinct_proxies_may_touch_but_not_interpenetrate(self) -> None:
+        mutated = copy.deepcopy(self.fixture)
+        for solid in mutated["proxy_volumes"][1]["solids"]:
+            if solid["id"] == "Q-contact-pad":
+                solid["polygon"] = [[0.48, 0.40], [0.54, 0.40], [0.54, 0.45], [0.48, 0.45]]
+        with self.assertRaises(ValidationError):
+            validate_manifest(mutated)
+
+    def test_static_solver_uses_source_artboard_aspect_ratio(self) -> None:
+        _, report_text = deterministic_bytes(self.fixture)
+        report = json.loads(report_text)
+        supported = next(c for c in report["static_cases"] if c["id"] == "Q-supported-by-P")
+        self.assertAlmostEqual(supported["fx_fraction_of_proxy_weight"], 0.08137019, places=8)
+
+    def test_surface_solids_must_be_convex_and_connected(self) -> None:
+        mutated = copy.deepcopy(self.fixture)
+        mutated["surface_volumes"][0]["solids"][1]["polygon"] = [
+            [0.65, 0.78], [0.75, 0.72], [0.72, 0.80], [0.85, 0.78], [0.85, 0.84], [0.65, 0.84]
+        ]
+        with self.assertRaises(ValidationError):
+            validate_manifest(mutated)
+
+        mutated = copy.deepcopy(self.fixture)
+        for pnt in mutated["surface_volumes"][0]["solids"][2]["polygon"]:
+            pnt[0] = round(pnt[0] + 0.03, 4)
+        with self.assertRaises(ValidationError):
+            validate_manifest(mutated)
+
+    def test_proxy_solids_must_be_boundary_connected(self) -> None:
+        mutated = copy.deepcopy(self.fixture)
+        head = next(s for s in mutated["proxy_volumes"][0]["solids"] if s["id"] == "P-head")
+        head["polygon"] = [[0.30,0.20],[0.36,0.20],[0.36,0.29],[0.30,0.29]]
+        with self.assertRaises(ValidationError):
+            validate_manifest(mutated)
+
     def test_schema_constants_match_implementation(self) -> None:
         schema = json.loads(SCHEMA.read_text(encoding="utf-8"))
         props = schema["properties"]
@@ -74,6 +125,7 @@ class Stage6MToolingTests(unittest.TestCase):
         self.assertEqual(props["projection"]["const"], FROZEN_PROJECTION)
         self.assertEqual(props["instrumentation"]["const"], FROZEN_INSTRUMENTATION)
         self.assertEqual(props["sanitization"]["const"], FROZEN_SANITIZATION)
+        self.assertEqual(props["surface_volumes"]["maxItems"], 1)
 
 
 if __name__ == "__main__":

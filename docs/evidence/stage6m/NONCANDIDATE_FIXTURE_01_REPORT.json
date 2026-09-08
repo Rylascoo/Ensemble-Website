@@ -12,11 +12,24 @@
         0.56941522,
         0.10918317
       ],
+      "support_contact_points": [
+        [
+          0.46,
+          0.78
+        ],
+        [
+          0.34,
+          0.78
+        ]
+      ],
       "support_x": [
         0.34,
         0.46
       ],
-      "support_y": 0.78,
+      "support_y_range": [
+        0.78,
+        0.78
+      ],
       "support_z": [
         0.05,
         0.16
@@ -29,11 +42,24 @@
         0.54133373,
         0.10948296
       ],
+      "support_contact_points": [
+        [
+          0.62,
+          0.78
+        ],
+        [
+          0.58,
+          0.78
+        ]
+      ],
       "support_x": [
         0.58,
         0.62
       ],
-      "support_y": 0.78,
+      "support_y_range": [
+        0.78,
+        0.78
+      ],
       "support_z": [
         0.05,
         0.16
@@ -48,22 +74,30 @@
     "allow_text": false,
     "transparent_background": true
   },
+  "source_artboard": {
+    "height": 700,
+    "width": 1000
+  },
   "static_cases": [
     {
       "actual": "stable",
       "computed_margin": 0.05698329,
+      "computed_margin_source_px": 56.98329208,
       "expected": "stable",
       "id": "P-unsupported",
       "kind": "unsupported",
+      "minimum_margin": 0.01,
       "pass": true,
       "proxy": "P"
     },
     {
       "actual": "unstable",
       "computed_margin": -0.01550529,
+      "computed_margin_source_px": -15.5052879,
       "expected": "unstable",
       "id": "Q-unsupported",
       "kind": "unsupported",
+      "minimum_margin": 0.01,
       "pass": true,
       "proxy": "Q"
     },
@@ -71,15 +105,18 @@
       "actual": "stable",
       "counterparty": "P",
       "counterparty_margin": 0.05221844,
+      "counterparty_margin_source_px": 52.21844059,
       "counterparty_resultant_x": 0.39221844,
       "expected": "stable",
-      "fx_fraction_of_proxy_weight": 0.05695913,
+      "fx_fraction_of_proxy_weight": 0.08137019,
       "id": "Q-supported-by-P",
       "kind": "supported_pair",
+      "minimum_margin": 0.005,
       "pass": true,
       "proxy": "Q",
       "proxy_margin": 0.005,
-      "required_fx_on_proxy": 9.694e-05,
+      "proxy_margin_source_px": 5.0,
+      "required_fx_on_proxy": 0.00013849,
       "target_cop_x": 0.585
     }
   ],
