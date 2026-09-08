@@ -251,3 +251,45 @@ Primary evidence:
 - `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
 
 **Guardrail:** C07 remains consumed and closed. C08 is not a C07 reroll. Read `CURRENT_STATE.md` for the exact Stage 6M construction boundary and any active audit correction that must close before Stage 6M promotion.
+
+## L-020 — Candidate 08 Stage 6M is closed clean; Stage 7 sterile construction is the next lawful gate
+
+**State:** C08 STAGE 6M COMPLETE / PROMOTED / CLEAN / STAGE 7 STERILE PACKAGE CONSTRUCTION AUTHORIZED / ROUND 08 UNSPENT
+
+Candidate `C08-EWTF-01` has completed the candidate-specific Stage 6M Neutral Physical Maquette. The promoted deterministic physical model preserves the intended causal topology while keeping the transfer surface mechanism-neutral and non-aesthetic: A is independently stable; B is unsupported without A; the single registered passive A↔B upper-torso/scapular contact closes B's support; and A remains stable under that reaction.
+
+Exact promoted Stage 6M checkpoint:
+`b8d6bf12884872c609a86942ed545ce7df10cfcd`.
+
+Exact-main hosted Stage 6M workflow run `34255553033` completed successfully on that SHA. The permanent verifier regenerates and pins the canonical deterministic outputs:
+
+- sanitized SVG SHA-256: `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`;
+- report SHA-256: `064f4e94072089c0b9266c0943d99578398345e68f873948fabeaeefdd9099bc`.
+
+Machine-checked C08 quantities:
+
+- A unsupported margin: **90.61033316 px stable**;
+- B unsupported margin: **-25.27305046 px**, therefore genuinely unsupported;
+- B supported-by-A margin: **5.0688 px stable**;
+- A margin under B reaction: **93.09357443 px stable**;
+- preregistered conservative 2:1 A sensitivity margin: **44.009678473114956 px**, above the 40 px floor;
+- projected visible-solid head gap: **51.91680000000012 px**, above the 50 px floor;
+- exact corrected Stage 6 changed support-root/free-edge clearance: **102.8395582822086 px**, above the 100 px floor;
+- exact normalized Stage 6M physical support-root/free-edge clearance: **102.85483969465605 px**, above the 100 px floor.
+
+The earlier Stage 6 `120 px` support-to-edge figure is preserved only as undeformed-baseline planning provenance. It is not the controlling changed-state clearance. The reconciliation changed no approved Stage 6 visible x/y geometry.
+
+Human preflight of the exact canonical hosted Stage 6M view passed both registered review fields: `maquette_leakage=PASS` and `surface_read=PASS`. The broad shared field remains continuous; the local changed condition does not become a platform/bridge/chair/installation; the separated-head passive brace survives; fixed-mobile semantic containment survives; and no CAD bookkeeping, guides, labels, metadata or aesthetic authority transfers.
+
+Primary closure evidence:
+- `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_EDGE_CLEARANCE_METADATA_CORRECTION_01.txt`;
+- `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_6M_NEUTRAL_PHYSICAL_MAQUETTE_AUDIT_01.txt`;
+- `docs/evidence/stage6m/C08-EWTF-01_STAGE6M_MANIFEST.json`;
+- `docs/evidence/stage6m/C08-EWTF-01_STAGE6M_REPORT.json`;
+- `tools/verify_c08_stage6m.py`.
+
+**Re-derive:** regenerate the deterministic Stage 6M bytes from the promoted manifest, verify the exact SVG/report hashes and report-byte equality, rerun `tools/verify_c08_stage6m.py`, and inspect exact-main workflow run `34255553033` plus the Stage 6M audit. The distinction between `102.839558...` Stage 6 source geometry and `102.854839...` normalized Stage 6M physical geometry is intentional and documented.
+
+**Survives now:** YES. This Stage 6M reference is the active structural transfer input until superseded by a later approved artifact.
+
+**Guardrail:** Stage 6M closure authorizes only Candidate 08 Stage 7 sterile artwork translation-package construction and recursive pre-render audit. It does not authorize renderer execution, image generation, reference mutation, Round 08 spend, final hero/style/palette selection, website implementation, Cloudflare change, Harness mutation, Lane A/app UI implementation or motion.

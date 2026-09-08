@@ -1,0 +1,249 @@
+CANDIDATE 08 METHOD 02 — STAGE 6M NEUTRAL PHYSICAL MAQUETTE AUDIT 01
+
+Status:
+CLOSED / PROMOTED / RECURSIVELY AUDITED / CLEAN / STAGE 07 STERILE PACKAGE CONSTRUCTION AUTHORIZED / NO RENDER / ROUND 08 UNSPENT
+
+Candidate:
+C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE
+
+Date:
+2026-09-08
+
+PURPOSE
+
+Close Candidate 08 Stage 6M only. This audit verifies that the approved Stage 6 causal geometry survives conversion into the mechanism-neutral physical-maquette representation, that the same visible solids drive the Director-side static calculations, that the discovered Stage 6 support-to-free-edge planning-metadata defect is reconciled without changing approved Stage 6 visible geometry, and that the deterministic Stage 6M transfer surface is safe to use as the sole structural reference for a later sterile Stage 7 package.
+
+This record does not spend Round 08, execute a renderer, select a final hero, approve style/palette, authorize website implementation, or alter any frozen post-render criterion.
+
+AUTHORITATIVE INPUTS
+
+- docs/evidence/HERO_METHOD_02_D9_S2_CONSTRUCTION_STAGES_01_05_RECURSIVE_AUDIT_01.txt
+- docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt
+- docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_EDGE_CLEARANCE_METADATA_CORRECTION_01.txt
+- docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg
+- docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json
+- docs/evidence/stage6m/C08-EWTF-01_STAGE6M_MANIFEST.json
+- docs/evidence/stage6m/C08-EWTF-01_STAGE6M_REPORT.json
+- tools/verify_c08_stage6m.py
+- .github/workflows/stage6m-tooling.yml
+
+PROMOTED MACHINE-VALIDATED CHECKPOINT
+
+Exact promoted main commit:
+b8d6bf12884872c609a86942ed545ce7df10cfcd
+
+Exact promoted tree:
+cb736a87d4d2f7ea6daa79766fcfc3e08a9830cc
+
+Exact-main Stage 6M workflow run:
+34255553033
+
+Run state:
+COMPLETED / SUCCESS
+
+The run executed on head SHA exactly b8d6bf12884872c609a86942ed545ce7df10cfcd after non-forced fast-forward promotion. It passed Stage 6M unit tests, internal-core bypass/hardening tests, deterministic noncandidate regression, Candidate 07 deterministic regression, and the permanent Candidate 08 verifier.
+
+PINNED C08 STAGE 6M ARTIFACTS
+
+Stage 6M manifest Git blob:
+b3edc0b51c81596f15876390c10b8ba43dbb7408
+
+Stage 6M report Git blob:
+cfee7b7cc195fde80317c1756e947d1846324530
+
+Permanent C08 verifier Git blob:
+43ef76d3f5b585930fcedcdfe3abcb9335dab541
+
+Stage 6M workflow Git blob:
+550c6492028810b2188045a17f9086e50fcbb11e
+
+Stage 6 clearance-correction evidence Git blob:
+d0db61cdb7418264aebeea83cdfd24665349a8a3
+
+Canonical deterministic sanitized SVG SHA-256:
+54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db
+
+Canonical deterministic report SHA-256:
+064f4e94072089c0b9266c0943d99578398345e68f873948fabeaeefdd9099bc
+
+The permanent verifier regenerates the deterministic sanitized SVG/report from the promoted manifest, checks both exact SHA-256 values, and requires the regenerated report bytes to equal the committed report bytes exactly.
+
+STATIC / PHYSICAL VALIDATION
+
+The visible proxy solids are the same solids used for the Director-side mass/support calculations.
+
+A unsupported:
+- expected stable;
+- actual stable;
+- source-space support margin = 90.61033316 px;
+- PASS.
+
+B unsupported:
+- expected unstable;
+- actual unstable;
+- source-space margin = -25.27305046 px;
+- B remains 25.27305046 px outside its support condition;
+- PASS.
+
+B supported by A through the single registered passive contact:
+- expected stable;
+- actual stable;
+- B source-space supported margin = 5.0688 px;
+- A/counterparty source-space margin under the reaction = 93.09357443 px;
+- required horizontal reaction fraction = 0.11671379 of B proxy weight;
+- PASS.
+
+Conservative preregistered 2:1 B-to-A weight-sensitivity check:
+- A resultant support margin = 44.009678473114956 px;
+- required floor = 40 px;
+- PASS.
+
+The mechanical chain is therefore not being asserted only by drawing convention. Within the deliberately simplified neutral-maquette model, A is independently stable, B is genuinely unsupported without A, the one passive A↔B contact closes B's supported state, and A remains stable under that reaction including the preregistered conservative sensitivity case.
+
+HEAD-SEPARATION VALIDATION
+
+Projected visible-solid head gap:
+51.91680000000012 px
+
+Frozen minimum:
+50 px
+
+Result:
+PASS
+
+The separated-head correction survives physicalization. The support relation does not require head-to-head or head-on-shoulder contact.
+
+STAGE 6 EDGE-CLEARANCE RECONCILIATION
+
+The original Stage 6 manifest contains a 120 px B-support-to-free-edge planning figure. Recursive audit established that this figure came from the undeformed/baseline upper edge at y=824 and is therefore a legacy baseline planning value, not the controlling changed-state registered support-root clearance.
+
+The permanent verifier recomputes the changed-state Stage 6 clearance from the frozen Stage 6 geometry at the registered changed left support root and obtains:
+102.8395582822086 px
+
+Frozen minimum:
+100 px
+
+Result:
+PASS
+
+No approved Stage 6 visible x/y geometry was changed. The correction changes interpretation of stale planning metadata only; the legacy 120 px value is preserved as historical baseline-planning provenance and is explicitly prevented from regaining controlling status.
+
+STAGE 6M PHYSICAL EDGE-CLEARANCE VALIDATION
+
+The Stage 6M physical solid decomposition uses normalized coordinates and therefore produces a minute rounding difference from the exact Stage 6 source geometry. Recomputing the physical left support-root/free-edge relation from the actual Stage 6M visible solids yields:
+102.85483969465605 px
+
+Frozen minimum:
+100 px
+
+Result:
+PASS
+
+The 102.839558... px Stage 6 value and 102.854839... px Stage 6M value are not contradictory measurements. The former is the exact frozen Stage 6 source-space changed-state geometry; the latter is the physically reconstructed Stage 6M normalized-solid manifestation. Both exceed the same 100 px floor.
+
+DETERMINISTIC / SANITIZATION AUDIT
+
+Manifest human-review state:
+- maquette_leakage = PASS
+- surface_read = PASS
+- transfer_eligible = true
+
+Sanitization remains fail-closed:
+- guides forbidden;
+- ids forbidden;
+- metadata forbidden;
+- text forbidden;
+- transparent background required.
+
+The deterministic transfer view carries no measurement labels, registration devices, explanatory arrows, audit guides, text, hidden metadata, brand treatment, palette decision, final material styling or aesthetic authority.
+
+SURFACE-READ / ANTI-INSTALLATION PREFLIGHT
+
+Human visual preflight was performed against the exact canonical hosted Stage 6M SVG bytes, including full, field-only and fixed-mobile inspections.
+
+Observed result:
+- the shared surface reads as one broad continuous finite-thickness field;
+- the changed condition is expressed as a localized coupled edge/thickness departure within that field rather than as a separate inserted object;
+- field-only reading does not collapse into a self-contained platform, bridge, chair, cradle or purpose-built support installation;
+- A plus the surface does not become an independently purpose-shaped support device;
+- B remains physically implicated in the changed support relation;
+- the separated-head passive upper-torso/scapular brace remains legible without active hand/arm support;
+- the fixed mobile semantic window retains both people, their registered contact, their support relation and the changed-surface witness;
+- no CAD/maquette bookkeeping seam or technical annotation transfers.
+
+Result:
+PASS
+
+MECHANISM / AESTHETIC AUTHORITY BOUNDARY
+
+Stage 6M is a formal/reconstructible transfer aid. Its numbers and simple neutral solids exist to preserve physical relationships through the renderer boundary. They do not authorize:
+- literal mannequin/block aesthetics;
+- grayscale palette;
+- CAD rendering;
+- literal maquette materials;
+- visible support polygons, COM markers or forces;
+- any brand styling;
+- any final camera or illumination choice beyond what a later sterile transfer packet lawfully specifies.
+
+The deterministic sanitized Stage 6M view may serve only as structural reference under the already-approved Method 02 transfer rules.
+
+RESPONSIVE AUDIT
+
+The fixed mobile window retains the semantic core and does not turn the C08 mechanism into a desktop-only explanation. No separate mobile redraw or alternate causal geometry is introduced.
+
+Result:
+PASS
+
+RECURSIVE AUDIT
+
+Pass 1 checked:
+- Stage 6 -> Stage 6M topology fidelity;
+- static-case polarity and margins;
+- visible-solid/model identity;
+- passive-contact singularity;
+- A independent stability;
+- B unsupported instability;
+- supported-pair closure;
+- 2:1 sensitivity margin;
+- projected head separation;
+- corrected Stage 6 edge clearance;
+- physical Stage 6M edge clearance;
+- deterministic byte pinning;
+- sanitization;
+- anti-platform/installation reading;
+- mobile containment;
+- authority leakage;
+- round-spend state;
+- next-stage scope.
+
+Material defect found during the construction sequence:
+the Stage 6 120 px planning figure was not the exact changed-state clearance.
+
+Correction:
+the error was reconciled in a dedicated evidence record and permanent verifier, without changing frozen visible Stage 6 geometry. Exact changed-state Stage 6 clearance is 102.8395582822086 px and exact physical Stage 6M manifestation is 102.85483969465605 px; both pass the unchanged 100 px floor.
+
+Pass 2 rechecked the corrected authority chain, the promoted deterministic manifest/report, exact hashes, permanent verifier, exact-main successful workflow, human preflights, responsive containment and downstream authority boundary.
+
+No remaining material error, inconsistency, ambiguity, unsupported promotion, criterion mutation, or worthwhile in-scope improvement was found.
+
+FINAL DECISION
+
+C08 Stage 6M Neutral Physical Maquette:
+APPROVED / CLOSED / CLEAN / PROMOTED
+
+Candidate C08 may now enter Stage 7 sterile artwork translation-package CONSTRUCTION and its recursive pre-render audit.
+
+Stage 7 authorization means only preparation of the sterile transfer packet around the exact sanitized deterministic Stage 6M reference. It does not authorize renderer execution. Renderer/image generation remains blocked until the Stage 7 package itself passes recursive pre-render audit under the standing Method 02 workflow.
+
+ROUND / PRODUCT BOUNDARY
+
+Round 08:
+UNSPENT
+
+No image-generation attempt occurred in Stage 6M.
+
+No renderer call, C07 retry, candidate reroll, frozen-criterion mutation, final hero selection, style/palette selection, production website implementation, Cloudflare change, Harness mutation, Lane A/app UI implementation or motion work is authorized by this closure.
+
+APPROVAL
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.

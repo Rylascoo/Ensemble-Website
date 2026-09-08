@@ -27,19 +27,13 @@ D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**: **APPROVED / REMAINS 
 
 - `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
 - `C07-CBSR-01`: **CLOSED / ROUND 07 FAIL / CONSUMED / NO RETRY**.
-- `C08-EWTF-01`: **ACTIVE / METHOD 02 STAGES 1–6 APPROVED / STAGE 6M AUTHORIZED ONLY**.
+- `C08-EWTF-01`: **ACTIVE / METHOD 02 STAGES 1–6M APPROVED / STAGE 7 STERILE PACKAGE CONSTRUCTION AUTHORIZED ONLY**.
 
 Round 07 canonical evaluation:
 `docs/evidence/HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt`.
 
-Durable Round 07 / C08 succession entry:
-`docs/evidence/DESIGN_LEDGER.md` — L-019.
-
-Round 07's material positive result is retained: Stage 6M successfully transferred `B dependent support/posture -> A passive brace`. The remaining smallest break is upstream:
-
-`recoverable changed surface -> B dependent support/posture`.
-
-Stage 6M remains **PARTIALLY VALIDATED / RETAIN**.
+Durable C08 Stage 6M closure entry:
+`docs/evidence/DESIGN_LEDGER.md` — L-020.
 
 ## Active candidate
 
@@ -52,29 +46,57 @@ Canonical Stages 1–5 audit:
 Canonical Stage 6 audit:
 `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
 
-Stage 6 status:
-**COMPLETE / CLEAN / APPROVED / CANDIDATE-SPECIFIC STAGE 6M AUTHORIZED ONLY.**
+Stage 6 clearance reconciliation:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_EDGE_CLEARANCE_METADATA_CORRECTION_01.txt`.
 
-## Active Stage 6M boundary
+Canonical Stage 6M audit:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_6M_NEUTRAL_PHYSICAL_MAQUETTE_AUDIT_01.txt`.
 
-Current artifact under construction:
-**C08 Stage 6M Neutral Physical Maquette** using the already-frozen mechanism-neutral Stage 6M tooling/instrumentation.
+Stage 6M status:
+**COMPLETE / PROMOTED / RECURSIVELY AUDITED / CLEAN.**
 
-Before Stage 6M may be promoted, reconcile one discovered Stage 6 planning-metadata defect without changing approved Stage 6 x/y geometry: the recorded 120 px B-support-to-free-edge figure used the undeformed baseline edge at y=824. Interpolation against the actual changed upper free-edge geometry gives approximately **102.8 px** source-space nearest clearance at the controlling changed support root, still above the frozen **100 px** minimum. Treat 120 px as a stale baseline-edge planning value, not the exact changed-state clearance.
+Exact promoted Stage 6M checkpoint:
+`b8d6bf12884872c609a86942ed545ce7df10cfcd`.
 
-Stage 6M must recompute exact visible-solid COM/support/contact statics, preserve the >=50 px projected head-silhouette gap, preserve >=100 px projected B-support/free-edge clearance, pass field-only baseline/change and anti-platform/installation preflights, avoid maquette/CAD leakage, preserve fixed mobile semantic containment, and use the same visible proxy solids for the Director-side mass/static model.
+Exact-main Stage 6M workflow:
+`34255553033` — **SUCCESS**.
+
+Canonical deterministic sanitized Stage 6M SVG SHA-256:
+`54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`.
+
+Canonical deterministic report SHA-256:
+`064f4e94072089c0b9266c0943d99578398345e68f873948fabeaeefdd9099bc`.
+
+C08 Stage 6M preserves the required physical chain in the neutral model: A independently stable; B unsupported without A; one passive A↔B contact closes B support; A remains stable under that reaction. Permanent verification also passes the preregistered 2:1 A sensitivity floor, the >=50 px projected head-gap floor, and the >=100 px B-support/free-edge floor.
+
+The stale Stage 6 `120 px` figure is retained only as undeformed-baseline planning provenance. Exact changed-state Stage 6 support-root clearance is `102.8395582822086 px`; exact normalized Stage 6M physical manifestation is `102.85483969465605 px`. No approved Stage 6 visible x/y geometry changed.
+
+## Active Stage 7 boundary
+
+Current lawful artifact:
+**C08 Method 02 Stage 7 Sterile Artwork Translation Package**, followed by its recursive pre-render audit.
+
+Stage 7 may transfer only the exact sanitized deterministic Stage 6M structural reference plus the minimum sterile language permitted by Method 02. It must not transfer audit guides, COM/support/force annotations, hidden metadata, maquette/CAD aesthetics, brand/style/palette instructions not independently authorized, or alternate causal geometry.
+
+The Stage 7 package must preserve:
+- one broad continuous changed surface with recoverable free-edge/thickness witness;
+- B's changed support/posture dependence;
+- A's passive independently stable brace role;
+- separated heads and the scapular/ribcage contact topology;
+- fixed mobile semantic containment;
+- renderer isolation and no explanatory narrative dependence.
 
 ## Exact next action
 
-Complete and recursively audit **C08 Stage 6M only**, including the clearance-metadata reconciliation above and canonical deterministic manifest/report/view validation. Do not enter Stage 7 unless Stage 6M itself earns a clean gate.
+Construct and recursively audit **C08 Stage 7 sterile artwork translation package only** from the exact sanitized Stage 6M reference. Do not execute a renderer or generate an image unless the Stage 7 package itself earns a clean pre-render gate.
 
 ## Hard boundary
 
 **Round 08 is UNSPENT.**
 
-No C07 retry, Round 07 reroll, frozen-criterion mutation, Stage 7 renderer packet, reference transfer, renderer request, image generation, final hero/style/palette, production website implementation, Harness change, Lane A/app UI implementation or motion is authorized.
+No renderer request, image generation, reference mutation, C07 retry, C08 reroll, frozen-criterion mutation, final hero/style/palette selection, production website implementation, Cloudflare change, Harness change, Lane A/app UI implementation or motion is authorized yet.
 
-The repository-write currency law is now in `AGENTS.md`: round consumption, candidate closure/rejection, reopening/termination changes and material re-entry-boundary changes require ledger/current-state continuity in the same logical closure operation before later-stage artifacts proceed.
+Repository-write currency law remains active: round consumption, candidate closure/rejection, reopening/termination changes and material re-entry-boundary changes require ledger/current-state continuity in the same logical closure operation before later-stage artifacts proceed.
 
 ## E0-E watch
 
