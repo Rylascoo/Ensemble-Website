@@ -430,3 +430,25 @@ Primary evidence:
 No renderer, image, prompt, reference or material/style selection occurred. No frozen score, S1-S6 gate, Surface Escape rule or Harness implementation changed.
 
 **Guardrail:** DPSC-01 is not a candidate and does not authorize pixels. The next hero gate is a separate bounded rendered-successor program proposal with its renderer budget, construction method, pre-render rejection rules, material-difference rule and termination consequence frozen before any renderer expenditure. No HTCR-A3 exists.
+
+## L-026 — DPSC-RSP-01 opens as a bounded rendered-successor program
+
+**State:** ACTIVE / DPSC-C01 CONSTRUCTION AUTHORIZED / 0 RENDERER EXPENDITURES CURRENTLY AUTHORIZED / 2 JUDGEABLE EXPENDITURES MAXIMUM
+
+After HTCR-01 closed successfully, DPSC-01 re-enters through the explicitly new program `DPSC-RSP-01 — DPSC RENDERED SUCCESSOR PROGRAM 01`. It is not D9 continuation and does not use Round 09/Candidate 09 numbering.
+
+Before candidate construction, the program freezes:
+- D0-D5 candidate-construction method;
+- P1-P13 pre-render rejection rules;
+- a maximum of two judgeable expenditures, DPSC-E1/E2, with no E3 and no free reroll;
+- DPSC-E2 only for a materially different approved DPSC-C02 after an E1 failure;
+- material-difference law for C02;
+- renderer isolation and exact-input gate;
+- all success/failure/termination consequences.
+
+Program authority:
+`docs/evidence/HERO_DPSC_RENDERED_SUCCESSOR_PROGRAM_01.txt`.
+
+The second expenditure is optional, not owed. If C01 fails and no materially different C02 survives pre-render falsification, the program closes after 1 of 2 possible expenditures. A full rendered PASS closes the program immediately. Any judgeable image consumes its candidate's expenditure; genuine no-image technical failure does not consume but creates no automatic retry.
+
+**Guardrail:** activation authorizes only DPSC-C01 construction through D0-D5 and recursive P1-P13 falsification. No renderer call is authorized until a specific candidate has frozen sanitized renderer-visible bytes, passed a candidate-specific clean pre-render audit, and `CURRENT_STATE.md` explicitly names the execution gate. No D9/R09/C09 continuation, C08 retry, frozen-contract/Harness mutation, final hero selection, production website deployment, Lane A implementation or motion is created by this program.
