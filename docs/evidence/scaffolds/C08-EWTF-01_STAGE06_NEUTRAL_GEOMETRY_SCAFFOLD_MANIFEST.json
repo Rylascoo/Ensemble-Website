@@ -19,43 +19,15 @@
     {
       "id": "A",
       "type": "figure_region",
-      "bbox": [
-        0.5208,
-        0.201,
-        0.6536,
-        0.7396
-      ],
-      "body_axis": [
-        [
-          0.6022,
-          0.3438
-        ],
-        [
-          0.5859,
-          0.7292
-        ]
-      ],
+      "bbox": [0.5208, 0.201, 0.6536, 0.7396],
+      "body_axis": [[0.6022, 0.3438], [0.5859, 0.7292]],
       "structural_role": "independently stable passive lateral_rotational brace"
     },
     {
       "id": "B",
       "type": "figure_region",
-      "bbox": [
-        0.6562,
-        0.2104,
-        0.7747,
-        0.7396
-      ],
-      "body_axis": [
-        [
-          0.6868,
-          0.3438
-        ],
-        [
-          0.7454,
-          0.7188
-        ]
-      ],
+      "bbox": [0.6562, 0.2104, 0.7747, 0.7396],
+      "body_axis": [[0.6868, 0.3438], [0.7454, 0.7188]],
       "structural_role": "changed field_borne support occupant requiring passive lateral_rotational brace"
     }
   ],
@@ -64,20 +36,8 @@
       "id": "contact-1",
       "type": "critical_contact",
       "relation": "broad passive posterior_lateral scapular_or_upper_back to lateral_ribcage_or_upper_torso contact; lateral_rotational reaction only; vertical support excluded; head contact excluded",
-      "geometry": [
-        [
-          0.6536,
-          0.4375
-        ],
-        [
-          0.6562,
-          0.4375
-        ]
-      ],
-      "participants": [
-        "A",
-        "B"
-      ]
+      "geometry": [[0.6536, 0.4375], [0.6562, 0.4375]],
+      "participants": ["A", "B"]
     }
   ],
   "condition_paths": [
@@ -85,126 +45,53 @@
       "id": "field-free-edge-upper",
       "type": "condition_path",
       "role": "continuity_path",
-      "points": [
-        [0.4232, 0.8583],
-        [0.5208, 0.8583],
-        [0.6185, 0.8583],
-        [0.638, 0.8583],
-        [0.651, 0.8562],
-        [0.6641, 0.85],
-        [0.6803, 0.8396],
-        [0.6934, 0.8333],
-        [0.7064, 0.8354],
-        [0.7227, 0.8417],
-        [0.7422, 0.851],
-        [0.7552, 0.8573],
-        [0.7682, 0.8583],
-        [0.8138, 0.8583],
-        [0.8464, 0.8583]
-      ]
+      "points": [[0.4232, 0.8583], [0.5208, 0.8583], [0.6185, 0.8583], [0.638, 0.8583], [0.651, 0.8562], [0.6641, 0.85], [0.6803, 0.8396], [0.6934, 0.8333], [0.7064, 0.8354], [0.7227, 0.8417], [0.7422, 0.851], [0.7552, 0.8573], [0.7682, 0.8583], [0.8138, 0.8583], [0.8464, 0.8583]]
     },
     {
       "id": "field-thickness-return-lower",
       "type": "condition_path",
       "role": "continuity_path",
-      "points": [
-        [0.4232, 0.8854],
-        [0.5208, 0.8854],
-        [0.6185, 0.8854],
-        [0.638, 0.8854],
-        [0.651, 0.8844],
-        [0.6641, 0.8792],
-        [0.6803, 0.8708],
-        [0.6934, 0.8688],
-        [0.7064, 0.8719],
-        [0.7227, 0.8771],
-        [0.7422, 0.8823],
-        [0.7552, 0.8854],
-        [0.7682, 0.8854],
-        [0.8138, 0.8854],
-        [0.8464, 0.8854]
-      ]
+      "points": [[0.4232, 0.8854], [0.5208, 0.8854], [0.6185, 0.8854], [0.638, 0.8854], [0.651, 0.8844], [0.6641, 0.8792], [0.6803, 0.8708], [0.6934, 0.8688], [0.7064, 0.8719], [0.7227, 0.8771], [0.7422, 0.8823], [0.7552, 0.8854], [0.7682, 0.8854], [0.8138, 0.8854], [0.8464, 0.8854]]
     }
   ],
   "baseline_witness_regions": [
     {
       "id": "baseline-left",
       "type": "baseline_witness_region",
-      "polygon": [
-        [0.4232, 0.7917],
-        [0.638, 0.7917],
-        [0.638, 0.9115],
-        [0.4232, 0.9115]
-      ]
+      "polygon": [[0.4232, 0.7917], [0.638, 0.7917], [0.638, 0.9115], [0.4232, 0.9115]]
     },
     {
       "id": "baseline-right",
       "type": "baseline_witness_region",
-      "polygon": [
-        [0.7682, 0.7917],
-        [0.8464, 0.7917],
-        [0.8464, 0.9115],
-        [0.7682, 0.9115]
-      ]
+      "polygon": [[0.7682, 0.7917], [0.8464, 0.7917], [0.8464, 0.9115], [0.7682, 0.9115]]
     }
   ],
   "negative_space_regions": [
     {
       "id": "head-separation",
       "type": "negative_space_region",
-      "polygon": [
-        [0.6296, 0.2031],
-        [0.6634, 0.2031],
-        [0.6634, 0.3177],
-        [0.6296, 0.3177]
-      ],
+      "polygon": [[0.6296, 0.2031], [0.6634, 0.2031], [0.6634, 0.3177], [0.6296, 0.3177]],
       "purpose": "preserve visible head_volume separation and exclude head_on_shoulder contact"
     },
     {
       "id": "B-alternate-support-negative-space",
       "type": "negative_space_region",
-      "polygon": [
-        [0.6445, 0.7458],
-        [0.7943, 0.7458],
-        [0.7943, 0.8229],
-        [0.6445, 0.8229]
-      ],
+      "polygon": [[0.6445, 0.7458], [0.7943, 0.7458], [0.7943, 0.8229], [0.6445, 0.8229]],
       "purpose": "exclude alternate B body_field or independent support geometry"
     },
     {
       "id": "B-free-edge-clearance",
       "type": "negative_space_region",
-      "polygon": [
-        [0.6836, 0.7458],
-        [0.7878, 0.7458],
-        [0.7878, 0.8333],
-        [0.6836, 0.8333]
-      ],
+      "polygon": [[0.6836, 0.7458], [0.7878, 0.7458], [0.7878, 0.8333], [0.6836, 0.8333]],
       "purpose": "preserve intervening top_field area so B support remains materially interior to the foreground free edge"
     }
   ],
   "occlusion_order": [],
   "responsive_boundaries": [
-    {
-      "id": "desktop-source-window",
-      "type": "responsive_boundary",
-      "bbox": [0.0, 0.05, 1.0, 0.95]
-    },
-    {
-      "id": "mobile-source-window",
-      "type": "responsive_boundary",
-      "bbox": [0.3607, 0.0, 0.86, 1.0]
-    },
-    {
-      "id": "semantic-core",
-      "type": "responsive_boundary",
-      "bbox": [0.4557, 0.1771, 0.8464, 0.9115]
-    },
-    {
-      "id": "desktop-calm-region",
-      "type": "responsive_boundary",
-      "bbox": [0.0, 0.05, 0.3906, 0.95]
-    }
+    {"id": "desktop-source-window", "type": "responsive_boundary", "bbox": [0.0, 0.05, 1.0, 0.95]},
+    {"id": "mobile-source-window", "type": "responsive_boundary", "bbox": [0.3607, 0.0, 0.86, 1.0]},
+    {"id": "semantic-core", "type": "responsive_boundary", "bbox": [0.4557, 0.1771, 0.8464, 0.9115]},
+    {"id": "desktop-calm-region", "type": "responsive_boundary", "bbox": [0.0, 0.05, 0.3906, 0.95]}
   ],
   "audit_only_constraints": {
     "transfer_authorized": false,
@@ -241,7 +128,8 @@
     "baseline_contact_separation_px": 176,
     "minimum_baseline_contact_separation_px": 130,
     "baseline_contact_separation_surplus_px": 46,
-    "B_support_to_free_edge_planning_clearance_px": 120,
+    "B_support_to_free_edge_clearance_px": 102.8,
+    "B_support_to_free_edge_clearance_basis": "exact_integer_stage6_svg_polyline_at_registered_left_support_root",
     "minimum_projected_support_to_free_edge_clearance_px": 100,
     "changed_flexure_centerline_audit_only": [[0.7747, 0.6458], [0.7552, 0.7188], [0.6803, 0.8583]],
     "changed_flexure_transition_width_planning_px": [170, 210],
@@ -256,57 +144,16 @@
     "field_projected_thickness_px_sequence": [26, 26, 26, 26, 27, 28, 30, 34, 35, 34, 30, 27, 26, 26, 26],
     "field_only_preexisting_form_test": "PASS_AT_STAGE6_RECOVERABLE_STRAIGHT_CONSTANT_THICKNESS_BASELINE_WITH_LOCAL_COUPLED_EDGE_AND_THICKNESS_DEPARTURE__STAGE6M_RECHECK_REQUIRED",
     "B_removed_preexisting_form_test": "PASS_NO_PURPOSE_BUILT_HUMAN_SUPPORT_READING_AT_STAGE6",
-    "anti_edge_hazard_test": "PASS_B_SUPPORT_IS_INTERIOR_WITH_120_PX_PLANNING_CLEARANCE_AND_100_PX_MINIMUM",
+    "anti_edge_hazard_test": "PASS_B_SUPPORT_IS_INTERIOR_WITH_102_8_PX_EXACT_SOURCE_CLEARANCE_AND_100_PX_MINIMUM",
     "head_rest_shortcut_test": "PASS_EXACT_STAGE6_HEAD_SILHOUETTE_GAP_52_PX",
     "support_root_material_mapping_test": "PASS_DIFFERENTIAL_45_85_PX_NOT_RIGID_PATCH_TRANSLATION",
     "identity_region_semantic_exclusion": "PASS_NO_ESSENTIAL_MECHANICS_X_LT_620",
     "identity_region_future_translation_burden": "avoid broad high_key background behind fixed light identity; no scrim or harness rescue"
   },
   "prohibited_support_contacts": [
-    "B_hand_field",
-    "B_arm_field",
-    "B_forearm_field",
-    "B_elbow_field",
-    "B_knee_field",
-    "B_hip_field",
-    "B_seat_field",
-    "B_torso_field",
-    "free_edge_ledge",
-    "rail_wall_vertical_surface",
-    "second_human_contact",
-    "A_vertical_lift_carry",
-    "hidden_wider_B_foot_support",
-    "closed_support_pocket_cradle"
+    "B_hand_field", "B_arm_field", "B_forearm_field", "B_elbow_field", "B_knee_field", "B_hip_field", "B_seat_field", "B_torso_field", "free_edge_ledge", "rail_wall_vertical_surface", "second_human_contact", "A_vertical_lift_carry", "hidden_wider_B_foot_support", "closed_support_pocket_cradle"
   ],
   "forbidden_encoded_variables": [
-    "final_palette",
-    "material_identity",
-    "surface_finish",
-    "lighting",
-    "texture",
-    "clothing_style",
-    "facial_features",
-    "hair_style_identity",
-    "ethnicity",
-    "race",
-    "historical_period",
-    "named_artistic_style",
-    "symbolic_props",
-    "narrative_caption",
-    "emotion",
-    "gaze_meaning",
-    "knowledge",
-    "belief",
-    "memory",
-    "intention",
-    "motive",
-    "Threshold_K_geometry",
-    "O3_geometry",
-    "brand_colors",
-    "decorative_marks",
-    "renderer_specific_language",
-    "visible_flexure_centerline",
-    "registration_clue_line",
-    "candidate_specific_camera"
+    "final_palette", "material_identity", "surface_finish", "lighting", "texture", "clothing_style", "facial_features", "hair_style_identity", "ethnicity", "race", "historical_period", "named_artistic_style", "symbolic_props", "narrative_caption", "emotion", "gaze_meaning", "knowledge", "belief", "memory", "intention", "motive", "Threshold_K_geometry", "O3_geometry", "brand_colors", "decorative_marks", "renderer_specific_language", "visible_flexure_centerline", "registration_clue_line", "candidate_specific_camera"
   ]
 }
