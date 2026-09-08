@@ -1,0 +1,97 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 5 CLOSURE AUDIT CONTRACT 01
+
+Status: ACTIVE PHASE 5 CONTRACT / EXPLICITLY ESTABLISHED AFTER VERIFIED AUTHORITY GAP
+Date: 2026-09-07
+
+AUTHORITY BASIS
+`docs/evidence/D_R1_POST_PHASE_4_NEXT_PHASE_AUTHORITY_GAP_01.txt` verified that no repository-authoritative Phase 5 definition existed after clean Phase 4 closure and authorized exactly two next paths: locate an existing authoritative definition, or explicitly establish the missing Phase 5/closure contract before further restructuring.
+
+The Director then instructed the project to continue. A fresh repository/default-branch search, D-R1 commit-history search, pre-D-R1 CURRENT_STATE readback, surviving branch-name search, and current bootstrap/evidence review still found no pre-existing Phase 5 contract. The locate-existing-contract path is therefore exhausted.
+
+PURPOSE
+Phase 5 is the smallest non-redesign phase that can close D-R1 without inventing additional structural work:
+
+D-R1 PHASE 5 = FINAL STRUCTURAL CLOSURE AUDIT + AUTHORITY HANDBACK.
+
+Phase 5 does not create another cleanup program. It verifies that the already-stated D-R1 objectives are actually satisfied by Phases 0–4, records the result durably, and returns `CURRENT_STATE.md` to the exact previously paused creative gate if and only if the audit is clean.
+
+D-R1 OBJECTIVES TO VERIFY
+The corrected Phase 0 diagnosis defines the structural purpose as:
+- retrievability;
+- status separation;
+- closure persistence;
+- prevention of uncited re-derivation;
+- publication isolation.
+
+Phase 5 may not broaden those objectives.
+
+AUTHORIZED READ/VERIFY SCOPE
+1. Phase 0 corrected closure and classification authority.
+2. Phase 1 durable bootstrap (`AGENTS.md`, `CURRENT_STATE.md`, `docs/evidence/DESIGN_LEDGER.md`).
+3. Phase 2 machine-status/index/validator/CI adoption.
+4. Phase 3 preservation-tag + branch-deletion closure.
+5. Phase 4 `site/` publication-boundary isolation.
+6. D-R1 baseline-to-current repository diff for prohibited `prototypes/` or `assets/` mutation.
+7. Current remote branch count and exact Phase 3 archival-tag preservation.
+8. Current document-status CI at the Phase 5 closure head.
+9. Phase 6 trigger condition against the corrected Phase 0 diagnosis.
+10. Exact creative handback boundary that existed before D-R1 interrupted it.
+
+AUTHORIZED WRITES
+Phase 5 may write only:
+- this Phase 5 contract;
+- one Phase 5 closure evidence record;
+- `docs/evidence/DESIGN_LEDGER.md` closure/handback entry;
+- `CURRENT_STATE.md` final D-R1 closure and exact resumed boundary.
+
+No other repository mutation is authorized by Phase 5.
+
+PROHIBITED
+- no prototype or asset edit/move/rename;
+- no branch deletion or retagging;
+- no Cloudflare/deployment-root change;
+- no site production implementation;
+- no hero/design selection;
+- no Candidate 06 Stage 6 or later-stage construction;
+- no renderer call or image generation;
+- no Lane A implementation or motion work;
+- no reclassification of historical documents merely for tidiness;
+- no attempt to resolve the 11 UNCLASSIFIED records by inference.
+
+PASS CRITERIA
+Phase 5 closes D-R1 only if one complete recursive audit establishes all of the following:
+
+A. RETRIEVABILITY / CLOSURE PERSISTENCE
+`CURRENT_STATE.md`, `AGENTS.md`, and `DESIGN_LEDGER.md` clearly separate volatile state, workflow law, and durable closure history.
+
+B. STATUS SEPARATION
+The Phase 2 four-state machine layer remains adopted, generated index discipline remains enforced, and current GitHub document-status validation succeeds.
+
+C. RE-DERIVATION CONTROL
+The corrected Phase 0 conclusions, major closed design findings, and reopening guardrails remain durably recorded in the ledger/evidence rather than depending on chat history.
+
+D. BRANCH PRESERVATION
+The seven Phase 3 archive tags remain at their exact recorded SHAs; the seven source branches remain absent; the remaining branch set is main + the 36 protected unique-commit branches.
+
+E. PUBLICATION ISOLATION
+`site/` exists as publication source, intentionally has no production page by implication, and no prototype is promoted as publication source.
+
+F. PROHIBITED-SURFACE INTEGRITY
+From D-R1 mechanical-census baseline `de0208a2895662be9d3762af06b2464b9e3d505e` through Phase 5 closure, no file under `prototypes/` or `assets/` is changed by D-R1.
+
+G. PHASE 6
+The corrected Phase 0 evidence still shows explicit success/termination states for VID, R0, Hero Method 01 and Method 02; therefore Phase 6 remains NOT TRIGGERED.
+
+H. AUTHORITY HANDBACK
+The exact next creative action after D-R1 closure is restored without advancement by implication: recursively audit `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`; only a later clean audit can authorize Candidate 06 Stage 6 deterministic Neutral Geometry Scaffold construction.
+
+FAIL CONDITION
+Any failed criterion keeps D-R1 open. Correct only defects within this Phase 5 contract, restart the relevant audit, and do not resume creative work until one complete pass is clean.
+
+CLEAN DISPOSITION
+If A–H all pass, record:
+
+D-R1: COMPLETE / CLOSED / CLEAN.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Then update continuity to resume the exact pre-D-R1 Candidate 06 Stages 1–5 recursive-audit gate. Phase 5 closure does not itself approve Stage 6.
