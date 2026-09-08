@@ -1,0 +1,132 @@
+KYMÆAN — HERO CANDIDATE 06 METHOD 02 CONSTRUCTION STAGES 01–05 RECURSIVE AUDIT 01
+
+Status: COMPLETE / CORRECTED / CLEAN FINAL PASS / STAGE 6 AUTHORIZED BY STANDING DELEGATION
+Date: 2026-09-07
+Candidate: C06-ASPB-01
+Audited final source head: 8d2cd9bf9bf59712c6a826d48ed9aadccc78965c
+
+AUTHORITY AUDITED
+- Hero Artwork Brief 02;
+- frozen Falsification Criteria 01;
+- frozen Surface Escape;
+- corrected/re-frozen Harness 01;
+- approved Method 02;
+- approved D9 direction + clean recursive audit;
+- Candidate 06 mechanism/geometry investigation + clean recursive audit;
+- Candidate 04 Round 05 and post-Round-05 transfer/pre-existing-form evidence;
+- Candidate 06 Stages 1–5 construction.
+
+FIRST PASS — MATERIAL CORRECTIONS REQUIRED
+
+1. A LOADED-STABILITY DEFECT
+The original Stage 3 proved A was stable when B was removed, but did not prove A remained stable while supplying the lateral brace reaction to B. That left the two-person equilibrium incompletely falsified.
+
+Correction:
+- A support polygon widened/pre-registered as x 890–990 with unloaded COM x 940 and 50 px margin;
+- B planning center of pressure pre-registered at x 1100 with COM x 1080;
+- with 285 px support/contact lever arm, required horizontal brace reaction is approximately 20/285 = 0.070 B normalized weight;
+- a conservative 2:1 B:A normalized-weight sensitivity case shifts A's support resultant approximately 40 px;
+- A therefore retains a positive 10 px support margin;
+- Stage 6 must preserve or improve the coupled-equilibrium margin.
+
+This is a prospective construction stress test only, not new pixel-scoring law or a claim that viewers infer body mass numerically.
+
+2. STAGE-ORDER / CONDITIONAL-PASS DEFECT
+The original Stage 2 said it advanced only conditionally to a Stage 6 transfer preflight. Method 02 requires each earlier construction stage to pass before Stage 6 begins; leaving Stage 2 itself conditional created an ordering inconsistency.
+
+Correction:
+- Stage 2 now passes at the semantic/geometry-record level because the baseline and local departure are recoverable from redundant correspondence families;
+- Stage 6 is required to preserve those correspondences;
+- the field-only and B-removed transfer-visible ambiguity tests remain mandatory later pre-render representation checks, but no longer leave Stage 2 unpassed.
+
+3. ALTERNATE BODY-SUPPORT LOOPHOLE
+The original alternate-support ledger named hands/arms and generic alternate support but did not explicitly exclude knee/hip/seat/torso field contact.
+
+Correction:
+- only B's feet/lower support may be field-bearing;
+- hand/arm/forearm/elbow and knee/hip/seat/torso support are explicitly prohibited;
+- no second stabilizing body/field contact may preserve the depicted posture.
+
+4. ANTI-RESCUE / PERFORMANCE TRANSFER WEAKNESS
+The selected mechanism investigation already preferred side/back passive contact and non-performative arrangement, but the Stages 1–5 record did not carry those safeguards forward strongly enough.
+
+Correction:
+- side-by-side or modestly opposed relation rather than face-to-face;
+- rear/lateral upper-back/shoulder to upper-torso contact, not chest-to-chest;
+- no encircling, catching, reaching, holding, visible assistance, fall recovery, exercise, dance or balance demonstration;
+- gaze/emotion remain non-load-bearing.
+
+5. MOBILE BASELINE-WITNESS WEAKNESS
+The original Stage 5 allowed a left/right baseline witness 'where practical' even though both planned witness regions already fit the frozen mobile source window.
+
+Correction:
+- one strong witness on each side of the changed zone is now mandatory inside the core;
+- left x 650–760 and right x 1200–1305 both lie inside fixed mobile source x 554–1321.
+
+SECOND PASS — ONE WORDING CORRECTION
+The first coupled-equilibrium correction incorrectly listed a merely higher shared contact as a condition that could worsen A's support margin. Under equal A/B support-to-contact lever arms, the shared height cancels from the transferred moment relation.
+
+Correction:
+- the binding sensitivities are the B weight-moment arm, A support width, and materially different A:B support-to-contact lever-arm/body-proportion relation;
+- the final math remains 0.070 normalized B-weight reaction, 40 px A resultant shift at 2:1, 10 px positive A support margin.
+
+FINAL RECURSIVE PASS
+
+Frozen-law integrity: PASS.
+No Hero Brief floor, S1–S6 property, Surface Escape rule, Harness crop/layout or ODR-33 burden is changed.
+
+D9 fidelity: PASS.
+B remains vertically field-borne; A supplies lateral/rotational reaction only; A is independently and loaded-stable; no authored-field burden is reintroduced; baseline restoration physically removes the relation.
+
+Numeric stability consistency: PASS.
+B remains 15 px outside its changed support polygon without A. The coupled A↔B planning equilibrium has a positive A margin under the conservative 2:1 sensitivity stress case. Baseline B returns to 30 px self-support margin.
+
+Vertical-load separation: PASS.
+No A lift/carry/vertical-support path is allowed. B's field contacts remain the vertical support class.
+
+Baseline contact separation: PASS.
+Changed brace loci approximately x1015/1018; restored B contact-side locus x1250; separation 235 px against a pre-registered 120 px minimum, surplus 115 px.
+
+Alternate-support completeness: PASS.
+Hands, arms, elbows, forearms, knees, hips, seat, torso, rail/wall, second human contact, detached ledge/platform, hidden wider foot support and A vertical lift are all excluded as substitute stabilizers.
+
+Human Necessity / S1 distinction: PASS.
+A is necessary to the depicted changed-state stability; B is necessary to instantiate the altered human consequence. Field-only change may remain visible but is not the living proposition. Later pixels can still fail S1; construction intent cannot rescue them.
+
+Anti-rescue / anti-performance / anti-accident discipline: PASS WITH PIXEL RISK RETAINED.
+The geometry removes active helping mechanics and emergency/dance shorthand as required construction logic. It does not claim later pixels automatically pass those readings.
+
+Changed-state recoverability: PASS AT CONSTRUCTION LEVEL.
+Upper boundary, lower/thickness structure, secondary longitudinal registration and two-sided return provide redundant baseline/departure correspondences. At least three families must survive Stage 6.
+
+Pre-existing-form safeguard: PASS AS PROSPECTIVE STAGE 6 PREFLIGHT.
+Stage 2 itself is complete. The actual sanitized Stage 6 representation must still answer NO to both field-only and B-removed purpose-built-support readings before any renderer work.
+
+Responsive/mobile containment: PASS.
+A, B, brace, changed support, shear zone, alternate-support negative space and both baseline witnesses all fit the pre-registered mobile source window.
+
+Harness coexistence: PASS.
+No essential semantic evidence is assigned to far-left x0–600 identity region; no Harness crop, position, color or identity geometry is changed.
+
+Aesthetic contamination: PASS.
+No final material, palette, setting, face, ethnicity, period, named style, texture, lighting, camera treatment, brand geometry or symbolism is selected.
+
+Simplicity / worthwhile-improvement check: PASS.
+The added coupled-equilibrium test closes a real mechanical gap without adding a new aesthetic or post-render criterion. The two-sided witness and alternate-contact corrections reuse already planned geometry rather than adding mechanism complexity. No simpler surviving H1 construction closes the same D9 requirements with fewer unresolved physical ambiguities.
+
+Hosted structural validation:
+GitHub workflow `Document status structure`, run 34172882756, executed at exact final corrected source head 8d2cd9bf9bf59712c6a826d48ed9aadccc78965c and concluded SUCCESS.
+
+CLEAN PASS
+One complete pass after all corrections found no material frozen-law contradiction, numerical inconsistency, alternate-support loophole, optional-contact loophole, rescue/performance regression, responsive containment defect, pre-existing-form safeguard regression, aesthetic contamination or worthwhile simpler correction.
+
+DISPOSITION
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Candidate C06-ASPB-01 Method 02 Stages 1–5 are APPROVED.
+
+AUTHORIZED NEXT ACTION
+Construct Candidate 06 Method 02 Stage 6 deterministic Neutral Geometry Scaffold only, preserving the final corrected Stages 1–5 geometry and the mechanism-neutral scaffold rules.
+
+NOT AUTHORIZED
+No renderer packet, reference transfer, image generation, Round 06, final hero/style/palette, production website implementation, Lane A implementation or motion is authorized by this audit.
