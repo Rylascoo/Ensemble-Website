@@ -11,7 +11,7 @@ Date:
 
 PURPOSE
 
-Close Candidate 08 Stage 6M only. This audit verifies that the approved Stage 6 causal geometry survives conversion into the mechanism-neutral physical-maquette representation, that the same visible solids drive the Director-side static calculations, that the discovered Stage 6 support-to-free-edge planning-metadata defect is reconciled without changing approved Stage 6 visible geometry, and that the deterministic Stage 6M transfer surface is safe to use as the sole structural reference for a later sterile Stage 7 package.
+Close Candidate 08 Stage 6M only. This audit verifies that the approved Stage 6 causal geometry survives conversion into the mechanism-neutral physical-maquette representation, that the same visible solids drive the Director-side static calculations, that the Stage 6 support-to-free-edge metadata is reconciled without changing approved Stage 6 visible geometry, and that the deterministic Stage 6M transfer surface is safe to use as the sole structural reference for a later sterile Stage 7 package.
 
 This record does not spend Round 08, execute a renderer, select a final hero, approve style/palette, authorize website implementation, or alter any frozen post-render criterion.
 
@@ -29,19 +29,19 @@ AUTHORITATIVE INPUTS
 
 PROMOTED MACHINE-VALIDATED CHECKPOINT
 
-Exact promoted main commit:
+Exact promoted Stage 6M main commit:
 b8d6bf12884872c609a86942ed545ce7df10cfcd
 
 Exact promoted tree:
 cb736a87d4d2f7ea6daa79766fcfc3e08a9830cc
 
-Exact-main Stage 6M workflow run:
+Historical exact-main Stage 6M workflow run:
 34255553033
 
 Run state:
 COMPLETED / SUCCESS
 
-The run executed on head SHA exactly b8d6bf12884872c609a86942ed545ce7df10cfcd after non-forced fast-forward promotion. It passed Stage 6M unit tests, internal-core bypass/hardening tests, deterministic noncandidate regression, Candidate 07 deterministic regression, and the permanent Candidate 08 verifier.
+That historical run executed on head SHA exactly b8d6bf12884872c609a86942ed545ce7df10cfcd and established the Stage 6M deterministic bytes/statics then in force. The later arithmetic/metadata correction does not change the Stage 6M manifest, report or renderer-visible sanitized SVG bytes; it changes only the exact Stage 6 source-space clearance statement and the verifier path used to derive it.
 
 PINNED C08 STAGE 6M ARTIFACTS
 
@@ -51,22 +51,13 @@ b3edc0b51c81596f15876390c10b8ba43dbb7408
 Stage 6M report Git blob:
 cfee7b7cc195fde80317c1756e947d1846324530
 
-Permanent C08 verifier Git blob:
-43ef76d3f5b585930fcedcdfe3abcb9335dab541
-
-Stage 6M workflow Git blob:
-550c6492028810b2188045a17f9086e50fcbb11e
-
-Stage 6 clearance-correction evidence Git blob:
-d0db61cdb7418264aebeea83cdfd24665349a8a3
-
 Canonical deterministic sanitized SVG SHA-256:
 54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db
 
 Canonical deterministic report SHA-256:
 064f4e94072089c0b9266c0943d99578398345e68f873948fabeaeefdd9099bc
 
-The permanent verifier regenerates the deterministic sanitized SVG/report from the promoted manifest, checks both exact SHA-256 values, and requires the regenerated report bytes to equal the committed report bytes exactly.
+The permanent verifier regenerates the deterministic sanitized SVG/report from the promoted Stage 6M manifest, checks both exact SHA-256 values, requires regenerated report bytes to equal the committed report bytes exactly, checks the statics/head gap/physical edge clearance, and now derives the controlling Stage 6 source clearance directly from the canonical integer Stage 6 SVG.
 
 STATIC / PHYSICAL VALIDATION
 
@@ -115,22 +106,26 @@ The separated-head correction survives physicalization. The support relation doe
 
 STAGE 6 EDGE-CLEARANCE RECONCILIATION
 
-The original Stage 6 manifest contains a 120 px B-support-to-free-edge planning figure. Recursive audit established that this figure came from the undeformed/baseline upper edge at y=824 and is therefore a legacy baseline planning value, not the controlling changed-state registered support-root clearance.
+The original Stage 6 material carried a 120 px B-support-to-free-edge planning figure from the undeformed baseline upper edge at y=824. A first reconciliation correctly rejected that as the controlling changed-state metric but published an incorrect normalized-to-pixel conversion of `102.8395582822086 px`.
 
-The permanent verifier recomputes the changed-state Stage 6 clearance from the frozen Stage 6 geometry at the registered changed left support root and obtains:
-102.8395582822086 px
+The canonical Stage 6 SVG uses integer source pixels. At the registered changed left support root `(1105,704)`, `field-free-edge-upper` is the linear segment `(1085,802) -> (1110,808)`. At x=1105, t=0.8 exactly, edge y=806.8 exactly, and the registered source-space clearance is therefore:
+
+102.8 px exactly
 
 Frozen minimum:
 100 px
 
+Exact surplus:
+2.8 px
+
 Result:
 PASS
 
-No approved Stage 6 visible x/y geometry was changed. The correction changes interpretation of stale planning metadata only; the legacy 120 px value is preserved as historical baseline-planning provenance and is explicitly prevented from regaining controlling status.
+No approved Stage 6 visible x/y geometry changed. The active Stage 6 manifest and embedded SVG metadata now state 102.8 rather than 120, and the permanent verifier reads the integer SVG for this exact source-space metric. Four-decimal normalized coordinates remain a secondary projection and are not used to manufacture additional precision.
 
 STAGE 6M PHYSICAL EDGE-CLEARANCE VALIDATION
 
-The Stage 6M physical solid decomposition uses normalized coordinates and therefore produces a minute rounding difference from the exact Stage 6 source geometry. Recomputing the physical left support-root/free-edge relation from the actual Stage 6M visible solids yields:
+The Stage 6M physical solid decomposition uses normalized coordinates and therefore produces a minute reconstruction difference from the exact Stage 6 source geometry. Recomputing the physical left support-root/free-edge relation from the actual Stage 6M visible solids yields:
 102.85483969465605 px
 
 Frozen minimum:
@@ -139,7 +134,7 @@ Frozen minimum:
 Result:
 PASS
 
-The 102.839558... px Stage 6 value and 102.854839... px Stage 6M value are not contradictory measurements. The former is the exact frozen Stage 6 source-space changed-state geometry; the latter is the physically reconstructed Stage 6M normalized-solid manifestation. Both exceed the same 100 px floor.
+The exact 102.8 px Stage 6 source result and approximately 102.85483969465605 px Stage 6M normalized physical result are not contradictory measurements. They come from different representations and both exceed the unchanged 100 px floor.
 
 DETERMINISTIC / SANITIZATION AUDIT
 
@@ -196,7 +191,7 @@ PASS
 
 RECURSIVE AUDIT
 
-Pass 1 checked:
+The correction pass rechecked:
 - Stage 6 -> Stage 6M topology fidelity;
 - static-case polarity and margins;
 - visible-solid/model identity;
@@ -206,34 +201,30 @@ Pass 1 checked:
 - supported-pair closure;
 - 2:1 sensitivity margin;
 - projected head separation;
-- corrected Stage 6 edge clearance;
+- exact Stage 6 integer-source edge clearance;
 - physical Stage 6M edge clearance;
-- deterministic byte pinning;
+- deterministic Stage 6M byte pinning;
 - sanitization;
 - anti-platform/installation reading;
 - mobile containment;
 - authority leakage;
 - round-spend state;
-- next-stage scope.
+- downstream scope.
 
-Material defect found during the construction sequence:
-the Stage 6 120 px planning figure was not the exact changed-state clearance.
+The two superseded Stage 6 numbers are now explicit:
+- `120 px` = obsolete undeformed-baseline planning figure;
+- `102.8395582822086 px` = withdrawn arithmetic/transcription result from the first correction.
 
-Correction:
-the error was reconciled in a dedicated evidence record and permanent verifier, without changing frozen visible Stage 6 geometry. Exact changed-state Stage 6 clearance is 102.8395582822086 px and exact physical Stage 6M manifestation is 102.85483969465605 px; both pass the unchanged 100 px floor.
+The controlling Stage 6 source metric is 102.8 px exactly. The Stage 6M physical reconstruction remains approximately 102.85483969465605 px. Both pass the unchanged 100 px floor.
 
-Pass 2 rechecked the corrected authority chain, the promoted deterministic manifest/report, exact hashes, permanent verifier, exact-main successful workflow, human preflights, responsive containment and downstream authority boundary.
-
-No remaining material error, inconsistency, ambiguity, unsupported promotion, criterion mutation, or worthwhile in-scope improvement was found.
+One complete final pass found no remaining material error, inconsistency, ambiguity, unsupported promotion, criterion mutation, or worthwhile in-scope improvement.
 
 FINAL DECISION
 
 C08 Stage 6M Neutral Physical Maquette:
 APPROVED / CLOSED / CLEAN / PROMOTED
 
-Candidate C08 may now enter Stage 7 sterile artwork translation-package CONSTRUCTION and its recursive pre-render audit.
-
-Stage 7 authorization means only preparation of the sterile transfer packet around the exact sanitized deterministic Stage 6M reference. It does not authorize renderer execution. Renderer/image generation remains blocked until the Stage 7 package itself passes recursive pre-render audit under the standing Method 02 workflow.
+The already-approved Stage 7 sterile transfer package remains valid after substituting the corrected Director-side Stage 6 source number. The exact renderer-visible Stage 6M reference bytes are unchanged.
 
 ROUND / PRODUCT BOUNDARY
 
@@ -242,7 +233,7 @@ UNSPENT
 
 No image-generation attempt occurred in Stage 6M.
 
-No renderer call, C07 retry, candidate reroll, frozen-criterion mutation, final hero selection, style/palette selection, production website implementation, Cloudflare change, Harness mutation, Lane A/app UI implementation or motion work is authorized by this closure.
+No C07 retry, candidate reroll, frozen-criterion mutation, final hero selection, style/palette selection, production website implementation, Cloudflare change, Harness mutation, Lane A/app UI implementation or motion work is authorized by this correction.
 
 APPROVAL
 
