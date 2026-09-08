@@ -12,7 +12,7 @@ Updated: 2026-09-08
 - Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
 - Durable closure/re-entry history: `docs/evidence/DESIGN_LEDGER.md`.
 
-This file owns volatile phase/current-boundary state; clean recursive audit earns in-lane approval.
+This file owns volatile phase/current-boundary state; clean recursive audit earns in-lane approval except where frozen law explicitly reserves a Director decision.
 
 ## Repository restructuring
 
@@ -21,90 +21,79 @@ Evidence: `docs/evidence/D_R1_PHASE_5_CLOSURE_01.txt`.
 
 ## Hero program
 
-Method 02: **APPROVED**. Frozen law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01.
+Method 02 remains the approved construction method. Frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01.
 
-D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**: **APPROVED / REMAINS TESTABLE**.
+D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE** retains positive human-support evidence, but the current D9 / Method 02 rendered succession is now **PAUSED BY FROZEN STOP LAW**.
 
 - `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
 - `C07-CBSR-01`: **CLOSED / ROUND 07 FAIL / CONSUMED / NO RETRY**.
-- `C08-EWTF-01`: **ACTIVE / METHOD 02 STAGES 1–7 APPROVED / ISOLATED RENDERER EXECUTION DESIGN-READY ONLY**.
+- `C08-EWTF-01`: **CLOSED / ROUND 08 FAIL / CONSUMED / NO RETRY**.
 
 Durable current closure entry:
-`docs/evidence/DESIGN_LEDGER.md` — L-021.
+`docs/evidence/DESIGN_LEDGER.md` — L-022.
 
-## Active candidate
+## Round 08 closure
 
-Candidate:
-**C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE.**
-
-Canonical Stages 1–5 audit:
-`docs/evidence/HERO_METHOD_02_D9_S2_CONSTRUCTION_STAGES_01_05_RECURSIVE_AUDIT_01.txt`.
-
-Canonical Stage 6 audit:
-`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
-
-Stage 6 clearance reconciliation:
-`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_EDGE_CLEARANCE_METADATA_CORRECTION_01.txt`.
-
-Canonical Stage 6M audit:
-`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_6M_NEUTRAL_PHYSICAL_MAQUETTE_AUDIT_01.txt`.
-
-Canonical Stage 7 package:
-`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt`.
-
-Canonical Stage 7 recursive pre-render audit:
-`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
-
-## Frozen renderer-visible transfer
-
-Exact sanitized Stage 6M reference:
-- renderer filename: `reference.svg`;
-- SHA-256: `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`;
-- Director pin: `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`.
-
-Exact sterile renderer packet:
-- `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`;
-- Git blob: `7e7d5cd71fb0b04aaaf78369fe89699cccc8c121`;
-- SHA-256: `fc1483244d39b3b65eed362330800527f1f08df6a6dc9052bf81296046be0c6f`.
-
-No chat-time preamble, project material, historical artwork, brand asset, manifest/report, critique, score, coordinate note, force explanation or reference mutation may be added to those renderer-visible inputs.
-
-Stage 7 recursive audit is **COMPLETE / CORRECTED / CLEAN / APPROVED**. Its first pass removed unnecessarily technical `free-edge/thickness-return witness` renderer wording while preserving the required observable free-edge/thickness relation. No geometry or criterion changed.
-
-## Exact next action — isolated Round 08 execution
-
-Fresh-chat re-entry handoff:
-`docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_FRESH_CHAT_HANDOFF_01.txt`.
-
-Experiment label:
+Experiment:
 `METHOD02-R08-C08`.
 
-Execution is design-ready only as a separate renderer-isolation operation in **one fresh regular chat outside the Ensemble project**:
-- exactly one renderer request;
-- exactly one image requested;
-- exactly one byte-pinned sanitized reference under neutral filename `reference.svg`;
-- renderer text byte-for-byte equal to the pinned sterile packet;
-- zero historical artwork;
-- zero brand assets;
-- zero project documents;
-- zero manifest/report transfer;
-- zero free rerolls.
+One judgeable 1586 × 992 PNG was returned and consumes the single authorized Round 08 attempt.
 
-Reference-strength condition:
-- if the fresh renderer UI exposes no user-set reference/image/structure-strength control, record `REFERENCE_STRENGTH_CONTROL: NOT EXPOSED / N/A` and proceed;
-- if any such user-set control is exposed, **STOP BEFORE GENERATION** and return for one exact fixed-value amendment + recursive audit.
+Raw returned image SHA-256:
+`30c47d18064842d5f0f0f4f994acacfd118e3440d58465b59e9307bb5fd36231`.
 
-A judgeable returned image consumes Round 08 regardless of pass/fail. A genuine no-image technical failure stops and is reported; it does not silently authorize a second request.
+Canonical evaluation:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_EVALUATION_01.txt`.
 
-After a judgeable return, stop renderer execution, return raw pixels to Director Context, archive provenance when practical, and evaluate under unchanged Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01 before any reference, packet or criterion change.
+Frozen result:
+- Human Necessity = **4/5 PASS**;
+- Changed-condition legibility = **3/5 FAIL**;
+- Altered Possibility = **3/5 FAIL**;
+- Epistemic Restraint = **5/5 PASS**;
+- Brand Integration = **1/5 FAIL**;
+- Mobile Survival = **3/5 PASS**;
+- Removal Test = **2/5 FAIL**;
+- Surface Escape = **PASS**;
+- S1–S5 = **PASS**;
+- S6 = **FAIL**.
+
+C08 transferred real improvements over C07: heads remained separated, the passive posterior/lateral brace remained mechanically necessary at the depicted-pose level, and the local surface departure visibly propagated through one continuous thick surface to a free edge. The transfer medium did not leak.
+
+The decisive failure remained upstream: the final naturalistic stone surface is still coherently readable as purpose-shaped/pre-existing architecture. The pixels do not force a simpler prior baseline, do not visibly make the surface condition cause B's dependent posture, and do not make baseline restoration remove the A↔B relation.
+
+The fixed pale left environment also repeats the C07 Brand Integration failure against the no-scrim light identity system.
+
+## Active stop state
+
+C07 and C08 are materially different qualifying outputs and repeat the same mandatory hard failures. Frozen Falsification Criteria 01 therefore requires:
+
+**CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED.**
+
+This is a protected stop, not proof that the Hero Brief or D9 human-support idea is impossible.
+
+Required conflict matrix + recommendation:
+`docs/evidence/HERO_METHOD_02_POST_ROUND_08_CONSTRAINT_RECONCILIATION_RECOMMENDATION_01.txt`.
+
+Recommended Director path:
+**preserve the frozen contract; pause D9/Method 02 rendering; authorize non-render method-level final-translation/carrier reconciliation only before any successor candidate or renderer spend.**
+
+The recommendation is not adopted authority until the Director acts.
+
+## Exact next action
+
+Director reconciliation only.
+
+No standing clean-audit delegation may bypass this gate because Falsification Criteria 01 explicitly reserves the post-stop decision to the Director.
+
+If the Director chooses the recommended path, the next work is a non-render method-level investigation of whether a materially different final translation/carrier can preserve visible baseline/change correspondence and bind that change to B's posture without pre-existing architecture/terrain, device/platform, damage/accident, explanatory-graphic or transfer-medium substitution.
 
 ## Hard boundary
 
-**Round 08 is UNSPENT until a judgeable renderer image is returned.**
+**Round 08 is SPENT. C08 is CLOSED.**
 
-No renderer execution inside the Ensemble project, second request, reference mutation, packet patch at execution time, C07 retry, C08 reroll, frozen-criterion mutation, final hero/style/palette selection, production website implementation, Cloudflare change, Harness change, Lane A/app UI implementation or motion is authorized.
+No Round 09, Candidate 09, C08 reroll, replacement image, execution-time prompt/reference patch, frozen-criterion mutation, Harness change, final hero/style/palette selection, production website implementation, Cloudflare change, Lane A/app UI implementation or motion is authorized.
 
-Repository-write currency law remains active: round consumption, candidate closure/rejection, reopening/termination changes and material re-entry-boundary changes require ledger/current-state continuity in the same logical closure operation before later-stage artifacts proceed.
+Repository-write currency law remains active: this Round 08 closure requires evaluation evidence + DESIGN_LEDGER.md + CURRENT_STATE.md continuity before any later-stage artifact proceeds.
 
 ## E0-E watch
 

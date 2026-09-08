@@ -326,3 +326,40 @@ Primary evidence:
 **Execution boundary:** one fresh regular chat outside the Ensemble project; one request; one image; reference supplied only as neutral `reference.svg`; packet supplied byte-for-byte; no extra preamble/project material; no free reroll. If the fresh UI exposes a user-set reference/image/structure-strength control, stop before generation for one exact fixed-value amendment + recursive audit. A judgeable returned image consumes Round 08 regardless of pass/fail.
 
 **Guardrail:** Stage 7 approval authorizes no renderer execution inside the Ensemble project and no execution-time packet/reference mutation. Final hero selection, website implementation, Cloudflare change, Harness change, Lane A/app UI work and motion remain unauthorized.
+
+## L-022 — Round 08 failed and closes C08; frozen suspected-unsatisfiable stop is active
+
+**State:** ROUND 08 FAIL / CONSUMED / C08 CLOSED / NO RETRY / D9-METHOD02 RENDER SUCCESSION PAUSED / DIRECTOR RECONCILIATION REQUIRED
+
+Round 08 / `METHOD02-R08-C08` returned one judgeable 1586 × 992 PNG and consumed its single authorized attempt. Raw returned image SHA-256: `30c47d18064842d5f0f0f4f994acacfd118e3440d58465b59e9307bb5fd36231`.
+
+Frozen result:
+- Human Necessity = **4/5 PASS**;
+- Changed-condition legibility = **3/5 FAIL**;
+- Altered Possibility = **3/5 FAIL**;
+- Epistemic Restraint = **5/5 PASS**;
+- Brand Integration = **1/5 FAIL**;
+- Mobile Survival = **3/5 PASS**;
+- Removal Test = **2/5 FAIL**;
+- Surface Escape = **PASS**;
+- S1–S5 = **PASS**;
+- S6 = **FAIL**.
+
+C08 transferred two material corrections over C07. The heads remain visibly separated and the passive posterior/lateral brace remains mechanically necessary at the depicted-pose level, removing C07's strongest head-rest/intimate shortcut. The local surface departure also survives through one continuous thick surface to a viewer-facing free edge without maquette/CAD leakage.
+
+The repeated failure remains upstream. Final pixels still permit the complete surface to read as purpose-shaped/pre-existing architectural stone; a simpler prior baseline is not forced; the surface condition does not visibly cause B's dependent support/posture; and mentally restoring the surface does not force the A↔B relation to disappear. The pale left region independently repeats the fixed-light-identity Brand Integration failure.
+
+C07 and C08 are materially different qualifying outputs under the frozen Falsification Criteria definition: they differ substantially in changed-condition mechanism/surface correspondence topology and human spatial/contact arrangement. Both repeat Changed-condition legibility, Altered Possibility, Brand Integration, Removal Test and S6 failures. The frozen early stop therefore applies:
+
+**CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED.**
+
+This stop does not establish that the Hero Brief or D9 human-support idea is impossible. It prevents automatic renderer succession while the protected conflict is unresolved.
+
+Primary closure evidence:
+- `docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_EVALUATION_01.txt`;
+- `docs/evidence/HERO_METHOD_02_POST_ROUND_08_CONSTRAINT_RECONCILIATION_RECOMMENDATION_01.txt`;
+- `docs/evidence/HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt`.
+
+**Recommendation:** preserve the frozen contract; pause D9/Method 02 rendering; if the Director wishes to continue hero research, authorize non-render method-level final-translation/carrier reconciliation before any successor candidate or renderer spend. The recommendation is not adopted authority until the Director acts.
+
+**Guardrail:** Round 09, Candidate 09, C08 reroll/replacement, same-family automatic successor construction, renderer transfer, frozen-criterion/Harness changes, final hero/style/palette selection, website implementation, Cloudflare change, Lane A/app UI implementation and motion are not authorized.

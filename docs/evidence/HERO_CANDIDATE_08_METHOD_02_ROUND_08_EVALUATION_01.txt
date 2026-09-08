@@ -1,0 +1,248 @@
+KYMÆAN — HERO CANDIDATE 08 METHOD 02 ROUND 08 EVALUATION 01
+
+Status: COMPLETE / FAIL / SINGLE AUTHORIZED ATTEMPT CONSUMED / C08 CLOSED / NO RETRY / CONSTRAINT-SET STOP TRIGGERED / CLEAN FINAL RECURSIVE PASS
+Date: 2026-09-08
+Experiment: METHOD02-R08-C08
+Candidate: C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE
+
+1. PROVENANCE / EXECUTION ACCOUNTING
+
+One judgeable raw PNG was returned to Director Context after the isolated Round 08 execution handoff.
+
+Raw artwork:
+- dimensions: 1586 × 992;
+- byte size: 2,878,951;
+- SHA-256: 30c47d18064842d5f0f0f4f994acacfd118e3440d58465b59e9307bb5fd36231.
+
+The Director explicitly requested that this turn update project documents only. No new image asset, Drive archive or repository binary was created in this closure turn. The supplied raw pixels remain the binding evidence for this evaluation; provenance archival may be completed later when practical, but lack of an additional archive copy does not create a retry or rescue path.
+
+No execution-time correction, alternate returned artwork or reroll is admitted by this evaluation. No contrary execution-integrity report accompanied the returned image. Because the pre-registered execution law required stopping before generation if a user-set reference/image/structure-strength control was exposed, and a judgeable result was returned without such a stop report, this record carries forward:
+REFERENCE_STRENGTH_CONTROL: NOT EXPOSED / N/A, subject only to later contradictory execution provenance.
+
+The judgeable returned image consumes METHOD02-R08-C08 regardless of pass/fail.
+
+2. FIXED HARNESS-DERIVED EVIDENCE
+
+The unchanged corrected/re-frozen Harness 01 geometry was applied analytically to the raw artwork without candidate-specific rescue.
+
+Desktop frame:
+- evidence frame: 1280 × 720;
+- object-fit: cover;
+- object-position: 50% 50%;
+- source window: x 0–1586, y approximately 49.9375–942.0625.
+
+Mobile frame:
+- evidence frame: 390 × 488, exact 4:5;
+- object-fit: cover;
+- object-position: 72% 50%;
+- source window: x approximately 571.1134–1363.9003, y 0–992.
+
+The desktop window retains the entire horizontal composition except the fixed vertical cover crop. The mobile window retains both people, their contact, B's oblique body axis, B's visible surface support and the local deformed/thick free-edge region.
+
+No alternate focal point, scrim, relight, recolor, mask or candidate-specific crop was used.
+
+3. OBSERVABLE PIXEL FACTS
+
+The image is a restrained naturalistic contemporary portrait on a broad pale stone-like terrace or slab under a warm gray sky. Two specific adults occupy the center-right while the left side is dominated by low-information pale sky, wall and stone.
+
+Person A is a dark-haired adult man in a gray-brown knit top, dark trousers and dark shoes. He is upright, independently stable and faces screen-left. His arms/hands do not support Person B.
+
+Person B is a dark-haired adult woman in a long dark coat/skirt-like outer layer, pale socks and dark shoes. She faces screen-right and leans markedly screen-left/back toward A. Her upper back/scapular region bears into A's posterior/lateral upper torso. Her head remains visibly separated from A's head and shoulder. Her hands/arms do not visibly support the body.
+
+The two people are strongly non-interchangeable through body proportion, hair/head silhouette, garment silhouette, orientation and posture.
+
+B's visible support contacts sit materially screen-right of her upper-body mass while her torso remains strongly oblique. The frozen depicted pose therefore reads as laterally dependent on A at the pixel level. A remains visually capable of carrying that passive lateral brace while standing independently.
+
+This is a genuine success relative to C07's social-recoding problem: the heads remain separated, the contact is posterior/lateral rather than head-on-shoulder, and the dominant physical relation no longer reads primarily as consolation or affection.
+
+The physical surface also preserves more of C08's intended transfer structure than C07. It reads as one broad continuous pale stone volume with visible thickness. A smooth local trough/flexure-like departure is visible in the foreground/right and propagates to the viewer-facing free edge, where top-surface shape and vertical thickness are naturally visible. Flatter continuation exists to the left and beyond the local departure.
+
+However the same visible geometry remains fully coherent as intentionally sculpted or carved architectural stone. The pixels do not force a prior simpler flat baseline or establish that the local departure is a changed state rather than a surface designed that way.
+
+Critically, the final still does not make the chain
+`recoverable changed surface -> B support roots/posture -> A brace becomes necessary`
+recoverable. B visibly depends on A, but that dependence remains coherent as a deliberately posed back-to-back lean on an already-existing sculpted terrace.
+
+Mentally restoring the local stone surface toward flatter continuation does not visibly force B's oblique pose, foot placement or A↔B contact to disappear. The central two-person relation remains coherent without the local surface deformation.
+
+No crack, seam, diagram mark, grid, technical guide, label, machine, rail, portal, scaffold outline, gray-clay maquette, mannequin, CAD view or other transfer-medium residue is visible.
+
+The far-left desktop region is pale warm sky/stone. Under the fixed no-scrim light Threshold K/O3/copy system, it does not provide reliable natural optical separation for the identity layer.
+
+4. HERO ARTWORK BRIEF 02 HARD GATES
+
+No compensating average is permitted.
+
+Human Necessity — 4/5 PASS
+Both adults are specific, primary and necessary to the central physical/interpersonal event. Removing A removes the support relation; removing B removes the dependent body relation. Genericizing either materially weakens the proposition.
+
+Changed-condition legibility — 3/5 FAIL
+C08 materially improves transfer of the local surface departure: the broad surface is continuous, the free edge and thickness are visible, and the local flexure/trough is easy to locate. But the visible form remains plausibly purpose-shaped architectural stone. The still does not make a simpler prior baseline sufficiently recoverable to reach the >=4 floor.
+
+Altered Possibility — 3/5 FAIL
+B's depicted pose visibly depends on A, preserving the later mechanical relation. The missing link remains upstream: the pixels do not establish that the surface departure created B's support/posture relation. A chosen back-to-back lean remains a simpler explanation, so the required `changed condition -> altered present possibility` chain remains below the >=4 floor.
+
+Epistemic Restraint — 5/5 PASS
+No project meaning requires knowledge, belief, memory, motive, intent or hidden prior authorship.
+
+Brand Integration — 1/5 FAIL
+Harness 01 fixes a light neutral Threshold K/O3/copy system over the left identity region with no candidate-specific scrim. C08 again places pale warm sky and pale stone throughout that region, producing weak natural separation. The artwork cannot be darkened, masked, shifted or otherwise rescued for scoring.
+
+Mobile Survival — 3/5 PASS
+The fixed 72% mobile crop preserves both specific adults, their passive contact, B's oblique dependent posture and visible changed-surface/free-edge evidence. The minimum mobile-survival burden is met. This does not repair the raw changed-condition/causal-link failures.
+
+Removal Test — 2/5 FAIL
+Mentally restoring the local surface toward flatter continuation does not visibly force B's lean or A↔B contact to disappear. The two-person back-to-back tableau remains coherent. The consequential surface change is therefore not structurally necessary to the image's core proposition.
+
+Surface Escape — PASS
+The primary literal reading is not a recognizable ordinary task or ordinary-accident response in a conventional historical/domestic/occupational setting. The image reads as a restrained contemporary conceptual/editorial portrait on architectural stone. Editorial drift remains a secondary observation only and is not retroactively promoted to a hard gate.
+
+5. SURFACE-OWNERSHIP S1–S6
+
+S1 Human-first salience — PASS
+The two people and their relation remain the primary meaningful event. Removing/genericizing them materially collapses the human proposition.
+
+S2 Theatrical absence / meaningful quiet — PASS
+The large low-information left sky/stone region materially carries asymmetry, breathing room and hierarchy. Filling it with neutral detail would materially alter the composition.
+
+S3 Material-role discipline — PASS
+The image is restrained, low-saturation and non-spectacular. It does not require saturated branding, fantasy glow, luxury-metallic emphasis, color-only semantics or texture spectacle.
+
+S4 Authored restraint — PASS
+Proportion, spacing, quiet mass and selective human emphasis carry hierarchy after decorative detail is mentally removed.
+
+S5 Discovery without emblem imitation — PASS
+No Threshold K/O3 quotation, hidden glyph, logo puzzle or emblematic mechanism appears.
+
+S6 Responsive asymmetry / identity coexistence — FAIL
+The mobile crop preserves the human cluster and local surface evidence, but the complete semantic core remains incomplete because Changed-condition legibility, Altered Possibility and Removal Test fail in the raw pixels. Desktop identity coexistence independently fails because the fixed light identity system lacks reliable natural separation over the pale left region.
+
+6. REFERENCE / MAQUETTE LEAKAGE
+
+PASS / STRONG TRANSLATION AWAY FROM THE TRANSFER MEDIUM.
+
+The Stage 6M neutral physical maquette does not survive as gray clay, mannequin tableau, CAD/engineering view, blockout, faceted technical mesh, diagram, scaffold outline or reference sheet.
+
+7. C08 / D9-S2-SPECIFIC PIXEL CHECK
+
+- two distinct adults remain primary: PASS;
+- A independently stable: PASS;
+- B vertical weight surface-borne: PASS;
+- no active hand/arm helping: PASS;
+- broad passive posterior/lateral upper-body contact exists: PASS;
+- heads visibly separated: PASS;
+- head-on-shoulder social shortcut materially reduced: PASS;
+- visibly different body axes survive: PASS;
+- B's frozen depicted posture visibly requires A lateral support: PASS AT PIXEL LEVEL;
+- one broad continuous finite-thickness surface survives: PASS;
+- local departure propagates to visible free edge/thickness: PASS;
+- transfer medium/CAD/mannequin leakage absent: PASS;
+- simpler baseline forced by the pixels rather than inferred from construction history: FAIL;
+- local surface reads as changed-from-baseline rather than pre-existing sculpted architecture: FAIL;
+- surface change visibly causes B's dependent support/posture relation: FAIL;
+- baseline restoration visibly removes the contact relation: FAIL;
+- fixed desktop identity coexistence: FAIL.
+
+8. FINAL FROZEN-SET RESULT
+
+- Human Necessity = 4/5 PASS
+- Changed-condition legibility = 3/5 FAIL
+- Altered Possibility = 3/5 FAIL
+- Epistemic Restraint = 5/5 PASS
+- Brand Integration = 1/5 FAIL
+- Mobile Survival = 3/5 PASS
+- Removal Test = 2/5 FAIL
+- Surface Escape = PASS
+- S1 = PASS
+- S2 = PASS
+- S3 = PASS
+- S4 = PASS
+- S5 = PASS
+- S6 = FAIL
+
+ROUND 08 RESULT: FAIL.
+
+Candidate C08-EWTF-01 is CLOSED AS A RENDERED ATTEMPT.
+The single authorized Round 08 attempt is consumed.
+There is no C08 reroll, prompt patch, reference mutation, replacement image or candidate-specific Harness rescue.
+
+9. WHAT ROUND 08 ESTABLISHES
+
+C08 produced real information gain and must not be summarized as a null rerun of C07.
+
+Two targeted corrections transferred successfully:
+
+1. CONTACT ANTI-SOCIAL-SHORTCUT CORRECTION
+The heads remain separated and the brace contact moved away from head-on-shoulder consolation. The human support relation still reads mechanically necessary while avoiding C07's strongest intimate shorthand.
+
+2. FREE-EDGE / THICKNESS CORRESPONDENCE TRANSFER
+The local surface departure now propagates through one continuous physical slab to a visible free edge with natural thickness. The renderer did not discard that feature or turn it into a technical diagram.
+
+Despite those successes, the same upstream causal break remains:
+
+`recoverable changed surface -> B dependent support/posture` = FAIL.
+
+The renderer continues to naturalize a geometrically prevalidated changed-state construction into plausible already-designed architectural form. Once that happens, flattening/restoring the surface no longer forces the human relation to disappear, so Altered Possibility and Removal Test fail downstream.
+
+The fixed light identity system also fails against the pale left region for a second consecutive rendered Method 02 successor. This is a separate integration-transfer miss, not the root of the causal failure.
+
+10. FROZEN STOP-CONDITION APPLICATION
+
+C07 and C08 are materially different under the frozen Falsification Criteria definition. They differ substantially in at least:
+- changed-condition mechanism / surface correspondence topology; and
+- human spatial/contact arrangement.
+
+Both judgeable qualifying outputs fail the same mandatory hard requirements:
+- Changed-condition legibility = 3/5 FAIL in both;
+- Altered Possibility = 3/5 FAIL in both;
+- Brand Integration = 1/5 FAIL in both;
+- Removal Test = 2/5 FAIL in both;
+- S6 = FAIL in both.
+
+The frozen early stop therefore applies:
+
+CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED.
+
+This does not prove the Hero Brief or D9 human-support idea impossible. It means the current protected requirement set cannot lawfully receive another renderer experiment through automatic candidate succession after two materially different qualifying rounds repeat the same hard failures.
+
+No Round 09 is authorized.
+
+The required conflict matrix and recommendation are recorded in:
+`docs/evidence/HERO_METHOD_02_POST_ROUND_08_CONSTRAINT_RECONCILIATION_RECOMMENDATION_01.txt`.
+
+11. RECURSIVE AUDIT
+
+Authority — PASS.
+Only the frozen Hero Brief 02, Falsification Criteria 01, Surface Escape and corrected/re-frozen Harness 01 determine the post-render score. C08 construction facts appear only in the diagnostic section and are not promoted into new hard gates.
+
+Pixel-first discipline — PASS.
+The returned pixels, not the Stage 6/6M statics or prompt intent, control the result. C08 is credited for every relation that actually survived: mechanical A-dependence, head separation, free-edge/thickness visibility, human salience, responsive survival and transfer-medium decontamination.
+
+Borderline changed-state review — PASS.
+The visible free-edge/thickness improvement was specifically reconsidered against a possible 4/5 Changed-condition score. It remains 3/5 because the complete rendered surface is still coherently interpretable as purpose-shaped architectural stone and no visible fact forces a prior simpler state. The improvement is real but does not clear the frozen floor.
+
+No rescue — PASS.
+No crop, retouch, recolor, relight, prompt amendment, alternate reference or reroll changes the result.
+
+Criterion separation — PASS.
+Human Necessity, Epistemic Restraint, Mobile Survival, Surface Escape and S1–S5 are allowed to pass despite causal and integration failures. Brand Integration remains an independent fail rather than being used to lower the causal scores.
+
+Historical discrimination — PASS.
+C08's successful anti-social contact and free-edge transfer corrections are preserved. The remaining failure is narrower and stronger evidence than C07, not a claim that nothing improved.
+
+Stop-accounting — PASS.
+Because C07 and C08 are materially different and repeat the same mandatory hard failures, the frozen early suspected-unsatisfiable stop is applied now. No automatic successor candidate or Round 09 is inferred.
+
+Simplicity / worthwhile improvement — PASS.
+No additional score, invented threshold, speculative private-state reading or criteria rewrite is needed to explain the result or the stop.
+
+FINAL PASS
+
+One complete final pass found no remaining material pixel misread, criterion drift, scoring contradiction, post-hoc rescue path, unsupported pass, hidden retry authority, stop-accounting defect or worthwhile simplification.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FINAL RECURSIVE PASS.
+
+ROUND 08 = FAIL / CONSUMED / C08 CLOSED / NO RETRY.
+CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED.

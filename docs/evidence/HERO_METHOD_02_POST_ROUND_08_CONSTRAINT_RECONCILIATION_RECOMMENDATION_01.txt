@@ -1,0 +1,222 @@
+KYMÆAN — HERO METHOD 02 POST-ROUND-08 CONSTRAINT RECONCILIATION RECOMMENDATION 01
+
+Status: DIRECTOR RECONCILIATION REQUIRED / RECOMMENDATION ONLY / NO RENDER OR SUCCESSOR CANDIDATE AUTHORIZED
+Date: 2026-09-08
+Trigger: METHOD02-R08-C08 returned judgeable FAIL and activated the frozen early suspected-unsatisfiable stop.
+Primary evidence:
+- docs/evidence/HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt
+- docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_EVALUATION_01.txt
+- docs/evidence/HERO_METHOD_02_POST_ROUND_07_TRANSFER_FIDELITY_CAUSAL_TOPOLOGY_REVIEW_01.txt
+
+1. PURPOSE
+
+Prepare the conflict matrix required by frozen Hero Surface Ownership Falsification Criteria 01 after two materially different qualifying Method 02 rounds repeat the same mandatory failures, then recommend the smallest next Director action without lowering a threshold, laundering a retry or treating construction intent as pixel evidence.
+
+This document is recommendation/evidence only. It creates no Round 09, successor candidate, renderer packet, reference transfer, criteria change, Harness change, final hero selection, implementation or motion authority.
+
+2. C07 / C08 CONFLICT MATRIX
+
+| Frozen gate | C07 / Round 07 | C08 / Round 08 | Reconciliation reading |
+| --- | --- | --- | --- |
+| Human Necessity | 4/5 PASS | 4/5 PASS | two-person centrality survives |
+| Changed-condition legibility | 3/5 FAIL | 3/5 FAIL | repeated primary failure |
+| Altered Possibility | 3/5 FAIL | 3/5 FAIL | repeated downstream causal failure |
+| Epistemic Restraint | 5/5 PASS | 5/5 PASS | not implicated |
+| Brand Integration | 1/5 FAIL | 1/5 FAIL | repeated independent integration-transfer miss |
+| Mobile Survival | 3/5 PASS | 3/5 PASS | fixed mobile crop itself is not the primary blocker |
+| Removal Test | 2/5 FAIL | 2/5 FAIL | repeated downstream causal failure |
+| Surface Escape | PASS | PASS | not implicated |
+| S1 | PASS | PASS | human-first salience survives |
+| S2 | PASS | PASS | meaningful quiet survives |
+| S3 | PASS | PASS | material restraint survives |
+| S4 | PASS | PASS | authored restraint survives |
+| S5 | PASS | PASS | no emblem imitation |
+| S6 | FAIL | FAIL | repeated conjunction/integration failure |
+
+Material differences that make the pair count under the frozen stop rule:
+
+C07:
+- interior shallow surface departure / carved-trough attractor;
+- head-on-shoulder passive contact that admitted strong intimate/consoling recoding.
+
+C08:
+- local departure propagated through one continuous surface to a visible free edge with thickness;
+- separated-head posterior/lateral scapular-to-torso brace geometry;
+- wider, visibly oblique human arrangement.
+
+The two outputs therefore differ substantially in both changed-condition mechanism and human spatial/contact arrangement. They are not correction variants or near-duplicate rerolls.
+
+3. WHAT C08 SUCCESSFULLY FALSIFIES ABOUT THE PREVIOUS DIAGNOSIS
+
+Round 08 proves that two C07-specific weaknesses were correctable without breaking the human-support relation:
+
+A. Head-rest social recoding is not the fundamental blocker.
+C08 visibly separates the heads and relocates contact to a broader posterior/lateral upper-body relation. The result still reads as a passive mechanical brace at the depicted-pose level.
+
+B. Loss of the physical free-edge/thickness relation is not the fundamental blocker.
+C08 visibly carries the surface departure to a viewer-facing free edge and preserves the slab's physical thickness without CAD/maquette leakage.
+
+Those corrections matter. They remove two plausible explanations for why C07 failed and leave a narrower repeated problem.
+
+4. SMALLEST IMPLICATED REQUIREMENT SET
+
+Primary repeated blocker:
+
+CHANGED-CONDITION LEGIBILITY.
+
+In both C07 and C08 the final naturalistic surface remains coherently interpretable as pre-existing architectural/sculpted form. The renderer accepts the physical geometry but normalizes its status from "changed from a recoverable simpler baseline" to "designed this way."
+
+Dependent repeated blockers:
+
+ALTERED POSSIBILITY + REMOVAL TEST.
+
+Once changed-from-baseline status is lost, the still no longer forces the relation:
+
+`surface changed -> B support/posture changed -> A brace required`.
+
+The human support relation survives, but it can be read as a chosen pose on already-existing architecture. Flattening/restoring the surface therefore does not force the human relation to disappear.
+
+Independent repeated integration miss:
+
+BRAND INTEGRATION / S6 DESKTOP COEXISTENCE.
+
+Both C07 and C08 place pale warm environmental material in the fixed left identity region, where the frozen light Threshold K/O3/copy system lacks natural separation. This is real, but the current evidence does not show that Harness 01 itself is the root blocker: the candidate transfer repeatedly fails to preserve an identity-compatible optical field.
+
+S6 remains partly downstream of the incomplete raw causal core and partly independently affected by desktop identity contrast.
+
+5. METHOD-LEVEL DIAGNOSIS
+
+Stage 6M remains empirically useful but insufficient.
+
+Across C07 and C08 it has demonstrated that the renderer can preserve:
+- B's visibly dependent oblique posture;
+- independently stable A;
+- passive body contact without active rescue;
+- responsive two-person containment;
+- substantial three-dimensional surface depth;
+- transfer-medium decontamination.
+
+C08 additionally demonstrates that the renderer can preserve:
+- head separation; and
+- a changed-surface feature reaching a visible free edge with thickness.
+
+What the current Method 02 / Stage 6M -> sterile naturalistic artwork translation still does not reliably preserve is the ontological relation "this surface is visibly changed from a simpler recoverable state" and its causal binding to B's support/posture.
+
+That is now a method/translation-level warning, not merely a reason to invent another slightly different D9 geometry.
+
+6. REJECTED NEXT MOVES
+
+R0 — C08 reroll, packet patch or stronger corrective prose
+REJECT. Round 08 is consumed and frozen no-retry law applies.
+
+R1 — another D9 successor using the same Stage 6M-to-naturalistic-art transfer with only a different local fold/trough shape
+REJECT AS AUTOMATIC NEXT STEP. C08 already made a material surface-topology change and repeated the same primary hard failure. Frozen stop law requires Director reconciliation first.
+
+R2 — deepen the surface, exaggerate damage, add cracks/seams/markers or make a more spectacular deformation
+REJECT. This risks purpose-built terrain/device/diagram shorthand and does not itself establish changed-from-baseline status.
+
+R3 — reopen Harness 01 because Brand Integration failed twice
+NOT SUPPORTED YET. The identity conflict is real, but both candidates supplied pale left regions. Current evidence does not establish the fixed Harness as the root cause.
+
+R4 — lower Changed-condition, Altered Possibility or Removal thresholds
+NOT SUPPORTED BY CURRENT EVIDENCE. Prior project evidence shows those gates can be passed individually. The present evidence identifies a transfer conjunction problem, not a definitional impossibility.
+
+R5 — declare D9 globally falsified
+NOT SUPPORTED. C07 and C08 both show that the passive-brace human-support layer can survive final artwork translation. The stopped component is the current changed-surface-to-posture realization under the protected full contract.
+
+7. RECOMMENDED DIRECTOR PATH
+
+RECOMMENDATION A — PRESERVE THE FROZEN CONTRACT / PAUSE D9-METHOD02 RENDERING / AUTHORIZE NON-RENDER METHOD-LEVEL TRANSLATION RECONCILIATION ONLY.
+
+Preserve unchanged:
+- Hero Artwork Brief 02;
+- Falsification Criteria 01;
+- Surface Escape;
+- corrected/re-frozen Harness 01;
+- current ODR-33 resolution;
+- no-compensating-average law.
+
+Close C08 and stop renderer expenditure under the current D9 / Method 02 succession path.
+
+If the Director chooses to continue hero research, the next work should be one non-render method-level investigation, not Candidate 09 construction. Its question should be:
+
+Can a materially different final translation/carrier preserve intrinsic visible baseline/change correspondence and bind that changed state to B's posture without collapsing into architecture/terrain-as-already-designed, damage/accident shorthand, device/platform shorthand, explanatory graphics or transfer-medium leakage?
+
+That investigation should explicitly compare at least:
+- whether the naturalistic architectural-material carrier itself is normalizing changed state into intentional design;
+- whether a different artwork translation strategy can preserve baseline correspondence as part of ordinary visible material behavior rather than as guides/marks;
+- whether the human support relation can remain as successfully transferred in C08;
+- whether a naturally identity-compatible left optical field can be precommitted without changing Harness 01 or selecting final brand style prematurely.
+
+It must remain non-render until its own recursively audited proposal demonstrates a materially different reason to expect the repeated failure to break.
+
+8. WHY A IS RECOMMENDED
+
+1. It obeys the frozen early-stop law.
+2. It preserves C08's real successes instead of restarting from zero.
+3. It does not sacrifice requirements that have been individually shown achievable elsewhere in the program.
+4. It recognizes that C08 already made the most obvious C07-specific geometry corrections and still repeated the same primary hard failure.
+5. It prevents low-information renderer spend on Candidate 09 variants that remain inside the same demonstrated naturalization attractor.
+6. It keeps the fixed Harness intact because current evidence does not identify Harness geometry as the primary causal blocker.
+7. It keeps D9's human-support insight available as evidence without treating it as authority for another render.
+
+9. OTHER DIRECTOR-VALID OPTIONS UNDER THE FROZEN CONTRACT
+
+B — REOPEN ONE SPECIFIC HERO REQUIREMENT.
+Only if the Director concludes the conflict matrix now justifies relaxing or retiring exactly one requirement. No requirement is preselected here.
+
+C — REVISE ONE SURFACE-OWNERSHIP PROPERTY OR SURFACE ESCAPE.
+Procedurally available only if evidence specifically identifies that property as the blocker. Current evidence does not support this path: Surface Escape and S1–S5 pass both C07 and C08.
+
+D — PRESERVE ALL REQUIREMENTS AND PAUSE STATIC HERO ARTWORK DEVELOPMENT.
+Valid if no further method investigation is worth the cost.
+
+10. CURRENT AUTHORITY CONSEQUENCE
+
+Until the Director acts on this reconciliation:
+- Round 09 = NOT AUTHORIZED;
+- Candidate 09 = NOT AUTHORIZED;
+- no C08 retry, replacement or packet/reference amendment;
+- no new renderer transfer or image generation;
+- no frozen-criterion change;
+- no Harness change;
+- no final hero/style/palette selection;
+- no production website implementation or Cloudflare change;
+- no Lane A/app UI implementation or motion.
+
+Standing clean-audit delegation does not bypass this stop because Falsification Criteria 01 explicitly reserves the post-stop reconciliation decision to the Director.
+
+11. RECURSIVE AUDIT
+
+Frozen-law integrity — PASS.
+No threshold is lowered, no failure relabeled advisory and no new post-render criterion is invented.
+
+Material-difference test — PASS.
+C07 and C08 differ substantially in changed-condition mechanism and human spatial/contact arrangement, satisfying the frozen early-stop comparison rule.
+
+Smallest-set discipline — PASS.
+Changed-condition legibility is identified as the primary repeated blocker; Altered Possibility and Removal Test are treated as downstream causal failures. Brand Integration/S6 are recorded separately rather than conflated into the causal root.
+
+Positive-evidence preservation — PASS.
+C08's head separation, passive mechanical brace, free-edge/thickness transfer, human salience, mobile survival and medium decontamination are preserved as real gains.
+
+No retry laundering — PASS.
+No C08 correction, Round 09, Candidate 09 or same-family transfer is authorized by recommendation language.
+
+Director-boundary discipline — PASS.
+The document recommends A but does not treat the recommendation as adopted authority.
+
+Simplicity / worthwhile improvement — PASS.
+The recommended next question moves exactly one layer upward—from candidate geometry to final translation/carrier—because C08 already falsified the most obvious candidate-level C07 corrections.
+
+FINAL PASS
+
+One complete final recursive pass found no criterion drift, unsupported impossibility claim, hidden retry, Harness scapegoating, D9 over-retirement, missing positive evidence, authority leak or worthwhile narrower recommendation.
+
+DISPOSITION
+
+RECOMMENDATION A IS THE PREFERRED NEXT DIRECTOR PATH.
+
+CURRENT STATE REMAINS:
+CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED.
+NO ROUND 09 OR SUCCESSOR CANDIDATE IS AUTHORIZED.
