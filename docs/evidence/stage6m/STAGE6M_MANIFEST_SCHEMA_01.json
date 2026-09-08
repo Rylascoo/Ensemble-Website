@@ -1,0 +1,323 @@
+{
+  "$defs": {
+    "number01": {
+      "maximum": 1,
+      "minimum": 0,
+      "type": "number"
+    },
+    "point2": {
+      "items": false,
+      "maxItems": 2,
+      "minItems": 2,
+      "prefixItems": [
+        {
+          "$ref": "#/$defs/number01"
+        },
+        {
+          "$ref": "#/$defs/number01"
+        }
+      ],
+      "type": "array"
+    },
+    "point3": {
+      "items": false,
+      "maxItems": 3,
+      "minItems": 3,
+      "prefixItems": [
+        {
+          "$ref": "#/$defs/number01"
+        },
+        {
+          "$ref": "#/$defs/number01"
+        },
+        {
+          "$ref": "#/$defs/number01"
+        }
+      ],
+      "type": "array"
+    },
+    "solid": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "polygon": {
+          "items": {
+            "$ref": "#/$defs/point2"
+          },
+          "minItems": 3,
+          "type": "array"
+        },
+        "support_contact": {
+          "type": "boolean"
+        },
+        "z0": {
+          "$ref": "#/$defs/number01"
+        },
+        "z1": {
+          "$ref": "#/$defs/number01"
+        }
+      },
+      "required": [
+        "id",
+        "polygon",
+        "z0",
+        "z1"
+      ],
+      "type": "object"
+    },
+    "volume": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "minLength": 1,
+          "type": "string"
+        },
+        "solids": {
+          "items": {
+            "$ref": "#/$defs/solid"
+          },
+          "minItems": 1,
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "solids"
+      ],
+      "type": "object"
+    }
+  },
+  "$id": "urn:kymaean:hero:method02:stage6m:1",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "contacts": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "a": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "axis": {
+            "const": "horizontal_x"
+          },
+          "b": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "point_a": {
+            "$ref": "#/$defs/point3"
+          },
+          "point_b": {
+            "$ref": "#/$defs/point3"
+          }
+        },
+        "required": [
+          "id",
+          "a",
+          "b",
+          "point_a",
+          "point_b",
+          "axis"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "format": {
+      "const": "kymaean.hero.method02.stage6m/1"
+    },
+    "instrumentation": {
+      "const": {
+        "base_gray": 184,
+        "outline_gray": 150,
+        "outline_width": 0.6,
+        "side_delta": -12,
+        "top_delta": 12
+      }
+    },
+    "projection": {
+      "const": {
+        "depth_dx": 0.035,
+        "depth_dy": 0.025,
+        "mode": "fixed_orthographic_oblique"
+      }
+    },
+    "proxy_volumes": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "density": {
+            "const": "uniform"
+          },
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "solids": {
+            "items": {
+              "$ref": "#/$defs/solid"
+            },
+            "minItems": 1,
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "density",
+          "solids"
+        ],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "review": {
+      "additionalProperties": false,
+      "properties": {
+        "maquette_leakage": {
+          "enum": [
+            "UNASSESSED",
+            "PASS",
+            "FAIL"
+          ]
+        },
+        "surface_read": {
+          "enum": [
+            "UNASSESSED",
+            "PASS",
+            "FAIL"
+          ]
+        },
+        "transfer_eligible": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "maquette_leakage",
+        "surface_read",
+        "transfer_eligible"
+      ],
+      "type": "object"
+    },
+    "sanitization": {
+      "const": {
+        "allow_guides": false,
+        "allow_ids": false,
+        "allow_metadata": false,
+        "allow_text": false,
+        "transparent_background": true
+      }
+    },
+    "source_artboard": {
+      "additionalProperties": false,
+      "properties": {
+        "height": {
+          "minimum": 1,
+          "type": "integer"
+        },
+        "width": {
+          "minimum": 1,
+          "type": "integer"
+        }
+      },
+      "required": [
+        "width",
+        "height"
+      ],
+      "type": "object"
+    },
+    "static_cases": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "contact_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "counterparty": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "expected": {
+            "enum": [
+              "stable",
+              "unstable"
+            ]
+          },
+          "id": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "kind": {
+            "enum": [
+              "unsupported",
+              "supported_pair"
+            ]
+          },
+          "minimum_margin": {
+            "minimum": 0,
+            "type": "number"
+          },
+          "proxy": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "target_cop_x": {
+            "maximum": 1,
+            "minimum": 0,
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "proxy",
+          "expected",
+          "minimum_margin",
+          "contact_id",
+          "target_cop_x",
+          "counterparty"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "surface_volumes": {
+      "items": {
+        "$ref": "#/$defs/volume"
+      },
+      "minItems": 1,
+      "type": "array"
+    }
+  },
+  "required": [
+    "format",
+    "source_artboard",
+    "projection",
+    "instrumentation",
+    "surface_volumes",
+    "proxy_volumes",
+    "contacts",
+    "static_cases",
+    "sanitization",
+    "review"
+  ],
+  "title": "Kymaean Method 02 Stage 6M Neutral Physical Maquette Manifest",
+  "type": "object"
+}
