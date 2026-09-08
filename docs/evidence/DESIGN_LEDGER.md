@@ -332,7 +332,7 @@ Primary evidence:
 
 **State:** ROUND 08 FAIL / CONSUMED / C08 CLOSED / NO RETRY / D9-METHOD02 RENDER SUCCESSION PAUSED / DIRECTOR RECONCILIATION REQUIRED
 
-Round 08 / `METHOD02-R08-C08` returned one judgeable 1586 × 992 PNG and consumed its single authorized attempt. Raw returned image SHA-256: `30c47d18064842d5f0f0f4f994acacfd118e3440d58465b59e9307bb5fd36231`.
+Round 08 / `METHOD02-R08-C08` returned one judgeable 1586 × 992 image and consumed its single authorized attempt. Raw returned image SHA-256: `30c47d18064842d5f0f0f4f994acacfd118e3440d58465b59e9307bb5fd36231`.
 
 Frozen result:
 - Human Necessity = **4/5 PASS**;
@@ -465,3 +465,20 @@ Candidate construction:
 The construction deliberately does not reuse C08's free-edge witness, coordinates, scaffold or reference image. Its principal unresolved pre-render falsification targets remain P3 purpose-designed-whole normalization, P7 architecture/terrain/installational shorthand, P8 pattern/diagram dominance, exact physical B-dependence/A-stability, and frozen mobile containment. These were not converted into prose passes.
 
 **Guardrail:** DPSC-C01 identity authorizes only the exact neutral current-state vector scaffold and its physical/P3/P7/P8/Harness falsification. No renderer-visible bytes are yet frozen and no DPSC-E1 call is authorized. The full P1-P13 audit must be rerun on the exact scaffold before a sterile packet or execution gate may exist.
+
+## L-028 — DPSC-C01 Revision 1 fails neutral-scaffold pre-render falsification
+
+**State:** DPSC-C01 REVISION 1 REJECTED PRE-RENDER / DPSC-RSP-01 ACTIVE / 0 RENDERER EXPENDITURES
+
+The exact-neutral-scaffold gate falsified the `COHERENT INTERIOR OFFSET / PASSIVE COUNTERBRACE` lower-support/ground carrier before any renderer-visible bytes were frozen. Private deterministic scaffold variants exposed a repeatable P3/P7/P8 collision: suppressing distributed correspondence enough to resist terrain/track/diagram shorthand removed intrinsic baseline/change legibility (P3), while strengthening the correspondence enough to recover the simpler baseline made terrain/track/installation or formal-pattern readings materially simpler (P7/P8).
+
+A support-counterfactual audit also corrected the physical dependency logic before disposition: the changed zone must displace B's near/left support rightward, and restoration must return it leftward so the base widens around B's center. That correction improved the counterfactual but did not remove the carrier collision.
+
+Primary evidence:
+`docs/evidence/HERO_DPSC_C01_NEUTRAL_SCAFFOLD_FALSIFICATION_01.txt`.
+
+No canonical scaffold was promoted. No renderer-visible reference/prompt/packet exists. No DPSC-E1 image exists. This is not a qualifying rendered round and does not trigger the frozen post-render suspected-unsatisfiable stop.
+
+Under DPSC-RSP-01 Case A, C01 may be materially corrected inside the frozen method while no renderer authorization has been earned. C02 remains unavailable until a judgeable E1 failure.
+
+**Guardrail:** the next and only current design gate is DPSC-C01 D0-D5 correction using a lateral body-height continuous changed condition rather than a ground/support-plane carrier. This does not pre-approve that mechanism. It must independently clear P1-P13, especially P3/P7/P8, wall/curtain/device/installational shorthand, physical B dependence, passive separated-head A contact and frozen mobile containment. Renderer expenditure remains 0.
