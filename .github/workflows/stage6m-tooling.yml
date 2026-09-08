@@ -71,3 +71,48 @@ jobs:
           print('C07 SVG SHA256', svg_sha)
           print('C07 report SHA256', report_sha)
           PY
+      - name: Diagnose Candidate 08 deterministic Stage 6M bytes and statics
+        run: |
+          python3 - <<'PY'
+          import base64, hashlib, json, pathlib, sys
+          sys.path.insert(0, 'tools')
+          from stage6m_maquette import deterministic_bytes
+
+          manifest_path = pathlib.Path('docs/evidence/stage6m/C08-EWTF-01_STAGE6M_MANIFEST.json')
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          svg, report_text = deterministic_bytes(manifest)
+          svg_sha = hashlib.sha256(svg.encode('utf-8')).hexdigest()
+          report_sha = hashlib.sha256(report_text.encode('utf-8')).hexdigest()
+          report = json.loads(report_text)
+          assert report['automated_validation_pass'] is True
+          assert report['transfer_eligible'] is False
+          cases = {case['id']: case for case in report['static_cases']}
+          assert cases['A-unsupported']['computed_margin_source_px'] >= 75.0
+          assert -cases['B-unsupported']['computed_margin_source_px'] >= 25.0
+          assert cases['B-supported-by-A']['proxy_margin_source_px'] >= 5.0
+          assert cases['B-supported-by-A']['counterparty_margin_source_px'] >= 40.0
+
+          fx_fraction = abs(cases['B-supported-by-A']['fx_fraction_of_proxy_weight'])
+          width = float(manifest['source_artboard']['width'])
+          height = float(manifest['source_artboard']['height'])
+          a = report['proxy_metrics']['A']
+          contact_y = float(manifest['contacts'][0]['point_a'][1])
+          lever_px = (float(a['support_y_range'][1]) - contact_y) * height
+          sensitivity_shift_px = lever_px * fx_fraction * 2.0
+          sensitivity_resultant_x = float(a['com'][0]) - sensitivity_shift_px / width
+          sensitivity_margin_px = min(
+              sensitivity_resultant_x - float(a['support_x'][0]),
+              float(a['support_x'][1]) - sensitivity_resultant_x,
+          ) * width
+          assert sensitivity_margin_px >= 40.0, sensitivity_margin_px
+
+          print('C08 SVG SHA256', svg_sha)
+          print('C08 report SHA256', report_sha)
+          print('C08 2:1 sensitivity margin source px', sensitivity_margin_px)
+          print('C08_REPORT_JSON_BEGIN')
+          print(report_text, end='')
+          print('C08_REPORT_JSON_END')
+          print('C08_SVG_B64_BEGIN')
+          print(base64.b64encode(svg.encode('utf-8')).decode('ascii'))
+          print('C08_SVG_B64_END')
+          PY
