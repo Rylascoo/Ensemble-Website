@@ -20,9 +20,9 @@ Before substantive work:
 5. Read `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md` — Sol High task-scope and external-specialist allocation law.
 6. Read `docs/evidence/DESIGN_LEDGER.md` — durable closure, prior-result, and re-derivation guardrail.
 7. Read the active handoff/evidence named by `CURRENT_STATE.md`, then `docs/DESIGN_CONTINUITY.md` only for durable design law/lineage; historical status there cannot override current state.
-8. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` at its exact active engineering ref only when current product/engineering truth materially matters.
+8. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` at its exact active engineering ref whenever current product/engineering truth or a cross-project dependency materially matters. When a design task is represented in the central project queue, also read `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`; its sequencing/prerequisite status cannot override this repository's current design boundary or stronger product authority.
 9. Use Google Drive `Ensemble Project` for visual-master assets/provenance when required.
-10. Inspect any suspicious cross-lane artifact before adopting it: design/UI/website/visual work belongs here/Drive; engineering source/tests/provider/runtime/validation implementation belongs in `Ensemble-Project`; central product/policy/ODR decisions belong in `Ensemble-Project` even when raised by Design Sol.
+10. Inspect any suspicious cross-lane artifact before adopting it: design/UI/website/visual work belongs here/Drive; engineering source/tests/provider/runtime/validation implementation belongs in `Ensemble-Project`; central product/policy/ODR decisions and the one canonical cross-project execution queue belong in `Ensemble-Project` even when raised by Design Sol.
 
 Do not reconstruct current authority from branch names, old handoffs, historical approvals, attractive recent work, default-branch search alone, or chat summaries.
 
@@ -31,6 +31,12 @@ Do not reconstruct current authority from branch names, old handoffs, historical
 A fresh chat should detect continuity/residency drift automatically, classify it, and repair deterministic in-lane defects already covered by standing authority. It must not silently move an ambiguous artifact, rewrite design history, promote evidence into product authority, discard unique branch work, or change an outside-lane decision. If authority is genuinely ambiguous, surface the Director decision rather than guessing.
 
 `tools/generate_docs_index.py` and D-R1 status law govern Markdown documents. Non-Markdown evidence such as `.txt`, `.json`, `.svg`, or render artifacts does not become active law merely because it lacks a D-R1 header; resolve its role through `CURRENT_STATE.md`, `DESIGN_LEDGER.md`, governing evidence references, and the applicable method contract.
+
+## Cross-project execution-queue rule
+
+`Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md` is the single cross-project backlog/sequencing register. Design Sol must consult it whenever a design item has an engineering/evidence prerequisite, whenever Design Sol closes or reopens a design item represented there, or whenever design work discovers a consequential cross-project task that is otherwise untracked.
+
+The queue cannot tell Design Sol what pixels to make or override `CURRENT_STATE.md`, the Design Ledger, frozen design criteria, or central product authority. It exists to ensure prerequisites and future work are not lost. If a Design-owned queue item's status or prerequisite materially changes, reconcile the canonical queue in the same logical closeout when a safe cross-repository write is available. If concurrent ownership or tool limits make that unsafe, record the required queue reconciliation explicitly before claiming cross-project closure; do not create a duplicate queue here.
 
 ## Primary reasoning surface
 
@@ -127,4 +133,4 @@ Keep `CURRENT_STATE.md` at or below **3 KiB** and within **3 commits** of the ac
 
 ## Completion discipline
 
-For one bounded objective, complete all logically coupled reads, edits, checks, evidence updates, recursive audit, readback, and continuity updates already authorized. Stop only at a real authority or unavailable external-validation boundary. Before closeout, check exact-ref continuity, branch lifecycle, cross-repo residency, state size/currency, and whether the next action remains singular and lawful.
+For one bounded objective, complete all logically coupled reads, edits, checks, evidence updates, recursive audit, readback, and continuity updates already authorized. Stop only at a real authority or unavailable external-validation boundary. Before closeout, check exact-ref continuity, branch lifecycle, cross-repo residency, central execution-queue reconciliation when applicable, state size/currency, and whether the next action remains singular and lawful.
