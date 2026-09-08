@@ -1,0 +1,206 @@
+KYMÆAN — HERO CANDIDATE 07 METHOD 02 CONSTRUCTION STAGES 01–05 — RECURSIVE AUDIT
+
+Status: COMPLETE / CLEAN FINAL PASS / STAGES 1–5 APPROVED / STAGE 6 AUTHORIZED ONLY
+Date: 2026-09-07
+Candidate: C07-CBSR-01 — CROSS-BAND SPLIT-ROOT PASSIVE BRACE
+
+AUDITED
+
+- approved D9 direction;
+- Candidate 07 successor mechanism/geometry investigation + clean audit;
+- C06 Stages 1–6 and Round 06 failure evidence as negative control;
+- post-Round-06 transfer-fidelity finding;
+- approved Stage 6M addendum/tooling boundary;
+- docs/evidence/HERO_CANDIDATE_07_METHOD_02_CONSTRUCTION_STAGES_01_05.txt.
+
+AUTHORITY / SCOPE — PASS
+
+Candidate 07 was established only after a clean successor-geometry audit. The Stages 1–5 file stays inside that authority and does not create Stage 6, Stage 6M, Stage 7 or renderer execution by implication.
+
+Current standing workflow law allows a clean recursive audit to earn the next in-lane design gate.
+
+FROZEN-LAW INTEGRITY — PASS
+
+No Hero Brief 02, Falsification Criteria 01, Surface Escape, Harness, ODR-33, renderer-isolation or one-attempt rule changes.
+
+D9 is preserved:
+- field-borne B vertical load;
+- passive A lateral/rotational brace only;
+- A independent loaded stability;
+- positive unsupported B margin;
+- baseline contact removal;
+- no exact prior author requirement;
+- no private state;
+- no ordinary-task dependence.
+
+STAGE 1 SEMANTIC DEPENDENCY — PASS
+
+A and B have distinct non-swappable physical jobs.
+
+The causal chain is observable and falsifiable:
+changed field mapping -> changed B support relation -> unsupported depicted B equilibrium fails -> one passive A contact closes it.
+
+The construction does not claim that B is incapable of every alternative action. It correctly freezes the depicted changed-state posture for the removal counterfactual, while preserving the later pixel-level risk that an arbitrary-pose reading can still fail Removal Test.
+
+The human arrangement is materially different from C06 because the support topology changes and the two body axes are not allowed to collapse into the same substantially parallel editorial lean.
+
+STAGE 2 BASELINE / CHANGE PROOF — PASS WITH STAGE 6 REALIZABILITY GATE
+
+The changed support-root claim is not inferred from close feet alone. Exact changed -> baseline material-point mappings are pre-registered:
+- left root: (1085,700) -> (1135,700);
+- right root: (1140,680) -> (1220,680).
+
+The displacements are differential (+50 / +80 on restoration), so the geometry is not a rigid C06-style translated patch.
+
+The primary correspondence requirement is clean:
+- evidence must come from field-defining geometry;
+- no clue seam, marker, contour, ridge, arrow, grid or label may be introduced solely to prove change.
+
+The proposed local mapping is prospectively realizable as a continuous orientation-preserving displacement field: the 85 px baseline x separation maps to 55 px changed separation without requiring a foldover or discontinuity in principle.
+
+This does not pre-approve an actual Stage 6 surface. Stage 6 must construct one continuous finite-thickness field that realizes the mapping without:
+- negative/folded local mapping;
+- hard seam/gap;
+- closed C06-like support cell;
+- stair/ramp/platform/device;
+- excessive fault/damage read;
+- self-sufficient sculptural/topographic object.
+
+If Stage 6 cannot realize the mapping cleanly, Candidate 07 fails/corrects there; Stages 1–5 may not be used to waive the defect.
+
+ANTI-BALANCING-CUE DISCIPLINE — PASS
+
+The band is a Director-side deformation zone, not a visible line.
+Neither foot may sit on or trace a band edge.
+This closes a potential shortcut where the person would appear to be intentionally balancing on a seam.
+
+STAGE 3 STATIC MODEL — PASS
+
+B changed state:
+- support x 1075–1150;
+- COM x 1060;
+- unsupported margin 15 px toward A.
+
+Planning brace:
+- center of pressure x 1085;
+- B COM-to-COP arm 25 px;
+- support/contact lever approximately 300 px;
+- horizontal reaction approximately 0.0833 B normalized weight.
+
+A:
+- support x 830–990;
+- COM x 910;
+- unloaded minimum margin 80 px;
+- conservative 2:1 B:A sensitivity shifts support resultant approximately 50 px;
+- positive loaded minimum margin remains 30 px.
+
+Baseline B:
+- support x 1125–1230;
+- COM x 1175;
+- minimum inside margin 50 px;
+- contact-locus separation from A 155 px against a 120 px floor.
+
+No arithmetic contradiction or zero-margin pass exists.
+
+EXACT-SOLID CONSISTENCY — PASS WITH FAIL-CLOSED DOWNSTREAM REQUIREMENT
+
+The Stage 3 numbers are planning targets, not permission to use a different visible maquette.
+
+Stage 6/6M must derive exact support and uniform-density COM from the same transferable solids. If exact geometry moves any critical value materially, the statics must be recomputed and must retain positive margins. A hidden stick-figure calculation cannot certify different visible feet/body/contact geometry.
+
+This matches current Stage 6M method law rather than weakening it.
+
+ALTERNATE SUPPORT — PASS
+
+The ledger excludes:
+- hands/arms;
+- knee/hip/seat/torso surface support;
+- rails/walls;
+- second human contact;
+- A vertical carry;
+- hidden wider feet;
+- band-edge ledge;
+- closed pocket/cradle;
+- same contact after baseline restoration.
+
+No alternate support path currently preserves the same depicted changed-state geometry.
+
+STAGE 4 TWO-PERSON NECESSITY — PASS
+
+Remove A:
+B's frozen changed pose loses its only stabilizing lateral/rotational reaction.
+
+Remove B:
+the altered human consequence and two-person relation disappear while A remains stable.
+
+Restore baseline:
+B's support and COM become independently stable and the contact loci separate by a positive margin.
+
+Genericize/swap:
+the roles cease to satisfy their different loaded/unsupported constructions; later translation additionally requires three non-color specificity channels.
+
+STAGE 5 RESPONSIVE SURVIVAL — PASS
+
+Fixed mobile window remains x 554–1321.
+
+All planned necessary mechanism coordinates remain within it:
+- A support/body/contact approximately x 830–1005;
+- contact approximately x 1005–1008;
+- B changed mechanism approximately x 1008–1150;
+- baseline mapping audit targets through x 1230;
+- baseline witness targets x 650–960 and x 1235–1295.
+
+No essential evidence is assigned to the far-left desktop copy/identity region.
+
+Stage 6 must preserve both B feet, both people, contact, band relation, two-sided baseline evidence and negative space under the exact fixed crop. No candidate-specific crop change is authorized.
+
+C06 RETRY CHECK — PASS
+
+Candidate 07 does not reuse:
+- one self-contained displaced patch under both feet;
+- rigid whole-patch translation/tilt as the changed support mechanism;
+- substantially parallel side-by-side editorial lean as the relation.
+
+No C06 coordinate set, transfer reference, prompt or image is reused as Candidate 07 construction.
+
+STAGE 6M SCOPE DISCIPLINE — PASS
+
+Stage 6M is not used to make semantic or statics problems disappear. It remains downstream of an approved Stage 6.
+
+No candidate-specific maquette is authorized until the Stage 6 geometry itself is constructed and cleanly audited.
+
+AESTHETIC CONTAMINATION — PASS
+
+No final material, palette, setting, clothing, face, hair identity, culture, period, lighting, camera drama, renderer technique or named style is selected.
+
+KNOWN RISKS RETAINED — PASS
+
+The construction openly retains:
+- fault/terrain/engineered-joint naturalization;
+- support-band visual dominance;
+- fashion/balance/performance reading;
+- interpersonal-pose substitution;
+- Stage 6 mapping/device failure;
+- exact-solid statics failure;
+- final-pixel Removal Test failure.
+
+None is falsely declared solved by Stages 1–5.
+
+FINAL RECURSIVE PASS
+
+CLEAN.
+
+No material semantic contradiction, arithmetic error, hidden C06 retry, zero-margin equilibrium, unregistered material mapping, clue-line dependency, responsive escape, Stage 6M authority leak, aesthetic contamination or worthwhile simpler correction remains at the Stages 1–5 gate.
+
+EARNED APPROVAL
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Candidate 07 / C07-CBSR-01 Method 02 Stages 1–5:
+APPROVED.
+
+AUTHORIZED NEXT ACTION
+
+Construct Candidate 07 Method 02 Stage 6 deterministic neutral geometry scaffold from these exact approved semantic/support/material-point constraints, then recursively audit Stage 6 before any candidate-specific Stage 6M maquette.
+
+No Stage 6M transfer, Stage 7 renderer package or image generation is authorized by this audit.
