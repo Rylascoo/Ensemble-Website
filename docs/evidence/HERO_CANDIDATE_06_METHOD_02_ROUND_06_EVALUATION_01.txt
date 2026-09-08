@@ -1,0 +1,174 @@
+KYMÆAN — HERO CANDIDATE 06 METHOD 02 ROUND 06 EVALUATION 01
+
+Status: COMPLETE / FAIL / SINGLE AUTHORIZED ATTEMPT CONSUMED / NO RETRY
+Date: 2026-09-07
+Experiment: METHOD02-R06-C06
+Candidate: C06-ASPB-01
+
+PROVENANCE / EXECUTION INTEGRITY
+
+The Director returned one 1586 × 992 PNG and explicitly confirmed:
+- fresh regular renderer chat;
+- no modifications;
+- no retries.
+
+The run proceeded under the pre-registered stop-if-reference-strength-control-is-exposed instruction; no contrary report was supplied, so execution is recorded as:
+REFERENCE_STRENGTH_CONTROL: NOT EXPOSED / N/A.
+
+This matches the frozen one-context / one-request / one-image / zero-reroll accounting. The returned image is judgeable and is binding Round 06 evidence. No post-hoc prompt, scaffold, crop, retouch, reroll or image modification is used to manufacture a pass.
+
+Drive evidence folder:
+1jy6wJT0q0Az-4cJ64VejDFTn8-NHmBZ5
+
+Raw artwork:
+- Drive ID: 1fjbGbFHat-lFmyTnpTbkmSYYZ4sI16T-
+- dimensions: 1586 × 992
+- SHA-256: 5c48bbbcb2948157900b29129e05c57cdfef65397979c234d2b42024523dcd75
+
+Fixed Harness-derived crop evidence:
+- desktop crop Drive ID: 1Qrgjj8E8CEgF5zwGmHDeBwHRxYag1IBB
+- desktop crop SHA-256: 48f66830280151185c3aa65dff3f57002df4426391a4b29bee50c74e59348ea4
+- desktop source window from frozen 1280 × 720 object-fit: cover / 50% 50%: x 0–1586, y approximately 49.94–942.06
+- mobile crop Drive ID: 1tioFlX-P7YY04apHjKHpBCAnqekoK59m
+- mobile crop SHA-256: 1d156031d633f6fa72ef9c97830c2d10e9879de43b7ade851b907260ac624dae
+- mobile source window from frozen 390 × 488 object-fit: cover / 72% 50%: x approximately 571.11–1363.90, y 0–992
+
+The crops are deterministic evidence only; they are not candidate variants.
+
+OBSERVABLE PIXEL FACTS
+
+The image contains two visibly specific adults standing center-right in a broad, pale, low-detail landscape/surface under a pale overcast sky. Person A is a bearded adult in a dark sweater/jacket with a wider, more upright stance. Person B is a dark-haired adult in a long dark coat and light trousers, standing on the right within a shallow localized depression/undulation.
+
+The adults are strongly differentiated without labels or color-only coding through body proportion, age presentation, head/hair silhouette, outer-garment silhouette and posture.
+
+B leans left into A. The visible contact reads primarily around B's head/upper shoulder/back against A's shoulder/upper-torso region. A remains upright and independently stable. Neither person visibly lifts, catches, grasps, pulls, pushes or actively assists the other.
+
+B's feet remain on the surface, but the rendered stance places both feet directly beneath the body in a visually plausible independent standing configuration. The pixels do not make B's center of mass visibly exceed the available support region, and do not make A's contact read as mechanically necessary for static stability.
+
+The surface contains a shallow smooth local depression/rise and at least one thin continuation seam/contour. A broader flat continuation exists to the left and right. This makes a simpler baseline somewhat inferable, but the localized form still reads coherently as pre-existing sculpted terrain/architectural ground rather than as a materially changed state that must be reconstructed from prior alignment.
+
+No crack, rubble, damage spectacle, device, rail, hinge, pivot, cable, portal, machinery, typography, branding, interface chrome, explanatory graphics or obvious diagram residue is visible.
+
+The far-left desktop region is very pale and low-contrast relative to the fixed light Threshold K/O3/copy system.
+
+The fixed mobile crop preserves both adults, their contact, the shallow changed-zone form and flat continuation on both sides.
+
+HERO ARTWORK BRIEF 02 HARD GATES
+
+No compensating average is permitted.
+
+Human Necessity — 4/5 PASS
+Both adults are specific and the primary interpersonal event depends on the presence of both. Removing either person materially collapses the depicted two-person relation. This does not prove the stronger D9 mechanical-necessity claim.
+
+Changed-condition legibility — 3/5 FAIL
+The shallow local depression/undulation is more organized than ordinary texture and a simpler broad alignment can be inferred from surrounding continuation. However, the local form remains fully coherent as pre-existing sculpted/topographic ground. The still does not establish the stronger changed-from-baseline reading at the >=4 floor.
+
+Altered Possibility — 2/5 FAIL
+B occupies the local depression and leans into A, but the pixels do not establish that the changed surface creates a present physical possibility that would disappear under baseline restoration. B appears independently supportable by the rendered stance, and the body contact can be read as optional interpersonal posing rather than a necessary consequence of the local surface state.
+
+Epistemic Restraint — 5/5 PASS
+No required meaning depends on knowledge, belief, memory, motive, intent or hidden authorship.
+
+Brand Integration — 1/5 FAIL
+Harness 01 fixes light Threshold K/O3/copy over the desktop left region with no candidate-specific scrim. Round 06 places pale sky and pale ground through that region. The fixed identity system therefore loses natural optical separation. No overlay or artwork rescue is permitted.
+
+Mobile Survival — 3/5 PASS
+The fixed mobile crop preserves both specific adults, their physical contact, the shallow local surface change and surrounding continuation. The minimum crop-survival burden is met. This does not repair the failed changed-condition/altered-possibility reading.
+
+Removal Test — 2/5 FAIL
+Removing A leaves B plausibly standing in the rendered local depression; the pixels do not show that B's depicted posture becomes physically unavailable. Restoring the surface toward a simpler alignment also does not visibly force the human relation to disappear, because the rendered contact reads as an optional posed lean rather than a geometrically necessary brace.
+
+Surface Escape — PASS
+The primary literal reading is not an ordinary task or response to an ordinary accident in a conventional historical/domestic/occupational setting. The image reads as a restrained editorial/interpersonal landscape portrait. That passes the frozen narrow gate while remaining a secondary style/meaning drift.
+
+SURFACE-OWNERSHIP S1–S6
+
+S1 Human-first salience — PASS
+The people and their relation remain the primary meaningful event. Removing/genericizing them materially collapses the image's human proposition.
+
+S2 Theatrical absence / meaningful quiet — PASS
+The large pale left region materially carries asymmetry, hierarchy and breathing room. Filling it with neutral detail would materially alter the composition.
+
+S3 Material-role discipline — PASS
+The image is restrained, low-saturation, matte/non-spectacular and does not depend on color-only semantics, fantasy glow, luxury-metallic emphasis or texture spectacle.
+
+S4 Authored restraint — PASS
+Proportion, spacing, selective emphasis and quiet mass carry the composition after decorative detail is mentally removed.
+
+S5 Discovery without emblem imitation — PASS
+No Threshold K/O3 quotation, hidden glyph, logo puzzle or emblematic mechanism is present.
+
+S6 Responsive asymmetry / identity coexistence — FAIL
+The mobile human cluster survives, but the complete semantic core does not because changed-condition/altered-possibility/removal necessity fail in the raw pixels. Desktop identity coexistence also fails because the fixed light identity system conflicts with the pale left region.
+
+REFERENCE-TRANSFER LEAKAGE
+
+PASS / NO MATERIAL DIAGRAM LEAKAGE.
+The sanitized reference did not survive as black technical linework, a white-board/reference-sheet composition, visible guide geometry, arrows, annotations or schematic residue. The thin surface contour reads as part of the physical scene rather than an obvious technical overlay.
+
+D9-SPECIFIC PIXEL CHECK
+
+- B vertical weight remains surface-borne: PASS.
+- A visibly independently stable: PASS.
+- no active hand/arm helping: PASS.
+- passive broad body adjacency/contact exists: PASS AT DEPICTION LEVEL.
+- B visibly laterally/rotationally unstable without A: FAIL.
+- A contact visibly necessary rather than optional/intimate/editorial: FAIL.
+- baseline restoration visibly removes contact geometry: FAIL.
+- residual changed state survives as changed-from-baseline rather than pre-shaped form: FAIL.
+- both people remain primary: PASS.
+- transfer-visible surface avoids device/platform dominance: PASS, but it naturalizes into pre-existing sculpted/topographic ground instead.
+
+FINAL FROZEN-SET RESULT
+
+- Human Necessity = 4/5 PASS
+- Changed-condition legibility = 3/5 FAIL
+- Altered possibility = 2/5 FAIL
+- Epistemic restraint = 5/5 PASS
+- Brand Integration = 1/5 FAIL
+- Mobile Survival = 3/5 PASS
+- Removal Test = 2/5 FAIL
+- Surface Escape = PASS
+- S1 = PASS
+- S2 = PASS
+- S3 = PASS
+- S4 = PASS
+- S5 = PASS
+- S6 = FAIL
+
+ROUND 06 RESULT: FAIL.
+
+WHAT ROUND 06 ESTABLISHES
+
+Candidate 06 materially changes the causal burden relative to Candidate 04/05: A no longer has to author the surface change, B remains vertically surface-supported, and the intended necessity is a passive lateral/rotational human brace. The renderer still did not preserve the decisive causal/stability geometry.
+
+Two distinct failure transformations are visible:
+
+1. SURFACE NATURALIZATION / PRE-EXISTING-FORM SUBSTITUTION
+The modest residual displacement becomes a smooth shallow sculpted/topographic depression that can be accepted as already-existing ground.
+
+2. STABILITY-NECESSITY ATTENUATION
+The pre-registered B support/COM instability is translated into a visually plausible two-foot standing pose. The intended passive mechanical brace becomes an optional editorial/interpersonal lean.
+
+This is not the old D1 authored-field failure. Exact authorship was removed and the image still fails at the later chain:
+
+changed surface -> B physically altered support/posture -> A mechanically necessary passive brace.
+
+The result therefore narrows the current problem to transfer of nonstandard physical necessity and changed-state evidence into naturalistic pixels.
+
+EXPERIMENT DISPOSITION
+
+The single authorized Round 06 attempt is consumed.
+
+There is:
+- no modification;
+- no reroll;
+- no prompt patch;
+- no replacement image;
+- no candidate-specific Harness rescue;
+- no automatic Round 07.
+
+Candidate C06-ASPB-01 is CLOSED AS A RENDERED ATTEMPT.
+
+Exact next action is non-render analysis only:
+perform a post-Round-06 Method 02 transfer-fidelity / causal-topology review to determine the narrowest failure level and whether D9 remains testable under a materially different transfer representation without becoming a disguised retry.
