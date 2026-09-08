@@ -15,32 +15,49 @@ Updated: 2026-09-07
 
 This file alone owns volatile phase/current-boundary state. GPT-5.6 Sol High is primary; clean recursive audit earns in-lane approval.
 
-## D-R1 restructuring
+## D-R1 restructuring — CLOSED
 
-Phases 0–2: **COMPLETE**. Phase 2 adopted head `5b36975655b870d4270808200b6f9bee59a43ebd`; GitHub run `34169485152` succeeded. Corpus remains **282 Markdown = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**.
+**D-R1: COMPLETE / CLOSED / CLEAN.**
 
-Phase 3: **COMPLETE / CLEAN**. Seven freshly reverified zero-unique strict ancestors were preserved under exact `archive/d-r1-phase3/...` tags and deleted one at a time. Independent readback confirmed all seven tags, all seven branches absent, and **37 remote branches = main + 36 protected unique-commit branches**.
+Phase 0: corrected diagnosis/classification complete. Phase 1: durable repository bootstrap complete. Phase 2: four-state document-status/index/CI layer adopted. Phase 3: seven zero-unique strict-ancestor branches preserved by exact archive tags and deleted; 36 unique-commit branches remain protected. Phase 4: `site/` established as publication-source namespace without promoting prototype evidence or changing Cloudflare. Phase 5: final structural closure audit + authority handback complete under `docs/evidence/D_R1_PHASE_5_CLOSURE_AUDIT_CONTRACT_01.txt`.
 
+The D-R1 objectives are satisfied: retrievability, status separation, closure persistence, anti-re-derivation, branch preservation discipline, and publication isolation. The full D-R1 baseline-to-closure compare contains no changed path under `prototypes/` or `assets/`.
+
+The seven `archive/d-r1-phase3/...` tags remain at their exact recorded SHAs. Current remote branch set remains **37 = main + 36 protected unique-commit branches**.
+
+Current machine-status corpus remains **282 Markdown = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED**. `UNCLASSIFIED` remains valid reconciliation debt; D-R1 does not infer resolutions for those 11 records.
+
+Phase 6 remains **NOT TRIGGERED**: VID, R0, Hero Method 01 and Hero Method 02 all retain explicit success and/or termination states.
+
+Phase 0 closure: `docs/evidence/D_R1_PHASE_0_CLOSURE_02.txt`.
+Phase 2 adoption: `docs/evidence/D_R1_PHASE_2_ADOPTION_01.txt`.
 Phase 3 closure: `docs/evidence/D_R1_PHASE_3_CLOSURE_01.txt`.
-
-Phase 4: **COMPLETE / CLEAN**. `site/` is now the explicit publication-source namespace via `site/README.txt`. No `index.html` was invented; no historical prototype was promoted; no `prototypes/` or `assets/` file moved/rewritten; Cloudflare root/configuration was unchanged. Production content migration is deferred until a legitimate production website source is later authorized and is not a D-R1 blocker.
-
 Phase 4 closure: `docs/evidence/D_R1_PHASE_4_PUBLICATION_SOURCE_BOUNDARY_01.txt`.
+Phase 5 contract: `docs/evidence/D_R1_PHASE_5_CLOSURE_AUDIT_CONTRACT_01.txt`.
 
-D-R1 Phase 6 remains **NOT TRIGGERED**.
+## Hero program — resumed at exact paused gate
 
-### Active structural boundary — post-Phase-4 authority gap
+Method 01: **CLOSED / 3 OF 3 ROUNDS CONSUMED**.
 
-No current repository-authoritative Phase 5 contract was found in the required bootstrap/evidence/index surfaces or available D-R1 repository search/history. Do not infer Phase 5 from sequence, stale handoffs, branches or chat history.
+Method 02: **APPROVED**. Frozen post-render law remains Hero Artwork Brief 02 + Falsification Criteria 01 + Surface Escape + fixed Harness 01; no compensating average, post-hoc rescue or free reroll.
 
-Authority-gap evidence: `docs/evidence/D_R1_POST_PHASE_4_NEXT_PHASE_AUTHORITY_GAP_01.txt`.
+Active direction: **D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**.
 
-## Creative work — paused
+Active candidate: `C06-ASPB-01` — **Asymmetric Shear-Posture Brace / residual slip / passive torso contact**.
 
-Method 02 remains approved. Candidate `C06-ASPB-01` / D9 is the creative continuation; Stages 1–5 are constructed and await recursive audit.
-
-Do **not** silently resume Candidate 06 Stage 6, renderer work, image generation, final hero selection, website implementation, Lane A implementation or motion while the D-R1 next-phase authority gap remains unresolved.
+Mechanism investigation: **COMPLETE / AUDITED / CLEAN**.
+Stages 1–5 construction: **COMPLETE / RECURSIVE AUDIT REQUIRED**.
 
 ## Exact next action
 
-Locate a repository-authoritative Phase 5 definition if one exists outside the already resolved surfaces; otherwise establish the missing Phase 5/closure contract before further restructuring. Do not invent the phase merely to continue.
+Recursively audit `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md` for frozen-law fidelity, stability geometry, passive-brace versus rescue/performance ambiguity, changed-state recoverability, baseline separation, pre-existing-form safeguards, responsive/Harness containment, simplicity, errors, inconsistencies and worthwhile improvements.
+
+Correct material defects in place and restart the audit. After one complete clean pass, standing delegation authorizes **Candidate 06 Stage 6 deterministic Neutral Geometry Scaffold construction only**.
+
+## Hard boundary
+
+D-R1 closure does not itself approve Candidate 06 Stage 6.
+
+Before the Stages 1–5 recursive audit earns that gate: no Stage 6 scaffold, transfer proxy, renderer packet/reference transfer, image generation/Round 06, final hero/style/palette selection, production website implementation, Lane A/app UI implementation or motion.
+
+Active handoff: `docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md`
