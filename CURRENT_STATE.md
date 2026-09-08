@@ -12,37 +12,40 @@ This file alone owns volatile phase/current-boundary state.
 
 ## Repository boundary
 
-`main` is authoritative. `site/` is the only future deployable website/Cloudflare root; `intelligence/` is non-deployable website/design/repository intelligence; `updates/` is non-deployable change/release accounting. Product/backend implementation remains in `Rylascoo/Ensemble-Project`. No production site or Wrangler configuration exists yet.
+`main` is authoritative. `site/` is the only future deployable website/Cloudflare root; `intelligence/` and `updates/` are non-deployable. Product/backend implementation remains `Rylascoo/Ensemble-Project`. No production site or Wrangler configuration exists yet.
 
 ## Hero state
 
-D9 — **CLOSED / 3 OF 3 JUDGEABLE RENDERS CONSUMED**. C06/R06, C07/R07 and C08/R08 are failed, consumed and closed; C08 has no retry. No R09/C09 exists under D9. L-022 preserves the immediate Round 08 suspected-unsatisfiable stop; L-023 records the subsequent result-blind Director budget closure. This is program closure, not proof that passive-brace geometry is impossible.
+D9 — **CLOSED / 3 OF 3 JUDGEABLE RENDERS CONSUMED**. C06/R06, C07/R07 and C08/R08 are failed, consumed and closed; no R09/C09 exists under D9. This is program closure, not proof that passive-brace geometry is impossible.
 
 Frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01.
 
 C08 clearance representations remain distinct: normalized-manifest/verifier **102.8395582822086 px**; parallel integer-SVG **102.8 px**; `120 px` only superseded undeformed-baseline planning provenance.
 
-## Active program — HTCR-01
+## HTCR-01 closure
 
-**HERO TRANSLATION / CARRIER RECONCILIATION 01: ACTIVE / NON-RENDER / 0 RENDERER EXPENDITURES AUTHORIZED.**
+**HERO TRANSLATION / CARRIER RECONCILIATION 01: SUCCESSFUL / CLOSED AFTER 2 OF 2 NON-RENDER ANALYSIS ROUNDS / 0 RENDERER EXPENDITURES.**
 
-Program authority: `docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`.
+Program contract: `docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`.
+A1: `docs/evidence/HERO_HTCR_01_A1_CARRIER_DIVERGENCE_RESULT_01.txt`.
+A2/closure: `docs/evidence/HERO_HTCR_01_A2_ADVERSARIAL_FALSIFICATION_RESULT_01.txt`.
 
-Budget is frozen before analysis:
-- HTCR-A1 — carrier/depiction-logic divergence;
-- HTCR-A2 — adversarial falsification of A1 survivors;
-- no A3;
-- A1 closes HTCR-01 early if zero survivors;
-- A2 may promote at most one successor translation hypothesis, never a candidate/render packet/reference/prompt/image.
+A1 promoted H1 Distributed Invariant Correspondence and H2 Relational Occlusion Topology; A2 rejected H2 and promoted one successor translation hypothesis:
 
-HTCR-01 preserves C08's separated-head/passive-support/free-edge transfer gains while testing whether a materially different final translation can make the simpler prior condition intrinsically recoverable and make B's altered posture visibly depend on the changed condition without architecture/terrain, damage/accident, device/platform, diagram or transfer-medium shorthand.
+**DPSC-01 — DISTRIBUTED PRESENT-STATE CORRESPONDENCE.**
+
+DPSC-01 is **not a candidate or render program**. Its core mechanism is to make a simpler prior state recoverable from several independent present-state correspondences, coherently displaced in one changed zone, while B's support/posture is physically coupled to that same displacement. Restoring the simpler correspondence must materially change B and the necessary A↔B passive relation.
+
+It preserves C08's separated-head/passive-support gains while removing dependence on one dominant physical prop. Calm identity space is to come from hierarchy/sparsity within the same world, not a fixed pale illumination patch.
 
 ## Exact next action
 
-Execute **HTCR-A1 only** under the frozen program tests. If A1 leaves one or more materially different survivors, A2 becomes automatically authorized within the predeclared non-render budget. Renderer expenditure remains stopped.
+The next consequential hero gate is a **separate bounded rendered-successor program proposal based on DPSC-01**. That proposal must freeze its candidate-construction method, renderer budget, material-difference rule, pre-render rejection rules and termination consequence before any renderer expenditure.
+
+Renderer expenditure remains stopped until that separate program exists and passes recursive audit.
 
 ## Hard boundary
 
-No D9 continuation, R09/C09, C08 reroll/replacement, frozen-criterion/Harness mutation, renderer expenditure, final hero/style/palette selection, production website implementation/deployment, Lane A implementation or motion. Any later rendered successor requires a separate explicitly bounded program with its own predeclared renderer budget.
+No D9 continuation, R09/C09, C08 reroll/replacement, frozen-criterion/Harness mutation, renderer expenditure under HTCR-01, final hero/style/palette selection, production website implementation/deployment, Lane A implementation or motion. DPSC-01 may inform later construction but does not itself authorize pixels.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
