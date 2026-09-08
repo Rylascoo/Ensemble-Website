@@ -1,6 +1,6 @@
 KYMÆAN — HERO CANDIDATE 07 METHOD 02 ROUND 07 EVALUATION 01
 
-Status: COMPLETE / FAIL / SINGLE AUTHORIZED ATTEMPT CONSUMED / NO RETRY / CLEAN RECURSIVE AUDIT
+Status: COMPLETE / CORRECTED / FAIL / SINGLE AUTHORIZED ATTEMPT CONSUMED / NO RETRY / CLEAN FINAL RECURSIVE PASS
 Date: 2026-09-08
 Experiment: METHOD02-R07-C07
 Candidate: C07-CBSR-01 — CROSS-BAND SPLIT-ROOT PASSIVE BRACE
@@ -52,42 +52,46 @@ Person B is a dark-haired adult in a long dark coat, gray top and dark trousers.
 
 The two people are strongly non-interchangeable through body proportion, head/hair silhouette, garment silhouette and posture.
 
-B's visible feet, however, form a broad two-foot base: one foot is near the lower center-right and the other extends substantially farther screen-right. The final stance therefore reads as a plausible self-supporting wide stance despite the oblique torso. The visible support base does not preserve the narrow/converged support topology needed to make A mechanically necessary.
+B's two visible feet are separated, with both support contacts materially screen-right of B's upper-body mass. The leftmost visible foot remains to the right of the head/torso mass line while the second foot extends farther right. The depicted frozen posture therefore does read as laterally dependent on A: without the A↔B contact, B's pronounced screen-left lean would not be a plausible unsupported static pose.
 
-The A↔B contact is visually legible but its dominant naturalistic reading is affectionate/intimate or consoling head-on-shoulder contact. The pixels do not require a lateral/rotational mechanical-brace interpretation.
+This is a material improvement over Round 06. The renderer preserved the visible mechanical instability much more successfully than the earlier abstract transfer did.
+
+The A↔B contact is physically load-bearing at the depicted-pose level, but its dominant naturalistic semantic reading is also affectionate/intimate or consoling head-on-shoulder contact. The pixels therefore preserve physical dependence while simultaneously offering a simpler social explanation for why the contact exists.
 
 The local surface around B forms a smooth shallow curved depression/rise or trough-like sculpting within the pale ground. Broad continuation exists around it, but the feature reads coherently as pre-existing carved/sculpted architectural ground or landform. The pixels do not establish that this shape is a materially changed state reconstructed from a simpler baseline.
+
+Critically, the still does not make the visible chain `surface changed -> B support roots/posture changed -> A brace becomes necessary` recoverable. B is visibly dependent on A, but that dependency can be understood as a chosen interpersonal lean on an already-existing sculpted terrace. Restoring the local ground toward a simpler baseline does not visibly force the B pose/contact to disappear.
 
 No crack, rubble, ordinary-accident cleanup, rail, machine, portal, typography, brand mark, explanatory graphic, guide, CAD line, mannequin surface, gray-clay maquette or technical-reference residue is visible.
 
 The far-left desktop region is pale warm sky/sea/stone. Under the fixed no-scrim light Threshold K/O3/copy system, it does not provide reliable natural optical separation for the identity layer.
 
-The fixed mobile crop retains both adults, their contact, B's broad support stance and the local curved surface feature.
+The fixed mobile crop retains both adults, their load-bearing contact, B's oblique dependent posture and the local curved surface feature.
 
 4. HERO ARTWORK BRIEF 02 HARD GATES
 
 No compensating average is permitted.
 
 Human Necessity — 4/5 PASS
-Both adults are specific, primary and necessary to the image's central interpersonal event. Removing either person materially collapses that two-person event. This does not establish the stronger C07 mechanical-necessity proposition.
+Both adults are specific, primary and necessary to the image's central interpersonal/physical event. Removing either person materially collapses that two-person event. C07 also improves over Round 06 because A is now visibly necessary to sustain B's depicted frozen lean.
 
 Changed-condition legibility — 3/5 FAIL
 A localized surface departure is visible and the broader ground provides some continuation evidence. However the local curved form remains fully coherent as already-existing carved/sculpted terrace geometry or a shallow landform. The still does not force a changed-from-baseline reading at the >=4 floor.
 
-Altered Possibility — 2/5 FAIL
-B's oblique posture is more pronounced than Round 06, but the rendered wide two-foot stance remains plausibly self-supporting. The surface condition does not visibly create a present physical possibility that disappears when the surface is restored. A's contact reads as optional interpersonal support/intimacy rather than a mechanically necessary consequence of the surface state.
+Altered Possibility — 3/5 FAIL
+B's depicted pose now visibly depends on A, so the mechanical possibility component is substantially stronger than Round 06. The failure is one link earlier: the pixels do not establish that the local surface change created the support/posture relation that makes A necessary. The same head-on-shoulder dependent posture remains visually plausible as a chosen interpersonal act on pre-existing ground. Therefore the required `changed condition -> altered present possibility` chain remains below the >=4 floor.
 
 Epistemic Restraint — 5/5 PASS
-No required project meaning needs knowledge, belief, memory, motive, intent or hidden prior authorship. The image does suggest an affective relationship, but the evaluation does not rely on assigning either person's private state.
+No required project meaning needs knowledge, belief, memory, motive, intent or hidden prior authorship. The image suggests an affective relationship, but this evaluation does not assign a private state as factual evidence.
 
 Brand Integration — 1/5 FAIL
 Harness 01 fixes a light neutral Threshold K/O3/copy system over the left identity region with no candidate-specific scrim. C07 places pale warm sky/sea and pale ground throughout that region, producing weak natural separation. The artwork cannot be darkened, masked, shifted or otherwise rescued for scoring.
 
 Mobile Survival — 3/5 PASS
-The fixed 72% mobile crop preserves both specific adults, their contact and the visible local surface departure. The minimum crop-survival burden is met. This does not repair the raw changed-condition / altered-possibility failures.
+The fixed 72% mobile crop preserves both specific adults, their contact, B's mechanically dependent oblique posture and the visible local surface departure. The minimum crop-survival burden is met. This does not repair the raw changed-condition / change-to-possibility linkage failure.
 
 Removal Test — 2/5 FAIL
-Removing A leaves B's broad visible two-foot stance plausibly able to support the depicted body after ordinary rebalancing, and the frozen pixels do not establish that A is the only support that makes the depicted state physically available. Restoring the ground toward a simpler organization also does not visibly force the human contact to disappear, because the contact is naturally read as an interpersonal pose rather than a geometry-forced brace.
+The frozen Brief asks whether removing the consequential change leaves the composition's core proposition intact. Here, mentally restoring the shallow local surface toward simpler flat continuation does not visibly force B's dependent lean or A↔B contact to disappear. The interpersonal/mechanical two-person tableau remains coherent without the local carved/deformed feature. The consequential surface change is therefore removable from the image's core proposition.
 
 Surface Escape — PASS
 The primary literal reading is not a recognizable ordinary task or ordinary-accident response in a conventional historical/domestic/occupational setting. The image reads as a restrained coastal editorial/interpersonal portrait. Luxury/editorial drift is a secondary observation only and is not retroactively promoted to a new hard gate.
@@ -95,7 +99,7 @@ The primary literal reading is not a recognizable ordinary task or ordinary-acci
 5. SURFACE-OWNERSHIP S1–S6
 
 S1 Human-first salience — PASS
-The two people and their relation remain the image's primary meaningful event. Removing/genericizing them materially collapses the human proposition even though the intended causal mechanics fail.
+The two people and their relation remain the image's primary meaningful event. Removing/genericizing them materially collapses the human proposition.
 
 S2 Theatrical absence / meaningful quiet — PASS
 The large low-information left sky/sea region materially carries asymmetry, breathing room and hierarchy. Filling it with neutral detail would materially alter the composition.
@@ -110,24 +114,25 @@ S5 Discovery without emblem imitation — PASS
 No Threshold K/O3 quotation, hidden glyph, logo puzzle or emblematic mechanism appears.
 
 S6 Responsive asymmetry / identity coexistence — FAIL
-The mobile crop preserves the human cluster and local surface feature, but the complete semantic core does not survive as a passing proposition because Changed-condition legibility, Altered Possibility and Removal Test fail in the raw pixels. Desktop identity coexistence also fails because the fixed light identity system has insufficient natural separation over the pale left region.
+The mobile crop preserves the human cluster and local surface feature, but the complete semantic core remains incomplete because Changed-condition legibility, Altered Possibility and Removal Test do not pass in the raw pixels. Desktop identity coexistence independently fails because the fixed light identity system lacks reliable natural separation over the pale left region.
 
 6. REFERENCE / MAQUETTE LEAKAGE
 
 PASS / STRONG TRANSLATION AWAY FROM THE TRANSFER MEDIUM.
 
-The Stage 6M neutral physical maquette does not survive as a gray-clay model, mannequin tableau, CAD/engineering view, blockout, faceted technical mesh, diagram, scaffold outline or reference sheet. The representation-layer change therefore succeeds at aesthetic decontamination even though its decisive causal geometry is not preserved strongly enough.
+The Stage 6M neutral physical maquette does not survive as a gray-clay model, mannequin tableau, CAD/engineering view, blockout, faceted technical mesh, diagram, scaffold outline or reference sheet. The representation-layer change therefore succeeds at aesthetic decontamination.
 
 7. C07 / D9-SPECIFIC PIXEL CHECK
 
 - B vertical weight visibly surface-borne: PASS.
 - A independently stable: PASS.
 - no active hand/arm helping: PASS.
-- broad passive A↔B upper-body adjacency exists: PASS AT DEPICTION LEVEL.
+- broad passive A↔B upper-body adjacency exists: PASS.
 - visibly different body axes survive: PASS.
-- B exact visible support topology remains narrow/converged enough to require A: FAIL.
-- B visibly laterally/rotationally unstable without A: FAIL.
-- A contact reads mechanically necessary rather than affectionate/intimate/editorial: FAIL.
+- B's frozen depicted posture visibly requires A lateral support: PASS AT PIXEL LEVEL.
+- A contact is physically necessary for the frozen pose: PASS AT PIXEL LEVEL.
+- contact remains unambiguously mechanical rather than socially/intimately explainable: FAIL; a strong interpersonal reading competes.
+- visible local surface change is what causes the dependent support/posture relation: FAIL.
 - baseline restoration visibly removes the contact relation: FAIL.
 - local surface reads as changed-from-baseline rather than pre-existing sculpted form: FAIL.
 - surface avoids dominant device/platform/rail machinery: PASS, but naturalizes into pre-existing architectural/landform sculpting.
@@ -138,7 +143,7 @@ The Stage 6M neutral physical maquette does not survive as a gray-clay model, ma
 
 - Human Necessity = 4/5 PASS
 - Changed-condition legibility = 3/5 FAIL
-- Altered Possibility = 2/5 FAIL
+- Altered Possibility = 3/5 FAIL
 - Epistemic Restraint = 5/5 PASS
 - Brand Integration = 1/5 FAIL
 - Mobile Survival = 3/5 PASS
@@ -155,20 +160,30 @@ ROUND 07 RESULT: FAIL.
 
 9. WHAT ROUND 07 ESTABLISHES
 
-C07 materially improved transfer representation relative to C06. The renderer accepted the three-dimensional physical-maquette input without preserving its non-final medium, retained a strong oblique B axis, kept A independently stable and retained broad body adjacency.
+C07 materially improves the transfer result relative to C06. The renderer accepted the three-dimensional physical-maquette input without preserving its non-final medium, retained a strong oblique B axis, kept A independently stable, retained broad body adjacency, and—most importantly—made B's frozen depicted posture visibly dependent on A's lateral support.
 
-The decisive causal topology nevertheless normalized in final pixels through three coupled transformations:
+The Stage 6M representation therefore did solve a material part of Round 06's stability-necessity attenuation. The remaining failure is narrower than the first audit pass initially diagnosed.
 
-1. SUPPORT-FOOTPRINT NORMALIZATION
-The narrow/converged B support relationship embodied by the validated maquette became a broad visible two-foot stance. The renderer preserved visual lean while expanding the available base of support, so A is no longer visibly required for static stability.
+Three transformations remain:
+
+1. CHANGE-TO-POSTURE CAUSAL DECOUPLING
+The renderer preserves a mechanically dependent B pose, but does not make the surface condition visibly responsible for that pose/support relation. The human geometry and the ground geometry coexist rather than reading as one causal chain. Restoring the ground does not visibly remove the dependent pose.
 
 2. CONTACT SEMANTIC RECODING
-The required passive mechanical upper-body brace became a naturalistic head-on-shoulder interpersonal gesture. The contact survived geometrically at a coarse level but its dominant reading became affection/comfort/editorial posing rather than mechanical necessity.
+The mechanically useful upper-body brace is naturalized into a head-on-shoulder intimate/consoling gesture. Physical dependence remains visible, but a simpler social explanation competes strongly with the intended changed-condition consequence.
 
 3. SURFACE NATURALIZATION / PRE-EXISTING-FORM SUBSTITUTION
-The continuous changed-condition geometry became a smooth shallow carved/trough-like terrace or landform that can be accepted as designed that way. Baseline restoration is therefore not recoverable strongly enough from the still.
+The continuous changed-condition geometry becomes a smooth shallow carved/trough-like terrace or landform that can be accepted as designed that way. Baseline recovery therefore remains underdetermined.
 
-This is stronger evidence than Round 06 that merely increasing transfer-visible physical volume does not by itself guarantee that a naturalistic renderer will preserve the intended causal interpretation. The remaining problem is no longer maquette/CAD leakage or absence of visible body-axis asymmetry. It lies in semantic/topological normalization during naturalistic translation: support width, contact meaning and changed-state inference are all made more ordinary/plausible.
+This is stronger and more specific evidence than Round 06. Increasing transfer-visible physical volume did improve mechanical support transfer; it did not solve the renderer's tendency to separate the human relation from the changed-condition evidence and normalize the latter into pre-existing form.
+
+The smallest remaining causal break is now:
+
+`recoverable changed surface -> B's dependent support/posture`
+
+not:
+
+`B's dependent support/posture -> A passive brace`.
 
 10. EXPERIMENT DISPOSITION
 
@@ -185,33 +200,41 @@ There is:
 Candidate C07-CBSR-01 is CLOSED AS A RENDERED ATTEMPT.
 
 Exact next action is non-render analysis only:
-perform a post-Round-07 Method 02 transfer-fidelity / causal-topology review that compares C06 and C07, isolates the smallest remaining failure layer, and determines whether D9 remains testable under any materially different non-retry construction/transfer representation without changing the frozen post-render contract.
+perform a post-Round-07 Method 02 transfer-fidelity / causal-topology review that compares C06 and C07, isolates the now-narrower change-to-posture coupling failure, and determines whether D9 remains testable under any materially different non-retry construction/transfer representation without changing the frozen post-render contract.
 
 11. RECURSIVE AUDIT
+
+First audit correction — APPLIED.
+The first evaluation pass incorrectly treated B's separated feet as a support polygon that spanned B's upper-body mass. A closer pixel audit found both visible support contacts materially screen-right of the head/torso mass line. That means the frozen depicted lean is visibly dependent on A despite the foot separation. The evaluation was corrected before final closure:
+- Altered Possibility 2 -> 3;
+- B unsupported-instability diagnosis FAIL -> PASS AT PIXEL LEVEL;
+- support-footprint-normalization diagnosis removed as the principal failure;
+- remaining failure localized to surface-change recovery and change-to-posture causal coupling.
 
 Authority — PASS.
 Only the frozen Hero Brief 02, Falsification Criteria 01, Surface Escape and corrected/re-frozen Harness 01 are used for post-render scoring. No Stage 6/6M construction criterion is promoted into a new post-render hard gate; the C07/D9-specific section is diagnostic only.
 
-Pixel-first discipline — PASS.
-Scores are based on the returned artwork and deterministic Harness crops. Pre-render statics are not used to manufacture a pixel pass.
+Pixel-first discipline — PASS AFTER CORRECTION.
+Scores are based on the returned artwork and deterministic Harness crops. The audit corrected an initial geometric misread rather than preserving a conclusion because it matched prior failure history. Pre-render statics are not used to manufacture a pixel pass.
 
 No rescue — PASS.
 No crop, retouch, recolor, relight, prompt amendment, alternate reference or reroll changes the result.
 
 Criterion separation — PASS.
-Human specificity and S1 are allowed to pass even though causal mechanics fail; Surface Escape passes even though editorial drift is observed; mobile crop survival passes even though the semantic hard gates remain failed.
+Human Necessity, visible A-dependence and S1 are allowed to pass even though changed-condition causality fails; Surface Escape passes despite editorial drift; mobile crop survival passes despite the remaining semantic hard-gate failures.
 
 Transfer diagnosis — PASS.
-The review distinguishes successful transfer of oblique orientation/contact presence from failed preservation of support topology, mechanical contact meaning and changed-state inference.
+The final diagnosis credits Stage 6M for transferring mechanical dependence and separates that success from the remaining failure to couple the dependent pose causally to a recoverably changed surface.
 
 Simplicity / worthwhile improvement — PASS.
 No additional score, invented threshold or speculative private-state reading is needed to explain the failure.
 
-Final recursive pass:
-One complete pass after scoring and diagnosis found no material criterion drift, scoring contradiction, post-hoc rescue path, unsupported pass, hidden retry authority or worthwhile simplification.
+FINAL PASS
+
+One complete pass after the geometric correction found no remaining material pixel misread, criterion drift, scoring contradiction, post-hoc rescue path, unsupported pass, hidden retry authority or worthwhile simplification.
 
 DISPOSITION
 
-APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FINAL RECURSIVE PASS.
 
 ROUND 07 = FAIL / CONSUMED / C07 CLOSED / NO RETRY.
