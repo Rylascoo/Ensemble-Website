@@ -8,10 +8,10 @@ Direction: D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE
 AUDITED ARTIFACTS
 
 - `docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json`
-  final blob: `4723632104a3b244d23b8cfc7613833e7dc90446`
+  corrected blob: `31fba4a6026c4d1d5aabfdc9c1e748cd8784f004`
 - `docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg`
-  final blob: `2df441f01dde933bb1991d991ba5d97754eedae5`
-- final Stage 6 artifact head before this audit: `dd704815f87b7334f956b441ace700a7c2eeabb2`
+  corrected blob: `884d9ef160ce5da9bbff13c8ef3c8c81be3336d4`
+- original Stage 6 artifact head before this audit: `dd704815f87b7334f956b441ace700a7c2eeabb2`
 
 GOVERNING LAW
 
@@ -49,6 +49,21 @@ Correction:
 
 This preserves one physical finite-thickness sidewall while making local orientation/thickness departure independently visible rather than duplicating the upper contour.
 
+POST-AUDIT EDGE-CLEARANCE CORRECTION — APPLIED
+
+The original Stage 6 audit used the undeformed baseline edge y=824 against the changed left support root y=704 and therefore described `120 px` as the current anti-edge clearance. A first correction correctly identified that the changed free-edge path controls the registered metric but published an arithmetically incorrect normalized-to-pixel conversion of `102.8395582822086 px`.
+
+The exact integer Stage 6 SVG is controlling:
+- changed left support root = (1105,704);
+- bracketing upper free-edge vertices = (1085,802) and (1110,808);
+- at x=1105, t=0.8 exactly;
+- edge y=806.8 px exactly;
+- controlling clearance = **102.8 px exactly**;
+- frozen minimum = 100 px;
+- exact surplus = 2.8 px.
+
+The active manifest and SVG embedded metadata now carry 102.8 rather than 120, and the permanent verifier derives the metric from the integer SVG instead of promoting four-decimal normalized data into false precision. No visible Stage 6 geometry changed.
+
 FORMAT / PRIMITIVE DISCIPLINE — PASS
 
 Transferable scaffold layer contains only:
@@ -66,7 +81,7 @@ Source artboard = 1536 × 960.
 
 Manifest coordinate values are normalized and rounded to no more than four decimal places.
 
-Direct reconciliation of source-space SVG field-path points against manifest normalized points differs by at most 0.00005 from deterministic rounding.
+Direct reconciliation of source-space SVG field-path points against manifest normalized points differs by at most 0.00005 from deterministic rounding. Exact source-space metric claims are therefore derived from the integer SVG where available; normalized coordinates remain a projection, not a higher-precision authority.
 
 Responsive windows are calculated from the frozen Harness geometry rather than adjusted for C08:
 - desktop source window = x 0–1536, y 48–912;
@@ -222,12 +237,18 @@ Human necessity therefore remains separate from field-change visibility.
 
 ANTI-EDGE-HAZARD / INTERIOR-SUPPORT AUDIT — PASS
 
-Nearest B support center planning y = 704.
-Baseline foreground free edge y = 824.
-Planning projected center-to-edge clearance = 120 px.
+Registered controlling support root:
+- x = 1105 px;
+- y = 704 px.
 
-Required future Stage 6/6M projected clearance floor = 100 px.
-Current planning surplus = 20 px.
+Changed upper free-edge segment at that x:
+- (1085,802) -> (1110,808);
+- t = 0.8 exactly;
+- edge y = 806.8 px exactly.
+
+Exact registered support-root-to-edge clearance = **102.8 px**.
+Required floor = 100 px.
+Exact surplus = 2.8 px.
 
 Neither B foot overlaps, traces, aligns with or uses the free edge as a support boundary. An intervening top-field region is reserved.
 
@@ -310,7 +331,7 @@ FINAL RECURSIVE PASS
 
 CLEAN.
 
-One complete pass after the edge/return correction found no remaining material schema violation, coordinate mismatch, arithmetic defect, foldover, zero-margin statics, hidden support, C07 retry laundering, head-rest shortcut, edge-balance dependency, platform/device dependency, responsive defect, identity-rescue assumption, private-state encoding, aesthetic contamination, camera-tuning loophole, renderer authority leak or worthwhile simpler Stage 6 correction.
+The post-audit clearance correction was re-audited from the governing metric through the integer SVG, corrected manifest, embedded audit metadata, Stage 6M dependency and later transfer boundary. One complete pass found no remaining material schema violation, coordinate mismatch, arithmetic defect, foldover, zero-margin statics, hidden support, C07 retry laundering, head-rest shortcut, edge-balance dependency, platform/device dependency, responsive defect, identity-rescue assumption, private-state encoding, aesthetic contamination, camera-tuning loophole, renderer authority leak or worthwhile simpler Stage 6 correction.
 
 DISPOSITION
 
@@ -321,8 +342,8 @@ APPROVED.
 
 AUTHORIZED NEXT ACTION
 
-Construct Candidate 08 / C08-EWTF-01 Stage 6M Neutral Physical Maquette from the exact approved Stage 6 geometry using the already-approved/fixed mechanism-neutral Stage 6M instrumentation. Recompute exact visible-solid COM/support/contact statics and run field-only baseline/change, anti-platform/installation, head-gap, edge-clearance, leakage and responsive preflights. Recursively audit Stage 6M before any Stage 7 package.
+Candidate-specific Stage 6M remains the already-completed successor representation. This correction does not create new Stage 6M geometry authority and does not alter the promoted Stage 6M renderer-visible reference.
 
 NOT AUTHORIZED
 
-No Stage 7 renderer packet, sanitized renderer reference, renderer request, image generation/Round 08, final hero/style/palette, production website implementation, Harness change, Lane A/app UI implementation or motion is authorized by this audit.
+No new renderer packet, renderer request, image generation/Round 08 spend, final hero/style/palette, production website implementation, Harness change, Lane A/app UI implementation or motion is authorized by this arithmetic/metadata correction.
