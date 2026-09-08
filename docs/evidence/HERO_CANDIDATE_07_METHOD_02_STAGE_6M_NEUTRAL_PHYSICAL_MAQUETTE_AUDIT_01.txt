@@ -1,0 +1,159 @@
+KYMÆAN — HERO CANDIDATE 07 METHOD 02 STAGE 6M NEUTRAL PHYSICAL MAQUETTE AUDIT 01
+
+Status: COMPLETE / CORRECTED / RECURSIVELY AUDITED / CLEAN / APPROVED / STAGE 7 ONLY AUTHORIZED / NO RENDER
+Date: 2026-09-07
+Candidate: C07-CBSR-01 — CROSS-BAND SPLIT-ROOT PASSIVE BRACE
+
+PURPOSE
+
+Close Candidate 07 Stage 6M against the exact promoted machine-readable maquette bytes, canonical deterministic report, visual preflights, physical-union renderer correction and exact-head hosted validation. This record authorizes Stage 7 sterile artwork translation only. It does not authorize reference transfer or image generation.
+
+GOVERNING AUTHORITY
+
+- approved Candidate 07 Stages 1–5;
+- approved Candidate 07 Stage 6 neutral geometry scaffold;
+- HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01.txt and its clean recursive audit;
+- completed Stage 6M mechanism-neutral tooling/hardening;
+- HERO_METHOD_02_STAGE_6M_PHYSICAL_UNION_RENDERER_CORRECTION_01.txt;
+- frozen Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01;
+- Renderer Isolation and one-attempt accounting remain unchanged.
+
+FAIL-CLOSED CORRECTION HISTORY
+
+1. Candidate-specific Stage 6M preflight exposed that convex decomposition of one non-convex shared physical surface produced renderer-visible bookkeeping seams. The candidate output was rejected before Stage 7. Candidate 07 itself was not rejected because the exact physical/statics model remained feasible.
+
+2. The mechanism-neutral sanitized renderer was corrected so same-volume internal bookkeeping boundaries do not transfer as physical seams while genuinely exposed boundaries/depth faces remain visible. Validation/statics, projection and instrumentation law were not changed. The corrected non-candidate method head `f9af22bc4f6ba8ca7def65ac70b640587152bfc1` passed hosted Stage 6M run `34186891931`.
+
+3. The first candidate verification manifest then failed canonical validation because some normalized coordinates exceeded the Stage 6M four-decimal format law. That candidate verification was rejected rather than waived. The full manifest was normalized to at most four decimals, its exact solids/statics were recomputed, and the deterministic hashes were repinned.
+
+No renderer/image-generation request occurred during any correction. No Round 07 attempt was spent.
+
+EXACT PROMOTED CANDIDATE EVIDENCE
+
+Manifest:
+`docs/evidence/stage6m/C07-CBSR-01_STAGE6M_MANIFEST.json`
+Git blob: `022b18a23c89d56507fc2de4b2756dee952f97d2`
+
+Canonical generated report:
+`docs/evidence/stage6m/C07-CBSR-01_STAGE6M_REPORT.json`
+Git blob: `14b021f821610bea575a90a204902844e7650224`
+
+Deterministic sanitized Stage 6M SVG SHA-256:
+`1a3cf18f5270cbf25209a76f2fb00e3de0e57aa9c7c565ec769a505b2580e89d`
+
+Canonical report SHA-256:
+`82b050dacc50fdb06dfa56ff66ce2b204b77259211d0453c2d65fb49f2c5badc`
+
+The workflow asserts that the committed report bytes are byte-for-byte equal to the report bytes regenerated from the promoted manifest by the canonical Stage 6M implementation.
+
+PHYSICAL / STATIC RESULTS
+
+Canonical report results:
+- automated_validation_pass: TRUE;
+- transfer_eligible: TRUE;
+- maquette_leakage: PASS;
+- surface_read: PASS.
+
+A unsupported:
+- stable;
+- source-space support margin: 79.93941429 px.
+
+B unsupported:
+- unstable;
+- COM/support outside margin: 16.11815152 px toward the required side.
+
+B supported by A:
+- stable;
+- B target-COP inside margin: 9.984 px;
+- A counterparty/loaded support margin: 65.39630495 px;
+- one actual A↔B contact closes the supported-pair model;
+- no alternate support is introduced.
+
+The same visible proxy solids supply the mass/COM/support/contact calculations. There is no Director-only hidden stability figure differing materially from the transferable proxy geometry.
+
+TRANSFER-VISIBLE PREFLIGHT
+
+The final candidate construction was inspected without Director-only guides:
+- A support remains physically identifiable and independently stable;
+- B has two distinct field-borne support roots and an oblique body/support relation;
+- the A↔B brace is actual upper-body/shoulder adjacency rather than a connector device;
+- surface-only remains one larger continuous physical surface with a modest local departure and does not primarily read as a purpose-built human support/device;
+- A + surface with B removed does not become a purpose-built support object;
+- internal convex-decomposition boundaries are absent from transferable surface pixels;
+- fixed mobile framing retains both people, contact, critical support geometry and changed-state/baseline evidence;
+- the human proxies remain anonymous physical structure rather than final identity/style selection.
+
+The first blockier candidate proxy construction was not promoted because it read too strongly as technical blockout geometry. Before promotion, the proxy was corrected within the already-approved support/contact/body relationships to remain recognizably human while avoiding final character identity. This occurred before any renderer transfer and did not spend an artwork attempt.
+
+CANONICAL HOSTED VALIDATION / PROMOTION
+
+Verification branch final head:
+`b39071f77ed263adc9e3a6b194f53282bb3d9521`
+
+Branch run:
+`34188317257`
+Conclusion: SUCCESS.
+
+The run passed:
+- all Stage 6M unit tests;
+- mandatory hardening / physical-union-renderer bypass tests;
+- deterministic non-candidate fixture bytes;
+- exact C07 sanitized SVG hash;
+- exact C07 report hash;
+- committed-report == canonical-generated-report byte equality;
+- C07 physical/statics thresholds.
+
+Pre-promotion compare from live main `b0bab4f9fcb62b48897b1ddee3a3fde5fa2ecf56` to candidate head was:
+- ahead 8;
+- behind 0;
+- merge base exactly the live main head;
+- only effective changed paths were the C07 Stage 6M manifest, C07 canonical report and their workflow verification.
+
+Main was then fast-forwarded non-forced to:
+`b39071f77ed263adc9e3a6b194f53282bb3d9521`.
+
+Exact-main hosted run:
+`34188358819`
+Conclusion: SUCCESS.
+
+RECURSIVE AUDIT
+
+Authority separation — PASS.
+Stage 6M embodies already-approved physical relationships and does not select final identity, palette, material, lighting, setting, culture, style or brand treatment.
+
+Physical-model identity — PASS.
+Visible proxy solids and Director-side COM/support/statics are the same deterministic geometry.
+
+Support necessity — PASS.
+B is genuinely unstable without A by a positive margin; A contact closes the supported case; A remains positively stable under the reaction.
+
+Surface topology — PASS.
+The field is one declared physical volume. Convex bookkeeping decomposition no longer creates transferable seams or false engineered joints.
+
+Sanitization — PASS.
+No text, project/candidate vocabulary, semantic IDs, metadata, guides, scoring data or brand assets are transferred by the deterministic sanitized view.
+
+Responsive integrity — PASS.
+Fixed Harness windows were not moved and required semantic geometry survives.
+
+Retry/accounting integrity — PASS.
+All Stage 6M failures/corrections occurred before renderer execution. C06 remains closed; no C07 image request has occurred; Round 07 remains unspent.
+
+Simplicity / worthwhile-improvement check — PASS.
+No additional candidate-specific tuning, instrumentation, camera, material, guide, support cue or hidden physical variable is required before Stage 7. Additional maquette embellishment would increase transfer contamination rather than improve physical fidelity.
+
+FINAL PASS
+
+One complete pass after promotion to exact validated main found no material physical inconsistency, support loophole, topology seam, format-law violation, hidden retry, aesthetic-authority leakage, responsive contradiction or worthwhile Stage 6M improvement.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Candidate C07-CBSR-01 Stage 6M Neutral Physical Maquette is COMPLETE / CLEAN / APPROVED.
+
+AUTHORIZED NEXT ACTION
+
+Construct and recursively audit Candidate 07 Stage 7 Sterile Artwork Translation / pre-render package using exactly one byte-pinned sanitized 2D view of the approved deterministic Stage 6M maquette. The manifest, report, Director-side measurements and project vocabulary may not be supplied to the renderer.
+
+No reference transfer, renderer request, image generation, Round 07 execution, final hero/style/palette, website implementation, Harness change, Lane A/app UI or motion is authorized by this Stage 6M closure.
