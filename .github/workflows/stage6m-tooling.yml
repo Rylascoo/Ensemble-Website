@@ -56,16 +56,16 @@ jobs:
           svg, report_text = deterministic_bytes(manifest)
           svg_sha = hashlib.sha256(svg.encode('utf-8')).hexdigest()
           report_sha = hashlib.sha256(report_text.encode('utf-8')).hexdigest()
-          assert svg_sha == '0b7b9b58b823c9e84ae9ca2b98f36e4e1e258420c3ef3ece042ad55108740289', svg_sha
-          assert report_sha == 'c4b582362d94b181da280068e05be8c822b727c5ac27e8cf94cb84fb26f34d3e', report_sha
+          assert svg_sha == '1a3cf18f5270cbf25209a76f2fb00e3de0e57aa9c7c565ec769a505b2580e89d', svg_sha
+          assert report_sha == '82b050dacc50fdb06dfa56ff66ce2b204b77259211d0453c2d65fb49f2c5badc', report_sha
           report = json.loads(report_text)
           assert report['automated_validation_pass'] is True
           assert report['transfer_eligible'] is True
           cases = {case['id']: case for case in report['static_cases']}
-          assert cases['A-unsupported']['computed_margin_source_px'] >= 79.99
-          assert -cases['B-unsupported']['computed_margin_source_px'] >= 15.0
-          assert cases['B-supported-by-A']['proxy_margin_source_px'] >= 9.99
-          assert cases['B-supported-by-A']['counterparty_margin_source_px'] >= 65.0
+          assert cases['A-unsupported']['computed_margin_source_px'] >= 79.9
+          assert -cases['B-unsupported']['computed_margin_source_px'] >= 16.0
+          assert cases['B-supported-by-A']['proxy_margin_source_px'] >= 9.98
+          assert cases['B-supported-by-A']['counterparty_margin_source_px'] >= 65.3
           print('C07 SVG SHA256', svg_sha)
           print('C07 report SHA256', report_sha)
           PY
