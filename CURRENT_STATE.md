@@ -10,7 +10,7 @@ Updated: 2026-09-08
 - Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`.
 - Drive: `Ensemble Project`.
 - Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
-- Closure history: `docs/evidence/DESIGN_LEDGER.md`.
+- Durable closure/re-entry history: `docs/evidence/DESIGN_LEDGER.md`.
 
 This file owns volatile phase/current-boundary state; clean recursive audit earns in-lane approval.
 
@@ -25,67 +25,56 @@ Method 02: **APPROVED**. Frozen law remains Hero Brief 02 + Falsification Criter
 
 D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**: **APPROVED / REMAINS TESTABLE**.
 
-Candidate `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
-Candidate `C07-CBSR-01`: **CLOSED / ROUND 07 FAIL / NO RETRY**.
+- `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
+- `C07-CBSR-01`: **CLOSED / ROUND 07 FAIL / CONSUMED / NO RETRY**.
+- `C08-EWTF-01`: **ACTIVE / METHOD 02 STAGES 1–6 APPROVED / STAGE 6M AUTHORIZED ONLY**.
 
 Round 07 canonical evaluation:
 `docs/evidence/HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt`.
 
-Raw Round 07 evidence:
-- 1586 × 992 PNG;
-- SHA-256 `b9d0923b4524fa1d1ac159b392c62a1bfdfea6b8317ba874cd18a46f83f89a66`;
-- Drive folder `1udbEjBhmto4HS5DmOnorFmF1nSXzOf9K`.
+Durable Round 07 / C08 succession entry:
+`docs/evidence/DESIGN_LEDGER.md` — L-019.
 
-Frozen-set result:
-- Human Necessity 4 PASS;
-- Changed-condition legibility 3 FAIL;
-- Altered Possibility 3 FAIL;
-- Epistemic Restraint 5 PASS;
-- Brand Integration 1 FAIL;
-- Mobile Survival 3 PASS;
-- Removal Test 2 FAIL;
-- Surface Escape PASS;
-- S1–S5 PASS; S6 FAIL.
-
-Round 07 materially improved transfer: B's frozen depicted lean is visibly dependent on independently stable A, with no active hand/arm support, and Stage 6M/CAD appearance does not leak. The remaining smallest causal break is upstream:
+Round 07's material positive result is retained: Stage 6M successfully transferred `B dependent support/posture -> A passive brace`. The remaining smallest break is upstream:
 
 `recoverable changed surface -> B dependent support/posture`.
 
-The surface naturalizes into pre-existing carved/sculpted ground; baseline restoration does not visibly remove the human relation; head-on-shoulder contact also admits a strong interpersonal explanation. Stage 6M is therefore **PARTIALLY VALIDATED / RETAIN**.
+Stage 6M remains **PARTIALLY VALIDATED / RETAIN**.
 
-Post-Round-07 review:
-`docs/evidence/HERO_METHOD_02_POST_ROUND_07_TRANSFER_FIDELITY_CAUSAL_TOPOLOGY_REVIEW_01.txt`.
+## Active candidate
 
-## Current successor hypothesis
+Candidate:
+**C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE.**
 
-Post-Round-07 D9 successor investigation:
-`docs/evidence/HERO_METHOD_02_D9_SUCCESSOR_CHANGE_TO_POSTURE_MECHANISM_GEOMETRY_INVESTIGATION_02.txt`.
+Canonical Stages 1–5 audit:
+`docs/evidence/HERO_METHOD_02_D9_S2_CONSTRUCTION_STAGES_01_05_RECURSIVE_AUDIT_01.txt`.
 
-Status: **COMPLETE / CLEAN / ONE WORKING HYPOTHESIS SELECTED / NO CANDIDATE IDENTIFIER YET**.
+Canonical Stage 6 audit:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
 
-Selected working hypothesis:
+Stage 6 status:
+**COMPLETE / CLEAN / APPROVED / CANDIDATE-SPECIFIC STAGE 6M AUTHORIZED ONLY.**
 
-**D9-S2 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE.**
+## Active Stage 6M boundary
 
-The intended material difference from C07 is two-linked-variable, not cosmetic:
-1. the same continuous physical deformation that changes B's support must propagate to a visible free-edge + through-thickness-return witness pair, so baseline/change evidence is viewer-facing rather than Director-side material-point bookkeeping; and
-2. passive contact moves away from head-rest geometry to separated-head posterior-lateral scapular/ribcage adjacency.
+Current artifact under construction:
+**C08 Stage 6M Neutral Physical Maquette** using the already-frozen mechanism-neutral Stage 6M tooling/instrumentation.
 
-B must remain materially interior to the visible free edge; the edge is evidence, never a ledge/support affordance. Any platform/terrace/bridge/installation, hazard/balance, closed-trough, clue-seam, or candidate-specific camera-tuning dependency rejects the construction before Stage 6.
+Before Stage 6M may be promoted, reconcile one discovered Stage 6 planning-metadata defect without changing approved Stage 6 x/y geometry: the recorded 120 px B-support-to-free-edge figure used the undeformed baseline edge at y=824. Interpolation against the actual changed upper free-edge geometry gives approximately **102.8 px** source-space nearest clearance at the controlling changed support root, still above the frozen **100 px** minimum. Treat 120 px as a stale baseline-edge planning value, not the exact changed-state clearance.
+
+Stage 6M must recompute exact visible-solid COM/support/contact statics, preserve the >=50 px projected head-silhouette gap, preserve >=100 px projected B-support/free-edge clearance, pass field-only baseline/change and anti-platform/installation preflights, avoid maquette/CAD leakage, preserve fixed mobile semantic containment, and use the same visible proxy solids for the Director-side mass/static model.
 
 ## Exact next action
 
-Construct and recursively audit **Method 02 Stages 1–5 for D9-S2 only**.
-
-The construction must pre-register quantitative changed/restored B support and COM margins, A loaded stability, separated-head scapular contact and restored separation, the one-volume free-edge/thickness-return correspondence pair, anti-platform/hazard tests, fixed-mobile semantic containment, and a far-left region free of essential mechanics with a plausible natural identity-coexistence path.
-
-Stop before Stage 6. A Candidate 08 identifier is not established until the Stages 1–5 construction earns it under the standing design-gate law.
+Complete and recursively audit **C08 Stage 6M only**, including the clearance-metadata reconciliation above and canonical deterministic manifest/report/view validation. Do not enter Stage 7 unless Stage 6M itself earns a clean gate.
 
 ## Hard boundary
 
-Round 07 is consumed. No C07 retry, prompt patch, reference mutation, alternate image, candidate-specific Harness rescue, automatic Round 08, Stage 6/6M artifact, Stage 7 packet or image generation is authorized.
+**Round 08 is UNSPENT.**
 
-No final hero/style/palette, website implementation, Harness change, Lane A/app UI or motion is authorized.
+No C07 retry, Round 07 reroll, frozen-criterion mutation, Stage 7 renderer packet, reference transfer, renderer request, image generation, final hero/style/palette, production website implementation, Harness change, Lane A/app UI implementation or motion is authorized.
+
+The repository-write currency law is now in `AGENTS.md`: round consumption, candidate closure/rejection, reopening/termination changes and material re-entry-boundary changes require ledger/current-state continuity in the same logical closure operation before later-stage artifacts proceed.
 
 ## E0-E watch
 
