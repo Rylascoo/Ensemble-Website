@@ -43,41 +43,62 @@ Active candidate: `C06-ASPB-01` — **Asymmetric Shear-Posture Brace / residual 
 Mechanism investigation: **COMPLETE / AUDITED / CLEAN**.
 Stages 1–5: **COMPLETE / CORRECTED / AUDITED / CLEAN / APPROVED**.
 Stage 6 Neutral Geometry Scaffold: **COMPLETE / CORRECTED / AUDITED / CLEAN / APPROVED**.
+Stage 7 Sterile Artwork Translation / complete pre-render package: **COMPLETE / CORRECTED / AUDITED / CLEAN / APPROVED**.
 
 Stage 6 canonical artifacts:
 - `docs/evidence/scaffolds/C06-ASPB-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg`;
 - `docs/evidence/scaffolds/C06-ASPB-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json`.
 
-Stage 6 audit: `docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
+Stage 6 audit:
+- `docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
 
-Binding Stage 6 facts include:
-- A support x `890–990`, COM x `940`, loaded stress margin `10 px` at conservative `2:1` B:A normalized-weight sensitivity;
-- B changed support x `1095–1135`, COM x `1080`, unsupported margin `15 px`;
-- B lower support edge follows the changed-field contour;
-- B restored support x `1240–1300`, COM x `1270`, self-support margin `30 px`;
-- restored contact separation `235 px` against `120 px` minimum;
-- three redundant field-registration paths;
-- both mobile baseline witnesses preserved;
-- field-only and B-removed Stage 6 pre-existing-form checks PASS;
-- hidden audit guides are non-transferable and no aesthetic/brand/private-state variable is encoded.
+Stage 7 exact transfer artifacts:
+- sanitized structural reference: `docs/evidence/renderer/C06-ASPB-01_STAGE07_SANITIZED_STRUCTURAL_REFERENCE.svg`, blob `8f362f03ab7adfc2a858ce4ef18f346eb0f75e53`;
+- sterile renderer text: `docs/evidence/renderer/C06-ASPB-01_STAGE07_STERILE_RENDERER_PACKET.txt`, blob `4201e78d5b627203b096ef1dc1257f740c51074c`;
+- package: `docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt`;
+- pre-render audit: `docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
 
-## Exact next action — Stage 7 construction authorized
+Stage 7 corrections now binding:
+- renderer-transfer reference contains only relational geometry on a transparent SVG viewport; no white/background artboard, title, metadata, IDs, audit guides or project vocabulary;
+- renderer text uses a continuous physical surface rather than overloaded `physical field` wording;
+- baseline recovery is requested through multiple natural correspondences rather than literal scaffold-line reproduction;
+- exact renderer bytes, one-request/one-image accounting, leakage failure and no-reroll stop rules are frozen.
+
+## Exact next action — isolated renderer execution gate earned
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
 
-Construct Candidate 06 Method 02 **Stage 7 Sterile Artwork Translation / complete pre-render review package only** under Method 02 Sections 10–14 and `docs/RENDERER_ISOLATION_PROTOCOL.md`.
+Experiment: `METHOD02-R06-C06`.
 
-The Stage 7 package may:
-- derive one exact sanitized geometry-only structural reference from the approved visible Stage 6 scaffold layer;
-- draft the shortest sufficient sterile renderer packet;
-- declare the transferred variable as relational geometry only;
-- pin responsive, leakage-detection, execution-accounting and stop rules;
-- recursively audit the complete package.
+Execute only in **one fresh regular chat outside the Ensemble project** under `docs/RENDERER_ISOLATION_PROTOCOL.md`.
 
-It must not expose project/candidate names, audit guides, coordinates, brand assets, prior artwork, critique history or scoring law to the renderer.
+Transfer exactly:
+1. the byte-identical sanitized structural reference above under a neutral renderer-facing filename such as `reference.svg`;
+2. the byte-identical sterile renderer text above, with no added preamble/examples/history.
 
-## Hard boundary
+Execution accounting:
+- renderer requests: 1;
+- images requested: 1;
+- isolated renderer contexts: 1;
+- historical artwork: 0;
+- project documents: 0;
+- brand assets: 0;
+- free rerolls: 0.
 
-Stage 7 construction authorization does **not** authorize renderer/reference transfer, a renderer request, image generation/Round 06, final hero/style/palette, production website implementation, Lane A/app UI implementation or motion.
+Reference-strength condition:
+- if the fresh renderer interface exposes **no user-set reference-strength control**, record `REFERENCE_STRENGTH_CONTROL: NOT EXPOSED / N/A` and make the single approved request;
+- if it exposes any user-set reference-strength control, **STOP BEFORE GENERATION** and return to Director Context so one exact value can be fixed and recursively audited.
 
-Only a later clean execution-readiness audit of the exact Stage 7 bytes may earn the renderer-execution gate under standing delegation.
+Any judgeable returned artwork consumes the attempt. A technical failure returning no artwork stops execution and does not silently authorize a second request.
+
+## Post-render boundary
+
+After one returned artwork:
+- stop renderer execution;
+- return the raw image to Director Context;
+- preserve provenance/evidence;
+- evaluate pixels under unchanged Hero Brief 02 / Falsification Criteria 01 / Surface Escape / fixed Harness 01;
+- visible structural-reference/diagram leakage is candidate failure, not a reroll;
+- do not modify packet/reference/criteria before evaluation closes.
+
+No final hero/style/palette, production website implementation, Lane A/app UI implementation or motion is authorized before that post-render evaluation.
