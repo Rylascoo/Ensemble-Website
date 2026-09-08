@@ -79,7 +79,7 @@
     B_right_root_changed=(1175,680);B_right_root_restored=(1260,682);
     B_restored_support=x1135..1275;B_restored_COM_x=1205;B_restored_margin=70;
     B_restored_contact=(1180,420);baseline_contact_separation=176;minimum=130;surplus=46;
-    B_support_to_free_edge_planning_clearance=120;minimum_projected_clearance=100;
+    B_support_to_free_edge_clearance=102.8;minimum_projected_clearance=100;clearance_basis=exact_integer_stage6_svg_polyline_at_registered_left_support_root;
     field_material_x_map_baseline_to_changed=(650->650),(950->950),(1000->1000),(1150->1105),(1260->1175),(1320->1320);
     changed_flexure_axis_audit_only=(1190,620)..(1160,690)..(1045,824);transition_width_planning=170..210;
     field_projected_thickness=26_baseline;local_flexure=27..35;returns_to_26;
