@@ -5,56 +5,20 @@
 
   <g id="scaffold" fill="none" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
     <!-- One continuous finite-thickness field. Only field-defining near/far perimeter geometry is visible; no seam, band axis, registration mark or clue line transfers. -->
-    <path id="field-near" d="M650 700 L1000 700
-      C1040 700 1065 704 1085 700
-      C1105 696 1120 682 1140 680
-      C1170 677 1215 700 1235 700
-      L1295 700"/>
-    <path id="field-far" d="M650 732 L1000 732
-      C1040 732 1065 736 1085 732
-      C1105 728 1120 714 1140 712
-      C1170 709 1215 732 1235 732
-      L1295 732"/>
+    <polyline id="field-near" points="650,700 1000,700 1027.3,700.6 1050,701.5 1068.9,701.7 1085,700 1099.2,695.5 1112.5,689.2 1125.8,683.4 1140,680 1164.7,681.9 1191.2,688.9 1215.9,696.5 1235,700 1295,700"/>
+    <polyline id="field-far" points="650,732 1000,732 1027.3,732.6 1050,733.5 1068.9,733.7 1085,732 1099.2,727.5 1112.5,721.2 1125.8,715.4 1140,712 1164.7,713.9 1191.2,720.9 1215.9,728.5 1235,732 1295,732"/>
 
     <!-- Person A: anonymous independently stable brace body. Visible foot extents realize the planned support hull; no arm/hand support geometry is encoded. -->
     <g id="figure-A">
       <ellipse id="A-head-region" cx="930" cy="285" rx="42" ry="55"/>
-      <path id="A-body-region" d="M875 350
-        C895 330 955 330 980 350
-        L1005 390
-        C995 440 985 490 970 545
-        L970 620
-        L990 700
-        L930 700
-        L915 555
-        L890 700
-        L830 700
-        L850 620
-        L852 520
-        L860 430
-        Z"/>
+      <path id="A-body-region" d="M875 350 C895 330 955 330 980 350 L1005 390 C995 440 985 490 970 545 L970 620 L990 700 L930 700 L915 555 L890 700 L830 700 L850 620 L852 520 L860 430 Z"/>
       <line id="A-body-axis" x1="930" y1="350" x2="910" y2="700" stroke-width="3"/>
     </g>
 
     <!-- Person B: anonymous split-root changed-support occupant. Both visible feet are field-borne and the two support roots remain distinct. -->
     <g id="figure-B">
       <ellipse id="B-head-region" cx="1050" cy="280" rx="38" ry="48"/>
-      <path id="B-body-region" d="M1008 390
-        C1020 360 1035 345 1055 340
-        C1080 340 1093 365 1095 400
-        L1092 500
-        L1108 565
-        L1120 610
-        L1150 679
-        L1130 681
-        L1108 570
-        L1095 697
-        L1075 702
-        L1068 610
-        L1060 545
-        L1038 485
-        L1018 425
-        Z"/>
+      <path id="B-body-region" d="M1008 390 C1020 360 1035 345 1055 340 C1080 340 1093 365 1095 400 L1092 500 L1108 565 L1120 610 L1150 679 L1130 681 L1108 570 L1095 697 L1075 702 L1068 610 L1060 545 L1038 485 L1018 425 Z"/>
       <line id="B-body-axis" x1="1030" y1="350" x2="1112" y2="690" stroke-width="3"/>
     </g>
 
@@ -68,7 +32,7 @@
     <rect id="mobile-source-window" x="554" y="0" width="767" height="960"/>
     <rect id="semantic-core" x="650" y="190" width="645" height="660"/>
     <rect id="desktop-calm-region" x="0" y="48" width="600" height="864"/>
-    <rect id="baseline-witness-left" x="650" y="620" width="160" height="140"/>
+    <rect id="baseline-witness-left" x="650" y="620" width="310" height="140"/>
     <rect id="baseline-witness-right" x="1235" y="620" width="60" height="140"/>
     <rect id="B-alternate-support-negative-space" x="1000" y="748" width="230" height="112"/>
 
@@ -112,6 +76,7 @@
     B_right_root_changed=(1140,680);B_right_root_restored=(1220,680);
     B_restored_support=x1125..1230;B_restored_COM_x=1175;B_restored_margin=50;
     B_restored_contact=(1160,390);baseline_contact_separation=155;minimum=120;surplus=35;
+    field_material_x_map_baseline_to_changed=(650->650),(960->960),(1000->1000),(1135->1085),(1220->1140),(1295->1295);
     changed_band_axis_audit_only=(1060,760)..(1180,610);transition_width_planning=40;
     audit_guides_transfer_authorized=false.
   </metadata>
