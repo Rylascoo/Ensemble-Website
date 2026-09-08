@@ -1,0 +1,148 @@
+{
+  "format": "kymaean.hero.method02.neutral-scaffold/1",
+  "candidate_id": "C06-ASPB-01",
+  "stage": 6,
+  "artifact_role": "neutral_geometry_scaffold",
+  "aesthetic_authority": "none",
+  "renderer_authority": "none",
+  "source_artboard": {
+    "width": 1536,
+    "height": 960
+  },
+  "structural_export_layer": "scaffold",
+  "audit_guides_layer": {
+    "id": "audit-guides",
+    "default_visibility": "hidden",
+    "transfer_authorized": false
+  },
+  "figures": [
+    {
+      "id": "A",
+      "type": "figure_region",
+      "bbox": [0.5762, 0.2448, 0.6673, 0.7135],
+      "body_axis": [[0.6152, 0.3646], [0.6120, 0.7135]],
+      "structural_role": "independently stable passive lateral_rotational brace"
+    },
+    {
+      "id": "B",
+      "type": "figure_region",
+      "bbox": [0.6478, 0.2292, 0.7487, 0.7135],
+      "body_axis": [[0.6888, 0.3594], [0.7259, 0.7135]],
+      "structural_role": "changed_support occupant requiring passive lateral_rotational brace"
+    }
+  ],
+  "critical_contacts": [
+    {
+      "id": "contact-1",
+      "type": "critical_contact",
+      "relation": "broad passive upper_back_or_shoulder to upper_torso lateral_rotational contact; vertical support excluded",
+      "geometry": [[0.6608, 0.4167], [0.6628, 0.4167]],
+      "participants": ["A", "B"]
+    }
+  ],
+  "condition_paths": [
+    {
+      "id": "field-upper",
+      "type": "condition_path",
+      "role": "continuity_path",
+      "points": [[0.4232, 0.7135], [0.4948, 0.7135], [0.6185, 0.7135], [0.6738, 0.7135], [0.7064, 0.7031], [0.7259, 0.7135], [0.7487, 0.7198], [0.7780, 0.7135], [0.8496, 0.7135]]
+    },
+    {
+      "id": "field-lower",
+      "type": "condition_path",
+      "role": "continuity_path",
+      "points": [[0.4232, 0.7396], [0.4948, 0.7396], [0.6185, 0.7396], [0.6738, 0.7396], [0.7064, 0.7292], [0.7259, 0.7396], [0.7487, 0.7458], [0.7780, 0.7396], [0.8496, 0.7396]]
+    },
+    {
+      "id": "field-secondary",
+      "type": "condition_path",
+      "role": "continuity_path",
+      "points": [[0.4232, 0.7260], [0.4948, 0.7260], [0.6185, 0.7260], [0.6738, 0.7260], [0.7064, 0.7156], [0.7259, 0.7260], [0.7487, 0.7323], [0.7780, 0.7260], [0.8496, 0.7260]]
+    }
+  ],
+  "baseline_witness_regions": [
+    {
+      "id": "baseline-left",
+      "type": "baseline_witness_region",
+      "polygon": [[0.4232, 0.6354], [0.4948, 0.6354], [0.4948, 0.7708], [0.4232, 0.7708]]
+    },
+    {
+      "id": "baseline-right",
+      "type": "baseline_witness_region",
+      "polygon": [[0.7812, 0.6354], [0.8496, 0.6354], [0.8496, 0.7708], [0.7812, 0.7708]]
+    }
+  ],
+  "negative_space_regions": [
+    {
+      "id": "B-alternate-support-negative-space",
+      "type": "negative_space_region",
+      "polygon": [[0.6738, 0.7500], [0.7878, 0.7500], [0.7878, 0.8854], [0.6738, 0.8854]],
+      "purpose": "exclude alternate B body_field or independent support geometry below and around changed support"
+    }
+  ],
+  "occlusion_order": [],
+  "responsive_boundaries": [
+    {
+      "id": "desktop-source-window",
+      "type": "responsive_boundary",
+      "bbox": [0.0000, 0.0500, 1.0000, 0.9500]
+    },
+    {
+      "id": "mobile-source-window",
+      "type": "responsive_boundary",
+      "bbox": [0.3607, 0.0000, 0.8600, 1.0000]
+    },
+    {
+      "id": "semantic-core",
+      "type": "responsive_boundary",
+      "bbox": [0.4232, 0.1979, 0.8496, 0.8854]
+    },
+    {
+      "id": "desktop-calm-region",
+      "type": "responsive_boundary",
+      "bbox": [0.0000, 0.0500, 0.3906, 0.9500]
+    }
+  ],
+  "audit_only_constraints": {
+    "transfer_authorized": false,
+    "A_support_polygon_x": [0.5794, 0.6445],
+    "A_com_x": 0.6120,
+    "A_unloaded_margin_px": 50,
+    "A_loaded_resultant_x_at_2_to_1_sensitivity": 0.5859,
+    "A_loaded_margin_px": 10,
+    "B_changed_support_polygon_x": [0.7129, 0.7389],
+    "B_changed_com_x": 0.7031,
+    "B_changed_cop_x": 0.7161,
+    "B_unsupported_margin_px": 15,
+    "brace_reaction_fraction_of_B_normalized_weight": 0.0702,
+    "B_to_A_normalized_weight_sensitivity": 2.0,
+    "B_restored_support_polygon_x": [0.8073, 0.8464],
+    "B_restored_com_x": 0.8268,
+    "B_restored_margin_px": 30,
+    "A_contact_locus": [0.6608, 0.4167],
+    "B_changed_contact_locus": [0.6628, 0.4167],
+    "B_restored_contact_side_locus": [0.8138, 0.4167],
+    "baseline_contact_separation_px": 235,
+    "minimum_baseline_contact_separation_px": 120,
+    "baseline_contact_separation_surplus_px": 115,
+    "B_support_root_changed": [0.7259, 0.7135],
+    "B_support_root_restored": [0.8268, 0.7135],
+    "B_support_root_translation_px": 155,
+    "field_only_preexisting_form_test": "PASS_NO_PURPOSE_BUILT_PLATFORM_READING",
+    "B_removed_preexisting_form_test": "PASS_NO_PURPOSE_BUILT_HUMAN_SUPPORT_READING"
+  },
+  "prohibited_support_contacts": [
+    "B_hand_field", "B_arm_field", "B_forearm_field", "B_elbow_field",
+    "B_knee_field", "B_hip_field", "B_seat_field", "B_torso_field",
+    "rail_wall_vertical_surface", "second_human_contact", "detached_ledge_platform",
+    "A_vertical_lift_carry", "hidden_wider_B_foot_support"
+  ],
+  "forbidden_encoded_variables": [
+    "final_palette", "material_identity", "surface_finish", "lighting", "texture",
+    "clothing_style", "facial_features", "hair_style_identity", "ethnicity", "race",
+    "historical_period", "named_artistic_style", "symbolic_props", "narrative_caption",
+    "emotion", "gaze_meaning", "knowledge", "belief", "memory", "intention", "motive",
+    "Threshold_K_geometry", "O3_geometry", "brand_colors", "decorative_marks",
+    "renderer_specific_language"
+  ]
+}
