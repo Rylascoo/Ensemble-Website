@@ -1,0 +1,117 @@
+KYMÆAN — HERO METHOD 02 NEUTRAL PHYSICAL MAQUETTE TRANSFER ADDENDUM 01 RECURSIVE AUDIT
+
+Status: COMPLETE / CORRECTED / CLEAN FINAL PASS / ADDENDUM APPROVED / NO CANDIDATE MAQUETTE OR RENDER AUTHORIZED
+Date: 2026-09-07
+Audited source:
+docs/evidence/HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01.txt
+Final audited blob: da2473a561a681911a63d18ec640074067de2d45
+
+PURPOSE
+
+Audit the proposed Stage 6M method addendum after Round 06 exposed transfer loss of support/stability geometry and repeated naturalization of changed-state surface geometry.
+
+FIRST PASS CORRECTION
+
+PROXY MASS / STABILITY AMBIGUITY
+
+The first addendum draft required a visibly unstable proxy but did not define the maquette proxy's mass distribution. A shape can appear leaned while its actual center of mass remains undefined, allowing a hidden Director model and visible transfer model to diverge.
+
+Correction applied before approval:
+- every stability-dependent human proxy is a deterministic closed solid;
+- uniform proxy density is the default mass model;
+- Director-side COM is calculated from the exact transferable proxy solid;
+- support/contact regions come from the same geometry;
+- hidden static calculations may not use a materially different stick figure, stance, torso mass or feet;
+- B unsupported stability and A loaded stability are recomputed from the exact sanitized-proxy geometry;
+- numerical guides stay Director-side but the transferred geometry must embody the same support/body relation.
+
+FINAL RECURSIVE PASS
+
+METHOD 02 COMPATIBILITY — PASS
+
+Stage 6M is optional and inserted only after an already-approved Stage 6. Stages 1–7 remain intact. The addendum changes transfer representation, not semantic construction or post-render measurement law.
+
+FROZEN-LAW INTEGRITY — PASS
+
+No Hero Brief 02 threshold, Falsification Criteria 01 gate, Surface Escape rule, Harness geometry or ODR-33 resolution changes.
+
+FAILURE-LEVEL FIT — PASS
+
+The addendum responds exactly to Round 06 evidence:
+- causal support geometry should not remain audit-only when the renderer must preserve it;
+- surface depth/change should be embodied physically rather than explained by additional prose/technical marks.
+
+It does not claim a maquette will succeed.
+
+NO RETRY LAUNDERING — PASS
+
+C06 Round 06 remains failed and consumed. The addendum creates no C06 rerender, Candidate 07, renderer packet or execution authorization. A future candidate-specific use requires new construction and preflight.
+
+COORDINATE DISCIPLINE — PASS
+
+Stage 6 x/y relationships remain inherited and deterministic. Added z volume is bounded to physical thickness/support representation. Orthographic projection prevents candidate-specific perspective dramatization.
+
+PROXY MASS CONSISTENCY — PASS AFTER CORRECTION
+
+The exact visible proxy geometry, uniform-density mass model, COM calculation, support footprint and contact geometry are one system. Hidden analysis cannot certify one geometry while a different visible stance is transferred.
+
+SUPPORT-VISIBLE DISCIPLINE — PASS
+
+Foot/support geometry must be embodied in the human proxy instead of transferred as labeled support rectangles or omitted into hidden guides. The transferable view therefore contains the physical variable Round 06 lost without requiring the renderer to interpret a numerical diagram.
+
+COUPLED STABILITY DISCIPLINE — PASS
+
+For an asymmetric-brace candidate, B must fail unsupported static equilibrium under the exact proxy geometry, A must remain stable under the reaction, vertical support must remain condition-borne, and no alternate support may close equilibrium.
+
+BASELINE / CHANGED-STATE DISCIPLINE — PASS
+
+The addendum still requires two-sided recoverable baseline, local departure, no purpose-built platform/device, no self-sufficient sculptural surface and no damage spectacle. Volumetric representation does not waive the existing pre-shaped-form test.
+
+INSTRUMENTATION SHADING — PASS WITH IMPLEMENTATION BOUNDARY
+
+Only fixed neutral depth-revealing instrumentation is permitted. Exact shading implementation must be frozen before candidate-specific use and cannot be tuned for beauty. No final material/light system is selected here.
+
+AESTHETIC CONTAMINATION — PASS
+
+No palette, material identity, texture, clothing, face, hair identity, race/ethnicity, culture, period, setting, prop, brand geometry, mood lighting or named style is authorized.
+
+MAQUETTE / MANNEQUIN LEAKAGE — PASS AS FAIL-CLOSED PREFLIGHT
+
+The addendum explicitly rejects sculpture-installation, mannequin-tableau, clay-concept-art, CAD, architectural-model, blockout and wireframe/reference-sheet primary readings before renderer transfer.
+
+TRANSFER SANITIZATION — PASS
+
+Only one byte-pinned sanitized 2D view may later transfer by default. Direct 3D asset transfer remains separately gated. No metadata, labels, manifest, project vocabulary or Director-only guides transfer.
+
+RESPONSIVE INTEGRITY — PASS
+
+Fixed Harness windows remain immutable. Candidate-specific maquette preflight must preserve both people, contact, support geometry and changed-state/baseline evidence inside the existing mobile semantic coverage.
+
+REFERENCE-STRENGTH / ACCOUNTING — PASS
+
+Existing stop-if-control-exposed law, one-request/one-image discipline, no-reroll rule and leakage-consumes-attempt rule remain unchanged.
+
+SIMPLICITY / INFORMATION-GAIN CHECK — PASS
+
+The addendum adds one new representation layer only where necessary. It does not invent a general 3D art pipeline, final material system, interactive scene, animation, camera suite or production asset workflow.
+
+The added mass model is necessary rather than optional complexity because otherwise the new representation could reproduce the exact hidden-model/visible-pose mismatch exposed by Round 06.
+
+FINAL PASS
+
+CLEAN.
+
+No material Method 02 contradiction, post-hoc scoring change, hidden retry, undefined mass model, camera/style authority leak, support-geometry mismatch, responsive violation or worthwhile simpler correction remains.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+`Method 02 Neutral Physical Maquette Transfer Addendum 01` is approved as optional method law.
+
+CURRENT BOUNDARY
+
+No candidate-specific Stage 6M maquette, Candidate 07, C06 rerender, renderer packet, reference transfer or image generation is authorized by this audit.
+
+Exact next action:
+construct a mechanism-neutral Stage 6M tooling/format implementation and validate it on non-candidate test geometry before any candidate-specific maquette is permitted.
