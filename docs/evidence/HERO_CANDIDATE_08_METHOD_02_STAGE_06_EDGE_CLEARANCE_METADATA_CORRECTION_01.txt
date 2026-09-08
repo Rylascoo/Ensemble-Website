@@ -1,43 +1,67 @@
 KYMÆAN — HERO CANDIDATE 08 METHOD 02 STAGE 06 EDGE-CLEARANCE METADATA CORRECTION 01
 
-Status: FINAL ARITHMETIC / METADATA CORRECTION / NO VISIBLE GEOMETRY CHANGE / ROUND 08 RESULT UNAFFECTED
+Status: FINAL REPRESENTATION RECONCILIATION / NO VISIBLE GEOMETRY CHANGE / ROUND 08 RESULT UNAFFECTED
 Date: 2026-09-08
 Candidate: C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE
 
 PURPOSE
 
-Reconcile the Candidate 08 Stage 6 support-root/free-edge metric against the exact integer source geometry. This correction changes no approved Stage 6 x/y geometry, Stage 6M geometry, renderer-visible reference, sterile packet, frozen criterion, Round 08 pixels or Round 08 evaluation.
+Reconcile the Candidate 08 Stage 6 support-root/free-edge metric without collapsing two valid representations of the approved geometry. This correction changes no approved Stage 6 x/y geometry, Stage 6M geometry, renderer-visible reference, sterile packet, frozen criterion, Round 08 pixels or Round 08 evaluation.
 
 DEFECT HISTORY
 
-The original Stage 6 evidence carried `120 px`, calculated from the undeformed baseline foreground edge y=824 against the changed left support-root center y=704.
+The original Stage 6 evidence carried `120 px`, calculated from the undeformed baseline foreground edge y=824 against the changed left support-root display center y=704. That value is superseded undeformed-baseline planning provenance; it is not the controlling changed-state clearance.
 
-A first correction correctly identified the changed free-edge path as controlling, but published `102.8395582822086 px` after an erroneous normalized-to-pixel conversion. That number is withdrawn.
+A later correction correctly recomputed the changed-state clearance from the four-decimal normalized manifest as `102.8395582822086 px`. A subsequent audit incorrectly treated the corresponding integer-SVG value `102.8 px` as proof that the normalized-manifest value was wrong. That later conclusion is withdrawn.
 
-BINDING METRIC
+BINDING NORMALIZED-MANIFEST METRIC
 
-The registered anti-edge metric is support-root/center to the foreground free edge at the same source-space x coordinate.
+The registered anti-edge calculation used by the permanent Stage 6M verifier is support-root/center to the foreground free edge at the same normalized x coordinate, evaluated from the frozen four-decimal Stage 6 scaffold manifest.
 
-Canonical Stage 6 integer SVG:
-- controlling changed support root = (1105,704);
-- bracketing `field-free-edge-upper` vertices = (1085,802) and (1110,808).
+Controlling normalized support root:
+- x = 0.7194;
+- y = 0.7333;
+- source-space y = 0.7333 × 960 = 703.968 px.
 
-At x=1105:
-- t = (1105-1085)/(1110-1085) = 20/25 = 0.8 exactly;
-- edge y = 802 + 0.8*(808-802) = 806.8 px exactly;
-- clearance = 806.8 - 704 = **102.8 px exactly**.
+The normalized changed upper free edge brackets x=0.7194 with:
+- (0.7064, 0.8354);
+- (0.7227, 0.8417).
+
+Linear interpolation at x=0.7194 gives:
+- edge y = 0.8404245398773006;
+- edge y in source pixels = 0.8404245398773006 × 960 = 806.8075582822086 px.
+
+Changed-state normalized-manifest clearance:
+`806.8075582822086 - 703.968 = 102.8395582822086 px`.
 
 Frozen minimum: **100 px**.
-Exact surplus: **2.8 px**.
+Normalized-manifest surplus: **2.8395582822086 px**.
 Result: **PASS**.
 
-Linear interpolation is the definition of the SVG polyline segment. No decimal reconstruction of normalized coordinates is needed or preferred.
+INTEGER-SVG REPRESENTATION
+
+The same approved Stage 6 geometry also exists as integer SVG coordinates:
+- controlling displayed root = (1105,704);
+- bracketing `field-free-edge-upper` vertices = (1085,802) and (1110,808).
+
+At x=1105 the integer polyline gives:
+- t = 20/25 = 0.8 exactly;
+- edge y = 806.8 px;
+- integer-SVG clearance = **102.8 px**.
+
+The approximately 0.039558 px difference between 102.8395582822086 and 102.8 is the expected four-decimal normalization / integer-coordinate round-trip difference. Neither representation invalidates the other. The normalized-manifest value remains the verifier's registered scalar because that verifier recomputes from the frozen normalized manifest bytes.
 
 MACHINE-READABLE CONSEQUENCE
 
-The active Stage 6 scaffold manifest and SVG embedded metadata must state 102.8 px rather than 120 px. The permanent verifier must derive the controlling Stage 6 metric from the integer SVG and treat the four-decimal normalized manifest as a projection, not a higher-precision authority.
+The active Stage 6 manifest and SVG embedded metadata must not present `120 px` as current clearance. They may retain 120 only when explicitly marked **SUPERSEDED_UNDEFORMED_BASELINE_PLANNING_PROVENANCE**.
 
-The Stage 6M physical reconstruction remains a separate normalized representation with approximately 102.854839694656 px clearance; that difference is representation quantization, not a contradiction.
+The permanent verifier must:
+- retain `EXPECTED_STAGE6_CLEARANCE_PX = 102.8395582822086`;
+- retain its `1e-9` comparison tolerance;
+- recompute the changed-state metric from the frozen normalized manifest points;
+- treat 120 only as explicitly superseded planning provenance, never as the active PASS basis.
+
+The Stage 6M physical reconstruction remains a separate normalized-solid representation with approximately 102.854839694656 px clearance.
 
 SCOPE / PRESERVATION
 
@@ -46,14 +70,14 @@ No Stage 6M manifest/report or sanitized renderer reference changes.
 No sterile renderer packet changes.
 No 100 px floor changes.
 No post-render score or stop condition changes.
-Round 08 remains historically spent and failed exactly as recorded in its canonical evaluation.
-
-Where earlier C08 evidence says `120 px` is the current clearance, read it only as obsolete undeformed-baseline planning provenance. Where the first correction says `102.8395582822086 px` is exact, that arithmetic result is superseded by 102.8 px.
+Round 08 remains spent, failed and closed exactly as recorded in its canonical evaluation.
+D9 remains closed after its three judgeable renders exactly as recorded in the Director reconciliation.
 
 DISPOSITION
 
-Exact controlling Stage 6 changed-state clearance: **102.8 px**.
+Controlling normalized-manifest changed-state clearance: **102.8395582822086 px**.
+Corresponding integer-SVG changed-state clearance: **102.8 px**.
 Frozen minimum: **100 px**.
 Result: **PASS**.
 
-This arithmetic correction neither rescues nor alters the failed Round 08 artwork. It only restores consistency between exact source geometry and active metadata/tooling.
+`120 px` survives only as superseded undeformed-baseline planning provenance.
