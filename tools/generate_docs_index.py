@@ -40,8 +40,16 @@ def read_status(root, path):
     return status
 
 
+def document_paths(root):
+    """Preserve repo-wide Markdown collection; also collect text under docs/."""
+    return sorted(markdown_paths(root) + [
+        path.relative_to(root).as_posix()
+        for path in (root / "docs").rglob("*.txt") if path.is_file()
+    ])
+
+
 def collect_statuses(root):
-    return {path: read_status(root, path) for path in markdown_paths(root)}
+    return {path: read_status(root, path) for path in document_paths(root)}
 
 
 def render_index(statuses):

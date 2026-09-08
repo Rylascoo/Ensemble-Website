@@ -6,16 +6,17 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 282
+Total Markdown documents: 283
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 
-## ACTIVE LAW (42)
+## ACTIVE LAW (43)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
 - `README.md`
+- `docs/CORPUS_AND_COVERAGE_GUARD.md`
 - `docs/DESIGN_CONTINUITY.md`
 - `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`
 - `docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md`
