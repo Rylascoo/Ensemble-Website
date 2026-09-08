@@ -217,6 +217,7 @@ Primary closure evidence:
 This entry is a retroactive currency repair. Round 07 closure and the subsequent C08 succession were already established in repository evidence, but the ledger had no mandatory write-trigger law at the time and remained at L-018. L-018 is preserved as the historical pre-execution state rather than rewritten.
 
 Round 07 / `METHOD02-R07-C07` returned one judgeable 1586 × 992 image and consumed its single authorized attempt. The frozen result was:
+
 - Human Necessity = **4/5 PASS**;
 - Changed-condition legibility = **3/5 FAIL**;
 - Altered Possibility = **3/5 FAIL**;
