@@ -1,0 +1,36 @@
+name: Repository publication boundaries
+
+on:
+  push:
+    paths:
+      - 'site/**'
+      - 'intelligence/**'
+      - 'updates/**'
+      - 'README.md'
+      - 'AGENTS.md'
+      - 'CURRENT_STATE.md'
+      - 'tools/validate_repository_boundaries.py'
+      - '.github/workflows/repository-boundaries.yml'
+  pull_request:
+    paths:
+      - 'site/**'
+      - 'intelligence/**'
+      - 'updates/**'
+      - 'README.md'
+      - 'AGENTS.md'
+      - 'CURRENT_STATE.md'
+      - 'tools/validate_repository_boundaries.py'
+      - '.github/workflows/repository-boundaries.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Verify publication and control-plane boundaries
+        run: python3 tools/validate_repository_boundaries.py

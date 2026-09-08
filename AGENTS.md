@@ -44,15 +44,44 @@ Correct material defects, restart the relevant audit, and advance only after one
 
 Do not request a redundant Director approval for a clean in-lane gate. This never creates product, engineering, security, runtime, Store, or other outside-lane authority.
 
-## Repository roles
+## Repository topology
+
+The repository uses one authoritative history on `main` and three explicit operational planes:
+
+- `site/`: **deployable website data plane**. The only subtree that may be configured as the public Cloudflare Workers project root or contain production website source/Wrangler configuration.
+- `intelligence/`: **non-public website/design control plane**. A front door for repository/design intelligence and cross-repository authority. It does not absorb or duplicate the product backend from `Rylascoo/Ensemble-Project`.
+- `updates/`: **non-deployable website change/release plane**. Holds change packets, deployment records and release notes; executable source remains in `site/`.
+
+Existing canonical surfaces remain where they are:
 
 - `CURRENT_STATE.md`: small volatile checkpoint only. Do not turn it into an archive.
 - `AGENTS.md`: durable repository operating instructions.
 - `docs/evidence/DESIGN_LEDGER.md`: durable closure/reopening ledger and anti-re-derivation record.
 - `docs/`: design law, methods, handoffs, evaluations, and historical evidence. A document's historical presence does not make it current law.
-- `prototypes/`: experimental/renderable research surfaces. Do not reorganize or move during repository restructuring unless a later explicitly authorized phase says otherwise.
-- `assets/`: repository assets. Do not reorganize or move during repository restructuring unless explicitly authorized.
-- future `site/`: publication source only when the publication-isolation phase creates it; prototypes are not publication source by implication.
+- `prototypes/`: experimental/renderable research surfaces. Never publication source by implication.
+- `assets/`: repository assets. Never publication source by implication.
+- `tools/`: repository validation/design tooling. Never publication source by implication.
+
+Do not mass-move `docs/`, `prototypes/`, `assets/` or `tools/` into the new front-door namespaces without a separately audited migration that preserves references and evidence identity.
+
+## Cloudflare / website branch law
+
+Cloudflare isolation is directory-based, not branch-based.
+
+- The production repository branch is `main` unless a later explicit deployment decision changes it.
+- The public Worker root directory is `site/` once a deployable site is authorized.
+- Configure Cloudflare build watch paths to include `site/**` when available.
+- Any public-site `wrangler.toml`, `wrangler.json`, or `wrangler.jsonc` belongs inside `site/`.
+- The `site/` project must be self-contained; deployable files must not reach outside the subtree for `docs/`, `prototypes/`, `assets/`, `intelligence/`, `updates/` or `tools/` dependencies.
+- A permanent branch named `site` is not authority and is not deployment isolation. New website work branches from current `main` using a scoped branch such as `site/<work-package>` and merges back after audit/validation.
+
+The current `site/` directory is an intentionally non-deployable publication boundary until authorized production source/configuration exists there. Repository organization alone does not authorize deployment.
+
+## Backend authority boundary
+
+Do not create a second product/backend implementation inside this repository. Runtime orchestration, provider/backend intelligence, application services and engineering authority remain in `Rylascoo/Ensemble-Project` unless the Director explicitly changes repository ownership.
+
+`intelligence/` in this repository means **website/design/repository intelligence**, not product runtime backend code.
 
 ## Authority and evidence discipline
 
@@ -89,15 +118,13 @@ This section establishes semantic workflow law only. It does not define or imple
 
 Repository restructuring is organizational work, not redesign.
 
-Until the relevant audited phase explicitly authorizes otherwise:
-
-- do not change design scores or historical experiment outcomes;
-- do not dispose of Method 02 or alter the active candidate by restructuring;
-- do not move or rewrite `prototypes/` or `assets/`;
+- do not change design scores or historical experiment outcomes by restructuring;
 - do not rewrite history to make old documents appear contemporaneously correct;
+- do not move or rewrite `prototypes/`, `assets/`, `docs/` or `tools/` without an explicit audited migration contract;
 - do not delete a branch that contains any commit unique to that branch;
 - before any permitted branch deletion, create the required archival tag and verify the branch is a strict ancestor with zero unique commits;
-- do not change the Cloudflare publication root merely to silence a failing deployment.
+- do not change the Cloudflare publication root merely to silence a failing deployment;
+- do not promote a historical prototype into `site/` merely because a production site is absent.
 
 ## Current-state size discipline
 
