@@ -1,0 +1,133 @@
+KYMÆAN — HERO CANDIDATE 06 METHOD 02 STAGE 07 RECURSIVE PRE-RENDER AUDIT 01
+
+Status: COMPLETE / CORRECTED / CLEAN FINAL PASS / STAGE 7 APPROVED
+Date: 2026-09-07
+Candidate: C06-ASPB-01
+
+AUDITED EXACT BYTES
+
+Sanitized structural reference:
+docs/evidence/renderer/C06-ASPB-01_STAGE07_SANITIZED_STRUCTURAL_REFERENCE.svg
+blob SHA: 8f362f03ab7adfc2a858ce4ef18f346eb0f75e53
+
+Sterile renderer packet:
+docs/evidence/renderer/C06-ASPB-01_STAGE07_STERILE_RENDERER_PACKET.txt
+blob SHA: 4201e78d5b627203b096ef1dc1257f740c51074c
+
+Director-context package:
+docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt
+final corrected blob at audit entry: 45109161202643351afa251ddc5bf89190cfc48f
+
+GOVERNING LAW
+- approved Candidate 06 Stages 1–5;
+- approved Candidate 06 Stage 6 scaffold + audit;
+- Method 02 Sections 10–14;
+- Renderer Isolation Protocol;
+- frozen Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01.
+
+FIRST PASS — CORRECTIONS
+
+1. SANITIZED-REFERENCE BACKGROUND CONTAMINATION
+The first Stage 7 derivative included the Stage 6 white artboard rectangle even though the transferable variable is the visible relational geometry only. The white background was unnecessary aesthetic information and was outside `g#scaffold`.
+
+Correction:
+- removed the background rectangle;
+- final transfer SVG has a transparent viewport and contains only the approved visible geometry;
+- no title, description, IDs, metadata, audit guides, semantic labels or project vocabulary remain.
+
+2. RENDERER-PROSE TRANSFER AMBIGUITY
+The first sterile text used `physical field`, which could be semantically overloaded toward non-material/fantasy interpretation, and explicitly requested the three scaffold registration lines, increasing risk of literal diagram transfer.
+
+Correction:
+- `physical field` -> `broad continuous physical surface`;
+- changed-state recovery now requires multiple natural geometric correspondences rather than literal three-line reproduction;
+- the packet explicitly says not to reproduce diagram appearance, linework or technical character.
+
+FINAL RECURSIVE PASS
+
+AUTHORITY / STAGE SEPARATION — PASS
+Stage 6 is approved. Stage 7 constructs translation/reference/review bytes only. No reference has been sent to a renderer and no image-generation request has occurred.
+
+REFERENCE BYTE SANITIZATION — PASS
+The exact reference contains only SVG viewport dimensions plus relational geometry. It contains no project/candidate name, repository path, semantic ID, title/description, metadata, hidden guides, counterfactual coordinates, scoring data, brand information or aesthetic directive.
+
+REFERENCE FIDELITY — PASS
+The final sanitized reference preserves the exact visible Stage 6 geometry after its clean audit: three condition paths, final A figure, final B figure whose lower edge follows the changed support contour, body axes and one passive contact segment. Background removal does not change geometry.
+
+TRANSFERRED-VARIABLE DISCIPLINE — PASS
+The intended transferred variable is relational geometry only. The package prohibits substitution of another visual reference without reopening the gate.
+
+STERILE PACKET ISOLATION — PASS
+Renderer text contains no Kymaean, Ensemble, candidate/round label, repository/Drive history, prior artwork description, critique history, scoring threshold, brand asset or product/engineering implementation detail.
+
+PROMPT-SEED DISCIPLINE — PASS
+The packet does not provide an example menu of setting, architecture, culture, occupation, historical era, medium or named style. Negative controls are limited to known candidate failure modes necessary to preserve the approved construction and frozen Surface Escape burden.
+
+SEMANTIC DEPENDENCY PRESERVATION — PASS
+The packet preserves:
+- B vertical support by the changed physical surface;
+- A independent stability;
+- A lateral/rotational brace only;
+- no active hand/arm support;
+- baseline restoration moves B outward and removes contact;
+- exact prior authorship remains unnecessary.
+
+No alternate causal mechanism is delegated to prose.
+
+ANTI-RESCUE / ANTI-PERFORMANCE — PASS
+The packet requires passive contact and prohibits lifting/catching/grasping/pushing/pulling/active help, ordinary accident/task behavior and performance/exercise shorthand without adding a narrative scene.
+
+BASELINE / CHANGE TRANSLATION — PASS
+The packet asks for multiple natural correspondences across one modest local displacement inside a much larger simple continuation. It does not require the renderer to preserve schematic registration lines literally or rely on one dramatic clue.
+
+PRE-EXISTING-FORM DISCIPLINE — PASS
+The exact sanitized geometry is unchanged from the Stage 6 representation that passed both field-only and B-removed tests. The text reinforces local displacement inside a larger simpler continuation and rejects purpose-built support-object/device reading without selecting a replacement architecture.
+
+HUMAN SPECIFICITY / S1 — PASS
+Both adults must remain primary and non-interchangeable through three non-color channels. The packet does not depend on labels, position alone or private state. Later pixels remain binding; this construction intent cannot manufacture an S1 pass.
+
+RESPONSIVE / HARNESS — PASS
+The Director-context package preserves fixed crop facts, while renderer text gives only the necessary central-right/far-left compositional burden. No crop coordinates, identity geometry or Harness implementation detail leak to the renderer.
+
+AESTHETIC BOUNDARY — PASS
+`restrained, physically credible material behavior` and no named style/brand palette are bounded translation controls, not final style selection. No exact material, color, texture, lighting, culture, setting or camera treatment is selected.
+
+ARTWORK-ONLY CONTRACT — PASS
+No typography, branding, UI, explanatory graphics or collateral is requested. Output is one uninterrupted artwork.
+
+REFERENCE-STRENGTH DISCIPLINE — PASS WITH EXECUTION-TIME CONDITION
+No control is assumed. If a future renderer exposes no user-set reference-strength control, execution records N/A. If one is exposed, execution must stop before generation and this package must be amended/audited with one exact fixed value. No opportunistic setting is permitted.
+
+LEAKAGE DETECTION — PASS
+Diagram/technical linework, reference-sheet character, literal schematic registration lines or guide residue in final pixels are pre-registered candidate failures and consume the attempt rather than authorizing a reroll.
+
+MATERIAL-DIFFERENCE DECLARATION — PASS
+Candidate 06 is not a Candidate 04/05 correction variant. It removes authored-field burden, uses field/surface-borne B vertical weight plus passive human brace, pre-registers coupled equilibrium and contact-removal geometry, and uses a modest residual displacement that has already passed the prospective pre-shaped-support checks.
+
+EXECUTION ACCOUNTING — PASS
+Proposed future accounting is exactly one fresh non-project renderer context, one request, one requested image, one byte-pinned structural reference, one byte-pinned text packet, zero historical images, zero brand assets, zero project documents and zero free rerolls.
+
+TECHNICAL FAILURE DISCIPLINE — PASS
+No-image tool failure stops and is reported; it does not silently authorize a second request.
+
+STOP CONSEQUENCE — PASS
+Any judgeable returned artwork consumes the attempt. Renderer execution stops immediately, pixels return to Director Context, and frozen evaluation occurs before any packet/reference/criterion modification.
+
+METHOD 02 COMPLETE REVIEW ARTIFACT SET — PASS
+All Section 14 elements now exist: Stages 1–5 records, scaffold, scaffold audit, exact sanitized transfer reference, exact sterile packet, material-difference declaration, this recursive pre-render audit, and exact execution accounting/stop consequence.
+
+SIMPLICITY / WORTHWHILE-IMPROVEMENT CHECK — PASS
+No additional prompt history, motif blacklist, example, aesthetic specification, coordinate instruction or explanatory prose would close a currently unresolved construction requirement. Further pre-render accretion would increase seed/transfer risk rather than information value.
+
+FINAL PASS
+One complete pass after the two corrections found no material authority leak, reference contamination, project-memory leakage, causal contradiction, alternate-support loophole, responsive contradiction, unbounded aesthetic selection, experiment-accounting ambiguity or worthwhile simplification.
+
+DISPOSITION
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Candidate C06-ASPB-01 Stage 7 Sterile Artwork Translation / complete pre-render review package is APPROVED.
+
+EXECUTION-READINESS CONSEQUENCE
+The package is design-complete. Actual renderer execution remains a separate context operation governed by Renderer Isolation Protocol. It may proceed only in one fresh regular chat outside the Ensemble project using the exact approved reference bytes under a neutral filename and the exact approved sterile text. If a user-set reference-strength control is exposed, stop before generation and return for one audited fixed-value amendment.
+
+NO IMAGE WAS GENERATED BY THIS AUDIT.
