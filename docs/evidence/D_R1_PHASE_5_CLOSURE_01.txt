@@ -1,0 +1,71 @@
+ENSEMBLE WEBSITE / KYMAEAN — D-R1 PHASE 5 CLOSURE 01
+
+Status: COMPLETE / RECURSIVELY AUDITED / CLEAN / D-R1 CLOSED
+Date: 2026-09-07
+
+PURPOSE
+Close D-R1 after executing the explicit Phase 5 final structural closure audit + authority-handback contract established at:
+`docs/evidence/D_R1_PHASE_5_CLOSURE_AUDIT_CONTRACT_01.txt`
+
+CONTRACT HEAD
+64b06e3adcc66b020b25356f75f2977bc1eee033
+
+FINAL MARKDOWN-CLOSURE HEAD
+cd3c9cd7ce33248dc81819ddcb258d35392fcbc7
+
+PHASE 5 AUDIT RESULTS
+A. RETRIEVABILITY / CLOSURE PERSISTENCE — PASS
+`CURRENT_STATE.md`, `AGENTS.md`, and `docs/evidence/DESIGN_LEDGER.md` preserve distinct volatile-state, workflow-law, and durable-closure roles.
+
+B. STATUS SEPARATION — PASS
+The Phase 2 four-state machine-status/index layer remains adopted. Current corpus remains 282 Markdown = 42 ACTIVE LAW / 9 SUPERSEDED / 220 HISTORICAL EVIDENCE / 11 UNCLASSIFIED. Hosted GitHub workflow `Document status structure`, run 34172599327, executed at exact head cd3c9cd7ce33248dc81819ddcb258d35392fcbc7 and concluded SUCCESS.
+
+C. RE-DERIVATION CONTROL — PASS
+Corrected Phase 0 conclusions, closed design findings, reopening guardrails, Phase 2 adoption, Phase 3 disposition, Phase 4 publication isolation and D-R1 closure are durably recoverable from repository evidence/ledger rather than chat history.
+
+D. BRANCH PRESERVATION — PASS
+Fresh readback confirms seven Phase 3 preservation tags remain at exact recorded SHAs:
+- archive/d-r1-phase3/Site -> 40da8b95ea549f0249a9fa8009561891d0836294
+- archive/d-r1-phase3/design/d-r1-phase-2-document-status-index-ci -> 5b36975655b870d4270808200b6f9bee59a43ebd
+- archive/d-r1-phase3/design/lane-a-archive-causality-2026-09-05 -> e0a39195e118d6a989fbcce487ffb28e958e600c
+- archive/d-r1-phase3/design/lane-a-character-recasting-2026-09-05 -> a6ad604bcf12f0e7710439aec9c58ca1ce5a77df
+- archive/d-r1-phase3/design/lane-a-long-scene-2026-09-05 -> 2bd03fb1534ba9f4ac9e22431fdd8e443544c061
+- archive/d-r1-phase3/design/lane-a-take-acceptance-2026-09-05 -> 9caa81c70ea4d1a359a05e5f0a53555916dcbe43
+- archive/d-r1-phase3/visual/v0-5-fresh-palette-handoff -> 39bab8f53d5589975d7941d20c576d242a67a42d
+
+The seven source branches remain absent. Current remote branch set is 37 total = main + the 36 branches protected because they contain unique commits.
+
+E. PUBLICATION ISOLATION — PASS
+`site/` exists as the publication-source namespace and contains only `site/README.txt`. No production `index.html` was invented and no prototype was promoted into publication source.
+
+F. PROHIBITED-SURFACE INTEGRITY — PASS
+Compare from D-R1 mechanical-census baseline `de0208a2895662be9d3762af06b2464b9e3d505e` through final Markdown-closure head `cd3c9cd7ce33248dc81819ddcb258d35392fcbc7` contains no changed path under `prototypes/` or `assets/`.
+
+G. PHASE 6 — PASS / NOT TRIGGERED
+Corrected Phase 0 evidence still establishes explicit success and/or termination states for VID, R0, Hero Method 01 and Hero Method 02. Phase 6 remains NOT TRIGGERED.
+
+H. AUTHORITY HANDBACK — PASS
+D-R1 closure restores but does not advance the exact interrupted creative gate:
+recursively audit `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`.
+
+Only a later clean recursive audit may authorize Candidate 06 Stage 6 deterministic Neutral Geometry Scaffold construction. D-R1 closure itself does not approve Stage 6.
+
+RECURSIVE CLOSURE AUDIT
+- D-R1 stated objectives: PASS.
+- Phase 0 corrected diagnosis preserved: PASS.
+- Phase 2 machine-state enforcement preserved: PASS.
+- Phase 3 archival safety preserved: PASS.
+- Phase 4 publication separation preserved: PASS.
+- Prototype/assets integrity: PASS.
+- Phase 6 trigger check: PASS / NOT TRIGGERED.
+- Exact creative handback without implied advancement: PASS.
+- Hosted document-status validation at final Markdown-changing head: PASS.
+
+One complete pass after final continuity updates found no material error, inconsistency, scope violation or worthwhile D-R1 correction.
+
+DISPOSITION
+D-R1: COMPLETE / CLOSED / CLEAN.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+NEXT
+Resume Candidate `C06-ASPB-01` at its exact paused gate: Stages 1–5 recursive audit. Do not infer Stage 6 approval from this closure record.
