@@ -35,6 +35,15 @@ class Stage6MToolingTests(unittest.TestCase):
         self.assertNotIn(" id=", svg)
         self.assertNotIn("<rect", svg)
 
+    def test_same_volume_internal_boundaries_do_not_transfer_as_seams(self) -> None:
+        svg, _ = deterministic_bytes(self.fixture)
+        # These were the exact bookkeeping side walls at the two internal
+        # surface-solid joins in the original renderer. They must disappear
+        # while true exposed depth faces remain present.
+        self.assertNotIn("650.7,545.65 650.7,587.65 657,584.5 657,542.5", svg)
+        self.assertNotIn("850.7,545.65 850.7,587.65 857,584.5 857,542.5", svg)
+        self.assertIn("650.7,545.65 750.7,503.65 757,500.5 657,542.5", svg)
+
     def test_contact_must_be_actual_adjacency(self) -> None:
         mutated = copy.deepcopy(self.fixture)
         mutated["contacts"][0]["point_b"][0] += 0.01
