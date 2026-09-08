@@ -164,4 +164,26 @@ All seven freshly verified zero-unique strict-ancestor branches were preserved u
 
 Full closure evidence: `docs/evidence/D_R1_PHASE_3_CLOSURE_01.txt`.
 
-**Guardrail:** Phase 3 closure does not authorize deletion of any of the remaining 36 unique-commit branches. D-R1 continues into Phase 4 publication-source isolation/migration; Candidate 06 creative construction remains paused until restructuring permits return.
+**Guardrail:** Phase 3 closure does not authorize deletion of any of the remaining 36 unique-commit branches.
+
+## L-016 — D-R1 Phase 4 publication isolation is complete
+
+**State:** COMPLETE / CLEAN
+
+`site/` is now the explicit publication-source namespace. The phase intentionally did not copy or move a historical prototype into publication source, did not create a false production `index.html`, did not move or rewrite `prototypes/` or `assets/`, and did not change Cloudflare publication configuration. The absence of an authorized production website was correctly treated as a valid no-migration result rather than a restructuring defect.
+
+Full closure evidence: `docs/evidence/D_R1_PHASE_4_PUBLICATION_SOURCE_BOUNDARY_01.txt`.
+
+**Guardrail:** future deployable website construction and any Cloudflare-root switch require their own later implementation/deployment authority; D-R1 Phase 4 does not grant it.
+
+## L-017 — D-R1 restructuring is closed after Phase 5 audit
+
+**State:** COMPLETE / CLOSED / CLEAN
+
+After the verified post-Phase-4 authority gap, the Director instructed continuation. A fresh repository/history search still found no pre-existing Phase 5 definition, so `docs/evidence/D_R1_PHASE_5_CLOSURE_AUDIT_CONTRACT_01.txt` explicitly established Phase 5 as the smallest non-redesign closure phase: final structural closure audit + authority handback.
+
+The Phase 5 audit confirmed the D-R1 objectives are satisfied: retrievability, status separation, closure persistence, uncited re-derivation control, branch-preservation discipline and publication isolation. The seven Phase 3 archive tags still resolve to their exact preserved SHAs; the remote still contains **37 branches = main + 36 protected unique-commit branches**; `site/` still contains only its publication-boundary README; and the D-R1 baseline-to-closure compare contains no changed path under `prototypes/` or `assets/`.
+
+Phase 6 remains **NOT TRIGGERED** because VID, R0, Hero Method 01 and Hero Method 02 retain explicit success and/or termination states.
+
+**Authority handback:** D-R1 closure restores, but does not advance, Candidate `C06-ASPB-01`. The next creative gate is the recursive audit of `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`. Stage 6 is not approved by D-R1 closure and can be authorized only by a later clean audit under the standing design-gate law.
