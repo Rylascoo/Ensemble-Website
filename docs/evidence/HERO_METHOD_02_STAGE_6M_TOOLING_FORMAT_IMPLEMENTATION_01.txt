@@ -1,0 +1,260 @@
+KYMÆAN — HERO METHOD 02 STAGE 6M TOOLING / FORMAT IMPLEMENTATION 01
+
+Status: IMPLEMENTATION COMPLETE / NON-CANDIDATE VALIDATION REQUIRED / NO CANDIDATE MAQUETTE OR RENDER AUTHORIZED
+Date: 2026-09-07
+Authority:
+- HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01.txt
+- HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01_RECURSIVE_AUDIT.txt
+
+PURPOSE
+
+Implement the approved Stage 6M method law as a mechanism-neutral, deterministic, standard-library-only tooling surface before any candidate-specific maquette exists.
+
+This implementation is not Candidate 07, is not a C06 rerender path, and contains no candidate geometry.
+
+IMPLEMENTATION SURFACE
+
+Machine-readable schema:
+docs/evidence/stage6m/STAGE6M_MANIFEST_SCHEMA_01.json
+
+Generator / validator:
+tools/stage6m_maquette.py
+
+Unit tests:
+tools/test_stage6m_maquette.py
+
+Non-candidate validation fixture:
+docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01.json
+
+Deterministic sanitized fixture export:
+docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_SANITIZED.svg
+
+Deterministic Director-side fixture report:
+docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_REPORT.json
+
+Hosted validation:
+.github/workflows/stage6m-tooling.yml
+
+FORMAT ID
+
+kymaean.hero.method02.stage6m/1
+
+MANIFEST DISCIPLINE
+
+The manifest separates:
+- source-artboard dimensions;
+- fixed method projection;
+- fixed method instrumentation;
+- one or more shared-surface volumes;
+- one or more anonymous proxy volumes;
+- actual proxy-to-proxy contact points;
+- Director-side static cases;
+- fail-closed sanitized-output policy;
+- human-review status.
+
+All normalized geometry values use at most four decimal places.
+
+PROXY SOLID LAW
+
+Every proxy is a union of deterministic convex polygon prisms extruded over z.
+
+Proxy mass solids must:
+- be closed prism solids;
+- use uniform density;
+- have interior-disjoint volume;
+- meet only through shared boundaries when adjacent;
+- carry at least one support-contact solid;
+- generate support extent and COM from the same exact geometry later rendered into the sanitized view.
+
+Interior overlap is rejected because double-counting overlapping mass would make the Director COM model differ from the physical solid represented by the transfer surface.
+
+UNIFORM-DENSITY COM
+
+For every proxy solid:
+
+volume = polygon_area_xy * (z1 - z0)
+
+solid_COM = (polygon_centroid_x, polygon_centroid_y, (z0 + z1)/2)
+
+For a proxy composed of interior-disjoint solids:
+
+proxy_COM = sum(volume_i * solid_COM_i) / sum(volume_i)
+
+No alternate hidden stick-figure or hand-entered COM is accepted by this implementation.
+
+SUPPORT GEOMETRY
+
+Support geometry is derived only from proxy solids carrying:
+
+support_contact: true
+
+The Director report computes:
+- support x interval;
+- support z interval;
+- support y level;
+- COM;
+- total normalized proxy volume.
+
+Support geometry is therefore part of the same proxy solid model transferred visually.
+
+ACTUAL CONTACT ADJACENCY
+
+A body contact is not accepted as a symbolic relation.
+
+For every contact:
+- point_a and point_b must coincide exactly within implementation tolerance;
+- that common 3D point must be contained by proxy A solid geometry;
+- it must also be contained by proxy B solid geometry.
+
+This prevents a hidden Director contact from being declared where the visible proxy solids remain separated.
+
+STATIC CASES
+
+The mechanism-neutral validator supports:
+
+1. unsupported
+- compares exact proxy COM x against exact support x interval;
+- records signed support margin;
+- classifies stable / unstable against a declared minimum margin.
+
+2. supported_pair
+- uses one actual horizontal-x contact;
+- uses an explicit target center-of-pressure x inside the supported proxy footprint;
+- solves the horizontal reaction required to close the supported proxy's 2D frontal-plane moment;
+- applies the equal/opposite reaction to the counterparty;
+- solves the counterparty support resultant;
+- requires positive support margins according to the declared case.
+
+These are construction-instrumentation calculations only. They create no post-render scoring rule and assume no literal final-human density model.
+
+FROZEN ORTHOGRAPHIC PROJECTION
+
+Candidate manifests cannot tune projection.
+
+Frozen method constants:
+
+mode = fixed_orthographic_oblique
+depth_dx = 0.035
+depth_dy = 0.025
+
+For normalized source-plane point (x,y) and depth z:
+
+screen_x = (x + z * depth_dx) * source_width
+screen_y = (y - z * depth_dy) * source_height
+
+This is linear / orthographic: no perspective division, focal length, depth-of-field, candidate-specific camera rotation or beauty framing exists.
+
+FROZEN INSTRUMENTATION
+
+Candidate manifests cannot tune instrumentation.
+
+Frozen neutral values:
+
+base_gray = 184
+top_delta = +12
+side_delta = -12
+outline_gray = 150
+outline_width = 0.6
+
+All geometry uses neutral grayscale only.
+
+No hue coding, texture, material identity, specular design, atmospheric effect, cinematic lighting or candidate-specific tuning is available.
+
+SANITIZED EXPORT
+
+The generated SVG is transparent and fail-closed.
+
+Required policy:
+- text: forbidden;
+- IDs: forbidden;
+- metadata: forbidden;
+- guides: forbidden;
+- background rectangle: forbidden.
+
+The generator itself additionally whitelists only:
+- root svg;
+- polygon geometry.
+
+No source manifest identifier, proxy identifier, contact identifier or semantic annotation is emitted.
+
+HUMAN-REVIEW BOUNDARY
+
+The following cannot be legitimately reduced to numeric code:
+- primary mannequin / sculpture / CAD / blockout / architectural-model reading;
+- whether a candidate surface reads as recoverable changed-from-baseline physical geometry rather than self-sufficient designed form.
+
+The manifest therefore contains explicit human-review states:
+
+UNASSESSED / PASS / FAIL
+
+for:
+- maquette_leakage;
+- surface_read.
+
+transfer_eligible=true is invalid unless both are PASS.
+
+The automated report distinguishes:
+- automated_validation_pass;
+- transfer_eligible.
+
+A clean numerical result can therefore never silently authorize renderer transfer.
+
+NON-CANDIDATE FIXTURE
+
+`NONCANDIDATE_FIXTURE_01` is deliberately abstract:
+- anonymous proxies `P` and `Q`;
+- generic prism solids;
+- no human identity, setting, material, brand, Candidate 06 coordinates or narrative semantics;
+- one generic shared support surface used only to exercise 2.5D export;
+- one generic actual proxy contact.
+
+It exists only to test tooling invariants.
+
+The fixture pre-registers:
+- P unsupported = stable;
+- Q unsupported = unstable;
+- Q with the actual P↔Q contact = stable;
+- both subjective transfer reviews = UNASSESSED;
+- transfer_eligible = false.
+
+The fixture is not a design candidate and may never be supplied to a renderer as project artwork evidence.
+
+FAIL-CLOSED TEST COVERAGE
+
+The unit suite explicitly checks:
+- deterministic fixture automated pass;
+- fixture remains not transfer-eligible;
+- contact points must be actual proxy adjacency;
+- overlapping proxy mass solids are rejected;
+- instrumentation cannot be candidate-tuned;
+- projection cannot be candidate-tuned;
+- transfer eligibility cannot bypass human review;
+- schema constants and implementation constants remain synchronized;
+- sanitized SVG contains no text, metadata, IDs or background rectangle.
+
+HOSTED VALIDATION CONTRACT
+
+The Stage 6M workflow runs:
+1. the standard-library unit suite;
+2. deterministic regeneration-in-memory of the non-candidate fixture;
+3. byte-for-byte comparison against the committed sanitized SVG;
+4. byte-for-byte comparison against the committed Director-side JSON report.
+
+Any divergence fails CI.
+
+CURRENT BOUNDARY
+
+This implementation authorizes no:
+- Candidate 07;
+- C06 rerender;
+- candidate-specific Stage 6M manifest;
+- candidate-specific maquette;
+- renderer packet;
+- reference transfer;
+- image generation;
+- final hero/style/palette;
+- Harness change;
+- website/app implementation.
+
+Exact next gate:
+run local and hosted non-candidate validation, inspect the sanitized fixture for implementation defects, and recursively audit this tooling until one complete pass finds no material error, inconsistency, aesthetic authority leak, fail-open path or worthwhile simplification.
