@@ -228,11 +228,11 @@ Planning geometry:
 - B COM x **1080**, so the weight-moment arm to that center of pressure is **20 px**;
 - required horizontal brace reaction magnitude is therefore approximately `20 / 285 = 0.070` times B's normalized vertical weight;
 - equal and opposite reaction acts on A at approximately the same brace height;
-- nominal A support-resultant shift is therefore approximately **20 px × (B:A normalized weight ratio)** away from A's unloaded COM.
+- nominal A support-resultant shift is therefore approximately **20 px × (B:A normalized weight ratio)** away from A's unloaded COM when A and B use the same support-to-contact lever arm.
 
 Stress the construction through a deliberately conservative **2:1 B:A normalized-weight sensitivity case**. The resulting A support-resultant shift is approximately **40 px**. From A COM x 940 inside support x 890–990, this leaves a positive **10 px** support margin.
 
-Stage 6 must preserve or improve this coupled-equilibrium margin. If later structural geometry requires a larger brace reaction, a higher contact, a narrower A support polygon, or body proportions that invalidate the 2:1 sensitivity pass, reject/correct the scaffold before transfer rather than relying on A's unloaded stability.
+Stage 6 must preserve or improve this coupled-equilibrium margin. If later structural geometry requires a larger B weight-moment arm, a narrower A support polygon, or a materially different A:B support-to-contact lever-arm ratio/body-proportion relation that invalidates the 2:1 sensitivity pass, reject/correct the scaffold before transfer rather than relying on A's unloaded stability.
 
 ### B baseline-restored model
 
