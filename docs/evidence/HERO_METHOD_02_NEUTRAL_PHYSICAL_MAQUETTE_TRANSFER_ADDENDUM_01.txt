@@ -140,6 +140,30 @@ The transferable human proxy must:
 - avoid facial/head detail beyond a generic head volume;
 - avoid hand/arm detail unless hands/arms are themselves causally required by an approved candidate; for D9-like passive-brace work, hands/arms remain non-supporting and should not become focal transfer geometry.
 
+DETERMINISTIC PROXY MASS / STATIC MODEL
+
+A visible lean is not sufficient unless the physical proxy has a defined mass model.
+
+Therefore every human_proxy_volume used for a stability-dependent candidate must have:
+- a deterministic closed solid geometry;
+- one uniform proxy density across that solid unless an earlier approved candidate construction explicitly requires a different pre-registered mass model;
+- a Director-side center of mass computed from the exact transferable proxy geometry, not from an unrelated hidden stick figure;
+- support/contact regions generated from the same proxy geometry;
+- a static-equilibrium check using the already-approved candidate support/contact assumptions.
+
+The computed COM, support polygon, reaction/resultant and sensitivity calculations remain Director-side audit data and are not drawn into the transferable output.
+
+However the transferable proxy must visibly embody the same geometry that produced those values. A candidate fails Stage 6M if the hidden static calculation says the proxy is unstable while the sanitized visible proxy uses materially different feet, torso mass, body axis or contact geometry.
+
+For a D9-like asymmetric brace:
+- B's uniform-density proxy COM must project outside B's unsupported footprint by the already-approved positive margin or a separately pre-registered stronger margin;
+- with the approved A contact, the coupled static model must close;
+- A's own support resultant must remain inside A's support footprint by a positive margin;
+- removing A contact while freezing B's depicted proxy pose must fail static equilibrium;
+- no alternate surface/body support may close the equilibrium.
+
+This mass model is construction instrumentation only. It does not assert literal body-mass distribution for final human artwork and is not a post-render scoring criterion.
+
 SUPPORT-VISIBLE PREFLIGHT
 
 Before a candidate-specific Stage 6M can advance, the transferable view must pass without Director-only guides:
@@ -147,9 +171,12 @@ Before a candidate-specific Stage 6M can advance, the transferable view must pas
 1. identify A's support footprint from proxy geometry;
 2. identify B's support footprint from proxy geometry;
 3. visually recover B's changed-state body-axis/support relation;
-4. visually infer that the depicted B proxy would not remain statically stable without the approved A contact under the candidate's already-frozen conservative model;
-5. preserve A as independently stable;
-6. show no alternate support contact.
+4. the Director-side static model computed from those exact visible proxy solids confirms that B's frozen depicted pose cannot remain in unsupported static equilibrium without A;
+5. the visible proxy geometry does not contradict that result by implying wider/extra feet or other support;
+6. preserve A as independently stable under the coupled brace reaction;
+7. show no alternate support contact.
+
+A neutral viewer is not required to calculate a numerical COM from the image. The purpose of the visible proxy is to prevent the renderer from inventing a materially different support footprint/body relation than the one that passed the deterministic model.
 
 This is a prospective transfer sufficiency test, not a new post-render score.
 
@@ -228,7 +255,9 @@ FAIL-CLOSED RULES
 
 Any one of the following blocks renderer work:
 - causally necessary support geometry is still audit-only;
-- B appears independently stable in sanitized maquette despite construction claiming otherwise;
+- proxy mass/COM model is undefined or computed from geometry different from the sanitized visible proxy;
+- B's exact sanitized proxy is statically stable without A when the construction says otherwise;
+- A becomes unstable under the required brace reaction;
 - A appears to carry B vertically when not authorized;
 - extra support appears;
 - surface becomes a self-sufficient sculptural/architectural object;
@@ -245,4 +274,4 @@ This addendum defines method-level representation law only.
 No candidate-specific Stage 6M maquette, Candidate 07, C06 rerender, renderer packet, reference transfer, image generation, final hero/style/palette, website implementation, Harness change or Lane A/app change is authorized by this document.
 
 Exact next gate:
-recursively audit this addendum for Method 02 compatibility, physical-transfer sufficiency, aesthetic contamination, hidden retry authority, instrumentation ambiguity, responsive integrity, simplicity and worthwhile improvements.
+recursively audit this corrected addendum for Method 02 compatibility, physical-transfer sufficiency, proxy-mass consistency, aesthetic contamination, hidden retry authority, instrumentation ambiguity, responsive integrity, simplicity and worthwhile improvements.
