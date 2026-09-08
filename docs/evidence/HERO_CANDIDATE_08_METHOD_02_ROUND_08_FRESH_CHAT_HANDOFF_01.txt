@@ -1,0 +1,172 @@
+KYMÆAN — HERO CANDIDATE 08 METHOD 02 ROUND 08 FRESH-CHAT HANDOFF 01
+
+Status:
+CURRENT RE-ENTRY HANDOFF / STAGES 1–7 APPROVED / ISOLATED ROUND 08 EXECUTION NEXT / ROUND 08 UNSPENT
+
+Date:
+2026-09-08
+
+PURPOSE
+
+This is a continuity/re-entry map for a fresh Ensemble project chat. It does not supersede CURRENT_STATE.md and creates no new design, renderer, scoring, product, implementation, or deployment authority.
+
+A fresh project chat must resolve the live repository state and read CURRENT_STATE.md first. If the repository has advanced beyond the baseline recorded here, live CURRENT_STATE.md and reconciled repository authority win.
+
+REQUIRED FIRST READS — IN ORDER
+
+1. CURRENT_STATE.md
+2. AGENTS.md
+3. docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md
+4. docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md
+5. docs/evidence/DESIGN_LEDGER.md — especially L-020 and L-021
+6. this handoff
+7. docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt
+8. docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt
+9. docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_6M_NEUTRAL_PHYSICAL_MAQUETTE_AUDIT_01.txt
+10. docs/KYMAEAN_HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02.md
+11. docs/evidence/HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01.txt
+12. docs/RENDERER_ISOLATION_PROTOCOL.md
+13. frozen post-render evaluation law:
+    - docs/KYMAEAN_LANE_B_WEBSITE_V0_HERO_ARTWORK_BRIEF_02.md
+    - docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md
+    - docs/KYMAEAN_HERO_SURFACE_ESCAPE_GATE_01.md
+    - docs/KYMAEAN_HERO_INTEGRATION_HARNESS_01.md
+    - docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md
+14. Rylascoo/Ensemble-Project/CURRENT_STATE.md only when exact current product/engineering truth materially matters.
+15. Google Drive Ensemble Project only when visual-master assets/provenance are actually needed.
+
+Do not reconstruct current authority from chat history, branch names, stale handoffs, or historical approval records.
+
+STATE AT HANDOFF PREPARATION
+
+Authoritative main immediately before this continuity transaction:
+9313939f9076a442c2be9185e91f988c81470d09
+
+That checkpoint records:
+- Candidate C08-EWTF-01 ACTIVE;
+- Method 02 Stages 1–7 APPROVED;
+- Stage 7 recursive pre-render audit COMPLETE / CORRECTED / CLEAN / APPROVED;
+- isolated renderer execution design-ready only;
+- Round 08 UNSPENT;
+- no Candidate 08 Round 08 image generated.
+
+Exact-main Document status structure workflow at that checkpoint:
+34257110628 — COMPLETED / SUCCESS
+
+Exact promoted Stage 6M checkpoint:
+b8d6bf12884872c609a86942ed545ce7df10cfcd
+
+Exact-main Stage 6M workflow:
+34255553033 — COMPLETED / SUCCESS
+
+FROZEN RENDERER-VISIBLE INPUTS
+
+Reference:
+- renderer filename: reference.svg
+- exact SHA-256: 54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db
+- Director pin: docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt
+- source bytes are the canonical deterministic sanitized Stage 6M view.
+
+Sterile renderer packet:
+- repository artifact: docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt
+- exact Git blob: 7e7d5cd71fb0b04aaaf78369fe89699cccc8c121
+- exact SHA-256: fc1483244d39b3b65eed362330800527f1f08df6a6dc9052bf81296046be0c6f
+
+The execution copies supplied to the Director were byte-verified against these exact SHA-256 pins. Do not manually rewrite, summarize, prepend, append, or otherwise mutate either renderer-visible input.
+
+TWO-CONTEXT LAW
+
+A. FRESH ENSEMBLE PROJECT CHAT
+
+This is the governance, continuity, archival, evaluation, and design-decision context.
+
+It must not execute Candidate 08 Round 08 image generation inside the Ensemble project. Before a renderer return, it may fresh-resolve repository authority, verify the frozen input pins, and support the external execution handoff only. It must not redesign the candidate, patch the packet, mutate the reference, change the frozen criteria, or invent an alternate execution.
+
+B. FRESH REGULAR RENDERER CHAT OUTSIDE THE ENSEMBLE PROJECT
+
+This is the sole authorized Round 08 renderer-execution context.
+
+It receives only:
+- one exact reference.svg;
+- the exact sterile renderer packet text as the request.
+
+It must not receive:
+- this handoff;
+- project names/history;
+- project documents;
+- scoring law or thresholds;
+- prior artwork;
+- critiques/evaluations;
+- brand assets;
+- manifests/reports;
+- COM/support/force calculations;
+- coordinate notes;
+- extra corrective preamble or explanatory follow-up.
+
+ISOLATED ROUND 08 EXECUTION PROCEDURE
+
+Experiment label:
+METHOD02-R08-C08
+
+1. Open one fresh regular chat outside the Ensemble project.
+2. Attach only the exact byte-pinned reference.svg under that neutral filename.
+3. Use the exact byte-pinned sterile renderer packet as the sole renderer request text.
+4. Request exactly one image in exactly one renderer request.
+5. If the fresh renderer interface exposes any user-set reference-strength, image-weight, image-strength, structure-strength, or equivalent control, STOP BEFORE GENERATION and return to the Ensemble project for one exact fixed-value amendment plus recursive audit.
+6. If no such user-set control is exposed, record: REFERENCE_STRENGTH_CONTROL: NOT EXPOSED / N/A.
+7. Execute once. Do not issue a second request, clarification, correction, reroll, or follow-up generation.
+8. Any judgeable returned image consumes Round 08 regardless of pass/fail.
+9. A genuine no-image technical failure does not consume a judgeable attempt, but it also does not silently authorize another request. Stop and return to the project context.
+10. After a judgeable return, stop renderer execution and bring the raw returned pixels back to the Ensemble project context.
+
+AFTER A JUDGEABLE RETURN
+
+Before interpretation when practical, preserve/archive the raw returned pixels and execution provenance.
+
+Then evaluate the pixels under freshly read, unchanged:
+- Hero Artwork Brief 02;
+- Falsification Criteria 01;
+- Surface Escape Gate 01;
+- corrected/re-frozen Harness 01.
+
+Pixels are binding. Construction intent, prompt intent, maquette intent, or prose explanation cannot rescue a failed returned image. Do not modify criteria, reference, packet, Harness, or interpretation rules before closing the evaluation.
+
+Because a judgeable image consumes Round 08, the closure is one logical repository transaction. Before any later-stage artifact proceeds, record the evaluation evidence and make the required DESIGN_LEDGER.md and CURRENT_STATE.md continuity writes, then read back and recursively/hosted-validate them under repository law.
+
+No automatic retry exists.
+
+If the result passes the frozen evaluation, final hero selection remains a Director act unless newer repository authority explicitly changes that boundary.
+
+If the result fails, do not reroll C08 or patch its packet. Close the candidate/round as the frozen law requires and establish any successor-analysis boundary only through documented, recursively audited project work.
+
+HARD BOUNDARY
+
+Until Round 08 returns and is formally closed:
+- no C07 retry;
+- no C08 reroll or second request;
+- no execution-time prompt patch or reference mutation;
+- no frozen-criterion or Harness mutation;
+- no final hero/style/palette selection;
+- no production website implementation;
+- no Cloudflare publication change;
+- no Lane A/app UI implementation;
+- no motion work;
+- no transcript-dependent E0-E Stage motion/aliveness law without the required engineering evidence.
+
+RECURSIVE-AUDIT / APPROVAL DISCIPLINE
+
+For website/brand/design work, clean recursive audit earns in-lane approval. Correct material defects, restart the relevant audit, and advance only after one complete pass is clean. Do not request redundant Director approval for a clean in-lane gate, and do not use that delegation to invent authority outside the design lane.
+
+HANDOFF RECURSIVE AUDIT
+
+Checked against the live CURRENT_STATE.md at handoff preparation, AGENTS.md, the Candidate 08 Stage 6M audit, Stage 7 package, Stage 7 recursive pre-render audit, frozen renderer pins, and renderer-isolation law.
+
+The handoff adds no new design or evaluation criterion, does not spend Round 08, does not alter frozen bytes, does not authorize in-project generation, and preserves the exact external execution boundary and post-return closure sequence.
+
+One complete final pass found no remaining material authority conflict, renderer-isolation leak, round-accounting ambiguity, stale-current dependency, or worthwhile simplification.
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+FRESH PROJECT CHAT ENTRY PROMPT
+
+Resume Ensemble Website / Kymaean visual-design management from the authoritative repository Rylascoo/Ensemble-Website. Fresh-resolve live main and read CURRENT_STATE.md first, then AGENTS.md, the visual-design workflow authority, task-scope protocol, DESIGN_LEDGER.md, and docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_FRESH_CHAT_HANDOFF_01.txt. Do not reconstruct authority from chat history. Candidate C08-EWTF-01 has Method 02 Stages 1–7 approved and Round 08 is unspent unless I supply a returned renderer image. If no renderer image is supplied, verify the exact frozen execution pins and stop at the external renderer-isolation boundary; do not redesign or generate inside the project. If I supply the raw returned image, treat any judgeable image as consuming Round 08 and close evaluation under the frozen Hero Brief 02 / Falsification Criteria 01 / Surface Escape / corrected Harness 01, with evaluation evidence + DESIGN_LEDGER.md + CURRENT_STATE.md continuity before later work. Recursively audit until one complete pass is clean and use standing Director delegation for clean in-lane gates.
