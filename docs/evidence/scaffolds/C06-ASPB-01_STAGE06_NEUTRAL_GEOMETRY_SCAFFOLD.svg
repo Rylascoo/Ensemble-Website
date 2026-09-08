@@ -29,15 +29,16 @@
       <line id="A-body-axis" x1="945" y1="350" x2="940" y2="685" stroke-width="3"/>
     </g>
 
-    <!-- Person B: anonymous changed-support occupant. Upper body is displaced toward A while feet remain field-borne. No arm/hand/knee/seat support geometry is encoded. -->
+    <!-- Person B: anonymous changed-support occupant. Upper body is displaced toward A while lower support follows the changed field contour. No arm/hand/knee/seat support geometry is encoded. -->
     <g id="figure-B">
       <ellipse id="B-head-region" cx="1055" cy="280" rx="38" ry="48"/>
       <path id="B-body-region" d="M1018 395
         C1028 370 1040 350 1058 345
         C1085 345 1100 370 1105 400
         L1115 520
-        L1135 685
-        L1095 685
+        L1135 688
+        L1115 685
+        L1095 678
         L1080 540
         L1045 455
         L1028 420
