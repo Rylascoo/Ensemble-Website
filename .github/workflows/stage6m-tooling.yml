@@ -7,6 +7,7 @@ on:
       - 'tools/stage6m_maquette_core.py'
       - 'tools/stage6m_maquette_core_source.part*'
       - 'tools/stage6m_maquette_hardening.py'
+      - 'tools/stage6m_maquette_union_renderer.py'
       - 'tools/test_stage6m_maquette.py'
       - 'tools/test_stage6m_core_bypass.py'
       - 'docs/evidence/stage6m/**'
@@ -17,6 +18,7 @@ on:
       - 'tools/stage6m_maquette_core.py'
       - 'tools/stage6m_maquette_core_source.part*'
       - 'tools/stage6m_maquette_hardening.py'
+      - 'tools/stage6m_maquette_union_renderer.py'
       - 'tools/test_stage6m_maquette.py'
       - 'tools/test_stage6m_core_bypass.py'
       - 'docs/evidence/stage6m/**'
@@ -34,7 +36,7 @@ jobs:
           persist-credentials: false
       - name: Run Stage 6M unit tests
         run: python3 tools/test_stage6m_maquette.py
-      - name: Verify internal core cannot bypass hardening
+      - name: Verify internal core cannot bypass hardening or physical-union rendering
         run: python3 tools/test_stage6m_core_bypass.py
       - name: Verify deterministic non-candidate fixture bytes
         run: >-
