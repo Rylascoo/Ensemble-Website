@@ -187,3 +187,25 @@ The Phase 5 audit confirmed the D-R1 objectives are satisfied: retrievability, s
 Phase 6 remains **NOT TRIGGERED** because VID, R0, Hero Method 01 and Hero Method 02 retain explicit success and/or termination states.
 
 **Authority handback:** D-R1 closure restores, but does not advance, Candidate `C06-ASPB-01`. The next creative gate is the recursive audit of `docs/KYMAEAN_HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05.md`. Stage 6 is not approved by D-R1 closure and can be authorized only by a later clean audit under the standing design-gate law.
+
+## L-018 — Round 06 closed C06; C07 reaches isolated execution through Stage 6M
+
+**State:** C06 CLOSED / C07 PRE-RENDER DESIGN COMPLETE / ROUND 07 UNSPENT
+
+Round 06 proved that C06's abstract Stage 6→7 transfer surface was insufficient in practice: the renderer naturalized B into an ordinary stable two-foot stance, naturalized the local surface into pre-existing shallow topography, and reduced the required passive mechanical brace to an optional editorial lean. C06 is consumed and may not be retried.
+
+D9 itself was not falsified because those decisive physical relationships did not survive transfer. Method 02 therefore added the audited Stage 6M neutral physical-maquette representation without changing the frozen post-render criteria.
+
+Candidate `C07-CBSR-01` is a genuinely new D9 successor using cross-band split-root support and an oblique passive brace. Its Stages 1–5, Stage 6, Stage 6M and Stage 7 have each passed recursive audit. Stage 6M additionally exposed and corrected a mechanism-neutral renderer defect in which convex decomposition boundaries of one physical volume became false transferable seams. The final physical-union renderer suppresses only same-volume bookkeeping boundaries while preserving exposed physical depth.
+
+C07's promoted Stage 6M geometry is canonical and machine-validated: A remains independently stable, B is genuinely unstable without A by a positive margin, the one passive A↔B contact closes the supported pair, and A remains stable under that reaction. The exact visible proxy solids are the solids used for COM/support/statics.
+
+Stage 7 transfers only one exact sanitized deterministic Stage 6M view plus one sterile renderer packet. Exact reference SHA-256: `1a3cf18f5270cbf25209a76f2fb00e3de0e57aa9c7c565ec769a505b2580e89d`. Exact sterile-packet blob: `e7eb8efa625f41a7e04a57f05f96cf98e79e5539`; SHA-256: `38c5aefd052cb0e9601d36369deb80dfc6769f7eed82079c797e9d3526fb70ce`.
+
+Primary closure evidence:
+- `docs/evidence/HERO_CANDIDATE_06_METHOD_02_ROUND_06_EVALUATION_01.txt`;
+- `docs/evidence/HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01.txt`;
+- `docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_6M_NEUTRAL_PHYSICAL_MAQUETTE_AUDIT_01.txt`;
+- `docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
+
+**Guardrail:** `CURRENT_STATE.md` owns the live execution boundary. C07 Stage 7 approval authorizes no renderer call inside the Ensemble project, no reference/prompt modification at execution time, no C06 retry and no free Round 07 reroll. A future fresh renderer UI exposing any user-set reference/image/structure-strength control requires a fixed-value amendment and recursive audit before generation.
