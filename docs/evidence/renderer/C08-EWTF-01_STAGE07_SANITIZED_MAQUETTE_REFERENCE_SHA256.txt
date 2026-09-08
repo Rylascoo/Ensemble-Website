@@ -1,0 +1,8 @@
+C08-EWTF-01 Stage 7 sanitized maquette reference
+SHA-256: 54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db
+
+Canonical bytes are the deterministic sanitized SVG output produced by the approved Stage 6M tooling from:
+docs/evidence/stage6m/C08-EWTF-01_STAGE6M_MANIFEST.json
+
+The exact same SVG hash was verified by hosted Stage 6M validation before and after promotion to main, including exact-main workflow run 34255553033.
+For renderer execution, supply those exact bytes under the neutral filename `reference.svg`; do not expose this record, repository path, manifest, report, candidate name or project vocabulary to the renderer.
