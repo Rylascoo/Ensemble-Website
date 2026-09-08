@@ -73,6 +73,9 @@ Stage 7 recursive audit is **COMPLETE / CORRECTED / CLEAN / APPROVED**. Its firs
 
 ## Exact next action — isolated Round 08 execution
 
+Fresh-chat re-entry handoff:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_FRESH_CHAT_HANDOFF_01.txt`.
+
 Experiment label:
 `METHOD02-R08-C08`.
 
