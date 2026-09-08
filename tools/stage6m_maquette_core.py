@@ -4,7 +4,7 @@
 The preserved base implementation is stored as data, not as the canonical
 entrypoint. This loader exposes only primitives required by the audited
 hardening layer. Generation/validation is fail-closed until hardening replaces
-base validation/report functions.
+base validation/report functions and the physical-union renderer is installed.
 """
 from __future__ import annotations
 import base64
@@ -49,17 +49,22 @@ for _name in (
 
 _BASE_VALIDATE = _NS["validate_manifest"]
 _BASE_BUILD_REPORT = _NS["build_report"]
+_BASE_RENDER = render_svg
 validate_manifest = _BASE_VALIDATE
 build_report = _BASE_BUILD_REPORT
 
 
-def _hardening_active() -> bool:
-    return validate_manifest is not _BASE_VALIDATE and build_report is not _BASE_BUILD_REPORT
+def _pipeline_active() -> bool:
+    return (
+        validate_manifest is not _BASE_VALIDATE
+        and build_report is not _BASE_BUILD_REPORT
+        and render_svg is not _BASE_RENDER
+    )
 
 
 def deterministic_bytes(m: dict[str, Any]) -> tuple[str, str]:
-    if not _hardening_active():
-        fail("internal Stage 6M core cannot generate/validate without mandatory hardening")
+    if not _pipeline_active():
+        fail("internal Stage 6M core cannot generate/validate without mandatory hardening and physical-union renderer")
     validate_manifest(m)
     report = build_report(m)
     svg = render_svg(m)
@@ -68,8 +73,8 @@ def deterministic_bytes(m: dict[str, Any]) -> tuple[str, str]:
 
 
 def main() -> int:
-    if not _hardening_active():
-        print("Stage 6M validation FAIL: internal core cannot run without mandatory hardening", file=sys.stderr)
+    if not _pipeline_active():
+        print("Stage 6M validation FAIL: internal core cannot run without mandatory hardening and physical-union renderer", file=sys.stderr)
         return 2
     _NS["deterministic_bytes"] = deterministic_bytes
     return _NS["main"]()
