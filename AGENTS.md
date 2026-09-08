@@ -3,7 +3,7 @@
 # Ensemble Website / Kymaean — Repository Agent Authority
 
 Status: ACTIVE REPOSITORY WORKFLOW LAW
-Updated: 2026-09-07
+Updated: 2026-09-08
 
 ## Purpose
 
@@ -63,6 +63,27 @@ Do not request a redundant Director approval for a clean in-lane gate. This neve
 - Distinguish a carrier-specific failure from global falsification.
 - Before repeating an experiment or reopening a closed question, check `DESIGN_LEDGER.md` and the cited evidence.
 - Reopen a closed result only for new evidence, a direct contradiction, a changed governing contract, or an explicitly authorized new program.
+
+## Design-ledger write trigger
+
+The design ledger is part of closing the result, not optional later housekeeping.
+
+Any design-lane event that:
+- consumes an experimental/render round;
+- closes or rejects a candidate;
+- reopens a previously closed result;
+- changes a program or direction termination state; or
+- materially changes the lawful re-entry / next-design boundary
+
+MUST append or update the applicable `docs/evidence/DESIGN_LEDGER.md` entry in the same logical result commit. A single ledger entry may cover coincident events, such as a failed round that simultaneously closes its candidate and establishes a successor-analysis boundary.
+
+Whenever that event also changes the volatile current boundary, `CURRENT_STATE.md` MUST be updated in the same logical closure operation.
+
+When the available repository write surface supports an atomic multi-file commit, the evaluation/closure evidence, ledger update and required current-state update belong in that same commit. If the connected write surface cannot create an atomic multi-file commit, those writes form one indivisible closure sequence: do not begin or commit the next design-stage artifact until all required continuity writes have landed, been read back, and survived the required recursive/hosted validation.
+
+Preserve ledger history. Prefer append-only entries; correct an earlier ledger entry only when the entry itself contains a factual error, and make the correction explicit rather than rewriting historical sequence to look contemporaneously current.
+
+This section establishes semantic workflow law only. It does not define or implement a mechanical enforcement guard; an independently authored guard may verify the law separately.
 
 ## Structural-reconciliation safeguards
 
