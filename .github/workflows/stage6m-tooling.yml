@@ -74,7 +74,7 @@ jobs:
       - name: Diagnose Candidate 08 deterministic Stage 6M bytes and statics
         run: |
           python3 - <<'PY'
-          import base64, hashlib, json, pathlib, sys
+          import hashlib, json, pathlib, sys
           sys.path.insert(0, 'tools')
           from stage6m_maquette import deterministic_bytes
 
@@ -106,13 +106,18 @@ jobs:
           ) * width
           assert sensitivity_margin_px >= 40.0, sensitivity_margin_px
 
+          pathlib.Path('/tmp/C08-EWTF-01_STAGE6M_SANITIZED.svg').write_text(svg, encoding='utf-8')
+          pathlib.Path('/tmp/C08-EWTF-01_STAGE6M_REPORT.json').write_text(report_text, encoding='utf-8')
           print('C08 SVG SHA256', svg_sha)
           print('C08 report SHA256', report_sha)
           print('C08 2:1 sensitivity margin source px', sensitivity_margin_px)
-          print('C08_REPORT_JSON_BEGIN')
-          print(report_text, end='')
-          print('C08_REPORT_JSON_END')
-          print('C08_SVG_B64_BEGIN')
-          print(base64.b64encode(svg.encode('utf-8')).decode('ascii'))
-          print('C08_SVG_B64_END')
           PY
+      - name: Upload Candidate 08 canonical Stage 6M diagnostic evidence
+        uses: actions/upload-artifact@v4
+        with:
+          name: c08-stage6m-diagnostic
+          path: |
+            /tmp/C08-EWTF-01_STAGE6M_SANITIZED.svg
+            /tmp/C08-EWTF-01_STAGE6M_REPORT.json
+          if-no-files-found: error
+          retention-days: 1
