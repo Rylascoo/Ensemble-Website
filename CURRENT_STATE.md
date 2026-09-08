@@ -10,6 +10,19 @@ Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/
 
 This file alone owns volatile phase/current-boundary state.
 
+## Repository topology
+
+Repository restructuring is now directory-based on authoritative `main`:
+
+- `site/` = only deployable/public website source boundary and future Cloudflare Workers root;
+- `intelligence/` = non-public website/design/repository intelligence front door;
+- `updates/` = non-deployable website change/release records;
+- `docs/`, `tools/`, `assets/`, and `prototypes/` remain in place to preserve the existing evidence/reference graph.
+
+For a future authorized Cloudflare Workers Builds connection, use `main`, root directory `site/`, and `site/**` build watch inclusion when available. No production source or Wrangler configuration exists in `site/` yet, so this topology change does not deploy a website.
+
+A permanent `site` branch is not publication authority; website work branches from current `main` and merges back after validation. Product/backend implementation authority remains `Rylascoo/Ensemble-Project`, not `intelligence/` here.
+
 ## Hero program
 
 Method 02 remains historical/approved construction law; frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected Harness 01.
@@ -44,8 +57,10 @@ Static hero renderer expenditure is stopped. Future hero continuation requires a
 
 The post-R08 translation/carrier investigation remains useful recommendation evidence but is not authority to continue D9.
 
+Repository organization may continue independently within the explicit `site/` / `intelligence/` / `updates/` boundaries; production website implementation and deployment still require their own authorized source package.
+
 ## Hard boundary
 
-No D9 continuation, Round 09, Candidate 09, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero/style/palette selection, production website/Cloudflare change, Lane A implementation or motion is authorized by this hero closure.
+No D9 continuation, Round 09, Candidate 09, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero/style/palette selection, production website implementation/deployment, Lane A implementation or motion is authorized by this hero closure or by repository organization alone.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
