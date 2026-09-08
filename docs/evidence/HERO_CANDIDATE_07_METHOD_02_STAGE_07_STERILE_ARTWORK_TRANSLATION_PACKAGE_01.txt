@@ -1,6 +1,6 @@
 KYMÆAN — HERO CANDIDATE 07 METHOD 02 STAGE 07 STERILE ARTWORK TRANSLATION / PRE-RENDER PACKAGE 01
 
-Status: CONSTRUCTION COMPLETE / RECURSIVE AUDIT REQUIRED / NO REFERENCE TRANSFER OR IMAGE GENERATION AUTHORIZED
+Status: CONSTRUCTION COMPLETE / CORRECTED / RECURSIVE AUDIT REQUIRED / NO REFERENCE TRANSFER OR IMAGE GENERATION AUTHORIZED
 Date: 2026-09-07
 Candidate: C07-CBSR-01 — CROSS-BAND SPLIT-ROOT PASSIVE BRACE
 Proposed execution label: METHOD02-R07-C07
@@ -59,10 +59,10 @@ Repository artifact:
 `docs/evidence/renderer/C07-CBSR-01_STAGE07_STERILE_RENDERER_PACKET.txt`
 
 Git blob:
-`56a274ae22a25325d3a7b7179ff32262077d412c`
+`e7eb8efa625f41a7e04a57f05f96cf98e79e5539`
 
 SHA-256:
-`9b6b97500587f273135e7bea9fc112ec48eb2e3142db26638ff81d36dd87c125`
+`38c5aefd052cb0e9601d36369deb80dfc6769f7eed82079c797e9d3526fb70ce`
 
 If later execution is authorized, renderer text must be byte-for-byte this artifact. No chat-time corrective preamble, project-memory negation sentence, examples, critique history or explanatory follow-up may be appended.
 
@@ -79,6 +79,8 @@ The transfer package preserves only construction facts required for the current 
 - one broad passive upper-torso/shoulder A↔B contact closes the physical relation;
 - A does not lift/catch/grasp/push/pull/hold B or carry B vertically;
 - hands/arms are non-supporting;
+- the different body axes remain visibly different rather than becoming a substantially parallel posed lean;
+- fall/catch, dance, exercise and balance-demonstration shorthand are excluded;
 - the local surface condition remains one modest deformation inside a much larger simpler continuation;
 - baseline/change inference is carried by natural geometric continuation on both sides rather than annotation;
 - both people remain non-interchangeable through three non-color channels;
@@ -165,7 +167,7 @@ The Stage 6M Director-side crop audit confirms the fixed mobile window retains:
 - B's critical support geometry;
 - required changed-state/baseline evidence.
 
-The fixed Harness is unchanged. No crop coordinates or Harness implementation details appear in the renderer packet. No candidate-specific crop rescue is authorized.
+The corrected sterile packet preserves the broad central-right semantic region and leaves the far-left area nonessential without exposing crop coordinates or Harness implementation details. The fixed Harness is unchanged. No candidate-specific crop rescue is authorized.
 
 11. REFERENCE-STRENGTH CONTROL
 
@@ -225,6 +227,6 @@ Method 02 review set resolves as:
 
 15. CURRENT GATE
 
-Recursively audit this exact Stage 7 package, exact deterministic reference bytes and exact sterile packet.
+Recursively audit this corrected Stage 7 package, exact deterministic reference bytes and exact sterile packet.
 
 A clean audit may earn the execution-readiness gate under standing Director delegation. This construction record itself authorizes no reference transfer, renderer request, image generation or Round 07 expenditure.
