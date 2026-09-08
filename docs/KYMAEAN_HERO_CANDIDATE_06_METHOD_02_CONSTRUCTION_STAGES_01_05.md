@@ -54,7 +54,7 @@ No required meaning depends on private state or exact authorship of the field ch
 
 - **Role:** independently stable passive human brace.
 - A uses a stable support region and near-upright or modestly oblique body axis.
-- A's center-of-mass projection remains well inside A's own support polygon.
+- A's center-of-mass projection remains well inside A's own support polygon before contact and remains inside it under the pre-registered brace-reaction stress test in Stage 3.
 - A's arms/hands are non-intervening.
 - A supplies only a lateral/rotational reaction through one broad upper-torso contact.
 - A does not bear B's vertical body weight.
@@ -71,6 +71,18 @@ No required meaning depends on private state or exact authorship of the field ch
 - B does not carry or stabilize A.
 
 **B-removal consequence:** A remains stable and the residual field change may remain visible, but the altered present human possibility and two-person relation disappear.
+
+### Anti-rescue / anti-performance arrangement control
+
+Stage 6 must preserve the already-selected D9/H1 relation rather than allowing pose shorthand to change its meaning:
+
+- A and B are side-by-side or modestly opposed rather than face-to-face;
+- B contacts A through rear/lateral upper-back or shoulder-to-upper-torso geometry, not chest-to-chest contact;
+- neither person's arms encircle, catch, reach for, hold or visibly assist the other;
+- gaze, facial expression and emotional exchange are non-load-bearing;
+- B is not depicted mid-fall, recovering from a fall, being caught, exercising, dancing or demonstrating balance.
+
+These are semantic anti-attractor controls, not final pose/style selection.
 
 ### Person-specificity precommitment
 
@@ -139,27 +151,29 @@ At least three families must survive Stage 6; no one dramatic crease or clue may
 
 ### Baseline recovery test
 
-A neutral geometry reviewer should be able to state:
+At the construction level, a neutral geometry reviewer can state:
 
 - **baseline:** broad finite-thickness field with mutually aligned upper/lower/secondary structure;
 - **departure:** one locally displaced/tilted shear-slip zone inside that larger alignment.
 
+The Stage 2 construction therefore satisfies Method 02's baseline/change proof before Stage 6 begins. Stage 6 must preserve, rather than invent, these correspondences.
+
 ### Pre-existing-form ambiguity boundary
 
-Stages 1–5 do not declare the visual ambiguity solved.
+Stage 2 passes at the semantic/geometry-record level; it does **not** pre-approve the appearance of a later transfer surface.
 
-The actual Stage 6 sanitized transfer representation must answer **NO** to:
+The actual Stage 6 sanitized representation must independently answer **NO** to both transfer-visible ambiguity tests before any renderer work:
 
 1. field-only: does the geometry read primarily as a complete purpose-designed ramp/platform/support architecture rather than local displacement from one simpler field?
 2. B removed: does the local changed zone read as a purpose-built human support whose unusual form needs no changed-state explanation?
 
-Any YES rejects Candidate 06 before renderer work.
+Any YES rejects Candidate 06 before renderer work. This is a later representation preflight, not a condition that leaves Stage 2 itself unpassed.
 
 ### Accident/hazard boundary
 
 Changed-state evidence may not depend on cracks, rubble, broken edges, falling debris, emergency posture or visible damage spectacle. A residual displacement can be legible without converting the scene into accident response.
 
-Stage 2 disposition: **ADVANCE CONDITIONALLY TO STAGE 6 TRANSFER PREFLIGHT**.
+Stage 2 disposition: **PASS / ADVANCE**. Transfer-visible ambiguity remains a mandatory Stage 6 pre-render preflight.
 
 ## 3. Stage 3 — Counterfactual / Stability Ledger
 
@@ -173,9 +187,9 @@ The following are semantic geometry anchors, not Stage 6 artwork.
 
 Frontal-plane conservative projection:
 
-- A support polygon x-range: **900–980**;
+- A support polygon x-range: **890–990**;
 - A center-of-mass projection: **940**;
-- inside-polygon margin: **40 px** to either edge;
+- unloaded inside-polygon margin: **50 px** to either edge;
 - A upper-torso brace locus: approximately **(1015, 400)**.
 
 A remains independently stable if B is removed.
@@ -200,6 +214,25 @@ The Stage 6 body-axis construction must preserve this or a stronger positive mar
 - prohibited: appreciable vertical lifting/support by A;
 - prohibited: hand/arm support, grasp, catch, push or pull;
 - no second contact may independently stabilize B.
+
+### Coupled A↔B equilibrium stress test
+
+A's unloaded stability is insufficient by itself because A must remain stable **while supplying** the lateral brace reaction.
+
+Use a conservative normalized 2D planning model only; this is a pre-render construction stress test, not a viewer-inferred body-mass claim or post-render scoring rule.
+
+Planning geometry:
+
+- support/contact vertical separation: approximately `685 - 400 = 285 px`;
+- B planning center of pressure under brace: x **1100**, five pixels inside B's left support boundary;
+- B COM x **1080**, so the weight-moment arm to that center of pressure is **20 px**;
+- required horizontal brace reaction magnitude is therefore approximately `20 / 285 = 0.070` times B's normalized vertical weight;
+- equal and opposite reaction acts on A at approximately the same brace height;
+- nominal A support-resultant shift is therefore approximately **20 px × (B:A normalized weight ratio)** away from A's unloaded COM.
+
+Stress the construction through a deliberately conservative **2:1 B:A normalized-weight sensitivity case**. The resulting A support-resultant shift is approximately **40 px**. From A COM x 940 inside support x 890–990, this leaves a positive **10 px** support margin.
+
+Stage 6 must preserve or improve this coupled-equilibrium margin. If later structural geometry requires a larger brace reaction, a higher contact, a narrower A support polygon, or body proportions that invalidate the 2:1 sensitivity pass, reject/correct the scaffold before transfer rather than relying on A's unloaded stability.
 
 ### B baseline-restored model
 
@@ -232,14 +265,15 @@ Nominal positive separation surplus: **115 px**.
 `-> B changed support polygon remains 1095–1135`
 `-> B changed COM remains at 1080`
 `-> 15 px unsupported lateral margin remains`
-`-> no alternate torso/hand/floor support exists`
+`-> no alternate torso/hand/arm/knee/hip/seat/field support exists`
 `-> same depicted changed-state posture is not statically stable`
 
 ### Alternate-support ledger
 
 | Alternate | Allowed? | Could preserve B depicted changed posture? | Disposition |
 |---|---|---|---|
-| B hand/arm on field | NO | YES | prohibited; hands/arms non-supporting |
+| B hand/arm/forearm/elbow on field | NO | YES | prohibited; upper limbs non-supporting |
+| B knee/hip/seat/torso on field | NO | YES | prohibited; only feet/lower support are field-bearing contacts |
 | rail/wall/vertical surface | NO | YES | prohibited from core geometry |
 | second human contact | NO | YES | only A brace locus permitted |
 | detached ledge/platform | NO | YES | prohibited; B support is continuous field |
@@ -261,7 +295,7 @@ Stage 3 disposition: **ADVANCE**.
 | remove A | one necessary part collapses | B's changed depicted posture loses its only lateral brace while COM remains 15 px outside support | **PASS** |
 | remove B | different necessary part collapses | altered human consequence + brace relation disappear; A remains stable | **PASS** |
 | restore baseline | altered possibility collapses | B becomes self-supporting and shifts contact locus 235 px from A | **PASS** |
-| genericize/interchange | primary human proposition materially weakens | non-color specificity + non-swappable stability roles are precommitted | **PASS AS TRANSLATION REQUIREMENT** |
+| genericize/interchange | primary human proposition materially weakens | three non-color identity channels are required, while swapping A/B regions also violates their asymmetric support/COM/contact construction | **PASS AS TRANSLATION REQUIREMENT** |
 
 ### Distinct semantic jobs
 
@@ -272,7 +306,7 @@ Stage 3 disposition: **ADVANCE**.
 
 Stage 6 must preserve:
 
-- A support polygon / COM inside stability;
+- A support polygon / COM inside stability, including the coupled brace-reaction stress margin;
 - B support polygon / COM outside changed-state stability;
 - different body-axis orientations;
 - asymmetric torso-contact geometry;
@@ -310,15 +344,17 @@ Commit required evidence to approximately:
 - B leaned body axis;
 - broad passive torso/shoulder contact;
 - local changed-field shear/tilt correspondence;
-- at least one strong baseline witness on each side of the changed zone where practical;
+- **one strong baseline witness on each side of the changed zone**;
 - negative space proving no alternate B support;
 - enough field continuation to distinguish one shared field from a detached platform.
+
+Both left and right baseline witnesses are required because the planned geometry fits both inside the fixed mobile source window; neither is optional at Stage 6.
 
 ### Planned Stage 6 geometry regions
 
 Approximate planning regions:
 
-- A support / lower body: x `875–990`, y `560–790`;
+- A support / lower body: x `875–1000`, y `560–790`;
 - A torso/head: x `885–1025`, y `235–610`;
 - brace locus: x `1000–1030`, y `360–445`;
 - B changed support: x `1080–1150`, y `640–720`;
@@ -328,7 +364,7 @@ Approximate planning regions:
 - right baseline witness: x `1200–1305`, y `610–740`;
 - B alternate-support negative space: x `1035–1210`, y `720–850`.
 
-The brace and both people remain well inside the fixed mobile x-window.
+The brace, both people and both baseline witness regions remain inside the fixed mobile x-window `554–1321`.
 
 ### Desktop identity region
 
@@ -338,10 +374,10 @@ Prospective translation retains the already-learned compatibility condition: thi
 
 ### Responsive checks
 
-- two necessary people survive fixed mobile crop: **PLANNED YES**;
+- two necessary people survive fixed mobile crop: **YES BY PRE-REGISTERED REGIONS**;
 - brace locus survives: **YES**;
 - B support / changed geometry survives: **YES**;
-- baseline witness survives: **YES**;
+- left + right baseline witnesses survive: **YES**;
 - no essential evidence only in far-left copy region: **YES**.
 
 Stage 5 disposition: **ADVANCE TO RECURSIVE AUDIT**.
