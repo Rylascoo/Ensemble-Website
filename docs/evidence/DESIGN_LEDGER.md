@@ -274,10 +274,10 @@ Machine-checked C08 quantities:
 - A margin under B reaction: **93.09357443 px stable**;
 - preregistered conservative 2:1 A sensitivity margin: **44.009678473114956 px**, above the 40 px floor;
 - projected visible-solid head gap: **51.91680000000012 px**, above the 50 px floor;
-- exact corrected Stage 6 changed support-root/free-edge clearance: **102.8395582822086 px**, above the 100 px floor;
-- exact normalized Stage 6M physical support-root/free-edge clearance: **102.85483969465605 px**, above the 100 px floor.
+- exact corrected Stage 6 changed support-root/free-edge clearance: **102.8 px**, above the 100 px floor;
+- normalized Stage 6M physical support-root/free-edge clearance: **approximately 102.85483969465605 px**, above the 100 px floor.
 
-The earlier Stage 6 `120 px` support-to-edge figure is preserved only as undeformed-baseline planning provenance. It is not the controlling changed-state clearance. The reconciliation changed no approved Stage 6 visible x/y geometry.
+**Correction 2026-09-08:** the earlier L-020 value `102.8395582822086 px` was an arithmetic/transcription error and is superseded. Exact integer Stage 6 source geometry controls: root `(1105,704)`, upper-edge segment `(1085,802) -> (1110,808)`, t=0.8, edge y=806.8, clearance=102.8 px. The older `120 px` figure is only undeformed-baseline planning provenance. Active machine-readable Stage 6 metadata no longer asserts 120.
 
 Human preflight of the exact canonical hosted Stage 6M view passed both registered review fields: `maquette_leakage=PASS` and `surface_read=PASS`. The broad shared field remains continuous; the local changed condition does not become a platform/bridge/chair/installation; the separated-head passive brace survives; fixed-mobile semantic containment survives; and no CAD bookkeeping, guides, labels, metadata or aesthetic authority transfers.
 
@@ -288,19 +288,19 @@ Primary closure evidence:
 - `docs/evidence/stage6m/C08-EWTF-01_STAGE6M_REPORT.json`;
 - `tools/verify_c08_stage6m.py`.
 
-**Re-derive:** regenerate the deterministic Stage 6M bytes from the promoted manifest, verify the exact SVG/report hashes and report-byte equality, rerun `tools/verify_c08_stage6m.py`, and inspect exact-main workflow run `34255553033` plus the Stage 6M audit. The distinction between `102.839558...` Stage 6 source geometry and `102.854839...` normalized Stage 6M physical geometry is intentional and documented.
+**Re-derive:** read the controlling root and bracketing upper-edge vertices directly from the integer Stage 6 SVG and calculate 102.8 px exactly; then regenerate deterministic Stage 6M bytes, verify the unchanged SVG/report hashes and report-byte equality, and rerun `tools/verify_c08_stage6m.py`. Do not promote four-decimal normalized scaffold coordinates into exact source precision.
 
-**Survives now:** YES. This Stage 6M reference is the active structural transfer input until superseded by a later approved artifact.
+**Survives now:** YES. This Stage 6M reference remains historical structural transfer evidence; Round 08 has since consumed it.
 
-**Guardrail:** Stage 6M closure authorizes only Candidate 08 Stage 7 sterile artwork translation-package construction and recursive pre-render audit. It does not authorize renderer execution, image generation, reference mutation, Round 08 spend, final hero/style/palette selection, website implementation, Cloudflare change, Harness mutation, Lane A/app UI implementation or motion.
+**Guardrail:** Stage 6M closure did not itself authorize renderer execution, image generation, final hero/style/palette selection, website implementation, Cloudflare change, Harness mutation, Lane A/app UI implementation or motion.
 
 ## L-021 — Candidate 08 Stage 7 is clean and execution-ready under renderer isolation
 
 **State:** C08 STAGE 7 COMPLETE / CORRECTED / CLEAN / ISOLATED ROUND 08 EXECUTION DESIGN-READY / ROUND 08 UNSPENT
 
-Candidate `C08-EWTF-01` now has the complete pre-render Method 02 review set through Stage 7. The exact sanitized Stage 6M reference is unchanged and byte-pinned at SHA-256 `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`.
+Candidate `C08-EWTF-01` reached the complete pre-render Method 02 review set through Stage 7. The exact sanitized Stage 6M reference was byte-pinned at SHA-256 `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`.
 
-The corrected sterile renderer packet is:
+The corrected sterile renderer packet was:
 `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`.
 
 Exact packet Git blob:
@@ -311,7 +311,7 @@ Exact packet SHA-256:
 
 The first recursive pass removed unnecessary Director-style technical terms (`free-edge/thickness-return witness`, `finite-thickness field`) from renderer-facing prose and replaced them with ordinary visual language while retaining the required observable relation: one broad continuous surface, a local departure propagated through it, and a place where its free edge and physical thickness are naturally visible. No geometry or frozen criterion changed.
 
-The clean final audit confirms reference identity/sanitization, physical fidelity, C08 surface-change dependency, passive-brace/head-separation control, semantic dependency, epistemic restraint, responsive containment, anti-pre-existing-form discipline, aesthetic isolation, material difference from C07, one-shot accounting and stop consequence.
+The clean final audit confirmed reference identity/sanitization, physical fidelity, C08 surface-change dependency, passive-brace/head-separation control, semantic dependency, epistemic restraint, responsive containment, anti-pre-existing-form discipline, aesthetic isolation, material difference from C07, one-shot accounting and stop consequence.
 
 Primary evidence:
 - `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt`;
@@ -319,13 +319,7 @@ Primary evidence:
 - `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`;
 - `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`.
 
-**Re-derive:** verify the Stage 6M reference hash against the deterministic promoted manifest/tooling, verify the renderer packet's exact Git blob/SHA-256, inspect the Stage 7 package and final audit, and confirm no renderer-visible input contains project history, criteria, scores, coordinates, Director-side statics or previous artwork.
-
-**Survives now:** YES. These exact reference and packet bytes are the only authorized renderer-visible C08 transfer inputs until Round 08 executes or an explicit audited amendment supersedes them.
-
-**Execution boundary:** one fresh regular chat outside the Ensemble project; one request; one image; reference supplied only as neutral `reference.svg`; packet supplied byte-for-byte; no extra preamble/project material; no free reroll. If the fresh UI exposes a user-set reference/image/structure-strength control, stop before generation for one exact fixed-value amendment + recursive audit. A judgeable returned image consumes Round 08 regardless of pass/fail.
-
-**Guardrail:** Stage 7 approval authorizes no renderer execution inside the Ensemble project and no execution-time packet/reference mutation. Final hero selection, website implementation, Cloudflare change, Harness change, Lane A/app UI work and motion remain unauthorized.
+**Historical execution boundary:** one fresh regular chat outside the Ensemble project; one request; one image; reference supplied only as neutral `reference.svg`; packet supplied byte-for-byte; no extra preamble/project material; no free reroll. Round 08 later executed and is closed under L-022.
 
 ## L-022 — Round 08 failed and closes C08; frozen suspected-unsatisfiable stop is active
 
@@ -360,6 +354,26 @@ Primary closure evidence:
 - `docs/evidence/HERO_METHOD_02_POST_ROUND_08_CONSTRAINT_RECONCILIATION_RECOMMENDATION_01.txt`;
 - `docs/evidence/HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt`.
 
-**Recommendation:** preserve the frozen contract; pause D9/Method 02 rendering; if the Director wishes to continue hero research, authorize non-render method-level final-translation/carrier reconciliation before any successor candidate or renderer spend. The recommendation is not adopted authority until the Director acts.
+**Recommendation at immediate closure:** preserve the frozen contract; pause D9/Method 02 rendering; if the Director wishes to continue hero research, authorize non-render method-level final-translation/carrier reconciliation before any successor candidate or renderer spend. This was recommendation only pending Director action.
 
 **Guardrail:** Round 09, Candidate 09, C08 reroll/replacement, same-family automatic successor construction, renderer transfer, frozen-criterion/Harness changes, final hero/style/palette selection, website implementation, Cloudflare change, Lane A/app UI implementation and motion are not authorized.
+
+## L-023 — Director reconciliation closes D9 after 3 of 3 judgeable renders
+
+**State:** D9 CLOSED / 3 OF 3 JUDGEABLE RENDERS CONSUMED / NO ROUND 09 UNDER D9
+
+The Director selected D9's three-render termination rule before the Round 08 result became repository-visible: Rounds 06, 07 and 08 are the complete judgeable budget, and a judgeable Round 08 failure terminates D9. A concurrent project flow then closed Round 08 before this continuity write landed. L-022 preserves that immediate historical stop state.
+
+Round accounting is now complete:
+- R06 / C06: FAIL / consumed / closed;
+- R07 / C07: FAIL / consumed / closed;
+- R08 / C08: FAIL / consumed / closed.
+
+The pre-result budget consequence therefore applies: **D9 is terminated as an active hero-direction program. No Round 09 or Candidate 09 may be constructed under D9.**
+
+This is a program/direction closure, not a claim that passive human brace geometry is impossible. Preserve C07/C08 positive evidence for any genuinely new direction or explicitly new bounded program. Round 08 scoring and the frozen suspected-unsatisfiable finding remain unchanged.
+
+Primary reconciliation evidence:
+`docs/evidence/HERO_METHOD_02_D9_THREE_RENDER_BUDGET_DIRECTOR_RECONCILIATION_01.txt`.
+
+**Guardrail:** future hero work requires a newly authorized direction or explicitly new bounded program with its own predeclared round budget. No D9 renderer succession, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero selection, website implementation, Cloudflare change, Lane A/app UI implementation or motion is authorized by this closure.
