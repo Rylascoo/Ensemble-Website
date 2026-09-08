@@ -26,7 +26,7 @@
     {
       "id": "B",
       "type": "figure_region",
-      "bbox": [0.6478, 0.2292, 0.7487, 0.7135],
+      "bbox": [0.6478, 0.2292, 0.7487, 0.7167],
       "body_axis": [[0.6888, 0.3594], [0.7259, 0.7135]],
       "structural_role": "changed_support occupant requiring passive lateral_rotational brace"
     }
