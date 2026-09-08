@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="960" viewBox="0 0 1536 960">
+  <title>Candidate 08 Method 02 Stage 06 Neutral Geometry Scaffold</title>
+  <desc>Deterministic relational geometry only. Monochrome technical encoding carries no aesthetic, brand, renderer or narrative authority.</desc>
+  <rect id="artboard" x="0" y="0" width="1536" height="960" fill="white"/>
+
+  <g id="scaffold" fill="none" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- One broad finite-thickness field is witnessed only at its foreground free edge and lower through-thickness return. The internal flexure axis remains audit-only. -->
+    <polyline id="field-free-edge-upper" points="650,824 800,824 950,824 980,824 1000,822 1020,816 1045,806 1065,800 1085,802 1110,808 1140,817 1160,823 1180,824 1250,824 1300,824"/>
+    <polyline id="field-thickness-return-lower" points="650,850 800,850 950,850 980,850 1000,849 1020,844 1045,836 1065,834 1085,837 1110,842 1140,847 1160,850 1180,850 1250,850 1300,850"/>
+
+    <!-- Person A: anonymous independently stable passive brace body. -->
+    <g id="figure-A">
+      <ellipse id="A-head-region" cx="925" cy="245" rx="42" ry="52"/>
+      <path id="A-body-region" d="M870 340 C895 320 955 320 980 345 L1004 420 C995 460 980 510 965 555 L970 620 L1000 700 L950 700 L920 565 L850 700 L800 700 L840 565 L845 485 L850 405 Z"/>
+      <line id="A-body-axis" x1="925" y1="330" x2="900" y2="700" stroke-width="3"/>
+    </g>
+
+    <!-- Person B: anonymous changed-support occupant. Both feet remain field-borne; head stays clear of A. -->
+    <g id="figure-B">
+      <ellipse id="B-head-region" cx="1055" cy="250" rx="36" ry="48"/>
+      <path id="B-body-region" d="M1008 420 C1018 385 1030 350 1055 335 C1085 335 1100 360 1108 400 L1120 500 L1145 565 L1190 680 L1160 680 L1125 570 L1120 704 L1090 704 L1100 560 L1075 500 L1045 445 Z"/>
+      <line id="B-body-axis" x1="1055" y1="330" x2="1145" y2="690" stroke-width="3"/>
+    </g>
+
+    <!-- The only A↔B stabilizing contact: scapular/upper-back to lateral ribcage/upper torso; no head or hand contact. -->
+    <line id="contact-1" x1="1004" y1="420" x2="1008" y2="420" stroke-width="10"/>
+  </g>
+
+  <!-- Audit-only geometry. Hidden by default and never transferable. -->
+  <g id="audit-guides" visibility="hidden" fill="none" stroke="black" stroke-width="2" stroke-dasharray="12 10">
+    <rect id="desktop-source-window" x="0" y="48" width="1536" height="864"/>
+    <rect id="mobile-source-window" x="554" y="0" width="767" height="960"/>
+    <rect id="semantic-core" x="700" y="170" width="600" height="705"/>
+    <rect id="desktop-calm-region" x="0" y="48" width="600" height="864"/>
+    <rect id="baseline-witness-left" x="650" y="760" width="330" height="115"/>
+    <rect id="baseline-witness-right" x="1180" y="760" width="120" height="115"/>
+    <rect id="head-separation-negative-space" x="967" y="195" width="52" height="110"/>
+    <rect id="B-alternate-support-negative-space" x="990" y="716" width="230" height="74"/>
+    <rect id="B-free-edge-clearance" x="1050" y="716" width="160" height="84"/>
+
+    <rect id="A-support-polygon" x="800" y="694" width="200" height="12"/>
+    <line id="A-com-projection" x1="900" y1="330" x2="900" y2="706"/>
+    <line id="A-loaded-resultant-2to1" x1="840" y1="665" x2="840" y2="710"/>
+
+    <rect id="B-changed-support-polygon" x="1090" y="694" width="100" height="12"/>
+    <line id="B-com-projection" x1="1065" y1="335" x2="1065" y2="706"/>
+    <line id="B-planning-cop" x1="1095" y1="665" x2="1095" y2="710"/>
+    <rect id="B-left-foot-support" x="1090" y="698" width="30" height="12"/>
+    <rect id="B-right-foot-support" x="1160" y="674" width="30" height="12"/>
+
+    <!-- Director-side flexure axis and changed->baseline support-root mapping. No part of this group may transfer. -->
+    <polyline id="changed-flexure-centerline" points="1190,620 1160,690 1045,824"/>
+    <circle id="B-left-root-changed" cx="1105" cy="704" r="7"/>
+    <circle id="B-right-root-changed" cx="1175" cy="680" r="7"/>
+    <circle id="B-left-root-restored" cx="1150" cy="704" r="7"/>
+    <circle id="B-right-root-restored" cx="1260" cy="682" r="7"/>
+    <line id="B-left-root-restoration-map" x1="1105" y1="704" x2="1150" y2="704"/>
+    <line id="B-right-root-restoration-map" x1="1175" y1="680" x2="1260" y2="682"/>
+
+    <rect id="B-restored-support-polygon" x="1135" y="694" width="140" height="12"/>
+    <line id="B-restored-com-projection" x1="1205" y1="335" x2="1205" y2="706"/>
+    <circle id="B-restored-contact-side-locus" cx="1180" cy="420" r="8"/>
+    <line id="baseline-contact-separation" x1="1004" y1="420" x2="1180" y2="420"/>
+  </g>
+
+  <metadata id="geometry-metadata">
+    format=kymaean.hero.method02.neutral-scaffold/1;
+    candidate=C08-EWTF-01;
+    artboard=1536x960;
+    mobile_window=x554..1321,y0..960;
+    semantic_core=x700..1300,y170..875;
+    desktop_calm_region=x0..600,y48..912;
+    A_support=x800..1000;A_COM_x=900;A_unloaded_margin=100;A_loaded_resultant_x_at_2to1=840;A_loaded_margin=40;
+    B_left_support=x1090..1120;B_right_support=x1160..1190;B_changed_support=x1090..1190;B_COM_x=1065;B_COP_x=1095;B_unsupported_margin=25;
+    brace_reaction_fraction_B_weight=0.09375;B_to_A_weight_sensitivity=2.0;
+    A_contact=(1004,420);B_changed_contact=(1008,420);
+    A_head=(925,245);B_head=(1055,250);minimum_visible_head_silhouette_gap=50;exact_stage6_gap=52;
+    B_left_root_changed=(1105,704);B_left_root_restored=(1150,704);
+    B_right_root_changed=(1175,680);B_right_root_restored=(1260,682);
+    B_restored_support=x1135..1275;B_restored_COM_x=1205;B_restored_margin=70;
+    B_restored_contact=(1180,420);baseline_contact_separation=176;minimum=130;surplus=46;
+    B_support_to_free_edge_planning_clearance=120;minimum_projected_clearance=100;
+    field_material_x_map_baseline_to_changed=(650->650),(950->950),(1000->1000),(1150->1105),(1260->1175),(1320->1320);
+    changed_flexure_axis_audit_only=(1190,620)..(1160,690)..(1045,824);transition_width_planning=170..210;
+    field_projected_thickness=26_baseline;local_flexure=27..35;returns_to_26;
+    audit_guides_transfer_authorized=false.
+  </metadata>
+</svg>
