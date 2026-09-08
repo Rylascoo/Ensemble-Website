@@ -1,0 +1,183 @@
+KYMÆAN — HERO CANDIDATE 06 METHOD 02 STAGE 07 STERILE ARTWORK TRANSLATION / PRE-RENDER PACKAGE 01
+
+Status: CONSTRUCTION COMPLETE / RECURSIVE AUDIT REQUIRED / NO REFERENCE TRANSFER OR IMAGE GENERATION AUTHORIZED
+Date: 2026-09-07
+Candidate: C06-ASPB-01
+
+1. PURPOSE
+Translate the approved Candidate 06 Stage 6 relational scaffold into the shortest sufficient renderer-facing instruction set and exact sanitized structural-reference bytes for one later isolated artwork attempt, without leaking project memory, audit geometry, scoring law, historical artwork or brand assets.
+
+This package does not execute a renderer.
+
+2. APPROVED CONSTRUCTION INPUTS
+- corrected/approved Candidate 06 Stages 1–5;
+- approved Stage 6 Neutral Geometry Scaffold;
+- Stage 6 clean recursive audit;
+- Method 02 Sections 10–14;
+- Renderer Isolation Protocol.
+
+Canonical Stage 6 source artifacts remain Director-context evidence only:
+- docs/evidence/scaffolds/C06-ASPB-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg
+- docs/evidence/scaffolds/C06-ASPB-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json
+
+They are NOT renderer-transfer artifacts.
+
+3. EXACT SANITIZED STRUCTURAL REFERENCE
+Repository artifact:
+docs/evidence/renderer/C06-ASPB-01_STAGE07_SANITIZED_STRUCTURAL_REFERENCE.svg
+
+Blob SHA:
+c30751e7f04daf7d5b3bcd1d698c2d75aa9b8153
+
+The sanitized reference contains only:
+- white artboard;
+- three visible continuous field-registration paths;
+- anonymous A figure geometry/body axis;
+- anonymous B figure geometry/body axis;
+- one compact passive contact segment.
+
+It contains no:
+- project/candidate title or description;
+- element IDs or semantic labels;
+- metadata;
+- audit guides;
+- support/COM coordinates or counterfactual annotations;
+- responsive boxes;
+- scoring/evaluation data;
+- brand assets;
+- historical artwork;
+- aesthetic variables.
+
+If later transfer is authorized, these exact bytes must be supplied under a neutral renderer-facing filename such as `reference.svg`. The repository path/name must not be shown to the renderer.
+
+Transferred variable: RELATIONAL GEOMETRY ONLY.
+No aesthetic attribute is intended to transfer.
+
+4. EXACT STERILE RENDERER PACKET
+Repository artifact:
+docs/evidence/renderer/C06-ASPB-01_STAGE07_STERILE_RENDERER_PACKET.txt
+
+Blob SHA:
+1cf4594e8bcebc2ea65669c8e6ed8a832f31a123
+
+The packet contains no Kymaean/Ensemble/project/candidate name, repository/Drive history, prior artwork description, score threshold, critique history, brand asset or engineering implementation detail.
+
+If later execution is authorized, renderer text must be byte-for-byte the packet above. No chat-time corrective preamble, memory-negation sentence, extra examples or explanatory history may be appended.
+
+5. SEMANTIC TRANSLATION PRESERVED
+The packet preserves only the construction facts needed beyond the geometry reference:
+- two visibly specific adults remain the primary event;
+- B remains vertically field-supported;
+- B requires lateral/rotational passive contact with independently stable A;
+- A does not lift/catch/grasp/push/pull/actively help;
+- no hand/arm support is allowed;
+- baseline restoration moves B outward to independent balance and removes contact;
+- changed-state evidence is a modest local displacement inside one larger continuous organization;
+- people are differentiated through non-color channels;
+- no private-state interpretation is required;
+- relation/change evidence remains central-right and far-left remains nonessential.
+
+6. TRANSFER-VISIBLE PRE-EXISTING-FORM STATUS
+The exact Stage 7 sanitized reference uses the same visible geometry that passed the Stage 6 field-only and B-removed preflight:
+- field-only: PASS — no dominant purpose-built ramp/platform/support-object reading;
+- B removed, A + field: PASS — no dominant purpose-built human-support reading.
+
+No later renderer execution may substitute a different structural reference without reopening this package.
+
+7. REFERENCE-STRENGTH CONTROL
+No user-set reference-strength control is assumed.
+
+Execution-readiness rule:
+- if the actual fresh renderer interface exposes no user-set reference-strength control, record `REFERENCE_STRENGTH_CONTROL: NOT EXPOSED / N/A` and proceed only if all other execution gates are clean;
+- if such a control is exposed, STOP before generation and amend/audit this package with one exact fixed value. Do not choose a value opportunistically during execution.
+
+8. LEAKAGE DETECTION
+The structural reference is successful only if its geometry informs composition without surviving as diagram language.
+
+Returned artwork fails the candidate if visible structural-reference leakage survives as a primary or material feature, including:
+- scaffold-like black linework;
+- diagram/technical-outline treatment;
+- white-board/reference-sheet presentation;
+- literal three-line schematic band rendered as unexplained annotation rather than physical structure;
+- visible reference marks or geometry-guide artifacts.
+
+Leakage failure consumes the attempt. It is not a free reroll.
+
+9. RESPONSIVE / HARNESS CONTROL
+The Stage 7 packet preserves the Stage 6 central-right semantic cluster and nonessential far-left region without giving the renderer project crop coordinates.
+
+Director-context fixed evidence remains:
+- source artboard 1536 × 960;
+- mobile source x 554–1321;
+- both figures/contact/change survive;
+- left baseline witness x 650–760 survives;
+- right baseline witness x 1200–1305 survives;
+- far-left x 0–600 remains nonessential.
+
+No crop, Harness, identity position or candidate-specific rescue is authorized.
+
+10. MATERIAL-DIFFERENCE DECLARATION
+This is not a retry or correction variant of Candidate 04/05.
+
+Materially different construction variables include:
+- exact authored-field burden removed under resolved ODR-33 authority;
+- A no longer causes the field change;
+- B's vertical weight remains field-borne;
+- physical necessity is B changed support/posture -> passive A lateral/rotational brace;
+- baseline restoration physically separates the human contact by 235 px in the precommitted model;
+- Stage 6 transfer surface is a modest local residual displacement rather than Candidate 04 smooth distributed flexure or Candidate 05 stronger fold/device geometry;
+- coupled A loaded-stability and B unsupported-stability are pre-registered before rendering;
+- actual sanitized transfer geometry has passed the prospective field-only/B-removed pre-existing-form tests.
+
+Unchanged controls:
+- renderer isolation;
+- no prior artwork/reference inheritance;
+- fixed post-render Hero Brief/Falsification/Surface Escape/Harness law;
+- pixels remain binding;
+- no post-hoc rescue;
+- no free reroll.
+
+11. PROPOSED EXECUTION ACCOUNTING
+If a later execution-readiness audit earns the gate:
+- experiment label: METHOD02-R06-C06;
+- Renderer Context: one fresh regular chat outside the Ensemble project;
+- renderer requests: exactly 1;
+- images requested: exactly 1;
+- transferred visual reference: exactly one byte-pinned sanitized structural reference from Section 3;
+- renderer text: exactly one byte-pinned sterile packet from Section 4;
+- historical artwork transferred: 0;
+- brand assets transferred: 0;
+- project documents transferred: 0;
+- free rerolls: 0.
+
+Any returned judgeable artwork consumes the attempt regardless of pass/fail.
+
+If the renderer/tool fails and returns no artwork, STOP and report the technical failure. No second request is silently authorized.
+
+12. STOP CONSEQUENCE
+After one later authorized returned image:
+1. stop renderer execution;
+2. return the image to Director Context;
+3. archive raw provenance/evidence before interpretation when practical;
+4. evaluate pixels under unchanged Hero Brief 02 / Falsification Criteria 01 / Surface Escape / fixed Harness 01;
+5. do not modify the packet/reference/criteria before that evaluation closes;
+6. no automatic retry follows a failure.
+
+13. COMPLETE PRE-RENDER REVIEW ARTIFACT SET
+Method 02 Section 14 requirements resolve as:
+1. Semantic Dependency Record — Candidate 06 Stages 1–5;
+2. Baseline / Change Evidence Record — Candidate 06 Stages 1–5;
+3. Counterfactual Ledger — Candidate 06 Stages 1–5;
+4. Two-Person Necessity Matrix — Candidate 06 Stages 1–5;
+5. Responsive Semantic Envelope — Candidate 06 Stages 1–5;
+6. Neutral Geometry Scaffold — approved Stage 6 SVG + manifest;
+7. scaffold audit — HERO_CANDIDATE_06_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt;
+8. sterile renderer-facing packet — exact Section 4 artifact;
+9. material-difference declaration — Section 10 above;
+10. recursive pre-render audit — required next;
+11. exact accounting/stop consequence — Sections 11–12 above.
+
+14. CURRENT GATE
+Recursively audit this exact Stage 7 package, sanitized reference and sterile packet.
+
+A clean audit may earn the execution-readiness gate under standing Director delegation, but this construction record itself authorizes no reference transfer, renderer request or image generation.
