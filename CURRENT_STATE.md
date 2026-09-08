@@ -2,7 +2,7 @@
 
 # Ensemble Website — Current State
 
-Updated: 2026-09-07
+Updated: 2026-09-08
 
 ## Authority
 
@@ -21,30 +21,54 @@ Evidence: `docs/evidence/D_R1_PHASE_5_CLOSURE_01.txt`.
 
 ## Hero program
 
-Method 02: **APPROVED** — `docs/evidence/HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02_DIRECTOR_APPROVAL.md`. Frozen law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + Harness 01.
+Method 02: **APPROVED**. Frozen law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01.
 
-D9: **APPROVED / TESTABLE IN PRINCIPLE**.
+D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**: **APPROVED / REMAINS TESTABLE IN PRINCIPLE**.
+
 Candidate `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
+Candidate `C07-CBSR-01`: **CLOSED / ROUND 07 FAIL / NO RETRY**.
 
-Candidate `C07-CBSR-01`: **ACTIVE / PRE-RENDER DESIGN COMPLETE**. Stages 1–5, Stage 6, Stage 6M and Stage 7 are **COMPLETE / CLEAN / APPROVED**.
-Stage 6M exact-main validation: `b39071f77ed263adc9e3a6b194f53282bb3d9521`, run `34188358819` SUCCESS.
-Stage 7 evidence: `docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
+Round 07 canonical evaluation:
+`docs/evidence/HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt`.
+
+Raw Round 07 evidence:
+- 1586 × 992 PNG;
+- SHA-256 `b9d0923b4524fa1d1ac159b392c62a1bfdfea6b8317ba874cd18a46f83f89a66`;
+- Drive folder `1udbEjBhmto4HS5DmOnorFmF1nSXzOf9K`.
+
+Frozen-set result:
+- Human Necessity 4 PASS;
+- Changed-condition legibility 3 FAIL;
+- Altered Possibility 3 FAIL;
+- Epistemic Restraint 5 PASS;
+- Brand Integration 1 FAIL;
+- Mobile Survival 3 PASS;
+- Removal Test 2 FAIL;
+- Surface Escape PASS;
+- S1–S5 PASS; S6 FAIL.
+
+Round 07 materially improved transfer: B's frozen depicted lean is visibly dependent on independently stable A, with no active hand/arm support, and Stage 6M/CAD appearance does not leak. The remaining smallest causal break is upstream:
+
+`recoverable changed surface -> B dependent support/posture`.
+
+The surface naturalizes into pre-existing carved/sculpted ground; baseline restoration does not visibly remove the human relation; head-on-shoulder contact also admits a strong interpersonal explanation. Stage 6M is therefore **PARTIALLY VALIDATED / RETAIN**, not retired.
+
+Post-Round-07 review:
+`docs/evidence/HERO_METHOD_02_POST_ROUND_07_TRANSFER_FIDELITY_CAUSAL_TOPOLOGY_REVIEW_01.txt`.
 
 ## Exact next action
 
-Execute **METHOD02-R07-C07** only in one fresh regular chat outside the Ensemble project:
-- upload exact `reference.svg` bytes, SHA-256 `1a3cf18f5270cbf25209a76f2fb00e3de0e57aa9c7c565ec769a505b2580e89d`;
-- paste exact sterile packet `docs/evidence/renderer/C07-CBSR-01_STAGE07_STERILE_RENDERER_PACKET.txt`, blob `e7eb8efa625f41a7e04a57f05f96cf98e79e5539`;
-- no additional preamble/project material;
-- exactly one request / one image / zero retries.
+Perform **non-render D9 successor change-to-posture mechanism-geometry investigation only**.
 
-If the fresh renderer UI exposes any user-set reference/image/structure-strength control, **STOP BEFORE GENERATION** and return for one exact fixed-value amendment + recursive audit. If none is exposed, record N/A and proceed.
+The investigation must test whether a materially different construction can make changed-surface -> dependent-posture coupling visible through intrinsic physical correspondence while preserving passive brace mechanics, heads-separated anti-social-shortcut geometry, one continuous non-device surface, mobile containment and calm left identity coexistence.
+
+It may select at most one successor hypothesis for later Stages 1–5 if one survives recursive falsification.
 
 ## Hard boundary
 
-No renderer execution inside this project context. After one judgeable returned image, stop generation and return raw pixels here for provenance archive + unchanged Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01 evaluation. A judgeable result consumes Round 07; no free reroll.
+Round 07 is consumed. No C07 retry, prompt patch, reference mutation, alternate image, candidate-specific Harness rescue, automatic C08/Round08, Stage 6/6M artifact, Stage 7 packet or image generation is authorized by the evaluation/review.
 
-No final hero/style/palette, website implementation, Harness change, Lane A/app UI or motion is authorized by pre-render approval.
+No final hero/style/palette, website implementation, Harness change, Lane A/app UI or motion is authorized.
 
 ## E0-E watch
 
