@@ -1,0 +1,104 @@
+KYMÆAN — HERO METHOD 02 STAGE 6M PHYSICAL-UNION RENDERER CORRECTION 01
+
+Status: COMPLETE / RECURSIVELY AUDITED / CLEAN / MECHANISM-NEUTRAL CORRECTION APPROVED / C07 STAGE 6M REGENERATION AUTHORIZED
+Date: 2026-09-07
+
+TRIGGER
+
+docs/evidence/HERO_CANDIDATE_07_STAGE_6M_PREFLIGHT_TOOLING_DEFECT_01.txt
+
+The first Candidate 07 Stage 6M preflight exposed a method-level representation defect: convex decomposition boundaries inside one declared physical volume were being rendered as transferable physical seams.
+
+CORRECTION SCOPE
+
+Only the Stage 6M sanitized-volume rendering boundary was reopened.
+
+The correction:
+- preserves the exact existing convex solids for validation, volume, COM, support and static-equilibrium calculations;
+- preserves frozen projection, grayscale instrumentation and sanitization constants;
+- adds `tools/stage6m_maquette_union_renderer.py`;
+- removes stroke from same-volume front/back bookkeeping faces;
+- emits side-wall pixels only for z-area genuinely exposed after subtracting collinear same-volume neighbor occupancy;
+- preserves true exposed depth faces and outlines;
+- applies generically to every declared surface/proxy physical volume, with no candidate identifier or C07-specific branch;
+- makes the physical-union renderer mandatory in the canonical Stage 6M pipeline;
+- makes direct hardening execution fail closed when the union renderer is absent;
+- adds a mechanism-neutral regression proving the two internal shared-surface joins in the non-candidate fixture do not transfer as side walls while a true exposed depth face remains;
+- regenerates the deterministic non-candidate sanitized fixture bytes.
+
+FINAL CHECKPOINT
+
+Repository: Rylascoo/Ensemble-Website
+Correction head: f9af22bc4f6ba8ca7def65ac70b640587152bfc1
+
+Hosted validation:
+- workflow: Stage 6M tooling
+- run: 34186891931
+- head SHA: f9af22bc4f6ba8ca7def65ac70b640587152bfc1
+- status: completed
+- conclusion: success
+
+Exact-head job passed:
+1. Stage 6M unit tests, including the new internal-boundary regression;
+2. internal-core / hardening / physical-union-renderer bypass protection;
+3. deterministic non-candidate fixture-byte verification.
+
+SCOPE AUDIT
+
+Compare from defect-record head `72dfb04acb546369aeb5a7e4f75592d089e87c52` to correction head changes only:
+- `.github/workflows/stage6m-tooling.yml`;
+- `docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_SANITIZED.svg`;
+- `tools/stage6m_maquette.py`;
+- `tools/stage6m_maquette_core.py`;
+- `tools/stage6m_maquette_union_renderer.py`;
+- `tools/test_stage6m_core_bypass.py`;
+- `tools/test_stage6m_maquette.py`.
+
+No candidate manifest, candidate scaffold, prototype, asset, site, Harness, palette, renderer packet or artwork path changed.
+
+RECURSIVE AUDIT
+
+Physical-union semantics — PASS.
+Same-volume interior side area is removed only where another same-volume solid occupies the same collinear boundary interval and overlapping z interval. Exposed z intervals remain renderable physical depth faces.
+
+Front/back seam suppression — PASS.
+Front/back convex bookkeeping faces retain identical frozen instrumentation fill but no individual stroke; therefore coplanar same-volume decomposition boundaries do not become visible registration lines.
+
+Physical edge preservation — PASS.
+Exposed side faces retain the frozen side value, outline value and outline width. The correction does not erase actual exterior depth geometry.
+
+Validation/statics preservation — PASS.
+The hardened manifest validator, uniform-density COM model, physical support/contact validation and aspect-correct static solver are unchanged.
+
+Fail-closed pipeline — PASS.
+The internal core now requires both hardened validation/report functions and a renderer different from the preserved pre-correction renderer. The hardening module cannot be executed directly to bypass union rendering.
+
+Instrumentation authority — PASS.
+No camera, projection, material, palette, light, texture or candidate-specific visual tuning was added. Existing frozen constants remain the only renderer inputs.
+
+Sanitization — PASS.
+The deterministic fixture remains no-text / no-metadata / no-ID / no-guide and passes the existing sanitizer in hosted CI.
+
+Candidate neutrality — PASS.
+The renderer contains no C06/C07/D9/candidate-specific identifier or branch. The regression uses the already-existing non-candidate fixture.
+
+Frozen-law integrity — PASS.
+No Hero Brief, Falsification Criteria, Surface Escape, Harness, D9, Candidate 07 Stages 1–6, renderer-isolation or attempt law changed.
+
+FINAL PASS
+
+CLEAN.
+
+No material fail-open path, hidden seam reintroduction, suppression of required exposed depth faces, aesthetic-authority expansion, candidate-specific workaround or worthwhile simpler correction remains.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+AUTHORIZED NEXT ACTION
+
+Regenerate and recursively audit Candidate `C07-CBSR-01` Stage 6M Neutral Physical Maquette from its already-approved Stage 6 geometry using this corrected canonical pipeline.
+
+NOT AUTHORIZED
+
+This correction does not approve C07 Stage 6M by itself, Stage 7, renderer/reference transfer, image generation/Round 07, final hero/style/palette, production website implementation, Harness change, Lane A/app UI implementation or motion.
