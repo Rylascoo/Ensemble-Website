@@ -11,8 +11,7 @@ Sanitized Stage 6M maquette reference:
 - exact deterministic SVG SHA-256: `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`;
 - renderer-facing neutral filename: `reference.svg`;
 - Director-side pin: `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`;
-- canonical source geometry: approved C08 Stage 6M manifest/tooling;
-- exact-main Stage 6M validation: workflow run `34255553033` at `b8d6bf12884872c609a86942ed545ce7df10cfcd`, SUCCESS.
+- canonical source geometry: approved C08 Stage 6M manifest/tooling.
 
 Sterile renderer packet:
 - repository artifact: `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`;
@@ -25,17 +24,15 @@ Director-context package:
 GOVERNING LAW
 
 - approved C08 Stages 1–5;
-- approved C08 Stage 6 + audit;
-- approved Stage 6 edge-clearance reconciliation;
-- approved C08 Stage 6M + audit;
+- approved C08 Stage 6 + corrected audit;
+- corrected Stage 6 edge-clearance reconciliation;
+- approved C08 Stage 6M + corrected audit;
 - Stage 6M transfer addendum;
 - Method 02 Sections 10–14;
 - Renderer Isolation Protocol;
 - frozen Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01.
 
-FIRST RECURSIVE PASS — CORRECTION
-
-RENDERER-LANGUAGE TECHNICALIZATION RISK
+FIRST RECURSIVE PASS — HISTORICAL LANGUAGE CORRECTION
 
 The first renderer packet draft used the compact construction terms `free-edge/thickness-return witness` and `finite-thickness field`. Those phrases were structurally accurate but unnecessarily close to Director/construction vocabulary and could bias a renderer toward architectural/CAD interpretation.
 
@@ -45,6 +42,14 @@ Correction:
 - changed no geometry, support relation, contact relation, responsive burden or frozen criterion;
 - repinned the corrected renderer packet at the exact blob/SHA above.
 
+PRE-ROUND-08 INTEGRITY CORRECTION
+
+Two Director-side defects were corrected before renderer expenditure:
+
+1. The exact Stage 6 changed support-root/free-edge clearance is **102.8 px**, derived directly from integer SVG geometry `(1105,704)` against polyline segment `(1085,802) -> (1110,808)`. The previously published `102.8395582822086 px` value is withdrawn as an arithmetic/transcription error. The older `120 px` figure is only the obsolete undeformed-baseline planning value. Active Stage 6 manifest/SVG metadata and the permanent verifier now carry/derive the exact source result. No visible Stage 6 geometry or renderer-visible Stage 6M reference byte changed.
+
+2. D9 now has a frozen direction-level termination budget before Round 08 executes: exactly three judgeable renderer expenditures, Rounds 06–08. Rounds 06 and 07 are consumed failures. Round 08 is the third and final judgeable D9 render. A judgeable Round 08 failure terminates D9 and no Round 09 may be constructed under D9. A genuine no-image technical failure does not consume the final judgeable attempt, but it stops and creates no automatic retry.
+
 FINAL RECURSIVE PASS
 
 AUTHORITY / STAGE SEPARATION — PASS
@@ -53,23 +58,22 @@ Stages 1–6M are approved. Stage 7 constructs only renderer-visible reference/p
 
 REFERENCE BYTE IDENTITY — PASS
 
-The renderer-facing reference is the exact deterministic sanitized Stage 6M SVG already reproduced by canonical hosted validation. Stage 7 makes no geometric edit, crop, re-layout, style change, enhancement or candidate-specific rescue to those bytes.
+The renderer-facing reference remains the exact deterministic sanitized Stage 6M SVG. The clearance correction makes no geometric edit, crop, re-layout, style change, enhancement or candidate-specific rescue to those bytes.
 
 REFERENCE SANITIZATION — PASS
 
-Direct inspection of the exact SHA-pinned SVG found:
-- one `<svg>` root and 265 `<polygon>` elements only;
+Direct inspection of the exact SHA-pinned SVG established:
+- one `<svg>` root and polygonal physical content only;
 - no `<text>`;
 - no `<metadata>`;
 - no `<title>` / `<desc>`;
-- no `<image>` / script / foreign object;
+- no embedded image/script/foreign object;
 - no background rectangle;
-- no semantic `id`, `class`, `data-*` or `aria-*` attributes;
-- element attributes limited to viewport geometry plus `points`, `fill`, `stroke` and `stroke-width`;
+- no semantic ids/classes/data attributes;
 - no project/candidate vocabulary;
 - no Director-only guides, COM/support measurements, force arrows, labels, clearance values or score data.
 
-The view remains transparent. Fill/stroke values are only the already-frozen neutral Stage 6M instrumentation needed for physical depth legibility.
+The view remains transparent. Neutral gray/depth encoding remains instrumentation only.
 
 REFERENCE PHYSICAL FIDELITY — PASS
 
@@ -90,24 +94,24 @@ Approved Director-side validation remains:
 - A coupled margin = 93.09357443 px;
 - conservative 2:1 A sensitivity margin = 44.009678473114956 px;
 - projected head gap = 51.91680000000012 px;
-- Stage 6 changed support-root/free-edge clearance = 102.8395582822086 px;
-- Stage 6M physical support-root/free-edge clearance = 102.85483969465605 px.
+- exact Stage 6 changed support-root/free-edge clearance = **102.8 px**;
+- normalized Stage 6M physical support-root/free-edge clearance = approximately 102.85483969465605 px.
 
 None of these numbers appears in renderer-visible prose.
 
 STAGE 6 CLEARANCE RECONCILIATION — PASS
 
-The stale `120 px` Stage 6 planning value remains Director-side undeformed-baseline provenance only. The exact changed-state Stage 6 clearance and normalized Stage 6M physical clearance both exceed the unchanged 100 px floor. Stage 7 does not transmit the stale number, the corrected number or any measurement annotation. No Stage 6 visible x/y geometry was changed.
+The stale `120 px` Stage 6 planning value is no longer an active machine-readable PASS assertion. The withdrawn `102.8395582822086 px` first-correction value is no longer treated as exact. The integer-source 102.8 px Stage 6 clearance and normalized Stage 6M physical clearance both exceed the unchanged 100 px floor. Stage 7 transmits no measurement annotation and no Stage 6 visible x/y geometry was changed.
 
 MAQUETTE / CAD LEAKAGE CONTROL — PASS
 
-C08 Stage 6M human preflight already passed `maquette_leakage=PASS` and `surface_read=PASS`. The sterile packet explicitly instructs translation away from gray material, faceting, outlines, blockout, mannequin, CAD, maquette, diagram and reference-sheet character.
+C08 Stage 6M human preflight passed `maquette_leakage=PASS` and `surface_read=PASS`. The sterile packet explicitly instructs translation away from gray material, faceting, outlines, blockout, mannequin, CAD, maquette, diagram and reference-sheet character.
 
 Final pixels remain binding: material maquette/CAD/mannequin leakage is a candidate failure and consumes Round 08.
 
 STERILE PACKET ISOLATION — PASS
 
-Exact corrected packet inspection found no Kymaean/Kymæan, Ensemble, project, candidate/round label, repository/Drive, Harness, Falsification, Surface Escape, Stage 6M/7, score or threshold vocabulary. No previous artwork, critique history, experiment history or Director-side numeric evidence is described.
+Exact packet inspection found no Kymaean/Kymæan, Ensemble, project, candidate/round label, repository/Drive, Harness, Falsification, Surface Escape, Stage 6M/7, score or threshold vocabulary. No previous artwork, critique history, experiment history or Director-side numeric evidence is described.
 
 PROMPT-SEED DISCIPLINE — PASS
 
@@ -163,7 +167,7 @@ Director-side fixed-mobile preflight retains both people, passive contact, criti
 
 AESTHETIC BOUNDARY — PASS
 
-No final palette, brand color, exact material, texture, setting, clothing, identity, camera drama, lighting design or named style is selected. Neutral maquette grayscale/depth cues are expressly instrumentation to translate away, not aesthetics to inherit.
+No final palette, brand color, exact material, texture, setting, clothing, identity, camera drama, lighting design or named style is selected. Neutral maquette grayscale/depth cues are instrumentation to translate away, not aesthetics to inherit.
 
 ARTWORK-ONLY CONTRACT — PASS
 
@@ -177,8 +181,6 @@ MATERIAL DIFFERENCE / NON-RETRY — PASS
 
 C08 is materially distinct from C07 despite retaining the validated Stage 6M representation family. The successor difference is upstream and candidate-geometric: propagated surface change to a viewer-facing free edge/thickness read, wider changed B support geometry with positive unsupported margin, and separated-head scapular/ribcage brace contact. No C07 image or output is transferred. C08 remains a new Round 08 candidate, not a C07 reroll.
 
-Relative to earlier transfer families, C08 still uses transfer-visible support footprints, visible body-axis/support instability, actual volumetric contact adjacency and actual surface depth rather than C04 line/fill transfer or C06 abstract silhouette/path transfer.
-
 EXECUTION ACCOUNTING — PASS
 
 Future authorized execution is exactly:
@@ -186,7 +188,7 @@ Future authorized execution is exactly:
 - one request;
 - one image requested;
 - one exact byte-pinned sanitized C08 reference;
-- one exact byte-pinned corrected sterile packet;
+- one exact byte-pinned sterile packet;
 - zero historical artwork;
 - zero brand assets;
 - zero project documents;
@@ -195,21 +197,33 @@ Future authorized execution is exactly:
 
 A judgeable result consumes METHOD02-R08-C08 / Round 08. A genuine no-image technical failure stops and is reported; it does not silently authorize another request.
 
+D9 TERMINATION ACCOUNTING — PASS
+
+Direction D9 is budgeted at exactly three judgeable renderer expenditures. Round 06 and Round 07 are consumed failures. Round 08 is the third and final judgeable D9 renderer expenditure.
+
+This rule is result-independent and was frozen before Round 08 execution. Therefore a judgeable Round 08 failure terminates D9 regardless of the post-return diagnosis of the subordinate failure mechanism. No Round 09 exists under D9. Any later hero continuation requires a new direction or explicitly new bounded program.
+
+A genuine no-image technical failure is not a judgeable expenditure; it stops and returns to Director Context without creating an automatic retry.
+
 STOP CONSEQUENCE — PASS
 
 After a later judgeable return: stop renderer execution, return raw pixels to Director Context, archive provenance when practical, and evaluate under unchanged frozen measurement law before any packet/reference/criteria modification.
 
+If the result fails the frozen success contract: C08 closes, Round 08 is consumed, D9 terminates, and no Round 09 may be argued or constructed under D9.
+
+If the result passes: D9 has satisfied its direction-level renderer proof; final hero selection remains a Director act.
+
 METHOD 02 COMPLETE REVIEW SET — PASS
 
-C08 now has the complete pre-render sequence: Stages 1–5, Stage 6 + audit, Stage 6 clearance reconciliation, Stage 6M + audit, exact reference pin, exact corrected sterile packet, material-difference declaration, execution accounting/stop consequence and this recursive pre-render audit.
+C08 has the complete pre-render sequence: Stages 1–5, Stage 6 + corrected audit, exact Stage 6 clearance reconciliation, Stage 6M + corrected audit, exact reference pin, exact sterile packet, material-difference declaration, execution accounting, D9 termination accounting, stop consequence and this recursive pre-render audit.
 
 SIMPLICITY / WORTHWHILE-IMPROVEMENT CHECK — PASS
 
-The first-pass language correction removed unnecessary Director-style technicalization without weakening the free-edge/thickness requirement. No additional story, setting, aesthetic specification, coordinate, force explanation, measurement, motif blacklist, project-history sentence or reference mutation closes an unresolved requirement. Further renderer-facing accretion would increase seed/transfer risk.
+The arithmetic correction removes false precision instead of adding it. The D9 budget prevents post-result rationalization without changing any frozen pixel criterion. Neither change alters renderer-visible bytes. No additional story, setting, aesthetic specification, coordinate, force explanation, measurement, motif blacklist, project-history sentence or reference mutation closes an unresolved requirement.
 
 FINAL PASS
 
-One complete pass after the language correction found no remaining material authority leak, reference contamination, project-memory leakage, support loophole, head-contact loophole, surface-naturalization loophole, causal contradiction, responsive contradiction, private-state dependence, unbounded aesthetic selection, execution ambiguity or worthwhile simplification.
+One complete pass after the pre-Round-08 integrity corrections found no remaining material authority leak, arithmetic contradiction, machine-readable stale PASS, project-memory leakage, support loophole, head-contact loophole, surface-naturalization loophole, causal contradiction, responsive contradiction, private-state dependence, unbounded aesthetic selection, renderer-input mutation, round-accounting ambiguity, D9 termination ambiguity or worthwhile simplification.
 
 DISPOSITION
 
@@ -219,11 +233,11 @@ Candidate C08-EWTF-01 Stage 7 Sterile Artwork Translation / complete pre-render 
 
 EXECUTION-READINESS CONSEQUENCE
 
-Renderer execution is now design-ready only as a separate isolation operation. It may proceed in one fresh regular chat outside the Ensemble project using:
+Renderer execution remains design-ready only as a separate isolation operation. It may proceed in one fresh regular chat outside the Ensemble project using:
 - exact sanitized Stage 6M reference bytes under neutral filename `reference.svg`, SHA-256 `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`;
-- exact corrected sterile packet bytes, Git blob `7e7d5cd71fb0b04aaaf78369fe89699cccc8c121`, SHA-256 `fc1483244d39b3b65eed362330800527f1f08df6a6dc9052bf81296046be0c6f`;
+- exact sterile packet bytes, Git blob `7e7d5cd71fb0b04aaaf78369fe89699cccc8c121`, SHA-256 `fc1483244d39b3b65eed362330800527f1f08df6a6dc9052bf81296046be0c6f`;
 - no additional preamble or project material.
 
 If the fresh UI exposes any user-set reference-strength/image-weight/structure-strength control, STOP BEFORE GENERATION and return for one audited fixed-value amendment.
 
-NO IMAGE WAS GENERATED BY THIS AUDIT. ROUND 08 REMAINS UNSPENT.
+NO IMAGE WAS GENERATED BY THIS AUDIT. ROUND 08 REMAINS UNSPENT. ROUND 08 IS D9'S FINAL JUDGEABLE RENDERER EXPENDITURE.
