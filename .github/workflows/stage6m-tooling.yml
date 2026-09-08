@@ -85,7 +85,7 @@ jobs:
           report_sha = hashlib.sha256(report_text.encode('utf-8')).hexdigest()
           report = json.loads(report_text)
           assert report['automated_validation_pass'] is True
-          assert report['transfer_eligible'] is False
+          assert report['transfer_eligible'] is True
           cases = {case['id']: case for case in report['static_cases']}
           assert cases['A-unsupported']['computed_margin_source_px'] >= 75.0
           assert -cases['B-unsupported']['computed_margin_source_px'] >= 25.0
