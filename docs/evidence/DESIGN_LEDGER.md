@@ -261,7 +261,7 @@ Candidate `C08-EWTF-01` has completed the candidate-specific Stage 6M Neutral Ph
 Exact promoted Stage 6M checkpoint:
 `b8d6bf12884872c609a86942ed545ce7df10cfcd`.
 
-Exact-main hosted Stage 6M workflow run `34255553033` completed successfully on that SHA. The permanent verifier regenerates and pins the canonical deterministic outputs:
+Historical exact-main Stage 6M workflow run `34255553033` completed successfully on that SHA. The permanent verifier continues to pin the canonical deterministic Stage 6M outputs:
 
 - sanitized SVG SHA-256: `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`;
 - report SHA-256: `064f4e94072089c0b9266c0943d99578398345e68f873948fabeaeefdd9099bc`.
@@ -274,12 +274,12 @@ Machine-checked C08 quantities:
 - A margin under B reaction: **93.09357443 px stable**;
 - preregistered conservative 2:1 A sensitivity margin: **44.009678473114956 px**, above the 40 px floor;
 - projected visible-solid head gap: **51.91680000000012 px**, above the 50 px floor;
-- exact corrected Stage 6 changed support-root/free-edge clearance: **102.8395582822086 px**, above the 100 px floor;
-- exact normalized Stage 6M physical support-root/free-edge clearance: **102.85483969465605 px**, above the 100 px floor.
+- exact corrected Stage 6 changed support-root/free-edge clearance: **102.8 px**, above the 100 px floor;
+- normalized Stage 6M physical support-root/free-edge clearance: **approximately 102.85483969465605 px**, above the 100 px floor.
 
-The earlier Stage 6 `120 px` support-to-edge figure is preserved only as undeformed-baseline planning provenance. It is not the controlling changed-state clearance. The reconciliation changed no approved Stage 6 visible x/y geometry.
+**Correction 2026-09-08:** L-020 previously inherited `102.8395582822086 px` from the first Stage 6 correction. That number was an arithmetic/transcription error and is superseded. The integer Stage 6 SVG is controlling: root `(1105,704)`, upper-edge segment `(1085,802) -> (1110,808)`, t=0.8, edge y=806.8, clearance=102.8 px exactly. The older `120 px` figure is only historical undeformed-baseline planning provenance. Active machine-readable Stage 6 metadata no longer asserts 120.
 
-Human preflight of the exact canonical hosted Stage 6M view passed both registered review fields: `maquette_leakage=PASS` and `surface_read=PASS`. The broad shared field remains continuous; the local changed condition does not become a platform/bridge/chair/installation; the separated-head passive brace survives; fixed-mobile semantic containment survives; and no CAD bookkeeping, guides, labels, metadata or aesthetic authority transfers.
+Human preflight of the exact canonical Stage 6M view passed both registered review fields: `maquette_leakage=PASS` and `surface_read=PASS`. The broad shared field remains continuous; the local changed condition does not become a platform/bridge/chair/installation; the separated-head passive brace survives; fixed-mobile semantic containment survives; and no CAD bookkeeping, guides, labels, metadata or aesthetic authority transfers.
 
 Primary closure evidence:
 - `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_EDGE_CLEARANCE_METADATA_CORRECTION_01.txt`;
@@ -288,7 +288,7 @@ Primary closure evidence:
 - `docs/evidence/stage6m/C08-EWTF-01_STAGE6M_REPORT.json`;
 - `tools/verify_c08_stage6m.py`.
 
-**Re-derive:** regenerate the deterministic Stage 6M bytes from the promoted manifest, verify the exact SVG/report hashes and report-byte equality, rerun `tools/verify_c08_stage6m.py`, and inspect exact-main workflow run `34255553033` plus the Stage 6M audit. The distinction between `102.839558...` Stage 6 source geometry and `102.854839...` normalized Stage 6M physical geometry is intentional and documented.
+**Re-derive:** read the controlling root and bracketing upper-edge vertices directly from the integer Stage 6 SVG and calculate 102.8 px exactly; then regenerate deterministic Stage 6M bytes, verify the unchanged SVG/report hashes and report-byte equality, rerun `tools/verify_c08_stage6m.py`, and inspect hosted Stage 6M validation. Do not derive exact Stage 6 source precision from the four-decimal normalized scaffold manifest.
 
 **Survives now:** YES. This Stage 6M reference is the active structural transfer input until superseded by a later approved artifact.
 
@@ -319,10 +319,26 @@ Primary evidence:
 - `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`;
 - `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`.
 
-**Re-derive:** verify the Stage 6M reference hash against the deterministic promoted manifest/tooling, verify the renderer packet's exact Git blob/SHA-256, inspect the Stage 7 package and final audit, and confirm no renderer-visible input contains project history, criteria, scores, coordinates, Director-side statics or previous artwork.
+**Re-derive:** verify the Stage 6M reference hash against deterministic tooling, verify the renderer packet's exact Git blob/SHA-256, inspect the Stage 7 package and final audit, and confirm no renderer-visible input contains project history, criteria, scores, coordinates, Director-side statics or previous artwork.
 
 **Survives now:** YES. These exact reference and packet bytes are the only authorized renderer-visible C08 transfer inputs until Round 08 executes or an explicit audited amendment supersedes them.
 
 **Execution boundary:** one fresh regular chat outside the Ensemble project; one request; one image; reference supplied only as neutral `reference.svg`; packet supplied byte-for-byte; no extra preamble/project material; no free reroll. If the fresh UI exposes a user-set reference/image/structure-strength control, stop before generation for one exact fixed-value amendment + recursive audit. A judgeable returned image consumes Round 08 regardless of pass/fail.
 
 **Guardrail:** Stage 7 approval authorizes no renderer execution inside the Ensemble project and no execution-time packet/reference mutation. Final hero selection, website implementation, Cloudflare change, Harness change, Lane A/app UI work and motion remain unauthorized.
+
+## L-022 — D9 terminates after its third judgeable renderer expenditure
+
+**State:** ACTIVE TERMINATION LAW / ROUND 06 CONSUMED FAIL / ROUND 07 CONSUMED FAIL / ROUND 08 FINAL UNSPENT
+
+Before Round 08 execution, D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE** — is capped at exactly three judgeable renderer expenditures: Rounds 06, 07 and 08.
+
+Round 06 and Round 07 are already consumed failures. Round 08 / `METHOD02-R08-C08` is the third and final judgeable D9 renderer expenditure.
+
+A judgeable Round 08 failure terminates D9 regardless of whether post-return analysis attributes the failure to renderer naturalization, transfer fidelity, geometry realization, aesthetics or another subordinate mechanism. No Round 09 may be constructed under D9. Any later hero exploration requires a newly authorized direction or explicitly new bounded program.
+
+A genuine no-image technical failure is not a judgeable expenditure, but it creates no automatic retry. Execution stops and returns to Director Context under the unchanged frozen inputs.
+
+If Round 08 passes the frozen evaluation contract, D9 has satisfied its direction-level renderer proof; final hero selection remains a Director act.
+
+**Guardrail:** this is a direction-budget/termination rule only. It does not change Stage 6 or 6M geometry, renderer-visible reference or packet bytes, frozen Hero Brief/Falsification/Surface Escape/Harness criteria, or any closed prior round.
