@@ -24,26 +24,27 @@ Evidence: `docs/evidence/D_R1_PHASE_5_CLOSURE_01.txt`.
 Method 02: **APPROVED** — `docs/evidence/HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02_DIRECTOR_APPROVAL.md`. Frozen law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + Harness 01.
 
 D9: **APPROVED / TESTABLE IN PRINCIPLE**.
-Stage 6M mechanism-neutral tooling and physical-union renderer correction: **COMPLETE / CLEAN / APPROVED**.
-
 Candidate `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
 
-Candidate `C07-CBSR-01`: **ACTIVE**. Stages 1–5, Stage 6 and Stage 6M are **COMPLETE / CLEAN / APPROVED**. Stage 6M exact-main validation passed at `b39071f77ed263adc9e3a6b194f53282bb3d9521`, run `34188358819`.
-Evidence: `docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_6M_NEUTRAL_PHYSICAL_MAQUETTE_AUDIT_01.txt`.
+Candidate `C07-CBSR-01`: **ACTIVE / PRE-RENDER DESIGN COMPLETE**. Stages 1–5, Stage 6, Stage 6M and Stage 7 are **COMPLETE / CLEAN / APPROVED**.
+Stage 6M exact-main validation: `b39071f77ed263adc9e3a6b194f53282bb3d9521`, run `34188358819` SUCCESS.
+Stage 7 evidence: `docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
 
 ## Exact next action
 
-Construct and recursively audit **C07 Stage 7 Sterile Artwork Translation / pre-render package** using exactly one byte-pinned sanitized 2D view of the approved deterministic Stage 6M maquette. Do not expose the manifest, report, project vocabulary, Director-side measurements, prior artwork or brand assets to the renderer.
+Execute **METHOD02-R07-C07** only in one fresh regular chat outside the Ensemble project:
+- upload exact `reference.svg` bytes, SHA-256 `1a3cf18f5270cbf25209a76f2fb00e3de0e57aa9c7c565ec769a505b2580e89d`;
+- paste exact sterile packet `docs/evidence/renderer/C07-CBSR-01_STAGE07_STERILE_RENDERER_PACKET.txt`, blob `e7eb8efa625f41a7e04a57f05f96cf98e79e5539`;
+- no additional preamble/project material;
+- exactly one request / one image / zero retries.
+
+If the fresh renderer UI exposes any user-set reference/image/structure-strength control, **STOP BEFORE GENERATION** and return for one exact fixed-value amendment + recursive audit. If none is exposed, record N/A and proceed.
 
 ## Hard boundary
 
-Until C07 Stage 7 is clean: **no reference transfer, renderer request, image generation/Round 07, final hero/style/palette, website implementation, Harness change, Lane A/app UI or motion.**
+No renderer execution inside this project context. After one judgeable returned image, stop generation and return raw pixels here for provenance archive + unchanged Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01 evaluation. A judgeable result consumes Round 07; no free reroll.
 
-If a later fresh renderer interface exposes a user-set reference-strength control, stop before generation until one exact fixed value is audited. Any eventual judgeable artwork consumes its attempt; no free reroll.
-
-## Currency finding
-
-2026-09-07: `CURRENT_STATE.md` must be updated in the same gated transition whenever approved evidence changes the active boundary. Evidence establishes results; it does not silently supersede this file.
+No final hero/style/palette, website implementation, Harness change, Lane A/app UI or motion is authorized by pre-render approval.
 
 ## E0-E watch
 
