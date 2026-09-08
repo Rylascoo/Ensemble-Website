@@ -274,10 +274,11 @@ Machine-checked C08 quantities:
 - A margin under B reaction: **93.09357443 px stable**;
 - preregistered conservative 2:1 A sensitivity margin: **44.009678473114956 px**, above the 40 px floor;
 - projected visible-solid head gap: **51.91680000000012 px**, above the 50 px floor;
-- exact corrected Stage 6 changed support-root/free-edge clearance: **102.8 px**, above the 100 px floor;
+- normalized-manifest Stage 6 changed support-root/free-edge clearance: **102.8395582822086 px**, above the 100 px floor;
+- corresponding integer-SVG Stage 6 clearance: **102.8 px**;
 - exact normalized Stage 6M physical support-root/free-edge clearance: **102.85483969465605 px**, above the 100 px floor.
 
-The earlier Stage 6 `120 px` support-to-edge figure is preserved only as undeformed-baseline planning provenance. It is not the controlling changed-state clearance. A later arithmetic correction also withdrew the first correction's `102.8395582822086 px` transcription result; exact integer-source Stage 6 clearance is 102.8 px. The reconciliation changed no approved Stage 6 visible x/y geometry.
+The earlier Stage 6 `120 px` support-to-edge figure is preserved only as **SUPERSEDED_UNDEFORMED_BASELINE_PLANNING_PROVENANCE**. It is not the controlling changed-state clearance. The normalized-manifest value 102.8395582822086 remains the permanent verifier basis; the integer-SVG value 102.8 is a valid parallel representation. Their small difference is normalization/integer-coordinate quantization, not a geometry defect. The reconciliation changed no approved Stage 6 visible x/y geometry.
 
 Human preflight of the exact canonical hosted Stage 6M view passed both registered review fields: `maquette_leakage=PASS` and `surface_read=PASS`. The broad shared field remains continuous; the local changed condition does not become a platform/bridge/chair/installation; the separated-head passive brace survives; fixed-mobile semantic containment survives; and no CAD bookkeeping, guides, labels, metadata or aesthetic authority transfers.
 
@@ -288,7 +289,7 @@ Primary closure evidence:
 - `docs/evidence/stage6m/C08-EWTF-01_STAGE6M_REPORT.json`;
 - `tools/verify_c08_stage6m.py`.
 
-**Re-derive:** regenerate the deterministic Stage 6M bytes from the promoted manifest, verify the exact SVG/report hashes and report-byte equality, rerun `tools/verify_c08_stage6m.py`, and inspect exact-main workflow run `34255553033` plus the Stage 6M audit. The distinction between exact 102.8 px Stage 6 source geometry and 102.854839... px normalized Stage 6M physical geometry is intentional and documented.
+**Re-derive:** regenerate the deterministic Stage 6M bytes from the promoted manifest, verify the exact SVG/report hashes and report-byte equality, rerun `tools/verify_c08_stage6m.py`, and inspect exact-main workflow run `34255553033` plus the Stage 6M audit. Keep the three representations distinct: 102.8395582822086 px normalized Stage 6 manifest geometry, 102.8 px integer Stage 6 SVG geometry, and approximately 102.854839... px normalized Stage 6M physical geometry.
 
 **Survives now:** YES. This Stage 6M reference is the active structural transfer input until superseded by a later approved artifact.
 

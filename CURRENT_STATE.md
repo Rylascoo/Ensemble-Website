@@ -26,15 +26,17 @@ L-022 preserves the immediate Round 08 frozen stop: **CONSTRAINT SET SUSPECTED U
 
 Reconciliation evidence: `docs/evidence/HERO_METHOD_02_D9_THREE_RENDER_BUDGET_DIRECTOR_RECONCILIATION_01.txt`.
 
-## C08 arithmetic correction
+## C08 clearance representation reconciliation
 
-Exact Stage 6 support-root/free-edge clearance: **102.8 px** from integer SVG geometry `(1105,704)` against segment `(1085,802) -> (1110,808)`; frozen floor **100 px**. `120 px` is obsolete undeformed-baseline planning provenance; `102.8395582822086 px` is withdrawn.
+The controlling verifier calculation from the frozen four-decimal Stage 6 scaffold manifest is **102.8395582822086 px**, above the frozen **100 px** minimum. The corresponding integer-SVG realization is independently valid at **102.8 px**. Their ~0.04 px difference is normalization/integer-coordinate quantization, not a defect.
 
-Active scaffold manifest/SVG metadata now state 102.8. `tools/verify_c08_stage6m.py` derives the exact metric from the integer SVG and still pins the unchanged Stage 6M renderer reference/report hashes.
+`120 px` is retained only as **SUPERSEDED_UNDEFORMED_BASELINE_PLANNING_PROVENANCE**. It is not an active PASS basis.
 
-Exact correction checkpoint: `61921298f91f2a4d0cfaac3512374e2a3949e9c7`. Exact-main hosted Stage 6M run `34261985327`: **SUCCESS**. Exact-main document-status run `34261985325`: **SUCCESS**.
+`tools/verify_c08_stage6m.py` retains `EXPECTED_STAGE6_CLEARANCE_PX = 102.8395582822086`, retains the `1e-9` tolerance, and recomputes that value from the frozen normalized manifest points. The manifest and SVG metadata separately identify the 102.8 px integer-SVG representation.
 
-This correction changes no Round 08 pixel, score, frozen criterion, Stage 6/6M visible geometry, sanitized renderer reference or sterile packet.
+Correction evidence: `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_EDGE_CLEARANCE_METADATA_CORRECTION_01.txt`.
+
+This reconciliation changes no Round 08 pixel, score, frozen criterion, Stage 6/6M visible geometry, sanitized renderer reference or sterile packet.
 
 ## Exact next action
 
@@ -44,6 +46,6 @@ The post-R08 translation/carrier investigation remains useful recommendation evi
 
 ## Hard boundary
 
-No D9 continuation, Round 09, Candidate 09, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero/style/palette selection, production website/Cloudflare change, Lane A implementation or motion is authorized by this closure.
+No D9 continuation, Round 09, Candidate 09, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero/style/palette selection, production website/Cloudflare change, Lane A implementation or motion is authorized by this hero closure.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
