@@ -51,13 +51,15 @@ jobs:
           sys.path.insert(0, 'tools')
           from stage6m_maquette import deterministic_bytes
 
-          path = pathlib.Path('docs/evidence/stage6m/C07-CBSR-01_STAGE6M_MANIFEST.json')
-          manifest = json.loads(path.read_text(encoding='utf-8'))
+          manifest_path = pathlib.Path('docs/evidence/stage6m/C07-CBSR-01_STAGE6M_MANIFEST.json')
+          report_path = pathlib.Path('docs/evidence/stage6m/C07-CBSR-01_STAGE6M_REPORT.json')
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
           svg, report_text = deterministic_bytes(manifest)
           svg_sha = hashlib.sha256(svg.encode('utf-8')).hexdigest()
           report_sha = hashlib.sha256(report_text.encode('utf-8')).hexdigest()
           assert svg_sha == '1a3cf18f5270cbf25209a76f2fb00e3de0e57aa9c7c565ec769a505b2580e89d', svg_sha
           assert report_sha == '82b050dacc50fdb06dfa56ff66ce2b204b77259211d0453c2d65fb49f2c5badc', report_sha
+          assert report_path.read_text(encoding='utf-8') == report_text
           report = json.loads(report_text)
           assert report['automated_validation_pass'] is True
           assert report['transfer_eligible'] is True
