@@ -208,7 +208,7 @@ Primary closure evidence:
 - `docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_6M_NEUTRAL_PHYSICAL_MAQUETTE_AUDIT_01.txt`;
 - `docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
 
-**Guardrail:** `CURRENT_STATE.md` owns the live execution boundary. C07 Stage 7 approval authorizes no renderer call inside the Ensemble project, no reference/prompt modification at execution time, no C06 retry and no free Round 07 reroll. A future fresh renderer UI exposing any user-set reference/image/structure-strength control requires a fixed-value amendment + recursive audit before generation.
+**Guardrail:** `CURRENT_STATE.md` owns the live execution boundary. C07 Stage 7 approval authorizes no renderer call inside the Ensemble project, no reference/prompt modification at execution time, no C06 retry and no free Round 07 reroll. A future fresh renderer UI exposing any user-set reference/image/structure-strength control requires a fixed-value amendment and recursive audit before generation.
 
 ## L-019 — Round 07 failed and closed C07; C08 is the active D9 successor
 
