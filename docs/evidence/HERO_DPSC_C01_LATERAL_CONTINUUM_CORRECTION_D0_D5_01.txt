@@ -1,0 +1,346 @@
+KYMÆAN — DPSC-C01 LATERAL CONTINUUM CORRECTION D0-D5 01
+
+Program: DPSC-RSP-01 — DPSC RENDERED SUCCESSOR PROGRAM 01
+Candidate lineage: DPSC-C01
+Revision: 2
+Working construction identity: LATERAL BODY-HEIGHT CONTINUUM / PASSIVE COUNTERBRACE
+Status: D0-D5 CORRECTED CONSTRUCTION COMPLETE / DESIGN-LEVEL P1-P13 PREFLIGHT CLEAN WITH REGISTERED EXACT-SCAFFOLD RISKS / 0 RENDERER EXPENDITURES
+Date: 2026-09-08
+
+AUTHORITY
+
+This correction is governed by:
+- `docs/evidence/HERO_DPSC_RENDERED_SUCCESSOR_PROGRAM_01.txt`;
+- `docs/evidence/HERO_DPSC_C01_NEUTRAL_SCAFFOLD_FALSIFICATION_01.txt`;
+- DPSC-01 as established by HTCR-01;
+- Hero Brief 02;
+- Falsification Criteria 01;
+- Surface Escape;
+- corrected/re-frozen Harness 01.
+
+Revision 1 is closed pre-render. This record does not reopen it, create C02, change any frozen criterion, or authorize a renderer call.
+
+WHY REVISION 2 IS A LAWFUL C01 CORRECTION
+
+DPSC-RSP-01 Case A permits material correction inside C01 while no renderer authorization has been earned. Revision 1 spent 0 renderer expenditures and failed specifically because a lower-support/ground carrier could not simultaneously clear P3 and P7/P8.
+
+Revision 2 changes the causal carrier and human dependency rather than restyling Revision 1:
+- the changed condition no longer acts through ground/support-plane geometry;
+- B's lower supports are not the baseline/change witness;
+- the changed condition acts laterally at body height;
+- B's dependency is a lateral-load/postural equilibrium problem rather than a narrowed support-base problem;
+- no terrain/path/track correspondence system is used.
+
+C02 remains unavailable because no judgeable DPSC-E1 image exists.
+
+CONSTRUCTION THESIS
+
+One broad continuous shared condition crosses the scene at body height and remains visibly the same condition across the composition. Outside one local changed zone, three independent present-state relationships predict a simpler continuous course. In the changed zone those relationships shift laterally together toward B while continuity and identity are preserved.
+
+The changed zone makes sustained contact with B's right-side hip/lower-ribcage region and displaces B's present torso/posture leftward/posteriorly. A, independently stable behind-left/lateral to B, provides one passive torso counterbrace. Restoring the simpler course removes the lateral contact/load, materially changes B's posture, and removes the need for that A↔B contact.
+
+The condition is described here only through spatial/physical relationships. No final material, setting, palette, style, architecture, terrain, device or fantasy category is selected.
+
+D0 — CAUSAL PROPOSITION / RESTORATION STATEMENT
+
+SIMPLER BASELINE
+
+A broad continuous shared condition follows one coherent oblique course through the body-height region of the composition. Its envelope, local thickness relationship and quiet internal direction all agree on that simpler course.
+
+PRESENT CHANGED RELATION
+
+One bounded but boundary-less local zone shifts laterally toward B while remaining continuous with the surrounding condition. The shift is not a detached protrusion, inserted object, opening, fracture, seam or independent panel. The same envelope, thickness and internal direction move together through the local displacement.
+
+B'S ALTERED POSSIBILITY
+
+B's feet remain on ordinary non-semantic support and are not the changed-condition witness. The locally displaced condition makes sustained side contact with B around the right hip/lower ribcage. The resulting lateral force/postural moment places B in a leftward/posteriorly deflected equilibrium that cannot retain the exact depicted posture without the passive counterreaction supplied by A.
+
+A'S NECESSARY ROLE
+
+A stands independently stable behind-left/lateral to B. A makes one passive upper-torso/scapular-ribcage contact with B. A does not lift, grip, pull, hold hands, catch B dynamically or use active arm support. Heads remain visibly separated and their orientations diverge.
+
+RESTORATION COUNTERFACTUAL
+
+Mentally return the local condition to the simpler body-height course predicted by the unchanged spans. The lateral contact/load on B disappears or materially recedes. B's torso no longer requires the same leftward/posterior counterlean, so the specific passive A↔B brace changes or disappears.
+
+D0 ATTACK
+
+- private intention required: NO;
+- hidden prior author required: NO;
+- named damage event required: NO;
+- before/after panel required: NO;
+- B's pose used as the sole evidence for the baseline: NO;
+- ordinary task required: NO;
+- restoration changes only scenery: NO; it changes B and the A↔B relation.
+
+D0: PASS.
+
+D1 — DISTRIBUTED CORRESPONDENCE MAP
+
+Revision 2 deliberately uses the minimum lawful count of three independent families. This reduces P8 pattern pressure while retaining redundancy.
+
+F1 — OUTER-ENVELOPE COURSE
+
+Separated unchanged spans of the continuous condition before and after the changed zone share a coherent oblique trajectory. Their local tangents and curvature direction independently extrapolate one simpler course through the changed zone. The changed zone is a local lateral exception to that larger course.
+
+Independence:
+F1 is large-scale boundary/envelope geometry. It does not depend on texture or section thickness.
+
+F2 — THICKNESS / SECTION RELATION
+
+Across separated unchanged spans, the relationship between the condition's paired near/far or upper/lower physical extents remains locally coherent. The changed zone preserves the same physical thickness relationship while translating/reorienting it laterally. This identifies the changed region as the same continuous condition rather than a separate object.
+
+Independence:
+F2 is a section/thickness identity relation. It can survive where the broad envelope alone is ambiguous.
+
+F3 — LOW-AMPLITUDE INTERNAL DIRECTION
+
+A sparse, non-periodic, non-semantic directional structure belongs intrinsically to the condition. Its orientation follows the simpler course in unchanged spans and shifts coherently with the changed zone. It is not a grid, stripe code, repeated symbol, measurement mark, seam, label or high-contrast decorative pattern.
+
+Independence:
+F3 is internal orientation rather than outer contour or paired thickness.
+
+CONVERGENCE
+
+F1, F2 and F3 all predict the same inverse transformation: return the one local lateral displacement to the surrounding oblique course while preserving continuity and thickness.
+
+REMOVE-ONE TEST
+
+If any one family is visually weakened, the remaining two still predict the same simpler course. No single family owns baseline recovery.
+
+PURPOSE-DESIGNED-WHOLE ATTACK — P3
+
+The principal remaining risk is that the continuous condition may simply read as a naturally curved or intentionally formed object whose local course has always been that way.
+
+Revision 2 therefore requires the future exact scaffold to show:
+- unchanged correspondence evidence on both sides of the local zone;
+- one local exception rather than repeated ornamental undulation;
+- no independent frame or object boundary around the exception;
+- no local symmetry celebrating the displacement;
+- no endpoint, attachment or purpose cue that explains the current shape as designed;
+- F1-F3 converging on one simpler continuation without a baseline overlay.
+
+P3 is not declared solved until the exact current-state scaffold survives inspection.
+
+D1: PASS AT CONSTRUCTION LEVEL / P3 EXACT-SCAFFOLD FALSIFICATION REQUIRED.
+
+D2 — HUMAN DEPENDENCY / LATERAL-LOAD GEOMETRY
+
+HUMAN ARRANGEMENT
+
+The two people remain specific and non-interchangeable.
+
+A:
+- behind-left/lateral relative to B;
+- independently stable;
+- torso oriented differently from B;
+- arms/hands not carrying B;
+- one passive upper-torso contact only.
+
+B:
+- slightly forward/right of A;
+- feet on ordinary non-semantic support;
+- right hip/lower ribcage intersects the local laterally displaced condition;
+- torso displaced/rotated leftward and slightly posteriorly by that contact;
+- exact present posture closes through passive contact with A.
+
+HEAD SEPARATION
+
+The heads remain visibly separated in position and gesture. B does not rest a head on A; A does not lean a head toward B. The torso contact must read mechanically before socially.
+
+LATERAL-LOAD MODEL
+
+Revision 2 does not rely on B being statically unstable on the ground. Instead:
+- the changed condition applies a sustained lateral load at body height;
+- B's feet provide the ordinary base reaction;
+- the exact depicted torso displacement creates a moment that requires an opposing passive torso reaction from A;
+- A remains independently stable under that reaction.
+
+The exact scaffold must make this relationship inspectable. A later neutral physical check may model the lateral force/reaction relationship, but no numeric force value is invented here.
+
+REJECT D2 IF
+
+- B can keep the exact depicted posture after removing A without a compensating posture shift;
+- A's contact becomes active catching, gripping or lifting;
+- the body-height condition merely touches B decoratively without explaining posture;
+- B appears to be voluntarily leaning against A independent of the changed condition;
+- the condition reads as a moving impact/accident rather than a sustained present-state relation.
+
+D2: PASS AT CONSTRUCTION LEVEL / EXACT SCAFFOLD PHYSICAL-DEPENDENCY CHECK REQUIRED.
+
+D3 — COUNTERFACTUAL / REMOVAL FALSIFICATION
+
+RESTORE SIMPLER CONDITION
+
+Return the local body-height displacement to the F1-F3 course. Side contact/load on B recedes. B's exact torso deflection is no longer required and the specific A brace changes/disappears.
+
+Result: PASS IN CONSTRUCTION.
+
+REMOVE A
+
+Keep the changed condition and B's exact current posture. Without A's passive counterreaction the equilibrium is not closed; B must change posture/contact.
+
+Result: PASS IN CONSTRUCTION / exact scaffold must verify.
+
+REMOVE B
+
+The changed condition remains, but the altered-human-possibility proposition disappears. The image becomes incomplete as the intended hero claim rather than remaining sufficient environmental spectacle.
+
+Result: PASS.
+
+REMOVE CHANGED CONDITION
+
+With the condition restored to the simpler course, the reason for B's exact counterlean and A's passive brace disappears.
+
+Result: PASS.
+
+REMOVE ONE CORRESPONDENCE FAMILY
+
+Any one of F1-F3 may weaken; the other two still predict the same baseline. Neither a single contour nor a single internal cue is sufficient.
+
+Result: PASS.
+
+D3: PASS AT CONSTRUCTION LEVEL.
+
+D4 — SURFACE ESCAPE / SHORTHAND / IDENTITY / RESPONSIVE COMPOSITION
+
+SURFACE ESCAPE
+
+There is no task objective, travel route, rescue action, repair, carrying, reaching, climbing, inspection or device operation. The people inhabit one altered shared condition. Remove the changed relation and the distinctive A↔B dependency collapses rather than revealing the same conventional task.
+
+Result: PASS IN CONSTRUCTION.
+
+P7 — WALL / CURTAIN / DEVICE / INSTALLATION / FLOATING-OBJECT ATTACK
+
+Moving the carrier to body height removes the Revision 1 terrain/track failure but creates a new shorthand family. The exact scaffold must reject the construction if the condition reads more simply as a wall, curtain, hanging sheet, panel, barrier, manufactured ribbon, device, furniture, art installation, wave-like prop or other independent object.
+
+Construction controls:
+- no rectilinear plane;
+- no architectural vertical/horizontal alignment;
+- no floor-to-ceiling or ground-anchored slab behavior;
+- no top rail, base, support, hanging point, frame, seam, pleat, opening, handle or attachment;
+- no discrete object endpoint inside the meaningful composition;
+- no separate protruding arm/beam at B;
+- no repeated folds or ornamental waves;
+- substantial continuous depth rather than a paper-thin panel read;
+- the local shift remains a change in one wider condition, not an object reaching toward B;
+- no impact/debris/damage cues.
+
+These controls are necessary but not sufficient. P7 remains a registered exact-scaffold falsification risk.
+
+P8 — DIAGRAM / PATTERN ATTACK
+
+Revision 2 uses only one low-amplitude internal directional family, F3. F1/F2 are physical geometry, not repeated marks. If F3 becomes stripes, measurement-like lines, repeated symbols, emblem geometry or a formal puzzle, reject.
+
+P8 remains a registered exact-scaffold risk.
+
+P6 — SINGLE-PROP ATTACK
+
+The continuous condition may show a changed state, but it cannot carry the complete hero proposition by itself: altered human possibility requires B, and the present possibility requires A's passive relation. No one edge, local bulge, mark or color may encode the whole claim.
+
+If the exact scaffold reads as “one strange object pushes a person” with the human relation merely illustrating that prop, reject under P6/P7/Surface Escape.
+
+IDENTITY REGION
+
+The left desktop identity/copy region remains lower-density and lower-optical-weight while belonging to the same world. The continuous condition may pass through it quietly, but it may not create a fixed pale illumination patch, hard partition or independent copy panel. Threshold K and O3 remain separate Harness assets.
+
+RESPONSIVE CONTAINMENT
+
+The semantic cluster must remain within the corrected 390 x 488 / 72% 50% meaningful crop:
+- both people;
+- the local changed zone/contact;
+- enough unchanged condition on both sides to retain at least two correspondence families;
+- the A↔B passive relation.
+
+Desktop may carry additional correspondence context, but mobile may not depend on evidence outside the meaningful crop.
+
+D4: PASS AT CONSTRUCTION LEVEL / P6-P7-P8 + HARNESS EXACT-SCAFFOLD FALSIFICATION REQUIRED.
+
+D5 — TRANSFER / RENDERER-ISOLATION PREFLIGHT
+
+SELECTED NEXT REPRESENTATION
+
+If this corrected construction survives recursive review, the next artifact is one current-state-only neutral vector scaffold. It may depict only:
+- the broad continuous body-height condition;
+- the one local lateral displacement as current geometry;
+- F1-F3 present-state evidence;
+- two simplified human volumes with separated heads and one passive torso contact;
+- enough composition to test corrected Harness desktop/mobile containment.
+
+It may not depict:
+- the restored baseline;
+- arrows, labels or force vectors;
+- before/after comparison;
+- measurements or criterion names;
+- project history;
+- Revision 1 scratch scaffolds;
+- C06/C07/C08 reference imagery;
+- aesthetic/material authority.
+
+No exact scaffold bytes exist under this correction yet.
+
+FUTURE RENDERER PACKAGE
+
+A sterile renderer packet may exist only after an exact scaffold independently clears full P1-P13 and a candidate-specific pre-render audit. Renderer-facing language, if later earned, must use ordinary positive visual relationships and omit DPSC/HTCR/Method terminology, scores, coordinates, internal counterfactuals and forbidden solution nouns.
+
+D5: PASS AS TRANSFER-METHOD SELECTION / NO BYTES FROZEN.
+
+P1-P13 DESIGN-LEVEL PREFLIGHT — REVISION 2
+
+P1 — fewer than three independent families: PASS — exactly three, F1-F3.
+P2 — families fail to converge: PASS — all predict the same inverse lateral translation into the surrounding course.
+P3 — present whole equally/purpose-designed: PROVISIONAL PASS / PRIMARY EXACT-SCAFFOLD RISK.
+P4 — restoration leaves B unchanged: PASS IN CONSTRUCTION — side load/contact and torso equilibrium change.
+P5 — A optional/active/interpersonal: PASS IN CONSTRUCTION — passive torso counterbrace, no hand/arm support, separated heads; exact dependency still must be shown.
+P6 — one clue/object/prop sufficient: PROVISIONAL PASS — full proposition requires distributed correspondence plus both people; exact scaffold must reject dominant-prop read.
+P7 — forbidden shorthand materially simpler: PROVISIONAL PASS / PRIMARY EXACT-SCAFFOLD RISK — wall/curtain/panel/device/installation/floating-object/impact reads explicitly registered.
+P8 — diagram/grid/pattern dominance: PROVISIONAL PASS / EXACT-SCAFFOLD RISK — only F3 is an internal directional family and it must remain subordinate.
+P9 — fixed pale identity patch required: PASS — calm uses hierarchy/density, not independent illumination.
+P10 — mobile containment fails: PROVISIONAL PASS — composition is required to keep people/contact/changed zone/two correspondence families inside frozen crop; exact Harness check required.
+P11 — transfer requires explanation/before-after: PASS — current-state-only scaffold selected.
+P12 — disguised C08 retry: PASS — no free-edge witness, C08 geometry/reference, ground carrier or C08 scaffold is inherited.
+P13 — foreseeable frozen-contract violation: PASS AT CONSTRUCTION LEVEL — no mandatory violation is known, but P3/P6/P7/P8/P10 remain explicit next-gate falsification targets.
+
+MATERIAL DIFFERENCE FROM REVISION 1
+
+Revision 2 is not a palette/material/camera variation.
+
+Changed-condition mechanism:
+- Revision 1: lower-support/ground interior offset;
+- Revision 2: lateral body-height displacement/contact.
+
+Human dependency:
+- Revision 1: narrowed/shifted lower support base;
+- Revision 2: lateral body-height load and passive counterreaction.
+
+Correspondence organization:
+- Revision 1 relied on ground-field continuation plus section, directional and relief/interval evidence;
+- Revision 2 removes relief/interval markers and uses envelope course + thickness + one subordinate internal direction at body height.
+
+Known shorthand family:
+- Revision 1 failed terrain/track/installational trade-off;
+- Revision 2 must instead falsify wall/curtain/panel/device/floating-object/installational readings.
+
+RECURSIVE AUDIT
+
+Pass 1 attack found that moving the condition to body height can easily become a single floating ribbon or curtain-like prop. The construction was tightened to remove endpoints, frames, hanging/support cues, planar behavior, ornamental waves and discrete protrusions. P6/P7 remain explicit scaffold risks rather than being declared solved.
+
+Pass 2 attack found that using four correspondence families would unnecessarily recreate Revision 1's P8 pressure. The correction therefore uses exactly three independent families, the minimum allowed by DPSC-RSP-01, and removes relief/interval markers from the mechanism.
+
+Pass 3 attack tested circularity. B's pose is not used to establish the simpler baseline; F1-F3 must independently predict it. B only demonstrates the altered present possibility downstream of the changed condition.
+
+Pass 4 attack tested ordinary accident/impact reading. The condition is a sustained present-state relation, not a moving impact; no catch/rescue gesture or damage event is part of the construction. If the exact scaffold nevertheless reads as a collision/hazard scene, reject under P7/Surface Escape.
+
+Pass 5 checked program integrity. No renderer-facing prompt, scaffold, image, material/style choice, score change, Harness mutation, C02, DPSC-E1 or additional budget was created. Renderer expenditure remains 0 of 2 maximum.
+
+One complete final pass found no construction-level contradiction that requires immediate rejection before the exact neutral scaffold. The unresolved P3/P6/P7/P8/P10 and physical-dependency questions are precisely the next representation gate and remain capable of rejecting Revision 2 without renderer expenditure.
+
+DISPOSITION
+
+DPSC-C01 REVISION 2 — LATERAL BODY-HEIGHT CONTINUUM / PASSIVE COUNTERBRACE: D0-D5 CORRECTED CONSTRUCTION COMPLETE / CLEAN AT CONSTRUCTION LEVEL / NOT RENDERER-READY.
+
+NEXT GATE: ONE EXACT CURRENT-STATE NEUTRAL VECTOR SCAFFOLD, THEN PHYSICAL DEPENDENCY + P3/P6/P7/P8 + CORRECTED HARNESS CONTAINMENT + FULL P1-P13 RE-AUDIT.
+
+RENDERER EXPENDITURE: 0 OF 2 MAXIMUM.
+NO DPSC-E1 AUTHORITY.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE CONSTRUCTION AUDIT.
