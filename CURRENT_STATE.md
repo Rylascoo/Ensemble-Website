@@ -6,95 +6,42 @@ Updated: 2026-09-08
 
 ## Authority
 
-- Design/brand: `Rylascoo/Ensemble-Website`.
-- Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`.
-- Drive: `Ensemble Project`.
-- Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`.
-- Durable closure/re-entry history: `docs/evidence/DESIGN_LEDGER.md`.
+Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`.
 
-This file owns volatile phase/current-boundary state; clean recursive audit earns in-lane approval except where frozen law explicitly reserves a Director decision.
-
-## Repository restructuring
-
-**D-R1: COMPLETE / CLOSED / CLEAN; Phase 6 NOT TRIGGERED.**
-Evidence: `docs/evidence/D_R1_PHASE_5_CLOSURE_01.txt`.
+This file alone owns volatile phase/current-boundary state.
 
 ## Hero program
 
-Method 02 remains the approved construction method. Frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01.
+Method 02 remains historical/approved construction law; frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected Harness 01.
 
-D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE** retains positive human-support evidence, but the current D9 / Method 02 rendered succession is now **PAUSED BY FROZEN STOP LAW**.
+D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE: CLOSED / 3 OF 3 JUDGEABLE RENDERS CONSUMED.**
 
-- `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
-- `C07-CBSR-01`: **CLOSED / ROUND 07 FAIL / CONSUMED / NO RETRY**.
-- `C08-EWTF-01`: **CLOSED / ROUND 08 FAIL / CONSUMED / NO RETRY**.
+- C06 / R06: **FAIL / CONSUMED / CLOSED**.
+- C07 / R07: **FAIL / CONSUMED / CLOSED**.
+- C08 / R08: **FAIL / CONSUMED / CLOSED / NO RETRY**.
 
-Durable current closure entry:
-`docs/evidence/DESIGN_LEDGER.md` — L-022.
+Round 08 canonical evaluation: `docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_EVALUATION_01.txt`.
 
-## Round 08 closure
+L-022 preserves the immediate Round 08 frozen stop: **CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED**. L-023 records the subsequent Director reconciliation: the result-blind D9 budget was R06–R08 exactly; R08 failed; therefore D9 terminates as an active hero-direction program. **No R09 or Candidate 09 exists under D9.** This is program closure, not proof that passive-brace geometry is impossible.
 
-Experiment:
-`METHOD02-R08-C08`.
+Reconciliation evidence: `docs/evidence/HERO_METHOD_02_D9_THREE_RENDER_BUDGET_DIRECTOR_RECONCILIATION_01.txt`.
 
-One judgeable 1586 × 992 PNG was returned and consumes the single authorized Round 08 attempt.
+## C08 arithmetic correction
 
-Raw returned image SHA-256:
-`30c47d18064842d5f0f0f4f994acacfd118e3440d58465b59e9307bb5fd36231`.
+Exact Stage 6 support-root/free-edge clearance: **102.8 px** from integer SVG geometry `(1105,704)` against segment `(1085,802) -> (1110,808)`; frozen floor **100 px**. `120 px` is obsolete undeformed-baseline planning provenance; `102.8395582822086 px` is withdrawn.
 
-Canonical evaluation:
-`docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_EVALUATION_01.txt`.
+Active scaffold manifest/SVG metadata now state 102.8. `tools/verify_c08_stage6m.py` derives the exact metric from the integer SVG and still pins the unchanged Stage 6M renderer reference/report hashes. Hosted Stage 6M validation run `34261347492`: **SUCCESS**.
 
-Frozen result:
-- Human Necessity = **4/5 PASS**;
-- Changed-condition legibility = **3/5 FAIL**;
-- Altered Possibility = **3/5 FAIL**;
-- Epistemic Restraint = **5/5 PASS**;
-- Brand Integration = **1/5 FAIL**;
-- Mobile Survival = **3/5 PASS**;
-- Removal Test = **2/5 FAIL**;
-- Surface Escape = **PASS**;
-- S1–S5 = **PASS**;
-- S6 = **FAIL**.
-
-C08 transferred real improvements over C07: heads remained separated, the passive posterior/lateral brace remained mechanically necessary at the depicted-pose level, and the local surface departure visibly propagated through one continuous thick surface to a free edge. The transfer medium did not leak.
-
-The decisive failure remained upstream: the final naturalistic stone surface is still coherently readable as purpose-shaped/pre-existing architecture. The pixels do not force a simpler prior baseline, do not visibly make the surface condition cause B's dependent posture, and do not make baseline restoration remove the A↔B relation.
-
-The fixed pale left environment also repeats the C07 Brand Integration failure against the no-scrim light identity system.
-
-## Active stop state
-
-C07 and C08 are materially different qualifying outputs and repeat the same mandatory hard failures. Frozen Falsification Criteria 01 therefore requires:
-
-**CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED.**
-
-This is a protected stop, not proof that the Hero Brief or D9 human-support idea is impossible.
-
-Required conflict matrix + recommendation:
-`docs/evidence/HERO_METHOD_02_POST_ROUND_08_CONSTRAINT_RECONCILIATION_RECOMMENDATION_01.txt`.
-
-Recommended Director path:
-**preserve the frozen contract; pause D9/Method 02 rendering; authorize non-render method-level final-translation/carrier reconciliation only before any successor candidate or renderer spend.**
-
-The recommendation is not adopted authority until the Director acts.
+This correction changes no Round 08 pixel, score, frozen criterion, Stage 6/6M visible geometry, sanitized renderer reference or sterile packet.
 
 ## Exact next action
 
-Director reconciliation only.
+Static hero renderer expenditure is stopped. Future hero continuation requires a **newly authorized direction or explicitly new bounded program**, with its own predeclared round budget before any renderer spend.
 
-No standing clean-audit delegation may bypass this gate because Falsification Criteria 01 explicitly reserves the post-stop decision to the Director.
-
-If the Director chooses the recommended path, the next work is a non-render method-level investigation of whether a materially different final translation/carrier can preserve visible baseline/change correspondence and bind that change to B's posture without pre-existing architecture/terrain, device/platform, damage/accident, explanatory-graphic or transfer-medium substitution.
+The post-R08 translation/carrier investigation remains useful recommendation evidence but is not authority to continue D9.
 
 ## Hard boundary
 
-**Round 08 is SPENT. C08 is CLOSED.**
+No D9 continuation, Round 09, Candidate 09, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero/style/palette selection, production website/Cloudflare change, Lane A implementation or motion is authorized by this closure.
 
-No Round 09, Candidate 09, C08 reroll, replacement image, execution-time prompt/reference patch, frozen-criterion mutation, Harness change, final hero/style/palette selection, production website implementation, Cloudflare change, Lane A/app UI implementation or motion is authorized.
-
-Repository-write currency law remains active: this Round 08 closure requires evaluation evidence + DESIGN_LEDGER.md + CURRENT_STATE.md continuity before any later-stage artifact proceeds.
-
-## E0-E watch
-
-E0-E remains mandatory Blueprint law; no E0-E artifact is established here. This lane does not build/own it. Transcript-dependent Stage motion/aliveness law must wait on real blinded E0-A vs E0-E transcripts.
+E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.

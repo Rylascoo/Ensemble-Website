@@ -1,0 +1,93 @@
+KYMÆAN — HERO METHOD 02 D9 THREE-RENDER BUDGET DIRECTOR RECONCILIATION 01
+
+Status: DIRECTOR DECISION APPLIED / D9 CLOSED BY PRE-RESULT ROUND BUDGET / NO ROUND 09 UNDER D9
+Date: 2026-09-08
+Direction: D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE
+
+PURPOSE
+
+Reconcile the Director's result-blind D9 stopping rule with the independently completed Round 08 closure that became repository-current during the same work interval.
+
+This record does not rescore Round 08, reopen C08, alter frozen criteria, change the Harness, mutate any renderer input, or claim that the D9 physical idea is impossible.
+
+SEQUENCE / INTEGRITY
+
+Before the Round 08 result became visible in the authoritative repository, the Director was presented with and explicitly agreed to this stopping rule:
+
+- D9 receives exactly three judgeable renderer expenditures: Rounds 06, 07 and 08;
+- Round 08 is D9's final judgeable renderer expenditure;
+- if Round 08 returns a judgeable failure under the unchanged frozen success contract, D9 terminates;
+- no Round 09 may be constructed under D9;
+- a genuine no-image technical failure does not consume the final judgeable attempt and creates no automatic retry.
+
+A concurrent project flow then closed Round 08 on `main` before this continuity write could land. That closure is preserved, not overwritten. It records one judgeable Round 08 failure and activates the frozen suspected-unsatisfiable / Director-reconciliation stop.
+
+The Director's stopping rule was therefore selected without knowledge of the later repository-visible Round 08 result. Applying it now is not post-result threshold tuning or failure reclassification.
+
+ROUND ACCOUNTING
+
+- Round 06 / C06-ASPB-01: judgeable FAIL / consumed / closed.
+- Round 07 / C07-CBSR-01: judgeable FAIL / consumed / closed.
+- Round 08 / C08-EWTF-01: judgeable FAIL / consumed / closed.
+
+Round 08 canonical evaluation remains:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_EVALUATION_01.txt`.
+
+Its scores, positive findings, failure diagnosis and raw-image provenance remain unchanged.
+
+DIRECTOR RECONCILIATION
+
+The pre-result budget condition is now triggered.
+
+**D9 IS CLOSED / TERMINATED AS AN ACTIVE HERO-DIRECTION PROGRAM AFTER 3 OF 3 JUDGEABLE RENDER EXPENDITURES.**
+
+No Round 09 exists under D9.
+No Candidate 09 may be created as another D9 successor.
+No C08 reroll, replacement, packet patch or reference mutation is authorized.
+
+This is a program/direction termination decision, not an empirical claim that passive human brace geometry can never work. Preserve the positive evidence established by C07/C08:
+- the passive human-support relation can survive naturalistic translation;
+- separated-head posterior/lateral contact can reduce the strongest social-shortcut reading;
+- a local surface departure can survive through a continuous thick surface to a visible free edge without maquette/CAD leakage.
+
+Those findings may inform a genuinely new direction or explicitly new bounded program. They do not authorize D9 continuation.
+
+RELATION TO ROUND 08 FROZEN STOP
+
+`DESIGN_LEDGER.md` L-022 correctly records the immediate Round 08 state at closure: C08 failed, the frozen suspected-unsatisfiable stop activated, and Director reconciliation was required.
+
+This record is that subsequent Director reconciliation. It does not rewrite L-022's historical sequence.
+
+The post-Round-08 recommendation to pause D9/Method 02 and investigate final translation/carrier remains historical recommendation evidence. It is not adopted as authority to continue D9. Any future hero work must enter through:
+- a newly authorized direction; or
+- an explicitly new bounded program whose scope and round budget are named before renderer expenditure.
+
+ARITHMETIC CORRECTION COUPLED TO THIS RECONCILIATION
+
+The Candidate 08 Stage 6 anti-edge metric is also corrected independently to **102.8 px exactly**, derived from integer SVG source geometry. This does not affect the Round 08 result because the criterion still passed and the correction changes no rendered pixel or frozen threshold.
+
+HARD BOUNDARY
+
+No Round 09 under D9.
+No automatic successor candidate.
+No criteria/Harness mutation.
+No final hero selection implied.
+No production website, Cloudflare, Lane A implementation or motion authority is created.
+
+NEXT BOUNDARY
+
+The next hero action is not another D9 construction. Future continuation requires selection/authorization of a new direction or explicitly new bounded program. Until that occurs, static hero renderer expenditure remains stopped.
+
+RECURSIVE AUDIT
+
+Checked against the canonical Round 08 evaluation, the post-Round-08 reconciliation recommendation, the existing L-022 stop state, the Director's result-blind three-render decision, and the no-retry/frozen-criteria laws.
+
+No Round 08 score changes. No positive D9 evidence is erased. No impossibility claim is invented. No post-result criterion is introduced. The only new authority is the Director-selected round budget and its already-defined consequence after the judgeable Round 08 failure.
+
+One complete final pass found no remaining material timing contradiction, retry loophole, Round 09 ambiguity, frozen-law conflict, or worthwhile narrower formulation.
+
+DISPOSITION
+
+D9: CLOSED AFTER 3 OF 3 JUDGEABLE RENDERS.
+ROUND 09 UNDER D9: NOT PERMITTED.
+APPROVED BY DIRECTOR DECISION + CLEAN RECURSIVE RECONCILIATION.

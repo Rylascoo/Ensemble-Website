@@ -3,6 +3,8 @@ import hashlib
 import json
 import pathlib
 import sys
+import xml.etree.ElementTree as ET
+from fractions import Fraction
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from stage6m_maquette import deterministic_bytes
@@ -10,20 +12,35 @@ from stage6m_maquette import deterministic_bytes
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 MANIFEST_PATH = ROOT / "docs/evidence/stage6m/C08-EWTF-01_STAGE6M_MANIFEST.json"
 REPORT_PATH = ROOT / "docs/evidence/stage6m/C08-EWTF-01_STAGE6M_REPORT.json"
-SCAFFOLD_PATH = ROOT / "docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json"
+SCAFFOLD_MANIFEST_PATH = ROOT / "docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json"
+SCAFFOLD_SVG_PATH = ROOT / "docs/evidence/scaffolds/C08-EWTF-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg"
 
 EXPECTED_SVG_SHA256 = "54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db"
 EXPECTED_REPORT_SHA256 = "064f4e94072089c0b9266c0943d99578398345e68f873948fabeaeefdd9099bc"
-EXPECTED_STAGE6_CLEARANCE_PX = 102.8395582822086
+EXPECTED_STAGE6_CLEARANCE_PX = Fraction(514, 5)  # 102.8 px exactly
+EXPECTED_STAGE6_CLEARANCE_BASIS = "exact_integer_stage6_svg_polyline_at_registered_left_support_root"
 
 
-def _interp_y(points, x):
-    for p0, p1 in zip(points, points[1:]):
-        x0, y0 = map(float, p0)
-        x1, y1 = map(float, p1)
-        if x0 != x1 and min(x0, x1) <= x <= max(x0, x1):
-            return y0 + (x - x0) * (y1 - y0) / (x1 - x0)
-    raise AssertionError(f"no segment brackets x={x}")
+def _exact_stage6_clearance_px():
+    root = ET.parse(SCAFFOLD_SVG_PATH).getroot()
+    upper = root.find(".//*[@id='field-free-edge-upper']")
+    support_root = root.find(".//*[@id='B-left-root-changed']")
+    assert upper is not None
+    assert support_root is not None
+
+    points = []
+    for token in upper.attrib["points"].split():
+        x, y = token.split(",")
+        points.append((Fraction(x), Fraction(y)))
+
+    root_x = Fraction(support_root.attrib["cx"])
+    root_y = Fraction(support_root.attrib["cy"])
+    for (x0, y0), (x1, y1) in zip(points, points[1:]):
+        if x0 == x1 or not min(x0, x1) <= root_x <= max(x0, x1):
+            continue
+        edge_y = y0 + (root_x - x0) * (y1 - y0) / (x1 - x0)
+        return edge_y - root_y
+    raise AssertionError(f"no Stage 6 source segment brackets x={root_x}")
 
 
 def main():
@@ -69,17 +86,16 @@ def main():
     head_gap_px = (b_left - a_right) * width
     assert head_gap_px >= 50.0, head_gap_px
 
-    scaffold = json.loads(SCAFFOLD_PATH.read_text(encoding="utf-8"))
+    scaffold = json.loads(SCAFFOLD_MANIFEST_PATH.read_text(encoding="utf-8"))
     audit = scaffold["audit_only_constraints"]
-    assert float(audit["B_support_to_free_edge_planning_clearance_px"]) == 120.0
-    minimum_clearance_px = float(audit["minimum_projected_support_to_free_edge_clearance_px"])
-    assert minimum_clearance_px == 100.0
-    root_x, root_y = map(float, audit["B_left_root_changed"])
-    upper = next(p for p in scaffold["condition_paths"] if p["id"] == "field-free-edge-upper")
-    edge_y = _interp_y(upper["points"], root_x)
-    corrected_clearance_px = (edge_y - root_y) * height
-    assert abs(corrected_clearance_px - EXPECTED_STAGE6_CLEARANCE_PX) < 1e-9
-    assert corrected_clearance_px >= minimum_clearance_px
+    assert Fraction(str(audit["B_support_to_free_edge_clearance_px"])) == EXPECTED_STAGE6_CLEARANCE_PX
+    assert audit["B_support_to_free_edge_clearance_basis"] == EXPECTED_STAGE6_CLEARANCE_BASIS
+    minimum_clearance_px = Fraction(str(audit["minimum_projected_support_to_free_edge_clearance_px"]))
+    assert minimum_clearance_px == 100
+
+    exact_stage6_clearance_px = _exact_stage6_clearance_px()
+    assert exact_stage6_clearance_px == EXPECTED_STAGE6_CLEARANCE_PX, exact_stage6_clearance_px
+    assert exact_stage6_clearance_px >= minimum_clearance_px
 
     b_foot = next(s for s in proxies["B"]["solids"] if s["id"] == "B-left-foot")
     foot_xs = [float(p[0]) for p in b_foot["polygon"]]
@@ -100,13 +116,13 @@ def main():
                 candidates.append(y0 + (physical_root_x - x0) * (y1 - y0) / (x1 - x0))
     assert candidates
     physical_clearance_px = (min(candidates) - physical_root_y) * height
-    assert physical_clearance_px >= minimum_clearance_px, physical_clearance_px
+    assert physical_clearance_px >= float(minimum_clearance_px), physical_clearance_px
 
     print("C08 SVG SHA256", svg_sha)
     print("C08 report SHA256", report_sha)
     print("C08 2:1 sensitivity margin source px", sensitivity_margin_px)
     print("C08 projected head gap source px", head_gap_px)
-    print("C08 corrected Stage 6 support-root edge clearance source px", corrected_clearance_px)
+    print("C08 exact Stage 6 support-root edge clearance source px", float(exact_stage6_clearance_px))
     print("C08 Stage 6M support-root edge clearance source px", physical_clearance_px)
 
 

@@ -1,70 +1,59 @@
 KYMÆAN — HERO CANDIDATE 08 METHOD 02 STAGE 06 EDGE-CLEARANCE METADATA CORRECTION 01
 
-Status: CORRECTION / NO VISIBLE GEOMETRY CHANGE / STAGE 6 APPROVAL PRESERVED / STAGE 6M ONLY REMAINS AUTHORIZED
+Status: FINAL ARITHMETIC / METADATA CORRECTION / NO VISIBLE GEOMETRY CHANGE / ROUND 08 RESULT UNAFFECTED
 Date: 2026-09-08
 Candidate: C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE
 
 PURPOSE
 
-Reconcile one arithmetic/metadata defect discovered during Candidate 08 Stage 6M construction without changing any approved Stage 6 x/y geometry, support footprint, free-edge path, contact, responsive window, criterion or stage authority.
+Reconcile the Candidate 08 Stage 6 support-root/free-edge metric against the exact integer source geometry. This correction changes no approved Stage 6 x/y geometry, Stage 6M geometry, renderer-visible reference, sterile packet, frozen criterion, Round 08 pixels or Round 08 evaluation.
 
-DEFECT
+DEFECT HISTORY
 
-The approved Stages 1–5 / Stage 6 evidence carried a `120 px` B-support-to-free-edge planning clearance. That number was calculated as `824 - 704`, using the undeformed baseline foreground-edge y=824 against the left changed support-root center y=704.
+The original Stage 6 evidence carried `120 px`, calculated from the undeformed baseline foreground edge y=824 against the changed left support-root center y=704.
 
-The actual approved changed free-edge path is locally displaced upward. Therefore 120 px is only the obsolete baseline-edge planning value; it is not the exact changed-state clearance.
+A first correction correctly identified the changed free-edge path as controlling, but published `102.8395582822086 px` after an erroneous normalized-to-pixel conversion. That number is withdrawn.
 
 BINDING METRIC
 
-The registered anti-edge metric is support-root/center to the foreground free-edge at the same source-space x coordinate. It is not outer-foot-polygon-edge clearance.
+The registered anti-edge metric is support-root/center to the foreground free edge at the same source-space x coordinate.
 
-Controlling changed support root:
-- x = 1105 px = 0.7194 normalized;
-- y = 704 px = 0.7333 normalized.
+Canonical Stage 6 integer SVG:
+- controlling changed support root = (1105,704);
+- bracketing `field-free-edge-upper` vertices = (1085,802) and (1110,808).
 
-The approved changed upper free edge brackets that x with normalized points:
-- (0.7064, 0.8354);
-- (0.7227, 0.8417).
+At x=1105:
+- t = (1105-1085)/(1110-1085) = 20/25 = 0.8 exactly;
+- edge y = 802 + 0.8*(808-802) = 806.8 px exactly;
+- clearance = 806.8 - 704 = **102.8 px exactly**.
 
-Linear interpolation at x=0.7194 gives:
-- edge y = 0.8404245398773006;
-- edge y in source pixels = 806.8395582822086 px.
+Frozen minimum: **100 px**.
+Exact surplus: **2.8 px**.
+Result: **PASS**.
 
-Correct changed-state support-root clearance:
-`806.8395582822086 - 704 = 102.8395582822086 px`.
+Linear interpolation is the definition of the SVG polyline segment. No decimal reconstruction of normalized coordinates is needed or preferred.
 
-Frozen minimum:
-`100 px`.
+MACHINE-READABLE CONSEQUENCE
 
-Correct positive surplus:
-`2.8395582822086 px`.
+The active Stage 6 scaffold manifest and SVG embedded metadata must state 102.8 px rather than 120 px. The permanent verifier must derive the controlling Stage 6 metric from the integer SVG and treat the four-decimal normalized manifest as a projection, not a higher-precision authority.
 
-The right support root has materially greater clearance and is non-controlling.
-
-FIXED STAGE 6M PROJECTION
-
-Stage 6M uses the already-frozen orthographic oblique projection. For two points on the same physical z plane, the fixed depth-y offset is identical and cancels from their vertical separation. The source-space support-root/edge clearance therefore remains 102.8395582822086 px under that fixed same-plane projection before raster/stroke thickness.
+The Stage 6M physical reconstruction remains a separate normalized representation with approximately 102.854839694656 px clearance; that difference is representation quantization, not a contradiction.
 
 SCOPE / PRESERVATION
 
-No Stage 6 visible geometry is changed.
-No support/contact/body coordinate is changed.
-No free-edge or thickness-return path point is changed.
-No responsive boundary is changed.
-No 100 px floor is changed.
-No frozen post-render criterion is changed.
-No Stage 7 or renderer/image-generation authority is created.
+No visible Stage 6 geometry changes.
+No Stage 6M manifest/report or sanitized renderer reference changes.
+No sterile renderer packet changes.
+No 100 px floor changes.
+No post-render score or stop condition changes.
+Round 08 remains historically spent and failed exactly as recorded in its canonical evaluation.
 
-Where earlier C08 Stages 1–5 or Stage 6 records describe `120 px` as the current support-to-edge clearance, read that value only as the superseded undeformed-baseline planning calculation. The exact changed-state support-root metric above governs subsequent Stage 6M audit.
-
-OUTER-FOOT CLARIFICATION
-
-The visible support footprint has finite width. Its outer polygon edge is not the pre-registered anti-edge measurement locus. Do not silently replace the registered support-root/center metric with a different foot-edge metric after construction. The anti-edge question remains whether B is materially interior rather than balanced on the foreground edge; exact visible support geometry is still inspected separately for ledge/hazard reading during Stage 6M preflight.
+Where earlier C08 evidence says `120 px` is the current clearance, read it only as obsolete undeformed-baseline planning provenance. Where the first correction says `102.8395582822086 px` is exact, that arithmetic result is superseded by 102.8 px.
 
 DISPOSITION
 
-METADATA / ARITHMETIC CORRECTION ONLY.
+Exact controlling Stage 6 changed-state clearance: **102.8 px**.
+Frozen minimum: **100 px**.
+Result: **PASS**.
 
-Candidate C08 Stage 6 remains COMPLETE / CLEAN / APPROVED.
-Candidate-specific Stage 6M remains the sole authorized next representation.
-Round 08 remains UNSPENT.
+This arithmetic correction neither rescues nor alters the failed Round 08 artwork. It only restores consistency between exact source geometry and active metadata/tooling.
