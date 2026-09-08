@@ -512,3 +512,18 @@ The Case-A termination audit found no lawful Revision 3 inside the frozen method
 This is a bounded-program transfer falsification, not proof that DPSC-01 is impossible in every conceivable future program. The frozen post-render suspected-unsatisfiable stop is not triggered because no DPSC judgeable render occurred.
 
 **Guardrail:** no DPSC-C01 Revision 3, C02 without E1, automatic successor program, renderer spend, D9/R09/C09 continuation, C08 retry, rejected-HTCR carrier reopening, criterion/Harness mutation, final hero selection, production website deployment, Lane A implementation or motion. The next lawful gate is post-program hero reconciliation only.
+
+## L-031 — Post-program reconciliation pauses static hero causal-mechanism research
+
+**State:** HERO STATIC CAUSAL-MECHANISM / RENDERER RESEARCH PAUSED / FROZEN CONTRACT PRESERVED / FINAL HERO UNSELECTED
+
+After Method 01 exhaustion, D9/Method 02 closure, HTCR-01 and DPSC-RSP-01 Case-A closure, the smallest current blocker is no longer one missing geometry correction. Static hero search repeatedly collides between making the changed condition recoverable and physically load-bearing, and allowing that same evidence to become a materially simpler pre-existing object, environment, support system or explanatory formal pattern under P3/P6/P7/P8.
+
+The evidence still preserves important component achievements: static altered possibility/removal, two-person necessity, human-first salience, passive human dependency, Epistemic Restraint, Surface Escape, material restraint and basic responsive containment have each been achieved or shown feasible in narrower tests. Therefore no frozen Hero Brief 02 requirement, Falsification Criteria threshold, S1-S6 property, Surface Escape rule, Harness rule or ODR-33 decision is revised, and impossibility is not claimed.
+
+Primary reconciliation evidence:
+`docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
+
+The Drive continuity law and canonical roadmap require broad artistic divergence rather than indefinite refinement of one visual grammar. Hero-specific static rendering is therefore paused until genuinely new representation evidence exists. The next design gate is a non-render SHARED-BRAND visual-identity divergence re-entry audit; it must preserve hero work as evidence/constraints rather than an incumbent surface and select one genuinely orthogonal non-hero research question before any later image-generation program is scoped.
+
+**Guardrail:** no automatic successor hero candidate/program, renderer spend, Method-01 R04, D9 R09/C09, C08 retry, DPSC Revision 3, C02 without E1, rejected-HTCR carrier reopening, criterion/Harness mutation, final hero/identity selection, production website deployment, Lane A implementation or motion. Hero reopening requires a genuinely new variable, changed governing evidence/contract or explicit new program.
