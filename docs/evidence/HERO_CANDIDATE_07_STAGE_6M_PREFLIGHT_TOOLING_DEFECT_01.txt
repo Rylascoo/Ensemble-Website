@@ -1,0 +1,110 @@
+KYMÆAN — HERO CANDIDATE 07 STAGE 6M PREFLIGHT / INTERNAL-BOUNDARY TOOLING DEFECT 01
+
+Status: COMPLETE / FAIL-CLOSED CANDIDATE PREFLIGHT / MECHANISM-NEUTRAL TOOLING CORRECTION REQUIRED / NO STAGE 7 OR RENDER AUTHORIZED
+Date: 2026-09-07
+Candidate: C07-CBSR-01 — CROSS-BAND SPLIT-ROOT PASSIVE BRACE
+
+PURPOSE
+
+Record the first Candidate 07 Stage 6M preflight after Stage 6 approval and distinguish a candidate failure from a newly exposed mechanism-neutral representation defect.
+
+AUTHORITY
+
+Candidate 07 Stage 6 is approved and clean under:
+`docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
+
+Stage 6M is governed by:
+- `docs/evidence/HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01.txt`;
+- its clean recursive audit;
+- completed Stage 6M mechanism-neutral tooling and hardening.
+
+No Stage 7 or renderer execution was authorized during this preflight.
+
+FIRST CANDIDATE-SPECIFIC PREFLIGHT
+
+A local, non-promoted Candidate 07 Stage 6M construction was generated from the approved Stage 6 support/body/contact/surface geometry using the frozen tooling model.
+
+The exact-solid model successfully demonstrated that a candidate-specific proxy can satisfy the intended physical constraints:
+- A and B can be represented by deterministic closed uniform-density solids;
+- A support and B split-root support can be physically embodied;
+- B can retain a positive unsupported instability margin;
+- one actual A↔B contact can close B equilibrium;
+- A can retain a positive loaded support margin;
+- no alternate support is required.
+
+However the sanitized visual output was NOT accepted. It remained human-review FAIL/UNASSESSED and was not committed as a final candidate maquette.
+
+NEW TOOLING DEFECT
+
+Candidate 07's exact approved shared-field footprint is non-convex through its open local flexure.
+
+The hardened Stage 6M manifest law requires every surface solid polygon to be convex. Therefore an exact representation of this one physical field must use multiple boundary-connected convex solids.
+
+The frozen renderer currently emits every prism independently and applies the fixed outline to every face of every solid.
+
+Consequently a boundary that exists only to decompose one non-convex physical volume into valid convex mass/geometry solids becomes a visible line/side face in the sanitized transfer surface.
+
+For Candidate 07 this is disqualifying because current approved candidate law explicitly forbids the changed condition from depending on or reading as:
+- a seam;
+- engineered joint;
+- crack/gap;
+- technical registration line;
+- foot-balancing boundary.
+
+The defect is not candidate taste. It is a mismatch between physical-union semantics and renderer bookkeeping: an interior boundary with no physical meaning is being promoted into transferable pixels.
+
+FAIL-CLOSED DISPOSITION
+
+The first local Stage 6M output is rejected as transfer evidence.
+
+It may not be:
+- marked human-review PASS;
+- promoted as the Candidate 07 Stage 6M artifact;
+- supplied to Stage 7;
+- supplied to a renderer;
+- used to spend a Round 07 attempt.
+
+The candidate itself is NOT rejected by this finding because its exact support/contact/statics construction remained feasible. The blocking defect is representation of one connected volume as visibly jointed convex bookkeeping pieces.
+
+NARROW MECHANISM-NEUTRAL CORRECTION
+
+New evidence reopens only the Stage 6M sanitized-volume renderer.
+
+Required correction:
+- retain the exact same convex solids for validation, volume, COM, support and static-equilibrium calculations;
+- retain the exact frozen projection constants;
+- retain the exact frozen grayscale/depth instrumentation values;
+- retain transparent/no-text/no-ID/no-metadata/no-guide sanitization;
+- render boundary-connected solids belonging to one declared physical volume as one physical union;
+- do not emit a side face for an edge shared internally by two solids in that same volume;
+- do not stroke internal same-volume front/back bookkeeping boundaries;
+- preserve exposed physical boundaries and depth faces;
+- make no candidate-specific branch in the renderer;
+- make no palette/style/material/camera change.
+
+This is physical-topology correctness, not beauty tuning.
+
+VALIDATION REQUIREMENT
+
+Before Candidate 07 may use the correction:
+1. add a mechanism-neutral regression proving an internal shared solid boundary does not become a sanitized side face/outline;
+2. regenerate the existing non-candidate fixture deterministically;
+3. rerun the complete Stage 6M unit/hardening/bypass suite;
+4. obtain exact-head hosted validation success;
+5. recursively audit the correction for fail-open behavior and aesthetic authority leakage.
+
+Only after that method-level gate is clean may Candidate 07 Stage 6M be regenerated and judged again.
+
+FROZEN-LAW INTEGRITY
+
+No Hero Brief, Falsification Criteria, Surface Escape, Harness, D9, C07 Stages 1–6, renderer-isolation or one-attempt law is changed.
+
+No renderer/image generation occurred.
+
+DISPOSITION
+
+PREFLIGHT FAILS CLOSED.
+
+AUTHORIZED NEXT ACTION
+
+Correct and recursively audit the mechanism-neutral Stage 6M renderer so internal convex-decomposition boundaries do not transfer as physical seams, using the existing non-candidate validation surface before any Candidate 07 reuse.
