@@ -384,3 +384,49 @@ Primary reconciliation evidence:
 `docs/evidence/HERO_METHOD_02_D9_THREE_RENDER_BUDGET_DIRECTOR_RECONCILIATION_01.txt`.
 
 **Guardrail:** future hero work requires a newly authorized direction or explicitly new bounded program with its own predeclared round budget. No D9 renderer succession, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero selection, website implementation, Cloudflare change, Lane A/app UI implementation or motion is authorized by this closure.
+
+## L-024 — HTCR-01 opens as a bounded non-render translation/carrier program
+
+**State:** ACTIVE / HTCR-A1 AUTHORIZED / 2 NON-RENDER ANALYSIS ROUNDS MAX / 0 RENDERER EXPENDITURES
+
+The Director instructed continuation after D9 closure. Under the standing in-lane delegation and a clean recursive pre-analysis audit, hero research re-enters through the explicitly new bounded program `HTCR-01 — HERO TRANSLATION / CARRIER RECONCILIATION` rather than through D9 succession.
+
+The frozen parent contract remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01. HTCR-01 changes no score, threshold, S1-S6 rule, Harness geometry/crop/identity treatment or renderer accounting law.
+
+The program investigates whether final translation/carrier is the repeated upstream break between `recoverable changed condition` and `B dependent posture / altered possibility`, while preserving C08's separated-head, passive-support and no-maquette-leakage gains.
+
+Budget was fixed before A1:
+- HTCR-A1 = carrier/depiction-logic divergence;
+- HTCR-A2 = adversarial falsification of A1 survivors;
+- zero renderer expenditures;
+- no A3;
+- A1 closes the program early if it leaves zero survivors;
+- A2 may promote at most one successor translation hypothesis and never a candidate, render packet, reference, prompt or image.
+
+Program authority:
+`docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`.
+
+**Guardrail:** HTCR-01 is not D9 continuation, R09/C09, C08 repair, criterion/Harness mutation or renderer authorization. Any rendered successor requires a separate explicitly bounded program with its own predeclared renderer budget.
+
+## L-025 — HTCR-01 closes successfully and promotes DPSC-01 as translation hypothesis
+
+**State:** HTCR-01 SUCCESSFUL / CLOSED AFTER 2 OF 2 NON-RENDER ROUNDS / 0 RENDERER EXPENDITURES / DPSC-01 PROMOTED AS HYPOTHESIS ONLY
+
+HTCR-A1 tested four materially distinct depiction/carrier logics under the predeclared program contract. H1 Distributed Invariant Correspondence and H2 Relational Occlusion Topology survived; H3 Negative-Space Affordance Compression failed conventional-space/Surface Escape resistance; H4 Human-Condition Coupled Counterform failed intrinsic-baseline independence and repeated the body-conforming support attractor.
+
+HTCR-A2 adversarially attacked both A1 survivors against Hero Brief 02, S1-S6, Surface Escape, corrected Harness behavior, Round 07/08 renderer-prior evidence, prompt-seed discipline, mobile containment and the restoration counterfactual. H2 failed because occlusion order did not uniquely force a simpler baseline, remained vulnerable to naturalistic normalization, and became either one dominant boundary or a pictorial puzzle when strengthened.
+
+H1 survived and is promoted as:
+
+**DPSC-01 — DISTRIBUTED PRESENT-STATE CORRESPONDENCE.**
+
+DPSC-01 carries the recoverable simpler state through several independent present-state correspondences that predict the same baseline. One changed zone displaces those correspondences coherently, and B's support/posture must be physically coupled to that same displacement so restoration materially changes B and the necessary A↔B passive relation. It preserves C08's separated-head/passive-support gains while avoiding dependence on one dominant clue/prop.
+
+Primary evidence:
+- `docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`;
+- `docs/evidence/HERO_HTCR_01_A1_CARRIER_DIVERGENCE_RESULT_01.txt`;
+- `docs/evidence/HERO_HTCR_01_A2_ADVERSARIAL_FALSIFICATION_RESULT_01.txt`.
+
+No renderer, image, prompt, reference or material/style selection occurred. No frozen score, S1-S6 gate, Surface Escape rule or Harness implementation changed.
+
+**Guardrail:** DPSC-01 is not a candidate and does not authorize pixels. The next hero gate is a separate bounded rendered-successor program proposal with its renderer budget, construction method, pre-render rejection rules, material-difference rule and termination consequence frozen before any renderer expenditure. No HTCR-A3 exists.

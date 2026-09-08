@@ -1,0 +1,165 @@
+KYMÆAN — HTCR-01 A1 CARRIER / DEPICTION-LOGIC DIVERGENCE RESULT 01
+
+Program: HTCR-01 — HERO TRANSLATION / CARRIER RECONCILIATION
+Round: HTCR-A1
+Status: COMPLETE / 2 OF 4 HYPOTHESES SURVIVE / HTCR-A2 AUTOMATICALLY AUTHORIZED
+Date: 2026-09-08
+Renderer expenditure: 0
+
+PREDECLARED AUTHORITY
+
+This result applies only the frozen A1 tests in:
+`docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`.
+
+No test, threshold or material-difference rule was added after hypotheses were examined.
+
+INPUT EVIDENCE
+
+Preserve rather than rediscover:
+- C08 separated heads reduced the strongest social/intimacy shortcut;
+- passive posterior/lateral A↔B support remained mechanically necessary at depicted-pose level;
+- the local changed state could survive to a visible free edge without maquette/CAD leakage;
+- the repeated failure was upstream: the final naturalistic translation let the changed condition read as already-designed form, so a simpler baseline was not intrinsically forced and B's posture was not visibly caused by restoration-sensitive change;
+- the fixed pale left region independently failed Brand Integration / S6.
+
+A1 therefore changes **how the still image carries state correspondence**, not merely the shape, material or styling of a surface.
+
+CONTROL ATTRACTOR — NOT A HYPOTHESIS
+
+`ONE NATURALISTIC OBJECT/SURFACE WITH A LOCAL DEFORMATION`
+
+This is the known control attractor from C07/C08. It is not promoted merely because its geometry can be improved. Its failure mode is that the renderer can normalize the whole object/environment as having always possessed the depicted shape. One object is then asked to carry identity, history, causality and support simultaneously.
+
+A1 requires materially different representation logic.
+
+HYPOTHESIS H1 — DISTRIBUTED INVARIANT CORRESPONDENCE
+
+Definition:
+The shared condition's identity is carried by several low-salience, mutually reinforcing visual invariants distributed across the present image. Examples at the formal level include continuity, interval, orientation, thickness relation, directional rhythm and repeated local correspondence. Most of those invariants continue normally; the changed region displaces several of them together. The viewer can therefore infer the simpler prior relation from surrounding continuity without seeing a second time-state.
+
+B's support/posture is located at the displaced relation. The causal claim does not depend on one dominant object being recognized as “damaged” or “bent.” If the local correspondences are mentally restored, the support geometry available to B changes and the passive A↔B brace loses its present necessity.
+
+Material difference from C08:
+- baseline/change correspondence is distributed across multiple present-state invariants rather than concentrated in one surface silhouette;
+- state identity is carried by redundancy among relations rather than by the naturalistic identity of a single object;
+- causality is compositionally distributed instead of being literalized by one prop.
+
+A1 tests:
+A1.1 intrinsic baseline recoverability: PASS — surrounding repeated correspondence supplies the missing simpler relation intrinsically.
+A1.2 changed-state identity continuity: PASS — unchanged invariants establish that the displaced area belongs to the same condition.
+A1.3 posture causality: PASS IN PRINCIPLE — B can be made dependent specifically on the displaced correspondence rather than on generic topography.
+A1.4 restoration counterfactual: PASS IN PRINCIPLE — restoration realigns several relations and materially changes B's available support/contact geometry.
+A1.5 human necessity: PASS IN PRINCIPLE — C08's asymmetric passive human support can be retained.
+A1.6 no single-prop literalization: PASS — no one object carries the full formal instruction.
+A1.7 shorthand resistance: PASS IN PRINCIPLE — the changed state can be legible through relational inconsistency without damage, device, terrain or diagram shorthand.
+A1.8 Surface Escape plausibility: PASS IN PRINCIPLE — the transformed distributed condition can remain necessary to why the human situation exists.
+A1.9 identity coexistence: PASS — the calm identity region can use lower contrast/density while continuing the same underlying correspondence instead of becoming an independent light patch.
+A1.10 responsive survival: PASS IN PRINCIPLE — redundant local invariants can survive crop better than a single peripheral witness.
+
+A1 disposition: **SURVIVES TO A2**.
+
+HYPOTHESIS H2 — RELATIONAL OCCLUSION TOPOLOGY
+
+Definition:
+The prior/current correspondence is carried primarily by the ordering of visible overlaps, crossings and continuations among more than one continuous region. Most overlap relations establish a stable pattern; the changed zone locally changes which relation passes in front, behind, through or around another while preserving enough continuation for the viewer to infer the simpler ordering.
+
+B's posture/support is bound to the changed local ordering rather than to one sculpted shape. Restoring the simpler ordering would remove the exact support relation that currently requires passive help from A.
+
+Material difference from H1 and C08:
+- baseline/change correspondence is encoded in topological ordering/occlusion rather than in repeated metric-like invariants;
+- condition identity is carried by continuation across several interacting regions rather than one surface or one family of intervals;
+- the causal witness is a changed relation among regions, not the silhouette of a dominant prop.
+
+A1 tests:
+A1.1 intrinsic baseline recoverability: PASS IN PRINCIPLE — repeated continuation can make the simpler ordering inferable.
+A1.2 changed-state identity continuity: PASS IN PRINCIPLE — continuous regions can retain identity through one local ordering change.
+A1.3 posture causality: PASS IN PRINCIPLE — B can be placed where changed overlap/order creates the support constraint.
+A1.4 restoration counterfactual: PASS IN PRINCIPLE — restoring prior ordering can remove the support relation.
+A1.5 human necessity: PASS IN PRINCIPLE — passive support can remain integral.
+A1.6 no single-prop literalization: PASS — causality is between regions.
+A1.7 shorthand resistance: PASS WITH A2 RISK — topological organization need not imply damage/device, but could become visually diagrammatic or arbitrary.
+A1.8 Surface Escape plausibility: PASS WITH A2 RISK — depends on keeping the human situation primary rather than turning the artwork into a formal spatial puzzle.
+A1.9 identity coexistence: PASS IN PRINCIPLE — low-contrast continuations can cross the calm identity region without a fixed illumination patch.
+A1.10 responsive survival: PASS WITH A2 RISK — mobile crop can destroy long-range occlusion/continuation evidence if the relation is too distributed.
+
+A1 disposition: **SURVIVES TO A2**, with specific diagram/arbitrariness/mobile risks registered before A2.
+
+HYPOTHESIS H3 — NEGATIVE-SPACE AFFORDANCE COMPRESSION
+
+Definition:
+The changed condition is carried primarily by a transformed usable/open interval rather than by a changed solid. The viewer infers a simpler prior interval from surrounding spacing and sees B's current reach/entry/support possibility altered by the present compression or deflection of negative space.
+
+Material difference:
+- baseline/change correspondence resides in accessible void rather than solid form;
+- altered possibility is carried directly by spatial affordance rather than by one object.
+
+A1 tests:
+A1.1 intrinsic baseline recoverability: PASS IN PRINCIPLE.
+A1.2 changed-state identity continuity: WEAK — a void has weak persistent identity without support from bordering forms.
+A1.3 posture causality: PASS IN PRINCIPLE.
+A1.4 restoration counterfactual: PASS IN PRINCIPLE.
+A1.5 human necessity: PASS IN PRINCIPLE.
+A1.6 no single-prop literalization: PASS.
+A1.7 shorthand resistance: **FAIL** — once made strong enough to read as an affordance, the void is readily normalized as an ordinary passage/opening/path/channel or purpose-shaped spatial feature. That is the same “already designed” failure at a different polarity.
+A1.8 Surface Escape plausibility: **FAIL / UNSTABLE** — removing the transformed condition readily leaves an ordinary navigation/task tableau.
+A1.9 identity coexistence: PASS IN PRINCIPLE.
+A1.10 responsive survival: PASS IN PRINCIPLE.
+
+A1 disposition: **REJECTED**. The representation polarity changes, but the materially simpler conventional-space explanation survives. Do not carry H3 into A2.
+
+HYPOTHESIS H4 — HUMAN-CONDITION COUPLED COUNTERFORM
+
+Definition:
+The recoverable baseline is inferred from a complementary relation between B's body configuration and the shared condition: the changed condition and B's altered posture mutually reveal one another. Unchanged neighboring relations provide limited confirmation.
+
+Material difference:
+- some baseline information resides in the human-condition fit rather than solely in environment geometry;
+- B becomes part of the state-correspondence carrier.
+
+A1 tests:
+A1.1 intrinsic baseline recoverability: **FAIL** — the simpler prior condition depends too heavily on interpreting B's pose, making the environmental history circular rather than independently visible.
+A1.2 changed-state identity continuity: WEAK.
+A1.3 posture causality: PASS BY CONSTRUCTION, but circular.
+A1.4 restoration counterfactual: PASS BY CONSTRUCTION, but not independently inspectable.
+A1.5 human necessity: PASS.
+A1.6 no single-prop literalization: PASS.
+A1.7 shorthand resistance: **FAIL / HIGH RISK** — complementary body-shape logic readily becomes body-conforming furniture/support or a pose designed to fit a pre-existing form.
+A1.8 Surface Escape plausibility: WEAK — ordinary assistance/performance readings remain materially simple.
+A1.9 identity coexistence: PASS IN PRINCIPLE.
+A1.10 responsive survival: PASS IN PRINCIPLE.
+
+A1 disposition: **REJECTED**. It solves dependency by using B as evidence for the premise that is supposed to cause B; that is circular and too close to the body-conforming attractor already rejected before rendering in Candidate 05.
+
+A1 COMPARATIVE RESULT
+
+Survivors:
+1. **H1 — DISTRIBUTED INVARIANT CORRESPONDENCE**;
+2. **H2 — RELATIONAL OCCLUSION TOPOLOGY**.
+
+Rejected:
+3. H3 — Negative-space affordance compression: conventional-space normalization / Surface Escape instability;
+4. H4 — Human-condition coupled counterform: circular baseline evidence / body-conforming support attractor.
+
+WHY H1 AND H2 ARE MATERIALLY DISTINCT
+
+H1 says the prior/current relationship is recoverable from **redundant invariant correspondence** distributed across the image. H2 says it is recoverable from **topological ordering and continuation among interacting regions**. They differ in where correspondence is encoded, how identity persists, how restoration is inferred and what kind of visual evidence must survive crop. They are not palette/material variants.
+
+H1 is currently stronger because it offers redundant evidence, crop tolerance and a direct way to keep the calm identity region part of one world. This is an A1 observation only, not a final selection; H2 remains eligible for A2 adversarial falsification.
+
+A1 INTEGRITY AUDIT
+
+- no renderer call occurred;
+- no image/reference/prompt was created;
+- no material, architecture, terrain, device or damage noun was promoted as a solution;
+- no frozen criterion or Harness rule changed;
+- C08 gains were preserved as requirements, not as D9 continuation;
+- H3/H4 were rejected under predeclared tests rather than rescued;
+- two materially different survivors remain, so the frozen A1 outcome rule automatically authorizes A2;
+- no A3 exists.
+
+DISPOSITION
+
+HTCR-A1: COMPLETE.
+SURVIVORS TO A2: H1 / H2.
+HTCR-A2: AUTOMATICALLY AUTHORIZED BY PREDECLARED PROGRAM RULE.
+RENDERER EXPENDITURE: 0.

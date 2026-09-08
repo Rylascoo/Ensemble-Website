@@ -62,9 +62,12 @@ The post-Round-08 recommendation to pause D9/Method 02 and investigate final tra
 - a newly authorized direction; or
 - an explicitly new bounded program whose scope and round budget are named before renderer expenditure.
 
-ARITHMETIC CORRECTION COUPLED TO THIS RECONCILIATION
+CLEARANCE REPRESENTATION CORRECTION NOTE
 
-The Candidate 08 Stage 6 anti-edge metric is also corrected independently to **102.8 px exactly**, derived from integer SVG source geometry. This does not affect the Round 08 result because the criterion still passed and the correction changes no rendered pixel or frozen threshold.
+A later representation reconciliation establishes the controlling frozen normalized-manifest verifier value as **102.8395582822086 px** and preserves **102.8 px** as the valid parallel integer-SVG realization; **120 px** is superseded undeformed-baseline planning provenance. This factual correction does not affect Round 08 because the criterion remained PASS and no rendered pixel or frozen threshold changed.
+
+Canonical correction evidence:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_EDGE_CLEARANCE_METADATA_CORRECTION_01.txt`.
 
 HARD BOUNDARY
 
