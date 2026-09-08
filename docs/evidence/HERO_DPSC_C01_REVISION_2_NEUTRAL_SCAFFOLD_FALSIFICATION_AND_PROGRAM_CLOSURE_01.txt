@@ -1,0 +1,244 @@
+KYMÆAN — DPSC-C01 REVISION 2 NEUTRAL SCAFFOLD FALSIFICATION / DPSC-RSP-01 CASE-A CLOSURE 01
+
+Program: DPSC-RSP-01 — DPSC RENDERED SUCCESSOR PROGRAM 01
+Candidate: DPSC-C01
+Revision: 2 — LATERAL BODY-HEIGHT CONTINUUM / PASSIVE COUNTERBRACE
+Status: REVISION 2 REJECTED PRE-RENDER / DPSC-C01 CLOSED / DPSC-RSP-01 CLOSED UNDER CASE A / 0 OF 2 MAXIMUM RENDERER EXPENDITURES CONSUMED
+Date: 2026-09-08
+
+AUTHORITY
+
+This record applies the frozen DPSC-RSP-01 construction and pre-render rejection contract in:
+`docs/evidence/HERO_DPSC_RENDERED_SUCCESSOR_PROGRAM_01.txt`
+
+to the Revision 2 construction in:
+`docs/evidence/HERO_DPSC_C01_LATERAL_CONTINUUM_CORRECTION_D0_D5_01.txt`.
+
+The parent post-render contract remains unchanged:
+Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01.
+
+No renderer call, image-generation request, renderer-visible reference, sterile packet, qualifying round, score, criterion, Surface Escape rule or Harness behavior is created or changed by this closure.
+
+PRE-RENDER GATE PURPOSE
+
+L-029 authorized exactly one current-state neutral-vector scaffold gate for Revision 2. The scaffold had to make the lateral body-height continuum inspectable without relying on explanatory media and had to survive, at minimum:
+- P3 purpose-designed-whole normalization;
+- P6 dominant-prop reduction;
+- P7 forbidden shorthand;
+- P8 diagram/pattern dominance;
+- P10 corrected-Harness containment;
+- physical necessity of A's passive counterreaction;
+- full P1-P13.
+
+Private scratch representations could be used only to falsify construction transfer. None could become canonical merely by being attractive or by improving one criterion while failing another.
+
+PRIVATE-SCAFFOLD DISCIPLINE
+
+Three materially distinct private realizations of Revision 2 were inspected. They are not repository evidence assets, not canonical scaffolds, not renderer-visible references and are intentionally not preserved as promoted artwork.
+
+The audit records only the representation logic and resulting falsification because the frozen question is whether any one exact neutral scaffold can survive the pre-render rules.
+
+PRIVATE REALIZATION V1 — DISTINCT BODY-HEIGHT CONTINUUM
+
+Representation logic:
+A broad continuous body-height form crossed the scene with a local lateral displacement toward B. F1/F2/F3 were made visible through its envelope, thickness and subordinate directional relation.
+
+Result:
+The continuum became materially simpler to read as an independent ribbon/barrier/panel/wave-like object. Its local displacement behaved as the dominant causal prop reaching toward B.
+
+Disposition:
+- P7 FAIL;
+- P6 MATERIAL RISK;
+- P3 not rescued because the present form remained equally plausible as the object's intended shape.
+
+V1 rejected.
+
+PRIVATE REALIZATION V2 — SURROUNDING MASS / SINGLE SILHOUETTE BOUNDARY
+
+Representation logic:
+The distinct ribbon was removed. The condition occupied a much larger surrounding field and extended beyond the frame, while one body-height silhouette boundary locally displaced toward B. Correspondence was subordinated to that wider mass.
+
+Result:
+The independent-object reading weakened, but the image normalized more simply as an overhang, ceiling, geological/architectural boundary or already-shaped environmental mass. The visible boundary still owned the changed-state read.
+
+Disposition:
+- P3 FAIL / the simpler baseline was not intrinsically forced;
+- P7 FAIL / overhang, architectural or geological environmental shorthand materially simpler;
+- P6 MATERIAL RISK / one silhouette boundary still carried most causal evidence.
+
+V2 rejected.
+
+PRIVATE REALIZATION V3 — WHOLE-FIELD INTERNAL SECTION RELATION
+
+Representation logic:
+The surrounding condition was treated as the whole field rather than an independent object. The body-height change was carried by internal edge-to-edge section relationships so no single closed object silhouette was required. F1/F2/F3 were distributed across the same field.
+
+Result:
+The category failure moved again rather than disappearing. When internal correspondence was strong enough to recover a simpler course, it became a large stratum/band/formal field system that outranked the people and admitted terrain/geological/installation or diagrammatic readings. When those relationships were weakened enough to resist the shorthand, intrinsic baseline recovery deteriorated. The local body contact also became a privileged explanatory point.
+
+Disposition:
+- P3 FAIL when correspondence is subdued;
+- P7 FAIL when the field relation is strong enough to read causally;
+- P8 FAIL / MATERIAL when internal relation becomes the dominant formal system;
+- P6 MATERIAL RISK at the privileged contact point.
+
+V3 rejected.
+
+REVISION-2 COLLISION
+
+Across the three private realizations, the same protected trade-off recurred at body height:
+
+1. Give the changed condition a distinct visible boundary strong enough to contact B and carry F1/F2/F3 -> it becomes an independent wall/ribbon/panel/overhang/installation/environmental form, so P7 and often P3 fail.
+
+2. Absorb the condition into the whole surrounding field to resist the independent-object reading -> the distributed correspondence must become a stratum/formal field system to make the simpler baseline recoverable, causing P7/P8 pressure; if subdued, P3 fails.
+
+3. Localize the body contact strongly enough to make B's physical dependency unmistakable -> the contact becomes a dominant explanatory prop/point and increases P6/P7 pressure.
+
+The collision is representation-level, not a palette, texture, material, setting, camera or rendering-quality defect. No renderer is justified to discover a failure already exposed by the frozen pre-render rules.
+
+PHYSICAL-DEPENDENCY DISPOSITION
+
+Revision 2's lateral-load proposition remains mechanically constructible in principle: B can be posed so a sustained side load requires a passive opposing torso reaction from independently stable A, and restoration can remove that load. The private variants did not expose a mandatory physical contradiction.
+
+That positive does not rescue the candidate. The frozen rules are conjunctive. A candidate that cannot clear P3/P7/P8 before renderer expenditure is rejected even if its statics can be made plausible.
+
+No canonical statics manifest or numeric force model is promoted because no visual scaffold survives far enough to become the exact candidate representation. Inventing Director-side numeric authority for an already-rejected scaffold would add false precision without changing the disposition.
+
+CORRECTED HARNESS / MOBILE DISPOSITION
+
+The tested source family used a 1536 x 960 neutral frame. Under the exact corrected Harness:
+- desktop evidence frame = 1280 x 720 at `object-fit: cover`, position 50% 50%;
+- mobile evidence frame = 390 x 488 at `object-fit: cover`, position 72% 50%.
+
+For a 1536 x 960 source, the mobile meaningful source interval is approximately x = 553.5266 through 1320.7397, y = 0 through 960. Both people, the local body-height changed zone and useful unchanged correspondence on both sides can be compositionally placed within this interval.
+
+P10 therefore is not the independent blocker. Semantic mobile success nevertheless cannot be claimed because the correspondence that survives the crop still inherits the P3/P7/P8 failure.
+
+FULL P1-P13 REVISION-2 DISPOSITION
+
+P1 — fewer than three independent families: PASS IN CONSTRUCTION. Revision 2 retains F1/F2/F3.
+
+P2 — families fail to converge: PASS IN CONSTRUCTION when made visible. They predict the same inverse local lateral shift.
+
+P3 — present configuration equally/more plausibly always-designed: FAIL. Distinct-boundary and whole-field variants remain naturalizable; suppressing the correspondence removes intrinsic baseline recovery.
+
+P4 — restoration leaves B unchanged: PASS IN PRINCIPLE. The lateral-load construction can make restoration change B.
+
+P5 — A optional/active/interpersonal: PASS IN PRINCIPLE. Separated-head passive posterior/lateral contact remains constructible without hands/arms.
+
+P6 — one dominant prop/clue sufficient: MATERIAL RISK / NON-RESCUING. Distinct-boundary variants privilege one environmental form; whole-field variants privilege the body-contact point. P3/P7/P8 already reject the revision.
+
+P7 — forbidden shorthand materially simpler: FAIL. Ribbon/panel/barrier/overhang/geological/architectural/installation/formal-field categories repeatedly become simpler than the intended changed shared condition.
+
+P8 — diagram/grid/pattern/formal system dominance: FAIL / MATERIAL in the whole-field internal-relation realization when correspondence is strengthened enough to solve P3.
+
+P9 — fixed pale identity patch required: PASS IN CONSTRUCTION. None is required.
+
+P10 — mobile containment: PASS IN COMPOSITIONAL PRECHECK ONLY; semantic read still fails through P3/P7/P8.
+
+P11 — transfer requires explanatory project media: PASS IN METHOD. All tested representations were current-state-only and unlabeled.
+
+P12 — disguised C08 retry: PASS. No C08 geometry/reference/free-edge witness or closed scaffold was used.
+
+P13 — foreseeable frozen-contract violation: FAIL because P3/P7/P8 remain foreseeable and repeated across materially different Revision-2 transfer realizations.
+
+REVISION-2 DISPOSITION
+
+DPSC-C01 Revision 2 — LATERAL BODY-HEIGHT CONTINUUM / PASSIVE COUNTERBRACE:
+**REJECTED BEFORE RENDERER EXPENDITURE.**
+
+No canonical neutral scaffold is promoted.
+No renderer-visible reference/prompt/packet exists.
+No DPSC-E1 image exists.
+Renderer expenditure remains 0 of 2 maximum.
+
+NO-REVISION-3 / CASE-A TERMINATION AUDIT
+
+The program contract states that pre-render rejection is evidence, not permission to patch indefinitely. A material correction may restart a construction stage only while it remains inside the frozen DPSC method. Case A closes the program if no lawful C01 survives.
+
+After Revision 1 and Revision 2, the recursive audit tested the remaining representation directions against prior HTCR closure and the frozen DPSC controls.
+
+A. another ground/lower-support carrier
+Already falsified by Revision 1's P3/P7/P8 collision. Reparameterizing its geometry, contrast, setting or material is not a new correction.
+
+B. another distinct body-height solid/boundary
+Already falsified across Revision-2 V1/V2. Moving, thickening, rotating or restyling the same wall/ribbon/panel/overhang relation is local tuning, not a new depiction logic.
+
+C. whole-field/volumetric correspondence without a privileged visible interface
+Revision-2 V3 shows the problem: make correspondence strong and it becomes stratum/formal-system shorthand; weaken it and P3 fails. Removing the physical interface further also weakens P4 because B's visible support/posture can no longer depend on the changed zone.
+
+D. overhead/top-side carrier
+To exert the required visible present support/contact relation it becomes an overhang/ceiling/impact/hazard or active-contact event, reproducing P7 and ordinary-accident shortcuts. Without that contact it does not satisfy P4.
+
+E. negative-space / opening / affordance carrier
+HTCR-A1 H3 was already rejected because passage/opening/path/channel or purpose-shaped-space explanations remain materially simpler and Surface Escape is unstable. Reopening it inside C01 would violate preserved program lineage rather than correct DPSC-C01.
+
+F. human-condition counterform / body-shape carrier
+HTCR-A1 H4 was already rejected because baseline evidence becomes circular and the form collapses toward body-conforming furniture/support. Reopening it would contradict the promoted DPSC requirement that the baseline be independently recoverable from present-state correspondence.
+
+G. relational occlusion topology
+HTCR-A2 H2 was already rejected because local ordering does not force a unique simpler baseline, naturalizes readily, and becomes either a dominant boundary or formal puzzle when strengthened.
+
+H. discrete causal object/prop
+Directly conflicts with DPSC source law and P6: no single object/edge/prop may carry the proposition.
+
+No remaining materially new C01 correction survives without either:
+- repeating a representation class already falsified under this program;
+- reopening an HTCR hypothesis already rejected before DPSC-01 promotion;
+- violating DPSC source law;
+- or changing the frozen program method itself.
+
+Therefore Case A termination binds.
+
+PROGRAM CLOSURE
+
+DPSC-C01: CLOSED PRE-RENDER.
+DPSC-RSP-01: CLOSED UNDER CASE A — NO LAWFUL C01 SURVIVES THE FROZEN PRE-RENDER METHOD.
+Renderer expenditures consumed: **0 of 2 maximum**.
+DPSC-E1: DID NOT OCCUR.
+DPSC-C02: NOT AVAILABLE, because the frozen program permits C02 only after a judgeable DPSC-E1 failure.
+DPSC-E2: DID NOT OCCUR.
+
+This closure is not evidence that DPSC-01 is mathematically or artistically impossible in every conceivable future program. It is evidence that the bounded DPSC-RSP-01 construction method cannot produce a lawful renderer-ready C01 without repeating a protected pre-render collision or changing its frozen rules.
+
+The frozen post-render suspected-unsatisfiable stop is not triggered by this program because no judgeable DPSC rendered output exists.
+
+NEXT LAWFUL RE-ENTRY
+
+No automatic successor candidate or renderer program is authorized by this closure. Any further hero research requires a separate post-program reconciliation that treats:
+- D9 closure;
+- HTCR-01's DPSC-01 mechanism-level success;
+- DPSC-RSP-01's zero-render transfer falsification;
+- the unchanged Hero Brief / Falsification / Surface Escape / Harness law;
+
+as evidence rather than silently patching C01, creating C02 without E1, or reopening a rejected HTCR carrier.
+
+Final hero/style/palette selection, website implementation/deployment, Harness mutation, Lane A implementation and motion remain outside this closure.
+
+RECURSIVE AUDIT
+
+Pass 1 checked sequence integrity: Revision 1 closed before Revision 2; Revision 2 earned D0-D5 before this exact-scaffold gate; no renderer authorization existed.
+
+Pass 2 checked representation diversity: the three private Revision-2 realizations changed whether the condition was a distinct object, a surrounding mass with one silhouette, or an internal relation of the whole field. Their repeated protected failures therefore are not one duplicated drawing mislabeled as three tests.
+
+Pass 3 checked for post-result rule changes: P1-P13, DPSC source law, Harness behavior, budget and Case-A consequence are unchanged.
+
+Pass 4 checked positive evidence preservation: mobile composition and lateral-load statics remain feasible in principle and are not rewritten as failures merely because P3/P7/P8 bind.
+
+Pass 5 checked closure breadth: the result closes DPSC-RSP-01, not all conceivable DPSC thinking and not all passive-human-support geometry.
+
+Pass 6 checked retry loopholes: no Revision 3 by local tuning, no C02 without E1, no E1 merely because budget remains, no HTCR family reopening, no D9/C08 succession.
+
+Pass 7 checked repository/product boundary: no production site, Cloudflare, app runtime, engineering source/test, Harness, identity asset, material/style or motion change is created.
+
+One complete final pass found no lawful C01 correction left inside the frozen program and no narrower truthful disposition than Case-A closure.
+
+DISPOSITION
+
+DPSC-C01 REVISION 2: REJECTED PRE-RENDER.
+DPSC-C01: CLOSED.
+DPSC-RSP-01: CLOSED UNDER CASE A.
+RENDERER EXPENDITURE: 0 OF 2 MAXIMUM.
+CANONICAL NEUTRAL SCAFFOLD: NONE PROMOTED.
+NEXT: POST-PROGRAM HERO RECONCILIATION ONLY; NO AUTOMATIC CANDIDATE OR RENDERER.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE PRE-RENDER / TERMINATION AUDIT.
