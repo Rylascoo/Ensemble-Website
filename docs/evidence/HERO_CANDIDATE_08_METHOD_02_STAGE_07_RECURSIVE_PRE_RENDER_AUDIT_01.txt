@@ -1,0 +1,229 @@
+KYMÆAN — HERO CANDIDATE 08 METHOD 02 STAGE 07 RECURSIVE PRE-RENDER AUDIT 01
+
+Status: COMPLETE / CORRECTED / CLEAN FINAL PASS / STAGE 7 APPROVED / EXECUTION-READY SUBJECT TO ISOLATION CONTROL
+Date: 2026-09-08
+Candidate: C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE
+Execution label: METHOD02-R08-C08
+
+AUDITED EXACT RENDERER-VISIBLE BYTES
+
+Sanitized Stage 6M maquette reference:
+- exact deterministic SVG SHA-256: `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`;
+- renderer-facing neutral filename: `reference.svg`;
+- Director-side pin: `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`;
+- canonical source geometry: approved C08 Stage 6M manifest/tooling;
+- exact-main Stage 6M validation: workflow run `34255553033` at `b8d6bf12884872c609a86942ed545ce7df10cfcd`, SUCCESS.
+
+Sterile renderer packet:
+- repository artifact: `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`;
+- Git blob: `7e7d5cd71fb0b04aaaf78369fe89699cccc8c121`;
+- SHA-256: `fc1483244d39b3b65eed362330800527f1f08df6a6dc9052bf81296046be0c6f`.
+
+Director-context package:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt`.
+
+GOVERNING LAW
+
+- approved C08 Stages 1–5;
+- approved C08 Stage 6 + audit;
+- approved Stage 6 edge-clearance reconciliation;
+- approved C08 Stage 6M + audit;
+- Stage 6M transfer addendum;
+- Method 02 Sections 10–14;
+- Renderer Isolation Protocol;
+- frozen Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01.
+
+FIRST RECURSIVE PASS — CORRECTION
+
+RENDERER-LANGUAGE TECHNICALIZATION RISK
+
+The first renderer packet draft used the compact construction terms `free-edge/thickness-return witness` and `finite-thickness field`. Those phrases were structurally accurate but unnecessarily close to Director/construction vocabulary and could bias a renderer toward architectural/CAD interpretation.
+
+Correction:
+- replaced them with ordinary visual language: a place where the surface's free edge and thickness are visible, and one broad continuous surface with visible physical thickness;
+- retained the causal requirement that the local departure propagate through the same surface to the visible free edge;
+- changed no geometry, support relation, contact relation, responsive burden or frozen criterion;
+- repinned the corrected renderer packet at the exact blob/SHA above.
+
+FINAL RECURSIVE PASS
+
+AUTHORITY / STAGE SEPARATION — PASS
+
+Stages 1–6M are approved. Stage 7 constructs only renderer-visible reference/prose plus Director-side execution accounting. No reference has been sent to a fresh renderer context and no image-generation request has occurred. Round 08 remains unspent.
+
+REFERENCE BYTE IDENTITY — PASS
+
+The renderer-facing reference is the exact deterministic sanitized Stage 6M SVG already reproduced by canonical hosted validation. Stage 7 makes no geometric edit, crop, re-layout, style change, enhancement or candidate-specific rescue to those bytes.
+
+REFERENCE SANITIZATION — PASS
+
+Direct inspection of the exact SHA-pinned SVG found:
+- one `<svg>` root and 265 `<polygon>` elements only;
+- no `<text>`;
+- no `<metadata>`;
+- no `<title>` / `<desc>`;
+- no `<image>` / script / foreign object;
+- no background rectangle;
+- no semantic `id`, `class`, `data-*` or `aria-*` attributes;
+- element attributes limited to viewport geometry plus `points`, `fill`, `stroke` and `stroke-width`;
+- no project/candidate vocabulary;
+- no Director-only guides, COM/support measurements, force arrows, labels, clearance values or score data.
+
+The view remains transparent. Fill/stroke values are only the already-frozen neutral Stage 6M instrumentation needed for physical depth legibility.
+
+REFERENCE PHYSICAL FIDELITY — PASS
+
+The exact view embodies the same C08 solids that generated the approved mass/support/contact/static result:
+- A independently stable;
+- two visible B support roots;
+- B unsupported without A in the frozen depicted pose;
+- one actual passive upper-body A↔B adjacency;
+- A stable under the required reaction;
+- separated head volumes;
+- one continuous finite-depth shared surface with the propagated changed condition and visible free edge;
+- no hidden alternate physical model transferred by prose.
+
+Approved Director-side validation remains:
+- A unsupported margin = 90.61033316 px;
+- B unsupported margin = -25.27305046 px;
+- B supported margin = 5.0688 px;
+- A coupled margin = 93.09357443 px;
+- conservative 2:1 A sensitivity margin = 44.009678473114956 px;
+- projected head gap = 51.91680000000012 px;
+- Stage 6 changed support-root/free-edge clearance = 102.8395582822086 px;
+- Stage 6M physical support-root/free-edge clearance = 102.85483969465605 px.
+
+None of these numbers appears in renderer-visible prose.
+
+STAGE 6 CLEARANCE RECONCILIATION — PASS
+
+The stale `120 px` Stage 6 planning value remains Director-side undeformed-baseline provenance only. The exact changed-state Stage 6 clearance and normalized Stage 6M physical clearance both exceed the unchanged 100 px floor. Stage 7 does not transmit the stale number, the corrected number or any measurement annotation. No Stage 6 visible x/y geometry was changed.
+
+MAQUETTE / CAD LEAKAGE CONTROL — PASS
+
+C08 Stage 6M human preflight already passed `maquette_leakage=PASS` and `surface_read=PASS`. The sterile packet explicitly instructs translation away from gray material, faceting, outlines, blockout, mannequin, CAD, maquette, diagram and reference-sheet character.
+
+Final pixels remain binding: material maquette/CAD/mannequin leakage is a candidate failure and consumes Round 08.
+
+STERILE PACKET ISOLATION — PASS
+
+Exact corrected packet inspection found no Kymaean/Kymæan, Ensemble, project, candidate/round label, repository/Drive, Harness, Falsification, Surface Escape, Stage 6M/7, score or threshold vocabulary. No previous artwork, critique history, experiment history or Director-side numeric evidence is described.
+
+PROMPT-SEED DISCIPLINE — PASS
+
+The packet supplies no example menu of architecture, geography, culture, occupation, era, named medium, artist or visual style. Setting, material, clothing, identity, lighting and atmosphere remain renderer-selected. Negative controls are bounded to approved structural failure modes, known transfer attractors and transfer-medium leakage.
+
+C08 SURFACE-CHANGE DEPENDENCY — PASS
+
+The packet preserves C08's principal successor correction without turning it into a technical diagram:
+- one broad continuous surface rather than a separate support object;
+- a local departure propagated through that same surface;
+- a naturally visible free edge where physical thickness can be read;
+- recoverable simpler continuation on both sides;
+- no crack/seam/joint/grid/marker as substitute evidence;
+- no platform/ramp/trough/chair/cradle/purpose-built support/installation/damage-scene or dramatic-terrain collapse.
+
+The surface therefore carries observable changed-state evidence while remaining subordinate to the necessary human relation.
+
+PASSIVE-BRACE / HEAD-SEPARATION CONTROL — PASS
+
+The packet preserves:
+- B surface-borne at the two represented foot contacts only;
+- no wider/alternate support;
+- B lateral/rotational dependence on independently stable A;
+- one broad passive scapular/upper-back ↔ lateral-ribcage/upper-torso contact;
+- separated heads;
+- no head-on-shoulder support;
+- no active hand/arm support;
+- no lift/catch/grasp/push/pull/hold;
+- no substantially parallel posed lean;
+- no fall/catch, dance, exercise or balance-demonstration shorthand.
+
+It does not select a replacement interpersonal story or emotional state.
+
+SEMANTIC DEPENDENCY — PASS
+
+The packet preserves two necessary adults, changed-surface evidence, B's altered support possibility, A's passive brace necessity, recoverable simpler surface continuation and non-interchangeable human specificity. The proposition cannot be satisfied merely by generic occupancy or by removing either person while leaving the visible relation unchanged.
+
+EPISTEMIC RESTRAINT — PASS
+
+The packet does not require emotion, knowledge, belief, memory, motive or exact prior authorship. Observable physical relations carry the burden.
+
+BASELINE / CHANGED-STATE TRANSLATION — PASS
+
+The changed surface is required to remain local within a much larger simpler continuation and to reach a visible free edge where thickness makes the physical departure legible. Baseline recoverability remains natural and multi-sided rather than technical/annotated.
+
+PRE-EXISTING-FORM DISCIPLINE — PASS
+
+The exact Stage 6M reference passed surface-only and anti-purpose-built-support preflights. The corrected packet rejects the specific pre-existing-form attractors without prescribing a replacement architecture, material or story.
+
+RESPONSIVE / HARNESS — PASS
+
+Director-side fixed-mobile preflight retains both people, passive contact, critical B support and changed-surface/free-edge evidence. The renderer packet preserves only the broad central-right/nonessential-far-left burden. No crop coordinates, Harness names or candidate-specific crop rescue leak to the renderer. Harness geometry remains unchanged.
+
+AESTHETIC BOUNDARY — PASS
+
+No final palette, brand color, exact material, texture, setting, clothing, identity, camera drama, lighting design or named style is selected. Neutral maquette grayscale/depth cues are expressly instrumentation to translate away, not aesthetics to inherit.
+
+ARTWORK-ONLY CONTRACT — PASS
+
+The requested output is one uninterrupted artwork with no text, UI, branding, border, presentation layout or explanatory collateral.
+
+REFERENCE-STRENGTH DISCIPLINE — PASS WITH EXECUTION-TIME CONDITION
+
+No user-set reference-strength control is assumed. If the actual fresh renderer UI exposes any reference/image/structure-strength control, execution must stop before generation and return for one exact fixed-value amendment + recursive audit. If none is exposed, record N/A.
+
+MATERIAL DIFFERENCE / NON-RETRY — PASS
+
+C08 is materially distinct from C07 despite retaining the validated Stage 6M representation family. The successor difference is upstream and candidate-geometric: propagated surface change to a viewer-facing free edge/thickness read, wider changed B support geometry with positive unsupported margin, and separated-head scapular/ribcage brace contact. No C07 image or output is transferred. C08 remains a new Round 08 candidate, not a C07 reroll.
+
+Relative to earlier transfer families, C08 still uses transfer-visible support footprints, visible body-axis/support instability, actual volumetric contact adjacency and actual surface depth rather than C04 line/fill transfer or C06 abstract silhouette/path transfer.
+
+EXECUTION ACCOUNTING — PASS
+
+Future authorized execution is exactly:
+- one fresh regular chat outside the Ensemble project;
+- one request;
+- one image requested;
+- one exact byte-pinned sanitized C08 reference;
+- one exact byte-pinned corrected sterile packet;
+- zero historical artwork;
+- zero brand assets;
+- zero project documents;
+- zero manifest/report transfer;
+- zero free rerolls.
+
+A judgeable result consumes METHOD02-R08-C08 / Round 08. A genuine no-image technical failure stops and is reported; it does not silently authorize another request.
+
+STOP CONSEQUENCE — PASS
+
+After a later judgeable return: stop renderer execution, return raw pixels to Director Context, archive provenance when practical, and evaluate under unchanged frozen measurement law before any packet/reference/criteria modification.
+
+METHOD 02 COMPLETE REVIEW SET — PASS
+
+C08 now has the complete pre-render sequence: Stages 1–5, Stage 6 + audit, Stage 6 clearance reconciliation, Stage 6M + audit, exact reference pin, exact corrected sterile packet, material-difference declaration, execution accounting/stop consequence and this recursive pre-render audit.
+
+SIMPLICITY / WORTHWHILE-IMPROVEMENT CHECK — PASS
+
+The first-pass language correction removed unnecessary Director-style technicalization without weakening the free-edge/thickness requirement. No additional story, setting, aesthetic specification, coordinate, force explanation, measurement, motif blacklist, project-history sentence or reference mutation closes an unresolved requirement. Further renderer-facing accretion would increase seed/transfer risk.
+
+FINAL PASS
+
+One complete pass after the language correction found no remaining material authority leak, reference contamination, project-memory leakage, support loophole, head-contact loophole, surface-naturalization loophole, causal contradiction, responsive contradiction, private-state dependence, unbounded aesthetic selection, execution ambiguity or worthwhile simplification.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Candidate C08-EWTF-01 Stage 7 Sterile Artwork Translation / complete pre-render review package is APPROVED.
+
+EXECUTION-READINESS CONSEQUENCE
+
+Renderer execution is now design-ready only as a separate isolation operation. It may proceed in one fresh regular chat outside the Ensemble project using:
+- exact sanitized Stage 6M reference bytes under neutral filename `reference.svg`, SHA-256 `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`;
+- exact corrected sterile packet bytes, Git blob `7e7d5cd71fb0b04aaaf78369fe89699cccc8c121`, SHA-256 `fc1483244d39b3b65eed362330800527f1f08df6a6dc9052bf81296046be0c6f`;
+- no additional preamble or project material.
+
+If the fresh UI exposes any user-set reference-strength/image-weight/structure-strength control, STOP BEFORE GENERATION and return for one audited fixed-value amendment.
+
+NO IMAGE WAS GENERATED BY THIS AUDIT. ROUND 08 REMAINS UNSPENT.
