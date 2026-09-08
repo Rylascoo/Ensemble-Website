@@ -1,0 +1,34 @@
+name: Stage 6M tooling
+
+on:
+  push:
+    paths:
+      - 'tools/stage6m_maquette.py'
+      - 'tools/test_stage6m_maquette.py'
+      - 'docs/evidence/stage6m/**'
+      - '.github/workflows/stage6m-tooling.yml'
+  pull_request:
+    paths:
+      - 'tools/stage6m_maquette.py'
+      - 'tools/test_stage6m_maquette.py'
+      - 'docs/evidence/stage6m/**'
+      - '.github/workflows/stage6m-tooling.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Run Stage 6M unit tests
+        run: python3 tools/test_stage6m_maquette.py
+      - name: Verify deterministic non-candidate fixture bytes
+        run: >-
+          python3 tools/stage6m_maquette.py validate
+          docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01.json
+          --expected-svg docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_SANITIZED.svg
+          --expected-report docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_REPORT.json
