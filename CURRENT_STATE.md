@@ -5,32 +5,27 @@
 Updated: 2026-09-08
 
 ## Authority
-Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md`. Durable design closure: `docs/evidence/DESIGN_LEDGER.md`. This file alone owns volatile design phase/current-boundary state.
+Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`. This file alone owns volatile design phase/current-boundary state.
 
 ## Repository / cross-project
-`main` is authoritative. `site/` is the only deployable/public website root; product/backend remains in `Rylascoo/Ensemble-Project`. Central sequencing register: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
+`main` is authoritative. `site/` is the only deployable/public website root; product/backend remains in `Rylascoo/Ensemble-Project`. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
 
 ## Hero authority
-Frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01. D9 is closed 3/3; HTCR-01 is closed successful and promoted DPSC-01.
+Frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01. D9 is closed 3/3. HTCR-01 closed successful and promoted DPSC-01 as a translation hypothesis.
 
-## Active program — DPSC-RSP-01
-Maximum renderer budget: **2 judgeable images**, DPSC-E1/E2; no E3/no free reroll. Renderer expenditure: **0**.
+## DPSC-RSP-01 — CLOSED PRE-RENDER
+**CASE A CLOSURE / DPSC-C01 CLOSED / 0 OF 2 MAXIMUM RENDERER EXPENDITURES CONSUMED.**
 
 Contract: `docs/evidence/HERO_DPSC_RENDERED_SUCCESSOR_PROGRAM_01.txt`.
+Closure: `docs/evidence/HERO_DPSC_C01_REVISION_2_NEUTRAL_SCAFFOLD_FALSIFICATION_AND_PROGRAM_CLOSURE_01.txt`.
 
-## DPSC-C01
-Revision 1 lower-support/ground carrier: **REJECTED PRE-RENDER / 0 EXPENDITURES** by P3/P7/P8 collision.
+Revision 1 ground carrier failed P3/P7/P8. Revision 2 lateral body-height continuum then failed the exact-scaffold gate across materially different private realizations: distinct boundary became ribbon/panel/overhang shorthand; whole-field correspondence became stratum/formal-system shorthand or lost intrinsic baseline recovery when subdued. Physical dependency and mobile containment remained feasible but could not rescue conjunctive P3/P7/P8 failure.
 
-Revision 2 — **LATERAL BODY-HEIGHT CONTINUUM / PASSIVE COUNTERBRACE: D0-D5 CORRECTED CONSTRUCTION COMPLETE / CLEAN AT CONSTRUCTION LEVEL / NOT RENDERER-READY.**
-
-Correction evidence:
-`docs/evidence/HERO_DPSC_C01_LATERAL_CONTINUUM_CORRECTION_D0_D5_01.txt`.
-
-Revision 2 removes the ground carrier. One continuous body-height condition carries exactly three independent correspondence families; one local lateral displacement contacts B and creates a postural load countered by passive separated-head A contact. The exact scaffold must still falsify P3/P6/P7/P8, physical dependency and mobile containment.
+No canonical scaffold, renderer-visible reference/prompt/packet, DPSC-E1 or DPSC-E2 exists. C02 never became available because the frozen contract requires a judgeable E1 failure first. The post-render suspected-unsatisfiable stop is not triggered because no DPSC judgeable render occurred.
 
 ## Exact next action / hard boundary
-Construct **one exact current-state neutral vector scaffold** for DPSC-C01 Revision 2. Then inspect physical dependency, purpose-designed-whole normalization, dominant-prop and wall/curtain/panel/device/installation/floating-object shorthand, pattern/diagram dominance, corrected Harness desktop/mobile containment, and rerun full P1-P13.
+Perform **post-program hero reconciliation only** using D9 closure + HTCR-01 mechanism-level success + DPSC-RSP-01 zero-render transfer falsification. Do not auto-create a successor candidate/program or spend renderer budget.
 
-No renderer-visible bytes, sterile packet or DPSC-E1 call is authorized until that exact scaffold and candidate-specific recursive pre-render audit pass. No D9/R09/C09 continuation, C08 retry, frozen-criterion/Harness mutation, final hero selection, production website deployment, Lane A implementation or motion.
+No D9/R09/C09 continuation, C08 retry, DPSC-C01 Revision 3, C02 without E1, rejected-HTCR carrier reopening, frozen-criterion/Harness mutation, final hero selection, production website deployment, Lane A implementation or motion is authorized.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
