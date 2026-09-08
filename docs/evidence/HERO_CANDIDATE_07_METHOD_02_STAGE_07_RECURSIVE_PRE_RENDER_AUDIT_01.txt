@@ -1,0 +1,205 @@
+KYMÆAN — HERO CANDIDATE 07 METHOD 02 STAGE 07 RECURSIVE PRE-RENDER AUDIT 01
+
+Status: COMPLETE / CORRECTED / CLEAN FINAL PASS / STAGE 7 APPROVED / EXECUTION-READY SUBJECT TO ISOLATION CONTROL
+Date: 2026-09-07
+Candidate: C07-CBSR-01 — CROSS-BAND SPLIT-ROOT PASSIVE BRACE
+Execution label: METHOD02-R07-C07
+
+AUDITED EXACT RENDERER-VISIBLE BYTES
+
+Sanitized Stage 6M maquette reference:
+- exact deterministic SVG SHA-256: `1a3cf18f5270cbf25209a76f2fb00e3de0e57aa9c7c565ec769a505b2580e89d`;
+- renderer-facing neutral filename: `reference.svg`;
+- Director-side source/pin: `docs/evidence/renderer/C07-CBSR-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`;
+- canonical source geometry: approved C07 Stage 6M manifest/tooling.
+
+Sterile renderer packet:
+- repository artifact: `docs/evidence/renderer/C07-CBSR-01_STAGE07_STERILE_RENDERER_PACKET.txt`;
+- Git blob: `e7eb8efa625f41a7e04a57f05f96cf98e79e5539`;
+- SHA-256: `38c5aefd052cb0e9601d36369deb80dfc6769f7eed82079c797e9d3526fb70ce`.
+
+Director-context package:
+`docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt`
+corrected blob at audit entry: `d0d7f4f1f67cc10962fcbbe6f0f2ce0262111fe6`.
+
+GOVERNING LAW
+
+- approved C07 Stages 1–5;
+- approved C07 Stage 6;
+- approved C07 Stage 6M;
+- Stage 6M addendum + physical-union correction;
+- Method 02 Sections 10–14;
+- Renderer Isolation Protocol;
+- frozen Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01.
+
+FIRST PASS — CORRECTIONS
+
+1. RESPONSIVE TRANSFER OMISSION
+
+The first sterile packet relied on the visual reference to imply composition but did not explicitly preserve the global Harness burden that the necessary event remain broadly central-right while the far-left region remains nonessential.
+
+Correction:
+- added one non-coordinate renderer-facing sentence preserving the broad central-right event region and nonessential far-left region;
+- no Harness name, source coordinates, crop box or implementation detail was exposed;
+- no candidate-specific crop rescue was introduced.
+
+2. BODY-AXIS / PERFORMANCE ATTRACTOR OMISSION
+
+The first sterile packet said to preserve body orientations but did not explicitly close the known renderer attractor in which a required passive brace becomes a substantially parallel posed lean or performance/balance shorthand.
+
+Correction:
+- explicitly preserve visibly different body axes from the reference;
+- explicitly reject substantially parallel posed lean, fall/catch, dance, exercise and balance-demonstration readings;
+- no replacement narrative, setting, occupation, emotional state or action script was selected.
+
+The corrected packet was re-pinned at the exact blob/SHA above.
+
+FINAL RECURSIVE PASS
+
+AUTHORITY / STAGE SEPARATION — PASS
+
+Stages 1–6M are approved. Stage 7 constructs only renderer-visible reference/prose and execution accounting. No reference has been transferred to a fresh renderer context and no image-generation request has occurred.
+
+REFERENCE BYTE IDENTITY — PASS
+
+The reference is the exact deterministic sanitized Stage 6M SVG already reproduced by canonical hosted validation. Stage 7 makes no geometric edit, crop, re-layout, style change or candidate-specific enhancement to those bytes.
+
+REFERENCE SANITIZATION — PASS
+
+The exact SVG contains only the SVG viewport plus 201 polygon elements. Audit inspection found:
+- no `<text>`;
+- no `<metadata>`;
+- no `<title>` / `<desc>`;
+- no `<image>` / script / foreign object;
+- no background rectangle;
+- no semantic `id`, `class`, `data-*` or `aria-*` attributes;
+- no project/candidate vocabulary;
+- no Director-only guides, COM/support measurements, force arrows, labels or score data.
+
+It remains transparent and uses only the already-frozen neutral instrumentation values needed for physical depth legibility.
+
+REFERENCE PHYSICAL FIDELITY — PASS
+
+The exact view embodies the same C07 solids that generated the approved uniform-density COM/support/contact/statics result:
+- two distinct support roots for B;
+- visible oblique B body/support relation;
+- independently stable A;
+- actual A↔B upper-body adjacency;
+- one connected finite-thickness surface with its local deformation;
+- physical-union suppression of nonphysical convex-decomposition seams.
+
+No hidden alternate physical model is transferred through prose.
+
+MAQUETTE / CAD LEAKAGE CONTROL — PASS
+
+The Stage 6M preflight already found the final proxy view suitable as physical relational geometry rather than a dominant sculpture/mannequin/CAD production medium. The sterile packet additionally instructs translation away from gray material, faceting, outlines, blockout, mannequin, CAD, maquette, diagram and reference-sheet character.
+
+Final pixels remain binding: material maquette/CAD/mannequin leakage is a candidate failure and consumes the attempt.
+
+STERILE PACKET ISOLATION — PASS
+
+Exact-text inspection found no Kymaean, Ensemble, project, candidate/round label, repository/Drive, Harness, Falsification, Surface Escape, Stage 6M/7, score or threshold vocabulary. No previous artwork or critique history is described.
+
+PROMPT-SEED DISCIPLINE — PASS
+
+The packet supplies no example menu of architecture, geography, culture, occupation, era, named medium, artist or visual style. Setting, material, clothing, identity, lighting and atmosphere remain renderer-selected. Negative controls are limited to approved structural failure modes and transfer-medium leakage.
+
+SEMANTIC DEPENDENCY — PASS
+
+The packet preserves:
+- two necessary adults;
+- surface-borne B vertical weight;
+- two separate B foot contacts;
+- B lateral/rotational dependence on A;
+- A independent stability;
+- passive upper-body contact only;
+- no active hand/arm support;
+- no vertical carry;
+- one larger surface with one modest changed region;
+- natural baseline/change correspondences;
+- non-interchangeable human specificity.
+
+BODY-AXIS / ANTI-PERFORMANCE CONTROL — PASS AFTER CORRECTION
+
+The packet now preserves the different body axes and precludes the known parallel editorial-lean attractor, fall/catch, dance, exercise and balance-demonstration shorthand without selecting a replacement action or story.
+
+EPISTEMIC RESTRAINT — PASS
+
+The packet does not require emotion, knowledge, belief, memory, motive or exact prior authorship. Observable physical relations carry the burden.
+
+BASELINE / CHANGED-STATE TRANSLATION — PASS
+
+One modest continuous deformation within a much larger simpler surface is required. Baseline recoverability is carried by multiple natural geometric correspondences, not technical lines, grids, markers, labels or explanatory graphics.
+
+PRE-EXISTING-FORM DISCIPLINE — PASS
+
+The exact reference previously passed surface-only and B-removed preflights. The packet rejects crack/seam/joint, separate platform, ramp, trough, chair, purpose-built support, installation and damage-scene readings without prescribing replacement architecture.
+
+RESPONSIVE / HARNESS — PASS AFTER CORRECTION
+
+The Director-side fixed mobile check retains both people, contact, critical support and changed-state evidence. The renderer-visible packet now preserves only the broad central-right/nonessential-far-left compositional burden. No crop coordinates or Harness implementation data leak to the renderer and the Harness itself is unchanged.
+
+AESTHETIC BOUNDARY — PASS
+
+No final palette, brand color, exact material, texture, lighting design, setting, culture, identity, clothing, camera drama or named style is selected. The neutral Stage 6M grayscale/depth cues are explicitly instrumentation to be translated away, not inherited aesthetics.
+
+ARTWORK-ONLY CONTRACT — PASS
+
+The requested output is one uninterrupted artwork, with no text, UI, branding, border, presentation layout or explanatory collateral.
+
+REFERENCE-STRENGTH DISCIPLINE — PASS WITH EXECUTION-TIME CONDITION
+
+No user-set reference-strength control is assumed. If the actual fresh renderer UI exposes any reference/image/structure-strength control, execution must stop before generation and return for one exact fixed-value amendment + recursive audit. If none is exposed, record N/A.
+
+MATERIAL-DIFFERENCE / NON-RETRY — PASS
+
+C07 is materially distinct from C06 in candidate geometry and transfer family. It uses split-root support, an oblique support/body relation, physical proxy mass/support geometry, actual volumetric contact adjacency and finite-depth surface geometry through the Stage 6M representation. No C06 artwork or output is transferred. Round 07 remains unspent at audit time.
+
+EXECUTION ACCOUNTING — PASS
+
+Future authorized execution is exactly:
+- one fresh regular chat outside the Ensemble project;
+- one request;
+- one image requested;
+- one exact byte-pinned sanitized reference;
+- one exact byte-pinned sterile packet;
+- zero historical artwork;
+- zero brand assets;
+- zero project documents;
+- zero manifest/report transfer;
+- zero free rerolls.
+
+A judgeable result consumes METHOD02-R07-C07. A genuine no-image technical failure stops and is reported; it does not silently authorize another request.
+
+STOP CONSEQUENCE — PASS
+
+After a later judgeable return: stop renderer execution, return raw pixels to Director Context, archive provenance when practical, and evaluate under unchanged frozen measurement law before any packet/reference/criteria modification.
+
+METHOD 02 COMPLETE REVIEW SET — PASS
+
+C07 now has the complete pre-render sequence: Stages 1–5, Stage 6 + audit, Stage 6M + audit, exact reference bytes, exact sterile packet, material-difference declaration, execution accounting/stop consequence and this recursive pre-render audit.
+
+SIMPLICITY / WORTHWHILE-IMPROVEMENT CHECK — PASS
+
+No additional story, example, aesthetic specification, coordinate, force explanation, motif blacklist, project-history sentence or reference mutation closes an unresolved requirement. Further renderer-facing accretion would increase seed/transfer risk.
+
+FINAL PASS
+
+One complete pass after both first-pass corrections found no remaining material authority leak, reference contamination, project-memory leakage, support loophole, causal contradiction, responsive contradiction, private-state dependence, unbounded aesthetic selection, execution ambiguity or worthwhile simplification.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Candidate C07-CBSR-01 Stage 7 Sterile Artwork Translation / complete pre-render review package is APPROVED.
+
+EXECUTION-READINESS CONSEQUENCE
+
+Renderer execution is now design-ready only as a separate isolation operation. It may proceed in one fresh regular chat outside the Ensemble project using:
+- the exact sanitized Stage 6M reference bytes under neutral filename `reference.svg`;
+- the exact sterile renderer packet bytes;
+- no additional preamble or project material.
+
+If the fresh UI exposes any user-set reference-strength control, STOP BEFORE GENERATION and return for one audited fixed-value amendment.
+
+NO IMAGE WAS GENERATED BY THIS AUDIT. ROUND 07 REMAINS UNSPENT.
