@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="960" viewBox="0 0 1536 960">
+  <title>Candidate 06 Method 02 Stage 06 Neutral Geometry Scaffold</title>
+  <desc>Deterministic relational geometry only. Monochrome technical encoding carries no aesthetic, brand, renderer or narrative authority.</desc>
+
+  <rect id="artboard" x="0" y="0" width="1536" height="960" fill="white"/>
+
+  <g id="scaffold" fill="none" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- One continuous finite-thickness field. Three longitudinal correspondences preserve left/right baseline witnesses through one modest local residual displacement. -->
+    <polyline id="field-upper" points="650,685 760,685 950,685 1035,685 1085,675 1115,685 1150,691 1195,685 1305,685"/>
+    <polyline id="field-lower" points="650,710 760,710 950,710 1035,710 1085,700 1115,710 1150,716 1195,710 1305,710"/>
+    <polyline id="field-secondary" stroke-width="3" points="650,697 760,697 950,697 1035,697 1085,687 1115,697 1150,703 1195,697 1305,697"/>
+
+    <!-- Person A: anonymous, near-upright, independently stable figure region. No arm/hand support geometry is encoded. -->
+    <g id="figure-A">
+      <ellipse id="A-head-region" cx="945" cy="280" rx="44" ry="55"/>
+      <path id="A-body-region" d="M900 350
+        C920 335 965 335 990 355
+        L1015 395
+        C1005 440 995 480 985 520
+        L975 610
+        L990 685
+        L950 685
+        L940 560
+        L930 685
+        L890 685
+        L900 610
+        L900 500
+        Z"/>
+      <line id="A-body-axis" x1="945" y1="350" x2="940" y2="685" stroke-width="3"/>
+    </g>
+
+    <!-- Person B: anonymous changed-support occupant. Upper body is displaced toward A while feet remain field-borne. No arm/hand/knee/seat support geometry is encoded. -->
+    <g id="figure-B">
+      <ellipse id="B-head-region" cx="1055" cy="280" rx="38" ry="48"/>
+      <path id="B-body-region" d="M1018 395
+        C1028 370 1040 350 1058 345
+        C1085 345 1100 370 1105 400
+        L1115 520
+        L1135 685
+        L1095 685
+        L1080 540
+        L1045 455
+        L1028 420
+        Z"/>
+      <line id="B-body-axis" x1="1058" y1="345" x2="1115" y2="685" stroke-width="3"/>
+    </g>
+
+    <!-- The only A↔B stabilizing contact: broad passive upper-back/shoulder to upper-torso locus. -->
+    <line id="contact-1" x1="1015" y1="400" x2="1018" y2="400" stroke-width="10"/>
+  </g>
+
+  <!-- Audit-only geometry. Hidden by default; excluded from any future structural export/reference transfer. -->
+  <g id="audit-guides" visibility="hidden" fill="none" stroke="black" stroke-width="2" stroke-dasharray="12 10">
+    <rect id="desktop-source-window" x="0" y="48" width="1536" height="864"/>
+    <rect id="mobile-source-window" x="554" y="0" width="767" height="960"/>
+    <rect id="semantic-core" x="650" y="190" width="655" height="660"/>
+    <rect id="desktop-calm-region" x="0" y="48" width="600" height="864"/>
+    <rect id="baseline-witness-left" x="650" y="610" width="110" height="130"/>
+    <rect id="baseline-witness-right" x="1200" y="610" width="105" height="130"/>
+    <rect id="B-alternate-support-negative-space" x="1035" y="720" width="175" height="130"/>
+
+    <rect id="A-support-polygon" x="890" y="679" width="100" height="12"/>
+    <line id="A-com-projection" x1="940" y1="350" x2="940" y2="691"/>
+    <line id="A-loaded-resultant-2to1" x1="900" y1="660" x2="900" y2="700"/>
+
+    <rect id="B-changed-support-polygon" x="1095" y="679" width="40" height="12"/>
+    <line id="B-com-projection" x1="1080" y1="345" x2="1080" y2="691"/>
+    <line id="B-planning-cop" x1="1100" y1="665" x2="1100" y2="700"/>
+    <circle id="B-changed-support-root" cx="1115" cy="685" r="8"/>
+
+    <rect id="B-restored-support-polygon" x="1240" y="679" width="60" height="12"/>
+    <line id="B-restored-com-projection" x1="1270" y1="345" x2="1270" y2="691"/>
+    <circle id="B-restored-support-root" cx="1270" cy="685" r="8"/>
+    <circle id="B-restored-contact-side-locus" cx="1250" cy="400" r="8"/>
+    <line id="baseline-contact-separation" x1="1015" y1="400" x2="1250" y2="400"/>
+    <line id="B-support-root-restoration-shift" x1="1115" y1="685" x2="1270" y2="685"/>
+  </g>
+
+  <metadata id="geometry-metadata">
+    format=kymaean.hero.method02.neutral-scaffold/1;
+    candidate=C06-ASPB-01;
+    artboard=1536x960;
+    mobile_window=x554..1321,y0..960;
+    semantic_core=x650..1305,y190..850;
+    desktop_calm_region=x0..600,y48..912;
+    A_support=x890..990;A_COM_x=940;A_unloaded_margin=50;A_loaded_resultant_x_at_2to1=900;A_loaded_margin=10;
+    B_changed_support=x1095..1135;B_COM_x=1080;B_COP_x=1100;B_unsupported_margin=15;
+    brace_reaction_fraction_B_weight=0.0702;B_to_A_weight_sensitivity=2.0;
+    A_contact=(1015,400);B_changed_contact=(1018,400);B_restored_contact=(1250,400);
+    B_changed_root=(1115,685);B_restored_root=(1270,685);root_translation=155;
+    B_restored_support=x1240..1300;B_restored_COM_x=1270;B_restored_margin=30;
+    baseline_contact_separation=235;minimum=120;surplus=115;
+    field_only_preexisting_form_test=PASS_NO_PURPOSE_BUILT_PLATFORM_READING;
+    B_removed_preexisting_form_test=PASS_NO_PURPOSE_BUILT_HUMAN_SUPPORT_READING;
+    audit_guides_transfer_authorized=false.
+  </metadata>
+</svg>
