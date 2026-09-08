@@ -1,0 +1,248 @@
+KYMÆAN — HERO METHOD 02 NEUTRAL PHYSICAL MAQUETTE TRANSFER ADDENDUM 01
+
+Status: METHOD ADDENDUM CONSTRUCTED / RECURSIVE AUDIT REQUIRED / NO CANDIDATE MAQUETTE OR RENDER AUTHORIZED
+Date: 2026-09-07
+Parent method: HERO SUCCESSOR DESIGN-CONSTRUCTION METHOD 02
+Trigger evidence: HERO METHOD 02 TRANSFER-SURFACE SUFFICIENCY INVESTIGATION 01
+
+PURPOSE
+
+Define a mechanism-neutral deterministic physical-maquette transfer representation that can carry causally necessary support/contact/depth geometry more directly than the current line/silhouette scaffold, without selecting final aesthetic variables or authorizing any renderer execution.
+
+This addendum does not replace Method 02 Stages 1–7. It adds one optional transfer representation between an approved Stage 6 construction and any later Stage 7 renderer package.
+
+CORE PRINCIPLE
+
+When a candidate's causal proposition depends on physical support, body stability or surface depth that prose cannot reliably preserve, the transfer surface may embody those relationships as deterministic neutral physical geometry.
+
+The maquette carries only physical relational geometry.
+It carries no final visual authorship.
+
+RELATIONSHIP TO EXISTING METHOD 02
+
+Unchanged:
+1. Stage 1 Semantic Dependency Construction;
+2. Stage 2 Baseline / Change Reconstruction Proof;
+3. Stage 3 Counterfactual Possibility Proof;
+4. Stage 4 Two-Person Necessity Proof;
+5. Stage 5 Responsive Semantic Envelope;
+6. Stage 6 Neutral Geometry Scaffold;
+7. Stage 7 Sterile Artwork Translation.
+
+Optional inserted representation layer after Stage 6 approval:
+
+Stage 6M — Neutral Physical Maquette Transfer Representation.
+
+Stage 6M may exist only when:
+- Stage 6 is already approved;
+- a clean method/candidate audit establishes that critical physical geometry is not sufficiently transfer-visible in the ordinary sanitized Stage 6 reference;
+- the maquette can be generated deterministically from the approved Stage 6 construction rather than artistically improvised.
+
+Stage 6M does not alter frozen post-render criteria.
+
+COORDINATE / PROJECTION LAW
+
+The maquette uses a normalized 2.5D coordinate system derived directly from the approved Stage 6 source artboard:
+- x = normalized source-artboard horizontal coordinate;
+- y = normalized source-artboard vertical coordinate;
+- z = bounded depth/volume coordinate used only to make physical thickness/contact/support visible;
+- Stage 6 x/y relationships must remain invariant unless a separately audited candidate correction explicitly changes them;
+- all maquette geometry must be reproducible from a machine-readable manifest.
+
+Transfer projection:
+- orthographic;
+- aligned to the Stage 6 source plane;
+- no perspective lens effects;
+- no candidate-specific camera rotation for beauty/drama;
+- one fixed projection definition per approved maquette format;
+- responsive crop windows remain Director-side audit facts and are not drawn into the transferable output.
+
+ALLOWED STRUCTURAL VARIABLE CLASSES
+
+1. shared_surface_volume
+- one finite-thickness surface generated from approved Stage 6 condition geometry;
+- local changed geometry and baseline witness geometry may be volumetric;
+- no final material identity.
+
+2. human_proxy_volume
+- anonymous volumetric proxy for Person A or B;
+- may encode approved body-region proportion, body axis, torso mass, lower-body geometry and support footprint;
+- may encode distinct anonymous proportions only where required by approved construction;
+- no facial identity or demographic coding.
+
+3. foot_support_geometry
+- explicit lower contact geometry generated from the approved support polygon/footprint;
+- must be part of the human proxy, not a labeled technical rectangle in the transferable output;
+- intended to make support extent physically visible without arrows/measurements.
+
+4. body_contact_geometry
+- actual proxy adjacency/contact patch at an approved causally necessary contact locus;
+- may encode contact area/orientation;
+- no force arrows, labels or emotional/narrative semantics.
+
+5. required_negative_space_volume
+- empty volume that must remain free of alternate supports;
+- Director-side audit object only unless its absence is naturally visible in the maquette;
+- no wireframe box may transfer.
+
+6. baseline_witness_geometry
+- portions of the same shared surface that preserve approved simpler organization on both sides of the changed zone;
+- no labels or registration arrows.
+
+7. causally_required_occlusion
+- only when approved Stage 6 construction requires a front/behind relation for physical legibility.
+
+EXCLUDED VARIABLES
+
+Stage 6M must not encode:
+- final palette or brand color;
+- final material identity;
+- surface texture/patina;
+- final lighting design;
+- camera drama, depth-of-field or lens effects;
+- clothing style;
+- facial features;
+- hair style as identity;
+- age, ethnicity, race, culture or historical period;
+- expression, gaze meaning, emotion, motive, knowledge, belief or memory;
+- props or symbolic objects;
+- setting/architecture beyond the approved shared-condition geometry;
+- Threshold K/O3 geometry;
+- brand marks;
+- text, labels, arrows, dimensions, grids or explanatory annotation;
+- final visual style or named artist/style reference.
+
+INSTRUMENTATION SHADING LAW
+
+A volumetric transfer view needs minimal depth legibility. Therefore Stage 6M may use only fixed instrumentation shading:
+- one uniform neutral base value for all physical geometry;
+- no hue coding;
+- no material differentiation by color;
+- no specular highlight;
+- no texture;
+- no atmospheric effects;
+- no cinematic shadow design;
+- fixed low-amplitude diffuse/ambient depth cue sufficient only to reveal volume/contact;
+- no candidate-specific light placement or tuning;
+- transparent background by default unless the renderer interface requires otherwise;
+- if a non-transparent background is technically required, use one fixed neutral value defined by the method implementation and treat it as non-aesthetic instrumentation.
+
+The exact implementation must be frozen before candidate-specific use and may not be tuned after viewing a candidate maquette for beauty.
+
+HUMAN PROXY LAW
+
+The transferable human proxy must:
+- remain recognizably human enough for body/support geometry to transfer;
+- remain anonymous enough not to seed a character identity or statue/sculpture aesthetic;
+- encode actual support footprint visibly;
+- encode body-axis/torso relation visibly;
+- encode the approved physical contact as actual adjacency;
+- avoid facial/head detail beyond a generic head volume;
+- avoid hand/arm detail unless hands/arms are themselves causally required by an approved candidate; for D9-like passive-brace work, hands/arms remain non-supporting and should not become focal transfer geometry.
+
+SUPPORT-VISIBLE PREFLIGHT
+
+Before a candidate-specific Stage 6M can advance, the transferable view must pass without Director-only guides:
+
+1. identify A's support footprint from proxy geometry;
+2. identify B's support footprint from proxy geometry;
+3. visually recover B's changed-state body-axis/support relation;
+4. visually infer that the depicted B proxy would not remain statically stable without the approved A contact under the candidate's already-frozen conservative model;
+5. preserve A as independently stable;
+6. show no alternate support contact.
+
+This is a prospective transfer sufficiency test, not a new post-render score.
+
+BASELINE / CHANGED-STATE PREFLIGHT
+
+The transferable maquette must pass:
+
+1. surface-only: a neutral reviewer can identify one larger simpler surface organization and one local departure;
+2. surface-only: the local departure does not read primarily as a complete purpose-built ramp/platform/chair/device/installation;
+3. B removed: A + surface does not read as a purpose-built human support;
+4. all people removed: the surface does not require damage/rubble/accident spectacle to explain the change;
+5. baseline witness evidence exists on both sides where required by the candidate construction;
+6. the changed-state inference does not depend on a technical grid, seam legend, arrow or label.
+
+MAQUETTE / MANNEQUIN LEAKAGE PREFLIGHT
+
+Reject before renderer transfer if the sanitized Stage 6M view reads primarily as:
+- sculpture installation;
+- gallery maquette;
+- mannequin tableau;
+- gray-clay concept art;
+- CAD/engineering diagram;
+- architectural model;
+- videogame blockout;
+- wireframe/reference sheet.
+
+A neutral physical reference can be visibly non-final, but its primary read must remain physical relational geometry rather than a named/recognizable production medium.
+
+SANITIZED TRANSFER LAW
+
+A future Stage 7 package may transfer only one byte-pinned sanitized Stage 6M view that contains:
+- physical maquette pixels/geometry needed to carry relational structure;
+- no project/candidate filename or metadata exposed to renderer;
+- no Director-only guides;
+- no manifest;
+- no labels;
+- no score/evaluation information;
+- no brand/project vocabulary.
+
+If the renderer interface supports a direct 3D asset instead of a raster/vector view, that is NOT automatically authorized. Transfer mechanism must be separately specified and audited because additional model/material/camera metadata may leak.
+
+Default permitted transfer form under this addendum:
+ONE SANITIZED 2D RASTER OR VECTOR VIEW OF THE DETERMINISTIC MAQUETTE.
+
+REFERENCE-STRENGTH / EXECUTION LAW
+
+Existing Stage 7 reference-strength discipline remains unchanged:
+- no control assumed;
+- if a user-set reference-strength control is exposed, stop before generation until one exact value is fixed/audited;
+- one candidate attempt remains one request/one image unless separately authorized;
+- visible maquette/CAD/mannequin leakage in final pixels consumes the attempt and is not a free reroll.
+
+RESPONSIVE LAW
+
+Stage 6M may not move the fixed Harness windows.
+
+Before transfer, Director-side crop analysis must confirm:
+- both necessary human proxies survive the fixed mobile source window;
+- required contact survives;
+- critical support geometry survives;
+- required changed-state/baseline witnesses survive;
+- no essential evidence is moved into the far-left desktop identity/copy region.
+
+METHOD-DIFFERENCE DECLARATION REQUIRED
+
+Any future candidate using Stage 6M must explicitly state why the maquette is a materially different transfer representation rather than a disguised rerender of an exhausted line/fill package.
+
+For a D9-derived candidate, that declaration must at minimum identify:
+- transfer-visible foot/support footprint;
+- transfer-visible body-axis/support instability;
+- actual volumetric contact adjacency;
+- actual surface depth/change rather than annotation;
+- how the representation differs from C04 line transfer, C04 filled mass and C06 abstract silhouette/path transfer.
+
+FAIL-CLOSED RULES
+
+Any one of the following blocks renderer work:
+- causally necessary support geometry is still audit-only;
+- B appears independently stable in sanitized maquette despite construction claiming otherwise;
+- A appears to carry B vertically when not authorized;
+- extra support appears;
+- surface becomes a self-sufficient sculptural/architectural object;
+- maquette reads primarily as mannequin/sculpture/CAD/blockout;
+- final aesthetic variables are encoded;
+- fixed responsive semantic evidence does not survive;
+- sanitized transfer bytes are not exact/pinned;
+- transfer mechanism or reference-strength setting is ambiguous.
+
+CURRENT BOUNDARY
+
+This addendum defines method-level representation law only.
+
+No candidate-specific Stage 6M maquette, Candidate 07, C06 rerender, renderer packet, reference transfer, image generation, final hero/style/palette, website implementation, Harness change or Lane A/app change is authorized by this document.
+
+Exact next gate:
+recursively audit this addendum for Method 02 compatibility, physical-transfer sufficiency, aesthetic contamination, hidden retry authority, instrumentation ambiguity, responsive integrity, simplicity and worthwhile improvements.
