@@ -1,0 +1,70 @@
+KYMÆAN — HERO CANDIDATE 08 METHOD 02 STAGE 06 EDGE-CLEARANCE METADATA CORRECTION 01
+
+Status: CORRECTION / NO VISIBLE GEOMETRY CHANGE / STAGE 6 APPROVAL PRESERVED / STAGE 6M ONLY REMAINS AUTHORIZED
+Date: 2026-09-08
+Candidate: C08-EWTF-01 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE
+
+PURPOSE
+
+Reconcile one arithmetic/metadata defect discovered during Candidate 08 Stage 6M construction without changing any approved Stage 6 x/y geometry, support footprint, free-edge path, contact, responsive window, criterion or stage authority.
+
+DEFECT
+
+The approved Stages 1–5 / Stage 6 evidence carried a `120 px` B-support-to-free-edge planning clearance. That number was calculated as `824 - 704`, using the undeformed baseline foreground-edge y=824 against the left changed support-root center y=704.
+
+The actual approved changed free-edge path is locally displaced upward. Therefore 120 px is only the obsolete baseline-edge planning value; it is not the exact changed-state clearance.
+
+BINDING METRIC
+
+The registered anti-edge metric is support-root/center to the foreground free-edge at the same source-space x coordinate. It is not outer-foot-polygon-edge clearance.
+
+Controlling changed support root:
+- x = 1105 px = 0.7194 normalized;
+- y = 704 px = 0.7333 normalized.
+
+The approved changed upper free edge brackets that x with normalized points:
+- (0.7064, 0.8354);
+- (0.7227, 0.8417).
+
+Linear interpolation at x=0.7194 gives:
+- edge y = 0.8404245398773006;
+- edge y in source pixels = 806.8395582822086 px.
+
+Correct changed-state support-root clearance:
+`806.8395582822086 - 704 = 102.8395582822086 px`.
+
+Frozen minimum:
+`100 px`.
+
+Correct positive surplus:
+`2.8395582822086 px`.
+
+The right support root has materially greater clearance and is non-controlling.
+
+FIXED STAGE 6M PROJECTION
+
+Stage 6M uses the already-frozen orthographic oblique projection. For two points on the same physical z plane, the fixed depth-y offset is identical and cancels from their vertical separation. The source-space support-root/edge clearance therefore remains 102.8395582822086 px under that fixed same-plane projection before raster/stroke thickness.
+
+SCOPE / PRESERVATION
+
+No Stage 6 visible geometry is changed.
+No support/contact/body coordinate is changed.
+No free-edge or thickness-return path point is changed.
+No responsive boundary is changed.
+No 100 px floor is changed.
+No frozen post-render criterion is changed.
+No Stage 7 or renderer/image-generation authority is created.
+
+Where earlier C08 Stages 1–5 or Stage 6 records describe `120 px` as the current support-to-edge clearance, read that value only as the superseded undeformed-baseline planning calculation. The exact changed-state support-root metric above governs subsequent Stage 6M audit.
+
+OUTER-FOOT CLARIFICATION
+
+The visible support footprint has finite width. Its outer polygon edge is not the pre-registered anti-edge measurement locus. Do not silently replace the registered support-root/center metric with a different foot-edge metric after construction. The anti-edge question remains whether B is materially interior rather than balanced on the foreground edge; exact visible support geometry is still inspected separately for ledge/hazard reading during Stage 6M preflight.
+
+DISPOSITION
+
+METADATA / ARITHMETIC CORRECTION ONLY.
+
+Candidate C08 Stage 6 remains COMPLETE / CLEAN / APPROVED.
+Candidate-specific Stage 6M remains the sole authorized next representation.
+Round 08 remains UNSPENT.
