@@ -1,0 +1,156 @@
+KYMÆAN — DPSC-C01 NEUTRAL SCAFFOLD FALSIFICATION 01
+
+Program: DPSC-RSP-01 — DPSC RENDERED SUCCESSOR PROGRAM 01
+Candidate lineage: DPSC-C01
+Construction revision tested: COHERENT INTERIOR OFFSET / PASSIVE COUNTERBRACE
+Status: PRE-RENDER CONSTRUCTION REVISION REJECTED / P3-P7-P8 COLLISION / 0 RENDERER EXPENDITURES
+Date: 2026-09-08
+
+AUTHORITY
+
+This falsification applies the frozen DPSC-RSP-01 contract in:
+`docs/evidence/HERO_DPSC_RENDERED_SUCCESSOR_PROGRAM_01.txt`
+
+to the D0-D5 construction in:
+`docs/evidence/HERO_DPSC_C01_CONSTRUCTION_D0_D5_01.txt`.
+
+The unchanged parent measurement contract remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01.
+
+No renderer call, prompt, image generation request, sterile packet, qualifying round, score or frozen criterion is created by this record.
+
+GATE PURPOSE
+
+L-027 did not declare DPSC-C01 renderer-ready. It explicitly left these issues for an exact neutral current-state scaffold to falsify before renderer-visible bytes could exist:
+- P3 — purpose-designed-whole normalization;
+- P7 — architecture/terrain/installational or other forbidden shorthand becoming materially simpler;
+- P8 — correspondence evidence becoming diagram/grid/pattern logic that outranks the people;
+- exact physical B-dependence / A stability;
+- corrected Harness mobile containment.
+
+PRIVATE SCAFFOLD DISCIPLINE
+
+Several deterministic scratch scaffolds were constructed privately to test those risks. None was promoted, committed, named as renderer-visible input or treated as evidence by attractiveness. No scratch image is canonical.
+
+The scratch sequence was used only to answer whether one neutral current-state scaffold could simultaneously make the simpler baseline intrinsically recoverable and resist the known shorthand attractors.
+
+PHYSICAL CORRECTION FOUND BEFORE VISUAL DISPOSITION
+
+The first support interpretation displaced B's far support. Direct counterfactual inspection showed that restoring that far support could still leave B's depicted center outside the restored support interval. That would weaken the required causal statement `restore simpler condition -> B no longer needs the same passive A brace`.
+
+The construction was therefore corrected before any promotion:
+- the changed zone displaces B's near/left support rightward;
+- the current base narrows to the right of B's depicted center, making the exact pose depend on A's passive posterior/lateral brace;
+- restoring the simpler condition moves that near/left support back leftward and widens the support interval around B's center;
+- the same posterior/lateral A contact is then no longer mechanically required.
+
+This was a pre-render construction correction, not a scored success and not inherited geometry from C08.
+
+HARNESS CONTAINMENT CHECK
+
+The private scaffold family used a 1536 x 960 source frame. Under the frozen corrected Harness mobile frame of 390 x 488 with `object-fit: cover` and `object-position: 72% 50%`, the meaningful source crop is approximately:
+- x = 553.5266 through 1320.7397;
+- y = 0 through 960.
+
+Both people and the candidate changed-zone region could be compositionally contained inside that crop. Mobile containment therefore did not independently kill the construction revision.
+
+However, crop survival could not rescue the more fundamental P3/P7/P8 conflict described below.
+
+VISUAL FALSIFICATION RESULT
+
+The scratch family converged on a repeatable trade-off.
+
+1. SUBDUED CORRESPONDENCE
+
+When the field's continuity, section, directional structure and relief evidence were reduced enough to avoid looking like a route, terrain system, markers or a formal pattern, the changed condition became too weak to force one recoverable simpler baseline.
+
+Result: P3 FAIL.
+
+The image reduced toward two people on an ordinary dark ground/field whose present shape could simply be the way the place already was.
+
+2. LINE / RELIEF-MARKER CORRESPONDENCE
+
+When correspondence evidence was strengthened through discrete low-relief strokes or separated relief witnesses, the features began reading as tracks, path cues, markers or a formal explanatory system rather than as intrinsic material relationships.
+
+Result: P7 FAIL and P8 FAIL / MATERIAL RISK.
+
+3. BROAD HIGH-CONTRAST CORRESPONDENCE BANDS
+
+Replacing discrete marks with broad continuous embedded bands improved intrinsic baseline recoverability, but the shared condition then read more simply as layered terrain, a route/track system, ramp-like organization or purpose-shaped installation.
+
+Result: P3 improved, but P7 FAIL.
+
+4. OBLIQUE / NON-HORIZONTAL BAND VARIANT
+
+Rotating the broad correspondence away from a simple horizontal ground read did not remove the underlying shorthand. It shifted the simpler category toward track/ramp/installation rather than establishing a clearly transformed shared condition.
+
+Result: P7 FAIL; P8 remained a secondary risk.
+
+COLLISION
+
+For this specific construction revision:
+
+- correspondence weak enough to resist terrain/track/diagram shorthand -> P3 fails because the changed state is not intrinsically legible;
+- correspondence strong enough to make the simpler baseline recoverable -> P7 and/or P8 fail because the carrier becomes a materially simpler terrain/track/installation/formal-pattern reading.
+
+This is not evidence that DPSC-01 itself is impossible. It falsifies the **lower-support / ground-carrier implementation** of DPSC-C01 before renderer expenditure.
+
+The frozen post-render suspected-unsatisfiable stop is not triggered because no qualifying rendered round occurred.
+
+FULL P1-P13 DISPOSITION FOR THIS REVISION
+
+P1 — at least three independent families: construction PASS, but not sufficient.
+P2 — families converge on one simpler baseline: construction PASS when made visible, but not sufficient.
+P3 — purpose-designed whole / baseline recoverability: FAIL across shorthand-resistant variants.
+P4 — restoration changes B: corrected construction PASS IN PRINCIPLE after near-support correction.
+P5 — A passive role: PASS IN PRINCIPLE; no active hand/arm support required.
+P6 — no single clue owns proposition: PASS IN CONSTRUCTION.
+P7 — forbidden shorthand materially simpler: FAIL when correspondence is made strong enough to solve P3.
+P8 — diagram/grid/pattern dominance: FAIL or material risk in stronger discrete-correspondence variants.
+P9 — fixed pale identity patch: PASS IN CONSTRUCTION.
+P10 — mobile containment: PASS IN COMPOSITIONAL PRECHECK; semantic changed-state legibility still inherits P3/P7 failure.
+P11 — no explanatory/before-after transfer required: PASS IN METHOD.
+P12 — disguised C08 retry: PASS; no C08 scaffold/reference/free-edge witness was used.
+P13 — foreseeable frozen-contract violation: FAIL BY P3/P7/P8 collision for this revision.
+
+DISPOSITION OF DPSC-C01 REVISION 1
+
+`DPSC-C01 — COHERENT INTERIOR OFFSET / PASSIVE COUNTERBRACE` as a lower-support/ground-carrier construction is **REJECTED BEFORE RENDERER EXPENDITURE**.
+
+No canonical neutral scaffold exists for this revision.
+No renderer-visible bytes are frozen.
+No DPSC-E1 image exists.
+Renderer expenditure remains 0 of 2 maximum.
+
+LAWFUL CORRECTION BOUNDARY
+
+DPSC-RSP-01 Case A permits material correction inside the frozen construction method while C01 has not earned renderer authorization. C02 is not available because C02 requires a judgeable DPSC-E1 failure.
+
+The recursive audit found one materially distinct correction route that does not merely restyle or strengthen the failed ground carrier:
+
+**restart DPSC-C01 at D0-D5 with the changed condition acting laterally at body height rather than through a ground/support-plane correspondence system.**
+
+The correction must still satisfy the same DPSC-01 distributed-correspondence law and unchanged P1-P13. It must independently make the simpler state recoverable, make B's posture depend on the changed condition, preserve the passive separated-head A relation, avoid wall/curtain/device/installation shorthand, survive the frozen mobile crop and avoid a diagrammatic correspondence system.
+
+This record does not pre-approve that correction. It only names the next lawful construction question.
+
+RECURSIVE AUDIT
+
+Checked against:
+- DPSC-RSP-01 pre-render rejection law;
+- DPSC-C01 D0-D5 construction;
+- Hero Brief 02;
+- Falsification Criteria 01;
+- Surface Escape;
+- corrected Harness 01, including 390 x 488 / 72% 50% mobile behavior;
+- C07/C08 naturalistic-normalization evidence;
+- HTCR-01's prohibition on solving the problem with one dominant prop or explanatory pattern.
+
+One complete final pass found no basis to promote any private scratch scaffold, no lawful way to relabel the P3/P7/P8 trade-off as a pass, no renderer justification, and no reason to consume DPSC-E1 merely to test a construction already rejected by its frozen pre-render rules.
+
+DISPOSITION
+
+DPSC-C01 REVISION 1: REJECTED PRE-RENDER.
+DPSC-RSP-01: REMAINS ACTIVE.
+RENDERER EXPENDITURE: 0 OF 2 MAXIMUM.
+NEXT GATE: DPSC-C01 D0-D5 MATERIAL CORRECTION — LATERAL BODY-HEIGHT CONTINUUM ONLY; NO SCAFFOLD OR RENDERER UNTIL THAT CONSTRUCTION EARNS A NEW PRE-RENDER GATE.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE FALSIFICATION AUDIT.
