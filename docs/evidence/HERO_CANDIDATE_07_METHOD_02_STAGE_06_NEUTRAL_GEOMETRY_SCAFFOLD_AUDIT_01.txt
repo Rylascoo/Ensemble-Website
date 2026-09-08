@@ -1,0 +1,254 @@
+KYMÆAN — HERO CANDIDATE 07 METHOD 02 STAGE 06 NEUTRAL GEOMETRY SCAFFOLD AUDIT 01
+
+Status: COMPLETE / CORRECTED / CLEAN FINAL PASS / STAGE 6 APPROVED / CANDIDATE-SPECIFIC STAGE 6M AUTHORIZED ONLY
+Date: 2026-09-07
+Candidate: C07-CBSR-01 — CROSS-BAND SPLIT-ROOT PASSIVE BRACE
+Direction: D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE
+
+AUDITED ARTIFACTS
+- docs/evidence/scaffolds/C07-CBSR-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json
+  final blob: 34cb9d93639991c3b50e36ac87ae253e4b919ceb
+- docs/evidence/scaffolds/C07-CBSR-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg
+  final blob: 2ce6525207b00327b76ebea9ab7a6314e024ba00
+- final corrected Stage 6 artifact head before this audit: 147de7c367be9ad447328ca63e127144a4fc6cb0
+
+GOVERNING LAW
+- Hero Artwork Brief 02;
+- frozen Falsification Criteria 01;
+- frozen Surface Escape;
+- fixed Harness 01;
+- approved Hero Successor Design-Construction Method 02;
+- Hero Method 02 Neutral Geometry Scaffold Format 01;
+- approved D9 direction;
+- Stage 6M method addendum + clean audit;
+- completed/hardened Stage 6M mechanism-neutral tooling;
+- Candidate 07 successor mechanism/geometry investigation + clean audit;
+- Candidate 07 Method 02 Stages 1–5 + clean recursive audit.
+
+AUTHORITY / SCOPE — PASS
+
+The preceding clean Stages 1–5 audit authorizes Stage 6 only. This audit evaluates the exact committed Stage 6 scaffold bytes and does not treat local preview state as authority.
+
+Standing design-gate law permits a clean recursive audit to earn the next already-defined in-lane gate.
+
+No Stage 7, renderer/reference transfer, image generation, final visual style, production website implementation, Lane A/app UI implementation or motion is authorized here.
+
+FIRST-PASS CORRECTIONS
+
+1. MANIFEST FORMAT DISCIPLINE
+
+The interrupted first draft added candidate-specific `curve` and `segments` fields to condition-path records. Those fields were unnecessary and exceeded the approved neutral-scaffold convention.
+
+Correction:
+- removed the invented fields;
+- encoded each transferable field perimeter solely as deterministic normalized `points` under the approved condition_path primitive;
+- changed the SVG from unsampled cubic path syntax to the exact corresponding sampled polylines.
+
+Result:
+manifest and SVG now carry the same path geometry without a schema-side extension.
+
+2. MATERIAL-POINT REALIZABILITY
+
+The interrupted first draft listed the two changed->baseline support-root mappings but did not explicitly encode a continuous material map that realizes them. That risked repeating the exact loophole the Candidate 07 Stages 1–5 audit prohibited: asserting shear while leaving the causal support mapping primarily Director-side.
+
+Correction:
+added one explicit Director-side baseline->changed x material map with anchors:
+- 650 -> 650;
+- 960 -> 960;
+- 1000 -> 1000;
+- 1135 -> 1085;
+- 1220 -> 1140;
+- 1295 -> 1295.
+
+Segment slopes are:
+- 1.0000;
+- 1.0000;
+- 0.6296;
+- 0.6471;
+- 2.0667.
+
+Every slope is positive. The map is continuous and orientation-preserving with no x foldover. It exactly realizes:
+- left B material root 1135 -> 1085, restoration +50 px;
+- right B material root 1220 -> 1140, restoration +80 px.
+
+The differential mapping changes root-center x separation from 85 px baseline to 55 px changed and is therefore not a rigid translated C06 support patch.
+
+The visible field flexure is independently deterministic: the two field-defining perimeter paths are sampled from one continuous cubic flexure family, with the far perimeter an exact +32 px offset from the near perimeter. No seam or closed support cell is required.
+
+3. BASELINE-WITNESS RECORD
+
+The left audit-only witness region was expanded to the pre-registered x 650–960 target while the visible field itself remains a longer simple continuation to x 1000. The right witness remains x 1235–1295.
+
+No responsive boundary or Harness crop moved.
+
+FINAL RECURSIVE AUDIT
+
+FORMAT / PRIMITIVE DISCIPLINE — PASS
+
+The transferable scaffold contains only:
+- two anonymous figure regions/body axes;
+- one causally necessary A↔B contact;
+- two field-defining continuity paths.
+
+Baseline witnesses, support/COM/resultant facts, material-point mappings, deformation-zone axis, negative-space region and responsive windows remain hidden audit objects and are explicitly non-transferable.
+
+No aesthetic or brand primitive is introduced.
+
+NORMALIZATION / DETERMINISM — PASS
+
+Source artboard is 1536 × 960.
+Manifest coordinates are normalized and rounded to no more than four decimals.
+The SVG is deterministic source-space geometry and reconciles with the manifest.
+
+C07 ANTI-RETRY TOPOLOGY — PASS
+
+Candidate 07 remains materially distinct from C06:
+- two separate B support footprints/root neighborhoods remain visible;
+- roots occupy opposite signed sides of the Director-side oblique changed-band centerline;
+- the field deformation remains open and continues beyond the human footprint;
+- no closed displaced support patch or basin encloses both feet;
+- no rigid whole-patch translation/tilt implements the changed state;
+- A/B axes remain oblique rather than substantially parallel side-by-side editorial lean.
+
+No C06 scaffold bytes or coordinates are reused as Candidate 07 construction.
+
+B FIELD-BORNE SUPPORT — PASS
+
+Changed B support:
+- left support x 1075–1095, root (1085,700);
+- right support x 1130–1150, root (1140,680);
+- conservative support hull x 1075–1150.
+
+Both visible lower support branches terminate on the same continuous field perimeter family. No hand, arm, forearm, elbow, knee, hip, seat, torso, wall, rail, second person or hidden wider-foot support exists.
+
+The two roots remain distinct; the scaffold does not collapse them into one platform/pocket footprint.
+
+COUNTERFACTUAL / STATIC LEDGER — PASS
+
+B changed state:
+- support hull x 1075–1150;
+- COM x 1060;
+- unsupported margin 15 px toward A;
+- planning COP x 1085;
+- brace reaction fraction approximately 0.0833 B normalized weight.
+
+A:
+- support x 830–990;
+- unloaded COM x 910;
+- unloaded margin 80 px;
+- conservative 2:1 B:A sensitivity resultant x 860;
+- positive loaded margin 30 px.
+
+Restored B:
+- support x 1125–1230;
+- COM x 1175;
+- positive restored margin 50 px;
+- restored contact-side locus x 1160;
+- A contact locus x 1005;
+- baseline contact separation 155 px;
+- required floor 120 px;
+- positive surplus 35 px.
+
+No zero-margin or arithmetic contradiction is present.
+
+MATERIAL MAPPING / CONTINUITY — PASS AFTER CORRECTION
+
+The exact support-root mapping now exists as a continuous orientation-preserving field map rather than as an unsupported textual assertion.
+
+All material-map segment slopes are positive, so the baseline-to-changed x mapping introduces no foldover. The same map simultaneously realizes the two pre-registered root displacements while returning to identity outside the local deformation neighborhood.
+
+The two visible field perimeter families remain continuously connected through the changed neighborhood and rejoin simpler baseline organization on both sides.
+
+No crack, gap, hard seam, hinge, actuator, detached slab, stair or closed cell is needed.
+
+CHANGED-STATE CORRESPONDENCE — PASS
+
+Exactly two independent correspondence families are carried, both inherent to the primary field geometry:
+- near perimeter;
+- far perimeter / finite-thickness return.
+
+No extra ridge, seam, contour, marker, registration line, arrow, grid, label or measurement is transferable.
+
+The Director-side changed-band centerline remains hidden and transfer_authorized=false.
+
+ANTI-BOUNDARY-BALANCING — PASS
+
+No visible band edge exists.
+Neither B support footprint is placed on a transferable seam, crack or technical line.
+The oblique deformation continues through/beyond the support neighborhood instead of forming a foot-sized device or ledge.
+
+PRE-EXISTING-FORM / SURFACE OWNERSHIP PREFLIGHT — PASS AT STAGE 6
+
+Field-only structural view:
+one long finite-thickness field carries one modest local open flexure and returns to simpler continuation on both sides. It does not form a complete ramp, chair, cradle, basin, platform or support object.
+
+B-removed structural view:
+A remains on a simple baseline-adjacent region. The local flexure does not become a purpose-built human support for A.
+
+This is only the deterministic Stage 6 preflight. It does not prove final pixels will pass Surface Escape or changed-condition legibility.
+
+PASSIVE-CONTACT / ANTI-RESCUE — PASS
+
+Only one broad posterior-lateral upper-back/shoulder↔upper-torso adjacency is encoded at approximately (1005–1008,390).
+
+No grasp, catch, lift, push, reciprocal handhold, active rescue gesture or second contact is encoded. B vertical load remains field-borne.
+
+A remains near-upright/independently supportable while B's body axis is oblique toward A.
+
+RESPONSIVE / HARNESS CONTAINMENT — PASS
+
+Fixed mobile source window remains x 554–1321.
+It contains:
+- all of A;
+- all of B;
+- the only A↔B contact;
+- both changed B support footprints;
+- the open field deformation;
+- left baseline evidence beginning at x 650;
+- right baseline evidence x 1235–1295.
+
+The desktop calm/identity region remains fixed at x 0–600. No semantic requirement was moved into it and no candidate-specific crop change occurs.
+
+NEGATIVE SPACE / ALTERNATE SUPPORT — PASS
+
+The Director-side negative-space region remains beneath/around the changed B support neighborhood and contains no alternate body/field support.
+
+No hidden support path preserves B's same frozen changed-state pose after A removal.
+
+AESTHETIC / PRIVATE-STATE CONTAMINATION — PASS
+
+No final palette, material, finish, texture, light, clothing style, facial feature, hair identity, demographic coding, culture, historical period, named style, prop, brand geometry, brand color, emotion, gaze meaning, knowledge, belief, memory, intention or motive is encoded.
+
+STAGE 6M NECESSITY — PASS / AUTHORIZED NEXT REPRESENTATION
+
+Candidate 07 depends on exact visible support footprint, split-root relation, body-axis geometry, actual brace contact and finite surface depth. C06 Round 06 already demonstrated that an ordinary sanitized 2D structural reference can allow a renderer to invent a conventional stable stance while Director-side support/COM facts remain hidden.
+
+The approved Stage 6M addendum exists specifically to close this transfer-representation gap, and the mechanism-neutral Stage 6M tooling is complete and clean.
+
+Therefore Candidate 07 satisfies the method condition for candidate-specific Stage 6M development:
+- Stage 6 is now approved;
+- critical physical geometry is known to be insufficiently transfer-safe if left at ordinary 2D scaffold abstraction;
+- a deterministic candidate-specific maquette can now be generated from these exact approved Stage 6 coordinates rather than artistically improvised.
+
+Stage 6M may not change the Stage 6 x/y relationships except through a separately audited correction. Its exact visible solids must be the same solids used for uniform-density COM/support/static validation.
+
+FINAL PASS
+
+CLEAN.
+
+After the three corrections above, one complete recursive pass found no material frozen-law drift, C06 retry laundering, schema extension, material-mapping assertion gap, foldover, zero-margin statics, hidden support, rescue/performance regression, responsive defect, pre-shaped-support failure, clue-line dependence, aesthetic contamination, renderer authority leak or worthwhile simpler correction.
+
+DISPOSITION
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
+
+Candidate C07-CBSR-01 Method 02 Stage 6 Neutral Geometry Scaffold:
+APPROVED.
+
+AUTHORIZED NEXT ACTION
+
+Construct Candidate 07 / C07-CBSR-01 Stage 6M Neutral Physical Maquette from the exact approved Stage 6 geometry using the already-frozen mechanism-neutral Stage 6M tooling. Validate exact proxy-solid COM/support/contact/static equilibrium and the support-visible, baseline/change, leakage and responsive preflights. Recursively audit Stage 6M before any Stage 7 package.
+
+NOT AUTHORIZED
+
+No Stage 7 renderer package, sanitized reference transfer to a renderer, renderer request, image generation/Round 07, final hero/style/palette, production website implementation, Harness change, Lane A/app UI implementation or motion is authorized by this audit.
