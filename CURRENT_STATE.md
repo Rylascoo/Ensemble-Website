@@ -34,71 +34,130 @@ Current machine-status corpus remains **282 Markdown = 42 ACTIVE LAW / 9 SUPERSE
 
 Method 01: **CLOSED / 3 OF 3 ROUNDS CONSUMED**.
 
-Method 02: **APPROVED**. Frozen post-render law remains Hero Artwork Brief 02 + Falsification Criteria 01 + Surface Escape + fixed Harness 01; no compensating average, post-hoc rescue or free reroll.
+Method 02: **APPROVED CONSTRUCTION METHOD / CURRENT ABSTRACT TRANSFER PATH SUSPECTED INSUFFICIENT**.
 
-Active direction: **D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**.
+Frozen post-render law remains Hero Artwork Brief 02 + Falsification Criteria 01 + Surface Escape + fixed Harness 01; no compensating average, post-hoc rescue or free reroll.
 
-Active candidate: `C06-ASPB-01` — **Asymmetric Shear-Posture Brace / residual slip / passive torso contact**.
+Active higher-level direction status:
 
-Mechanism investigation: **COMPLETE / AUDITED / CLEAN**.
-Stages 1–5: **COMPLETE / CORRECTED / AUDITED / CLEAN / APPROVED**.
-Stage 6 Neutral Geometry Scaffold: **COMPLETE / CORRECTED / AUDITED / CLEAN / APPROVED**.
-Stage 7 Sterile Artwork Translation / complete pre-render package: **COMPLETE / CORRECTED / AUDITED / CLEAN / APPROVED**.
+**D9 — ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE: TESTABLE IN PRINCIPLE / NOT CURRENTLY CLEARED FOR ANOTHER RENDER.**
 
-Stage 6 canonical artifacts:
-- `docs/evidence/scaffolds/C06-ASPB-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD.svg`;
-- `docs/evidence/scaffolds/C06-ASPB-01_STAGE06_NEUTRAL_GEOMETRY_SCAFFOLD_MANIFEST.json`.
+Candidate `C06-ASPB-01`: **CLOSED AS A RENDERED ATTEMPT / ROUND 06 FAIL / NO RETRY.**
 
-Stage 6 audit:
-- `docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
+## METHOD02-R06-C06 — closed evidence
 
-Stage 7 exact transfer artifacts:
-- sanitized structural reference: `docs/evidence/renderer/C06-ASPB-01_STAGE07_SANITIZED_STRUCTURAL_REFERENCE.svg`, blob `8f362f03ab7adfc2a858ce4ef18f346eb0f75e53`;
-- sterile renderer text: `docs/evidence/renderer/C06-ASPB-01_STAGE07_STERILE_RENDERER_PACKET.txt`, blob `4201e78d5b627203b096ef1dc1257f740c51074c`;
-- package: `docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt`;
-- pre-render audit: `docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
+Execution:
+- one fresh regular renderer chat outside the Ensemble project;
+- one request;
+- one returned 1586 × 992 PNG;
+- no modifications;
+- no retries;
+- reference-strength control recorded as NOT EXPOSED / N/A under the pre-registered stop-if-exposed rule;
+- judgeable output consumed the attempt.
 
-Stage 7 corrections now binding:
-- renderer-transfer reference contains only relational geometry on a transparent SVG viewport; no white/background artboard, title, metadata, IDs, audit guides or project vocabulary;
-- renderer text uses a continuous physical surface rather than overloaded `physical field` wording;
-- baseline recovery is requested through multiple natural correspondences rather than literal scaffold-line reproduction;
-- exact renderer bytes, one-request/one-image accounting, leakage failure and no-reroll stop rules are frozen.
+Drive evidence folder:
+`1jy6wJT0q0Az-4cJ64VejDFTn8-NHmBZ5`
 
-## Exact next action — isolated renderer execution gate earned
+Raw artwork:
+`1fjbGbFHat-lFmyTnpTbkmSYYZ4sI16T-`
 
+Fixed desktop crop:
+`1Qrgjj8E8CEgF5zwGmHDeBwHRxYag1IBB`
+
+Fixed mobile crop:
+`1tioFlX-P7YY04apHjKHpBCAnqekoK59m`
+
+Evaluation:
+`docs/evidence/HERO_CANDIDATE_06_METHOD_02_ROUND_06_EVALUATION_01.txt`
+
+Frozen result:
+- Human Necessity = 4/5 PASS;
+- Changed-condition legibility = 3/5 FAIL;
+- Altered possibility = 2/5 FAIL;
+- Epistemic restraint = 5/5 PASS;
+- Brand Integration = 1/5 FAIL;
+- Mobile Survival = 3/5 PASS;
+- Removal Test = 2/5 FAIL;
+- Surface Escape = PASS;
+- S1 = PASS;
+- S2 = PASS;
+- S3 = PASS;
+- S4 = PASS;
+- S5 = PASS;
+- S6 = FAIL;
+- reference/diagram leakage = NO MATERIAL LEAKAGE.
+
+Round 06 failure transformations:
+1. local changed surface naturalized into a coherent pre-existing shallow sculpted/topographic depression;
+2. pre-registered B support/COM instability attenuated into a conventional visually stable two-foot stance;
+3. intended passive mechanical brace became an optional editorial/interpersonal lean.
+
+No automatic Round 07 exists.
+
+## Post-Round-06 method finding
+
+Post-render review:
+`docs/evidence/HERO_METHOD_02_POST_ROUND_06_TRANSFER_FIDELITY_REVIEW_01.txt`
+
+Current finding:
+
+**METHOD 02 CURRENT STRUCTURAL-REFERENCE TRANSFER PATH SUSPECTED INSUFFICIENT** for preserving both:
+- transfer-visible changed-from-baseline surface state; and
+- transfer-visible nonstandard human support/stability necessity.
+
+This does not reject Method 02 Stages 1–6 as construction discipline and does not yet falsify D9 as a direction. It locates the present failure at the Stage 6 -> Stage 7 -> renderer transfer-representation boundary.
+
+A key newly exposed gap is that C06's causally decisive support/COM/resultant geometry remained primarily Director-side audit data while the sanitized visual reference allowed the renderer to invent ordinary stable feet/stance geometry.
+
+## Transfer-surface investigation — complete
+
+`docs/evidence/HERO_METHOD_02_TRANSFER_SURFACE_SUFFICIENCY_INVESTIGATION_01.txt`
+
+Dispositions:
+- T0 current abstract silhouette/path transfer: FAILED CONTROL / do not retry unchanged;
+- T1 support-explicit 2D human geometry: useful necessary component but insufficient alone;
+- T2 correspondence-amplified 2D surface: REJECT as primary next family because diagram/device/pre-shaped-form risk rises;
+- T3 deterministic neutral physical maquette: SELECTED AS METHOD-LEVEL NEXT HYPOTHESIS FOR NON-RENDER DEVELOPMENT ONLY.
+
+## Method 02 Stage 6M addendum — approved
+
+Source:
+`docs/evidence/HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01.txt`
+
+Audit:
+`docs/evidence/HERO_METHOD_02_NEUTRAL_PHYSICAL_MAQUETTE_TRANSFER_ADDENDUM_01_RECURSIVE_AUDIT.txt`
+
+Status:
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
 
-Experiment: `METHOD02-R06-C06`.
+Stage 6M is an optional deterministic neutral physical-maquette representation after an approved Stage 6. It may embody support footprint, body-axis relation, actual contact and surface depth without selecting final visual style.
 
-Execute only in **one fresh regular chat outside the Ensemble project** under `docs/RENDERER_ISOLATION_PROTOCOL.md`.
+Important corrected law:
+- every stability-dependent human proxy uses deterministic closed solid geometry;
+- uniform proxy density is the default mass model;
+- Director-side COM/support/static calculations are computed from the exact transferable proxy geometry;
+- hidden analysis may not certify one stance while a materially different visible stance is transferred;
+- support geometry must be physically embodied, not left audit-only;
+- orthographic projection and minimal neutral depth instrumentation are fixed method variables, not candidate-specific aesthetic choices;
+- sculpture/mannequin/CAD/blockout/architectural-model primary readings fail before transfer.
 
-Transfer exactly:
-1. the byte-identical sanitized structural reference above under a neutral renderer-facing filename such as `reference.svg`;
-2. the byte-identical sterile renderer text above, with no added preamble/examples/history.
+## Exact next action
 
-Execution accounting:
-- renderer requests: 1;
-- images requested: 1;
-- isolated renderer contexts: 1;
-- historical artwork: 0;
-- project documents: 0;
-- brand assets: 0;
-- free rerolls: 0.
+Construct a **mechanism-neutral Stage 6M tooling/format implementation** and validate it on non-candidate test geometry before any candidate-specific maquette is permitted.
 
-Reference-strength condition:
-- if the fresh renderer interface exposes **no user-set reference-strength control**, record `REFERENCE_STRENGTH_CONTROL: NOT EXPOSED / N/A` and make the single approved request;
-- if it exposes any user-set reference-strength control, **STOP BEFORE GENERATION** and return to Director Context so one exact value can be fixed and recursively audited.
+That tooling work must define/freeze:
+- machine-readable Stage 6M manifest schema;
+- deterministic solid/proxy generation;
+- exact uniform-density COM calculation;
+- support/contact/static-equilibrium validation;
+- fixed orthographic projection;
+- fixed neutral instrumentation shading/background behavior;
+- sanitized 2D export;
+- fail-closed maquette/mannequin/CAD leakage checks;
+- no candidate semantics or aesthetic variables.
 
-Any judgeable returned artwork consumes the attempt. A technical failure returning no artwork stops execution and does not silently authorize a second request.
+After construction, recursively audit the tooling and non-candidate validation until one complete clean pass.
 
-## Post-render boundary
+## Hard boundary
 
-After one returned artwork:
-- stop renderer execution;
-- return the raw image to Director Context;
-- preserve provenance/evidence;
-- evaluate pixels under unchanged Hero Brief 02 / Falsification Criteria 01 / Surface Escape / fixed Harness 01;
-- visible structural-reference/diagram leakage is candidate failure, not a reroll;
-- do not modify packet/reference/criteria before evaluation closes.
-
-No final hero/style/palette, production website implementation, Lane A/app UI implementation or motion is authorized before that post-render evaluation.
+No Candidate 07, C06 rerender, candidate-specific Stage 6M maquette, renderer packet, reference transfer, image generation, final hero/style/palette, production website implementation, Harness change, Lane A/app UI implementation or motion is authorized before the Stage 6M mechanism-neutral tooling boundary is completed and cleanly audited.
