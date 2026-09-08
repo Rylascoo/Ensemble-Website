@@ -1,0 +1,158 @@
+{
+  "format": "kymaean.hero.method02.stage6m/1",
+  "source_artboard": {
+    "width": 1000,
+    "height": 700
+  },
+  "projection": {
+    "mode": "fixed_orthographic_oblique",
+    "depth_dx": 0.035,
+    "depth_dy": 0.025
+  },
+  "instrumentation": {
+    "base_gray": 184,
+    "top_delta": 12,
+    "side_delta": -12,
+    "outline_gray": 150,
+    "outline_width": 0.6
+  },
+  "surface_volumes": [
+    {
+      "id": "surface-fixture",
+      "solids": [
+        {
+          "id": "surface-main",
+          "polygon": [
+            [0.08, 0.78],
+            [0.34, 0.78],
+            [0.48, 0.73],
+            [0.62, 0.78],
+            [0.92, 0.78],
+            [0.92, 0.84],
+            [0.08, 0.84]
+          ],
+          "z0": 0.02,
+          "z1": 0.2
+        }
+      ]
+    }
+  ],
+  "proxy_volumes": [
+    {
+      "id": "P",
+      "density": "uniform",
+      "solids": [
+        {
+          "id": "P-foot",
+          "polygon": [[0.34, 0.74], [0.46, 0.74], [0.46, 0.78], [0.34, 0.78]],
+          "z0": 0.05,
+          "z1": 0.16,
+          "support_contact": true
+        },
+        {
+          "id": "P-body",
+          "polygon": [[0.36, 0.4], [0.44, 0.4], [0.44, 0.74], [0.36, 0.74]],
+          "z0": 0.07,
+          "z1": 0.15
+        },
+        {
+          "id": "P-head",
+          "polygon": [[0.37, 0.31], [0.43, 0.31], [0.44, 0.4], [0.36, 0.4]],
+          "z0": 0.08,
+          "z1": 0.14
+        },
+        {
+          "id": "P-contact-pad",
+          "polygon": [[0.44, 0.4], [0.49, 0.4], [0.49, 0.45], [0.44, 0.45]],
+          "z0": 0.08,
+          "z1": 0.14
+        }
+      ]
+    },
+    {
+      "id": "Q",
+      "density": "uniform",
+      "solids": [
+        {
+          "id": "Q-foot",
+          "polygon": [[0.58, 0.74], [0.62, 0.74], [0.62, 0.78], [0.58, 0.78]],
+          "z0": 0.05,
+          "z1": 0.16,
+          "support_contact": true
+        },
+        {
+          "id": "Q-body",
+          "polygon": [[0.54, 0.4], [0.58, 0.4], [0.62, 0.74], [0.58, 0.74]],
+          "z0": 0.07,
+          "z1": 0.15
+        },
+        {
+          "id": "Q-head",
+          "polygon": [[0.47, 0.32], [0.53, 0.32], [0.55, 0.4], [0.49, 0.4]],
+          "z0": 0.08,
+          "z1": 0.14
+        },
+        {
+          "id": "Q-contact-pad",
+          "polygon": [[0.49, 0.4], [0.54, 0.4], [0.54, 0.45], [0.49, 0.45]],
+          "z0": 0.08,
+          "z1": 0.14
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "id": "contact-PQ",
+      "a": "P",
+      "b": "Q",
+      "point_a": [0.49, 0.42, 0.11],
+      "point_b": [0.49, 0.42, 0.11],
+      "axis": "horizontal_x"
+    }
+  ],
+  "static_cases": [
+    {
+      "id": "P-unsupported",
+      "kind": "unsupported",
+      "proxy": "P",
+      "expected": "stable",
+      "minimum_margin": 0.01,
+      "contact_id": null,
+      "target_cop_x": null,
+      "counterparty": null
+    },
+    {
+      "id": "Q-unsupported",
+      "kind": "unsupported",
+      "proxy": "Q",
+      "expected": "unstable",
+      "minimum_margin": 0.0,
+      "contact_id": null,
+      "target_cop_x": null,
+      "counterparty": null
+    },
+    {
+      "id": "Q-supported-by-P",
+      "kind": "supported_pair",
+      "proxy": "Q",
+      "expected": "stable",
+      "minimum_margin": 0.005,
+      "contact_id": "contact-PQ",
+      "target_cop_x": 0.585,
+      "counterparty": "P"
+    }
+  ],
+  "sanitization": {
+    "transparent_background": true,
+    "allow_text": false,
+    "allow_ids": false,
+    "allow_metadata": false,
+    "allow_guides": false
+  },
+  "review": {
+    "maquette_leakage": "UNASSESSED",
+    "surface_read": "UNASSESSED",
+    "transfer_eligible": false
+  }
+}
