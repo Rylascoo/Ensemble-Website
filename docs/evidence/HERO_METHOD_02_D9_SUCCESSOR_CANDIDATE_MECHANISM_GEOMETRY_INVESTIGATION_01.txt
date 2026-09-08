@@ -1,6 +1,6 @@
 KYMÆAN — HERO METHOD 02 D9 SUCCESSOR-CANDIDATE MECHANISM / GEOMETRY INVESTIGATION 01
 
-Status: INVESTIGATION COMPLETE / NON-RENDER / SUCCESSOR HYPOTHESIS SELECTED / RECURSIVE AUDIT REQUIRED / NO CANDIDATE YET
+Status: INVESTIGATION COMPLETE / NON-RENDER / SUCCESSOR HYPOTHESIS SELECTED / RECURSIVELY CORRECTED / RECURSIVE AUDIT REQUIRED / NO CANDIDATE YET
 Date: 2026-09-07
 
 PURPOSE
@@ -92,14 +92,19 @@ Baseline restoration:
 - separates the two upper-body contact loci by a positive pre-registered margin.
 
 Changed-state proof:
-The future deterministic geometry must preserve at least two independent correspondence families through the band. They may come from field perimeter/thickness geometry and one secondary non-graphic structural registration feature, but may not be invented as transferred arrows, labels, grids, measurement marks or clue graphics.
+The future deterministic geometry must preserve at least two independent correspondence families through the band, and both must be inherent to the primary field geometry. They may use perimeter, thickness-return or other geometry already required to define the continuous field, but no secondary seam, marker, contour, ridge or registration feature may be added solely to prove that change occurred. No transferred arrows, labels, grids, measurement marks or clue graphics are permitted.
 
-Anti-pre-shaped-form control:
+The future Stages 1–5 must explicitly map the changed B support-root material points back to baseline. Support-root convergence/skew may not be asserted as field-caused merely because the depicted feet happen to be close together.
+
+Anti-pre-shaped-form / anti-balancing-cue control:
+- the changed band is a continuous volumetric flexure/shear zone, not a seam, crack, gap or graphic line;
+- neither B foot may sit on, trace, or visibly align with a band edge as if intentionally balancing on a boundary;
+- the band crosses obliquely through/between the two support neighborhoods and continues beyond the human footprint;
 - the changed band may not close around B;
 - it may not terminate as a foot-sized pocket, basin, cradle or platform;
-- it may not form a stair, ramp, trough, rail, joint, furniture element or recognizable support device;
+- it may not form a stair, ramp, trough, rail, engineered joint, furniture element or recognizable support device;
 - it must continue through a larger field organization rather than explaining itself as a complete object made for B;
-- no crack gap, broken edge, rubble or damage spectacle may carry the changed-state read.
+- no broken edge, rubble or damage spectacle may carry the changed-state read.
 
 Why materially different from C06:
 - C06: both feet on one displaced patch; S1: two support roots straddle the changed band;
@@ -235,7 +240,7 @@ D9-S1 — CROSS-BAND SPLIT-ROOT SHEAR / OBLIQUE PASSIVE BRACE
 
 Construction proposition:
 
-Two specific adults share one continuous finite-thickness field whose simpler baseline alignment is recoverable outside one modest oblique residual flexure/shear band. B's two visible field-borne support roots straddle that band, so the changed state alters their relative projected placement and narrows/skews B's support polygon toward one side of B's body axis. B's depicted oblique changed-state posture has a center-of-mass projection outside that changed support polygon toward independently stable A and therefore requires one broad passive posterior-lateral upper-back/shoulder-to-A-upper-torso contact for lateral/rotational stability. A carries no appreciable B vertical weight. Restoring baseline re-aligns/separates B's support roots, re-centers B into independent stability and moves B's upper-body contact locus away from A by a positive margin. The changed band is open through the larger field and may not become a closed basin, platform, joint, crack or purpose-built support object.
+Two specific adults share one continuous finite-thickness field whose simpler baseline alignment is recoverable outside one modest oblique residual flexure/shear band. B's two visible field-borne support roots straddle that band, so the changed state alters their relative projected placement and narrows/skews B's support polygon toward one side of B's body axis. B's depicted oblique changed-state posture has a center-of-mass projection outside that changed support polygon toward independently stable A and therefore requires one broad passive posterior-lateral upper-back/shoulder-to-A-upper-torso contact for lateral/rotational stability. A carries no appreciable B vertical weight. Restoring baseline re-aligns/separates B's support roots, re-centers B into independent stability and moves B's upper-body contact locus away from A by a positive margin. The changed band is an open continuous flexure/shear region through the larger field and may not become a closed basin, platform, engineered joint, crack or purpose-built support object.
 
 REQUIRED NEXT CONSTRUCTION IF AUDIT PASSES
 
@@ -244,13 +249,14 @@ Before any Stage 6 work, the selected hypothesis must receive a full Method 02 S
 2. changed B COM projection and positive unsupported margin;
 3. A support footprint and conservative loaded-stability margin;
 4. exact broad contact locus/direction class with no vertical carry;
-5. baseline material-point mapping for B's two support roots;
+5. explicit material-point mapping from both changed B support roots to their baseline locations;
 6. restored B support polygon/COM;
 7. positive restored contact-separation margin;
 8. no alternate support path;
-9. at least two baseline/change correspondence families;
-10. anti-fault/joint/platform/depression pre-existing-form tests;
-11. fixed desktop/mobile semantic containment.
+9. at least two baseline/change correspondence families inherent to primary field geometry;
+10. anti-fault/joint/platform/depression/pre-shaped-form tests;
+11. anti-boundary-balancing test: neither foot may depend on visually tracing a seam/edge/band boundary;
+12. fixed desktop/mobile semantic containment.
 
 Stage 6M does not replace any of these pre-registrations. It is a future transfer representation derived from exact approved candidate geometry.
 
