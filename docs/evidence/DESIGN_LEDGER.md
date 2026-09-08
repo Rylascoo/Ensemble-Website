@@ -332,7 +332,7 @@ Primary evidence:
 
 **State:** ROUND 08 FAIL / CONSUMED / C08 CLOSED / NO RETRY / D9-METHOD02 RENDER SUCCESSION PAUSED / DIRECTOR RECONCILIATION REQUIRED
 
-Round 08 / `METHOD02-R08-C08` returned one judgeable 1586 × 992 image and consumed its single authorized attempt. Raw returned image SHA-256: `30c47d18064842d5f0f0f4f994acacfd118e3440d58465b59e9307bb5fd36231`.
+Round 08 / `METHOD02-R08-C08` returned one judgeable 1586 × 992 PNG and consumed its single authorized attempt. Raw returned image SHA-256: `30c47d18064842d5f0f0f4f994acacfd118e3440d58465b59e9307bb5fd36231`.
 
 Frozen result:
 - Human Necessity = **4/5 PASS**;
