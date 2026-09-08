@@ -1,17 +1,148 @@
 {
   "automated_validation_pass": true,
   "format": "kymaean.hero.method02.stage6m/1",
-  "human_review": {"maquette_leakage": "PASS", "surface_read": "PASS"},
-  "proxy_metrics": {
-    "A": {"com":[0.59245611,0.48739606,0.10968933],"support_contact_points":[[0.5729,0.7292],[0.5404,0.7292],[0.6445,0.7292],[0.612,0.7292]],"support_x":[0.5404,0.6445],"support_y_range":[0.7292,0.7292],"support_z":[0.05,0.16],"volume":0.00240503},
-    "B": {"com":[0.68940641,0.48610841,0.10952271],"support_contact_points":[[0.7064,0.7292],[0.6999,0.7303],[0.7129,0.7259],[0.7422,0.7083],[0.7357,0.7108],[0.7487,0.7091]],"support_x":[0.6999,0.7487],"support_y_range":[0.7083,0.7303],"support_z":[0.05,0.16],"volume":0.00125198}
+  "human_review": {
+    "maquette_leakage": "PASS",
+    "surface_read": "PASS"
   },
-  "sanitization":{"allow_guides":false,"allow_ids":false,"allow_metadata":false,"allow_text":false,"transparent_background":true},
-  "source_artboard":{"height":960,"width":1536},
-  "static_cases":[
-    {"actual":"stable","computed_margin":0.05204389,"computed_margin_source_px":79.93941429,"expected":"stable","id":"A-unsupported","kind":"unsupported","minimum_margin":0.05,"pass":true,"proxy":"A"},
-    {"actual":"unstable","computed_margin":-0.01049359,"computed_margin_source_px":-16.11815152,"expected":"unstable","id":"B-unsupported","kind":"unsupported","minimum_margin":0.0098,"pass":true,"proxy":"B"},
-    {"actual":"stable","counterparty":"A","counterparty_margin":0.04257572,"counterparty_margin_source_px":65.39630495,"counterparty_resultant_x":0.58297572,"expected":"stable","fx_fraction_of_proxy_weight":0.09324328,"id":"B-supported-by-A","kind":"supported_pair","minimum_margin":0.0065,"pass":true,"proxy":"B","proxy_margin":0.0065,"proxy_margin_source_px":9.984,"required_fx_on_proxy":0.00011674,"target_cop_x":0.7064}
+  "proxy_metrics": {
+    "A": {
+      "com": [
+        0.59245611,
+        0.48739606,
+        0.10968933
+      ],
+      "support_contact_points": [
+        [
+          0.5729,
+          0.7292
+        ],
+        [
+          0.5404,
+          0.7292
+        ],
+        [
+          0.6445,
+          0.7292
+        ],
+        [
+          0.612,
+          0.7292
+        ]
+      ],
+      "support_x": [
+        0.5404,
+        0.6445
+      ],
+      "support_y_range": [
+        0.7292,
+        0.7292
+      ],
+      "support_z": [
+        0.05,
+        0.16
+      ],
+      "volume": 0.00240503
+    },
+    "B": {
+      "com": [
+        0.68940641,
+        0.48610841,
+        0.10952271
+      ],
+      "support_contact_points": [
+        [
+          0.7064,
+          0.7292
+        ],
+        [
+          0.6999,
+          0.7303
+        ],
+        [
+          0.7129,
+          0.7259
+        ],
+        [
+          0.7422,
+          0.7083
+        ],
+        [
+          0.7357,
+          0.7108
+        ],
+        [
+          0.7487,
+          0.7091
+        ]
+      ],
+      "support_x": [
+        0.6999,
+        0.7487
+      ],
+      "support_y_range": [
+        0.7083,
+        0.7303
+      ],
+      "support_z": [
+        0.05,
+        0.16
+      ],
+      "volume": 0.00125198
+    }
+  },
+  "sanitization": {
+    "allow_guides": false,
+    "allow_ids": false,
+    "allow_metadata": false,
+    "allow_text": false,
+    "transparent_background": true
+  },
+  "source_artboard": {
+    "height": 960,
+    "width": 1536
+  },
+  "static_cases": [
+    {
+      "actual": "stable",
+      "computed_margin": 0.05204389,
+      "computed_margin_source_px": 79.93941429,
+      "expected": "stable",
+      "id": "A-unsupported",
+      "kind": "unsupported",
+      "minimum_margin": 0.05,
+      "pass": true,
+      "proxy": "A"
+    },
+    {
+      "actual": "unstable",
+      "computed_margin": -0.01049359,
+      "computed_margin_source_px": -16.11815152,
+      "expected": "unstable",
+      "id": "B-unsupported",
+      "kind": "unsupported",
+      "minimum_margin": 0.0098,
+      "pass": true,
+      "proxy": "B"
+    },
+    {
+      "actual": "stable",
+      "counterparty": "A",
+      "counterparty_margin": 0.04257572,
+      "counterparty_margin_source_px": 65.39630495,
+      "counterparty_resultant_x": 0.58297572,
+      "expected": "stable",
+      "fx_fraction_of_proxy_weight": 0.09324328,
+      "id": "B-supported-by-A",
+      "kind": "supported_pair",
+      "minimum_margin": 0.0065,
+      "pass": true,
+      "proxy": "B",
+      "proxy_margin": 0.0065,
+      "proxy_margin_source_px": 9.984,
+      "required_fx_on_proxy": 0.00011674,
+      "target_cop_x": 0.7064
+    }
   ],
-  "transfer_eligible":true
+  "transfer_eligible": true
 }
