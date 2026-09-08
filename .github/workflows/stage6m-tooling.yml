@@ -5,7 +5,7 @@ on:
     paths:
       - 'tools/stage6m_maquette.py'
       - 'tools/stage6m_maquette_core.py'
-      - 'tools/stage6m_maquette_core_source.txt'
+      - 'tools/stage6m_maquette_core_source.part*'
       - 'tools/stage6m_maquette_hardening.py'
       - 'tools/test_stage6m_maquette.py'
       - 'tools/test_stage6m_core_bypass.py'
@@ -15,7 +15,7 @@ on:
     paths:
       - 'tools/stage6m_maquette.py'
       - 'tools/stage6m_maquette_core.py'
-      - 'tools/stage6m_maquette_core_source.txt'
+      - 'tools/stage6m_maquette_core_source.part*'
       - 'tools/stage6m_maquette_hardening.py'
       - 'tools/test_stage6m_maquette.py'
       - 'tools/test_stage6m_core_bypass.py'
