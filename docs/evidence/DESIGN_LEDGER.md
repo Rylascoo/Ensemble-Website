@@ -482,3 +482,18 @@ No canonical scaffold was promoted. No renderer-visible reference/prompt/packet 
 Under DPSC-RSP-01 Case A, C01 may be materially corrected inside the frozen method while no renderer authorization has been earned. C02 remains unavailable until a judgeable E1 failure.
 
 **Guardrail:** the next and only current design gate is DPSC-C01 D0-D5 correction using a lateral body-height continuous changed condition rather than a ground/support-plane carrier. This does not pre-approve that mechanism. It must independently clear P1-P13, especially P3/P7/P8, wall/curtain/device/installational shorthand, physical B dependence, passive separated-head A contact and frozen mobile containment. Renderer expenditure remains 0.
+
+## L-029 — DPSC-C01 Revision 2 earns a new neutral-scaffold gate
+
+**State:** DPSC-C01 REVISION 2 D0-D5 COMPLETE / CLEAN AT CONSTRUCTION LEVEL / NOT RENDERER-READY / 0 RENDERER EXPENDITURES
+
+Under DPSC-RSP-01 Case A, C01 was materially corrected without creating C02 or spending DPSC-E1. Revision 2 — `LATERAL BODY-HEIGHT CONTINUUM / PASSIVE COUNTERBRACE` — removes the rejected ground/support-plane carrier and moves the causal relation to a sustained lateral body-height load.
+
+Three independent correspondence families now carry baseline recovery: outer-envelope course, thickness/section relationship, and one low-amplitude internal directional family. A single local lateral displacement carries all three toward B's right hip/lower-ribcage region. B's exact torso posture is downstream of that load; independently stable A provides one passive separated-head posterior/lateral torso counterbrace. Restoring the simpler course removes/reduces the lateral load and materially changes B and the A↔B relation.
+
+Primary correction evidence:
+`docs/evidence/HERO_DPSC_C01_LATERAL_CONTINUUM_CORRECTION_D0_D5_01.txt`.
+
+Revision 2 is not declared visually solved. The exact neutral scaffold must still falsify P3 purpose-designed-whole normalization, P6 dominant-prop reduction, P7 wall/curtain/panel/device/installation/floating-object or impact shorthand, P8 diagram/pattern dominance, P10 corrected-Harness containment, and the physical necessity of A's passive counterreaction.
+
+**Guardrail:** Revision 2 authorizes only one exact current-state neutral vector scaffold and its candidate-specific physical/P3/P6/P7/P8/P10/full-P1-P13 audit. No renderer-visible bytes, sterile packet, DPSC-E1 call, C02, criterion/Harness mutation or final-art authority exists. Renderer expenditure remains 0 of 2 maximum.
