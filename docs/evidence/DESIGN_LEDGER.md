@@ -3,7 +3,7 @@
 # Kymaean Design Ledger
 
 Status: ACTIVE DURABLE CLOSURE / RE-DERIVATION LEDGER
-Updated: 2026-09-07
+Updated: 2026-09-08
 
 ## Purpose
 
@@ -209,3 +209,45 @@ Primary closure evidence:
 - `docs/evidence/HERO_CANDIDATE_07_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
 
 **Guardrail:** `CURRENT_STATE.md` owns the live execution boundary. C07 Stage 7 approval authorizes no renderer call inside the Ensemble project, no reference/prompt modification at execution time, no C06 retry and no free Round 07 reroll. A future fresh renderer UI exposing any user-set reference/image/structure-strength control requires a fixed-value amendment and recursive audit before generation.
+
+## L-019 — Round 07 failed and closed C07; C08 is the active D9 successor
+
+**State:** ROUND 07 FAIL / CONSUMED / C07 CLOSED / C08 APPROVED THROUGH STAGE 6 / STAGE 6M ACTIVE / ROUND 08 UNSPENT
+
+This entry is a retroactive currency repair. Round 07 closure and the subsequent C08 succession were already established in repository evidence, but the ledger had no mandatory write-trigger law at the time and remained at L-018. L-018 is preserved as the historical pre-execution state rather than rewritten.
+
+Round 07 / `METHOD02-R07-C07` returned one judgeable 1586 × 992 image and consumed its single authorized attempt. The frozen result was:
+
+- Human Necessity = **4/5 PASS**;
+- Changed-condition legibility = **3/5 FAIL**;
+- Altered Possibility = **3/5 FAIL**;
+- Epistemic Restraint = **5/5 PASS**;
+- Brand Integration = **1/5 FAIL**;
+- Mobile Survival = **3/5 PASS**;
+- Removal Test = **2/5 FAIL**;
+- Surface Escape = **PASS**;
+- S1–S5 = **PASS**;
+- S6 = **FAIL**.
+
+Candidate `C07-CBSR-01` is therefore CLOSED / NO RETRY. No prompt patch, alternate image, reroll, reference mutation or candidate-specific Harness rescue is authorized.
+
+Round 07 nevertheless established a material positive result: Stage 6M successfully transferred the later mechanical relation `B dependent support/posture -> A passive brace`. B's depicted support remained visibly dependent on independently stable A without active hand/arm support, and the maquette/CAD medium did not leak. The remaining smallest break moved upstream to `recoverable changed surface -> B dependent support/posture`; the surface still naturalized into plausible pre-existing sculpted/architectural ground and the head-on-shoulder geometry admitted a strong interpersonal explanation.
+
+D9 therefore remains testable and Stage 6M is **PARTIALLY VALIDATED / RETAIN**. The post-Round-07 review rejected same-reference retry, stronger prose, extra clue marks, simple trough deepening, cosmetic restyling and automatic Round 08.
+
+The clean successor investigation selected **D9-S2 — EDGE-WITNESSED PROPAGATED TORSIONAL FLEXURE / SEPARATED-HEAD SCAPULAR BRACE**. Its material differences from C07 are viewer-facing changed-state evidence propagated through one continuous physical surface to a free-edge/thickness-return witness, separated-head scapular/ribcage contact, and a wider changed B stance with retained positive unsupported margin.
+
+The corrected Method 02 Stages 1–5 construction earned candidate identity:
+
+`C08-EWTF-01`
+
+Candidate C08 has since completed and cleanly passed Stage 6 Neutral Geometry Scaffold. Stage 6 authorizes **candidate-specific Stage 6M only**. No Stage 7 packet, renderer/reference transfer, image generation or Round 08 execution is authorized.
+
+Primary evidence:
+- `docs/evidence/HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt`;
+- `docs/evidence/HERO_METHOD_02_POST_ROUND_07_TRANSFER_FIDELITY_CAUSAL_TOPOLOGY_REVIEW_01.txt`;
+- `docs/evidence/HERO_METHOD_02_D9_SUCCESSOR_CHANGE_TO_POSTURE_MECHANISM_GEOMETRY_INVESTIGATION_02.txt`;
+- `docs/evidence/HERO_METHOD_02_D9_S2_CONSTRUCTION_STAGES_01_05_RECURSIVE_AUDIT_01.txt`;
+- `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`.
+
+**Guardrail:** C07 remains consumed and closed. C08 is not a C07 reroll. Read `CURRENT_STATE.md` for the exact Stage 6M construction boundary and any active audit correction that must close before Stage 6M promotion.
