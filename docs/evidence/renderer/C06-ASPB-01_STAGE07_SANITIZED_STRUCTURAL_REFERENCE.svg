@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="960" viewBox="0 0 1536 960">
+  <rect x="0" y="0" width="1536" height="960" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="650,685 760,685 950,685 1035,685 1085,675 1115,685 1150,691 1195,685 1305,685"/>
+    <polyline points="650,710 760,710 950,710 1035,710 1085,700 1115,710 1150,716 1195,710 1305,710"/>
+    <polyline stroke-width="3" points="650,697 760,697 950,697 1035,697 1085,687 1115,697 1150,703 1195,697 1305,697"/>
+    <ellipse cx="945" cy="290" rx="44" ry="55"/>
+    <path d="M900 350 C920 335 965 335 990 355 L1015 395 C1005 440 995 480 985 520 L975 610 L990 685 L950 685 L940 560 L930 685 L890 685 L900 610 L900 500 Z"/>
+    <line x1="945" y1="350" x2="940" y2="685" stroke-width="3"/>
+    <ellipse cx="1055" cy="280" rx="38" ry="48"/>
+    <path d="M1018 395 C1028 370 1040 350 1058 345 C1085 345 1100 370 1105 400 L1115 520 L1135 688 L1115 685 L1095 678 L1080 540 L1045 455 L1028 420 Z"/>
+    <line x1="1058" y1="345" x2="1115" y2="685" stroke-width="3"/>
+    <line x1="1015" y1="400" x2="1018" y2="400" stroke-width="10"/>
+  </g>
+</svg>
