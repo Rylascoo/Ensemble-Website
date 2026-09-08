@@ -1,0 +1,302 @@
+KYMÆAN — DPSC-C01 CONSTRUCTION D0-D5 01
+
+Program: DPSC-RSP-01 — DPSC RENDERED SUCCESSOR PROGRAM 01
+Candidate: DPSC-C01 — COHERENT INTERIOR OFFSET / PASSIVE COUNTERBRACE
+Status: D0-D5 COMPLETE / DESIGN-LEVEL P1-P13 PREFLIGHT CLEAN / EXACT NEUTRAL TRANSFER ARTIFACT NOT YET BUILT / 0 RENDERER EXPENDITURES
+Date: 2026-09-08
+
+AUTHORITY
+
+This construction is subordinate to:
+- `docs/evidence/HERO_DPSC_RENDERED_SUCCESSOR_PROGRAM_01.txt`;
+- DPSC-01 as established by HTCR-01;
+- Hero Brief 02;
+- Falsification Criteria 01;
+- Surface Escape;
+- corrected/re-frozen Harness 01.
+
+It changes no frozen criterion and authorizes no renderer call.
+
+CANDIDATE THESIS
+
+DPSC-C01 tests whether one broad continuous shared field can make a simpler prior state intrinsically recoverable through several independent present-state correspondences, while the changed state remains an interior event rather than a special edge, crack, object, platform or explanatory mark.
+
+The carrier is intentionally mechanism-first. No final material, setting, palette or style is selected here.
+
+The candidate's local change is called **Coherent Interior Offset** only as Director-side construction language. Renderer-facing language, if later earned, must use ordinary observable relationships rather than this term.
+
+D0 — CAUSAL PROPOSITION / RESTORATION STATEMENT
+
+Simpler baseline relation:
+A broad shared physical field carries several ordinary visual relations that continue with one coherent direction and local spacing through the consequential region.
+
+Present changed relation:
+Inside that field, one bounded interior zone remains physically continuous with its surroundings but is displaced obliquely and slightly reoriented. Several independent relations all move with the same local change. There is no rupture, crack, detached part, inserted device or free-edge event at the changed zone.
+
+B's altered possibility:
+B's two lower supports straddle the changed/unchanged relation asymmetrically. One support remains on the wider unchanged relation; the other is carried by the displaced zone. That displacement leaves B in a narrow, oblique support condition whose depicted center/posture requires a passive posterior-lateral torso brace from A.
+
+A's role:
+A is independently stable on the unchanged relation. A makes one passive upper-torso/scapular-ribcage contact with B from behind-left/lateral. A does not lift, grip, pull, hold a hand, or use active arm support. The heads remain visibly separated.
+
+Restoration counterfactual:
+Mentally return the one interior zone to the simpler relation predicted by its surroundings. B's displaced lower support returns inward/upward into the simpler support relation; B's support base and torso orientation materially change; the posterior-lateral lean into A is no longer required. The A↔B passive contact therefore changes or disappears.
+
+D0 audit:
+- no private intention required: PASS;
+- no hidden author required: PASS;
+- no named damage event required: PASS;
+- no explanatory text required in the final still: PASS IN CONSTRUCTION;
+- the restoration changes B and A↔B rather than merely changing scenery: PASS.
+
+D0: PASS.
+
+D1 — DISTRIBUTED CORRESPONDENCE MAP
+
+DPSC-C01 uses four independent correspondence families. They are properties of the depicted field, not overlay graphics.
+
+F1 — PRIMARY FLOW CONTINUATION
+
+Outside the changed zone, the broad field has one shallow longitudinal flow/curvature. The portions immediately before and after the changed zone independently extrapolate one continuous simpler trajectory through it. The changed zone is locally offset from that trajectory while remaining continuous with the whole.
+
+Why independent:
+F1 is a large-scale shape/continuation relation. It does not depend on texture, repeated marks or thickness cues.
+
+F2 — SECTION / THICKNESS RELATION
+
+Where the field's physical section is naturally visible in separated locations, local thickness and surface-normal relationship remain coherent. Around the changed zone, those separated section relationships predict the same simpler orientation that F1 predicts, while the changed zone carries the same local thickness through a different orientation.
+
+Why independent:
+F2 uses physical section/normal relationship rather than the field's longitudinal silhouette or internal directional structure.
+
+F3 — LOW-AMPLITUDE DIRECTIONAL STRUCTURE
+
+A sparse, non-semantic internal directional structure belongs to the field. Outside the changed zone it follows one quiet orientation family. Inside the changed zone it reorients with the same physical displacement. It is not a grid, symbol, stripe code, measurement mark or high-contrast pattern.
+
+Why independent:
+F3 can remain visible even where the outer contour is absent from the crop, and its orientation can predict the simpler relation without relying on section thickness.
+
+F4 — IRREGULAR RELIEF-INTERVAL RELATION
+
+A small number of broad, low-relief features occur at non-periodic intervals. Their local spacing and approach/departure relationship on both sides of the changed zone imply how the interval would continue through the simpler state. The features are deliberately irregular enough to avoid a repeated-pattern puzzle.
+
+Why independent:
+F4 depends on relative interval/placement among sparse physical features, not on F1 curvature, F2 thickness or F3 directional microstructure.
+
+CONVERGENCE TEST
+
+All four families predict the same simpler baseline transformation: reverse the one local oblique displacement/reorientation while preserving continuity. No family predicts a different prior state.
+
+NO-SINGLE-CLUE TEST
+
+- F1 alone shows a local exception but not enough history to carry the full proposition.
+- F2 alone shows orientation inconsistency but not altered human possibility.
+- F3 alone is weak non-semantic texture.
+- F4 alone is sparse relief organization.
+- B's posture alone does not prove the environmental baseline.
+
+The intended inference emerges only when the families agree and B's support is located at the shared changed zone.
+
+PURPOSE-DESIGNED-WHOLE RISK
+
+This is the principal registered D1 risk. A renderer could still make the whole field look intentionally sculpted. The construction therefore requires:
+- no object/frame boundary around the changed zone;
+- no symmetry centered on the changed zone;
+- no ornamental repetition that celebrates the displacement;
+- unchanged correspondence families must visibly continue on both sides;
+- the changed zone must be the only coherent local exception, not one motif among many.
+
+This risk is not declared solved by prose. The exact neutral current-state scaffold must later be inspected specifically for P3/P7/P8 before renderer authorization.
+
+D1: PASS AT CONSTRUCTION LEVEL / P3-P7-P8 VISUAL RECHECK REQUIRED AT EXACT TRANSFER ARTIFACT.
+
+D2 — HUMAN DEPENDENCY GEOMETRY
+
+COMPOSITIONAL PLACEMENT
+
+The semantic cluster is center/right rather than far-right:
+- A occupies the left side of the human pair, approximately within the middle-right half of the source artwork;
+- B occupies the right side of the pair;
+- the changed interior zone sits under/around B's asymmetric lower support and between the two figures' lower-body regions;
+- both figures and the changed zone remain inside the frozen mobile semantic crop target;
+- the left desktop identity/copy region remains lower-information but belongs to the same field.
+
+B SUPPORT
+
+B uses two lower supports with materially unequal relationship to the field:
+- near/left lower support remains on the unchanged relation;
+- far/right lower support is carried by the interior displaced zone and is shifted away/down relative to the simpler baseline predicted by F1-F4;
+- B's pelvis/torso therefore rotates posterior-left rather than merely widening into a symmetric stance;
+- B's depicted posture is constructed so passive contact from A closes the support relation.
+
+This is not inherited C08 geometry. No C08 coordinates, free-edge witness, scaffold or reference image is used.
+
+A SUPPORT
+
+A remains independently stable on unchanged field geometry. Contact is one passive posterior-lateral upper-torso relation. A's hands and forearms do not carry B. A's head does not touch B's head. The two heads have clear visible separation in both position and gesture.
+
+SOCIAL-SHORTCUT CONTROL
+
+The pair is neither embracing nor facing each other. A's contact is read through weight and posture, not affection/comfort gesture. B's head orientation and A's head orientation diverge enough that the torso contact does not become a head-rest or intimate pose.
+
+PHYSICAL PLAUSIBILITY BOUNDARY
+
+D2 does not yet claim machine-verified statics. The next neutral transfer artifact must make the support geometry inspectable. If the exact scaffold cannot show that B is dependent on A at depicted-pose level while A remains stable, the candidate fails before renderer expenditure.
+
+D2: PASS AT CONSTRUCTION LEVEL / EXACT SCAFFOLD PHYSICAL CHECK REQUIRED.
+
+D3 — COUNTERFACTUAL / REMOVAL FALSIFICATION
+
+RESTORE SIMPLER CORRESPONDENCE
+
+Reverse the interior displacement coherently across F1-F4. B's displaced lower support returns toward the predicted simpler support relation. B's torso no longer requires the same posterior-left counterlean. The passive A contact loses its present mechanical necessity.
+
+Result: PASS.
+
+REMOVE A
+
+With the changed zone retained, B's constructed posture lacks the posterior-lateral brace that closes the relation. B cannot retain the exact depicted pose without shifting weight/posture.
+
+Result: PASS IN CONSTRUCTION / exact scaffold must verify.
+
+REMOVE B
+
+The field still contains a changed local condition, but the hero proposition of altered human possibility collapses. The remaining field is not sufficient as the primary meaning.
+
+Result: PASS.
+
+REMOVE CHANGED CONDITION
+
+With F1-F4 restored, B's support/posture changes and the A↔B dependency no longer has the same reason to exist.
+
+Result: PASS.
+
+REMOVE ONE CORRESPONDENCE FAMILY
+
+Any one of F1-F4 may be suppressed and at least two other independent families still predict the same simpler baseline. No single clue owns recoverability.
+
+Result: PASS.
+
+D3: PASS AT CONSTRUCTION LEVEL.
+
+D4 — SURFACE ESCAPE / IDENTITY / RESPONSIVE COMPOSITION
+
+SURFACE ESCAPE
+
+There is no ordinary task: no walking destination, repair, rescue, carrying, reaching, operating, climbing, crossing or inspection action is required. The people simply inhabit the altered shared condition. Removing the transformed condition changes the support relation rather than revealing a normal task that was happening anyway.
+
+Result: PASS IN CONSTRUCTION.
+
+ANTI-ARCHITECTURE / ANTI-TERRAIN
+
+The shared field is not designed as a platform, bridge, wall, floor system, seating form, stair, channel, path or landscape feature. The changed zone has no separate edge, frame, base, support device or architectural termination. The future render must avoid material/detail choices that make a built installation or terrain feature the materially simpler category.
+
+Result: PASS IN CONSTRUCTION / high-risk visual recheck registered.
+
+ANTI-DAMAGE
+
+No crack, fracture, tear, impact mark, debris, scorch, wound-like seam or broken fragment is part of the mechanism. Continuity is preserved through the changed zone.
+
+Result: PASS.
+
+IDENTITY REGION
+
+The calm left desktop region uses lower visual density and lower optical weight within the same field. It is not a pale spotlight, separate fog bank, blank panel, fixed illumination source or artwork partition. F1 and F3 may continue quietly through it so the world remains one continuous composition while copy/identity retain breathing room.
+
+Result: PASS IN CONSTRUCTION.
+
+RESPONSIVE CONTAINMENT
+
+For the intended wide artwork carrier under the frozen 390 x 488, 72% horizontal object-position Harness behavior, the semantic cluster is intentionally kept around the central-right portion rather than at the extreme edge. Both people, the changed zone, F3 directional structure and at least one of F1/F4 are designed to survive the meaningful tall crop. F2 may strengthen desktop without being required as the sole mobile witness.
+
+No exact crop pass is claimed until the neutral scaffold is built and inserted into the corrected Harness.
+
+Result: PASS IN CONSTRUCTION / exact Harness crop check required.
+
+THRESHOLD K / O3
+
+Neither identity asset is drawn, hidden, completed or quoted inside the artwork. They remain separate Harness assets.
+
+Result: PASS.
+
+D4: PASS AT CONSTRUCTION LEVEL.
+
+D5 — TRANSFER / RENDERER-ISOLATION PREFLIGHT
+
+SELECTED TRANSFER METHOD
+
+Use one **current-state-only neutral vector scaffold** as the structural reference. It will depict:
+- one broad continuous field;
+- the one interior changed zone as actual current geometry, without baseline overlay;
+- enough F1-F4 evidence to inspect correspondence;
+- two simplified human volumes with separated heads and the single passive torso contact;
+- the desktop composition needed to test the frozen mobile crop.
+
+The scaffold is Director-side structural evidence, not final art style. It must use neutral visual treatment and may contain no labels, arrows, measurement marks, before/after comparison, criterion text or project history in the renderer-visible version.
+
+The exact vector bytes do not exist yet. Their construction is the next candidate-specific gate.
+
+FUTURE STERILE PACKET
+
+If the exact scaffold survives all rejection rules, create one ordinary-language renderer packet that describes only positive observable relationships. It must not contain:
+- DPSC/HTCR/Method/D9 terminology;
+- scores or criteria;
+- coordinates/statics;
+- baseline diagrams;
+- previous candidate references;
+- architecture/terrain/device/damage solution nouns;
+- instructions to infer a causal conclusion.
+
+D5: PASS AS TRANSFER-METHOD SELECTION / EXACT BYTES NOT YET FROZEN.
+
+P1-P13 DESIGN-LEVEL PREFLIGHT
+
+P1 fewer than three independent families: PASS — four are defined.
+P2 families do not converge: PASS — F1-F4 predict the same inverse local displacement.
+P3 purpose-designed whole equally plausible: PROVISIONAL PASS / PRIMARY VISUAL FALSIFICATION RISK — construction controls remove framing/symmetry/ornament, but exact scaffold must prove the simpler relation is visibly overdetermined.
+P4 restoration leaves B unchanged: PASS — restoration changes the displaced lower support and torso requirement.
+P5 A optional/active/interpersonal: PASS IN CONSTRUCTION — one passive torso brace, no hand/arm support, separated heads; exact scaffold must verify necessity.
+P6 one clue carries proposition: PASS — no single F family or human pose contains the complete inference.
+P7 forbidden shorthand simpler: PROVISIONAL PASS / VISUAL FALSIFICATION REQUIRED — no forbidden category is designed into the mechanism.
+P8 diagram/grid/pattern outranks people: PROVISIONAL PASS — F3/F4 are low-amplitude/irregular; exact scaffold must verify they do not become a formal puzzle.
+P9 fixed pale identity patch required: PASS — calm comes from density/hierarchy.
+P10 mobile crop fails: PROVISIONAL PASS — semantic cluster is compositionally contained; exact Harness crop must verify.
+P11 transfer requires explanation/before-after: PASS — one current-state-only scaffold selected.
+P12 disguised C08 retry: PASS — interior distributed correspondence replaces C08 free-edge/single-surface history witness; no C08 geometry/reference is copied.
+P13 foreseeable frozen-contract violation: PASS AT CONSTRUCTION LEVEL — no mandatory gate is knowingly violated; pixel obligations remain unproven.
+
+PRELIMINARY DISPOSITION
+
+DPSC-C01 has completed D0-D5 at the construction level and earns candidate identity:
+
+**DPSC-C01 — COHERENT INTERIOR OFFSET / PASSIVE COUNTERBRACE**
+
+It is not renderer-ready.
+
+The next lawful gate is construction of the exact neutral current-state vector scaffold, followed by:
+1. physical dependency inspection;
+2. P3/P7/P8 visual falsification;
+3. corrected Harness desktop/mobile containment inspection;
+4. full P1-P13 recursive pre-render audit;
+5. only if clean, construction/freeze of one sterile renderer packet and exact input hashes.
+
+RECURSIVE AUDIT
+
+Pass 1 identified three risks that cannot be solved by prose and therefore remain explicit pre-render falsification targets rather than being relabeled PASS:
+- P3 purpose-designed-whole normalization;
+- P7 architecture/terrain/installational shorthand;
+- P8 pattern/diagram dominance.
+
+It also identified two transfer-verification obligations:
+- exact B dependence/A stability at depicted-pose level;
+- exact frozen mobile crop containment.
+
+No new post-render criterion was created. The candidate does not inherit C08 geometry, reference bytes or free-edge mechanism. No material/palette/style selection was smuggled in. No renderer-facing text or image exists. Renderer expenditure remains zero.
+
+One complete second pass found no construction-level contradiction that requires rejecting DPSC-C01 before the neutral scaffold is built. The unresolved items above are exactly the checks the next gate is designed to falsify.
+
+DISPOSITION
+
+DPSC-C01: CONSTRUCTION COMPLETE THROUGH D0-D5 / CANDIDATE IDENTITY EARNED / NOT RENDERER-READY.
+NEXT GATE: EXACT NEUTRAL CURRENT-STATE VECTOR SCAFFOLD + PHYSICAL/P3/P7/P8/HARNESS FALSIFICATION.
+RENDERER EXPENDITURE: 0 AUTHORIZED.
