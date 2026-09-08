@@ -1,0 +1,162 @@
+KYMÆAN — HERO TRANSLATION / CARRIER RECONCILIATION PROGRAM 01
+
+Program ID: HTCR-01
+Status: ACTIVE BOUNDED NON-RENDER METHOD PROGRAM / ZERO RENDERER EXPENDITURE AUTHORIZED
+Date: 2026-09-08
+
+PURPOSE
+
+Investigate whether the repeated Candidate 07 / Candidate 08 upstream failure is caused by the final artwork translation/carrier normalizing a recoverably changed shared condition into an already-designed naturalistic environment.
+
+HTCR-01 is an explicitly new bounded program. It is not D9 continuation, not Candidate 09, not Round 09, and not a renderer program.
+
+PARENT CONTRACT — FROZEN / UNCHANGED
+
+HTCR-01 inherits without amendment:
+- `docs/KYMAEAN_LANE_B_WEBSITE_V0_HERO_ARTWORK_BRIEF_02.md`;
+- `docs/KYMAEAN_HERO_SURFACE_OWNERSHIP_FALSIFICATION_CRITERIA_01.md`;
+- `docs/KYMAEAN_HERO_SURFACE_ESCAPE_GATE_01.md`;
+- corrected and re-frozen Harness 01 as established by `docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md`.
+
+No score threshold, S1-S6 criterion, Surface Escape rule, Harness geometry/crop/identity treatment, or renderer accounting law changes in this program.
+
+EVIDENCE BASIS
+
+Round 07 and Round 08 both preserved Human Necessity, Epistemic Restraint, Mobile Survival, Surface Escape and S1-S5 while failing Changed-condition legibility, Altered Possibility, Removal Test, Brand Integration and S6.
+
+Candidate 08 additionally established transferable positive evidence that must be preserved rather than rediscovered:
+- separated heads materially reduce the strongest social/intimacy shortcut;
+- passive posterior/lateral human support can remain mechanically necessary at depicted-pose level;
+- a local surface departure can propagate through one continuous thick surface to a visible free edge without maquette/CAD leakage.
+
+The smallest repeated upstream break is therefore treated as:
+
+`recoverable changed condition -> B dependent posture / altered possibility`
+
+The post-Round-08 recommendation identifies final translation/carrier as the next non-render investigation level. This program adopts that investigation only; it does not adopt any proposed successor artwork.
+
+CORE QUESTION
+
+Can a materially different final translation/carrier preserve intrinsic visible baseline/change correspondence and bind that changed state to B's posture without collapsing into:
+- architecture/terrain read as already designed;
+- damage/accident shorthand;
+- device/platform shorthand;
+- explanatory graphics or before/after comparison;
+- maquette/CAD/transfer-medium leakage;
+- a single dominant physical prop that merely literalizes a formal instruction?
+
+PROGRAM BUDGET — FROZEN BEFORE ANALYSIS
+
+Exactly two non-render analysis rounds are available:
+
+- HTCR-A1 — CARRIER / DEPICTION-LOGIC DIVERGENCE;
+- HTCR-A2 — ADVERSARIAL FALSIFICATION OF SURVIVORS.
+
+Renderer expenditure budget: **0**.
+
+There is no HTCR-A3. There is no automatic rendered successor. A1 may terminate the program early if zero materially distinct carrier hypotheses survive. A2 occurs only if A1 leaves at least one survivor.
+
+MATERIAL-DIFFERENCE RULE
+
+A carrier hypothesis is materially different only if it changes the depiction logic by which the viewer can recover the prior simpler condition and perceive its causal relation to present human possibility.
+
+Changing palette, material name, setting, texture, camera, atmosphere, historical genre, or surface styling alone does not create a new carrier hypothesis.
+
+A materially different carrier must differ in at least two of these representation-level dimensions:
+1. where baseline/change correspondence is encoded;
+2. how the changed state remains identifiable as the same shared condition rather than a different object/place;
+3. how B's present posture is visibly constrained by that change;
+4. how restoration of the simpler baseline would force the A↔B relation or altered possibility to change;
+5. whether causality is distributed across the composition or concentrated in one literal object.
+
+PROMPT-SEED DISCIPLINE
+
+HTCR-01 reasons first in depiction logic, not concrete renderer nouns. Material names, architectural nouns, terrain nouns, devices, portals, bridges, walls, ruins, platforms, damage, cracks, scars, diagrams and explanatory markers are not allowed to stand in for causal structure.
+
+A surviving mechanism must remain intelligible when concrete surface/material/setting nouns are removed. This protects against renderer-prior convergence and against mistaking one familiar prop for the formal relation.
+
+HTCR-A1 TEST
+
+A1 must generate materially different depiction/carrier logics and test each against all of the following before promotion:
+
+A1.1 — intrinsic baseline recoverability: the simpler prior condition can be inferred from present-state organization without text, before/after comparison, damage shorthand or private history;
+A1.2 — changed-state identity continuity: the viewer can read current and recoverable prior states as the same shared condition, not two unrelated objects/places;
+A1.3 — posture causality: the changed condition visibly constrains B's present support/posture rather than merely accompanying it;
+A1.4 — restoration counterfactual: restoring the simpler baseline would force a material change in B's support/posture and therefore in the A↔B relation or altered possibility;
+A1.5 — human necessity: both specific people remain necessary and non-interchangeable;
+A1.6 — no single-prop literalization: the formal control is not satisfied by one dominant physical prop carrying the entire idea;
+A1.7 — shorthand resistance: no architecture-as-already-designed, terrain, damage/accident, device/platform, diagram or transfer-medium explanation becomes the materially simpler reading;
+A1.8 — Surface Escape plausibility: removing the impossible/transformed condition would not leave an ordinary task/accident genre tableau as the primary reading;
+A1.9 — identity coexistence: the left identity/copy region can remain compositionally calm without becoming a pale fixed-light patch that behaves as the artwork's independent illumination source;
+A1.10 — responsive survival: the causal relation can plausibly remain legible in the frozen mobile crop without relying on peripheral explanation.
+
+A1 OUTCOME RULE
+
+- zero survivors: HTCR-01 FAILS AND CLOSES immediately; no A2 and no renderer;
+- one or more survivors: A2 is automatically authorized within the frozen program budget;
+- A1 may not alter its tests after observing results.
+
+HTCR-A2 TEST
+
+A2 adversarially attacks every A1 survivor using:
+- the unchanged Hero Brief 02 score meanings;
+- S1-S6;
+- Surface Escape;
+- corrected Harness constraints;
+- Round 07 / Round 08 observed renderer-prior failures;
+- prompt-seed discipline;
+- mobile containment;
+- the counterfactual `restore simpler baseline -> B support/posture materially changes`;
+- the requirement that formal depiction control not collapse into one literal scene object.
+
+A2 may promote at most one successor **translation hypothesis**. It may not construct a candidate, sterile renderer packet, reference, prompt, image or rendered round.
+
+PROGRAM SUCCESS
+
+HTCR-01 succeeds only if at least one materially different translation/carrier mechanism survives both A1 and A2 and the final audit can state all of the following without qualification:
+
+1. baseline/change correspondence is intrinsic to the still image rather than supplied by explanation;
+2. B's altered posture/support is visually dependent on the changed condition;
+3. restoring the simpler baseline forces a material change in B and in the A↔B altered possibility;
+4. C08's separated-head/passive-support gains remain compatible;
+5. no forbidden shorthand is materially simpler than the intended relation;
+6. the mechanism can be expressed with positive depiction-level controls without depending on concrete seeded material/setting nouns;
+7. the frozen identity region and mobile crop remain plausible without criterion/Harness modification.
+
+Success authorizes only a later proposal for a **separate rendered successor program** with its own predeclared renderer budget. It does not authorize renderer expenditure.
+
+PROGRAM FAILURE / TERMINATION
+
+HTCR-01 fails and closes if:
+- A1 leaves zero survivors; or
+- A2 leaves zero survivors; or
+- every surviving mechanism requires changing a frozen criterion/Harness rule; or
+- every surviving mechanism depends on forbidden concrete seeding, explanatory graphics, or a materially simpler shorthand reading.
+
+After failure there is no A3 and no renderer. The next consequential choice is then a genuinely new hero direction, an explicit Director decision to change the governing contract, or a pause in hero research.
+
+PRESERVATION / HARD BOUNDARY
+
+HTCR-01 does not:
+- reopen D9, C06, C07 or C08;
+- create R09/C09;
+- change any frozen post-render criterion or Harness implementation;
+- select final hero artwork, palette, material, medium or style;
+- authorize website implementation or Cloudflare deployment;
+- authorize Lane A/app UI implementation or motion;
+- consume a renderer attempt.
+
+RECURSIVE PRE-ANALYSIS AUDIT
+
+The program was checked against CURRENT_STATE, L-022/L-023, the Round 07 and Round 08 evaluations/reconciliation evidence, Hero Brief 02, Falsification Criteria 01, Surface Escape, corrected/re-frozen Harness 01, durable visual-continuity laws and the project prompt-seed/renderer-prior discipline.
+
+The audit found the program to be result-blind at its own level: two analysis rounds, zero renderer expenditures, exact A1/A2 tests, success state, early-failure state and no-A3 consequence are all declared before A1 is performed.
+
+No D9 continuation loophole, renderer-spend loophole, criterion mutation, style convergence, concrete-material seed, or automatic-success rule remains.
+
+DISPOSITION
+
+HTCR-01: ACTIVE.
+NEXT AUTHORIZED ACTION: HTCR-A1 ONLY.
+RENDERER EXPENDITURE: 0 AUTHORIZED.
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
