@@ -19,18 +19,18 @@ Maximum renderer budget: **2 judgeable images**, DPSC-E1/E2; no E3/no free rerol
 Contract: `docs/evidence/HERO_DPSC_RENDERED_SUCCESSOR_PROGRAM_01.txt`.
 
 ## DPSC-C01
-Revision 1 — **COHERENT INTERIOR OFFSET / PASSIVE COUNTERBRACE: REJECTED PRE-RENDER / 0 EXPENDITURES.**
+Revision 1 lower-support/ground carrier: **REJECTED PRE-RENDER / 0 EXPENDITURES** by P3/P7/P8 collision.
 
-Neutral-scaffold falsification:
-`docs/evidence/HERO_DPSC_C01_NEUTRAL_SCAFFOLD_FALSIFICATION_01.txt`.
+Revision 2 — **LATERAL BODY-HEIGHT CONTINUUM / PASSIVE COUNTERBRACE: D0-D5 CORRECTED CONSTRUCTION COMPLETE / CLEAN AT CONSTRUCTION LEVEL / NOT RENDERER-READY.**
 
-The lower-support/ground carrier could not clear P3 and P7/P8 simultaneously: weak correspondence lost intrinsic changed-state legibility; stronger correspondence became terrain/track/installation/formal-pattern shorthand. A near-support counterfactual correction improved physical logic but did not remove that carrier collision.
+Correction evidence:
+`docs/evidence/HERO_DPSC_C01_LATERAL_CONTINUUM_CORRECTION_D0_D5_01.txt`.
+
+Revision 2 removes the ground carrier. One continuous body-height condition carries exactly three independent correspondence families; one local lateral displacement contacts B and creates a postural load countered by passive separated-head A contact. The exact scaffold must still falsify P3/P6/P7/P8, physical dependency and mobile containment.
 
 ## Exact next action / hard boundary
-Restart **DPSC-C01 D0-D5 only** using the one materially distinct lawful correction route: a lateral body-height continuous changed condition rather than a ground/support-plane correspondence carrier.
+Construct **one exact current-state neutral vector scaffold** for DPSC-C01 Revision 2. Then inspect physical dependency, purpose-designed-whole normalization, dominant-prop and wall/curtain/panel/device/installation/floating-object shorthand, pattern/diagram dominance, corrected Harness desktop/mobile containment, and rerun full P1-P13.
 
-The corrected construction must independently clear P1-P13, especially intrinsic baseline recovery, B posture dependence, passive separated-head A contact, wall/curtain/device/installation shorthand, diagram/pattern dominance and frozen mobile containment.
-
-No scaffold, renderer-visible bytes, sterile packet or DPSC-E1 call is authorized until the corrected D0-D5 construction earns its next gate. No D9/R09/C09 continuation, C08 retry, frozen-criterion/Harness mutation, final hero selection, production website deployment, Lane A implementation or motion.
+No renderer-visible bytes, sterile packet or DPSC-E1 call is authorized until that exact scaffold and candidate-specific recursive pre-render audit pass. No D9/R09/C09 continuation, C08 retry, frozen-criterion/Harness mutation, final hero selection, production website deployment, Lane A implementation or motion.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
