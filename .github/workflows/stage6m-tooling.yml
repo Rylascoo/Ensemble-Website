@@ -44,3 +44,28 @@ jobs:
           docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01.json
           --expected-svg docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_SANITIZED.svg
           --expected-report docs/evidence/stage6m/NONCANDIDATE_FIXTURE_01_REPORT.json
+      - name: Verify Candidate 07 deterministic Stage 6M bytes and statics
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, sys
+          sys.path.insert(0, 'tools')
+          from stage6m_maquette import deterministic_bytes
+
+          path = pathlib.Path('docs/evidence/stage6m/C07-CBSR-01_STAGE6M_MANIFEST.json')
+          manifest = json.loads(path.read_text(encoding='utf-8'))
+          svg, report_text = deterministic_bytes(manifest)
+          svg_sha = hashlib.sha256(svg.encode('utf-8')).hexdigest()
+          report_sha = hashlib.sha256(report_text.encode('utf-8')).hexdigest()
+          assert svg_sha == '0b7b9b58b823c9e84ae9ca2b98f36e4e1e258420c3ef3ece042ad55108740289', svg_sha
+          assert report_sha == 'c4b582362d94b181da280068e05be8c822b727c5ac27e8cf94cb84fb26f34d3e', report_sha
+          report = json.loads(report_text)
+          assert report['automated_validation_pass'] is True
+          assert report['transfer_eligible'] is True
+          cases = {case['id']: case for case in report['static_cases']}
+          assert cases['A-unsupported']['computed_margin_source_px'] >= 79.99
+          assert -cases['B-unsupported']['computed_margin_source_px'] >= 15.0
+          assert cases['B-supported-by-A']['proxy_margin_source_px'] >= 9.99
+          assert cases['B-supported-by-A']['counterparty_margin_source_px'] >= 65.0
+          print('C07 SVG SHA256', svg_sha)
+          print('C07 report SHA256', report_sha)
+          PY
