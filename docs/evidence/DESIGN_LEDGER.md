@@ -293,3 +293,36 @@ Primary closure evidence:
 **Survives now:** YES. This Stage 6M reference is the active structural transfer input until superseded by a later approved artifact.
 
 **Guardrail:** Stage 6M closure authorizes only Candidate 08 Stage 7 sterile artwork translation-package construction and recursive pre-render audit. It does not authorize renderer execution, image generation, reference mutation, Round 08 spend, final hero/style/palette selection, website implementation, Cloudflare change, Harness mutation, Lane A/app UI implementation or motion.
+
+## L-021 — Candidate 08 Stage 7 is clean and execution-ready under renderer isolation
+
+**State:** C08 STAGE 7 COMPLETE / CORRECTED / CLEAN / ISOLATED ROUND 08 EXECUTION DESIGN-READY / ROUND 08 UNSPENT
+
+Candidate `C08-EWTF-01` now has the complete pre-render Method 02 review set through Stage 7. The exact sanitized Stage 6M reference is unchanged and byte-pinned at SHA-256 `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`.
+
+The corrected sterile renderer packet is:
+`docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`.
+
+Exact packet Git blob:
+`7e7d5cd71fb0b04aaaf78369fe89699cccc8c121`.
+
+Exact packet SHA-256:
+`fc1483244d39b3b65eed362330800527f1f08df6a6dc9052bf81296046be0c6f`.
+
+The first recursive pass removed unnecessary Director-style technical terms (`free-edge/thickness-return witness`, `finite-thickness field`) from renderer-facing prose and replaced them with ordinary visual language while retaining the required observable relation: one broad continuous surface, a local departure propagated through it, and a place where its free edge and physical thickness are naturally visible. No geometry or frozen criterion changed.
+
+The clean final audit confirms reference identity/sanitization, physical fidelity, C08 surface-change dependency, passive-brace/head-separation control, semantic dependency, epistemic restraint, responsive containment, anti-pre-existing-form discipline, aesthetic isolation, material difference from C07, one-shot accounting and stop consequence.
+
+Primary evidence:
+- `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt`;
+- `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`;
+- `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`;
+- `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`.
+
+**Re-derive:** verify the Stage 6M reference hash against the deterministic promoted manifest/tooling, verify the renderer packet's exact Git blob/SHA-256, inspect the Stage 7 package and final audit, and confirm no renderer-visible input contains project history, criteria, scores, coordinates, Director-side statics or previous artwork.
+
+**Survives now:** YES. These exact reference and packet bytes are the only authorized renderer-visible C08 transfer inputs until Round 08 executes or an explicit audited amendment supersedes them.
+
+**Execution boundary:** one fresh regular chat outside the Ensemble project; one request; one image; reference supplied only as neutral `reference.svg`; packet supplied byte-for-byte; no extra preamble/project material; no free reroll. If the fresh UI exposes a user-set reference/image/structure-strength control, stop before generation for one exact fixed-value amendment + recursive audit. A judgeable returned image consumes Round 08 regardless of pass/fail.
+
+**Guardrail:** Stage 7 approval authorizes no renderer execution inside the Ensemble project and no execution-time packet/reference mutation. Final hero selection, website implementation, Cloudflare change, Harness change, Lane A/app UI work and motion remain unauthorized.

@@ -27,13 +27,10 @@ D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE**: **APPROVED / REMAINS 
 
 - `C06-ASPB-01`: **CLOSED / ROUND 06 FAIL / NO RETRY**.
 - `C07-CBSR-01`: **CLOSED / ROUND 07 FAIL / CONSUMED / NO RETRY**.
-- `C08-EWTF-01`: **ACTIVE / METHOD 02 STAGES 1–6M APPROVED / STAGE 7 STERILE PACKAGE CONSTRUCTION AUTHORIZED ONLY**.
+- `C08-EWTF-01`: **ACTIVE / METHOD 02 STAGES 1–7 APPROVED / ISOLATED RENDERER EXECUTION DESIGN-READY ONLY**.
 
-Round 07 canonical evaluation:
-`docs/evidence/HERO_CANDIDATE_07_METHOD_02_ROUND_07_EVALUATION_01.txt`.
-
-Durable C08 Stage 6M closure entry:
-`docs/evidence/DESIGN_LEDGER.md` — L-020.
+Durable current closure entry:
+`docs/evidence/DESIGN_LEDGER.md` — L-021.
 
 ## Active candidate
 
@@ -52,49 +49,57 @@ Stage 6 clearance reconciliation:
 Canonical Stage 6M audit:
 `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_6M_NEUTRAL_PHYSICAL_MAQUETTE_AUDIT_01.txt`.
 
-Stage 6M status:
-**COMPLETE / PROMOTED / RECURSIVELY AUDITED / CLEAN.**
+Canonical Stage 7 package:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_STERILE_ARTWORK_TRANSLATION_PACKAGE_01.txt`.
 
-Exact promoted Stage 6M checkpoint:
-`b8d6bf12884872c609a86942ed545ce7df10cfcd`.
+Canonical Stage 7 recursive pre-render audit:
+`docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_07_RECURSIVE_PRE_RENDER_AUDIT_01.txt`.
 
-Exact-main Stage 6M workflow:
-`34255553033` — **SUCCESS**.
+## Frozen renderer-visible transfer
 
-Canonical deterministic sanitized Stage 6M SVG SHA-256:
-`54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`.
+Exact sanitized Stage 6M reference:
+- renderer filename: `reference.svg`;
+- SHA-256: `54d34361fb597a1ba67ef493ec7d8b189a4680a1e1e54c753de7fba30c9f15db`;
+- Director pin: `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`.
 
-Canonical deterministic report SHA-256:
-`064f4e94072089c0b9266c0943d99578398345e68f873948fabeaeefdd9099bc`.
+Exact sterile renderer packet:
+- `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`;
+- Git blob: `7e7d5cd71fb0b04aaaf78369fe89699cccc8c121`;
+- SHA-256: `fc1483244d39b3b65eed362330800527f1f08df6a6dc9052bf81296046be0c6f`.
 
-C08 Stage 6M preserves the required physical chain in the neutral model: A independently stable; B unsupported without A; one passive A↔B contact closes B support; A remains stable under that reaction. Permanent verification also passes the preregistered 2:1 A sensitivity floor, the >=50 px projected head-gap floor, and the >=100 px B-support/free-edge floor.
+No chat-time preamble, project material, historical artwork, brand asset, manifest/report, critique, score, coordinate note, force explanation or reference mutation may be added to those renderer-visible inputs.
 
-The stale Stage 6 `120 px` figure is retained only as undeformed-baseline planning provenance. Exact changed-state Stage 6 support-root clearance is `102.8395582822086 px`; exact normalized Stage 6M physical manifestation is `102.85483969465605 px`. No approved Stage 6 visible x/y geometry changed.
+Stage 7 recursive audit is **COMPLETE / CORRECTED / CLEAN / APPROVED**. Its first pass removed unnecessarily technical `free-edge/thickness-return witness` renderer wording while preserving the required observable free-edge/thickness relation. No geometry or criterion changed.
 
-## Active Stage 7 boundary
+## Exact next action — isolated Round 08 execution
 
-Current lawful artifact:
-**C08 Method 02 Stage 7 Sterile Artwork Translation Package**, followed by its recursive pre-render audit.
+Experiment label:
+`METHOD02-R08-C08`.
 
-Stage 7 may transfer only the exact sanitized deterministic Stage 6M structural reference plus the minimum sterile language permitted by Method 02. It must not transfer audit guides, COM/support/force annotations, hidden metadata, maquette/CAD aesthetics, brand/style/palette instructions not independently authorized, or alternate causal geometry.
+Execution is design-ready only as a separate renderer-isolation operation in **one fresh regular chat outside the Ensemble project**:
+- exactly one renderer request;
+- exactly one image requested;
+- exactly one byte-pinned sanitized reference under neutral filename `reference.svg`;
+- renderer text byte-for-byte equal to the pinned sterile packet;
+- zero historical artwork;
+- zero brand assets;
+- zero project documents;
+- zero manifest/report transfer;
+- zero free rerolls.
 
-The Stage 7 package must preserve:
-- one broad continuous changed surface with recoverable free-edge/thickness witness;
-- B's changed support/posture dependence;
-- A's passive independently stable brace role;
-- separated heads and the scapular/ribcage contact topology;
-- fixed mobile semantic containment;
-- renderer isolation and no explanatory narrative dependence.
+Reference-strength condition:
+- if the fresh renderer UI exposes no user-set reference/image/structure-strength control, record `REFERENCE_STRENGTH_CONTROL: NOT EXPOSED / N/A` and proceed;
+- if any such user-set control is exposed, **STOP BEFORE GENERATION** and return for one exact fixed-value amendment + recursive audit.
 
-## Exact next action
+A judgeable returned image consumes Round 08 regardless of pass/fail. A genuine no-image technical failure stops and is reported; it does not silently authorize a second request.
 
-Construct and recursively audit **C08 Stage 7 sterile artwork translation package only** from the exact sanitized Stage 6M reference. Do not execute a renderer or generate an image unless the Stage 7 package itself earns a clean pre-render gate.
+After a judgeable return, stop renderer execution, return raw pixels to Director Context, archive provenance when practical, and evaluate under unchanged Hero Brief 02 / Falsification Criteria 01 / Surface Escape / Harness 01 before any reference, packet or criterion change.
 
 ## Hard boundary
 
-**Round 08 is UNSPENT.**
+**Round 08 is UNSPENT until a judgeable renderer image is returned.**
 
-No renderer request, image generation, reference mutation, C07 retry, C08 reroll, frozen-criterion mutation, final hero/style/palette selection, production website implementation, Cloudflare change, Harness change, Lane A/app UI implementation or motion is authorized yet.
+No renderer execution inside the Ensemble project, second request, reference mutation, packet patch at execution time, C07 retry, C08 reroll, frozen-criterion mutation, final hero/style/palette selection, production website implementation, Cloudflare change, Harness change, Lane A/app UI implementation or motion is authorized.
 
 Repository-write currency law remains active: round consumption, candidate closure/rejection, reopening/termination changes and material re-entry-boundary changes require ledger/current-state continuity in the same logical closure operation before later-stage artifacts proceed.
 
