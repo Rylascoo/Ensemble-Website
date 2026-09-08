@@ -6,61 +6,43 @@ Updated: 2026-09-08
 
 ## Authority
 
-Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`.
+Design/brand: `Rylascoo/Ensemble-Website`. Product/backend truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md`. Durable closure/re-entry: `docs/evidence/DESIGN_LEDGER.md`.
 
 This file alone owns volatile phase/current-boundary state.
 
-## Repository topology
+## Repository boundary
 
-Repository restructuring is now directory-based on authoritative `main`:
+`main` is authoritative. `site/` is the only future deployable website/Cloudflare root; `intelligence/` is non-deployable website/design/repository intelligence; `updates/` is non-deployable change/release accounting. Product/backend implementation remains in `Rylascoo/Ensemble-Project`. No production site or Wrangler configuration exists yet.
 
-- `site/` = only deployable/public website source boundary and future Cloudflare Workers root;
-- `intelligence/` = non-public website/design/repository intelligence front door;
-- `updates/` = non-deployable website change/release records;
-- `docs/`, `tools/`, `assets/`, and `prototypes/` remain in place to preserve the existing evidence/reference graph.
+## Hero state
 
-For a future authorized Cloudflare Workers Builds connection, use `main`, root directory `site/`, and `site/**` build watch inclusion when available. No production source or Wrangler configuration exists in `site/` yet, so this topology change does not deploy a website.
+D9 — **CLOSED / 3 OF 3 JUDGEABLE RENDERS CONSUMED**. C06/R06, C07/R07 and C08/R08 are failed, consumed and closed; C08 has no retry. No R09/C09 exists under D9. L-022 preserves the immediate Round 08 suspected-unsatisfiable stop; L-023 records the subsequent result-blind Director budget closure. This is program closure, not proof that passive-brace geometry is impossible.
 
-A permanent `site` branch is not publication authority; website work branches from current `main` and merges back after validation. Product/backend implementation authority remains `Rylascoo/Ensemble-Project`, not `intelligence/` here.
+Frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01.
 
-## Hero program
+C08 clearance representations remain distinct: normalized-manifest/verifier **102.8395582822086 px**; parallel integer-SVG **102.8 px**; `120 px` only superseded undeformed-baseline planning provenance.
 
-Method 02 remains historical/approved construction law; frozen post-render law remains Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected Harness 01.
+## Active program — HTCR-01
 
-D9 — **ASYMMETRIC ALTERED-POSTURE PASSIVE HUMAN BRACE: CLOSED / 3 OF 3 JUDGEABLE RENDERS CONSUMED.**
+**HERO TRANSLATION / CARRIER RECONCILIATION 01: ACTIVE / NON-RENDER / 0 RENDERER EXPENDITURES AUTHORIZED.**
 
-- C06 / R06: **FAIL / CONSUMED / CLOSED**.
-- C07 / R07: **FAIL / CONSUMED / CLOSED**.
-- C08 / R08: **FAIL / CONSUMED / CLOSED / NO RETRY**.
+Program authority: `docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`.
 
-Round 08 canonical evaluation: `docs/evidence/HERO_CANDIDATE_08_METHOD_02_ROUND_08_EVALUATION_01.txt`.
+Budget is frozen before analysis:
+- HTCR-A1 — carrier/depiction-logic divergence;
+- HTCR-A2 — adversarial falsification of A1 survivors;
+- no A3;
+- A1 closes HTCR-01 early if zero survivors;
+- A2 may promote at most one successor translation hypothesis, never a candidate/render packet/reference/prompt/image.
 
-L-022 preserves the immediate Round 08 frozen stop: **CONSTRAINT SET SUSPECTED UNSATISFIABLE / DIRECTOR RECONCILIATION REQUIRED**. L-023 records the subsequent Director reconciliation: the result-blind D9 budget was R06–R08 exactly; R08 failed; therefore D9 terminates as an active hero-direction program. **No R09 or Candidate 09 exists under D9.** This is program closure, not proof that passive-brace geometry is impossible.
-
-Reconciliation evidence: `docs/evidence/HERO_METHOD_02_D9_THREE_RENDER_BUDGET_DIRECTOR_RECONCILIATION_01.txt`.
-
-## C08 clearance representation reconciliation
-
-The controlling verifier calculation from the frozen four-decimal Stage 6 scaffold manifest is **102.8395582822086 px**, above the frozen **100 px** minimum. The corresponding integer-SVG realization is independently valid at **102.8 px**. Their ~0.04 px difference is normalization/integer-coordinate quantization, not a defect.
-
-`120 px` is retained only as **SUPERSEDED_UNDEFORMED_BASELINE_PLANNING_PROVENANCE**. It is not an active PASS basis.
-
-`tools/verify_c08_stage6m.py` retains `EXPECTED_STAGE6_CLEARANCE_PX = 102.8395582822086`, retains the `1e-9` tolerance, and recomputes that value from the frozen normalized manifest points. The manifest and SVG metadata separately identify the 102.8 px integer-SVG representation.
-
-Correction evidence: `docs/evidence/HERO_CANDIDATE_08_METHOD_02_STAGE_06_EDGE_CLEARANCE_METADATA_CORRECTION_01.txt`.
-
-This reconciliation changes no Round 08 pixel, score, frozen criterion, Stage 6/6M visible geometry, sanitized renderer reference or sterile packet.
+HTCR-01 preserves C08's separated-head/passive-support/free-edge transfer gains while testing whether a materially different final translation can make the simpler prior condition intrinsically recoverable and make B's altered posture visibly depend on the changed condition without architecture/terrain, damage/accident, device/platform, diagram or transfer-medium shorthand.
 
 ## Exact next action
 
-Static hero renderer expenditure is stopped. Future hero continuation requires a **newly authorized direction or explicitly new bounded program**, with its own predeclared round budget before any renderer spend.
-
-The post-R08 translation/carrier investigation remains useful recommendation evidence but is not authority to continue D9.
-
-Repository organization may continue independently within the explicit `site/` / `intelligence/` / `updates/` boundaries; production website implementation and deployment still require their own authorized source package.
+Execute **HTCR-A1 only** under the frozen program tests. If A1 leaves one or more materially different survivors, A2 becomes automatically authorized within the predeclared non-render budget. Renderer expenditure remains stopped.
 
 ## Hard boundary
 
-No D9 continuation, Round 09, Candidate 09, C08 reroll/replacement, frozen-criterion/Harness mutation, final hero/style/palette selection, production website implementation/deployment, Lane A implementation or motion is authorized by this hero closure or by repository organization alone.
+No D9 continuation, R09/C09, C08 reroll/replacement, frozen-criterion/Harness mutation, renderer expenditure, final hero/style/palette selection, production website implementation/deployment, Lane A implementation or motion. Any later rendered successor requires a separate explicitly bounded program with its own predeclared renderer budget.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
