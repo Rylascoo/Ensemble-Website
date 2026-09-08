@@ -497,3 +497,18 @@ Primary correction evidence:
 Revision 2 is not declared visually solved. The exact neutral scaffold must still falsify P3 purpose-designed-whole normalization, P6 dominant-prop reduction, P7 wall/curtain/panel/device/installation/floating-object or impact shorthand, P8 diagram/pattern dominance, P10 corrected-Harness containment, and the physical necessity of A's passive counterreaction.
 
 **Guardrail:** Revision 2 authorizes only one exact current-state neutral vector scaffold and its candidate-specific physical/P3/P6/P7/P8/P10/full-P1-P13 audit. No renderer-visible bytes, sterile packet, DPSC-E1 call, C02, criterion/Harness mutation or final-art authority exists. Renderer expenditure remains 0 of 2 maximum.
+
+## L-030 — DPSC-RSP-01 closes under Case A before renderer expenditure
+
+**State:** DPSC-C01 CLOSED PRE-RENDER / DPSC-RSP-01 CLOSED CASE A / 0 OF 2 MAXIMUM RENDERER EXPENDITURES CONSUMED
+
+Revision 2's neutral-scaffold gate tested three materially different private representation logics without promoting any scratch image. A distinct body-height continuum collapsed into ribbon/panel/prop shorthand; a surrounding mass with one body-height silhouette collapsed into overhang/environmental normalization; and whole-field internal correspondence became stratum/formal-system shorthand when strong enough to recover the baseline, or lost P3 when subdued. P7 therefore remained binding and P3/P8 recurred across the representation family. Physical lateral-load dependency and corrected-Harness mobile containment remained feasible in principle but were non-rescuing because the pre-render rules are conjunctive.
+
+Primary closure evidence:
+`docs/evidence/HERO_DPSC_C01_REVISION_2_NEUTRAL_SCAFFOLD_FALSIFICATION_AND_PROGRAM_CLOSURE_01.txt`.
+
+The Case-A termination audit found no lawful Revision 3 inside the frozen method: remaining variants repeat Revision 1/2 carrier classes, lose visible physical coupling, violate the DPSC no-single-prop rule, or reopen HTCR hypotheses already rejected before DPSC-01 promotion. No canonical neutral scaffold or renderer-visible bytes were frozen. DPSC-E1 did not occur; therefore C02 never became available and DPSC-E2 did not occur.
+
+This is a bounded-program transfer falsification, not proof that DPSC-01 is impossible in every conceivable future program. The frozen post-render suspected-unsatisfiable stop is not triggered because no DPSC judgeable render occurred.
+
+**Guardrail:** no DPSC-C01 Revision 3, C02 without E1, automatic successor program, renderer spend, D9/R09/C09 continuation, C08 retry, rejected-HTCR carrier reopening, criterion/Harness mutation, final hero selection, production website deployment, Lane A implementation or motion. The next lawful gate is post-program hero reconciliation only.
