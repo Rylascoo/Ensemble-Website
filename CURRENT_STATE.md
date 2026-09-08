@@ -30,7 +30,9 @@ Reconciliation evidence: `docs/evidence/HERO_METHOD_02_D9_THREE_RENDER_BUDGET_DI
 
 Exact Stage 6 support-root/free-edge clearance: **102.8 px** from integer SVG geometry `(1105,704)` against segment `(1085,802) -> (1110,808)`; frozen floor **100 px**. `120 px` is obsolete undeformed-baseline planning provenance; `102.8395582822086 px` is withdrawn.
 
-Active scaffold manifest/SVG metadata now state 102.8. `tools/verify_c08_stage6m.py` derives the exact metric from the integer SVG and still pins the unchanged Stage 6M renderer reference/report hashes. Hosted Stage 6M validation run `34261347492`: **SUCCESS**.
+Active scaffold manifest/SVG metadata now state 102.8. `tools/verify_c08_stage6m.py` derives the exact metric from the integer SVG and still pins the unchanged Stage 6M renderer reference/report hashes.
+
+Exact correction checkpoint: `61921298f91f2a4d0cfaac3512374e2a3949e9c7`. Exact-main hosted Stage 6M run `34261985327`: **SUCCESS**. Exact-main document-status run `34261985325`: **SUCCESS**.
 
 This correction changes no Round 08 pixel, score, frozen criterion, Stage 6/6M visible geometry, sanitized renderer reference or sterile packet.
 
