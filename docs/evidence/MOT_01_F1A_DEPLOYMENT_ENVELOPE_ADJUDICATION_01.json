@@ -1,0 +1,56 @@
+{
+  "schema": "kymaean.mot01.f1a-deployment-envelope-adjudication.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-14",
+  "status": "DIRECTOR_DESIGN_ADJUDICATION_CLOSED",
+  "reviewers": ["Design Sol", "Director"],
+  "inputs": {
+    "deployment_envelope": "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json",
+    "exemplar_manifest": "prototypes/mot-01/deployment-envelope/manifest.json",
+    "exemplar_preflight": "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_EXEMPLAR_PREFLIGHT_01.json",
+    "authoritative_exemplar_commit": "d152d68e75374b4f6ff418b5bb1c844218a1fb5f"
+  },
+  "mechanical_evidence": {
+    "full_motion": "20/20 PASS",
+    "reduced_motion": "20/20 PASS",
+    "cadence_reopened": false,
+    "f1a_fixture": {
+      "onset_interval_ms": 70,
+      "duration_ms": 460,
+      "four_unit_last_completion_ms": 670,
+      "easing": "cubic-bezier(0.2,0,0,1)"
+    }
+  },
+  "design_sol_view_before_director": {
+    "A1_PEER_CONSTELLATION": "ALLOW — strongest pure identity use",
+    "A2_EXPLICIT_EXPLANATORY_ORDER": "ALLOW_WITH_RESTRAINT — semantically safe because order pre-exists without motion; density risk at 320 argues for scarcity",
+    "A3_PREEXISTING_GROUP_BATCH": "ALLOW — validates grouping rather than per-row cascade for 5+ content",
+    "N1_SIX_ROW_DIRECT_CASCADE": "PROHIBIT — reads as generic list choreography and overextends the onset train",
+    "N2_FAKE_PROCESS_SEQUENCE": "PROHIBIT — falsely implies staged process semantics"
+  },
+  "director_resolution": {
+    "envelope": "APPROVED_AS_DRAWN",
+    "A1_PEER_CONSTELLATION": "ALLOW",
+    "A2_EXPLICIT_EXPLANATORY_ORDER": "ALLOW_WITH_RESTRAINT",
+    "A3_PREEXISTING_GROUP_BATCH": "ALLOW",
+    "N1_SIX_ROW_DIRECT_CASCADE": "PROHIBIT",
+    "N2_FAKE_PROCESS_SEQUENCE": "PROHIBIT",
+    "additional_direction": "Use a visibly different motion treatment when the context itself shifts."
+  },
+  "reconciled_law": {
+    "within_context_succession": "F1A Tight remains the provisional shared-brand treatment for bounded eligible succession inside an already-established context.",
+    "context_shift": "A genuine context shift must not use F1A as its primary transition grammar; it requires a visibly different non-sequential treatment.",
+    "single_event_ownership": "One motion grammar owns one transition boundary. Context-shift treatment and F1A may not run concurrently or as automatic chained choreography for the same state change.",
+    "later_f1a": "After the new context is fully established, F1A may occur only at a later independently eligible succession boundary triggered by separate content/state/user logic; it is never owed after a context shift.",
+    "state_truth": "User input and authoritative state continue to outrank all choreography; stale motion is cancelled rather than completed for aesthetic continuity.",
+    "reduced_motion": "Reduced-motion preference preserves the same context and information with immediate final-state rendering and no identity-critical semantic loss."
+  },
+  "claim_limits": [
+    "No production motion or displacement token is selected.",
+    "No app/site implementation is authorized.",
+    "No Character, Scene, Stage, Performance, Take or Opportunity motion is authorized.",
+    "No final motion system or final identity is claimed.",
+    "No Phase-C convergence is authorized."
+  ],
+  "successor": "Q-DESIGN-15 — context-shift motion differentiation contract and neutral comparison construction"
+}
