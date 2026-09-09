@@ -1,0 +1,38 @@
+{
+  "schema": "kymaean.mot01.f1-refinement-manifest.v1",
+  "status": "CONSTRUCTED_UNVALIDATED_NO_ADJUDICATION",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "gate": "Q-DESIGN-12",
+  "authority": "docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json",
+  "variants": {
+    "F1A": {"family":"F1","onset_interval_ms":70,"duration_ms":460,"delays_ms":[0,70,140,210],"last_completion_ms":670},
+    "F1B": {"family":"F1","onset_interval_ms":90,"duration_ms":520,"delays_ms":[0,90,180,270],"last_completion_ms":790},
+    "F1C": {"family":"F1","onset_interval_ms":110,"duration_ms":560,"delays_ms":[0,110,220,330],"last_completion_ms":890},
+    "F4": {"family":"F4","duration_ms":620,"delays_ms":[0,0,0,0],"last_completion_ms":620}
+  },
+  "shared": {"easing":"cubic-bezier(0.2,0,0,1)","opacity":1,"token_count":4,"token_size_px":36,"token_gap_px":16,"token_top_px":72,"reduced_motion":"immediate_final_state_no_animation"},
+  "contexts": {"WEB":{"translate_y_px":56},"APP":{"translate_y_px":28}},
+  "viewports": {"WIDE":{"width_px":640,"height_px":240},"REFLOW_320":{"width_px":320,"height_px":240}},
+  "specimen_count": 16,
+  "specimens": [
+    {"id":"F1A-WEB-WIDE","variant":"F1A","context":"WEB","viewport":"WIDE","translate_y_px":56,"width_px":640,"height_px":240},
+    {"id":"F1A-WEB-REFLOW_320","variant":"F1A","context":"WEB","viewport":"REFLOW_320","translate_y_px":56,"width_px":320,"height_px":240},
+    {"id":"F1A-APP-WIDE","variant":"F1A","context":"APP","viewport":"WIDE","translate_y_px":28,"width_px":640,"height_px":240},
+    {"id":"F1A-APP-REFLOW_320","variant":"F1A","context":"APP","viewport":"REFLOW_320","translate_y_px":28,"width_px":320,"height_px":240},
+    {"id":"F1B-WEB-WIDE","variant":"F1B","context":"WEB","viewport":"WIDE","translate_y_px":56,"width_px":640,"height_px":240},
+    {"id":"F1B-WEB-REFLOW_320","variant":"F1B","context":"WEB","viewport":"REFLOW_320","translate_y_px":56,"width_px":320,"height_px":240},
+    {"id":"F1B-APP-WIDE","variant":"F1B","context":"APP","viewport":"WIDE","translate_y_px":28,"width_px":640,"height_px":240},
+    {"id":"F1B-APP-REFLOW_320","variant":"F1B","context":"APP","viewport":"REFLOW_320","translate_y_px":28,"width_px":320,"height_px":240},
+    {"id":"F1C-WEB-WIDE","variant":"F1C","context":"WEB","viewport":"WIDE","translate_y_px":56,"width_px":640,"height_px":240},
+    {"id":"F1C-WEB-REFLOW_320","variant":"F1C","context":"WEB","viewport":"REFLOW_320","translate_y_px":56,"width_px":320,"height_px":240},
+    {"id":"F1C-APP-WIDE","variant":"F1C","context":"APP","viewport":"WIDE","translate_y_px":28,"width_px":640,"height_px":240},
+    {"id":"F1C-APP-REFLOW_320","variant":"F1C","context":"APP","viewport":"REFLOW_320","translate_y_px":28,"width_px":320,"height_px":240},
+    {"id":"F4-WEB-WIDE","variant":"F4","context":"WEB","viewport":"WIDE","translate_y_px":56,"width_px":640,"height_px":240},
+    {"id":"F4-WEB-REFLOW_320","variant":"F4","context":"WEB","viewport":"REFLOW_320","translate_y_px":56,"width_px":320,"height_px":240},
+    {"id":"F4-APP-WIDE","variant":"F4","context":"APP","viewport":"WIDE","translate_y_px":28,"width_px":640,"height_px":240},
+    {"id":"F4-APP-REFLOW_320","variant":"F4","context":"APP","viewport":"REFLOW_320","translate_y_px":28,"width_px":320,"height_px":240}
+  ],
+  "adjudication": {"labels_visible":true,"reviewers":["Design Sol","Director"],"external_reviewers_required":false,"scoring_blinded":false},
+  "non_authority": ["production motion tokens","Stage motion","app implementation","website deployment","final identity","Phase-C convergence"]
+}
