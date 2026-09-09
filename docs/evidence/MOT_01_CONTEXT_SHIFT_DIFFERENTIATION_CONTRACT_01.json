@@ -1,0 +1,97 @@
+{
+  "schema": "kymaean.mot01.context-shift-differentiation-contract.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-15",
+  "status": "FROZEN_PRE_SPECIMEN_RESEARCH_CONTRACT",
+  "parent": "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_ADJUDICATION_01.json",
+  "question": "Can a visibly non-sequential transition grammar communicate that the user has entered a different already-ready context, while remaining recognizably compatible with Kymaean and avoiding false process, priority, causal, navigation-direction, or Stage semantics?",
+  "definitions": {
+    "context_shift": "A transition between two already-available information/identity contexts where the organizing frame or mode materially changes. It is not loading, task completion, provider response, route progress, live data arrival, Character action, Scene/Stage change, Performance, Take, Opportunity, or any transcript-dependent event.",
+    "within_context_succession": "A bounded 2–4-unit eligible succession inside one established context; this remains F1A territory.",
+    "ownership": "A context shift owns its transition boundary. F1A may not execute concurrently with, or automatically chain immediately after, the context-shift treatment for the same event."
+  },
+  "fixed_laws": {
+    "f1a_unchanged": "70 ms onset / 460 ms equal movement / cubic-bezier(0.2,0,0,1); not under test here.",
+    "no_stagger_in_context_shift": true,
+    "all_context_shift_candidates_are_synchronized": true,
+    "one_shot_only": true,
+    "no_autoplay": true,
+    "no_loop": true,
+    "no_bounce_spring_overshoot": true,
+    "no_scale_rotation_parallax": true,
+    "no_focus_motion": true,
+    "state_truth_over_motion": true,
+    "reduced_motion": "Immediate final context, zero transition animation, no information/function loss."
+  },
+  "neutral_comparison": {
+    "contexts": ["APP", "WEB"],
+    "viewports": ["WIDE", "REFLOW_320"],
+    "content": "Two neutral already-ready fields named Context A and Context B with equivalent information density; no Kymaean/Ensemble naming, marks, palette/material identity, imagery, product-state labels, Stage semantics, loading/progress language, or directional navigation labels.",
+    "control": {
+      "id": "CS0_CUT",
+      "name": "Immediate Cut",
+      "mechanism": "Outgoing field removed and incoming field rendered synchronously with no animation.",
+      "role": "No-motion baseline; not a candidate identity treatment."
+    },
+    "candidates": [
+      {
+        "id": "CS1_SYNCHRONIZED_SETTLE",
+        "name": "Synchronized Field Settle",
+        "mechanism": "The incoming field moves as one synchronized block through a shallow single-axis translation; no per-element delay and no outgoing-field choreography.",
+        "risk_to_test": "May feel like a generic panel entrance or imply spatial navigation if displacement is too strong."
+      },
+      {
+        "id": "CS2_BALANCED_EXCHANGE",
+        "name": "Balanced Crossfade Exchange",
+        "mechanism": "Outgoing and incoming fields exchange opacity simultaneously around the same fixed geometry; no per-element timing differences and no implied directional travel.",
+        "risk_to_test": "May be too generic or visually weak to register as a deliberate Kymaean context change."
+      },
+      {
+        "id": "CS3_OPPOSED_FIELD_EXCHANGE",
+        "name": "Simultaneous Opposed-Field Exchange",
+        "mechanism": "Outgoing and incoming fields translate simultaneously in opposite vertical directions with equal timing; every element within each field moves together.",
+        "risk_to_test": "May imply previous/next or spatial navigation despite neutral content."
+      }
+    ]
+  },
+  "fixture_only_ranges": {
+    "duration_ms": "240–340 candidate comparison range; exact specimen values must be frozen before execution and carry no production-token authority.",
+    "app_translation_px": "12–24 for translation candidates",
+    "web_translation_px": "24–40 for translation candidates",
+    "crossfade_opacity": "0 to 1 only for CS2; no semantic content may disappear under reduced motion."
+  },
+  "preflight": [
+    "Exact candidate/control matrix membership across APP/WEB × WIDE/320.",
+    "No animation before explicit Replay.",
+    "No stagger or element-level timing differences in CS1-CS3.",
+    "No horizontal overflow at 320px.",
+    "Replay retains keyboard focus.",
+    "Final visual/information state is equivalent across full and reduced motion.",
+    "Forced reduced motion produces zero transition animations.",
+    "No candidate exposes loading/progress/priority/causal/Stage/navigation-direction semantics in text or structure."
+  ],
+  "adjudication": {
+    "reviewers": ["Design Sol", "Director"],
+    "labels_visible": true,
+    "design_sol_view_frozen_before_director": true,
+    "questions": [
+      "Does the treatment read as a genuine change of context rather than succession within one context?",
+      "Is it clearly different from F1A Ordered Stagger?",
+      "Does it avoid implying loading, process, priority, causality, back/forward navigation, or Stage semantics?",
+      "Does it remain restrained enough for APP while retaining deliberate character on WEB?",
+      "Is the no-motion cut preferable to any candidate?"
+    ],
+    "outcomes": "Select at most one provisional context-shift treatment, or select CUT/none if no animated candidate earns the role. No evidence-aware retune inside the same comparison after viewing."
+  },
+  "non_authority": [
+    "production duration/easing/displacement tokens",
+    "app implementation",
+    "website deployment",
+    "navigation behavior",
+    "Character/Scene/Stage/Performance/Take/Opportunity motion",
+    "final motion system",
+    "final identity",
+    "Phase-C convergence"
+  ],
+  "next_action": "Freeze exact fixture timings/amplitudes, materialize CS0-CS3 neutral APP/WEB × WIDE/320 comparison, run full/reduced-motion browser preflight, freeze Design Sol view, then present to Director."
+}
