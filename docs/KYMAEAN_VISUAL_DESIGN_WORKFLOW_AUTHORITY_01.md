@@ -2,7 +2,7 @@
 
 # Kymaean Visual Design Workflow Authority 01
 
-Updated: 2026-09-07
+Updated: 2026-09-09
 
 ## Director approval
 
@@ -106,6 +106,24 @@ The rule does not invent authority that belongs outside the design lane. Product
 
 The rule also does not let the assistant infer an irreducible subjective preference that evidence cannot decide. When a genuinely aesthetic choice among multiple equally valid alternatives requires the Director's taste rather than approval, present that choice as a decision, not as an approval gate.
 
+## Director + Design Sol adjudication law for design review gates
+
+For website/brand/design-lane gates that historical methods or handoffs describe as **blind review**, **independent review**, **reviewer panel**, or equivalent subjective design validation, the ordinary current process is a direct Director + Design Sol adjudication unless the Director explicitly requires outside review.
+
+The process is:
+
+1. Design Sol independently analyzes the alternatives, recursively audits the evidence, and presents a ranked determination with the material reasons, risks and tradeoffs.
+2. The Director gives their own product meaning, aesthetic interpretation, preference or disagreement.
+3. Design Sol reconciles the Director input against the evidence, explicitly identifies any changed criterion or remaining disagreement, and recommends the durable resolution.
+4. Where evidence cannot decide the aesthetic/product-semantic question, the Director's product constitution and taste are binding.
+5. Preserve both viewpoints and the final resolution in durable Website evidence/ledger/current state before continuing.
+
+Do **not** describe this process as blinded evidence, independent-review consensus, population validation or statistical validation. Historical blinded instruments and packets remain evidence of the method that was prepared at the time; they are not required to execute merely to preserve procedural appearance.
+
+Outside blinded reviewers remain appropriate only when the Director explicitly orders external validation, when a future design contract expressly reinstates an external-review requirement with Director approval, or when stronger non-design authority genuinely requires it.
+
+This law applies only to the website/brand/design lane. It does **not** alter Engineering/Evidence blind scoring, E0 experiment controls, provider validation, machine-validation requirements, or other non-design experimental law in `Rylascoo/Ensemble-Project`.
+
 ## Execution discipline
 
 Within an already-authorized design lane, proceed through:
@@ -149,12 +167,12 @@ Every fresh visual-design chat must read, in order:
 5. the active handoff/evidence documents named by current state;
 6. engineering truth from `Rylascoo/Ensemble-Project/CURRENT_STATE.md` when product semantics materially matter.
 
-Fresh chats must explicitly inherit the standing recursive-audit earned-approval law and the Sol-High-primary / Astra-scarcity rule. They must not revert to historical approval-request behavior or external-auditor-heavy workflow from older handoffs or evidence files.
+Fresh chats must explicitly inherit the standing recursive-audit earned-approval law, the Director + Design Sol adjudication law, and the Sol-High-primary / Astra-scarcity rule. They must not revert to historical approval-request behavior, external-reviewer dependency, or external-auditor-heavy workflow from older handoffs or evidence files unless the Director explicitly reinstates one.
 
 Engineering remains a coherence input, not aesthetic authority.
 
 ## Active trust model
 
-The Director has delegated normal website/brand/design gate progression to clean recursive audit.
+The Director has delegated normal website/brand/design gate progression to clean recursive audit and direct Director + Design Sol adjudication for irreducible design judgment.
 
-The goal is disciplined progress: Sol High carries normal project reasoning and execution; external specialist capacity is conserved for genuinely high-leverage verification; administrative interruptions are minimized; image generation remains deliberate; and fresh-chat continuity remains durable.
+The goal is disciplined progress: Sol High carries normal project reasoning and execution; the Director supplies binding product meaning/taste where evidence cannot decide; external specialist/reviewer capacity is used only when genuinely valuable or explicitly requested; administrative interruptions are minimized; image generation remains deliberate; and fresh-chat continuity remains durable.
