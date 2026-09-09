@@ -1,0 +1,28 @@
+name: Temporary CLR-01 F4 correction
+
+on:
+  push:
+    branches:
+      - design/clr01-method
+
+permissions:
+  contents: write
+
+jobs:
+  correct:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: design/clr01-method
+      - name: Correct frozen F4 structural ladder and remove helper
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -c "import json,pathlib; p=pathlib.Path('docs/evidence/CLR_01_CROSS_SURFACE_COLOR_LOGIC_INDEPENDENCE_METHOD_AND_MATRIX_01.json'); d=json.loads(p.read_text()); d['families']['F4']['APP'].update(boundary='#6F7F99',soft_surface='#E7EBF3'); d['families']['F4']['WEB'].update(boundary='#687DA5',soft_surface='#E1E7F2'); p.write_text(json.dumps(d,indent=2,ensure_ascii=False)+'\\n')"
+          git rm .github/workflows/tmp-clr01-f4-correct.yml
+          git add docs/evidence/CLR_01_CROSS_SURFACE_COLOR_LOGIC_INDEPENDENCE_METHOD_AND_MATRIX_01.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Correct CLR-01 F4 chromatic ladder'
+          git push origin HEAD:design/clr01-method
