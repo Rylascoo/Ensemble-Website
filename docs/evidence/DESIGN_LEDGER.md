@@ -615,3 +615,23 @@ Primary evidence: `docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_02.txt`.
 **Guardrail:** no image/video generation, renderer spend, motion-specimen execution, final motion system/timing tokens, transcript-dependent Stage motion, TYP-01 reroll, hero reopening, O3/Threshold-K redesign, palette/material reopening, app implementation, website production/deployment or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-037 — MOT-01 method contract and temporal specimen matrix are frozen
+
+**State:** Q-DESIGN-08 CLOSED / MOT-01 METHOD CONTRACT FROZEN / NO SPECIMEN EXECUTION / NO STAGE-MOTION AUTHORITY / NO CONVERGENCE
+
+The MOT-01 method is frozen in `docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json`. It tests abstract cross-surface motion identity before any production motion system or Stage behavior exists. Existing Kymaean/Ensemble naming, Threshold K, O3, palette/material cues, imagery, Quiet Stage/hero geometry, bespoke type, product-state labels/semantics, audio/haptics and generative media are excluded from the scored canvas.
+
+The deterministic matrix contains 24 FULL-motion specimens: generic negative control CNEG, calibration-only positive control CPOS and four candidate families F1-F4 across WEB/APP and WIDE/REFLOW_320. The four candidates isolate materially different temporal variables: F1 onset order/stagger, F2 segmented transit with a midpoint hold, F3 token-specific completion duration, and F4 continuous distance-over-time distribution. Static endpoints are equivalent, timing vectors are invariant across WEB/APP, and the only context adaptation is 56px WEB versus 28px APP displacement. Fixture timings/easings carry no production-token authority.
+
+Every one of the same 24 specimen IDs must also pass a non-scored `prefers-reduced-motion: reduce` preflight state in which scored-canvas animation and animated opacity are fully suppressed and the final neutral state remains available without semantic/function loss. The experiment additionally forbids autoplay, looping, flashing, bounce/spring/overshoot, scale/rotation/parallax/scroll-linked motion, moving focus, clipping and 320px horizontal overflow. WCAG 2.3.3 Animation from Interactions (AAA) is adopted as a stricter internal experiment floor without claiming production AAA conformance.
+
+Blinded review requires three primary records, at most one from the construction author and at least one Director/independent human record. Control calibration must succeed before candidate scores are usable. Candidate passage is conjunctive: exact preflight, WEB↔APP pairing at both widths, forced `distinctive_unresolved` classification, distinctiveness and cross-surface-restraint thresholds, and fewer than two false-product/Stage-semantics flags after reveal. Hard failures cannot be averaged away.
+
+Zero survivors close MOT-01 under the frozen family pack with no F5, reroll, retune or evidence-aware rescue. One survivor creates Phase-B evidence only; two or more may promote at most two mechanisms for later comparison. No outcome selects production duration/easing/displacement tokens, a final motion system, Stage motion, final identity or Phase-C convergence.
+
+**Next gate:** close Q-DESIGN-08 in the central queue and separately authorize deterministic MOT-01 harness/materialization plus structural/accessibility preflight. No temporal specimen executes before that successor gate is active.
+
+**Guardrail:** no image/video generation, renderer spend, motion-specimen execution under this closeout, final motion/timing tokens, transcript-dependent Stage motion, TYP-01 reroll, hero reopening, O3/Threshold-K redesign, palette/material reopening, app implementation or website production/deployment.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
