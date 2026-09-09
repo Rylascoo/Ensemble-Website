@@ -1,0 +1,124 @@
+name: Temporary MOT-01 CS2 envelope preflight
+
+on:
+  push:
+    branches:
+      - tmp/mot01-cs2-envelope-preflight
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Resolve Chrome and verify source syntax
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p artifacts
+          npm install --no-save playwright-core@1.55.0
+          browser="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || command -v chromium || true)"
+          test -n "$browser"
+          echo "CHROME_PATH=$browser" >> "$GITHUB_ENV"
+          "$browser" --version | tee artifacts/chrome-version.txt
+          python3 - <<'PY'
+          from pathlib import Path
+          s=Path('prototypes/mot-01/cs2-envelope/exemplars.html').read_text()
+          js=s.split('<script>',1)[1].split('</script>',1)[0]
+          Path('/tmp/exemplar.js').write_text(js)
+          PY
+          node --check /tmp/exemplar.js
+      - name: Run deterministic full + reduced-motion preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m http.server 4173 --bind 127.0.0.1 >artifacts/http.log 2>&1 &
+          server_pid=$!
+          trap 'kill $server_pid || true' EXIT
+          for i in {1..40}; do curl -fsS http://127.0.0.1:4173/prototypes/mot-01/cs2-envelope/exemplars.html >/dev/null && break; sleep .25; done
+          node <<'NODE'
+          const { chromium } = require('playwright-core');
+          const fs = require('fs');
+          const path = require('path');
+          const WIDTH={WIDE:640,REFLOW_320:320};
+          const IDS=['A1_READY_PEER_CONTEXT','A2_READY_MODE_PERSPECTIVE','A3_EDITORIAL_FIELD','N1_LOADING_DISGUISE','N2_DENSE_TEXT_GHOSTING','N3_OVERLAY_ENTRY'];
+          const NEG=new Set(['N1_LOADING_DISGUISE','N2_DENSE_TEXT_GHOSTING','N3_OVERLAY_ENTRY']);
+          const fail=m=>{throw new Error(m)};
+          const near=(a,b,t=.01)=>Math.abs(Number(a)-Number(b))<=t;
+          const easingOK=x=>x==='cubic-bezier(0.2, 0, 0, 1)'||x==='cubic-bezier(0.2,0,0,1)';
+          function timing(e,key){if(Number(e.delay)!==0||Number(e.duration)!==280||!easingOK(e.easing)||e.fill!=='forwards')fail(`${key} timing mismatch ${JSON.stringify(e)}`)}
+          function opacityPair(e,start,end,key){timing(e,key);const k=e.keyframes;if(k.length<2)fail(`${key} missing keyframes`);if(Number(k[0].opacity)!==start||Number(k[k.length-1].opacity)!==end)fail(`${key} opacity keyframes ${JSON.stringify(k)}`);for(const x of k)if(x.transform!==null||x.filter!==null)fail(`${key} non-opacity keyframe ${JSON.stringify(x)}`)}
+          function validate(report,reduced){
+            if(report.reduced!==reduced)fail(`reduced mismatch ${report.reduced}`);
+            if(!Array.isArray(report.rows)||report.rows.length!==24)fail(`expected 24 rows, got ${report.rows?.length}`);
+            const keys=new Set();
+            for(const r of report.rows){
+              if(keys.has(r.key))fail(`duplicate ${r.key}`);keys.add(r.key);
+              if(!IDS.includes(r.id))fail(`unknown id ${r.id}`);
+              if(Boolean(r.negative)!==NEG.has(r.id))fail(`${r.key} negative mismatch`);
+              if(r.width!==WIDTH[r.view])fail(`${r.key} width ${r.width}`);
+              if(r.scrollWidth>r.width+1)fail(`${r.key} horizontal overflow ${r.scrollWidth}>${r.width}`);
+              if(r.initialAnimations!==0)fail(`${r.key} autoplay`);
+              if(!r.focusBefore||!r.focusAfter)fail(`${r.key} replay focus moved`);
+              const o=r.startOwnership;
+              if(o.aPointer!=='none'||o.bPointer!=='auto'||o.aHidden!=='true'||o.bHidden!=='false')fail(`${r.key} start ownership ${JSON.stringify(o)}`);
+              if(!r.final||!near(r.final.aOpacity,0)||!near(r.final.bOpacity,1)||r.final.aPointer!=='none'||r.final.bPointer!=='auto'||r.final.aHidden!=='true'||r.final.bHidden!=='false')fail(`${r.key} final ${JSON.stringify(r.final)}`);
+              const ac=r.aEffects.length,bc=r.bEffects.length,total=ac+bc;
+              if(reduced){if(r.animationsAfter!==0||total!==0)fail(`${r.key} reduced animated ${r.animationsAfter}/${total}`)}
+              else{if(r.animationsAfter!==2||ac!==1||bc!==1)fail(`${r.key} count ${r.animationsAfter}/${ac}/${bc}`);opacityPair(r.aEffects[0],1,0,`${r.key} outgoing`);opacityPair(r.bEffects[0],0,1,`${r.key} incoming`)}
+            }
+            if(keys.size!==24)fail(`matrix size ${keys.size}`);
+            if(!Array.isArray(report.retarget)||report.retarget.length!==4)fail(`retarget count ${report.retarget?.length}`);
+            for(const r of report.retarget){
+              if(reduced){if(r.activeBefore!==0)fail(`${r.key} reduced activeBefore ${r.activeBefore}`)}else if(r.activeBefore!==2)fail(`${r.key} full activeBefore ${r.activeBefore}`);
+              if(r.activeAfter!==0||!near(r.cOpacity,1)||r.cPointer!=='auto'||r.cHidden!=='false'||r.aHidden!=='true'||r.bHidden!=='true')fail(`${r.key} retarget ${JSON.stringify(r)}`);
+            }
+            return {rows:24,retarget:4,userAgent:report.userAgent,platform:report.platform};
+          }
+          (async()=>{
+            const browser=await chromium.launch({executablePath:process.env.CHROME_PATH,headless:true,args:['--no-sandbox']});
+            const summaries={};
+            for(const [name,reduced] of [['FULL',false],['REDUCED',true]]){
+              const context=await browser.newContext({reducedMotion:reduced?'reduce':'no-preference',viewport:{width:1440,height:1000}});
+              const page=await context.newPage();
+              const errors=[];page.on('pageerror',e=>errors.push(String(e.stack||e)));page.on('console',m=>{if(m.type()==='error')errors.push(m.text())});
+              await page.goto('http://127.0.0.1:4173/prototypes/mot-01/cs2-envelope/exemplars.html?diagnostic=1',{waitUntil:'load'});
+              await page.waitForFunction(()=>document.querySelector('#diagnostic-report')?.textContent?.startsWith('{'),null,{timeout:10000});
+              if(errors.length)fail(`${name} page errors: ${errors.join(' | ')}`);
+              const report=JSON.parse(await page.locator('#diagnostic-report').textContent());
+              summaries[name]=validate(report,reduced);
+              fs.writeFileSync(path.join('artifacts',`${name.toLowerCase()}-diagnostic.json`),JSON.stringify(report,null,2));
+              await context.close();
+            }
+            const review=await browser.newContext({reducedMotion:'no-preference',viewport:{width:1440,height:1200}});
+            const page=await review.newPage();
+            await page.goto('http://127.0.0.1:4173/prototypes/mot-01/cs2-envelope/exemplars.html',{waitUntil:'load'});
+            for(const ctx of ['APP','WEB']){
+              await page.getByRole('button',{name:ctx,exact:true}).click();
+              for(const [label,file] of [['WIDE','WIDE'],['320','REFLOW_320']]){
+                await page.getByRole('button',{name:label,exact:true}).click();
+                await page.screenshot({path:`artifacts/${ctx}-${file}-initial.png`,fullPage:true});
+                await page.getByRole('button',{name:'Replay all',exact:true}).click();
+                await page.evaluate(()=>{for(const a of document.getAnimations())a.currentTime=140});
+                await page.screenshot({path:`artifacts/${ctx}-${file}-midpoint.png`,fullPage:true});
+              }
+            }
+            await review.close();await browser.close();
+            fs.writeFileSync('artifacts/preflight-summary.json',JSON.stringify({schema:'kymaean.mot01.cs2-envelope-preflight.v1',result:'PASS',summaries},null,2));
+          })().catch(e=>{console.error(e.stack||e);process.exit(1)});
+          NODE
+          sha256sum prototypes/mot-01/cs2-envelope/exemplars.html prototypes/mot-01/cs2-envelope/manifest.json docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_CONTRACT_01.json > artifacts/source-sha256.txt
+          cat artifacts/preflight-summary.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: mot01-cs2-envelope-preflight
+          path: artifacts
+          if-no-files-found: error
