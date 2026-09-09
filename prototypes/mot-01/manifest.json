@@ -1,0 +1,27 @@
+{
+  "schema": "kymaean.mot01.packet-manifest.v1",
+  "status": "PRE_TEMPORAL_EXECUTION_ENVIRONMENT_PROBE_REQUIRED",
+  "program_id": "MOT-01",
+  "contracts": {
+    "method": {
+      "path": "docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+      "adopted_main_commit": "38e3ea61d336900fb05a0a6b2e8e5206aa23a5d0"
+    },
+    "execution_defaults": {
+      "path": "docs/evidence/MOT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+      "adopted_main_commit": "e3a08c3dc73cd0c5295ed21f9d6b03d921a0c68b"
+    }
+  },
+  "members": [
+    "prototypes/mot-01/harness.html",
+    "prototypes/mot-01/reviewer.html",
+    "prototypes/mot-01/manifest.json",
+    "prototypes/mot-01/blinding-key.json"
+  ],
+  "matrix_count": 24,
+  "environment": "TO_BE_FROZEN_BY_HOST_PROBE_BEFORE_FIRST_TEMPORAL_PREFLIGHT_EXECUTION",
+  "source_sha256": "TO_BE_FROZEN_BEFORE_FIRST_TEMPORAL_PREFLIGHT_EXECUTION",
+  "manifest_self_hash": "RECORDED_IN_PREFLIGHT_EVIDENCE_AFTER_FINAL_MANIFEST_FREEZE",
+  "reviewer_exposure": false,
+  "scoring_performed": false
+}
