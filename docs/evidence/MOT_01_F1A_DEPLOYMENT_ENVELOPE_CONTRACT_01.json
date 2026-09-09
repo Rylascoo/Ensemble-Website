@@ -102,7 +102,7 @@
     "input_blocked_by_motion": false,
     "focus_moves_with_animation": false,
     "interrupted_transition": "If the surface is superseded or removed during F1A, cancel its animations immediately. Do not delay navigation or state change to finish the sequence.",
-    "same_surface_retarget": "If a qualifying surface is retargeted while F1A is active, commit the current sequence to its final static state before applying the new authoritative visual state; do not stack animations.",
+    "same_surface_retarget": "If a qualifying surface is retargeted while F1A is active, cancel F1A immediately and render the newest authoritative visual state directly; do not finish the old sequence first and do not stack animations.",
     "replay": "Replay is permitted only in design/demo tooling unless a later product interaction explicitly requires it."
   },
   "reduced_motion_law": {
@@ -157,6 +157,7 @@
       "pre-existing grouping required before grouped batching",
       "repetition and nested-cascade overuse prevented",
       "input, focus and navigation remain authoritative over choreography",
+      "retargeting applies newest authoritative state directly rather than completing stale choreography",
       "reduced-motion equivalence remains fail-closed",
       "RTL/logical order remains content-correct",
       "Stage/Character/product semantics not invented from engineering architecture",
