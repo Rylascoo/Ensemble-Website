@@ -1,0 +1,156 @@
+{
+  "schema": "kymaean.mot01.execution-defaults.v1",
+  "status": "FROZEN_PRE_SPECIMEN_EXECUTION_DEFAULTS_NO_METHOD_OR_CONVERGENCE_CHANGE",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "parent_method": {
+    "path": "docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+    "adopted_main_commit": "38e3ea61d336900fb05a0a6b2e8e5206aa23a5d0"
+  },
+  "reason": "The first Q-DESIGN-09 implementation audit found mechanically necessary browser-fixture choices that the frozen method deliberately did not spell out: exact rail coordinates, Web Animations API encoding of F2 segmented easing, independence of CPOS position and opacity interpolation, replay reset behavior, reduced-motion preference changes, and deterministic blinding derivation. No MOT-01 temporal specimen has executed and no reviewer-visible evidence exists. These defaults are frozen before materialization so implementation cannot become an evidence-aware variable.",
+  "authority_boundary": {
+    "changes_parent_method": false,
+    "changes_family_mechanism": false,
+    "changes_family_timing": false,
+    "changes_scoring_or_termination": false,
+    "creates_production_motion_tokens": false,
+    "unlocks_q_design_02": false
+  },
+  "layout_defaults": {
+    "token_size_px": 36,
+    "token_gap_px": 16,
+    "token_count": 4,
+    "rail_total_width_px": 192,
+    "rail_total_width_formula": "4*36 + 3*16",
+    "horizontal_position_rule": "For frame width W, first token left=(W-192)/2 and token i left=first_left+i*52 for i=0..3.",
+    "wide_left_positions_px": [224, 276, 328, 380],
+    "reflow_320_left_positions_px": [64, 116, 168, 220],
+    "token_top_px": 72,
+    "top_interpretation": "72px is the border-box top coordinate of every token before transform.",
+    "frame_padding_px": 0,
+    "frame_positioning": "position:relative",
+    "frame_overflow": "visible so overflow remains measurable rather than hidden",
+    "token_positioning": "position:absolute",
+    "transform_origin": "center center",
+    "transform_axis": "translateY only",
+    "x_motion": "none"
+  },
+  "animation_encoding": {
+    "common": {
+      "iterations": 1,
+      "direction": "normal",
+      "fill": "forwards",
+      "composite": "replace",
+      "iteration_composite": "replace"
+    },
+    "CNEG": {
+      "position_keyframes": [0.0, 1.0],
+      "duration_ms": 260,
+      "delay_ms": 0,
+      "options_easing": "cubic-bezier(0.2,0,0,1)",
+      "opacity": "constant 1"
+    },
+    "CPOS": {
+      "position_animation": {
+        "position_keyframes": [0.0, 1.0],
+        "duration_ms": 720,
+        "delay_ms": 0,
+        "options_easing": "cubic-bezier(0.2,0,0,1)"
+      },
+      "opacity_animation": {
+        "offsets": [0.0, 0.5, 1.0],
+        "values": [1.0, 0.35, 1.0],
+        "duration_ms": 720,
+        "delay_ms": 0,
+        "options_easing": "linear",
+        "segment_easing": "linear between each declared opacity keyframe"
+      },
+      "independence_rule": "Position and opacity are two concurrent animations started in the same activation handler. Splitting them prevents the opacity midpoint keyframe from changing the frozen single-curve position progression.",
+      "non_authority": "Opacity interpolation is calibration-fixture behavior only and cannot become a MOT-01 candidate or production recommendation."
+    },
+    "F1": {
+      "per_token_delay_ms": [0, 90, 180, 270],
+      "per_token_duration_ms": [520, 520, 520, 520],
+      "position_keyframes": [0.0, 1.0],
+      "options_easing": "cubic-bezier(0.2,0,0,1)"
+    },
+    "F2": {
+      "total_duration_ms": 680,
+      "offsets_exact": [0.0, 0.3235294117647059, 0.5, 1.0],
+      "offset_derivation": ["0", "220/680", "340/680", "1"],
+      "position_fractions": [0.0, 0.42, 0.42, 1.0],
+      "keyframe_interval_easing": ["cubic-bezier(0.2,0,0,1)", "linear", "cubic-bezier(0.2,0,0,1)"],
+      "options_easing": "linear",
+      "encoding_rule": "Keyframe easing is attached to the first three keyframes so it governs the interval from that keyframe to the next. The duplicated 0.42 position across 220ms->340ms creates the exact 120ms hold."
+    },
+    "F3": {
+      "per_token_delay_ms": [0, 0, 0, 0],
+      "per_token_duration_ms": [720, 440, 440, 720],
+      "position_keyframes": [0.0, 1.0],
+      "options_easing": "cubic-bezier(0.2,0,0,1)"
+    },
+    "F4": {
+      "total_duration_ms": 620,
+      "offsets_exact": [0.0, 0.3548387096774194, 0.6935483870967742, 1.0],
+      "offset_derivation": ["0", "220/620", "430/620", "1"],
+      "position_fractions": [0.0, 0.15, 0.78, 1.0],
+      "keyframe_interval_easing": ["linear", "linear", "linear"],
+      "options_easing": "linear"
+    }
+  },
+  "replay_and_state_defaults": {
+    "initial_state": "All tokens are at start transform translateY(0px), opacity 1, with no active animations.",
+    "full_activation": "On every explicit Replay activation, synchronously cancel any existing token animations, restore the exact start transform and opacity, then start the declared FULL animations in the same activation handler using explicit start/end keyframes. No requestAnimationFrame or timeout is inserted before onset.",
+    "completed_full_state": "Finished animations retain the declared end state using fill:forwards until another explicit Replay activation or reduced-motion preference change cancels them.",
+    "mid_run_replay": "A new explicit Replay activation during a run is lawful replay preparation: cancel, synchronously reset, and start a fresh declared run. It creates no automatic repetition.",
+    "focus": "Replay retains focus; code does not focus tokens or another control during reset/playback."
+  },
+  "reduced_motion_defaults": {
+    "activation_rule": "Evaluate window.matchMedia('(prefers-reduced-motion: reduce)').matches at each Replay activation.",
+    "reduce_active": "Cancel every existing scored-canvas animation, synchronously set all tokens to the context final translateY and opacity 1, and do not call Element.animate().",
+    "preference_change_to_reduce": "Register one matchMedia change listener. If preference changes to reduce while FULL motion is active or filled, immediately cancel all scored-canvas animations and apply the final state with opacity 1 without animation.",
+    "preference_change_to_no_preference": "Do not autoplay or reconstruct motion. The next FULL run requires a new explicit Replay activation.",
+    "verification": "After a reduced-mode activation or change-to-reduce handling, scoredCanvas.getAnimations({subtree:true}) must be empty."
+  },
+  "control_chrome_defaults": {
+    "identity_scope": "Experiment chrome remains outside the scored canvas and is not identity evidence.",
+    "motion": "none",
+    "font_request": "system-ui, sans-serif",
+    "text_color": "#111111",
+    "background": "#FFFFFF",
+    "replay_control": "native button element; no animated style; no transform; no custom iconography",
+    "visible_fields": ["anonymous specimen ID", "context", "viewport", "Replay transition"],
+    "family_names_visible": false
+  },
+  "blinding_defaults": {
+    "seed_material": "MOT-01|38e3ea61d336900fb05a0a6b2e8e5206aa23a5d0|blinding-v1",
+    "seed_sha256": "7dcd535af9032c9a1ea9cb8c56008f23a826bf13229a226e914ba243bc763c26",
+    "anonymous_id_rule": "For each specimen ID, compute SHA-256(seed_sha256 + '|' + specimen_id), sort all 24 specimens by the resulting lowercase hex digest ascending, then assign anonymous IDs M01-01 through M01-24 in sorted order.",
+    "review_order_rule": "Reviewer-visible order is M01-01 through M01-24. The mapping is stored only in the blinding key and is not rendered in reviewer-visible cards.",
+    "seed_authority": "Fixture provenance only; creates no identity or production authority."
+  },
+  "standards_snapshot": {
+    "verified_on": "2026-09-09",
+    "waapi_keyframe_easing_semantics": "A keyframe easing applies from the keyframe where specified to the next keyframe; options-level easing applies across the whole iteration.",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Keyframe_Formats",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API"
+    ]
+  },
+  "pre_evidence_rule": "This addendum is valid only because it is frozen before any MOT-01 temporal specimen execution, browser preflight evidence, or reviewer-visible artifact. Any later correction may restore a deviation from the parent method plus this addendum but may not retune a family after evidence exists.",
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "rail coordinates derive exactly from the already-frozen token size/gap/frame widths",
+      "F2 offsets and per-interval easing preserve exactly 220ms movement, 120ms hold, 340ms movement",
+      "CPOS opacity encoding does not perturb its frozen position progression",
+      "F1/F3 delays and durations and F4 keyframe times are unchanged",
+      "replay reset introduces no automatic repetition or new timing delay",
+      "reduced-motion preference is honored both at activation and if changed during a run",
+      "blinding order is deterministic and frozen before reviewer exposure",
+      "no family, threshold, accessibility floor, scoring rule, termination rule or Stage-motion boundary changes",
+      "no specimen has executed before this addendum"
+    ],
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+  }
+}
