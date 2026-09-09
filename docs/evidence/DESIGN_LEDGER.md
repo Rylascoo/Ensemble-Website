@@ -811,3 +811,21 @@ The neutral comparison contains one no-motion control and three synchronized can
 **Guardrail:** F1A remains unchanged. No production tokens, app/site/navigation implementation, Character/Scene/Stage/Performance/Take/Opportunity timing, final motion system, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-049 — CS2 Balanced Crossfade Exchange selected for genuine context shifts
+
+**State:** Q-DESIGN-15 CLOSED / CS2 PROVISIONAL CONTEXT-SHIFT INCUMBENT / NO PRODUCTION TOKEN OR IMPLEMENTATION AUTHORITY
+
+The frozen Q-DESIGN-15 comparison passed hosted Chrome preflight at **16/16 FULL + 16/16 REDUCED** after one pre-execution semantic-equivalence correction that transferred final interaction ownership to Context B without changing timing, amplitude or candidate visuals. No candidate was retuned after viewing.
+
+Design Sol's view was frozen before Director input and preferred **CS2 — Balanced Crossfade Exchange** because it distinguishes genuine context replacement from F1A succession without adding ordering, priority, causality, directional-navigation or Stage semantics. The Director independently selected CS2 across APP/WEB and WIDE/320 because it is easy on the eyes, avoids micro-twitching fatigue, and carries a gentle mysterious / slightly magical quality.
+
+Primary adjudication evidence: `docs/evidence/MOT_01_CONTEXT_SHIFT_CS2_ADJUDICATION_01.json`.
+
+F1A remains the provisional bounded treatment for succession *within* an established context. CS2 is the provisional shared-brand treatment for eligible replacement of one already-ready context by another. They may not run concurrently or automatically chain for the same state change. Reduced motion remains immediate final-context rendering with zero animation. User input and authoritative state always outrank choreography.
+
+The Q-DESIGN-15 values of 280 ms and `cubic-bezier(0.2,0,0,1)` remain comparison fixtures only. They are not production motion tokens; no global crossfade rule is created.
+
+**Next gate:** Q-DESIGN-16 freezes the bounded CS2 deployment envelope: eligible context-shift classes, CUT fallback, repetition/interruption/retarget rules, F1A relationship, reduced-motion equivalence and explicit prohibited uses, followed by a small neutral exemplar test before any production tokenization or implementation.
+
+**Guardrail:** no F1A cadence change, universal screen-crossfade rule, production motion token, app/site/navigation implementation, Character/Scene/Stage/Performance/Take/Opportunity timing, final motion system, final identity or Phase-C convergence.

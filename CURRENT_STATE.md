@@ -13,18 +13,18 @@ Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/
 ## Hero — STATIC RESEARCH PAUSED
 Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 remain unchanged. No final hero. Q-DESIGN-02 Stage motion still waits on real blinded E0-A vs E0-E evidence.
 
-## Shared brand — Q-DESIGN-15 PREFLIGHT CLEAN / DIRECTOR ADJUDICATION
+## Shared brand — CS2 CONTEXT-SHIFT INCUMBENT SELECTED / DEPLOYMENT ENVELOPE NEXT
 F1 — Ordered Stagger remains provisional. **F1A Tight = 70 ms onset / 460 ms movement / 670 ms four-unit completion**, easing `cubic-bezier(0.2,0,0,1)`. Research references only, not production tokens.
 
-Q-DESIGN-14 is closed by `docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_ADJUDICATION_01.json`. F1A owns bounded succession *within* an established context. A genuine context shift requires a visibly different treatment; one motion grammar owns one transition event, so context-shift treatment and F1A may not run concurrently or auto-chain for the same state change.
+Q-DESIGN-14 closed the F1A use envelope: F1A owns bounded succession *within* an established context. A genuine context shift requires a visibly different treatment; one motion grammar owns one transition event.
 
-Q-DESIGN-15 contract: `docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json`. Frozen execution defaults: `docs/evidence/MOT_01_CONTEXT_SHIFT_EXECUTION_DEFAULTS_01.json`. Materialized comparison: `prototypes/mot-01/context-shift/comparison.html` + `manifest.json`.
+Q-DESIGN-15 is closed by `docs/evidence/MOT_01_CONTEXT_SHIFT_CS2_ADJUDICATION_01.json`. Hosted Chrome preflight passed **16/16 FULL + 16/16 REDUCED**. Director + Design Sol select **CS2 — Balanced Crossfade Exchange** across APP/WEB × WIDE/320. Design Sol values its semantic neutrality versus F1A; Director values its easy-on-the-eyes, low-micro-twitch-fatigue character and gentle mysterious / slightly magical effect.
 
-Hosted Chrome preflight is CLEAN: **16/16 FULL + 16/16 REDUCED** after one pre-execution semantic-equivalence correction; evidence: `docs/evidence/MOT_01_CONTEXT_SHIFT_PREFLIGHT_01.json`. No candidate was retuned after viewing.
+CS2 is the provisional shared-brand treatment for eligible already-ready context replacement. F1A and CS2 may not run concurrently or auto-chain for the same state change. Reduced motion = immediate final context with zero animation. User input and authoritative state always win.
 
-Design Sol view is frozen before Director input in `docs/evidence/MOT_01_CONTEXT_SHIFT_DESIGN_SOL_VIEW_01.json`: **CS2 Balanced Crossfade Exchange preferred**. CS0 CUT remains valid fallback; CS1 is viable but reads more like incoming arrival; CS3 adds spatial/navigation implication without enough gain.
+The comparison's 280 ms/easing values are fixture evidence only and are **not production tokens**.
 
 ## Exact next action / hard boundary
-Present labeled CS0–CS3 comparison to the Director. Director may confirm CS2, select CS1/CS3/CS0, or reject only for a bounded use-law defect. Do not retune after view. After decision, record adjudication, Design Ledger closure and central queue transition.
+Q-DESIGN-16: freeze the bounded CS2 deployment envelope—eligible context-shift classes, CUT fallback, repetition/interruption/retarget rules, relationship to F1A, reduced-motion equivalence and explicit prohibited uses—then test with a small neutral exemplar set before any production tokenization or implementation.
 
-Do not reopen F1A cadence, create production motion/displacement tokens, implement app/site/navigation motion, authorize Character/Scene/Stage/Performance/Take/Opportunity timing, claim final identity, or enter Phase-C convergence.
+Do not reopen F1A cadence, generalize crossfade to every screen change, create production motion tokens, implement app/site/navigation motion, authorize Character/Scene/Stage/Performance/Take/Opportunity timing, claim final identity, or enter Phase-C convergence.

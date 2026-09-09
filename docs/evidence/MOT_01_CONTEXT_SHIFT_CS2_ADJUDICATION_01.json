@@ -1,0 +1,63 @@
+{
+  "schema": "kymaean.mot01.context-shift-adjudication.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-15",
+  "status": "CLOSED_DIRECTOR_DESIGN_ADJUDICATION",
+  "selected": {
+    "id": "CS2_BALANCED_EXCHANGE",
+    "name": "Balanced Crossfade Exchange",
+    "role": "PROVISIONAL_SHARED_BRAND_CONTEXT_SHIFT_INCUMBENT"
+  },
+  "mechanical_evidence": {
+    "preflight": "docs/evidence/MOT_01_CONTEXT_SHIFT_PREFLIGHT_01.json",
+    "result": "PASS",
+    "full_cells": "16/16",
+    "reduced_motion_cells": "16/16"
+  },
+  "design_sol_view_frozen_before_director": {
+    "preferred": "CS2_BALANCED_EXCHANGE",
+    "reason": "It differentiates context replacement from F1A succession without introducing direction, ordering, priority, causality, or spatial-navigation meaning."
+  },
+  "director_view": {
+    "preferred": "CS2_BALANCED_EXCHANGE",
+    "applies_across_reviewed_surfaces": ["APP/WIDE", "APP/REFLOW_320", "WEB/WIDE", "WEB/REFLOW_320"],
+    "reasons": [
+      "easy on the eyes",
+      "avoids micro-twitching fatigue",
+      "creates a gentle mysterious effect that feels a little like magic"
+    ]
+  },
+  "resolution": {
+    "decision": "SELECT_CS2",
+    "rationale": "Director and Design Sol independently converge on CS2. Its field-level opacity exchange creates a visibly different grammar for genuine context replacement while avoiding the ordered-process symbolism intentionally reserved for F1A. The Director additionally identifies low visual fatigue and a gentle mysterious quality as desirable Kymaean character.",
+    "f1a_relationship": "F1A remains the provisional bounded within-context succession treatment. CS2 owns eligible genuine context-shift boundaries. They must not run concurrently or auto-chain for the same state change.",
+    "reduced_motion": "Immediate final Context B with zero animation remains mandatory.",
+    "state_truth": "Authoritative state and user input always outrank choreography."
+  },
+  "fixture_non_authority": {
+    "duration_ms": 280,
+    "easing": "cubic-bezier(0.2,0,0,1)",
+    "app_translation_px": 16,
+    "web_translation_px": 32,
+    "note": "These values were comparison fixtures and are not production tokens. CS2 itself uses opacity exchange with fixed geometry; translation fixture values belong to other comparison candidates."
+  },
+  "rejected_as_incumbent": [
+    {"id":"CS0_CUT","reason":"Retained as valid no-motion fallback but not selected as the identity-bearing context-shift incumbent."},
+    {"id":"CS1_SYNCHRONIZED_SETTLE","reason":"Viable but reads more like incoming-context arrival than neutral context replacement."},
+    {"id":"CS3_OPPOSED_FIELD_EXCHANGE","reason":"Adds directional/spatial implication without enough benefit over CS2."}
+  ],
+  "next_gate": {
+    "id": "Q-DESIGN-16",
+    "scope": "Freeze the bounded CS2 deployment envelope: eligible context-shift classes, repetition/interrupt/retarget rules, relationship to CUT fallback and F1A, reduced-motion equivalence, and explicit prohibited uses. No production tokenization or implementation."
+  },
+  "non_authority": [
+    "production duration/easing/opacity tokens",
+    "app/site/navigation implementation",
+    "global use of crossfade for every screen change",
+    "F1A cadence revision",
+    "Character/Scene/Stage/Performance/Take/Opportunity motion",
+    "final motion system",
+    "final identity",
+    "Phase-C convergence"
+  ]
+}
