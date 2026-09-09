@@ -752,3 +752,19 @@ Selected provisional reference: **70 ms onset interval / 460 ms equal movement d
 **Guardrail:** F1A is not a production motion token; do not generalize it to arbitrary lists/feeds, fabricate product semantics, reopen Q-DESIGN-02 Stage motion, implement app/site motion, claim final identity or enter Phase-C convergence.
 
 **APPROVED — DIRECTOR F1A SELECTION + CLEAN DESIGN-SOL RECONCILIATION.**
+
+## L-045 — F1A deployment envelope is frozen
+
+**State:** Q-DESIGN-13 CLOSED / F1A USE ENVELOPE FROZEN / Q-DESIGN-14 NEXT / NO PRODUCTION OR IMPLEMENTATION AUTHORITY
+
+`docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json` constrains the Director-selected F1A Tight research reference to bounded identity-bearing succession rather than universal UI animation. F1A remains 70 ms onset interval / 460 ms equal movement / maximum four-unit last completion 670 ms; no cadence retuning occurred.
+
+Direct stagger is limited to **2–4 peer units**. Five-or-more content items may not receive individual stagger; only 2–4 independently meaningful pre-existing groups may sequence, with each group's members moving together. Groups may not be invented for animation. Nested/overlapping cascades, loops, hover/focus/reflow retriggers and queued choreography are prohibited.
+
+F1A is eligible only as a one-shot identity accent where content/function is already available. It is prohibited for loading/progress, live data arrival, priority, routine control feedback, result/feed/message entrances, false task/causal order, Character acting, Scene/Stage, Performance, Take or Opportunity timing. User input and authoritative state always outrank choreography; retargeting cancels stale F1A and renders the newest state directly.
+
+Reduced-motion preference creates no F1A animation and preserves identical information/function/state.
+
+**Next gate:** Q-DESIGN-14 materializes a small non-production allowed/negative-control exemplar set to test this deployment envelope, passes structural/reduced-motion checks, then uses direct Design Sol + Director adjudication. Cadence, production tokens, app/site implementation, Stage motion and Phase-C convergence remain out of scope.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
