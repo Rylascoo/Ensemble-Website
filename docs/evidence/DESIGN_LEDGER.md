@@ -861,3 +861,27 @@ Design Sol's pre-Director view is frozen in `docs/evidence/MOT_01_CS2_DEPLOYMENT
 **Next gate:** present the exact frozen exemplar to the Director for direct Design Sol + Director adjudication. No post-view retuning is permitted.
 
 **Guardrail:** 280 ms/easing remain research fixtures only; no universal crossfade rule, production token, implementation, F1A retune, Stage-family timing, final motion system, final identity or Phase-C convergence.
+
+## L-052 — Q-DESIGN-16 CS2 deployment envelope approved by explicit Director delegation
+
+**State:** Q-DESIGN-16 DONE / MOT-01 BOUNDED PROGRAM CLOSED / NO PRODUCTION MOTION AUTHORITY
+
+The Director explicitly delegated the detailed frozen use-envelope judgment to Design Sol after stating that the contextual exemplar distinctions were confusing in detail but that Design Sol's context/user-experience judgment was trusted for this task. This is recorded as delegated adjudication, not independent Director scoring of every case. `docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_DIRECTOR_DELEGATED_ADJUDICATION_01.json` adopts the already-frozen Design Sol view: **A1 APPROVE; A2/A3 APPROVE WITH RESTRAINT; N1/N3 PROHIBIT; N2 CUT FALLBACK**.
+
+MOT-01 therefore closes successfully under bounded Phase-B scope. F1A Tight remains provisional bounded within-context succession; CS2 Balanced Crossfade Exchange remains provisional eligible already-ready genuine context replacement; CUT is first-class for reduced motion, interruption/retarget, unavailable incoming content, fatigue/noisy overlap, non-replacement semantics or compromised interaction truth. Fixture durations/easing remain research-only.
+
+**Guardrail:** no universal crossfade rule, production motion token, app/site/navigation implementation, Stage-family motion, final motion system, final identity or Phase-C convergence.
+
+## L-053 — Post-MOT Phase-B orthogonal re-entry selects CLR-01
+
+**State:** Q-DESIGN-17 DONE / CLR-01 SELECTED / Q-DESIGN-18 METHOD CONSTRUCTION NEXT
+
+`docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_03.txt` recursively audited the open Phase-B lanes after MOT-01. Continued motion work is now too refinement-heavy; symbol, material, Character and static-world lanes carry stronger incumbent/history pressure; iconography remains too dependent on later product-surface vocabulary. **CLR-01 — Cross-Surface Color-Logic Independence** is selected as the strongest genuinely orthogonal next question.
+
+CLR-01 will test color-role relationships across neutral APP/WEB carriers while quarantining Mineral Theater and all historical palette incumbents. It may test field/foreground/secondary/accent/boundary/de-emphasis logic with hard accessibility floors, but may not select final production colors, semantic status colors, app/site themes or final identity.
+
+**Next gate:** Q-DESIGN-18 constructs the non-render CLR-01 method contract and deterministic dual-context specimen matrix before any candidate color family is judged.
+
+**Guardrail:** no image generation/renderer spend, production color tokens, app/site implementation, semantic status-color system, O3/Threshold-K/Mineral-Theater/TYP-01/hero reopening, F1A/CS2 retune, Stage motion, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
