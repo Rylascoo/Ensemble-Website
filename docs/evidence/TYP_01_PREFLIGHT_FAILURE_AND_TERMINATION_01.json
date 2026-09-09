@@ -1,0 +1,98 @@
+{
+  "schema": "kymaean.typ01.preflight-termination.v1",
+  "status": "CLOSED_ZERO_SURVIVORS_PRE_SCORING",
+  "date": "2026-09-08",
+  "program_id": "TYP-01",
+  "question": "Can a typographic/editorial grammar establish a materially distinctive Kymaean shared-brand identity mechanism, independent of existing brand carriers, while surviving the frozen dual-context accessibility and reflow contract?",
+  "authority_chain": {
+    "authoritative_main_before_closure": "2416aff2841068fdf3cc2ee525f07dfeade2ef4a",
+    "method": {"path": "docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json", "adopted_main_commit": "4130bb9645525a6773a7cf5508175da00658530d"},
+    "execution_addendum_01": {"path": "docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json", "adopted_main_commit": "2416aff2841068fdf3cc2ee525f07dfeade2ef4a"},
+    "execution_addendum_02": {
+      "path": "docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json",
+      "pre_render_commit": "3051ba25fa5d39bbecef6d6d28754c1cf2c02243",
+      "parent": "2416aff2841068fdf3cc2ee525f07dfeade2ef4a",
+      "scope": "Three residual execution ambiguities only; no family mechanism, scoring law, accessibility floor, or convergence rule changed.",
+      "timing": "Frozen before any specimen was rendered, judged, or scored."
+    }
+  },
+  "frozen_packet": {
+    "transport_base64_length": 16804,
+    "transport_base64_sha256": "a72eeecd655d1590fda320d9ccaddf3c9ffc38e2052538f82e6b99c6b7f93e5f",
+    "members": ["prototypes/typ-01/blinding-key.json", "prototypes/typ-01/harness.html", "prototypes/typ-01/reviewer.html"],
+    "disposable_harness_lineage_commit": "ac503b2b64ad24ce553336f3130a414673322722",
+    "browser_user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "browser_platform": "Linux x86_64",
+    "no_scoring_performed": true
+  },
+  "preflight": {
+    "overall_pass": false,
+    "matrix": {"pass": true, "count": 24, "unique_count": 24},
+    "exact_content": true,
+    "isolation_pass": true,
+    "reference_font_pass": true,
+    "computed_reference_font": "system-ui, sans-serif",
+    "contrast": {"ratio": 18.883, "normal_floor": 4.5, "large_floor": 3.0, "pass": true},
+    "app_scannable_sequence_structural_pass": true,
+    "cross_context_invariants_pass": true,
+    "accessibility_failures": [
+      {"specimen_id": "CNEG-WEB-REFLOW_320", "condition": "resize200", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 364},
+      {"specimen_id": "CPOS-WEB-REFLOW_320", "condition": "resize200", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 537},
+      {"specimen_id": "CPOS-WEB-REFLOW_320", "condition": "text_spacing_stress", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 323},
+      {"specimen_id": "CPOS-APP-REFLOW_320", "condition": "resize200", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 376},
+      {"specimen_id": "F1-WEB-REFLOW_320", "condition": "resize200", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 488},
+      {"specimen_id": "F1-APP-REFLOW_320", "condition": "resize200", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 342},
+      {"specimen_id": "F2-WEB-REFLOW_320", "condition": "resize200", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 382},
+      {"specimen_id": "F3-WEB-REFLOW_320", "condition": "resize200", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 393},
+      {"specimen_id": "F4-WEB-REFLOW_320", "condition": "resize200", "failure": "horizontal_overflow", "client_width": 320, "scroll_width": 441}
+    ],
+    "failed_scored_families": ["F1", "F2", "F3", "F4"]
+  },
+  "mechanical_conformance_audit": {
+    "hosted_run_id": 34312973989,
+    "hosted_job_id": 102343259655,
+    "result": "PASS",
+    "specimens_checked": 24,
+    "checks": [
+      "frozen transport length, SHA-256, and exact three-member archive membership",
+      "320px and WIDE frame widths",
+      "1.0u frame padding by WEB/APP base unit",
+      "declared measure and APP measure multiplier",
+      "WEB/APP P1 context multiplier",
+      "P1, P2, label, and value font sizes against frozen vectors",
+      "no additional REFLOW_320 size reduction",
+      "natural wrapping defaults: hyphens none, word-break normal, overflow-wrap normal",
+      "200% resize rule remains a 2.0 font-size multiplier with frame width preserved"
+    ],
+    "conclusion": "No overflow-relevant mechanical implementation deviation was found. Changing width, wrapping, scale, family grammar, or the accessibility floor to rescue the specimens would reopen the frozen method rather than correct implementation."
+  },
+  "program_result": {
+    "scored_family_survivors": 0,
+    "blinded_scoring_started": false,
+    "reviewer_scores_exist": false,
+    "result": "TYP-01 strong-independence failed under its frozen contract at accessibility preflight.",
+    "reason": "Each scored family F1-F4 incurs at least one accessibility preflight hard failure at REFLOW_320 under the frozen 200% resize condition. The method requires every family to pass all accessibility preflight checks and defines any accessibility preflight floor failure as a hard failure.",
+    "control_note": "CNEG/CPOS control failures are diagnostic evidence only. Controls are not scored families and do not alter the zero-survivor determination for F1-F4.",
+    "termination": "Invoke the frozen zero-survivor rule without blinded scoring. Do not reopen hero research. Return to a fresh Phase-B orthogonal shared-brand question audit."
+  },
+  "non_authority": [
+    "This result is not a reviewer preference judgment and contains no blinded score.",
+    "It does not prove typography cannot contribute to Kymaean identity; it closes only TYP-01 strong-independence under this frozen family pack and accessibility contract.",
+    "No final typeface, typography system, identity, hero, wordmark, symbol, palette/material family, product UI, website surface, or motion system is selected.",
+    "The disposable harness workflow, diagnostic files, bundle transport fragments, and temporary audit workflows are not promoted as design authority."
+  ],
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "method termination law re-read against observed failure pattern",
+      "Addendum 02 provenance recovered to its pre-render parent commit",
+      "transport packet membership and hash reverified",
+      "all eight failing specimen IDs and stress conditions rederived from hosted diagnostic evidence",
+      "all four scored families confirmed to contain an accessibility hard failure",
+      "overflow-relevant source conformance independently reverified across all 24 specimens",
+      "no scoring or post-result family refinement permitted",
+      "hero research remains paused and is not reopened by this result"
+    ],
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+  }
+}

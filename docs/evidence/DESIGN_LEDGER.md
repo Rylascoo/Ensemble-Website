@@ -577,3 +577,19 @@ The normalized family gap table is explicit; all specimens share a neutral top-l
 **Guardrail:** no image generation, generative renderer use/spend, scoring, final typography/identity/hero, O3/Threshold-K redesign, palette/material/hero reopening, app implementation, website production/deployment or Stage-motion authority.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-035 — TYP-01 closes with zero survivors at accessibility preflight
+
+**State:** CLOSED PROGRAM RESULT / ZERO SURVIVORS PRE-SCORING / CLEAN / Q-DESIGN-06 CLOSED
+
+TYP-01 reached its frozen 24-specimen browser preflight without blinded scoring. The packet passed matrix cardinality, CP-01 exact-content isolation, neutral `system-ui, sans-serif` reference-face, contrast, structural APP scannability and cross-context invariant checks. It failed the non-compensating accessibility floor at 320px reflow: every scored family F1-F4 has at least one horizontal-overflow failure under the frozen 200% text-resize condition. F1 fails in both WEB and APP reflow; F2, F3 and F4 fail WEB reflow. Control failures are preserved as diagnostic evidence but do not determine family survival.
+
+A final hosted conformance audit checked all 24 specimens against the frozen overflow-relevant source contract: transport hash/membership, frame widths, 1.0u padding, family measures and APP multiplier, P1 context multiplier, P1/P2/label/value font sizes, no extra REFLOW_320 scale reduction, natural wrapping defaults, and the 2.0 resize rule. It passed. The observed overflow therefore is not a correctable mechanical deviation. Altering width, wrapping, family scale/grammar or the accessibility floor would reopen the method rather than restore it.
+
+The frozen method defines any accessibility preflight floor failure as a hard failure, requires all accessibility checks for family passage, and directs a zero-survivor result to close TYP-01 strong-independence and return to a fresh Phase-B orthogonal shared-brand question audit. That termination applies **before scoring**. No reviewer scores exist; no family refinement or reroll is authorized after this result.
+
+Addendum 02 is preserved as legitimate pre-render execution law because its exact commit `3051ba25fa5d39bbecef6d6d28754c1cf2c02243` was created directly atop the Addendum-01 main checkpoint before any specimen existed. It closes only three residual implementation ambiguities and changes no family mechanism, accessibility floor, scoring rule or convergence rule.
+
+Primary result evidence: `docs/evidence/TYP_01_PREFLIGHT_FAILURE_AND_TERMINATION_01.json`.
+
+**Guardrail:** do not summarize this as “typography failed” or as a reviewer rejection. TYP-01 strong-independence failed under one frozen family pack and accessibility contract before blinded review. Do not rescue it by modifying the failed specimens after evidence is visible. Do not reopen hero research. The next design action is a fresh Phase-B orthogonal shared-brand question audit.
