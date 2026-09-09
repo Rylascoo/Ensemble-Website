@@ -62,7 +62,7 @@ jobs:
           root=Path('.')
           def extract(path, element_id):
               text=Path(path).read_text(encoding='utf-8')
-              m=re.search(r'<script[^>]*id=["\']'+re.escape(element_id)+r'["\'][^>]*>(.*?)</script>', text, re.S)
+              m=re.search(r"<script[^>]*id=['\"]"+re.escape(element_id)+r"['\"][^>]*>(.*?)</script>", text, re.S)
               if not m:
                   raise SystemExit(f'missing {element_id} in {path}')
               return json.loads(html.unescape(m.group(1)))
