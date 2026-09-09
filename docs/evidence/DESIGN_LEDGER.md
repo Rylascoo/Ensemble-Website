@@ -785,3 +785,29 @@ Design Sol's preliminary visual read is preserved as input, not Director judgmen
 
 **Guardrail:** no production timing/displacement token, app/site implementation, arbitrary list/feed generalization, Stage motion, final identity or Phase-C convergence. Q-DESIGN-14 is not closed until Director adjudication is durably recorded.
 
+
+## L-047 — F1A deployment envelope is approved and context-shift differentiation is required
+
+**State:** Q-DESIGN-14 CLOSED / F1A USE ENVELOPE APPROVED / CONTEXT-SHIFT DIFFERENTIATION REQUIRED / NO PRODUCTION TOKEN AUTHORITY
+
+The labeled Q-DESIGN-14 exemplar set passed hosted browser preflight at 20/20 FULL + 20/20 REDUCED. Direct Design Sol + Director adjudication then approved the frozen F1A use envelope without reopening cadence: A1 peer constellation is allowed; A2 explicit explanatory order is allowed with restraint; A3 pre-existing grouped 5+ handling is allowed; N1 six-row direct cascade and N2 fake process sequence are prohibited.
+
+The Director added one material semantic requirement: when the context itself shifts, Kymaean should use a visibly different treatment. F1A therefore remains the provisional shared-brand treatment for bounded succession *within* an already-established context and does not own context-shift boundaries. One motion grammar owns one transition event; a context-shift treatment and F1A may not run concurrently or automatically chain for the same state change. User input and authoritative state remain superior to choreography.
+
+Primary evidence: `docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_ADJUDICATION_01.json`.
+
+**Guardrail:** no F1A cadence change, production motion/displacement token, app/site implementation, navigation behavior, Character/Scene/Stage/Performance/Take/Opportunity timing, final identity or Phase-C convergence.
+
+## L-048 — Context-shift differentiation contract is frozen
+
+**State:** Q-DESIGN-15 CONTRACT FROZEN / PRE-SPECIMEN / NON-PRODUCTION / NO STAGE-MOTION AUTHORITY
+
+`docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json` freezes the next bounded shared-brand motion question: can a visibly non-sequential treatment communicate entry into a different already-ready context while remaining distinct from F1A and avoiding false process, priority, causality, directional-navigation or Stage semantics?
+
+The neutral comparison contains one no-motion control and three synchronized candidates: CS0 Immediate Cut; CS1 Synchronized Field Settle; CS2 Balanced Crossfade Exchange; CS3 Simultaneous Opposed-Field Exchange. No candidate may stagger internally. APP/WEB and WIDE/320 are tested; reduced motion is immediate final-context rendering with zero animation. CUT/none remains a valid adjudication result.
+
+**Next gate:** freeze fixture-only timing/amplitude values, materialize the CS0-CS3 comparison, pass deterministic full/reduced-motion browser preflight, freeze Design Sol's view before Director input, then adjudicate directly. No evidence-aware retuning is allowed after viewing.
+
+**Guardrail:** F1A remains unchanged. No production tokens, app/site/navigation implementation, Character/Scene/Stage/Performance/Take/Opportunity timing, final motion system, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
