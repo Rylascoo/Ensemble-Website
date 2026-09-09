@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MOT-01 blinded reviewer surface — pre-scoring</title>
+<style>*{box-sizing:border-box}html,body{margin:0;background:#fff;color:#111;font-family:system-ui,sans-serif}body{padding:20px}h1{font-size:20px}p{max-width:70ch}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:20px}.card{border:1px solid #ddd;padding:10px;overflow:auto}.card h2{font-size:14px;margin:0 0 8px}.card h2 span{font-weight:400}.card iframe{display:block;border:0;width:100%;height:330px;background:#fff}</style>
+</head><body><h1>MOT-01 blinded specimen surface — PRE-SCORING</h1><p>No score controls are present. Reviewer judgment is not authorized until structural/accessibility preflight closes cleanly. Family names and source specimen IDs are not rendered.</p><main class="grid" id="grid"></main>
+<script>'use strict';
+const META={
+'M01-01':['APP','REFLOW_320'],'M01-02':['WEB','WIDE'],'M01-03':['WEB','REFLOW_320'],'M01-04':['WEB','REFLOW_320'],'M01-05':['WEB','WIDE'],'M01-06':['WEB','WIDE'],'M01-07':['WEB','REFLOW_320'],'M01-08':['APP','WIDE'],'M01-09':['WEB','WIDE'],'M01-10':['APP','WIDE'],'M01-11':['APP','REFLOW_320'],'M01-12':['APP','REFLOW_320'],'M01-13':['APP','WIDE'],'M01-14':['APP','REFLOW_320'],'M01-15':['APP','WIDE'],'M01-16':['APP','WIDE'],'M01-17':['APP','WIDE'],'M01-18':['APP','REFLOW_320'],'M01-19':['WEB','REFLOW_320'],'M01-20':['WEB','REFLOW_320'],'M01-21':['WEB','WIDE'],'M01-22':['WEB','REFLOW_320'],'M01-23':['WEB','WIDE'],'M01-24':['APP','REFLOW_320']};
+for(const id of Object.keys(META).sort()){const [context,viewport]=META[id],s=document.createElement('section');s.className='card';const h=document.createElement('h2');h.textContent=`${id} · ${context} · ${viewport}`;const f=document.createElement('iframe');f.title=`${id} temporal specimen`;f.src=`harness.html?anon=${id}`;f.loading='lazy';s.append(h,f);document.getElementById('grid').append(s);}
+</script></body></html>
