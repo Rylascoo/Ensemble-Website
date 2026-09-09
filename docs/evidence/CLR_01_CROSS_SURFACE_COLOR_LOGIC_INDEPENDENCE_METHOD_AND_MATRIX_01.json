@@ -56,12 +56,39 @@
   "carrier": {
     "content_authority": "measurement-only / non-canon",
     "blocks": [
-      {"id": "P1", "role": "heading", "text": "A field holds several related parts."},
-      {"id": "P2", "role": "body", "text": "Each part remains distinct while sharing one context."},
-      {"id": "P3", "role": "primary_item", "label": "Primary note", "text": "A relationship remains visible."},
-      {"id": "P4", "role": "secondary_item", "label": "Secondary note", "text": "Another detail remains present."},
-      {"id": "P5", "role": "soft_surface_item", "label": "Reference", "text": "The surrounding field stays quiet."},
-      {"id": "P6", "role": "action", "text": "Open another view"}
+      {
+        "id": "P1",
+        "role": "heading",
+        "text": "A field holds several related parts."
+      },
+      {
+        "id": "P2",
+        "role": "body",
+        "text": "Each part remains distinct while sharing one context."
+      },
+      {
+        "id": "P3",
+        "role": "primary_item",
+        "label": "Primary note",
+        "text": "A relationship remains visible."
+      },
+      {
+        "id": "P4",
+        "role": "secondary_item",
+        "label": "Secondary note",
+        "text": "Another detail remains present."
+      },
+      {
+        "id": "P5",
+        "role": "soft_surface_item",
+        "label": "Reference",
+        "text": "The surrounding field stays quiet."
+      },
+      {
+        "id": "P6",
+        "role": "action",
+        "text": "Open another view"
+      }
     ],
     "geometry": {
       "WEB_WIDE": "1280x720 CSS reference frame; centered 720px neutral panel",
@@ -93,14 +120,42 @@
     "CNEG": {
       "name": "Neutral grayscale control",
       "purpose": "Readable, accessible low-identity baseline with no chromatic mechanism.",
-      "APP": {"field":"#F7F7F7","primary":"#1D1D1D","secondary":"#575757","accent":"#444444","boundary":"#7A7A7A","soft_surface":"#ECECEC"},
-      "WEB": {"field":"#F7F7F7","primary":"#1D1D1D","secondary":"#575757","accent":"#444444","boundary":"#7A7A7A","soft_surface":"#ECECEC"}
+      "APP": {
+        "field": "#F7F7F7",
+        "primary": "#1D1D1D",
+        "secondary": "#575757",
+        "accent": "#444444",
+        "boundary": "#7A7A7A",
+        "soft_surface": "#ECECEC"
+      },
+      "WEB": {
+        "field": "#F7F7F7",
+        "primary": "#1D1D1D",
+        "secondary": "#575757",
+        "accent": "#444444",
+        "boundary": "#7A7A7A",
+        "soft_surface": "#ECECEC"
+      }
     },
     "CCONV": {
       "name": "Conventional product-blue calibration control",
       "purpose": "Accessible familiar digital-product color grammar used to calibrate generic-category resemblance; excluded from Kymaean-family selection.",
-      "APP": {"field":"#F7F8FA","primary":"#1C2028","secondary":"#59616F","accent":"#2F5FA8","boundary":"#7D8795","soft_surface":"#E8EEF8"},
-      "WEB": {"field":"#F5F8FC","primary":"#18202C","secondary":"#526172","accent":"#2463EB","boundary":"#73839A","soft_surface":"#E2ECFB"}
+      "APP": {
+        "field": "#F7F8FA",
+        "primary": "#1C2028",
+        "secondary": "#59616F",
+        "accent": "#2F5FA8",
+        "boundary": "#7D8795",
+        "soft_surface": "#E8EEF8"
+      },
+      "WEB": {
+        "field": "#F5F8FC",
+        "primary": "#18202C",
+        "secondary": "#526172",
+        "accent": "#2463EB",
+        "boundary": "#73839A",
+        "soft_surface": "#E2ECFB"
+      }
     }
   },
   "families": {
@@ -108,39 +163,108 @@
       "name": "Split Temperature",
       "primary_variable": "temperature opposition",
       "mechanism": "Cool/dark structural ink is held against a quiet warm-earth accent; identity comes from a stable warm/cool hinge rather than chroma quantity.",
-      "APP": {"field":"#F7F5F2","primary":"#191B24","secondary":"#565B67","accent":"#9A4D2E","boundary":"#8A8178","soft_surface":"#EEE8E2"},
-      "WEB": {"field":"#F6F0E9","primary":"#1D1B20","secondary":"#5B5254","accent":"#A04725","boundary":"#8C7B71","soft_surface":"#F0E3D9"},
+      "APP": {
+        "field": "#F7F5F2",
+        "primary": "#191B24",
+        "secondary": "#565B67",
+        "accent": "#9A4D2E",
+        "boundary": "#8A8178",
+        "soft_surface": "#EEE8E2"
+      },
+      "WEB": {
+        "field": "#F6F0E9",
+        "primary": "#1D1B20",
+        "secondary": "#5B5254",
+        "accent": "#A04725",
+        "boundary": "#8C7B71",
+        "soft_surface": "#F0E3D9"
+      },
       "primary_risk": "generic heritage/editorial warmth or premium-earth palette"
     },
     "F2": {
       "name": "Monochrome + Intruder",
       "primary_variable": "chroma concentration",
       "mechanism": "Most roles stay inside a subdued violet-neutral ladder while one rare teal accent interrupts it; identity depends on scarcity and exception rather than broad multicolor contrast.",
-      "APP": {"field":"#F4F3F7","primary":"#221B2D","secondary":"#5C5565","accent":"#006F73","boundary":"#7D7486","soft_surface":"#EAE8EF"},
-      "WEB": {"field":"#F1EDF6","primary":"#21172C","secondary":"#5A5065","accent":"#006D70","boundary":"#766D82","soft_surface":"#E9E3F0"},
+      "APP": {
+        "field": "#F4F3F7",
+        "primary": "#221B2D",
+        "secondary": "#5C5565",
+        "accent": "#006F73",
+        "boundary": "#7D7486",
+        "soft_surface": "#EAE8EF"
+      },
+      "WEB": {
+        "field": "#F1EDF6",
+        "primary": "#21172C",
+        "secondary": "#5A5065",
+        "accent": "#006D70",
+        "boundary": "#766D82",
+        "soft_surface": "#E9E3F0"
+      },
       "primary_risk": "generic creative-tool violet/teal or artificial rarity that feels decorative"
     },
     "F3": {
       "name": "Complementary Poles",
       "primary_variable": "opposed chromatic poles",
       "mechanism": "A restrained green-tinted field/ink system is counterweighted by a plum accent; neither pole encodes status and both remain subordinate to legibility.",
-      "APP": {"field":"#F4F8F5","primary":"#16231F","secondary":"#4D5E58","accent":"#7D3A6D","boundary":"#72827A","soft_surface":"#E6EFE9"},
-      "WEB": {"field":"#EFF7F2","primary":"#14251E","secondary":"#465951","accent":"#8C326E","boundary":"#6D8076","soft_surface":"#E0EFE5"},
+      "APP": {
+        "field": "#F4F8F5",
+        "primary": "#16231F",
+        "secondary": "#4D5E58",
+        "accent": "#7D3A6D",
+        "boundary": "#72827A",
+        "soft_surface": "#E6EFE9"
+      },
+      "WEB": {
+        "field": "#EFF7F2",
+        "primary": "#14251E",
+        "secondary": "#465951",
+        "accent": "#8C326E",
+        "boundary": "#6D8076",
+        "soft_surface": "#E0EFE5"
+      },
       "primary_risk": "generic botanical/wellness signaling or accidental red/green semantic association"
     },
     "F4": {
       "name": "Chromatic Ladder",
       "primary_variable": "single-hue structural distribution",
       "mechanism": "A warm near-neutral field is crossed by a blue chromatic ladder distributed from soft surface through boundary to concentrated accent, testing identity through role-linked saturation rather than opposing hues.",
-      "APP": {"field":"#F8F5F0","primary":"#24201B","secondary":"#5A544B","accent":"#3E5D9B","boundary":"#81786D","soft_surface":"#EEE9E0"},
-      "WEB": {"field":"#F6F1E8","primary":"#211E19","secondary":"#564F45","accent":"#355EB0","boundary":"#7D7469","soft_surface":"#EBE3D6"},
+      "APP": {
+        "field": "#F8F5F0",
+        "primary": "#24201B",
+        "secondary": "#5A544B",
+        "accent": "#3E5D9B",
+        "boundary": "#6F7F99",
+        "soft_surface": "#E7EBF3"
+      },
+      "WEB": {
+        "field": "#F6F1E8",
+        "primary": "#211E19",
+        "secondary": "#564F45",
+        "accent": "#355EB0",
+        "boundary": "#687DA5",
+        "soft_surface": "#E1E7F2"
+      },
       "primary_risk": "collapse into familiar blue-product/SaaS grammar despite warmer field structure"
     }
   },
   "matrix": {
-    "families_in_order": ["CNEG","CCONV","F1","F2","F3","F4"],
-    "contexts_in_order": ["APP","WEB"],
-    "viewports_in_order": ["WIDE","REFLOW_320"],
+    "families_in_order": [
+      "CNEG",
+      "CCONV",
+      "F1",
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "contexts_in_order": [
+      "APP",
+      "WEB"
+    ],
+    "viewports_in_order": [
+      "WIDE",
+      "REFLOW_320"
+    ],
     "specimen_id_rule": "{family}-{context}-{viewport}",
     "cartesian_product_count": 24,
     "construction_rule": "Generate exactly one deterministic specimen for every family/control × context × viewport tuple. No color, content, geometry or role change may occur after the packet is frozen."
@@ -172,7 +296,11 @@
       "semantic honesty: does color imply status, priority, success/failure, identity or authority that the neutral fixture does not possess?",
       "fallback resilience: does the carrier remain understandable with color suppressed?"
     ],
-    "possible_outcomes": ["one or more provisional color-logic survivors","zero survivors","bounded follow-up on a surviving mechanism without production palette authority"],
+    "possible_outcomes": [
+      "one or more provisional color-logic survivors",
+      "zero survivors",
+      "bounded follow-up on a surviving mechanism without production palette authority"
+    ],
     "prohibited_outcome": "No CLR-01 adjudication alone may declare a final Kymaean palette or Phase-C identity family."
   },
   "non_authority": [
