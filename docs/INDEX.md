@@ -7,7 +7,7 @@ Generated file; do not hand-maintain.
 Generation command: `python3 tools/generate_docs_index.py`
 
 Total Markdown documents: 282
-Total text records: 72
+Total text records: 73
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
@@ -307,7 +307,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/KYMAEAN_HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02.md`
 - `docs/KYMAEAN_VISUAL_ASSET_MATERIALIZATION_ROADMAP_01.md`
 
-## TEXT RECORDS — INVENTORY ONLY (72)
+## TEXT RECORDS — INVENTORY ONLY (73)
 
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
@@ -367,6 +367,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/HERO_METHOD_02_STAGE_6M_TOOLING_FORMAT_IMPLEMENTATION_01.txt`
 - `docs/evidence/HERO_METHOD_02_STAGE_6M_TOOLING_HARDENING_01.txt`
 - `docs/evidence/HERO_METHOD_02_TRANSFER_SURFACE_SUFFICIENCY_INVESTIGATION_01.txt`
+- `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`
 - `docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`
 - `docs/evidence/STAGE_CONE_INTERACTION_01_ORACLE.txt`
 - `docs/evidence/renderer/C04-ACLT-01_ROUND04_RENDERER_HANDOFF.txt`
