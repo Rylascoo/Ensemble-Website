@@ -1,0 +1,98 @@
+name: Temporary MOT-01 preflight closeout
+
+on:
+  push:
+    branches:
+      - tmp/mot01-preflight-closeout
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Record preflight closure and handoff
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test "$(python - <<'PY'
+          import json
+          d=json.load(open('docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json'))
+          print(d['status'])
+          PY
+          )" = "CLEAN_PREFLIGHT_NO_SCORING"
+
+          if ! grep -q '^## L-039 — MOT-01 deterministic packet and accessibility preflight are clean$' docs/evidence/DESIGN_LEDGER.md; then
+            cat >> docs/evidence/DESIGN_LEDGER.md <<'EOF'
+
+          ## L-039 — MOT-01 deterministic packet and accessibility preflight are clean
+
+          **State:** Q-DESIGN-09 CLOSED / CLEAN PREFLIGHT / NO REVIEWER EXPOSURE / NO SCORES / NO STAGE-MOTION AUTHORITY / NO CONVERGENCE
+
+          The frozen MOT-01 method (L-037) plus pre-specimen execution defaults (L-038) have been materialized into the browser-native packet under `prototypes/mot-01/`: `harness.html`, `reviewer.html`, `manifest.json`, and `blinding-key.json`. The current structural/accessibility result is `docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json` with status `CLEAN_PREFLIGHT_NO_SCORING`.
+
+          The valid preflight froze source/environment before execution and then passed all 24 FULL-motion specimens and the same 24 forced-reduced-motion counterparts. Matrix membership, no-autoplay, neutral static equivalence, fixed geometry/reflow, Replay focus retention, exact animation declarations, deterministic end-state conformance, complete reduced-motion suppression, blinding/carrier exclusions and post-freeze source immutability all passed. The hosted environment was Chrome 152.0.7977.82 on Ubuntu 24.04.5 LTS; those environment values are fixture provenance only.
+
+          Attempt 01 (workflow `34317229528`) is explicitly `INVALID_DIAGNOSTIC_ATTEMPT_NO_FAMILY_RESULT`: its 192 reports were the same wall-clock completion assertion repeated across 96 tokens, contrary to the frozen method's rule that wall-clock frame timing is not conformance evidence. That invalid attempt was not committed as MOT-01 evidence. Attempt 02 used the method-authorized deterministic `animation.currentTime = delay + duration` checkpoint and is the current valid preflight.
+
+          No reviewer has been exposed to the packet and no score, rank, candidate survivor, production timing token, final motion system, Stage behavior, identity convergence or Phase-C authority exists. A clean preflight only makes a separate blinded-review gate eligible for activation.
+
+          **Next gate:** reconcile the central Project queue by closing Q-DESIGN-09 and activating a bounded Q-DESIGN-10 blinded-review preparation/execution gate under the unchanged MOT-01 review law. The method requires three primary review records, at most one from the construction author and at least one Director/independent human record; that human judgment cannot be silently substituted by the construction process.
+
+          **Guardrail:** no unblinding before the frozen review step permits it; no evidence-aware family tuning, F5, reroll, timing retune, final motion tokens, transcript-dependent Stage motion, app implementation, website production/deployment, hero reopening, TYP-01 reroll or Phase-C convergence.
+
+          **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+          EOF
+          fi
+
+          cat > CURRENT_STATE.md <<'EOF'
+          <!-- D-R1-STATUS: ACTIVE LAW -->
+
+          # Ensemble Website — Current State
+
+          Updated: 2026-09-09
+
+          ## Authority
+          Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`. This file alone owns volatile design phase/current-boundary state.
+
+          ## Repository / cross-project
+          `main` is authoritative. `site/` is the only deployable/public website root; product/backend remains in `Rylascoo/Ensemble-Project`. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
+
+          ## Hero — STATIC RESEARCH PAUSED
+          Frozen Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01 + ODR-33 remain unchanged. No final hero. Reopening law: `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
+
+          ## Shared brand — TYP-01 CLOSED / MOT-01 PREFLIGHT CLEAN / REVIEW NOT STARTED
+          TYP-01 remains closed at zero surviving scored families before blinded review; no scores or reroll/refinement. Result: `docs/evidence/TYP_01_PREFLIGHT_FAILURE_AND_TERMINATION_01.json` / L-035.
+
+          MOT-01 selection: `docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_02.txt` / L-036. Frozen method: `docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json` / L-037. Execution defaults: `docs/evidence/MOT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json` / L-038.
+
+          Q-DESIGN-09 preflight is clean: `docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json` / L-039. All 24 FULL specimens and all 24 reduced-motion counterparts passed structural/accessibility preflight. Attempt 01 was an invalid wall-clock diagnostic and created no family result; Attempt 02 is the valid deterministic preflight. No reviewer exposure or scores exist.
+
+          MOT-01 has **no Q-DESIGN-02 Stage-motion authority** and selects no final motion/timing tokens, identity, hero, typography, symbol, wordmark, palette/material, website surface or app visual system.
+
+          ## Exact next action / hard boundary
+          Close Q-DESIGN-09 in the central queue and activate a separate bounded Q-DESIGN-10 blinded-review gate. Prepare the frozen anonymous review packet/record schema only after that queue gate is active. The frozen method requires three primary review records, at most one from the construction author and at least one Director/independent human record.
+
+          No scoring before Q-DESIGN-10 activation; no unblinding before the frozen review step permits it. No image/video generation, renderer spend, evidence-aware retuning, final motion tokens, transcript-dependent Stage motion, TYP-01 reroll, hero reopening, app implementation or website production/deployment.
+
+          Transcript-dependent Stage motion still waits on real blinded E0-A vs E0-E evidence.
+          EOF
+
+          python tools/validate_document_status.py
+          python tools/validate_repository_boundaries.py
+          git diff --check
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/tmp-mot01-preflight-closeout.yml
+          git add CURRENT_STATE.md docs/evidence/DESIGN_LEDGER.md
+          git diff --cached --check
+          git commit -m "Close MOT-01 structural accessibility preflight"
+          git push origin HEAD:tmp/mot01-preflight-closeout
