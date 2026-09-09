@@ -1,0 +1,156 @@
+{
+  "schema": "kymaean.mot01.cs2-deployment-envelope.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-16",
+  "status": "FROZEN_PRE_EXEMPLAR_NON_PRODUCTION_CONTRACT",
+  "parent_adjudication": "docs/evidence/MOT_01_CONTEXT_SHIFT_CS2_ADJUDICATION_01.json",
+  "selected_mechanism": "CS2_BALANCED_EXCHANGE",
+  "purpose": "Constrain CS2 so its calm, low-fatigue, gentle mysterious quality remains a bounded shared-brand context-shift treatment rather than becoming a universal crossfade convention.",
+  "identity_intent": {
+    "f1a": "bounded succession within an established context",
+    "cs2": "replacement of one already-ready context by another",
+    "distinction": "F1A communicates one-after-another; CS2 communicates a context boundary without order, progress, direction, priority or causality."
+  },
+  "hard_invariants": [
+    "CS2 applies only when both outgoing and incoming contexts are already complete enough to be authoritative; it may not conceal loading or unavailable content.",
+    "The semantic state change is atomic and authoritative independent of animation. CS2 may decorate the committed transition but may not delay state, accessibility-tree, interaction or focus-management truth.",
+    "CS2 is field-level only: one complete outgoing context and one complete incoming context exchange opacity simultaneously.",
+    "No element-level stagger, per-card/item crossfade choreography, transform, scale, blur, spring, bounce, overshoot or directional travel belongs to CS2.",
+    "One motion grammar owns one state-change event. F1A and CS2 may not run concurrently or auto-chain for the same state change.",
+    "Reduced motion renders the final incoming context synchronously with zero CS2 animation.",
+    "User input and newer authoritative state always outrank animation."
+  ],
+  "semantic_commit_law": {
+    "at_transition_start": [
+      "Incoming context becomes the authoritative semantic/interaction context immediately.",
+      "Outgoing context must not remain actionable or semantically current merely because it is still visually fading.",
+      "Any required product focus management occurs synchronously or independently of CS2 and is never deferred until animation completion."
+    ],
+    "visual_layer": "Outgoing opacity 1→0 and incoming opacity 0→1 share the same fixed host geometry and timing fixture in research exemplars.",
+    "completion": "Visual completion may not trigger additional semantic state or an automatic F1A sequence."
+  },
+  "eligible_use_classes": [
+    {
+      "id": "E1_READY_PEER_CONTEXT_REPLACEMENT",
+      "decision": "ALLOW",
+      "definition": "A fixed host region replaces one already-ready peer context with another at the same semantic level, with no loading/progress implication."
+    },
+    {
+      "id": "E2_READY_MODE_OR_PERSPECTIVE_SWITCH",
+      "decision": "ALLOW_WITH_RESTRAINT",
+      "definition": "A user intentionally changes an already-ready mode, perspective or representation inside the same broader task and the change does not require directional/history semantics."
+    },
+    {
+      "id": "E3_EDITORIAL_CONTEXT_FIELD_REPLACEMENT",
+      "decision": "ALLOW_WITH_RESTRAINT",
+      "definition": "A website/editorial field changes to a different already-ready thematic context, provided the overlap remains calm and legible and does not imply sequence or progress."
+    }
+  ],
+  "cut_fallback_conditions": [
+    "prefers-reduced-motion is active",
+    "a newer authoritative context arrives while CS2 is still active",
+    "the outgoing/incoming overlap creates dense double-text ghosting, shimmer, moire-like interference or visual fatigue",
+    "the context host changes geometry materially enough that opacity exchange would be combined with a layout jump or motion",
+    "directional navigation/history meaning must be communicated",
+    "the incoming context is not already ready",
+    "product focus/interaction requirements cannot remain truthful during visual overlap"
+  ],
+  "prohibited_uses": [
+    {
+      "id": "P1_LOADING_PROGRESS_ASYNC_ARRIVAL",
+      "reason": "CS2 may not disguise loading, progress, request completion, data arrival, save/publish state or provider latency."
+    },
+    {
+      "id": "P2_MICROINTERACTION_OR_ROUTINE_FEEDBACK",
+      "reason": "Buttons, toggles, hover/focus states, menus, tooltips, popovers, toasts and routine control feedback are not context replacement."
+    },
+    {
+      "id": "P3_MODAL_OR_OVERLAY_ENTRY",
+      "reason": "An overlay adds a layer rather than replacing the established context; CS2 would misstate the relationship."
+    },
+    {
+      "id": "P4_FEED_LIST_ITEM_OR_CARD_UPDATES",
+      "reason": "Element-level arrivals/updates would turn CS2 into generic UI shimmer and reintroduce micro-motion fatigue."
+    },
+    {
+      "id": "P5_FALSE_PROCESS_CAUSAL_OR_PRIORITY_STATE",
+      "reason": "CS2 cannot imply that a task, model, provider, character or system stage completed merely because the visible context changed."
+    },
+    {
+      "id": "P6_DECORATIVE_LOOP_OR_AMBIENT_CROSSFADE",
+      "reason": "CS2 is state-bound one-shot identity choreography, not continuous ambient animation."
+    }
+  ],
+  "repetition_and_interruption": {
+    "later_distinct_shift": "A later separately committed context shift may use CS2 again if it independently satisfies the envelope.",
+    "rapid_retargeting": "If a new authoritative context arrives while CS2 is active, cancel all stale CS2 effects and render the newest context directly. Do not crossfade from an intermediate blend and do not queue completion.",
+    "retrigger": "No hover/focus/reflow retrigger. Replay in research fixtures is diagnostic only."
+  },
+  "visual_restraint": {
+    "field_count": 2,
+    "geometry": "fixed host; no animated geometry",
+    "properties": ["opacity only"],
+    "simultaneity": "outgoing and incoming begin together",
+    "relative_weight": "balanced exchange; neither field receives a sequential onset advantage",
+    "legibility_floor": "If simultaneous overlap produces visible fatigue or content interference, use CUT."
+  },
+  "research_fixture_non_authority": {
+    "duration_ms": 280,
+    "easing": "cubic-bezier(0.2,0,0,1)",
+    "note": "Q-DESIGN-16 exemplars may reuse these Q-DESIGN-15 comparison fixtures solely to isolate the use envelope. They do not become production tokens."
+  },
+  "exemplar_plan": {
+    "cases": [
+      {"id":"A1_READY_PEER_CONTEXT","classification":"ALLOW","tests":"clean peer replacement in stable geometry","execution":"conforming CS2"},
+      {"id":"A2_READY_MODE_PERSPECTIVE","classification":"ALLOW_WITH_RESTRAINT","tests":"meaningful mode/perspective swap without loading or direction","execution":"conforming CS2"},
+      {"id":"A3_EDITORIAL_FIELD","classification":"ALLOW_WITH_RESTRAINT","tests":"expressive website context replacement with moderate structural difference","execution":"conforming CS2"},
+      {"id":"N1_LOADING_DISGUISE","classification":"PROHIBIT","tests":"attempted use around unavailable/loading content","execution":"intentional labeled CS2 violation for review only; authoritative behavior is no CS2"},
+      {"id":"N2_DENSE_TEXT_GHOSTING","classification":"CUT_FALLBACK","tests":"both contexts ready but overlap creates double-text fatigue","execution":"intentional labeled CS2 violation for review only; authoritative behavior is CUT"},
+      {"id":"N3_OVERLAY_ENTRY","classification":"PROHIBIT","tests":"modal/overlay adds a layer rather than replacing context","execution":"intentional labeled CS2 violation for review only; authoritative behavior is no CS2"}
+    ],
+    "negative_control_law": "Negative/CUT controls may intentionally execute exactly one named envelope violation so Director + Design Sol can inspect why the use is tiring or semantically wrong. They are labeled NON-COMPLIANT REVIEW CONTROLS and create no implementation authority.",
+    "contexts": ["APP", "WEB"],
+    "viewports": ["WIDE", "REFLOW_320"],
+    "full_cells": 24,
+    "reduced_cells": 24,
+    "mechanical_interruption_test": "For each context/viewport, start an eligible CS2 and retarget before completion; expected result is immediate cancellation and CUT to newest context with zero stale queued completion."
+  },
+  "preflight_requirements": [
+    "exact 24 FULL exemplar cells and 24 reduced-motion cells",
+    "zero autoplay and zero loops",
+    "eligible CS2 cases use exactly two simultaneous field-level opacity effects and no transform/blur/scale/stagger",
+    "negative controls are explicitly labeled non-compliant and execute only the single violation named by their case; their recommended behavior remains CUT/no-CS2",
+    "incoming semantic/interaction ownership is authoritative at transition start and remains authoritative after completion",
+    "320px surfaces have no horizontal overflow",
+    "reduced motion creates zero animations for every case and renders identical final information/function/state",
+    "retarget test cancels stale CS2 and cuts directly to newest context",
+    "no F1A effect exists in any CS2 exemplar",
+    "source hashes and host/browser provenance are frozen before Director adjudication"
+  ],
+  "review": {
+    "process": "direct Design Sol + Director adjudication",
+    "design_sol_view_must_precede_director_input": true,
+    "question": "Do the allowed cases preserve CS2's calm/magical context-boundary quality while the prohibited/CUT controls visibly demonstrate where crossfade becomes tiring or semantically wrong?",
+    "no_post_view_retuning": true
+  },
+  "non_authority": [
+    "production duration/easing/opacity tokens",
+    "universal screen/page crossfade rule",
+    "app/site/navigation implementation",
+    "F1A cadence revision",
+    "Character/Scene/Stage/Performance/Take/Opportunity motion",
+    "final motion system",
+    "final identity",
+    "Phase-C convergence"
+  ],
+  "recursive_audit": {
+    "result": "CLEAN_AFTER_PRE_EXEMPLAR_CORRECTION",
+    "notes": [
+      "The envelope protects the Director's low-fatigue preference by making visual interference itself a CUT trigger.",
+      "Atomic semantic ownership prevents the fading outgoing field from remaining falsely actionable/current.",
+      "The contract does not turn comparison timing/easing into production tokens.",
+      "Negative controls are permitted to show one labeled violation so the use boundary can be judged rather than merely asserted.",
+      "No Stage or product-state semantics are inferred from the visual mechanism."
+    ]
+  }
+}
