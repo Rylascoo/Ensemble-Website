@@ -2,7 +2,7 @@
 
 # Ensemble Website — Current State
 
-Updated: 2026-09-08
+Updated: 2026-09-09
 
 ## Authority
 Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`. This file alone owns volatile design phase/current-boundary state.
@@ -11,20 +11,20 @@ Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/
 `main` is authoritative. `site/` is the only deployable/public website root; product/backend remains in `Rylascoo/Ensemble-Project`. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
 
 ## Hero — STATIC RESEARCH PAUSED
-Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01 + ODR-33 remain unchanged. No final hero is selected. Reopening law: `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
+Frozen Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01 + ODR-33 remain unchanged. No final hero. Reopening law: `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
 
-## Shared brand — TYP-01 CLOSED / ZERO SURVIVORS PRE-SCORING
-TYP-01 method: `docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json`. Frozen execution defaults: `TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json` + pre-render residual `TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json` in `docs/evidence/`. Result: `docs/evidence/TYP_01_PREFLIGHT_FAILURE_AND_TERMINATION_01.json`; durable closure: Design Ledger L-035.
+## Shared brand — TYP-01 CLOSED / MOT-01 SELECTED
+TYP-01 closed with zero surviving scored families before blinded review under its frozen accessibility contract; no scores exist and no reroll/refinement is authorized. Result: `docs/evidence/TYP_01_PREFLIGHT_FAILURE_AND_TERMINATION_01.json` / Design Ledger L-035.
 
-The exact 24-specimen packet passed cardinality, content/isolation, neutral reference-face, contrast, structural APP scannability and cross-context invariants, but failed accessibility preflight. Every scored family F1-F4 horizontally overflowed at 320px under the frozen 200% resize condition. A hosted all-24 conformance audit found no overflow-relevant deviation from frozen frame, padding, measure, context-multiplier, font-size or natural-wrapping rules.
+Q-DESIGN-07 fresh orthogonal audit is complete: `docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_02.txt`. It rejects cadence/information-density as a disguised TYP-01 reroll, preserves current symbol/wordmark/material/Character/static-world evidence as bounded controls/history, and selects **MOT-01 — Cross-Surface Motion Signature Independence** as the next SHARED BRAND question.
 
-Frozen law makes any accessibility-floor failure a hard failure and requires every family to pass all accessibility checks. TYP-01 therefore closes with zero surviving scored families **before blinded scoring**. No reviewer scores exist; no family refinement/reroll is authorized. This closes only TYP-01 strong-independence under this contract; it does not establish that typography cannot contribute to Kymaean identity.
+MOT-01 may test only abstract cross-surface motion identity. It has **no transcript-dependent Stage-motion authority**: no Character/Scene/Performance/Take/Opportunity timing, no product-state transition design, and no production duration/easing tokens. Historical M0 concepts are provenance only, not candidates.
 
-No final typography/typeface, identity, hero, symbol, wordmark, palette/material family, website/app visual system or motion system is selected.
+No final typography/typeface, motion system, identity, hero, symbol, wordmark, palette/material family, website surface or app visual system is selected.
 
 ## Exact next action / hard boundary
-Conduct a **fresh Phase-B orthogonal shared-brand question audit**. Do not reopen hero research or resume TYP-01 scoring/refinement/rerolling.
+Construct the **MOT-01 non-render method contract and deterministic dual-context temporal specimen matrix**. Freeze neutral carriers, ordinary/reduced-motion conditions, controls, disjoint motion families, WEB/APP amplitude adaptation, fixture-only timing provenance, current motion-accessibility floors, blinding/falsification and zero-survivor/no-reroll law before any specimen execution.
 
-No image generation/renderer spend, final identity decisions, O3/Threshold-K redesign, palette/material reopening, Quiet-Stage/hero refinement, app implementation, website production/deployment or transcript-dependent Stage motion unless the new Phase-B question separately authorizes it.
+No image/video generation, renderer spend, motion-specimen execution, final motion/timing tokens, transcript-dependent Stage motion, TYP-01 reroll, hero reopening, O3/Threshold-K redesign, palette/material reopening, app implementation or website production/deployment.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
