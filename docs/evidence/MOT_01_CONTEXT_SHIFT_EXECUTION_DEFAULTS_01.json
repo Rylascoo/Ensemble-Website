@@ -1,0 +1,87 @@
+{
+  "schema": "kymaean.mot01.context-shift-execution-defaults.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-15",
+  "status": "FROZEN_BEFORE_SPECIMEN_EXECUTION",
+  "parent_contract": "docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json",
+  "purpose": "Freeze neutral fixture values so the comparison isolates transition mechanism rather than speed, easing, amplitude, or layout differences.",
+  "shared_fixture": {
+    "duration_ms": 280,
+    "easing": "cubic-bezier(0.2,0,0,1)",
+    "app_translation_px": 16,
+    "web_translation_px": 32,
+    "iterations": 1,
+    "fill": "forwards",
+    "delay_ms": 0,
+    "autoplay": false,
+    "loop": false,
+    "element_level_stagger": false
+  },
+  "mechanisms": {
+    "CS0_CUT": {
+      "duration_ms": 0,
+      "outgoing": "remove synchronously",
+      "incoming": "render final state synchronously",
+      "animations": 0
+    },
+    "CS1_SYNCHRONIZED_SETTLE": {
+      "outgoing": "no animated choreography; removed before incoming treatment begins",
+      "incoming": "one field-level translateY from negative context amplitude to 0",
+      "opacity": "constant 1",
+      "animations": 1
+    },
+    "CS2_BALANCED_EXCHANGE": {
+      "outgoing": "one field-level opacity animation 1 to 0",
+      "incoming": "one field-level opacity animation 0 to 1",
+      "geometry": "fixed",
+      "animations": 2
+    },
+    "CS3_OPPOSED_FIELD_EXCHANGE": {
+      "outgoing": "one field-level translateY from 0 to positive context amplitude",
+      "incoming": "one field-level translateY from negative context amplitude to 0",
+      "opacity": "constant 1",
+      "animations": 2
+    }
+  },
+  "layout": {
+    "wide_surface_width_px": 640,
+    "reflow_surface_width_px": 320,
+    "surface_min_height_px": 250,
+    "field_geometry": "Outgoing and incoming fields occupy the same fixed content frame. Neutral content density and structure are identical across candidates.",
+    "context_adaptation": "Only transform amplitude changes between APP and WEB for CS1/CS3. Timing/easing/content/layout remain invariant."
+  },
+  "replay": {
+    "activation": "Cancel any existing candidate animations, restore Context A synchronously, then execute exactly one transition to Context B.",
+    "interruption": "A new replay or authoritative state change cancels stale animation immediately. No queued completion or aesthetic catch-up.",
+    "focus": "Replay control retains focus throughout."
+  },
+  "reduced_motion": {
+    "behavior": "Cancel any active transition animation and render Context B synchronously.",
+    "animations_created": 0,
+    "semantic_equivalence": "Context B content, function and state are identical to the full-motion final state."
+  },
+  "preflight_assertions": [
+    "16 unique FULL matrix cells: CS0-CS3 × APP/WEB × WIDE/320.",
+    "The same 16 cells pass forced reduced motion.",
+    "No candidate autoplays or loops.",
+    "No field contains element-level animation or nonzero delay.",
+    "CS0 creates zero animations.",
+    "CS1 creates exactly one incoming field animation and no outgoing animation.",
+    "CS2 creates exactly two simultaneous field opacity animations.",
+    "CS3 creates exactly two simultaneous field transform animations.",
+    "Animated candidates use exactly 280 ms and cubic-bezier(0.2,0,0,1).",
+    "CS1/CS3 translation amplitude is exactly 16px APP and 32px WEB.",
+    "320px surfaces have no horizontal overflow.",
+    "Replay retains keyboard focus.",
+    "Final Context B state is equivalent under FULL and REDUCED modes."
+  ],
+  "non_authority": [
+    "production duration/easing/displacement tokens",
+    "app/site/navigation implementation",
+    "F1A cadence revision",
+    "Character/Scene/Stage/Performance/Take/Opportunity motion",
+    "final motion system",
+    "final identity",
+    "Phase-C convergence"
+  ]
+}
