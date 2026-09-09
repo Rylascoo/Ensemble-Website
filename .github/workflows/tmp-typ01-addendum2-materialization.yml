@@ -1,0 +1,35 @@
+name: Temporary TYP-01 Addendum 02 materialization
+
+on:
+  push:
+    branches:
+      - tmp/typ01-harness-materialization
+
+permissions:
+  contents: write
+
+jobs:
+  materialize-addendum:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Extract and preserve Addendum 02 for provenance audit
+        shell: bash
+        run: |
+          cat .tmp/typ01-bundle.part-* > /tmp/typ01-bundle.b64
+          test "$(wc -c < /tmp/typ01-bundle.b64)" -eq 16804
+          test "$(sha256sum /tmp/typ01-bundle.b64 | awk '{print $1}')" = "a72eeecd655d1590fda320d9ccaddf3c9ffc38e2052538f82e6b99c6b7f93e5f"
+          base64 -d /tmp/typ01-bundle.b64 > /tmp/typ01-bundle.tar.gz
+          gzip -t /tmp/typ01-bundle.tar.gz
+          tar -xzf /tmp/typ01-bundle.tar.gz docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json
+          python -m json.tool docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json >/dev/null
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json
+          git diff --cached --exit-code && exit 0
+          git commit -m "tmp: expose TYP-01 Addendum 02 for provenance audit"
+          git push origin HEAD:tmp/typ01-harness-materialization
