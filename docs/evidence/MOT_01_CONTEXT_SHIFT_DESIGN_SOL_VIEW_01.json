@@ -1,0 +1,63 @@
+{
+  "schema": "kymaean.mot01.context-shift-design-sol-view.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-15",
+  "status": "FROZEN_BEFORE_DIRECTOR_INPUT",
+  "preflight_evidence": "docs/evidence/MOT_01_CONTEXT_SHIFT_PREFLIGHT_01.json",
+  "selection_cap": 1,
+  "design_sol_preference": "CS2_BALANCED_EXCHANGE",
+  "name": "Balanced Crossfade Exchange",
+  "rationale": [
+    "It distinguishes a genuine context replacement from F1A within-context succession without borrowing F1A's ordered onset grammar.",
+    "Outgoing and incoming contexts participate on equal timing, so the motion reads as exchange rather than arrival, completion order or causal sequence.",
+    "Fixed geometry and opacity-only change introduce no directional, depth or navigation claim that the product state does not establish.",
+    "The mechanism is identical across APP and WEB rather than relying on surface-specific amplitude, strengthening cross-surface semantic invariance.",
+    "It remains compatible with the reduced-motion law because the motion carries boundary emphasis rather than unique state information."
+  ],
+  "candidate_assessment": {
+    "CS0_CUT": {
+      "assessment": "VALID_CONTROL_AND_FALLBACK",
+      "notes": "Semantically exact and maximally restrained, but supplies no full-motion visual distinction beyond the state replacement itself. Retain as the valid none/cut outcome."
+    },
+    "CS1_SYNCHRONIZED_SETTLE": {
+      "assessment": "VIABLE_SECONDARY",
+      "notes": "Clearly distinct from F1A and structurally clean, but the incoming-only directional settle can read as arrival, entrance or loading rather than a neutral exchange between already-ready contexts."
+    },
+    "CS2_BALANCED_EXCHANGE": {
+      "assessment": "PREFERRED",
+      "notes": "Best semantic fit under the frozen question: whole-context, simultaneous, non-directional and non-sequential. Its generic restraint is acceptable because Q-DESIGN-15 tests context-shift differentiation, not final branded-motion distinctiveness."
+    },
+    "CS3_OPPOSED_FIELD_EXCHANGE": {
+      "assessment": "NOT_PREFERRED",
+      "notes": "The vertical opposition introduces spatial/navigation/depth implications. In the neutral fixture the opaque incoming field also masks much of the outgoing travel, so the stronger semantic claim does not buy commensurate boundary legibility."
+    }
+  },
+  "cross_surface_review": {
+    "APP_WIDE": "CS2 remains clear and non-directional.",
+    "WEB_WIDE": "CS2 remains clear and non-directional; unlike CS1/CS3 it does not become semantically stronger merely because WEB amplitude is larger.",
+    "APP_320": "CS2 remains legible in the reflow fixture with no overflow or added ordering cue.",
+    "WEB_320": "CS2 remains legible in the reflow fixture with no overflow or added ordering cue."
+  },
+  "no_retune_after_view": true,
+  "director_decision_pending": true,
+  "decision_options": [
+    "Confirm CS2 Balanced Crossfade Exchange",
+    "Select CS1 Synchronized Field Settle",
+    "Select CS3 Simultaneous Opposed-Field Exchange",
+    "Select CS0 Immediate Cut / no animated treatment",
+    "Reject the frozen comparison if a bounded use-law defect is identified"
+  ],
+  "non_authority": [
+    "production duration/easing/displacement tokens",
+    "app/site/navigation implementation",
+    "F1A cadence revision",
+    "Character/Scene/Stage/Performance/Take/Opportunity motion",
+    "final motion system",
+    "final identity",
+    "Phase-C convergence"
+  ],
+  "recursive_audit": {
+    "result": "CLEAN",
+    "notes": "Preference was frozen only after the valid structural/reduced-motion preflight and deterministic temporal review captures, and before any Director input on the candidate comparison."
+  }
+}
