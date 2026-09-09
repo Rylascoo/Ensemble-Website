@@ -671,3 +671,21 @@ No reviewer has been exposed to the packet and no score, rank, candidate survivo
 **Guardrail:** no unblinding before the frozen review step permits it; no evidence-aware family tuning, F5, reroll, timing retune, final motion tokens, transcript-dependent Stage motion, app implementation, website production/deployment, hero reopening, TYP-01 reroll or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-040 — MOT-01 blinded primary-review instrument is frozen
+
+**State:** Q-DESIGN-10 ACTIVE / REVIEW INSTRUMENT FROZEN / 0 OF 3 PRIMARY RECORDS / NO UNBLINDING / NO CONVERGENCE
+
+`docs/evidence/MOT_01_BLINDED_PRIMARY_REVIEW_INSTRUMENT_01.json` freezes the collection format for the unchanged L-037 MOT-01 review law against the exact c399 packet. It contains no anonymous-to-family mapping and creates no new family, score, threshold, pass rule or termination rule.
+
+Each reviewer first creates six WEB↔APP pairings at WIDE and six at REFLOW_320. An explicitly unscored cross-width grouping then matches those viewport-level pairs into reviewer-local G1-G6 mechanism groups so the already-required candidate-level R3/R4/R5 judgments can each consider all four anonymous context/viewport specimens. The forced R3 categories and R4/R5 0–2 scales are copied unchanged from L-037.
+
+Three distinct primary records remain mandatory. At most one may be from a construction author and at least one must be from the Director or another independent human visual reviewer. In this specific run Design Sol is **ineligible** to supply a primary record because the construction/preflight process exposed implementation-level anonymous-to-mechanism mapping; using that allowance would therefore break the blind condition.
+
+To preserve immutability, each logical primary record has a pre-reveal R1-R5 JSON and a later R6 addendum referencing the pre-reveal SHA-256. All three R1-R5 records must be frozen before any primary reviewer receives R6 product context. R6 reveals only the Kymaean/MOT-01 product-context question; family/source mapping remains hidden until a later successor gate.
+
+Q-DESIGN-10 closes only after three valid logical primary records are durably frozen. It does not authorize unblinding, control calibration, aggregation, candidate pass/fail, family selection, retuning/F5, production motion tokens, Q-DESIGN-02 Stage motion, app implementation, website production/deployment or Phase-C convergence.
+
+**Next gate:** collect the three genuinely blinded primary records against the exact frozen packet. The first Director/independent-human judgment is a real human evidence boundary and cannot be synthesized by this construction process.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
