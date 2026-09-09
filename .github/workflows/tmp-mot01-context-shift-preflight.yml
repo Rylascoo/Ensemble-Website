@@ -1,0 +1,126 @@
+name: Temporary MOT-01 context-shift preflight
+
+on:
+  push:
+    branches:
+      - tmp/mot01-context-shift-preflight
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Resolve baked-in Chrome harness
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p artifacts
+          npm install --no-save playwright-core@1.55.0
+          browser="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || command -v chromium || true)"
+          test -n "$browser"
+          echo "CHROME_PATH=$browser" >> "$GITHUB_ENV"
+          "$browser" --version | tee artifacts/chrome-version.txt
+      - name: Run deterministic full + reduced-motion preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m http.server 4173 --bind 127.0.0.1 >artifacts/http.log 2>&1 &
+          server_pid=$!
+          trap 'kill $server_pid || true' EXIT
+          for i in {1..40}; do curl -fsS http://127.0.0.1:4173/prototypes/mot-01/context-shift/comparison.html >/dev/null && break; sleep .25; done
+          node <<'NODE'
+          const { chromium } = require('playwright-core');
+          const fs = require('fs');
+          const path = require('path');
+          const WIDTH={WIDE:640,REFLOW_320:320}, DY={APP:16,WEB:32};
+          const IDS=['CS0_CUT','CS1_SYNCHRONIZED_SETTLE','CS2_BALANCED_EXCHANGE','CS3_OPPOSED_FIELD_EXCHANGE'];
+          function fail(m){throw new Error(m)}
+          function near(a,b,t=.8){return Math.abs(Number(a)-Number(b))<=t}
+          function easingOK(x){return x==='cubic-bezier(0.2, 0, 0, 1)'||x==='cubic-bezier(0.2,0,0,1)'}
+          function oneTiming(e,key){if(Number(e.delay)!==0||Number(e.duration)!==280||!easingOK(e.easing)||e.fill!=='forwards')fail(`${key} timing mismatch ${JSON.stringify(e)}`)}
+          function validate(report,reduced){
+            if(report.reduced!==reduced)fail(`reduced mismatch ${report.reduced}`);
+            if(!Array.isArray(report.rows)||report.rows.length!==16)fail(`expected 16 rows, got ${report.rows?.length}`);
+            const keys=new Set();
+            for(const r of report.rows){
+              if(keys.has(r.key))fail(`duplicate ${r.key}`);keys.add(r.key);
+              if(!IDS.includes(r.id))fail(`unknown id ${r.id}`);
+              if(r.width!==WIDTH[r.view])fail(`${r.key} width ${r.width}`);
+              if(r.scrollWidth>r.width+1)fail(`${r.key} horizontal overflow ${r.scrollWidth}>${r.width}`);
+              if(r.initialAnimations!==0)fail(`${r.key} autoplay/initial animation`);
+              if(!r.focusBefore||!r.focusAfter)fail(`${r.key} replay focus moved`);
+              if(!r.final||!r.final.a||!r.final.b)fail(`${r.key} final state missing`);
+              if(r.final.a.pointerEvents!=='none'||r.final.b.pointerEvents!=='auto')fail(`${r.key} final interaction ownership ${r.final.a.pointerEvents}/${r.final.b.pointerEvents}`);
+              if(!near(r.final.b.y,0)||!near(r.final.b.opacity,1,.001))fail(`${r.key} final Context B mismatch`);
+              const ac=r.aEffects.length,bc=r.bEffects.length,total=ac+bc;
+              if(reduced){if(r.animationsAfter!==0||total!==0)fail(`${r.key} reduced motion animated`);continue;}
+              if(r.id==='CS0_CUT'){
+                if(r.animationsAfter!==0||total!==0)fail(`${r.key} cut created animation`);
+                if(!near(r.final.a.opacity,0,.001))fail(`${r.key} cut outgoing remains visible`);
+              } else if(r.id==='CS1_SYNCHRONIZED_SETTLE'){
+                if(r.animationsAfter!==1||ac!==0||bc!==1)fail(`${r.key} CS1 count ${r.animationsAfter}/${ac}/${bc}`);
+                oneTiming(r.bEffects[0],r.key);
+                const k=r.bEffects[0].keyframes;
+                if(k.length<2||k[0].transform!==`translateY(-${DY[r.ctx]}px)`||k[k.length-1].transform!=='translateY(0px)')fail(`${r.key} CS1 amplitude/keyframes ${JSON.stringify(k)}`);
+                if(!near(r.final.a.opacity,0,.001))fail(`${r.key} CS1 outgoing remains visible`);
+              } else if(r.id==='CS2_BALANCED_EXCHANGE'){
+                if(r.animationsAfter!==2||ac!==1||bc!==1)fail(`${r.key} CS2 count ${r.animationsAfter}/${ac}/${bc}`);
+                oneTiming(r.aEffects[0],r.key);oneTiming(r.bEffects[0],r.key);
+                const ak=r.aEffects[0].keyframes,bk=r.bEffects[0].keyframes;
+                if(Number(ak[0].opacity)!==1||Number(ak[ak.length-1].opacity)!==0||Number(bk[0].opacity)!==0||Number(bk[bk.length-1].opacity)!==1)fail(`${r.key} CS2 opacity keyframes`);
+                if(!near(r.final.a.opacity,0,.001))fail(`${r.key} CS2 outgoing remains visible`);
+              } else if(r.id==='CS3_OPPOSED_FIELD_EXCHANGE'){
+                if(r.animationsAfter!==2||ac!==1||bc!==1)fail(`${r.key} CS3 count ${r.animationsAfter}/${ac}/${bc}`);
+                oneTiming(r.aEffects[0],r.key);oneTiming(r.bEffects[0],r.key);
+                const ak=r.aEffects[0].keyframes,bk=r.bEffects[0].keyframes;
+                if(ak[0].transform!=='translateY(0px)'||ak[ak.length-1].transform!==`translateY(${DY[r.ctx]}px)`||bk[0].transform!==`translateY(-${DY[r.ctx]}px)`||bk[bk.length-1].transform!=='translateY(0px)')fail(`${r.key} CS3 amplitude/keyframes`);
+              }
+            }
+            return {rows:report.rows.length,userAgent:report.userAgent,platform:report.platform};
+          }
+          (async()=>{
+            const browser=await chromium.launch({executablePath:process.env.CHROME_PATH,headless:true,args:['--no-sandbox']});
+            const summaries={};
+            for(const [name,reduced] of [['FULL',false],['REDUCED',true]]){
+              const context=await browser.newContext({reducedMotion:reduced?'reduce':'no-preference',viewport:{width:1440,height:1000}});
+              const page=await context.newPage();
+              await page.goto('http://127.0.0.1:4173/prototypes/mot-01/context-shift/comparison.html?diagnostic=1',{waitUntil:'load'});
+              await page.waitForFunction(()=>document.querySelector('#diagnostic-report')?.textContent?.startsWith('{'));
+              const report=JSON.parse(await page.locator('#diagnostic-report').textContent());
+              summaries[name]=validate(report,reduced);
+              fs.writeFileSync(path.join('artifacts',`${name.toLowerCase()}-diagnostic.json`),JSON.stringify(report,null,2));
+              await context.close();
+            }
+            const review=await browser.newContext({reducedMotion:'no-preference',viewport:{width:1440,height:1000}});
+            const page=await review.newPage();
+            await page.goto('http://127.0.0.1:4173/prototypes/mot-01/context-shift/comparison.html',{waitUntil:'load'});
+            for(const ctx of ['APP','WEB']){
+              await page.getByRole('button',{name:ctx,exact:true}).click();
+              for(const [label,file] of [['WIDE','WIDE'],['320','REFLOW_320']]){
+                await page.getByRole('button',{name:label,exact:true}).click();
+                await page.screenshot({path:`artifacts/${ctx}-${file}-initial.png`,fullPage:true});
+                await page.getByRole('button',{name:'Replay all',exact:true}).click();
+                await page.evaluate(()=>{for(const a of document.getAnimations())a.currentTime=140});
+                await page.screenshot({path:`artifacts/${ctx}-${file}-midpoint.png`,fullPage:true});
+              }
+            }
+            await review.close();await browser.close();
+            fs.writeFileSync('artifacts/preflight-summary.json',JSON.stringify({schema:'kymaean.mot01.context-shift-preflight.v1',result:'PASS',summaries},null,2));
+          })().catch(e=>{console.error(e.stack||e);process.exit(1)});
+          NODE
+          sha256sum prototypes/mot-01/context-shift/comparison.html prototypes/mot-01/context-shift/manifest.json docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json docs/evidence/MOT_01_CONTEXT_SHIFT_EXECUTION_DEFAULTS_01.json > artifacts/source-sha256.txt
+          cat artifacts/preflight-summary.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: mot01-context-shift-preflight
+          path: artifacts
+          if-no-files-found: error
