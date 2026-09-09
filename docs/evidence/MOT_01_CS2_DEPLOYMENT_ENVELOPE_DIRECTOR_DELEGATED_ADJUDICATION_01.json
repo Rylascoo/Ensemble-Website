@@ -1,0 +1,43 @@
+{
+  "schema": "kymaean.mot01.cs2-envelope-director-delegated-adjudication.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-16",
+  "status": "CLOSED_APPROVED_BY_DIRECTOR_DELEGATION_TO_DESIGN_SOL_JUDGMENT",
+  "website_review_checkpoint": "b24ca7ce1f9c20f3042b6f63193657acab66a559",
+  "mechanical_evidence": "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_EXEMPLAR_PREFLIGHT_01.json",
+  "design_sol_pre_director_view": "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_DESIGN_SOL_VIEW_01.json",
+  "director_input": {
+    "summary": "The Director stated that the exemplar situations and contextual distinctions were confusing in detail, but explicitly trusted Design Sol's judgment on this task because Design Sol had a clear vision for distinguishing contexts and preserving the user experience.",
+    "authority_effect": "The Director delegated resolution of this frozen use-envelope gate to Design Sol's already-frozen recommendation. This is not represented as independent Director scoring of each exemplar.",
+    "prior_relevant_preference": "The Director previously selected CS2 for its easy-on-the-eyes, low-micro-twitch-fatigue, gentle mysterious / slightly magical quality."
+  },
+  "adjudication": {
+    "A1_READY_PEER_CONTEXT": "APPROVE",
+    "A2_READY_MODE_PERSPECTIVE": "APPROVE_WITH_RESTRAINT",
+    "A3_EDITORIAL_FIELD": "APPROVE_WITH_RESTRAINT",
+    "N1_LOADING_DISGUISE": "PROHIBIT",
+    "N2_DENSE_TEXT_GHOSTING": "CUT_FALLBACK",
+    "N3_OVERLAY_ENTRY": "PROHIBIT"
+  },
+  "approved_law": {
+    "CS2": "Balanced Crossfade Exchange is the provisional shared-brand treatment for eligible already-ready genuine context replacement only.",
+    "F1A": "F1A Tight remains the provisional bounded within-context succession treatment; F1A and CS2 must not explain the same transition event.",
+    "CUT": "CUT is a first-class outcome whenever incoming content is not ready, overlap becomes visually fatiguing, semantics are not replacement, motion is reduced, a transition is interrupted/retargeted, host geometry materially changes, directional/history semantics are required, or interaction/focus truth cannot remain correct.",
+    "semantic_truth": "Incoming semantic and interaction ownership is authoritative independently of the visual fade and commits at transition start for eligible CS2; animation never delays or overrides state truth."
+  },
+  "why": [
+    "A1 best preserves CS2's calm and slightly magical context-boundary character.",
+    "A2 and A3 remain truthful but should be scarce enough that CS2 retains identity value rather than becoming generic decoration.",
+    "N1 is semantically dangerous because a pleasant fade can disguise unavailable/loading content as meaningful transformation.",
+    "N2 turns softness into competing letterforms and perceptual interference, violating the Director's low-fatigue preference.",
+    "N3 falsely describes an added overlay as replacement of the underlying context."
+  ],
+  "non_authority": [
+    "280 ms duration and comparison easing remain research fixtures, not production tokens.",
+    "No universal screen/page crossfade rule is created.",
+    "No app/site/navigation implementation is authorized.",
+    "No Character/Scene/Stage/Performance/Take/Opportunity motion is authorized.",
+    "No final motion system, final identity or Phase-C convergence is created."
+  ],
+  "program_disposition": "MOT-01 closes as a successful bounded shared-brand motion-independence program with provisional F1A and CS2 mechanism evidence plus explicit CUT law. Future production-token work remains separately gated."
+}
