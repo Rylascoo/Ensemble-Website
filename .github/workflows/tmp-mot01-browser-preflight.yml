@@ -1,0 +1,260 @@
+name: Temporary MOT-01 browser preflight
+
+on:
+  push:
+    branches:
+      - tmp/mot01-preflight-materialize
+
+permissions:
+  contents: write
+
+jobs:
+  preflight:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Freeze environment then execute structural and accessibility preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+          BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
+          test -n "$BROWSER"
+          export BROWSER_VERSION="$($BROWSER --version)"
+          export OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
+          printf 'BROWSER=%s\nOS=%s\n' "$BROWSER_VERSION" "$OS_PRETTY"
+
+          cat > /tmp/mot01-env-probe.html <<'EOF'
+          <!doctype html><html><body><span id="p" style="font-family:system-ui,sans-serif">probe</span><pre id="environment"></pre><script>document.getElementById('environment').textContent=JSON.stringify({userAgent:navigator.userAgent,platform:navigator.platform,devicePixelRatio,computedFontFamily:getComputedStyle(document.getElementById('p')).fontFamily,innerWidth,innerHeight});</script></body></html>
+          EOF
+          "$BROWSER" --headless=new --no-sandbox --disable-gpu --user-data-dir=/tmp/mot01-env-profile --dump-dom "file:///tmp/mot01-env-probe.html" > /tmp/mot01-env-dump.html 2>/tmp/mot01-env-browser.log
+
+          python - <<'PY'
+          import hashlib, html.parser, json, os
+          from pathlib import Path
+
+          class Grab(html.parser.HTMLParser):
+              def __init__(self, target):
+                  super().__init__(); self.target=target; self.on=False; self.parts=[]
+              def handle_starttag(self, tag, attrs):
+                  if tag=='pre' and dict(attrs).get('id')==self.target: self.on=True
+              def handle_endtag(self, tag):
+                  if tag=='pre' and self.on: self.on=False
+              def handle_data(self, data):
+                  if self.on: self.parts.append(data)
+          g=Grab('environment'); g.feed(Path('/tmp/mot01-env-dump.html').read_text(errors='replace'))
+          env=json.loads(''.join(g.parts))
+          env['browser_version']=os.environ['BROWSER_VERSION']
+          env['os_pretty']=os.environ['OS_PRETTY']
+          Path('/tmp/mot01-environment.json').write_text(json.dumps(env,indent=2)+'\n')
+
+          root=Path('prototypes/mot-01')
+          def sha(path): return hashlib.sha256(path.read_bytes()).hexdigest()
+          m=json.loads((root/'manifest.json').read_text())
+          m['status']='ENVIRONMENT_AND_SOURCE_FROZEN_BEFORE_TEMPORAL_PREFLIGHT'
+          m['environment']=env
+          m['source_sha256']={
+              'harness.html':sha(root/'harness.html'),
+              'reviewer.html':sha(root/'reviewer.html'),
+              'blinding-key.json':sha(root/'blinding-key.json')
+          }
+          m['reviewer_exposure']=False
+          m['scoring_performed']=False
+          (root/'manifest.json').write_text(json.dumps(m,indent=2)+'\n')
+          freeze={name:sha(root/name) for name in ['harness.html','reviewer.html','manifest.json','blinding-key.json']}
+          Path('/tmp/mot01-source-freeze.json').write_text(json.dumps(freeze,indent=2)+'\n')
+          print('MOT01_ENVIRONMENT_FROZEN=PASS')
+          print('MOT01_SOURCE_FREEZE='+json.dumps(freeze,separators=(',',':')))
+          PY
+
+          FULL_URL="file://$PWD/prototypes/mot-01/harness.html?diagnostic=1"
+          "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --run-all-compositor-stages-before-draw --virtual-time-budget=3000 --user-data-dir=/tmp/mot01-full-profile --dump-dom "$FULL_URL" > /tmp/mot01-full.html 2>/tmp/mot01-full-browser.log
+          "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --run-all-compositor-stages-before-draw --virtual-time-budget=3000 --force-prefers-reduced-motion --user-data-dir=/tmp/mot01-reduced-profile --dump-dom "$FULL_URL" > /tmp/mot01-reduced.html 2>/tmp/mot01-reduced-browser.log
+
+          python - <<'PY'
+          import hashlib, html.parser, json, math, re
+          from pathlib import Path
+
+          root=Path('prototypes/mot-01')
+          method=json.loads(Path('docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json').read_text())
+          add=json.loads(Path('docs/evidence/MOT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json').read_text())
+          key=json.loads((root/'blinding-key.json').read_text())
+          manifest=json.loads((root/'manifest.json').read_text())
+          freeze=json.loads(Path('/tmp/mot01-source-freeze.json').read_text())
+
+          class Grab(html.parser.HTMLParser):
+              def __init__(self): super().__init__(); self.on=False; self.parts=[]
+              def handle_starttag(self,tag,attrs):
+                  if tag=='pre' and dict(attrs).get('id')=='diagnostic-report': self.on=True
+              def handle_endtag(self,tag):
+                  if tag=='pre' and self.on: self.on=False
+              def handle_data(self,data):
+                  if self.on:self.parts.append(data)
+          def report(path):
+              g=Grab();g.feed(Path(path).read_text(errors='replace'))
+              raw=''.join(g.parts).strip()
+              if not raw: raise RuntimeError(f'no diagnostic report in {path}')
+              return json.loads(raw)
+          full=report('/tmp/mot01-full.html'); reduced=report('/tmp/mot01-reduced.html')
+
+          failures=[]
+          per={}
+          tol=0.06
+          def fail(msg): failures.append(msg)
+          def norm(v): return re.sub(r'\s+','',str(v))
+          def near(a,b,t=1e-6): return abs(float(a)-float(b))<=t
+          expected_ids=set(key['mapping'])
+          if {x['id'] for x in full['specimens']}!=expected_ids: fail('FULL matrix membership mismatch')
+          if {x['id'] for x in reduced['specimens']}!=expected_ids: fail('REDUCED matrix membership mismatch')
+          if full.get('reduced') is not False: fail('FULL host unexpectedly reports reduced motion')
+          if reduced.get('reduced') is not True: fail('forced REDUCED host does not report reduced motion')
+          if full.get('userAgent')!=manifest['environment']['userAgent']: fail('FULL userAgent differs from frozen probe')
+          if reduced.get('userAgent')!=manifest['environment']['userAgent']: fail('REDUCED userAgent differs from frozen probe')
+          if full.get('devicePixelRatio')!=manifest['environment']['devicePixelRatio']: fail('devicePixelRatio differs from freeze')
+
+          fam_expected_count={'CNEG':4,'CPOS':8,'F1':4,'F2':4,'F3':4,'F4':4}
+          cubic=norm('cubic-bezier(0.2,0,0,1)')
+          full_by={x['id']:x for x in full['specimens']}; red_by={x['id']:x for x in reduced['specimens']}
+          static_groups={}
+          for anon,sid in key['mapping'].items():
+              fam,ctx,view=sid.split('-',2); f=full_by.get(anon); r=red_by.get(anon)
+              if not f or not r: continue
+              specfail=[]
+              def sf(msg): specfail.append(msg); fail(f'{anon}: {msg}')
+              ew=640 if view=='WIDE' else 320; dy=56 if ctx=='WEB' else 28
+              if (f['context'],f['viewport'])!=(ctx,view): sf('blinded context/viewport mismatch')
+              if f['width']!=ew or f['height']!=240: sf('frame dimensions mismatch')
+              if f['scrollWidth']>f['width']: sf('FULL scored canvas horizontal overflow')
+              if f['chromeScrollWidth']>f['chromeWidth']: sf('FULL experiment chrome horizontal overflow')
+              if r['scrollWidth']>r['width']: sf('REDUCED scored canvas horizontal overflow')
+              if r['chromeScrollWidth']>r['chromeWidth']: sf('REDUCED experiment chrome horizontal overflow')
+              if f['initialAnimations']!=0 or r['initialAnimations']!=0: sf('autoplay/initial animation present')
+              if not f['focusBefore'] or not f['focusAfter'] or not r['focusBefore'] or not r['focusAfter']: sf('Replay focus not retained')
+              if f['animationsAfter']!=fam_expected_count[fam]: sf(f'FULL animation count {f["animationsAfter"]} != {fam_expected_count[fam]}')
+              if r['animationsAfter']!=0: sf('REDUCED animation created')
+              expected_left=add['layout_defaults']['wide_left_positions_px'] if view=='WIDE' else add['layout_defaults']['reflow_320_left_positions_px']
+              for i,g in enumerate(f['geometry']):
+                  if [g['left'],g['top'],g['width'],g['height']] != [expected_left[i],72,36,36]: sf(f'geometry token {i+1} mismatch')
+              for st in f['styles']:
+                  if st['fontSize']!='14px' or str(st['fontWeight'])!='600': sf('token font metrics mismatch')
+                  if st['color']!='rgb(17, 17, 17)' or st['background']!='rgb(230, 230, 230)': sf('token colors mismatch')
+                  if not near(st['opacity'],1): sf('initial opacity mismatch')
+              group=(ctx,view)
+              signature=json.dumps({'geometry':f['geometry'],'styles':f['styles']},sort_keys=True)
+              static_groups.setdefault(group,set()).add(signature)
+
+              effects=f['effects']
+              for i,elist in enumerate(effects):
+                  if fam=='CPOS':
+                      if len(elist)!=2: sf(f'CPOS token {i+1} effect count mismatch'); continue
+                      pos=[e for e in elist if any(k.get('transform') is not None for k in e['keyframes'])]
+                      opa=[e for e in elist if any(k.get('opacity') is not None for k in e['keyframes'])]
+                      if len(pos)!=1 or len(opa)!=1: sf('CPOS position/opacity independence missing')
+                      else:
+                          if pos[0]['timing']['duration']!=720 or norm(pos[0]['timing']['easing'])!=cubic: sf('CPOS position timing mismatch')
+                          if opa[0]['timing']['duration']!=720 or norm(opa[0]['timing']['easing'])!='linear': sf('CPOS opacity timing mismatch')
+                          ofs=[k['offset'] for k in opa[0]['keyframes']]
+                          if len(ofs)!=3 or not all(near(a,b) for a,b in zip(ofs,[0,.5,1])): sf('CPOS opacity offsets mismatch')
+                  else:
+                      if len(elist)!=1: sf(f'{fam} token {i+1} effect count mismatch'); continue
+                      e=elist[0]; t=e['timing']
+                      if t['fill']!='forwards' or t['iterations']!=1: sf(f'{fam} common timing mismatch')
+                      if fam=='CNEG':
+                          if t['duration']!=260 or t['delay']!=0 or norm(t['easing'])!=cubic: sf('CNEG timing mismatch')
+                      elif fam=='F1':
+                          if t['duration']!=520 or t['delay']!=[0,90,180,270][i] or norm(t['easing'])!=cubic: sf('F1 timing mismatch')
+                      elif fam=='F2':
+                          if t['duration']!=680 or t['delay']!=0 or norm(t['easing'])!='linear': sf('F2 effect timing mismatch')
+                          ofs=[k['offset'] for k in e['keyframes']]; exp=[0,220/680,340/680,1]
+                          if len(ofs)!=4 or not all(near(a,b) for a,b in zip(ofs,exp)): sf('F2 offsets mismatch')
+                          eas=[norm(k['easing']) for k in e['keyframes'][:3]]
+                          if eas != [cubic,'linear',cubic]: sf('F2 interval easing mismatch')
+                      elif fam=='F3':
+                          if t['duration']!=[720,440,440,720][i] or t['delay']!=0 or norm(t['easing'])!=cubic: sf('F3 timing mismatch')
+                      elif fam=='F4':
+                          if t['duration']!=620 or t['delay']!=0 or norm(t['easing'])!='linear': sf('F4 effect timing mismatch')
+                          ofs=[k['offset'] for k in e['keyframes']]; exp=[0,220/620,430/620,1]
+                          if len(ofs)!=4 or not all(near(a,b) for a,b in zip(ofs,exp)): sf('F4 offsets mismatch')
+              for z in f['final']:
+                  if abs(z['translateY']-dy)>tol or abs(z['opacity']-1)>tol: sf('FULL final static state mismatch')
+                  if any(ps not in ('finished','idle') for ps in z['playStates']): sf('FULL animation not finished by 1000ms')
+              for z in r['final']:
+                  if abs(z['translateY']-dy)>tol or abs(z['opacity']-1)>tol: sf('REDUCED final state mismatch')
+                  if z['animations']!=0: sf('REDUCED final getAnimations not empty')
+              per[anon]={'source_specimen_id':sid,'family':fam,'context':ctx,'viewport':view,'pass':not specfail,'failures':specfail,'full_animation_count':f['animationsAfter'],'reduced_animation_count':r['animationsAfter']}
+
+          for group,sigs in static_groups.items():
+              if len(sigs)!=1: fail(f'static start equivalence mismatch for {group}')
+
+          # Source-level blindness and forbidden-carrier checks.
+          harness=(root/'harness.html').read_text(); reviewer=(root/'reviewer.html').read_text()
+          for source_id in key['mapping'].values():
+              if source_id in harness or source_id in reviewer: fail(f'unblinded source specimen ID leaked to reviewer-visible source: {source_id}')
+          for token in ['Kymaean','Ensemble','Threshold K','O3 wordmark','Character','Performance','Opportunity']:
+              if token in harness: fail(f'forbidden identity/product carrier in harness: {token}')
+          for marker in ['<input','<select','<textarea']:
+              if marker in reviewer.lower(): fail(f'pre-scoring reviewer contains score-entry control: {marker}')
+
+          # Contrast of token labels, using frozen colors.
+          def lum(rgb):
+              vals=[]
+              for x in rgb:
+                  c=x/255
+                  vals.append(c/12.92 if c<=.04045 else ((c+.055)/1.055)**2.4)
+              return .2126*vals[0]+.7152*vals[1]+.0722*vals[2]
+          L1,L2=lum((17,17,17)),lum((230,230,230)); ratio=(max(L1,L2)+.05)/(min(L1,L2)+.05)
+          if ratio < 4.5: fail('token-label contrast below 4.5:1')
+
+          # Prove source bytes did not change after pre-execution freeze.
+          def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
+          after={name:sha(root/name) for name in ['harness.html','reviewer.html','manifest.json','blinding-key.json']}
+          if after!=freeze: fail('source bytes changed after pre-execution freeze')
+
+          evidence={
+            'schema':'kymaean.mot01.structural-accessibility-preflight.v1',
+            'status':'CLEAN_PREFLIGHT_NO_SCORING' if not failures else 'FAILED_PREFLIGHT_NO_SCORING',
+            'date':'2026-09-09','program_id':'MOT-01',
+            'authority':{'website_main_before_packet':'e3a08c3dc73cd0c5295ed21f9d6b03d921a0c68b','method_main':'38e3ea61d336900fb05a0a6b2e8e5206aa23a5d0','execution_defaults_main':'e3a08c3dc73cd0c5295ed21f9d6b03d921a0c68b'},
+            'environment':manifest['environment'],'source_freeze_sha256':freeze,
+            'diagnostics':{'full_prefers_reduced_motion':full['reduced'],'reduced_prefers_reduced_motion':reduced['reduced'],'matrix_count_full':len(full['specimens']),'matrix_count_reduced':len(reduced['specimens']),'token_label_contrast_ratio':round(ratio,3)},
+            'checks':{
+              'matrix_and_blinding_membership':not any('matrix membership' in x for x in failures),
+              'no_autoplay':not any('autoplay' in x for x in failures),
+              'static_start_equivalence':not any('static start equivalence' in x for x in failures),
+              'geometry_and_320_containment':not any(('geometry' in x or 'overflow' in x) for x in failures),
+              'focus_retention':not any('focus' in x.lower() for x in failures),
+              'exact_animation_declarations':not any(('timing mismatch' in x or 'offsets mismatch' in x or 'interval easing' in x or 'independence' in x) for x in failures),
+              'full_final_state':not any('FULL final' in x for x in failures),
+              'reduced_motion_complete_suppression':not any('REDUCED' in x for x in failures),
+              'source_blindness_and_carrier_exclusion':not any(('leaked' in x or 'forbidden' in x or 'score-entry' in x) for x in failures),
+              'source_immutability_after_freeze':not any('source bytes changed' in x for x in failures)
+            },
+            'specimens':[per[k] for k in sorted(per)],'failures':failures,
+            'reviewer_exposure':False,'reviewer_scores_exist':False,'scoring_performed':False,
+            'interpretation':'Preflight verifies only deterministic fixture conformance and accessibility floors. It creates no motion-family score, ranking, selection, production timing token, Stage-motion authority, identity convergence or Phase-C authority.'
+          }
+          Path('docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json').write_text(json.dumps(evidence,indent=2)+'\n')
+          print('MOT01_PREFLIGHT_STATUS='+evidence['status'])
+          print('MOT01_PREFLIGHT_FAILURE_COUNT='+str(len(failures)))
+          for f in failures: print('MOT01_PREFLIGHT_FAIL='+f)
+          PY
+
+          python tools/validate_document_status.py
+          python tools/validate_repository_boundaries.py
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm .github/workflows/tmp-mot01-browser-preflight.yml
+          git add prototypes/mot-01/manifest.json docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json
+          git diff --cached --check
+          git commit -m "Record MOT-01 structural and accessibility preflight"
+          git push origin HEAD:tmp/mot01-preflight-materialize
+
+          python - <<'PY'
+          import json
+          d=json.load(open('docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json'))
+          if d['status']!='CLEAN_PREFLIGHT_NO_SCORING': raise SystemExit(1)
+          PY
