@@ -707,3 +707,30 @@ No scores, pairings, primary records, reviewer exposure, unblinding, family resu
 **Guardrail:** no R6 context reveal until all three R1-R5 records are frozen; no family/source mapping until a later successor gate; no aggregation, candidate pass/fail, retuning/F5, production motion tokens, Stage motion, app implementation, website deployment or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRE-USE CORRECTION AUDIT.**
+
+
+## L-042 — MOT-01 Director + Design Sol adjudication selects F1 Ordered Stagger
+
+**State:** Q-DESIGN-10 CLOSED / F1 ORDERED STAGGER PROVISIONAL INCUMBENT / F4 SECONDARY REFERENCE / NO EXTERNAL-CONSENSUS CLAIM
+
+The Director identified M01-11's one-after-another behavior as symbolically representative of the application identity. Frozen-key verification corrected the full F1 anonymous set to M01-21 WEB/WIDE, M01-22 WEB/320, M01-15 APP/WIDE and M01-11 APP/320. Design Sol's pre-adjudication preference was F4 Continuous Velocity Profile for its composure and low false-state risk.
+
+`docs/evidence/MOT_01_DIRECTOR_DESIGN_ADJUDICATION_01.json` records the reconciliation: F1's ordered onset is an intentional brand metaphor for succession, not an automatic assertion of local functional causality. F1 is the provisional shared-brand motion incumbent; F4 remains the strongest secondary/reference family. Historical blind-review instruments/kits remain preserved with zero primary records and are no longer the active design-lane execution path.
+
+The workflow authority now makes direct Director + Design Sol adjudication the default for subjective website/brand/design review gates when outside review is not explicitly required. This is never described as blinded evidence or independent consensus and does not alter Engineering/E0 blind-scoring law.
+
+**Guardrail:** symbolic sequence may not fabricate loading, progress, priority, causal commit, success/failure, Character acting, Stage transition or another absent product state. No final production motion tokens, Q-DESIGN-02 Stage motion, app implementation, website deployment, final identity or Phase-C convergence are created.
+
+**APPROVED — DIRECTOR DECISION + CLEAN DESIGN-SOL RECURSIVE AUDIT.**
+
+## L-043 — F1 Ordered Stagger semantic/refinement contract is frozen
+
+**State:** Q-DESIGN-11 CLOSED / F1 REFINEMENT CONTRACT FROZEN / Q-DESIGN-12 COMPARISON ACTIVE / NO PRODUCTION AUTHORITY
+
+`docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json` preserves F1 as onset succession only and separates symbolic brand sequence from literal product-state sequence. Literal order may be reflected only when authoritative product/runtime state independently proves that same order. Logical/DOM order and RTL behavior are resolved before execution; arbitrary list/group staggering remains deferred.
+
+The next comparison brackets the Director-preferred reference without reopening family selection: F1A 70ms onset interval / 460ms equal duration, F1B 90/520 reference, F1C 110/560, each across WEB/APP and WIDE/320, plus the unchanged four-view F4 reference. WEB/APP timing is invariant; only displacement differs (56px WEB / 28px APP). Reduced-motion immediate-final-state behavior remains mandatory.
+
+**Next gate:** Q-DESIGN-12 materializes the deterministic 16-specimen labeled comparison, runs structural/reduced-motion preflight, then presents the clean comparison for direct Design Sol + Director thought adjudication. No F5, family redesign, Stage motion, app implementation, website deployment, final timing-token authority or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
