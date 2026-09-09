@@ -1,0 +1,168 @@
+{
+  "schema": "kymaean.mot01.f1a-deployment-envelope-contract.v1",
+  "status": "FROZEN_PRE_IMPLEMENTATION_USE_ENVELOPE_NO_PRODUCTION_TOKEN_AUTHORITY",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "gate": "Q-DESIGN-13",
+  "authority": {
+    "cadence_adjudication": "docs/evidence/MOT_01_F1_CADENCE_ADJUDICATION_01.json",
+    "refinement_contract": "docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json",
+    "translation_protocol": "docs/KYMAEAN_ENGINEERING_INFORMED_VISUAL_TRANSLATION_PROTOCOL_01.md",
+    "engineering_truth_read": "Rylascoo/Ensemble-Project/CURRENT_STATE.md",
+    "website_main_baseline": "fb253c0d7b70c592ad8b73bda0a87950d002a8dd"
+  },
+  "purpose": "Define where the Director-selected F1A Tight succession may and may not be used before any production motion tokens or app/site implementation exist. Preserve the one-after-another identity metaphor while preventing temporal drag, generic cascade overuse, false product-state semantics and accessibility regressions.",
+  "canonical_research_reference": {
+    "family": "F1 — Ordered Stagger",
+    "variant": "F1A Tight",
+    "onset_interval_ms": 70,
+    "equal_unit_duration_ms": 460,
+    "position_easing": "cubic-bezier(0.2,0,0,1)",
+    "opacity": 1,
+    "scale": 1,
+    "rotation_deg": 0,
+    "web_fixture_translate_y_px": 56,
+    "app_fixture_translate_y_px": 28,
+    "fixture_displacement_status": "research reference only; not production amplitude authority",
+    "reduced_motion": "immediate final state with no scored/identity animation"
+  },
+  "identity_role": {
+    "statement": "F1A is an identity accent for bounded moments of succession, not a universal transition primitive.",
+    "meaning": "One change enters, then another, then another. The ordering symbolizes continuity through time while all participating units remain peers unless authoritative product state independently establishes a literal order.",
+    "must_remain_true": [
+      "content and functionality are available independently of observing the animation",
+      "the onset sequence is visually legible but prompt",
+      "motion does not imply completion percentage, loading, priority, causality or data-arrival timing",
+      "the moving units remain peers unless an independent semantic order exists",
+      "F1A never becomes ambient or continuously repeating motion"
+    ]
+  },
+  "eligible_trigger_zones": {
+    "allowed_candidates": [
+      "one-time entry into an identity-bearing brand or explanatory surface",
+      "one-time arrival at a distinct stable app-like surface when its content is already ready and motion does not define product state",
+      "a small peer constellation introduced as one coherent visual statement",
+      "a deliberately ordered brand/explanatory sequence whose order exists independently of the animation",
+      "a controlled demonstration or onboarding moment where the sequence is illustrative rather than operational"
+    ],
+    "trigger_law": "F1A is event-driven, not timer-driven. It may begin once when a qualifying boundary becomes active; it may not wait for arbitrary time, resource completion or provider progress merely to preserve choreography.",
+    "not_yet_authorized": [
+      "continuous scroll-linked activation",
+      "ambient background motion",
+      "hover/focus choreography",
+      "per-keystroke or per-message animation",
+      "routine state-update animation throughout the product"
+    ]
+  },
+  "prohibited_zones": [
+    "loading indicators, skeletons or progress meters",
+    "live data arrival or synchronization indicators",
+    "notification, toast, warning or error priority ordering",
+    "search-result, table-row, feed-item or message-by-message entrance",
+    "routine menu, button, checkbox or form-control feedback",
+    "success/failure escalation",
+    "parallel tasks that could be mistaken for sequential tasks",
+    "Character acting cadence",
+    "Scene or Stage transitions",
+    "Performance, Take or Opportunity timing",
+    "any interaction where functionality waits for the stagger to finish"
+  ],
+  "group_size_and_batching_law": {
+    "direct_units": {
+      "minimum": 2,
+      "maximum": 4,
+      "reason": "The identity mechanism was selected from a four-unit packet; extending per-item delay beyond four units increases waiting and generic cascade risk without evidence.",
+      "timing_by_count": {
+        "2": {"onsets_ms": [0, 70], "last_completion_ms": 530},
+        "3": {"onsets_ms": [0, 70, 140], "last_completion_ms": 600},
+        "4": {"onsets_ms": [0, 70, 140, 210], "last_completion_ms": 670}
+      }
+    },
+    "single_unit": "One unit cannot express Ordered Stagger. A simultaneous/non-stagger transition may be considered later, but it is not F1A.",
+    "five_or_more_items": "Do not stagger individual items. F1A may apply only to 2–4 pre-existing visual/semantic groups, with all members inside each group moving simultaneously. The grouping must exist independently of the animation; never invent groups merely to preserve the four-beat motion.",
+    "maximum_onset_span_ms": 210,
+    "maximum_reference_completion_ms": 670,
+    "nested_or_overlapping_sequences": "Do not run nested F1A cascades. At a single identity-bearing boundary, use at most one active F1A sequence within the primary visual region."
+  },
+  "order_law": {
+    "default": "Follow logical/DOM order, not physical coordinate sorting.",
+    "rtl": "For locale-responsive peer sequences, follow locale-appropriate logical reading order.",
+    "authoritative_chronology": "If the content already has a product-authored chronological or numbered order, follow that exact order instead of mirroring it for decoration.",
+    "dom_integrity": "Never reorder content or focus order solely to make the animation sequence convenient."
+  },
+  "repetition_and_frequency_law": {
+    "one_shot": "A qualifying boundary receives at most one F1A sequence per entry into that boundary.",
+    "no_micro_retrigger": "Hover, focus, resize, responsive reflow, scroll oscillation or repeated clicks on the same already-active state do not restart the sequence.",
+    "no_loop": true,
+    "no_queue": "Do not queue multiple F1A sequences behind user actions. User navigation/state changes take precedence over completing choreography.",
+    "new_boundary": "A genuinely distinct subsequent boundary may start its own F1A sequence if all other eligibility rules still hold."
+  },
+  "interruption_and_input_law": {
+    "content_ready_at_start": true,
+    "input_blocked_by_motion": false,
+    "focus_moves_with_animation": false,
+    "interrupted_transition": "If the surface is superseded or removed during F1A, cancel its animations immediately. Do not delay navigation or state change to finish the sequence.",
+    "same_surface_retarget": "If a qualifying surface is retargeted while F1A is active, cancel F1A immediately and render the newest authoritative visual state directly; do not finish the old sequence first and do not stack animations.",
+    "replay": "Replay is permitted only in design/demo tooling unless a later product interaction explicitly requires it."
+  },
+  "reduced_motion_law": {
+    "preference": "prefers-reduced-motion: reduce",
+    "behavior": "No F1A animation is created; render the same final content/state immediately.",
+    "live_change": "If reduced-motion preference becomes active while F1A is running, cancel all active F1A animations and snap to the final static state.",
+    "information_equivalence": "No order, status, content, affordance or state information may depend on observing the sequence."
+  },
+  "visual_mechanism_guard": {
+    "allowed_identity_variable": "onset succession",
+    "held_constant": [
+      "equal duration per active unit",
+      "same easing per active unit",
+      "same displacement per active unit within a context",
+      "opacity remains 1",
+      "no scale",
+      "no rotation",
+      "no bounce, spring, overshoot, midpoint hold or path curvature"
+    ],
+    "context_rule": "WEB and APP-like surfaces preserve the same cadence. Any later context adaptation must not change onset grammar merely to create visual drama."
+  },
+  "semantic_safety_test": {
+    "before_use_questions": [
+      "Would a reasonable user infer that unit 1 completed or became available before unit 2?",
+      "Would the order imply priority, causality, loading, progress, notification importance or data arrival?",
+      "Would removing the animation change what the user believes happened?",
+      "Is the boundary identity-bearing enough to justify a branded motion accent rather than ordinary interface feedback?",
+      "Can the sequence finish or be cancelled without delaying any action?"
+    ],
+    "fail_rule": "If any answer exposes false functional semantics, information dependence or interaction delay, F1A is not eligible at that location."
+  },
+  "production_boundary": {
+    "cadence_is_provisional_reference": true,
+    "production_timing_token_created": false,
+    "production_displacement_token_created": false,
+    "implementation_technology_selected": false,
+    "site_or_app_location_selected": false,
+    "final_motion_system": false,
+    "stage_motion": false
+  },
+  "next_gate": {
+    "id": "Q-DESIGN-14",
+    "work": "Materialize a small non-production deployment-envelope exemplar set using F1A in representative allowed and prohibited/negative-control contexts, pass structural/reduced-motion checks, then present the labeled examples for direct Design Sol + Director adjudication. The goal is to test the use envelope, not to reopen cadence or authorize implementation."
+  },
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "F1A cadence preserved exactly rather than retuned after selection",
+      "identity use separated from literal product-state semantics",
+      "per-item sequence capped at the tested 2–4-unit envelope",
+      "5+ item behavior prevents endless generic list cascades",
+      "pre-existing grouping required before grouped batching",
+      "repetition and nested-cascade overuse prevented",
+      "input, focus and navigation remain authoritative over choreography",
+      "retargeting applies newest authoritative state directly rather than completing stale choreography",
+      "reduced-motion equivalence remains fail-closed",
+      "RTL/logical order remains content-correct",
+      "Stage/Character/product semantics not invented from engineering architecture",
+      "no production token or implementation authority created"
+    ],
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT"
+  }
+}

@@ -11,20 +11,20 @@ Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/
 `main` is authoritative. `site/` alone is deployable/public. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
 
 ## Hero — STATIC RESEARCH PAUSED
-Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 remain unchanged. No final hero. Q-DESIGN-02 transcript-dependent Stage motion still waits on real blinded E0-A vs E0-E evidence.
+Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 remain unchanged. No final hero. Q-DESIGN-02 Stage motion still waits on real blinded E0-A vs E0-E evidence.
 
-## Shared brand — TYP-01 CLOSED / MOT-01 F1A PROVISIONAL CADENCE
-TYP-01 remains closed. MOT-01 method/defaults/original preflight remain frozen. Director + Design Sol adjudication governs design-lane subjective gates; Engineering/E0 blind scoring is unchanged.
+## Shared brand — TYP-01 CLOSED / MOT-01 F1A PROVISIONAL
+TYP-01 remains closed. MOT-01 method/defaults/preflights remain frozen. Director + Design Sol adjudication governs design-lane subjective gates; Engineering/E0 blind scoring is unchanged.
 
-**F1 — Ordered Stagger** remains the provisional shared-brand motion family because one-after-another motion symbolizes the application identity. Q-DESIGN-12 compared F1A 70/460, F1B 90/520 and F1C 110/560 against unchanged F4. Hosted Chrome preflight passed **16/16 FULL + 16/16 REDUCED, zero failures**.
+F1 — Ordered Stagger is the provisional motion family. Q-DESIGN-12 selected **F1A Tight: 70 ms onset / 460 ms equal movement / 670 ms last completion**, easing `cubic-bezier(0.2,0,0,1)`. Fixture displacement remains 56px WEB / 28px APP; reduced motion is immediate final state. This is a research reference, not a production token.
 
-Design Sol independently ranked **F1B > F1C > F1A > F4**. The Director selected **F1A Tight** because motion should not feel too slow. Under the frozen tie rule, with no mechanical evidence separating the clean F1 variants, Director preference is binding. Final Q-DESIGN-12 resolution: **F1A = 70 ms onset interval / 460 ms equal movement / 670 ms last completion**, cubic-bezier(0.2,0,0,1), displacement 56px WEB / 28px APP, reduced motion immediate-final-state.
+Q-DESIGN-13 contract: `docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json`. F1A is an identity accent for bounded succession, not a universal transition primitive. Direct per-unit sequence is limited to **2–4 units**. For 5+ items, only 2–4 independently meaningful pre-existing groups may stagger; members within each group move together. No invented groups, nested cascades, loops, hover/focus/reflow retriggers or queued choreography.
 
-Evidence: `docs/evidence/MOT_01_F1_CADENCE_ADJUDICATION_01.json`. Comparison: `prototypes/mot-01/refinement/comparison.html` SHA-256 `8dff1319ad726b449b4039db3bc447d29f23a71dc0fe0814f23b4bac9f633eee`.
+Eligible use is one-shot at identity-bearing/explanatory boundaries where content is already ready. Never use F1A for loading/progress, live data arrival, priority, routine controls, feeds/results/messages, false causal/task order, Character acting, Scene/Stage, Performance, Take or Opportunity timing. User input/state truth always overrides motion; retargeting cancels stale motion and renders the newest authoritative state directly.
 
-F1A is a **provisional refinement reference, not a production token**. Symbolic succession may not invent loading, progress, priority, completion, causality, data arrival, Stage state, Character acting cadence, Performance, Take or Opportunity timing.
+Reduced-motion preference creates no F1A animation and loses no information/function/state.
 
 ## Exact next action / hard boundary
-Q-DESIGN-13: freeze the bounded F1A deployment envelope—eligible identity-bearing trigger zones, group-size/batching rules, repetition/frequency limits, interruption/replay behavior, logical/RTL order and reduced-motion equivalence.
+Q-DESIGN-14: materialize a small non-production exemplar set covering representative eligible use, legitimate grouped 5+ content and prohibited negative controls; pass structural/reduced-motion checks; then present labeled examples for direct Design Sol + Director adjudication.
 
-Do not generalize stagger to arbitrary lists/feeds, implement motion in app/site, create production timing tokens, reopen Stage motion, claim final identity, or enter Phase-C convergence.
+Do not retune F1A, create production motion/displacement tokens, generalize stagger to arbitrary lists/feeds, implement app/site motion, reopen Q-DESIGN-02, claim final identity, or enter Phase-C convergence.
