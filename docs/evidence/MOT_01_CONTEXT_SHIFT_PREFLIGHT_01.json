@@ -1,0 +1,75 @@
+{
+  "schema": "kymaean.mot01.context-shift-preflight-result.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-15",
+  "status": "CLEAN_PRE_DIRECTOR_ADJUDICATION",
+  "authority_boundary": "Structural and accessibility preflight evidence only. This record does not select a production motion treatment, create production tokens, authorize app/site/navigation implementation, revise F1A, or create final identity authority.",
+  "packet": {
+    "comparison": "prototypes/mot-01/context-shift/comparison.html",
+    "manifest": "prototypes/mot-01/context-shift/manifest.json",
+    "contract": "docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json",
+    "execution_defaults": "docs/evidence/MOT_01_CONTEXT_SHIFT_EXECUTION_DEFAULTS_01.json",
+    "validated_source_head": "c09146f8fc1fe0177756ad9176cffd130f95ca73"
+  },
+  "preflight": {
+    "workflow_run_id": 34403927052,
+    "job_id": 102642214037,
+    "result": "PASS",
+    "host": "ubuntu-24.04 GitHub-hosted runner",
+    "browser": "Google Chrome 152.0.7977.64",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "artifact": {
+      "id": 10124547805,
+      "name": "mot01-context-shift-preflight",
+      "digest": "sha256:8ff0a3b0c24c771aa99fc07c32613b062b74eee0547f5afb6aa3a31a0a35169e"
+    },
+    "full_motion": {
+      "expected_cells": 16,
+      "passed_cells": 16
+    },
+    "reduced_motion": {
+      "expected_cells": 16,
+      "passed_cells": 16
+    },
+    "assertions_passed": [
+      "16 unique FULL cells: CS0-CS3 x APP/WEB x WIDE/320.",
+      "The same 16 cells pass forced reduced motion.",
+      "No candidate autoplays or loops.",
+      "No candidate contains element-level stagger or nonzero animation delay.",
+      "CS0 creates zero animations.",
+      "CS1 creates exactly one incoming field transform animation and no outgoing animation.",
+      "CS2 creates exactly two simultaneous field opacity animations.",
+      "CS3 creates exactly two simultaneous field transform animations.",
+      "All animated candidates use exactly 280 ms and cubic-bezier(0.2,0,0,1).",
+      "CS1/CS3 translation amplitude is exactly 16 px APP and 32 px WEB.",
+      "320 px surfaces have no horizontal overflow.",
+      "Replay retains keyboard focus.",
+      "Final Context B content/interaction ownership is equivalent under FULL and REDUCED modes."
+    ]
+  },
+  "source_sha256": {
+    "prototypes/mot-01/context-shift/comparison.html": "5a213e64ee26866a7fdbe06d1f66d9deb0fb4f790688781e0939918cba0bdaf5",
+    "prototypes/mot-01/context-shift/manifest.json": "39f9c190b6018a115393e88ad461e4dd977413033d1ffb3bc5ba9e9ce1d415f9",
+    "docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json": "6038c4bc29fc90cb7a66a1262608f9d88643f7528932a4506a2d0e68e7f07e32",
+    "docs/evidence/MOT_01_CONTEXT_SHIFT_EXECUTION_DEFAULTS_01.json": "91c54924c3d9d782ccdb7322d653ed7f05224b89ac03fddc774202245a6dcb22"
+  },
+  "preflight_correction": {
+    "found_before_valid_execution": true,
+    "defect": "Animated CS1-CS3 visually reached Context B while hidden Context A retained pointer interaction ownership, unlike reduced motion.",
+    "correction": "Transfer pointer interaction ownership to Context B when an animated context shift starts and expose final pointer state in diagnostics.",
+    "scope_effect": "Semantic final-state equivalence only. Timing, easing, amplitude, candidate mechanism, layout, content and visible comparison treatment were unchanged.",
+    "valid_run_after_correction": true
+  },
+  "review_capture": {
+    "workflow_run_id": 34404144529,
+    "artifact_id": 10124643250,
+    "artifact_name": "mot01-context-shift-review-capture",
+    "artifact_digest": "sha256:3d7f86b111761cb95a41d8003cc2140f3102a90cc4d174a5a89682c64912af6c",
+    "method": "Deterministic PRE plus fixed 0/40/80/120/160/200/240/280 ms browser frames for every candidate across APP/WEB x WIDE/320. These captures are review aids, not additional candidate authority."
+  },
+  "recursive_audit": {
+    "result": "CLEAN",
+    "notes": "The only material defect discovered before valid preflight was corrected within the frozen semantic-equivalence law. No post-view retuning or candidate substitution occurred."
+  }
+}
