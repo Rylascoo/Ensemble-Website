@@ -31,8 +31,9 @@ jobs:
           python - <<'PY'
           import json
           from pathlib import Path
-          p=Path('prototypes/typ-01/freeze-diagnostic.txt')
-          report=json.loads(p.read_text(encoding='utf-8'))
+          raw=Path('prototypes/typ-01/freeze-diagnostic.txt').read_text(encoding='utf-8')
+          report,end=json.JSONDecoder().raw_decode(raw)
+          trailer=raw[end:].strip()
           failures=[]
           for s in report['specimens']:
               if not s.get('pass'):
@@ -47,6 +48,7 @@ jobs:
                   failures.append((s['specimen_id'], reasons))
           print(f"TYP01_OVERALL_PASS={report['overall_pass']}")
           print(f"TYP01_FAILURE_COUNT={len(failures)}")
+          print('TYP01_DIAGNOSTIC_TRAILER='+repr(trailer))
           for specimen_id,reasons in failures:
               print('TYP01_FAIL='+specimen_id+' | '+' | '.join(reasons))
           PY
