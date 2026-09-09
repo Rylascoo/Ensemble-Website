@@ -1,0 +1,146 @@
+name: Temporary TYP-01 harness materialization
+
+on:
+  push:
+    branches:
+      - tmp/typ01-harness-materialization
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Verify and materialize frozen source bundle
+        shell: bash
+        run: |
+          cat .tmp/typ01-bundle.part-* > /tmp/typ01-bundle.b64
+          python - <<'PY'
+          import hashlib
+          from pathlib import Path
+          p=Path('/tmp/typ01-bundle.b64').read_bytes()
+          expected_len=16804
+          expected_sha='a72eeecd655d1590fda320d9ccaddf3c9ffc38e2052538f82e6b99c6b7f93e5f'
+          actual=hashlib.sha256(p).hexdigest()
+          print(f'TYP01_BUNDLE_B64_LENGTH={len(p)}')
+          print(f'TYP01_BUNDLE_B64_SHA256={actual}')
+          if len(p)!=expected_len or actual!=expected_sha:
+              raise SystemExit('source bundle transport integrity failure')
+          PY
+          base64 -d /tmp/typ01-bundle.b64 > /tmp/typ01-bundle.tar.gz
+          gzip -t /tmp/typ01-bundle.tar.gz
+          tar -xzf /tmp/typ01-bundle.tar.gz
+          python -m json.tool docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json >/dev/null
+          python -m json.tool docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json >/dev/null
+          python -m json.tool docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json >/dev/null
+          python -m json.tool prototypes/typ-01/blinding-key.json >/dev/null
+
+      - name: Run deterministic browser preflight
+        shell: bash
+        run: |
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium || command -v chromium-browser || true)"
+          test -n "$CHROME"
+          "$CHROME" --version | tee /tmp/chrome-version.txt
+          "$CHROME" --headless=new --disable-gpu --no-sandbox --allow-file-access-from-files --run-all-compositor-stages-before-draw --virtual-time-budget=2500 --dump-dom "file://$PWD/prototypes/typ-01/harness.html" > /tmp/harness-dom.html
+          "$CHROME" --headless=new --disable-gpu --no-sandbox --allow-file-access-from-files --run-all-compositor-stages-before-draw --virtual-time-budget=2500 --dump-dom "file://$PWD/prototypes/typ-01/reviewer.html" > /tmp/reviewer-dom.html
+          "$CHROME" --headless=new --disable-gpu --no-sandbox --allow-file-access-from-files --run-all-compositor-stages-before-draw --virtual-time-budget=2500 --screenshot=/tmp/typ01-review-wide.png --window-size=1400,10000 "file://$PWD/prototypes/typ-01/reviewer.html?view=WIDE"
+          "$CHROME" --headless=new --disable-gpu --no-sandbox --allow-file-access-from-files --run-all-compositor-stages-before-draw --virtual-time-budget=2500 --screenshot=/tmp/typ01-review-reflow.png --window-size=500,8000 "file://$PWD/prototypes/typ-01/reviewer.html?view=REFLOW_320"
+
+      - name: Freeze manifest, provenance, hashes, and preflight evidence
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, re, html, hashlib, platform
+          from pathlib import Path
+          root=Path('.')
+          def extract(path, element_id):
+              text=Path(path).read_text(encoding='utf-8')
+              m=re.search(r'<script[^>]*id=["\']'+re.escape(element_id)+r'["\'][^>]*>(.*?)</script>', text, re.S)
+              if not m:
+                  raise SystemExit(f'missing {element_id} in {path}')
+              return json.loads(html.unescape(m.group(1)))
+          report=extract('/tmp/harness-dom.html','report-json')
+          review=extract('/tmp/reviewer-dom.html','review-report-json')
+          key=json.loads((root/'prototypes/typ-01/blinding-key.json').read_text(encoding='utf-8'))
+          reviewer_source=(root/'prototypes/typ-01/reviewer.html').read_text(encoding='utf-8')
+          forbidden=['CNEG','CPOS','F1','F2','F3','F4','Quiet Structure','Dramatic Cadence','Human-State Counterpoint','Compression / Release','Kymaean','KYMÆAN','Ensemble']
+          leaked=[x for x in forbidden if x in reviewer_source]
+          if leaked:
+              raise SystemExit('reviewer packet leaks real identifiers: '+repr(leaked))
+          if not report.get('overall_pass'):
+              print(json.dumps(report,indent=2))
+              raise SystemExit('browser preflight failed')
+          if len(key['mapping'])!=24 or len(review['rows'])!=24 or not all(x['text_exact'] for x in review['rows']):
+              raise SystemExit('blinded packet cardinality/content failure')
+          by_spec={x['specimen_id']:x for x in report['specimens']}
+          by_blind={(x['viewport'],x['context'],x['blind_id']):x for x in review['rows']}
+          def geo_equal(a,b,tol=1.0):
+              if len(a)!=len(b): return False
+              for x,y in zip(a,b):
+                  if x['p']!=y['p']: return False
+                  for k in ['left','right','top','bottom']:
+                      if abs(x[k]-y[k])>tol: return False
+              return True
+          packet_equiv=[]
+          for m in key['mapping']:
+              s=by_spec[m['specimen_id']]
+              r=by_blind[(m['viewport'],m['context'],m['blind_id'])]
+              ok=(m['style_fingerprint_sha256']==s['style_fingerprint_sha256']==r['style_fingerprint_sha256'] and geo_equal(s['geometry_signature'],r['geometry_signature']))
+              packet_equiv.append({'specimen_id':m['specimen_id'],'blind_id':m['blind_id'],'pass':ok})
+          if not all(x['pass'] for x in packet_equiv):
+              raise SystemExit('reviewer packet style/geometry equivalence failure')
+          os_release={}
+          for line in Path('/etc/os-release').read_text().splitlines():
+              if '=' in line:
+                  k,v=line.split('=',1); os_release[k]=v.strip('"')
+          chrome=Path('/tmp/chrome-version.txt').read_text().strip()
+          env={'host_os':os_release.get('PRETTY_NAME',platform.platform()),'kernel':platform.release(),'machine':platform.machine(),
+               'browser_version':chrome,'browser_user_agent':report['browser']['userAgent'],'browser_platform':report['browser']['platform'],
+               'requested_css_stack':'system-ui, sans-serif','computed_font_families':report['reference_font']['computed_families']}
+          report['environment']=env
+          report['reviewer_packet_equivalence']={'pass':True,'rows':packet_equiv}
+          report['no_scoring_performed']=True
+          (root/'prototypes/typ-01/preflight-report.json').write_text(json.dumps(report,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          manifest={'schema':'kymaean.typ01.specimen-manifest.v1','status':'FROZEN_PREFLIGHT_FIXTURE_NO_SCORING',
+                    'method':'docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json',
+                    'execution_addenda':['docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json','docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json'],
+                    'environment':env,'count':24,'specimens':[],'no_scoring_performed':True}
+          blind_lookup={m['specimen_id']:m['blind_id'] for m in key['mapping']}
+          for s in report['specimens']:
+              manifest['specimens'].append({'specimen_id':s['specimen_id'],'family_id':s['family_id'],'context':s['context'],'viewport':s['viewport'],
+                  'blind_id':blind_lookup[s['specimen_id']],'style_fingerprint_sha256':s['style_fingerprint_sha256'],
+                  'computed_reference_face':s['computed_style']['fontFamilies'],'computed_weights':s['computed_style']['weights'],
+                  'computed_styles':s['computed_style']['styles'],'preflight_pass':s['pass']})
+          (root/'prototypes/typ-01/specimen-manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          paths=['docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json',
+                 'docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json','docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json',
+                 'prototypes/typ-01/harness.html','prototypes/typ-01/reviewer.html','prototypes/typ-01/blinding-key.json',
+                 'prototypes/typ-01/specimen-manifest.json','prototypes/typ-01/preflight-report.json']
+          hashes={'schema':'kymaean.typ01.source-hashes.v1','algorithm':'sha256','files':[]}
+          for p in paths:
+              b=(root/p).read_bytes();hashes['files'].append({'path':p,'sha256':hashlib.sha256(b).hexdigest(),'bytes':len(b)})
+          (root/'prototypes/typ-01/source-hashes.json').write_text(json.dumps(hashes,indent=2)+'\n',encoding='utf-8')
+          print('TYP01_BROWSER_PREFLIGHT=PASS')
+          print('TYP01_SPECIMENS=24')
+          print('TYP01_COMPUTED_FONT_FAMILIES='+repr(env['computed_font_families']))
+          print('TYP01_REVIEWER_EQUIVALENCE=PASS')
+          PY
+          cp /tmp/typ01-review-wide.png prototypes/typ-01/preflight-inspection-wide.png
+          cp /tmp/typ01-review-reflow.png prototypes/typ-01/preflight-inspection-reflow.png
+
+      - name: Commit disposable materialization evidence
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add prototypes/typ-01
+          git diff --cached --exit-code && exit 0
+          git commit -m "tmp: materialize TYP-01 harness preflight"
+          git push origin HEAD:tmp/typ01-harness-materialization
