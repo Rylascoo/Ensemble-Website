@@ -1,0 +1,86 @@
+{
+  "schema": "kymaean.mot01.director-design-adjudication.v1",
+  "status": "DIRECTOR_DESIGN_ADJUDICATION_CLOSED_F1_PROVISIONAL_INCUMBENT",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "authority": {
+    "website_main_before_decision": "31b501f0350723648a1a2674d5f6adbb4e568b66",
+    "method": "docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+    "clean_preflight": "docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "blinding_key": "prototypes/mot-01/blinding-key.json",
+    "director_product_policy_authority": "Rylascoo/Ensemble-Project/docs/PROJECT_AUTHORITY.md"
+  },
+  "process_change": {
+    "director_decision": "For website/brand/design-lane gates previously framed as blind-review or independent-review gates, the ordinary project process is now a direct Director + Design Sol adjudication: Design Sol presents its analyzed determination and tradeoffs; the Director presents product meaning, taste and interpretation; the resulting resolution is recorded durably. External blinded reviewers are not required unless the Director explicitly orders external validation or a stronger non-design authority requires it.",
+    "claim_boundary": "A Director + Design Sol adjudication is not to be described as blinded evidence, independent-review consensus, population validation, or statistical validation.",
+    "engineering_non_interference": "This design-workflow decision does not alter Engineering/Evidence blind scoring, E0 experiment controls, provider validation, or any other non-design experimental law in Rylascoo/Ensemble-Project."
+  },
+  "director_view": {
+    "preferred_specimen": "M01-11",
+    "mapped_family": "F1",
+    "family_name": "Ordered Stagger",
+    "reason": "The one-after-another motion is symbolically meaningful because sequential progression represents the application identity.",
+    "corrected_family_specimens": {
+      "WEB_WIDE": "M01-21",
+      "WEB_REFLOW_320": "M01-22",
+      "APP_WIDE": "M01-15",
+      "APP_REFLOW_320": "M01-11"
+    }
+  },
+  "design_sol_view": {
+    "preferred_family_before_director_input": "F4",
+    "preferred_family_name": "Continuous Velocity Profile",
+    "reason": "F4 encoded identity in the temporal feel of change while keeping all elements equivalent, minimizing accidental implication of product-state or causal ordering.",
+    "response_to_director_input": "The Director supplied a product-semantic criterion deliberately absent from the blind neutral fixture: one-after-another is not false sequencing here when used as a symbolic brand metaphor for the application identity. That makes F1's ordering a meaningful advantage rather than merely a generic UI-stagger liability, provided later refinement prevents symbolic sequence from being mistaken for literal functional causality where no such causality exists."
+  },
+  "adjudication": {
+    "selected_family": "F1",
+    "selected_family_name": "Ordered Stagger",
+    "status": "PROVISIONAL_SHARED_BRAND_MOTION_INCUMBENT",
+    "rationale": [
+      "Director-recognized one-after-another symbolism aligns with the application's identity.",
+      "F1 passed the frozen MOT-01 structural/accessibility preflight in all four context/viewport specimens.",
+      "F1 survives WEB and APP-like contexts using the same onset/duration vector with displacement-only adaptation.",
+      "The selection is an informed Director/design judgment, not an external-review consensus claim."
+    ],
+    "secondary_reference": {
+      "family": "F4",
+      "name": "Continuous Velocity Profile",
+      "role": "Retain as the strongest alternative/reference for refinement comparisons; it is not the current incumbent."
+    }
+  },
+  "guardrails": {
+    "symbolic_not_literal_rule": "Ordered stagger may express sequentiality as brand-level metaphor, but must not be used where onset order could falsely assert task order, causal commit, processing progression, success/failure, Character acting, Stage transition, or other product state absent from actual semantics.",
+    "reduced_motion": "The already-frozen reduced-motion suppression floor remains binding.",
+    "stage_motion_authority": false,
+    "production_motion_tokens": false,
+    "app_implementation_authority": false,
+    "website_deployment_authority": false,
+    "final_identity_authority": false,
+    "phase_c_convergence_authority": false
+  },
+  "superseded_current_path": {
+    "external_blind_review_requirement_for_mot01": "SUPERSEDED_BY_DIRECTOR_DESIGN_ADJUDICATION_BEFORE_ANY_PRIMARY_RECORD",
+    "primary_records_created": 0,
+    "review_kits": "Preserved as historical prepared artifacts/evidence; no distribution or returned review records are required for current MOT-01 closure.",
+    "instrument_02": "Preserved as historical frozen review instrument, no longer the active execution path."
+  },
+  "next_gate": {
+    "id": "Q-DESIGN-11",
+    "work": "Construct an F1 Ordered Stagger semantic/refinement contract: define valid symbolic-use zones versus literal-state exclusions, a bounded timing/displacement envelope, WEB/APP adaptation law, reduced-motion counterpart, and comparison against F4 as the retained secondary reference. No production implementation or Stage-motion authority."
+  },
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "M01-11 mapping reverified against the frozen blinding key",
+      "prior assistant companion-ID error corrected without altering the Director's actual M01-11 judgment",
+      "F1 selection separated from any claim of blinded or independent-review consensus",
+      "frozen method/preflight history preserved rather than rewritten",
+      "external reviewer dependency removed only from the design lane",
+      "engineering/E0 blind-scoring law explicitly unaffected",
+      "symbolic sequentiality constrained against false literal product semantics",
+      "Q-DESIGN-02 Stage-motion block preserved"
+    ],
+    "approval": "DIRECTOR DECISION + CLEAN DESIGN-SOL RECURSIVE AUDIT"
+  }
+}
