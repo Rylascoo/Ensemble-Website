@@ -1,0 +1,73 @@
+{
+  "schema": "kymaean.mot01.f1a-deployment-envelope-exemplars.v1",
+  "status": "PRE_ADJUDICATION_NON_PRODUCTION_EXEMPLAR_SET",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "gate": "Q-DESIGN-14",
+  "authority": "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json",
+  "f1a": {
+    "onset_interval_ms": 70,
+    "duration_ms": 460,
+    "easing": "cubic-bezier(0.2,0,0,1)",
+    "web_translate_y_px": 56,
+    "app_translate_y_px": 28,
+    "reduced_motion": "immediate_final_state_no_animation"
+  },
+  "contexts": ["WEB", "APP"],
+  "viewports": ["WIDE", "REFLOW_320"],
+  "cases": [
+    {
+      "id": "A1_PEER_CONSTELLATION",
+      "classification": "ELIGIBLE_CANDIDATE",
+      "moving_units": 4,
+      "mechanism": "direct peer-unit F1A",
+      "purpose": "Small identity-bearing peer constellation; onset succession is symbolic only."
+    },
+    {
+      "id": "A2_EXPLICIT_EXPLANATORY_ORDER",
+      "classification": "ELIGIBLE_CANDIDATE",
+      "moving_units": 3,
+      "mechanism": "direct ordered-unit F1A",
+      "purpose": "A pre-existing explanatory chronology where the order remains explicit without motion."
+    },
+    {
+      "id": "A3_PREEXISTING_GROUP_BATCH",
+      "classification": "ELIGIBLE_CANDIDATE",
+      "moving_units": 3,
+      "content_items": 7,
+      "mechanism": "group-container F1A; members inside each pre-existing group move simultaneously",
+      "purpose": "Demonstrate lawful 5+ content handling without per-item cascade."
+    },
+    {
+      "id": "N1_SIX_ROW_DIRECT_CASCADE",
+      "classification": "NEGATIVE_CONTROL_PROHIBITED",
+      "moving_units": 6,
+      "intentional_violation": "DIRECT_UNIT_COUNT_GT_4",
+      "purpose": "Show generic/dragging list-cascade behavior that the envelope prohibits."
+    },
+    {
+      "id": "N2_FAKE_PROCESS_SEQUENCE",
+      "classification": "NEGATIVE_CONTROL_PROHIBITED",
+      "moving_units": 4,
+      "intentional_violation": "FALSE_PROCESS_SEMANTICS",
+      "purpose": "Show how identical F1A timing can falsely imply loading/process order when applied to operational status labels."
+    }
+  ],
+  "diagnostic_matrix_count": 20,
+  "diagnostic_reduced_matrix_count": 20,
+  "adjudication": {
+    "reviewers": ["Design Sol", "Director"],
+    "labels_visible": true,
+    "cadence_reopening_allowed": false,
+    "goal": "Test whether the deployment-envelope distinction is intuitive and appropriately restrictive."
+  },
+  "non_authority": [
+    "production motion tokens",
+    "production displacement tokens",
+    "app implementation",
+    "website deployment",
+    "Stage motion",
+    "final identity",
+    "Phase-C convergence"
+  ]
+}

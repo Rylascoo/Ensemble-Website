@@ -768,3 +768,20 @@ Reduced-motion preference creates no F1A animation and preserves identical infor
 **Next gate:** Q-DESIGN-14 materializes a small non-production allowed/negative-control exemplar set to test this deployment envelope, passes structural/reduced-motion checks, then uses direct Design Sol + Director adjudication. Cadence, production tokens, app/site implementation, Stage motion and Phase-C convergence remain out of scope.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-046 — F1A deployment-envelope exemplars pass preflight and enter Director review
+
+**State:** Q-DESIGN-14 ACTIVE / EXEMPLAR PREFLIGHT CLEAN / DIRECTOR ADJUDICATION READY / NO PRODUCTION MOTION AUTHORITY
+
+The frozen Q-DESIGN-13 use envelope has been materialized into five labeled, non-production Q-DESIGN-14 exemplars under `prototypes/mot-01/deployment-envelope/`: three eligible candidates (A1 peer constellation, A2 explicit explanatory order, A3 pre-existing grouped 5+ content) and two intentional negative controls (N1 six-row direct cascade, N2 fake process sequence). F1A cadence was not retuned: every animated unit uses the Director-selected 70 ms onset interval and 460 ms equal movement with the unchanged easing; research displacement remains 28px APP / 56px WEB.
+
+Hosted Chrome 152.0.7977.82 preflight run `34383807334` passed **20/20 FULL + 20/20 REDUCED** across APP/WEB and WIDE/320. It verified exact motion declarations, no autoplay, focus preservation, final displacement/opacity, zero horizontal overflow, classification integrity, and zero created animations under forced reduced motion. The frozen evidence is `docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_EXEMPLAR_PREFLIGHT_01.json`; exemplar SHA-256 is `bc4edf262bbf48f7cd949f31d8c20a5de4732ef6e76384f35f11f76eca03a0af`.
+
+A prior hosted attempt `34383596359` is infrastructure-invalid only: an apt repository Hash Sum mismatch occurred while installing Playwright browser dependencies before the exemplar step. It created no artifact result. The valid rerun used the Chrome already present in the runner image.
+
+Design Sol's preliminary visual read is preserved as input, not Director judgment: A1 is the clearest pure identity use; A2 is semantically safe but dense at 320; A3 validates grouped batching; N1 reads as generic/overextended list choreography; N2 reads as false process semantics.
+
+**Next gate:** direct labeled Design Sol + Director adjudication of whether this three-allowed/two-prohibited set makes the F1A use envelope intuitive and appropriately restrictive. Cadence is not reopened by this gate.
+
+**Guardrail:** no production timing/displacement token, app/site implementation, arbitrary list/feed generalization, Stage motion, final identity or Phase-C convergence. Q-DESIGN-14 is not closed until Director adjudication is durably recorded.
+
