@@ -1,0 +1,68 @@
+{
+  "schema": "kymaean.mot01.cs2-envelope-exemplar-preflight.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-16",
+  "status": "PASS_DIRECTOR_REVIEW_READY",
+  "contract": "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_CONTRACT_01.json",
+  "packet": {
+    "exemplar": "prototypes/mot-01/cs2-envelope/exemplars.html",
+    "manifest": "prototypes/mot-01/cs2-envelope/manifest.json"
+  },
+  "hosted_run": {
+    "workflow": "Temporary MOT-01 CS2 envelope preflight",
+    "run_id": 34407367524,
+    "head_sha": "0f9c618726d3dca9c8dd7b9cce2bc45053627d4a",
+    "artifact_id": 10125846570,
+    "artifact_digest": "sha256:a23f5f5bafcbef9c1ef06c46c940741ef1db4f7186dd069d3f973a150bd95477",
+    "os": "Ubuntu 24.04",
+    "browser": "Google Chrome 152.0.7977.82"
+  },
+  "source_sha256": {
+    "prototypes/mot-01/cs2-envelope/exemplars.html": "f4873d5df6b612c2ebbd828eae89e3b4c8bcaf8a850dd61939db57ee7a8e6c5f",
+    "prototypes/mot-01/cs2-envelope/manifest.json": "6cdea6015bd603d2fff874d1f28b4866c002a4bc1a9d3c8ad237d2eee42e1bc8",
+    "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_CONTRACT_01.json": "8d53f13e25538aa63f52049b5990f4ef5cc169eb7f3b92b9f6daf99446e3005a"
+  },
+  "result": {
+    "full": "24/24 PASS",
+    "reduced_motion": "24/24 PASS",
+    "retarget_full": "4/4 PASS",
+    "retarget_reduced": "4/4 PASS",
+    "failures": 0
+  },
+  "assertions_passed": [
+    "exact 24-cell matrix",
+    "zero autoplay and looping",
+    "640px / 320px surfaces and no horizontal overflow",
+    "replay focus preserved",
+    "incoming semantic and interaction ownership authoritative at transition start",
+    "FULL mode uses exactly two simultaneous field-level opacity animations per cell",
+    "FULL animation fixture is exactly 280 ms, delay 0, cubic-bezier(0.2,0,0,1), forwards, one iteration",
+    "no transform, filter, scale, blur or element-level stagger exists in CS2 effects",
+    "REDUCED mode creates zero animations and renders the same final incoming state",
+    "all four mid-transition retarget tests cancel stale CS2 and CUT directly to newest Context C",
+    "no stale queued completion remains after retarget"
+  ],
+  "invalid_attempts": [
+    {
+      "classification": "INVALID_SOURCE_SYNTAX_ATTEMPT_NO_ENVELOPE_RESULT",
+      "cause": "A missing closing brace in the N1 loading-control content constructor prevented JavaScript execution before any specimen was judged.",
+      "correction": "Added the missing brace only; node --check passed. No timing, content intent, classification, motion mechanism or envelope law changed."
+    },
+    {
+      "classification": "INVALID_DIAGNOSTIC_FALSE_POSITIVE_NO_ENVELOPE_RESULT",
+      "cause": "A successful diagnostic report was rejected because the browser's automatic favicon 404 was counted as a console/page error.",
+      "correction": "The disposable preflight served a temporary favicon placeholder. All substantive pageerror and mechanical assertions remained fail-closed; authoritative exemplar bytes were unchanged."
+    }
+  ],
+  "review_boundary": "Mechanical preflight is complete. No Director envelope adjudication is inferred from this PASS. Design Sol view must be frozen before Director input.",
+  "non_authority": [
+    "production duration/easing/opacity tokens",
+    "universal crossfade rule",
+    "app/site/navigation implementation",
+    "F1A cadence revision",
+    "Character/Scene/Stage/Performance/Take/Opportunity motion",
+    "final motion system",
+    "final identity",
+    "Phase-C convergence"
+  ]
+}

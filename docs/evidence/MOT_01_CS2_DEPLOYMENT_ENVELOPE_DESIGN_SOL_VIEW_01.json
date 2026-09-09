@@ -1,0 +1,43 @@
+{
+  "schema": "kymaean.mot01.cs2-envelope-design-sol-view.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-16",
+  "status": "FROZEN_BEFORE_DIRECTOR_INPUT",
+  "preflight": "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_EXEMPLAR_PREFLIGHT_01.json",
+  "view": {
+    "A1_READY_PEER_CONTEXT": {
+      "judgment": "APPROVE",
+      "reason": "This is the clearest expression of CS2's intended character: one complete context yields gently to another without adding sequence, travel or task-state meaning. The transition feels calm and slightly uncanny/magical rather than procedural."
+    },
+    "A2_READY_MODE_PERSPECTIVE": {
+      "judgment": "APPROVE_WITH_RESTRAINT",
+      "reason": "The structural difference between overview and relationship representations remains legible and semantically honest because both are already ready. The crossfade is useful as a context-boundary cue, but repeated mode flipping could make the effect commonplace rather than identity-bearing."
+    },
+    "A3_EDITORIAL_FIELD": {
+      "judgment": "APPROVE_WITH_RESTRAINT",
+      "reason": "The expressive field preserves the gentle mysterious quality better than expected. It can support the public web surface when the thematic context genuinely changes, provided text density stays low enough that overlap remains calm."
+    },
+    "N1_LOADING_DISGUISE": {
+      "judgment": "PROHIBIT",
+      "reason": "The fade remains visually pleasant, which is exactly why this is dangerous: it cosmetically dignifies an unavailable/loading state and can make latency look like a meaningful context transformation. CUT/no-CS2 is semantically cleaner."
+    },
+    "N2_DENSE_TEXT_GHOSTING": {
+      "judgment": "CUT_FALLBACK",
+      "reason": "When outgoing and incoming text occupy the same visual bands, the crossfade's softness turns into competing letterforms and perceptual interference. This is the strongest evidence for making visible fatigue itself a CUT trigger."
+    },
+    "N3_OVERLAY_ENTRY": {
+      "judgment": "PROHIBIT",
+      "reason": "A modal adds a layer while the underlying context still exists. Crossfading the workspace away falsely communicates replacement. The overlay requires its own relationship-accurate treatment; CS2 should not be generalized to it."
+    }
+  },
+  "overall_recommendation": "APPROVE_Q_DESIGN_16_ENVELOPE_AS_FROZEN",
+  "rationale": "The allowed cases retain CS2's low-fatigue, gentle context-boundary character while the negative controls expose three distinct failure classes: unavailable incoming state, perceptually noisy overlap, and incorrect replacement semantics. CUT is a meaningful part of the CS2 system rather than a fallback of convenience.",
+  "guardrails": [
+    "Do not convert 280 ms or the comparison easing into production tokens.",
+    "Do not use CS2 simply because a screen changed; the replacement must satisfy the frozen eligibility law.",
+    "Do not soften N1/N3 through visual tuning; their problem is semantic, not aesthetic.",
+    "Do not rescue N2 with blur, transform or other effects; if overlap is tiring, use CUT.",
+    "F1A and CS2 remain distinct and must not explain the same transition event."
+  ],
+  "director_decision_required": "Approve, correct, or reject the envelope judgments after viewing the same frozen exemplar."
+}
