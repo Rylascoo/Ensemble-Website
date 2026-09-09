@@ -1,0 +1,185 @@
+{
+  "schema": "kymaean.clr01.method.v1",
+  "status": "FROZEN_METHOD_CONTRACT_NON_RENDER_NO_CONVERGENCE",
+  "date": "2026-09-09",
+  "workstream": "SHARED BRAND / PHASE B",
+  "gate": "Q-DESIGN-18",
+  "program_id": "CLR-01",
+  "title": "Cross-Surface Color-Logic Independence",
+  "question": "Can Kymaean exhibit a distinctive, accessible and product-compatible shared-brand color logic across both a restrained app-like utility context and an expressive public-web context when symbol/wordmark, bespoke typography, material/texture, imagery, Quiet-Stage composition, motion signature, product-state red/green semantics and historical palette incumbents are removed as identity carriers?",
+  "scope_interpretation": "CLR-01 tests color-role relationships as an independent Phase-B identity mechanism. It does not select a final production palette, theme, semantic status colors, material system, Windows implementation, website theme or final identity.",
+  "authority": {
+    "volatile_design_state": "CURRENT_STATE.md",
+    "entry_evidence": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_03.txt",
+    "phase_roadmap": "docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md",
+    "design_review_process": "docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md",
+    "product_truth": "Rylascoo/Ensemble-Project/CURRENT_STATE.md"
+  },
+  "external_accessibility_snapshot": {
+    "verified_on": "2026-09-09",
+    "reference": "WCAG 2.2",
+    "wcag_url": "https://www.w3.org/TR/WCAG22/",
+    "wcag2ict_url": "https://www.w3.org/TR/wcag2ict-22/",
+    "usage_note": "WCAG 2.2 is the web measurement reference. WCAG2ICT is transfer guidance for the app-like specimen only; CLR-01 does not claim native Windows accessibility certification.",
+    "floors": {
+      "normal_text": "4.5:1 minimum against every field/surface on which it appears",
+      "large_text": "3:1 minimum if any large-text exception is deliberately used; the frozen carrier is designed not to require this exception",
+      "essential_ui_and_graphical_boundary": "3:1 minimum against adjacent field where required for identification",
+      "focus_indicator": "author-drawn focus ring must maintain at least 3:1 contrast against adjacent colors and remain visibly identifiable; keyboard focus may not be conveyed by hue alone",
+      "use_of_color": "no content, state, relationship, action or eligibility meaning may depend on color alone",
+      "reflow": "320 CSS px equivalent without horizontal overflow from the specimen carrier"
+    }
+  },
+  "isolation": {
+    "required": [
+      "system-ui, sans-serif only",
+      "identical content, geometry, type sizes, weights, spacing and element order across families",
+      "flat solid fills only",
+      "motion disabled for scored review",
+      "all candidate labels exposed during Director + Design Sol review; no external blind-review claim"
+    ],
+    "forbidden_identity_carriers": [
+      "Threshold K or any symbol/app icon",
+      "O3 or any wordmark",
+      "custom/bespoke/downloaded typography",
+      "imagery, portraits, illustration or iconography",
+      "gradients, glow, blur, shadow spectacle, translucency or texture",
+      "Mineral Theater or another historical palette/material incumbent",
+      "Quiet Stage, hero or relational-trace composition",
+      "F1A, CS2 or other scored motion",
+      "success/error/warning/loading colors or red/green status semantics",
+      "product-state claims whose meaning is carried by hue"
+    ],
+    "historical_palette_quarantine": "Candidate values are derived only from the role-logic experiment below. After freezing, compare them against historical palette/material records for accidental convergence. Do not alter a frozen family to imitate or avoid a remembered incumbent after results are visible.",
+    "forbidden_rescue": "After specimen execution or subjective review begins, no family may receive a hue, chroma, lightness, role-allocation or surface-specific retune. Failure/zero-survivor is an allowed outcome."
+  },
+  "carrier": {
+    "content_authority": "measurement-only / non-canon",
+    "blocks": [
+      {"id": "P1", "role": "heading", "text": "A field holds several related parts."},
+      {"id": "P2", "role": "body", "text": "Each part remains distinct while sharing one context."},
+      {"id": "P3", "role": "primary_item", "label": "Primary note", "text": "A relationship remains visible."},
+      {"id": "P4", "role": "secondary_item", "label": "Secondary note", "text": "Another detail remains present."},
+      {"id": "P5", "role": "soft_surface_item", "label": "Reference", "text": "The surrounding field stays quiet."},
+      {"id": "P6", "role": "action", "text": "Open another view"}
+    ],
+    "geometry": {
+      "WEB_WIDE": "1280x720 CSS reference frame; centered 720px neutral panel",
+      "APP_WIDE": "1024x720 CSS reference frame; centered 680px neutral panel",
+      "REFLOW_320": "320 CSS px frame; single-column panel; no content reorder",
+      "rules": [
+        "left-aligned text",
+        "one heading, one body paragraph, three equal structural rows and one button-like neutral action",
+        "no app chrome, navigation, cards with differentiated geometry, decorative shapes or illustrations",
+        "border thickness, radius and spacing are identical across all families/contexts"
+      ]
+    },
+    "role_usage": {
+      "field": "page/panel background",
+      "primary": "heading, primary body and primary-item text",
+      "secondary": "supporting copy and secondary-item text",
+      "accent": "one small non-semantic emphasis strip plus action border/focus ring and optional action fill; accent never denotes status",
+      "boundary": "essential row/panel separators",
+      "soft_surface": "non-semantic low-emphasis row background; primary/secondary text remains readable over it"
+    }
+  },
+  "context_adaptation": {
+    "principle": "Hue topology, role assignment and relative emphasis order are invariant. WEB may use a stronger field tint/accent chroma; APP uses the restrained values frozen per family. Context may not add/remove a hue family or move meaning to a different role.",
+    "APP": "restrained values listed in each family",
+    "WEB": "expressive values listed in each family",
+    "REFLOW_320": "same context colors as wide; only geometry reflows"
+  },
+  "controls": {
+    "CNEG": {
+      "name": "Neutral grayscale control",
+      "purpose": "Readable, accessible low-identity baseline with no chromatic mechanism.",
+      "APP": {"field":"#F7F7F7","primary":"#1D1D1D","secondary":"#575757","accent":"#444444","boundary":"#7A7A7A","soft_surface":"#ECECEC"},
+      "WEB": {"field":"#F7F7F7","primary":"#1D1D1D","secondary":"#575757","accent":"#444444","boundary":"#7A7A7A","soft_surface":"#ECECEC"}
+    },
+    "CCONV": {
+      "name": "Conventional product-blue calibration control",
+      "purpose": "Accessible familiar digital-product color grammar used to calibrate generic-category resemblance; excluded from Kymaean-family selection.",
+      "APP": {"field":"#F7F8FA","primary":"#1C2028","secondary":"#59616F","accent":"#2F5FA8","boundary":"#7D8795","soft_surface":"#E8EEF8"},
+      "WEB": {"field":"#F5F8FC","primary":"#18202C","secondary":"#526172","accent":"#2463EB","boundary":"#73839A","soft_surface":"#E2ECFB"}
+    }
+  },
+  "families": {
+    "F1": {
+      "name": "Split Temperature",
+      "primary_variable": "temperature opposition",
+      "mechanism": "Cool/dark structural ink is held against a quiet warm-earth accent; identity comes from a stable warm/cool hinge rather than chroma quantity.",
+      "APP": {"field":"#F7F5F2","primary":"#191B24","secondary":"#565B67","accent":"#9A4D2E","boundary":"#8A8178","soft_surface":"#EEE8E2"},
+      "WEB": {"field":"#F6F0E9","primary":"#1D1B20","secondary":"#5B5254","accent":"#A04725","boundary":"#8C7B71","soft_surface":"#F0E3D9"},
+      "primary_risk": "generic heritage/editorial warmth or premium-earth palette"
+    },
+    "F2": {
+      "name": "Monochrome + Intruder",
+      "primary_variable": "chroma concentration",
+      "mechanism": "Most roles stay inside a subdued violet-neutral ladder while one rare teal accent interrupts it; identity depends on scarcity and exception rather than broad multicolor contrast.",
+      "APP": {"field":"#F4F3F7","primary":"#221B2D","secondary":"#5C5565","accent":"#006F73","boundary":"#7D7486","soft_surface":"#EAE8EF"},
+      "WEB": {"field":"#F1EDF6","primary":"#21172C","secondary":"#5A5065","accent":"#006D70","boundary":"#766D82","soft_surface":"#E9E3F0"},
+      "primary_risk": "generic creative-tool violet/teal or artificial rarity that feels decorative"
+    },
+    "F3": {
+      "name": "Complementary Poles",
+      "primary_variable": "opposed chromatic poles",
+      "mechanism": "A restrained green-tinted field/ink system is counterweighted by a plum accent; neither pole encodes status and both remain subordinate to legibility.",
+      "APP": {"field":"#F4F8F5","primary":"#16231F","secondary":"#4D5E58","accent":"#7D3A6D","boundary":"#72827A","soft_surface":"#E6EFE9"},
+      "WEB": {"field":"#EFF7F2","primary":"#14251E","secondary":"#465951","accent":"#8C326E","boundary":"#6D8076","soft_surface":"#E0EFE5"},
+      "primary_risk": "generic botanical/wellness signaling or accidental red/green semantic association"
+    },
+    "F4": {
+      "name": "Chromatic Ladder",
+      "primary_variable": "single-hue structural distribution",
+      "mechanism": "A warm near-neutral field is crossed by a blue chromatic ladder distributed from soft surface through boundary to concentrated accent, testing identity through role-linked saturation rather than opposing hues.",
+      "APP": {"field":"#F8F5F0","primary":"#24201B","secondary":"#5A544B","accent":"#3E5D9B","boundary":"#81786D","soft_surface":"#EEE9E0"},
+      "WEB": {"field":"#F6F1E8","primary":"#211E19","secondary":"#564F45","accent":"#355EB0","boundary":"#7D7469","soft_surface":"#EBE3D6"},
+      "primary_risk": "collapse into familiar blue-product/SaaS grammar despite warmer field structure"
+    }
+  },
+  "matrix": {
+    "families_in_order": ["CNEG","CCONV","F1","F2","F3","F4"],
+    "contexts_in_order": ["APP","WEB"],
+    "viewports_in_order": ["WIDE","REFLOW_320"],
+    "specimen_id_rule": "{family}-{context}-{viewport}",
+    "cartesian_product_count": 24,
+    "construction_rule": "Generate exactly one deterministic specimen for every family/control × context × viewport tuple. No color, content, geometry or role change may occur after the packet is frozen."
+  },
+  "preflight": {
+    "required_before_subjective_review": [
+      "24/24 specimens materialized from this contract with exact declared hex values",
+      "normal primary and secondary text contrast >= 4.5:1 on field and soft_surface wherever used",
+      "accent used as text or essential control boundary >= 4.5:1 for text and >= 3:1 for required non-text identification against adjacent field",
+      "white text on any filled accent action >= 4.5:1",
+      "boundary role >= 3:1 against field where the boundary is required to identify the row/control",
+      "keyboard focus visible and not color-only",
+      "zero horizontal overflow at 320 CSS px",
+      "no meaning/state/action eligibility depends on hue alone",
+      "forced-colors/high-contrast sanity pass confirms content, structure and action remain comprehensible when candidate colors are suppressed",
+      "computed style/source audit confirms no gradient, filter, texture, image, box-shadow spectacle or animation identity carrier",
+      "historical-palette quarantine check performed only after candidate source freeze"
+    ],
+    "failure_rule": "Any scored family failing a hard accessibility/isolation floor is removed before subjective review. No retuning or replacement family is allowed after failure evidence is visible; zero-survivor is valid."
+  },
+  "review": {
+    "process": "Direct Design Sol + Director adjudication; no external blind-review population is required and no blind-consensus claim may be made.",
+    "design_sol_order": "Design Sol freezes an independent pre-Director view after mechanical preflight and before receiving Director preference.",
+    "tasks": [
+      "cross-surface family coherence: does APP/WEB read as one color logic rather than unrelated palettes?",
+      "distinctiveness: does the family carry recognizable character beyond accessible color polish?",
+      "genericity: does it collapse into an obvious category convention represented by CCONV or another familiar visual trope?",
+      "calm/low-fatigue compatibility: can the color logic coexist with the already-selected restrained motion principles without visual agitation?",
+      "semantic honesty: does color imply status, priority, success/failure, identity or authority that the neutral fixture does not possess?",
+      "fallback resilience: does the carrier remain understandable with color suppressed?"
+    ],
+    "possible_outcomes": ["one or more provisional color-logic survivors","zero survivors","bounded follow-up on a surviving mechanism without production palette authority"],
+    "prohibited_outcome": "No CLR-01 adjudication alone may declare a final Kymaean palette or Phase-C identity family."
+  },
+  "non_authority": [
+    "All hex values are experiment fixtures only, not production color tokens.",
+    "No dark/light theme decision is made; this experiment intentionally uses one light-luminance carrier to avoid theme-mode confounding.",
+    "No Windows high-contrast/native accessibility certification is claimed.",
+    "No semantic status-color system, website theme, app theme or material system is selected.",
+    "No image generation, renderer spend, app/site implementation, motion retune, Stage motion, final identity or Phase-C convergence is authorized."
+  ]
+}
