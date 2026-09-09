@@ -1,0 +1,49 @@
+{
+  "schema": "kymaean.mot01.context-shift-comparison-manifest.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-15",
+  "status": "PRE_ADJUDICATION_NON_PRODUCTION_COMPARISON",
+  "contract": "docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json",
+  "execution_defaults": "docs/evidence/MOT_01_CONTEXT_SHIFT_EXECUTION_DEFAULTS_01.json",
+  "fixture": {
+    "animated_duration_ms": 280,
+    "animated_easing": "cubic-bezier(0.2,0,0,1)",
+    "app_translation_px": 16,
+    "web_translation_px": 32,
+    "element_level_stagger": false,
+    "reduced_motion": "immediate final Context B; zero animation"
+  },
+  "mechanisms": [
+    {"id":"CS0_CUT","name":"Immediate Cut","role":"NO_MOTION_CONTROL"},
+    {"id":"CS1_SYNCHRONIZED_SETTLE","name":"Synchronized Field Settle","role":"CANDIDATE"},
+    {"id":"CS2_BALANCED_EXCHANGE","name":"Balanced Crossfade Exchange","role":"CANDIDATE"},
+    {"id":"CS3_OPPOSED_FIELD_EXCHANGE","name":"Simultaneous Opposed-Field Exchange","role":"CANDIDATE"}
+  ],
+  "contexts": ["APP","WEB"],
+  "viewports": ["WIDE","REFLOW_320"],
+  "full_matrix_ids": [
+    "CS0_CUT-APP-WIDE","CS0_CUT-APP-REFLOW_320","CS0_CUT-WEB-WIDE","CS0_CUT-WEB-REFLOW_320",
+    "CS1_SYNCHRONIZED_SETTLE-APP-WIDE","CS1_SYNCHRONIZED_SETTLE-APP-REFLOW_320","CS1_SYNCHRONIZED_SETTLE-WEB-WIDE","CS1_SYNCHRONIZED_SETTLE-WEB-REFLOW_320",
+    "CS2_BALANCED_EXCHANGE-APP-WIDE","CS2_BALANCED_EXCHANGE-APP-REFLOW_320","CS2_BALANCED_EXCHANGE-WEB-WIDE","CS2_BALANCED_EXCHANGE-WEB-REFLOW_320",
+    "CS3_OPPOSED_FIELD_EXCHANGE-APP-WIDE","CS3_OPPOSED_FIELD_EXCHANGE-APP-REFLOW_320","CS3_OPPOSED_FIELD_EXCHANGE-WEB-WIDE","CS3_OPPOSED_FIELD_EXCHANGE-WEB-REFLOW_320"
+  ],
+  "full_matrix_count": 16,
+  "reduced_matrix_count": 16,
+  "review": {
+    "reviewers": ["Design Sol","Director"],
+    "labels_visible": true,
+    "design_sol_view_must_precede_director_input": true,
+    "selection_cap": 1,
+    "cut_none_valid": true,
+    "retuning_after_view": false
+  },
+  "non_authority": [
+    "production duration/easing/displacement tokens",
+    "app/site/navigation implementation",
+    "F1A cadence revision",
+    "Character/Scene/Stage/Performance/Take/Opportunity motion",
+    "final motion system",
+    "final identity",
+    "Phase-C convergence"
+  ]
+}
