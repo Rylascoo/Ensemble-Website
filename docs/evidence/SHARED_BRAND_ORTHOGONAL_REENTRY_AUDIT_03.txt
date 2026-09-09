@@ -1,0 +1,121 @@
+SHARED-BRAND ORTHOGONAL RE-ENTRY AUDIT 03
+
+Status: COMPLETE / POST-MOT-01 / CLR-01 SELECTED / NO FINAL IDENTITY / NO PHASE-C CONVERGENCE
+Date: 2026-09-09
+
+OBJECTIVE
+
+Resolve the Phase-B SHARED BRAND re-entry after MOT-01 closes with a provisional motion grammar. Select at most one next genuinely orthogonal identity question without turning F1A/CS2 into a complete motion system, reopening failed TYP-01, promoting temporary visual controls, or drifting into blocked Stage/app implementation work.
+
+AUTHORITY RESOLUTION
+
+Website CURRENT_STATE.md is volatile design authority. The canonical cross-product roadmap keeps Phase B in deliberate visual-identity divergence and requires lateral exploration before controlled convergence. Phase B remains incomplete: motion now contributes one surviving independent identity mechanism, but no final shared identity family exists.
+
+MOT-01 closes successfully under its bounded scope. F1A Tight is the provisional within-context succession mechanism; CS2 Balanced Crossfade Exchange is the provisional eligible context-replacement mechanism; CUT is a first-class semantic/accessibility/fatigue outcome. These remain research references, not production tokens or a final motion system.
+
+INHERITED CLOSURES / QUARANTINE
+
+- Static hero causal-mechanism / renderer research remains paused.
+- TYP-01 remains closed with zero surviving scored families under its frozen accessibility contract; no typography reroll is allowed.
+- O3 Balanced Hierarchy remains temporary wordmark authority only.
+- Threshold K remains a working symbol candidate/control, not final symbol authority.
+- Mineral Theater remains temporary material authority only and must not seed the next color candidates.
+- Quiet Stage and Site Spine remain temporary website controls, not shared-brand incumbents.
+- F1A/CS2/CUT remain provisional motion evidence only and must be held constant or disabled during the next color experiment.
+- No final palette, material system, symbol, wordmark, typography system, imagery system, app visual system, website visual system or final identity exists.
+
+FRESH OPEN-LANE AUDIT
+
+1. SYMBOL / APP ICON
+Still unresolved, but Threshold K and prior symbol work create strong incumbency pressure. Reopening now would bias exploration around an existing candidate rather than maximize lateral distance.
+
+2. WORDMARK / TYPOGRAPHY / EDITORIAL VOICE
+Not eligible as the immediate successor. O3 remains a temporary wordmark control and TYP-01 has just closed under a no-reroll rule. Spacing, cadence, hierarchy and measure cannot be repackaged as a new typography lane.
+
+3. MATERIAL / TEXTURE / SHAPE GRAMMAR
+Legitimate later, but Mineral Theater and substantial prior visual-world evidence create more inherited surface pressure than a color-only experiment. A material program also risks collapsing palette and surface texture into one entangled variable.
+
+4. HUMAN REPRESENTATION / CHARACTER EMBODIMENT
+Extensive prior CRV/CIR/VID/hero evidence exists. Important, globally unresolved, but not the cleanest next independent carrier.
+
+5. STATIC SPATIAL COMPOSITION / RELATIONAL STRUCTURE / IMAGERY / ATMOSPHERE
+Still saturated by Quiet Stage, hero, Surface Escape, HTCR/DPSC and renderer-cartography history. Static hero research remains paused.
+
+6. ICONOGRAPHY
+Still too dependent on later product-surface vocabulary and semantic collision risks. A decorative-only glyph experiment would weaken product relevance; a functional icon family would overreach current app-surface authority.
+
+7. ABSTRACTION DEPTH
+Still behaves mainly as a modifier of representation/material/imagery rather than a clean independently falsifiable carrier.
+
+8. MOTION / SYSTEM BEHAVIOR
+Now sufficiently explored for this Phase-B pass. Continuing immediately would be refinement around a new incumbent and would violate the roadmap's lateral-divergence discipline.
+
+9. COLOR LOGIC
+This is now the strongest orthogonal lane. Color is explicitly named by the roadmap as a first-class SHARED BRAND divergence dimension. It can be isolated from typography, material, imagery, symbol, motion and product-state semantics; tested deterministically across APP-like restrained and WEB-like expressive contexts; and subjected to hard accessibility floors before subjective adjudication.
+
+Unlike a palette-beautification exercise, a valid color program can test the logic of relationships among field, foreground, accent, secondary emphasis, boundary and de-emphasis while neutralizing surface shape/material. That makes the primary variable the system of color roles and contrasts, not inherited Mineral Theater hues or generic brand polish.
+
+SELECTED QUESTION
+
+CLR-01 — CROSS-SURFACE COLOR-LOGIC INDEPENDENCE
+
+Question:
+Can Kymaean exhibit a distinctive, accessible and product-compatible shared-brand color logic across both a restrained app-like utility context and an expressive public-web context when symbol/wordmark, bespoke typography, material/texture, imagery, Quiet-Stage composition, motion signature, product-state red/green semantics and historical palette incumbents are removed as identity carriers?
+
+The experiment tests whether color relationships can contribute an independently recognizable identity mechanism. It does not select a final production palette, semantic status colors, Windows theme implementation, website theme, material system or final identity.
+
+WHY CLR-01 IS THE BEST NEXT LANE
+
+- It is first-class Phase-B SHARED BRAND scope in the canonical roadmap.
+- It is materially orthogonal to both the failed static typography packet and the completed temporal motion program.
+- It can be tested without image generation or renderer spend.
+- It supports cross-surface translation while allowing expressive WEB and restrained APP amplitude/value differences under one underlying color logic.
+- Hard contrast/non-color-accessibility floors can be verified before subjective review.
+- It can quarantine Mineral Theater and all historical palette preferences rather than inherit them.
+- It avoids reopening Stage motion, Character representation, hero composition, iconography or app implementation.
+
+MANDATORY ISOLATION LAW FOR THE LATER METHOD
+
+The CLR-01 method must freeze before specimen execution:
+
+- neutral geometry and system typeface carrier;
+- no symbol, wordmark, icon family, imagery, material texture, gradient spectacle, blur/glow effects or bespoke type as identity carriers;
+- motion disabled or held identical and non-scored;
+- no success/error/warning/loading semantics encoded by candidate hues;
+- identical content/state across families;
+- color-role definitions expressed structurally (field, foreground, secondary, accent, boundary, de-emphasis), not as named brand colors;
+- APP/WEB adaptation rules that preserve family logic while allowing bounded intensity/value adaptation;
+- WCAG/accessibility floors and non-color meaning equivalence before subjective review;
+- historical Mineral Theater/current palette quarantine;
+- at least three materially different color-logic families plus generic control(s);
+- deterministic 320px and wide contexts where text remains readable and no meaning depends on color alone;
+- no post-result reroll of failed families.
+
+INITIAL FALSIFICATION TARGETS
+
+A CLR-01 family should fail if:
+
+- its distinctiveness collapses to generic dark-tech neon, generic SaaS blue, generic luxury black/gold, generic pastel wellness, rainbow gradient, or another obvious category convention;
+- identity depends on material/texture/glow/gradient spectacle instead of color relationships;
+- APP and WEB require unrelated palettes rather than one coherent logic with bounded adaptation;
+- required text/controls fail contrast or color-only meaning rules;
+- the family relies on red/green or other status semantics not present in the neutral fixture;
+- neutral/high-contrast/reduced-color fallback destroys content/state comprehension;
+- the family silently inherits Mineral Theater or another historical incumbent;
+- reviewer preference is used to promote a final palette rather than evaluate a bounded independent mechanism.
+
+NEXT BOUNDED ACTION
+
+Construct the CLR-01 non-render method contract and deterministic dual-context color specimen matrix before any candidate palette is judged.
+
+The method-construction gate may define carrier geometry, candidate role logic, controls, accessibility floors, deterministic browser provenance, APP/WEB adaptation, review tasks, hard-failure rules and historical-quarantine checks. It may not select final production colors or implement app/site theming.
+
+HARD BOUNDARIES
+
+No image generation. No renderer spend. No final palette or theme. No production color tokens. No Windows/UI implementation. No website production/deployment. No semantic status-color system. No O3/Threshold-K redesign. No Mineral Theater refinement. No TYP-01 reroll. No hero/Quiet-Stage refinement. No F1A/CS2 retune. No Stage motion. No final identity or Phase-C convergence.
+
+AUDIT RESULT
+
+A complete recursive pass found continued motion work too refinement-heavy, symbol/material/static-world lanes too incumbent-laden, iconography too product-surface-dependent, and color logic both genuinely open and independently testable. CLR-01 is therefore the strongest next Phase-B shared-brand question.
+
+APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.
