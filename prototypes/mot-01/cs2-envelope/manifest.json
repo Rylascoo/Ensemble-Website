@@ -1,0 +1,54 @@
+{
+  "schema": "kymaean.mot01.cs2-envelope-exemplar-manifest.v1",
+  "date": "2026-09-09",
+  "gate": "Q-DESIGN-16",
+  "status": "PRE_ADJUDICATION_NON_PRODUCTION_EXEMPLAR_SET",
+  "contract": "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_CONTRACT_01.json",
+  "fixture": {
+    "duration_ms": 280,
+    "easing": "cubic-bezier(0.2,0,0,1)",
+    "property": "opacity only",
+    "element_level_stagger": false,
+    "autoplay": false,
+    "loop": false,
+    "reduced_motion": "immediate final incoming context; zero animation"
+  },
+  "cases": [
+    {"id":"A1_READY_PEER_CONTEXT","classification":"ALLOW","negative_control":false},
+    {"id":"A2_READY_MODE_PERSPECTIVE","classification":"ALLOW_WITH_RESTRAINT","negative_control":false},
+    {"id":"A3_EDITORIAL_FIELD","classification":"ALLOW_WITH_RESTRAINT","negative_control":false},
+    {"id":"N1_LOADING_DISGUISE","classification":"PROHIBIT","negative_control":true,"authoritative_behavior":"NO_CS2"},
+    {"id":"N2_DENSE_TEXT_GHOSTING","classification":"CUT_FALLBACK","negative_control":true,"authoritative_behavior":"CUT"},
+    {"id":"N3_OVERLAY_ENTRY","classification":"PROHIBIT","negative_control":true,"authoritative_behavior":"NO_CS2"}
+  ],
+  "contexts": ["APP", "WEB"],
+  "viewports": ["WIDE", "REFLOW_320"],
+  "full_matrix_ids": [
+    "A1_READY_PEER_CONTEXT-APP-WIDE","A1_READY_PEER_CONTEXT-APP-REFLOW_320","A1_READY_PEER_CONTEXT-WEB-WIDE","A1_READY_PEER_CONTEXT-WEB-REFLOW_320",
+    "A2_READY_MODE_PERSPECTIVE-APP-WIDE","A2_READY_MODE_PERSPECTIVE-APP-REFLOW_320","A2_READY_MODE_PERSPECTIVE-WEB-WIDE","A2_READY_MODE_PERSPECTIVE-WEB-REFLOW_320",
+    "A3_EDITORIAL_FIELD-APP-WIDE","A3_EDITORIAL_FIELD-APP-REFLOW_320","A3_EDITORIAL_FIELD-WEB-WIDE","A3_EDITORIAL_FIELD-WEB-REFLOW_320",
+    "N1_LOADING_DISGUISE-APP-WIDE","N1_LOADING_DISGUISE-APP-REFLOW_320","N1_LOADING_DISGUISE-WEB-WIDE","N1_LOADING_DISGUISE-WEB-REFLOW_320",
+    "N2_DENSE_TEXT_GHOSTING-APP-WIDE","N2_DENSE_TEXT_GHOSTING-APP-REFLOW_320","N2_DENSE_TEXT_GHOSTING-WEB-WIDE","N2_DENSE_TEXT_GHOSTING-WEB-REFLOW_320",
+    "N3_OVERLAY_ENTRY-APP-WIDE","N3_OVERLAY_ENTRY-APP-REFLOW_320","N3_OVERLAY_ENTRY-WEB-WIDE","N3_OVERLAY_ENTRY-WEB-REFLOW_320"
+  ],
+  "full_matrix_count": 24,
+  "reduced_matrix_count": 24,
+  "retarget_test_ids": ["RETARGET-APP-WIDE","RETARGET-APP-REFLOW_320","RETARGET-WEB-WIDE","RETARGET-WEB-REFLOW_320"],
+  "negative_control_law": "Negative controls intentionally execute exactly one labeled envelope violation for review. They are evidence of the boundary, not recommended implementation behavior.",
+  "review": {
+    "reviewers": ["Design Sol", "Director"],
+    "labels_visible": true,
+    "design_sol_view_must_precede_director_input": true,
+    "no_post_view_retuning": true
+  },
+  "non_authority": [
+    "production duration/easing/opacity tokens",
+    "universal screen/page crossfade rule",
+    "app/site/navigation implementation",
+    "F1A cadence revision",
+    "Character/Scene/Stage/Performance/Take/Opportunity motion",
+    "final motion system",
+    "final identity",
+    "Phase-C convergence"
+  ]
+}
