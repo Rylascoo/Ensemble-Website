@@ -829,3 +829,21 @@ The Q-DESIGN-15 values of 280 ms and `cubic-bezier(0.2,0,0,1)` remain comparison
 **Next gate:** Q-DESIGN-16 freezes the bounded CS2 deployment envelope: eligible context-shift classes, CUT fallback, repetition/interruption/retarget rules, F1A relationship, reduced-motion equivalence and explicit prohibited uses, followed by a small neutral exemplar test before any production tokenization or implementation.
 
 **Guardrail:** no F1A cadence change, universal screen-crossfade rule, production motion token, app/site/navigation implementation, Character/Scene/Stage/Performance/Take/Opportunity timing, final motion system, final identity or Phase-C convergence.
+
+## L-050 — CS2 deployment envelope is frozen before exemplar execution
+
+**State:** Q-DESIGN-16 CONTRACT FROZEN / PRE-EXEMPLAR / NON-PRODUCTION / NO STAGE-MOTION AUTHORITY
+
+`docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_CONTRACT_01.json` constrains the Director-selected CS2 Balanced Crossfade Exchange to genuine replacement between already-ready contexts. CS2 remains distinct from F1A: F1A symbolizes bounded succession within an established context; CS2 marks an eligible context boundary without order, progress, direction, priority or causality.
+
+The envelope preserves the Director's low-fatigue / gentle mysterious quality by making CS2 field-level opacity exchange only. No element-level stagger, card/item choreography, transform, scale, blur, spring, directional travel or ambient looping belongs to CS2. Semantic state, accessibility, interaction and focus-management truth are authoritative independently of animation; the fading outgoing field may not remain falsely current or actionable.
+
+CUT is mandatory under reduced motion, interruption/retarget while active, unavailable incoming content, dense overlap that creates double-text ghosting/shimmer/fatigue, material host-geometry change, required directional/history semantics, or any case where interaction/focus truth cannot remain correct. The 280 ms / `cubic-bezier(0.2,0,0,1)` values remain research fixtures only.
+
+The pre-exemplar audit corrected one method issue before any specimen ran: prohibited/CUT controls must be allowed to intentionally execute exactly one labeled envelope violation so Director + Design Sol can see why the use is tiring or semantically wrong. Those negative controls are non-compliant review evidence only; recommended behavior remains CUT/no-CS2.
+
+**Next gate:** materialize A1 ready peer context, A2 ready mode/perspective, A3 editorial field, N1 loading disguise, N2 dense-text ghosting and N3 overlay entry across APP/WEB × WIDE/320; pass 24/24 FULL + 24/24 REDUCED plus interruption-retarget preflight; freeze Design Sol view before Director adjudication.
+
+**Guardrail:** no universal crossfade rule, production motion token, app/site/navigation implementation, F1A retune, Character/Scene/Stage/Performance/Take/Opportunity timing, final motion system, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
