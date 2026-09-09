@@ -1,0 +1,96 @@
+{
+  "schema": "kymaean.typ01.execution-defaults.v1",
+  "status": "FROZEN_PRE_SCORING_EXECUTION_ADDENDUM_NO_METHOD_OR_CONVERGENCE_CHANGE",
+  "date": "2026-09-08",
+  "program_id": "TYP-01",
+  "parent_method": {
+    "path": "docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+    "adopted_main_commit": "4130bb9645525a6773a7cf5508175da00658530d"
+  },
+  "reason": "Pre-execution recursive audit found visual judgment could be changed by unspecified implementation defaults. This addendum freezes only those neutral defaults before any specimen evidence or blinded scoring exists. It does not change CP-01, family/control vectors, context multipliers, accessibility floors, review rules, pass rules or termination rules.",
+  "global_reset": {
+    "box_sizing": "border-box",
+    "html_body_margin": "0",
+    "body_background": "#FFFFFF",
+    "body_color": "#111111",
+    "requested_font_family": "system-ui, sans-serif",
+    "text_alignment": "left",
+    "text_decoration": "none",
+    "text_shadow": "none",
+    "hyphens": "none",
+    "word_break": "normal",
+    "overflow_wrap": "normal",
+    "forced_line_breaks": "none",
+    "animation_transition": "none"
+  },
+  "specimen_frame": {
+    "placement": "top-left",
+    "vertical_centering": false,
+    "horizontal_centering": false,
+    "padding": "1.0u on all four sides",
+    "padding_context_rule": "u is the context base unit; padding is not multiplied by APP block_spacing_multiplier",
+    "wide_width_rule": "Use the exact context wide_frame width from the parent method.",
+    "wide_height_rule": "Use the exact context wide_frame height as minimum-height; content may extend vertically if accessibility stress requires it and must never be clipped.",
+    "reflow_width_rule": "Use exactly 320 CSS px total specimen-frame width including padding.",
+    "reflow_height_rule": "auto; no maximum height and no vertical clipping"
+  },
+  "content_flow": {
+    "block_display": "block flow in P1,P2,P3,P4,P5,P6 order",
+    "P1_to_P2_gap_default": "1.0u multiplied by context block_spacing_multiplier, except CNEG whose declared uniform 1.0u block gap governs",
+    "P2_to_P3_gap": "Use the family/control declared after-P2 or uniform block gap, multiplied by context block_spacing_multiplier.",
+    "utility_gaps": "Use each family/control declared P3-P6 gap sequence, multiplied by context block_spacing_multiplier.",
+    "measure_scope": "The declared measure maximum applies to one content root containing P1-P6; multiply its ch value by context measure_multiplier before use.",
+    "natural_wrap": "Browser natural line wrapping only; no author-inserted br/wbr/soft-hyphen characters.",
+    "indentation_scope": "Declared indentation applies to the whole named P3-P6 block and is multiplied by 1.0 in both contexts; it is not a spacing multiplier."
+  },
+  "label_value_layout": {
+    "rule": "P3-P6 remain a single inline text flow per block. Split at the first em dash only to apply declared label/value typography; do not insert a visible character or forced line break.",
+    "label_text": "Includes the original text through and including the first em dash plus its following space.",
+    "value_text": "Contains the exact remaining original text.",
+    "visible_text_invariant": "Concatenated label+value textContent must equal the parent CP-01 string exactly.",
+    "within_label_value_spacing": "No additional CSS gap is inserted. Parent-method phrases such as F1 '0.75u within label/value blocks' are interpreted as the minimum vertical separation only when natural wrapping places value content on a later line; no forced wrap is created to trigger it."
+  },
+  "typographic_fallbacks": {
+    "font_style": "upright unless the parent vector explicitly declares italic",
+    "letter_spacing": "0 unless the parent vector explicitly declares tracking",
+    "text_transform": "none unless the parent vector explicitly declares uppercase; sentence case means preserve CP-01 source case exactly",
+    "label_line_height": "inherit the containing P3-P6 value line-height unless the parent vector explicitly states another line-height",
+    "value_letter_spacing": "0 unless explicitly declared",
+    "P1_P2_indentation": "0",
+    "P1_P2_text_transform": "none",
+    "font_weight_resolution": "Use the exact CSS numeric weight requested by the parent method; do not substitute a different requested number in source. Computed environment provenance is recorded separately."
+  },
+  "family_gap_normalization": {
+    "CNEG": {"P1_P2": 1.0, "P2_P3": 1.0, "P3_P4": 1.0, "P4_P5": 1.0, "P5_P6": 1.0},
+    "CPOS": {"P1_P2": 1.0, "P2_P3": 2.4, "P3_P4": 0.8, "P4_P5": 0.8, "P5_P6": 0.8},
+    "F1": {"P1_P2": 1.0, "P2_P3": 2.5, "P3_P4": 1.5, "P4_P5": 1.5, "P5_P6": 1.5},
+    "F2": {"P1_P2": 1.0, "P2_P3": 2.8, "P3_P4": 1.2, "P4_P5": 2.2, "P5_P6": 1.2},
+    "F3": {"P1_P2": 1.0, "P2_P3": 2.4, "P3_P4": 1.25, "P4_P5": 1.25, "P5_P6": 1.25},
+    "F4": {"P1_P2": 1.0, "P2_P3": 2.8, "P3_P4": 0.55, "P4_P5": 0.55, "P5_P6": 0.55}
+  },
+  "preflight_interpretation": {
+    "horizontal_overflow": "Fail when specimen-frame scrollWidth exceeds clientWidth by more than 1 CSS px.",
+    "clipping": "Fail when any P1-P6 bounding box extends outside the specimen content box horizontally or when overflow hides visible text.",
+    "overlap": "Fail when non-nested P1-P6 block bounding rectangles overlap after declared margins are accounted for.",
+    "resize_200": "Apply a deterministic 2.0 multiplier to every declared font-size while preserving frame width and all other rules; no clipping, hidden text or horizontal overflow may result.",
+    "text_spacing_stress": "Override visible text to at least line-height 1.5, paragraph/block following space 2em, letter-spacing 0.12em and word-spacing 0.16em. These stress overrides are accessibility tests only and are not scored identity specimens.",
+    "contrast": "Compute #111111 on #FFFFFF; record the ratio and require the parent-method floor."
+  },
+  "non_authority": [
+    "This addendum does not select or recommend any typeface, weight, layout system or final typography.",
+    "The neutral defaults have no identity status and must not be reused as brand tokens merely because they made the experiment deterministic.",
+    "No specimen has been scored or promoted by this addendum."
+  ],
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "all previously unstated judgment-bearing defaults closed",
+      "no family/control vector changed",
+      "no content/context/pass/termination law changed",
+      "neutral defaults shared across families",
+      "accessibility stress is separated from scored styling",
+      "no final typography or implementation authority created"
+    ],
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+  }
+}
