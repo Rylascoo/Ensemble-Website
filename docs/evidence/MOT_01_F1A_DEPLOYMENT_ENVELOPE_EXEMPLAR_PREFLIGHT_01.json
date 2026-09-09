@@ -1,0 +1,121 @@
+{
+  "schema": "kymaean.mot01.f1a-deployment-envelope-exemplar-preflight.v1",
+  "status": "PREFLIGHT_CLEAN_READY_FOR_DIRECTOR_ADJUDICATION",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "gate": "Q-DESIGN-14",
+  "authority": {
+    "deployment_envelope": "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json",
+    "manifest": "prototypes/mot-01/deployment-envelope/manifest.json",
+    "exemplar": "prototypes/mot-01/deployment-envelope/exemplars.html",
+    "cadence_reopening_allowed": false
+  },
+  "hosted_preflight": {
+    "valid_run_id": 34383807334,
+    "runner_os": "Ubuntu 24.04.5",
+    "runner_architecture": "x86_64",
+    "browser": "Google Chrome 152.0.7977.82",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "artifact_id": 10116910616,
+    "artifact_digest": "sha256:69b3eaa5eba1292db99b270731176c2bfe5bcb83fafa6eaefd295d4150627e7c",
+    "result": "PASS"
+  },
+  "source_sha256": {
+    "prototypes/mot-01/deployment-envelope/exemplars.html": "bc4edf262bbf48f7cd949f31d8c20a5de4732ef6e76384f35f11f76eca03a0af",
+    "prototypes/mot-01/deployment-envelope/manifest.json": "e967735edcb9cfcf26d04b4d3a26fd276b4920d64d69ddd9a4fbc7373d24f6f8",
+    "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json": "a73f1de1ecf96c808835e0212652847cd1dcd6d3fb87dbddb4d5d3d18e643fb3"
+  },
+  "matrix": {
+    "cases": 5,
+    "contexts": ["APP", "WEB"],
+    "viewports": ["WIDE", "REFLOW_320"],
+    "full_motion_rows": 20,
+    "reduced_motion_rows": 20,
+    "eligible_rows_per_mode": 12,
+    "negative_control_rows_per_mode": 8,
+    "full_result": "20_OF_20_PASS",
+    "reduced_result": "20_OF_20_PASS"
+  },
+  "mechanical_checks": {
+    "no_initial_autoplay": "PASS_ALL_ROWS",
+    "f1a_onset_interval_ms": 70,
+    "f1a_equal_duration_ms": 460,
+    "f1a_easing": "cubic-bezier(0.2,0,0,1)",
+    "normal_mode_exact_effect_count_per_mover": "PASS_ALL_ROWS",
+    "normal_mode_final_displacement": "PASS_ALL_ROWS_APP_28PX_WEB_56PX",
+    "opacity_constant_1": "PASS_ALL_ROWS",
+    "focus_preserved_during_play": "PASS_ALL_ROWS",
+    "horizontal_overflow": "ZERO_ALL_ROWS",
+    "reflow_width_css_px": 320,
+    "reduced_motion_animation_count": "ZERO_ALL_ROWS",
+    "reduced_motion_final_state_equivalence": "PASS_ALL_ROWS",
+    "classification_integrity": "PASS_12_ELIGIBLE_8_NEGATIVE_PER_MODE"
+  },
+  "cases": {
+    "A1_PEER_CONSTELLATION": {
+      "classification": "ELIGIBLE_CANDIDATE",
+      "moving_units": 4,
+      "mechanical_result": "PASS",
+      "design_sol_preliminary_read": "Strongest pure identity example. The succession reads as peer choreography rather than product-state sequencing."
+    },
+    "A2_EXPLICIT_EXPLANATORY_ORDER": {
+      "classification": "ELIGIBLE_CANDIDATE",
+      "moving_units": 3,
+      "mechanical_result": "PASS",
+      "design_sol_preliminary_read": "Semantically safe because the temporal order exists in the text independently of motion. At 320 px the cards become text-dense, so this is useful evidence for restraint rather than a production layout proposal."
+    },
+    "A3_PREEXISTING_GROUP_BATCH": {
+      "classification": "ELIGIBLE_CANDIDATE",
+      "moving_units": 3,
+      "content_items": 7,
+      "mechanical_result": "PASS",
+      "design_sol_preliminary_read": "Successfully demonstrates the batching law: the groups carry the three motion beats while seven member rows do not become a seven-beat cascade."
+    },
+    "N1_SIX_ROW_DIRECT_CASCADE": {
+      "classification": "NEGATIVE_CONTROL_PROHIBITED",
+      "moving_units": 6,
+      "intentional_violation": "DIRECT_UNIT_COUNT_GT_4",
+      "mechanical_result": "PASS_AS_NEGATIVE_CONTROL",
+      "design_sol_preliminary_read": "Reads as generic list choreography and extends the onset train beyond the selected identity packet; supports keeping the direct-unit cap."
+    },
+    "N2_FAKE_PROCESS_SEQUENCE": {
+      "classification": "NEGATIVE_CONTROL_PROHIBITED",
+      "moving_units": 4,
+      "intentional_violation": "FALSE_PROCESS_SEMANTICS",
+      "mechanical_result": "PASS_AS_NEGATIVE_CONTROL",
+      "design_sol_preliminary_read": "Immediately resembles a staged process pipeline despite using the same cadence; strongly supports the semantic prohibition."
+    }
+  },
+  "invalid_attempts": [
+    {
+      "run_id": 34383596359,
+      "result": "INVALID_INFRASTRUCTURE_ATTEMPT_NO_EXEMPLAR_RESULT",
+      "reason": "Playwright dependency installation encountered an apt repository Hash Sum mismatch before the browser preflight step. The rerun used the Chrome already present in the hosted runner image and did not depend on that apt path."
+    }
+  ],
+  "repository_hygiene_note": "The disposable preflight branch exceeded the three-commit CURRENT_STATE currency limit because helper commits were intentionally isolated there. That branch is not promotable. The authoritative exemplar/evidence closeout must be collapsed onto current Website main without the temporary workflow, then pass permanent repository validators on the exact clean SHA.",
+  "adjudication_boundary": {
+    "reviewers": ["Design Sol", "Director"],
+    "labels_visible": true,
+    "director_result_recorded": false,
+    "question": "Does the three-allowed/two-prohibited exemplar set make the F1A use envelope intuitive and appropriately restrictive without reopening cadence?",
+    "no_authority_created": [
+      "production motion tokens",
+      "production displacement tokens",
+      "app implementation",
+      "website deployment",
+      "Stage motion",
+      "final identity",
+      "Phase-C convergence"
+    ]
+  },
+  "recursive_audit": {
+    "result": "CLEAN_FOR_DIRECTOR_REVIEW",
+    "corrections": [
+      "Separated the invalid apt-install attempt from the valid hosted browser result.",
+      "Kept negative controls mechanically valid while preserving their intentional semantic/envelope violations.",
+      "Verified reflow containment rather than inferring it from screenshots.",
+      "Kept Design Sol visual judgments explicitly preliminary so they cannot substitute for Director adjudication."
+    ]
+  }
+}
