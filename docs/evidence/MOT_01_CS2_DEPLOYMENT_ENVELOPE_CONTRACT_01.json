@@ -83,7 +83,7 @@
   ],
   "repetition_and_interruption": {
     "later_distinct_shift": "A later separately committed context shift may use CS2 again if it independently satisfies the envelope.",
-    "rapid_retargting": "If a new authoritative context arrives while CS2 is active, cancel all stale CS2 effects and render the newest context directly. Do not crossfade from an intermediate blend and do not queue completion.",
+    "rapid_retargeting": "If a new authoritative context arrives while CS2 is active, cancel all stale CS2 effects and render the newest context directly. Do not crossfade from an intermediate blend and do not queue completion.",
     "retrigger": "No hover/focus/reflow retrigger. Replay in research fixtures is diagnostic only."
   },
   "visual_restraint": {
@@ -101,13 +101,14 @@
   },
   "exemplar_plan": {
     "cases": [
-      {"id":"A1_READY_PEER_CONTEXT","classification":"ALLOW","tests":"clean peer replacement in stable geometry"},
-      {"id":"A2_READY_MODE_PERSPECTIVE","classification":"ALLOW_WITH_RESTRAINT","tests":"meaningful mode/perspective swap without loading or direction"},
-      {"id":"A3_EDITORIAL_FIELD","classification":"ALLOW_WITH_RESTRAINT","tests":"expressive website context replacement with moderate structural difference"},
-      {"id":"N1_LOADING_DISGUISE","classification":"PROHIBIT","tests":"attempted use around unavailable/loading content"},
-      {"id":"N2_DENSE_TEXT_GHOSTING","classification":"CUT_FALLBACK","tests":"both contexts ready but overlap creates double-text fatigue"},
-      {"id":"N3_OVERLAY_ENTRY","classification":"PROHIBIT","tests":"modal/overlay adds a layer rather than replacing context"}
+      {"id":"A1_READY_PEER_CONTEXT","classification":"ALLOW","tests":"clean peer replacement in stable geometry","execution":"conforming CS2"},
+      {"id":"A2_READY_MODE_PERSPECTIVE","classification":"ALLOW_WITH_RESTRAINT","tests":"meaningful mode/perspective swap without loading or direction","execution":"conforming CS2"},
+      {"id":"A3_EDITORIAL_FIELD","classification":"ALLOW_WITH_RESTRAINT","tests":"expressive website context replacement with moderate structural difference","execution":"conforming CS2"},
+      {"id":"N1_LOADING_DISGUISE","classification":"PROHIBIT","tests":"attempted use around unavailable/loading content","execution":"intentional labeled CS2 violation for review only; authoritative behavior is no CS2"},
+      {"id":"N2_DENSE_TEXT_GHOSTING","classification":"CUT_FALLBACK","tests":"both contexts ready but overlap creates double-text fatigue","execution":"intentional labeled CS2 violation for review only; authoritative behavior is CUT"},
+      {"id":"N3_OVERLAY_ENTRY","classification":"PROHIBIT","tests":"modal/overlay adds a layer rather than replacing context","execution":"intentional labeled CS2 violation for review only; authoritative behavior is no CS2"}
     ],
+    "negative_control_law": "Negative/CUT controls may intentionally execute exactly one named envelope violation so Director + Design Sol can inspect why the use is tiring or semantically wrong. They are labeled NON-COMPLIANT REVIEW CONTROLS and create no implementation authority.",
     "contexts": ["APP", "WEB"],
     "viewports": ["WIDE", "REFLOW_320"],
     "full_cells": 24,
@@ -118,10 +119,10 @@
     "exact 24 FULL exemplar cells and 24 reduced-motion cells",
     "zero autoplay and zero loops",
     "eligible CS2 cases use exactly two simultaneous field-level opacity effects and no transform/blur/scale/stagger",
-    "prohibited/CUT cases create no CS2 animation",
+    "negative controls are explicitly labeled non-compliant and execute only the single violation named by their case; their recommended behavior remains CUT/no-CS2",
     "incoming semantic/interaction ownership is authoritative at transition start and remains authoritative after completion",
     "320px surfaces have no horizontal overflow",
-    "reduced motion creates zero animations and renders identical final information/function/state",
+    "reduced motion creates zero animations for every case and renders identical final information/function/state",
     "retarget test cancels stale CS2 and cuts directly to newest context",
     "no F1A effect exists in any CS2 exemplar",
     "source hashes and host/browser provenance are frozen before Director adjudication"
@@ -129,7 +130,7 @@
   "review": {
     "process": "direct Design Sol + Director adjudication",
     "design_sol_view_must_precede_director_input": true,
-    "question": "Do the allowed cases preserve CS2's calm/magical context-boundary quality while the prohibited/CUT controls demonstrate where crossfade would become tiring or semantically wrong?",
+    "question": "Do the allowed cases preserve CS2's calm/magical context-boundary quality while the prohibited/CUT controls visibly demonstrate where crossfade becomes tiring or semantically wrong?",
     "no_post_view_retuning": true
   },
   "non_authority": [
@@ -143,11 +144,12 @@
     "Phase-C convergence"
   ],
   "recursive_audit": {
-    "result": "CLEAN",
+    "result": "CLEAN_AFTER_PRE_EXEMPLAR_CORRECTION",
     "notes": [
       "The envelope protects the Director's low-fatigue preference by making visual interference itself a CUT trigger.",
       "Atomic semantic ownership prevents the fading outgoing field from remaining falsely actionable/current.",
       "The contract does not turn comparison timing/easing into production tokens.",
+      "Negative controls are permitted to show one labeled violation so the use boundary can be judged rather than merely asserted.",
       "No Stage or product-state semantics are inferred from the visual mechanism."
     ]
   }
