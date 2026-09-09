@@ -1,0 +1,122 @@
+name: Temporary MOT-01 F1A envelope exemplar preflight
+
+on:
+  push:
+    branches:
+      - tmp/mot01-f1a-envelope-exemplars-preflight
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Install browser harness
+        run: |
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Run deterministic normal + reduced-motion preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p artifacts
+          python3 -m http.server 4173 --bind 127.0.0.1 >artifacts/http.log 2>&1 &
+          server_pid=$!
+          trap 'kill $server_pid || true' EXIT
+          for i in {1..40}; do curl -fsS http://127.0.0.1:4173/prototypes/mot-01/deployment-envelope/exemplars.html >/dev/null && break; sleep .25; done
+          node <<'NODE'
+          const { chromium } = require('playwright');
+          const fs = require('fs');
+          const path = require('path');
+          const CASE_COUNTS = {
+            A1_PEER_CONSTELLATION: 4,
+            A2_EXPLICIT_EXPLANATORY_ORDER: 3,
+            A3_PREEXISTING_GROUP_BATCH: 3,
+            N1_SIX_ROW_DIRECT_CASCADE: 6,
+            N2_FAKE_PROCESS_SEQUENCE: 4
+          };
+          const DY = { APP: 28, WEB: 56 };
+          const WIDTH = { WIDE: 640, REFLOW_320: 320 };
+          function fail(msg){ throw new Error(msg); }
+          function near(a,b,t=0.75){ return Math.abs(Number(a)-Number(b)) <= t; }
+          function validate(report, reduced){
+            if (report.reduced !== reduced) fail(`reduced mismatch ${report.reduced} != ${reduced}`);
+            if (!Array.isArray(report.rows) || report.rows.length !== 20) fail(`expected 20 rows, got ${report.rows?.length}`);
+            const keys = new Set();
+            let positives=0, negatives=0;
+            for (const r of report.rows){
+              if (keys.has(r.key)) fail(`duplicate key ${r.key}`); keys.add(r.key);
+              if (!(r.caseId in CASE_COUNTS)) fail(`unknown case ${r.caseId}`);
+              if (r.moverCount !== CASE_COUNTS[r.caseId]) fail(`${r.key} mover count ${r.moverCount}`);
+              if (r.width !== WIDTH[r.viewport]) fail(`${r.key} width ${r.width}`);
+              if (r.scrollWidth > r.width + 1) fail(`${r.key} horizontal overflow ${r.scrollWidth}>${r.width}`);
+              if (r.initialAnimations !== 0) fail(`${r.key} had initial animation`);
+              if (!r.focusBefore || !r.focusAfter) fail(`${r.key} focus changed during play`);
+              if (r.negative){ negatives++; if (!r.violation) fail(`${r.key} negative lacks violation`); }
+              else { positives++; if (r.violation) fail(`${r.key} eligible has violation`); }
+              if (reduced){
+                if (r.animationsAfter !== 0) fail(`${r.key} reduced motion created animations`);
+                if (r.effects.some(x => x.length !== 0)) fail(`${r.key} reduced motion has effects`);
+              } else {
+                if (r.animationsAfter !== r.moverCount) fail(`${r.key} animation count ${r.animationsAfter}`);
+                r.effects.forEach((effects,i)=>{
+                  if (effects.length !== 1) fail(`${r.key} mover ${i} effect count ${effects.length}`);
+                  const e=effects[0];
+                  if (Number(e.delay)!==i*70 || Number(e.duration)!==460) fail(`${r.key} mover ${i} timing mismatch`);
+                  if (e.easing!=='cubic-bezier(0.2, 0, 0, 1)' && e.easing!=='cubic-bezier(0.2,0,0,1)') fail(`${r.key} mover ${i} easing ${e.easing}`);
+                  if (e.fill!=='forwards' || Number(e.iterations)!==1) fail(`${r.key} mover ${i} timing law mismatch`);
+                });
+              }
+              if (!Array.isArray(r.final) || r.final.length !== r.moverCount) fail(`${r.key} final count mismatch`);
+              r.final.forEach((f,i)=>{
+                if (!near(f.translateY,DY[r.context])) fail(`${r.key} mover ${i} final y ${f.translateY}`);
+                if (!near(f.opacity,1,0.001)) fail(`${r.key} mover ${i} opacity ${f.opacity}`);
+              });
+            }
+            if (positives !== 12 || negatives !== 8) fail(`classification matrix ${positives}/${negatives}`);
+            return {rows:report.rows.length,positives,negatives,userAgent:report.userAgent,platform:report.platform};
+          }
+          (async()=>{
+            const browser = await chromium.launch({headless:true});
+            const summaries={};
+            for (const [name,reduced] of [['FULL',false],['REDUCED',true]]){
+              const context=await browser.newContext({reducedMotion: reduced?'reduce':'no-preference', viewport:{width:1440,height:1000}});
+              const page=await context.newPage();
+              await page.goto('http://127.0.0.1:4173/prototypes/mot-01/deployment-envelope/exemplars.html?diagnostic=1',{waitUntil:'load'});
+              await page.waitForFunction(()=>document.querySelector('#diagnostic-report')?.textContent?.startsWith('{'));
+              const raw=await page.locator('#diagnostic-report').textContent();
+              const report=JSON.parse(raw);
+              summaries[name]=validate(report,reduced);
+              fs.writeFileSync(path.join('artifacts',`${name.toLowerCase()}-diagnostic.json`),JSON.stringify(report,null,2));
+              await context.close();
+            }
+            const review=await browser.newContext({reducedMotion:'no-preference',viewport:{width:1440,height:1000}});
+            const page=await review.newPage();
+            await page.goto('http://127.0.0.1:4173/prototypes/mot-01/deployment-envelope/exemplars.html',{waitUntil:'load'});
+            for (const ctx of ['APP','WEB']){
+              await page.getByRole('button',{name:ctx,exact:true}).click();
+              for (const view of ['WIDE','320']){
+                await page.getByRole('button',{name:view,exact:true}).click();
+                await page.screenshot({path:`artifacts/${ctx}-${view}.png`,fullPage:true});
+              }
+            }
+            await review.close();
+            await browser.close();
+            fs.writeFileSync('artifacts/preflight-summary.json',JSON.stringify({schema:'kymaean.mot01.f1a-envelope-exemplar-preflight.v1',result:'PASS',summaries},null,2));
+          })().catch(e=>{console.error(e.stack||e);process.exit(1)});
+          NODE
+          sha256sum prototypes/mot-01/deployment-envelope/exemplars.html prototypes/mot-01/deployment-envelope/manifest.json docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json > artifacts/source-sha256.txt
+          cat artifacts/preflight-summary.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: mot01-f1a-envelope-exemplars-preflight
+          path: artifacts
+          if-no-files-found: error
