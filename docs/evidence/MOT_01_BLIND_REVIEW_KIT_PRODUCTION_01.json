@@ -1,0 +1,77 @@
+{
+  "schema": "kymaean.mot01.blind-review-kit-production.v1",
+  "status": "PRE_REVEAL_KITS_FROZEN_PRIVATE_ZERO_REVIEWER_EXPOSURE",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "authority": {
+    "current_review_instrument": "docs/evidence/MOT_01_BLINDED_PRIMARY_REVIEW_INSTRUMENT_02.json",
+    "instrument_main_commit": "1c44b5e7d5db475ff9711abede884f3f5036c594",
+    "frozen_packet_commit": "c3999320a60bed0d455d985966bc0eee57f7c5bf"
+  },
+  "frozen_visual_bytes": {
+    "reviewer_html_sha256": "e11088820fc23be569d0fcadb5f8587426fefa0a640435be9426364796b24c1d",
+    "harness_html_sha256": "df65b57dbf5c4dbbbaeeb431e2c4fd4665132ef00031c998ff6c9acf49f64ff5",
+    "result": "MATCH_FROZEN_C399_PACKET"
+  },
+  "kit_contract": {
+    "files_per_zip": [
+      "README_FIRST.txt",
+      "reviewer.html",
+      "harness.html",
+      "RESPONSE.json",
+      "KIT_MANIFEST.json"
+    ],
+    "blinding_key_included": false,
+    "source_family_mapping_included": false,
+    "repository_access_included": false,
+    "pre_reveal_product_context_included": false,
+    "response_carrier_schema": "blind-motion-review.pre-reveal.v2",
+    "canonical_ingest_rule": "After a reviewer locks and returns RESPONSE.json, replace only the neutral response carrier schema value with kymaean.mot01.primary-review.pre-reveal.v2. Every other required field name and judgment is already canonical; no judgment transformation is permitted.",
+    "reviewer_use_rule": "These raw-HTML ZIPs are for genuinely blind human visual reviewers who open reviewer.html normally. Do not upload the raw source kit to an AI evaluator or invite source inspection, because source-level inspection would defeat the present-run blindness condition."
+  },
+  "drive_storage": {
+    "parent_folder_id": "197yOOtguJEA7QVJ9DleA3vK5V4mPBDsA",
+    "parent_role": "M0 Motion & System Grammar",
+    "source_visibility": "not_shared",
+    "delivery_manifest": {
+      "file_id": "1hudLr98j2QAyyH9IuH1bmP2K7A6GId1E",
+      "file_name": "MOT01_BLIND_REVIEW_KIT_DELIVERY_MANIFEST.json"
+    },
+    "kits": {
+      "PR-01": {
+        "file_id": "1L9iTQNnabM3LY24zY8lrHfguS8BRUaxa",
+        "file_name": "PR-01_BLIND_PRE_REVEAL_KIT.zip",
+        "size_bytes": 6908,
+        "sha256": "f6d4d931ffa7d77189690d4c25e140fcb57b05799413ced739584a7302db7c92"
+      },
+      "PR-02": {
+        "file_id": "1hN8bLfkkbbr1l4wEWiqGBbKHIT0GYRUk",
+        "file_name": "PR-02_BLIND_PRE_REVEAL_KIT.zip",
+        "size_bytes": 6905,
+        "sha256": "731942c98cf2b457e9936fdc0bd0d6770e7a2e2adc87152bc2fd1044a13a6519"
+      },
+      "PR-03": {
+        "file_id": "13s2oJodSf-bOvne8o6a3iNnh4HsiGQZh",
+        "file_name": "PR-03_BLIND_PRE_REVEAL_KIT.zip",
+        "size_bytes": 6909,
+        "sha256": "ede25afb82e977b63b8c1f8ec18514741afbe655b525a3fbcd9716d99d4cc1ee"
+      }
+    }
+  },
+  "pre_distribution_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "each ZIP contains exactly the five declared files",
+      "reviewer.html and harness.html match the frozen c399 SHA-256 values in every ZIP",
+      "no blinding-key file or anonymous-to-family mapping is present",
+      "blank response fields preserve Instrument 02 pairings, grouping, forced R3/R4/R5 judgment shape and all six blindness attestations",
+      "PR-01, PR-02 and PR-03 are distinct record slots",
+      "Drive copies are private/not shared and retain stable file IDs",
+      "0 of 3 primary records exist and no reviewer has been exposed",
+      "current Design Sol and current Director session remain ineligible",
+      "no R6 context, unblinding, aggregation, candidate result, retuning or Stage-motion authority is created"
+    ]
+  },
+  "next_action": "Distribute PR-01, PR-02 and PR-03 separately to three genuinely blind outside human visual reviewers. Collect and freeze all three pre-reveal responses before any R6 product-context reveal.",
+  "queue_effect": "NONE — Q-DESIGN-10 remains ACTIVE at 0 of 3 primary records."
+}
