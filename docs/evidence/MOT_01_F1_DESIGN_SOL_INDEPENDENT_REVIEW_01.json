@@ -1,0 +1,78 @@
+{
+  "schema": "kymaean.mot01.f1-design-sol-independent-review.v1",
+  "status": "DESIGN_SOL_VIEW_FROZEN_AWAITING_DIRECTOR_VIEW_NO_FINAL_ADJUDICATION",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "gate": "Q-DESIGN-12",
+  "authority": {
+    "refinement_contract": "docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json",
+    "comparison": "prototypes/mot-01/refinement/comparison.html",
+    "manifest": "prototypes/mot-01/refinement/manifest.json",
+    "clean_preflight": "docs/evidence/MOT_01_F1_REFINEMENT_STRUCTURAL_REDUCED_MOTION_PREFLIGHT_01.json",
+    "comparison_sha256": "8dff1319ad726b449b4039db3bc447d29f23a71dc0fe0814f23b4bac9f633eee"
+  },
+  "review_process": {
+    "reviewer": "Design Sol",
+    "performed_before_director_view_of_f1a_f1b_f1c_comparison": true,
+    "blinded": false,
+    "external_reviewers": false,
+    "final_director_resolution": false
+  },
+  "ranking": ["F1B_REFERENCE", "F1C_MEASURED", "F1A_TIGHT", "F4_REFERENCE"],
+  "preferred_variant": "F1B_REFERENCE",
+  "assessment": {
+    "F1A_TIGHT": {
+      "A1_symbolic_sequence_clarity": "Clear but compressed; overlap makes the succession read closer to a quick ripple than a deliberate one-after-another signature.",
+      "A2_cross_surface_restraint": "Prompt and restrained, but the speed reduces the perceptual distinction that justified F1 over generic entrance motion.",
+      "A3_generic_ui_cascade_risk": "Highest of the F1 variants. The 70 ms onset interval approaches familiar list/card cascade behavior.",
+      "A4_false_literal_semantics_risk": "Low-to-moderate because the sequence resolves quickly, though this advantage comes at the cost of symbolic clarity.",
+      "A5_temporal_drag": "Lowest F1 drag; 670 ms total is comfortably prompt.",
+      "A6_f4_reference_check": "Composed, but gains speed by sacrificing some of F1's ownable succession."
+    },
+    "F1B_REFERENCE": {
+      "A1_symbolic_sequence_clarity": "Strong. Each onset is distinct while the motions still overlap enough to read as one coherent event.",
+      "A2_cross_surface_restraint": "Best F1 balance. The same 90/520 timing remains composed at both 56 px WEB and 28 px APP displacement.",
+      "A3_generic_ui_cascade_risk": "Lower than F1A: the cadence feels intentionally measured rather than merely staggered for polish.",
+      "A4_false_literal_semantics_risk": "Moderate-low. Overlap keeps the tokens perceptually related rather than suggesting four completed dependent steps.",
+      "A5_temporal_drag": "Good; 790 ms total leaves enough temporal identity without approaching a full-second wait.",
+      "A6_f4_reference_check": "Closest F1 variant to F4's composure while preserving the Director-valued succession."
+    },
+    "F1C_MEASURED": {
+      "A1_symbolic_sequence_clarity": "Strongest F1 succession; the one-after-another pattern is unmistakable.",
+      "A2_cross_surface_restraint": "Still mechanically clean, but the 890 ms span makes the APP context feel more ceremonious than necessary despite reduced displacement.",
+      "A3_generic_ui_cascade_risk": "Low generic-cascade risk; cadence is distinctive.",
+      "A4_false_literal_semantics_risk": "Highest F1 risk. The greater temporal separation begins to resemble actual ordered progress or dependent steps.",
+      "A5_temporal_drag": "Borderline within the frozen under-one-second law; it is the only F1 variant that approaches the wait threshold perceptually.",
+      "A6_f4_reference_check": "Preserves identity strongly but moves furthest away from F4's temporal economy."
+    },
+    "F4_REFERENCE": {
+      "A1_symbolic_sequence_clarity": "No ordered-onset succession; it cannot express the Director-selected one-after-another identity by itself.",
+      "A2_cross_surface_restraint": "Strongest pure composure reference.",
+      "A3_generic_ui_cascade_risk": "Not applicable as an ordered cascade; remains a useful restraint baseline.",
+      "A4_false_literal_semantics_risk": "Very low because all peers move together.",
+      "A5_temporal_drag": "Low at 620 ms.",
+      "A6_f4_reference_check": "Retained as the benchmark, not recommended to replace F1 under the current adjudication."
+    }
+  },
+  "design_sol_conclusion": "F1B_REFERENCE is the strongest provisional cadence because it preserves unmistakable succession, avoids F1A's generic ripple risk, avoids F1C's literal-process/drag risk, and comes closest to F4's composure without surrendering the symbolic sequence that gives F1 product meaning.",
+  "next": "Director views the exact same labeled comparison and provides product meaning, preference and disagreement if any; only then may Design Sol reconcile a final Director-bound resolution.",
+  "non_authority": {
+    "final_adjudication": false,
+    "production_motion_tokens": false,
+    "stage_motion": false,
+    "app_implementation": false,
+    "website_deployment": false,
+    "final_identity": false
+  },
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "review follows clean browser preflight rather than preceding validation",
+      "Design Sol view frozen before Director F1A/F1B/F1C preference is requested",
+      "F4 remains secondary reference rather than silently replacing F1",
+      "no production timing authority is claimed",
+      "no Stage-motion or implementation authority is created",
+      "review is explicitly direct and non-blinded"
+    ]
+  }
+}
