@@ -16,21 +16,16 @@ jobs:
         with:
           fetch-depth: 0
       - name: Append durable design-ledger closure
-        env:
-          LEDGER_BLOCK_B64: IyMgTC0wMzIg4oCUIFBoYXNlLUIgcmUtZW50cnkgc2VsZWN0cyB0eXBvZ3JhcGhpYy9lZGl0b3JpYWwgaWRlbnRpdHkgaW5kZXBlbmRlbmNlCgoqKlN0YXRlOioqIFEtREVTSUdOLTA0IENMT1NFRCAvIFRZUC0wMSBTRUxFQ1RFRCAvIE5PTi1SRU5ERVIgLyBOTyBDT05WRVJHRU5DRQoKVGhlIHBvc3QtaGVybyBTSEFSRUQtQlJBTkQgZGl2ZXJnZW5jZSByZS1lbnRyeSBhdWRpdCByZXNvbHZlZCBjdXJyZW50IFBoYXNlLUIgYXV0aG9yaXR5IGFnYWluc3QgdGhlIGNhbm9uaWNhbCByb2FkbWFwLCBEcml2ZSBWaXN1YWwgQ29udGludWl0eSBDb25zdGl0dXRpb24sIFZpc3VhbCBFeHBsb3JhdGlvbiBSZWdpc3RyeSBhbmQgY3VycmVudCB0ZW1wb3JhcnkgTGFuZS1CIGFwcHJvdmFscy4gSGVybyBldmlkZW5jZSByZW1haW5zIGZyb3plbiBjb25zdHJhaW50L2hpc3RvcnkgcmF0aGVyIHRoYW4gYW4gaW5jdW1iZW50IHN1cmZhY2UuIE8zLCBUaHJlc2hvbGQgSywgTWluZXJhbCBUaGVhdGVyLCBRdWlldCBTdGFnZSBhbmQgdGhlIFNpdGUgU3BpbmUgcmVtYWluIGJvdW5kZWQgdGVtcG9yYXJ5IGNvbnRyb2xzOyBub25lIGlzIHByb21vdGVkIHRvIGZpbmFsIGlkZW50aXR5LgoKVGhlIGF1ZGl0IGZvdW5kIHRoZSBicm9hZGVyIHR5cG9ncmFwaHkvZWRpdG9yaWFsLXZvaWNlIGF4aXMgbWF0ZXJpYWxseSBvcGVuOiBPMiBhcHByb3ZhbCBleHBsaWNpdGx5IGV4Y2x1ZGVzIHRoZSBicm9hZGVyIHR5cG9ncmFwaHkgc3lzdGVtLCB0aGUgcm9hZG1hcCBuYW1lcyB0eXBvZ3JhcGh5L2VkaXRvcmlhbCB2b2ljZSBhcyBhbiBpbmRlcGVuZGVudCBQaGFzZS1CIFNIQVJFRCBCUkFORCBsYW5lLCBhbmQgbm8gZGVkaWNhdGVkIGN1cnJlbnQgdHlwb2dyYXBoeS1kaXZlcmdlbmNlIHByb2dyYW0gd2FzIGZvdW5kLiBCeSBjb250cmFzdCwgc3ltYm9sL3dvcmRtYXJrL21hdGVyaWFsL3Zpc3VhbC13b3JsZCBsYW5lcyBhbHJlYWR5IGNhcnJ5IHRlbXBvcmFyeSBjb250cm9scyBvciBzdWJzdGFudGlhbCByZWNlbnQgcmVzZWFyY2gsIG1vdGlvbiBhdXRob3JpdHkgcmVtYWlucyBzZXBhcmF0ZWx5IGJvdW5kZWQsIGFuZCB0aGUgcmVnaXN0cnkncyBwcm92aXNpb25hbCBlbXB0eS1hY3RpdmUtcGxhbmUgc2VlZCBpcyB0b28gY2xvc2UgdG8gdGhlIHJlY2VudGx5IHNhdHVyYXRlZCBuZWdhdGl2ZS1zcGFjZS9yZWxhdGlvbmFsIGNhcnJpZXIgZmFtaWx5IHRvIHNlcnZlIGFzIHRoZSBzdHJvbmdlc3Qgb3J0aG9nb25hbCByZXNldC4KClByaW1hcnkgZXZpZGVuY2U6IGBkb2NzL2V2aWRlbmNlL1NIQVJFRF9CUkFORF9WSVNVQUxfSURFTlRJVFlfRElWRVJHRU5DRV9SRUVOVFJZX0FVRElUXzAxLnR4dGAuCgpTZWxlY3RlZCBuZXh0IHF1ZXN0aW9uOiAqKlRZUC0wMSDigJQgVHlwb2dyYXBoaWMgLyBFZGl0b3JpYWwgSWRlbnRpdHkgSW5kZXBlbmRlbmNlKiouIEl0IGFza3Mgd2hldGhlciBLeW1hZWFuIGNhbiBjYXJyeSByZWNvZ25pemFibGUgc2hhcmVkLWJyYW5kIGNoYXJhY3RlciBhY3Jvc3MgZXhwcmVzc2l2ZSB3ZWIgYW5kIHJlc3RyYWluZWQgYXBwLWxpa2UgdXRpbGl0eSBjb250ZXh0cyB0aHJvdWdoIHR5cG9ncmFwaGljL2VkaXRvcmlhbCBiZWhhdmlvciB3aGlsZSBleGlzdGluZyBtYXJrLWxvY2t1cCwgbWF0ZXJpYWwvcGFsZXR0ZSwgaW1hZ2VyeSwgUXVpZXQtU3RhZ2UgY29tcG9zaXRpb24sIHJlbGF0aW9uYWwgdHJhY2VzLCBoZXJvIGdlb21ldHJ5IGFuZCBtb3Rpb24gYXJlIHJlbW92ZWQgYXMgaWRlbnRpdHkgY2FycmllcnMuCgpBIFRZUC0wMSBwYXNzIGVzdGFibGlzaGVzIG9ubHkgYSB2aWFibGUgaWRlbnRpdHkgbWVjaGFuaXNtIGZvciBmdXJ0aGVyIFBoYXNlLUIgY29tcGFyaXNvbjsg it does not select a final typeface/system or satisfy the roadmap's convergence prerequisite by itself.
-
-**Guardrail:** next action is non-render TYP-01 method-contract + deterministic dual-context specimen-matrix construction only. No image generation, renderer spend, final typography/identity/hero, O3 or Threshold-K redesign, material/palette reopening, Quiet-Stage/hero refinement, app implementation, website production/deployment or transcript-dependent Stage motion.
         run: |
           python3 - <<'PY'
-          import base64
-          import os
           from pathlib import Path
-          path = Path('docs/evidence/DESIGN_LEDGER.md')
+          ledger = Path('docs/evidence/DESIGN_LEDGER.md')
+          helper = Path('.tmp/L032_SHARED_BRAND_REENTRY.txt')
           marker = '## L-032 — Phase-B re-entry selects typographic/editorial identity independence'
-          block = base64.b64decode(os.environ['LEDGER_BLOCK_B64']).decode('utf-8')
-          data = path.read_text(encoding='utf-8')
+          data = ledger.read_text(encoding='utf-8')
           if marker not in data:
-              path.write_text(data.rstrip() + '\n\n' + block.rstrip() + '\n', encoding='utf-8')
+              block = helper.read_text(encoding='utf-8').rstrip()
+              ledger.write_text(data.rstrip() + '\n\n' + block + '\n', encoding='utf-8')
           PY
       - name: Generate corpus index
         run: python3 tools/generate_docs_index.py
