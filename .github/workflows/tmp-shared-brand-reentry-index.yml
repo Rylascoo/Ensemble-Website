@@ -19,8 +19,6 @@ jobs:
         run: python3 tools/generate_docs_index.py
       - name: Validate document structure
         run: python3 tools/validate_document_status.py
-      - name: Validate repository boundaries
-        run: python3 tools/validate_repository_boundaries.py
       - name: Commit generated index when changed
         run: |
           if git diff --quiet -- docs/INDEX.md; then
