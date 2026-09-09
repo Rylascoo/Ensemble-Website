@@ -689,3 +689,21 @@ Q-DESIGN-10 closes only after three valid logical primary records are durably fr
 **Next gate:** collect the three genuinely blinded primary records against the exact frozen packet. The first Director/independent-human judgment is a real human evidence boundary and cannot be synthesized by this construction process.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-041 — MOT-01 review instrument v2 corrects pre-reveal product-context blindness
+
+**State:** Q-DESIGN-10 ACTIVE / INSTRUMENT 01 SUPERSEDED BEFORE USE / INSTRUMENT 02 FROZEN / 0 OF 3 PRIMARY RECORDS
+
+A recursive audit immediately after L-040 found one review-integrity omission before any primary record or reviewer exposure: Instrument 01 attested mapping/source blindness but did not explicitly attest **product-context blindness**, even though frozen L-037 makes R1-R5 blind and reveals Kymaean/MOT-01 product context only at R6 after R1-R5 are locked.
+
+Instrument 01 is therefore `SUPERSEDED_BEFORE_FIRST_PRIMARY_REVIEW`. Current authority is `docs/evidence/MOT_01_BLINDED_PRIMARY_REVIEW_INSTRUMENT_02.json`. Instrument 02 adds explicit attestations that MOT-01/Kymaean product purpose and the R6 semantics list were not seen before pre-reveal lock; all three pre-reveal records must still freeze before any R6 reveal.
+
+This correction changes current-run reviewer eligibility, not the frozen population law. Design Sol is ineligible because construction exposed anonymous-to-mechanism mapping. The current Director session is also ineligible because this conversation already exposed the MOT-01 product/shared-brand context. The original method still requires at least one Director **or another independent human** reviewer, so the present run must use three genuinely blind reviewers outside these exposed sessions, with at least one independent human visual reviewer; the other two may be independent humans or genuinely blind independent evaluators.
+
+No scores, pairings, primary records, reviewer exposure, unblinding, family result or convergence existed before this correction. The exact c399 visual packet remains byte-for-byte unchanged.
+
+**Next gate:** distribute only a sanitized pre-reveal kit containing the exact frozen reviewer/harness bytes plus neutral instructions/blank v2 record form to three eligible blind reviewers. Do not include repository access, the blinding key, MOT-01 purpose, Kymaean context, R6 semantics or another reviewer's judgments.
+
+**Guardrail:** no R6 context reveal until all three R1-R5 records are frozen; no family/source mapping until a later successor gate; no aggregation, candidate pass/fail, retuning/F5, production motion tokens, Stage motion, app implementation, website deployment or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRE-USE CORRECTION AUDIT.**

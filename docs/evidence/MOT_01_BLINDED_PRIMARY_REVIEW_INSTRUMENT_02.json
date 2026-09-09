@@ -1,8 +1,10 @@
 {
-  "schema": "kymaean.mot01.blinded-primary-review-instrument.v1",
-  "status": "SUPERSEDED_BEFORE_FIRST_PRIMARY_REVIEW",
+  "schema": "kymaean.mot01.blinded-primary-review-instrument.v2",
+  "status": "FROZEN_REVIEW_INSTRUMENT_ZERO_PRIMARY_RECORDS_NO_UNBLINDING",
   "date": "2026-09-09",
   "program_id": "MOT-01",
+  "supersedes": "docs/evidence/MOT_01_BLINDED_PRIMARY_REVIEW_INSTRUMENT_01.json",
+  "correction_reason": "Pre-use recursive audit found that v1 did not explicitly attest the product-context blindness required by frozen R6 timing. R1-R5 are blind and R6 reveals Kymaean/MOT-01 product context only after those judgments are locked. No primary record or reviewer exposure occurred under v1, so this correction changes only review-integrity mechanics and no family, score, threshold, pass rule or termination law.",
   "authority": {
     "method_path": "docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
     "method_adopted_main_commit": "38e3ea61d336900fb05a0a6b2e8e5206aa23a5d0",
@@ -26,50 +28,24 @@
     "harness_sha256": "df65b57dbf5c4dbbbaeeb431e2c4fd4665132ef00031c998ff6c9acf49f64ff5",
     "review_order": "M01-01 through M01-24",
     "seed_sha256": "7dcd535af9032c9a1ea9cb8c56008f23a826bf13229a226e914ba243bc763c26",
-    "reviewer_must_not_receive": [
+    "reviewer_must_not_receive_before_pre_reveal_lock": [
       "prototypes/mot-01/blinding-key.json",
       "source specimen IDs",
       "anonymous-to-family mapping",
       "family names attached to anonymous IDs",
-      "another primary reviewer's judgments before the reviewer's own pre-reveal record is frozen"
+      "Kymaean/MOT-01 product purpose or shared-brand motion hypothesis",
+      "specific product/Stage semantics being tested in R6",
+      "another primary reviewer's judgments"
     ]
   },
   "anonymous_universe": {
     "WIDE": {
-      "WEB": [
-        "M01-02",
-        "M01-05",
-        "M01-06",
-        "M01-09",
-        "M01-21",
-        "M01-23"
-      ],
-      "APP": [
-        "M01-08",
-        "M01-10",
-        "M01-13",
-        "M01-15",
-        "M01-16",
-        "M01-17"
-      ]
+      "WEB": ["M01-02", "M01-05", "M01-06", "M01-09", "M01-21", "M01-23"],
+      "APP": ["M01-08", "M01-10", "M01-13", "M01-15", "M01-16", "M01-17"]
     },
     "REFLOW_320": {
-      "WEB": [
-        "M01-03",
-        "M01-04",
-        "M01-07",
-        "M01-19",
-        "M01-20",
-        "M01-22"
-      ],
-      "APP": [
-        "M01-01",
-        "M01-11",
-        "M01-12",
-        "M01-14",
-        "M01-18",
-        "M01-24"
-      ]
+      "WEB": ["M01-03", "M01-04", "M01-07", "M01-19", "M01-20", "M01-22"],
+      "APP": ["M01-01", "M01-11", "M01-12", "M01-14", "M01-18", "M01-24"]
     }
   },
   "review_population": {
@@ -83,44 +59,46 @@
       "independent_evaluator",
       "construction_author"
     ],
-    "current_design_sol_eligibility": "INELIGIBLE_FOR_PRIMARY_BLIND_RECORD_IN_THIS RUN because the construction/preflight process inspected implementation-level anonymous-to-mechanism mapping. This does not amend the general method allowance of at most one construction-author record; it preserves blindness for the present packet."
+    "current_design_sol_eligibility": "INELIGIBLE_FOR_PRIMARY_BLIND_RECORD_IN_THIS RUN because the construction/preflight process inspected implementation-level anonymous-to-mechanism mapping.",
+    "current_director_session_eligibility": "INELIGIBLE_FOR_PRIMARY_BLIND_RECORD_IN_THIS RUN because the current Director session has already received the MOT-01 product/shared-brand context before R1-R5 could be locked.",
+    "current_run_requirement": "Use three genuinely blind reviewers who have not seen the anonymous mapping or MOT-01/Kymaean product context before R1-R5 lock. At least one of the three must be an independent human visual reviewer outside the construction process; the other two may be independent humans or genuinely blind independent evaluators."
   },
   "review_sequence": [
     {
       "step": 1,
       "id": "BLIND_PACKET_EXPOSURE",
-      "rule": "Reviewer receives only the frozen reviewer surface plus harness bytes and these instructions. Do not browse the repository, blinding key, source specimen IDs or family mapping. Replay is explicit and may be used as needed; no autoplay or automatic repetition is introduced."
+      "rule": "Reviewer receives only the frozen reviewer surface plus harness bytes and pre-reveal neutral instructions. Do not identify Kymaean, Ensemble, shared-brand research, MOT-01 purpose, product semantics, family names, source IDs or mapping. The literal MOT-01 label already present in the frozen reviewer title is treated only as an opaque experiment identifier and must not be explained. Replay is explicit and may be used as needed."
     },
     {
       "step": 2,
       "id": "R1_R2_PAIRING",
-      "rule": "At WIDE and REFLOW_320 independently, pair every anonymous WEB specimen to exactly one anonymous APP specimen by perceived motion mechanism. Each WEB and APP ID must be used exactly once at its viewport. This single six-pair bijection per viewport supplies the frozen R1 control-calibration pairing evidence and R2 candidate-pairing evidence after later unblinding."
+      "rule": "At WIDE and REFLOW_320 independently, pair every anonymous WEB specimen to exactly one anonymous APP specimen by perceived motion mechanism. Each WEB and APP ID must be used exactly once at its viewport. This supplies frozen R1 control-calibration pairing evidence and R2 candidate-pairing evidence after later unblinding."
     },
     {
       "step": 3,
       "id": "INSTRUMENT_ONLY_CROSS_WIDTH_GROUPING",
       "scored": false,
-      "rule": "Without source/family disclosure, match the six WIDE WEB-APP pairs to the six REFLOW_320 WEB-APP pairs by perceived same mechanism and assign reviewer-local group labels G1 through G6. This is a mechanical record-addressing step only; it creates no new pass criterion or score. It allows one candidate-level R3/R4/R5 judgment per reviewer while all four context/viewport specimens remain visible."
+      "rule": "Without source/family/product disclosure, match the six WIDE WEB-APP pairs to the six REFLOW_320 WEB-APP pairs by perceived same mechanism and assign reviewer-local group labels G1 through G6. This is record addressing only and adds no pass criterion or score."
     },
     {
       "step": 4,
       "id": "R3_R5_PRE_REVEAL_JUDGMENT",
-      "rule": "For each reviewer-local G1-G6 group, lock one forced genericity category, one R4 distinctiveness score and one R5 cross-surface-restraint score after considering its four anonymous specimens. Do not receive Kymaean/MOT-01 product context yet."
+      "rule": "For each reviewer-local G1-G6 group, lock one forced genericity category, one R4 distinctiveness score and one R5 cross-surface-restraint score after considering its four anonymous specimens. Product identity/purpose remains undisclosed."
     },
     {
       "step": 5,
       "id": "GLOBAL_PRE_REVEAL_LOCK",
-      "rule": "All three primary reviewers' R1-R5 pre-reveal records must be durably frozen before any primary reviewer receives the R6 product-context reveal. This stricter global barrier prevents cross-review contamination while leaving the frozen score law unchanged."
+      "rule": "All three primary reviewers' R1-R5 pre-reveal records must be durably frozen before any primary reviewer receives the R6 product-context reveal."
     },
     {
       "step": 6,
       "id": "R6_CONTEXT_REVEAL_ONLY",
-      "rule": "Reveal only that Kymaean/MOT-01 is testing a shared-brand motion mechanism across expressive WEB and restrained APP-like contexts and ask whether each anonymous group falsely implies completion, loading, success/failure, causal commit, Character acting, Stage transition or another specific product semantic absent from the neutral fixture. Do not reveal family/source IDs or the blinding key."
+      "rule": "After all three pre-reveal locks, reveal only that Kymaean/MOT-01 is testing a shared-brand motion mechanism across expressive WEB and restrained APP-like contexts and ask whether each anonymous group falsely implies completion, loading, success/failure, causal commit, Character acting, Stage transition or another specific product semantic absent from the neutral fixture. Do not reveal family/source IDs or the blinding key."
     },
     {
       "step": 7,
       "id": "POST_REVEAL_ADDENDUM_LOCK",
-      "rule": "Each reviewer freezes an R6 addendum referencing the SHA-256 of that reviewer's already-frozen pre-reveal record. The addendum cannot alter pairings, groups, R3 category, R4 score or R5 score."
+      "rule": "Each reviewer freezes an R6 addendum referencing the SHA-256 of that reviewer's immutable pre-reveal record. The addendum cannot alter pairings, groups, R3 category, R4 score or R5 score."
     },
     {
       "step": 8,
@@ -156,7 +134,7 @@
     ]
   },
   "pre_reveal_record_schema": {
-    "schema": "kymaean.mot01.primary-review.pre-reveal.v1",
+    "schema": "kymaean.mot01.primary-review.pre-reveal.v2",
     "required_top_level_fields": [
       "schema",
       "record_id",
@@ -168,17 +146,13 @@
       "group_judgments",
       "locked_at"
     ],
-    "record_id_allowed": [
-      "PR-01",
-      "PR-02",
-      "PR-03"
-    ],
+    "record_id_allowed": ["PR-01", "PR-02", "PR-03"],
     "reviewer_provenance": {
       "reviewer_role": "one accepted review_population role",
       "human": "boolean",
       "director": "boolean",
       "construction_author": "boolean",
-      "reviewer_label": "non-identifying stable label such as Director-01 or Independent-01"
+      "reviewer_label": "non-identifying stable label such as Independent-Human-01 or Independent-Evaluator-01"
     },
     "packet_provenance": {
       "website_commit": "c3999320a60bed0d455d985966bc0eee57f7c5bf",
@@ -189,18 +163,20 @@
       "blinding_key_not_seen": true,
       "anonymous_to_family_mapping_not_seen": true,
       "source_specimen_ids_not_seen": true,
+      "product_context_and_mot01_purpose_not_seen": true,
+      "specific_r6_product_semantics_not_seen": true,
       "other_primary_judgments_not_seen_before_pre_reveal_lock": true
     },
     "pairing": {
       "WIDE": "array of exactly six {web_id, app_id} entries forming a bijection over anonymous_universe.WIDE",
       "REFLOW_320": "array of exactly six {web_id, app_id} entries forming a bijection over anonymous_universe.REFLOW_320"
     },
-    "cross_width_groups": "array of exactly six entries {group_id:G1..G6, wide:{web_id,app_id}, reflow_320:{web_id,app_id}}. Every declared pair must exist in pairing and every one of the 12 viewport-level pairs is used once across G1-G6.",
+    "cross_width_groups": "array of exactly six entries {group_id:G1..G6, wide:{web_id,app_id}, reflow_320:{web_id,app_id}}. Every declared pair must exist in pairing and every viewport-level pair is used once across G1-G6.",
     "group_judgments": "object keyed G1..G6; each value requires genericity from forced R3 values, distinctiveness integer 0..2, cross_surface_restraint integer 0..2, and optional concise blind_note.",
     "locked_at": "ISO-8601 timestamp supplied when record is frozen"
   },
   "post_reveal_addendum_schema": {
-    "schema": "kymaean.mot01.primary-review.post-reveal.v1",
+    "schema": "kymaean.mot01.primary-review.post-reveal.v2",
     "required_top_level_fields": [
       "schema",
       "record_id",
@@ -212,7 +188,7 @@
     "record_id_rule": "must equal referenced pre-reveal record_id",
     "pre_reveal_sha256": "SHA-256 of immutable pre-reveal JSON bytes",
     "context_reveal_attestation": {
-      "r1_r5_were_already_locked": true,
+      "all_three_pre_reveal_records_were_already_locked": true,
       "family_mapping_still_not_revealed": true,
       "revealed_context_only": "Kymaean/MOT-01 shared-brand motion identity question; no anonymous-to-family mapping"
     },
@@ -221,12 +197,14 @@
   },
   "mechanical_validation_before_acceptance": [
     "Reviewer packet hashes equal the frozen c399 packet hashes.",
-    "Record ID is unique among PR-01..PR-03.",
-    "Reviewer role/count law remains satisfiable: no more than one construction-author record and at least one Director/independent-human record across three primaries.",
+    "Record ID is unique among PR-01..PR-03 and each record is from a distinct reviewer.",
+    "Current-run reviewer has not seen product context/MOT-01 purpose, mapping, family/source IDs or another primary judgment before pre-reveal lock.",
+    "Across three records, at least one reviewer is an independent human visual reviewer outside construction; no ineligible current Design Sol or current Director-session record is accepted.",
     "WIDE and REFLOW_320 pairings are exact six-pair bijections over the frozen anonymous sets.",
-    "G1-G6 cross-width groups reference only already-declared pairs and cover all pairs exactly once.",
+    "G1-G6 cross-width groups reference only declared pairs and cover all pairs exactly once.",
     "Every G1-G6 has exactly one forced R3 category and integer R4/R5 values in 0..2.",
-    "Pre-reveal blindness attestations are all true.",
+    "All six pre-reveal blindness attestations are true.",
+    "No R6 reveal occurs until all three pre-reveal records are durably frozen.",
     "Post-reveal addendum references the exact immutable pre-reveal SHA-256 and does not replace it.",
     "R6 false-semantics flags/categories obey the declared shape.",
     "No record contains source family IDs, source specimen IDs, blinding-key content, aggregate candidate scores or family pass/fail conclusions before the successor unblinding gate."
@@ -248,20 +226,21 @@
     ]
   },
   "recursive_audit": {
-    "result": "CLEAN",
+    "result": "CLEAN_AFTER_PRE_USE_CORRECTION",
     "checks": [
+      "v1 had zero primary records and no reviewer exposure before correction",
+      "R6 timing proves product context is part of the pre-reveal blind boundary",
+      "current Design Sol is excluded because mapping was seen",
+      "current Director session is excluded because product context was already seen",
+      "at least one genuinely blind independent human remains mandatory under the original Director-or-independent-human law",
       "instrument contains no anonymous-to-family mapping",
       "pairing tasks reproduce frozen R1/R2 without adding score authority",
-      "cross-width grouping is explicitly unscored and only provides blind record addressing for candidate-level R3/R4/R5 judgments",
-      "forced categories and 0..2 scales are copied unchanged from the frozen method",
-      "global pre-reveal lock strengthens contamination control without changing candidate thresholds",
-      "R6 reveals product context but still withholds family mapping until successor unblinding",
-      "pre/post split makes R1-R5 immutability machine-verifiable",
-      "current Design Sol is excluded from a primary record because construction exposed the mapping in this run",
-      "three-record population law and Stage-motion boundary are preserved"
+      "cross-width grouping remains explicitly unscored record addressing only",
+      "forced categories and 0..2 scales are copied unchanged",
+      "global pre-reveal lock prevents cross-review/context contamination",
+      "R6 still withholds family mapping until successor unblinding",
+      "no method threshold, family, timing, termination or Stage-motion boundary changes"
     ],
-    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION \u2014 CLEAN RECURSIVE AUDIT."
-  },
-  "superseded_by": "docs/evidence/MOT_01_BLINDED_PRIMARY_REVIEW_INSTRUMENT_02.json",
-  "supersession_reason": "Pre-use audit found missing explicit product-context blindness attestation required by frozen R6 timing. Zero primary records existed under v1."
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+  }
 }
