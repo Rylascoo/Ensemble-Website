@@ -13,20 +13,14 @@ Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/
 ## Hero — STATIC RESEARCH PAUSED
 Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 unchanged. No final hero. Q-DESIGN-02 Stage motion still waits on real blinded E0-A vs E0-E evidence.
 
-## Shared brand — CS2 ENVELOPE PREFLIGHT CLEAN / DIRECTOR REVIEW READY
-F1 — Ordered Stagger remains provisional. **F1A Tight = 70 ms onset / 460 ms movement / 670 ms four-unit completion**, easing `cubic-bezier(0.2,0,0,1)`. Research references only, not production tokens.
+## Shared brand — MOT-01 CLOSED / CLR-01 SELECTED
+MOT-01 closes successfully by `docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_DIRECTOR_DELEGATED_ADJUDICATION_01.json`. Director delegated the detailed Q-DESIGN-16 contextual judgment to Design Sol rather than independently scoring each exemplar.
 
-Q-DESIGN-15 selected **CS2 — Balanced Crossfade Exchange** for eligible already-ready context replacement. Director values its easy-on-the-eyes, low-micro-twitch-fatigue and gentle mysterious / slightly magical character; Design Sol values its semantic neutrality versus F1A.
+Provisional motion evidence only: **F1A Tight** = bounded within-context succession; **CS2 Balanced Crossfade Exchange** = eligible already-ready genuine context replacement; **CUT** = first-class outcome for reduced motion, interruption/retarget, unavailable incoming content, fatigue/noisy overlap, non-replacement semantics or compromised interaction truth. Fixture timings/easing are not production tokens.
 
-Q-DESIGN-16 contract: `docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_CONTRACT_01.json`. CS2 is field-level opacity exchange only. Semantic/interaction truth commits independently at transition start. F1A owns bounded succession within context; CS2 owns eligible context replacement; never concurrently/auto-chained for one state change.
-
-Six-case exemplar: `prototypes/mot-01/cs2-envelope/exemplars.html`. Clean hosted Chrome evidence: `docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_EXEMPLAR_PREFLIGHT_01.json` — **24/24 FULL + 24/24 REDUCED + 4/4 retarget per mode PASS**. Reduced motion and mid-transition retarget CUT directly to newest final context.
-
-Design Sol view is frozen in `docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_DESIGN_SOL_VIEW_01.json`: A1 APPROVE; A2/A3 APPROVE WITH RESTRAINT; N1/N3 PROHIBIT; N2 CUT FALLBACK. CUT is part of the system whenever overlap is tiring, incoming content is unavailable, semantics are not replacement, or interaction/state truth would be compromised.
-
-The 280 ms/easing values remain fixture evidence only, not production tokens.
+Q-DESIGN-17 post-MOT orthogonal re-entry audit is complete in `docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_03.txt`: **CLR-01 — Cross-Surface Color-Logic Independence** is the strongest next Phase-B question. Existing Mineral Theater/palette history is quarantined; no final palette is selected.
 
 ## Exact next action / hard boundary
-Present the exact six-case APP/WEB × WIDE/320 exemplar for direct Director + Design Sol adjudication. Director decides approve/correct/reject the frozen use envelope. Do not retune cases after viewing.
+Q-DESIGN-18: construct the CLR-01 non-render method contract + deterministic APP/WEB color specimen matrix. Freeze neutral carrier, role logic, controls, accessibility floors, historical-palette quarantine, APP/WEB adaptation, review tasks and hard-failure/no-reroll law before judging any candidate.
 
-Do not reopen F1A cadence, generalize crossfade to every screen/page change, create production motion tokens, implement app/site/navigation motion, authorize Character/Scene/Stage/Performance/Take/Opportunity timing, claim final identity, or enter Phase-C convergence.
+No image generation/renderer spend. No production color or motion tokens. No app/site theming or implementation. No semantic status-color system. No O3/Threshold-K/Mineral-Theater/TYP-01/hero reopening. No Stage motion, final identity or Phase-C convergence.
