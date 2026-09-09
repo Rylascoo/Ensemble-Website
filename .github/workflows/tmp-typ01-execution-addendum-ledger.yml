@@ -1,0 +1,40 @@
+name: Temporary TYP-01 execution-addendum ledger materialization
+
+on:
+  push:
+    branches:
+      - tmp/typ01-execution-addendum-ledger
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - name: Validate execution addendum JSON
+        run: python3 -m json.tool docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json > /dev/null
+      - name: Append durable L-034 closure
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          ledger = Path('docs/evidence/DESIGN_LEDGER.md')
+          helper = Path('.tmp/L034_TYP01_EXECUTION_ADDENDUM.frag')
+          marker = '## L-034 — TYP-01 execution defaults are frozen before specimen materialization'
+          data = ledger.read_text(encoding='utf-8')
+          if marker not in data:
+              ledger.write_text(data.rstrip() + '\n\n' + helper.read_text(encoding='utf-8').rstrip() + '\n', encoding='utf-8')
+          PY
+      - name: Validate document structure
+        run: python3 tools/validate_document_status.py
+      - name: Commit durable ledger closure
+        run: |
+          if git diff --quiet -- docs/evidence/DESIGN_LEDGER.md; then exit 0; fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add docs/evidence/DESIGN_LEDGER.md
+          git commit -m "tmp: materialize TYP-01 execution addendum closure"
+          git push origin HEAD:tmp/typ01-execution-addendum-ledger
