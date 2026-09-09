@@ -6,7 +6,7 @@
   "program_id": "TYP-01",
   "title": "Typographic / Editorial Identity Independence",
   "question": "Can Kymaean carry recognizable shared-brand character across an expressive public-web context and a restrained app-like utility context through typographic/editorial behavior when existing mark-lockup, palette/material cues, imagery, Quiet-Stage composition, relational traces, hero geometry and motion are removed as identity carriers?",
-  "scope_interpretation": "This is a deliberately strong identity-independence screen. It tests transferable typographic/editorial grammar before any typeface selection. A failure does not prove typography cannot contribute to Kymaean identity; it proves the tested grammar cannot carry the required identity burden under these isolation conditions.",
+  "scope_interpretation": "This is a deliberately strong identity-independence screen. It tests transferable typographic/editorial grammar before any typeface selection. Failure does not prove typography cannot contribute to Kymaean identity; it proves the tested grammar cannot carry the required identity burden under these isolation conditions.",
   "authority": {
     "volatile_design_state": "CURRENT_STATE.md",
     "durable_design_ledger": "docs/evidence/DESIGN_LEDGER.md#L-032",
@@ -37,14 +37,14 @@
     }
   },
   "non_authority": [
-    "The fixture copy is measurement text, not final website or product copy and does not freeze product terminology.",
+    "Fixture copy is measurement text, not final website or product copy and does not freeze product terminology.",
     "No reference typeface, font family, weight, optical size or specimen value becomes a final typography selection.",
     "No family in this matrix is a final identity family or a Phase-C convergence decision.",
     "This contract creates no image-generation, renderer-spend, app-implementation, website-production, deployment or motion authority.",
-    "O3 and Threshold K remain outside the scored specimens; this experiment neither redesigns nor extends them into a typography system."
+    "O3 and Threshold K remain outside scored specimens; this experiment neither redesigns nor extends them into a typography system."
   ],
   "hypotheses": {
-    "H1": "A transferable typographic/editorial grammar can remain recognizably one family across expressive-web and restrained app-like contexts without non-typographic brand carriers.",
+    "H1": "One transferable typographic/editorial grammar can remain recognizably one family across expressive-web and restrained app-like contexts without non-typographic brand carriers.",
     "H2": "The same grammar can adapt its degree of expression without becoming two unrelated surface-specific systems.",
     "H3": "A first strong-independence survivor does not require bespoke glyph drawing, brand-name recognition, decorative display typography or face-specific novelty.",
     "null": "If web/app pairing, product-truth fit, readability or genericity resistance fails under the frozen isolation contract, TYP-01 strong independence does not survive."
@@ -70,20 +70,21 @@
       "note": "Measurement neutrals only; no palette authority."
     },
     "reference_typeface_policy": {
-      "rule": "Resolve one ordinary host-provided neutral sans/system UI face mechanically before specimen construction and use the exact same computed face for every family, control, context and viewport.",
+      "requested_css_stack": "system-ui, sans-serif",
+      "rule": "Use this exact CSS stack for every family, control, context and viewport inside one frozen execution environment.",
       "record_required": [
-        "requested CSS font-family stack",
         "computed font family",
-        "host/browser identity",
-        "computed font style and available weights"
+        "host operating system identity",
+        "browser name and version",
+        "computed font style and computed weights"
       ],
-      "invalid_if": "Any specimen resolves to a materially different computed family or substitutes a custom/bespoke/downloaded face.",
-      "authority_note": "The resolved face is a fixture carrier only and gains no selection authority."
+      "invalid_if": "Any specimen resolves to a materially different computed family or substitutes a custom, bespoke or downloaded face.",
+      "authority_note": "The resolved host face is a fixture carrier only and gains no selection authority."
     },
     "allowed_variables": [
       "relative type size",
-      "available font weight",
-      "available italic/style",
+      "CSS font weight 400, 500, 600 or 700",
+      "italic versus upright where declared",
       "letter spacing",
       "line height",
       "case",
@@ -92,7 +93,7 @@
       "indentation",
       "block and paragraph spacing",
       "line-break policy",
-      "allocation of emphasis among the frozen content blocks"
+      "allocation of emphasis among frozen content blocks"
     ],
     "forbidden_rescue": "No copy rewrite, added label, icon, color, shape, rule, image, custom glyph, brand name, mark, material effect or context-specific decorative device may be added to improve a weak family after construction."
   },
@@ -117,10 +118,10 @@
       "base_unit_u": "18 CSS reference px",
       "content_order": ["P1", "P2", "P3", "P4", "P5", "P6"],
       "fixed_rules": [
-        "text only on the neutral surface",
+        "text only on neutral surface",
         "left aligned",
         "no application chrome",
-        "family may use whitespace and measure for expression but may not change content order or wording"
+        "whitespace and measure may carry expression but wording/order remain fixed"
       ]
     },
     "APP": {
@@ -130,11 +131,11 @@
       "base_unit_u": "16 CSS reference px",
       "content_order": ["P1", "P2", "P3", "P4", "P5", "P6"],
       "fixed_rules": [
-        "text only on the neutral surface",
+        "text only on neutral surface",
         "left aligned",
         "no navigation, cards, icons or application chrome",
-        "P3-P6 must remain quickly scannable",
-        "family may reduce expressive scale/spacing only through its frozen APP adaptation rule"
+        "P3-P6 remain quickly scannable",
+        "expression may reduce only through frozen APP adaptation multipliers"
       ]
     },
     "frame_note": "Reference frames are experimental canvases, not production viewport/window requirements."
@@ -144,9 +145,9 @@
       "name": "Neutral Utility negative control",
       "purpose": "Readable generic hierarchy with intentionally low identity burden.",
       "vector": {
-        "P1": "2.0u / weight 600 / line-height 1.15 / tracking 0",
-        "P2": "1.0u / weight 400 / line-height 1.50 / tracking 0",
-        "P3-P6": "1.0u / values 500; labels 0.875u / 600 / sentence case / tracking 0",
+        "P1": "2.0u / 600 / line-height 1.15 / tracking 0",
+        "P2": "1.0u / 400 / line-height 1.50 / tracking 0",
+        "P3-P6": "values 1.0u / 500; labels 0.875u / 600 / sentence case / tracking 0",
         "measure": "65ch maximum",
         "spacing": "uniform 1.0u block gap",
         "indentation": "none",
@@ -155,13 +156,13 @@
     },
     "CPOS": {
       "name": "Cross-context pairing calibration positive control",
-      "purpose": "Deliberately obvious synthetic grammar used only to verify that reviewers can perform the pairing task; excluded from Kymaean scoring.",
+      "purpose": "Deliberately obvious synthetic grammar used only to verify reviewer pairing; excluded from Kymaean scoring.",
       "vector": {
-        "P1": "3.0u / weight 650 when available else nearest available weight / line-height 1.00",
-        "P2": "1.0u / weight 400 / line-height 1.60",
+        "P1": "3.0u / 600 / line-height 1.00",
+        "P2": "1.0u / 400 / line-height 1.60",
         "P3-P6": "values 1.10u / 600; labels 0.72u / 700 / uppercase / tracking +0.16em",
         "measure": "48ch maximum",
-        "spacing": "2.4u major gap after P2; 0.8u inside utility sequence",
+        "spacing": "2.4u after P2; 0.8u inside utility sequence",
         "indentation": "alternating 0ch and 3ch across P3-P6",
         "italic": "none"
       }
@@ -176,7 +177,7 @@
         "P2": "1.05u / 400 / line-height 1.55 / tracking 0",
         "P3-P6": "values 1.05u / 500 / line-height 1.35; labels 0.75u / 600 / uppercase / tracking +0.08em",
         "measure": "58ch maximum",
-        "spacing": "0.75u within related label/value blocks; 1.5u normal block gap; 2.5u after P2",
+        "spacing": "0.75u within label/value blocks; 1.5u normal block gap; 2.5u after P2",
         "indentation": "none",
         "italic": "none"
       },
@@ -188,7 +189,7 @@
       "vector": {
         "P1": "2.4u / 500 / line-height 1.08 / tracking -0.01em",
         "P2": "1.0u / 400 / line-height 1.60 / tracking 0",
-        "P3-P6": "values 1.18u / 550 when available else nearest available weight / line-height 1.30; labels 0.82u / 500 / sentence case",
+        "P3-P6": "values 1.18u / 600 / line-height 1.30; labels 0.82u / 500 / sentence case",
         "measure": "46ch maximum",
         "spacing": "2.8u after P2; 1.2u after P3; 2.2u after P4; 1.2u after P5",
         "indentation": "none",
@@ -203,19 +204,19 @@
         "P1": "2.2u / 600 / line-height 1.10 / tracking -0.01em",
         "P2": "1.0u / 400 / line-height 1.55",
         "P4": "value 1.05u / 400 italic / line-height 1.45",
-        "P3,P5,P6": "values 1.0u / 550 when available else nearest available weight / upright / line-height 1.35",
-        "P3-P6 labels": "0.74u / 650 when available else nearest available weight / uppercase / tracking +0.06em / upright",
+        "P3,P5,P6": "values 1.0u / 600 / upright / line-height 1.35",
+        "P3-P6 labels": "0.74u / 600 / uppercase / tracking +0.06em / upright",
         "measure": "60ch maximum",
         "spacing": "1.25u regular block gap; 2.4u after P2",
         "indentation": "none"
       },
-      "primary_risk": "semantic coding masquerading as identity, literary affect, or visual implication that typography itself changes authority"
+      "primary_risk": "semantic coding masquerading as identity, literary affect, or visual implication that typography changes authority"
     },
     "F4": {
       "name": "Compression / Release",
       "mechanism": "Identity through a repeatable contrast between a spacious explanatory opening and a compact but legible present-state sequence.",
       "vector": {
-        "P1": "2.5u / 650 when available else nearest available weight / line-height 1.05 / tracking -0.015em",
+        "P1": "2.5u / 600 / line-height 1.05 / tracking -0.015em",
         "P2": "0.95u / 400 / line-height 1.45",
         "P3-P6": "values 1.05u / 500 / line-height 1.30; labels 0.72u / 700 / uppercase / tracking +0.10em",
         "measure": "54ch maximum",
@@ -228,24 +229,9 @@
   },
   "context_adaptation": {
     "principle": "Family mechanism, content order, type-register relationships and emphasis ordering are invariant. Context changes magnitude, never grammar.",
-    "WEB": {
-      "P1_size_multiplier": 1.0,
-      "block_spacing_multiplier": 1.0,
-      "measure_multiplier": 1.0
-    },
-    "APP": {
-      "P1_size_multiplier": 0.78,
-      "block_spacing_multiplier": 0.72,
-      "measure_multiplier": 0.90,
-      "body_and_value_size_multiplier": 1.0,
-      "label_tracking_multiplier": 1.0
-    },
-    "REFLOW_320": {
-      "size_reduction": "none beyond the APP context multiplier already defined",
-      "measure": "available width",
-      "horizontal_scroll": "forbidden",
-      "content_reorder": "forbidden"
-    }
+    "WEB": {"P1_size_multiplier": 1.0, "block_spacing_multiplier": 1.0, "measure_multiplier": 1.0},
+    "APP": {"P1_size_multiplier": 0.78, "block_spacing_multiplier": 0.72, "measure_multiplier": 0.90, "body_and_value_size_multiplier": 1.0, "label_tracking_multiplier": 1.0},
+    "REFLOW_320": {"size_reduction": "none beyond APP multiplier already defined", "measure": "available width", "horizontal_scroll": "forbidden", "content_reorder": "forbidden"}
   },
   "matrix": {
     "families_in_order": ["CNEG", "CPOS", "F1", "F2", "F3", "F4"],
@@ -253,19 +239,19 @@
     "viewports_in_order": ["WIDE", "REFLOW_320"],
     "specimen_id_rule": "{family}-{context}-{viewport}",
     "cartesian_product_count": 24,
-    "generation_rule": "Generate exactly one specimen for every ordered family × context × viewport tuple. Every specimen consumes CP-01 unchanged, the named family/control vector, the named context contract and the applicable adaptation multipliers. No additional specimens are scored."
+    "generation_rule": "Generate exactly one specimen for every ordered family × context × viewport tuple. Every specimen consumes CP-01 unchanged, the named family/control vector, the named context contract and applicable adaptation multipliers. No additional specimens are scored."
   },
   "construction_outputs": {
     "required": [
       "one deterministic local text-only HTML specimen harness under prototypes/typ-01/",
       "one machine-readable manifest enumerating all 24 specimen IDs and computed reference-face metadata",
-      "one source hash record covering the frozen contract, harness and manifest",
-      "wide and 320px deterministic views for structural/accessibility preflight",
-      "a blinded reviewer packet generated from the same source without modifying specimen styling"
+      "one source hash record covering frozen contract, harness and manifest",
+      "wide and 320px deterministic structural/accessibility preflight views",
+      "one blinded reviewer packet generated from identical source without specimen-style mutation"
     ],
     "prohibited": [
       "image-generation output",
-      "renderer-generated artwork",
+      "generative-renderer artwork",
       "screenshots used as substitute authority for source",
       "candidate-specific styling corrections after scoring begins"
     ]
@@ -275,12 +261,12 @@
       "all 24 specimen IDs exist exactly once",
       "all specimens contain CP-01 byte-identical visible strings in P1-P6 order",
       "computed reference face is identical across all specimens",
-      "excluded marks/names/images/icons/colors/material effects are absent",
+      "excluded marks, names, images, icons, colors and material effects are absent",
       "normal and large text contrast floors are met",
       "200% text resize produces no content/function loss",
       "320px reflow produces no horizontal scrolling or clipped text",
       "WCAG text-spacing stress values produce no clipping, overlap or content loss",
-      "APP P3-P6 remain visually distinguishable as a scannable sequence",
+      "APP P3-P6 remain a scannable sequence",
       "WEB and APP preserve each family's declared invariant emphasis relationships"
     ],
     "failure_consequence": "Correct only mechanical implementation deviations from this frozen contract. A correction that changes a family mechanism or scoring law requires method reopening before evaluation."
@@ -293,73 +279,45 @@
       "computed reference-face record",
       "mapping key from real family IDs to blinded IDs"
     ],
-    "blinding": "Assign independent opaque labels to the six WEB families and six APP families. Preserve the mapping key outside reviewer-visible material. Reviewer-visible packets must not contain F1-F4/CNEG/CPOS names, mechanism descriptions or project-history provenance.",
+    "blinding": "Assign independent opaque labels to six WEB families and six APP families. Keep the mapping key outside reviewer-visible material. Reviewer packets must not contain F1-F4/CNEG/CPOS names, mechanism descriptions or project-history provenance.",
     "reviewer_minimum": 3,
-    "independence_rule": "The construction author cannot be the sole deciding reviewer. At least one review record must come from a human Director or other independent visual reviewer, and final survivor status may not be established entirely inside the same construction context.",
+    "independence_rule": "The construction author cannot be the sole deciding reviewer. At least one review record must come from the human Director or another independent visual reviewer, and survivor status may not be established entirely inside the same construction context.",
     "tasks": [
-      "Pair each WEB specimen with the APP specimen that appears to belong to the same visual family at WIDE.",
-      "Repeat the pairing independently at REFLOW_320.",
-      "For every proposed pair, score the frozen dimensions without seeing the mapping key.",
+      "Pair each WEB specimen with the APP specimen that appears to belong to the same family at WIDE.",
+      "Repeat pairing independently at REFLOW_320.",
+      "For every proposed pair, score all frozen dimensions without seeing the mapping key.",
       "Assign one forced genericity category."
     ],
     "dimensions": {
-      "distinctiveness": {
-        "0": "generic/default; no memorable family character",
-        "1": "some character but familiar/category-generic",
-        "2": "clear non-ornamental character that remains identifiable across contexts"
-      },
-      "product_truth_fit": {
-        "0": "implies chat, technical dashboard, spectacle, false authority or unrelated luxury/editorial semantics",
-        "1": "compatible but not meaningfully product-true",
-        "2": "supports persistence, human consequence and changing possibility without exposing backend structure"
-      },
-      "web_expression": {
-        "0": "flat or unusably theatrical",
-        "1": "adequate explanatory expression",
-        "2": "strong public-facing expression without spectacle dependence"
-      },
-      "app_utility": {
-        "0": "ordinary task scanning/reading is impeded",
-        "1": "usable with noticeable friction",
-        "2": "quiet, immediate and robust for utility reading"
-      },
-      "readability": {
-        "0": "hierarchy or reading is materially unclear",
-        "1": "readable with minor ambiguity",
-        "2": "immediately legible hierarchy and comfortable reading"
-      }
+      "distinctiveness": {"0": "generic/default", "1": "some character but category-familiar", "2": "clear non-ornamental character identifiable across contexts"},
+      "product_truth_fit": {"0": "implies chat, technical dashboard, spectacle, false authority or unrelated luxury/editorial semantics", "1": "compatible but weakly product-true", "2": "supports persistence, human consequence and changing possibility without exposing backend structure"},
+      "web_expression": {"0": "flat or unusably theatrical", "1": "adequate explanatory expression", "2": "strong public-facing expression without spectacle dependence"},
+      "app_utility": {"0": "ordinary task scanning/reading impeded", "1": "usable with noticeable friction", "2": "quiet, immediate and robust for utility reading"},
+      "readability": {"0": "hierarchy/reading materially unclear", "1": "readable with minor ambiguity", "2": "immediately legible hierarchy and comfortable reading"}
     },
-    "genericity_categories": [
-      "kymaean_specific",
-      "generic_luxury_editorial",
-      "generic_ai_futurism",
-      "generic_saas_product",
-      "generic_windows_system",
-      "decorative_theater",
-      "none_of_these"
-    ]
+    "genericity_categories": ["kymaean_specific", "generic_luxury_editorial", "generic_ai_futurism", "generic_saas_product", "generic_windows_system", "decorative_theater", "none_of_these"]
   },
   "control_validity": {
     "CPOS": "At least 2 of 3 reviewers must correctly pair CPOS at both WIDE and REFLOW_320. Otherwise the review session is invalid and no family result is recorded.",
-    "CNEG": "CNEG should remain readable while carrying low distinctiveness. If a majority gives CNEG distinctiveness=2 and product_truth_fit=2, the session is treated as non-discriminating and no family result is recorded.",
-    "non_compensation": "A valid CPOS cannot rescue a failed family and a weak CNEG cannot lower a family threshold. Controls validate the review procedure only."
+    "CNEG": "CNEG should remain readable while carrying low distinctiveness. If a majority gives CNEG distinctiveness=2 and product_truth_fit=2, treat the session as non-discriminating and record no family result.",
+    "non_compensation": "Controls validate the review procedure only; neither can rescue or lower a family threshold."
   },
   "hard_failures": [
-    "A family can be identified only because an excluded mark, name, color, material, image, icon, rule, geometry or motion cue leaked into the specimen.",
-    "WEB and APP require different grammar rather than the frozen adaptation of one grammar.",
+    "Identity depends on an excluded mark, name, color, material, image, icon, rule, geometry or motion cue.",
+    "WEB and APP require different grammar rather than frozen adaptation of one grammar.",
     "Any accessibility preflight floor fails.",
-    "APP ordinary reading or scanning is materially impaired by the identity treatment.",
-    "The family depends on a decorative display treatment that does not survive the APP or 320px condition.",
+    "APP ordinary reading or scanning is materially impaired.",
+    "The identity treatment does not survive APP or 320px without decorative display dependence.",
     "A majority reads the family primarily as generic luxury editorial, generic AI futurism, generic SaaS/product, generic Windows system or decorative theater.",
-    "The family visually implies that typography itself changes canon/authority or turns internal architecture into the visible aesthetic.",
-    "Fixture words/order are changed to rescue identity or hierarchy.",
-    "Reviewer-visible material leaks family names, mechanism descriptions or the mapping key before scoring is complete."
+    "Typography visually implies that it changes canon/authority or turns internal architecture into visible aesthetic.",
+    "Fixture words/order change to rescue identity or hierarchy.",
+    "Reviewer-visible material leaks family names, mechanism descriptions or mapping before scoring completes."
   ],
   "family_pass_rule": {
     "scope": "F1-F4 only",
     "required": [
-      "at least 2 of 3 reviewers correctly pair the WEB and APP member at WIDE",
-      "at least 2 of 3 reviewers correctly pair the WEB and APP member at REFLOW_320",
+      "at least 2 of 3 reviewers correctly pair WEB and APP at WIDE",
+      "at least 2 of 3 reviewers correctly pair WEB and APP at REFLOW_320",
       "median distinctiveness = 2",
       "median product_truth_fit = 2",
       "median app_utility = 2",
@@ -368,19 +326,19 @@
       "no hard failure",
       "all accessibility preflight checks pass"
     ],
-    "genericity_rule": "The family fails if a majority selects any one prohibited genericity category. kymaean_specific and none_of_these are not prohibited categories.",
-    "non_compensating": "Scores are conjunctive. Strong web expression cannot compensate for weak app utility, weak pairing, genericity, readability or accessibility."
+    "genericity_rule": "Fail if a majority selects any one prohibited genericity category. kymaean_specific and none_of_these are not prohibited.",
+    "non_compensating": "Scores are conjunctive. Strong web expression cannot compensate for weak app utility, pairing, genericity, readability or accessibility."
   },
   "termination": {
-    "initial_family_pack": "Exactly F1-F4 plus CNEG/CPOS controls. No fifth family is added inside this method after results are visible.",
+    "initial_family_pack": "Exactly F1-F4 plus CNEG/CPOS controls. No fifth family is added after results are visible.",
     "post_judgment_refinement": "None. After blinded scoring begins, no scored family may be visually refined or rerolled inside TYP-01.",
-    "mechanical_correction": "One correction pass is allowed only if preflight or review proves the implementation deviated from frozen source rules. The correction must restore the frozen rule rather than improve the mechanism, and the full affected review must restart blinded.",
+    "mechanical_correction": "One correction pass is allowed only if implementation deviated from frozen source rules. It restores the frozen rule rather than improving the mechanism, and the full affected review restarts blinded.",
     "zero_survivors": "Close TYP-01 strong-independence as failed under this contract. Do not reopen hero research. Return to a fresh Phase-B orthogonal shared-brand question audit.",
     "one_survivor": "Record one viable typographic/editorial identity mechanism. Phase B remains non-converged and no font/system is selected.",
     "two_or_more_survivors": "Promote at most the two strongest materially distinct surviving mechanisms as Phase-B evidence. This does not by itself satisfy the roadmap's broader two-family convergence prerequisite or authorize Phase C.",
     "maximum_promotions": 2
   },
-  "next_action_after_method_adoption": "Materialize the deterministic text-only static specimen harness and manifest under prototypes/typ-01/ from this exact contract; freeze computed reference-face metadata and source hashes; run structural/accessibility preflight before any blinded scoring.",
+  "next_action_after_method_adoption": "Materialize the deterministic text-only static specimen harness and manifest under prototypes/typ-01/ from this exact contract; freeze computed reference-face metadata and source hashes; run structural/accessibility preflight before blinded scoring.",
   "hard_boundary": "No image generation, generative renderer use/spend, final font/typeface/typography system, final identity or hero, O3/Threshold-K redesign, palette/material reopening, Quiet-Stage/hero refinement, app implementation, website production/deployment or transcript-dependent Stage motion.",
   "recursive_audit": {
     "result": "CLEAN",
@@ -389,11 +347,12 @@
       "O3/Threshold-K non-inheritance",
       "product-truth versus aesthetic-authority separation",
       "content equivalence",
+      "deterministic weights and reference-face request",
       "cross-surface invariance",
       "genericity and backend-leak failure modes",
       "accessibility floors",
       "review independence and control validity",
-      "non-compensating pass/termination rules",
+      "non-compensating pass and termination rules",
       "no convergence or implementation authority inflation"
     ],
     "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
