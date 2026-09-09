@@ -734,3 +734,21 @@ The next comparison brackets the Director-preferred reference without reopening 
 **Next gate:** Q-DESIGN-12 materializes the deterministic 16-specimen labeled comparison, runs structural/reduced-motion preflight, then presents the clean comparison for direct Design Sol + Director thought adjudication. No F5, family redesign, Stage motion, app implementation, website deployment, final timing-token authority or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-044 — F1A Tight selected as provisional Ordered Stagger cadence
+
+**State:** Q-DESIGN-12 CLOSED / F1A TIGHT PROVISIONAL REFINEMENT REFERENCE / Q-DESIGN-13 NEXT / NO PRODUCTION AUTHORITY
+
+The deterministic F1 refinement comparison passed hosted Chrome preflight at all 16 FULL specimens and all 16 forced-reduced-motion counterparts with zero failures. Design Sol froze an independent pre-Director ranking of **F1B > F1C > F1A > F4**, preferring F1B for its balance of legible succession and coherent single-event feel.
+
+The Director selected **F1A Tight** because, if the movement is used, it should not feel too slow. Under the frozen refinement contract's tie rule, all three F1 cadences were mechanically clean and no hard evidence established a material winner, so Director preference is binding. `docs/evidence/MOT_01_F1_CADENCE_ADJUDICATION_01.json` preserves both viewpoints and the reconciliation.
+
+Selected provisional reference: **70 ms onset interval / 460 ms equal movement duration / 670 ms last completion**, `cubic-bezier(0.2,0,0,1)`, 56px WEB displacement / 28px APP displacement, reduced motion = immediate final state with no animation.
+
+**Why:** F1A preserves the Director-valued one-after-another brand metaphor while minimizing waiting and reducing the chance that slower choreography is mistaken for literal loading, processing, priority, completion or causal order.
+
+**Next gate:** Q-DESIGN-13 freezes the bounded F1A deployment envelope: eligible identity-bearing trigger zones, group-size/batching law, repetition/frequency limits, interruption/replay behavior, logical/RTL ordering and reduced-motion equivalence.
+
+**Guardrail:** F1A is not a production motion token; do not generalize it to arbitrary lists/feeds, fabricate product semantics, reopen Q-DESIGN-02 Stage motion, implement app/site motion, claim final identity or enter Phase-C convergence.
+
+**APPROVED — DIRECTOR F1A SELECTION + CLEAN DESIGN-SOL RECONCILIATION.**
