@@ -13,16 +13,16 @@ Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/
 ## Hero — STATIC RESEARCH PAUSED
 Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 remain unchanged. No final hero. Q-DESIGN-02 Stage motion still waits on real blinded E0-A vs E0-E evidence.
 
-## Shared brand — MOT-01 F1A / Q-DESIGN-14 DIRECTOR REVIEW READY
-TYP-01 remains closed. F1 — Ordered Stagger is provisional. F1A Tight remains fixed at **70 ms onset / 460 ms equal movement / 670 ms four-unit completion**, easing `cubic-bezier(0.2,0,0,1)`. Research displacement remains 56px WEB / 28px APP; reduced motion is immediate final state. No production token authority.
+## Shared brand — F1A ENVELOPE APPROVED / CONTEXT-SHIFT DIFFERENTIATION NEXT
+F1 — Ordered Stagger remains provisional. **F1A Tight = 70 ms onset / 460 ms equal movement / 670 ms four-unit completion**, easing `cubic-bezier(0.2,0,0,1)`. These are research references, not production tokens.
 
-Q-DESIGN-13 froze `docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json`: F1A is a scarce identity accent for bounded succession, not a universal transition primitive. Direct sequence is 2–4 units. For 5+ content, only 2–4 independently meaningful pre-existing groups may stagger; group members move together. No invented groups, arbitrary list/feed cascades, loops, false loading/progress/priority/causal semantics, or Stage/Character/Performance/Take/Opportunity timing. User input and authoritative state always override motion.
+Q-DESIGN-14 is closed by `docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_ADJUDICATION_01.json`. Director + Design Sol approve the envelope: A1 peer constellation ALLOW; A2 explicit explanatory order ALLOW WITH RESTRAINT; A3 pre-existing grouped 5+ handling ALLOW; N1 six-row direct cascade PROHIBIT; N2 fake process sequence PROHIBIT. Mechanical exemplar preflight remained 20/20 FULL + 20/20 REDUCED.
 
-Q-DESIGN-14 materialized five labeled exemplars: A1 peer constellation, A2 explicit explanatory order, A3 pre-existing grouped 5+ content, N1 prohibited six-row direct cascade, N2 prohibited fake process sequence. Hosted Chrome 152 preflight is **20/20 FULL + 20/20 REDUCED, zero mechanical failures** across APP/WEB × WIDE/320. Evidence: `docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_EXEMPLAR_PREFLIGHT_01.json`. Exemplar: `prototypes/mot-01/deployment-envelope/exemplars.html` SHA-256 `bc4edf262bbf48f7cd949f31d8c20a5de4732ef6e76384f35f11f76eca03a0af`.
+Director extension: **when the context itself shifts, use a visibly different treatment.** F1A represents bounded succession *within* an established context; it does not own context-shift boundaries. One motion grammar owns one transition event. Context-shift treatment and F1A may not run concurrently or auto-chain for the same state change. User input/state truth always wins.
 
-Design Sol preliminary read: A1 is the strongest pure identity use; A2 is safe but dense at 320; A3 validates grouping; N1 reads generic/overextended; N2 reads as false process semantics. These are not Director judgments.
+Q-DESIGN-15 contract: `docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json`. Neutral comparison will test CS0 CUT, CS1 synchronized field settle, CS2 balanced crossfade exchange, and CS3 simultaneous opposed-field exchange across APP/WEB × WIDE/320. No candidate may stagger internally. Reduced motion = immediate final context with zero animation. CUT/none is a valid outcome.
 
 ## Exact next action / hard boundary
-Present the labeled five-case exemplar set for **direct Director + Design Sol adjudication**: does it make the F1A use envelope intuitive and appropriately restrictive? Do not reopen cadence.
+Freeze exact fixture-only timing/amplitude values; materialize the neutral CS0-CS3 comparison; pass full/reduced-motion browser preflight; freeze Design Sol view; then present the labeled comparison for direct Director + Design Sol adjudication.
 
-Do not create production motion/displacement tokens, implement app/site motion, generalize stagger to arbitrary lists/feeds, reopen Q-DESIGN-02, claim final identity, or enter Phase-C convergence.
+Do not reopen F1A cadence, create production motion/displacement tokens, implement app/site/navigation motion, authorize Character/Scene/Stage/Performance/Take/Opportunity timing, claim final identity, or enter Phase-C convergence.
