@@ -1,6 +1,6 @@
 {
   "schema": "kymaean.mot01.blinded-primary-review-instrument.v1",
-  "status": "FROZEN_REVIEW_INSTRUMENT_ZERO_PRIMARY_RECORDS_NO_UNBLINDING",
+  "status": "SUPERSEDED_BEFORE_FIRST_PRIMARY_REVIEW",
   "date": "2026-09-09",
   "program_id": "MOT-01",
   "authority": {
@@ -36,12 +36,40 @@
   },
   "anonymous_universe": {
     "WIDE": {
-      "WEB": ["M01-02", "M01-05", "M01-06", "M01-09", "M01-21", "M01-23"],
-      "APP": ["M01-08", "M01-10", "M01-13", "M01-15", "M01-16", "M01-17"]
+      "WEB": [
+        "M01-02",
+        "M01-05",
+        "M01-06",
+        "M01-09",
+        "M01-21",
+        "M01-23"
+      ],
+      "APP": [
+        "M01-08",
+        "M01-10",
+        "M01-13",
+        "M01-15",
+        "M01-16",
+        "M01-17"
+      ]
     },
     "REFLOW_320": {
-      "WEB": ["M01-03", "M01-04", "M01-07", "M01-19", "M01-20", "M01-22"],
-      "APP": ["M01-01", "M01-11", "M01-12", "M01-14", "M01-18", "M01-24"]
+      "WEB": [
+        "M01-03",
+        "M01-04",
+        "M01-07",
+        "M01-19",
+        "M01-20",
+        "M01-22"
+      ],
+      "APP": [
+        "M01-01",
+        "M01-11",
+        "M01-12",
+        "M01-14",
+        "M01-18",
+        "M01-24"
+      ]
     }
   },
   "review_population": {
@@ -140,7 +168,11 @@
       "group_judgments",
       "locked_at"
     ],
-    "record_id_allowed": ["PR-01", "PR-02", "PR-03"],
+    "record_id_allowed": [
+      "PR-01",
+      "PR-02",
+      "PR-03"
+    ],
     "reviewer_provenance": {
       "reviewer_role": "one accepted review_population role",
       "human": "boolean",
@@ -228,6 +260,8 @@
       "current Design Sol is excluded from a primary record because construction exposed the mapping in this run",
       "three-record population law and Stage-motion boundary are preserved"
     ],
-    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
-  }
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION \u2014 CLEAN RECURSIVE AUDIT."
+  },
+  "superseded_by": "docs/evidence/MOT_01_BLINDED_PRIMARY_REVIEW_INSTRUMENT_02.json",
+  "supersession_reason": "Pre-use audit found missing explicit product-context blindness attestation required by frozen R6 timing. Zero primary records existed under v1."
 }
