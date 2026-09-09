@@ -1,0 +1,187 @@
+{
+  "schema": "kymaean.mot01.f1-ordered-stagger-refinement-contract.v1",
+  "status": "FROZEN_PRE_EXECUTION_REFINEMENT_CONTRACT_NO_PRODUCTION_AUTHORITY",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "title": "F1 Ordered Stagger — Symbolic Sequential Motion Refinement",
+  "authority": {
+    "director_design_adjudication": "docs/evidence/MOT_01_DIRECTOR_DESIGN_ADJUDICATION_01.json",
+    "adjudication_main_commit": "4f177ae73faccb8433f37bafe7af9f9d6e0ed7c7",
+    "parent_method": "docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+    "clean_preflight": "docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "design_workflow": "docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md",
+    "project_queue_gate": "Q-DESIGN-11"
+  },
+  "design_intent": {
+    "director_anchor": "One-after-another motion is symbolically meaningful because sequential progression represents the application identity.",
+    "identity_statement": "Kymaean's motion signature should communicate succession: one change enters, then another, then another. The sequence is a brand-level metaphor for continuity through time, not an automatic claim that the local interface elements are causally dependent.",
+    "design_sol_anchor": "Preserve the Director-selected symbolic succession while retaining the strongest benefit of the F4 alternative: temporal character should remain controlled, coherent and non-theatrical rather than becoming a generic cascading UI flourish.",
+    "provisional_incumbent": "F1 — Ordered Stagger",
+    "secondary_reference": "F4 — Continuous Velocity Profile"
+  },
+  "mechanism_invariants": {
+    "required": [
+      "A strict, legible onset sequence exists: item 1 begins before item 2, item 2 before item 3, and so on.",
+      "All items use the same movement duration, displacement within a context, easing, opacity, scale and rotation.",
+      "The identity mechanism is onset succession only; no hold, opacity modulation, token-specific duration split, reverse travel, bounce, spring or overshoot is introduced.",
+      "The same timing vector is used in WEB and APP-like contexts; context restraint is achieved through displacement amplitude, not by changing the sequence grammar.",
+      "Replay/trigger behavior may not delay content availability or task completion."
+    ],
+    "forbidden_mutations": [
+      "midpoint hold",
+      "different durations by item",
+      "custom continuous velocity profile as the primary mechanism",
+      "opacity pulse/fade as identity",
+      "scale or rotation choreography",
+      "path curvature",
+      "looping",
+      "autonomous background repetition",
+      "evidence-aware new family or F5"
+    ]
+  },
+  "semantic_use_law": {
+    "symbolic_brand_sequence": {
+      "meaning": "Succession is used as a metaphor for Kymaean's temporal identity: the experience develops through one-after-another change.",
+      "allowed_when": [
+        "the moving elements are visual peers or a deliberately ordered brand/explanatory sequence",
+        "the user does not need to infer a functional state, completion percentage, priority, or causal dependency from the onset order",
+        "content/function is already available independently of observing the motion",
+        "the transition occurs at an identity-bearing boundary rather than continuously choreographing every UI update"
+      ]
+    },
+    "literal_sequence": {
+      "conditional_rule": "Ordered stagger may accompany actual sequential product semantics only when the underlying product state independently proves that same order. In that case motion reflects truth; it may not invent the truth.",
+      "requires": [
+        "the semantic order is sourced from authoritative product/runtime state",
+        "the visual order matches the semantic order",
+        "reduced-motion users receive the same order/state information without motion"
+      ]
+    },
+    "prohibited_false_semantics": [
+      "fake loading or progress",
+      "implied task-completion sequence when tasks are actually parallel",
+      "implied causal commit or consequence ordering not present in product state",
+      "implied success/failure escalation",
+      "implied notification or content priority",
+      "implied data-arrival order",
+      "Character acting cadence",
+      "Scene or Stage transition",
+      "Performance, Take or Opportunity timing",
+      "any functional wait introduced solely to preserve choreography"
+    ]
+  },
+  "logical_order_and_localization": {
+    "default": "Sequence follows declared logical/DOM order rather than being hard-coded to physical left-to-right position.",
+    "rtl_rule": "For locale-responsive peer sequences, visual onset follows the locale-appropriate logical reading order unless the product data declares an independent chronological order.",
+    "numbered_or_chronological_content": "When items already carry an authoritative order, follow that order exactly rather than mirroring for decoration."
+  },
+  "refinement_matrix": {
+    "purpose": "Compare cadence inside F1 without reopening family selection. Isolate onset interval and equal per-item movement duration while holding F1 mechanism, easing and context displacement fixed.",
+    "f1_variants": {
+      "F1A_TIGHT": {
+        "onset_interval_ms": 70,
+        "token_onset_ms": [0, 70, 140, 210],
+        "token_duration_ms": [460, 460, 460, 460],
+        "last_completion_ms": 670
+      },
+      "F1B_REFERENCE": {
+        "onset_interval_ms": 90,
+        "token_onset_ms": [0, 90, 180, 270],
+        "token_duration_ms": [520, 520, 520, 520],
+        "last_completion_ms": 790,
+        "provenance": "Exact Director-preferred MOT-01 F1 reference mechanism."
+      },
+      "F1C_MEASURED": {
+        "onset_interval_ms": 110,
+        "token_onset_ms": [0, 110, 220, 330],
+        "token_duration_ms": [560, 560, 560, 560],
+        "last_completion_ms": 890
+      }
+    },
+    "shared_position_progression": "cubic-bezier(0.2,0,0,1)",
+    "shared_opacity": 1,
+    "contexts": {
+      "WEB": {"translate_y_px": 56},
+      "APP": {"translate_y_px": 28}
+    },
+    "viewports": ["WIDE", "REFLOW_320"],
+    "f1_specimen_count": 12,
+    "secondary_reference": {
+      "family": "F4",
+      "role": "Non-competing reference only. Render the already-frozen F4 timing in the same WEB/APP and WIDE/REFLOW_320 contexts to test whether an F1 refinement becomes needlessly generic, abrupt or theatrical relative to the strongest alternative.",
+      "specimen_count": 4
+    },
+    "total_full_motion_specimens": 16,
+    "reduced_motion": "Apply the frozen immediate-final-state reduced-motion behavior to all 16 as a mandatory alternate preflight state; it is not an identity-scored variant."
+  },
+  "group_size_boundary": {
+    "current_test_count": 4,
+    "why": "The Director preference arose from the exact four-token F1 packet. Timing refinement must first preserve that perception before generalizing to arbitrary list lengths.",
+    "not_yet_authorized": "Do not infer that every list, menu, grid, feed or large group should receive per-item stagger. Group-size/batching law is a later implementation concern after a cadence is selected."
+  },
+  "direct_adjudication": {
+    "process": [
+      "Design Sol reviews the labeled comparison first and records its independent ranking/tradeoffs.",
+      "The Director views the same comparison and records product meaning, preference and any disagreement.",
+      "Design Sol reconciles both views and records the final Director-bound resolution where subjective evidence does not decide."
+    ],
+    "not_blinded": true,
+    "external_reviewers_required": false,
+    "labels_visible": true,
+    "criteria": {
+      "A1_symbolic_sequence_clarity": "Does the one-after-another identity remain immediately perceptible without requiring explanation?",
+      "A2_cross_surface_restraint": "Does APP remain materially restrained while preserving the same sequence grammar as WEB?",
+      "A3_generic_ui_cascade_risk": "Does the motion still feel intentional/ownable rather than like a default list entrance?",
+      "A4_false_literal_semantics_risk": "Would the cadence plausibly imply loading, priority, completion or causality when used at an identity-bearing boundary?",
+      "A5_temporal_drag": "Does the sequence complete promptly enough that the brand signature never feels like waiting?",
+      "A6_f4_reference_check": "Does F1 retain the Director-valued symbolic advantage while approaching F4's composure and temporal coherence?"
+    },
+    "tie_rule": "If two F1 variants are mechanically clean and Design Sol cannot establish a material evidence advantage, the Director's preference is binding."
+  },
+  "hard_preflight": [
+    "All FULL variants preserve exact F1 mechanism invariants.",
+    "All variants finish from first onset to final completion in under 1.0 second.",
+    "No autoplay, looping, flash, bounce, overshoot, scale, rotation or scroll-linked movement.",
+    "Replay/focus remains stationary and keyboard-operable in the fixture.",
+    "No horizontal overflow or clipping at REFLOW_320.",
+    "Reduced-motion state creates no scored animation and loses no content/function/state information.",
+    "WEB and APP timing vectors are byte-equivalent per variant; only displacement differs.",
+    "F4 reference bytes/timing remain the already-frozen reference and are not silently retuned."
+  ],
+  "outcome_law": {
+    "clean_single_preference": "Adopt the preferred F1 cadence as a provisional refinement reference, not a production token system.",
+    "clean_tie": "Director chooses among the tied F1 cadences after Design Sol presents tradeoffs.",
+    "all_f1_variants_fail_hard_preflight": "Do not revert automatically to F4 and do not invent a fourth F1 cadence. Preserve F1 as the conceptual incumbent and open a separate correction decision explaining which hard invariant failed.",
+    "f4_becomes_subjectively_preferred_again": "F4 cannot silently replace the Director-selected F1 incumbent. Design Sol must present the conflict directly to the Director as a new adjudication."
+  },
+  "non_authority": {
+    "production_motion_tokens": false,
+    "final_motion_system": false,
+    "stage_motion": false,
+    "app_implementation": false,
+    "website_deployment": false,
+    "final_identity": false,
+    "phase_c_convergence": false
+  },
+  "next_gate": {
+    "id": "Q-DESIGN-12",
+    "work": "Materialize the deterministic 16-specimen F1 refinement comparison, pass structural/reduced-motion preflight, then present the labeled F1A/F1B/F1C + F4 reference comparison for direct Design Sol + Director adjudication."
+  },
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "Director-selected F1 mechanism preserved rather than redesigned",
+      "one-after-another symbolism made explicit as product identity input",
+      "symbolic succession separated from false literal causality",
+      "F4 retained as secondary reference without reopening family selection",
+      "three cadence variants bracket the existing 90/520 reference instead of post-result rerolling",
+      "WEB/APP adaptation remains displacement-only",
+      "reduced-motion floor preserved",
+      "logical-order/RTL ambiguity resolved before execution",
+      "large-group/list generalization explicitly deferred",
+      "direct Director + Design Sol adjudication law used without false blind-review claims",
+      "Q-DESIGN-02 Stage-motion block and engineering/E0 blind scoring remain untouched"
+    ],
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT"
+  }
+}
