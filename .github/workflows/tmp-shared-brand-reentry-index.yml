@@ -1,0 +1,60 @@
+name: Temporary shared-brand re-entry index generation
+
+on:
+  push:
+    branches:
+      - tmp/shared-brand-divergence-reentry-audit-index
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - name: Append durable design-ledger closure
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path('docs/evidence/DESIGN_LEDGER.md')
+          marker = '## L-032 — Phase-B re-entry selects typographic/editorial identity independence'
+          block = '''## L-032 — Phase-B re-entry selects typographic/editorial identity independence
+
+**State:** Q-DESIGN-04 CLOSED / TYP-01 SELECTED / NON-RENDER / NO CONVERGENCE
+
+The post-hero SHARED-BRAND divergence re-entry audit resolved current Phase-B authority against the canonical roadmap, Drive Visual Continuity Constitution, Visual Exploration Registry and current temporary Lane-B approvals. Hero evidence remains frozen constraint/history rather than an incumbent surface. O3, Threshold K, Mineral Theater, Quiet Stage and the Site Spine remain bounded temporary controls; none is promoted to final identity.
+
+The audit found the broader typography/editorial-voice axis materially open: O3 approval explicitly excludes the broader typography system, the roadmap names typography/editorial voice as an independent Phase-B SHARED BRAND lane, and no dedicated current typography-divergence program was found. By contrast, symbol/wordmark/material/visual-world lanes already carry temporary controls or substantial recent research, motion authority remains separately bounded, and the registry's provisional empty-active-plane seed is too close to the recently saturated negative-space/relational carrier family to serve as the strongest orthogonal reset.
+
+Primary evidence: `docs/evidence/SHARED_BRAND_VISUAL_IDENTITY_DIVERGENCE_REENTRY_AUDIT_01.txt`.
+
+Selected next question: **TYP-01 — Typographic / Editorial Identity Independence**. It asks whether Kymaean can carry recognizable shared-brand character across expressive web and restrained app-like utility contexts through typographic/editorial behavior while existing mark-lockup, material/palette, imagery, Quiet-Stage composition, relational traces, hero geometry and motion are removed as identity carriers.
+
+A TYP-01 pass establishes only a viable identity mechanism for further Phase-B comparison; it does not select a final typeface/system or satisfy the roadmap's convergence prerequisite by itself.
+
+**Guardrail:** next action is non-render TYP-01 method-contract + deterministic dual-context specimen-matrix construction only. No image generation, renderer spend, final typography/identity/hero, O3 or Threshold-K redesign, material/palette reopening, Quiet-Stage/hero refinement, app implementation, website production/deployment or transcript-dependent Stage motion.
+'''
+          data = path.read_text(encoding='utf-8')
+          if marker not in data:
+              path.write_text(data.rstrip() + '\n\n' + block + '\n', encoding='utf-8')
+          PY
+      - name: Generate corpus index
+        run: python3 tools/generate_docs_index.py
+      - name: Validate document structure
+        run: python3 tools/validate_document_status.py
+      - name: Validate repository boundaries
+        run: python3 tools/validate_repository_boundaries.py
+      - name: Commit generated closure when changed
+        run: |
+          if git diff --quiet -- docs/evidence/DESIGN_LEDGER.md docs/INDEX.md; then
+            echo "Generated closure already committed"
+            exit 0
+          fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add docs/evidence/DESIGN_LEDGER.md docs/INDEX.md
+          git commit -m "tmp: materialize shared-brand re-entry closure"
+          git push origin HEAD:tmp/shared-brand-divergence-reentry-audit-index

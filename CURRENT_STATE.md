@@ -11,18 +11,18 @@ Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/
 `main` is authoritative. `site/` is the only deployable/public website root; product/backend remains in `Rylascoo/Ensemble-Project`. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
 
 ## Hero — STATIC RESEARCH PAUSED
-Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01 + ODR-33 remain unchanged. No final hero is selected.
+Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01 + ODR-33 remain unchanged. No final hero is selected. D9 is closed 3/3; DPSC-RSP-01 closed Case A pre-render at 0/2. Post-program diagnosis and reopening law remain in `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
 
-D9 is closed 3/3. HTCR-01 promoted DPSC-01 at mechanism level. DPSC-RSP-01 then closed under Case A before renderer expenditure: C01 Revisions 1/2 failed pre-render transfer, DPSC-E1 never occurred, C02 never became available, and renderer spend remained **0/2**.
+## Shared brand — PHASE-B RE-ENTRY AUDIT COMPLETE
+The non-render divergence re-entry audit is complete: `docs/evidence/SHARED_BRAND_VISUAL_IDENTITY_DIVERGENCE_REENTRY_AUDIT_01.txt`.
 
-Post-program reconciliation:
-`docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
+Temporary controls remain bounded, not final identity: O3 is the working wordmark authority; Threshold K is the unchanged symbol candidate/control; Mineral Theater is temporary material authority; Quiet Stage/site-spine deployment laws remain temporary website controls. None grants convergence.
 
-Current diagnosis: static causal-mechanism search repeatedly collides between recoverable/load-bearing changed-state evidence and simpler pre-existing object/environment/formal-system readings (P3/P6/P7/P8). Component hero requirements remain individually achievable; impossibility is not claimed. Harness/basic mobile containment is not established as the root blocker.
+The audit selected **TYP-01 — Typographic / Editorial Identity Independence** as the next orthogonal `SHARED BRAND` question. Broader typography/editorial voice is explicitly open under Phase B, is not selected by O3 approval, has no dedicated current divergence program, and can be tested without hero geometry, relational traces, imagery, material atmosphere, motion or renderer dependence.
 
 ## Exact next action / hard boundary
-Perform one **SHARED-BRAND visual-identity divergence re-entry audit** under the canonical roadmap and Drive continuity law. Resolve current broader Phase-B/shared-brand authority, inventory legitimately open non-hero visual-world questions, preserve hero evidence as constraints/history rather than an incumbent surface, and select one genuinely orthogonal non-hero research question for a later bounded exploration.
+Construct the **TYP-01 non-render method contract and deterministic dual-context specimen matrix**. Test whether Kymaean can carry recognizable shared-brand character through typographic/editorial behavior across an expressive web context and a restrained app-like utility context while existing symbol/wordmark lockup, palette/material cues, imagery, hero geometry, relational traces and motion are removed as identity carriers.
 
-This next gate is **non-render first**. No successor hero candidate/program, renderer spend, Method-01 R04, D9 R09/C09, C08 retry, DPSC-C01 Revision 3, C02 without E1, rejected-HTCR reopening, frozen-criterion/Harness mutation, final identity/hero selection, production website deployment, Lane A implementation or motion is authorized.
+No font family, typography system, final identity, hero, symbol, wordmark, palette/material family, website surface, app visual system or motion system is selected by this checkpoint. Do not reopen O3 structure, Threshold K geometry, static hero research, Lane A implementation or transcript-dependent Stage motion. No image generation, renderer spend, production implementation or deployment is authorized by this gate.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
