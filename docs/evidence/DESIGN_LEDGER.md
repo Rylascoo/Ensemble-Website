@@ -593,3 +593,25 @@ Addendum 02 is preserved as legitimate pre-render execution law because its exac
 Primary result evidence: `docs/evidence/TYP_01_PREFLIGHT_FAILURE_AND_TERMINATION_01.json`.
 
 **Guardrail:** do not summarize this as “typography failed” or as a reviewer rejection. TYP-01 strong-independence failed under one frozen family pack and accessibility contract before blinded review. Do not rescue it by modifying the failed specimens after evidence is visible. Do not reopen hero research. The next design action is a fresh Phase-B orthogonal shared-brand question audit.
+
+## L-036 — Phase-B orthogonal re-entry selects MOT-01 cross-surface motion signature independence
+
+**State:** Q-DESIGN-07 CLOSED / MOT-01 SELECTED / NON-RENDER / NO STAGE-MOTION AUTHORITY / NO CONVERGENCE
+
+After TYP-01 closed with zero surviving scored families before blinded review, the fresh Phase-B audit re-resolved the legitimate non-hero SHARED BRAND axes against the canonical roadmap, Drive continuity law, Visual Exploration Registry, current temporary controls, the TYP-01 termination record and the central execution queue.
+
+Cadence/information-density was rejected as a disguised TYP-01 reroll because TYP-01 already tested measure, block spacing, sequence/pause and Compression/Release. Symbol/wordmark/material lanes retain temporary controls; Character/static-world/temporal-picture-making lanes carry substantial recent evidence; iconography currently depends too strongly on unsettled surface vocabulary; abstraction depth remains entangled with already researched carriers.
+
+Motion/system behavior is the strongest remaining orthogonal lane. The roadmap names it independently, the dedicated Drive M0 folder is currently empty, and it varies temporal behavior rather than another static carrier treatment. Historical M0 concepts remain quarantined provenance and are not inherited as candidates.
+
+Selected question: **MOT-01 — Cross-Surface Motion Signature Independence.** MOT-01 asks whether a small deterministic grammar of abstract temporal behavior can contribute a distinctive, product-compatible shared-brand signature across expressive WEB and restrained APP-like contexts while marks, wordmark, typeface novelty, palette/material, imagery, Quiet Stage/hero geometry, product-state semantics and transcript-dependent Stage timing are removed as identity carriers.
+
+MOT-01 is explicitly separate from Q-DESIGN-02. It creates no Character/Scene/Performance/Take/Opportunity timing, Stage transition, product-state animation, production duration/easing token, app implementation or website implementation authority. Experimental timing values may exist only as fixture provenance. Every later family must define a reduced-motion equivalent before review, and no meaning/function may depend on motion.
+
+Primary evidence: `docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_02.txt`.
+
+**Next gate:** construct the MOT-01 non-render method contract and deterministic dual-context temporal specimen matrix only. Freeze neutral carriers, controls, materially disjoint motion families, WEB/APP amplitude adaptation, ordinary/reduced-motion conditions, fixture-only timing/easing provenance, current accessibility floors, blinded review, falsification and zero-survivor/no-reroll law before any temporal specimen executes.
+
+**Guardrail:** no image/video generation, renderer spend, motion-specimen execution, final motion system/timing tokens, transcript-dependent Stage motion, TYP-01 reroll, hero reopening, O3/Threshold-K redesign, palette/material reopening, app implementation, website production/deployment or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
