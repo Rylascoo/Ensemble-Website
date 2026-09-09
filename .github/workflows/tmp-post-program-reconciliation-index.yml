@@ -1,0 +1,34 @@
+name: Temporary post-program reconciliation index generation
+
+on:
+  push:
+    branches:
+      - tmp/post-program-reconciliation-index-generation
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - name: Generate corpus index
+        run: python3 tools/generate_docs_index.py
+      - name: Validate document structure
+        run: python3 tools/validate_document_status.py
+      - name: Validate repository boundaries
+        run: python3 tools/validate_repository_boundaries.py
+      - name: Commit generated index when changed
+        run: |
+          if git diff --quiet -- docs/INDEX.md; then
+            echo "Generated index already committed"
+            exit 0
+          fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add docs/INDEX.md
+          git commit -m "tmp: materialize post-program reconciliation index"
+          git push origin HEAD:tmp/post-program-reconciliation-index-generation
