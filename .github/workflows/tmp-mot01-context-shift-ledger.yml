@@ -19,44 +19,10 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          ledger='docs/evidence/DESIGN_LEDGER.md'
-          if ! grep -q '^## L-047 — F1A deployment envelope is approved and context-shift differentiation is required$' "$ledger"; then
-            cat >> "$ledger" <<'EOF'
-
-## L-047 — F1A deployment envelope is approved and context-shift differentiation is required
-
-**State:** Q-DESIGN-14 CLOSED / F1A USE ENVELOPE APPROVED / CONTEXT-SHIFT DIFFERENTIATION REQUIRED / NO PRODUCTION TOKEN AUTHORITY
-
-The labeled Q-DESIGN-14 exemplar set passed hosted browser preflight at 20/20 FULL + 20/20 REDUCED. Direct Design Sol + Director adjudication then approved the frozen F1A use envelope without reopening cadence: A1 peer constellation is allowed; A2 explicit explanatory order is allowed with restraint; A3 pre-existing grouped 5+ handling is allowed; N1 six-row direct cascade and N2 fake process sequence are prohibited.
-
-The Director added one material semantic requirement: when the context itself shifts, Kymaean should use a visibly different treatment. F1A therefore remains the provisional shared-brand treatment for bounded succession *within* an already-established context and does not own context-shift boundaries. One motion grammar owns one transition event; a context-shift treatment and F1A may not run concurrently or automatically chain for the same state change. User input and authoritative state remain superior to choreography.
-
-Primary evidence: `docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_ADJUDICATION_01.json`.
-
-**Guardrail:** no F1A cadence change, production motion/displacement token, app/site implementation, navigation behavior, Character/Scene/Stage/Performance/Take/Opportunity timing, final identity or Phase-C convergence.
-EOF
-          fi
-          if ! grep -q '^## L-048 — Context-shift differentiation contract is frozen$' "$ledger"; then
-            cat >> "$ledger" <<'EOF'
-
-## L-048 — Context-shift differentiation contract is frozen
-
-**State:** Q-DESIGN-15 CONTRACT FROZEN / PRE-SPECIMEN / NON-PRODUCTION / NO STAGE-MOTION AUTHORITY
-
-`docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json` freezes the next bounded shared-brand motion question: can a visibly non-sequential treatment communicate entry into a different already-ready context while remaining distinct from F1A and avoiding false process, priority, causality, directional-navigation or Stage semantics?
-
-The neutral comparison contains one no-motion control and three synchronized candidates: CS0 Immediate Cut; CS1 Synchronized Field Settle; CS2 Balanced Crossfade Exchange; CS3 Simultaneous Opposed-Field Exchange. No candidate may stagger internally. APP/WEB and WIDE/320 are tested; reduced motion is immediate final-context rendering with zero animation. CUT/none remains a valid adjudication result.
-
-**Next gate:** freeze fixture-only timing/amplitude values, materialize the CS0-CS3 comparison, pass deterministic full/reduced-motion browser preflight, freeze Design Sol's view before Director input, then adjudicate directly. No evidence-aware retuning is allowed after viewing.
-
-**Guardrail:** F1A remains unchanged. No production tokens, app/site/navigation implementation, Character/Scene/Stage/Performance/Take/Opportunity timing, final motion system, final identity or Phase-C convergence.
-
-**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
-EOF
-          fi
+          python3 -c "import base64,pathlib; p=pathlib.Path('docs/evidence/DESIGN_LEDGER.md'); t=p.read_text(); a='## L-047 — F1A deployment envelope is approved and context-shift differentiation is required'; b='## L-048 — Context-shift differentiation contract is frozen'; assert ((a in t)==(b in t)), 'partial ledger append detected'; s=base64.b64decode('CiMjIEwtMDQ3IOKAlCBGMUEgZGVwbG95bWVudCBlbnZlbG9wZSBpcyBhcHByb3ZlZCBhbmQgY29udGV4dC1zaGlmdCBkaWZmZXJlbnRpYXRpb24gaXMgcmVxdWlyZWQKCioqU3RhdGU6KiogUS1ERVNJR04tMTQgQ0xPU0VEIC8gRjFBIFVTRSBFTlZFTE9QRSBBUFBST1ZFRCAvIENPTlRFWFQtU0hJRlQgRElGRkVSRU5USUFUSU9OIFJFUVVJUkVEIC8gTk8gUFJPRFVDVElPTiBUT0tFTiBBVVRIT1JJVFkKClRoZSBsYWJlbGVkIFEtREVTSUdOLTE0IGV4ZW1wbGFyIHNldCBwYXNzZWQgaG9zdGVkIGJyb3dzZXIgcHJlZmxpZ2h0IGF0IDIwLzIwIEZVTEwgKyAyMC8yMCBSRURVQ0VELiBEaXJlY3QgRGVzaWduIFNvbCArIERpcmVjdG9yIGFkanVkaWNhdGlvbiB0aGVuIGFwcHJvdmVkIHRoZSBmcm96ZW4gRjFBIHVzZSBlbnZlbG9wZSB3aXRob3V0IHJlb3BlbmluZyBjYWRlbmNlOiBBMSBwZWVyIGNvbnN0ZWxsYXRpb24gaXMgYWxsb3dlZDsgQTIgZXhwbGljaXQgZXhwbGFuYXRvcnkgb3JkZXIgaXMgYWxsb3dlZCB3aXRoIHJlc3RyYWludDsgQTMgcHJlLWV4aXN0aW5nIGdyb3VwZWQgNSsgaGFuZGxpbmcgaXMgYWxsb3dlZDsgTjEgc2l4LXJvdyBkaXJlY3QgY2FzY2FkZSBhbmQgTjIgZmFrZSBwcm9jZXNzIHNlcXVlbmNlIGFyZSBwcm9oaWJpdGVkLgoKVGhlIERpcmVjdG9yIGFkZGVkIG9uZSBtYXRlcmlhbCBzZW1hbnRpYyByZXF1aXJlbWVudDogd2hlbiB0aGUgY29udGV4dCBpdHNlbGYgc2hpZnRzLCBLeW1hZWFuIHNob3VsZCB1c2UgYSB2aXNpYmx5IGRpZmZlcmVudCB0cmVhdG1lbnQuIEYxQSB0aGVyZWZvcmUgcmVtYWlucyB0aGUgcHJvdmlzaW9uYWwgc2hhcmVkLWJyYW5kIHRyZWF0bWVudCBmb3IgYm91bmRlZCBzdWNjZXNzaW9uICp3aXRoaW4qIGFuIGFscmVhZHktZXN0YWJsaXNoZWQgY29udGV4dCBhbmQgZG9lcyBub3Qgb3duIGNvbnRleHQtc2hpZnQgYm91bmRhcmllcy4gT25lIG1vdGlvbiBncmFtbWFyIG93bnMgb25lIHRyYW5zaXRpb24gZXZlbnQ7IGEgY29udGV4dC1zaGlmdCB0cmVhdG1lbnQgYW5kIEYxQSBtYXkgbm90IHJ1biBjb25jdXJyZW50bHkgb3IgYXV0b21hdGljYWxseSBjaGFpbiBmb3IgdGhlIHNhbWUgc3RhdGUgY2hhbmdlLiBVc2VyIGlucHV0IGFuZCBhdXRob3JpdGF0aXZlIHN0YXRlIHJlbWFpbiBzdXBlcmlvciB0byBjaG9yZW9ncmFwaHkuCgpQcmltYXJ5IGV2aWRlbmNlOiBgZG9jcy9ldmlkZW5jZS9NT1RfMDFfRjFBX0RFUExPWU1FTlRfRU5WRUxPUEVfQURKVURJQ0FUSU9OXzAxLmpzb25gLgoKKipHdWFyZHJhaWw6Kiogbm8gRjFBIGNhZGVuY2UgY2hhbmdlLCBwcm9kdWN0aW9uIG1vdGlvbi9kaXNwbGFjZW1lbnQgdG9rZW4sIGFwcC9zaXRlIGltcGxlbWVudGF0aW9uLCBuYXZpZ2F0aW9uIGJlaGF2aW9yLCBDaGFyYWN0ZXIvU2NlbmUvU3RhZ2UvUGVyZm9ybWFuY2UvVGFrZS9PcHBvcnR1bml0eSB0aW1pbmcsIGZpbmFsIGlkZW50aXR5IG9yIFBoYXNlLUMgY29udmVyZ2VuY2UuCgojIyBMLTA0OCDigJQgQ29udGV4dC1zaGlmdCBkaWZmZXJlbnRpYXRpb24gY29udHJhY3QgaXMgZnJvemVuCgoqKlN0YXRlOioqIFEtREVTSUdOLTE1IENPTlRSQUNUIEZST1pFTiAvIFBSRS1TUEVDSU1FTiAvIE5PTi1QUk9EVUNUSU9OIC8gTk8gU1RBR0UtTU9USU9OIEFVVEhPUklUWQoKYGRvY3MvZXZpZGVuY2UvTU9UXzAxX0NPTlRFWFRfU0hJRlRfRElGRkVSRU5USUFUSU9OX0NPTlRSQUNUXzAxLmpzb25gIGZyZWV6ZXMgdGhlIG5leHQgYm91bmRlZCBzaGFyZWQtYnJhbmQgbW90aW9uIHF1ZXN0aW9uOiBjYW4gYSB2aXNpYmx5IG5vbi1zZXF1ZW50aWFsIHRyZWF0bWVudCBjb21tdW5pY2F0ZSBlbnRyeSBpbnRvIGEgZGlmZmVyZW50IGFscmVhZHktcmVhZHkgY29udGV4dCB3aGlsZSByZW1haW5pbmcgZGlzdGluY3QgZnJvbSBGMUEgYW5kIGF2b2lkaW5nIGZhbHNlIHByb2Nlc3MsIHByaW9yaXR5LCBjYXVzYWxpdHksIGRpcmVjdGlvbmFsLW5hdmlnYXRpb24gb3IgU3RhZ2Ugc2VtYW50aWNzPwoKVGhlIG5ldXRyYWwgY29tcGFyaXNvbiBjb250YWlucyBvbmUgbm8tbW90aW9uIGNvbnRyb2wgYW5kIHRocmVlIHN5bmNocm9uaXplZCBjYW5kaWRhdGVzOiBDUzAgSW1tZWRpYXRlIEN1dDsgQ1MxIFN5bmNocm9uaXplZCBGaWVsZCBTZXR0bGU7IENTMiBCYWxhbmNlZCBDcm9zc2ZhZGUgRXhjaGFuZ2U7IENTMyBTaW11bHRhbmVvdXMgT3Bwb3NlZC1GaWVsZCBFeGNoYW5nZS4gTm8gY2FuZGlkYXRlIG1heSBzdGFnZ2VyIGludGVybmFsbHkuIEFQUC9XRUIgYW5kIFdJREUvMzIwIGFyZSB0ZXN0ZWQ7IHJlZHVjZWQgbW90aW9uIGlzIGltbWVkaWF0ZSBmaW5hbC1jb250ZXh0IHJlbmRlcmluZyB3aXRoIHplcm8gYW5pbWF0aW9uLiBDVVQvbm9uZSByZW1haW5zIGEgdmFsaWQgYWRqdWRpY2F0aW9uIHJlc3VsdC4KCioqTmV4dCBnYXRlOioqIGZyZWV6ZSBmaXh0dXJlLW9ubHkgdGltaW5nL2FtcGxpdHVkZSB2YWx1ZXMsIG1hdGVyaWFsaXplIHRoZSBDUzAtQ1MzIGNvbXBhcmlzb24sIHBhc3MgZGV0ZXJtaW5pc3RpYyBmdWxsL3JlZHVjZWQtbW90aW9uIGJyb3dzZXIgcHJlZmxpZ2h0LCBmcmVlemUgRGVzaWduIFNvbCdzIHZpZXcgYmVmb3JlIERpcmVjdG9yIGlucHV0LCB0aGVuIGFkanVkaWNhdGUgZGlyZWN0bHkuIE5vIGV2aWRlbmNlLWF3YXJlIHJldHVuaW5nIGlzIGFsbG93ZWQgYWZ0ZXIgdmlld2luZy4KCioqR3VhcmRyYWlsOioqIEYxQSByZW1haW5zIHVuY2hhbmdlZC4gTm8gcHJvZHVjdGlvbiB0b2tlbnMsIGFwcC9zaXRlL25hdmlnYXRpb24gaW1wbGVtZW50YXRpb24sIENoYXJhY3Rlci9TY2VuZS9TdGFnZS9QZXJmb3JtYW5jZS9UYWtlL09wcG9ydHVuaXR5IHRpbWluZywgZmluYWwgbW90aW9uIHN5c3RlbSwgZmluYWwgaWRlbnRpdHkgb3IgUGhhc2UtQyBjb252ZXJnZW5jZS4KCioqQVBQUk9WRUQgQlkgU1RBTkRJTkcgRElSRUNUT1IgREVMRUdBVElPTiDigJQgQ0xFQU4gUkVDVVJTSVZFIEFVRElULioqCg==').decode(); p.write_text(t if a in t else t+s)"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add "$ledger"
+          git add docs/evidence/DESIGN_LEDGER.md
           if git diff --cached --quiet; then exit 0; fi
           git commit -m 'Append MOT-01 context-shift ledger closures'
           git push origin HEAD:tmp/mot01-context-shift-ledger
