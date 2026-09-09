@@ -14,19 +14,18 @@ Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/
 Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 remain unchanged. No final hero. Reopening: `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
 
 ## Shared brand — TYP-01 CLOSED / MOT-01 F1 PROVISIONAL INCUMBENT
-TYP-01 remains closed. MOT-01 method/defaults/preflight remain frozen and clean through L-039; original 24-specimen packet remains c399.
+TYP-01 remains closed. MOT-01 method/defaults/original preflight remain frozen. Director + Design Sol adjudication governs design-lane subjective gates; historical blind kits remain evidence only. Engineering/E0 blind scoring is unchanged. Decision + F1 law: `docs/evidence/MOT_01_DIRECTOR_DESIGN_ADJUDICATION_01.json`, `docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json`, Design Ledger L-042/L-043.
 
-Director + Design Sol adjudication replaced the unavailable outside blind-review dependency for design-lane subjective gates. Historical blind instruments/kits remain with 0 primary records. Engineering/E0 blind scoring is unchanged. Decision: `docs/evidence/MOT_01_DIRECTOR_DESIGN_ADJUDICATION_01.json`.
+**F1 — Ordered Stagger** remains provisional because one-after-another motion symbolizes the application identity. F4 remains the secondary composure reference. Symbolic succession must not invent loading, progress, priority, causality or Stage/product state.
 
-The Director selected **F1 — Ordered Stagger** because one-after-another behavior symbolizes the application identity. Frozen F1 set: M01-21 WEB/WIDE, M01-22 WEB/320, M01-15 APP/WIDE, M01-11 APP/320. F4 remains the strongest secondary reference.
+## Q-DESIGN-12 — COMPARISON CLEAN / DIRECTOR VIEW PENDING
+Frozen comparison: `prototypes/mot-01/refinement/comparison.html`; manifest: `prototypes/mot-01/refinement/manifest.json`. F1A 70/460, F1B 90/520, F1C 110/560; unchanged F4 620. WEB/APP timing is identical; displacement is 56px/28px.
 
-Q-DESIGN-11 contract: `docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json`. F1 remains onset succession only; symbolic brand sequence is separated from false task/causal semantics. Comparison set: F1A 70/460, F1B 90/520 reference, F1C 110/560, plus unchanged F4; WEB/APP timing is identical, displacement 56px/28px.
+Hosted Chrome preflight passed **16/16 FULL + 16/16 REDUCED, zero failures**. Evidence: `docs/evidence/MOT_01_F1_REFINEMENT_STRUCTURAL_REDUCED_MOTION_PREFLIGHT_01.json`. Comparison SHA-256: `8dff1319ad726b449b4039db3bc447d29f23a71dc0fe0814f23b4bac9f633eee`.
 
-F1 has **no Q-DESIGN-02 Stage-motion authority** and creates no final production timing, identity, website surface or app implementation.
+Design Sol independent view is frozen before Director cadence selection: **F1B > F1C > F1A > F4**; provisional Design Sol preference **F1B**. Evidence: `docs/evidence/MOT_01_F1_DESIGN_SOL_INDEPENDENT_REVIEW_01.json`.
 
 ## Exact next action / hard boundary
-Q-DESIGN-12: materialize the deterministic 16-specimen labeled comparison, pass structural/reduced-motion preflight, then present it for direct Design Sol + Director thought adjudication.
+Director views the exact labeled comparison and gives product meaning/preference. Then Design Sol reconciles both views and records the Director-bound resolution.
 
-Do not generalize stagger to arbitrary lists/groups yet or use it to imply loading/progress/priority/causality without authoritative semantics. Do not call Director + Design Sol adjudication blinded evidence. No Stage motion, implementation, deployment, final-token authority or Phase-C convergence.
-
-Transcript-dependent Stage motion still waits on real blinded E0-A vs E0-E evidence.
+No further cadence reroll, production motion tokens, arbitrary-list stagger law, Stage motion, app implementation, website deployment, final identity or Phase-C convergence. Q-DESIGN-02 still waits on real blinded E0-A vs E0-E evidence.
