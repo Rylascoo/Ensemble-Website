@@ -1,0 +1,139 @@
+{
+  "schema": "kymaean.mot01.f1-refinement-preflight.v1",
+  "status": "CLEAN_PREFLIGHT_NO_ADJUDICATION",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "gate": "Q-DESIGN-12",
+  "environment": {
+    "browser_version": "Google Chrome 152.0.7977.64 ",
+    "os_pretty": "Ubuntu 24.04.4 LTS",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "devicePixelRatio": 1
+  },
+  "source_sha256": {
+    "comparison.html": "8dff1319ad726b449b4039db3bc447d29f23a71dc0fe0814f23b4bac9f633eee",
+    "manifest.preflight-input.json": "ee9e23c2508181c03f3c7918d0f3ba5f737f130954a25ab565179985832cea57",
+    "contract.json": "f2868366c30c23dcdff0fb71e0cb4ae5108cbe55270d16bbb43d70f89c4720b2"
+  },
+  "specimen_count": 16,
+  "full_motion_specimens": 16,
+  "reduced_motion_specimens": 16,
+  "failures": [],
+  "per_specimen": {
+    "F1A-WEB-WIDE": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1A",
+      "context": "WEB",
+      "viewport": "WIDE"
+    },
+    "F1A-WEB-REFLOW_320": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1A",
+      "context": "WEB",
+      "viewport": "REFLOW_320"
+    },
+    "F1A-APP-WIDE": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1A",
+      "context": "APP",
+      "viewport": "WIDE"
+    },
+    "F1A-APP-REFLOW_320": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1A",
+      "context": "APP",
+      "viewport": "REFLOW_320"
+    },
+    "F1B-WEB-WIDE": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1B",
+      "context": "WEB",
+      "viewport": "WIDE"
+    },
+    "F1B-WEB-REFLOW_320": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1B",
+      "context": "WEB",
+      "viewport": "REFLOW_320"
+    },
+    "F1B-APP-WIDE": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1B",
+      "context": "APP",
+      "viewport": "WIDE"
+    },
+    "F1B-APP-REFLOW_320": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1B",
+      "context": "APP",
+      "viewport": "REFLOW_320"
+    },
+    "F1C-WEB-WIDE": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1C",
+      "context": "WEB",
+      "viewport": "WIDE"
+    },
+    "F1C-WEB-REFLOW_320": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1C",
+      "context": "WEB",
+      "viewport": "REFLOW_320"
+    },
+    "F1C-APP-WIDE": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1C",
+      "context": "APP",
+      "viewport": "WIDE"
+    },
+    "F1C-APP-REFLOW_320": {
+      "pass": true,
+      "failures": [],
+      "variant": "F1C",
+      "context": "APP",
+      "viewport": "REFLOW_320"
+    },
+    "F4-WEB-WIDE": {
+      "pass": true,
+      "failures": [],
+      "variant": "F4",
+      "context": "WEB",
+      "viewport": "WIDE"
+    },
+    "F4-WEB-REFLOW_320": {
+      "pass": true,
+      "failures": [],
+      "variant": "F4",
+      "context": "WEB",
+      "viewport": "REFLOW_320"
+    },
+    "F4-APP-WIDE": {
+      "pass": true,
+      "failures": [],
+      "variant": "F4",
+      "context": "APP",
+      "viewport": "WIDE"
+    },
+    "F4-APP-REFLOW_320": {
+      "pass": true,
+      "failures": [],
+      "variant": "F4",
+      "context": "APP",
+      "viewport": "REFLOW_320"
+    }
+  },
+  "adjudication_performed": false,
+  "production_authority_created": false
+}
