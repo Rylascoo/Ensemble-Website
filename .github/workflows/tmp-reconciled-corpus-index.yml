@@ -1,0 +1,30 @@
+name: Temporary reconciled corpus index generation
+
+on:
+  push:
+    branches:
+      - tmp/reconciled-corpus-index-generation
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Generate corpus index
+        run: python3 tools/generate_docs_index.py
+      - name: Validate document structure
+        run: python3 tools/validate_document_status.py
+      - name: Validate repository boundaries
+        run: python3 tools/validate_repository_boundaries.py
+      - name: Upload generated index
+        uses: actions/upload-artifact@v4
+        with:
+          name: reconciled-corpus-index
+          path: docs/INDEX.md
+          if-no-files-found: error
