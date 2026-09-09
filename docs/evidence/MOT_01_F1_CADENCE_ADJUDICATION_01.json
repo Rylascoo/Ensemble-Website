@@ -1,0 +1,72 @@
+{
+  "schema": "kymaean.mot01.f1-cadence-adjudication.v1",
+  "status": "DIRECTOR_SELECTED_F1A_TIGHT_PROVISIONAL_REFINEMENT_REFERENCE",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "gate": "Q-DESIGN-12",
+  "authority": {
+    "refinement_contract": "docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json",
+    "clean_preflight": "docs/evidence/MOT_01_F1_REFINEMENT_STRUCTURAL_REDUCED_MOTION_PREFLIGHT_01.json",
+    "design_sol_independent_review": "docs/evidence/MOT_01_F1_DESIGN_SOL_INDEPENDENT_REVIEW_01.json",
+    "comparison": "prototypes/mot-01/refinement/comparison.html",
+    "comparison_sha256": "8dff1319ad726b449b4039db3bc447d29f23a71dc0fe0814f23b4bac9f633eee"
+  },
+  "mechanical_evidence": {
+    "full_motion": "16/16 PASS",
+    "reduced_motion": "16/16 PASS",
+    "failures": 0,
+    "interpretation": "F1A, F1B and F1C are all mechanically admissible under the frozen refinement contract. Mechanical evidence does not establish a cadence winner."
+  },
+  "design_sol_view_frozen_before_director_selection": {
+    "ranking": ["F1B", "F1C", "F1A", "F4"],
+    "provisional_preference": "F1B",
+    "reason": "F1B made succession unmistakable while retaining a coherent single-event feel; F1C increased ordered-process risk and temporal drag; F1A risked reading as a generic ripple."
+  },
+  "director_view": {
+    "selection": "F1A_TIGHT",
+    "reason": "If the motion is used, it should not feel too slow. The tighter cadence preserves the Director-selected one-after-another symbolism while keeping the movement prompt.",
+    "prior_identity_anchor": "One-after-another behavior symbolically represents the application identity."
+  },
+  "resolution": {
+    "selected_variant": "F1A_TIGHT",
+    "onset_interval_ms": 70,
+    "token_onset_ms": [0, 70, 140, 210],
+    "equal_token_duration_ms": 460,
+    "last_completion_ms": 670,
+    "position_easing": "cubic-bezier(0.2,0,0,1)",
+    "web_translate_y_px": 56,
+    "app_translate_y_px": 28,
+    "reduced_motion": "immediate_final_state_no_animation",
+    "rationale": "Because all F1 cadences passed the same hard preflight, the Director preference is binding under the frozen tie rule. F1A best reconciles symbolic succession with promptness and reduces temporal-drag and false literal-process risk relative to the slower F1 variants.",
+    "secondary_reference": "F1B remains the strongest cadence comparator and F4 remains the secondary family/composure reference; neither is the current incumbent."
+  },
+  "semantic_guardrail": "The 70 ms sequence is a brand-level metaphor for succession. It may not fabricate loading, progress, priority, completion, causal dependency, data arrival, Stage transition, Character acting cadence, Performance, Take or Opportunity timing when authoritative product state does not independently establish that order.",
+  "non_authority": {
+    "production_motion_tokens": false,
+    "arbitrary_list_or_feed_stagger": false,
+    "stage_motion": false,
+    "app_implementation": false,
+    "website_deployment": false,
+    "final_motion_system": false,
+    "final_identity": false,
+    "phase_c_convergence": false
+  },
+  "next_gate": {
+    "id": "Q-DESIGN-13",
+    "work": "Freeze the bounded F1A deployment-envelope contract: eligible identity-bearing trigger zones, group-size and batching rules, repetition/frequency limits, interruption/replay behavior, logical/RTL ordering, and reduced-motion equivalence. Do not create production tokens or implement motion in the app/site."
+  },
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "Director and Design Sol viewpoints preserved rather than rewritten into false agreement",
+      "mechanical preflight distinguished from subjective cadence choice",
+      "frozen tie rule applied correctly because no mechanical evidence distinguishes F1A/B/C",
+      "F1 family mechanism remains onset succession only",
+      "F1A selection reduces temporal drag without erasing symbolic succession",
+      "false literal product-state semantics remain prohibited",
+      "F1B and F4 retained as references without reopening family selection",
+      "no production, Stage, implementation or convergence authority created"
+    ],
+    "approval": "DIRECTOR SELECTED F1A TIGHT; DESIGN SOL RECONCILIATION CLEAN"
+  }
+}
