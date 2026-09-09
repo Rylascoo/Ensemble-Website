@@ -1,0 +1,66 @@
+name: Temporary MOT-01 context-shift review capture
+
+on:
+  push:
+    branches:
+      - tmp/mot01-context-shift-preflight
+
+permissions:
+  contents: read
+
+jobs:
+  capture:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Capture deterministic review frames
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p captures
+          npm install --no-save playwright-core@1.55.0
+          browser="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || command -v chromium || true)"
+          test -n "$browser"
+          python3 -m http.server 4173 --bind 127.0.0.1 >captures/http.log 2>&1 &
+          server_pid=$!
+          trap 'kill $server_pid || true' EXIT
+          for i in {1..40}; do curl -fsS http://127.0.0.1:4173/prototypes/mot-01/context-shift/comparison.html >/dev/null && break; sleep .25; done
+          CHROME_PATH="$browser" node <<'NODE'
+          const { chromium } = require('playwright-core');
+          const fs=require('fs');
+          const IDS=['CS0_CUT','CS1_SYNCHRONIZED_SETTLE','CS2_BALANCED_EXCHANGE','CS3_OPPOSED_FIELD_EXCHANGE'];
+          const TIMES=[0,40,80,120,160,200,240,280];
+          (async()=>{
+            const browser=await chromium.launch({executablePath:process.env.CHROME_PATH,headless:true,args:['--no-sandbox']});
+            const context=await browser.newContext({reducedMotion:'no-preference',viewport:{width:1440,height:1000}});
+            const page=await context.newPage();
+            await page.goto('http://127.0.0.1:4173/prototypes/mot-01/context-shift/comparison.html',{waitUntil:'load'});
+            for(const ctx of ['APP','WEB']){
+              await page.getByRole('button',{name:ctx,exact:true}).click();
+              for(const [label,view] of [['WIDE','WIDE'],['320','REFLOW_320']]){
+                await page.getByRole('button',{name:label,exact:true}).click();
+                const cards=page.locator('.case');
+                for(let i=0;i<4;i++)await cards.nth(i).screenshot({path:`captures/${ctx}-${view}-${IDS[i]}-PRE.png`});
+                await page.getByRole('button',{name:'Replay all',exact:true}).click();
+                await page.evaluate(()=>{for(const a of document.getAnimations())a.pause()});
+                for(const t of TIMES){
+                  await page.evaluate(t=>{for(const a of document.getAnimations())a.currentTime=t},t);
+                  for(let i=0;i<4;i++)await cards.nth(i).screenshot({path:`captures/${ctx}-${view}-${IDS[i]}-${String(t).padStart(3,'0')}.png`});
+                }
+              }
+            }
+            await context.close();await browser.close();
+            fs.writeFileSync('captures/capture-manifest.json',JSON.stringify({schema:'kymaean.mot01.context-shift-review-capture.v1',contexts:['APP','WEB'],viewports:['WIDE','REFLOW_320'],ids:IDS,frames:['PRE',...TIMES],duration_ms:280},null,2));
+          })().catch(e=>{console.error(e.stack||e);process.exit(1)});
+          NODE
+          sha256sum prototypes/mot-01/context-shift/comparison.html prototypes/mot-01/context-shift/manifest.json docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json docs/evidence/MOT_01_CONTEXT_SHIFT_EXECUTION_DEFAULTS_01.json > captures/source-sha256.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mot01-context-shift-review-capture
+          path: captures
+          if-no-files-found: error
