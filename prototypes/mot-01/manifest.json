@@ -1,6 +1,6 @@
 {
   "schema": "kymaean.mot01.packet-manifest.v1",
-  "status": "PRE_TEMPORAL_EXECUTION_ENVIRONMENT_PROBE_REQUIRED",
+  "status": "ENVIRONMENT_AND_SOURCE_FROZEN_BEFORE_TEMPORAL_PREFLIGHT",
   "program_id": "MOT-01",
   "contracts": {
     "method": {
@@ -19,8 +19,21 @@
     "prototypes/mot-01/blinding-key.json"
   ],
   "matrix_count": 24,
-  "environment": "TO_BE_FROZEN_BY_HOST_PROBE_BEFORE_FIRST_TEMPORAL_PREFLIGHT_EXECUTION",
-  "source_sha256": "TO_BE_FROZEN_BEFORE_FIRST_TEMPORAL_PREFLIGHT_EXECUTION",
+  "environment": {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "devicePixelRatio": 1,
+    "computedFontFamily": "system-ui, sans-serif",
+    "innerWidth": 780,
+    "innerHeight": 437,
+    "browser_version": "Google Chrome 152.0.7977.82 ",
+    "os_pretty": "Ubuntu 24.04.5 LTS"
+  },
+  "source_sha256": {
+    "harness.html": "df65b57dbf5c4dbbbaeeb431e2c4fd4665132ef00031c998ff6c9acf49f64ff5",
+    "reviewer.html": "e11088820fc23be569d0fcadb5f8587426fefa0a640435be9426364796b24c1d",
+    "blinding-key.json": "273ecca6c592597c2c2aef7ee8a15c76e52f6a34f974299922854ec5b9cf5ad8"
+  },
   "manifest_self_hash": "RECORDED_IN_PREFLIGHT_EVIDENCE_AFTER_FINAL_MANIFEST_FREEZE",
   "reviewer_exposure": false,
   "scoring_performed": false

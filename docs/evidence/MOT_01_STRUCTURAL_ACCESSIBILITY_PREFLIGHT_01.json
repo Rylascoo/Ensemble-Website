@@ -1,0 +1,281 @@
+{
+  "schema": "kymaean.mot01.structural-accessibility-preflight.v1",
+  "status": "CLEAN_PREFLIGHT_NO_SCORING",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "authority": {
+    "website_main_before_packet": "e3a08c3dc73cd0c5295ed21f9d6b03d921a0c68b",
+    "method_main": "38e3ea61d336900fb05a0a6b2e8e5206aa23a5d0",
+    "execution_defaults_main": "e3a08c3dc73cd0c5295ed21f9d6b03d921a0c68b"
+  },
+  "attempt_history": [
+    {
+      "attempt": 1,
+      "workflow_run_id": 34317229528,
+      "disposition": "INVALID_DIAGNOSTIC_ATTEMPT_NO_FAMILY_RESULT",
+      "reason": "Attempt 01 treated wall-clock animation completion as conformance evidence even though frozen method L-037 explicitly says wall-clock frame timing is not evidence and permits deterministic animation.currentTime checkpoints. Its only 192 reported failures were four tokens x 24 specimens x final-state/playState wall-clock assertions; the temporary branch currency guard also stopped the invalid report before commit."
+    },
+    {
+      "attempt": 2,
+      "disposition": "CURRENT_VALID_PREFLIGHT"
+    }
+  ],
+  "environment": {
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/152.0.0.0 Safari/537.36",
+    "platform": "Linux x86_64",
+    "devicePixelRatio": 1,
+    "computedFontFamily": "system-ui, sans-serif",
+    "innerWidth": 780,
+    "innerHeight": 437,
+    "browser_version": "Google Chrome 152.0.7977.82 ",
+    "os_pretty": "Ubuntu 24.04.5 LTS"
+  },
+  "source_freeze_sha256": {
+    "harness.html": "df65b57dbf5c4dbbbaeeb431e2c4fd4665132ef00031c998ff6c9acf49f64ff5",
+    "reviewer.html": "e11088820fc23be569d0fcadb5f8587426fefa0a640435be9426364796b24c1d",
+    "manifest.json": "4457e730f1ae40a28bb194898ebcf135645a9c2218a8d9595ee880e9306cfa98",
+    "blinding-key.json": "273ecca6c592597c2c2aef7ee8a15c76e52f6a34f974299922854ec5b9cf5ad8"
+  },
+  "diagnostics": {
+    "full_prefers_reduced_motion": false,
+    "reduced_prefers_reduced_motion": true,
+    "matrix_count_full": 24,
+    "matrix_count_reduced": 24,
+    "checkpointing": "animation.currentTime set to delay+duration as explicitly permitted by frozen method"
+  },
+  "checks": {
+    "matrix": true,
+    "no_autoplay": true,
+    "geometry_and_reflow": true,
+    "focus": true,
+    "animation_declarations": true,
+    "deterministic_full_end": true,
+    "reduced_motion": true,
+    "static_equivalence": true,
+    "blinding_and_exclusions": true,
+    "source_immutability": true
+  },
+  "specimens": [
+    {
+      "anonymous_id": "M01-01",
+      "source_specimen_id": "F2-APP-REFLOW_320",
+      "family": "F2",
+      "context": "APP",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-02",
+      "source_specimen_id": "CPOS-WEB-WIDE",
+      "family": "CPOS",
+      "context": "WEB",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-03",
+      "source_specimen_id": "F3-WEB-REFLOW_320",
+      "family": "F3",
+      "context": "WEB",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-04",
+      "source_specimen_id": "CNEG-WEB-REFLOW_320",
+      "family": "CNEG",
+      "context": "WEB",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-05",
+      "source_specimen_id": "F2-WEB-WIDE",
+      "family": "F2",
+      "context": "WEB",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-06",
+      "source_specimen_id": "F4-WEB-WIDE",
+      "family": "F4",
+      "context": "WEB",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-07",
+      "source_specimen_id": "F4-WEB-REFLOW_320",
+      "family": "F4",
+      "context": "WEB",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-08",
+      "source_specimen_id": "CPOS-APP-WIDE",
+      "family": "CPOS",
+      "context": "APP",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-09",
+      "source_specimen_id": "F3-WEB-WIDE",
+      "family": "F3",
+      "context": "WEB",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-10",
+      "source_specimen_id": "F4-APP-WIDE",
+      "family": "F4",
+      "context": "APP",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-11",
+      "source_specimen_id": "F1-APP-REFLOW_320",
+      "family": "F1",
+      "context": "APP",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-12",
+      "source_specimen_id": "F4-APP-REFLOW_320",
+      "family": "F4",
+      "context": "APP",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-13",
+      "source_specimen_id": "F3-APP-WIDE",
+      "family": "F3",
+      "context": "APP",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-14",
+      "source_specimen_id": "CPOS-APP-REFLOW_320",
+      "family": "CPOS",
+      "context": "APP",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-15",
+      "source_specimen_id": "F1-APP-WIDE",
+      "family": "F1",
+      "context": "APP",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-16",
+      "source_specimen_id": "F2-APP-WIDE",
+      "family": "F2",
+      "context": "APP",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-17",
+      "source_specimen_id": "CNEG-APP-WIDE",
+      "family": "CNEG",
+      "context": "APP",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-18",
+      "source_specimen_id": "F3-APP-REFLOW_320",
+      "family": "F3",
+      "context": "APP",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-19",
+      "source_specimen_id": "F2-WEB-REFLOW_320",
+      "family": "F2",
+      "context": "WEB",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-20",
+      "source_specimen_id": "CPOS-WEB-REFLOW_320",
+      "family": "CPOS",
+      "context": "WEB",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-21",
+      "source_specimen_id": "F1-WEB-WIDE",
+      "family": "F1",
+      "context": "WEB",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-22",
+      "source_specimen_id": "F1-WEB-REFLOW_320",
+      "family": "F1",
+      "context": "WEB",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-23",
+      "source_specimen_id": "CNEG-WEB-WIDE",
+      "family": "CNEG",
+      "context": "WEB",
+      "viewport": "WIDE",
+      "pass": true,
+      "failures": []
+    },
+    {
+      "anonymous_id": "M01-24",
+      "source_specimen_id": "CNEG-APP-REFLOW_320",
+      "family": "CNEG",
+      "context": "APP",
+      "viewport": "REFLOW_320",
+      "pass": true,
+      "failures": []
+    }
+  ],
+  "failures": [],
+  "reviewer_exposure": false,
+  "reviewer_scores_exist": false,
+  "scoring_performed": false,
+  "interpretation": "Preflight only. No motion family is scored, ranked, selected or converged; no production timing token or Stage-motion authority is created."
+}
