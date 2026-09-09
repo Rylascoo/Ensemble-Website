@@ -56,7 +56,8 @@ jobs:
       - name: Freeze manifest, provenance, hashes, and preflight evidence
         shell: bash
         run: |
-          python - <<'PY'
+          set +e
+          python - <<'PY' > /tmp/typ01-freeze.log 2>&1
           import json, re, html, hashlib, platform
           from pathlib import Path
           root=Path('.')
@@ -132,10 +133,17 @@ jobs:
           print('TYP01_COMPUTED_FONT_FAMILIES='+repr(env['computed_font_families']))
           print('TYP01_REVIEWER_EQUIVALENCE=PASS')
           PY
+          status=$?
+          cat /tmp/typ01-freeze.log
+          if [ "$status" -ne 0 ]; then
+            cp /tmp/typ01-freeze.log prototypes/typ-01/freeze-diagnostic.txt
+            exit "$status"
+          fi
           cp /tmp/typ01-review-wide.png prototypes/typ-01/preflight-inspection-wide.png
           cp /tmp/typ01-review-reflow.png prototypes/typ-01/preflight-inspection-reflow.png
 
       - name: Commit disposable materialization evidence
+        if: always()
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
