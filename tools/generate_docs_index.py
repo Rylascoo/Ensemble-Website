@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the document index from D-R1 first-line headers only."""
+"""Generate the D-R1 Markdown index and non-semantic text-record inventory."""
 
 import argparse
 import os
@@ -25,6 +25,17 @@ def markdown_paths(root):
     return sorted(paths)
 
 
+def text_paths(root):
+    """Inventory repository text records without parsing or inferring status."""
+    paths = []
+    for directory, dirs, files in os.walk(root):
+        dirs[:] = sorted(d for d in dirs if d != ".git")
+        for name in files:
+            if name.endswith(".txt"):
+                paths.append((Path(directory) / name).relative_to(root).as_posix())
+    return sorted(paths)
+
+
 def read_status(root, path):
     data = (root / path).read_bytes()
     count = len(MARKER.findall(data))
@@ -44,25 +55,31 @@ def collect_statuses(root):
     return {path: read_status(root, path) for path in markdown_paths(root)}
 
 
-def render_index(statuses):
+def render_index(statuses, texts):
     """Account for INDEX on the first run without changing subsequent output."""
     statuses = dict(statuses)
     if INDEX in statuses and statuses[INDEX] != "ACTIVE LAW":
         raise ValueError(f"{INDEX}: generated index must be ACTIVE LAW")
     statuses[INDEX] = "ACTIVE LAW"
+    texts = sorted(texts)
     lines = [
         "<!-- D-R1-STATUS: ACTIVE LAW -->", "", "# Document index", "",
         "Generated file; do not hand-maintain.", "",
         "Generation command: `python3 tools/generate_docs_index.py`", "",
-        f"Total Markdown documents: {len(statuses)}", "",
+        f"Total Markdown documents: {len(statuses)}",
+        f"Total text records: {len(texts)}", "",
         "Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.",
-        "UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.", "",
+        "UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.",
+        "Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.", "",
     ]
     for status in STATUSES:
         paths = sorted(path for path, value in statuses.items() if value == status)
         lines.extend([f"## {status} ({len(paths)})", ""])
         lines.extend(f"- `{path}`" for path in paths)
         lines.append("")
+    lines.extend([f"## TEXT RECORDS — INVENTORY ONLY ({len(texts)})", ""])
+    lines.extend(f"- `{path}`" for path in texts)
+    lines.append("")
     return "\n".join(lines).encode("utf-8")
 
 
@@ -71,7 +88,7 @@ def main():
     parser.add_argument("--check", action="store_true", help="Check byte-for-byte idempotence without writing")
     args = parser.parse_args()
     try:
-        expected = render_index(collect_statuses(ROOT))
+        expected = render_index(collect_statuses(ROOT), text_paths(ROOT))
         target = ROOT / INDEX
         if args.check:
             if not target.is_file() or target.read_bytes() != expected:

@@ -2,25 +2,7 @@ name: Repository publication boundaries
 
 on:
   push:
-    paths:
-      - 'site/**'
-      - 'intelligence/**'
-      - 'updates/**'
-      - 'README.md'
-      - 'AGENTS.md'
-      - 'CURRENT_STATE.md'
-      - 'tools/validate_repository_boundaries.py'
-      - '.github/workflows/repository-boundaries.yml'
   pull_request:
-    paths:
-      - 'site/**'
-      - 'intelligence/**'
-      - 'updates/**'
-      - 'README.md'
-      - 'AGENTS.md'
-      - 'CURRENT_STATE.md'
-      - 'tools/validate_repository_boundaries.py'
-      - '.github/workflows/repository-boundaries.yml'
 
 permissions:
   contents: read
