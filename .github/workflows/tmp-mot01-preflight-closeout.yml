@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: true
-      - name: Record preflight closure and handoff
+      - name: Record preflight closure and validate committed candidate
         shell: bash
         run: |
           set -euo pipefail
@@ -85,14 +85,15 @@ jobs:
           Transcript-dependent Stage motion still waits on real blinded E0-A vs E0-E evidence.
           EOF
 
-          python tools/validate_document_status.py
-          python tools/validate_repository_boundaries.py
-          git diff --check
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git rm .github/workflows/tmp-mot01-preflight-closeout.yml
           git add CURRENT_STATE.md docs/evidence/DESIGN_LEDGER.md
           git diff --cached --check
           git commit -m "Close MOT-01 structural accessibility preflight"
+
+          python tools/validate_document_status.py
+          python tools/validate_repository_boundaries.py
+          git diff --check
+
           git push origin HEAD:tmp/mot01-preflight-closeout
