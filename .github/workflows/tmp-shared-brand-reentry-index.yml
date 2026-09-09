@@ -15,32 +15,20 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
-      - name: Append durable design-ledger closure
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          ledger = Path('docs/evidence/DESIGN_LEDGER.md')
-          helper = Path('.tmp/L032_SHARED_BRAND_REENTRY.txt')
-          marker = '## L-032 — Phase-B re-entry selects typographic/editorial identity independence'
-          data = ledger.read_text(encoding='utf-8')
-          if marker not in data:
-              block = helper.read_text(encoding='utf-8').rstrip()
-              ledger.write_text(data.rstrip() + '\n\n' + block + '\n', encoding='utf-8')
-          PY
       - name: Generate corpus index
         run: python3 tools/generate_docs_index.py
       - name: Validate document structure
         run: python3 tools/validate_document_status.py
       - name: Validate repository boundaries
         run: python3 tools/validate_repository_boundaries.py
-      - name: Commit generated closure when changed
+      - name: Commit generated index when changed
         run: |
-          if git diff --quiet -- docs/evidence/DESIGN_LEDGER.md docs/INDEX.md; then
-            echo "Generated closure already committed"
+          if git diff --quiet -- docs/INDEX.md; then
+            echo "Generated index already committed"
             exit 0
           fi
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add docs/evidence/DESIGN_LEDGER.md docs/INDEX.md
-          git commit -m "tmp: materialize shared-brand re-entry closure"
+          git add docs/INDEX.md
+          git commit -m "tmp: refresh shared-brand re-entry index"
           git push origin HEAD:tmp/shared-brand-divergence-reentry-audit-index
