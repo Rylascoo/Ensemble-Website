@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-      - name: Audit frozen contracts and preflight failures
+      - name: Audit frozen-contract conformance and preflight termination
         shell: bash
         run: |
           cat .tmp/typ01-bundle.part-* > /tmp/typ01-bundle.b64
@@ -25,25 +25,99 @@ jobs:
           test "$(sha256sum /tmp/typ01-bundle.b64 | awk '{print $1}')" = "a72eeecd655d1590fda320d9ccaddf3c9ffc38e2052538f82e6b99c6b7f93e5f"
           base64 -d /tmp/typ01-bundle.b64 > /tmp/typ01-bundle.tar.gz
           gzip -t /tmp/typ01-bundle.tar.gz
-          echo 'TYP01_BUNDLE_MEMBERS_BEGIN'
-          tar -tzf /tmp/typ01-bundle.tar.gz | sort
-          echo 'TYP01_BUNDLE_MEMBERS_END'
           python - <<'PY'
-          import json
+          import json,re
           from pathlib import Path
+
           method=json.loads(Path('docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json').read_text())
           add1=json.loads(Path('docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json').read_text())
           add2=json.loads(Path('docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json').read_text())
-          print('TYP01_METHOD_TOP_KEYS='+','.join(method.keys()))
-          for k,v in method.items():
-              lk=k.lower()
-              if any(term in lk for term in ('context','control','famil','adapt','vector','preflight','hard_failure','termination')):
-                  print('TYP01_METHOD_SECTION='+k+' '+json.dumps(v,separators=(',',':'),ensure_ascii=False))
-          print('TYP01_ADDENDUM01_PREFLIGHT='+json.dumps(add1['preflight_interpretation'],separators=(',',':')))
-          print('TYP01_ADDENDUM02_RESIDUAL='+json.dumps(add2['residual_defaults'],separators=(',',':')))
           raw=Path('prototypes/typ-01/freeze-diagnostic.txt').read_text(encoding='utf-8')
-          report,end=json.JSONDecoder().raw_decode(raw)
+          report,_=json.JSONDecoder().raw_decode(raw)
+          source=Path('prototypes/typ-01/harness.html').read_text(encoding='utf-8')
+
+          members=[]
+          import tarfile
+          with tarfile.open('/tmp/typ01-bundle.tar.gz','r:gz') as tf:
+              members=sorted(tf.getnames())
+          expected_members=['prototypes/typ-01/blinding-key.json','prototypes/typ-01/harness.html','prototypes/typ-01/reviewer.html']
+          assert members==expected_members,(members,expected_members)
+
+          # Frozen wrapping/accessibility defaults that directly govern horizontal overflow.
+          for literal in ['hyphens:none','word-break:normal','overflow-wrap:normal']:
+              assert literal in source,literal
+          assert add1['specimen_frame']['reflow_width_rule']=='Use exactly 320 CSS px total specimen-frame width including padding.'
+          assert add1['preflight_interpretation']['resize_200'].startswith('Apply a deterministic 2.0 multiplier')
+          assert method['context_adaptation']['REFLOW_320']['size_reduction']=='none beyond APP multiplier already defined'
+          assert method['context_adaptation']['REFLOW_320']['horizontal_scroll']=='forbidden'
+
+          vectors={**method['controls'],**method['families']}
+          u_by_context={'WEB':18.0,'APP':16.0}
+          p1_context_mult={'WEB':1.0,'APP':0.78}
+          measure_context_mult={'WEB':1.0,'APP':0.9}
+
+          def first_u(text):
+              m=re.search(r'([0-9]+(?:\.[0-9]+)?)u',text)
+              assert m,text
+              return float(m.group(1))
+          def named_u(text,name):
+              m=re.search(name+r'\s+([0-9]+(?:\.[0-9]+)?)u',text)
+              assert m,(name,text)
+              return float(m.group(1))
+          def px(text):
+              assert text.endswith('px'),text
+              return float(text[:-2])
+          def close(a,b,tol=.03):
+              return abs(a-b)<=tol
+          def style_map(text):
+              out={}
+              for piece in text.split(';'):
+                  if ':' in piece:
+                      k,v=piece.split(':',1);out[k.strip()]=v.strip()
+              return out
+
+          frame_re=re.compile(r'<article class="specimen"(?P<attrs>[^>]*)data-specimen-id="(?P<id>[^"]+)"(?P<attrs2>[^>]*)style="(?P<style>[^"]*)"><div class="content-root" style="(?P<root>[^"]*)">')
+          frames={m.group('id'):(style_map(m.group('style')),style_map(m.group('root'))) for m in frame_re.finditer(source)}
+          assert len(frames)==24,len(frames)
+
+          conformance=[]
+          for s in report['specimens']:
+              sid=s['specimen_id']; fam=s['family_id']; context=s['context']; viewport=s['viewport']
+              u=u_by_context[context]
+              vector=vectors[fam]['vector']
+              exp_p1=first_u(vector['P1'])*u*p1_context_mult[context]
+              exp_p2=first_u(vector['P2'])*u
+              if fam=='F3':
+                  exp_label=first_u(vector['P3-P6 labels'])*u
+                  general_value=first_u(vector['P3,P5,P6'])*u
+                  p4_value=first_u(vector['P4'])*u
+              else:
+                  util=vector['P3-P6']
+                  exp_label=named_u(util,'labels')*u
+                  general_value=named_u(util,'values')*u
+                  p4_value=general_value
+              e=s['computed_style']['entries']
+              checks=[close(px(e['P1']['fontSize']),exp_p1),close(px(e['P2']['fontSize']),exp_p2)]
+              for p in ('P3','P4','P5','P6'):
+                  checks.append(close(px(e[p]['label']['fontSize']),exp_label))
+                  checks.append(close(px(e[p]['value']['fontSize']),p4_value if fam=='F3' and p=='P4' else general_value))
+              fs,root=frames[sid]
+              expected_width='320px' if viewport=='REFLOW_320' else ('1280px' if context=='WEB' else '1024px')
+              expected_padding=f'{int(u)}px'
+              checks += [fs.get('width')==expected_width,fs.get('padding')==expected_padding]
+              measure=first_u(vector['measure'].replace('ch','u'))*measure_context_mult[context]
+              expected_max='none' if viewport=='REFLOW_320' else f'{measure:g}ch'
+              checks.append(root.get('max-width')==expected_max)
+              checks.append(root.get('width')=='100%')
+              ok=all(checks)
+              conformance.append((sid,ok))
+              if not ok:
+                  print('TYP01_CONFORMANCE_FAIL='+sid)
+          if not all(ok for _,ok in conformance):
+              raise SystemExit('frozen overflow-relevant source conformance failed')
+
           failures=[]
+          failed_families=set()
           for s in report['specimens']:
               if not s.get('pass'):
                   reasons=[]
@@ -52,9 +126,19 @@ jobs:
                       bad=[k for k in ('horizontal_overflow','clipping','overlap') if g.get(k)]
                       if bad:
                           reasons.append(f"{mode}:{','.join(bad)}:client={g['width']['client']}:scroll={g['width']['scroll']}")
-                  failures.append((s['specimen_id'], reasons))
-          print(f"TYP01_OVERALL_PASS={report['overall_pass']}")
-          print(f"TYP01_FAILURE_COUNT={len(failures)}")
-          for specimen_id,reasons in failures:
-              print('TYP01_FAIL='+specimen_id+' | '+' | '.join(reasons))
+                  failures.append((s['specimen_id'],reasons))
+                  if s['family_id'] in method['families']:
+                      failed_families.add(s['family_id'])
+          expected_families=set(method['families'])
+          assert failed_families==expected_families,(failed_families,expected_families)
+
+          print('TYP01_TRANSPORT=PASS length=16804 sha256=a72eeecd655d1590fda320d9ccaddf3c9ffc38e2052538f82e6b99c6b7f93e5f')
+          print('TYP01_TRANSPORT_MEMBERS='+','.join(members))
+          print('TYP01_OVERFLOW_RELEVANT_CONFORMANCE=PASS specimens=24')
+          print(f"TYP01_PREFLIGHT_OVERALL_PASS={report['overall_pass']}")
+          print(f"TYP01_PREFLIGHT_FAILURE_COUNT={len(failures)}")
+          print('TYP01_SCORED_FAMILIES_WITH_HARD_PREFLIGHT_FAILURE='+','.join(sorted(failed_families)))
+          print('TYP01_ZERO_SURVIVORS_PRE_SCORING=TRUE')
+          for sid,reasons in failures:
+              print('TYP01_FAIL='+sid+' | '+' | '.join(reasons))
           PY
