@@ -1,4 +1,4 @@
-name: Temporary TYP-01 Addendum 02 materialization
+name: Temporary TYP-01 provenance and failure audit
 
 on:
   push:
@@ -6,18 +6,18 @@ on:
       - tmp/typ01-harness-materialization
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  materialize-addendum:
+  audit:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
           fetch-depth: 0
-          persist-credentials: true
-      - name: Extract and preserve Addendum 02 for provenance audit
+          persist-credentials: false
+      - name: Verify frozen bundle membership and summarize preflight failures
         shell: bash
         run: |
           cat .tmp/typ01-bundle.part-* > /tmp/typ01-bundle.b64
@@ -25,11 +25,28 @@ jobs:
           test "$(sha256sum /tmp/typ01-bundle.b64 | awk '{print $1}')" = "a72eeecd655d1590fda320d9ccaddf3c9ffc38e2052538f82e6b99c6b7f93e5f"
           base64 -d /tmp/typ01-bundle.b64 > /tmp/typ01-bundle.tar.gz
           gzip -t /tmp/typ01-bundle.tar.gz
-          tar -xzf /tmp/typ01-bundle.tar.gz docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json
-          python -m json.tool docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json >/dev/null
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json
-          git diff --cached --exit-code && exit 0
-          git commit -m "tmp: expose TYP-01 Addendum 02 for provenance audit"
-          git push origin HEAD:tmp/typ01-harness-materialization
+          echo 'TYP01_BUNDLE_MEMBERS_BEGIN'
+          tar -tzf /tmp/typ01-bundle.tar.gz | sort
+          echo 'TYP01_BUNDLE_MEMBERS_END'
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('prototypes/typ-01/freeze-diagnostic.txt')
+          report=json.loads(p.read_text(encoding='utf-8'))
+          failures=[]
+          for s in report['specimens']:
+              if not s.get('pass'):
+                  reasons=[]
+                  for mode in ('normal','resize200','text_spacing_stress'):
+                      g=s[mode]
+                      bad=[k for k in ('horizontal_overflow','clipping','overlap') if g.get(k)]
+                      if bad:
+                          reasons.append(f"{mode}:{','.join(bad)}:client={g['width']['client']}:scroll={g['width']['scroll']}")
+                  if not s.get('text_exact'): reasons.append('text_exact=false')
+                  if not s.get('structural_sequence'): reasons.append('structural_sequence=false')
+                  failures.append((s['specimen_id'], reasons))
+          print(f"TYP01_OVERALL_PASS={report['overall_pass']}")
+          print(f"TYP01_FAILURE_COUNT={len(failures)}")
+          for specimen_id,reasons in failures:
+              print('TYP01_FAIL='+specimen_id+' | '+' | '.join(reasons))
+          PY
