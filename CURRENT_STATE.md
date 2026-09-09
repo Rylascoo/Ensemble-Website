@@ -11,18 +11,18 @@ Design/brand: `Rylascoo/Ensemble-Website`. Product/engineering truth: `Rylascoo/
 `main` is authoritative. `site/` is the only deployable/public website root; product/backend remains in `Rylascoo/Ensemble-Project`. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
 
 ## Hero — STATIC RESEARCH PAUSED
-Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01 + ODR-33 remain unchanged. No final hero is selected. D9 is closed 3/3; DPSC-RSP-01 closed Case A pre-render at 0/2. Post-program diagnosis and reopening law remain in `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
+Hero Brief 02 + Falsification Criteria 01 + Surface Escape + corrected/re-frozen Harness 01 + ODR-33 remain unchanged. No final hero is selected. Post-program diagnosis/reopening law: `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`.
 
-## Shared brand — PHASE-B RE-ENTRY AUDIT COMPLETE
-The non-render divergence re-entry audit is complete: `docs/evidence/SHARED_BRAND_VISUAL_IDENTITY_DIVERGENCE_REENTRY_AUDIT_01.txt`.
+## Shared brand — TYP-01 METHOD FROZEN
+The Phase-B re-entry audit selected **TYP-01 — Typographic / Editorial Identity Independence**. Its frozen machine-readable method and deterministic dual-context matrix are `docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json`; durable closure is Design Ledger L-033.
 
-Temporary controls remain bounded, not final identity: O3 is the working wordmark authority; Threshold K is the unchanged symbol candidate/control; Mineral Theater is temporary material authority; Quiet Stage/site-spine deployment laws remain temporary website controls. None grants convergence.
+TYP-01 is a strong independence screen, not a typeface-selection exercise. It fixes one measurement-only content packet, neutral `system-ui, sans-serif` fixture carrier, four materially different typographic/editorial grammar families plus negative/positive controls, WEB + APP contexts, WIDE + 320px conditions, and exactly 24 specimens. Existing Kymaean/Ensemble naming, Threshold K, O3, palette/material, imagery, Quiet Stage, relational traces, hero geometry, icons/rules, motion and bespoke glyph drawing are excluded from scored specimens.
 
-The audit selected **TYP-01 — Typographic / Editorial Identity Independence** as the next orthogonal `SHARED BRAND` question. Broader typography/editorial voice is explicitly open under Phase B, is not selected by O3 approval, has no dedicated current divergence program, and can be tested without hero geometry, relational traces, imagery, material atmosphere, motion or renderer dependence.
+No font family, typography system, final identity, hero, symbol, wordmark, palette/material family, website surface, app visual system or motion system is selected by this checkpoint.
 
 ## Exact next action / hard boundary
-Construct the **TYP-01 non-render method contract and deterministic dual-context specimen matrix**. Test whether Kymaean can carry recognizable shared-brand character through typographic/editorial behavior across an expressive web context and a restrained app-like utility context while existing symbol/wordmark lockup, palette/material cues, imagery, hero geometry, relational traces and motion are removed as identity carriers.
+Materialize the **deterministic text-only TYP-01 harness + manifest under `prototypes/typ-01/`**, freeze computed reference-face/environment metadata and source hashes, then pass exact-content, isolation, accessibility/reflow and cross-context-invariant preflight. **No blinded scoring begins until that preflight is clean.**
 
-No font family, typography system, final identity, hero, symbol, wordmark, palette/material family, website surface, app visual system or motion system is selected by this checkpoint. Do not reopen O3 structure, Threshold K geometry, static hero research, Lane A implementation or transcript-dependent Stage motion. No image generation, renderer spend, production implementation or deployment is authorized by this gate.
+No image generation, generative renderer use/spend, final typography/identity/hero, O3 or Threshold-K redesign, palette/material reopening, Quiet-Stage/hero refinement, app implementation, website production/deployment or transcript-dependent Stage motion.
 
 E0-E remains mandatory Blueprint law; transcript-dependent Stage motion waits on real blinded E0-A vs E0-E evidence.
