@@ -1,0 +1,199 @@
+{
+  "schema": "kymaean.typ01.blinding-key.v1",
+  "status": "FROZEN_BEFORE_REVIEW_NO_SCORING",
+  "mapping": [
+    {
+      "viewport": "WIDE",
+      "context": "WEB",
+      "family_id": "CNEG",
+      "specimen_id": "CNEG-WEB-WIDE",
+      "blind_id": "W-Q7",
+      "style_fingerprint_sha256": "04caf9422eac4a389367ff069bc454b41956582db503b0d54fccf780c39733ac"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "WEB",
+      "family_id": "CPOS",
+      "specimen_id": "CPOS-WEB-WIDE",
+      "blind_id": "W-N4",
+      "style_fingerprint_sha256": "79145b23abfb670faf821e67e90608dc70e4074ba2da79d93b8820d89802d55a"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "WEB",
+      "family_id": "F1",
+      "specimen_id": "F1-WEB-WIDE",
+      "blind_id": "W-T2",
+      "style_fingerprint_sha256": "23ba39dc7894f7091ebf62a4797e2173fb0d4f3fc2c17d8b0d5f57e2c4fe67f1"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "WEB",
+      "family_id": "F2",
+      "specimen_id": "F2-WEB-WIDE",
+      "blind_id": "W-H8",
+      "style_fingerprint_sha256": "844c8926bbce327d236b058fbeb43e3222bb0320b60204a1b4b6154f3e0961d9"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "WEB",
+      "family_id": "F3",
+      "specimen_id": "F3-WEB-WIDE",
+      "blind_id": "W-C5",
+      "style_fingerprint_sha256": "63d9ba685bac9f096fb809fba64e81b7a5a11bb8f62c8407c50bca03ac547fe4"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "WEB",
+      "family_id": "F4",
+      "specimen_id": "F4-WEB-WIDE",
+      "blind_id": "W-M1",
+      "style_fingerprint_sha256": "83c01fdd8c142042432a3bc08c72a4faf9d58ac7d9192943eb3a5fd0237901c6"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "APP",
+      "family_id": "CNEG",
+      "specimen_id": "CNEG-APP-WIDE",
+      "blind_id": "A-R6",
+      "style_fingerprint_sha256": "9dc74d4ff3a4877eca5b8861df20845ccdfc8ce1108732943e71cfd3b905e262"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "APP",
+      "family_id": "CPOS",
+      "specimen_id": "CPOS-APP-WIDE",
+      "blind_id": "A-B3",
+      "style_fingerprint_sha256": "747685f07bec3df1d4cecd945b0a50aa2e7b5f62402a3f33cd579b9850a55323"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "APP",
+      "family_id": "F1",
+      "specimen_id": "F1-APP-WIDE",
+      "blind_id": "A-K9",
+      "style_fingerprint_sha256": "9bc58f6e00434ad55d47857d222005dacee21ea14f6349720d038f0a938499bd"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "APP",
+      "family_id": "F2",
+      "specimen_id": "F2-APP-WIDE",
+      "blind_id": "A-V2",
+      "style_fingerprint_sha256": "c67f24536ae1f9fd8627380e3df55a8d76c9e57efa8b50493ab054b49f3e8714"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "APP",
+      "family_id": "F3",
+      "specimen_id": "F3-APP-WIDE",
+      "blind_id": "A-D7",
+      "style_fingerprint_sha256": "7cbdf336a82e69c2ba125cc3a539921e620ed2909378a99a77d5d192187e1e27"
+    },
+    {
+      "viewport": "WIDE",
+      "context": "APP",
+      "family_id": "F4",
+      "specimen_id": "F4-APP-WIDE",
+      "blind_id": "A-P4",
+      "style_fingerprint_sha256": "de1425806a23687486799eccef31173a23e38aa0f3186eb63378b9af92fde3f6"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "WEB",
+      "family_id": "CNEG",
+      "specimen_id": "CNEG-WEB-REFLOW_320",
+      "blind_id": "RW-J3",
+      "style_fingerprint_sha256": "f8adb9d076dcbfb5581a8f119487048595328ec2bff9995ba58a0b08d32c7753"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "WEB",
+      "family_id": "CPOS",
+      "specimen_id": "CPOS-WEB-REFLOW_320",
+      "blind_id": "RW-F8",
+      "style_fingerprint_sha256": "7a04adb025f5125bd55af044882fdf0f2593f981725c117afdf7a5025e0d1fff"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "WEB",
+      "family_id": "F1",
+      "specimen_id": "F1-WEB-REFLOW_320",
+      "blind_id": "RW-L5",
+      "style_fingerprint_sha256": "f6326cb9f3da88a07515c429ae61f707f7555dec63260554db74e1ea69ca0e1f"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "WEB",
+      "family_id": "F2",
+      "specimen_id": "F2-WEB-REFLOW_320",
+      "blind_id": "RW-Q2",
+      "style_fingerprint_sha256": "f15831c952874f48f3c9ce0e9a1dcceaa99927e4901dc886b7e25ec4ca0691b4"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "WEB",
+      "family_id": "F3",
+      "specimen_id": "F3-WEB-REFLOW_320",
+      "blind_id": "RW-N9",
+      "style_fingerprint_sha256": "ad6a178d87965c7c528cfe59bee724755c2210547eebb4b2294748dd0fa356dd"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "WEB",
+      "family_id": "F4",
+      "specimen_id": "F4-WEB-REFLOW_320",
+      "blind_id": "RW-C4",
+      "style_fingerprint_sha256": "e699af1a7fc864732fa96304d1b107f215b672e5fc0e96eb6beaa00ee4ea8392"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "APP",
+      "family_id": "CNEG",
+      "specimen_id": "CNEG-APP-REFLOW_320",
+      "blind_id": "RA-M7",
+      "style_fingerprint_sha256": "302287d5bb93808da11b7de713cfb5513909688703d75d752e4af39650fe40bc"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "APP",
+      "family_id": "CPOS",
+      "specimen_id": "CPOS-APP-REFLOW_320",
+      "blind_id": "RA-H1",
+      "style_fingerprint_sha256": "976a6b5c0c4f203c1e804be0c404a91062ed3040b674b6607815e3ca9cf29e87"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "APP",
+      "family_id": "F1",
+      "specimen_id": "F1-APP-REFLOW_320",
+      "blind_id": "RA-T6",
+      "style_fingerprint_sha256": "fc7510566d5057a7129b00596328b78131cb005c2dd66ecebc2d307401c74690"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "APP",
+      "family_id": "F2",
+      "specimen_id": "F2-APP-REFLOW_320",
+      "blind_id": "RA-B9",
+      "style_fingerprint_sha256": "4339699725928160285b9e8e2f9390cfac78db9b39f036531fef34093fc9acba"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "APP",
+      "family_id": "F3",
+      "specimen_id": "F3-APP-REFLOW_320",
+      "blind_id": "RA-K2",
+      "style_fingerprint_sha256": "a29cdd854ccbb7711e09de489db07766f6e0e770b76b52446efb76173fb1dc31"
+    },
+    {
+      "viewport": "REFLOW_320",
+      "context": "APP",
+      "family_id": "F4",
+      "specimen_id": "F4-APP-REFLOW_320",
+      "blind_id": "RA-V5",
+      "style_fingerprint_sha256": "d2bccd446bec8847048b330f42306d60d7807a41de9fbfb3db50467f7c0ae685"
+    }
+  ],
+  "reviewer_packet": "prototypes/typ-01/reviewer.html"
+}
