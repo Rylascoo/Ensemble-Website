@@ -1,0 +1,137 @@
+name: Temporary MOT-01 F1 refinement preflight
+
+on:
+  push:
+    branches:
+      - tmp/mot01-f1-comparison-preflight
+
+permissions:
+  contents: write
+
+jobs:
+  preflight:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Execute deterministic browser and reduced-motion preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+          BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
+          test -n "$BROWSER"
+          export BROWSER_VERSION="$($BROWSER --version)"
+          export OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
+          ROOT="$PWD/prototypes/mot-01/refinement"
+          URL="file://$ROOT/comparison.html?diagnostic=1"
+          "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --run-all-compositor-stages-before-draw --virtual-time-budget=2500 --user-data-dir=/tmp/mot01-f1-full --dump-dom "$URL" > /tmp/mot01-f1-full.html 2>/tmp/mot01-f1-full.log
+          "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --run-all-compositor-stages-before-draw --virtual-time-budget=2500 --force-prefers-reduced-motion --user-data-dir=/tmp/mot01-f1-reduced --dump-dom "$URL" > /tmp/mot01-f1-reduced.html 2>/tmp/mot01-f1-reduced.log
+          python - <<'PY'
+          import hashlib, html.parser, json, math, os, re
+          from pathlib import Path
+
+          root=Path('prototypes/mot-01/refinement')
+          manifest=json.loads((root/'manifest.json').read_text())
+          contract=json.loads(Path('docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json').read_text())
+
+          class Grab(html.parser.HTMLParser):
+              def __init__(self): super().__init__(); self.on=False; self.parts=[]
+              def handle_starttag(self,tag,attrs):
+                  if tag=='pre' and dict(attrs).get('id')=='diagnostic-report': self.on=True
+              def handle_endtag(self,tag):
+                  if tag=='pre' and self.on: self.on=False
+              def handle_data(self,data):
+                  if self.on: self.parts.append(data)
+          def load_report(path):
+              g=Grab(); g.feed(Path(path).read_text(errors='replace')); raw=''.join(g.parts).strip()
+              if not raw: raise RuntimeError(f'No diagnostic report in {path}')
+              return json.loads(raw)
+          full=load_report('/tmp/mot01-f1-full.html'); red=load_report('/tmp/mot01-f1-reduced.html')
+          failures=[]; per={}; tol=.08
+          def fail(msg): failures.append(msg)
+          def norm(v): return re.sub(r'\s+','',str(v))
+          def near(a,b,t=1e-6): return abs(float(a)-float(b))<=t
+          cubic=norm('cubic-bezier(0.2,0,0,1)')
+
+          expected={s['id']:s for s in manifest['specimens']}
+          fb={s['id']:s for s in full['specimens']}; rb={s['id']:s for s in red['specimens']}
+          if set(fb)!=set(expected) or len(fb)!=16: fail('FULL specimen membership/count mismatch')
+          if set(rb)!=set(expected) or len(rb)!=16: fail('REDUCED specimen membership/count mismatch')
+          if full.get('reduced') is not False: fail('FULL host unexpectedly reports reduced motion')
+          if red.get('reduced') is not True: fail('REDUCED host does not report reduced motion')
+
+          contract_vars=contract['refinement_matrix']['f1_variants']
+          for key,short in [('F1A_TIGHT','F1A'),('F1B_REFERENCE','F1B'),('F1C_MEASURED','F1C')]:
+              c=contract_vars[key]; m=manifest['variants'][short]
+              if c['token_onset_ms']!=m['delays_ms'] or c['token_duration_ms']!=[m['duration_ms']]*4 or c['last_completion_ms']!=m['last_completion_ms']:
+                  fail(f'{short} manifest differs from frozen contract')
+          if manifest['contexts']['WEB']['translate_y_px']!=contract['refinement_matrix']['contexts']['WEB']['translate_y_px'] or manifest['contexts']['APP']['translate_y_px']!=contract['refinement_matrix']['contexts']['APP']['translate_y_px']:
+              fail('context displacement differs from frozen contract')
+
+          timing_signatures={}
+          for sid,exp in expected.items():
+              f=fb.get(sid); r=rb.get(sid); sf=[]
+              def s_fail(msg): sf.append(msg); fail(f'{sid}: {msg}')
+              if not f or not r: continue
+              var=exp['variant']; ctx=exp['context']; view=exp['viewport']; mv=manifest['variants'][var]
+              if (f['variant'],f['context'],f['viewport'])!=(var,ctx,view): s_fail('identity metadata mismatch')
+              if f['width']!=exp['width_px'] or f['height']!=exp['height_px'] or f['scrollWidth']>f['width']: s_fail('FULL frame/overflow mismatch')
+              if r['width']!=exp['width_px'] or r['height']!=exp['height_px'] or r['scrollWidth']>r['width']: s_fail('REDUCED frame/overflow mismatch')
+              if f['initialAnimations']!=0 or r['initialAnimations']!=0: s_fail('autoplay detected')
+              if not (f['focusBefore'] and f['focusAfter'] and r['focusBefore'] and r['focusAfter']): s_fail('replay focus not retained')
+              if f['animationsAfter']!=4: s_fail('FULL animation count not four')
+              if r['animationsAfter']!=0: s_fail('REDUCED created animation')
+              left=(exp['width_px']-192)//2
+              expected_geo=[[left+i*52,72,36,36] for i in range(4)]
+              actual_geo=[[g['left'],g['top'],g['width'],g['height']] for g in f['geometry']]
+              if actual_geo!=expected_geo: s_fail('token geometry mismatch')
+              sig=[]
+              for i,elist in enumerate(f['effects']):
+                  if len(elist)!=1: s_fail(f'token {i+1} effect count mismatch'); continue
+                  e=elist[0]; t=e['timing']
+                  if t['fill']!='forwards' or t['iterations']!=1: s_fail('common timing mismatch')
+                  if var.startswith('F1'):
+                      if t['duration']!=mv['duration_ms'] or t['delay']!=mv['delays_ms'][i] or norm(t['easing'])!=cubic: s_fail(f'{var} token {i+1} timing mismatch')
+                      if len(e['keyframes'])!=2: s_fail(f'{var} token {i+1} keyframe count mismatch')
+                  else:
+                      if t['duration']!=620 or t['delay']!=0 or norm(t['easing'])!='linear': s_fail('F4 effect timing mismatch')
+                      offsets=[k['offset'] for k in e['keyframes']]; expected_offsets=[0,220/620,430/620,1]
+                      if len(offsets)!=4 or not all(near(a,b) for a,b in zip(offsets,expected_offsets)): s_fail('F4 keyframe offsets differ from frozen reference')
+                      if any(norm(k['easing'])!='linear' for k in e['keyframes']): s_fail('F4 keyframe easing differs from frozen reference')
+                  sig.append({'delay':t['delay'],'duration':t['duration'],'easing':norm(t['easing']),'offsets':[k['offset'] for k in e['keyframes']],'keyEasing':[norm(k['easing']) for k in e['keyframes']]})
+              timing_signatures[(var,ctx,view)]=sig
+              if mv['last_completion_ms']>=1000: s_fail('completion reaches/exceeds 1 second')
+              for z in f['final']:
+                  if abs(z['translateY']-exp['translate_y_px'])>tol or abs(z['opacity']-1)>tol: s_fail('FULL final state mismatch')
+              for z in r['final']:
+                  if abs(z['translateY']-exp['translate_y_px'])>tol or abs(z['opacity']-1)>tol or z['animations']!=0: s_fail('REDUCED final state mismatch')
+              per[sid]={'pass':not sf,'failures':sf,'variant':var,'context':ctx,'viewport':view}
+
+          for var in manifest['variants']:
+              for view in manifest['viewports']:
+                  if timing_signatures.get((var,'WEB',view))!=timing_signatures.get((var,'APP',view)):
+                      fail(f'{var}/{view}: WEB and APP timing vectors differ')
+              if timing_signatures.get((var,'WEB','WIDE'))!=timing_signatures.get((var,'WEB','REFLOW_320')):
+                  fail(f'{var}: WIDE and 320 timing vectors differ')
+
+          def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
+          env={'browser_version':os.environ['BROWSER_VERSION'],'os_pretty':os.environ['OS_PRETTY'],'userAgent':full.get('userAgent'),'platform':full.get('platform'),'devicePixelRatio':full.get('devicePixelRatio')}
+          source_sha={'comparison.html':sha(root/'comparison.html'),'manifest.preflight-input.json':sha(root/'manifest.json'),'contract.json':sha(Path('docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json'))}
+          evidence={'schema':'kymaean.mot01.f1-refinement-preflight.v1','status':'CLEAN_PREFLIGHT_NO_ADJUDICATION' if not failures else 'FAILED_PREFLIGHT_NO_ADJUDICATION','date':'2026-09-09','program_id':'MOT-01','gate':'Q-DESIGN-12','environment':env,'source_sha256':source_sha,'specimen_count':16,'full_motion_specimens':16,'reduced_motion_specimens':16,'failures':failures,'per_specimen':per,'adjudication_performed':False,'production_authority_created':False}
+          Path('docs/evidence/MOT_01_F1_REFINEMENT_STRUCTURAL_REDUCED_MOTION_PREFLIGHT_01.json').write_text(json.dumps(evidence,indent=2)+'\n')
+          manifest['status']='FROZEN_CLEAN_PREFLIGHT_AWAITING_DIRECT_ADJUDICATION' if not failures else 'FAILED_PREFLIGHT_NO_ADJUDICATION'
+          manifest['environment']=env; manifest['source_sha256']=source_sha; manifest['preflight_evidence']='docs/evidence/MOT_01_F1_REFINEMENT_STRUCTURAL_REDUCED_MOTION_PREFLIGHT_01.json'
+          (root/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+          if failures:
+              print(json.dumps(evidence,indent=2)); raise SystemExit(1)
+          print('MOT01_F1_REFINEMENT_PREFLIGHT=PASS')
+          print(json.dumps({'environment':env,'source_sha256':source_sha},indent=2))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add prototypes/mot-01/refinement/manifest.json docs/evidence/MOT_01_F1_REFINEMENT_STRUCTURAL_REDUCED_MOTION_PREFLIGHT_01.json
+          git commit -m 'Record MOT-01 F1 refinement preflight evidence'
+          git push
