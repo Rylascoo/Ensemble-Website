@@ -1,0 +1,53 @@
+name: Temporary MOT-01 F1A ledger closeout
+
+on:
+  push:
+    branches:
+      - design/mot01-f1-cadence-adjudication-01
+
+permissions:
+  contents: write
+
+jobs:
+  closeout:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Append F1A cadence resolution
+        shell: bash
+        run: |
+          set -euo pipefail
+          if ! grep -q '^## L-044 —' docs/evidence/DESIGN_LEDGER.md; then
+            cat >> docs/evidence/DESIGN_LEDGER.md <<'EOF'
+
+          ## L-044 — F1A Tight selected as provisional Ordered Stagger cadence
+
+          **State:** Q-DESIGN-12 CLOSED / F1A TIGHT PROVISIONAL REFINEMENT REFERENCE / Q-DESIGN-13 NEXT / NO PRODUCTION AUTHORITY
+
+          The deterministic F1 refinement comparison passed hosted Chrome preflight at all 16 FULL specimens and all 16 forced-reduced-motion counterparts with zero failures. Design Sol froze an independent pre-Director ranking of **F1B > F1C > F1A > F4**, preferring F1B for its balance of legible succession and coherent single-event feel.
+
+          The Director selected **F1A Tight** because, if the movement is used, it should not feel too slow. Under the frozen refinement contract's tie rule, all three F1 cadences were mechanically clean and no hard evidence established a material winner, so Director preference is binding. `docs/evidence/MOT_01_F1_CADENCE_ADJUDICATION_01.json` preserves both viewpoints and the reconciliation.
+
+          Selected provisional reference: **70 ms onset interval / 460 ms equal movement duration / 670 ms last completion**, `cubic-bezier(0.2,0,0,1)`, 56px WEB displacement / 28px APP displacement, reduced motion = immediate final state with no animation.
+
+          **Why:** F1A preserves the Director-valued one-after-another brand metaphor while minimizing waiting and reducing the chance that slower choreography is mistaken for literal loading, processing, priority, completion or causal order.
+
+          **Next gate:** Q-DESIGN-13 freezes the bounded F1A deployment envelope: eligible identity-bearing trigger zones, group-size/batching law, repetition/frequency limits, interruption/replay behavior, logical/RTL ordering and reduced-motion equivalence.
+
+          **Guardrail:** F1A is not a production motion token; do not generalize it to arbitrary lists/feeds, fabricate product semantics, reopen Q-DESIGN-02 Stage motion, implement app/site motion, claim final identity or enter Phase-C convergence.
+
+          **APPROVED — DIRECTOR F1A SELECTION + CLEAN DESIGN-SOL RECONCILIATION.**
+          EOF
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/tmp-mot01-f1a-ledger-closeout.yml
+          git add docs/evidence/DESIGN_LEDGER.md
+          git commit -m 'Close F1A cadence adjudication ledger'
+          python3 tools/validate_document_status.py
+          python3 tools/validate_repository_boundaries.py
+          git push origin HEAD:design/mot01-f1-cadence-adjudication-01
