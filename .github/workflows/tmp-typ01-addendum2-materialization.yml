@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: false
-      - name: Verify frozen bundle membership and summarize preflight failures
+      - name: Audit frozen contracts and preflight failures
         shell: bash
         run: |
           cat .tmp/typ01-bundle.part-* > /tmp/typ01-bundle.b64
@@ -31,9 +31,18 @@ jobs:
           python - <<'PY'
           import json
           from pathlib import Path
+          method=json.loads(Path('docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json').read_text())
+          add1=json.loads(Path('docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json').read_text())
+          add2=json.loads(Path('docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_02.json').read_text())
+          print('TYP01_METHOD_TOP_KEYS='+','.join(method.keys()))
+          for k,v in method.items():
+              lk=k.lower()
+              if any(term in lk for term in ('context','control','famil','adapt','vector','preflight','hard_failure','termination')):
+                  print('TYP01_METHOD_SECTION='+k+' '+json.dumps(v,separators=(',',':'),ensure_ascii=False))
+          print('TYP01_ADDENDUM01_PREFLIGHT='+json.dumps(add1['preflight_interpretation'],separators=(',',':')))
+          print('TYP01_ADDENDUM02_RESIDUAL='+json.dumps(add2['residual_defaults'],separators=(',',':')))
           raw=Path('prototypes/typ-01/freeze-diagnostic.txt').read_text(encoding='utf-8')
           report,end=json.JSONDecoder().raw_decode(raw)
-          trailer=raw[end:].strip()
           failures=[]
           for s in report['specimens']:
               if not s.get('pass'):
@@ -43,12 +52,9 @@ jobs:
                       bad=[k for k in ('horizontal_overflow','clipping','overlap') if g.get(k)]
                       if bad:
                           reasons.append(f"{mode}:{','.join(bad)}:client={g['width']['client']}:scroll={g['width']['scroll']}")
-                  if not s.get('text_exact'): reasons.append('text_exact=false')
-                  if not s.get('structural_sequence'): reasons.append('structural_sequence=false')
                   failures.append((s['specimen_id'], reasons))
           print(f"TYP01_OVERALL_PASS={report['overall_pass']}")
           print(f"TYP01_FAILURE_COUNT={len(failures)}")
-          print('TYP01_DIAGNOSTIC_TRAILER='+repr(trailer))
           for specimen_id,reasons in failures:
               print('TYP01_FAIL='+specimen_id+' | '+' | '.join(reasons))
           PY
