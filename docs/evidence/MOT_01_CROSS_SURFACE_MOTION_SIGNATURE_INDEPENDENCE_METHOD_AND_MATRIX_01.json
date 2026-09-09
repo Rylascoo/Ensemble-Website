@@ -1,0 +1,391 @@
+{
+  "schema": "kymaean.mot01.method-and-matrix.v1",
+  "status": "FROZEN_METHOD_CONTRACT_NO_SPECIMEN_EXECUTION_NO_STAGE_MOTION_AUTHORITY_NO_CONVERGENCE",
+  "date": "2026-09-09",
+  "program_id": "MOT-01",
+  "title": "Cross-Surface Motion Signature Independence",
+  "parent_selection": {
+    "path": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_02.txt",
+    "adopted_main_commit": "e1351eeb5c8928a7a9e51d51be081c2248a15b0d",
+    "design_ledger_entry": "L-036"
+  },
+  "question": "Can Kymaean exhibit a distinctive, product-compatible shared-brand motion signature through a small deterministic grammar of abstract temporal behavior across both an expressive public-web context and a restrained app-like utility context when existing mark/wordmark, typeface novelty, palette/material cues, bespoke imagery, Quiet-Stage composition, relational/hero geometry, product-state semantics and transcript-dependent Stage timing are removed as identity carriers?",
+  "claim_boundary": {
+    "tests": "Whether abstract motion grammar can contribute an independently recognizable shared-brand identity mechanism across WEB and APP-like contexts.",
+    "does_not_test": [
+      "production Stage behavior",
+      "Character acting cadence",
+      "Scene timing",
+      "Performance, Take, causal-commit or Opportunity timing",
+      "Studio/Stage/Archive navigation motion",
+      "final application transitions",
+      "final website motion",
+      "production duration, delay, easing or displacement tokens",
+      "a complete motion system"
+    ],
+    "q_design_02_remains_blocked": true
+  },
+  "historical_m0_quarantine": {
+    "rule": "Historical M0 concepts may inform falsification risks only. They are not candidates, family names, timing references, visual references or incumbents for MOT-01.",
+    "quarantined_terms_include": [
+      "Living Traces",
+      "Echo",
+      "Consequence",
+      "Living Record",
+      "Rift"
+    ]
+  },
+  "identity_carrier_exclusions": [
+    "Kymaean or Ensemble naming inside the scored canvas",
+    "Threshold K",
+    "O3 wordmark structure",
+    "brand palette or Mineral Theater material cues",
+    "bespoke imagery or portraits",
+    "Quiet Stage composition",
+    "hero or relational geometry",
+    "decorative iconography",
+    "bespoke type or lettering",
+    "product-state labels or product navigation",
+    "Character, Performer, Scene, Stage, Performance, Take or Opportunity semantics",
+    "audio or haptics",
+    "generative image or video content"
+  ],
+  "neutral_fixture": {
+    "rendering_medium": "browser-native DOM plus Web Animations API; fixture only, never production implementation",
+    "canvas_background": "#FFFFFF",
+    "token_fill": "#E6E6E6",
+    "token_text": "#111111",
+    "token_shape": "four identical 36px square neutral tracking tokens",
+    "token_labels": ["1", "2", "3", "4"],
+    "token_label_font_request": "system-ui, sans-serif",
+    "token_label_size_px": 14,
+    "token_label_weight": 600,
+    "token_gap_px": 16,
+    "token_rail_alignment": "horizontally centered",
+    "token_rail_top_px": 72,
+    "frame_height_px": 240,
+    "start_state": "all four tokens in one horizontal rail at translateY(0)",
+    "end_state": "all four tokens at the same context-defined positive translateY displacement",
+    "static_equivalence_rule": "Within each context and viewport, start appearance, end appearance, token geometry, colors, labels, font request, spacing, frame geometry and experiment chrome must be identical across CNEG, CPOS and F1-F4. Only the explicitly declared temporal properties may vary. CPOS opacity is allowed only during motion and must equal 1 at both static endpoints.",
+    "noninteractive_tokens": true,
+    "scored_canvas_aria_role": "presentation",
+    "experiment_chrome": "Context, viewport, anonymous specimen ID and Replay transition control exist outside the scored canvas and carry no identity evidence."
+  },
+  "contexts": {
+    "WEB": {
+      "meaning": "expressive public-web context",
+      "translate_y_px": 56,
+      "timing_scale": 1.0
+    },
+    "APP": {
+      "meaning": "restrained app-like utility context without product chrome",
+      "translate_y_px": 28,
+      "timing_scale": 1.0
+    }
+  },
+  "cross_context_invariant": "WEB and APP must use the exact same family timing vector. Context adaptation is displacement amplitude only: WEB=56px and APP=28px. No family may change onset order, delays, durations, hold structure, velocity profile or opacity behavior between contexts.",
+  "viewports": {
+    "WIDE": {
+      "frame_width_css_px": 640,
+      "frame_height_css_px": 240
+    },
+    "REFLOW_320": {
+      "frame_width_css_px": 320,
+      "frame_height_css_px": 240
+    }
+  },
+  "playback": {
+    "autoplay": false,
+    "looping": false,
+    "runs_per_activation": 1,
+    "trigger": "one native button labeled Replay transition outside the scored canvas",
+    "restart_rule": "A later replay requires a new explicit activation. Reset to start state is instantaneous and occurs only as part of explicit replay preparation.",
+    "focus_rule": "Keyboard focus remains on the stationary Replay transition button throughout playback and reset.",
+    "implementation_fixture": "Use Web Animations API with explicit keyframes, delays and durations. Preflight may set animation.currentTime to declared checkpoints for deterministic source/geometry verification; wall-clock frame timing is not evidence of family conformance.",
+    "environment_freeze_required_before_execution": [
+      "browser name and exact version",
+      "operating system and version",
+      "user agent",
+      "devicePixelRatio",
+      "computed requested system-ui font family",
+      "viewport dimensions",
+      "prefers-reduced-motion state",
+      "source hashes for harness, reviewer surface, manifest and blinding key"
+    ]
+  },
+  "motion_conditions": {
+    "FULL": {
+      "identity_scored": true,
+      "rule": "Execute the declared family vector exactly once after explicit activation."
+    },
+    "REDUCED": {
+      "identity_scored": false,
+      "rule": "When prefers-reduced-motion: reduce is active, suppress every token animation and animated opacity change. The neutral final state may be applied immediately with no animated transform, opacity, scale, rotation, scroll or spatial interpolation. No semantic understanding, content, state distinction or required function may depend on observing motion.",
+      "pass_condition": "After activation, token final state is available without motion; the replay control remains operable and focused; getAnimations() for scored-canvas descendants is empty after the state change; no content/function/state information is lost."
+    }
+  },
+  "accessibility_snapshot": {
+    "verified_on": "2026-09-09",
+    "production_conformance_claim": false,
+    "sources": [
+      {
+        "name": "WCAG 2.2",
+        "url": "https://www.w3.org/TR/WCAG22/",
+        "status": "W3C Recommendation; current WCAG 2 baseline at verification",
+        "relevant_criteria": ["2.1.1 Keyboard (A)", "2.2.2 Pause, Stop, Hide (A)", "2.3.1 Three Flashes or Below Threshold (A)", "2.3.3 Animation from Interactions (AAA)", "2.4.11 Focus Not Obscured (Minimum) (AA)"]
+      },
+      {
+        "name": "WAI Technique C39",
+        "url": "https://www.w3.org/WAI/WCAG22/Techniques/css/C39.html",
+        "status": "Sufficient technique for WCAG 2.3.3; page updated 2026-01-12",
+        "use": "prefers-reduced-motion suppression of interaction-triggered motion"
+      },
+      {
+        "name": "Media Queries Level 5",
+        "url": "https://www.w3.org/TR/mediaqueries-5/#prefers-reduced-motion",
+        "status": "W3C Working Draft dated 2026-02-19; syntax/semantics reference only",
+        "use": "prefers-reduced-motion values no-preference and reduce"
+      }
+    ],
+    "experiment_floors": [
+      "No autoplay of scored motion.",
+      "No loops or automatic repetition.",
+      "No flashing or blinking at any rate; this is stricter than relying on a flash-threshold calculation.",
+      "All candidate and control runs finish in less than 1.2 seconds from first onset to final completion.",
+      "Interaction-triggered scored motion is fully suppressible under prefers-reduced-motion: reduce; MOT-01 adopts WCAG 2.3.3 AAA as an internal experiment floor without claiming production AAA conformance.",
+      "Replay is a native keyboard-operable button and retains stationary visible focus throughout playback.",
+      "Motion cannot obscure the replay control, labels outside the canvas or any required content.",
+      "No zoom, scale, rotation, parallax, scroll-linked motion, large-field pan, bounce, spring or overshoot is permitted.",
+      "At REFLOW_320, no scored canvas or experiment control may horizontally overflow, clip or require two-dimensional scrolling.",
+      "No semantic meaning, state, content access or required function may depend on motion being enabled."
+    ]
+  },
+  "controls": {
+    "CNEG": {
+      "role": "generic negative control",
+      "eligible_for_candidate_selection": false,
+      "primary_description": "simultaneous single-segment generic translation",
+      "token_onset_ms": [0, 0, 0, 0],
+      "token_duration_ms": [260, 260, 260, 260],
+      "position_progression": {
+        "type": "cubic_bezier",
+        "value": [0.2, 0.0, 0.0, 1.0]
+      },
+      "opacity": "constant 1",
+      "expected_review_behavior": "classified as generic by at least two of the three primary review records"
+    },
+    "CPOS": {
+      "role": "pairing-calibration positive control only",
+      "eligible_for_candidate_selection": false,
+      "primary_description": "simultaneous translation plus exaggerated smooth midpoint visibility attenuation; intentionally outside the candidate envelope",
+      "token_onset_ms": [0, 0, 0, 0],
+      "token_duration_ms": [720, 720, 720, 720],
+      "position_progression": {
+        "type": "cubic_bezier",
+        "value": [0.2, 0.0, 0.0, 1.0]
+      },
+      "opacity_keyframes": [
+        {"offset": 0.0, "opacity": 1.0},
+        {"offset": 0.5, "opacity": 0.35},
+        {"offset": 1.0, "opacity": 1.0}
+      ],
+      "expected_review_behavior": "WEB and APP versions are correctly paired at both widths by at least two of the three primary review records",
+      "non_authority": "CPOS visibility modulation is calibration only and cannot be promoted or treated as a Kymaean motion candidate."
+    }
+  },
+  "candidate_families": {
+    "F1": {
+      "name": "Ordered Stagger",
+      "primary_temporal_variable": "onset staggering and order",
+      "token_onset_ms": [0, 90, 180, 270],
+      "token_duration_ms": [520, 520, 520, 520],
+      "position_progression": {"type": "cubic_bezier", "value": [0.2, 0.0, 0.0, 1.0]},
+      "opacity": "constant 1",
+      "disjointness": "No holds, no token-specific duration differences, no continuous custom velocity profile and no opacity modulation."
+    },
+    "F2": {
+      "name": "Interrupted Transit",
+      "primary_temporal_variable": "discrete temporal segmentation with one midpoint hold",
+      "token_onset_ms": [0, 0, 0, 0],
+      "segments": [
+        {"duration_ms": 220, "from_fraction": 0.0, "to_fraction": 0.42, "progression": "cubic-bezier(0.2,0,0,1)"},
+        {"hold_ms": 120, "position_fraction": 0.42},
+        {"duration_ms": 340, "from_fraction": 0.42, "to_fraction": 1.0, "progression": "cubic-bezier(0.2,0,0,1)"}
+      ],
+      "total_duration_ms": 680,
+      "opacity": "constant 1",
+      "disjointness": "No stagger, no token-specific duration differences, no continuous custom velocity profile and no opacity modulation."
+    },
+    "F3": {
+      "name": "Split Duration",
+      "primary_temporal_variable": "token-specific completion duration",
+      "token_onset_ms": [0, 0, 0, 0],
+      "token_duration_ms": [720, 440, 440, 720],
+      "position_progression": {"type": "cubic_bezier", "value": [0.2, 0.0, 0.0, 1.0]},
+      "opacity": "constant 1",
+      "disjointness": "No stagger, no hold, no custom continuous velocity profile and no opacity modulation."
+    },
+    "F4": {
+      "name": "Continuous Velocity Profile",
+      "primary_temporal_variable": "continuous distribution of distance over time",
+      "token_onset_ms": [0, 0, 0, 0],
+      "token_duration_ms": [620, 620, 620, 620],
+      "position_keyframes": [
+        {"time_ms": 0, "position_fraction": 0.0},
+        {"time_ms": 220, "position_fraction": 0.15},
+        {"time_ms": 430, "position_fraction": 0.78},
+        {"time_ms": 620, "position_fraction": 1.0}
+      ],
+      "interpolation_between_keyframes": "linear",
+      "opacity": "constant 1",
+      "disjointness": "No stagger, no hold, no token-specific duration differences, no reversal/overshoot and no opacity modulation."
+    }
+  },
+  "candidate_family_invariants": [
+    "F1-F4 use translateY only.",
+    "F1-F4 remain monotonic from start to end with no reverse travel or overshoot.",
+    "F1-F4 have constant opacity 1, constant scale 1 and constant rotation 0deg.",
+    "No family may add trails, blur, shadows, masks, path marks, particles, deformation or audio.",
+    "No family may use historical M0 names or deliberately reproduce a historical M0 mechanism.",
+    "The only WEB/APP adaptation is the declared 56px versus 28px displacement."
+  ],
+  "matrix": {
+    "cartesian_rule": "{CNEG, CPOS, F1, F2, F3, F4} x {WEB, APP} x {WIDE, REFLOW_320}",
+    "expected_count": 24,
+    "identity_scored_condition": "FULL only",
+    "reduced_motion_test": "Apply REDUCED to every one of the same 24 specimen IDs as an alternate preflight state; REDUCED does not create extra scored specimen IDs.",
+    "specimen_ids": [
+      "CNEG-WEB-WIDE",
+      "CNEG-WEB-REFLOW_320",
+      "CNEG-APP-WIDE",
+      "CNEG-APP-REFLOW_320",
+      "CPOS-WEB-WIDE",
+      "CPOS-WEB-REFLOW_320",
+      "CPOS-APP-WIDE",
+      "CPOS-APP-REFLOW_320",
+      "F1-WEB-WIDE",
+      "F1-WEB-REFLOW_320",
+      "F1-APP-WIDE",
+      "F1-APP-REFLOW_320",
+      "F2-WEB-WIDE",
+      "F2-WEB-REFLOW_320",
+      "F2-APP-WIDE",
+      "F2-APP-REFLOW_320",
+      "F3-WEB-WIDE",
+      "F3-WEB-REFLOW_320",
+      "F3-APP-WIDE",
+      "F3-APP-REFLOW_320",
+      "F4-WEB-WIDE",
+      "F4-WEB-REFLOW_320",
+      "F4-APP-WIDE",
+      "F4-APP-REFLOW_320"
+    ]
+  },
+  "preflight_before_any_blinded_scoring": {
+    "hard_fail_if_any": true,
+    "checks": [
+      "Exactly 24 unique specimen IDs exist and match the frozen matrix.",
+      "For every context+viewport, computed static start and end geometry/appearance fingerprints match across CNEG, CPOS and F1-F4, with CPOS opacity equal to 1 at both endpoints.",
+      "Forbidden identity/product terms and carriers are absent from every scored canvas.",
+      "All requested token typography resolves to one frozen computed face across every specimen.",
+      "Token numerals and replay/control text meet WCAG 1.4.3 contrast minimum in the frozen fixture.",
+      "Each family/control Web Animations API declaration matches the frozen onset, duration, keyframe and progression vectors exactly.",
+      "WEB and APP differ only by the allowed 56px versus 28px displacement; timing vectors are otherwise identical.",
+      "At WIDE and REFLOW_320, no token or control clips, overlaps required content or produces horizontal overflow/two-dimensional scrolling.",
+      "Replay is keyboard operable, does not move, remains visibly focused and is never obscured by token motion.",
+      "No autoplay, loop, automatic replay, flash, blink, scale, rotation, parallax, scroll-linked motion, bounce, spring or overshoot exists.",
+      "Every FULL run completes within its frozen bound; the longest allowed control completes within 720ms because CPOS is simultaneous.",
+      "Under prefers-reduced-motion: reduce, every scored-canvas animation/transition is suppressed and final state is available without motion or semantic/function loss.",
+      "The exact browser/OS/font/user-agent/devicePixelRatio/viewport/source-hash provenance packet is frozen before reviewer exposure.",
+      "A blinding key is frozen before reviewer exposure and family names/IDs are hidden on reviewer-visible cards."
+    ],
+    "mechanical_correction_rule": "Before any blinded score exists, a correction is allowed only when implementation deviates from this frozen contract. It may restore the declared values but may not improve or alter a family mechanism, timing vector, context rule, accessibility floor or review law. After blinded scoring starts, candidate family source is immutable."
+  },
+  "blinded_review": {
+    "primary_record_count": 3,
+    "construction_author_max_records": 1,
+    "outside_construction_requirement": "At least one primary record must be from the Director or another independent human visual reviewer outside the construction author. The remaining record may be another genuinely blinded independent evaluator.",
+    "order_randomization": "Freeze a deterministic randomization seed in the blinding manifest before first review. The same anonymous IDs must be used for all primary reviewers; family names remain hidden until all blind tasks are locked.",
+    "tasks": [
+      {
+        "id": "R1_CONTROL_CALIBRATION",
+        "blind": true,
+        "rule": "At each viewport, pair anonymous WEB and APP controls/candidates by perceived motion mechanism. CPOS must be correctly paired across WEB/APP at both widths by at least 2 of 3 primary records. CNEG must be classified generic by at least 2 of 3. If either control fails, the review instrument is invalid and candidate scores cannot be used."
+      },
+      {
+        "id": "R2_CANDIDATE_PAIRING",
+        "blind": true,
+        "rule": "For each viewport, pair the four anonymous WEB candidates to their APP counterparts. A candidate passes this task only if its WEB/APP pair is correctly matched by at least 2 of 3 primary records at WIDE and at least 2 of 3 at REFLOW_320."
+      },
+      {
+        "id": "R3_GENERICITY",
+        "blind": true,
+        "forced_categories": ["generic_ui_motion", "generic_presentation_motion", "generic_brand_motion", "distinctive_unresolved"],
+        "rule": "After pairing is locked, each candidate mechanism is assigned one forced genericity category. Candidate requires distinctive_unresolved from at least 2 of 3 primary records."
+      },
+      {
+        "id": "R4_DISTINCTIVENESS",
+        "blind": true,
+        "scale": {"0": "not distinctive", "1": "material but weak/ambiguous identity contribution", "2": "clear independent identity contribution"},
+        "rule": "Candidate requires a three-record score sum of at least 4 out of 6."
+      },
+      {
+        "id": "R5_CROSS_SURFACE_RESTRAINT",
+        "blind": true,
+        "scale": {"0": "APP and WEB become unrelated or one context is unusably theatrical/generic", "1": "shared mechanism survives with some ambiguity", "2": "same mechanism remains clearly legible while APP is materially restrained relative to WEB"},
+        "rule": "Candidate requires a three-record score sum of at least 4 out of 6."
+      },
+      {
+        "id": "R6_PRODUCT_TRUTH_REVEAL",
+        "blind": false,
+        "timing": "Only after R1-R5 are locked.",
+        "rule": "Reveal Kymaean/MOT-01 context and ask whether the mechanism falsely implies completion, loading, success/failure, causal commit, Character acting, Stage transition or another specific product semantic not present in the neutral fixture. Two or more false-semantics flags hard-fail the candidate."
+      }
+    ]
+  },
+  "candidate_pass_rule": {
+    "conjunctive_non_compensating": true,
+    "requirements": [
+      "All preflight checks pass for all four context/viewport specimens in FULL and REDUCED test states.",
+      "Control calibration is valid.",
+      "Candidate WEB/APP pairing passes at both widths.",
+      "At least 2 of 3 primary records classify the candidate distinctive_unresolved.",
+      "R4 distinctiveness score sum is at least 4/6.",
+      "R5 cross-surface restraint score sum is at least 4/6.",
+      "Fewer than 2 of 3 primary records raise a false-product/Stage-semantics flag after reveal."
+    ],
+    "no_average_across_hard_failures": true
+  },
+  "termination_and_outcomes": {
+    "zero_survivors": "Close MOT-01 motion-signature independence under this frozen family pack. Do not add F5, reroll, retune or rescue failed families after evidence is visible. Return to a fresh Phase-B orthogonal shared-brand question audit; do not unlock Q-DESIGN-02.",
+    "one_survivor": "Record one viable shared-brand motion mechanism as Phase-B evidence only. It is not a final motion system or production token set.",
+    "two_or_more_survivors": "Promote at most two materially distinct surviving mechanisms for later Phase-B comparison. Do not converge automatically and do not advance to Phase C solely from MOT-01.",
+    "control_failure": "Invalidate the reviewer instrument; do not interpret candidate scores. Correct only a mechanical review-instrument defect that restores this frozen contract. Family source remains unchanged.",
+    "accessibility_failure": "Hard-fail the affected candidate/control for this frozen program unless the evidence proves an implementation deviation from the contract. Do not weaken accessibility floors to rescue a family."
+  },
+  "non_authority": [
+    "No specimen execution is authorized by this contract itself; execution requires a separate queue gate after adoption.",
+    "No final motion family, timing, easing, displacement, app transition, website transition or motion token is selected.",
+    "No Stage-motion or transcript-dependent behavior is authorized.",
+    "No image generation, generative video, audio, haptics or renderer spend is authorized.",
+    "No final identity, hero, wordmark, symbol, typeface, typography system, palette/material family, website surface or app visual system is selected.",
+    "No Phase-C convergence is authorized."
+  ],
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "24-specimen matrix cardinality and IDs are deterministic",
+      "FULL identity scoring is separated from REDUCED safety preflight",
+      "WEB/APP adaptation changes amplitude only and cannot disguise unrelated family timing",
+      "F1-F4 isolate onset, segmentation/hold, duration asymmetry and continuous velocity distribution as disjoint primary temporal variables",
+      "CPOS calibration uses opacity only as a non-candidate review instrument and returns to identical static endpoints",
+      "historical M0 concepts are quarantined rather than inherited",
+      "TYP-01 cadence/spacing variables are not rerun as motion families",
+      "Q-DESIGN-02 Stage-motion boundary remains intact",
+      "current W3C reduced-motion/interaction-animation/flash/focus constraints are represented as experiment floors without production-conformance inflation",
+      "zero-survivor and no-post-result-reroll law prevents evidence-aware tuning",
+      "no specimen execution or final convergence authority is created"
+    ],
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+  }
+}
