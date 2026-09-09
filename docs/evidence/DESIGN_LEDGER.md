@@ -635,3 +635,21 @@ Zero survivors close MOT-01 under the frozen family pack with no F5, reroll, ret
 **Guardrail:** no image/video generation, renderer spend, motion-specimen execution under this closeout, final motion/timing tokens, transcript-dependent Stage motion, TYP-01 reroll, hero reopening, O3/Threshold-K redesign, palette/material reopening, app implementation or website production/deployment.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-038 — MOT-01 pre-specimen execution defaults are frozen
+
+**State:** Q-DESIGN-09 ACTIVE / PRE-SPECIMEN DEFAULTS FROZEN / NO TEMPORAL SPECIMEN EXECUTED / NO SCORING / NO STAGE-MOTION AUTHORITY
+
+The first implementation audit of frozen MOT-01 method L-037 found browser-fixture choices that must not be silently invented after evidence exists. `docs/evidence/MOT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json` therefore freezes them before any temporal specimen, browser preflight evidence or reviewer-visible artifact exists.
+
+The addendum derives the exact four-token rail coordinates from already-frozen token size/gap/frame widths; fixes transform-only absolute positioning; encodes F2 as 220ms movement to 42%, 120ms duplicated-position hold, then 340ms movement using per-keyframe interval easing; keeps CPOS position progression independent from its calibration-only linear opacity attenuation by using two concurrent animations; preserves F1/F3 delays/durations and F4 exact 220/620 and 430/620 keyframe offsets; and adds no family timing or mechanism.
+
+Replay behavior is deterministic: explicit activation cancels any prior animations, restores the exact start state synchronously and begins one declared run with no inserted timeout or animation-frame delay. `prefers-reduced-motion: reduce` is evaluated on every activation and monitored during a run; reduction cancels all scored-canvas animation and applies the final neutral state immediately, while returning to no-preference never autoplays.
+
+Blinding is frozen before reviewer exposure from seed SHA-256 `7dcd535af9032c9a1ea9cb8c56008f23a826bf13229a226e914ba243bc763c26`: each specimen is hashed with the seed, all 24 hashes sort ascending, and anonymous IDs M01-01 through M01-24 follow that order. The mapping remains outside reviewer-visible cards.
+
+These are execution-fixture defaults only. They change no L-037 family, threshold, accessibility floor, scoring rule, termination rule, WEB/APP timing invariant, zero-survivor/no-reroll law or Q-DESIGN-02 Stage-motion block. No production motion recommendation or token is created.
+
+**Next gate remains Q-DESIGN-09:** materialize the deterministic browser-native harness/reviewer surface/manifest/blinding key from L-037 + Addendum 01, freeze environment/source provenance and run structural/accessibility preflight only. Blinded scoring remains unavailable until preflight is clean.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
