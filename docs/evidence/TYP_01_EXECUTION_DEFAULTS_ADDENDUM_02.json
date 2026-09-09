@@ -1,0 +1,50 @@
+{
+  "schema": "kymaean.typ01.execution-defaults.v1",
+  "status": "FROZEN_PRE_RENDER_RESIDUAL_DEFAULTS_NO_METHOD_OR_CONVERGENCE_CHANGE",
+  "date": "2026-09-08",
+  "program_id": "TYP-01",
+  "parent_method": {
+    "path": "docs/evidence/TYP_01_TYPOGRAPHIC_EDITORIAL_IDENTITY_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+    "adopted_main_commit": "4130bb9645525a6773a7cf5508175da00658530d"
+  },
+  "parent_execution_addendum": {
+    "path": "docs/evidence/TYP_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+    "adopted_main_commit": "2416aff2841068fdf3cc2ee525f07dfeade2ef4a"
+  },
+  "reason": "A second pre-render implementation audit found two residual source ambiguities and one conditional-layout implementation ambiguity before any specimen was rendered, judged or scored. This addendum closes only those execution details. It changes no CP-01 text, family/control mechanism, declared family value, context multiplier, accessibility floor, review task, score threshold or termination rule.",
+  "residual_defaults": {
+    "control_utility_line_height": {
+      "scope": ["CNEG", "CPOS"],
+      "rule": "Where the parent control vector omits P3-P6 value line-height, request CSS line-height: normal. Labels inherit that same containing line-height under Addendum 01.",
+      "rationale": "This explicitly freezes use of the browser/font normal metric inside the already-required single frozen execution environment instead of inventing a new numeric control value.",
+      "authority_note": "The computed geometry is fixture provenance only and creates no typography token."
+    },
+    "CPOS_indentation_sequence": {
+      "rule": "Interpret 'alternating 0ch and 3ch across P3-P6' in source order as P3=0ch, P4=3ch, P5=0ch, P6=3ch.",
+      "rationale": "This enumerates the parent vector's written order and does not add a new indentation magnitude."
+    },
+    "F1_conditional_label_value_wrap_spacing": {
+      "rule": "First lay out F1 P3-P6 as the Addendum-01 single inline label/value flow with no added gap. If and only if the first rendered value fragment begins on a lower line than the final rendered label fragment, shift the entire value span downward by 0.75u using relative positioning and add 0.75u bottom padding to that P-block so following content cannot overlap. Re-measure after the adjustment. Do not change width, text, line breaks, font size, weight, tracking or block gap to trigger or avoid the condition.",
+      "rationale": "This makes the parent F1 '0.75u within label/value blocks' phrase executable without forcing a wrap or changing source text."
+    }
+  },
+  "precedence": "Parent method governs first, Addendum 01 governs second, and this addendum governs only the three residual details above. Any contradiction outside those details is an implementation failure, not authority to reinterpret the method.",
+  "non_authority": [
+    "No scored or reviewer-visible specimen existed when this addendum was frozen.",
+    "No control or family is strengthened, weakened, selected or promoted by this addendum.",
+    "CSS line-height normal is an execution fixture value only; it is not a Kymaean typography recommendation.",
+    "No final typeface, typography system, identity, hero, wordmark, palette/material, product UI or website surface is selected."
+  ],
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "control utility line-height omission closed without invented numeric family value",
+      "CPOS alternating indentation start enumerated without new magnitude",
+      "F1 conditional wrap spacing made executable without forced wrap",
+      "no parent mechanism or scoring law changed",
+      "no specimen evidence existed before correction",
+      "no convergence or implementation authority created"
+    ],
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+  }
+}
