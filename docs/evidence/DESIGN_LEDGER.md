@@ -653,3 +653,21 @@ These are execution-fixture defaults only. They change no L-037 family, threshol
 **Next gate remains Q-DESIGN-09:** materialize the deterministic browser-native harness/reviewer surface/manifest/blinding key from L-037 + Addendum 01, freeze environment/source provenance and run structural/accessibility preflight only. Blinded scoring remains unavailable until preflight is clean.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-039 — MOT-01 deterministic packet and accessibility preflight are clean
+
+**State:** Q-DESIGN-09 CLOSED / CLEAN PREFLIGHT / NO REVIEWER EXPOSURE / NO SCORES / NO STAGE-MOTION AUTHORITY / NO CONVERGENCE
+
+The frozen MOT-01 method (L-037) plus pre-specimen execution defaults (L-038) have been materialized into the browser-native packet under `prototypes/mot-01/`: `harness.html`, `reviewer.html`, `manifest.json`, and `blinding-key.json`. The current structural/accessibility result is `docs/evidence/MOT_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json` with status `CLEAN_PREFLIGHT_NO_SCORING`.
+
+The valid preflight froze source/environment before execution and then passed all 24 FULL-motion specimens and the same 24 forced-reduced-motion counterparts. Matrix membership, no-autoplay, neutral static equivalence, fixed geometry/reflow, Replay focus retention, exact animation declarations, deterministic end-state conformance, complete reduced-motion suppression, blinding/carrier exclusions and post-freeze source immutability all passed. The hosted environment was Chrome 152.0.7977.82 on Ubuntu 24.04.5 LTS; those environment values are fixture provenance only.
+
+Attempt 01 (workflow `34317229528`) is explicitly `INVALID_DIAGNOSTIC_ATTEMPT_NO_FAMILY_RESULT`: its 192 reports were the same wall-clock completion assertion repeated across 96 tokens, contrary to the frozen method's rule that wall-clock frame timing is not conformance evidence. That invalid attempt was not committed as MOT-01 evidence. Attempt 02 used the method-authorized deterministic `animation.currentTime = delay + duration` checkpoint and is the current valid preflight.
+
+No reviewer has been exposed to the packet and no score, rank, candidate survivor, production timing token, final motion system, Stage behavior, identity convergence or Phase-C authority exists. A clean preflight only makes a separate blinded-review gate eligible for activation.
+
+**Next gate:** reconcile the central Project queue by closing Q-DESIGN-09 and activating a bounded Q-DESIGN-10 blinded-review preparation/execution gate under the unchanged MOT-01 review law. The method requires three primary review records, at most one from the construction author and at least one Director/independent human record; that human judgment cannot be silently substituted by the construction process.
+
+**Guardrail:** no unblinding before the frozen review step permits it; no evidence-aware family tuning, F5, reroll, timing retune, final motion tokens, transcript-dependent Stage motion, app implementation, website production/deployment, hero reopening, TYP-01 reroll or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
