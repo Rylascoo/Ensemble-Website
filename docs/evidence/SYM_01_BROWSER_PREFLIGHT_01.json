@@ -1,0 +1,51 @@
+{
+  "schema": "kymaean.sym01.browser-preflight.v1",
+  "status": "PASS",
+  "date": "2026-09-10",
+  "github_actions_run_id": 34542785459,
+  "head_sha": "af2f0f38d48f8cbbfc9146598bc1c00f6bba0820",
+  "artifact": {
+    "id": 10177901753,
+    "digest": "sha256:bc6f6869f9aa2b9b2e268b23b07b4579cb21fc99ca13c71d5e5b3d0d4a5d936c",
+    "size_bytes": 16714
+  },
+  "manifest_sha256": "82c36b47aa99eebd6cb74718c7bd0edc5ad3a44e1c73264ffa673755aefabb2a",
+  "browser_version": "Google Chrome 152.0.7977.82",
+  "os_pretty": "Ubuntu 24.04.5 LTS",
+  "modes": {
+    "normal-wide": {
+      "viewport": {
+        "width": 1200,
+        "height": 3000,
+        "scrollWidth": 1185
+      },
+      "forcedColors": false
+    },
+    "forced-wide": {
+      "viewport": {
+        "width": 1200,
+        "height": 3000,
+        "scrollWidth": 1185
+      },
+      "forcedColors": true
+    },
+    "normal-320": {
+      "viewport": {
+        "width": 320,
+        "height": 3000,
+        "scrollWidth": 305
+      },
+      "forcedColors": false
+    },
+    "forced-320": {
+      "viewport": {
+        "width": 320,
+        "height": 3000,
+        "scrollWidth": 305
+      },
+      "forcedColors": true
+    }
+  },
+  "result": "SYM01_STATIC=PASS; SYM01_BROWSER=PASS; artifact upload PASS.",
+  "scope": "Mechanical/source/viewport/forced-colors validation only. No aesthetic survivor judgment is encoded by this preflight."
+}

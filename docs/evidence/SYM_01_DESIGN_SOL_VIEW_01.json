@@ -1,0 +1,41 @@
+{
+  "schema": "kymaean.sym01.design-sol-view.v1",
+  "status": "FROZEN_PRE_DIRECTOR",
+  "date": "2026-09-10",
+  "program": "SYM-01 - Primary Symbol / App-Icon Successor Divergence",
+  "governing_method": "docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json",
+  "mechanical_evidence": "docs/evidence/SYM_01_BROWSER_PREFLIGHT_01.json",
+  "candidate_manifest": "docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json",
+  "subjective_falsification": {
+    "F1": {
+      "result": "SURVIVES",
+      "name": "Split Field",
+      "reason": "Abstract, authored, topology remains legible across app/web roles and does not resolve primarily as a known software/category glyph. At 16-24px it is less distinctive than C0 and carries a paired-panel/quotation-like genericity reservation, but that reservation is not strong enough to falsify it."
+    },
+    "F2": {
+      "result": "FAIL",
+      "name": "Continuous Fold",
+      "reason": "Reads primarily as a stair/stepped Z or process-like route glyph; this is direct forbidden-drift/generic software-symbol failure."
+    },
+    "F3": {
+      "result": "FAIL",
+      "name": "Counterweighted Pair",
+      "reason": "At compact sizes the authored irregularity collapses into two generic dots/entities; its strongest reading is paired entities/people-like relation rather than a distinctive primary identity."
+    },
+    "F4": {
+      "result": "FAIL",
+      "name": "Offset Aperture",
+      "reason": "Reads primarily as a cog/nut/settings-like convention because of the irregular outer field and circular aperture; familiar category-glyph reading dominates."
+    }
+  },
+  "direct_incumbent_comparison": {
+    "C0": "Threshold K remains more distinctive and recoverable at 16-24px and carries stronger existing Kymaean identity continuity.",
+    "F1": "F1 is a genuine non-Threshold-K challenger and therefore survives to Director taste input, but it does not displace C0 in Design Sol ranking."
+  },
+  "design_sol_ranking": [
+    "C0 - Threshold K (recommended incumbent)",
+    "F1 - Split Field (sole challenger; alternate with compact-scale genericity reservation)"
+  ],
+  "director_gate": "Choose whether SYM-01 retains unchanged C0 Threshold K as provisional primary-symbol incumbent or advances exact frozen F1 Split Field instead. No F2/F3/F4 revival, redraw, hybrid, F5, or CLR-01 coupling is part of this choice.",
+  "explicit_non_authority": "This is not a final logo/app icon, production vector, trademark clearance, Store/package asset, Phase-C convergence, or CLR-01 decision."
+}

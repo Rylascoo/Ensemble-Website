@@ -8,21 +8,17 @@ Updated: 2026-09-10
 Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`. Durable Design Sol law: `docs/DESIGN_CONTINUITY.md`. Closure: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / cross-project
-`main` remains the promoted authority baseline. Serial Design branch `design/sym01-primary-symbol-successor-2026-09-10` carries the active successor-divergence work. `site/` alone is deployable/public. Central Q-DESIGN-19 remains stale and is not mutated during active Q-E0A-03 provider work.
+`main` remains the promoted authority baseline. Serial branch `design/sym01-primary-symbol-successor-2026-09-10` carries the active SYM-01 Director gate. `site/` alone is deployable/public. Do not mutate stale central Q-DESIGN-19 during active Engineering provider work.
 
-## Hero / closed packets
-Static hero causal-mechanism / renderer research remains paused. TYP-01 is closed with zero survivors; no rerun. MOT-01 is closed with provisional F1A bounded succession, CS2 eligible ready-context replacement and CUT fallback; no production motion tokens.
+## Preserved packets
+TYP-01 is closed with zero survivors. MOT-01 remains provisional F1A/CS2 research. CLR-01 remains parked exactly: Design Sol F2 recommended / F1 alternate, **no Director CLR family selection**. STA-01 remains closed with provisional F2 Ring + Edge Witness. Static hero/renderer research remains paused.
 
-CLR-01 remains parked exactly: valid run `34518074538`; Design Sol View 02 = F2 recommended, F1 alternate with genericity reservation, F3/F4 not recommended; **no Director CLR family selection exists**.
+## SYM-01 result
+Path 1 successor divergence selected SYM-01 with unchanged Threshold K as C0. Exact F1-F4 bytes are frozen in `SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json`; the 320px fixture-only repair is recorded in `SYM_01_EXECUTION_INSTRUMENT_ADDENDUM_01.json`. Valid hosted Run `34542785459` passes static + browser wide/320 normal/forced-colors; artifact `10177901753`.
 
-STA-01 remains closed: valid run `34533328634`; sole provisional survivor **F2 - Ring + Edge Witness**. No post-result retune or production state-token authority.
-
-## Phase-B successor divergence
-Audit 05 closed with zero genuinely fresh isolated programs. The Director explicitly chose Path 1: **successor-style Phase-B divergence**.
-
-`docs/evidence/SHARED_BRAND_SUCCESSOR_DIVERGENCE_SELECTION_01.json` selects **SYM-01 - Primary Symbol / App-Icon Successor Divergence** as the strongest unresolved non-fresh axis. Threshold K is the unchanged incumbent/control, not a template or final logo. The method and exact C0/CNEG/F1-F4 candidate bytes are frozen in `docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json`; `SYM_01_EXECUTION_INSTRUMENT_ADDENDUM_01.json` repairs only the diagnosed 320px review fixture, with every symbol hash unchanged.
+`SYM_01_DESIGN_SOL_VIEW_01.json` freezes the pre-Director result: F2 fails stair/Z/process-glyph drift; F3 fails generic paired-entity reading; F4 fails cog/settings reading. **F1 Split Field is the sole challenger survivor. Design Sol recommends retaining C0 Threshold K; F1 is the alternate with compact-scale genericity reservation.** Packet `PKT-SYM-01-01` is Director-gate pending.
 
 ## Exact next action / hard boundary
-Rerun the frozen SYM-01 matrix through hosted wide/320 normal + forced-colors preflight using the repaired review fixture. Only a valid preserved run may proceed to the frozen small-scale/genericity/cross-role falsification, survivor comparison against exact C0, and Design Sol view before any Director preference.
+**Director chooses C0 Threshold K or exact frozen F1 Split Field as the provisional primary-symbol incumbent.** No redraw, hybrid, F5, rejected-family revival, or CLR-01 coupling is part of this gate.
 
-No Threshold K retune, CLR-01 reentry, O3/TYP/MOT/STA/material/hero change, semantic iconography, production app/site implementation, Store/runtime claim, final identity, or Phase-C convergence.
+No final logo/app icon, production vector/Store asset, trademark claim, CLR-01 reentry, O3/TYP/MOT/STA/material/hero mutation, app/site implementation, final identity, or Phase-C convergence.

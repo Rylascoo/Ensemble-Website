@@ -1048,3 +1048,19 @@ Runs 1-2 are tooling-invalid. Run 3 (`34541750006`) is the first genuine browser
 **Guardrail:** no F1-F4 redraw, F5, Threshold K retune, CLR-01 reentry, production asset, final symbol, or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-063 - SYM-01 valid preflight leaves F1 as sole challenger against C0
+
+**State:** VALID HOSTED PREFLIGHT / F1 SOLE CHALLENGER / DESIGN SOL VIEW FROZEN / DIRECTOR SYMBOL CHOICE NEXT
+
+Run `34542785459` at `af2f0f38d48f8cbbfc9146598bc1c00f6bba0820` is the first fully valid SYM-01 execution. `SYM01_STATIC=PASS`, `SYM01_BROWSER=PASS`; actual 320px modes report `scrollWidth=305`, forced-colors is active where required, and artifact `10177901753` preserves the 16-file evidence packet.
+
+Frozen subjective falsification closes F2 as stair/Z/process-glyph drift, F3 as generic paired-entity reading at compact sizes, and F4 as cog/nut/settings convention. F1 Split Field survives because its two-mass nonlinear seam remains abstract and cross-role coherent without color/material/wordmark rescue. Direct comparison still favors unchanged C0 Threshold K for stronger 16-24px distinctiveness and Kymaean continuity. F1 therefore survives only as the sole Director-facing alternate with a compact-scale genericity reservation.
+
+`docs/evidence/SYM_01_DESIGN_SOL_VIEW_01.json`, `docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json`, and `docs/evidence/DESIGN_PACKET_REGISTRY_01.json` freeze that result before Director preference.
+
+**Next gate:** Director chooses C0 Threshold K or exact frozen F1 Split Field as provisional primary-symbol incumbent.
+
+**Guardrail:** no redraw/hybrid/F5, rejected-family revival, CLR-01 coupling, final logo, production asset, trademark claim or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

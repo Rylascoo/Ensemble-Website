@@ -1,0 +1,128 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-SYM-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "DIRECTOR_GATE_PENDING",
+  "date": "2026-09-10",
+  "gate_or_program": "SYM-01 - Primary Symbol / App-Icon Successor Divergence",
+  "design_axis": "shared-brand primary symbol / app-icon identity geometry",
+  "bounded_question": "Can a structurally non-Threshold-K monochrome symbol challenge Threshold K across compact app and expressive web identity roles without relying on color, wordmark, material, motion, imagery, state treatment or product-semantic iconography?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "governing_method_or_contract": [
+      "docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/SYM_01_EXECUTION_INSTRUMENT_ADDENDUM_01.json"
+    ],
+    "frozen_manifest": "docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json"
+  },
+  "controlled_inputs": [
+    "exact unchanged Threshold K C0",
+    "generic calibration control CNEG",
+    "four frozen challenger SVGs F1-F4",
+    "currentColor-only geometry",
+    "16/20/24/32/48/64/96/128 CSS-px probes",
+    "app-icon/chrome and website-header/prelude fixtures",
+    "normal and forced-colors hosted browser modes"
+  ],
+  "excluded_variables": [
+    "CLR-01 color family",
+    "O3/wordmark typography",
+    "material/texture/depth",
+    "motion",
+    "STA state treatment",
+    "hero/static imagery",
+    "product-semantic iconography",
+    "runtime/package implementation"
+  ],
+  "local_result": {
+    "summary": "Valid hosted mechanical preflight passed. Frozen subjective falsification leaves exactly one challenger survivor, F1 Split Field, against unchanged incumbent C0 Threshold K.",
+    "survivors_or_closure": [
+      "C0 - Threshold K (incumbent control)",
+      "F1 - Split Field (sole challenger)"
+    ],
+    "recommended_incumbent": "C0 - Threshold K",
+    "alternates": [
+      "F1 - Split Field, with compact-scale genericity reservation"
+    ],
+    "rejections": [
+      "F2 - Continuous Fold: stair/Z/process-glyph reading",
+      "F3 - Counterweighted Pair: generic paired-entity reading at compact sizes",
+      "F4 - Offset Aperture: cog/nut/settings-glyph reading"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "Retain C0 Threshold K. F1 is sufficiently distinct and non-semantic to deserve Director comparison but is weaker at compact-scale identity recovery.",
+    "director_view_or_delegation": "Consequential symbol preference is intentionally pending Director choice under the frozen two-option gate.",
+    "resolution_mode": "DIRECTOR_PENDING"
+  },
+  "evidence": {
+    "mechanical": [
+      "hosted run 34542785459",
+      "SYM01_STATIC=PASS",
+      "SYM01_BROWSER=PASS",
+      "1200/320 normal + forced-colors pass",
+      "artifact 10177901753; zip digest sha256:bc6f6869f9aa2b9b2e268b23b07b4579cb21fc99ca13c71d5e5b3d0d4a5d936c"
+    ],
+    "visual": [
+      "prototypes/sym-01/harness.html - canonical human-viewable comparison surface"
+    ],
+    "invalid_or_superseded_attempts": [
+      "34541508691 - C0 hash-basis tooling failure",
+      "34541648809 - malformed heredoc runner; no valid browser evidence",
+      "34541750006 - genuine browser run invalidated by 320 fixture overflow",
+      "34542402700 - diagnostic run used only to localize fixture overflow"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "Director chooses C0 or F1 before SYM-01 can close as a provisional incumbent",
+      "later whole-app/app-asset synthesis before final identity or production asset authority"
+    ],
+    "constrains": [
+      "future primary brand mark/app-icon packet composition",
+      "later wordmark/material/color integration"
+    ],
+    "must_not_be_confused_with": [
+      "final logo selection",
+      "production app icon",
+      "wordmark decision",
+      "CLR-01 selection",
+      "trademark clearance"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "If F1 is selected, preserve its two-mass split-field topology rather than combining it with Threshold K anatomy.",
+    "If C0 is retained, successor evidence still proves a materially different symbol family was tested; do not treat that as permission to retune C0.",
+    "CLR-01 remains parked and must not be used to rescue either symbol family."
+  ],
+  "explicit_non_authority": [
+    "No final identity, production symbol/vector, Store/package asset, trademark claim, CLR-01 adjudication or Phase-C convergence."
+  ],
+  "lawful_reentry_triggers": [
+    "Director symbol choice",
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "prototypes/sym-01/harness.html",
+      "docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/SYM_01_EXECUTION_INSTRUMENT_ADDENDUM_01.json",
+      "docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json",
+      "docs/evidence/SYM_01_BROWSER_PREFLIGHT_01.json",
+      "docs/evidence/SYM_01_DESIGN_SOL_VIEW_01.json"
+    ],
+    "director_review_surface": {
+      "entry_point": "prototypes/sym-01/harness.html",
+      "what_to_review": "C0 Threshold K versus F1 Split Field. F2-F4 are closed failures and shown only for evidence context."
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
