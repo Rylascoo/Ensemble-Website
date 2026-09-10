@@ -21,6 +21,11 @@ jobs:
         run: |
           set -euo pipefail
           python3 tools/tmp_clr01_convergence_deferral.py
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('docs/evidence/DESIGN_LEDGER.md')
+          p.write_text(p.read_text().rstrip() + '\n')
+          PY
           rm -f tools/tmp_clr01_convergence_deferral.py .github/workflows/tmp-clr01-convergence-deferral.yml
 
           python3 -m json.tool docs/evidence/CLR_01_DIRECTOR_DEFERRAL_TO_APP_ASSET_CONVERGENCE_01.json >/dev/null
