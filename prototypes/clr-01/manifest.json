@@ -1,13 +1,25 @@
 {
   "schema": "kymaean.clr01.specimen-manifest.v1",
-  "status": "SOURCE_PACKET_FROZEN_PRE_BROWSER_PREFLIGHT",
+  "status": "SOURCE_PACKET_RESTARTED_AFTER_MECHANICAL_DIAGNOSTIC_CORRECTION",
   "program_id": "CLR-01",
   "method_main": "4a87523f9964a1fcf884100e0158d75d7b3809c0",
   "method_path": "docs/evidence/CLR_01_CROSS_SURFACE_COLOR_LOGIC_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
-  "execution_defaults_path": "docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
-  "families_in_order": ["CNEG", "CCONV", "F1", "F2", "F3", "F4"],
-  "contexts_in_order": ["APP", "WEB"],
-  "viewports_in_order": ["WIDE", "REFLOW_320"],
+  "families_in_order": [
+    "CNEG",
+    "CCONV",
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "contexts_in_order": [
+    "APP",
+    "WEB"
+  ],
+  "viewports_in_order": [
+    "WIDE",
+    "REFLOW_320"
+  ],
   "specimen_id_rule": "{family}-{context}-{viewport}",
   "count": 24,
   "content": {
@@ -22,16 +34,123 @@
     "P6": "Open another view"
   },
   "families": {
-    "CNEG": {"APP":{"field":"#F7F7F7","primary":"#1D1D1D","secondary":"#575757","accent":"#444444","boundary":"#7A7A7A","soft_surface":"#ECECEC"},"WEB":{"field":"#F7F7F7","primary":"#1D1D1D","secondary":"#575757","accent":"#444444","boundary":"#7A7A7A","soft_surface":"#ECECEC"}},
-    "CCONV": {"APP":{"field":"#F7F8FA","primary":"#1C2028","secondary":"#59616F","accent":"#2F5FA8","boundary":"#7D8795","soft_surface":"#E8EEF8"},"WEB":{"field":"#F5F8FC","primary":"#18202C","secondary":"#526172","accent":"#2463EB","boundary":"#73839A","soft_surface":"#E2ECFB"}},
-    "F1": {"APP":{"field":"#F7F5F2","primary":"#191B24","secondary":"#565B67","accent":"#9A4D2E","boundary":"#8A8178","soft_surface":"#EEE8E2"},"WEB":{"field":"#F6F0E9","primary":"#1D1B20","secondary":"#5B5254","accent":"#A04725","boundary":"#8C7B71","soft_surface":"#F0E3D9"}},
-    "F2": {"APP":{"field":"#F4F3F7","primary":"#221B2D","secondary":"#5C5565","accent":"#006F73","boundary":"#7D7486","soft_surface":"#EAE8EF"},"WEB":{"field":"#F1EDF6","primary":"#21172C","secondary":"#5A5065","accent":"#006D70","boundary":"#766D82","soft_surface":"#E9E3F0"}},
-    "F3": {"APP":{"field":"#F4F8F5","primary":"#16231F","secondary":"#4D5E58","accent":"#7D3A6D","boundary":"#72827A","soft_surface":"#E6EFE9"},"WEB":{"field":"#EFF7F2","primary":"#14251E","secondary":"#465951","accent":"#8C326E","boundary":"#6D8076","soft_surface":"#E0EFE5"}},
-    "F4": {"APP":{"field":"#F8F5F0","primary":"#24201B","secondary":"#5A544B","accent":"#3E5D9B","boundary":"#6F7F99","soft_surface":"#E7EBF3"},"WEB":{"field":"#F6F1E8","primary":"#211E19","secondary":"#564F45","accent":"#355EB0","boundary":"#687DA5","soft_surface":"#E1E7F2"}}
+    "CNEG": {
+      "APP": {
+        "field": "#F7F7F7",
+        "primary": "#1D1D1D",
+        "secondary": "#575757",
+        "accent": "#444444",
+        "boundary": "#7A7A7A",
+        "soft_surface": "#ECECEC"
+      },
+      "WEB": {
+        "field": "#F7F7F7",
+        "primary": "#1D1D1D",
+        "secondary": "#575757",
+        "accent": "#444444",
+        "boundary": "#7A7A7A",
+        "soft_surface": "#ECECEC"
+      }
+    },
+    "CCONV": {
+      "APP": {
+        "field": "#F7F8FA",
+        "primary": "#1C2028",
+        "secondary": "#59616F",
+        "accent": "#2F5FA8",
+        "boundary": "#7D8795",
+        "soft_surface": "#E8EEF8"
+      },
+      "WEB": {
+        "field": "#F5F8FC",
+        "primary": "#18202C",
+        "secondary": "#526172",
+        "accent": "#2463EB",
+        "boundary": "#73839A",
+        "soft_surface": "#E2ECFB"
+      }
+    },
+    "F1": {
+      "APP": {
+        "field": "#F7F5F2",
+        "primary": "#191B24",
+        "secondary": "#565B67",
+        "accent": "#9A4D2E",
+        "boundary": "#8A8178",
+        "soft_surface": "#EEE8E2"
+      },
+      "WEB": {
+        "field": "#F6F0E9",
+        "primary": "#1D1B20",
+        "secondary": "#5B5254",
+        "accent": "#A04725",
+        "boundary": "#8C7B71",
+        "soft_surface": "#F0E3D9"
+      }
+    },
+    "F2": {
+      "APP": {
+        "field": "#F4F3F7",
+        "primary": "#221B2D",
+        "secondary": "#5C5565",
+        "accent": "#006F73",
+        "boundary": "#7D7486",
+        "soft_surface": "#EAE8EF"
+      },
+      "WEB": {
+        "field": "#F1EDF6",
+        "primary": "#21172C",
+        "secondary": "#5A5065",
+        "accent": "#006D70",
+        "boundary": "#766D82",
+        "soft_surface": "#E9E3F0"
+      }
+    },
+    "F3": {
+      "APP": {
+        "field": "#F4F8F5",
+        "primary": "#16231F",
+        "secondary": "#4D5E58",
+        "accent": "#7D3A6D",
+        "boundary": "#72827A",
+        "soft_surface": "#E6EFE9"
+      },
+      "WEB": {
+        "field": "#EFF7F2",
+        "primary": "#14251E",
+        "secondary": "#465951",
+        "accent": "#8C326E",
+        "boundary": "#6D8076",
+        "soft_surface": "#E0EFE5"
+      }
+    },
+    "F4": {
+      "APP": {
+        "field": "#F8F5F0",
+        "primary": "#24201B",
+        "secondary": "#5A544B",
+        "accent": "#3E5D9B",
+        "boundary": "#6F7F99",
+        "soft_surface": "#E7EBF3"
+      },
+      "WEB": {
+        "field": "#F6F1E8",
+        "primary": "#211E19",
+        "secondary": "#564F45",
+        "accent": "#355EB0",
+        "boundary": "#687DA5",
+        "soft_surface": "#E1E7F2"
+      }
+    }
   },
   "historical_palette_quarantine": {
     "performed_after_method_source_freeze": true,
     "drive_record": "KYMAEAN_LANE_B_WEBSITE_V0_MATERIAL_ROLES_01.md",
     "finding": "No exact CLR-01 fixture hex is copied from the Mineral Theater/Ash & Linen/Ink & Bone working values. F1 intentionally remains subject to later subjective scrutiny for generic warm-earth/editorial resemblance; frozen source is not retuned in response."
-  }
+  },
+  "execution_defaults_paths": [
+    "docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+    "docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_02.json"
+  ],
+  "correction_note": "Addendum 02 changes only REFLOW_320 clipping behavior and diagnostic artifact transport; no family/control color, role, content or frozen dimension changes."
 }
