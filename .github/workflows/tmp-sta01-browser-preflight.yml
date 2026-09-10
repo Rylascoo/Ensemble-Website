@@ -1,0 +1,64 @@
+name: Temporary STA-01 browser preflight
+
+on:
+  push:
+    branches:
+      - design/sta01-noncolor-state-treatment-2026-09-10
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - name: Static frozen-contract checks
+        run: python tools/verify_sta01.py
+      - name: Hosted Chrome state, reflow, focus and forced-colors checks
+        shell: bash
+        run: |
+          set -euo pipefail
+          BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
+          test -n "$BROWSER"
+          BROWSER_VERSION="$($BROWSER --version)"
+          OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
+          mkdir -p /tmp/sta01-artifact/diagnostics /tmp/sta01-artifact/screens
+          run_diag() {
+            local mode="$1" width="$2" out="$3" profile="$4"
+            local forced=()
+            if [ "$mode" = forced ]; then forced=(--force-high-contrast); fi
+            "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files \
+              --window-size="$width,2600" --virtual-time-budget=1200 --user-data-dir="$profile" \
+              "${forced[@]}" --dump-dom "file://$PWD/prototypes/sta-01/harness.html?diagnostic=1" > "$out" 2>"$out.log"
+          }
+          run_diag normal 1200 /tmp/sta01-normal-wide.html /tmp/sta01-normal-wide
+          run_diag forced 1200 /tmp/sta01-forced-wide.html /tmp/sta01-forced-wide
+          run_diag normal 320 /tmp/sta01-normal-320.html /tmp/sta01-normal-320
+          run_diag forced 320 /tmp/sta01-forced-320.html /tmp/sta01-forced-320
+          python tools/verify_sta01.py \
+            --normal-wide /tmp/sta01-normal-wide.html \
+            --forced-wide /tmp/sta01-forced-wide.html \
+            --normal-320 /tmp/sta01-normal-320.html \
+            --forced-320 /tmp/sta01-forced-320.html \
+            --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
+            --output /tmp/sta01-artifact/STA_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json
+          cp prototypes/sta-01/harness.html /tmp/sta01-artifact/harness.html
+          cp docs/evidence/STA_01_NONCOLOR_FOCUS_SELECTION_METHOD_AND_MATRIX_01.json /tmp/sta01-artifact/method.json
+          for width in 1200 320; do
+            "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --hide-scrollbars \
+              --window-size="$width,2600" --virtual-time-budget=800 --user-data-dir="/tmp/sta01-shot-$width" \
+              --screenshot="/tmp/sta01-artifact/screens/normal-$width.png" "file://$PWD/prototypes/sta-01/harness.html" >/tmp/sta01-shot-$width.log 2>&1
+            "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --hide-scrollbars --force-high-contrast \
+              --window-size="$width,2600" --virtual-time-budget=800 --user-data-dir="/tmp/sta01-shot-forced-$width" \
+              --screenshot="/tmp/sta01-artifact/screens/forced-colors-$width.png" "file://$PWD/prototypes/sta-01/harness.html" >/tmp/sta01-shot-forced-$width.log 2>&1
+          done
+          printf '%s\n' "$BROWSER_VERSION" > /tmp/sta01-artifact/browser-version.txt
+          printf '%s\n' "$OS_PRETTY" > /tmp/sta01-artifact/os-pretty.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: sta01-preflight
+          path: /tmp/sta01-artifact
+          if-no-files-found: error
+          retention-days: 7
