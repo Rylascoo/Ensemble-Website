@@ -2,7 +2,7 @@
 
 # Kymaean Visual Design Workflow Authority 01
 
-Updated: 2026-09-09
+Updated: 2026-09-10
 
 ## Director approval
 
@@ -246,6 +246,14 @@ After a returned image:
 - respect any frozen zero-survivor and no-post-result-retune rule in the governing method.
 
 Renderer isolation is lane/method-specific. Never globalize clean-slate renderer isolation over an authorized incumbent-refinement task.
+
+## Design gate packet / synthesis continuity
+
+After a meaningful visual gate creates, rejects, pauses, or provisionally selects a mechanism that can affect later composition, close it into the packet system defined by `docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json` and register it in `docs/evidence/DESIGN_PACKET_REGISTRY_01.json` when it remains relevant to future synthesis.
+
+Packetization is continuity, not automatic convergence. A gate/mechanism packet preserves bounded local truth; a composition packet tests interactions among packets; a whole-app synthesis packet tests the assembled system before final cross-surface coherence or implementation readiness can be claimed. If integration exposes a conflict, preserve the earlier packet and open the smallest lawful successor/refinement gate rather than retuning history.
+
+Director-facing visual-review packets must provide an obvious human-viewable artifact appropriate to the question. Machine JSON, DOM dumps and logs may accompany it as evidence but must not be the sole visual decision surface.
 
 ## Fresh-chat continuity
 

@@ -9,6 +9,7 @@ Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/
 
 ## Repository / cross-project
 `main` is authoritative. `site/` alone is deployable/public. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
+Design packet continuity: `docs/evidence/DESIGN_PACKET_REGISTRY_01.json`; current CLR packet: `docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json`.
 
 ## Hero — STATIC RESEARCH PAUSED
 Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 unchanged. No final hero. Q-DESIGN-02 Stage motion still waits on real blinded E0-A vs E0-E evidence.

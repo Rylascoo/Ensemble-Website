@@ -4,7 +4,7 @@
 
 Status: **ACTIVE DURABLE DESIGN SOL / VISUAL-CONTINUITY LAW — NON-VOLATILE**
 
-Updated: 2026-09-09
+Updated: 2026-09-10
 
 ## Purpose and volatility boundary
 
@@ -225,6 +225,16 @@ Depending on workstream, implementation-ready outputs may include:
 > **A design that cannot be expressed or handed off precisely enough to implement is not finished merely because the concept sounds good.**
 
 Prefer producing a rendered/testable surface over describing one when the active stage authorizes materialization.
+
+### Gate packet and synthesis continuity
+
+Use `docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json` for durable gate-packet/composition/whole-app-synthesis law and `docs/evidence/DESIGN_PACKET_REGISTRY_01.json` as the retrievable map of current/provisional/closed packets.
+
+A meaningful visual gate that may matter to later integration should leave a bounded packet recording what the gate actually established, what remains provisional or unresolved, exact evidence/provenance, integration sensitivities, and explicit non-authority. Local packet success never means the whole app or website has already converged.
+
+Composition packets may combine multiple gate packets on a bounded representative surface to discover interaction effects. Whole-app synthesis later assembles the relevant packets to audit coherence, gaps, accessibility, hierarchy, fatigue, semantic collisions and implementation pressure. New integration evidence may justify a successor/refinement gate, but must not silently rewrite the predecessor packet.
+
+When the Director is asked to make a visual choice, the packet must identify a directly human-viewable review surface. JSON/logs may carry diagnostics and provenance but are not an adequate sole visual-review interface. Accessibility variants such as forced-colors or reduced-motion evidence must be labeled as validation evidence rather than aesthetic alternatives.
 
 ## 10. Renderer isolation and prompt-seed law
 
