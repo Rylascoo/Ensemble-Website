@@ -942,3 +942,23 @@ Fresh Design Sol review of the corrected evidence is frozen in `docs/evidence/CL
 **Guardrail:** no final palette, production color token, semantic status-color system, app/site theming, image generation, motion retune, Stage motion, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-057 — CLR-01 adjudication intentionally deferred to app-asset convergence
+
+**State:** PARKED / NO DIRECTOR FAMILY SELECTION / REENTRY AT APP-ASSET OR WHOLE-APP SYNTHESIS CONVERGENCE
+
+After the corrected Q-DESIGN-19 packet and Design Sol View 02 were available, the Director chose not to select among CLR-01 families in isolation. The Director instructed Design Sol to save the boundary and return to the color-logic decision once the project is ready for app asset convergence.
+
+This preserves the full local result without converting it into convergence: the corrected mechanical packet remains clean; Design Sol's pre-Director view remains frozen with F2 recommended, F1 retained with a genericity reservation, and F3/F4 not recommended; **no Director preference among F1/F2/F3/F4 is recorded**. Deferral is not selection, rejection, approval, or zero-survivor closure.
+
+Canonical deferral evidence: `docs/evidence/CLR_01_DIRECTOR_DEFERRAL_TO_APP_ASSET_CONVERGENCE_01.json`. Current packet: `docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json`, now `PAUSED`.
+
+**Reentry law:** do not retune or rescue CLR-01 while parked. Reopen it only at the later authorized app-asset / whole-app synthesis convergence boundary, or under stronger changed authority. At reentry, the accumulated packet system may supply new integration evidence; any required change must be a successor/refinement gate, not a rewrite of the frozen CLR-01 result.
+
+**Next Design boundary:** Phase-B shared-brand packet accumulation may continue through a fresh orthogonal re-entry audit. CLR-01 itself is not the next design action.
+
+**Cross-project queue note:** the central `Ensemble-Project` queue still lists Q-DESIGN-19 as ACTIVE. Because Engineering is currently at a sensitive Director/provider boundary, Design Sol did not mutate that repository merely to synchronize this lane. Until safe queue reconciliation, Website `CURRENT_STATE.md` is the controlling Design boundary and this ledger preserves the required future queue correction.
+
+**Guardrail:** no final palette, production color token, semantic status-color system, app/site theming, image-generation authorization, motion retune, Stage motion, final identity, implementation, or Phase-C convergence is created by this deferral.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

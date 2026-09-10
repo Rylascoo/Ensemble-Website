@@ -34,14 +34,14 @@
       "packet_id": "PKT-CLR-01-01",
       "path": "docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json",
       "axis": "cross-surface color-role logic",
-      "status": "DIRECTOR_ADJUDICATION_PENDING",
-      "current_contribution": "Design Sol recommends F2; F1 remains alternate with genericity reservation; Director result not yet frozen",
+      "status": "PAUSED",
+      "current_contribution": "Director intentionally deferred selection until app-asset / whole-app synthesis convergence; Design Sol's frozen F2 recommendation and F1 alternate remain preserved as local evidence, with no Director family selection",
       "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
     "final typography/typeface system is unresolved; TYP-01 produced zero survivors",
-    "final color mechanism/palette is unresolved until CLR-01 Director adjudication and later integration",
+    "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
     "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical/temporary evidence exists"
@@ -49,7 +49,7 @@
   "synthesis_policy": {
     "composition_packets_created": [],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Not automatically triggered by registry creation. Activate when two or more current packets materially interact on an authorized representative surface, or before claiming final cross-surface visual-system coherence/implementation readiness.",
+    "next_synthesis_trigger": "Not automatically triggered by registry creation. Continue accumulating bounded packets. When the later app-asset / whole-app synthesis convergence gate is authorized, re-open parked CLR-01 in context with the accumulated packets before claiming final cross-surface visual-system coherence or implementation readiness.",
     "no_silent_gap_filling": true
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. The registry creates no final identity, production token, implementation or Phase-C authority."
