@@ -8,7 +8,7 @@ Updated: 2026-09-10
 Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`. Durable Design Sol law: `docs/DESIGN_CONTINUITY.md`. Closure: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / cross-project
-Serial closeout branch `design/phase-b-reentry-audit-05-2026-09-10` contains the Audit-05 closure pending promotion. `site/` alone is deployable/public. Central queue remains in `Ensemble-Project`; its Q-DESIGN-19 row is stale relative to Website authority and is recorded for later safe reconciliation, not mutated during active Q-E0A-03 provider work.
+`main` is authoritative; no serial Design work branch is active. `site/` alone is deployable/public. Central queue remains in `Ensemble-Project`; its Q-DESIGN-19 row is stale relative to Website authority and is recorded for later safe reconciliation, not mutated during active Q-E0A-03 provider work.
 
 ## Hero
 Static hero causal-mechanism / renderer research remains paused. Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 remain unchanged. Q-DESIGN-02 Stage motion still requires its external E0 evidence trigger.
