@@ -1,0 +1,129 @@
+{
+  "schema": "kymaean.design-packet-synthesis-framework.v1",
+  "status": "ACTIVE_DURABLE_DESIGN_WORKFLOW_LAW",
+  "date": "2026-09-10",
+  "purpose": "Preserve bounded visual-gate decisions as durable packets that can later be composed into progressively richer app/web views without silently converting local research results into final whole-system authority.",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "governing_workflow": "docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md",
+    "durable_design_law": "docs/DESIGN_CONTINUITY.md",
+    "drive_visual_continuity": "Kymaean Visual Continuity Constitution",
+    "adoption_basis": "Director endorsed the packet-plus-later-whole-view model; Design Sol adopted the durable in-lane workflow under standing clean-recursive-audit delegation."
+  },
+  "core_law": [
+    "A visual gate should leave a durable packet whenever it creates, rejects, pauses, or provisionally selects a mechanism that may matter to later composition.",
+    "A packet preserves the local result and its exact authority limits; it is not an assertion that the whole app or website should already look like that packet in isolation.",
+    "Later composition and whole-app synthesis may reveal interactions that were impossible to judge locally. Those interactions are new evidence, not permission to rewrite the earlier packet silently.",
+    "If synthesis exposes a material conflict, open a bounded successor/refinement gate that cites the conflicting packet IDs and preserves the predecessor packet unchanged as historical/provisional evidence.",
+    "A final cross-surface visual system must not be claimed coherent merely by accumulating individually successful packets; whole-system synthesis and audit are required before final convergence or implementation-ready cross-surface authority is claimed."
+  ],
+  "packet_classes": {
+    "GATE_MECHANISM_PACKET": {
+      "purpose": "Preserve one bounded visual-gate result, including positive survivor, zero-survivor closure, rejection, pause, or provisional mechanism.",
+      "may_contain": ["motion logic", "color-role logic", "typographic/editorial logic", "surface hierarchy", "icon/symbol logic", "state-treatment logic", "density/spacing logic", "visual-world/imagery logic", "other bounded design mechanisms"],
+      "does_not_create": "Whole-app composition, final production tokens, implementation authority, or Phase-C convergence unless the governing gate separately grants them."
+    },
+    "COMPOSITION_PACKET": {
+      "purpose": "Combine two or more existing gate packets on one bounded representative surface to test their interaction without changing the component packets by implication.",
+      "examples": ["motion plus color-role logic on one neutral app surface", "typography plus spacing plus control-state treatment", "website section combining shared-brand mechanisms"],
+      "authority": "Integration evidence only unless a separately authorized refinement/adjudication promotes a change."
+    },
+    "WHOLE_APP_SYNTHESIS_PACKET": {
+      "purpose": "Assemble the current relevant mechanism packets into a representative whole-app/cross-surface view and audit system coherence, gaps, collisions, and refinement pressure.",
+      "activation": "Only when CURRENT_STATE/roadmap/Director opens the integration gate or when whole-system coherence is required before a claimed convergence/implementation handoff.",
+      "authority": "May confirm compatibility, expose integration conflicts, and open targeted successor gates. It may not retroactively alter packet history or invent outside-lane product/engineering authority."
+    }
+  },
+  "required_gate_packet_fields": [
+    "packet_id",
+    "packet_class",
+    "status",
+    "date",
+    "gate_or_program",
+    "design_axis",
+    "bounded_question",
+    "authoritative_sources_and_exact_refs",
+    "controlled_inputs",
+    "excluded_variables",
+    "local_result",
+    "survivors_or_closure",
+    "design_sol_view",
+    "director_view_or_delegation",
+    "mechanical_visual_accessibility_evidence",
+    "dependencies",
+    "known_integration_sensitivities",
+    "explicit_non_authority",
+    "lawful_reentry_triggers",
+    "canonical_artifacts_and_visual_master_provenance",
+    "director_review_surface"
+  ],
+  "packet_statuses": {
+    "FROZEN_LOCAL_RESULT": "Gate result is frozen but not necessarily a selected incumbent.",
+    "PROVISIONAL_INCUMBENT": "Current preferred mechanism for later integration; not final production authority.",
+    "CLOSED_ZERO_SURVIVORS": "Gate closed without a survivor; preserve the negative result and gap.",
+    "PAUSED": "Research is intentionally paused; no incumbent is implied.",
+    "DIRECTOR_ADJUDICATION_PENDING": "Mechanical/Design Sol work is complete and a genuine Director taste/product-meaning choice remains.",
+    "INTEGRATION_REVIEW_REQUIRED": "A later composition exposed a material interaction that requires a new bounded gate.",
+    "SUPERSEDED_BY_SUCCESSOR": "A later explicitly authorized packet replaces the packet for current use; predecessor remains preserved."
+  },
+  "director_review_surface_law": {
+    "principle": "A visual decision must be reviewable visually without requiring the Director to inspect diagnostic data formats.",
+    "requirements": [
+      "When the decision is visual, the packet must identify an obvious human-viewable surface such as index.html, canonical PNG/contact sheet, deterministic animation page, or other directly reviewable artifact.",
+      "JSON may carry evidence, provenance, and machine diagnostics but must not be the only Director-facing representation of a visual alternative.",
+      "Accessibility variants such as forced-colors or reduced-motion evidence must be labeled as validation evidence rather than presented as competing aesthetic options.",
+      "Raw DOM dumps, console logs, and machine reports are diagnostics, not visual evidence unless the governing question is specifically about those diagnostics.",
+      "If a ZIP is supplied, include a top-level README and a plainly named entry point when feasible; if no HTML entry point exists, state exactly which image/media files should be opened."
+    ]
+  },
+  "integration_audit": {
+    "required_dimensions_when_applicable": [
+      "cross-packet visual hierarchy",
+      "semantic honesty and product-state collisions",
+      "color plus motion interaction",
+      "typography plus spacing/density interaction",
+      "focus/selection/state redundancy",
+      "forced-colors/high-contrast/reduced-motion survival",
+      "320px and representative wide-layout survival",
+      "fatigue, repetition, and over-animation pressure",
+      "shared-brand coherence across APP and WEB without forced identical composition",
+      "identity-carrier competition or duplication",
+      "implementation feasibility and truthful engineering boundary",
+      "whether removing/simplifying a packet makes the whole stronger",
+      "open visual-system gaps that no current packet legitimately answers"
+    ],
+    "result_types": [
+      "COMPATIBLE_AS_IS",
+      "COMPATIBLE_WITH_USAGE_RESTRAINT",
+      "TARGETED_REFINEMENT_REQUIRED",
+      "PACKET_CONFLICT_REQUIRES_NEW_GATE",
+      "WHOLE_SYSTEM_GAP_REMAINS",
+      "INSUFFICIENT_AUTHORITY_OR_EVIDENCE"
+    ]
+  },
+  "revisit_law": {
+    "allowed_reasons": [
+      "new integration evidence",
+      "direct contradiction",
+      "changed product/engineering truth that materially affects the visual mechanism",
+      "changed governing design contract",
+      "explicitly authorized new program/refinement gate"
+    ],
+    "not_allowed": [
+      "recency",
+      "preference drift without a declared new taste decision",
+      "silent post-result retuning",
+      "rewriting a prior packet to make later synthesis appear inevitable",
+      "treating an attractive whole-app mockup as automatic authority over frozen local evidence"
+    ]
+  },
+  "registry": "docs/evidence/DESIGN_PACKET_REGISTRY_01.json",
+  "template": "docs/evidence/DESIGN_PACKET_TEMPLATE_01.json",
+  "drive_relationship": "GitHub stores packet law, decision records, machine evidence and reproducible prototypes. Google Drive Ensemble Project remains canonical for visual-master binaries, high-fidelity mockups, motion studies and artwork provenance. A composition/synthesis derivative never silently becomes a master or final incumbent.",
+  "non_authority": [
+    "This framework does not itself select any current CLR-01 family.",
+    "It does not reopen TYP-01, hero research, O3, Threshold K, Mineral Theater, F1A/CS2 cadence, or any closed experiment.",
+    "It does not authorize application implementation, website production/deployment, final tokens, final identity, or Phase-C convergence.",
+    "It does not change Ensemble-Project product/engineering authority."
+  ]
+}
