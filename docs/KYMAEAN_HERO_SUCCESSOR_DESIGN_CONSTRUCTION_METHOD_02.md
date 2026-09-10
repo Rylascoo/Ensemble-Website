@@ -1,6 +1,8 @@
-<!-- D-R1-STATUS: UNCLASSIFIED -->
+<!-- D-R1-STATUS: ACTIVE LAW -->
 
 # KYMAEAN — HERO SUCCESSOR DESIGN-CONSTRUCTION METHOD 02
+
+> **D-R1 currency note (2026-09-09):** The original proposal-status text below is preserved as provenance. Method 02 was subsequently Director-approved and remains `ACTIVE METHOD LAW` in `docs/evidence/DESIGN_LEDGER.md` L-005; later candidate/direction/program closures do not rewrite this source's method authority.
 
 Status: **PROPOSAL COMPLETE / DIRECTOR REVIEW REQUIRED / NO CANDIDATE OR RENDER AUTHORIZED**
 Date: 2026-09-06

@@ -1,6 +1,8 @@
-<!-- D-R1-STATUS: UNCLASSIFIED -->
+<!-- D-R1-STATUS: ACTIVE LAW -->
 
 # KYMAEAN — HERO INTEGRATION HARNESS 01
+
+> **D-R1 currency note (2026-09-09):** The original pre-freeze `Status:` below is preserved as provenance. Harness 01 was subsequently corrected and re-frozen; current authority is carried by `docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md`, `docs/evidence/DESIGN_LEDGER.md`, and `CURRENT_STATE.md`.
 
 Status: PRE-REGISTERED / PRE-RENDER PACKAGE / DIRECTOR REVIEW REQUIRED / NOT YET FROZEN  
 Date: 2026-09-06
