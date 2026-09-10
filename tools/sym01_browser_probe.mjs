@@ -39,6 +39,8 @@ try {
     last=ev?.result?.value||null; if(last){diag=last;break;} await sleep(100);
   }
   if(!diag) throw new Error('SYM diagnostic missing: '+JSON.stringify(last));
+  const overflowEval=await send('Runtime.evaluate',{expression:`(()=>[...document.querySelectorAll('*')].map((e,i)=>{const r=e.getBoundingClientRect();return {i,tag:e.tagName,id:e.id||'',cls:typeof e.className==='string'?e.className:'',text:(e.textContent||'').trim().replace(/\s+/g,' ').slice(0,120),left:r.left,right:r.right,width:r.width,scrollWidth:e.scrollWidth,clientWidth:e.clientWidth}}).filter(x=>x.right>innerWidth+0.5||x.left<-0.5||x.scrollWidth>x.clientWidth+1).slice(0,80))()`,returnByValue:true});
+  diag.overflowElements=overflowEval?.result?.value||[];
   fs.writeFileSync(diagPath,JSON.stringify(diag)+'\n'); ws.close();
 } finally {
   cp.kill('SIGTERM'); await Promise.race([new Promise(r=>cp.once('exit',r)),sleep(1500)]);

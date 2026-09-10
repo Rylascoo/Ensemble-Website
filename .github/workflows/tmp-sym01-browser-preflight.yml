@@ -56,6 +56,7 @@ jobs:
           printf '%s\n' "$BROWSER_VERSION" > /tmp/sym01-artifact/browser-version.txt
           printf '%s\n' "$OS_PRETTY" > /tmp/sym01-artifact/os-pretty.txt
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
         with:
           name: sym01-preflight
           path: /tmp/sym01-artifact
