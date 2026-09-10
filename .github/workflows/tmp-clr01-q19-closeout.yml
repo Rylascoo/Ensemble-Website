@@ -1,0 +1,94 @@
+name: Temporary CLR-01 Q19 closeout
+
+on:
+  push:
+    branches:
+      - design/clr01-q19-diagnostic-repair-2026-09-10
+
+permissions:
+  contents: write
+
+jobs:
+  closeout:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 2
+      - name: Complete Q-DESIGN-19 continuity closeout
+        shell: bash
+        run: |
+          set -euo pipefail
+          EXPECTED_PARENT=df7cadffed0ce258106ff242813b4e17dc36276d
+          test "$(git rev-parse HEAD^)" = "$EXPECTED_PARENT"
+
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('docs/evidence/DESIGN_LEDGER.md')
+          s = p.read_text()
+          assert '## L-056 — CLR-01 Q-DESIGN-19 corrected preflight is clean; Design Sol view v2 frozen' not in s
+          s = s.replace('Updated: 2026-09-09', 'Updated: 2026-09-10', 1)
+          entry = r'''
+
+## L-056 — CLR-01 Q-DESIGN-19 corrected preflight is clean; Design Sol view v2 frozen
+
+**State:** Q-DESIGN-19 ACTIVE / CORRECTED 24+24 PREFLIGHT CLEAN / DESIGN SOL VIEW 02 FROZEN / DIRECTOR ADJUDICATION PENDING / NO PRODUCTION COLOR AUTHORITY
+
+Director-visible inspection of the first Q-DESIGN-19 artifact exposed two common carrier/evidence defects before any Director preference: raw Chrome dump-DOM files were not portable visual snapshots, and normal REFLOW_320 clipped approximately 9.2 CSS px of the panel lower boundary. Run `34515179897`, artifact `10167385964`, and Design Sol View 01 are therefore invalid/no-family-result evidence. Repair run `34517693470` also carries no family result after correctly revealing that the attempted split-axis overflow policy remained scroll-container behavior under CSS overflow-axis computation.
+
+Addenda 02/03 preserve every frozen family/control color, role, content and dimension. Valid hosted run `34518074538` on the corrected source passed **24/24 normal + 24/24 forced-colors**, all contrast/focus/isolation floors, and every 320 cell at `scrollWidth = 320` CSS px with visible vertical carrier overflow. Artifact `10168493643` contains parsed normal/forced diagnostic JSON plus true normal/forced-colors PNG captures; raw dump-DOM is no longer published as visual evidence. Current mechanical evidence is `docs/evidence/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_03.json`.
+
+Fresh Design Sol review of the corrected evidence is frozen in `docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_02.json` before Director preference: **F2 recommended provisional survivor; F1 provisional survivor with genericity reservation; F3/F4 not recommended**. This is color-logic evidence only; no final palette, production token, semantic-status system or theme authority is created.
+
+**Next gate:** direct Director + Design Sol CLR-01 adjudication under the unchanged frozen method. No post-evidence retune. The Director may select one or more provisional mechanisms or zero survivors.
+
+**Guardrail:** no final palette, production color token, semantic status-color system, app/site theming, image generation, motion retune, Stage motion, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+'''
+          p.write_text(s.rstrip() + entry + '\n')
+          PY
+
+          cat > CURRENT_STATE.md <<'EOF'
+          <!-- D-R1-STATUS: ACTIVE LAW -->
+
+          # Ensemble Website — Current State
+
+          Updated: 2026-09-10
+
+          ## Authority
+          Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`. Durable Design Sol law: `docs/DESIGN_CONTINUITY.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`.
+
+          ## Repository / cross-project
+          `main` is authoritative. `site/` alone is deployable/public. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
+
+          ## Hero — STATIC RESEARCH PAUSED
+          Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 unchanged. No final hero. Q-DESIGN-02 Stage motion still waits on real blinded E0-A vs E0-E evidence.
+
+          ## Shared brand — CLR-01 DIRECTOR REVIEW READY
+          MOT-01 is closed. Provisional motion evidence only: **F1A Tight** = bounded within-context succession; **CS2 Balanced Crossfade Exchange** = eligible already-ready genuine context replacement; **CUT** = first-class fallback. No production motion tokens.
+
+          Q-DESIGN-18 CLR-01 method remains frozen. Q-DESIGN-19 corrected packet is mechanically clean. Earlier run `34515179897`/artifact `10167385964` and Design Sol View 01 are invalid; repair run `34517693470` is also no-family-result. Valid run `34518074538`, artifact `10168493643`, passes **24/24 normal + 24/24 forced-colors**, all frozen contrast/focus/isolation floors, and 320px horizontal reflow with non-clipped carrier visibility. Current evidence: `docs/evidence/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_03.json`.
+
+          `docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_02.json` is frozen before Director preference: **F2 recommended provisional survivor; F1 survivor with genericity reservation; F3/F4 not recommended**. No final palette/token/theme authority exists.
+
+          ## Exact next action / hard boundary
+          Direct Director + Design Sol CLR-01 adjudication under the unchanged frozen method. Zero survivors is valid. No post-evidence retune.
+
+          No image generation/renderer spend, production color/motion tokens, app/site theming, semantic status colors, Stage motion, final identity or Phase-C convergence.
+          EOF
+
+          rm -f .github/workflows/tmp-clr01-browser-preflight.yml
+          rm -f .github/workflows/tmp-clr01-q19-closeout.yml
+
+          python3 tools/validate_document_status.py
+          python3 tools/validate_repository_boundaries.py
+          test "$(wc -c < CURRENT_STATE.md)" -le 3072
+
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add docs/evidence/DESIGN_LEDGER.md CURRENT_STATE.md .github/workflows/tmp-clr01-browser-preflight.yml .github/workflows/tmp-clr01-q19-closeout.yml
+          git diff --cached --check
+          git commit -m "Close corrected CLR-01 Q-DESIGN-19 pre-Director gate"
+          git push origin HEAD:refs/heads/design/clr01-q19-diagnostic-repair-2026-09-10
