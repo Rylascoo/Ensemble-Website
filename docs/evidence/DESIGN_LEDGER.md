@@ -1035,3 +1035,16 @@ From this checkpoint forward, F1-F4 geometry is frozen. Any small-scale, familia
 **Guardrail:** no Threshold K retune, CLR-01 reentry, O3/TYP/MOT/STA/material/hero change, semantic iconography, production vector/Store asset, final logo/app-icon selection, app/site implementation or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+## L-062 - SYM-01 diagnostic isolates 320px review-fixture overflow; candidate geometry remains frozen
+
+**State:** EXECUTION-INSTRUMENT REPAIR / NO CANDIDATE RETUNE / HOSTED RERUN REQUIRED
+
+Runs 1-2 are tooling-invalid. Run 3 (`34541750006`) is the first genuine browser execution and exposed 320px horizontal overflow. Diagnostic Run 4 (`34542402700`, artifact `10177772215`) localized that overflow to the size-band fixture: required 96px/128px marks were placed inside ~62px compact grid cells; the 128px mark extended from x=244 to x=372 at an actual 320px viewport. Normal and forced-colors modes both reported `scrollWidth=372`.
+
+`docs/evidence/SYM_01_EXECUTION_INSTRUMENT_ADDENDUM_01.json` authorizes only responsive harness repair: two compact columns, 96/128 probes spanning the row, and a 132px probe box. Every C0/CNEG/F1-F4 symbol hash and topology remains unchanged. The harness hash changes only because the measurement fixture changed.
+
+**Next gate:** obtain one valid preserved hosted wide/320 normal + forced-colors run. No subjective survivor judgment is lawful before that run.
+
+**Guardrail:** no F1-F4 redraw, F5, Threshold K retune, CLR-01 reentry, production asset, final symbol, or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

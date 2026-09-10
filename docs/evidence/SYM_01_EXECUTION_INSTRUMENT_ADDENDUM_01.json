@@ -1,0 +1,65 @@
+{
+  "schema": "kymaean.sym01.execution-instrument-addendum.v1",
+  "status": "ACTIVE_EXECUTION_LAW",
+  "date": "2026-09-10",
+  "program": "SYM-01 - Primary Symbol / App-Icon Successor Divergence",
+  "trigger_run": {
+    "github_actions_run_id": 34542402700,
+    "artifact_id": 10177772215,
+    "head_sha": "8bb6fb4f85ccf7ce5b21bdcd1dd1215c88c05ae0"
+  },
+  "diagnosis": {
+    "normal_320": {
+      "innerWidth": 320,
+      "scrollWidth": 372
+    },
+    "forced_320": {
+      "innerWidth": 320,
+      "scrollWidth": 372
+    },
+    "primary_overflow": "The frozen 128px probe occupied a ~62px compact grid cell and rendered from x=244 to x=372; 96px and 64px probes also exceeded their cell widths.",
+    "classification": "review-fixture responsive-layout defect; no candidate/source/topology failure"
+  },
+  "authorized_repair": [
+    "At <=700px use two minmax(0,1fr) size columns rather than four 62px-minimum columns.",
+    "Make the 96px and 128px probes span the full size-band row.",
+    "Restore probe-box width to 132px so every required frozen size fits without scaling or clipping."
+  ],
+  "frozen_invariants": {
+    "symbol_asset_hashes_unchanged": true,
+    "candidate_geometry_unchanged": true,
+    "required_sizes_unchanged": [
+      16,
+      20,
+      24,
+      32,
+      48,
+      64,
+      96,
+      128
+    ],
+    "contexts_modes_method_unchanged": true,
+    "old_harness_sha256": "61b4284a50018eae7c38e90a41161da754a6dbda3b955be5dcc3f53e000a0fb2",
+    "repaired_harness_sha256": "2b8bb44251132c645018ed1bfe5632baa034793d9476fb8da456d11c8c33a6e0"
+  },
+  "invalid_prior_runs": [
+    {
+      "run_id": 34541508691,
+      "reason": "pre-browser static C0 hash-basis mismatch"
+    },
+    {
+      "run_id": 34541648809,
+      "reason": "workflow heredoc concatenation prevented intended browser commands from executing"
+    },
+    {
+      "run_id": 34541750006,
+      "reason": "first genuine browser execution; 320px fixture overflow invalidated compact review"
+    },
+    {
+      "run_id": 34542402700,
+      "reason": "diagnostic execution confirming same 320px fixture overflow; evidence used only to repair instrument"
+    }
+  ],
+  "next_gate": "Rerun unchanged F1-F4 bytes through wide/320 normal+forced-colors hosted Chrome. Subjective scoring begins only after a valid preserved browser run.",
+  "non_authority": "No candidate retune, survivor judgment, Threshold K change, CLR-01 reentry, final symbol selection, production asset, or Phase-C convergence."
+}

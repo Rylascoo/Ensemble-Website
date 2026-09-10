@@ -52,6 +52,7 @@ jobs:
           cp prototypes/sym-01/harness.html /tmp/sym01-artifact/harness.html
           cp docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json /tmp/sym01-artifact/manifest.json
           cp docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json /tmp/sym01-artifact/method.json
+          cp docs/evidence/SYM_01_EXECUTION_INSTRUMENT_ADDENDUM_01.json /tmp/sym01-artifact/execution-instrument-addendum.json
           cp -R prototypes/sym-01/assets /tmp/sym01-artifact/assets
           printf '%s\n' "$BROWSER_VERSION" > /tmp/sym01-artifact/browser-version.txt
           printf '%s\n' "$OS_PRETTY" > /tmp/sym01-artifact/os-pretty.txt

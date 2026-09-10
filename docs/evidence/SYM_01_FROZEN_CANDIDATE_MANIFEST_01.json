@@ -64,7 +64,9 @@
   },
   "harness": {
     "path": "prototypes/sym-01/harness.html",
-    "sha256": "61b4284a50018eae7c38e90a41161da754a6dbda3b955be5dcc3f53e000a0fb2"
+    "sha256": "2b8bb44251132c645018ed1bfe5632baa034793d9476fb8da456d11c8c33a6e0",
+    "previous_sha256": "61b4284a50018eae7c38e90a41161da754a6dbda3b955be5dcc3f53e000a0fb2",
+    "repair_basis": "SYM-01 execution-instrument addendum 01; responsive fixture layout only; all symbol asset hashes unchanged."
   },
   "method": {
     "path": "docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json",
