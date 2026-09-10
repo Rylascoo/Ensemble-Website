@@ -22,38 +22,62 @@ jobs:
           set -euo pipefail
           BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
           test -n "$BROWSER"
+          export BROWSER
           BROWSER_VERSION="$($BROWSER --version)"
           OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
           mkdir -p /tmp/sta01-artifact/diagnostics /tmp/sta01-artifact/screens
-          run_diag() {
-            local mode="$1" width="$2" out="$3" profile="$4"
-            local forced=()
-            if [ "$mode" = forced ]; then forced=(--force-high-contrast); fi
-            "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files \
-              --window-size="$width,2600" --virtual-time-budget=1200 --user-data-dir="$profile" \
-              "${forced[@]}" --dump-dom "file://$PWD/prototypes/sta-01/harness.html?diagnostic=1" > "$out" 2>"$out.log"
+          cat > /tmp/sta01-cdp.mjs <<'NODE'
+          import { spawn } from 'node:child_process';
+          import fs from 'node:fs';
+          const [mode,widthArg,diagPath,shotPath,profile] = process.argv.slice(2);
+          const width = Number(widthArg), height = 2600, browser = process.env.BROWSER;
+          const args=['--headless=new','--no-sandbox','--disable-gpu','--allow-file-access-from-files','--remote-debugging-port=9222',`--user-data-dir=${profile}`,'about:blank'];
+          if(mode==='forced') args.splice(args.length-1,0,'--force-high-contrast');
+          const cp=spawn(browser,args,{stdio:['ignore','ignore','ignore']});
+          const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+          async function endpoint(){
+            for(let i=0;i<100;i++){
+              try{ const a=await (await fetch('http://127.0.0.1:9222/json/list')).json(); if(a[0]?.webSocketDebuggerUrl) return a[0].webSocketDebuggerUrl; }catch{}
+              await sleep(100);
+            }
+            throw new Error('CDP endpoint unavailable');
           }
-          run_diag normal 1200 /tmp/sta01-normal-wide.html /tmp/sta01-normal-wide
-          run_diag forced 1200 /tmp/sta01-forced-wide.html /tmp/sta01-forced-wide
-          run_diag normal 320 /tmp/sta01-normal-320.html /tmp/sta01-normal-320
-          run_diag forced 320 /tmp/sta01-forced-320.html /tmp/sta01-forced-320
+          try{
+            const ws=new WebSocket(await endpoint());
+            await new Promise((res,rej)=>{ws.onopen=res; ws.onerror=rej});
+            let id=0; const pending=new Map();
+            ws.onmessage=e=>{const m=JSON.parse(e.data); if(m.id&&pending.has(m.id)){const {res,rej}=pending.get(m.id); pending.delete(m.id); m.error?rej(new Error(JSON.stringify(m.error))):res(m.result)}};
+            const send=(method,params={})=>new Promise((res,rej)=>{const n=++id; pending.set(n,{res,rej}); ws.send(JSON.stringify({id:n,method,params}))});
+            await send('Page.enable'); await send('Runtime.enable');
+            await send('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:false,screenWidth:width,screenHeight:height});
+            const url='file://'+process.cwd()+'/prototypes/sta-01/harness.html?diagnostic=1';
+            await send('Page.navigate',{url}); await sleep(900);
+            const ev=await send('Runtime.evaluate',{expression:"document.getElementById('sta-diagnostic').textContent",returnByValue:true});
+            fs.writeFileSync(diagPath,ev.result.value+'\n');
+            const layout=await send('Page.getLayoutMetrics');
+            const size=layout.cssContentSize;
+            const shot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:true,clip:{x:0,y:0,width:size.width,height:size.height,scale:1}});
+            fs.writeFileSync(shotPath,Buffer.from(shot.data,'base64'));
+            ws.close();
+          } finally { cp.kill('SIGTERM'); }
+          NODE
+          run_cdp() {
+            local mode="$1" width="$2" stem="$3"
+            node --experimental-websocket /tmp/sta01-cdp.mjs "$mode" "$width" "/tmp/sta01-artifact/diagnostics/$stem.json" "/tmp/sta01-artifact/screens/$stem.png" "/tmp/sta01-$stem"
+          }
+          run_cdp normal 1200 normal-wide
+          run_cdp forced 1200 forced-wide
+          run_cdp normal 320 normal-320
+          run_cdp forced 320 forced-320
           python tools/verify_sta01.py \
-            --normal-wide /tmp/sta01-normal-wide.html \
-            --forced-wide /tmp/sta01-forced-wide.html \
-            --normal-320 /tmp/sta01-normal-320.html \
-            --forced-320 /tmp/sta01-forced-320.html \
+            --normal-wide /tmp/sta01-artifact/diagnostics/normal-wide.json \
+            --forced-wide /tmp/sta01-artifact/diagnostics/forced-wide.json \
+            --normal-320 /tmp/sta01-artifact/diagnostics/normal-320.json \
+            --forced-320 /tmp/sta01-artifact/diagnostics/forced-320.json \
             --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
             --output /tmp/sta01-artifact/STA_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json
           cp prototypes/sta-01/harness.html /tmp/sta01-artifact/harness.html
           cp docs/evidence/STA_01_NONCOLOR_FOCUS_SELECTION_METHOD_AND_MATRIX_01.json /tmp/sta01-artifact/method.json
-          for width in 1200 320; do
-            "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --hide-scrollbars \
-              --window-size="$width,2600" --virtual-time-budget=800 --user-data-dir="/tmp/sta01-shot-$width" \
-              --screenshot="/tmp/sta01-artifact/screens/normal-$width.png" "file://$PWD/prototypes/sta-01/harness.html" >/tmp/sta01-shot-$width.log 2>&1
-            "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --hide-scrollbars --force-high-contrast \
-              --window-size="$width,2600" --virtual-time-budget=800 --user-data-dir="/tmp/sta01-shot-forced-$width" \
-              --screenshot="/tmp/sta01-artifact/screens/forced-colors-$width.png" "file://$PWD/prototypes/sta-01/harness.html" >/tmp/sta01-shot-forced-$width.log 2>&1
-          done
           printf '%s\n' "$BROWSER_VERSION" > /tmp/sta01-artifact/browser-version.txt
           printf '%s\n' "$OS_PRETTY" > /tmp/sta01-artifact/os-pretty.txt
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02

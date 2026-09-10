@@ -13,7 +13,9 @@ def die(msg):
     raise SystemExit(1)
 
 def extract_diag(path):
-    s=Path(path).read_text(encoding='utf-8', errors='replace')
+    s=Path(path).read_text(encoding='utf-8', errors='replace').strip()
+    if s.startswith('{'):
+        return json.loads(s)
     m=re.search(r'<pre\s+id="sta-diagnostic"[^>]*>(.*?)</pre>', s, flags=re.S|re.I)
     if not m: die(f'no sta-diagnostic in {path}')
     return json.loads(html.unescape(m.group(1)))
@@ -28,11 +30,9 @@ def static_checks(method):
     src=HARNESS.read_text(encoding='utf-8')
     if sha256(HARNESS) != method['source_freeze']['harness_sha256']: die('harness sha256 mismatch')
     bad_patterns={
-        'img element':r'<img\b','svg element':r'<svg\b','icon token':r'\bicon\b','gradient':r'gradient\s*\(',
+        'img element':r'<img\b','svg element':r'<svg\b','gradient':r'gradient\s*\(',
         'filter':r'\bfilter\s*:','animation declaration':r'\banimation\s*:(?!none)','transition declaration':r'\btransition\s*:(?!none)'
     }
-    # "iconography" appears in explanatory copy; only executable/icon-source patterns are prohibited.
-    bad_patterns.pop('icon token')
     for label,pat in bad_patterns.items():
         if re.search(pat,src,re.I): die(f'prohibited {label}')
     if '@media(forced-colors:active)' not in src: die('forced-colors law missing')
