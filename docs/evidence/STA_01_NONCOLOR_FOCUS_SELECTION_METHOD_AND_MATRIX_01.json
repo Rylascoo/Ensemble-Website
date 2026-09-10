@@ -1,0 +1,133 @@
+{
+  "schema": "kymaean.sta01.noncolor-state-treatment-method.v1",
+  "status": "FROZEN_PRE_HOSTED_BROWSER_EVIDENCE",
+  "date": "2026-09-10",
+  "program_id": "STA-01",
+  "design_axis": "shared-brand non-color focus / selection state-treatment logic",
+  "parent_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_04.json",
+  "baseline_main": "c0cdc1473604a0ec0031304e1d7515d53aee8cdc",
+  "bounded_question": "Can one restrained structural grammar distinguish default, keyboard focus, selected, focus+selected and disabled states across neutral APP-like and WEB-like carriers without depending on candidate color, motion, iconography, imagery, material, bespoke typography, semantic status meaning, product-specific vocabulary, or CLR-01?",
+  "authority_limits": [
+    "CLR-01 remains PAUSED and unchanged; no Director color-family selection is inferred.",
+    "STA-01 concerns supporting focus/selection state treatment only, not semantic product states or interaction behavior.",
+    "No outcome selects production component tokens, final identity, implementation or Phase-C convergence."
+  ],
+  "controlled_inputs": {
+    "content": "Neutral action",
+    "carrier_type": "native button element with neutral grayscale CSS",
+    "typeface": "system-ui / Segoe UI fallback only",
+    "contexts": [
+      "APP",
+      "WEB"
+    ],
+    "viewports": [
+      "WIDE",
+      "REFLOW_320"
+    ],
+    "states": [
+      "default",
+      "focus",
+      "selected",
+      "focus_plus_selected",
+      "disabled"
+    ],
+    "logical_specimens_per_viewport": 40,
+    "families": {
+      "F1": {
+        "name": "Conventional Ring + Fill",
+        "role": "generic calibration/control",
+        "focus": "2px outer solid outline with 2px offset",
+        "selection": "neutral soft fill plus heavier boundary"
+      },
+      "F2": {
+        "name": "Ring + Edge Witness",
+        "role": "candidate",
+        "focus": "2px outer solid outline with 2px offset",
+        "selection": "persistent edge witness plus boundary; inline-start vertical in APP, low horizontal in WEB"
+      },
+      "F3": {
+        "name": "Ring + Opposing Brackets",
+        "role": "candidate",
+        "focus": "2px outer solid outline with 2px offset",
+        "selection": "opposing corner bracket geometry"
+      },
+      "F4": {
+        "name": "Weight + Depth",
+        "role": "stress candidate",
+        "focus": "2px dotted outer outline with 2px offset",
+        "selection": "font-weight increase plus static 1px lift and 3px depth shadow"
+      }
+    }
+  },
+  "excluded_variables": [
+    "CLR-01 family colors or decision",
+    "production color tokens",
+    "semantic success/warning/error/status colors",
+    "motion or transitions",
+    "icons or iconography",
+    "imagery or hero art",
+    "material/texture/gradient/glow/filter",
+    "custom font/bespoke typography",
+    "Threshold K, O3 or other brand marks",
+    "Character, Stage, Performance, Take, Opportunity or product-state semantics",
+    "implementation behavior"
+  ],
+  "source_freeze": {
+    "harness_path": "prototypes/sta-01/harness.html",
+    "harness_sha256": "32dac56216d8aef7554925377d3998ff9b1d2b91d9dc3211a3ad740274285497",
+    "post_local_visual_family_retune_allowed": false,
+    "note": "The exact harness bytes were frozen before hosted-browser evidence. Earlier local static inspection is scratch/preflight context only and authorizes no family mutation after this freeze."
+  },
+  "mechanical_preflight": {
+    "required_matrix": {
+      "families": 4,
+      "contexts": 8,
+      "logical_specimens": 40,
+      "aria_pressed_true": 16,
+      "disabled": 8
+    },
+    "viewport_widths_css_px": {
+      "WIDE": 1200,
+      "REFLOW_320": 320
+    },
+    "required_modes": [
+      "NORMAL",
+      "FORCED_COLORS"
+    ],
+    "checks": [
+      "source hash matches frozen harness",
+      "no prohibited carrier sources or identity effects",
+      "no horizontal document overflow",
+      "all default/focus/selected/focus+selected/disabled states present per family/context",
+      "programmatic focus produces :focus-visible with >=2px non-none outline",
+      "focus+selected retains >=2px non-none outline",
+      "focus+selected retains the selected-only family's non-color selection carrier",
+      "disabled remains disabled and not aria-pressed",
+      "forced-colors diagnostic reports forced-colors active",
+      "F2 selected edge witness remains structurally present in forced colors",
+      "F3 selected bracket witnesses remain structurally present in forced colors",
+      "F4 forced-colors selected box-shadow is none",
+      "source contains reduced-motion suppression and no authored animation/transition identity carrier"
+    ]
+  },
+  "subjective_falsification_after_clean_preflight": [
+    "focus and selection collapse into one state",
+    "selected state primarily reads as editing/cropping/resize tooling",
+    "state carrier becomes more visually authoritative than neutral content",
+    "APP and WEB cease to read as the same underlying mechanism",
+    "mechanism is too generic to add useful identity beyond platform convention",
+    "mechanism implies product semantics absent from the fixture"
+  ],
+  "result_law": {
+    "no_post_result_retune": true,
+    "replacement_family_allowed": false,
+    "zero_survivors_valid": true,
+    "maximum_provisional_survivors": 1,
+    "promotion_scope": "bounded state-treatment mechanism for later packet composition only"
+  },
+  "director_review_surface_law": {
+    "human_viewable_artifact_required_if_subjective_choice_remains": true,
+    "diagnostic_json_is_not_aesthetic_choice_surface": true,
+    "forced_colors_evidence_is_validation_not_an_aesthetic_alternative": true
+  }
+}
