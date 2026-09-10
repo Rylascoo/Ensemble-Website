@@ -5,7 +5,7 @@
 Updated: 2026-09-09
 
 ## Authority
-Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`.
+Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`. Durable Design Sol constitution: `docs/DESIGN_CONTINUITY.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / cross-project
 `main` is authoritative. `site/` alone is deployable/public. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.
