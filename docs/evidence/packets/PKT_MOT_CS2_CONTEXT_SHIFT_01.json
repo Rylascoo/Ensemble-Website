@@ -1,0 +1,80 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-MOT-CS2-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-10",
+  "gate_or_program": "MOT-01 / Q-DESIGN-15 through Q-DESIGN-16",
+  "design_axis": "shared-brand motion / genuine context replacement",
+  "bounded_question": "What visibly non-sequential treatment may mark replacement of one already-ready context by another while remaining distinct from F1A and avoiding process, priority, direction, causality, or Stage semantics?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "source_evidence": [
+      "docs/evidence/MOT_01_CONTEXT_SHIFT_DIFFERENTIATION_CONTRACT_01.json",
+      "docs/evidence/MOT_01_CONTEXT_SHIFT_CS2_ADJUDICATION_01.json",
+      "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_CONTRACT_01.json",
+      "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_EXEMPLAR_PREFLIGHT_01.json",
+      "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_DESIGN_SOL_VIEW_01.json",
+      "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_DIRECTOR_DELEGATED_ADJUDICATION_01.json"
+    ]
+  },
+  "controlled_inputs": {
+    "mechanism": "CS2 Balanced Crossfade Exchange: synchronized field-level opacity exchange between already-ready contexts with no element-level stagger, transform, blur, scale, spring, or directional travel.",
+    "research_fixture": "280 ms and cubic-bezier(0.2,0,0,1) are comparison fixtures only."
+  },
+  "excluded_variables": [
+    "universal screen/page crossfade",
+    "loading disguise",
+    "overlay entrance",
+    "directional navigation/history semantics",
+    "production tokenization",
+    "Character/Scene/Stage/Performance/Take/Opportunity timing",
+    "app/site implementation"
+  ],
+  "local_result": {
+    "summary": "CS2 is the provisional shared-brand mechanism for eligible replacement of one already-ready context by another; CUT is a first-class fallback.",
+    "survivors_or_closure": ["CS2 Balanced Crossfade Exchange", "CUT fallback"],
+    "recommended_incumbent": "CS2 Balanced Crossfade Exchange",
+    "rejections": ["loading disguise", "dense-text ghosting when overlap becomes fatiguing", "overlay-entry use"]
+  },
+  "judgment": {
+    "design_sol_view": "A1 ready peer context approved; A2/A3 approved with restraint; N1/N3 prohibited; N2 uses CUT fallback.",
+    "director_view_or_delegation": "Director selected CS2 for its easy-on-the-eyes, low-micro-twitch-fatigue, gentle mysterious quality, then explicitly delegated the detailed use-envelope judgment to Design Sol.",
+    "resolution_mode": "DIRECTOR_AUTHORIZED_DESIGN_SOL"
+  },
+  "evidence": {
+    "mechanical": ["Q-DESIGN-16 hosted exemplar preflight: 24/24 FULL + 24/24 REDUCED plus interruption-retarget checks"],
+    "accessibility": ["reduced motion = immediate final context with zero animation", "interruption/retarget = cancel and CUT to newest authoritative context"],
+    "visual": ["A1 strongest expression of the calm/slightly magical context-boundary character", "dense text overlap becomes perceptually noisy and therefore falls back to CUT"]
+  },
+  "dependencies": {
+    "constrains": ["future production motion token work", "future app/web context-transition composition packets"],
+    "must_not_be_confused_with": ["PKT-MOT-F1A-01 within-context succession", "Q-DESIGN-02 Stage motion"]
+  },
+  "known_integration_sensitivities": [
+    "F1A and CS2 may not explain the same transition event.",
+    "Incoming semantic/interaction ownership must be authoritative independently of the fade.",
+    "Typography density and color contrast can turn overlap into ghosting/fatigue; whole-surface synthesis must retest this.",
+    "Host geometry changes or unavailable incoming content require CUT rather than forcing CS2."
+  ],
+  "explicit_non_authority": [
+    "280 ms/easing are research fixtures, not production tokens.",
+    "No universal context-transition rule, app/site/navigation implementation, Stage motion, final motion system, final identity or Phase-C convergence is authorized."
+  ],
+  "lawful_reentry_triggers": ["new integration evidence", "changed product/navigation semantics", "explicit production-token/refinement program"],
+  "canonical_artifacts": {
+    "repository": ["prototypes/mot-01/cs2-envelope/", "docs/evidence/MOT_01_CS2_DEPLOYMENT_ENVELOPE_DIRECTOR_DELEGATED_ADJUDICATION_01.json"],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/mot-01/cs2-envelope/exemplars.html",
+      "what_to_review": "Allowed, restrained, prohibited and CUT-fallback uses of context replacement.",
+      "diagnostics_not_for_aesthetic_choice": ["preflight JSON"]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": ["PKT-MOT-F1A-01"],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
