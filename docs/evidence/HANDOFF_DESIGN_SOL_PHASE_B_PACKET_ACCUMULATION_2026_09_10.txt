@@ -1,0 +1,59 @@
+Ensemble / Kymaean — Design Sol Fresh-Chat Handoff
+Date: 2026-09-10
+Status: CONVENIENCE HANDOFF ONLY — NOT AUTHORITY
+
+Authority recovery
+- Repository authority: Rylascoo/Ensemble-Website.
+- At handoff preparation, authoritative main was 283158300369c474ef4086379530d94edc7a82bd. A fresh chat MUST resolve live main again and must not assume this SHA remains current.
+- Read CURRENT_STATE.md first at the resolved live ref.
+- Then follow AGENTS.md and its full fresh-chat reconciliation procedure.
+- Read the durable Design Sol law named there: docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md, docs/DESIGN_CONTINUITY.md, docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md, and docs/evidence/DESIGN_LEDGER.md.
+- Read only the active evidence/method surfaces required by CURRENT_STATE.md. This handoff never outranks current repository state.
+- Use connected Google Drive Ensemble Project only when visual-master/provenance or other Drive-resident evidence materially matters.
+- Fresh-read Rylascoo/Ensemble-Project only when current product/engineering/provider/runtime/experiment/validation/cross-lane sequencing materially matters.
+
+Current Design boundary at preparation
+- Phase-B SHARED BRAND packet accumulation continues.
+- CLR-01 is intentionally PARKED until a later authorized app-asset / whole-app synthesis convergence gate.
+- No Director family selection exists for CLR-01.
+- The corrected CLR-01 mechanical packet remains clean: valid hosted run 34518074538 / artifact 10168493643 passed 24/24 normal + 24/24 forced-colors plus the frozen contrast/focus/isolation/reflow floors.
+- Design Sol View 02 remains frozen local evidence: F2 recommended; F1 alternate with genericity reservation; F3/F4 not recommended.
+- Do not retune, promote, reject, or otherwise adjudicate CLR-01 before its authorized convergence re-entry.
+
+Packet system
+- Registry: docs/evidence/DESIGN_PACKET_REGISTRY_01.json.
+- Framework: docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json.
+- Current relevant packets include:
+  * PKT-MOT-F1A-01 — provisional bounded within-context succession mechanism.
+  * PKT-MOT-CS2-01 — provisional genuine ready-context replacement mechanism with CUT fallback.
+  * PKT-TYP-01-CLOSE-01 — closed zero-survivor typography/editorial independence result; typography remains unresolved rather than silently filled.
+  * PKT-CLR-01-01 — PAUSED pending later app-asset / whole-app synthesis convergence.
+- Packetization preserves bounded local truth; later composition/whole-app synthesis may create new integration evidence but must not rewrite predecessor packets silently.
+
+Exact next Design action
+- Perform a fresh orthogonal Phase-B shared-brand re-entry audit.
+- Select at most one genuinely fresh bounded visual-identity question that is independent of the parked CLR-01 decision and does not reopen closed motion/typography/hero programs merely because they are available.
+- Continue accumulating durable gate packets under the packet framework.
+- Stop only at the next genuine Director taste/product-meaning boundary, cross-lane authority boundary, or unavailable external validation boundary.
+
+Hard boundaries
+- No production color or motion tokens.
+- No app/site theming or semantic status-color system.
+- No Stage-motion work unless its separate evidence prerequisite is satisfied.
+- No final identity, implementation authority, or Phase-C convergence.
+- No image-generation/renderer expenditure unless the newly selected bounded gate actually authorizes it.
+- Preserve prior evidence and pixels; do not rescue failed/parked programs by post-result retuning.
+
+Cross-project sequencing note
+- At handoff preparation, Rylascoo/Ensemble-Project main was 8bc3551f6d6e7c43b1ae142a4e216e54acabd6cd and Engineering was at Q-E0A-03 Run 02 AUTHORIZED / UNCONSUMED with the credential security gate blocked. Fresh-resolve this before relying on it.
+- The central PROJECT_EXECUTION_QUEUE.md still listed Q-DESIGN-19 as ACTIVE even though Website authority has parked CLR-01. That queue row is stale for Design.
+- Do not mutate Ensemble-Project merely to synchronize Design while Engineering remains in a sensitive provider/validation boundary. When an idle-safe reconciliation window exists, update the central queue to reflect the parked CLR-01 state and the next Design continuation item.
+- Until then, Rylascoo/Ensemble-Website/CURRENT_STATE.md controls the live Design boundary.
+
+Repository hygiene
+- Branch names are never authority.
+- Promoted serial branches may remain as administrative cleanup debt when archival-tag/delete mutation is unavailable; do not treat their survival as active work.
+- Before starting substantive work, compare any live divergent branch to main and protect all unique commits.
+
+Minimal prompt for the next chat
+Resume as Design Sol for Ensemble / Kymaean from the live authoritative repository Rylascoo/Ensemble-Website. Treat GitHub and the connected Ensemble Project Google Drive workspace as project memory and authority. Resolve live main, read CURRENT_STATE.md first, then follow AGENTS.md and the durable Design Sol workflow it names. Continue from the exact current Design boundary, preserve the intentionally parked CLR-01 decision until authorized app-asset / whole-app synthesis convergence, perform the required recursive audits and deterministic in-lane repairs, and continue already-authorized Phase-B packet accumulation until the next genuine Director, cross-lane, or unavailable-validation boundary.
