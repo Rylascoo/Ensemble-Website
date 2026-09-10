@@ -13,16 +13,14 @@ Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/
 ## Hero — STATIC RESEARCH PAUSED
 Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 unchanged. No final hero. Q-DESIGN-02 Stage motion still waits on real blinded E0-A vs E0-E evidence.
 
-## Shared brand — CLR-01 Q-DESIGN-19 RESTARTED
+## Shared brand — CLR-01 DIRECTOR REVIEW READY
 MOT-01 is closed. Provisional motion evidence only: **F1A Tight** = bounded within-context succession; **CS2 Balanced Crossfade Exchange** = eligible already-ready genuine context replacement; **CUT** = first-class fallback. No production motion tokens.
 
-Q-DESIGN-17 selected **CLR-01 — Cross-Surface Color-Logic Independence**. Q-DESIGN-18 method remains frozen. The same 24 CNEG/CCONV/F1/F2/F3/F4 × APP/WEB × WIDE/320 cells remain in force; all colors remain experiment fixtures only.
+Q-DESIGN-18 CLR-01 method remains frozen. Q-DESIGN-19 corrected packet is mechanically clean. Earlier run `34515179897`/artifact `10167385964` and Design Sol View 01 are invalid; repair run `34517693470` is also no-family-result. Valid run `34518074538`, artifact `10168493643`, passes **24/24 normal + 24/24 forced-colors**, all frozen contrast/focus/isolation floors, and 320px horizontal reflow with non-clipped carrier visibility. Current evidence: `docs/evidence/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_03.json`.
 
-Director-visible inspection exposed a common Q-DESIGN-19 diagnostic/carrier defect before any Director preference. `docs/evidence/CLR_01_Q19_DIAGNOSTIC_CARRIER_DEFECT_AND_RESTART_01.json` invalidates prior run `34515179897`, artifact `10167385964` for visual review, and Design Sol view 01. No family result from that attempt is current.
-
-Addendum 02 corrects diagnostic transport and identifies the 320 clipping defect. Repair run `34517693470` then proved its split-axis overflow rule invalid because CSS computed `overflow-y:visible` to scroll-container behavior when x was hidden; that run also carries no family result. Addendum 03 preserves all frozen colors/content/dimensions, uses visible frame overflow at 320, and continues to fail any measured horizontal overflow.
+`docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_02.json` is frozen before Director preference: **F2 recommended provisional survivor; F1 survivor with genericity reservation; F3/F4 not recommended**. No final palette/token/theme authority exists.
 
 ## Exact next action / hard boundary
-Q-DESIGN-19 remains active: rerun the corrected 24-cell packet; require clean normal + forced-colors evidence; recursively audit the portable evidence; freeze a new Design Sol view before Director preference.
+Direct Director + Design Sol CLR-01 adjudication under the unchanged frozen method. Zero survivors is valid. No post-evidence retune.
 
-No Director preference is admitted yet. No image generation/renderer spend, production color/motion tokens, app/site theming, semantic status colors, Stage motion, final identity or Phase-C convergence.
+No image generation/renderer spend, production color/motion tokens, app/site theming, semantic status colors, Stage motion, final identity or Phase-C convergence.
