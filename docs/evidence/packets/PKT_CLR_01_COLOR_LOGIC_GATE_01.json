@@ -1,0 +1,91 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-CLR-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "DIRECTOR_ADJUDICATION_PENDING",
+  "date": "2026-09-10",
+  "gate_or_program": "CLR-01 / Q-DESIGN-18 through Q-DESIGN-19",
+  "design_axis": "shared-brand cross-surface color-role logic",
+  "bounded_question": "Which, if any, color-role relationship mechanism is worth carrying into later Kymaean integration while symbol, bespoke type, material, imagery, motion and semantic-status colors remain excluded?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "method_main": "4a87523f9964a1fcf884100e0158d75d7b3809c0",
+    "current_main_at_packet_creation": "1fc0784fb75d3b8628aa886b2f1e4e21e7e1d5e6",
+    "source_evidence": [
+      "docs/evidence/CLR_01_CROSS_SURFACE_COLOR_LOGIC_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+      "docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_02.json",
+      "docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_03.json",
+      "docs/evidence/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_03.json",
+      "docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_02.json"
+    ]
+  },
+  "controlled_inputs": {
+    "matrix": "24 cells: CNEG, CCONV, F1, F2, F3, F4 across APP/WEB and WIDE/REFLOW_320",
+    "candidate_mechanisms": {
+      "F1": "Split Temperature",
+      "F2": "Monochrome + Intruder",
+      "F3": "Complementary Poles",
+      "F4": "Chromatic Ladder"
+    }
+  },
+  "excluded_variables": [
+    "final production palette",
+    "semantic success/warning/error/status colors",
+    "final app or website theme",
+    "bespoke typography",
+    "material/texture",
+    "imagery/hero",
+    "motion identity",
+    "implementation"
+  ],
+  "local_result": {
+    "summary": "Corrected structural/accessibility preflight is clean. Design Sol's valid pre-Director view recommends F2, retains F1 with a genericity reservation, and does not recommend F3/F4. Director taste/product-meaning adjudication is still genuinely open.",
+    "survivors_or_closure": ["F2 — recommended provisional survivor", "F1 — provisional survivor with genericity reservation"],
+    "recommended_incumbent": "F2 — Monochrome + Intruder",
+    "alternates": ["F1 — Split Temperature"],
+    "rejections": ["F3 — Complementary Poles", "F4 — Chromatic Ladder"]
+  },
+  "judgment": {
+    "design_sol_view": "F2 is strongest because identity arises from broad low-chroma coherence plus a scarce contrasting intruder rather than from one conventional brand hue. F1 remains viable but carries premium-editorial/warm-earth genericity pressure.",
+    "director_view_or_delegation": "PENDING",
+    "resolution_mode": "PENDING_DIRECTOR"
+  },
+  "evidence": {
+    "mechanical": ["valid hosted run 34518074538", "24/24 normal + 24/24 forced-colors preflight PASS", "all frozen contrast/focus/isolation floors PASS", "320px horizontal reflow PASS with visible vertical carrier overflow"],
+    "visual": ["six corrected normal PNG family sheets", "six true forced-colors PNG family sheets"],
+    "accessibility": ["forced-colors structure/action preserved", "color is not the sole carrier of meaning", "focus geometry is non-color redundant"],
+    "invalid_or_superseded_attempts": ["run 34515179897 / artifact 10167385964 / Design Sol View 01", "repair run 34517693470"]
+  },
+  "dependencies": {
+    "requires": ["Director + Design Sol adjudication before a provisional CLR-01 mechanism is promoted"],
+    "constrains": ["future color-role integration packets", "future whole-app synthesis"],
+    "must_not_be_confused_with": ["final palette selection", "semantic status-color design"]
+  },
+  "known_integration_sensitivities": [
+    "F2's scarce accent must remain scarce once typography, icons, controls, imagery and motion are added; otherwise the mechanism collapses into ordinary brand-color saturation.",
+    "F2's accent must not accidentally become the universal selected/success/active state color without separate semantic-state work.",
+    "F1 may become more or less generic once final material/typography choices exist; any later change must be handled as integration evidence, not by rewriting this packet.",
+    "Color plus F1A/CS2 motion must be audited together so animated emphasis does not fabricate priority, progress or causal state."
+  ],
+  "explicit_non_authority": [
+    "No final palette, production color token, semantic status-color system, app/site theme, implementation, final identity or Phase-C convergence is authorized.",
+    "The fixture hex values are experiment values and do not become production colors by surviving CLR-01."
+  ],
+  "lawful_reentry_triggers": ["Director adjudication", "later integration evidence after a provisional survivor is selected", "changed governing design/product contract"],
+  "canonical_artifacts": {
+    "repository": ["prototypes/clr-01/", "docs/evidence/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_03.json", "docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_02.json"],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "corrected PNG review package generated from hosted artifact 10168493643; normal family sheets are the aesthetic comparison",
+      "what_to_review": "Normal F1-F4 sheets for the color-role mechanism. Forced-colors sheets are accessibility evidence only.",
+      "diagnostics_not_for_aesthetic_choice": ["parsed normal/forced diagnostic JSON", "preflight JSON"]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
