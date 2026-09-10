@@ -20,7 +20,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          EXPECTED_PARENT=4347d9a000812d299dc8f2eb6876e24c92b0c961
+          EXPECTED_PARENT=a351b6e58cacc1f48a70784af1208f9a310827b1
           test "$(git rev-parse HEAD^)" = "$EXPECTED_PARENT"
 
           python3 - <<'PY'
@@ -86,7 +86,6 @@ jobs:
 
           python3 tools/generate_docs_index.py --check
           python3 tools/validate_document_status.py
-          python3 tools/validate_repository_boundaries.py
           test "$(wc -c < CURRENT_STATE.md)" -le 3072
           python3 -m json.tool docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json >/dev/null
           python3 -m json.tool docs/evidence/DESIGN_PACKET_TEMPLATE_01.json >/dev/null
@@ -98,4 +97,6 @@ jobs:
           git add docs/DESIGN_CONTINUITY.md docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md CURRENT_STATE.md .github/workflows/tmp-design-packet-framework-closeout.yml
           git diff --cached --check
           git commit -m "Adopt design gate packet and synthesis continuity law"
+
+          python3 tools/validate_repository_boundaries.py
           git push origin HEAD:refs/heads/design/design-packet-synthesis-framework-2026-09-10
