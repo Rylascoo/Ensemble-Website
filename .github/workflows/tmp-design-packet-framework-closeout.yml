@@ -1,0 +1,100 @@
+name: Temporary design packet framework closeout
+
+on:
+  push:
+    branches:
+      - design/design-packet-synthesis-framework-2026-09-10
+
+permissions:
+  contents: write
+
+jobs:
+  closeout:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 20
+      - name: Wire packet framework into durable continuity
+        shell: bash
+        run: |
+          set -euo pipefail
+          EXPECTED_PARENT=7b826a5b76f071932cb42ce8fb61e8537105631b
+          test "$(git rev-parse HEAD^)" = "$EXPECTED_PARENT"
+
+          python3 - <<'PY'
+          from pathlib import Path
+
+          # Durable Design Continuity pointer and law.
+          p = Path('docs/DESIGN_CONTINUITY.md')
+          s = p.read_text()
+          assert '### Gate packet and synthesis continuity' not in s
+          s = s.replace('Updated: 2026-09-09', 'Updated: 2026-09-10', 1)
+          marker = 'Prefer producing a rendered/testable surface over describing one when the active stage authorizes materialization.\n\n## 10. Renderer isolation and prompt-seed law'
+          insert = '''Prefer producing a rendered/testable surface over describing one when the active stage authorizes materialization.
+
+### Gate packet and synthesis continuity
+
+Use `docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json` for durable gate-packet/composition/whole-app-synthesis law and `docs/evidence/DESIGN_PACKET_REGISTRY_01.json` as the retrievable map of current/provisional/closed packets.
+
+A meaningful visual gate that may matter to later integration should leave a bounded packet recording what the gate actually established, what remains provisional or unresolved, exact evidence/provenance, integration sensitivities, and explicit non-authority. Local packet success never means the whole app or website has already converged.
+
+Composition packets may combine multiple gate packets on a bounded representative surface to discover interaction effects. Whole-app synthesis later assembles the relevant packets to audit coherence, gaps, accessibility, hierarchy, fatigue, semantic collisions and implementation pressure. New integration evidence may justify a successor/refinement gate, but must not silently rewrite the predecessor packet.
+
+When the Director is asked to make a visual choice, the packet must identify a directly human-viewable review surface. JSON/logs may carry diagnostics and provenance but are not an adequate sole visual-review interface. Accessibility variants such as forced-colors or reduced-motion evidence must be labeled as validation evidence rather than aesthetic alternatives.
+
+## 10. Renderer isolation and prompt-seed law'''
+          assert marker in s
+          s = s.replace(marker, insert, 1)
+          p.write_text(s)
+
+          # Workflow authority: make packet closeout part of normal Design Sol execution.
+          p = Path('docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md')
+          s = p.read_text()
+          assert '## Design gate packet / synthesis continuity' not in s
+          s = s.replace('Updated: 2026-09-09', 'Updated: 2026-09-10', 1)
+          marker = '## Fresh-chat continuity\n\n`AGENTS.md` is the mandatory bootstrap.'
+          insert = '''## Design gate packet / synthesis continuity
+
+After a meaningful visual gate creates, rejects, pauses, or provisionally selects a mechanism that can affect later composition, close it into the packet system defined by `docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json` and register it in `docs/evidence/DESIGN_PACKET_REGISTRY_01.json` when it remains relevant to future synthesis.
+
+Packetization is continuity, not automatic convergence. A gate/mechanism packet preserves bounded local truth; a composition packet tests interactions among packets; a whole-app synthesis packet tests the assembled system before final cross-surface coherence or implementation readiness can be claimed. If integration exposes a conflict, preserve the earlier packet and open the smallest lawful successor/refinement gate rather than retuning history.
+
+Director-facing visual-review packets must provide an obvious human-viewable artifact appropriate to the question. Machine JSON, DOM dumps and logs may accompany it as evidence but must not be the sole visual decision surface.
+
+## Fresh-chat continuity
+
+`AGENTS.md` is the mandatory bootstrap.'''
+          assert marker in s
+          s = s.replace(marker, insert, 1)
+          p.write_text(s)
+
+          # Current volatile discovery pointer; does not change the CLR-01 gate.
+          p = Path('CURRENT_STATE.md')
+          s = p.read_text()
+          assert 'DESIGN_PACKET_REGISTRY_01.json' not in s
+          marker = '`main` is authoritative. `site/` alone is deployable/public. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`.'
+          replacement = marker + '\nDesign packet continuity: `docs/evidence/DESIGN_PACKET_REGISTRY_01.json`; current CLR packet: `docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json`.'
+          assert marker in s
+          s = s.replace(marker, replacement, 1)
+          p.write_text(s)
+          PY
+
+          rm -f .github/workflows/tmp-design-packet-framework-closeout.yml
+
+          python3 tools/generate_docs_index.py --check
+          python3 tools/validate_document_status.py
+          python3 tools/validate_repository_boundaries.py
+          test "$(wc -c < CURRENT_STATE.md)" -le 3072
+          python3 -m json.tool docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json >/dev/null
+          python3 -m json.tool docs/evidence/DESIGN_PACKET_TEMPLATE_01.json >/dev/null
+          python3 -m json.tool docs/evidence/DESIGN_PACKET_REGISTRY_01.json >/dev/null
+          for f in docs/evidence/packets/PKT_*.json; do python3 -m json.tool "$f" >/dev/null; done
+
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add docs/DESIGN_CONTINUITY.md docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md CURRENT_STATE.md .github/workflows/tmp-design-packet-framework-closeout.yml
+          git diff --cached --check
+          git commit -m "Adopt design gate packet and synthesis continuity law"
+          git push origin HEAD:refs/heads/design/design-packet-synthesis-framework-2026-09-10
