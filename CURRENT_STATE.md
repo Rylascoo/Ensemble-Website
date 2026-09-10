@@ -20,9 +20,9 @@ STA-01 remains closed: valid run `34533328634`; sole provisional survivor **F2 -
 ## Phase-B successor divergence
 Audit 05 closed with zero genuinely fresh isolated programs. The Director explicitly chose Path 1: **successor-style Phase-B divergence**.
 
-`docs/evidence/SHARED_BRAND_SUCCESSOR_DIVERGENCE_SELECTION_01.json` selects **SYM-01 - Primary Symbol / App-Icon Successor Divergence** as the strongest unresolved non-fresh axis. Threshold K is the unchanged incumbent/control, not a template or final logo. `docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json` freezes the challenger method before execution.
+`docs/evidence/SHARED_BRAND_SUCCESSOR_DIVERGENCE_SELECTION_01.json` selects **SYM-01 - Primary Symbol / App-Icon Successor Divergence** as the strongest unresolved non-fresh axis. Threshold K is the unchanged incumbent/control, not a template or final logo. The method and exact C0/CNEG/F1-F4 candidate bytes are frozen in `docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json`; no post-freeze redraw/F5 is lawful.
 
 ## Exact next action / hard boundary
-Materialize the exact SYM-01 deterministic challenger matrix, mechanically preflight it, then perform the frozen small-scale/genericity/cross-role falsification and freeze Design Sol's view before any Director preference.
+Run the frozen SYM-01 hosted browser preflight at wide/320 and normal/forced-colors. If mechanically valid, perform the already-frozen small-scale/genericity/cross-role falsification, compare any survivors against exact C0, and freeze Design Sol's view before any Director preference.
 
 No Threshold K retune, CLR-01 reentry, O3/TYP/MOT/STA/material/hero change, semantic iconography, production app/site implementation, Store/runtime claim, final identity, or Phase-C convergence.

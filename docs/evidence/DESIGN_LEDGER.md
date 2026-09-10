@@ -1019,3 +1019,19 @@ The frozen test order is mechanical/source isolation -> 16/20/24/32 px silhouett
 **Guardrail:** no Threshold K retune, final logo/app-icon selection, production vector/Store asset, trademark claim, CLR-01 reentry, O3/TYP/MOT/STA/material/hero change, app/site implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-061 - SYM-01 challenger bytes freeze after pre-freeze construction audit
+
+**State:** CANDIDATE BYTES FROZEN / HOSTED MECHANICAL PREFLIGHT NEXT / NO CHALLENGER RESULT YET / NO FINAL SYMBOL
+
+Under the Director-authorized Path 1 and frozen SYM-01 method, four topology families were constructed without deriving geometry from Threshold K. Early scratch constructions visibly collapsed into forbidden or generic conventions (including S/link, play/window and paired-dot readings) and were discarded before candidate freeze; they are construction diagnostics, not scored SYM-01 results and do not trigger post-result retune law.
+
+`docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json` now binds exact immutable bytes for C0, CNEG and F1-F4 plus `prototypes/sym-01/harness.html`. F1 = Split Field; F2 = Continuous Fold; F3 = Counterweighted Pair; F4 = Offset Aperture. C0 remains the exact unchanged Threshold K testing adapter and CNEG remains an ineligible generic calibration control.
+
+From this checkpoint forward, F1-F4 geometry is frozen. Any small-scale, familiar-glyph, genericity, cross-role or direct-C0 weakness is evidence against the frozen candidate; it may not be repaired in this run. Zero survivors remains valid and no F5 may be introduced after exposure.
+
+**Next gate:** execute the exact frozen matrix in hosted Chrome at wide/320 under normal and forced-colors modes. Only a mechanically valid run may feed subjective falsification.
+
+**Guardrail:** no Threshold K retune, CLR-01 reentry, O3/TYP/MOT/STA/material/hero change, semantic iconography, production vector/Store asset, final logo/app-icon selection, app/site implementation or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

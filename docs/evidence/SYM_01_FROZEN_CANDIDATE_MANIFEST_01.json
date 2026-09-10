@@ -1,0 +1,100 @@
+{
+  "schema": "kymaean.sym01.candidate-manifest.v1",
+  "status": "FROZEN_CANDIDATE_BYTES",
+  "date": "2026-09-10",
+  "program": "SYM-01 - Primary Symbol / App-Icon Successor Divergence",
+  "freeze_law": "F1-F4 geometry is frozen at these hashes. No post-exposure retune and no F5 are allowed in this run.",
+  "controls": {
+    "C0": {
+      "role": "incumbent",
+      "eligible": false
+    },
+    "CNEG": {
+      "role": "genericity calibration",
+      "eligible": false
+    }
+  },
+  "assets": {
+    "C0": {
+      "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+      "sha256": "303a1b0d5caaf6f1e25bfd20a525d280ff5097b6543d91e5b2f45a9fbef30d63"
+    },
+    "CNEG": {
+      "path": "prototypes/sym-01/assets/cneg-generic-ring.svg",
+      "sha256": "a2f16bbdb8c831c0b0d95f7670f772f8090043ca1c9eb5527c8bcb30d1fede50"
+    },
+    "F1": {
+      "path": "prototypes/sym-01/assets/f1-split-field.svg",
+      "sha256": "7eb7cbd9f26e4a23eb429beb0d18a8769fead098f70bb9d1b0ceb5a355b2574a"
+    },
+    "F2": {
+      "path": "prototypes/sym-01/assets/f2-continuous-fold.svg",
+      "sha256": "a8526b65e5936c1fb39bd3f5a439abd338a73654b3c88a3d2fc45b10e2dfb51b"
+    },
+    "F3": {
+      "path": "prototypes/sym-01/assets/f3-counterweighted-pair.svg",
+      "sha256": "7918bab933479df21da36ca77b9307e8b98582b03a7d57ed1f402203ab912a75"
+    },
+    "F4": {
+      "path": "prototypes/sym-01/assets/f4-offset-aperture.svg",
+      "sha256": "7baef91897a547160dd0b5999419e641c67c3d898e59964b10f24f4672bae014"
+    }
+  },
+  "expected_topology": {
+    "C0": {
+      "path_count": 3
+    },
+    "CNEG": {
+      "path_count": 1,
+      "circle_count": 1
+    },
+    "F1": {
+      "path_count": 2
+    },
+    "F2": {
+      "path_count": 1
+    },
+    "F3": {
+      "path_count": 2
+    },
+    "F4": {
+      "path_count": 1,
+      "fill_rule": "evenodd"
+    }
+  },
+  "harness": {
+    "path": "prototypes/sym-01/harness.html",
+    "sha256": "61b4284a50018eae7c38e90a41161da754a6dbda3b955be5dcc3f53e000a0fb2"
+  },
+  "method": {
+    "path": "docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json",
+    "sha256": "4e8f2fa3be8b1aa691f7e00f3233962862e32a43832bd5dc54c1f9663d09f2d9"
+  },
+  "sizes_css_px": [
+    16,
+    20,
+    24,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "hosted_modes": [
+    "normal-wide",
+    "forced-wide",
+    "normal-320",
+    "forced-320"
+  ],
+  "candidate_eligibility": [
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "explicit_non_authority": [
+    "No final symbol or app icon selection.",
+    "No CLR-01/O3/TYP/MOT/STA/material/hero mutation.",
+    "No production vector, Windows packaging, Store asset, trademark clearance, or Phase-C convergence."
+  ]
+}
