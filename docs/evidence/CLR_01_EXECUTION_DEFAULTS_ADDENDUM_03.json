@@ -1,0 +1,25 @@
+{
+  "schema": "kymaean.clr01.execution-defaults-correction.v3",
+  "status": "FROZEN_PRE_VALID_RERUN_MECHANICAL_CORRECTION_NO_FAMILY_RETUNE",
+  "date": "2026-09-10",
+  "program_id": "CLR-01",
+  "supersedes_only": "CLR_01_EXECUTION_DEFAULTS_ADDENDUM_02.json correction.reflow_visibility policy",
+  "attempt_invalidated": "workflow run 34517693470",
+  "finding": "CSS overflow-axis computation makes overflow-y:visible compute to auto when overflow-x is hidden. The attempted Addendum-02 split-axis policy therefore remained a scroll container and did not restore unclipped vertical carrier visibility. This is a carrier-policy defect common to every family, not a color result.",
+  "correction": {
+    "REFLOW_320_frame_overflow": "visible on both axes",
+    "horizontal_requirement": "Do not mask horizontal overflow. Measure frame.scrollWidth against the frozen 320 CSS px frame and fail if it exceeds 320 CSS px.",
+    "vertical_requirement": "Panel/action/focus geometry may extend below the frozen 720 CSS px reference-frame box only if overflow is visibly rendered rather than clipped; the specimen remains a single 320 CSS px column with no content reorder.",
+    "unchanged": "Frame height 720, panel top 72, panel width 288, all padding/type/spacing/radii/content, all family/control colors and role allocation remain unchanged."
+  },
+  "integrity": {
+    "family_hex_changed": false,
+    "role_allocation_changed": false,
+    "content_changed": false,
+    "frozen_dimension_changed": false,
+    "candidate_retuned": false,
+    "director_preference_received": false,
+    "family_result_from_invalid_attempt": "NONE"
+  },
+  "guardrail": "This mechanical correction cannot be used to conceal real horizontal overflow or to change any candidate family after result exposure."
+}
