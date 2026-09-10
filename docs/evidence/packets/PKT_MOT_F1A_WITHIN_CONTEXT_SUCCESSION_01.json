@@ -1,0 +1,75 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-MOT-F1A-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-10",
+  "gate_or_program": "MOT-01 / Q-DESIGN-12 through Q-DESIGN-14",
+  "design_axis": "shared-brand motion / within-context succession",
+  "bounded_question": "What bounded shared-brand motion behavior may represent succession among already-present peer units without fabricating product-state order or Stage semantics?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "source_evidence": [
+      "docs/evidence/MOT_01_F1_CADENCE_ADJUDICATION_01.json",
+      "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_CONTRACT_01.json",
+      "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_EXEMPLAR_PREFLIGHT_01.json",
+      "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_ADJUDICATION_01.json"
+    ]
+  },
+  "controlled_inputs": {
+    "research_fixture": "F1A Tight: 70 ms onset interval, 460 ms equal movement duration, cubic-bezier(0.2,0,0,1), 56px WEB / 28px APP displacement",
+    "group_law": "Direct stagger limited to 2-4 peer units; 5+ content may sequence only through 2-4 independently meaningful pre-existing groups, whose members move together."
+  },
+  "excluded_variables": [
+    "production tokenization",
+    "arbitrary list/feed entrance animation",
+    "loading/progress/priority semantics",
+    "Character/Scene/Stage/Performance/Take/Opportunity timing",
+    "app/site implementation"
+  ],
+  "local_result": {
+    "summary": "F1A Tight is the provisional shared-brand mechanism for bounded succession within an already-established context.",
+    "survivors_or_closure": ["F1A Tight"],
+    "recommended_incumbent": "F1A Tight",
+    "rejections": ["direct 6-row cascade", "fake process sequence"]
+  },
+  "judgment": {
+    "design_sol_view": "Design Sol initially preferred a slower F1B balance, but reconciled to F1A after Director selection because the tighter cadence better minimizes waiting and false loading/process interpretation while preserving succession.",
+    "director_view_or_delegation": "Director selected F1A Tight and later approved the bounded deployment envelope.",
+    "resolution_mode": "DIRECTOR_SELECTED"
+  },
+  "evidence": {
+    "mechanical": ["Q-DESIGN-14 hosted exemplar preflight: 20/20 FULL + 20/20 REDUCED"],
+    "accessibility": ["prefers-reduced-motion: immediate final state with no F1A animation"],
+    "visual": ["A1 peer constellation strongest pure identity use; A2/A3 allowed with restraint/grouping discipline"]
+  },
+  "dependencies": {
+    "constrains": ["future production motion token work", "future app/web composition packets"],
+    "must_not_be_confused_with": ["PKT-MOT-CS2-01 genuine context replacement", "Q-DESIGN-02 transcript-dependent Stage motion"]
+  },
+  "known_integration_sensitivities": [
+    "Must not run concurrently or automatically chain with a context-shift treatment for the same state change.",
+    "Color/typography emphasis must not make staggered peers look like priority or progress states.",
+    "Dense surfaces may make even lawful succession fatiguing; composition-level repetition must be audited."
+  ],
+  "explicit_non_authority": [
+    "The timing, easing and displacement values remain research fixtures, not production tokens.",
+    "No universal motion rule, app/site implementation, Stage motion, final motion system, final identity or Phase-C convergence is authorized."
+  ],
+  "lawful_reentry_triggers": ["new integration evidence", "changed product semantics", "explicit production-token/refinement program"],
+  "canonical_artifacts": {
+    "repository": ["prototypes/mot-01/deployment-envelope/", "docs/evidence/MOT_01_F1A_DEPLOYMENT_ENVELOPE_ADJUDICATION_01.json"],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/mot-01/deployment-envelope/",
+      "what_to_review": "Allowed versus prohibited F1A deployment examples; motion behavior rather than diagnostic JSON.",
+      "diagnostics_not_for_aesthetic_choice": ["preflight JSON"]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": ["PKT-MOT-CS2-01"],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
