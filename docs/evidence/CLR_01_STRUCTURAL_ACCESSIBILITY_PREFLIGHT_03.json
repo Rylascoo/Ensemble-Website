@@ -1,0 +1,63 @@
+{
+  "schema": "kymaean.clr01.structural-accessibility-preflight.v3",
+  "status": "CLEAN_PREFLIGHT_NO_DIRECTOR_PREFERENCE",
+  "date": "2026-09-10",
+  "program_id": "CLR-01",
+  "method_main": "4a87523f9964a1fcf884100e0158d75d7b3809c0",
+  "workflow_run": 34518074538,
+  "artifact_id": 10168493643,
+  "artifact_digest": "sha256:b3a9b37efe7fee27bd917c5c6f56d7c0ad18f1da8c17f75a1b81b5eef58980a5",
+  "source_sha256": {
+    "harness.html": "2daac5762c31c1961de787b4539047a37a45b84f53e68260de732a693c1e43df",
+    "manifest.json": "71462d20a1de819e214a20bddd584f89187663c7c0cd9fcb17721c54679bac8c",
+    "execution_defaults_01": "4b039086686dfe2d450047ae71aa8a5e60dd529d45b75f6632b1f440d67a0855",
+    "execution_defaults_02": "5984bef701e14f15613f0d818ed5ce5e108b3a159f2c31a08ee2f31854f28469",
+    "execution_defaults_03": "b08cb6667f5956c6848dbae32431320c4d036cdd2795bc986d57de2082226c69",
+    "verifier": "c593716b5154bca5c5ca0c2200cc727dcce4dab43c2c0dd7e7a65f8ef083fa22"
+  },
+  "environment": {
+    "browser_version": "Google Chrome 152.0.7977.82 ",
+    "os_pretty": "Ubuntu 24.04.5 LTS"
+  },
+  "checks": {
+    "matrix_count": 24,
+    "normal_browser_matrix": "24/24 PASS",
+    "forced_colors_browser_matrix": "24/24 PASS",
+    "reflow_320": "12/12 normal + 12/12 forced colors: frame width 320 CSS px, scrollWidth 320 CSS px, visible overflow policy; no horizontal overflow",
+    "carrier_visibility": "normal 320 panels extend to 729.203125 CSS px while the action/focus remains inside 720 at 708.203125; visible overflow preserves the lower panel boundary rather than clipping it",
+    "forced_colors_comprehension": "PASS; color emphasis strip suppressed, content/action/row structure retained",
+    "focus": "PASS; visible double focus outline retained",
+    "isolation": "PASS; no prohibited gradient/image/filter/shadow/animation/transition identity carrier",
+    "contrast": {
+      "CNEG_APP": {"primary_field":15.735529,"secondary_field":6.745083,"primary_soft":14.269532,"secondary_soft":6.116678,"accent_field":9.091479,"boundary_field":4.006702},
+      "CNEG_WEB": {"primary_field":15.735529,"secondary_field":6.745083,"primary_soft":14.269532,"secondary_soft":6.116678,"accent_field":9.091479,"boundary_field":4.006702},
+      "CCONV_APP": {"primary_field":15.35979,"secondary_field":5.874293,"primary_soft":14.002918,"secondary_soft":5.355362,"accent_field":5.946776,"boundary_field":3.424063},
+      "CCONV_WEB": {"primary_field":15.38065,"secondary_field":5.953302,"primary_soft":13.750012,"secondary_soft":5.32214,"accent_field":4.856679,"boundary_field":3.622699},
+      "F1_APP": {"primary_field":15.771679,"secondary_field":6.249388,"primary_soft":14.119413,"secondary_soft":5.594692,"accent_field":5.553357,"boundary_field":3.513849},
+      "F1_WEB": {"primary_field":15.09038,"secondary_field":6.676549,"primary_soft":13.574286,"secondary_soft":6.005772,"accent_field":5.422356,"boundary_field":3.57822},
+      "F2_APP": {"primary_field":15.055208,"secondary_field":6.460736,"primary_soft":13.691121,"secondary_soft":5.875357,"accent_field":5.3985,"boundary_field":4.032315},
+      "F2_WEB": {"primary_field":14.861613,"secondary_field":6.564567,"primary_soft":13.656984,"secondary_soft":6.032467,"accent_field":5.314916,"boundary_field":4.24863},
+      "F3_APP": {"primary_field":15.137059,"secondary_field":6.407768,"primary_soft":13.820333,"secondary_soft":5.850376,"accent_field":7.261596,"boundary_field":3.775288},
+      "F3_WEB": {"primary_field":14.664786,"secondary_field":6.857314,"primary_soft":13.439366,"secondary_soft":6.284302,"accent_field":6.885997,"boundary_field":3.851698},
+      "F4_APP": {"primary_field":14.883493,"secondary_field":6.885639,"primary_soft":13.546111,"secondary_soft":6.266918,"accent_field":5.952908,"boundary_field":3.73393},
+      "F4_WEB": {"primary_field":14.762517,"secondary_field":7.179163,"primary_soft":13.376984,"secondary_soft":6.505364,"accent_field":5.523482,"boundary_field":3.685}
+    }
+  },
+  "portable_evidence": {
+    "raw_dump_dom_published": false,
+    "parsed_diagnostics": ["diagnostics/normal.json","diagnostics/forced-colors.json"],
+    "normal_pngs": 6,
+    "forced_colors_pngs": 6
+  },
+  "attempt_lineage": [
+    {"run":34515179897,"status":"INVALID_DIAGNOSTIC_CARRIER_ATTEMPT_NO_FAMILY_RESULT","reason":"raw dump-DOM was treated as portable visual evidence and normal 320 carrier clipping was not checked"},
+    {"run":34517693470,"status":"INVALID_MECHANICAL_REPAIR_ATTEMPT_NO_FAMILY_RESULT","reason":"split-axis overflow policy computed to scroll-container behavior; verifier correctly rejected it"},
+    {"run":34518074538,"status":"VALID_CLEAN_PREFLIGHT","reason":"corrected visible-overflow carrier and portable evidence transport passed all frozen mechanical floors"}
+  ],
+  "historical_palette_quarantine": {
+    "performed_after_method_source_freeze": true,
+    "drive_record": "KYMAEAN_LANE_B_WEBSITE_V0_MATERIAL_ROLES_01.md",
+    "finding": "No exact CLR-01 fixture hex is copied from the Mineral Theater/Ash & Linen/Ink & Bone working values. F1 remains subject to subjective scrutiny for generic warm-earth/editorial resemblance; no frozen family was retuned."
+  },
+  "failures": []
+}
