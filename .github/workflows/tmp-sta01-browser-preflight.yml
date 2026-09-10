@@ -39,7 +39,7 @@ jobs:
           const sleep=ms=>new Promise(r=>setTimeout(r,ms));
           async function port(){
             const active=profile+'/DevToolsActivePort';
-            for(let i=0;i<120;i++){
+            for(let i=0;i<400;i++){
               if(fs.existsSync(active)){
                 const [p]=fs.readFileSync(active,'utf8').trim().split(/\r?\n/);
                 if(p) return p;
@@ -52,7 +52,7 @@ jobs:
           try{
             const p=await port();
             let target=null;
-            for(let i=0;i<40;i++){
+            for(let i=0;i<100;i++){
               try{
                 const r=await fetch(`http://127.0.0.1:${p}/json/new?about%3Ablank`,{method:'PUT'});
                 if(r.ok){ target=await r.json(); break; }
@@ -71,7 +71,7 @@ jobs:
             const nav=await send('Page.navigate',{url});
             if(nav?.errorText) throw new Error('Page.navigate failed: '+nav.errorText);
             let diag='', last=null;
-            for(let i=0;i<60;i++){
+            for(let i=0;i<100;i++){
               const ev=await send('Runtime.evaluate',{expression:"({href:location.href,readyState:document.readyState,diag:document.getElementById('sta-diagnostic')?.textContent||'',title:document.title,body:document.body?.innerText?.slice(0,160)||''})",returnByValue:true});
               last=ev?.result?.value||null;
               if(last?.diag){diag=last.diag;break;}
