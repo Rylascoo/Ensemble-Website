@@ -8,22 +8,21 @@ Updated: 2026-09-10
 Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`. Durable Design Sol law: `docs/DESIGN_CONTINUITY.md`. Closure: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / cross-project
-`main` is authoritative; no serial Design work branch is active. `site/` alone is deployable/public. Central queue remains in `Ensemble-Project`; its Q-DESIGN-19 row is stale relative to Website authority and is recorded for later safe reconciliation, not mutated during active Q-E0A-03 provider work.
+`main` remains the promoted authority baseline. Serial Design branch `design/sym01-primary-symbol-successor-2026-09-10` carries the active successor-divergence work. `site/` alone is deployable/public. Central Q-DESIGN-19 remains stale and is not mutated during active Q-E0A-03 provider work.
 
-## Hero
-Static hero causal-mechanism / renderer research remains paused. Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 remain unchanged. Q-DESIGN-02 Stage motion still requires its external E0 evidence trigger.
+## Hero / closed packets
+Static hero causal-mechanism / renderer research remains paused. TYP-01 is closed with zero survivors; no rerun. MOT-01 is closed with provisional F1A bounded succession, CS2 eligible ready-context replacement and CUT fallback; no production motion tokens.
 
-## Shared brand packet state
-MOT-01 closed: provisional F1A bounded succession, CS2 eligible ready-context replacement, CUT fallback; no production motion tokens. TYP-01 closed with zero survivors; no rerun.
-
-CLR-01 remains parked: valid run `34518074538`; Design Sol View 02 = F2 recommended, F1 alternate with genericity reservation, F3/F4 not recommended; **no Director CLR family selection exists**.
+CLR-01 remains parked exactly: valid run `34518074538`; Design Sol View 02 = F2 recommended, F1 alternate with genericity reservation, F3/F4 not recommended; **no Director CLR family selection exists**.
 
 STA-01 remains closed: valid run `34533328634`; sole provisional survivor **F2 - Ring + Edge Witness**. No post-result retune or production state-token authority.
 
-## Phase-B Audit 05
-`docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_05.json` closes with **zero genuinely fresh isolated programs**. Saturated/incumbent-heavy axes are not relabeled as fresh; parked/closed packets are not reopened; automatic MOT x STA composition is not authorized because no truthful representative surface is currently defined. Phase-B exit and Phase-C convergence are not claimed.
+## Phase-B successor divergence
+Audit 05 closed with zero genuinely fresh isolated programs. The Director explicitly chose Path 1: **successor-style Phase-B divergence**.
+
+`docs/evidence/SHARED_BRAND_SUCCESSOR_DIVERGENCE_SELECTION_01.json` selects **SYM-01 - Primary Symbol / App-Icon Successor Divergence** as the strongest unresolved non-fresh axis. Threshold K is the unchanged incumbent/control, not a template or final logo. `docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json` freezes the challenger method before execution.
 
 ## Exact next action / hard boundary
-A consequential **Director Phase-B sequencing decision** is required before another design program: explicitly authorize successor-style divergence on one globally unresolved but non-fresh identity axis, or explicitly authorize a bounded representative composition/synthesis gate before Phase-B exit. Design Sol recommends successor-style divergence before premature composition if exploration continues; Audit 05 selects no axis.
+Materialize the exact SYM-01 deterministic challenger matrix, mechanically preflight it, then perform the frozen small-scale/genericity/cross-role falsification and freeze Design Sol's view before any Director preference.
 
-No CLR/STA reopening, TYP rerun, motion retune, hero/static renderer reopening, production tokens, invented representative surface, app/site implementation, Stage motion, final identity or Phase-C convergence.
+No Threshold K retune, CLR-01 reentry, O3/TYP/MOT/STA/material/hero change, semantic iconography, production app/site implementation, Store/runtime claim, final identity, or Phase-C convergence.

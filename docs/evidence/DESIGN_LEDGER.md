@@ -1001,3 +1001,21 @@ Cross-project synchronization is intentionally read-only during the active Engin
 **Guardrail:** no CLR-01 adjudication/retune, STA refinement, TYP rerun, motion retune, hero/static renderer reopening, incumbent promotion, invented composition surface, production token, app/site implementation, Stage motion, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-060 - Director Path 1 opens SYM-01 successor divergence and freezes its method
+
+**State:** SUCCESSOR-STYLE PHASE-B DIVERGENCE / SYM-01 SELECTED / METHOD FROZEN / PRE-EXECUTION / NO FINAL SYMBOL
+
+Audit 05 correctly returned zero genuinely fresh isolated programs. The Director then explicitly chose its Path 1: continue Phase B through successor-style divergence rather than premature composition. `docs/evidence/SHARED_BRAND_SUCCESSOR_DIVERGENCE_SELECTION_01.json` compares the unresolved non-fresh axes under that changed sequencing authority and selects **SYM-01 - Primary Symbol / App-Icon Successor Divergence**.
+
+Primary symbol/app icon is the strongest successor lane because it has high cross-surface identity leverage, can be isolated in monochrome geometry, and does not require CLR-01, product-semantic iconography, hero/static reopening, or invented app behavior. Existing symbol history is not erased: Threshold K enters as the exact unchanged incumbent control. Its historical three-field/emergent-K construction, deterministic testing adapter, context-deployment evidence, and temporary integration laws are named contamination pressure, not challenger templates.
+
+`docs/evidence/SYM_01_PRIMARY_SYMBOL_APP_ICON_SUCCESSOR_METHOD_AND_MATRIX_01.json` is frozen before challenger execution. It requires C0 exact Threshold K, an ineligible generic calibration control, and four topologically distinct challenger families. Challengers may not inherit Threshold K's three-field/emergent-K anatomy, O3/wordmark letterforms, CLR colors, Mineral Theater material, MOT/STA mechanisms, hero/Quiet-Stage geometry, or product-semantic glyphs. All scored marks are currentColor-only and geometry-identical across app-icon/chrome and web-header/prelude fixtures.
+
+The frozen test order is mechanical/source isolation -> 16/20/24/32 px silhouette and unintended-symbol audit -> larger-scale authorship/genericity -> APP/WEB role transfer -> direct survivor comparison against C0 -> Design Sol view frozen before Director preference. Zero challenger survivors is valid; no F5 or post-result retune is allowed.
+
+**Next gate:** materialize the exact deterministic matrix and preflight it without changing the frozen method.
+
+**Guardrail:** no Threshold K retune, final logo/app-icon selection, production vector/Store asset, trademark claim, CLR-01 reentry, O3/TYP/MOT/STA/material/hero change, app/site implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

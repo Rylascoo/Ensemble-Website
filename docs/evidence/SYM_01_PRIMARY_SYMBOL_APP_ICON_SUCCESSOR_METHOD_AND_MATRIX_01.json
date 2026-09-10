@@ -1,0 +1,80 @@
+{
+  "schema": "kymaean.sym01.successor-method.v1",
+  "status": "FROZEN_PRE_EXECUTION",
+  "date": "2026-09-10",
+  "program": "SYM-01 — Primary Symbol / App-Icon Successor Divergence",
+  "question": "Can a structurally non-Threshold-K monochrome symbol challenge the incumbent across compact app-icon/chrome and expressive web identity roles while preserving Kymaean's human/relational identity laws without relying on color, wordmark, material, motion, imagery, or product-semantic iconography?",
+  "incumbent_control": {
+    "id": "C0",
+    "name": "Threshold K",
+    "source": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+    "law": "Use exact existing testing-adapter bytes. The original historical raster remains visual source authority. No geometry edit is allowed in SYM-01."
+  },
+  "generic_control": {
+    "id": "CNEG",
+    "construction": "simple interrupted ring with centered witness dot",
+    "purpose": "generic modern-app-symbol calibration only; ineligible for promotion"
+  },
+  "challenger_families": [
+    {"id":"F1","name":"Split Field","topology":"two complementary unequal masses separated by one nonlinear seam inside a shared compact envelope","forbidden_drift":"eye/yin-yang/letterform/portal"},
+    {"id":"F2","name":"Continuous Fold","topology":"one continuous open band with two major changes of direction and no arrowhead or closed loop","forbidden_drift":"lightning/Z/chevron/process-arrow"},
+    {"id":"F3","name":"Counterweighted Pair","topology":"two unequal self-contained masses in a non-mirrored near-relation with no shared enclosing frame","forbidden_drift":"leaf/people/chat/link/infinity"},
+    {"id":"F4","name":"Offset Aperture","topology":"one dominant field with one non-letter interior counterform and one edge interruption that changes silhouette","forbidden_drift":"camera/Q/search/window/battery/doorway"}
+  ],
+  "family_separation_law": [
+    "No challenger may use three surrounding fields or an emergent K-shaped counterform.",
+    "No challenger may be a one-parameter mutation of another challenger or Threshold K.",
+    "Primary topology, component count, enclosure logic, and negative-space role must differ materially among F1-F4."
+  ],
+  "neutralization": [
+    "single currentColor only; no gradients, texture, blur, glow, shadow, depth, material or color identity",
+    "no KYMÆAN wordmark, letters, monograms or bespoke typography in scored symbols",
+    "no arrows, play buttons, sparkle/stars, network nodes, chat bubbles, eyes, portals/doors, people, chain links, infinity signs or semantic software glyphs",
+    "no motion or state treatment; STA/MOT packets are absent from the carrier",
+    "no product labels or claims inside the scored mark"
+  ],  "test_matrix": {
+    "families": ["C0","CNEG","F1","F2","F3","F4"],
+    "contexts": ["standalone square app-icon fixture","compact app-chrome fixture","website-header lead mark","website/acquisition prelude"],
+    "sizes_css_px": [16,20,24,32,48,64,96,128],
+    "modes": ["dark-on-light","light-on-dark","forced-colors"],
+    "rule": "Geometry is identical across context, size and mode; only scale/currentColor/container framing may change."
+  },
+  "mechanical_floors": [
+    "self-contained SVG with deterministic viewBox and no external resources",
+    "currentColor-only visible paint",
+    "no text element in the scored symbol SVG",
+    "no horizontal/vertical clipping in any matrix cell",
+    "visible geometry remains inside the icon safe envelope at every size",
+    "forced-colors rendering retains the same topology and component relationships",
+    "compact app fixture does not require the surrounding container to complete the symbol",
+    "C0 bytes remain unchanged from repository authority"
+  ],
+  "subjective_falsification": [
+    "FAIL if the symbol reads primarily as a familiar software/category glyph or literal semantic icon.",
+    "FAIL if small-scale recognition depends on decorative detail lost below 24 px.",
+    "FAIL if the symbol needs color/material/wordmark to feel authored.",
+    "FAIL if it becomes a disguised Threshold K descendant rather than a successor challenger.",
+    "FAIL if its strongest reading is an unintended eye, person, doorway, play/control, chain/link, leaf/wellness, AI sparkle/network, infinity, search/Q, or other category convention.",
+    "FAIL if app and web require different geometry rather than scale/hierarchy adaptation.",
+    "PASS does not mean final logo selection; it means the challenger survives for direct incumbent comparison."
+  ],
+  "review_order": [
+    "1. mechanical/source isolation preflight",
+    "2. 16/20/24/32 px silhouette and unintended-symbol audit",
+    "3. 48/64/96/128 px authorship and genericity audit",
+    "4. app-icon/chrome versus website-header/prelude role transfer",
+    "5. direct survivor comparison against exact Threshold K C0",
+    "6. freeze Design Sol view before Director preference"
+  ],
+  "termination": {
+    "zero_survivors_valid": true,
+    "no_post_result_retune": true,
+    "no_f5_after_exposure": true,
+    "director_gate": "If one or more challengers survive direct C0 comparison, present the exact frozen board and Design Sol view for consequential Director taste/convergence input."
+  },
+  "explicit_non_authority": [
+    "No final symbol, app icon, production vector, Store/package asset, trademark clearance, runtime Windows rendering, final identity or Phase-C convergence.",
+    "No CLR-01 family selection or retune; no O3/TYP/MOT/STA/material/hero change."
+  ],
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}
