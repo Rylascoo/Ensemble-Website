@@ -1,0 +1,33 @@
+{
+  "schema": "kymaean.sta01.execution-defaults-addendum.v1",
+  "status": "FROZEN_MEASUREMENT_CORRECTION_AFTER_INVALID_MODALITY_PROXY_NO_FAMILY_RESULT",
+  "date": "2026-09-10",
+  "program_id": "STA-01",
+  "parent_method": "docs/evidence/STA_01_NONCOLOR_FOCUS_SELECTION_METHOD_AND_MATRIX_01.json",
+  "parent_harness_sha256": "32dac56216d8aef7554925377d3998ff9b1d2b91d9dc3211a3ad740274285497",
+  "invalid_attempt": {
+    "workflow_run": 34532967279,
+    "classification": "INVALID_FOCUS_MODALITY_PROXY_NO_FAMILY_RESULT",
+    "finding": "The hosted run completed all four page-diagnostic observations, but the verifier rejected F1 because the harness's scripted HTMLElement.focus() probe did not match :focus-visible. Script focus is not the bounded question: STA-01 specifies keyboard focus. Treating the script modality heuristic as keyboard evidence was therefore an instrumentation defect rather than a family failure."
+  },
+  "correction": {
+    "superseded_measurement_phrase": "programmatic focus produces :focus-visible with >=2px non-none outline",
+    "replacement_measurement": "actual sequential Tab-key focus dispatched through Chrome DevTools must reach an enabled default specimen in each F1-F4 × APP/WEB context and produce :focus-visible with >=2px non-none outline; F4 retains its dotted focus style while F1-F3 retain solid style.",
+    "combined_state_measurement": "The existing focus+selected specimen remains a source/computed-style conjunction check: it must retain the selected carrier plus >=2px non-none focus outline. Keyboard modality is tested independently on real focusable controls and is not inferred from the .focus fixture class.",
+    "disabled_measurement": "Tab traversal must never land on disabled specimens; disabled semantics remain unchanged.",
+    "diagnostic_transport": "The exact frozen harness remains unchanged. The hosted runner may append read-only DevTools keyboard-focus observations to the emitted diagnostic JSON; it may not mutate family CSS, DOM state semantics, order, content, geometry or candidate values."
+  },
+  "unchanged": [
+    "bounded question",
+    "all F1-F4 visual mechanisms and family bytes",
+    "40-specimen matrix and state semantics",
+    "true 1200/320 viewport requirements",
+    "forced-colors requirements",
+    "reduced-motion/no-animation isolation",
+    "no post-result family retune / no F5 law",
+    "zero-survivor validity and maximum-one-survivor law",
+    "CLR-01 parked state"
+  ],
+  "authority_limit": "This addendum corrects only measurement modality so the execution tests the already-frozen keyboard-focus question. It creates no family survivor, preference, production token, implementation, CLR re-entry, final identity or Phase-C authority.",
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE MEASUREMENT-CORRECTION AUDIT."
+}

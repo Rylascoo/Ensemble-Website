@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
       - name: Static frozen-contract checks
         run: python tools/verify_sta01.py
-      - name: Hosted Chrome state, reflow, focus and forced-colors checks
+      - name: Hosted Chrome state, reflow, keyboard-focus and forced-colors checks
         shell: bash
         run: |
           set -euo pipefail
@@ -72,13 +72,24 @@ jobs:
             if(nav?.errorText) throw new Error('Page.navigate failed: '+nav.errorText);
             let diag='', last=null;
             for(let i=0;i<100;i++){
-              const ev=await send('Runtime.evaluate',{expression:"({href:location.href,readyState:document.readyState,diag:document.getElementById('sta-diagnostic')?.textContent||'',title:document.title,body:document.body?.innerText?.slice(0,160)||''})",returnByValue:true});
+              const ev=await send('Runtime.evaluate',{expression:"({href:location.href,readyState:document.readyState,diag:document.getElementById('sta-diagnostic')?.textContent||'',title:document.title})",returnByValue:true});
               last=ev?.result?.value||null;
               if(last?.diag){diag=last.diag;break;}
               await sleep(100);
             }
             if(!diag) throw new Error('STA diagnostic not produced after navigation: '+JSON.stringify(last));
-            fs.writeFileSync(diagPath,diag+'\n');
+            const parsed=JSON.parse(diag);
+            parsed.keyboardFocus={f1:{},f2:{},f3:{},f4:{}};
+            await send('Runtime.evaluate',{expression:"document.activeElement?.blur(); window.scrollTo(0,0);"});
+            for(let i=0;i<48;i++){
+              await send('Input.dispatchKeyEvent',{type:'keyDown',key:'Tab',code:'Tab',windowsVirtualKeyCode:9,nativeVirtualKeyCode:9});
+              await send('Input.dispatchKeyEvent',{type:'keyUp',key:'Tab',code:'Tab',windowsVirtualKeyCode:9,nativeVirtualKeyCode:9});
+              await sleep(20);
+              const ev=await send('Runtime.evaluate',{expression:`(()=>{const el=document.activeElement;if(!el?.classList?.contains('sample'))return null;const fam=[...el.closest('.family').classList].find(c=>/^f[1-4]$/.test(c));const ctx=el.closest('.context').classList.contains('app')?'APP':'WEB';const cs=getComputedStyle(el);return {fam,ctx,isDefault:el.classList.contains('default'),focusVisible:el.matches(':focus-visible'),outlineWidth:parseFloat(cs.outlineWidth)||0,outlineStyle:cs.outlineStyle,disabled:el.disabled,className:el.className};})()`,returnByValue:true});
+              const q=ev?.result?.value;
+              if(q?.isDefault && !parsed.keyboardFocus[q.fam][q.ctx]) parsed.keyboardFocus[q.fam][q.ctx]=q;
+            }
+            fs.writeFileSync(diagPath,JSON.stringify(parsed)+'\n');
             ws.close();
           } finally {
             cp.kill('SIGTERM');
@@ -102,6 +113,7 @@ jobs:
             --output /tmp/sta01-artifact/STA_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json
           cp prototypes/sta-01/harness.html /tmp/sta01-artifact/harness.html
           cp docs/evidence/STA_01_NONCOLOR_FOCUS_SELECTION_METHOD_AND_MATRIX_01.json /tmp/sta01-artifact/method.json
+          cp docs/evidence/STA_01_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/sta01-artifact/execution-defaults-addendum.json
           printf '%s\n' "$BROWSER_VERSION" > /tmp/sta01-artifact/browser-version.txt
           printf '%s\n' "$OS_PRETTY" > /tmp/sta01-artifact/os-pretty.txt
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
