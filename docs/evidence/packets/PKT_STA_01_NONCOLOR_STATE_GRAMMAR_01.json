@@ -5,7 +5,7 @@
   "packet_class": "GATE_MECHANISM_PACKET",
   "status": "PROVISIONAL_INCUMBENT",
   "date": "2026-09-10",
-  "gate_or_program": "STA-01 ? Non-color Focus / Selection State Grammar",
+  "gate_or_program": "STA-01 — Non-color Focus / Selection State Grammar",
   "design_axis": "shared-brand non-color focus / selection state-treatment logic",
   "bounded_question": "Can one restrained structural grammar distinguish default, keyboard focus, selected, focus+selected and disabled states across neutral APP-like and WEB-like carriers without depending on candidate color, motion, iconography, imagery, material, bespoke typography, semantic status meaning, product-specific vocabulary, or CLR-01?",
   "authority": {
@@ -42,14 +42,14 @@
   "local_result": {
     "summary": "Valid hosted mechanical preflight passed every F1-F4 family. Frozen Design Sol subjective falsification leaves exactly one provisional survivor: F2 Ring + Edge Witness.",
     "survivors_or_closure": [
-      "F2 ? Ring + Edge Witness"
+      "F2 — Ring + Edge Witness"
     ],
-    "recommended_incumbent": "F2 ? Ring + Edge Witness",
+    "recommended_incumbent": "F2 — Ring + Edge Witness",
     "alternates": [],
     "rejections": [
-      "F1 ? Conventional Ring + Fill: too generic",
-      "F3 ? Ring + Opposing Brackets: crop/edit-tool reading",
-      "F4 ? Weight + Depth: over-authoritative and physically semantic"
+      "F1 — Conventional Ring + Fill: too generic",
+      "F3 — Ring + Opposing Brackets: crop/edit-tool reading",
+      "F4 — Weight + Depth: over-authoritative and physically semantic"
     ]
   },
   "judgment": {
@@ -60,13 +60,13 @@
   "evidence": {
     "mechanical": [
       "hosted run 34533328634",
-      "all 4 normal/forced-colors ? 1200/320 checks PASS",
+      "all 4 normal/forced-colors × 1200/320 checks PASS",
       "real Tab-key :focus-visible: 8/8 APP/WEB contexts per mode",
       "320 scrollWidth 305 <= 320",
       "artifact 10174409721; zip SHA-256 2d3b547d8c69f1e4e0f6419bd1a78a4cf8066b7ffaeda1c9f12dc6e63ddc5f5b"
     ],
     "visual": [
-      "prototypes/sta-01/harness.html ? canonical human-viewable normal comparison surface"
+      "prototypes/sta-01/harness.html — canonical human-viewable normal comparison surface"
     ],
     "accessibility": [
       "focus and selection remain independent when combined",
@@ -80,7 +80,7 @@
       "34532475477",
       "34532687669",
       "34532826475",
-      "34532967279 ? invalid scripted-focus modality proxy"
+      "34532967279 — invalid scripted-focus modality proxy"
     ]
   },
   "dependencies": {

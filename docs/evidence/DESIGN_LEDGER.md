@@ -963,15 +963,15 @@ Canonical deferral evidence: `docs/evidence/CLR_01_DIRECTOR_DEFERRAL_TO_APP_ASSE
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
 
-## L-058 ? STA-01 closes with F2 Ring + Edge Witness as the sole provisional survivor
+## L-058 — STA-01 closes with F2 Ring + Edge Witness as the sole provisional survivor
 
 **State:** STA-01 CLOSED / F2 RING + EDGE WITNESS PROVISIONAL INCUMBENT / NO PRODUCTION STATE-TOKEN AUTHORITY
 
-The fresh Phase-B orthogonal program `STA-01 ? Non-color Focus / Selection State Grammar` tested four frozen structural families across APP/WEB, WIDE/true-320, normal/forced-colors and default/focus/selected/focus+selected/disabled states without CLR-01, motion, icons, imagery, material, bespoke typography or product-specific semantics.
+The fresh Phase-B orthogonal program `STA-01 — Non-color Focus / Selection State Grammar` tested four frozen structural families across APP/WEB, WIDE/true-320, normal/forced-colors and default/focus/selected/focus+selected/disabled states without CLR-01, motion, icons, imagery, material, bespoke typography or product-specific semantics.
 
 Hosted run `34533328634` at source commit `b712aadd15213f386c22a4c058e5b419d61c23ee` is the first valid mechanical result. It passed the exact frozen source hash, 4-family / 8-context / 40-specimen matrix, real Tab-key `:focus-visible` in all 8 APP/WEB family contexts per mode, combined-state preservation, disabled semantics, forced-colors structure and 1200/320 no-horizontal-overflow checks. The 320 diagnostics reported `scrollWidth = 305` CSS px. Artifact `10174409721` has zip SHA-256 `2d3b547d8c69f1e4e0f6419bd1a78a4cf8066b7ffaeda1c9f12dc6e63ddc5f5b`. Runs `34531948998`, `34532336083`, `34532475477`, `34532687669`, `34532826475` and `34532967279` are preserved as tooling/measurement-invalid and created no family result.
 
-Frozen Design Sol subjective falsification leaves exactly one provisional survivor: **F2 ? Ring + Edge Witness**. F1 Conventional Ring + Fill is mechanically clear but fails the frozen genericity test; F3 Opposing Brackets reads primarily as crop/edit tooling; F4 Weight + Depth makes the state carrier too visually authoritative and introduces an unnecessary physical pressed/elevated implication. F2 keeps focus as an independent outer ring and selection as one restrained edge witness; APP and WEB adapt witness orientation while preserving one underlying mechanism, and the carrier remains subordinate to neutral content. No post-result retune or F5 occurred.
+Frozen Design Sol subjective falsification leaves exactly one provisional survivor: **F2 — Ring + Edge Witness**. F1 Conventional Ring + Fill is mechanically clear but fails the frozen genericity test; F3 Opposing Brackets reads primarily as crop/edit tooling; F4 Weight + Depth makes the state carrier too visually authoritative and introduces an unnecessary physical pressed/elevated implication. F2 keeps focus as an independent outer ring and selection as one restrained edge witness; APP and WEB adapt witness orientation while preserving one underlying mechanism, and the carrier remains subordinate to neutral content. No post-result retune or F5 occurred.
 
 Primary evidence:
 - `docs/evidence/STA_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json`;
@@ -983,4 +983,4 @@ Primary evidence:
 
 **Next Design boundary:** after repository promotion/branch closeout, perform a fresh Phase-B orthogonal shared-brand re-entry audit. Do not treat F2 survival as permission to refine control components or reopen CLR-01.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE AUDIT.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

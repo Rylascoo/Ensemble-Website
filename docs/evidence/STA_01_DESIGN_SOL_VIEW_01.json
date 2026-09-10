@@ -44,12 +44,12 @@
     }
   },
   "local_result": {
-    "provisional_survivor": "F2 ? Ring + Edge Witness",
+    "provisional_survivor": "F2 — Ring + Edge Witness",
     "alternate_survivors": [],
     "rejected": [
-      "F1 ? Conventional Ring + Fill",
-      "F3 ? Ring + Opposing Brackets",
-      "F4 ? Weight + Depth"
+      "F1 — Conventional Ring + Fill",
+      "F3 — Ring + Opposing Brackets",
+      "F4 — Weight + Depth"
     ],
     "post_result_retune": false,
     "replacement_family_added": false
@@ -71,5 +71,5 @@
     "result": "CLEAN"
   },
   "authority_limit": "F2 is a provisional bounded state-treatment mechanism for later packet composition only. No production control tokens, semantic-state system, app/site implementation, final identity or Phase-C convergence is authorized.",
-  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE AUDIT."
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
 }
