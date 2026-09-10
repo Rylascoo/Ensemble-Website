@@ -33,24 +33,34 @@ jobs:
           const width = Number(widthArg), height = 2600, browser = process.env.BROWSER;
           fs.rmSync(profile,{recursive:true,force:true});
           fs.mkdirSync(profile,{recursive:true});
-          const args=['--headless=new','--no-sandbox','--disable-gpu','--allow-file-access-from-files','--remote-debugging-port=0',`--user-data-dir=${profile}`,'about:blank'];
+          const args=['--headless=new','--no-sandbox','--disable-gpu','--disable-dev-shm-usage','--allow-file-access-from-files','--remote-debugging-port=0',`--user-data-dir=${profile}`,'about:blank'];
           if(mode==='forced') args.splice(args.length-1,0,'--force-high-contrast');
           const cp=spawn(browser,args,{stdio:['ignore','ignore','inherit']});
           const sleep=ms=>new Promise(r=>setTimeout(r,ms));
-          async function endpoint(){
+          async function port(){
             const active=profile+'/DevToolsActivePort';
             for(let i=0;i<120;i++){
               if(fs.existsSync(active)){
-                const [port]=fs.readFileSync(active,'utf8').trim().split(/\r?\n/);
-                try{ const a=await (await fetch(`http://127.0.0.1:${port}/json/list`)).json(); if(a[0]?.webSocketDebuggerUrl) return a[0].webSocketDebuggerUrl; }catch{}
+                const [p]=fs.readFileSync(active,'utf8').trim().split(/\r?\n/);
+                if(p) return p;
               }
               if(cp.exitCode!==null) throw new Error('Chrome exited before DevTools endpoint became available: '+cp.exitCode);
               await sleep(100);
             }
-            throw new Error('CDP endpoint unavailable');
+            throw new Error('DevToolsActivePort unavailable');
           }
           try{
-            const ws=new WebSocket(await endpoint());
+            const p=await port();
+            let target=null;
+            for(let i=0;i<40;i++){
+              try{
+                const r=await fetch(`http://127.0.0.1:${p}/json/new?about%3Ablank`,{method:'PUT'});
+                if(r.ok){ target=await r.json(); break; }
+              }catch{}
+              await sleep(100);
+            }
+            if(!target?.webSocketDebuggerUrl) throw new Error('Explicit page target unavailable');
+            const ws=new WebSocket(target.webSocketDebuggerUrl);
             await new Promise((res,rej)=>{ws.onopen=res; ws.onerror=rej});
             let id=0; const pending=new Map();
             ws.onmessage=e=>{const m=JSON.parse(e.data); if(m.id&&pending.has(m.id)){const {res,rej}=pending.get(m.id); pending.delete(m.id); m.error?rej(new Error(JSON.stringify(m.error))):res(m.result)}};
@@ -58,10 +68,17 @@ jobs:
             await send('Page.enable'); await send('Runtime.enable');
             await send('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:false,screenWidth:width,screenHeight:height});
             const url='file://'+process.cwd()+'/prototypes/sta-01/harness.html?diagnostic=1';
-            await send('Page.navigate',{url}); await sleep(900);
-            const ev=await send('Runtime.evaluate',{expression:"document.getElementById('sta-diagnostic').textContent",returnByValue:true});
-            if(!ev?.result?.value) throw new Error('STA diagnostic not produced');
-            fs.writeFileSync(diagPath,ev.result.value+'\n');
+            const nav=await send('Page.navigate',{url});
+            if(nav?.errorText) throw new Error('Page.navigate failed: '+nav.errorText);
+            let diag='', last=null;
+            for(let i=0;i<60;i++){
+              const ev=await send('Runtime.evaluate',{expression:"({href:location.href,readyState:document.readyState,diag:document.getElementById('sta-diagnostic')?.textContent||'',title:document.title,body:document.body?.innerText?.slice(0,160)||''})",returnByValue:true});
+              last=ev?.result?.value||null;
+              if(last?.diag){diag=last.diag;break;}
+              await sleep(100);
+            }
+            if(!diag) throw new Error('STA diagnostic not produced after navigation: '+JSON.stringify(last));
+            fs.writeFileSync(diagPath,diag+'\n');
             const layout=await send('Page.getLayoutMetrics');
             const size=layout.cssContentSize;
             const shot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:true,clip:{x:0,y:0,width:size.width,height:size.height,scale:1}});
