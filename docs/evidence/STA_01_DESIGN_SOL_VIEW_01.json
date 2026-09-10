@@ -1,0 +1,75 @@
+{
+  "schema": "kymaean.sta01.design-sol-view.v1",
+  "status": "FROZEN_LOCAL_RESULT_ONE_PROVISIONAL_SURVIVOR",
+  "date": "2026-09-10",
+  "program_id": "STA-01",
+  "bounded_question": "Can one restrained structural grammar distinguish default, keyboard focus, selected, focus+selected and disabled states across neutral APP-like and WEB-like carriers without depending on candidate color, motion, iconography, imagery, material, bespoke typography, semantic status meaning, product-specific vocabulary, or CLR-01?",
+  "mechanical_basis": {
+    "preflight": "docs/evidence/STA_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "workflow_run": 34533328634,
+    "result": "PASS_ALL_FAMILIES_ELIGIBLE_FOR_SUBJECTIVE_FALSIFICATION",
+    "harness_sha256": "32dac56216d8aef7554925377d3998ff9b1d2b91d9dc3211a3ad740274285497"
+  },
+  "review_surface": {
+    "canonical": "prototypes/sta-01/harness.html",
+    "normal_mode_is_aesthetic_surface": true,
+    "forced_colors_is_validation_only": true,
+    "diagnostic_json_is_not_aesthetic_choice_surface": true
+  },
+  "frozen_subjective_falsification": {
+    "F1": {
+      "name": "Conventional Ring + Fill",
+      "result": "REJECT",
+      "binding_falsifier": "mechanism is too generic to add useful identity beyond platform convention",
+      "rationale": "The selected state is a conventional fill plus heavier boundary. It is mechanically clear but contributes no meaningful Kymaean-specific structural character beyond a generic calibration control."
+    },
+    "F2": {
+      "name": "Ring + Edge Witness",
+      "result": "PROVISIONAL_SURVIVOR",
+      "binding_falsifier": null,
+      "rationale": "Focus remains an independent outer ring while selection is a restrained persistent edge witness. APP uses an inline-start witness and WEB a low horizontal witness, but both read as one underlying edge-witness mechanism. The carrier remains subordinate to neutral content, survives 320 reflow, avoids edit/crop shorthand, and introduces no product semantics."
+    },
+    "F3": {
+      "name": "Ring + Opposing Brackets",
+      "result": "REJECT",
+      "binding_falsifier": "selected state primarily reads as editing/cropping/resize tooling",
+      "rationale": "Opposing corner brackets strongly resemble crop/selection handles. The mechanism is authored and mechanically distinct, but its dominant conventional association is editing/tooling rather than neutral selection state."
+    },
+    "F4": {
+      "name": "Weight + Depth",
+      "result": "REJECT",
+      "binding_falsifier": "state carrier becomes more visually authoritative than neutral content",
+      "secondary_falsifier": "mechanism implies product semantics absent from the fixture",
+      "rationale": "Bold weight, one-pixel lift and depth shadow make the state feel physically pressed/elevated and substantially more assertive than the neutral carrier. The dotted focus ring further changes the focus voice rather than keeping state treatment quietly subordinate."
+    }
+  },
+  "local_result": {
+    "provisional_survivor": "F2 ? Ring + Edge Witness",
+    "alternate_survivors": [],
+    "rejected": [
+      "F1 ? Conventional Ring + Fill",
+      "F3 ? Ring + Opposing Brackets",
+      "F4 ? Weight + Depth"
+    ],
+    "post_result_retune": false,
+    "replacement_family_added": false
+  },
+  "integration_sensitivities": [
+    "The edge witness must remain a secondary selection carrier once CLR-01 is reintroduced; color may reinforce it but must not replace it.",
+    "APP/WEB orientation adaptation must preserve one edge-witness grammar rather than become two unrelated decorative rules.",
+    "Later component geometry must not make the witness resemble a progress bar, navigation indicator, validation stripe or semantic status marker.",
+    "Real product semantics and focus management remain implementation/engineering truths independent of this visual packet."
+  ],
+  "recursive_audit": {
+    "errors_found_and_corrected_before_result": [
+      "invalid scripted-focus modality proxy was corrected before any valid family result"
+    ],
+    "post_result_family_changes": [],
+    "criteria_changed_after_evidence": false,
+    "clr01_changed_or_adjudicated": false,
+    "production_authority_created": false,
+    "result": "CLEAN"
+  },
+  "authority_limit": "F2 is a provisional bounded state-treatment mechanism for later packet composition only. No production control tokens, semantic-state system, app/site implementation, final identity or Phase-C convergence is authorized.",
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE AUDIT."
+}

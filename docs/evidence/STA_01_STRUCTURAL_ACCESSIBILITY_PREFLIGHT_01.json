@@ -1,0 +1,90 @@
+{
+  "schema": "kymaean.sta01.structural-accessibility-preflight.v1",
+  "status": "CLEAN_HOSTED_PREFLIGHT_NO_SUBJECTIVE_RESULT",
+  "date": "2026-09-10",
+  "program_id": "STA-01",
+  "source_commit": "b712aadd15213f386c22a4c058e5b419d61c23ee",
+  "workflow_run": 34533328634,
+  "workflow_job": 103059034728,
+  "artifact": {
+    "name": "sta01-preflight",
+    "artifact_id": 10174409721,
+    "zip_sha256": "2d3b547d8c69f1e4e0f6419bd1a78a4cf8066b7ffaeda1c9f12dc6e63ddc5f5b",
+    "retention_days": 7
+  },
+  "environment": {
+    "browser": "Google Chrome 152.0.7977.82",
+    "os": "Ubuntu 24.04.5 LTS"
+  },
+  "static": {
+    "harness_path": "prototypes/sta-01/harness.html",
+    "harness_sha256": "32dac56216d8aef7554925377d3998ff9b1d2b91d9dc3211a3ad740274285497",
+    "source_matrix": "4 families / 8 contexts / 40 specimens / 16 selected / 8 disabled",
+    "keyboard_focus_measurement": "docs/evidence/STA_01_EXECUTION_DEFAULTS_ADDENDUM_01.json"
+  },
+  "browser_checks": [
+    {
+      "mode": "NORMAL",
+      "viewport_width": 1200,
+      "scroll_width": 1200,
+      "keyboard_focus_contexts": "8/8 PASS",
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS",
+      "viewport_width": 1200,
+      "scroll_width": 1200,
+      "keyboard_focus_contexts": "8/8 PASS",
+      "status": "PASS"
+    },
+    {
+      "mode": "NORMAL",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "keyboard_focus_contexts": "8/8 PASS",
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "keyboard_focus_contexts": "8/8 PASS",
+      "status": "PASS"
+    }
+  ],
+  "mechanical_result": "PASS_ALL_FAMILIES_ELIGIBLE_FOR_FROZEN_SUBJECTIVE_FALSIFICATION",
+  "failures": [],
+  "invalid_or_superseded_attempts": [
+    {
+      "run": 34531948998,
+      "classification": "TOOLING_INVALID",
+      "reason": "Chrome window-size request clamped 320 CSS px to 500 CSS px; no true-320 result."
+    },
+    {
+      "run": 34532336083,
+      "classification": "TOOLING_INVALID",
+      "reason": "Fixed DevTools-port discovery failed before navigation; no family evidence."
+    },
+    {
+      "run": 34532475477,
+      "classification": "TOOLING_INVALID",
+      "reason": "Chrome/DevTools launched but diagnostic target selection failed; no family evidence."
+    },
+    {
+      "run": 34532687669,
+      "classification": "TOOLING_INVALID",
+      "reason": "DevToolsActivePort discovery window expired before slow Chrome startup completed; no family evidence."
+    },
+    {
+      "run": 34532826475,
+      "classification": "TOOLING_INVALID",
+      "reason": "Frozen page diagnostics executed, but optional screenshot capture failed after runner GPU-process instability; mechanical gate incomplete."
+    },
+    {
+      "run": 34532967279,
+      "classification": "INVALID_FOCUS_MODALITY_PROXY_NO_FAMILY_RESULT",
+      "reason": "All four page diagnostics executed, but scripted HTMLElement.focus() was an invalid proxy for the frozen keyboard-focus question; corrected by the pre-result execution addendum."
+    }
+  ],
+  "authority_limit": "Mechanical evidence only. This record creates no subjective survivor, production token, implementation, CLR-01 reentry, final identity or Phase-C authority."
+}

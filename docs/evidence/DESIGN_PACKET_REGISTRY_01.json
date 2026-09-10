@@ -37,6 +37,14 @@
       "status": "PAUSED",
       "current_contribution": "Director intentionally deferred selection until app-asset / whole-app synthesis convergence; Design Sol's frozen F2 recommendation and F1 alternate remain preserved as local evidence, with no Director family selection",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-STA-01-01",
+      "path": "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
+      "axis": "non-color focus / selection state-treatment logic",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F2 Ring + Edge Witness bounded selection mechanism",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -44,7 +52,7 @@
     "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
-    "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical/temporary evidence exists"
+    "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists"
   ],
   "synthesis_policy": {
     "composition_packets_created": [],

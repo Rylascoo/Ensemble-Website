@@ -1,0 +1,143 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-STA-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-10",
+  "gate_or_program": "STA-01 ? Non-color Focus / Selection State Grammar",
+  "design_axis": "shared-brand non-color focus / selection state-treatment logic",
+  "bounded_question": "Can one restrained structural grammar distinguish default, keyboard focus, selected, focus+selected and disabled states across neutral APP-like and WEB-like carriers without depending on candidate color, motion, iconography, imagery, material, bespoke typography, semantic status meaning, product-specific vocabulary, or CLR-01?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "b712aadd15213f386c22a4c058e5b419d61c23ee",
+    "current_state_at_close": "same logical closure commit as this packet; exact commit identity is supplied by Git history rather than self-referential content",
+    "governing_method_or_contract": [
+      "docs/evidence/STA_01_NONCOLOR_FOCUS_SELECTION_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/STA_01_EXECUTION_DEFAULTS_ADDENDUM_01.json"
+    ],
+    "drive_sources_if_material": []
+  },
+  "controlled_inputs": [
+    "neutral action text",
+    "native button carrier",
+    "neutral grayscale measurement styling",
+    "system-ui / Segoe UI fallback",
+    "APP and WEB contexts",
+    "WIDE and REFLOW_320",
+    "default/focus/selected/focus+selected/disabled states"
+  ],
+  "excluded_variables": [
+    "CLR-01 family colors and production palette",
+    "semantic status colors",
+    "motion",
+    "icons/iconography",
+    "imagery/hero art",
+    "material/texture/gradient/glow/filter",
+    "bespoke typography",
+    "brand marks",
+    "product-specific state semantics",
+    "implementation behavior"
+  ],
+  "local_result": {
+    "summary": "Valid hosted mechanical preflight passed every F1-F4 family. Frozen Design Sol subjective falsification leaves exactly one provisional survivor: F2 Ring + Edge Witness.",
+    "survivors_or_closure": [
+      "F2 ? Ring + Edge Witness"
+    ],
+    "recommended_incumbent": "F2 ? Ring + Edge Witness",
+    "alternates": [],
+    "rejections": [
+      "F1 ? Conventional Ring + Fill: too generic",
+      "F3 ? Ring + Opposing Brackets: crop/edit-tool reading",
+      "F4 ? Weight + Depth: over-authoritative and physically semantic"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "F2 is the only family that remains mechanically robust and visually restrained while adding a recognizable non-color structural selection cue without borrowing editing, physical-depth or generic fill conventions.",
+    "director_view_or_delegation": "No separate Director family choice was requested or inferred. This bounded in-lane provisional result advances under the standing clean-recursive-audit delegation and remains subject to later composition/whole-app synthesis.",
+    "resolution_mode": "DESIGN_SOL_ONLY"
+  },
+  "evidence": {
+    "mechanical": [
+      "hosted run 34533328634",
+      "all 4 normal/forced-colors ? 1200/320 checks PASS",
+      "real Tab-key :focus-visible: 8/8 APP/WEB contexts per mode",
+      "320 scrollWidth 305 <= 320",
+      "artifact 10174409721; zip SHA-256 2d3b547d8c69f1e4e0f6419bd1a78a4cf8066b7ffaeda1c9f12dc6e63ddc5f5b"
+    ],
+    "visual": [
+      "prototypes/sta-01/harness.html ? canonical human-viewable normal comparison surface"
+    ],
+    "accessibility": [
+      "focus and selection remain independent when combined",
+      "disabled controls are skipped by keyboard traversal and remain not-selected",
+      "forced-colors preserves structural selection witnesses",
+      "no horizontal document overflow at 320 CSS px"
+    ],
+    "invalid_or_superseded_attempts": [
+      "34531948998",
+      "34532336083",
+      "34532475477",
+      "34532687669",
+      "34532826475",
+      "34532967279 ? invalid scripted-focus modality proxy"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "later composition/whole-app synthesis before production tokenization",
+      "CLR-01 remains parked until its separately authorized convergence reentry"
+    ],
+    "constrains": [
+      "future control-selection visual treatment",
+      "later color/state integration",
+      "future control-component packet composition"
+    ],
+    "must_not_be_confused_with": [
+      "semantic status-state design",
+      "focus-management implementation",
+      "final component tokenization",
+      "CLR-01 color selection"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "The edge witness must remain a secondary selection carrier once CLR-01 is reintroduced; color may reinforce it but must not replace it.",
+    "APP/WEB orientation adaptation must preserve one edge-witness grammar rather than become two unrelated decorative rules.",
+    "Later component geometry must not make the witness resemble a progress bar, navigation indicator, validation stripe or semantic status marker.",
+    "Real product semantics and focus management remain implementation/engineering truths independent of this visual packet."
+  ],
+  "explicit_non_authority": [
+    "No production control-state token, semantic-state system, app/site implementation, final identity, CLR-01 adjudication or Phase-C convergence is authorized.",
+    "The exact grayscale fixture values and edge dimensions are experiment values, not production tokens."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "prototypes/sta-01/harness.html",
+      "docs/evidence/STA_01_NONCOLOR_FOCUS_SELECTION_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/STA_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+      "docs/evidence/STA_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+      "docs/evidence/STA_01_DESIGN_SOL_VIEW_01.json"
+    ],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/sta-01/harness.html",
+      "what_to_review": "Normal-mode F1-F4 state rows; forced-colors is validation only.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "STA_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+        "hosted diagnostic JSON"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
