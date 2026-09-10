@@ -1,0 +1,84 @@
+{
+  "schema": "kymaean.clr01.design-sol-independent-view.v2",
+  "status": "FROZEN_VALID_PRE_DIRECTOR_VIEW_AFTER_CORRECTED_PREFLIGHT",
+  "date": "2026-09-10",
+  "program_id": "CLR-01",
+  "gate": "Q-DESIGN-19",
+  "method_main": "4a87523f9964a1fcf884100e0158d75d7b3809c0",
+  "evidence": {
+    "source_commit": "dd1c9f88b84bbf541a121082815d615a715dfe5e",
+    "workflow_run": 34518074538,
+    "artifact_id": 10168493643,
+    "artifact_digest": "sha256:b3a9b37efe7fee27bd917c5c6f56d7c0ad18f1da8c17f75a1b81b5eef58980a5",
+    "preflight": "docs/evidence/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_03.json",
+    "portable_review_surfaces": "six normal PNG family sheets + six true forced-colors PNG family sheets; parsed normal/forced diagnostic JSON",
+    "prior_view_01": "INVALIDATED_BEFORE_DIRECTOR_PREFERENCE; not used as authority for this judgment"
+  },
+  "review_conditions": {
+    "director_preference_received": false,
+    "family_labels_visible": true,
+    "controls": ["CNEG neutral grayscale", "CCONV conventional product-blue calibration"],
+    "forbidden_rescue_or_retune": "honored",
+    "mechanical_preflight": "CLEAN"
+  },
+  "family_views": {
+    "F1": {
+      "name": "Split Temperature",
+      "cross_surface_coherence": "PASS — APP and WEB clearly share the same warm/cool hinge while WEB gains only modest expressive warmth.",
+      "distinctiveness": "MODERATE — the cool ink against restrained earth accent is legible as a system, but its character is not difficult to find elsewhere.",
+      "genericity": "RESERVATION — premium editorial, heritage and warm-earth product grammars remain materially available readings.",
+      "calm_low_fatigue": "PASS — quiet field and restrained accent remain comfortable at wide and 320 widths.",
+      "semantic_honesty": "PASS — the warm accent does not inherently read as success/error/status in this neutral carrier.",
+      "fallback_resilience": "PASS — forced-colors evidence preserves structure and action.",
+      "disposition": "PROVISIONAL_SURVIVOR_WITH_GENERICITY_RESERVATION"
+    },
+    "F2": {
+      "name": "Monochrome + Intruder",
+      "cross_surface_coherence": "PASS — subdued violet-neutral structure and rare teal interruption remain recognizably the same logic across APP and WEB.",
+      "distinctiveness": "STRONGEST OF THE FOUR — identity comes from chroma scarcity and one controlled exception rather than simply choosing a saturated brand hue.",
+      "genericity": "PASS WITH WATCH — violet/teal creative-tool familiarity exists, but the restrained distribution and rarity mechanism is materially less conventional than CCONV and F4.",
+      "calm_low_fatigue": "PASS — broad low-chroma surfaces dominate; teal remains sparse enough not to agitate the carrier.",
+      "semantic_honesty": "PASS — teal is consistently non-status emphasis here and no content meaning depends on it.",
+      "fallback_resilience": "PASS — forced-colors evidence preserves structure and action without candidate color.",
+      "disposition": "RECOMMENDED_PROVISIONAL_SURVIVOR"
+    },
+    "F3": {
+      "name": "Complementary Poles",
+      "cross_surface_coherence": "PASS — green-tinted structure and plum accent remain consistent across surfaces.",
+      "distinctiveness": "MODERATE — the polarity is visible but reads primarily as a familiar palette relationship rather than a uniquely attributable logic.",
+      "genericity": "FAIL IN DESIGN-SOL VIEW — botanical/wellness/natural-product readings are too readily available.",
+      "calm_low_fatigue": "PASS mechanically and visually, but the green field has stronger category affect than the neutral fixture warrants.",
+      "semantic_honesty": "RESERVATION — green-family structural color increases future collision pressure with conventional positive/success semantics even though this specimen encodes no status.",
+      "fallback_resilience": "PASS",
+      "disposition": "NOT_RECOMMENDED"
+    },
+    "F4": {
+      "name": "Chromatic Ladder",
+      "cross_surface_coherence": "PASS — the blue ladder survives APP/WEB adaptation coherently.",
+      "distinctiveness": "WEAK — the warm field does not overcome the dominant familiar blue-product grammar.",
+      "genericity": "FAIL IN DESIGN-SOL VIEW — compared directly with CCONV, F4 remains too close to conventional SaaS/product-blue signaling in the accent, boundary and soft-surface ladder.",
+      "calm_low_fatigue": "PASS",
+      "semantic_honesty": "PASS in the neutral fixture",
+      "fallback_resilience": "PASS",
+      "disposition": "NOT_RECOMMENDED"
+    }
+  },
+  "ranking": ["F2", "F1", "F3", "F4"],
+  "recommendation": {
+    "primary": "F2 — Monochrome + Intruder",
+    "secondary": "F1 — Split Temperature, retained only with explicit genericity reservation",
+    "not_recommended": ["F3", "F4"],
+    "scope": "provisional color-logic evidence only; no final palette, production color token, semantic status-color, app/site theme or Phase-C identity authority"
+  },
+  "recursive_audit": {
+    "result": "CLEAN",
+    "checks": [
+      "fresh review used corrected normal and true forced-colors PNG evidence rather than reopened dump-DOM HTML",
+      "all four candidate families were reviewed across APP/WEB and wide/320",
+      "CNEG and CCONV remained controls and were not promoted",
+      "no family color, role, content, dimension or criterion was changed after evidence",
+      "the prior invalid Design Sol view did not create binding authority",
+      "no Director preference was received before this freeze"
+    ]
+  }
+}
