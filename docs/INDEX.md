@@ -7,7 +7,7 @@ Generated file; do not hand-maintain.
 Generation command: `python3 tools/generate_docs_index.py`
 
 Total Markdown documents: 282
-Total text records: 76
+Total text records: 77
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
@@ -307,7 +307,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 ## UNCLASSIFIED (0)
 
 
-## TEXT RECORDS — INVENTORY ONLY (76)
+## TEXT RECORDS — INVENTORY ONLY (77)
 
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
@@ -322,6 +322,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/D_R1_PHASE_5_CLOSURE_01.txt`
 - `docs/evidence/D_R1_PHASE_5_CLOSURE_AUDIT_CONTRACT_01.txt`
 - `docs/evidence/D_R1_POST_PHASE_4_NEXT_PHASE_AUTHORITY_GAP_01.txt`
+- `docs/evidence/HANDOFF_DESIGN_SOL_PHASE_B_PACKET_ACCUMULATION_2026_09_10.txt`
 - `docs/evidence/HERO_CANDIDATE_06_METHOD_02_CONSTRUCTION_STAGES_01_05_RECURSIVE_AUDIT_01.txt`
 - `docs/evidence/HERO_CANDIDATE_06_METHOD_02_ROUND_06_EVALUATION_01.txt`
 - `docs/evidence/HERO_CANDIDATE_06_METHOD_02_STAGE_06_NEUTRAL_GEOMETRY_SCAFFOLD_AUDIT_01.txt`
