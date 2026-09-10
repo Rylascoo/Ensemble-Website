@@ -1,0 +1,22 @@
+{
+  "schema": "kymaean.clr01.q19-diagnostic-defect-restart.v1",
+  "status": "PREVIOUS_Q19_PREFLIGHT_AND_DESIGN_SOL_VIEW_INVALIDATED_RESTART_REQUIRED",
+  "date": "2026-09-10",
+  "program_id": "CLR-01",
+  "gate": "Q-DESIGN-19",
+  "trigger": "Director-visible review of the supplied normal/forced diagnostic artifact exposed presentation behavior inconsistent with a trustworthy portable diagnostic.",
+  "forensic_findings": [
+    "normal-diagnostic.html and forced-diagnostic.html are Chrome --dump-dom captures containing the original executable harness script; reopening them can append a second specimen set.",
+    "forced-diagnostic.html contains computed forced-colors measurements in its embedded report, but the serialized DOM/CSS does not preserve the operating-system forced-colors state when reopened in a normal browser, so its visible appearance is not a faithful forced-colors snapshot.",
+    "all normal REFLOW_320 cells report frame height 720 and scrollHeight 729 with panel bottom 729.203125 while overflow:hidden clips the carrier bottom; this common defect was outside the verifier's horizontal-only reflow assertion."
+  ],
+  "disposition": {
+    "workflow_run_34515179897": "INVALID_DIAGNOSTIC_CARRIER_ATTEMPT_NO_FAMILY_RESULT",
+    "artifact_10167385964": "INVALID_FOR_DIRECTOR_VISUAL_REVIEW",
+    "CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_01": "INVALIDATED_BEFORE_DIRECTOR_PREFERENCE",
+    "candidate_family_result": "NONE",
+    "director_preference_received": false
+  },
+  "authorized_correction": "Apply Addendum 02 uniformly, preserve all frozen colors/content/dimensions, replace portable-HTML claims with machine JSON plus real normal/forced PNG captures, rerun mechanical preflight, then freeze a fresh Design Sol view before Director preference.",
+  "guardrail": "No color/role retune, no family replacement, no changed review criterion, no final palette/theme authority."
+}
