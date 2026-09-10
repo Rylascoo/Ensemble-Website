@@ -2,30 +2,41 @@
 
 # KYMAEAN PROJECT REASONING + TASK-SCOPE OPTIMIZATION PROTOCOL
 
-Status: ACTIVE CROSS-PROJECT WORKFLOW LAW
+Status: ACTIVE DESIGN-LANE COMPATIBILITY LAW — CROSS-PROJECT CANONICALIZATION PENDING
 
-Protocol version: 0.3
+Protocol version: 0.4-DESIGN
 
-Date: 2026-09-07
+Date: 2026-09-09
+
+## 0. Migration note
+
+This file was previously labeled active cross-project workflow law while a separate copy also existed in `Rylascoo/Ensemble-Project`. That duplicate-authority pattern is being retired procedurally rather than extended.
+
+During the current migration sequence, Engineering is still working inside an active task and must not be disrupted merely to centralize documentation. Therefore this Website copy temporarily governs **Design-lane reasoning/task-scope behavior only**.
+
+When the later Engineering migration establishes the canonical cross-project reasoning/orchestration protocol in `Rylascoo/Ensemble-Project`, migrate inbound references deliberately and retire or reclassify this compatibility copy. Do not maintain two independently evolving canonical cross-project copies.
+
+Nothing in this migration changes the active design checkpoint in `CURRENT_STATE.md`.
 
 ## 1. Purpose
 
-For the remainder of Ensemble/Kymaean project creation, GPT-5.6 Sol High reasoning is not merely available for difficult questions. Each Director turn should be deliberately scoped so the model's reasoning capacity is used efficiently.
+For Ensemble/Kymaean design work, each Director turn should be deliberately scoped so the strongest appropriate reasoning and execution surface is used efficiently.
 
 The optimization target is:
 
-> **Maximum useful reasoning, synthesis, falsification, and completed dependency closure per Director turn — not maximum response length, token use, code volume, artifact count, or number of simultaneous objectives.**
+> **Maximum useful reasoning, synthesis, falsification, and completed dependency closure per Director turn — not maximum response length, token use, code volume, artifact count, model prestige, or number of simultaneous objectives.**
 
-This protocol changes collaboration granularity only. It does not alter product architecture, repository authority, validation authority, implementation approval boundaries, or Director creative authority.
+This protocol changes collaboration granularity and agent allocation only. It does not alter product architecture, repository authority, validation authority, implementation approval boundaries, frozen design methods, or Director creative authority.
 
 ### Anti-churn clarification
 
 For this project, `churn` primarily means:
 
 - unnecessary clarifying questions when project authority or safe defaults already resolve the issue;
-- repeated requests to approve intermediate work that is already inside an approved objective or phase;
+- repeated requests to approve intermediate work already inside an approved objective or delegated design gate;
 - returning to the Director merely because one internal subartifact, critique, packet, patch or audit stage is complete;
-- splitting one causal work unit into multiple conversational turns without a real authority or external-dependency reason.
+- splitting one causal work unit into multiple conversational turns without a real authority or external-dependency reason;
+- asking the Director to compose a Codex/Claude/Engineering prompt that Design Sol can specify itself.
 
 It does **not** mean `do less work per turn`.
 
@@ -35,9 +46,7 @@ Governing interpretation:
 
 ## 2. Mandatory task-scope optimization step
 
-Before executing a substantive Director request, determine the best individual task scope for GPT-5.6 Sol High.
-
-Choose the largest scope that remains one coherent, falsifiable objective and can be completed now with available authority, evidence, and tools.
+Before executing a substantive Director request, determine the largest scope that remains one coherent, falsifiable objective and can be completed now with available authority, evidence, and tools.
 
 A well-optimized task scope should normally:
 
@@ -49,89 +58,129 @@ A well-optimized task scope should normally:
 6. recursively audit the completed work until a full pass finds no material correction or worthwhile improvement within scope;
 7. update durable project state when a meaningful checkpoint changes;
 8. continue through already-authorized intermediate operations instead of returning for low-value approval;
-9. stop at the next **genuinely consequential** Director, architecture, implementation, security, runtime, WACK, Store, external-dependency or other external-validation gate.
+9. stop at the next **genuinely consequential** Director, architecture, implementation, security, runtime, WACK, Store, external-dependency, or other validation gate.
 
 A `gate` is not consequential merely because a document calls it a gate. It is consequential when proceeding would require new authority, a creative/product selection, an architecture/scope change, user-machine execution, external evidence, or another dependency that cannot be completed safely from current authority.
 
-## 3. What Sol High should be spent on
+## 3. Reasoning and execution allocation
 
-Prefer using the additional reasoning capacity for:
+### 3A. Design Sol — primary manager surface
+
+Design Sol is the accountable manager for design reasoning, authority reconciliation, method construction, design interpretation, recursive audit, and durable adoption.
+
+Current default at this migration checkpoint:
+
+**GPT-5.6 Sol High**
+
+If model availability changes, use the strongest generally available Sol reasoning configuration suited to design governance and repository reconciliation. The role is durable; the exact model label is not.
+
+Use Design Sol for:
 
 - cross-source synthesis and authority reconciliation;
-- architecture and dependency reasoning;
+- architecture-to-design translation;
 - creative/design divergence and falsification;
-- identifying hidden contradictions and stale assumptions;
+- method and criterion construction;
+- interpreting deterministic/browser/render evidence;
 - comparing genuinely different alternatives rather than polishing one incumbent;
-- compiler/runtime root-cause analysis and smallest-surface patch planning;
-- test strategy and regression reasoning;
-- accessibility, privacy, ARM64/battery/quiescence, and capability-degradation implications;
-- adversarial review and recursive quality audits;
+- accessibility/privacy/capability implications inside design authority;
+- adversarial recursive audits;
 - determining what should *not* be changed;
-- deciding the smallest justified next action after the current objective is complete;
-- recognizing when the next action is already authorized and should be executed without asking again.
+- deciding the smallest justified next action;
+- final in-lane adoption of executor/reviewer findings.
 
 Do not spend High reasoning merely producing more prose, more variants, larger code blocks, more files, or broader scope without a dependency reason.
 
-## 3A. External specialist allocation — Astra / Codex
+### 3B. Codex — execution environment, not authority
 
-GPT-5.6 Sol High is the **primary project reasoning and execution surface**. Astra/Codex is a scarce external specialist whose limited usage should be conserved rather than treated as the default place for repository work.
+Codex may become the normal execution surface for bounded work when a local repository/worktree, browser/CDP, tests, scripts, or other mechanical environment provides a material fidelity advantage.
 
-### Default rule
+Appropriate Design-lane uses include:
 
-If Sol High can complete a task correctly with available GitHub, Drive, browser, analysis, coding or artifact tools, complete it here. Corpus size or mechanical tedium alone does not justify external delegation.
+- exact HTML/CSS/browser specimen materialization from a frozen method;
+- deterministic viewport/reflow/forced-colors/focus preflight;
+- repository-wide mechanical audits or reference graphs;
+- scripted evidence collection;
+- implementation of an already-resolved website/design work package;
+- branch/worktree mechanics.
 
-### High-leverage Astra cases
+Codex must receive an exact baseline, scope, non-goals, evidence requirement, and stop condition. Codex output is returned to Design Sol for interpretation/reconciliation.
 
-Reserve Astra for normally one or two tightly bounded work packages per available usage window when a material capability advantage exists, especially:
+Do not conflate `Codex` with `Astra`. Codex is the execution surface; model selection is a separate decision.
 
-1. **local/batch repository mechanics** — full-checkout scripts, large reference graphs, per-file Git history matrices, branch-wide comparisons, or other operations that are substantially more complete in a local repository environment than through conversational file calls;
-2. **environment-specific verification** — browser/runtime/toolchain execution unavailable to the current Sol surface;
-3. **independent falsification** — a deliberately separate model/context review when project-context contamination or confirmation bias is itself a material risk;
-4. **codebase-scale mechanical transformation** — only when Codex can execute and verify a narrowly specified change more reliably than the available connected editing surface.
+Until the later Codex Administrator/execution setup is actually established, Design Sol must not assume automatic dispatch. It may prepare the exact packet for later execution or Director relay.
 
-### Required Astra work-package contract
+### 3C. GPT-6 Astra — scarce specialist
 
-Before using scarce Astra capacity, define:
+GPT-6 Astra is reserved for high-leverage Codex work when the stronger model materially changes expected reliability or information gain.
 
-- one bounded question or transformation;
-- authoritative repository/ref baseline;
-- exact files/scope allowed;
-- expected machine-checkable output or evidence;
-- explicit non-goals/prohibited changes;
-- stop/failure conditions;
-- what artifact or report must be returned for reconciliation here.
+High-value Astra cases include:
 
-Do not combine unrelated audits merely to fill an Astra session. Optimize for the highest-value information gain per scarce task, not maximum task count.
+1. difficult full-checkout/codebase-scale mechanical audits;
+2. complex browser/runtime/computer-use diagnosis;
+3. large cross-cutting transformations where stronger reasoning materially reduces execution risk;
+4. deliberately independent high-capability falsification when confirmation bias/context contamination is a real concern.
 
-### What stays in Sol High
+Do not use Astra simply because:
 
-Keep the following here by default:
+- Codex is being used;
+- the repository is large;
+- the work is tedious;
+- a stronger model sounds safer in the abstract.
 
-- current-state resolution and continuity maintenance;
-- ordinary GitHub/Drive reads and writes;
-- project-document drafting and reconciliation;
-- architecture/design reasoning;
-- candidate construction and evaluation;
-- recursive audits and earned-approval gates;
-- small or moderate code/doc patches supported by available tools;
-- interpretation of external audit results;
-- final project-authority decisions within the delegated lane.
+Astra is a scarce usage class. Ordinary Codex work should use the lowest-cost current model/reasoning configuration that preserves required quality.
 
-### Authority and adoption
+### 3D. Independent reviewer / Claude compatibility
 
-Astra findings are advisory evidence. They do not supersede `CURRENT_STATE.md`, frozen law, repository authority, Director authority, or a clean Sol High reconciliation.
+A genuinely independent reviewer can add value for consequential design-method critique, architecture/design cross-examination, difficult implementation review, or regression/security/accessibility falsification.
 
-Before an Astra recommendation changes project state:
+The future Claude protocol will define when Claude Chat versus Claude Code is appropriate, safe billing/authentication behavior, and recommended models/effort. Until that protocol is established:
 
-1. verify its factual baseline against current authoritative sources;
-2. distinguish mechanical findings from interpretation;
-3. recursively audit the proposed consequence here;
-4. correct inconsistencies before adoption;
-5. preserve the accepted finding and resulting state in durable project documentation.
+- do not assume automated Claude access;
+- do not silently invoke programmatic Claude usage;
+- Design Sol may generate a complete relay-ready independent-review packet when independence is already justified;
+- returned Claude/other-reviewer findings remain evidence/advice and require Design Sol reconciliation.
 
-If Astra capacity is exhausted, continue normal work here. Stop only if the missing external environment is genuinely required to establish the next claim or perform the next authorized action.
+### 3E. Model/reasoning recommendation rule
 
-## 4. Scope-shaping laws
+Whenever Design Sol asks the Director to invoke an external surface, the response must state the current recommended configuration explicitly.
+
+Required dispatch header, as applicable:
+
+```text
+SURFACE: <Codex | Claude Chat | Claude Code | Engineering Sol | other>
+MODEL: <current recommended model>
+REASONING/EFFORT: <current recommended level>
+MODE: <read-only | implement | browser | execute | review | other>
+USAGE CLASS: <normal | scarce>
+```
+
+Then provide one complete paste-ready prompt/work package.
+
+Model names, effort controls, plan limits, and tool availability change over time. Verify current capability when creating the packet. Do not freeze volatile product menus as permanent repository law.
+
+## 4. Administrator and cross-lane routing compatibility
+
+A future Ensemble Project Administrator may inspect both repositories, resolve queue/ref state, dispatch bounded tasks, and route cross-lane questions/results. It is an **operational dispatcher**, not a third project authority.
+
+Design Sol must be able to consume or produce a canonical dispatch packet containing:
+
+- source role;
+- target role;
+- central queue item when applicable;
+- exact source repository/ref;
+- exact target repository/ref when known;
+- bounded question/task;
+- authority already granted;
+- prohibited scope;
+- expected evidence/return artifact;
+- recommended surface/model/effort where execution is external;
+- stop/failure condition.
+
+A dispatch packet transports work. It does not create authority and does not replace the canonical cross-project queue.
+
+When Engineering is inside a sensitive active task, Design must not mutate Engineering state for administrative convenience. Prepare the required reconciliation/dispatch packet and wait for the lawful integration boundary unless central authority explicitly permits the write.
+
+## 5. Scope-shaping laws
 
 ### Semantic coupling over size
 
@@ -139,7 +188,7 @@ Combine work because the pieces depend on one another, not because a larger repl
 
 ### Closure over fragmentation
 
-If source synthesis, a small correction, its targeted verification, checkpoint evidence, continuity update and the next already-authorized internal operation are one causal work unit, complete them together instead of requesting repeated low-value approvals.
+If source synthesis, a small correction, targeted verification, checkpoint evidence, continuity update and the next already-authorized internal operation are one causal work unit, complete them together instead of requesting repeated low-value approvals.
 
 ### Questions are a last resort
 
@@ -151,7 +200,7 @@ Do not ask the Director to choose or restate information when:
 - a safe deterministic default can be used and documented;
 - the next step is merely archival, audit, packet preparation, targeted verification or another logically coupled operation.
 
-Ask only when proceeding would otherwise invent a material requirement, cross a real authority boundary, or risk doing the wrong irreversible/external action.
+Ask only when proceeding would otherwise invent a material requirement, cross a real authority boundary, or risk an irreversible/external action.
 
 ### Consequential gates remain explicit
 
@@ -164,87 +213,68 @@ Do not silently cross:
 - security-sensitive authorization;
 - native runtime/hardware validation;
 - WACK or Store certification;
-- any other gate whose authority belongs to the Director, the user's machine, or an external validator.
+- provider/spend authority;
+- any other gate whose authority belongs to the Director, Engineering, the user's machine, or an external validator.
 
 These boundaries prevent unauthorized decisions; they are **not** instructions to stop after every intermediate proposal or artifact.
 
 ### Standing continuation within approved scope
 
-Once the Director approves a bounded phase/proposal or says `continue`, complete downstream logically coupled internal work until one of the consequential boundaries above is reached.
+Once the Director approves a bounded phase/proposal or says `continue`, complete downstream logically coupled internal work until a consequential boundary is reached.
 
-Examples:
+The standing clean-recursive-audit delegation in `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md` also removes redundant approval pauses for ordinary in-lane design gates.
 
-- approved design method -> create its packet -> perform available archival/checkpoint work -> prepare the next non-convergent experiment if justified;
-- compiler evidence -> diagnose -> patch -> static/targeted checks -> checkpoint if meaningful -> return at the next native-machine gate;
-- visual evidence -> critique -> archive -> derive transferable law -> prepare the next lateral packet if no convergence decision is required.
+### Frozen-method discipline
 
-Do not request approval for each arrow in those chains.
+Once an experiment/method freezes criteria, carriers, fixtures, failure rules, zero-survivor policy, no-retune/no-reroll policy, or review sequencing, executor convenience may not alter those terms after results are visible.
 
-### Comparative micro-batches are allowed when they reduce churn
+A failed family may fail when the governing method allows zero survivors. Do not import older historical process text that forced convergence at budget exhaustion if current law permits falsification to zero.
+
+### Comparative micro-batches
 
 When the bounded objective is comparative research and no intermediate result must be selected before the next comparison, a small micro-batch of independent experiments may be authorized in one Director work package.
 
-For isolated image research:
-
-- one image per fresh disposable Renderer Context remains the default isolation law;
-- one Director work package may authorize multiple separate clean Renderer Contexts when the images answer one comparative question;
-- each packet must remain isolated from the other results unless deliberate cross-conditioning is the experiment;
-- batch size should stay as small as needed for discriminating evidence;
-- a batch does not authorize convergence or refinement.
+For isolated image research, renderer isolation remains lane/method-specific. One Director package may authorize multiple separate clean renderer contexts only when the governing method permits it. A batch does not authorize convergence or refinement.
 
 ### Simple tasks stay simple
 
-A status check, exact factual lookup, narrow correction, or confirmation should remain compact even while Sol High reasoning is active. Optimization means appropriate scope, not mandatory complexity.
-
-### One objective, multiple coupled operations
-
-A single optimized work package may contain many reads, comparisons, patches, tests, archival writes, recursive audits, packet preparations and other internal operations if they all answer the same bounded objective.
+A status check, exact factual lookup, narrow correction, or confirmation should remain compact even while High reasoning is active. Optimization means appropriate scope, not mandatory complexity.
 
 ### No background promises
 
 Complete the optimized work package in the current turn with available tools/evidence. If a hard external gate prevents completion, report the exact boundary rather than promising later work.
 
-## 5. Default task patterns
-
-### Compiler/runtime feedback
-
-`current authority -> failure evidence -> root cause -> smallest patch -> targeted regression/static checks -> checkpoint only if materially changed -> next machine gate`
-
-Do not regenerate full archives or documentation sets for ordinary corrections.
+## 6. Default task patterns
 
 ### Architecture/design proposal
 
-`authority -> unresolved question -> alternatives -> implications -> adversarial/falsification pass -> recursive audit -> confident recommendation -> execute already-authorized downstream internal work -> consequential Director gate`
+`authority -> unresolved question -> alternatives -> implications -> adversarial/falsification pass -> recursive audit -> recommendation -> already-authorized downstream work -> consequential Director gate`
 
-Do not split each analytical subsection into separate approval turns.
+### Deterministic design/browser work
+
+`frozen method -> exact execution contract -> Codex/browser/materialization when useful -> machine evidence -> Design Sol interpretation -> recursive audit -> continuity`
+
+Do not expose preference before a frozen independent Design Sol view when the method requires that sequencing.
 
 ### Visual exploration
 
-`durable laws -> sterile experiment scope -> genuinely divergent work/evidence -> critique/falsification -> evidence archive -> transferable findings -> next lateral experiment/packet when already authorized -> stop before unapproved convergence or unavoidable renderer/external dependency`
+`durable laws -> sterile/frozen experiment scope -> genuinely divergent work/evidence -> critique/falsification -> evidence archive -> transferable findings -> next lateral experiment/packet when already authorized -> stop before unapproved convergence or unavoidable external dependency`
 
 Do not equate polish, praise, recency, or renderer repetition with selection.
 
-Do not stop merely to ask permission to create the next non-convergent packet when the Director has already approved the active exploration phase and no creative-selection boundary is crossed.
-
 ### Artifact/checkpoint work
 
-`source truth -> artifact creation/update -> internal consistency audit -> provenance/archive -> CURRENT_STATE/handoff update when meaningful -> readback/recheck -> continue if the next operation is already authorized`
+`source truth -> artifact creation/update -> internal consistency audit -> provenance/archive -> CURRENT_STATE/ledger update when meaningful -> readback/recheck -> continue if next operation is authorized`
 
-Treat archival/checkpoint work as part of the same objective when it is causally required by the artifact.
+### Engineering consultation
 
-### Research/verification
+`design question -> exact Project current state/source -> ENGINEERING FACT -> DESIGN INFERENCE -> VISUAL PROPOSAL -> if unresolved cross-lane dependency, produce dispatch packet rather than invent Engineering truth`
 
-`question -> authoritative project sources -> identify unsupported gaps -> current external verification only when materially needed -> synthesis -> decision/implication -> execute any already-authorized follow-through`
+### External independent review
 
-Separate source-derived facts from inference or external research.
+`define why independence adds information -> exact baseline/question/non-goals -> recommended current surface/model/effort -> independent review -> return evidence -> verify factual baseline -> reconcile -> recursive audit -> durable adoption only if warranted`
 
-### External specialist audit
-
-`define unique capability gap -> spend one bounded Astra/Codex work package -> require machine-checkable evidence -> return evidence to Sol High -> verify baseline -> interpret/reconcile -> recursive audit -> durable project update`
-
-Do not send Astra a broad project-memory reconstruction task when one precise high-information audit will answer the unresolved question.
-
-## 6. Recursive audit rule
+## 7. Recursive audit rule
 
 After any material correction discovered during an audit, restart the audit from the relevant authority layer rather than assuming downstream conclusions remain valid.
 
@@ -259,32 +289,18 @@ A work package is complete when one full pass finds:
 
 This does not require polishing forever. Improvements outside the bounded objective become later work rather than scope creep.
 
-## 7. Relationship to existing project protocols
+## 8. Fresh-chat / migration requirement
 
-This protocol strengthens, rather than replaces:
+Fresh Design chats obtain their operating identity and bootstrap from `AGENTS.md`; they must not require the Director to paste the old personality prompt or a long historical handoff.
 
-- patch-first engineering;
-- `evidence -> smallest unresolved question -> recursive audit -> one justified next action -> stop`;
-- visual exploration/refinement separation;
-- `Surface != law`;
-- source-of-truth and validation hierarchies;
-- Drive visual provenance requirements;
-- fresh-chat continuity;
-- Director approval at consequential creative/architecture/implementation gates;
-- `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md` Sol-High-primary / Astra-scarcity discipline.
+Until cross-project canonicalization is complete, treat this file as Design-lane compatibility law only.
 
-Required synthesis:
+After the Engineering migration establishes one canonical cross-project reasoning/orchestration protocol:
 
-> **The smallest unresolved question still defines the objective; GPT-5.6 Sol High determines how much logically coupled work should be completed around that objective before returning to the Director. `Stop` means stop at the next consequential authority/external-dependency boundary—not after every intermediate step. External specialist capacity is consumed only when it provides otherwise unavailable or materially superior evidence.**
+1. compare that canonical protocol against this Design compatibility copy;
+2. preserve Design-specific requirements in the appropriate Design authority surface;
+3. migrate all inbound references;
+4. reclassify/retire this duplicate rather than maintaining two canonical copies;
+5. recursively audit both repositories before declaring cross-project protocol convergence.
 
-## 8. Fresh-chat requirement
-
-Fresh Ensemble/Kymaean project chats should treat this protocol as active workflow law whenever it is present in the authoritative repository bootstrap.
-
-Do not ask the Director to restate this permission.
-
-Do not reinterpret `anti-churn` as reduced initiative or reduced in-scope work.
-
-Do not assume Astra/Codex should inherit routine project work. Sol High remains the default project surface; external specialist use must satisfy Section 3A.
-
-For each substantive future turn, optimize task granularity deliberately before execution, minimize unnecessary questions, conserve external specialist capacity, and complete already-authorized downstream work before returning.
+Do not reinterpret anti-churn as reduced initiative. Do not assume every Codex task requires Astra. Do not ask the Director to reconstruct prompts for external tools. Optimize task granularity and execution surface deliberately, then return at the next genuinely consequential boundary.
