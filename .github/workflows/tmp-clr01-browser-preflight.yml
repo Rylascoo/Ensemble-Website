@@ -1,0 +1,44 @@
+name: Temporary CLR-01 browser preflight
+
+on:
+  push:
+    branches:
+      - design/clr01-q19-materialization-2026-09-10
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - name: Static contract checks
+        run: python tools/verify_clr01.py
+      - name: Browser structural, reflow, focus and forced-colors checks
+        shell: bash
+        run: |
+          set -euo pipefail
+          BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
+          test -n "$BROWSER"
+          BROWSER_VERSION="$($BROWSER --version)"
+          OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
+          URL="file://$PWD/prototypes/clr-01/harness.html?diagnostic=1"
+          "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --virtual-time-budget=1500 --user-data-dir=/tmp/clr01-normal --dump-dom "$URL" > /tmp/clr01-normal.html 2>/tmp/clr01-normal.log
+          "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --force-high-contrast --virtual-time-budget=1500 --user-data-dir=/tmp/clr01-forced --dump-dom "$URL" > /tmp/clr01-forced.html 2>/tmp/clr01-forced.log
+          mkdir -p /tmp/clr01-artifact/screens
+          python tools/verify_clr01.py --normal /tmp/clr01-normal.html --forced /tmp/clr01-forced.html --output /tmp/clr01-artifact/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY"
+          cp prototypes/clr-01/manifest.json /tmp/clr01-artifact/manifest.json
+          cp docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/clr01-artifact/execution-defaults.json
+          for fam in CNEG CCONV F1 F2 F3 F4; do
+            "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --hide-scrollbars --window-size=1320,3200 --virtual-time-budget=800 --user-data-dir="/tmp/clr01-shot-$fam" --screenshot="/tmp/clr01-artifact/screens/$fam.png" "file://$PWD/prototypes/clr-01/harness.html?family=$fam" >/tmp/clr01-shot-$fam.log 2>&1
+          done
+          printf '%s\n' "$BROWSER_VERSION" > /tmp/clr01-artifact/browser-version.txt
+          printf '%s\n' "$OS_PRETTY" > /tmp/clr01-artifact/os-pretty.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: clr01-preflight
+          path: /tmp/clr01-artifact
+          if-no-files-found: error
+          retention-days: 7

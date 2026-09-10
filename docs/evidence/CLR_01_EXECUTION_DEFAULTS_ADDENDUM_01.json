@@ -1,0 +1,71 @@
+{
+  "schema": "kymaean.clr01.execution-defaults.v1",
+  "status": "FROZEN_PRE_SPECIMEN_EXECUTION_DEFAULTS_NO_JUDGMENT",
+  "date": "2026-09-10",
+  "program_id": "CLR-01",
+  "parent_method": "docs/evidence/CLR_01_CROSS_SURFACE_COLOR_LOGIC_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+  "parent_method_main": "4a87523f9964a1fcf884100e0158d75d7b3809c0",
+  "reason": "The frozen method fixes color roles, values, content, matrix, major frame/panel widths, isolation and accessibility floors but leaves judgment-bearing carrier defaults that must not be silently chosen after visual evidence exists.",
+  "invariants": [
+    "No family/control hex value, role allocation, hue topology, emphasis order, matrix member, accessibility floor, review task, failure rule or no-retune law changes.",
+    "APP and WEB differ only where the parent method already authorizes context-specific frame/panel width and exact context color values.",
+    "All family/control specimens use identical carrier geometry, typography, spacing and element order within the same viewport class."
+  ],
+  "layout_defaults": {
+    "frame_height_css_px": 720,
+    "panel_top_css_px": 72,
+    "wide_panel_padding_css_px": 32,
+    "reflow_panel_padding_css_px": 20,
+    "reflow_panel_outer_margin_css_px": 16,
+    "panel_border_css_px": 1,
+    "panel_radius_css_px": 10,
+    "heading_to_body_gap_css_px": 14,
+    "body_to_rows_gap_css_px": 28,
+    "row_min_height_css_px": 84,
+    "row_inline_padding_css_px": 16,
+    "row_block_padding_css_px": 14,
+    "row_label_to_text_gap_css_px": 6,
+    "rows_to_action_gap_css_px": 24,
+    "action_padding_css_px": "11px 16px",
+    "action_border_css_px": 2,
+    "action_radius_css_px": 8,
+    "accent_strip_width_css_px": 32,
+    "accent_strip_height_css_px": 3,
+    "accent_strip_to_heading_gap_css_px": 16
+  },
+  "typography_defaults": {
+    "font_family": "system-ui, sans-serif",
+    "heading": "650 32px/1.15 system-ui, sans-serif",
+    "body": "400 16px/1.5 system-ui, sans-serif",
+    "row_label": "650 13px/1.3 system-ui, sans-serif",
+    "row_text": "400 16px/1.4 system-ui, sans-serif",
+    "action": "650 15px/1.2 system-ui, sans-serif"
+  },
+  "role_resolution": {
+    "panel_fill": "field",
+    "panel_and_row_required_boundaries": "boundary",
+    "primary_text": "P1 heading, P2 body, P3 text, P5 text",
+    "secondary_text": "P3/P4/P5 labels and P4 text",
+    "soft_surface": "P5 row only",
+    "accent_strip": "one 32x3 CSS px aria-hidden decorative strip before P1; carries no state, action, relationship or eligibility meaning",
+    "action": "transparent field fill with accent text and 2px accent border; the optional filled-accent variant is not used in CLR-01",
+    "focus": "3px double accent outline with 3px offset on :focus-visible; double-outline geometry makes focus distinguishable independently of hue"
+  },
+  "forced_colors_resolution": {
+    "principle": "Use native forced-color substitution. Do not preserve candidate colors with forced-color-adjust:none.",
+    "accent_strip": "hidden because it is non-semantic",
+    "panel_and_rows": "Canvas/CanvasText-compatible structure; required borders remain present",
+    "action": "ButtonText/Canvas-compatible border/text; focused action uses a 3px double Highlight outline",
+    "pass_condition": "All frozen text remains present, row/action structure remains identifiable, and focus remains geometrically visible when candidate colors are suppressed."
+  },
+  "diagnostic_defaults": {
+    "normal_mode": "browser-computed styles and geometry for all 24 cells",
+    "forced_colors_mode": "browser-computed styles/geometry with forced-colors active",
+    "review_mode": "labels may be visible outside the scored carrier as permitted by the parent method; no anonymous/blinded-review claim"
+  },
+  "non_authority": [
+    "These values are CLR-01 execution-fixture defaults only.",
+    "They are not production spacing, typography, radius, focus, color, theme or component tokens.",
+    "They create no website/app implementation, semantic-status color, Stage-motion, final-identity or Phase-C authority."
+  ]
+}
