@@ -1,0 +1,66 @@
+{
+  "schema": "kymaean.design-gate-packet-template.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-<AXIS>-<GATE>-<NN>",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "FROZEN_LOCAL_RESULT | PROVISIONAL_INCUMBENT | CLOSED_ZERO_SURVIVORS | PAUSED | DIRECTOR_ADJUDICATION_PENDING | INTEGRATION_REVIEW_REQUIRED | SUPERSEDED_BY_SUCCESSOR",
+  "date": "YYYY-MM-DD",
+  "gate_or_program": "",
+  "design_axis": "",
+  "bounded_question": "",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "",
+    "current_state_at_close": "",
+    "governing_method_or_contract": [],
+    "drive_sources_if_material": []
+  },
+  "controlled_inputs": [],
+  "excluded_variables": [],
+  "local_result": {
+    "summary": "",
+    "survivors_or_closure": [],
+    "recommended_incumbent": null,
+    "alternates": [],
+    "rejections": []
+  },
+  "judgment": {
+    "design_sol_view": "",
+    "director_view_or_delegation": "",
+    "resolution_mode": "DESIGN_SOL_ONLY | DIRECTOR_SELECTED | CONVERGENT_DIRECTOR_DESIGN_SOL | DIRECTOR_AUTHORIZED_DESIGN_SOL | MECHANICAL_CLOSURE | PENDING_DIRECTOR"
+  },
+  "evidence": {
+    "mechanical": [],
+    "visual": [],
+    "accessibility": [],
+    "invalid_or_superseded_attempts": []
+  },
+  "dependencies": {
+    "requires": [],
+    "constrains": [],
+    "must_not_be_confused_with": []
+  },
+  "known_integration_sensitivities": [],
+  "explicit_non_authority": [],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "",
+      "what_to_review": "",
+      "diagnostics_not_for_aesthetic_choice": []
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
