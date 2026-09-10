@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>STA-01 — Non-color focus / selection state grammar</title>
+<style>
+:root{color-scheme:light;--bg:#f4f4f2;--panel:#fff;--ink:#111;--muted:#575757;--line:#bdbdb8;--soft:#ececea}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.35 system-ui,-apple-system,"Segoe UI",sans-serif} main{max-width:1080px;margin:auto;padding:30px 22px 56px}.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}h1{font-size:27px;margin:.3rem 0 .5rem}.intro{max-width:82ch;margin:0 0 24px;color:var(--muted)}
+.family{background:var(--panel);border:1px solid var(--line);padding:18px;margin:0 0 18px}.family h2{font-size:18px;margin:0 0 4px}.family>p{margin:0 0 16px;color:var(--muted)}.contexts{display:grid;grid-template-columns:1fr 1fr;gap:14px}.context{border:1px solid var(--line);padding:14px}.context h3{font-size:13px;margin:0 0 10px;letter-spacing:.04em}.states{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:9px}.state-wrap{min-width:0}.state-label{font-size:11px;color:var(--muted);margin:0 0 6px}
+.sample{position:relative;width:100%;min-height:44px;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:9px 10px;text-align:left;font:inherit;border-radius:0}.web .sample{text-align:center}.sample.disabled{opacity:.45}.sample.focus{outline:2px solid var(--ink);outline-offset:2px}.sample:focus-visible{outline:2px solid var(--ink);outline-offset:2px}.sample.selected{background:var(--soft)}
+/* F1 conventional control */
+.f1 .selected{border:2px solid var(--ink);padding:8px 9px}
+/* F2 ring + edge witness: focus and selection are independent channels */
+.f2 .sample{border-color:#8f8f8a}.f2 .selected{background:var(--panel);border-color:var(--ink);padding-inline-start:15px}.f2 .selected::before{content:"";position:absolute;inset-block:7px;inset-inline-start:5px;width:3px;background:var(--ink)}.f2 .web .selected{padding-inline:14px}.f2 .web .selected::before{inset-block:auto;inset-inline:9px;bottom:5px;height:3px;width:auto}
+/* F3 opposing corner brackets; selected carrier risks edit/crop semantics */
+.f3 .selected{background:var(--panel);border-color:transparent}.f3 .selected::before,.f3 .selected::after{content:"";position:absolute;width:11px;height:11px;border-color:var(--ink);border-style:solid}.f3 .selected::before{left:3px;top:3px;border-width:2px 0 0 2px}.f3 .selected::after{right:3px;bottom:3px;border-width:0 2px 2px 0}
+/* F4 depth/weight stress family */
+.f4 .selected{background:var(--panel);font-weight:700;transform:translateY(-1px);box-shadow:0 3px 0 #6a6a66}.f4 .focus,.f4 .sample:focus-visible{outline-style:dotted}
+@media(max-width:700px){main{padding:20px 12px 36px}.contexts{grid-template-columns:1fr}.states{grid-template-columns:1fr 1fr}.state-wrap:last-child{grid-column:1/-1}.family{padding:14px}}
+@media(forced-colors:active){:root{--bg:Canvas;--panel:Canvas;--ink:CanvasText;--muted:CanvasText;--line:CanvasText;--soft:Canvas}.sample,.family,.context{forced-color-adjust:auto}.sample.focus{outline-color:Highlight}.f2 .selected::before,.f3 .selected::before,.f3 .selected::after{background:CanvasText;border-color:CanvasText}.f1 .selected,.f2 .selected{border-color:CanvasText}.f4 .selected{box-shadow:none}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+</style></head>
+<body><main>
+<div class="eyebrow">Phase-B shared brand · STA-01 · frozen matrix</div>
+<h1>Non-color focus / selection state grammar</h1>
+<p class="intro">One neutral structural comparison. Focus and selection must remain distinct when combined. Color, motion, iconography, material, imagery, bespoke type, semantic success/error/warning, Character state and CLR-01 are excluded.</p>
+<div id="families"><section class="family f1"><h2>F1 — Conventional Ring + Fill</h2><p>Generic control. Focus uses an outer ring; selection uses fill + heavier boundary.</p><div class="contexts"><div class="context app"><h3>APP-like restrained carrier</h3><div class="states"><div class="state-wrap"><div class="state-label">Default</div><button type="button" class="sample default">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus</div><button type="button" class="sample focus">Neutral action</button></div><div class="state-wrap"><div class="state-label">Selected</div><button type="button" class="sample selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus + selected</div><button type="button" class="sample focus selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Disabled</div><button type="button" class="sample disabled" disabled>Neutral action</button></div></div></div><div class="context web"><h3>WEB-like expressive carrier</h3><div class="states"><div class="state-wrap"><div class="state-label">Default</div><button type="button" class="sample default">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus</div><button type="button" class="sample focus">Neutral action</button></div><div class="state-wrap"><div class="state-label">Selected</div><button type="button" class="sample selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus + selected</div><button type="button" class="sample focus selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Disabled</div><button type="button" class="sample disabled" disabled>Neutral action</button></div></div></div></div></section><section class="family f2"><h2>F2 — Ring + Edge Witness</h2><p>Candidate. Focus keeps the outer ring; selection adds one restrained persistent edge witness.</p><div class="contexts"><div class="context app"><h3>APP-like restrained carrier</h3><div class="states"><div class="state-wrap"><div class="state-label">Default</div><button type="button" class="sample default">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus</div><button type="button" class="sample focus">Neutral action</button></div><div class="state-wrap"><div class="state-label">Selected</div><button type="button" class="sample selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus + selected</div><button type="button" class="sample focus selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Disabled</div><button type="button" class="sample disabled" disabled>Neutral action</button></div></div></div><div class="context web"><h3>WEB-like expressive carrier</h3><div class="states"><div class="state-wrap"><div class="state-label">Default</div><button type="button" class="sample default">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus</div><button type="button" class="sample focus">Neutral action</button></div><div class="state-wrap"><div class="state-label">Selected</div><button type="button" class="sample selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus + selected</div><button type="button" class="sample focus selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Disabled</div><button type="button" class="sample disabled" disabled>Neutral action</button></div></div></div></div></section><section class="family f3"><h2>F3 — Ring + Opposing Brackets</h2><p>Candidate. Focus keeps the outer ring; selection uses opposing corner brackets.</p><div class="contexts"><div class="context app"><h3>APP-like restrained carrier</h3><div class="states"><div class="state-wrap"><div class="state-label">Default</div><button type="button" class="sample default">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus</div><button type="button" class="sample focus">Neutral action</button></div><div class="state-wrap"><div class="state-label">Selected</div><button type="button" class="sample selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus + selected</div><button type="button" class="sample focus selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Disabled</div><button type="button" class="sample disabled" disabled>Neutral action</button></div></div></div><div class="context web"><h3>WEB-like expressive carrier</h3><div class="states"><div class="state-wrap"><div class="state-label">Default</div><button type="button" class="sample default">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus</div><button type="button" class="sample focus">Neutral action</button></div><div class="state-wrap"><div class="state-label">Selected</div><button type="button" class="sample selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus + selected</div><button type="button" class="sample focus selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Disabled</div><button type="button" class="sample disabled" disabled>Neutral action</button></div></div></div></div></section><section class="family f4"><h2>F4 — Weight + Depth</h2><p>Stress candidate. Focus uses a dotted ring; selection uses weight and static depth.</p><div class="contexts"><div class="context app"><h3>APP-like restrained carrier</h3><div class="states"><div class="state-wrap"><div class="state-label">Default</div><button type="button" class="sample default">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus</div><button type="button" class="sample focus">Neutral action</button></div><div class="state-wrap"><div class="state-label">Selected</div><button type="button" class="sample selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus + selected</div><button type="button" class="sample focus selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Disabled</div><button type="button" class="sample disabled" disabled>Neutral action</button></div></div></div><div class="context web"><h3>WEB-like expressive carrier</h3><div class="states"><div class="state-wrap"><div class="state-label">Default</div><button type="button" class="sample default">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus</div><button type="button" class="sample focus">Neutral action</button></div><div class="state-wrap"><div class="state-label">Selected</div><button type="button" class="sample selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Focus + selected</div><button type="button" class="sample focus selected" aria-pressed="true">Neutral action</button></div><div class="state-wrap"><div class="state-label">Disabled</div><button type="button" class="sample disabled" disabled>Neutral action</button></div></div></div></div></section></div>
+</main>
+<script>
+(function(){
+  const params = new URLSearchParams(location.search);
+  if (!params.has("diagnostic")) return;
+  function px(v){ const n=parseFloat(v); return Number.isFinite(n)?n:null; }
+  function snap(el){
+    const cs=getComputedStyle(el), bef=getComputedStyle(el,"::before"), aft=getComputedStyle(el,"::after"), r=el.getBoundingClientRect();
+    return {
+      className:el.className,ariaPressed:el.getAttribute("aria-pressed"),disabled:el.disabled,
+      rect:{x:r.x,y:r.y,width:r.width,height:r.height},
+      outline:{width:px(cs.outlineWidth),style:cs.outlineStyle,offset:px(cs.outlineOffset),color:cs.outlineColor},
+      border:{top:px(cs.borderTopWidth),right:px(cs.borderRightWidth),bottom:px(cs.borderBottomWidth),left:px(cs.borderLeftWidth)},
+      fontWeight:cs.fontWeight,transform:cs.transform,boxShadow:cs.boxShadow,opacity:cs.opacity,
+      before:{content:bef.content,width:px(bef.width),height:px(bef.height),display:bef.display,background:bef.backgroundColor,borderTop:px(bef.borderTopWidth),borderRight:px(bef.borderRightWidth),borderBottom:px(bef.borderBottomWidth),borderLeft:px(bef.borderLeftWidth)},
+      after:{content:aft.content,width:px(aft.width),height:px(aft.height),display:aft.display,borderTop:px(aft.borderTopWidth),borderRight:px(aft.borderRightWidth),borderBottom:px(aft.borderBottomWidth),borderLeft:px(aft.borderLeftWidth)}
+    };
+  }
+  const focusProbes={};
+  for (const family of ["f1","f2","f3","f4"]){
+    const el=document.querySelector("."+family+" .sample.default");
+    el.focus();
+    const cs=getComputedStyle(el);
+    focusProbes[family]={focusVisible:el.matches(":focus-visible"),outlineWidth:px(cs.outlineWidth),outlineStyle:cs.outlineStyle,outlineOffset:px(cs.outlineOffset)};
+    el.blur();
+  }
+  const specimens={};
+  document.querySelectorAll(".family").forEach(sec=>{
+    const fam=[...sec.classList].find(c=>/^f[1-4]$/.test(c)); specimens[fam]={};
+    sec.querySelectorAll(".context").forEach(ctx=>{
+      const cname=ctx.classList.contains("app")?"APP":"WEB"; specimens[fam][cname]={};
+      ctx.querySelectorAll(".state-wrap").forEach(w=>{
+        const raw=w.querySelector(".state-label").textContent.trim().toLowerCase();
+        const label=raw==="focus + selected"?"focus_plus_selected":raw.replaceAll(" ","_");
+        specimens[fam][cname][label]=snap(w.querySelector(".sample"));
+      });
+    });
+  });
+  const out={
+    schema:"kymaean.sta01.browser-diagnostic.v1",
+    viewport:{innerWidth:window.innerWidth,innerHeight:window.innerHeight,scrollWidth:document.documentElement.scrollWidth,scrollHeight:document.documentElement.scrollHeight},
+    media:{forcedColors:matchMedia("(forced-colors: active)").matches,reducedMotion:matchMedia("(prefers-reduced-motion: reduce)").matches,narrow:matchMedia("(max-width: 700px)").matches},
+    counts:{families:document.querySelectorAll(".family").length,contexts:document.querySelectorAll(".context").length,specimens:document.querySelectorAll(".sample").length,ariaPressed:document.querySelectorAll('[aria-pressed="true"]').length,disabled:document.querySelectorAll(".sample:disabled").length},
+    focusProbes,specimens
+  };
+  const pre=document.createElement("pre"); pre.id="sta-diagnostic"; pre.textContent=JSON.stringify(out); document.body.appendChild(pre);
+})();
+</script>
+</body></html>
