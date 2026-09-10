@@ -1,0 +1,56 @@
+{
+  "schema": "kymaean.design-packet-registry.v1",
+  "status": "ACTIVE",
+  "date": "2026-09-10",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "template": "docs/evidence/DESIGN_PACKET_TEMPLATE_01.json",
+  "purpose": "Provide one retrievable map of bounded current/provisional/closed visual-gate packets for later composition and whole-app synthesis without turning the registry itself into design authority.",
+  "packets": [
+    {
+      "packet_id": "PKT-MOT-F1A-01",
+      "path": "docs/evidence/packets/PKT_MOT_F1A_WITHIN_CONTEXT_SUCCESSION_01.json",
+      "axis": "motion / within-context succession",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F1A Tight bounded succession mechanism",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-MOT-CS2-01",
+      "path": "docs/evidence/packets/PKT_MOT_CS2_CONTEXT_SHIFT_01.json",
+      "axis": "motion / genuine context replacement",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "CS2 Balanced Crossfade Exchange with CUT fallback",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-TYP-01-CLOSE-01",
+      "path": "docs/evidence/packets/PKT_TYP_01_STRONG_INDEPENDENCE_CLOSURE_01.json",
+      "axis": "typography/editorial identity independence",
+      "status": "CLOSED_ZERO_SURVIVORS",
+      "current_contribution": "No incumbent; preserve typography as an unresolved whole-system gap",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-CLR-01-01",
+      "path": "docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json",
+      "axis": "cross-surface color-role logic",
+      "status": "DIRECTOR_ADJUDICATION_PENDING",
+      "current_contribution": "Design Sol recommends F2; F1 remains alternate with genericity reservation; Director result not yet frozen",
+      "production_authority": false
+    }
+  ],
+  "known_whole_system_gaps": [
+    "final typography/typeface system is unresolved; TYP-01 produced zero survivors",
+    "final color mechanism/palette is unresolved until CLR-01 Director adjudication and later integration",
+    "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
+    "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
+    "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical/temporary evidence exists"
+  ],
+  "synthesis_policy": {
+    "composition_packets_created": [],
+    "whole_app_synthesis_packets_created": [],
+    "next_synthesis_trigger": "Not automatically triggered by registry creation. Activate when two or more current packets materially interact on an authorized representative surface, or before claiming final cross-surface visual-system coherence/implementation readiness.",
+    "no_silent_gap_filling": true
+  },
+  "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. The registry creates no final identity, production token, implementation or Phase-C authority."
+}
