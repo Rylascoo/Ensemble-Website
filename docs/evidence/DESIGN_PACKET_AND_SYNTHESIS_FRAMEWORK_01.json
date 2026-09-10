@@ -20,12 +20,26 @@
   "packet_classes": {
     "GATE_MECHANISM_PACKET": {
       "purpose": "Preserve one bounded visual-gate result, including positive survivor, zero-survivor closure, rejection, pause, or provisional mechanism.",
-      "may_contain": ["motion logic", "color-role logic", "typographic/editorial logic", "surface hierarchy", "icon/symbol logic", "state-treatment logic", "density/spacing logic", "visual-world/imagery logic", "other bounded design mechanisms"],
+      "may_contain": [
+        "motion logic",
+        "color-role logic",
+        "typographic/editorial logic",
+        "surface hierarchy",
+        "icon/symbol logic",
+        "state-treatment logic",
+        "density/spacing logic",
+        "visual-world/imagery logic",
+        "other bounded design mechanisms"
+      ],
       "does_not_create": "Whole-app composition, final production tokens, implementation authority, or Phase-C convergence unless the governing gate separately grants them."
     },
     "COMPOSITION_PACKET": {
       "purpose": "Combine two or more existing gate packets on one bounded representative surface to test their interaction without changing the component packets by implication.",
-      "examples": ["motion plus color-role logic on one neutral app surface", "typography plus spacing plus control-state treatment", "website section combining shared-brand mechanisms"],
+      "examples": [
+        "motion plus color-role logic on one neutral app surface",
+        "typography plus spacing plus control-state treatment",
+        "website section combining shared-brand mechanisms"
+      ],
       "authority": "Integration evidence only unless a separately authorized refinement/adjudication promotes a change."
     },
     "WHOLE_APP_SYNTHESIS_PACKET": {
@@ -34,29 +48,53 @@
       "authority": "May confirm compatibility, expose integration conflicts, and open targeted successor gates. It may not retroactively alter packet history or invent outside-lane product/engineering authority."
     }
   },
-  "required_gate_packet_fields": [
-    "packet_id",
-    "packet_class",
-    "status",
-    "date",
-    "gate_or_program",
-    "design_axis",
-    "bounded_question",
-    "authoritative_sources_and_exact_refs",
-    "controlled_inputs",
-    "excluded_variables",
-    "local_result",
-    "survivors_or_closure",
-    "design_sol_view",
-    "director_view_or_delegation",
-    "mechanical_visual_accessibility_evidence",
-    "dependencies",
-    "known_integration_sensitivities",
-    "explicit_non_authority",
-    "lawful_reentry_triggers",
-    "canonical_artifacts_and_visual_master_provenance",
-    "director_review_surface"
-  ],
+  "required_gate_packet_content": {
+    "top_level": [
+      "schema",
+      "framework",
+      "packet_id",
+      "packet_class",
+      "status",
+      "date",
+      "gate_or_program",
+      "design_axis",
+      "bounded_question",
+      "authority",
+      "controlled_inputs",
+      "excluded_variables",
+      "local_result",
+      "judgment",
+      "evidence",
+      "dependencies",
+      "known_integration_sensitivities",
+      "explicit_non_authority",
+      "lawful_reentry_triggers",
+      "canonical_artifacts",
+      "synthesis_state"
+    ],
+    "nested_minimum": [
+      "authority.repository",
+      "authority source paths plus exact commit/hash/ref when material to reproducibility or authority",
+      "local_result.summary",
+      "local_result.survivors_or_closure",
+      "local_result.recommended_incumbent",
+      "judgment.design_sol_view",
+      "judgment.director_view_or_delegation",
+      "judgment.resolution_mode",
+      "evidence.mechanical",
+      "evidence.visual",
+      "evidence.accessibility",
+      "canonical_artifacts.repository",
+      "canonical_artifacts.drive_visual_masters",
+      "canonical_artifacts.director_review_surface.entry_point",
+      "canonical_artifacts.director_review_surface.what_to_review",
+      "canonical_artifacts.director_review_surface.diagnostics_not_for_aesthetic_choice",
+      "synthesis_state.tested_with_packet_ids",
+      "synthesis_state.latest_composition_packet",
+      "synthesis_state.whole_app_synthesis_status"
+    ],
+    "interpretation": "These are required logical locations, not a second flat schema. Use DESIGN_PACKET_TEMPLATE_01.json as the structural template. Fields may contain null/empty values when the governing gate genuinely has no corresponding evidence or Director action; do not invent content merely to populate the template."
+  },
   "packet_statuses": {
     "FROZEN_LOCAL_RESULT": "Gate result is frozen but not necessarily a selected incumbent.",
     "PROVISIONAL_INCUMBENT": "Current preferred mechanism for later integration; not final production authority.",
