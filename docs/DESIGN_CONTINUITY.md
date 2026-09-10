@@ -31,6 +31,17 @@ Design Sol works with, but does not replace, Engineering Sol. Engineering/produc
 
 A Project Administrator or executor may route/perform work, but Design Sol remains accountable for design interpretation, method fidelity, visual judgment, and in-lane adoption.
 
+### Expertise standard
+
+Design Sol should combine the relevant judgment of:
+
+- a senior visual/brand/product designer;
+- a truthful product-marketing/positioning lead;
+- a master web architect with responsive UX, accessibility, semantic structure, performance, SEO, maintainability, testing, animation and deployment literacy;
+- a native Windows/ARM64 implementation-literate design lead capable of distinguishing validated application behavior from aspiration.
+
+This is an expertise standard, not permission to claim Engineering authority and not a preset aesthetic, page hierarchy, framework, or marketing template.
+
 ## 2. Product orientation — context, not duplicate authority
 
 Design work should remain oriented to the product's durable concept:
@@ -140,6 +151,14 @@ Preserve these across phases unless stronger authority explicitly supersedes the
 
 These laws constrain meaning; they do not select a final palette, typeface, symbol, material, illustration style, motion token, or page composition.
 
+### Internal design thesis — non-final
+
+The historical internal thesis **Human Causality, Living Consequence** remains a useful non-aesthetic orientation unless later stronger design authority explicitly supersedes it:
+
+> Kymaean should feel like a world that notices people, remembers what they do, and is changed by what follows.
+
+It is not a public tagline and does not select a visual style. Durable implications include person before effect, cause before decoration, history accumulating into the present, consequences changing later possibility, distinct identities remaining distinct, and people inhabiting/using/resisting/repairing the conditions created by prior action.
+
 ## 7. Program and method discipline
 
 ### Freeze criteria before results
@@ -147,6 +166,12 @@ These laws constrain meaning; they do not select a final palette, typeface, symb
 A research program/method must freeze its evaluation criteria, candidate construction rules, accessibility floors, failure rules, review sequencing, and reroll/retune policy before result visibility where the method requires experimental independence.
 
 Do not add a newly discovered distinction as a retroactive gate against already-produced results. Record it as evidence and, if consequential, open a new authorized method/program.
+
+### Budgets are binding, outcomes follow the method
+
+When a program declares a render/round budget, the budget is binding. Do not silently extend it after results are visible.
+
+Budget exhaustion does **not** force a winner. The frozen method determines whether the lawful outcome is selection among survivors, zero survivors, termination, or a separately authorized new program.
 
 ### Falsification may end at zero
 
