@@ -1,9 +1,17 @@
 {
   "schema": "kymaean.clr01.q19-evidence.v1",
-  "status": "MECHANICAL_PREFLIGHT_CLEAN_DESIGN_SOL_VIEW_FROZEN_DIRECTOR_PENDING",
+  "status": "INVALIDATED_DIAGNOSTIC_CARRIER_ATTEMPT_NO_FAMILY_RESULT",
   "date": "2026-09-10",
   "program_id": "CLR-01",
   "gate": "Q-DESIGN-19",
+  "invalidation": {
+    "date": "2026-09-10",
+    "reason": "Director-visible inspection exposed that the artifact's raw Chrome dump-DOM files were not portable visual snapshots and that normal REFLOW_320 clipped approximately 9.2 CSS px of the lower panel boundary. The prior verifier did not test that vertical carrier visibility defect.",
+    "authority": "docs/evidence/CLR_01_Q19_DIAGNOSTIC_CARRIER_DEFECT_AND_RESTART_01.json",
+    "replacement_preflight": "docs/evidence/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_03.json",
+    "replacement_design_sol_view": "docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_02.json",
+    "preservation_note": "The original measurements, attempt history and claims below are preserved as historical evidence of the invalidated attempt; they are not current CLR-01 result authority."
+  },
   "method_main": "4a87523f9964a1fcf884100e0158d75d7b3809c0",
   "clean_source_commit": "156e54c5f1205a6db2aae28ec38f9a049fb17de9",
   "workflow": {
@@ -15,13 +23,7 @@
       "os": "Ubuntu 24.04.5 LTS"
     }
   },
-  "clean_source_sha256": {
-    "harness.html": "8e5a91a6f6d5d69e0f66c0f0d890af539e3f1bb2c64c2309aa99908b574c3cb5",
-    "manifest.json": "43d713c7774e6eec95e2f730b67a09eee3feceb2877c56ecf0cdfafe1441995d",
-    "execution_defaults": "4b039086686dfe2d450047ae71aa8a5e60dd529d45b75f6632b1f440d67a0855",
-    "verifier": "e22060f09bec6e063c3bf156e6409f9cdb6621e5ed04f7b53abf798e4f5c7dd4"
-  },
-  "mechanical_result": {
+  "historical_mechanical_result_as_recorded_before_invalidation": {
     "matrix_cells_materialized": 24,
     "matrix_cells_required": 24,
     "normal_browser_pass": true,
@@ -57,16 +59,16 @@
     {
       "source_commit": "156e54c5f1205a6db2aae28ec38f9a049fb17de9",
       "workflow_run_id": 34515179897,
-      "result": "CLEAN_PREFLIGHT",
-      "finding": "Correcting same-element frame selectors restored the frozen 1024/1280/320 CSS-px geometry. The candidate source values, role allocation, criteria and matrix were unchanged."
+      "result": "INVALIDATED_AFTER_DIRECTOR_VISIBLE_DIAGNOSTIC_INSPECTION",
+      "finding": "Same-element frame selectors were corrected, but the attempt still used misleading portable dump-DOM visual evidence and failed to detect common normal-mode 320 vertical clipping. No current family result survives from this attempt."
     }
   ],
   "historical_palette_quarantine": {
     "drive_record": "KYMAEAN_LANE_B_WEBSITE_V0_MATERIAL_ROLES_01.md",
     "exact_fixture_hex_reuse_found": false,
-    "subjective_watch": "F1 carries family-level warm-earth/editorial resemblance pressure; this was evaluated under the already-frozen distinctiveness/genericity tasks and did not trigger retuning."
+    "subjective_watch": "F1 carries family-level warm-earth/editorial resemblance pressure; no frozen family was retuned."
   },
-  "visual_evidence_sha256": {
+  "historical_visual_evidence_sha256": {
     "CNEG.png": "b4a236eb79b1748be3dc417a7040e12a8ad00f74c4ff996050994f84075f43bd",
     "CCONV.png": "0b41242c00a5e612d792abd131f3a6f36a5dd90d996042697448b1ebc3c11c22",
     "F1.png": "d69cbbb0d07e6ae48d45314142a9302dc7db08682fb551bdbd803ec100aa0d48",
@@ -74,7 +76,7 @@
     "F3.png": "ce887fce90803bebbd1f1e2635866e6a39c9c37c52ceee5df3484fe3a3c67348",
     "F4.png": "2fea66f25212d0450822ab1390c80970b7f1390626966783a75c0bfa357d2b65"
   },
-  "design_sol_independent_view": "docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_01.json",
+  "historical_design_sol_independent_view": "docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_01.json",
   "director_preference_received": false,
-  "authority_limit": "Mechanical preflight and Design Sol's independent view are complete. Director adjudication remains the next taste boundary. No final palette, Phase-C identity, product-state semantic color, Windows accessibility certification or website-theme authority is created."
+  "authority_limit": "This file is invalidated historical evidence only. Current Q-DESIGN-19 mechanical authority is Preflight 03 and current Design Sol judgment is View 02."
 }
