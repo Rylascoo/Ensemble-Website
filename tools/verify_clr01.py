@@ -2,7 +2,8 @@
 import argparse, hashlib, html.parser, json
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
-M=ROOT/'prototypes/clr-01/manifest.json'; H=ROOT/'prototypes/clr-01/harness.html'; A=ROOT/'docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_01.json'
+M=ROOT/'prototypes/clr-01/manifest.json'; H=ROOT/'prototypes/clr-01/harness.html'
+A1=ROOT/'docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_01.json'; A2=ROOT/'docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_02.json'
 def rgb(h): h=h.lstrip('#'); return tuple(int(h[i:i+2],16)/255 for i in (0,2,4))
 def lin(c): return c/12.92 if c<=.04045 else ((c+.055)/1.055)**2.4
 def lum(h):
@@ -24,12 +25,13 @@ def load_diag(p):
  return json.loads(raw)
 def main():
  ap=argparse.ArgumentParser(); ap.add_argument('--normal'); ap.add_argument('--forced'); ap.add_argument('--output'); ap.add_argument('--browser-version',default=''); ap.add_argument('--os-pretty',default=''); args=ap.parse_args()
- m=json.loads(M.read_text()); json.loads(A.read_text()); failures=[]; contrast=[]
+ m=json.loads(M.read_text()); json.loads(A1.read_text()); json.loads(A2.read_text()); failures=[]; contrast=[]
  expected=[f'{f}-{c}-{v}' for f in m['families_in_order'] for c in m['contexts_in_order'] for v in m['viewports_in_order']]
  if len(expected)!=24 or len(set(expected))!=24: failures.append('matrix cardinality')
  src=H.read_text()
  for bad in ['linear-gradient','radial-gradient','filter:blur','background-image:url','@font-face','@keyframes','.animate(','transition: all','box-shadow:0']:
   if bad in src: failures.append('forbidden source carrier '+bad)
+ if '.frame.reflow{width:320px;overflow-x:hidden;overflow-y:visible}' not in src: failures.append('reflow visibility correction missing')
  for f in m['families_in_order']:
   for c in m['contexts_in_order']:
    v=m['families'][f][c]
@@ -51,6 +53,11 @@ def main():
     panel_w=720 if z['context']=='WEB' and z['viewport']=='WIDE' else 680 if z['context']=='APP' and z['viewport']=='WIDE' else 288
     if abs(z['frame']['width']-target_w)>.01 or z['frame']['scrollWidth']>target_w: failures.append(f'{mode} frame/reflow {sid}')
     if abs(z['panel']['width']-panel_w)>.01 or abs(z['panel']['top']-72)>.01 or z['panel']['scrollWidth']>z['panel']['width']+.01: failures.append(f'{mode} panel geometry {sid}')
+    if z['viewport']=='REFLOW_320':
+     if z['frame'].get('overflowX')!='hidden' or z['frame'].get('overflowY')!='visible': failures.append(f'{mode} reflow visibility policy {sid}')
+     if z['panel'].get('bottom',0)>z['frame']['height'] and z['frame'].get('overflowY')!='visible': failures.append(f'{mode} vertical clipping {sid}')
+    elif z['panel'].get('bottom',0)>z['frame']['height']+.01:
+     failures.append(f'{mode} wide vertical clipping {sid}')
     if not z['action']['focused'] or z['action']['style']['outlineStyle']!='double' or float(z['action']['style']['outlineWidth'].replace('px',''))<3: failures.append(f'{mode} focus geometry {sid}')
     if z['action']['text']!='Open another view':failures.append(f'{mode} action text {sid}')
     for st in [z['panel']['style'],z['heading'],z['body'],z['action']['style']]+z['labels']+z['texts']+[r['style'] for r in z['rows']]:
@@ -60,7 +67,7 @@ def main():
      if not all(r['style']['borderBottomStyle']!='none' and float(r['style']['borderBottomWidth'].replace('px',''))>=1 for r in z['rows']):failures.append(f'forced row structure {sid}')
      for text in ['A field holds several related parts.','Each part remains distinct while sharing one context.','Primary note','A relationship remains visible.','Secondary note','Another detail remains present.','Reference','The surrounding field stays quiet.','Open another view']:
       if text not in z['textContent']: failures.append(f'forced missing text {sid}: {text}')
- ev={'schema':'kymaean.clr01.structural-accessibility-preflight.v1','status':'CLEAN_PREFLIGHT_NO_DIRECTOR_PREFERENCE' if not failures else 'FAILED_PREFLIGHT_NO_DIRECTOR_PREFERENCE','date':'2026-09-10','program_id':'CLR-01','method_main':m['method_main'],'source_sha256':{'harness.html':sha(H),'manifest.json':sha(M),'execution_defaults':sha(A),'verifier':sha(Path(__file__))},'environment':{'browser_version':args.browser_version,'os_pretty':args.os_pretty},'checks':{'matrix_count':len(expected),'contrast':contrast,'browser_normal':bool(args.normal),'browser_forced_colors':bool(args.forced)},'historical_palette_quarantine':m['historical_palette_quarantine'],'failures':failures}
+ ev={'schema':'kymaean.clr01.structural-accessibility-preflight.v2','status':'CLEAN_PREFLIGHT_NO_DIRECTOR_PREFERENCE' if not failures else 'FAILED_PREFLIGHT_NO_DIRECTOR_PREFERENCE','date':'2026-09-10','program_id':'CLR-01','method_main':m['method_main'],'source_sha256':{'harness.html':sha(H),'manifest.json':sha(M),'execution_defaults_01':sha(A1),'execution_defaults_02':sha(A2),'verifier':sha(Path(__file__))},'environment':{'browser_version':args.browser_version,'os_pretty':args.os_pretty},'checks':{'matrix_count':len(expected),'contrast':contrast,'browser_normal':bool(args.normal),'browser_forced_colors':bool(args.forced),'portable_visual_evidence_required':True},'historical_palette_quarantine':m['historical_palette_quarantine'],'failures':failures}
  if args.output: Path(args.output).write_text(json.dumps(ev,indent=2)+'\n')
  print(json.dumps(ev,indent=2)); return 1 if failures else 0
 if __name__=='__main__': raise SystemExit(main())
