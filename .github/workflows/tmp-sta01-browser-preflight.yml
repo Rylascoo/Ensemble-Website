@@ -31,13 +31,20 @@ jobs:
           import fs from 'node:fs';
           const [mode,widthArg,diagPath,shotPath,profile] = process.argv.slice(2);
           const width = Number(widthArg), height = 2600, browser = process.env.BROWSER;
-          const args=['--headless=new','--no-sandbox','--disable-gpu','--allow-file-access-from-files','--remote-debugging-port=9222',`--user-data-dir=${profile}`,'about:blank'];
+          fs.rmSync(profile,{recursive:true,force:true});
+          fs.mkdirSync(profile,{recursive:true});
+          const args=['--headless=new','--no-sandbox','--disable-gpu','--allow-file-access-from-files','--remote-debugging-port=0',`--user-data-dir=${profile}`,'about:blank'];
           if(mode==='forced') args.splice(args.length-1,0,'--force-high-contrast');
-          const cp=spawn(browser,args,{stdio:['ignore','ignore','ignore']});
+          const cp=spawn(browser,args,{stdio:['ignore','ignore','inherit']});
           const sleep=ms=>new Promise(r=>setTimeout(r,ms));
           async function endpoint(){
-            for(let i=0;i<100;i++){
-              try{ const a=await (await fetch('http://127.0.0.1:9222/json/list')).json(); if(a[0]?.webSocketDebuggerUrl) return a[0].webSocketDebuggerUrl; }catch{}
+            const active=profile+'/DevToolsActivePort';
+            for(let i=0;i<120;i++){
+              if(fs.existsSync(active)){
+                const [port]=fs.readFileSync(active,'utf8').trim().split(/\r?\n/);
+                try{ const a=await (await fetch(`http://127.0.0.1:${port}/json/list`)).json(); if(a[0]?.webSocketDebuggerUrl) return a[0].webSocketDebuggerUrl; }catch{}
+              }
+              if(cp.exitCode!==null) throw new Error('Chrome exited before DevTools endpoint became available: '+cp.exitCode);
               await sleep(100);
             }
             throw new Error('CDP endpoint unavailable');
@@ -53,13 +60,17 @@ jobs:
             const url='file://'+process.cwd()+'/prototypes/sta-01/harness.html?diagnostic=1';
             await send('Page.navigate',{url}); await sleep(900);
             const ev=await send('Runtime.evaluate',{expression:"document.getElementById('sta-diagnostic').textContent",returnByValue:true});
+            if(!ev?.result?.value) throw new Error('STA diagnostic not produced');
             fs.writeFileSync(diagPath,ev.result.value+'\n');
             const layout=await send('Page.getLayoutMetrics');
             const size=layout.cssContentSize;
             const shot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:true,clip:{x:0,y:0,width:size.width,height:size.height,scale:1}});
             fs.writeFileSync(shotPath,Buffer.from(shot.data,'base64'));
             ws.close();
-          } finally { cp.kill('SIGTERM'); }
+          } finally {
+            cp.kill('SIGTERM');
+            await Promise.race([new Promise(r=>cp.once('exit',r)),sleep(1500)]);
+          }
           NODE
           run_cdp() {
             local mode="$1" width="$2" stem="$3"
