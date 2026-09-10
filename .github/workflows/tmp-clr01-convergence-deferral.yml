@@ -1,0 +1,40 @@
+name: Temporary CLR-01 convergence deferral closeout
+
+on:
+  push:
+    branches:
+      - design/clr01-defer-to-app-asset-convergence-2026-09-10
+
+permissions:
+  contents: write
+
+jobs:
+  closeout:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 20
+      - name: Save CLR-01 boundary and validate continuity
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/tmp_clr01_convergence_deferral.py
+          rm -f tools/tmp_clr01_convergence_deferral.py .github/workflows/tmp-clr01-convergence-deferral.yml
+
+          python3 -m json.tool docs/evidence/CLR_01_DIRECTOR_DEFERRAL_TO_APP_ASSET_CONVERGENCE_01.json >/dev/null
+          python3 -m json.tool docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json >/dev/null
+          python3 -m json.tool docs/evidence/DESIGN_PACKET_REGISTRY_01.json >/dev/null
+          python3 tools/generate_docs_index.py --check
+          python3 tools/validate_document_status.py
+          test "$(wc -c < CURRENT_STATE.md)" -le 3072
+
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A
+          git diff --cached --check
+          git commit -m "Park CLR-01 until app asset convergence"
+
+          python3 tools/validate_repository_boundaries.py
+          git push origin HEAD:refs/heads/design/clr01-defer-to-app-asset-convergence-2026-09-10
