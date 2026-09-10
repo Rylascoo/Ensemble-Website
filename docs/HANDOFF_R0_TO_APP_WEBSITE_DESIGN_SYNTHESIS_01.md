@@ -1,4 +1,4 @@
-<!-- D-R1-STATUS: UNCLASSIFIED -->
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
 
 # Kymaean / Ensemble — Fresh Chat Handoff: R0 -> App + Website Design Synthesis 01
 

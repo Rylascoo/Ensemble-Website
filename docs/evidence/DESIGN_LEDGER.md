@@ -3,7 +3,7 @@
 # Kymaean Design Ledger
 
 Status: ACTIVE DURABLE CLOSURE / RE-DERIVATION LEDGER
-Updated: 2026-09-08
+Updated: 2026-09-09
 
 ## Purpose
 
@@ -900,5 +900,29 @@ Accessibility/isolation floors are frozen before execution: normal text >=4.5:1;
 **Next gate:** Q-DESIGN-19 materializes the deterministic packet/manifest, preflights all 24 cells, and freezes Design Sol's independent view before Director preference.
 
 **Guardrail:** no final palette, production color tokens, theme implementation, semantic status-color system, image generation/renderer spend, motion retune, Stage motion, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-055 — Pre-handoff repository hygiene resolves D-R1 classification debt
+
+**State:** COMPLETE / 0 UNCLASSIFIED / SERIAL BRANCH CLOSEOUT LAW STRENGTHENED
+
+The 11 Markdown records intentionally left `UNCLASSIFIED` at L-012 are now resolvable from later authoritative evidence without guessing or rewriting history.
+
+Promoted to `ACTIVE LAW`:
+- `docs/KYMAEAN_HERO_INTEGRATION_HARNESS_01.md` — the original pre-freeze body status is preserved, while later correction/freeze evidence establishes current Harness authority;
+- `docs/KYMAEAN_HERO_SUCCESSOR_DESIGN_CONSTRUCTION_METHOD_02.md` — later approval evidence and L-005 establish Method 02 as active method law.
+
+Reclassified as `HISTORICAL EVIDENCE`:
+- the five stale R0/V0/VID fresh-chat handoffs;
+- Candidate 06 Stages 1–5 and its D9 mechanism investigation, after C06 closure;
+- the D9 visual/mechanism reconsideration source, after D9's three-render termination;
+- the stale D1-era Visual Asset Materialization Roadmap.
+
+No legacy body `Status:` line was rewritten to look contemporaneously correct. The two current-law sources instead carry explicit D-R1 currency notes pointing to later authority. The generated corpus projection is now **282 Markdown = 44 ACTIVE LAW / 9 SUPERSEDED / 229 HISTORICAL EVIDENCE / 0 UNCLASSIFIED**, with **76 text records**.
+
+`AGENTS.md` now makes serial post-promotion branch closeout explicit: exact-ref fetch/prune, strict-ancestor + zero-unique proof, exact lightweight archive-tag preservation/readback, then remote-branch deletion. Unique-commit branches remain protected. The live ref sweep is a separate mechanical maintenance operation after this reconciliation is promoted; branch names never regain authority merely because cleanup is pending.
+
+**Guardrail:** this reconciliation changes no design score, historical result, frozen criterion, active CLR-01 boundary, production authority or current design next action. Classification follows already-established later evidence; it does not create new design law beyond the branch-lifecycle safeguard.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

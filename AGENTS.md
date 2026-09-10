@@ -127,6 +127,18 @@ Repository restructuring is organization, not redesign:
 - do not change Cloudflare root merely to silence deployment failure;
 - do not promote a historical prototype into `site/` because production source is absent.
 
+### Serial branch closeout
+
+A serial work branch is not a durable authority surface. After its work is promoted, close its ref lifecycle before accumulating another serial promotion branch when the available write surface permits:
+
+1. fetch/prune and resolve the exact current `main` and branch heads;
+2. require the source branch head to differ from `main`, be a strict ancestor of current `main`, and have zero unique commits (`main..branch = 0`);
+3. create or verify a lightweight archival tag that resolves to the exact source-branch SHA;
+4. only after tag readback, delete the remote source branch;
+5. if tag/ref mutation is unavailable, classify the exact branch/SHA as administrative cleanup debt rather than treating the surviving branch name as active authority.
+
+Housekeeping must never delete, force-rebase, or overwrite a branch with unique commits. A branch that still has unique commits remains preserved until its content receives an explicit disposition.
+
 ## Current-state discipline
 
 Keep `CURRENT_STATE.md` at or below **3 KiB** and within **3 commits** of the active branch head. It contains only authority, active checkpoint, exact next action, hard boundaries, and pointers. Durable history belongs in ledger/evidence; workflow law belongs here. The N=3 rule is a staleness ceiling, not a requirement to embed HEAD in state and create self-referential commits.
