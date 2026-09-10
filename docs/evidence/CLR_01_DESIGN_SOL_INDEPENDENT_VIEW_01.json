@@ -1,0 +1,80 @@
+{
+  "schema": "kymaean.clr01.design-sol-independent-view.v1",
+  "status": "FROZEN_PRE_DIRECTOR_PREFERENCE",
+  "date": "2026-09-10",
+  "program_id": "CLR-01",
+  "method_main": "4a87523f9964a1fcf884100e0158d75d7b3809c0",
+  "evaluated_source_commit": "156e54c5f1205a6db2aae28ec38f9a049fb17de9",
+  "mechanical_preflight": {
+    "workflow_run_id": 34515179897,
+    "artifact_id": 10167385964,
+    "artifact_digest": "sha256:f76798df7e501e1571af77d664eee0dd35d2f30f93d84fd12e8179a54b159357",
+    "result": "CLEAN_PREFLIGHT_NO_DIRECTOR_PREFERENCE",
+    "browser": "Google Chrome 152.0.7977.82",
+    "os": "Ubuntu 24.04.5 LTS",
+    "all_24_cells_mechanically_eligible": true
+  },
+  "review_boundary": {
+    "director_preference_received_before_freeze": false,
+    "criteria_source": "frozen method review.tasks only",
+    "historical_palette_quarantine_use": "Evidence within frozen distinctiveness/genericity tasks only; not a new criterion.",
+    "no_candidate_retuned": true,
+    "controls": {
+      "CNEG": "Negative low-identity calibration control; not a Kymaean-family selection candidate.",
+      "CCONV": "Conventional product-blue calibration control; method explicitly excludes it from Kymaean-family selection."
+    }
+  },
+  "screenshot_sha256": {
+    "CNEG.png": "b4a236eb79b1748be3dc417a7040e12a8ad00f74c4ff996050994f84075f43bd",
+    "CCONV.png": "0b41242c00a5e612d792abd131f3a6f36a5dd90d996042697448b1ebc3c11c22",
+    "F1.png": "d69cbbb0d07e6ae48d45314142a9302dc7db08682fb551bdbd803ec100aa0d48",
+    "F2.png": "8a45eecba84660a56d02e7c26d4c67b187ab373d610b840f9914e9a96ef08aa1",
+    "F3.png": "ce887fce90803bebbd1f1e2635866e6a39c9c37c52ceee5df3484fe3a3c67348",
+    "F4.png": "2fea66f25212d0450822ab1390c80970b7f1390626966783a75c0bfa357d2b65"
+  },
+  "candidate_views": {
+    "F1": {
+      "name": "Split Temperature",
+      "cross_surface_family_coherence": "PASS — restrained APP and warmer WEB remain visibly one warm/cool role logic.",
+      "distinctiveness": "BORDERLINE — the warm-earth hinge gives character, but the stripped carrier reads more like familiar premium editorial/heritage styling than a uniquely ownable Kymaean mechanism.",
+      "genericity": "CONCERN — the frozen method already names heritage/editorial warmth as its primary risk; the post-freeze Drive quarantine also finds family-level resemblance to prior warm-earth material exploration even though no exact fixture hex was copied.",
+      "calm_low_fatigue_compatibility": "PASS — quiet fields, restrained accent and stable hierarchy remain calm in APP and WEB.",
+      "semantic_honesty": "PASS — the rust accent behaves as neutral emphasis/action rather than status, identity or authority in this carrier.",
+      "fallback_resilience": "PASS — mechanically confirmed with forced colors active and color suppressed.",
+      "design_sol_disposition": "BORDERLINE_NOT_RECOMMENDED_AS_PRIMARY_SURVIVOR"
+    },
+    "F2": {
+      "name": "Monochrome + Intruder",
+      "cross_surface_family_coherence": "PASS — both contexts preserve a violet-neutral structural field with a scarce teal interruption while WEB strengthens expression without changing topology.",
+      "distinctiveness": "PASS — of the scored families, this mechanism remains the most legible as a relationship among roles rather than simply an attractive palette; scarcity makes the accent feel intentional without requiring other identity carriers.",
+      "genericity": "PASS_WITH_WATCH — violet/teal creative-tool familiarity is a real risk, but the fixture's broad near-monochrome distribution plus rare teal is less category-conventional than CCONV and less trope-bound than the other scored families.",
+      "calm_low_fatigue_compatibility": "PASS — the chroma concentration is low and the accent is sparse, compatible with restrained motion rather than competing with it.",
+      "semantic_honesty": "PASS — teal marks only the frozen non-semantic strip and neutral action/focus role; it does not imply state, success, priority, identity or authority.",
+      "fallback_resilience": "PASS — mechanically confirmed with forced colors active and color suppressed.",
+      "design_sol_disposition": "PROVISIONAL_SURVIVOR_AND_PRIMARY_RECOMMENDATION"
+    },
+    "F3": {
+      "name": "Complementary Poles",
+      "cross_surface_family_coherence": "PASS — APP/WEB preserve the same green-field/plum-accent opposition.",
+      "distinctiveness": "BORDERLINE — the opposition is immediately visible, but its character comes from a familiar green/plum pairing rather than a less expected role logic.",
+      "genericity": "CONCERN — on neutral content the family leans strongly toward botanical/wellness associations, matching the frozen method's named risk; the complementary-pole signal is more trope-like than specifically Kymaean.",
+      "calm_low_fatigue_compatibility": "PASS — low-chroma fields remain calm despite the stronger accent contrast.",
+      "semantic_honesty": "PASS_WITH_WATCH — no status is actually encoded, but the green field plus red-adjacent plum increases future collision pressure with common semantic-color expectations.",
+      "fallback_resilience": "PASS — mechanically confirmed with forced colors active and color suppressed.",
+      "design_sol_disposition": "NOT_RECOMMENDED_AS_SURVIVOR"
+    },
+    "F4": {
+      "name": "Chromatic Ladder",
+      "cross_surface_family_coherence": "PASS — APP/WEB clearly share a warm-neutral field and blue structural ladder.",
+      "distinctiveness": "FAIL_SUBJECTIVE — the distributed blue roles are polished but do not create recognizable character beyond familiar digital-product color treatment in the stripped carrier.",
+      "genericity": "FAIL_SUBJECTIVE — despite the warmer field, it remains visually too close to the conventional product-blue category represented by CCONV, which is exactly the frozen method's named risk.",
+      "calm_low_fatigue_compatibility": "PASS — visually quiet and stable.",
+      "semantic_honesty": "PASS — no state or authority meaning is carried by blue in the neutral fixture.",
+      "fallback_resilience": "PASS — mechanically confirmed with forced colors active and color suppressed.",
+      "design_sol_disposition": "NOT_RECOMMENDED_AS_SURVIVOR"
+    }
+  },
+  "independent_ranking": ["F2", "F1", "F3", "F4"],
+  "independent_recommendation": "Advance F2 as Design Sol's provisional CLR-01 survivor. Keep F1 visible to the Director as the strongest alternative but do not recommend it as primary because its identity is less independent of familiar editorial/warm-earth conventions. Do not advance F3 or F4 on Design Sol's view.",
+  "authority_limit": "This freezes Design Sol's independent pre-Director view only. It is not Director adjudication, final palette authority, Phase-C identity authority, semantic-status color authority, app implementation validation, or website theme selection."
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "kymaean.clr01.q19-evidence.v1",
+  "status": "MECHANICAL_PREFLIGHT_CLEAN_DESIGN_SOL_VIEW_FROZEN_DIRECTOR_PENDING",
+  "date": "2026-09-10",
+  "program_id": "CLR-01",
+  "gate": "Q-DESIGN-19",
+  "method_main": "4a87523f9964a1fcf884100e0158d75d7b3809c0",
+  "clean_source_commit": "156e54c5f1205a6db2aae28ec38f9a049fb17de9",
+  "workflow": {
+    "run_id": 34515179897,
+    "artifact_id": 10167385964,
+    "artifact_digest": "sha256:f76798df7e501e1571af77d664eee0dd35d2f30f93d84fd12e8179a54b159357",
+    "environment": {
+      "browser": "Google Chrome 152.0.7977.82",
+      "os": "Ubuntu 24.04.5 LTS"
+    }
+  },
+  "clean_source_sha256": {
+    "harness.html": "8e5a91a6f6d5d69e0f66c0f0d890af539e3f1bb2c64c2309aa99908b574c3cb5",
+    "manifest.json": "43d713c7774e6eec95e2f730b67a09eee3feceb2877c56ecf0cdfafe1441995d",
+    "execution_defaults": "4b039086686dfe2d450047ae71aa8a5e60dd529d45b75f6632b1f440d67a0855",
+    "verifier": "e22060f09bec6e063c3bf156e6409f9cdb6621e5ed04f7b53abf798e4f5c7dd4"
+  },
+  "mechanical_result": {
+    "matrix_cells_materialized": 24,
+    "matrix_cells_required": 24,
+    "normal_browser_pass": true,
+    "forced_colors_active_and_pass": true,
+    "reflow_320_no_carrier_overflow": true,
+    "keyboard_focus_geometry_non_color_redundant": true,
+    "forbidden_effect_or_motion_carrier_found": false,
+    "hue_only_state_or_eligibility_meaning_found": false,
+    "historical_palette_quarantine_performed_after_source_freeze": true,
+    "minimum_observed_contrast_ratios_across_controls_and_scored_families": {
+      "primary_on_field": 14.664786,
+      "secondary_on_field": 5.874293,
+      "primary_on_soft_surface": 13.376984,
+      "secondary_on_soft_surface": 5.32214,
+      "accent_on_field": 4.856679,
+      "essential_boundary_on_field": 3.424063
+    },
+    "hard_floor_failures": []
+  },
+  "attempt_history": [
+    {
+      "source_commit": "e575aea2a8aa9a659e671d9da550274798ea5a41",
+      "workflow_run_id": 34514631232,
+      "result": "INVALID_PREFLIGHT_ATTEMPT",
+      "finding": "Uniform frame/reflow assertion failed across all 24 cells while all color-role arithmetic passed and forced-colors activation was observed. No family-specific design result was admitted."
+    },
+    {
+      "source_commit": "dee82d3057348557abcaeceddb678ae771cae3ff",
+      "workflow_run_id": 34514860491,
+      "result": "INVALID_DIAGNOSTIC_CONFIRMATION_ATTEMPT",
+      "finding": "Preserved diagnostics measured every frame at 733 CSS px, proving a common carrier instrumentation defect rather than a candidate-color defect. No family result was admitted."
+    },
+    {
+      "source_commit": "156e54c5f1205a6db2aae28ec38f9a049fb17de9",
+      "workflow_run_id": 34515179897,
+      "result": "CLEAN_PREFLIGHT",
+      "finding": "Correcting same-element frame selectors restored the frozen 1024/1280/320 CSS-px geometry. The candidate source values, role allocation, criteria and matrix were unchanged."
+    }
+  ],
+  "historical_palette_quarantine": {
+    "drive_record": "KYMAEAN_LANE_B_WEBSITE_V0_MATERIAL_ROLES_01.md",
+    "exact_fixture_hex_reuse_found": false,
+    "subjective_watch": "F1 carries family-level warm-earth/editorial resemblance pressure; this was evaluated under the already-frozen distinctiveness/genericity tasks and did not trigger retuning."
+  },
+  "visual_evidence_sha256": {
+    "CNEG.png": "b4a236eb79b1748be3dc417a7040e12a8ad00f74c4ff996050994f84075f43bd",
+    "CCONV.png": "0b41242c00a5e612d792abd131f3a6f36a5dd90d996042697448b1ebc3c11c22",
+    "F1.png": "d69cbbb0d07e6ae48d45314142a9302dc7db08682fb551bdbd803ec100aa0d48",
+    "F2.png": "8a45eecba84660a56d02e7c26d4c67b187ab373d610b840f9914e9a96ef08aa1",
+    "F3.png": "ce887fce90803bebbd1f1e2635866e6a39c9c37c52ceee5df3484fe3a3c67348",
+    "F4.png": "2fea66f25212d0450822ab1390c80970b7f1390626966783a75c0bfa357d2b65"
+  },
+  "design_sol_independent_view": "docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_01.json",
+  "director_preference_received": false,
+  "authority_limit": "Mechanical preflight and Design Sol's independent view are complete. Director adjudication remains the next taste boundary. No final palette, Phase-C identity, product-state semantic color, Windows accessibility certification or website-theme authority is created."
+}
