@@ -1,0 +1,37 @@
+{
+  "schema": "kymaean.clr01.execution-defaults-correction.v2",
+  "status": "FROZEN_POST_DIAGNOSTIC_MECHANICAL_CORRECTION_NO_FAMILY_RETUNE",
+  "date": "2026-09-10",
+  "program_id": "CLR-01",
+  "parent_method": "docs/evidence/CLR_01_CROSS_SURFACE_COLOR_LOGIC_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+  "parent_execution_defaults": "docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+  "invalidated_evidence": [
+    "workflow run 34515179897",
+    "artifact 10167385964",
+    "docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_01.json"
+  ],
+  "finding": {
+    "portable_diagnostic_defect": "The raw Chrome --dump-dom files were copied into the artifact as if they were portable visual diagnostics. Reopening them re-executes the preserved harness script, and a forced-colors DOM dump does not preserve the forced-colors rendering state when reopened in an ordinary browser. They are machine-capture transport, not visual evidence.",
+    "reflow_visibility_defect": "In the normal Chrome capture every REFLOW_320 panel measured 657.203125 CSS px high at top 72, yielding a 729.203125 CSS px panel bottom inside a 720 CSS px frame. The frame used overflow:hidden, so the lower approximately 9.2 CSS px of the panel carrier was clipped. The verifier checked horizontal reflow only and therefore missed this common carrier defect.",
+    "family_specificity": "Neither defect is family-specific. All six controls/families share the same carrier geometry and transport path. No color result is admitted from the invalidated run."
+  },
+  "correction": {
+    "geometry": "Retain the already-frozen 720 CSS px frame height, 72 CSS px panel top, all panel widths, padding, typography, spacing, radii and element order. No frozen geometry value changes.",
+    "reflow_visibility": "For REFLOW_320 only, preserve horizontal containment with overflow-x:hidden and make vertical overflow visible instead of clipped. This changes clipping behavior, not the frozen dimensions or candidate geometry.",
+    "diagnostics": "Keep raw dump-dom HTML only as ephemeral verifier input. Publish parsed diagnostic JSON plus actual PNG captures from normal and forced-colors browser executions. Do not label raw DOM dumps as portable visual snapshots.",
+    "verification": "The verifier must record frame overflow policy and panel bottom geometry, reject any 320 cell whose vertical overflow is clipped, and continue enforcing the frozen horizontal-overflow, contrast, focus, forced-colors and isolation floors."
+  },
+  "integrity": {
+    "family_hex_changed": false,
+    "role_allocation_changed": false,
+    "content_changed": false,
+    "frozen_dimension_changed": false,
+    "candidate_retuned": false,
+    "director_preference_received_before_correction": false,
+    "review_restart_required": true,
+    "reason": "The previous mechanical-clean claim and Design Sol subjective view depended on an artifact/carrier presentation that was not fully valid. Both must be re-derived from the corrected packet before Director adjudication."
+  },
+  "non_authority": [
+    "This correction creates no production color, spacing, typography, theme, component, Windows accessibility, final identity or Phase-C authority."
+  ]
+}
