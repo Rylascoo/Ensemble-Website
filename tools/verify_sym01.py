@@ -4,11 +4,11 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 ROOT=Path(__file__).resolve().parents[1]
 MANIFEST=ROOT/'docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json'
-C0_SHA='303a1b0d5caaf6f1e25bfd20a525d280ff5097b6543d91e5b2f45a9fbef30d63'
+C0_SHA='72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305'
 FAMILIES=['C0','CNEG','F1','F2','F3','F4']
 SIZES=[16,20,24,32,48,64,96,128]
 def fail(msg): raise AssertionError(msg)
-def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
+def sha(p): return hashlib.sha256(p.read_bytes().replace(b'\r\n',b'\n')).hexdigest()
 def local(tag): return tag.rsplit('}',1)[-1]
 def static_checks():
     m=json.loads(MANIFEST.read_text(encoding='utf-8'))

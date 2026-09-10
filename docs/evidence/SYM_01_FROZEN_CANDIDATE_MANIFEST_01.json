@@ -17,7 +17,7 @@
   "assets": {
     "C0": {
       "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
-      "sha256": "303a1b0d5caaf6f1e25bfd20a525d280ff5097b6543d91e5b2f45a9fbef30d63"
+      "sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305"
     },
     "CNEG": {
       "path": "prototypes/sym-01/assets/cneg-generic-ring.svg",
@@ -96,5 +96,6 @@
     "No final symbol or app icon selection.",
     "No CLR-01/O3/TYP/MOT/STA/material/hero mutation.",
     "No production vector, Windows packaging, Store asset, trademark clearance, or Phase-C convergence."
-  ]
+  ],
+  "hash_basis": "SHA-256 over canonical LF UTF-8 text bytes; equivalent to canonical Git blob content for these text assets."
 }
