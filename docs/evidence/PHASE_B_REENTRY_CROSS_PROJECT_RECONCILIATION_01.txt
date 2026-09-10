@@ -1,0 +1,26 @@
+PHASE-B REENTRY CROSS-PROJECT RECONCILIATION 01
+
+Status: READ-ONLY RECONCILIATION NOTE / NO ENSEMBLE-PROJECT MUTATION
+Date: 2026-09-10
+
+Website authority baseline:
+- Rylascoo/Ensemble-Website main a5ef9285c17b999c82ffd13eed0dd0900bbfe49c before Audit 05 closeout.
+- CLR-01 is parked by Director deferral; no Director color-family selection exists.
+- STA-01 is closed with F2 Ring + Edge Witness as the sole provisional bounded survivor.
+- Audit 05 concludes that zero genuinely fresh isolated Phase-B programs currently qualify.
+
+Engineering authority baseline:
+- Rylascoo/Ensemble-Project main 9d0a05e554a97fceb0fcf50e026e0fef112b35f4.
+- Ensemble-Project CURRENT_STATE.md keeps Q-E0A-03 active in the Gemini 3.5 Flash-Lite generation-format compatibility investigation.
+- The central PROJECT_EXECUTION_QUEUE.md still lists Q-DESIGN-19 ACTIVE at the old CLR-01 materialization/preflight boundary.
+
+Mismatch:
+Q-DESIGN-19 is stale relative to Website Design authority. Website evidence has moved through valid CLR-01 preflight, frozen Design Sol View 02, Director deferral, STA-01 selection/method/execution/closure, and Audit 05.
+
+Action now:
+Do not mutate Ensemble-Project while Engineering is inside the active provider/compatibility boundary merely to synchronize Design bookkeeping. Website CURRENT_STATE.md and Design Ledger remain the controlling Design surfaces.
+
+Required future reconciliation:
+At a safe central-queue maintenance boundary, reconcile Q-DESIGN-19 to its actual completed/deferral outcome and append the post-Q19 Design closures from authoritative Website evidence. Do not guess new central queue IDs from this note; the queue-owning maintenance pass assigns/reconciles them under Ensemble-Project authority.
+
+This note creates no Engineering, provider, product, queue, implementation, Phase-C or identity authority.

@@ -7,7 +7,7 @@ Generated file; do not hand-maintain.
 Generation command: `python3 tools/generate_docs_index.py`
 
 Total Markdown documents: 282
-Total text records: 77
+Total text records: 78
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
@@ -307,7 +307,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 ## UNCLASSIFIED (0)
 
 
-## TEXT RECORDS — INVENTORY ONLY (77)
+## TEXT RECORDS — INVENTORY ONLY (78)
 
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
@@ -370,6 +370,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/HERO_METHOD_02_TRANSFER_SURFACE_SUFFICIENCY_INVESTIGATION_01.txt`
 - `docs/evidence/HERO_POST_PROGRAM_RECONCILIATION_01.txt`
 - `docs/evidence/HERO_TRANSLATION_CARRIER_RECONCILIATION_PROGRAM_01.txt`
+- `docs/evidence/PHASE_B_REENTRY_CROSS_PROJECT_RECONCILIATION_01.txt`
 - `docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_02.txt`
 - `docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_03.txt`
 - `docs/evidence/SHARED_BRAND_VISUAL_IDENTITY_DIVERGENCE_REENTRY_AUDIT_01.txt`

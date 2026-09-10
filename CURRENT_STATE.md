@@ -1,26 +1,29 @@
 <!-- D-R1-STATUS: ACTIVE LAW -->
 
-# Ensemble Website — Current State
+# Ensemble Website - Current State
 
 Updated: 2026-09-10
 
 ## Authority
-Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`. Durable Design Sol law: `docs/DESIGN_CONTINUITY.md`. Durable closure: `docs/evidence/DESIGN_LEDGER.md`.
+Design/brand: `Rylascoo/Ensemble-Website`. Engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`. Durable Design Sol law: `docs/DESIGN_CONTINUITY.md`. Closure: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / cross-project
-`main` is authoritative; no serial Design work branch is currently active. `site/` alone is deployable/public. Central sequencing: `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`. Packet registry: `docs/evidence/DESIGN_PACKET_REGISTRY_01.json`.
+Serial closeout branch `design/phase-b-reentry-audit-05-2026-09-10` contains the Audit-05 closure pending promotion. `site/` alone is deployable/public. Central queue remains in `Ensemble-Project`; its Q-DESIGN-19 row is stale relative to Website authority and is recorded for later safe reconciliation, not mutated during active Q-E0A-03 provider work.
 
-## Hero — STATIC RESEARCH PAUSED
-Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 unchanged. No final hero. Q-DESIGN-02 Stage motion waits on real blinded E0-A vs E0-E evidence.
+## Hero
+Static hero causal-mechanism / renderer research remains paused. Frozen Hero Brief 02/Falsification 01/Surface Escape/Harness/ODR-33 remain unchanged. Q-DESIGN-02 Stage motion still requires its external E0 evidence trigger.
 
-## Shared brand — STA-01 CLOSED / CLR-01 PARKED
-MOT-01 remains closed: provisional F1A bounded succession, CS2 genuine ready-context replacement, CUT fallback; no production motion tokens.
+## Shared brand packet state
+MOT-01 closed: provisional F1A bounded succession, CS2 eligible ready-context replacement, CUT fallback; no production motion tokens. TYP-01 closed with zero survivors; no rerun.
 
-CLR-01 remains parked exactly: valid run `34518074538`; frozen Design Sol View 02 = **F2 recommended, F1 alternate with genericity reservation, F3/F4 not recommended**; Director selection intentionally deferred to app-asset / whole-app synthesis convergence. **No Director CLR family selection exists.**
+CLR-01 remains parked: valid run `34518074538`; Design Sol View 02 = F2 recommended, F1 alternate with genericity reservation, F3/F4 not recommended; **no Director CLR family selection exists**.
 
-STA-01 is closed. Valid hosted run `34533328634` on unchanged harness SHA-256 `32dac56216d8aef7554925377d3998ff9b1d2b91d9dc3211a3ad740274285497` passed all normal/forced-colors × 1200/320 checks with real Tab-key focus. Frozen Design Sol falsification leaves exactly one provisional survivor: **F2 — Ring + Edge Witness**. F1 fails genericity; F3 reads as crop/edit tooling; F4 is over-authoritative/physically semantic. Packet: `docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json`. No post-result retune.
+STA-01 remains closed: valid run `34533328634`; sole provisional survivor **F2 - Ring + Edge Witness**. No post-result retune or production state-token authority.
+
+## Phase-B Audit 05
+`docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_05.json` closes with **zero genuinely fresh isolated programs**. Saturated/incumbent-heavy axes are not relabeled as fresh; parked/closed packets are not reopened; automatic MOT x STA composition is not authorized because no truthful representative surface is currently defined. Phase-B exit and Phase-C convergence are not claimed.
 
 ## Exact next action / hard boundary
-Perform a fresh Phase-B orthogonal shared-brand re-entry audit and select at most one genuinely fresh bounded question. Preserve closed/parked packets as evidence rather than silently refining them.
+A consequential **Director Phase-B sequencing decision** is required before another design program: explicitly authorize successor-style divergence on one globally unresolved but non-fresh identity axis, or explicitly authorize a bounded representative composition/synthesis gate before Phase-B exit. Design Sol recommends successor-style divergence before premature composition if exploration continues; Audit 05 selects no axis.
 
-Do **not** adjudicate/promote CLR-01 until its later authorized convergence gate. Do not refine STA-01 without a lawful re-entry trigger. No production color/motion/state tokens, semantic status system, app/site implementation, Stage motion, final identity, or Phase-C convergence.
+No CLR/STA reopening, TYP rerun, motion retune, hero/static renderer reopening, production tokens, invented representative surface, app/site implementation, Stage motion, final identity or Phase-C convergence.
