@@ -28,15 +28,36 @@ jobs:
           "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --virtual-time-budget=1500 --user-data-dir=/tmp/clr01-normal --dump-dom "$URL" > /tmp/clr01-normal.html 2>/tmp/clr01-normal.log
           "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --force-high-contrast --virtual-time-budget=1500 --user-data-dir=/tmp/clr01-forced --dump-dom "$URL" > /tmp/clr01-forced.html 2>/tmp/clr01-forced.log
           mkdir -p /tmp/clr01-artifact/screens
+          set +e
           python tools/verify_clr01.py --normal /tmp/clr01-normal.html --forced /tmp/clr01-forced.html --output /tmp/clr01-artifact/CLR_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY"
+          PREFLIGHT_RC=$?
+          set -e
+          cp /tmp/clr01-normal.html /tmp/clr01-artifact/normal-diagnostic.html
+          cp /tmp/clr01-forced.html /tmp/clr01-artifact/forced-diagnostic.html
           cp prototypes/clr-01/manifest.json /tmp/clr01-artifact/manifest.json
           cp docs/evidence/CLR_01_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/clr01-artifact/execution-defaults.json
+          python - <<'PY'
+          import html.parser,json
+          from pathlib import Path
+          class G(html.parser.HTMLParser):
+            def __init__(self): super().__init__(); self.on=False; self.p=[]
+            def handle_starttag(self,t,a):
+              if t=='pre' and dict(a).get('id')=='diagnostic-report': self.on=True
+            def handle_endtag(self,t):
+              if t=='pre' and self.on:self.on=False
+            def handle_data(self,d):
+              if self.on:self.p.append(d)
+          g=G();g.feed(Path('/tmp/clr01-normal.html').read_text());d=json.loads(''.join(g.p));
+          for x in d['specimens'][:4]: print('FRAME_DIAG',x['id'],x['frame'])
+          PY
           for fam in CNEG CCONV F1 F2 F3 F4; do
             "$BROWSER" --headless=new --no-sandbox --disable-gpu --allow-file-access-from-files --hide-scrollbars --window-size=1320,3200 --virtual-time-budget=800 --user-data-dir="/tmp/clr01-shot-$fam" --screenshot="/tmp/clr01-artifact/screens/$fam.png" "file://$PWD/prototypes/clr-01/harness.html?family=$fam" >/tmp/clr01-shot-$fam.log 2>&1
           done
           printf '%s\n' "$BROWSER_VERSION" > /tmp/clr01-artifact/browser-version.txt
           printf '%s\n' "$OS_PRETTY" > /tmp/clr01-artifact/os-pretty.txt
+          exit "$PREFLIGHT_RC"
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
         with:
           name: clr01-preflight
           path: /tmp/clr01-artifact
