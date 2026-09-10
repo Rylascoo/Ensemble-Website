@@ -25,11 +25,11 @@ jobs:
           export BROWSER
           BROWSER_VERSION="$($BROWSER --version)"
           OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
-          mkdir -p /tmp/sta01-artifact/diagnostics /tmp/sta01-artifact/screens
+          mkdir -p /tmp/sta01-artifact/diagnostics
           cat > /tmp/sta01-cdp.mjs <<'NODE'
           import { spawn } from 'node:child_process';
           import fs from 'node:fs';
-          const [mode,widthArg,diagPath,shotPath,profile] = process.argv.slice(2);
+          const [mode,widthArg,diagPath,profile] = process.argv.slice(2);
           const width = Number(widthArg), height = 2600, browser = process.env.BROWSER;
           fs.rmSync(profile,{recursive:true,force:true});
           fs.mkdirSync(profile,{recursive:true});
@@ -79,10 +79,6 @@ jobs:
             }
             if(!diag) throw new Error('STA diagnostic not produced after navigation: '+JSON.stringify(last));
             fs.writeFileSync(diagPath,diag+'\n');
-            const layout=await send('Page.getLayoutMetrics');
-            const size=layout.cssContentSize;
-            const shot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:true,clip:{x:0,y:0,width:size.width,height:size.height,scale:1}});
-            fs.writeFileSync(shotPath,Buffer.from(shot.data,'base64'));
             ws.close();
           } finally {
             cp.kill('SIGTERM');
@@ -91,7 +87,7 @@ jobs:
           NODE
           run_cdp() {
             local mode="$1" width="$2" stem="$3"
-            node --experimental-websocket /tmp/sta01-cdp.mjs "$mode" "$width" "/tmp/sta01-artifact/diagnostics/$stem.json" "/tmp/sta01-artifact/screens/$stem.png" "/tmp/sta01-$stem"
+            node --experimental-websocket /tmp/sta01-cdp.mjs "$mode" "$width" "/tmp/sta01-artifact/diagnostics/$stem.json" "/tmp/sta01-$stem"
           }
           run_cdp normal 1200 normal-wide
           run_cdp forced 1200 forced-wide
