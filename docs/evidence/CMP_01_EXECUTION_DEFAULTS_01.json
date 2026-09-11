@@ -1,0 +1,150 @@
+{
+  "schema": "kymaean.cmp01.execution-defaults.v1",
+  "status": "FROZEN_PRE_SPECIMEN",
+  "date": "2026-09-10",
+  "parent_method": "docs/evidence/CMP_01_BOUNDED_PACKET_COMPOSITION_METHOD_AND_MATRIX_01.json",
+  "surface": {
+    "page_padding_wide_px": 24,
+    "page_padding_320_px": 10,
+    "variant_gap_px": 18,
+    "APP": {
+      "max_width_px": 420,
+      "min_height_px": 340,
+      "padding_px": 18,
+      "mark_size_px": 32,
+      "f1a_translate_y_px": 28,
+      "mat_top_channel_depth_px": 18,
+      "mat_right_channel_width_px": 24,
+      "sta_witness_orientation": "inline-start vertical"
+    },
+    "WEB": {
+      "max_width_px": 680,
+      "min_height_px": 390,
+      "padding_px": 24,
+      "mark_size_px": 48,
+      "f1a_translate_y_px": 56,
+      "mat_top_channel_depth_px": 28,
+      "mat_right_channel_width_px": 36,
+      "sta_witness_orientation": "low horizontal"
+    },
+    "responsive": "width:100%; at <=520px all review variants stack one column; internal zones remain in identity/state/peer/context order; no zone reordering"
+  },
+  "neutral_palette": {
+    "page": "#f7f7f4",
+    "field": "#ecece7",
+    "ink": "#1b1b19",
+    "line": "#8a8a82",
+    "secondary": "#62625d only outside scored surfaces",
+    "rule": "No other authored hex colors inside scored surfaces."
+  },
+  "mat_f1_exact": {
+    "top_channel": {
+      "left_pct": 9,
+      "width_pct": 30,
+      "fill": "page",
+      "radius_px": 0
+    },
+    "right_channel": {
+      "right_px": 0,
+      "top_pct": 57,
+      "height_pct": 23,
+      "fill": "page",
+      "radius_px": 0
+    }
+  },
+  "identity_zone": {
+    "slot_width_app_px": 44,
+    "slot_width_web_px": 60,
+    "reserved_when_NO_SYM": true,
+    "label": "IDENTITY FIXTURE",
+    "label_is_unscored_system_type": true
+  },
+  "sta_f2_exact": {
+    "button_min_height_px": 44,
+    "base_border_px": 1,
+    "focus_outline_px": 2,
+    "focus_offset_px": 2,
+    "selected_border": "ink",
+    "APP": {
+      "selected_padding_inline_start_px": 15,
+      "witness_inline_start_px": 5,
+      "witness_inset_block_px": 7,
+      "witness_width_px": 3
+    },
+    "WEB": {
+      "selected_padding_inline_px": 14,
+      "witness_inset_inline_px": 9,
+      "witness_bottom_px": 5,
+      "witness_height_px": 3
+    },
+    "buttons": [
+      "Field A",
+      "Field B",
+      "Field C"
+    ],
+    "selected": "Field B"
+  },
+  "f1a_exact": {
+    "peer_count": 3,
+    "peer_labels": [
+      "Peer A",
+      "Peer B",
+      "Peer C"
+    ],
+    "duration_ms": 460,
+    "onset_interval_ms": 70,
+    "easing": "cubic-bezier(0.2,0,0,1)",
+    "opacity": 1,
+    "transform_axis": "translateY",
+    "reduced_motion": "immediate exact final displacement with zero animation"
+  },
+  "cs2_exact": {
+    "contexts": [
+      "Context A",
+      "Context B"
+    ],
+    "duration_ms": 280,
+    "easing": "cubic-bezier(0.2,0,0,1)",
+    "outgoing_opacity": [
+      1,
+      0
+    ],
+    "incoming_opacity": [
+      0,
+      1
+    ],
+    "transform": "none",
+    "blur": "none",
+    "scale": "none",
+    "host_geometry": "fixed across exchange",
+    "reduced_motion": "immediate swap with zero animation"
+  },
+  "zone_layout": {
+    "order": [
+      "identity",
+      "state",
+      "peers",
+      "context"
+    ],
+    "gap_px": 12,
+    "peer_gap_px": 8,
+    "state_gap_px": 8,
+    "context_min_height_app_px": 72,
+    "context_min_height_web_px": 88,
+    "trigger_controls": "outside scored surfaces; system-ui; not part of aesthetic judgment"
+  },
+  "ablation_behavior": {
+    "NO_MAT": "hide only MAT channel elements; preserve field fill and layout",
+    "NO_SYM": "hide only exact C0 SVG; preserve identity slot dimensions",
+    "NO_STA": "remove authored F2 witness/boundary/focus CSS while retaining native button semantics and layout",
+    "NO_MOT": "all replay/exchange actions settle immediately; final DOM/state matches FULL final state"
+  },
+  "forced_colors": {
+    "use": "Canvas/CanvasText/Highlight through forced-color-adjust:auto where possible",
+    "MAT": "decorative channels may flatten/disappear",
+    "C0": "must remain visible currentColor",
+    "STA": "focus ring and selected witness remain structurally visible",
+    "content": "all text/order/controls remain comprehensible"
+  },
+  "construction_freeze": "After first specimen materialization, only mechanical repairs restoring this exact contract are permitted. Packet mechanisms, dimensions, timing/easing/displacement, state geometry, C0 bytes, palette, zone order, ablations and candidate count may not be retuned after visual/browser exposure."
+}

@@ -1,0 +1,159 @@
+{
+  "schema": "kymaean.cmp01.bounded-packet-composition-method.v1",
+  "status": "FROZEN_PRE_MATERIALIZATION",
+  "date": "2026-09-10",
+  "program_id": "CMP-01",
+  "name": "Bounded Shared-Brand Packet Composition / Interaction Audit",
+  "parent_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_07.json",
+  "baseline_branch_checkpoint": "bce3c1c8cba5a3132140028fd0674f9763bc60bd",
+  "bounded_question": "Can exact C0 Threshold K, MAT F1 Subtractive Channel, STA F2 Ring + Edge Witness, MOT F1A within-context succession and MOT CS2 context replacement coexist on bounded synthetic APP-like and WEB-like carriers without identity-carrier competition, misleading semantics, excessive visual authority, motion/state collision, or accessibility/reflow failure?",
+  "packet_sources": [
+    {
+      "packet_id": "PKT-SYM-01-01",
+      "path": "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json",
+      "sha256_lf": "2c757d0764f54dac9c6c6845234a3059d370be69de67782252d48942ce18cc3f"
+    },
+    {
+      "packet_id": "PKT-MAT-01-01",
+      "path": "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json",
+      "sha256_lf": "f0a1d132c06ed9b9d474e827774a3490496d5de37a1d801bfa2fac69a63945fb"
+    },
+    {
+      "packet_id": "PKT-STA-01-01",
+      "path": "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
+      "sha256_lf": "46e385eb7be8407b26376000292d6ade26654e1419a0c289316eb5a9a18868d8"
+    },
+    {
+      "packet_id": "PKT-MOT-F1A-01",
+      "path": "docs/evidence/packets/PKT_MOT_F1A_WITHIN_CONTEXT_SUCCESSION_01.json",
+      "sha256_lf": "29faa99a469115eed19dd124d1c6f6b1961bfca14c968c3c833755738f81dfe1"
+    },
+    {
+      "packet_id": "PKT-MOT-CS2-01",
+      "path": "docs/evidence/packets/PKT_MOT_CS2_CONTEXT_SHIFT_01.json",
+      "sha256_lf": "4a29b39e2c5b0c46d738105d0b0fd5b1849ee766b5ee3863e5c3c4adcdf00bbb"
+    }
+  ],
+  "exact_identity_asset": {
+    "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+    "sha256_lf": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "law": "Embed exact C0 geometry only; currentColor; no redraw, simplification or wordmark coupling."
+  },
+  "composition_variants": [
+    {
+      "id": "FULL",
+      "role": "only scored composition",
+      "present": [
+        "SYM",
+        "MAT",
+        "STA",
+        "MOT"
+      ]
+    },
+    {
+      "id": "NO_MAT",
+      "role": "diagnostic ablation",
+      "present": [
+        "SYM",
+        "STA",
+        "MOT"
+      ]
+    },
+    {
+      "id": "NO_SYM",
+      "role": "diagnostic ablation with reserved identity slot",
+      "present": [
+        "MAT",
+        "STA",
+        "MOT"
+      ]
+    },
+    {
+      "id": "NO_STA",
+      "role": "diagnostic ablation; ARIA semantics retained, authored STA carrier removed",
+      "present": [
+        "SYM",
+        "MAT",
+        "MOT"
+      ]
+    },
+    {
+      "id": "NO_MOT",
+      "role": "diagnostic ablation; final semantic states update immediately",
+      "present": [
+        "SYM",
+        "MAT",
+        "STA"
+      ]
+    }
+  ],
+  "contexts": [
+    "APP",
+    "WEB"
+  ],
+  "browser_matrix": {
+    "viewport_width_css_px": [
+      1200,
+      320
+    ],
+    "forced_colors": [
+      false,
+      true
+    ],
+    "reduced_motion": [
+      false,
+      true
+    ],
+    "required_mode_count": 8
+  },
+  "fixture_gap_law": [
+    "system-ui / Segoe UI fallback only; typography is an unscored fixture and does not fill TYP-01",
+    "neutral grayscale only; no CLR-01 or Mineral Theater hue values",
+    "no wordmark",
+    "no hero/static imagery",
+    "no product-specific vocabulary or shipping UI architecture",
+    "no iconography beyond exact C0 primary symbol"
+  ],
+  "interaction_partition": {
+    "STA": "Three neutral native buttons; B is selected by aria-pressed. Keyboard focus is tested independently with real Tab traversal.",
+    "F1A": "Three already-present peer units only. Replay demonstrates within-context succession and never changes context ownership.",
+    "CS2": "One fixed-geometry context field exchanges between already-ready Context A and Context B only. It never staggers child elements.",
+    "mutual_exclusion": "F1A and CS2 may not run concurrently, chain automatically, or explain the same state change. Starting either test cancels and settles the other first."
+  },
+  "mechanical_gates": [
+    "all packet-source hashes and exact C0 canonical LF hash match",
+    "FULL plus all four ablations render in APP and WEB without source-packet retune",
+    "no horizontal document overflow at 1200 or 320",
+    "real Tab focus reaches enabled FULL state controls and yields >=2px visible focus ring; selected control retains STA witness",
+    "forced-colors preserves C0/content/focus/selection comprehension; decorative MAT geometry may flatten but may not obscure content",
+    "full-motion F1A uses exact research fixture and reaches exact final displacement per context",
+    "full-motion CS2 uses synchronized opacity exchange only, with exact research fixture and fixed host geometry",
+    "reduced-motion F1A and CS2 update immediately with zero authored animation/transition duration",
+    "F1A and CS2 have no overlapping active animations",
+    "all visible normal text meets >=4.5:1 contrast and authored essential non-text boundaries meet >=3:1 where applicable"
+  ],
+  "subjective_integration_falsification": [
+    "C0 no longer reads as the single primary identity mark because MAT geometry behaves like a second mark or dominant device",
+    "MAT F1 channels primarily read as navigation, direction, progress, semantic state or framing stronger than content",
+    "STA F2 witness visually merges with MAT channels or reads as progress/navigation/validation rather than restrained selection",
+    "F1A peer succession reads as loading, priority, process, causality or context replacement",
+    "CS2 reads as entrance/loading/overlay motion, produces fatiguing ghosting at the frozen low-density fixture, or overlaps F1A semantics",
+    "APP and WEB cease to read as the same underlying packet system",
+    "FULL is materially less clear or more fatiguing than a diagnostic ablation in a way attributable to a named packet collision",
+    "judgment depends on the unresolved fixture typography/color rather than packet interaction"
+  ],
+  "result_law": {
+    "pass": "PASS_COMPATIBLE_COMPOSITION ? compatibility evidence only; source packets remain provisional and Phase-B remains open unless separately closed.",
+    "targeted_conflict": "TARGETED_REFINEMENT_REQUIRED ? name exact packet interaction; preserve predecessors unchanged; open only a bounded successor/refinement gate.",
+    "insufficient": "INSUFFICIENT_FIXTURE_EVIDENCE ? close CMP-01 without filling typography/color/product semantics ad hoc.",
+    "fail": "FAIL_COMPOSITION_COLLISION ? frozen full composition cannot retain the included packet set without prohibited collision.",
+    "no_post_exposure_retune": true,
+    "source_packet_mutation_allowed": false,
+    "replacement_composition_after_result_allowed": false
+  },
+  "authority_limits": [
+    "No final palette/material/type system, production token, component skin, app/site UI implementation or deployment.",
+    "No CLR-01 reentry, Mineral Theater recolor, TYP-01 rerun, O3/wordmark redesign, SYM-03, MAT F5, MOT cadence change, STA refinement or hero reopening.",
+    "No final identity or Phase-C convergence."
+  ]
+}

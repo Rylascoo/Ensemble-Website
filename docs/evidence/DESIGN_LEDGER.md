@@ -1295,3 +1295,17 @@ Audit 06 rejected composition while the positive packet set lacked a family-defi
 **Guardrail:** no CLR-01 reentry, Mineral Theater recolor, source-packet retune, SYM-03, MAT F5, motion/state refinement, O3 redesign, hero reopening, product UI proposal, app/site implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-080 - CMP-01 composition method and execution defaults freeze pre-specimen
+
+**State:** CMP-01 METHOD FROZEN / EXECUTION DEFAULTS FROZEN / NO SPECIMEN YET
+
+`docs/evidence/CMP_01_BOUNDED_PACKET_COMPOSITION_METHOD_AND_MATRIX_01.json` freezes the first packet-composition audit before any CMP-01 specimen exists. The only scored composite is `FULL`, combining exact C0 Threshold K, MAT F1 Subtractive Channel, STA F2 Ring + Edge Witness, MOT F1A peer succession and MOT CS2 context replacement. `NO_MAT`, `NO_SYM`, `NO_STA` and `NO_MOT` are diagnostic ablations, not alternate aesthetic candidates.
+
+`docs/evidence/CMP_01_EXECUTION_DEFAULTS_01.json` freezes synthetic APP/WEB carrier dimensions, neutral grayscale fixtures, exact MAT channel geometry, exact STA witness/focus geometry, exact C0 canonical hash, F1A 70/460 + APP 28 / WEB 56 displacement research fixtures, CS2 280 ms synchronized opacity exchange, zone order, ablation behavior, forced-colors law and reduced-motion immediate-final-state behavior. F1A and CS2 may never run concurrently or explain the same event.
+
+**Next gate:** materialize the exact deterministic harness and source verifier, then freeze source bytes before any browser/subjective exposure.
+
+**Guardrail:** no source-packet retune, CLR-01 reentry, Mineral Theater recolor, TYP/O3 work, SYM-03, MAT F5, hero reopening, product UI proposal, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-SPECIMEN COMPOSITION AUDIT.**
