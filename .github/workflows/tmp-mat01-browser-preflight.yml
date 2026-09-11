@@ -6,7 +6,7 @@ on:
       - design/mat01-material-shape-divergence-2026-09-10
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   preflight:
@@ -14,12 +14,11 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
-      - name: Static frozen-contract checks
-        run: python tools/verify_mat01.py
-      - name: Hosted Chrome matrix checks
+      - name: Validate and promote exact mechanical repair
         shell: bash
         run: |
           set -euo pipefail
+          python tools/verify_mat01.py
           BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
           test -n "$BROWSER"
           export BROWSER
@@ -30,25 +29,22 @@ jobs:
           from pathlib import Path
           import hashlib
           p=Path('prototypes/mat-01/harness.html')
-          s=p.read_text(encoding='utf-8')
+          before=p.read_bytes()
+          assert hashlib.sha256(before).hexdigest() == '7ee3be6b9635a3a06cb5e62836c846cc076924cc2fca3c19160b63e34c69f1c6'
+          s=before.decode('utf-8')
           old='  .surface{max-width:100%!important}'
           new='  .cell>.surface{max-width:100%!important}'
-          assert s.count(old)==1, f'expected exactly one frozen defective selector, found {s.count(old)}'
-          assert new not in s, 'repair selector already present unexpectedly'
+          assert s.count(old)==1
+          assert new not in s
           repaired=s.replace(old,new)
-          p.write_text(repaired,encoding='utf-8',newline='\n')
-          print('MAT01_RUNTIME_FIXTURE_REPAIR=APPLIED')
-          print('REPAIRED_HARNESS_SHA256='+hashlib.sha256(repaired.encode('utf-8')).hexdigest())
+          out=repaired.encode('utf-8')
+          assert hashlib.sha256(out).hexdigest() == '1490762a5121c859acf1753c76e60d66cf31d969605e29e0cb73e2d716275274'
+          p.write_bytes(out)
           PY
+          git diff --check
+          test "$(git diff --numstat -- prototypes/mat-01/harness.html)" = $'1\t1\tprototypes/mat-01/harness.html'
           cp prototypes/mat-01/harness.html /tmp/mat01-artifact/harness-repaired.html
           sha256sum prototypes/mat-01/harness.html | tee /tmp/mat01-artifact/harness-repaired.sha256
-          cp docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_01.json /tmp/mat01-artifact/manifest-before-repair.json
-          cp docs/evidence/MAT_01_BROWSER_PREFLIGHT_FIXTURE_DEFECT_01.json /tmp/mat01-artifact/fixture-defect.json
-          cp docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json /tmp/mat01-artifact/method.json
-          cp docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/mat01-artifact/addendum-01.json
-          cp docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json /tmp/mat01-artifact/addendum-02.json
-          printf '%s\n' "$BROWSER_VERSION" > /tmp/mat01-artifact/browser-version.txt
-          printf '%s\n' "$OS_PRETTY" > /tmp/mat01-artifact/os-pretty.txt
           python -m http.server 8765 --bind 127.0.0.1 >/tmp/mat01-http.log 2>&1 &
           SERVER_PID=$!
           trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
@@ -71,11 +67,18 @@ jobs:
             --normal-320 /tmp/mat01-artifact/diagnostics/normal-320.json \
             --forced-320 /tmp/mat01-artifact/diagnostics/forced-320.json \
             --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
-            --output /tmp/mat01-artifact/MAT_01_BROWSER_PREFLIGHT_01.json
+            --output /tmp/mat01-artifact/MAT_01_BROWSER_PREFLIGHT_REPAIR_PROMOTION.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add prototypes/mat-01/harness.html
+          git commit -m 'Promote validated MAT-01 compact probe repair'
+          git push origin HEAD:design/mat01-material-shape-divergence-2026-09-10
+          printf '%s\n' "$BROWSER_VERSION" > /tmp/mat01-artifact/browser-version.txt
+          printf '%s\n' "$OS_PRETTY" > /tmp/mat01-artifact/os-pretty.txt
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         if: always()
         with:
-          name: mat01-preflight
+          name: mat01-repair-promotion
           path: /tmp/mat01-artifact
           if-no-files-found: error
           retention-days: 7
