@@ -1,0 +1,28 @@
+{
+  "schema": "kymaean.ctf01.representation-premise.v1",
+  "program_id": "CTF-01",
+  "status": "FROZEN_STAGE_B_PRE_RENDER",
+  "date": "2026-09-11",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "topology_dependency": "NONE in construction; premise law is topology-agnostic and may not name T1-T4 objects/scenarios.",
+  "premise_id": "R3",
+  "working_name": "Translucent Registration Stack",
+  "positive_law": "The whole image is formed from a small finite stack of broad translucent continuous laminae. People, environment and relationships emerge from registration, overlap, partial occlusion and local misalignment among the same layers rather than opaque flat shapes, particles, brush deposits or modeled volume. Human specificity comes from each person having a distinct multi-layer alignment and silhouette relationship across the stack. Present consequence/history appears as a persistent local shift in registration that changes several layers coherently while leaving their material continuity visible.",
+  "axes": {
+    "representation ontology": "small finite stack of translucent continuous layers whose overlaps create the image",
+    "spatial/relational visual organization": "registration, overlap order, transparency accumulation and local misalignment organize relation",
+    "figure-ground/material-edge grammar": "translucent layered edges with visible overlap continuity; neither opaque closed-plane collage nor dissolved fog",
+    "human identity/specificity mechanism": "distinct multi-layer silhouette alignment, overlap cadence and layer participation per person",
+    "consequence/history representation": "coherent persistent registration shift across multiple continuous layers",
+    "tonal/texture/atmosphere construction": "near-neutral cumulative translucency and overlap density with crisp-to-soft layer-edge variation"
+  },
+  "anti_motif": "Do not reduce the premise to a few decorative translucent overlays on a conventional underlying illustration; layer registration must create all represented forms.",
+  "construction_exclusions": [
+    "no opaque interlocking plane/vector system",
+    "no smooth atmospheric haze continuum",
+    "no discrete mosaic/modules",
+    "no accumulated brush/deposit marks",
+    "no current-family UI/glass/card treatment",
+    "no topology-specific object, pose, architecture or scenario"
+  ]
+}

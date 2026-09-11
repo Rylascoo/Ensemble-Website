@@ -1,0 +1,28 @@
+{
+  "schema": "kymaean.ctf01.representation-premise.v1",
+  "program_id": "CTF-01",
+  "status": "FROZEN_STAGE_B_PRE_RENDER",
+  "date": "2026-09-11",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "topology_dependency": "NONE in construction; premise law is topology-agnostic and may not name T1-T4 objects/scenarios.",
+  "premise_id": "R1",
+  "working_name": "Interlaced Continuous Fiber Surface",
+  "positive_law": "The whole image exists as one continuous interlaced fiber system made from long uninterrupted strands. People, environment and relationships emerge through changes in strand orientation, spacing, tension, crossing order and weave openness rather than through discrete marks, repeated modules, flat closed shapes or smooth modeled painting. Human specificity comes from stable body-scale weave rhythm and localized strand behavior. Present consequence/history appears as persistent pulled, shifted, rethreaded or tension-changed fiber relationships that remain part of the same continuous system.",
+  "axes": {
+    "representation ontology": "long continuous interlaced fibers/strands forming one connected representational fabric",
+    "spatial/relational visual organization": "over-under crossings, directional flow, tension and weave openness organize proximity/depth",
+    "figure-ground/material-edge grammar": "soft-to-firm fiber boundaries formed by strand convergence/divergence; no closed planar masses or discrete modules",
+    "human identity/specificity mechanism": "distinct body-scale strand cadence, crossing density, orientation and tension signature per person",
+    "consequence/history representation": "persistent rethreading, pull, slack/tension change or shifted crossing relation in the continuous fiber system",
+    "tonal/texture/atmosphere construction": "near-neutral tone from fiber density, overlap and shallow strand shadow rather than painterly deposits or smooth haze"
+  },
+  "anti_motif": "Do not reduce the law to decorative textile texture laid over a conventional scene; fibers must be the actual representation substrate everywhere.",
+  "construction_exclusions": [
+    "no discrete mosaic/tiles/stone units/pixels",
+    "no accumulated brush/deposit mark field",
+    "no opaque closed vector-plane system",
+    "no smooth fog/density continuum",
+    "no current-family channel/notch/mark/wordmark geometry",
+    "no topology-specific object, pose, architecture or scenario"
+  ]
+}

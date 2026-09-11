@@ -1752,3 +1752,15 @@ The set explicitly excludes VFD-01's barrier/unit-worker/standing-person topolog
 **Next gate:** Stage B may construct R1-R4 as fresh whole-surface representation laws. Representation premises may not encode T1-T4-specific objects, poses, architecture or scenarios and may not reuse/cosmetically rename VFD P1-P4 or the current provisional family. No renderer input or image yet.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN STAGE-A TOPOLOGY FREEZE.**
+
+## L-112 - CTF-01 Stage B freezes four fresh representation laws
+
+**State:** R1-R4 FROZEN / ALL PAIRS >=5 OF 6 DIFFERENT / 0 RENDERER PACKETS / 0 IMAGES
+
+After immutable Stage-A topology freeze, CTF-01 Stage B constructs four topology-agnostic whole-surface representation laws: R1 Interlaced Continuous Fiber Surface, R2 Continuous Relief Skin, R3 Translucent Registration Stack, and R4 Occlusion-Cast Projection Field. `docs/evidence/CTF_01_PREMISE_PAIRWISE_AUDIT_01.json` records conservative pairwise materiality: three pairs are 6-of-6 and three are 5-of-6, all above the frozen 4-of-6 floor.
+
+The premise audit explicitly excludes VFD P1 accumulated marks, P2 opaque interlocking planes, P3 smooth density/haze, P4 discrete rule-bearing units, and current-family construction seeds. R2 also forbids MAT-F1-like channel/notch identity; R4 forbids inherited stage-light composition. No premise contains T1-T4-specific objects, poses, architecture or scenarios.
+
+**Next gate:** Stage C combines the immutable primary/transfer assignment with exact frozen topology and premise packets and freezes every possible renderer-visible primary/transfer packet before any image generation or visual comparison against quarantined evidence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN STAGE-B PREMISE FREEZE.**

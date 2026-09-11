@@ -1,0 +1,84 @@
+{
+  "schema": "kymaean.ctf01.premise-pairwise-audit.v1",
+  "status": "PASS_FOUR_FRESH_REPRESENTATION_PREMISES",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "stage_a_topology_audit": "docs/evidence/CTF_01_TOPOLOGY_PAIRWISE_AUDIT_01.json",
+  "premise_packets": {
+    "R1": "docs/evidence/CTF_01_PREMISE_R1_INTERLACED_CONTINUOUS_FIBER_SURFACE_01.json",
+    "R2": "docs/evidence/CTF_01_PREMISE_R2_CONTINUOUS_RELIEF_SKIN_01.json",
+    "R3": "docs/evidence/CTF_01_PREMISE_R3_TRANSLUCENT_REGISTRATION_STACK_01.json",
+    "R4": "docs/evidence/CTF_01_PREMISE_R4_OCCLUSION_CAST_PROJECTION_FIELD_01.json"
+  },
+  "axes": [
+    "representation ontology",
+    "spatial/relational visual organization",
+    "figure-ground/material-edge grammar",
+    "human identity/specificity mechanism",
+    "consequence/history representation",
+    "tonal/texture/atmosphere construction"
+  ],
+  "floor": "at least 4 of 6 representation axes materially different for every pair",
+  "pairwise": [
+    {
+      "pair": "R1-R2",
+      "materially_different_axis_count": 6,
+      "conservatively_not_counted_axes": [],
+      "materiality_rationale": "Continuous fibers/weave behavior versus one monolithic height-relief skin differ across ontology, space, edges, human specificity, history and tone.",
+      "floor_pass": true
+    },
+    {
+      "pair": "R1-R3",
+      "materially_different_axis_count": 5,
+      "conservatively_not_counted_axes": [
+        "spatial/relational visual organization"
+      ],
+      "materiality_rationale": "Both use overlap/crossing as part of spatial organization, so that axis is conservatively not counted; the other five are materially different.",
+      "floor_pass": true
+    },
+    {
+      "pair": "R1-R4",
+      "materially_different_axis_count": 6,
+      "conservatively_not_counted_axes": [],
+      "materiality_rationale": "Interlaced physical strands differ from cast projection/occlusion across all six axes.",
+      "floor_pass": true
+    },
+    {
+      "pair": "R2-R3",
+      "materially_different_axis_count": 6,
+      "conservatively_not_counted_axes": [],
+      "materiality_rationale": "Single-skin relief depth differs from multi-layer translucent registration across all six axes.",
+      "floor_pass": true
+    },
+    {
+      "pair": "R2-R4",
+      "materially_different_axis_count": 5,
+      "conservatively_not_counted_axes": [
+        "tonal/texture/atmosphere construction"
+      ],
+      "materiality_rationale": "Both can use directional light to reveal structure, so tonal construction is conservatively not counted; the other five axes differ materially.",
+      "floor_pass": true
+    },
+    {
+      "pair": "R3-R4",
+      "materially_different_axis_count": 5,
+      "conservatively_not_counted_axes": [
+        "figure-ground/material-edge grammar"
+      ],
+      "materiality_rationale": "Both can create variable hard/soft edges through overlap/projection, so edge grammar is conservatively not counted; the other five axes differ materially.",
+      "floor_pass": true
+    }
+  ],
+  "all_four_valid": true,
+  "construction_quarantine_check": [
+    "R1 uses long continuous interlaced fibers, not VFD P1 discrete accumulated marks or P4 units.",
+    "R2 uses one continuous relief skin and explicitly forbids MAT-F1-like channel/notch identity; it is not VFD P2 flat fields.",
+    "R3 uses a finite translucent registration stack rather than VFD P2 opaque planes or P3 smooth density/haze.",
+    "R4 uses cast occlusion as substrate while explicitly forbidding historical stage-light composition; it is not VFD P3 haze or P2 vector silhouettes.",
+    "No premise names or embeds T1-T4-specific objects, poses, architecture or scenarios."
+  ],
+  "renderer_packets_created": 0,
+  "images_created": 0,
+  "audit_result": "PASS: all four fresh representation premises exceed the 4/6 pairwise floor; no VFD premise/current-family construction seed or topology-specific scenario is embedded."
+}

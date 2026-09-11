@@ -1,0 +1,28 @@
+{
+  "schema": "kymaean.ctf01.representation-premise.v1",
+  "program_id": "CTF-01",
+  "status": "FROZEN_STAGE_B_PRE_RENDER",
+  "date": "2026-09-11",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "topology_dependency": "NONE in construction; premise law is topology-agnostic and may not name T1-T4 objects/scenarios.",
+  "premise_id": "R4",
+  "working_name": "Occlusion-Cast Projection Field",
+  "positive_law": "The whole image is represented through coherent cast-occlusion relationships on one luminous neutral ground. People, environment and relational structure are legible primarily by the shape, overlap, direction, softness and interruption of cast projections and their minimal visible sources, not by conventional fully modeled bodies or flat diagram shapes. Human specificity comes from stable anatomical projection rhythm, stance-dependent distortion and source-to-cast relation. Present consequence/history appears as a persistent change in occlusion geometry that reorganizes several projections coherently.",
+  "axes": {
+    "representation ontology": "cast occlusion/projection relationships on one luminous ground, with sources secondary but sufficient",
+    "spatial/relational visual organization": "projection direction, overlap, scale distortion, interruption and cast-source correspondence organize depth/relation",
+    "figure-ground/material-edge grammar": "cast edges range from crisp to penumbral according to coherent projection logic; no closed vector masses as independent graphic objects",
+    "human identity/specificity mechanism": "distinct anatomical projection rhythm, stance distortion and source-to-cast correspondence per person",
+    "consequence/history representation": "persistent changed occlusion geometry coherently alters multiple casts/source relations",
+    "tonal/texture/atmosphere construction": "near-neutral luminous ground with value structure created by coherent occlusion, not fog or pigment texture"
+  },
+  "anti_motif": "Do not turn the image into generic silhouette art, stage lighting, or a normal scene with dramatic shadows added; projection/occlusion must be the actual whole-surface representation law.",
+  "construction_exclusions": [
+    "no Quiet-Stage/stage-light composition or theatrical set inheritance",
+    "no smooth haze/density field",
+    "no interlocking opaque planes",
+    "no discrete mosaic/units",
+    "no accumulated mark/deposit surface",
+    "no topology-specific object, pose, architecture or scenario"
+  ]
+}

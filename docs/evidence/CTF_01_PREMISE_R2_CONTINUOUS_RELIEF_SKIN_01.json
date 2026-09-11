@@ -1,0 +1,28 @@
+{
+  "schema": "kymaean.ctf01.representation-premise.v1",
+  "program_id": "CTF-01",
+  "status": "FROZEN_STAGE_B_PRE_RENDER",
+  "date": "2026-09-11",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "topology_dependency": "NONE in construction; premise law is topology-agnostic and may not name T1-T4 objects/scenarios.",
+  "premise_id": "R2",
+  "working_name": "Continuous Relief Skin",
+  "positive_law": "The entire image is one unbroken shallow relief skin. People, environment and relationships are formed only by continuous rises, falls, folds of height and broad curvature in that single surface; they are not assembled from separate plates, channels, modules or collage pieces. Human specificity comes from stable body-volume profile, relief depth rhythm and posture-scale curvature. Present consequence/history appears as a persistent local deformation whose surrounding relief continuity makes the changed state legible.",
+  "axes": {
+    "representation ontology": "one continuous shallow relief surface with all forms expressed as height variation",
+    "spatial/relational visual organization": "depth terraces, broad curvature, overlap and relief occlusion organize relation without separate objects as graphic layers",
+    "figure-ground/material-edge grammar": "continuous raised/recessed transitions and undercut-like relief edges; no notches/channels as identity devices and no detached plates",
+    "human identity/specificity mechanism": "distinct body-volume relief profile, depth cadence and posture-scale curvature per person",
+    "consequence/history representation": "persistent deformation of one continuous skin with surrounding continuity carrying changed-state evidence",
+    "tonal/texture/atmosphere construction": "near-neutral raking-light relief tone from height and curvature, with restrained surface grain"
+  },
+  "anti_motif": "Do not make the image a conventional 3D scene merely coated in sculptural texture; the single relief skin must be the whole representational ontology.",
+  "construction_exclusions": [
+    "no MAT-F1-like channel/notch/slot identity",
+    "no discrete units or mosaic",
+    "no interlocking flat planes",
+    "no atmospheric fog substrate",
+    "no accumulated mark/deposit field",
+    "no topology-specific object, pose, architecture or scenario"
+  ]
+}
