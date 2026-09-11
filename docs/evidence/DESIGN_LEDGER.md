@@ -1425,3 +1425,17 @@ Pre-exposure static validation passes: all five family rows and ten APP/WEB surf
 **Guardrail:** no post-exposure family retune, TYP-01 rescue, final typeface, O3 redesign, CLR-01 reentry, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-EXPOSURE SOURCE FREEZE.**
+
+## L-089 - TYP-02 Run 01 invalidated by shared-shell 200% reflow defect; Manifest 02 repairs fixture only
+
+**State:** RUN 01 INVALID / NO DESIGN RESULT / MANIFEST 02 FROZEN / CANONICAL PREFLIGHT NEXT
+
+Hosted Run `34569839250` at Manifest 01 completed all eight captures, but the browser verifier rejected `normal-resize200-320` for document horizontal overflow. Artifact `10187359782` (`sha256:5bb29a0b603bfaa6d59eb69d8dd27fb4cd21bd06f8d114b6db46de4d139faeb0`) shows zero role-level text overflow in every candidate surface. The overflow originates from the shared review shell's grid min-content expansion plus the non-scored intro heading, affecting all families identically and contradicting the frozen 100%-up-to-max-width / vertical-growth carrier law.
+
+`TYP_02_FROZEN_SOURCE_MANIFEST_02.json` preserves Manifest 01 and repairs only that carrier defect: the non-scored intro gains break-word wrapping and shared review/family/context/surface shell containers gain `min-width:0`. Candidate role vectors, responsive heading values, content, exact C0/MAT/STA geometry, accessibility floors, candidate count and scoring law are unchanged. Repaired harness SHA-256 is `a1b1986df748906defc77d42c3f69083df12e95017a65b20ba48f3ff5529bca0`.
+
+**Next gate:** one new canonical hosted eight-mode run from Manifest 02. No subjective typography judgment until complete PASS.
+
+**Guardrail:** no family rescue, post-exposure retune, TYP-01 reroll, final typeface, O3 redesign, CLR-01 reentry, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC FIXTURE/CARRIER REPAIR.**

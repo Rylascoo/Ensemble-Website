@@ -7,10 +7,10 @@ on:
     paths:
       - .github/workflows/tmp-typ02-browser-preflight.yml
       - prototypes/typ-02/harness.html
-      - tools/verify_typ02.py
+      - tools/verify_typ02_repaired.py
       - tools/typ02_browser_probe.mjs
       - tools/verify_typ02_browser.py
-      - docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_01.json
+      - docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_02.json
 
 permissions:
   contents: read
@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
       - name: Static source checks
-        run: python tools/verify_typ02.py
+        run: python tools/verify_typ02_repaired.py
       - name: Hosted Chrome eight-mode checks
         shell: bash
         run: |
@@ -58,7 +58,7 @@ jobs:
             --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
             --output /tmp/typ02-artifact/TYP_02_BROWSER_PREFLIGHT_01.json
           cp prototypes/typ-02/harness.html /tmp/typ02-artifact/harness.html
-          cp docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_01.json /tmp/typ02-artifact/manifest-01.json
+          cp docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_02.json /tmp/typ02-artifact/manifest-02.json
           cp docs/evidence/TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHIC_ROLE_GRAMMAR_METHOD_AND_MATRIX_01.json /tmp/typ02-artifact/method.json
           cp docs/evidence/TYP_02_EXECUTION_DEFAULTS_01.json /tmp/typ02-artifact/defaults.json
           cp docs/evidence/TYP_02_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/typ02-artifact/addendum-01.json
