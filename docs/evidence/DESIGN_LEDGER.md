@@ -1207,3 +1207,29 @@ The addendum changes no MAT-01 family topology, candidate count, isolation rule,
 **Next gate:** materialize the exact five-family deterministic browser matrix and verify source isolation, normal/forced-colors behavior, 1200/320 reflow and contrast before subjective review.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRE-SPECIMEN AUDIT.**
+
+
+## L-074 - MAT-01 pre-specimen completeness correction freezes missing placement values
+
+**State:** CLOSED PRE-SPECIMEN CONTRACT CORRECTION / NO VISUAL RESULT CONSUMED
+
+Before materialization, recursive audit found two execution values still discretionary: F2 edge-witness span and F3 mass vertical offsets. `docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json` freezes only those missing coordinates plus the exact compact-probe construction. It changes no family concept, topology, candidate count, grayscale set, falsification criterion or termination law.
+
+**Guardrail:** the correction existed before the first specimen; later visual evidence may not be used to alter these values.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN PRE-EXPOSURE AUDIT.**
+
+
+## L-075 - MAT-01 compact-probe fixture defect is mechanically repaired without candidate retune
+
+**State:** REPAIRED EXECUTION PACKET FROZEN / CANONICAL READ-ONLY PREFLIGHT PENDING
+
+Hosted Run `34559903559` passed static checks and both wide modes but invalidated the required four-mode matrix because the 320px review-fixture selector clamped the mandated 210x210 compact-probe clone before scaling. `MAT_01_BROWSER_PREFLIGHT_FIXTURE_DEFECT_01.json` classifies the run as fixture failure, not candidate evidence.
+
+The sole authorized selector repair was validated by hosted Run `34560287462`, which returned `PASS_COMPLETE_MATRIX` in Chrome 152 at 1200/320 normal and forced-colors with exact 16/20/24/32 compact probes, zero overflow elements and repaired harness SHA-256 `1490762a5121c859acf1753c76e60d66cf31d969605e29e0cb73e2d716275274`. Run `34560557305` then guarded and promoted those exact harness bytes as commit `c6db23181eacbb7bd8007231a7680ffc7ab7cf54`.
+
+`MAT_01_FROZEN_CANDIDATE_MANIFEST_02.json` binds the repaired execution packet while preserving Manifest 01 as the historical pre-exposure freeze. Candidate geometry, topology, tones, content and count are unchanged.
+
+**Next gate:** one canonical read-only hosted four-mode run with no runtime source mutation. No subjective family judgment before that complete mechanical PASS.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? DETERMINISTIC FIXTURE REPAIR.**

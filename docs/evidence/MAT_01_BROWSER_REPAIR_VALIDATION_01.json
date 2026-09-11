@@ -1,0 +1,62 @@
+{
+  "schema": "kymaean.mat01.browser-repair-validation.v1",
+  "status": "PASS_RUNTIME_MECHANICAL_REPAIR_VALIDATION",
+  "date": "2026-09-10",
+  "program": "MAT-01 ? Cross-Surface Material / Shape Grammar Successor Divergence",
+  "invalid_fixture_run": {
+    "run_id": 34559903559,
+    "artifact_id": 10183937694,
+    "artifact_digest": "sha256:4f3fd11e688b6967d1e50256f187ce3bd95f915d81097a9d01d67d13e73ada9c",
+    "classification": "INVALID_FIXTURE_RUN_NOT_CANDIDATE_EVIDENCE"
+  },
+  "authorized_repair": {
+    "from": ".surface{max-width:100%!important}",
+    "to": ".cell>.surface{max-width:100%!important}",
+    "scope": "320px review-fixture selector only",
+    "candidate_geometry_change": false,
+    "candidate_tone_change": false,
+    "candidate_count_change": false,
+    "content_change": false
+  },
+  "runtime_validation": {
+    "run_id": 34560287462,
+    "head_sha": "eb84da5948ec36a0e5ed89a8d01b34672bb552c3",
+    "conclusion": "success",
+    "artifact_id": 10184059308,
+    "artifact_digest": "sha256:38e23f1579ded73d26482cb3a8cd88afd50cce33b9798accfd6c20f86c6acc69",
+    "browser_version": "Google Chrome 152.0.7977.82",
+    "os_pretty": "Ubuntu 24.04.5 LTS",
+    "matrix_status": "PASS_COMPLETE_MATRIX",
+    "viewports": [
+      1200,
+      320
+    ],
+    "modes": [
+      "normal",
+      "forced-colors"
+    ],
+    "document_scroll_widths_px": {
+      "wide": 1200,
+      "compact": 320
+    },
+    "compact_probe_scaled_widths_px": [
+      16,
+      20,
+      24,
+      32
+    ],
+    "overflow_elements": 0,
+    "repaired_harness_sha256": "1490762a5121c859acf1753c76e60d66cf31d969605e29e0cb73e2d716275274"
+  },
+  "promotion_validation": {
+    "run_id": 34560557305,
+    "head_sha": "055b5c6b88231afe2c85e35c5c5e29a8ab8d4e67",
+    "conclusion": "success",
+    "promoted_commit": "c6db23181eacbb7bd8007231a7680ffc7ab7cf54",
+    "promoted_path": "prototypes/mat-01/harness.html",
+    "promoted_harness_sha256": "1490762a5121c859acf1753c76e60d66cf31d969605e29e0cb73e2d716275274",
+    "law": "The guarded promotion asserted both the original frozen harness SHA and the repaired harness SHA before pushing the one-file repair commit."
+  },
+  "evidence_consumption": "Mechanical repair evidence only. Runs 1?3 do not authorize subjective MAT-01 family judgment.",
+  "next_gate": "Freeze Manifest 02 against the promoted repaired harness and execute one canonical read-only four-mode hosted browser preflight with no runtime source mutation."
+}

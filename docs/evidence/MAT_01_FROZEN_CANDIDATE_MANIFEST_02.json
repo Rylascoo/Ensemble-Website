@@ -1,0 +1,97 @@
+{
+  "schema": "kymaean.mat01.frozen-candidate-manifest.v2",
+  "status": "FROZEN_REPAIRED_EXECUTION_PACKET_BEFORE_SUBJECTIVE_REVIEW",
+  "date": "2026-09-10",
+  "program": "MAT-01 ? Cross-Surface Material / Shape Grammar Successor Divergence",
+  "original_freeze_commit": "b813dbc5ed1295cb3f6626124f0bd718edc1c0b1",
+  "repaired_harness_commit": "c6db23181eacbb7bd8007231a7680ffc7ab7cf54",
+  "governing_records": {
+    "method": "docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json",
+    "addendum_01": "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+    "addendum_02": "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json",
+    "fixture_defect": "docs/evidence/MAT_01_BROWSER_PREFLIGHT_FIXTURE_DEFECT_01.json",
+    "repair_validation": "docs/evidence/MAT_01_BROWSER_REPAIR_VALIDATION_01.json"
+  },
+  "candidate_order": [
+    "CNEG",
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "eligibility": {
+    "CNEG": "INELIGIBLE_GENERICITY_CONTROL",
+    "F1": "ELIGIBLE",
+    "F2": "ELIGIBLE",
+    "F3": "ELIGIBLE",
+    "F4": "ELIGIBLE"
+  },
+  "repair_provenance": {
+    "authorized_selector_change": {
+      "from": ".surface{max-width:100%!important}",
+      "to": ".cell>.surface{max-width:100%!important}"
+    },
+    "candidate_geometry_change": false,
+    "candidate_tone_change": false,
+    "candidate_count_change": false,
+    "content_change": false
+  },
+  "files": {
+    "harness": {
+      "path": "prototypes/mat-01/harness.html",
+      "sha256": "1490762a5121c859acf1753c76e60d66cf31d969605e29e0cb73e2d716275274"
+    },
+    "static_verifier": {
+      "path": "tools/verify_mat01_repaired.py",
+      "sha256": "9c2784ccca457b7b4786b91b7b1d00efb654c929b9f3a8c6c4f36c9da632327a"
+    },
+    "browser_probe": {
+      "path": "tools/mat01_browser_probe.mjs",
+      "sha256": "d2aa2a80ad8053438f338849ed36fae91e8e8cf437e1e6bc28e6ef8798d0df5a"
+    },
+    "browser_verifier": {
+      "path": "tools/verify_mat01_browser.py",
+      "sha256": "4b4340e37773876fccc186f5c40fee14da50c843ce513582e94a2877b420179a"
+    },
+    "addendum_02": {
+      "path": "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json",
+      "sha256": "0e1f6c24f0bcfec0f785eced204127005563e2c7737f05df2f03b2a188b86afb"
+    },
+    "fixture_defect": {
+      "path": "docs/evidence/MAT_01_BROWSER_PREFLIGHT_FIXTURE_DEFECT_01.json",
+      "sha256": "0d05cdf68efd2ac66a6175aa198276835f2decb4ee3441bb4752aa586d72f766"
+    },
+    "repair_validation": {
+      "path": "docs/evidence/MAT_01_BROWSER_REPAIR_VALIDATION_01.json",
+      "sha256": "668997a450b55e8a58652230a2ad94265380bc9e2502a326e0581c23c96c4ba3"
+    }
+  },
+  "matrix": {
+    "contexts": [
+      "APP",
+      "WEB"
+    ],
+    "viewports": [
+      1200,
+      320
+    ],
+    "modes": [
+      "normal",
+      "forced-colors"
+    ],
+    "compact_app_structural_probes_px": [
+      16,
+      20,
+      24,
+      32
+    ]
+  },
+  "freeze_law": [
+    "Manifest 01 remains the historical pre-exposure freeze at b813dbc; Manifest 02 binds only the authorized fixture repair and current validation tooling.",
+    "Candidate/control topology, geometry, tonal assignments, content packet and candidate count remain frozen from Manifest 01.",
+    "No runtime source mutation is permitted in the canonical preflight.",
+    "No evidence-aware retune, replacement F5, color rescue, symbol/wordmark coupling, hero reopening or product-semantic coupling is permitted.",
+    "Zero eligible survivors is a valid result."
+  ],
+  "authority_limits": "No final material system, palette, production token, component skin, app/site implementation, final identity, or Phase-C convergence."
+}
