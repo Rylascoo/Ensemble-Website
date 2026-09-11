@@ -1,0 +1,52 @@
+{
+  "schema": "kymaean.sym02.round02-method.v1",
+  "status": "FROZEN_PRE_REVIEW",
+  "date": "2026-09-11",
+  "program": "SYM-02 - Threshold K Exact Vector Shape Refinement",
+  "question": "Within C1 Bézier Fidelity, which right-field curve-tension bias best preserves discovered negative-space identity without becoming over-engineered?",
+  "controls": {
+    "C0": {
+      "sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+      "role": "immutable selected incumbent"
+    },
+    "C1": {
+      "sha256": "5fbbe4468cd72f860d524e311b2ebc2ca68966d9731288d1d68ac4bb7f7b87b2",
+      "role": "Round-01 survivor / Round-02 local control"
+    }
+  },
+  "candidates": {
+    "C1A": {
+      "name": "Upper Tension",
+      "sha256": "f9a6182a4bcfa135d5d0a3f4cf630f4f220d538ad4c2dbd4f04617605830e912",
+      "change": "Only right-field cubic control-point tension; anchors and left fields fixed."
+    },
+    "C1B": {
+      "name": "Lower Tension",
+      "sha256": "c0047acfcfbd533e97ea66c8f49406dd0d5cbf59b6faa3b0e012d603b9b0ebdc",
+      "change": "Only right-field cubic control-point tension; anchors and left fields fixed."
+    },
+    "C1C": {
+      "name": "Living Asymmetry",
+      "sha256": "3ac610fb662ad93a211af9997e88f71f577933c032ce4a8b48e93431243e156e",
+      "change": "Only right-field cubic control-point tension; anchors and left fields fixed."
+    }
+  },
+  "fixed": [
+    "viewBox/extents",
+    "right-field anchor points",
+    "both left-field paths exactly C1",
+    "three-field topology",
+    "spacing architecture",
+    "mass hierarchy",
+    "monochrome currentColor",
+    "CLR-01 parked"
+  ],
+  "falsify_if": [
+    "compact K recovery regresses",
+    "right field becomes bracket/C/generic software glyph",
+    "difference is decorative without optical gain",
+    "negative-space K feels drawn/manufactured rather than discovered"
+  ],
+  "no_post_exposure_retune": true,
+  "zero_survivor_valid": true
+}
