@@ -1397,3 +1397,17 @@ CLR-01 remains ineligible because its packet requires a Director-declared app-as
 **Guardrail:** no final typeface, O3/wordmark redesign, bespoke glyphs, CLR-01 reentry, source-packet retune, real product UI, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-SPECIMEN TYPOGRAPHY AUDIT.**
+
+## L-087 - TYP-02 residual execution ambiguity closes before specimen construction
+
+**State:** TYP-02 ADDENDUM 01 FROZEN / PRE-SPECIMEN CONTRACT COMPLETE
+
+`TYP_02_EXECUTION_DEFAULTS_ADDENDUM_01.json` freezes only residual implementation defaults left open by the method checkpoint: exact DOM/vertical order, family-gap semantics, 12px identity-to-typography gap, 16px typography-to-state gap, identity-zone heights, natural text-role growth, wide/narrow context layout, and the exact eight hosted browser stress modes.
+
+The eight modes separately cover baseline wide/320, 200% text-resize wide/320, text-spacing stress wide/320, and forced-colors baseline wide/320. Only normal baseline wide/320 may be used for subjective review; stress/forced modes remain mechanical validation. All candidates use identical DOM/content/scaffold structure and no motion/timers.
+
+No TYP-02 family vector, accessibility floor, C0/MAT/STA scaffold mechanism, candidate count or scoring law changes. No specimen has yet been constructed or viewed.
+
+**Next gate:** materialize exact TYP-02 harness + source/browser verifiers, freeze source bytes, then hosted eight-mode preflight before subjective review.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC PRE-SPECIMEN COMPLETENESS REPAIR.**

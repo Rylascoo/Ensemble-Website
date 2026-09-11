@@ -1,0 +1,125 @@
+{
+  "schema": "kymaean.typ02.execution-defaults-addendum.v1",
+  "status": "FROZEN_PRE_SPECIMEN_COMPLETENESS",
+  "date": "2026-09-11",
+  "program_id": "TYP-02",
+  "authority": [
+    "docs/evidence/TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHIC_ROLE_GRAMMAR_METHOD_AND_MATRIX_01.json",
+    "docs/evidence/TYP_02_EXECUTION_DEFAULTS_01.json"
+  ],
+  "purpose": "Freeze residual placement/gap semantics and the exact browser stress execution set before any TYP-02 specimen exists. No family vector, accessibility floor, scaffold mechanism, candidate count or scoring law changes.",
+  "dom_and_vertical_order": [
+    "identity_zone",
+    "typography_role_zone",
+    "state_zone"
+  ],
+  "typography_role_order": [
+    "eyebrow",
+    "heading",
+    "body",
+    "support"
+  ],
+  "family_gap_semantics": {
+    "gaps_px_index_0": "eyebrow_to_heading",
+    "gaps_px_index_1": "heading_to_body",
+    "gaps_px_index_2": "body_to_support"
+  },
+  "scaffold_gaps_px": {
+    "identity_to_typography": 12,
+    "typography_to_state": 16
+  },
+  "identity_zone_height_px": {
+    "APP": 44,
+    "WEB": 60
+  },
+  "text_role_height": "natural block height; no fixed or max block height; vertical carrier growth permitted",
+  "state_zone": {
+    "wide": "three equal columns",
+    "narrow_le_520": "one column",
+    "selected": "Field B",
+    "candidate_specific_dom_difference_forbidden": true
+  },
+  "context_layout": {
+    "wide_1200": "APP and WEB context cells side-by-side",
+    "narrow_320": "APP then WEB stacked vertically",
+    "stack_breakpoint_css_px": 900,
+    "surface_width_rule": "100% up to frozen context max-width; no candidate-specific width override"
+  },
+  "browser_modes": [
+    {
+      "id": "normal-baseline-wide",
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": false
+    },
+    {
+      "id": "normal-baseline-320",
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": false
+    },
+    {
+      "id": "normal-resize200-wide",
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 200,
+      "text_spacing": false
+    },
+    {
+      "id": "normal-resize200-320",
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 200,
+      "text_spacing": false
+    },
+    {
+      "id": "normal-spacing-wide",
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": true
+    },
+    {
+      "id": "normal-spacing-320",
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": true
+    },
+    {
+      "id": "forced-baseline-wide",
+      "width": 1200,
+      "forced_colors": true,
+      "root_font_percent": 100,
+      "text_spacing": false
+    },
+    {
+      "id": "forced-baseline-320",
+      "width": 320,
+      "forced_colors": true,
+      "root_font_percent": 100,
+      "text_spacing": false
+    }
+  ],
+  "review_modes": [
+    "normal-baseline-wide",
+    "normal-baseline-320"
+  ],
+  "mechanical_only_modes": [
+    "normal-resize200-wide",
+    "normal-resize200-320",
+    "normal-spacing-wide",
+    "normal-spacing-320",
+    "forced-baseline-wide",
+    "forced-baseline-320"
+  ],
+  "execution_law": [
+    "No animation, transition, autoplay, timer or motion test in TYP-02.",
+    "Diagnostic/reporting controls, if any, live outside scored surfaces.",
+    "All candidate surfaces share identical DOM/content/scaffold structure; only frozen family typography variables differ.",
+    "No candidate-specific media query except values frozen by the shared responsive family map."
+  ],
+  "non_authority": "This addendum only closes execution ambiguity. It creates no preference, survivor, typeface selection, O3 change, CLR reentry, implementation or convergence authority."
+}
