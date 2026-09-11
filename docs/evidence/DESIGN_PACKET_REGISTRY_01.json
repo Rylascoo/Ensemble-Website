@@ -77,11 +77,19 @@
       "status": "FROZEN_LOCAL_RESULT",
       "current_contribution": "PASS_COMPATIBLE_COMPOSITION for exact C0 + MAT F1 + STA F2 + MOT F1A/CS2 on neutral synthetic APP/WEB carriers; compatibility evidence only",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-TYP-02-01",
+      "path": "docs/evidence/packets/PKT_TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHY_01.json",
+      "axis": "composition-supported typography / role grammar / reflow",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F1 Ratio Ladder provisional role grammar; system-ui remains measurement-only and final typeface remains unresolved",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
     "C0 Threshold K remains the provisional primary-symbol incumbent after SYM-02 closed with zero refinement/independent-concept survivors; no final symbol authority exists",
-    "final typography/typeface system is unresolved; TYP-01 produced zero survivors",
+    "F1 Ratio Ladder is the provisional composition-supported role grammar from TYP-02, but final typeface/font implementation remains unresolved; system-ui is measurement-only",
     "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
@@ -93,7 +101,7 @@
       "PKT-CMP-01-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Complete frozen TYP-02 composition-supported typography research; do not reopen CLR-01 or whole-app synthesis before its result and a fresh reentry audit.",
+    "next_synthesis_trigger": "Perform a fresh Phase-B sequencing/reentry audit using TYP-02 F1 Ratio Ladder as new bounded typography evidence; do not infer CLR-01 reentry or whole-app convergence automatically.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_08.json"
   },

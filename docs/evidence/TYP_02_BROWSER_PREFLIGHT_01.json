@@ -1,0 +1,97 @@
+{
+  "schema": "kymaean.typ02.browser-preflight.v1",
+  "status": "PASS_COMPLETE_8_MODE_MATRIX",
+  "date": "2026-09-11",
+  "source_manifest": "docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_04.json",
+  "canonical_run": {
+    "id": 34571378882,
+    "head_sha": "ee43c057e39dca47d9505361512cbd1d9aaa0cb3",
+    "artifact_id": 10187897863,
+    "artifact_digest": "sha256:89cd41b5c769fcaaf3e7aeae69cc29d1cf90b8fbdcebe0679598b53143f3dfb8"
+  },
+  "harness_sha256": "f129d84f5ce5d5a533f8e935b906b1e3f9b68b2d7bed2074d2cbd09c115a4ab4",
+  "browser_verifier_sha256": "a660f5ecd816a210ed4fe99d47d35b1077b16ec895fe668bc52b931ff1db0e2b",
+  "browser_version": "Google Chrome 152.0.7977.82",
+  "os_pretty": "Ubuntu 24.04.5 LTS",
+  "modes": {
+    "normal-baseline-wide": {
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": false,
+      "surface_count": 10,
+      "overflow_count": 0,
+      "selected_focus_surface_count": 10
+    },
+    "normal-baseline-320": {
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": false,
+      "surface_count": 10,
+      "overflow_count": 0,
+      "selected_focus_surface_count": 10
+    },
+    "normal-resize200-wide": {
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 200,
+      "text_spacing": false,
+      "surface_count": 10,
+      "overflow_count": 0,
+      "selected_focus_surface_count": 10
+    },
+    "normal-resize200-320": {
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 200,
+      "text_spacing": false,
+      "surface_count": 10,
+      "overflow_count": 0,
+      "selected_focus_surface_count": 10
+    },
+    "normal-spacing-wide": {
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": true,
+      "surface_count": 10,
+      "overflow_count": 0,
+      "selected_focus_surface_count": 10
+    },
+    "normal-spacing-320": {
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": true,
+      "surface_count": 10,
+      "overflow_count": 0,
+      "selected_focus_surface_count": 10
+    },
+    "forced-baseline-wide": {
+      "width": 1200,
+      "forced_colors": true,
+      "root_font_percent": 100,
+      "text_spacing": false,
+      "surface_count": 10,
+      "overflow_count": 0,
+      "selected_focus_surface_count": 10
+    },
+    "forced-baseline-320": {
+      "width": 320,
+      "forced_colors": true,
+      "root_font_percent": 100,
+      "text_spacing": false,
+      "surface_count": 10,
+      "overflow_count": 0,
+      "selected_focus_surface_count": 10
+    }
+  },
+  "mechanical_findings": [
+    "Five-family APP/WEB matrix preserved across all eight frozen modes.",
+    "No horizontal document/text overflow under baseline, 200% resize, text-spacing stress, or forced-colors.",
+    "Selected-state witness and real keyboard focus coexist across all ten surfaces.",
+    "Candidate role vectors and shared responsive heading map match frozen execution defaults."
+  ],
+  "scope": "Mechanical/source/layout/accessibility validation only. Subjective TYP-02 review is separate."
+}

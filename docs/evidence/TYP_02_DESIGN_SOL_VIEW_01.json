@@ -1,0 +1,45 @@
+{
+  "schema": "kymaean.typ02.design-sol-view.v1",
+  "status": "CLOSED_ONE_PROVISIONAL_SURVIVOR",
+  "date": "2026-09-11",
+  "program_id": "TYP-02",
+  "mechanical_gate": "PASS_COMPLETE_8_MODE_MATRIX",
+  "review_modes": [
+    "normal-baseline-wide",
+    "normal-baseline-320"
+  ],
+  "control": {
+    "id": "CNEG",
+    "status": "INELIGIBLE_CONTROL",
+    "finding": "Neutral Utility calibrates the minimum generic hierarchy and cannot survive by contract."
+  },
+  "families": {
+    "F1": {
+      "name": "Ratio Ladder",
+      "status": "PASS_PROVISIONAL_SURVIVOR",
+      "finding": "The bounded size ratio produces a materially clearer hierarchy than CNEG in APP and WEB, remains coherent at 320px, and stays subordinate to C0/MAT rather than competing as the primary identity carrier. Its distinction remains recoverable without color, custom typeface, wordmark, or accidental line-break dependence."
+    },
+    "F2": {
+      "name": "Weight Plane",
+      "status": "FAIL_SUBJECTIVE",
+      "finding": "Weight is spread across eyebrow, heading and state roles until the surface reads as familiar dashboard/utilitarian bold hierarchy. The mechanism is legible but not materially Kymaean-specific under the frozen genericity criterion."
+    },
+    "F3": {
+      "name": "Measure Plane",
+      "status": "FAIL_SUBJECTIVE",
+      "finding": "Its distinction is carried primarily by constrained text measure and resulting line breaks. APP/WEB remain related, but the authored character reads as a layout trick whose identity depends too heavily on line-break behavior, matching the frozen falsification risk."
+    },
+    "F4": {
+      "name": "Rhythm Plane",
+      "status": "FAIL_SUBJECTIVE",
+      "finding": "The interval changes remain too close to CNEG to establish a materially distinct supportive role grammar; where visible, they read as generic editorial whitespace rather than a transferable Kymaean mechanism."
+    }
+  },
+  "survivors": [
+    "F1"
+  ],
+  "director_taste_gate_triggered": false,
+  "result": "F1_RATIO_LADDER_PROVISIONAL_ROLE_GRAMMAR_SURVIVOR",
+  "authority": "F1 is provisional role-grammar evidence only. System-ui remains a measurement carrier; no final typeface, production typography tokens, O3/wordmark change, CLR-01 reentry, implementation, final identity or Phase-C authority is created.",
+  "next_gate": "Fresh Phase-B shared-brand sequencing/reentry audit using TYP-02 as new bounded typography evidence."
+}

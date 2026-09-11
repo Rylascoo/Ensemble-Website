@@ -1,0 +1,137 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-TYP-02-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-11",
+  "gate_or_program": "TYP-02 \u2014 Composition-Supported Typographic Role Grammar / Reflow",
+  "design_axis": "composition-supported typography / role grammar / reflow",
+  "bounded_question": "Can a responsive typographic role grammar add distinctive but subordinate Kymaean character and clearer hierarchy inside the compatible C0 + MAT F1 + STA F2 scaffold across APP/WEB, 320px, 200% text resize and text-spacing stress without requiring typography to carry identity alone?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "canonical_execution_commit": "ee43c057e39dca47d9505361512cbd1d9aaa0cb3",
+    "governing_method_or_contract": [
+      "docs/evidence/TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHIC_ROLE_GRAMMAR_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/TYP_02_EXECUTION_DEFAULTS_01.json",
+      "docs/evidence/TYP_02_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+      "docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_04.json"
+    ]
+  },
+  "controlled_inputs": [
+    "CNEG plus F1-F4 system-ui mechanism-isolation families",
+    "exact C0 Threshold K geometry",
+    "MAT F1 Subtractive Channel scaffold",
+    "STA F2 Ring + Edge Witness",
+    "neutral grayscale measurement carrier",
+    "APP/WEB at baseline 1200/320, 200% text resize, text-spacing stress and forced-colors"
+  ],
+  "excluded_variables": [
+    "final typeface selection",
+    "custom/downloaded fonts or bespoke glyphs",
+    "O3/wordmark redesign",
+    "CLR-01/final color",
+    "motion as scored differentiator",
+    "real product semantics or production implementation"
+  ],
+  "local_result": {
+    "summary": "F1 Ratio Ladder is the sole provisional role-grammar survivor. F2 Weight Plane, F3 Measure Plane and F4 Rhythm Plane fail frozen subjective criteria; CNEG is ineligible.",
+    "survivors_or_closure": [
+      "F1 \u2014 Ratio Ladder"
+    ],
+    "recommended_incumbent": "F1 \u2014 Ratio Ladder",
+    "alternates": [],
+    "rejections": [
+      "F2 \u2014 Weight Plane",
+      "F3 \u2014 Measure Plane",
+      "F4 \u2014 Rhythm Plane"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "F1 adds a materially clearer, restrained hierarchy inside the compatible packet scaffold while remaining subordinate to C0/MAT and coherent across APP/WEB and 320px. F2 reads as generic dashboard weight hierarchy; F3 depends on constrained measure/line breaks; F4 is too close to neutral/generic editorial rhythm.",
+    "director_view_or_delegation": "No separate Director taste gate is triggered because only one materially valid survivor remains. The result advances under standing clean-recursive-audit delegation and remains provisional/non-final.",
+    "resolution_mode": "DESIGN_SOL_ONLY"
+  },
+  "evidence": {
+    "mechanical": [
+      "canonical hosted Run 34571378882 at ee43c057e39dca47d9505361512cbd1d9aaa0cb3",
+      "artifact 10187897863; zip SHA-256 89cd41b5c769fcaaf3e7aeae69cc29d1cf90b8fbdcebe0679598b53143f3dfb8",
+      "exact harness SHA-256 f129d84f5ce5d5a533f8e935b906b1e3f9b68b2d7bed2074d2cbd09c115a4ab4",
+      "PASS_COMPLETE_8_MODE_MATRIX"
+    ],
+    "visual": [
+      "normal-baseline-wide and normal-baseline-320 frozen APP/WEB review surfaces"
+    ],
+    "accessibility": [
+      "zero horizontal document/text overflow in all eight modes",
+      "200% text resize passes at 1200 and 320",
+      "text-spacing stress passes at 1200 and 320",
+      "forced-colors preserves focus/selection/content comprehension"
+    ],
+    "invalid_or_superseded_attempts": [
+      "Run 34569839250 \u2014 shared-shell reflow fixture defect; no design result",
+      "Run 34570224341 \u2014 omitted pre-frozen shared wrap rule; no design result",
+      "Run 34570846103 \u2014 complete mechanical pass but generated preflight provenance metadata referenced Manifest 01; not canonical closure record"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "fresh Phase-B sequencing/reentry audit before further integration/convergence",
+      "later final typeface work if/when authorized; F1 is role grammar only"
+    ],
+    "constrains": [
+      "future composition should preserve F1 Ratio Ladder role relationships as the provisional typography mechanism unless a bounded successor/refinement gate finds contrary evidence"
+    ],
+    "must_not_be_confused_with": [
+      "final typeface selection",
+      "production typography tokens",
+      "whole-app synthesis",
+      "final identity"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "F1 was tested only with system-ui/Segoe UI measurement carrier; another typeface may alter perceived ratio and must be separately validated before production.",
+    "Real product density/content length may expose different hierarchy pressure than the low-density synthetic carriers.",
+    "CLR-01 remains parked and unresolved; color must not be used to retroactively justify TYP-02."
+  ],
+  "explicit_non_authority": [
+    "No final typeface, custom font, bespoke glyph, wordmark/O3 change, CLR-01 selection, production token, app/site implementation, final identity or Phase-C convergence.",
+    "F1 is a provisional role-grammar mechanism, not an authorization to ship the system-ui fixture stack."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing typography/accessibility contract",
+    "explicit typography successor/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "prototypes/typ-02/harness.html",
+      "docs/evidence/TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHIC_ROLE_GRAMMAR_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/TYP_02_EXECUTION_DEFAULTS_01.json",
+      "docs/evidence/TYP_02_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+      "docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_04.json",
+      "docs/evidence/TYP_02_BROWSER_PREFLIGHT_01.json",
+      "docs/evidence/TYP_02_DESIGN_SOL_VIEW_01.json"
+    ],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/typ-02/harness.html",
+      "what_to_review": "F1 Ratio Ladder is the sole provisional survivor under frozen criteria; stress/forced modes are validation evidence, not aesthetic alternatives.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "docs/evidence/TYP_02_BROWSER_PREFLIGHT_01.json"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [
+      "PKT-SYM-01-01",
+      "PKT-MAT-01-01",
+      "PKT-STA-01-01",
+      "PKT-CMP-01-01"
+    ],
+    "latest_composition_packet": "PKT-CMP-01-01",
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
