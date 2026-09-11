@@ -1,0 +1,134 @@
+{
+  "schema": "kymaean.mat01.method-and-matrix.v1",
+  "status": "FROZEN_PRE_MATERIALIZATION",
+  "date": "2026-09-10",
+  "program": "MAT-01 — Cross-Surface Material / Shape Grammar Successor Divergence",
+  "parent_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_06.json",
+  "bounded_question": "Can an independently constructed grayscale material/shape grammar create a distinctive, restrained Kymaean-compatible cross-surface field language across APP-like and WEB-like carriers without relying on color identity, symbol/wordmark geometry, bespoke type, imagery, motion, product semantics, or historical hero composition?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "incumbent_reference": "B — Mineral Theater, temporary V0 material authority only",
+    "incumbent_reference_law": [
+      "docs/evidence/LANE_B_MINERAL_THEATER_DIRECTOR_APPROVAL_01.md",
+      "docs/KYMAEAN_LANE_B_WEBSITE_V0_MATERIAL_ROLES_01.md"
+    ],
+    "engineering_boundary": "No native UI/WinUI visual authority; APP carriers are neutral research fixtures only."
+  },
+  "matrix": {
+    "families": [
+      "CNEG",
+      "F1",
+      "F2",
+      "F3",
+      "F4"
+    ],
+    "contexts": [
+      "APP",
+      "WEB"
+    ],
+    "viewports": [
+      "WIDE",
+      "REFLOW_320"
+    ],
+    "normal_cells": 20,
+    "forced_color_cells": 20,
+    "sizes": {
+      "WIDE": 1200,
+      "REFLOW_320": 320
+    }
+  },
+  "neutral_fixture": {
+    "font": "system-ui, Segoe UI, sans-serif",
+    "background": "#f7f7f4",
+    "ink": "#1b1b19",
+    "secondary": "#62625d",
+    "surface_levels": [
+      "#f7f7f4",
+      "#ecece7",
+      "#ddddd6",
+      "#c9c9c1"
+    ],
+    "line": "#8a8a82",
+    "content": "identical abstract heading, supporting text, and three neutral content units across every family",
+    "rule": "Fixture grayscale values expose structure only and carry no palette/brand authority."
+  },
+  "family_contracts": {
+    "CNEG": {
+      "name": "Conventional Card Stack",
+      "eligibility": "INELIGIBLE_GENERICITY_CONTROL",
+      "topology": "three equal rounded bordered cards over one flat field",
+      "purpose": "calibrate rejection of generic SaaS card composition"
+    },
+    "F1": {
+      "name": "Subtractive Channel",
+      "topology": "one continuous field interrupted by one or two edge-open negative channels; no nested cards",
+      "identity_variable": "subtractive edge/channel geometry"
+    },
+    "F2": {
+      "name": "Compression Relief",
+      "topology": "one continuous field with one shallow locally pressed region and restrained perimeter response",
+      "identity_variable": "deformative relief without glow/glass/floating layers"
+    },
+    "F3": {
+      "name": "Dry Joint Assemblage",
+      "topology": "two or three unequal non-grid masses held as one field by open dry joints and asymmetrical spacing",
+      "identity_variable": "assemblage/joint relationship without puzzle/tile semantics"
+    },
+    "F4": {
+      "name": "Folded Continuum",
+      "topology": "one continuous plane with one restrained fold/crease orientation change; no detached cards",
+      "identity_variable": "continuous directional fold without arrow/book/paper metaphor"
+    }
+  },
+  "construction_law": [
+    "CNEG is the only conventional-card control and cannot survive.",
+    "F1-F4 must be materially disjoint in topology; no family may be a parameter tweak of another.",
+    "Use only HTML/CSS primitives in the first packet; no images, SVG artwork, canvas, WebGL, remote resources, or generated media.",
+    "No family-specific hue. Grayscale level assignments may expose depth/edges but must use the same frozen level set.",
+    "APP may reduce relief/channel/fold amplitude versus WEB, but may not change family topology.",
+    "No family may encode selection, focus, loading, success, warning, causality, Character identity, Stage state, or navigation direction.",
+    "No family may quote Threshold K negative-space anatomy or O3 glyph construction.",
+    "Mineral Theater is compared only after independent family review; its exact colors/textures do not seed construction."
+  ],
+  "preflight_hard_checks": [
+    "exact 5-family × 2-context × 2-viewport matrix in normal and forced-colors states",
+    "no horizontal document overflow at 1200 or 320 CSS px",
+    "all text remains >=4.5:1 in normal fixture",
+    "content remains readable and ordered when forced colors flatten decorative tones",
+    "no animation/transition/autoplay",
+    "no external network/resource dependency",
+    "no image/svg/canvas/WebGL/custom-font/gradient/filter/backdrop-filter/glow",
+    "no clipped required content or family-defining structural carrier at 320",
+    "APP and WEB preserve the same family topology",
+    "source contains no CLR-01 tokens, Threshold K/O3 assets, hero artwork, or product-state semantics"
+  ],
+  "subjective_falsification": [
+    "reads primarily as generic SaaS cards, glassmorphism, neumorphism, luxury-tech slab treatment, brutalist template, or another category convention",
+    "material carrier becomes more visually authoritative than content",
+    "APP and WEB cease to read as one grammar",
+    "family depends on hue, glow, texture spectacle, or imagery to become distinctive",
+    "family reads as an icon, control, progress/state indicator, directional arrow, book/page metaphor, puzzle, grid/tile system, terrain, architecture, installation, or hero-scene mechanism",
+    "family echoes Threshold K/O3 geometry strongly enough to act as a second mark",
+    "identity disappears at compact scale because the mechanism is only large-display ornament",
+    "family creates no material authorship beyond generic border/radius/shadow styling"
+  ],
+  "review_order": [
+    "mechanical preflight",
+    "16/20/24/32-equivalent compact structural read inside APP carrier",
+    "wide APP/WEB cross-surface topology read",
+    "genericity/unintended-symbol audit",
+    "direct comparison of any survivors against the historical Mineral Theater reference",
+    "freeze Design Sol view before any Director taste input if multiple materially valid survivors remain"
+  ],
+  "result_law": {
+    "post_result_retune": false,
+    "replacement_F5": false,
+    "zero_survivors_valid": true,
+    "maximum_provisional_survivors": 2,
+    "phase_c_authority": false,
+    "production_authority": false
+  },
+  "explicit_non_authority": [
+    "No final material system, palette, production token, component skin, app/site implementation, hero reopening, final identity, or Phase-C convergence."
+  ]
+}

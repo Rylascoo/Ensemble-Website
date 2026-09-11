@@ -1,0 +1,74 @@
+{
+  "schema": "kymaean.shared-brand-orthogonal-reentry-audit.v6",
+  "status": "COMPLETE_MAT01_SELECTED_SUCCESSOR_DIVERGENCE_NO_CONVERGENCE",
+  "date": "2026-09-10",
+  "baseline": {
+    "website_main": "cffca8b13acb0efe451d5c90d45052aa965d4404",
+    "engineering_main": "89e5200052e8379caf308833568eb3f832925f37",
+    "engineering_native_validation": "29b62a2e778d93c6727b555f58f8d22aa18665a1"
+  },
+  "objective": "After SYM-02 closes with zero new survivors, re-audit Phase-B sequencing and select at most one lawful successor-divergence question without inventing a fresh axis, reopening parked CLR-01, or crossing into Phase-C convergence.",
+  "new_evidence": [
+    "SYM-02 closed with zero candidate survivors; exact C0 remains provisional only under prior SYM-01 Director authority.",
+    "Audit 05 recommended successor-style divergence before premature composition; the symbol axis has now received that successor pass and produced no new survivor.",
+    "Live Engineering main integrated the Run-04 role control-identity correction but remains E0-A Phase B with no native UI/WinUI visual authority.",
+    "Drive material search recovered the existing Mineral Theater approval/material-role package; no newer material authority was identified by the audited material query."
+  ],
+  "concurrent_branch_disposition": {
+    "branch": "design/sym02-threshold-k-shape-refinement-2026-09-11",
+    "head": "9308fb581c07d0b732cc488418a89c1c1ae4e750",
+    "relation_to_live_main": "9 behind / 6 unique commits at audit time",
+    "classification": "PRESERVE_AS_CONCURRENT_STALE_EVIDENCE_NOT_AUTHORITY",
+    "reasons": [
+      "it starts from pre-correction SYM-01 continuity",
+      "it independently reuses SYM-02 for a different program",
+      "it uses C1* naming instead of current C0-R*/N* continuity law",
+      "its ledger contains numbering already repaired on live main"
+    ],
+    "action": "Do not merge, rewrite, or delete its six unique commits during MAT-01."
+  },
+  "composition_reassessment": {
+    "result": "NOT_SELECTED",
+    "reason": "Current positive packets are C0 symbol, F1A/CS2 motion, and STA F2 while TYP-01 has zero survivors and CLR-01 is parked. A representative composition would therefore still be dominated by neutral fixture typography/color and unsupported product-surface choices rather than a coherent Phase-B visual family.",
+    "revisit_trigger": "new family-level evidence or a separately authorized representative-surface contract"
+  },
+  "open_lane_audit": {
+    "symbol_app_icon": "NOT_ELIGIBLE_NOW: SYM-02 just closed zero-survivor and explicitly forbids automatic SYM-03.",
+    "wordmark_typography_editorial": "LAWFUL_SUCCESSOR_LATER_BUT_NOT_SELECTED: O3 is a temporary bespoke incumbent and TYP-01 closed zero-survivor; another near-term wordform/spacing program would add less lateral family distance than material/shape.",
+    "color_logic": "NOT_ELIGIBLE: CLR-01 remains Director-parked until its authorized convergence/integration trigger.",
+    "motion_system_behavior": "NOT_ELIGIBLE_AS_NEXT: MOT-01 already supplies bounded F1A/CS2 evidence and immediate continuation would be refinement.",
+    "focus_selection_state": "NOT_ELIGIBLE_AS_NEXT: STA-01 is closed with F2 Ring + Edge Witness and awaits integration evidence.",
+    "human_character_static_world": "NOT_ELIGIBLE: extensive prior evidence and static hero/renderer research remain paused.",
+    "iconography": "NOT_READY: functional iconography still depends on later real product-surface vocabulary; decorative glyph work is not strong Phase-B family evidence.",
+    "material_texture_shape": "SELECTED_AS_SUCCESSOR_DIVERGENCE: Mineral Theater is an acknowledged temporary incumbent, but structural material/shape grammar can be isolated in grayscale from CLR-01, typography, symbol, imagery, motion, and product semantics and can create materially different family-defining evidence."
+  },
+  "selected_program": {
+    "program_id": "MAT-01",
+    "name": "Cross-Surface Material / Shape Grammar Successor Divergence",
+    "question": "Can an independently constructed grayscale material/shape grammar create a distinctive, restrained Kymaean-compatible cross-surface field language across APP-like and WEB-like carriers without relying on color identity, symbol/wordmark geometry, bespoke type, imagery, motion, product semantics, or historical hero composition?",
+    "classification": "SUCCESSOR_STYLE_PHASE_B_DIVERGENCE_NOT_FRESH_RESET",
+    "incumbent_reference": "Mineral Theater remains named temporary V0 material authority/reference; it is not a construction seed or automatic winner.",
+    "scope": "Non-production shared-brand material/shape mechanism research only."
+  },
+  "required_isolation": [
+    "candidate families are constructed independently of Mineral Theater geometry and exact colors",
+    "grayscale tonal fixtures only; no hue-family or CLR-01 values",
+    "no Threshold K/O3 geometry or mark-like negative-space imitation",
+    "no hero imagery, human figures, terrain, architectural scene, Stage/Production semantics, iconography, motion, gradients/glow, glass, or generative media",
+    "same neutral system typography and content across families",
+    "APP/WEB adaptation may change amplitude/scale only while preserving topology",
+    "forced-colors and 320px states must preserve comprehension even if decorative material identity collapses",
+    "zero survivors valid; no post-result family retune or F5"
+  ],
+  "next_action": "Freeze MAT-01 method/matrix before specimen construction, then materialize deterministic CSS-only / SVG-free grayscale carriers and run structural/accessibility browser preflight before subjective review.",
+  "hard_boundaries": [
+    "No CLR-01 reentry or final palette.",
+    "No production material tokens or app/site implementation.",
+    "No hero/static renderer reopening.",
+    "No Threshold K/O3 redesign.",
+    "No motion/state retune.",
+    "No final identity or Phase-C convergence."
+  ],
+  "audit_result": "MAT-01 is selected as the strongest lawful successor-divergence axis after SYM-02 zero-survivor closure. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.",
+  "phase_b_exit_condition_satisfied": false
+}

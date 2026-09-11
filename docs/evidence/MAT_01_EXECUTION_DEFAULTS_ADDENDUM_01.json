@@ -1,0 +1,136 @@
+{
+  "schema": "kymaean.mat01.execution-defaults-addendum.v1",
+  "status": "FROZEN_PRE_SPECIMEN",
+  "date": "2026-09-10",
+  "parent_method": "docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json",
+  "purpose": "Freeze all judgment-bearing browser-fixture geometry before the first MAT-01 specimen is materialized.",
+  "shared_layout": {
+    "page_padding_wide_px": 28,
+    "page_padding_320_px": 12,
+    "family_gap_px": 18,
+    "cell_gap_px": 12,
+    "surface_padding_app_px": 18,
+    "surface_padding_web_px": 24,
+    "surface_min_height_app_px": 210,
+    "surface_min_height_web_px": 250,
+    "surface_max_width_app_px": 420,
+    "surface_max_width_web_px": 680,
+    "surface_overflow": "hidden",
+    "content_layer": "relative z-index 2; family geometry is aria-hidden background structure"
+  },
+  "content_packet": {
+    "eyebrow": "NEUTRAL FIELD",
+    "heading": "Primary content",
+    "body": "Supporting text remains unchanged across every material grammar.",
+    "units": [
+      "Content A",
+      "Content B",
+      "Content C"
+    ],
+    "text_color": "#1b1b19",
+    "metadata_color": "#62625d only outside candidate surfaces"
+  },
+  "tonal_fixture": {
+    "page": "#f7f7f4",
+    "level_1": "#ecece7",
+    "level_2": "#ddddd6",
+    "level_3": "#c9c9c1",
+    "line": "#8a8a82",
+    "rule": "No family-specific hue; no visible specimen text uses metadata color over level_2 or level_3."
+  },
+  "family_geometry": {
+    "CNEG": {
+      "surface": "level_1",
+      "cards": 3,
+      "card_layout": "equal thirds",
+      "card_gap_px": 12,
+      "card_radius_px": 14,
+      "card_border": "1px line",
+      "card_fill": "page"
+    },
+    "F1": {
+      "surface": "level_1",
+      "top_channel": {
+        "left_pct": 9,
+        "width_pct": 30,
+        "depth_app_px": 18,
+        "depth_web_px": 28
+      },
+      "right_channel": {
+        "top_pct": 57,
+        "width_app_px": 24,
+        "width_web_px": 36,
+        "height_pct": 23
+      },
+      "channel_fill": "page",
+      "corner_radius_px": 0
+    },
+    "F2": {
+      "surface": "level_1",
+      "pressed_zone": {
+        "left_pct": 23,
+        "top_pct": 26,
+        "width_pct": 54,
+        "height_pct": 48,
+        "fill": "level_2",
+        "outline": "2px level_3",
+        "radius_app_px": 12,
+        "radius_web_px": 18
+      },
+      "perimeter_response": "one level_3 edge witness on lower-inline edge only",
+      "box_shadow": "none"
+    },
+    "F3": {
+      "surface": "page",
+      "masses": [
+        {
+          "width_pct": 49,
+          "height_pct": 62,
+          "fill": "level_1"
+        },
+        {
+          "width_pct": 29,
+          "height_pct": 78,
+          "fill": "level_2"
+        },
+        {
+          "width_pct": 18,
+          "height_pct": 54,
+          "fill": "level_1"
+        }
+      ],
+      "joint_app_px": 6,
+      "joint_web_px": 10,
+      "alignment": "asymmetric vertical centers; no repeated grid",
+      "radius_px": 2
+    },
+    "F4": {
+      "surface": "level_1",
+      "fold_overlay": {
+        "fill": "level_2",
+        "clip_path": "polygon(56% 0, 100% 0, 100% 100%, 48% 100%)"
+      },
+      "crease": {
+        "x_top_pct": 56,
+        "x_bottom_pct": 48,
+        "width_px": 2,
+        "fill": "level_3"
+      },
+      "radius_px": 0
+    }
+  },
+  "responsive_rules": [
+    "At viewport <=520px every family row becomes one column; APP and WEB remain separate cells.",
+    "Candidate surfaces use width:100% and max-width only; no fixed width may exceed the viewport content box.",
+    "Family topology is unchanged at 320; only the already-frozen APP versus WEB amplitude values differ.",
+    "No content unit may be hidden, truncated, horizontally scrolled, or reordered at 320."
+  ],
+  "interaction_and_accessibility": [
+    "No animation or transition declarations anywhere in the scored surface.",
+    "No candidate geometry is interactive or focusable.",
+    "Forced-colors may flatten grayscale fills; semantic content order and text remain available and family structure may not obscure content.",
+    "All required visible text uses the frozen ink color on normal-mode candidate surfaces; contrast floor is 4.5:1.",
+    "Candidate identity is decorative research only; meaning/function may not depend on material effect."
+  ],
+  "construction_freeze": "After first specimen materialization, only mechanical repairs that restore this exact contract may occur. Family geometry, tonal assignments, topology, amplitude, content, and candidate count may not be retuned after viewing."
+}

@@ -1178,3 +1178,32 @@ Exact C0 Threshold K therefore remains the provisional primary-symbol incumbent 
 **Next gate:** fresh Phase-B shared-brand sequencing/reentry audit before any new symbol batch or identity-axis program. No automatic SYM-03.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FROZEN-CRITERIA FALSIFICATION.**
+
+
+## L-072 - Phase-B reentry selects MAT-01 material/shape successor divergence
+
+**State:** REENTRY AUDIT COMPLETE / MAT-01 METHOD FROZEN / PRE-MATERIALIZATION / NO CONVERGENCE
+
+After SYM-02 closed with zero new survivors, a fresh Phase-B audit rechecked the remaining lanes against the canonical roadmap, packet framework, current Engineering boundary and Drive material continuity. Audit 05's preferred successor-divergence path has now been exercised once on the symbol axis without producing a new survivor. Composition remains premature because the positive packet set still lacks a surviving typography family and CLR-01 is explicitly parked; inventing a representative product surface now would still make neutral fixture choices dominate the result.
+
+`docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_06.json` selects **MAT-01 — Cross-Surface Material / Shape Grammar Successor Divergence**. This is not described as a fresh axis. Mineral Theater remains the named temporary V0 incumbent/reference, while MAT-01 candidate construction is isolated from its exact colors and from hero/static-world composition. The frozen method uses grayscale structural carriers only and compares four materially disjoint topology families plus one ineligible conventional-card control across APP/WEB and wide/320 states.
+
+The audit also classifies concurrent branch `design/sym02-threshold-k-shape-refinement-2026-09-11` at `9308fb581c07d0b732cc488418a89c1c1ae4e750` as preserve-only stale/conflicting evidence: it is behind live main, independently reuses SYM-02, uses superseded C1* continuity notation and contains ledger numbering already repaired on main. Its six unique commits must not be merged or deleted by MAT-01.
+
+**Next gate:** materialize the exact MAT-01 deterministic grayscale matrix and pass source/responsive/forced-colors/accessibility preflight before subjective family judgment. Zero survivors is valid; no post-result retune or F5.
+
+**Guardrail:** no CLR-01 reentry, final palette/material system, production token, Threshold K/O3 redesign, hero reopening, app/site implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-073 - MAT-01 execution defaults freeze before specimen materialization
+
+**State:** PRE-SPECIMEN EXECUTION DEFAULTS FROZEN / NO VISUAL RESULT YET
+
+A pre-materialization audit found open fixture choices that could otherwise become evidence-aware tuning: carrier dimensions, content placement, tonal assignments, subtractive-channel extent, compression-relief bounds, dry-joint proportions and folded-continuum geometry. `docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json` freezes those choices before the first specimen exists.
+
+The addendum changes no MAT-01 family topology, candidate count, isolation rule, falsification criterion or termination law. All visible candidate text uses one high-contrast ink; grayscale levels expose structure only and carry no palette authority. APP/WEB may use only the predeclared amplitude differences while preserving topology.
+
+**Next gate:** materialize the exact five-family deterministic browser matrix and verify source isolation, normal/forced-colors behavior, 1200/320 reflow and contrast before subjective review.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRE-SPECIMEN AUDIT.**
