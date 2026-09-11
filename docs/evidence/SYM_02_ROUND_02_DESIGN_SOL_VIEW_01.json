@@ -1,0 +1,14 @@
+{
+  "schema": "kymaean.sym02.round02-design-sol-view.v1",
+  "status": "FROZEN",
+  "date": "2026-09-11",
+  "program": "SYM-02 - Threshold K Exact Vector Shape Refinement",
+  "result": "NO ROUND_02 VARIANT DISPLACES C1",
+  "assessment": {
+    "C1A": "Fails incremental-value test: upper-tension delta is visible in overlay but does not improve compact recovery or authorship over C1; it nudges the negative K toward deliberate construction.",
+    "C1B": "Fails incremental-value test: lower-tension bias makes the lower sweep slightly heavier without a compensating identity gain.",
+    "C1C": "Fails incremental-value test: combined asymmetry is too subtle to add ownership and risks tuning for tuning’s sake."
+  },
+  "survivor": "C1 - Bézier Fidelity remains the sole local refinement challenger; exact C0 remains immutable selected incumbent.",
+  "next_question": "Test overall horizontal proportion around C1 with uniform geometry scaling only; do not reopen internal spacing or mass relationships."
+}

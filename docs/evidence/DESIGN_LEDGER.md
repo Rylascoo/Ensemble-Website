@@ -1114,3 +1114,15 @@ C1 therefore advances only as the Round-02 working challenger. C0 remains the se
 **Next gate:** Round 02 may micro-adjust C1 curve tension only.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-067 - SYM-02 Round 02 closes with no gain over C1
+
+**State:** ROUND 02 CLOSED / ZERO NEW SURVIVORS / C1 RETAINED
+
+Frozen C1A/C1B/C1C right-field tension probes were reviewed against C1 at display and compact scales. None provides sufficient optical or identity gain to justify replacing C1; the differences either over-articulate the negative K or tune weight without adding ownership.
+
+C1 Bézier Fidelity remains the sole refinement challenger. Exact C0 remains immutable selected incumbent.
+
+**Next gate:** a new Round 03 may test only uniform horizontal proportion around C1.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
