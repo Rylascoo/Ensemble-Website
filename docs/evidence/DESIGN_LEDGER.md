@@ -1642,3 +1642,19 @@ Image-level family distance remains unproven. Current/historical comparison at t
 **Guardrail:** 0/6 image budget currently consumed; no reroll, hidden premise, post-exposure packet edit, early transfer, final family selection, convergence, production asset or implementation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN PRE-EXPOSURE PREMISE/INPUT FREEZE.**
+
+## L-104 - VFD-01 primary probes leave P4 as the sole transfer survivor
+
+**State:** 4 OF 6 IMAGE BUDGET CONSUMED / P1-P3 PRIMARY FAIL / P4 PRIMARY PASS / P4 TRANSFER ONLY NEXT
+
+`docs/evidence/VFD_01_PRIMARY_EVALUATION_01.json` freezes Design Sol's evaluation before any Director taste input. The four Director-supplied images were mapped in supplied order to P1-P4, and their supplied-byte SHA-256 hashes/dimensions are pinned in the evaluation. All four PNGs are archived under Drive `VFD-01 Second-Family Divergence 01`; upload success and byte size were verified, while post-upload re-download hashing is not claimed.
+
+P1 is visually coherent but triggers its exact predeclared failure: a conventional figurative scene remains underneath heavy impasto, so accumulated mark history is treatment rather than the representational substrate; historical VID painterly/naturalistic contamination is binding. P2 collapses to generic flat-vector/lifestyle illustration and does not clear the frozen current-family geometry-distance pressure. P3 collapses to conventional cinematic/atmospheric staging: fog/light overlays an ordinary volumetric scene and causal changed-condition truth recedes into mood. All three are consumed failures with no reroll, repair or transfer.
+
+P4 Rule-Bearing Mosaic Field clears every conjunctive primary gate. Discrete units and local ordering govern people, environment, edges, texture and the altered barrier/gap across the whole image; the three people remain distinct causal/relational participants; the changed access condition is carried by scene organization rather than labels; and the unit-field grammar remains materially distant from the current provisional family without relying on hue, text or motion. **P4 is the sole primary survivor.**
+
+**Next gate:** exactly one P4 transfer probe using the already-frozen transfer packet in a fresh non-project renderer context, with no access to the P4 primary image. If transfer fails, VFD-01 closes with zero family survivors. If it passes every transfer gate, P4 becomes a VFD-01 family survivor and the program stops at the consequential Director second-family convergence boundary; Phase C remains non-automatic.
+
+**Guardrail:** 4/6 judgeable-image ceiling consumed; no P1-P3 transfer, reroll or replacement; no P4 prompt retune; no current-family construction seeding, CLR-01 reentry, final identity, production asset, implementation or automatic Phase C.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN PRIMARY EVALUATION.**

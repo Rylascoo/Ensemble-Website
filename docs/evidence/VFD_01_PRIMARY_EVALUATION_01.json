@@ -1,0 +1,131 @@
+{
+  "schema": "kymaean.vfd01.primary-evaluation.v1",
+  "status": "P4_SOLE_PRIMARY_SURVIVOR_TRANSFER_AUTHORIZED",
+  "date": "2026-09-11",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "input_manifest": "docs/evidence/VFD_01_PRIMARY_INPUT_MANIFEST_01.json",
+  "mapping_rule": "The four images supplied together by the Director were mapped in supplied order to P1, P2, P3, P4. Design Sol stated this mapping before evaluation and received no contrary label.",
+  "director_taste_input_before_freeze": "NONE",
+  "drive_archive": {
+    "folder_id": "1lZ3pVl6K_-zZqkQMvDyDb-IpQTaB4MiZ",
+    "folder_name": "VFD-01 Second-Family Divergence 01",
+    "parent_context": "Ensemble Project/03 Visual Identity & Artwork/Kymaean/03 Lane B - Clean-Slate Brand & Atmosphere - Preserved/V0 Visual World & Atmosphere - Clean Slate",
+    "verification": "UPLOAD_SUCCESS_AND_SIZE_MATCH; SHA-256 computed from supplied bytes before upload; Drive bytes were not re-downloaded/rehashed."
+  },
+  "image_budget": {
+    "primary_consumed": 4,
+    "transfer_consumed": 0,
+    "total_consumed": 4,
+    "maximum_total": 6
+  },
+  "probes": {
+    "P1": {
+      "working_name": "Accumulated Mark Field",
+      "sha256": "d23593bede46815fbdd8e8ea4d0b9375d36813d2a9c191c5e83258991aa89514",
+      "bytes": 4230672,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "drive_id": "13VW2G93OcBqXstRHG6cd_SgISut7nXFD",
+      "drive_name": "VFD_01_P1_PRIMARY_01.png",
+      "result": "FAIL_PRIMARY",
+      "gates": {
+        "ARTISTIC_INTEGRITY": "PASS - coherent tactile impasto world",
+        "HUMAN_PRIMACY": "PASS - three differentiated human participants remain central",
+        "RELATIONAL_TRUTH": "PASS - spatial obstruction/condition organizes the people without explanatory graphics",
+        "EPISTEMIC_RESTRAINT": "PASS",
+        "WHOLE_SURFACE_SPECIFICITY": "FAIL - reads as a conventional figurative scene rendered with heavy impasto; accumulated marks do not function as the representational/history substrate",
+        "CONTAMINATION_PASS": "FAIL - materially repeats the historical VID painterly/naturalistic attractor predeclared for P1",
+        "DISTANCE_PASS": "PASS_CURRENT_FAMILY_ONLY - visually distant from the current geometric provisional stack, but this cannot rescue the historical-surface contamination failure",
+        "ACCESSIBILITY_TRANSFER_POTENTIAL": "PASS"
+      },
+      "binding_reason": "The exact P1 predeclared falsifier occurred: ordinary-scene representation survives underneath painterly/impasto residue. No retune or reroll."
+    },
+    "P2": {
+      "working_name": "Interlocking Plane Field",
+      "sha256": "9d7916b1784b10efa5939e3ed7e279d59af167188485554674882c19c51cac03",
+      "bytes": 2320540,
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "drive_id": "1qn12Ok3zYj5h5D4VeL2hUUTvoQTxB-jG",
+      "drive_name": "VFD_01_P2_PRIMARY_01.png",
+      "result": "FAIL_PRIMARY",
+      "gates": {
+        "ARTISTIC_INTEGRITY": "FAIL - generic flat lifestyle/product illustration rather than an authored independent visual world",
+        "HUMAN_PRIMACY": "FAIL - human specificity remains too pictogram-like/interchangeable for the frozen premise",
+        "RELATIONAL_TRUTH": "PASS - adjacency and the divider organize relationship without arrows or labels",
+        "EPISTEMIC_RESTRAINT": "PASS",
+        "WHOLE_SURFACE_SPECIFICITY": "FAIL - planar law resolves as generic flat-vector illustration",
+        "CONTAMINATION_PASS": "FAIL - crisp bounded fields/negative-space geometry drift materially toward the current geometric shared-brand family",
+        "DISTANCE_PASS": "FAIL - the image does not clear the required four-axis family-level distance once current C0/MAT/STA geometry pressure is included",
+        "ACCESSIBILITY_TRANSFER_POTENTIAL": "PASS"
+      },
+      "binding_reason": "The predeclared P2 flat-vector/current-family geometry failure occurred. No retune or reroll."
+    },
+    "P3": {
+      "working_name": "Diffused Density Continuum",
+      "sha256": "d555cf124084b207ed31c85b384fd808e263e8312f7fbd27f601b5b59f6037a2",
+      "bytes": 2919544,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "drive_id": "166qqxMd7o8T1D9GiOy8z1tY3wncmbDWM",
+      "drive_name": "VFD_01_P3_PRIMARY_01.png",
+      "result": "FAIL_PRIMARY",
+      "gates": {
+        "ARTISTIC_INTEGRITY": "PASS - coherent cinematic image",
+        "HUMAN_PRIMACY": "PASS - three differentiated people remain visible",
+        "RELATIONAL_TRUTH": "FAIL - the earlier human action/materially changed shared condition is not recoverable strongly enough; mood/ruin dominates causal organization",
+        "EPISTEMIC_RESTRAINT": "PASS",
+        "WHOLE_SURFACE_SPECIFICITY": "FAIL - fog/light is an atmospheric treatment over a conventional volumetric scene rather than the actual representational substrate",
+        "CONTAMINATION_PASS": "FAIL - repeats the historical atmospheric/cinematic surface pressure predeclared for P3",
+        "DISTANCE_PASS": "PASS_CURRENT_FAMILY_ONLY - distant from the current clean geometric stack, but historical-atmosphere contamination is binding",
+        "ACCESSIBILITY_TRANSFER_POTENTIAL": "FAIL - essential person/relationship separation depends too heavily on low-contrast haze and wide spatial placement"
+      },
+      "binding_reason": "The exact P3 predeclared falsifier occurred: softness is atmospheric fog/light over a conventional scene and causal truth recedes into mood. No retune or reroll."
+    },
+    "P4": {
+      "working_name": "Rule-Bearing Mosaic Field",
+      "sha256": "e746b9481ee794cfcba9c56b85cc8922ffc47f14b630f300d18183dc0ffbe283",
+      "bytes": 4467007,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "drive_id": "1_Z3a8e_cL5kS4QAEdVod8uABbP6oYoWZ",
+      "drive_name": "VFD_01_P4_PRIMARY_01.png",
+      "result": "PASS_PRIMARY_ADVANCE_TO_TRANSFER",
+      "gates": {
+        "ARTISTIC_INTEGRITY": "PASS - coherent authored mosaic world rather than a diagram",
+        "HUMAN_PRIMACY": "PASS - three distinct people retain specific posture/action roles despite the common unit vocabulary",
+        "RELATIONAL_TRUTH": "PASS - the altered barrier/gap and displaced units carry relationship/access change through scene organization",
+        "EPISTEMIC_RESTRAINT": "PASS",
+        "WHOLE_SURFACE_SPECIFICITY": "PASS - discrete units and local ordering govern people, environment, edges, texture and changed condition across the whole image",
+        "CONTAMINATION_PASS": "PASS - no material dependence on the current provisional family or quarantined historical surfaces is visible",
+        "DISTANCE_PASS": "PASS - representation ontology, spatial organization, figure-ground grammar, human-specificity mechanism, consequence carrier and granular atmosphere are materially distinct from the current provisional stack",
+        "ACCESSIBILITY_TRANSFER_POTENTIAL": "PASS - identity/relationship/access remain legible through value, silhouette, barrier geometry and large-scale organization without hue/text/motion dependence"
+      },
+      "binding_reason": "P4 clears every conjunctive primary gate. The visible unit rule remains subordinate enough to human/relational truth and operates as whole-surface substrate rather than explanatory overlay."
+    }
+  },
+  "primary_survivors": [
+    "P4"
+  ],
+  "transfer_authorized": [
+    "P4"
+  ],
+  "transfer_not_authorized": [
+    "P1",
+    "P2",
+    "P3"
+  ],
+  "next_action": "Execute exactly one P4 transfer probe in a fresh regular non-project renderer context using the already-frozen VFD_01_P4_TRANSFER_STERILE_PACKET_01.txt. Do not show the primary P4 image to the transfer renderer. Preserve returned bytes/provenance before evaluation.",
+  "termination_if_transfer_fails": "Close VFD-01 with zero family survivors. P1-P3 are consumed failures and cannot be replaced or rerolled.",
+  "consequence_if_transfer_passes": "P4 becomes one VFD-01 family survivor; direct comparison then determines whether the second-family prerequisite is satisfied, after which VFD-01 stops at the Director convergence boundary. Phase C is not automatic.",
+  "audit_result": "CLEAN_FROZEN_PRIMARY_EVALUATION_ONE_TRANSFER_SURVIVOR"
+}
