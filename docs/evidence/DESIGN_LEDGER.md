@@ -1565,3 +1565,17 @@ This is compatibility evidence only. C0/O3/TYP/MAT/STA remain provisional/tempor
 **Next gate:** fresh Phase-B shared-brand sequencing/reentry audit using CMP-02 compatibility as new evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FROZEN-CRITERIA COMPOSITION FALSIFICATION.**
+
+## L-099 - CMP-02 serial branch promotes to main with archived source
+
+**State:** CMP-02 PROMOTED / SOURCE TAGGED / SERIAL BRANCH DISPOSAL GATED / PHASE-B REENTRY AUDIT NEXT
+
+CMP-02 closed `PASS_COMPATIBLE_IDENTITY_STACK`, then its closeout and deterministic text-integrity repair passed local repository validation plus hosted Document Status and Repository Publication Boundaries. Serial source head `8a664c9b5731306e380a14b5d224a7a2448aa836` was fast-forward-promoted from prior `main` `017458bd8b5453d3a048ef8a0a60dc68fb5cbc31`. Lightweight tag `archive/design/phase-b-reentry-post-typ02-2026-09-11` reads back to the exact serial source SHA.
+
+Promotion completion is main-only so the archived serial source remains immutable. The temporary CMP-02 hosted workflow is absent. Remote serial-branch deletion is authorized only after this promotion-completion commit passes the hosted document/publication gates and a final ancestry check proves the archived source is a strict ancestor of `main` with zero unique commits. The concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` branch remains preserved as stale/conflicting unique-commit evidence and is not part of this promotion.
+
+**Next gate:** recover from promoted `main` and perform the fresh Phase-B shared-brand sequencing/reentry audit using CMP-02 compatibility as new evidence. Open at most one new serial branch only after that audit selects a bounded gate.
+
+**Guardrail:** no CLR-01 automatic reentry, source-packet promotion to final, final typeface/wordmark/lockup, hero/static reopening, real product semantics, app/site implementation, whole-app synthesis, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN SERIAL PROMOTION PREPARATION.**
