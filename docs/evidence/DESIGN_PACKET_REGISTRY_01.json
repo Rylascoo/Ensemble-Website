@@ -97,9 +97,17 @@
     {
       "packet_id": "PKT-CMP-02-01",
       "path": "docs/evidence/packets/PKT_CMP_02_IDENTITY_STACK_COMPOSITION_01.json",
-      "axis": "identity stack / wordmark–typography hierarchy composition",
+      "axis": "identity stack / wordmark\u2013typography hierarchy composition",
       "status": "FROZEN_LOCAL_RESULT",
       "current_contribution": "PASS_COMPATIBLE_IDENTITY_STACK for exact C0 + O3 + TYP-02 F1 + MAT F1 + STA F2 across three bounded synthetic roles; compatibility evidence only",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-VFD-01-01",
+      "path": "docs/evidence/packets/PKT_VFD_01_SECOND_FAMILY_DIVERGENCE_CLOSURE_01.json",
+      "axis": "shared-brand second-family / whole-surface representation divergence",
+      "status": "CLOSED_ZERO_SURVIVORS",
+      "current_contribution": "No second-family incumbent; preserve P4 Rule-Bearing Mosaic Field as positive representation-mechanism evidence whose transfer failed anti-copy/content-topology independence",
       "production_authority": false
     }
   ],
@@ -111,7 +119,8 @@
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
     "F1 Subtractive Channel is composition-compatible with exact C0, STA F2 and MOT F1A/CS2 on CMP-01 neutral carriers, but Mineral Theater/CLR/type/real-product synthesis remains untested; no final material system exists",
-    "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists"
+    "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists",
+    "Phase-B still lacks a second genuinely distinct surviving visual family: VFD-01 closed zero-survivor after P4 transfer repeated primary causal staging despite preserving the mosaic representation substrate."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -119,7 +128,7 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "VFD-01 method freeze for a genuinely distinct second-family whole-surface representation divergence program; current packet stack is comparison control only, not a construction seed.",
+    "next_synthesis_trigger": "Fresh post-VFD Phase-B sequencing/reentry audit from promoted main; VFD-01 is closed and implies no automatic successor or synthesis gate.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/SHARED_BRAND_POST_CMP02_REENTRY_AUDIT_10.json"
   },

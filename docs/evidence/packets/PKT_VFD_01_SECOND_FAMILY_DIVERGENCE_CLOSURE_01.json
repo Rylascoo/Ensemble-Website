@@ -1,0 +1,140 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-VFD-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "CLOSED_ZERO_SURVIVORS",
+  "date": "2026-09-11",
+  "gate_or_program": "VFD-01 - Second-Family Whole-Surface Representation Divergence",
+  "design_axis": "shared-brand visual-family / whole-surface representation logic",
+  "bounded_question": "Can a materially different whole-surface representation logic survive two distinct neutral human-relational probes, remain independent of the current provisional family and historical surfaces, and establish one genuinely distinct second visual family?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "52d1394575c5a63990e3a33c6a95c955110adec9",
+    "current_state_at_close": "Frozen VFD-01 program-result commit 502c5fafb07ff9e8060c9d8223d26878da04cb01; packetization follows without changing that result.",
+    "governing_method_or_contract": [
+      "docs/evidence/SHARED_BRAND_SECOND_FAMILY_DIVERGENCE_AUTHORIZATION_01.json",
+      "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+      "docs/evidence/VFD_01_PRIMARY_INPUT_MANIFEST_01.json"
+    ],
+    "drive_sources_if_material": [
+      "Drive folder VFD-01 Second-Family Divergence 01 (id 1lZ3pVl6K_-zZqkQMvDyDb-IpQTaB4MiZ)"
+    ]
+  },
+  "controlled_inputs": [
+    "four frozen pairwise-distant representation premises P1-P4",
+    "one frozen primary neutral human-relational content packet",
+    "one frozen materially different transfer neutral content packet",
+    "fresh non-project renderer context per probe",
+    "maximum four primary plus two transfer images with no reroll"
+  ],
+  "excluded_variables": [
+    "current C0/O3/TYP/MAT/STA/MOT/CLR mechanisms as construction seeds",
+    "historical exact VID/hero/Quiet Stage/Mineral Theater surfaces",
+    "color as a candidate identity axis",
+    "motion scoring",
+    "brand marks, wordmark, bespoke typography, product UI, semantic iconography",
+    "production assets and implementation"
+  ],
+  "local_result": {
+    "summary": "P1-P3 failed their frozen primary gates. P4 Rule-Bearing Mosaic Field passed every primary gate and preserved its mosaic substrate in transfer, but the single transfer repeated too much of the primary causal staging/signature topology and therefore failed the conjunctive anti-copy/independent-transfer gate. VFD-01 closes with zero family survivors after 5 judgeable images.",
+    "survivors_or_closure": [
+      "CLOSED_ZERO_FAMILY_SURVIVORS"
+    ],
+    "recommended_incumbent": null,
+    "alternates": [
+      "P4 Rule-Bearing Mosaic Field is preserved as positive representation-mechanism evidence only; it is not a surviving family or incumbent."
+    ],
+    "rejections": [
+      "P1 Accumulated Mark Field - ordinary figurative scene under impasto; historical painterly contamination",
+      "P2 Interlocking Plane Field - generic flat-vector/current-family geometric collapse",
+      "P3 Diffused Density Continuum - conventional atmospheric overlay and weak causal legibility",
+      "P4 transfer - mosaic grammar repeats, but primary barrier/worker/standing-person causal topology and signature motif repeat too closely"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "The P4 mechanism is the strongest positive evidence from VFD-01 because its discrete-unit rule genuinely governs the whole surface and stays distant from the current provisional family. Under the frozen transfer law, however, repeatability of rendering grammar is insufficient when the second probe reuses the primary causal staging/signature motif; no family survivor can be claimed.",
+    "director_view_or_delegation": "The Director explicitly authorized Path 2 / bounded second-family exploration before VFD-01 construction. No post-result Director taste input was used in primary or transfer scoring; closure follows the frozen method under standing clean-recursive-audit delegation.",
+    "resolution_mode": "DIRECTOR_AUTHORIZED_DESIGN_SOL"
+  },
+  "evidence": {
+    "mechanical": [
+      "program-result commit 502c5fafb07ff9e8060c9d8223d26878da04cb01",
+      "P1-P4 primary supplied-byte hashes/dimensions frozen in VFD_01_PRIMARY_EVALUATION_01.json",
+      "P4 transfer supplied-byte SHA-256 e05c672cb76d3142c2f8ec5b420f63f26a47108b14e01a64926a08ec692a7524; 1586x992; 4,453,352 bytes",
+      "image budget consumed 5/6; remaining slot expires by termination law"
+    ],
+    "visual": [
+      "Drive VFD_01_P1_PRIMARY_01.png",
+      "Drive VFD_01_P2_PRIMARY_01.png",
+      "Drive VFD_01_P3_PRIMARY_01.png",
+      "Drive VFD_01_P4_PRIMARY_01.png",
+      "Drive VFD_01_P4_TRANSFER_01.png"
+    ],
+    "accessibility": [
+      "Essential P4 relation/identity evidence survived through value, silhouette, unit-density and large-scale boundary organization without dependence on hue, text or motion."
+    ],
+    "invalid_or_superseded_attempts": []
+  },
+  "dependencies": {
+    "requires": [
+      "fresh post-VFD Phase-B sequencing/reentry audit before any successor program"
+    ],
+    "constrains": [
+      "future second-family programs must address P4 anti-copy/content-topology weakness if they cite mosaic evidence"
+    ],
+    "must_not_be_confused_with": [
+      "a surviving second family",
+      "a final visual-world/imagery incumbent",
+      "Phase-B exit",
+      "Phase-C authority",
+      "production artwork"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "P4 proves a repeatable unit-based surface substrate but not transfer independence from barrier/worker relational staging.",
+    "Any future use of P4 evidence must distinguish the representation law from the failed primary/transfer scene topology.",
+    "The current provisional C0/O3/TYP/MAT/STA/MOT stack remains one provisional family/control and is not superseded by VFD-01."
+  ],
+  "explicit_non_authority": [
+    "No second-family survivor, final family selection, final identity, production asset, app/site implementation, final palette/type/wordmark/iconography, whole-app synthesis or Phase-C convergence.",
+    "No P4 reroll, second transfer, premise repair/replacement or VFD-01 continuation."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+      "docs/evidence/VFD_01_PRIMARY_INPUT_MANIFEST_01.json",
+      "docs/evidence/VFD_01_PRIMARY_EVALUATION_01.json",
+      "docs/evidence/VFD_01_TRANSFER_EVALUATION_AND_CLOSURE_01.json",
+      "docs/evidence/VFD_01_PREMISE_PAIRWISE_AUDIT_01.json",
+      "docs/evidence/VFD_01_PRE_RENDER_CONTAMINATION_DISTANCE_AUDIT_01.json"
+    ],
+    "drive_visual_masters": [
+      "VFD_01_P1_PRIMARY_01.png (Drive id 13VW2G93OcBqXstRHG6cd_SgISut7nXFD)",
+      "VFD_01_P2_PRIMARY_01.png (Drive id 1qn12Ok3zYj5h5D4VeL2hUUTvoQTxB-jG)",
+      "VFD_01_P3_PRIMARY_01.png (Drive id 166qqxMd7o8T1D9GiOy8z1tY3wncmbDWM)",
+      "VFD_01_P4_PRIMARY_01.png (Drive id 1_Z3a8e_cL5kS4QAEdVod8uABbP6oYoWZ)",
+      "VFD_01_P4_TRANSFER_01.png (Drive id 1BgID7VeYY9XrouNu67alH2oec6nPcMXW)"
+    ],
+    "director_review_surface": {
+      "entry_point": "Drive folder VFD-01 Second-Family Divergence 01",
+      "what_to_review": "P4 primary and P4 transfer side-by-side if reviewing why the mosaic grammar repeats but the transfer-independent scene topology fails; P1-P3 remain useful failure evidence.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "docs/evidence/VFD_01_PRIMARY_EVALUATION_01.json",
+        "docs/evidence/VFD_01_TRANSFER_EVALUATION_AND_CLOSURE_01.json"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
