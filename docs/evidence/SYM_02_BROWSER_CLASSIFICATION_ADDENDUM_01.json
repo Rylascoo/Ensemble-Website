@@ -1,0 +1,34 @@
+{
+  "schema": "kymaean.sym02.browser-classification-addendum.v1",
+  "status": "FROZEN_EXECUTION_SEMANTICS_CORRECTION",
+  "date": "2026-09-10",
+  "program": "SYM-02 — Threshold K Refinement + Independent Concept Exploration",
+  "trigger_run": {
+    "github_actions_run_id": 34554003697,
+    "head_sha": "daea790edeec015ca58e6ce4e47ffe309984bbf0",
+    "artifact_id": 10181836645,
+    "artifact_digest": "sha256:e1179cb958fc699a65c915889d111c7948fdbc30fea6c4f6079beba8401af98c"
+  },
+  "diagnostic_status": "VALID_FOUR_MODE_DIAGNOSTICS / INCOMPLETE_AGGREGATED_MATRIX_RESULT",
+  "finding": "The repaired harness completed all four Chrome diagnostic captures with zero carrier overflow. The browser verifier then exited on N1's candidate-level viewBox violation because candidate falsification was incorrectly treated as experiment failure.",
+  "semantic_correction": {
+    "experiment_failure": "Reserved for carrier, control, source-load, viewport, forced-colors, measurement-integrity, or matrix-integrity defects that prevent trustworthy classification.",
+    "candidate_failure": "A frozen candidate that violates its own mechanical floor is classified FAIL_MECHANICAL while the valid experiment continues classifying the remaining frozen candidates.",
+    "law": "This correction changes no candidate bytes, candidate criterion, tolerance, review threshold, or no-retune rule."
+  },
+  "diagnostic_observations": {
+    "C0-R1": "Not mechanically falsified in Run 2; total filled-area delta is about 0.0069%, filled-centroid shift about 0.441 viewBox units, and outer extrema match C0.",
+    "C0-R2": "FAIL_MECHANICAL: right-field bounding box differs from exact C0 (browser source bbox begins near x=66.343 rather than x=67).",
+    "C0-R3": "FAIL_MECHANICAL: aggregate left-field filled area changes by about 9.11%, exceeding the frozen 8% ceiling.",
+    "N1": "FAIL_MECHANICAL: source geometry extends outside its 0 0 100 100 viewBox (browser source bbox reaches y=-6).",
+    "N2": "Not mechanically falsified by Run-2 diagnostics; final status awaits complete classifier rerun.",
+    "N3": "Not mechanically falsified by Run-2 diagnostics; final status awaits complete classifier rerun."
+  },
+  "candidate_immutability": "C0-ORIGINAL and all six candidate SVG hashes remain exactly those frozen in SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json.",
+  "next_gate": "Run the corrected classifier against the unchanged frozen bytes and repaired harness. Only candidates classified PASS_MECHANICAL by a complete matrix may enter subjective silhouette/negative-space review.",
+  "explicit_non_authority": [
+    "No failed candidate redraw, rescue, replacement, R4, or N4.",
+    "No final logo/app icon, production vector, CLR/O3/TYP/MOT/STA/material/hero mutation, implementation, final identity, or Phase-C convergence."
+  ],
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION — EXECUTION-SEMANTICS CORRECTION ONLY."
+}

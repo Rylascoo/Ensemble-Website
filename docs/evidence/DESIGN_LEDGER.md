@@ -1148,3 +1148,17 @@ Hosted Run `34553692361` loaded the exact frozen SYM-02 batch and completed all 
 **Next gate:** rerun the identical four-mode hosted preflight against the repaired harness and unchanged frozen symbol bytes.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — DETERMINISTIC IN-LANE EXECUTION REPAIR.**
+
+## L-070 - SYM-02 Run 2 separates candidate failure from experiment failure
+
+**State:** EXECUTION SEMANTICS CORRECTED / THREE FROZEN MECHANICAL FAILURES IDENTIFIED / COMPLETE RERUN REQUIRED
+
+Hosted Run `34554003697` proved the repaired review carrier itself clean: all four Chrome modes completed with zero carrier overflow. Its diagnostics then exposed genuine frozen-candidate violations. C0-R2 breaks its exact right-field bounding-box requirement; C0-R3 changes aggregate left-field filled area by about 9.11%, above the frozen 8% ceiling; N1 extends outside its declared viewBox. Those three candidates are mechanically falsified and may not be redrawn or rescued.
+
+The run also exposed one verifier-semantics defect: candidate-level falsification aborted the overall experiment instead of recording `FAIL_MECHANICAL` and continuing. `docs/evidence/SYM_02_BROWSER_CLASSIFICATION_ADDENDUM_01.json` corrects only that result-classification behavior. Candidate bytes, tolerances, review law and no-retune rule remain unchanged.
+
+C0-R1, N2 and N3 were not mechanically falsified by Run-2 diagnostics, but they are not promoted from that partial aggregation. Their final mechanical status requires the corrected complete-matrix rerun.
+
+**Next gate:** run the corrected hosted classifier on the unchanged frozen batch. Only complete-matrix `PASS_MECHANICAL` candidates may enter subjective silhouette/negative-space review.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN EXECUTION-SEMANTICS AUDIT.**
