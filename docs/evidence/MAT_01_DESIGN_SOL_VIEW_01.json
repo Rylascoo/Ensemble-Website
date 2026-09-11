@@ -1,0 +1,59 @@
+{
+  "schema": "kymaean.mat01.design-sol-view.v1",
+  "status": "CLOSED_ONE_PROVISIONAL_SURVIVOR",
+  "date": "2026-09-10",
+  "program": "MAT-01 ? Cross-Surface Material / Shape Grammar Successor Divergence",
+  "governing_method": "docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json",
+  "mechanical_evidence": "docs/evidence/MAT_01_BROWSER_PREFLIGHT_01.json",
+  "frozen_manifest": "docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_02.json",
+  "control": {
+    "id": "CNEG",
+    "result": "INELIGIBLE_GENERICITY_CONTROL",
+    "reason": "Conventional Card Stack is the frozen generic calibration control and cannot survive MAT-01 by method."
+  },
+  "subjective_results": {
+    "F1": {
+      "result": "PASS_PROVISIONAL_SURVIVOR",
+      "reason": "Subtractive Channel retains one authored notched-field topology at 16/20/24/32 px and across APP/WEB, while content remains primary. It does not require hue, glow, texture, imagery, border/radius/shadow styling, or a product-semantic glyph. Its topology does not primarily resolve as cards, tiles, fold/page, rounded inset control, second mark, progress state or directional device."
+    },
+    "F2": {
+      "result": "FAIL",
+      "reason": "Compression Relief reads primarily as a rounded inset panel/control. Its authorship reduces to a familiar rounded region plus boundary treatment, entering the frozen generic SaaS/inset/neumorphic and generic border-radius styling failure set; compact probes strengthen the control-like reading."
+    },
+    "F3": {
+      "result": "FAIL",
+      "reason": "Dry Joint Assemblage resolves as three blocks/tiles and at compact sizes as an equalizer/tile-control cluster. This directly enters the frozen grid/tile/control failure set, and its masses compete with content authority in wide states."
+    },
+    "F4": {
+      "result": "FAIL",
+      "reason": "Folded Continuum resolves primarily as a folded sheet/page or diagonal two-plane icon, directly entering the frozen book/page-metaphor failure set."
+    }
+  },
+  "survivors": [
+    "F1"
+  ],
+  "historical_incumbent_comparison": {
+    "reference": "Mineral Theater",
+    "authority": "docs/evidence/LANE_B_MINERAL_THEATER_DIRECTOR_APPROVAL_01.md",
+    "source": "docs/KYMAEAN_LANE_B_WEBSITE_V0_MATERIAL_ROLES_01.md",
+    "prototype": "prototypes/lane-b/website-v0-material-roles-01.html",
+    "finding": "Mineral Theater remains stronger as the already-proven atmospheric material-role reference, using slate/limestone field shifts and bounded warm/cool role signals. F1 contributes a different property: color-independent authored field topology that survives grayscale and compact scaling. MAT-01 therefore establishes F1 as a provisional successor direction without retiring or replacing Mineral Theater."
+  },
+  "termination": {
+    "eligible_survivor_count": 1,
+    "replacement_F5_constructed": false,
+    "post_result_retune": false,
+    "director_taste_gate_triggered": false,
+    "reason": "The frozen Director taste gate applies only when multiple materially valid survivors remain. F1 is the sole eligible survivor."
+  },
+  "conclusion": "MAT-01 closes with F1 ? Subtractive Channel as the sole provisional material/shape-grammar survivor. Mineral Theater remains the historical temporary material-role reference pending any later authorized synthesis/integration test. No final material system, palette, production token, app/site implementation or final identity is selected.",
+  "next_boundary": "Run a fresh Phase-B shared-brand sequencing/reentry audit before opening another identity-axis program or synthesis step. No automatic CLR-01 reopening, F5, production integration, or Phase-C convergence.",
+  "explicit_non_authority": [
+    "No final material system or production component skin.",
+    "No final palette or color-role selection.",
+    "No replacement or retirement of Mineral Theater.",
+    "No Threshold K/O3/TYP/MOT/STA/hero mutation.",
+    "No app/site implementation, final identity, or Phase-C convergence."
+  ],
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN FROZEN-CRITERIA FALSIFICATION."
+}

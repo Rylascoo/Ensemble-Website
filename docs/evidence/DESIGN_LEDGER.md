@@ -1233,3 +1233,22 @@ The sole authorized selector repair was validated by hosted Run `34560287462`, w
 **Next gate:** one canonical read-only hosted four-mode run with no runtime source mutation. No subjective family judgment before that complete mechanical PASS.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ? DETERMINISTIC FIXTURE REPAIR.**
+
+
+## L-076 - MAT-01 closes with F1 as sole provisional survivor
+
+**State:** MAT-01 CLOSED / ONE PROVISIONAL SURVIVOR / NO DIRECTOR TASTE GATE
+
+Canonical read-only hosted Run `34561502881` at `562599f2a491fdd441fd9915b02222855ff4a726` completed the frozen repaired MAT-01 matrix in Chrome 152 at 1200/320 normal and forced-colors. Artifact `10184470652` preserves the exact harness, diagnostics and screenshots; its zip digest is `sha256:1f9f112f7e91eeb760897b33d10cf21db224a548953504eac0f22f46fb8cf751`. `MAT_01_BROWSER_PREFLIGHT_01.json` records the complete mechanical PASS.
+
+Frozen subjective falsification leaves **F1 ? Subtractive Channel** as the sole provisional survivor. F2 reads primarily as a generic rounded inset/control; F3 as a tile/equalizer/control cluster; F4 as a folded page/sheet metaphor. CNEG remains the ineligible genericity control. No candidate was redrawn, rescued, or replaced by F5.
+
+Direct comparison with the historical Mineral Theater reference establishes a bounded distinction rather than replacement: Mineral Theater remains the already-proven atmospheric material-role reference, while F1 contributes color-independent authored field topology that survives grayscale and compact scaling. MAT-01 does not retire Mineral Theater or select a final palette, production material system, component skin, app/site implementation or final identity.
+
+Because exactly one eligible candidate survives, the frozen multiple-survivor Director taste gate is not triggered.
+
+Primary evidence: `docs/evidence/MAT_01_BROWSER_PREFLIGHT_01.json`, `docs/evidence/MAT_01_DESIGN_SOL_VIEW_01.json`, `docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_02.json`.
+
+**Next gate:** fresh Phase-B shared-brand sequencing/reentry audit. No automatic CLR-01 reopening, F5, production integration, or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN FROZEN-CRITERIA FALSIFICATION.**

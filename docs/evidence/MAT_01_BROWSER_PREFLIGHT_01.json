@@ -1,0 +1,85 @@
+{
+  "schema": "kymaean.mat01.browser-preflight.v1",
+  "status": "PASS_COMPLETE_MATRIX",
+  "date": "2026-09-10",
+  "github_actions_run_id": 34561502881,
+  "head_sha": "562599f2a491fdd441fd9915b02222855ff4a726",
+  "artifact": {
+    "id": 10184470652,
+    "name": "mat01-canonical-preflight",
+    "digest": "sha256:1f9f112f7e91eeb760897b33d10cf21db224a548953504eac0f22f46fb8cf751",
+    "size_bytes": 545186
+  },
+  "browser_version": "Google Chrome 152.0.7977.82",
+  "os_pretty": "Ubuntu 24.04.5 LTS",
+  "harness_sha256": "1490762a5121c859acf1753c76e60d66cf31d969605e29e0cb73e2d716275274",
+  "family_results": {
+    "CNEG": {
+      "status": "PASS_MECHANICAL_INELIGIBLE_CONTROL",
+      "issues": []
+    },
+    "F1": {
+      "status": "PASS_MECHANICAL",
+      "issues": []
+    },
+    "F2": {
+      "status": "PASS_MECHANICAL",
+      "issues": []
+    },
+    "F3": {
+      "status": "PASS_MECHANICAL",
+      "issues": []
+    },
+    "F4": {
+      "status": "PASS_MECHANICAL",
+      "issues": []
+    }
+  },
+  "eligible_for_subjective_review": [
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "modes": {
+    "normal-wide": {
+      "viewport": {
+        "width": 1200,
+        "scrollWidth": 1200
+      },
+      "forcedColors": false
+    },
+    "forced-wide": {
+      "viewport": {
+        "width": 1200,
+        "scrollWidth": 1200
+      },
+      "forcedColors": true
+    },
+    "normal-320": {
+      "viewport": {
+        "width": 320,
+        "scrollWidth": 320
+      },
+      "forcedColors": false
+    },
+    "forced-320": {
+      "viewport": {
+        "width": 320,
+        "scrollWidth": 320
+      },
+      "forcedColors": true
+    }
+  },
+  "compact_probe_scaled_widths_px": [
+    16,
+    20,
+    24,
+    32
+  ],
+  "overflow_elements": 0,
+  "minimum_static_text_contrast": 10.3566,
+  "browser_verifier_sha256": "4b4340e37773876fccc186f5c40fee14da50c843ce513582e94a2877b420179a",
+  "result": "MAT01_BROWSER=PASS; F1/F2/F3/F4 mechanically eligible; CNEG remains ineligible genericity control.",
+  "scope": "Mechanical/source/viewport/forced-colors/compact-scale validation only. Subjective survivor judgment is separate."
+}
