@@ -1090,3 +1090,27 @@ The Director simultaneously authorized a new bounded exact-shape refinement prog
 **Next gate:** close the SYM-01 serial branch lifecycle, then open the new Threshold K geometry-refinement branch from promoted main.
 
 **APPROVED BY DIRECTOR.**
+
+## L-065 - SYM-02 exact vector refinement opens with C0 immutable
+
+**State:** ROUND 01 ACTIVE / C0 IMMUTABLE / CONTOUR-CONSTRUCTION ONLY
+
+Following the Director's C0 selection, a new refinement program opens without altering SYM-01 evidence. Drive authority is re-read: prior spacing/open-void, gentler-waist and reduced-left-mass probes did not advance; contour simplification remained only an implementation hypothesis. SYM-02 therefore begins by operationalizing deliberate vector contour construction rather than rerunning those rejected variables.
+
+Round 01 keeps C0 exact and introduces C1 Bézier Fidelity, C2 Tangent Discipline and C3 Terminal Discipline. Spacing architecture, three-field topology, mass hierarchy and the negative-space K law remain frozen.
+
+**Next gate:** visual micro-scale comparison; at most one refinement direction advances.
+
+**APPROVED BY DIRECTOR / CLEAN RECURSIVE AUDIT.**
+
+## L-066 - SYM-02 Round 01 advances C1 Bézier Fidelity only
+
+**State:** ROUND 01 FROZEN / C1 ADVANCES / C0 IMMUTABLE
+
+The deterministic C0/C1/C2/C3 review was rendered at display and 16/20/24/32/48/64/96/128 px scales with app/web proxies. C1 Bézier Fidelity best removes trace-like contour segmentation while preserving the established Threshold K balance and discovered-in-the-void reading. C2 makes the central construction feel more deliberately engineered; C3 adds unjustified organic terminal mannerism.
+
+C1 therefore advances only as the Round-02 working challenger. C0 remains the selected provisional incumbent and immutable control. C2/C3 are frozen non-advancing evidence, not editable starting points.
+
+**Next gate:** Round 02 may micro-adjust C1 curve tension only.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

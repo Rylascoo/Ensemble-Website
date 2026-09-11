@@ -1,0 +1,19 @@
+{
+  "schema": "kymaean.sym02.round01-design-sol-view.v1",
+  "status": "PRELIMINARY_FROZEN",
+  "date": "2026-09-11",
+  "comparison": "C0 versus frozen C1-C3",
+  "ranking": [
+    "C1 - Bézier Fidelity",
+    "C0 - exact current control",
+    "C2 - Tangent Discipline",
+    "C3 - Terminal Discipline"
+  ],
+  "assessment": {
+    "C1": "Advances provisionally. It removes trace-like segmented contour noise with the least identity drift and preserves the discovered-in-the-void K.",
+    "C0": "Remains the safe control and current incumbent. Its balance is proven; only contour construction feels less deliberately vector-authored at display scale.",
+    "C2": "Does not advance over C1. Tighter tension makes the K architecture feel more deliberately manufactured/mechanical.",
+    "C3": "Does not advance over C1. Terminal softening adds an organic/leaf-like mannerism not justified by the current identity law."
+  },
+  "next": "Use C1 only as the Round 02 working challenger while preserving exact C0 as permanent control. Round 02 may micro-adjust curve tension around C1 but may not reopen spacing, mass reduction, gentler waist, new topology or CLR-01."
+}

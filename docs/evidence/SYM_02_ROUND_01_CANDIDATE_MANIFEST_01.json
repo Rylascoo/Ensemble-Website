@@ -1,0 +1,31 @@
+{
+  "schema": "kymaean.sym02.round01-manifest.v1",
+  "status": "FROZEN_AFTER_FIRST_REVIEW",
+  "date": "2026-09-11",
+  "program": "SYM-02 - Threshold K Exact Vector Shape Refinement",
+  "law": "C0 remains immutable. C1-C3 bytes are frozen after first rendered exposure; any further change requires a separately named Round 02 candidate.",
+  "assets": {
+    "C0": {
+      "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+      "sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+      "control": true
+    },
+    "C1": {
+      "path": "prototypes/sym-02/assets/c1-bezier-fidelity.svg",
+      "sha256": "5fbbe4468cd72f860d524e311b2ebc2ca68966d9731288d1d68ac4bb7f7b87b2"
+    },
+    "C2": {
+      "path": "prototypes/sym-02/assets/c2-tangent-discipline.svg",
+      "sha256": "ca38aef2c41aa7e368b253ac10cf11df20330a68ba5539346887c00b00173f0d"
+    },
+    "C3": {
+      "path": "prototypes/sym-02/assets/c3-terminal-discipline.svg",
+      "sha256": "676403b9deefaf89279968022b8a6c84c028212d041004b1f6e33391ea58ba2c"
+    }
+  },
+  "review_surface": {
+    "path": "prototypes/sym-02/round-01-review.html",
+    "sha256": "1895b976330c2ac12d07e5d420a384d3da30c8f5c227264ad4ccb224d0e80220"
+  },
+  "non_authority": "The earlier generative inspiration board is non-authoritative and is not candidate geometry. This manifest controls the exact deterministic SVGs."
+}

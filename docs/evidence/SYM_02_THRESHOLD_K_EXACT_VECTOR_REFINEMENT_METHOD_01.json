@@ -1,0 +1,45 @@
+{
+  "schema": "kymaean.sym02.method.v1",
+  "status": "ROUND_01_ACTIVE",
+  "date": "2026-09-11",
+  "program": "SYM-02 - Threshold K Exact Vector Shape Refinement",
+  "director_authority": "C0 Threshold K selected as provisional primary-symbol incumbent; exact C0 remains immutable control.",
+  "bounded_question": "Can the selected Threshold K be given more deliberate exact vector contour construction without changing its three-field topology, spacing architecture, mass hierarchy, or discovered-in-the-void K?",
+  "c0": {
+    "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+    "sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "immutable": true
+  },
+  "prior_evidence": [
+    "Drive: Kymaean Lane B — Threshold K Controlled Refinement 01: spacing, gentler waist and reduced-left-mass variants did not advance; contour simplification retained only as an implementation hypothesis.",
+    "Drive: Kymaean Lane B — Threshold K Context Deployment 01: mark needs breathing room more than layout-driven geometric correction."
+  ],
+  "round_01_variables": {
+    "C1": "Bezier fidelity: replace trace-like segmented contour with smooth cubic construction while preserving extents and architecture.",
+    "C2": "Tangent discipline: tighten continuity/tension of the same smooth construction, preserving extents and architecture.",
+    "C3": "Terminal discipline: refine only terminal transitions/tips on the smooth construction while preserving negative-space architecture."
+  },
+  "frozen_out": [
+    "spacing/open-the-void changes",
+    "reduced left mass",
+    "gentler/bracket-like right waist",
+    "new topology",
+    "literal drawn K",
+    "color/CLR-01",
+    "wordmark/type",
+    "material/depth",
+    "motion",
+    "state treatment",
+    "hero/static imagery",
+    "app/site implementation"
+  ],
+  "success_criteria": [
+    "K remains discovered in negative space rather than drawn",
+    "three fields remain independently legible",
+    "right field remains dominant but not glyph-like",
+    "16/20/24 px recognition does not regress versus C0",
+    "large-scale contour feels deliberately authored rather than raster-traced",
+    "no candidate becomes a conventional K, bracket, chevron, play/arrow or generic tech mark"
+  ],
+  "zero_survivor_valid": true
+}
