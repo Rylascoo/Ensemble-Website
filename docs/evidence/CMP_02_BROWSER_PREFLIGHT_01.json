@@ -1,0 +1,128 @@
+{
+  "schema": "kymaean.cmp02.browser-preflight.v1",
+  "status": "PASS_COMPLETE_8_MODE_MATRIX",
+  "date": "2026-09-11",
+  "github_actions_run_id": 34642582102,
+  "head_sha": "9a459e70d19941372ad3c6a73028b966358dbaaf",
+  "source_manifest": "docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_03.json",
+  "harness_sha256": "22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea",
+  "artifact": {
+    "id": 10280822432,
+    "digest": "sha256:c50babe94df9253c3dd1ae1ebf2f746470994f4963f05ed559312626bd36cd28",
+    "size_bytes": 3117440
+  },
+  "browser_version": "Google Chrome 152.0.7977.82",
+  "os_pretty": "Ubuntu 24.04.5 LTS",
+  "roles": [
+    "APP_COMPACT",
+    "WEB_HEADER",
+    "ACQUISITION_PRELUDE"
+  ],
+  "variants": [
+    "FULL",
+    "NEUTRAL_TYP",
+    "O3_SOLO",
+    "NO_O3"
+  ],
+  "scored_variant": "FULL",
+  "browser_verifier_sha256": "a01457def7d70b3694cc59544cf726d89d4cfd24b8ea1f52ca10234a31d347f1",
+  "modes": {
+    "normal-baseline-wide": {
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": false,
+      "surface_count": 12,
+      "keyboard_focus_count": 36,
+      "visible_overflow_count": 0,
+      "raw_sr_only_overflow_count": 12
+    },
+    "normal-baseline-320": {
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": false,
+      "surface_count": 12,
+      "keyboard_focus_count": 36,
+      "visible_overflow_count": 0,
+      "raw_sr_only_overflow_count": 12
+    },
+    "normal-resize200-wide": {
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 200,
+      "text_spacing": false,
+      "surface_count": 12,
+      "keyboard_focus_count": 36,
+      "visible_overflow_count": 0,
+      "raw_sr_only_overflow_count": 12
+    },
+    "normal-resize200-320": {
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 200,
+      "text_spacing": false,
+      "surface_count": 12,
+      "keyboard_focus_count": 36,
+      "visible_overflow_count": 0,
+      "raw_sr_only_overflow_count": 12
+    },
+    "normal-spacing-wide": {
+      "width": 1200,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": true,
+      "surface_count": 12,
+      "keyboard_focus_count": 36,
+      "visible_overflow_count": 0,
+      "raw_sr_only_overflow_count": 12
+    },
+    "normal-spacing-320": {
+      "width": 320,
+      "forced_colors": false,
+      "root_font_percent": 100,
+      "text_spacing": true,
+      "surface_count": 12,
+      "keyboard_focus_count": 36,
+      "visible_overflow_count": 0,
+      "raw_sr_only_overflow_count": 12
+    },
+    "forced-baseline-wide": {
+      "width": 1200,
+      "forced_colors": true,
+      "root_font_percent": 100,
+      "text_spacing": false,
+      "surface_count": 12,
+      "keyboard_focus_count": 36,
+      "visible_overflow_count": 0,
+      "raw_sr_only_overflow_count": 12
+    },
+    "forced-baseline-320": {
+      "width": 320,
+      "forced_colors": true,
+      "root_font_percent": 100,
+      "text_spacing": false,
+      "surface_count": 12,
+      "keyboard_focus_count": 36,
+      "visible_overflow_count": 0,
+      "raw_sr_only_overflow_count": 12
+    }
+  },
+  "mechanical_findings": [
+    "Twelve-surface APP_COMPACT / WEB_HEADER / ACQUISITION_PRELUDE matrix preserved across all eight frozen modes.",
+    "No visible or required-content horizontal overflow under baseline, 200% resize, text-spacing stress, or forced-colors; intentional sr-only accessible-name spans remain excluded from visible-overflow classification.",
+    "Exactly one accessible Kymaean identity name remains per surface while C0/O3 visual diagnostics preserve their frozen slots.",
+    "STA F2 selected witness and real keyboard focus coexist across all twelve surfaces.",
+    "FULL and diagnostic typography/identity geometry remain within frozen role dimensions and responsive rules."
+  ],
+  "invalid_predecessors": [
+    {
+      "run_id": 34642160213,
+      "head_sha": "607be74343c510a8f08fb8e6ef445ba55edf97b2",
+      "classification": "SR_ONLY_ACCESSIBILITY_SPAN_OVERFLOW_MEASUREMENT_DEFECT_NO_DESIGN_RESULT",
+      "artifact_id": 10280327547,
+      "artifact_digest": "sha256:215484d88eb9ed920c7051f7d2b2181302207be250f991febd0d45c2ce7e3f92"
+    }
+  ],
+  "scope": "Mechanical/source/layout/accessibility validation only. Subjective CMP-02 review is separate."
+}

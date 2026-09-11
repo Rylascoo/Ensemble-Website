@@ -1,0 +1,46 @@
+{
+  "schema": "kymaean.cmp02.design-sol-view.v1",
+  "status": "PASS_COMPATIBLE_IDENTITY_STACK",
+  "date": "2026-09-11",
+  "program": "CMP-02 ? Identity Stack / Wordmark?Typography Hierarchy Composition Audit",
+  "governing_method": "docs/evidence/CMP_02_IDENTITY_STACK_WORDMARK_TYPOGRAPHY_HIERARCHY_METHOD_AND_MATRIX_01.json",
+  "execution_defaults": "docs/evidence/CMP_02_EXECUTION_DEFAULTS_01.json",
+  "mechanical_evidence": "docs/evidence/CMP_02_BROWSER_PREFLIGHT_01.json",
+  "frozen_manifest": "docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_03.json",
+  "scored_variant": "FULL",
+  "result": "PASS_COMPATIBLE_IDENTITY_STACK",
+  "finding": "Exact C0 Threshold K, exact O3 Balanced Hierarchy, TYP-02 F1 Ratio Ladder, MAT F1 and STA F2 coexist across APP_COMPACT, WEB_HEADER and ACQUISITION_PRELUDE without a named identity/name/type hierarchy collision. This is bounded compatibility evidence only, not a final lockup or convergence result.",
+  "role_findings": {
+    "APP_COMPACT": "FULL remains restrained and operational. The compact C0+O3 identity row does not displace PRIMARY SCOPE or become a promotional masthead; O3 and its ? remain recoverable at 320.",
+    "WEB_HEADER": "FULL gains appropriate breathing room while C0 remains emblematic lead, O3 remains name carrier, and F1 content hierarchy stays visibly separate and subordinate.",
+    "ACQUISITION_PRELUDE": "FULL reads sequentially as mark ? name ? content rather than as three simultaneous headlines; O3 does not become a second editorial heading."
+  },
+  "diagnostic_findings": {
+    "NEUTRAL_TYP": "Not materially stronger. F1 Ratio Ladder improves content hierarchy while remaining subordinate to O3.",
+    "O3_SOLO": "Not materially stronger. Removing C0 does not reveal identity competition that would falsify the full stack.",
+    "NO_O3": "Materially weaker, especially in acquisition/prelude where the reserved name slot becomes an empty interval; removing O3 does not improve hierarchy."
+  },
+  "cross_surface": "The three roles preserve shared identity jobs without inventing a universal fixed mark/name ratio: compact app recedes, website header breathes, acquisition sequences identity before content.",
+  "unresolved_gaps": [
+    "O3 remains a temporary Director-approved W0 incumbent, not final wordmark/master geometry.",
+    "C0 remains provisional, not a final logo/app icon.",
+    "F1 Ratio Ladder remains role grammar only; final typeface/font implementation is unresolved.",
+    "CLR-01 remains parked with no Director family selection.",
+    "Motion is preserved but outside CMP-02 scoring.",
+    "Hero/static visual-world, functional iconography, real product semantics, shipping hierarchy and implementation remain outside CMP-02."
+  ],
+  "termination": {
+    "post_exposure_retune": false,
+    "source_packet_mutation": false,
+    "replacement_composition_constructed": false,
+    "director_taste_gate_triggered": false,
+    "reason": "The frozen result law yields PASS_COMPATIBLE_IDENTITY_STACK; no diagnostic is materially stronger by removing a named collision and no irreducible taste choice remains."
+  },
+  "next_boundary": "Run a fresh Phase-B shared-brand sequencing/reentry audit using CMP-02 identity-stack compatibility as new integration evidence. Phase-B remains open; no automatic CLR-01, final typeface/wordmark, hero/static, real-product, or Phase-C convergence follows.",
+  "explicit_non_authority": [
+    "No final logo/lockup, wordmark master, typeface, palette, material system, production token, component skin, app/site implementation or deployment.",
+    "No source packet is promoted from provisional/temporary to final by CMP-02.",
+    "No CLR-01 reentry, final identity or Phase-C convergence."
+  ],
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN FROZEN-CRITERIA COMPOSITION FALSIFICATION."
+}

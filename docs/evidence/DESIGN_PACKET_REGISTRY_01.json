@@ -93,6 +93,14 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "F1 Ratio Ladder provisional role grammar; system-ui remains measurement-only and final typeface remains unresolved",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-CMP-02-01",
+      "path": "docs/evidence/packets/PKT_CMP_02_IDENTITY_STACK_COMPOSITION_01.json",
+      "axis": "identity stack / wordmark?typography hierarchy composition",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "PASS_COMPATIBLE_IDENTITY_STACK for exact C0 + O3 + TYP-02 F1 + MAT F1 + STA F2 across three bounded synthetic roles; compatibility evidence only",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -107,10 +115,11 @@
   ],
   "synthesis_policy": {
     "composition_packets_created": [
-      "PKT-CMP-01-01"
+      "PKT-CMP-01-01",
+      "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Freeze and execute CMP-02 bounded identity-stack composition using exact C0 + O3 + TYP-02 F1 + MAT F1 + STA F2; do not infer CLR-01 reentry or whole-app convergence.",
+    "next_synthesis_trigger": "Fresh Phase-B shared-brand sequencing/reentry audit using CMP-02 compatibility as new integration evidence; do not infer CLR-01 reentry, final lockup/typeface, whole-app synthesis or Phase-C convergence.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_09.json"
   },

@@ -1,0 +1,140 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-CMP-02-01",
+  "packet_class": "COMPOSITION_PACKET",
+  "status": "FROZEN_LOCAL_RESULT",
+  "date": "2026-09-11",
+  "gate_or_program": "CMP-02 ? Identity Stack / Wordmark?Typography Hierarchy Composition Audit",
+  "design_axis": "identity stack / wordmark?typography hierarchy composition",
+  "bounded_question": "Can exact C0 Threshold K, exact O3 Balanced Hierarchy and TYP-02 F1 Ratio Ladder coexist inside MAT F1 + STA F2 across app-compact, website-header and acquisition/prelude roles without mark/name/type hierarchy collision, over-branding restrained app chrome, O3 becoming a second heading, typography competing with the name carrier, or compact ? failure?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "9a459e70d19941372ad3c6a73028b966358dbaaf",
+    "current_state_at_close": "CMP-02 canonical mechanical and subjective result frozen on the active post-TYP-02 serial branch before promotion.",
+    "governing_method_or_contract": [
+      "docs/evidence/CMP_02_IDENTITY_STACK_WORDMARK_TYPOGRAPHY_HIERARCHY_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/CMP_02_EXECUTION_DEFAULTS_01.json"
+    ],
+    "drive_sources_if_material": []
+  },
+  "controlled_inputs": [
+    "exact C0 Threshold K bytes",
+    "exact O3 Balanced Hierarchy bytes",
+    "PKT-TYP-02-01 / F1 Ratio Ladder role grammar",
+    "PKT-MAT-01-01 / F1 Subtractive Channel",
+    "PKT-STA-01-01 / F2 Ring + Edge Witness",
+    "FULL plus NEUTRAL_TYP/O3_SOLO/NO_O3",
+    "synthetic APP_COMPACT/WEB_HEADER/ACQUISITION_PRELUDE roles",
+    "eight frozen baseline/resize/text-spacing/forced-colors modes"
+  ],
+  "excluded_variables": [
+    "CLR-01/final color",
+    "MOT F1A/CS2 scoring or retune",
+    "final typeface/custom font",
+    "final O3/C0 geometry or universal lockup ratio",
+    "hero/static imagery",
+    "real product semantics or shipping UI architecture",
+    "functional iconography",
+    "production implementation"
+  ],
+  "local_result": {
+    "summary": "PASS_COMPATIBLE_IDENTITY_STACK. Exact C0 + O3 + F1 Ratio Ladder + MAT F1 + STA F2 coexist across the three frozen synthetic roles without a named identity/name/type collision; no diagnostic is materially stronger by removing a collision.",
+    "survivors_or_closure": [
+      "FULL ? compatible bounded identity stack"
+    ],
+    "recommended_incumbent": null,
+    "alternates": [],
+    "rejections": []
+  },
+  "judgment": {
+    "design_sol_view": "FULL preserves distinct identity jobs and role-specific deployment: restrained app identity, breathing website header, sequential acquisition prelude. O3 remains name carrier, F1 remains content hierarchy, and C0 does not create avoidable competition.",
+    "director_view_or_delegation": "No separate Director taste gate is triggered. The result advances under standing clean-recursive-audit delegation and remains explicitly non-final.",
+    "resolution_mode": "DESIGN_SOL_ONLY"
+  },
+  "evidence": {
+    "mechanical": [
+      "canonical hosted Run 34642582102 at 9a459e70d19941372ad3c6a73028b966358dbaaf",
+      "artifact 10280822432; zip sha256:c50babe94df9253c3dd1ae1ebf2f746470994f4963f05ed559312626bd36cd28",
+      "exact harness SHA-256 22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea",
+      "PASS_COMPLETE_8_MODE_MATRIX"
+    ],
+    "visual": [
+      "prototypes/cmp-02/harness.html ? normal-baseline FULL plus three diagnostics across APP_COMPACT/WEB_HEADER/ACQUISITION_PRELUDE"
+    ],
+    "accessibility": [
+      "no visible/required-content horizontal overflow at 1200 or 320",
+      "200% resize and text-spacing stress preserve layout/content",
+      "forced-colors preserves content/identity/focus/selection comprehension",
+      "real Tab traversal preserves focus-visible ring plus selected witness across all twelve surfaces",
+      "exactly one accessible Kymaean identity name per surface"
+    ],
+    "invalid_or_superseded_attempts": [
+      "Manifest 01 ? browser-verifier provenance hash defect discovered before browser exposure; no design result",
+      "Run 34642160213 ? sr-only overflow measurement defect; no design result"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "fresh Phase-B sequencing/reentry audit before any further integration/convergence program",
+      "later final typeface/wordmark/color/product-surface resolution before whole-app synthesis can claim completeness"
+    ],
+    "constrains": [
+      "future identity-stack composition should preserve the demonstrated mark/name/type job separation unless a bounded successor/refinement gate finds contrary evidence"
+    ],
+    "must_not_be_confused_with": [
+      "universal logo lockup",
+      "whole-app synthesis",
+      "final wordmark/typeface",
+      "CLR-01 selection",
+      "final identity",
+      "production implementation"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "O3 compact ? legibility remains a deployment constraint for later production/device validation.",
+    "No universal fixed mark/name ratio is established; role-specific deployment is part of the compatible result.",
+    "Real product hierarchy/density may stress the provisional stack differently from these synthetic carriers.",
+    "Color and final typeface may introduce new integration evidence and remain unresolved."
+  ],
+  "explicit_non_authority": [
+    "No final C0/O3 geometry, universal lockup, typeface, palette/material system, production tokens, app/site implementation, deployment, final identity or Phase-C convergence.",
+    "CMP-02 does not reopen CLR-01 or promote any source packet from provisional/temporary to final."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "prototypes/cmp-02/harness.html",
+      "docs/evidence/CMP_02_IDENTITY_STACK_WORDMARK_TYPOGRAPHY_HIERARCHY_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/CMP_02_EXECUTION_DEFAULTS_01.json",
+      "docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_03.json",
+      "docs/evidence/CMP_02_BROWSER_PREFLIGHT_01.json",
+      "docs/evidence/CMP_02_DESIGN_SOL_VIEW_01.json"
+    ],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/cmp-02/harness.html",
+      "what_to_review": "Normal-baseline FULL identity stack across APP_COMPACT, WEB_HEADER and ACQUISITION_PRELUDE plus NEUTRAL_TYP/O3_SOLO/NO_O3 diagnostics; stress modes are validation evidence rather than aesthetic alternatives.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "docs/evidence/CMP_02_BROWSER_PREFLIGHT_01.json"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [
+      "PKT-SYM-01-01",
+      "PKT-W0-O3-01",
+      "PKT-TYP-02-01",
+      "PKT-MAT-01-01",
+      "PKT-STA-01-01"
+    ],
+    "latest_composition_packet": "PKT-CMP-02-01",
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
