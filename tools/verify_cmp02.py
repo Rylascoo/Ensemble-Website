@@ -34,7 +34,7 @@ for token in ['@font-face','http://','https://','animation:','transition:','setT
 for token in ['__CMP02_API__','overflow-wrap:break-word','word-break:normal','hyphens:none','html.spacing-stress','html.spacing-stress .type-zone>*+*','@media(forced-colors:active)','min-height:44px','outline:2px solid currentColor','outline-offset:2px','pathCount:q(\'.c0\').querySelectorAll(\'path\').length','pathCount:q(\'.o3\').querySelectorAll(\'path\').length']:
     if token not in H: errors.append('required source token missing '+token)
 if 'OVERVIEW · DETAILS' in H: errors.append('unfrozen WEB scope separator present')
-M=load('docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_02.json')
+M=load('docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_03.json')
 for fp,want in M['lf_sha256'].items():
     got=sha(fp)
     if got!=want: errors.append(f'manifest hash mismatch {fp}: {got} != {want}')

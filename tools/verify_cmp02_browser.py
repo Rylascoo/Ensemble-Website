@@ -43,7 +43,8 @@ for m in D['browser_modes']:
     if abs(num(x.get('rootFont','0'))-expected_root)>.3: errors.append(f'{mid}: root font mismatch {x.get("rootFont")}')
     if x.get('surfaceCount')!=12: errors.append(f'{mid}: surface count {x.get("surfaceCount")}')
     if x.get('order')!=ORDER: errors.append(f'{mid}: surface order mismatch')
-    if x.get('overflowElements'): errors.append(f'{mid}: overflow elements {x["overflowElements"][:5]}')
+    visible_overflow=[z for z in x.get('overflowElements',[]) if 'sr-only' not in str(z.get('cls','')).split()]
+    if visible_overflow: errors.append(f'{mid}: overflow elements {visible_overflow[:5]}')
     ss=x.get('surfaces',[])
     if len(ss)!=12: errors.append(f'{mid}: surface payload count {len(ss)}')
     by={(s.get('role'),s.get('variant')):s for s in ss}
@@ -113,7 +114,7 @@ out={
  'schema':'kymaean.cmp02.browser-preflight.v1',
  'status':'PASS_COMPLETE_8_MODE_MATRIX',
  'date':'2026-09-11',
- 'source_manifest':'docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_02.json',
+ 'source_manifest':'docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_03.json',
  'harness_sha256':lfsha('prototypes/cmp-02/harness.html'),
  'browser_verifier_sha256':hashlib.sha256(Path(__file__).read_bytes().replace(b'\r\n',b'\n')).hexdigest(),
  'browser_version':args.browser_version,

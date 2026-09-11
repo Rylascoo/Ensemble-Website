@@ -1537,3 +1537,17 @@ Pre-exposure recursive audit found that Manifest 01 bound `tools/verify_cmp02_br
 **Guardrail:** this repair authorizes no packet retune, CLR-01 reentry, final typeface/wordmark/lockup, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ? DETERMINISTIC TOOLING/PROVENANCE REPAIR.**
+
+## L-097 - CMP-02 Run 1 is invalidated by sr-only overflow measurement; Manifest 03 repairs verifier only
+
+**State:** RUN 1 INVALID / NO DESIGN RESULT / MANIFEST 03 FROZEN / NEW CANONICAL PREFLIGHT NEXT
+
+Hosted Run `34642160213` at commit `607be74343c510a8f08fb8e6ef445ba55edf97b2` passed checkout and static-source verification, then failed the browser verifier only because every surface's intentional 1?1 `.sr-only.brand-name` accessibility span has `scrollWidth > clientWidth`. Those spans are deliberately visually clipped and are not visible document/layout overflow. Artifact `10280327547` (zip digest `sha256:215484d88eb9ed920c7051f7d2b2181302207be250f991febd0d45c2ce7e3f92`) preserves all eight diagnostic JSONs.
+
+Mechanical re-evaluation of those eight JSONs with only `.sr-only` spans excluded from visible-overflow classification yields zero remaining verifier errors: twelve accessibility spans are excluded per mode, zero non-sr-only overflow elements remain, and all frozen geometry, typography, focus, state, source, and responsive checks pass. Run 1 nevertheless remains tooling evidence only; no screenshot was inspected or scored.
+
+`CMP_02_FROZEN_SOURCE_MANIFEST_03.json` preserves the exact harness SHA-256 `22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea` and all design/source semantics. The browser verifier changes only visible-overflow classification; raw probe diagnostics remain unchanged. Static verifier/workflow provenance advances to Manifest 03.
+
+**Next gate:** one new canonical hosted eight-mode run from Manifest 03. No subjective review unless it passes completely.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? DETERMINISTIC MEASUREMENT REPAIR.**
