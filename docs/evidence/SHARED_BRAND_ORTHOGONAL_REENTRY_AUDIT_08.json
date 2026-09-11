@@ -1,0 +1,63 @@
+{
+  "schema": "kymaean.shared-brand-post-cmp-reentry-audit.v8",
+  "status": "COMPLETE_TYP02_SELECTED_COMPOSITION_SUPPORTED_TYPOGRAPHY_NO_CONVERGENCE",
+  "date": "2026-09-11",
+  "baseline": {
+    "website_main": "d8172a6d55250f7ea38f73b8d8cfda265904c8f2",
+    "cmp01_composition_packet": "PKT-CMP-01-01",
+    "engineering_main": "fdfd5c69f6d439fd9cdc738be52366a3309b9597",
+    "engineering_native_validation": "bb869fb1c505603612bc718f739b3f1b358e5539"
+  },
+  "objective": "After CMP-01 proves bounded compatibility among the current positive symbol/material/state/motion packets, re-audit Phase-B sequencing and select at most one lawful next question without treating compatibility as whole-app synthesis or silently filling typography/color/hero/product gaps.",
+  "new_evidence": [
+    "CMP-01 closes PASS_COMPATIBLE_COMPOSITION for exact C0 + MAT F1 + STA F2 + MOT F1A/CS2 on neutral synthetic APP/WEB carriers.",
+    "CMP-01’s neutral system typography remains an explicit unscored fixture, so typography is now the most visible unresolved mechanism inside an otherwise compatible bounded packet scaffold.",
+    "TYP-01 closed zero-survivor only under a strong-independence contract; its packet explicitly allows reentry for new integration evidence demonstrating a separately bounded typography question.",
+    "CLR-01 remains Director-parked and requires an authorized app-asset / whole-app synthesis convergence reentry; CMP-01 is explicitly not that boundary.",
+    "Engineering remains E0-A Phase B with no shipping product-UI visual authority, so real-product or whole-app synthesis remains premature."
+  ],
+  "current_packet_effect": "PKT-CMP-01-01 adds integration compatibility evidence but promotes no source packet from provisional to final and does not satisfy Phase-B exit.",
+  "open_lane_audit": {
+    "composition": "NOT_NEXT: CMP-01 just passed; repeating composition before filling a named gap would add little information.",
+    "whole_app_synthesis": "NOT_ELIGIBLE: typography/color remain unresolved and Engineering has no shipping product-surface visual authority.",
+    "color_logic": "NOT_ELIGIBLE: CLR-01’s explicit Director-declared convergence reentry trigger is not satisfied by bounded CMP-01 compatibility.",
+    "typography": "SELECTED_AS_NEW_SUCCESSOR: CMP-01 is new integration evidence under TYP-01’s packet law, and a subordinate typography-contribution question can now be tested without requiring type to carry identity alone.",
+    "wordmark": "NOT_NEXT: O3 remains a temporary Director-approved wordmark incumbent for integrated testing; broader typography is the unresolved system gap and TYP-02 must not redesign O3.",
+    "symbol_material_state_motion": "NOT_NEXT_AS_ISOLATED: CMP-01 found no collision requiring source-packet refinement.",
+    "hero_static_world": "NOT_ELIGIBLE: static hero/renderer research remains paused.",
+    "iconography": "NOT_READY: functional vocabulary still depends on later real product surfaces."
+  },
+  "typ01_non_reroll_rule": {
+    "prior_failure": "TYP-01 required typography/editorial grammar to establish identity independently of all other carriers and prohibited any additional reflow size reduction; every scored family failed at least one 320px/200%-resize overflow floor before scoring.",
+    "new_question_difference": "TYP-02 tests supportive typographic role grammar inside the already-compatible packet scaffold. It does not reuse TYP-01 F1-F4 families, does not lower accessibility floors, and does not rescue any failed specimen after visibility.",
+    "new_method_requirement": "Responsive hierarchy/reflow behavior is part of each family’s frozen construction from the start rather than a post-failure patch."
+  },
+  "selected_program": {
+    "program_id": "TYP-02",
+    "name": "Composition-Supported Typographic Role Grammar / Reflow",
+    "classification": "NEW_ORTHOGONAL_TYPOGRAPHY_SUCCESSOR_NOT_TYP01_REROLL",
+    "question": "Can a responsive typographic role grammar add distinctive but subordinate Kymaean character and clearer hierarchy inside the compatible C0 + MAT F1 + STA F2 scaffold across APP/WEB, 320px, 200% text resize and text-spacing stress, without bespoke glyphs, wordmark dependence, color identity, imagery, real product semantics, or requiring typography to carry identity alone?",
+    "scope": "Shared-brand typography-role mechanism research only; system-ui remains a measurement carrier and no final typeface is selected."
+  },
+  "required_method_law": [
+    "freeze TYP-02 family mechanisms and responsive/reflow rules before materialization",
+    "use no TYP-01 scored family as a repair seed; any conceptual similarity must be independently specified and justified",
+    "retain the exact current compatible structural scaffold needed to test supportive typography, but freeze it as context rather than rescore or retune source packets",
+    "system-ui / Segoe UI fallback is a neutral carrier only; no downloaded/custom font and no final typeface authority",
+    "200% text resize, 320 CSS px reflow, WCAG text-spacing stress and contrast floors remain binding",
+    "responsive size/measure/wrapping behavior may be designed prospectively and must be identical in law across candidates before exposure",
+    "no O3/wordmark, CLR color, Mineral Theater hue, hero imagery, product-specific vocabulary, iconography or motion identity as candidate differentiators",
+    "zero survivors is valid; no post-exposure rescue or candidate replacement"
+  ],
+  "success_condition": "At least one frozen typography-role family materially improves hierarchy/character over a neutral control inside the compatible scaffold while remaining subordinate to C0/material/state, transferring coherently between APP/WEB, and passing every accessibility/reflow floor.",
+  "failure_effect": "If no family survives, close TYP-02 zero-survivor and preserve typography as an unresolved system gap; do not reopen CLR-01 or whole-app synthesis by implication.",
+  "next_action": "Freeze the TYP-02 method/matrix and execution defaults before constructing any typography specimen.",
+  "hard_boundaries": [
+    "No TYP-01 family repair/reroll, final typeface, O3/wordmark redesign or bespoke glyph drawing.",
+    "No CLR-01 reentry, final palette, Mineral Theater recolor or color-dependent type scoring.",
+    "No source-packet retune, real product UI proposal, hero reopening, app/site implementation or deployment.",
+    "No final identity or Phase-C convergence."
+  ],
+  "phase_b_exit_condition_satisfied": false,
+  "audit_result": "TYP-02 is selected as the strongest lawful post-CMP Phase-B question because CMP-01 supplies the new integration evidence explicitly contemplated by the TYP-01 closure while CLR-01 and whole-app synthesis remain gated. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}

@@ -1367,3 +1367,19 @@ Primary evidence: `docs/evidence/CMP_01_BROWSER_PREFLIGHT_01.json`, `docs/eviden
 **Next gate:** fresh Phase-B shared-brand sequencing/reentry audit using CMP-01 compatibility as new integration evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN-CRITERIA COMPOSITION FALSIFICATION.**
+
+## L-085 - Post-CMP Phase-B reentry selects TYP-02 composition-supported typography
+
+**State:** AUDIT 08 COMPLETE / TYP-02 SELECTED / METHOD FREEZE NEXT / NO CONVERGENCE
+
+CMP-01 provides new integration evidence that exact C0 + MAT F1 + STA F2 + MOT F1A/CS2 can coexist on a bounded neutral scaffold while typography remains an explicit fixture gap. This satisfies `PKT-TYP-01-CLOSE-01`'s lawful reentry trigger for new integration evidence demonstrating a separately bounded typography question.
+
+Audit 08 therefore selects **TYP-02 — Composition-Supported Typographic Role Grammar / Reflow**. TYP-02 is not a repair of TYP-01's failed F1-F4 families: TYP-01 tested strong typographic identity independence and prohibited additional 320px reflow scaling; TYP-02 tests subordinate typographic contribution inside the already-compatible structural scaffold, with responsive/reflow behavior frozen prospectively before exposure.
+
+CLR-01 remains ineligible because its packet requires a Director-declared app-asset / whole-app synthesis convergence reentry, and CMP-01 explicitly did not create that boundary. O3 remains the temporary Director-approved wordmark incumbent and is excluded from TYP-02 scoring. Engineering remains E0-A Phase B with no shipping product-UI visual authority.
+
+**Next gate:** freeze TYP-02 method/matrix and deterministic execution defaults before specimen construction.
+
+**Guardrail:** no TYP-01 reroll, final typeface, O3 redesign, bespoke glyphs, CLR-01 reentry, product UI proposal, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

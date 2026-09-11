@@ -93,9 +93,9 @@
       "PKT-CMP-01-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Fresh Phase-B shared-brand sequencing/reentry audit after CMP-01 compatibility evidence; do not infer automatic CLR-01/TYP/hero reentry or Phase-C convergence.",
+    "next_synthesis_trigger": "Complete TYP-02 as a new composition-supported typography successor before reconsidering broader synthesis; CLR-01 remains parked until its explicit Director convergence trigger.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_07.json"
+    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_08.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. The registry creates no final identity, production token, implementation or Phase-C authority."
 }
