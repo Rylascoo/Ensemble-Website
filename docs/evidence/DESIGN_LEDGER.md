@@ -1078,3 +1078,15 @@ The Director-facing constrained HTML viewer rendered the canonical CSS-mask harn
 **Guardrail:** no ranking change, candidate redraw/hybrid/F5, rejected-family revival, CLR-01 coupling, final logo, production asset, trademark claim or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC IN-LANE CONTINUITY REPAIR.**
+
+## L-064 - Director selects C0 Threshold K and opens separate exact-shape refinement
+
+**State:** SYM-01 RESOLVED / C0 PROVISIONAL INCUMBENT / SHAPE REFINEMENT AUTHORIZED
+
+The Director selected exact unchanged C0 Threshold K over frozen F1 Split Field as the current/provisional primary-symbol incumbent. SYM-01 closes without altering any candidate geometry. F1 remains historical challenger evidence.
+
+The Director simultaneously authorized a new bounded exact-shape refinement program. The selected C0 asset is the immutable control for that program; refinements must be separate candidates and may alter geometry only. CLR-01 remains parked and no wordmark, material, motion, state, hero, production-asset, trademark, final-identity or Phase-C authority is implied.
+
+**Next gate:** close the SYM-01 serial branch lifecycle, then open the new Threshold K geometry-refinement branch from promoted main.
+
+**APPROVED BY DIRECTOR.**

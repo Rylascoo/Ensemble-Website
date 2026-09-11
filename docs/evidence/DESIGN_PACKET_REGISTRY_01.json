@@ -50,13 +50,13 @@
       "packet_id": "PKT-SYM-01-01",
       "path": "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json",
       "axis": "primary symbol / app-icon identity geometry",
-      "status": "DIRECTOR_GATE_PENDING",
-      "current_contribution": "C0 Threshold K recommended; F1 Split Field sole frozen challenger awaiting Director choice",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Director selected unchanged C0 Threshold K as provisional primary-symbol incumbent; frozen F1 remains historical challenger evidence",
       "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
-    "primary symbol successor choice is pending between unchanged C0 Threshold K and sole challenger F1 Split Field; no final symbol authority exists",
+    "C0 Threshold K is the provisional primary-symbol incumbent, but exact geometry is explicitly reopened in a new bounded refinement program; no final symbol authority exists",
     "final typography/typeface system is unresolved; TYP-01 produced zero survivors",
     "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
@@ -66,7 +66,7 @@
   "synthesis_policy": {
     "composition_packets_created": [],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "SYM-01 is at a consequential Director symbol-choice gate: choose C0 Threshold K or frozen F1 Split Field as the provisional primary-symbol incumbent. Do not auto-compose packets, reopen CLR-01, or infer Phase-C convergence from this decision.",
+    "next_synthesis_trigger": "Director selected C0 Threshold K and explicitly authorized a separate exact-shape refinement program preserving exact C0 as immutable control. CLR-01 remains parked and Phase-C remains closed.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_05.json"
   },

@@ -3,7 +3,7 @@
   "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
   "packet_id": "PKT-SYM-01-01",
   "packet_class": "GATE_MECHANISM_PACKET",
-  "status": "DIRECTOR_GATE_PENDING",
+  "status": "PROVISIONAL_INCUMBENT",
   "date": "2026-09-10",
   "gate_or_program": "SYM-01 - Primary Symbol / App-Icon Successor Divergence",
   "design_axis": "shared-brand primary symbol / app-icon identity geometry",
@@ -41,7 +41,7 @@
       "C0 - Threshold K (incumbent control)",
       "F1 - Split Field (sole challenger)"
     ],
-    "recommended_incumbent": "C0 - Threshold K",
+    "recommended_incumbent": "C0 - Threshold K (Director selected)",
     "alternates": [
       "F1 - Split Field, with compact-scale genericity reservation"
     ],
@@ -53,8 +53,8 @@
   },
   "judgment": {
     "design_sol_view": "Retain C0 Threshold K. F1 is sufficiently distinct and non-semantic to deserve Director comparison but is weaker at compact-scale identity recovery.",
-    "director_view_or_delegation": "Consequential symbol preference is intentionally pending Director choice under the frozen two-option gate.",
-    "resolution_mode": "DIRECTOR_PENDING"
+    "director_view_or_delegation": "Director selected C0 Threshold K as the current/provisional primary-symbol incumbent and requested a new exact-shape refinement program that preserves this exact C0 as immutable control.",
+    "resolution_mode": "DIRECTOR_C0_SELECTED"
   },
   "evidence": {
     "mechanical": [
@@ -76,7 +76,6 @@
   },
   "dependencies": {
     "requires": [
-      "Director chooses C0 or F1 before SYM-01 can close as a provisional incumbent",
       "later whole-app/app-asset synthesis before final identity or production asset authority"
     ],
     "constrains": [
@@ -100,7 +99,7 @@
     "No final identity, production symbol/vector, Store/package asset, trademark claim, CLR-01 adjudication or Phase-C convergence."
   ],
   "lawful_reentry_triggers": [
-    "Director symbol choice",
+    "explicit Threshold K geometry-refinement program",
     "new integration evidence",
     "direct contradiction",
     "materially changed product/engineering truth",

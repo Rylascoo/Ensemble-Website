@@ -1,0 +1,15 @@
+{
+  "schema": "kymaean.sym01.director-decision.v1",
+  "status": "RESOLVED",
+  "date": "2026-09-10",
+  "program": "SYM-01 - Primary Symbol / App-Icon Successor Divergence",
+  "decision": "C0 - Threshold K",
+  "authority": "Director",
+  "meaning": "C0 Threshold K becomes the provisional primary-symbol incumbent. This does not make it final or production-authoritative.",
+  "follow_on_authority": "Open a separate exact-shape refinement program while preserving the exact selected C0 bytes as immutable control.",
+  "preserved": [
+    "F1 Split Field remains frozen historical challenger evidence",
+    "CLR-01 remains parked with no Director family selection",
+    "No final logo/app icon, production vector, Store/package asset, trademark claim or Phase-C convergence."
+  ]
+}
