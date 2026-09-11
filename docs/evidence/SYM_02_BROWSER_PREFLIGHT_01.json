@@ -1,0 +1,38 @@
+{
+  "schema": "kymaean.sym02.browser-preflight.v1",
+  "status": "PASS_COMPLETE_MATRIX",
+  "date": "2026-09-10",
+  "github_actions_run_id": 34555569844,
+  "head_sha": "74d457dad6dff308fcc0ea53c5b4cc836f0867d5",
+  "artifact": {
+    "id": 10182425681,
+    "digest": "sha256:4aa17541f21706d217fd950d3d0bed97a9043b6b36672733a8c65daccead08a2",
+    "size_bytes": 1189945
+  },
+  "browser_version": "Google Chrome 152.0.7977.82",
+  "os_pretty": "Ubuntu 24.04.5 LTS",
+  "candidate_results": {
+    "C0-R1": {"status": "PASS_MECHANICAL", "issues": []},
+    "C0-R2": {"status": "FAIL_MECHANICAL", "issues": ["right-field bounding box differs from exact C0"]},
+    "C0-R3": {"status": "FAIL_MECHANICAL", "issues": ["aggregate left-field area delta 9.1119% exceeds 8%"]},
+    "N1": {"status": "FAIL_MECHANICAL", "issues": ["geometry extends outside viewBox", "safe-envelope margin below 2.5%: -0.0600"]},
+    "N2": {"status": "PASS_MECHANICAL", "issues": []},
+    "N3": {"status": "PASS_MECHANICAL", "issues": []}
+  },
+  "eligible_for_subjective_review": ["C0-R1", "N2", "N3"],
+  "quantitative_checks": {
+    "C0-R1_area_delta": 0.00006912328169805804,
+    "C0-R1_centroid_shift": 0.441443826968207,
+    "C0-R3_left_area_delta": 0.09111900932886208,
+    "C0-R3_left_centroid_shift": 1.6153595493306754
+  },
+  "modes": {
+    "normal-wide": {"viewport": {"width": 1200, "height": 3000, "scrollWidth": 1185}, "forcedColors": false},
+    "forced-wide": {"viewport": {"width": 1200, "height": 3000, "scrollWidth": 1185}, "forcedColors": true},
+    "normal-320": {"viewport": {"width": 320, "height": 3000, "scrollWidth": 305}, "forcedColors": false},
+    "forced-320": {"viewport": {"width": 320, "height": 3000, "scrollWidth": 305}, "forcedColors": true}
+  },
+  "browser_verifier_sha256": "b66ababcf6c6529f37960705f4dd64d91c0c452d7dc74ffaa28c76e7722d8bf7",
+  "result": "SYM02_BROWSER=PASS; C0-R1/N2/N3 mechanically eligible; C0-R2/C0-R3/N1 mechanically falsified.",
+  "scope": "Mechanical/source/viewport/forced-colors/refinement-tolerance validation only. Subjective survivor judgment is separate."
+}

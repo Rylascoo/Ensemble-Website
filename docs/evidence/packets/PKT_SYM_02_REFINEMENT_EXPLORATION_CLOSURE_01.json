@@ -1,0 +1,108 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-SYM-02-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "CLOSED_ZERO_SURVIVORS",
+  "date": "2026-09-10",
+  "gate_or_program": "SYM-02 — Threshold K Refinement + Independent Concept Exploration",
+  "design_axis": "shared-brand primary symbol refinement + independent symbol exploration",
+  "bounded_question": "Can a bounded Threshold K descendant materially improve the selected C0 at compact scale, or can a genuinely independent monochrome concept challenge it, before other identity carriers are coupled?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "governing_method_or_contract": [
+      "docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md",
+      "docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json",
+      "docs/evidence/SYM_02_BROWSER_CLASSIFICATION_ADDENDUM_01.json"
+    ],
+    "frozen_manifest": "docs/evidence/SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json"
+  },
+  "controlled_inputs": [
+    "exact immutable C0 Threshold K under review alias C0-ORIGINAL",
+    "three bounded refinements C0-R1/R2/R3",
+    "three independent concepts N1/N2/N3",
+    "currentColor-only geometry",
+    "16/20/24/32/48/64/96/128 CSS-px probes",
+    "APP icon/chrome and WEB header/prelude fixtures",
+    "normal and forced-colors hosted browser modes"
+  ],
+  "excluded_variables": [
+    "CLR-01 color family",
+    "wordmark/bespoke typography",
+    "material/texture/depth",
+    "motion",
+    "STA state treatment",
+    "hero/static imagery",
+    "runtime/package implementation"
+  ],
+  "local_result": {
+    "summary": "Hosted mechanical classification leaves C0-R1/N2/N3 eligible; frozen subjective falsification then rejects all three. SYM-02 closes with zero candidate survivors.",
+    "survivors_or_closure": [],
+    "recommended_incumbent": "C0 Threshold K remains provisional incumbent under the prior SYM-01 Director decision",
+    "alternates": [],
+    "rejections": [
+      "C0-R2 — mechanical right-field bounding-box violation",
+      "C0-R3 — mechanical left-field area delta 9.1119% > 8%",
+      "N1 — mechanical geometry outside viewBox",
+      "C0-R1 — no material 16–32 px gain beyond display-scale vector tidiness",
+      "N2 — tile/four-way-control reading",
+      "N3 — ellipsis/entity/particle-cluster reading"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "Zero SYM-02 survivors; retain exact C0 without upgrading its authority.",
+    "director_view_or_delegation": "No new Director taste gate triggered because the frozen program requires materially valid survivors before that gate.",
+    "resolution_mode": "DIRECTOR_AUTHORIZED_DESIGN_SOL"
+  },
+  "evidence": {
+    "mechanical": [
+      "hosted run 34555569844",
+      "SYM02_BROWSER=PASS",
+      "artifact 10182425681; zip digest sha256:4aa17541f21706d217fd950d3d0bed97a9043b6b36672733a8c65daccead08a2",
+      "docs/evidence/SYM_02_BROWSER_PREFLIGHT_01.json"
+    ],
+    "visual": [
+      "prototypes/sym-02/harness.html — deterministic human-viewable comparison surface",
+      "docs/evidence/SYM_02_DESIGN_SOL_VIEW_01.json"
+    ],
+    "invalid_or_superseded_attempts": [
+      "34553692361 — responsive role-grid carrier overflow; no candidate result",
+      "34554003697 — valid four-mode diagnostics but incomplete aggregate because candidate failure incorrectly aborted verifier; candidate observations preserved"
+    ]
+  },
+  "dependencies": {
+    "requires": ["fresh Phase-B sequencing/reentry audit before another symbol batch"],
+    "constrains": ["future primary-symbol refinement/exploration", "later whole-app/app-asset synthesis"],
+    "must_not_be_confused_with": ["final logo selection", "production app icon/vector", "trademark clearance", "CLR-01 selection"]
+  },
+  "known_integration_sensitivities": [
+    "C0 is retained because challengers failed, not because SYM-02 granted new approval.",
+    "Do not construct C0-R4 after zero refinement survivors.",
+    "Do not infer N4 or SYM-03 automatically from this closure."
+  ],
+  "explicit_non_authority": [
+    "No final identity, production symbol/vector, Store/package asset, trademark claim, CLR-01 adjudication, implementation, or Phase-C convergence."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "prototypes/sym-02/harness.html",
+      "docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json",
+      "docs/evidence/SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json",
+      "docs/evidence/SYM_02_BROWSER_CLASSIFICATION_ADDENDUM_01.json",
+      "docs/evidence/SYM_02_BROWSER_PREFLIGHT_01.json",
+      "docs/evidence/SYM_02_DESIGN_SOL_VIEW_01.json"
+    ]
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}

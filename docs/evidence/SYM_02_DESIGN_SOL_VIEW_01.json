@@ -1,0 +1,50 @@
+{
+  "schema": "kymaean.sym02.design-sol-view.v1",
+  "status": "CLOSED_ZERO_SURVIVORS",
+  "date": "2026-09-10",
+  "program": "SYM-02 — Threshold K Refinement + Independent Concept Exploration",
+  "governing_program": "docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json",
+  "mechanical_evidence": "docs/evidence/SYM_02_BROWSER_PREFLIGHT_01.json",
+  "frozen_manifest": "docs/evidence/SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json",
+  "control": {
+    "id": "C0-ORIGINAL",
+    "canonical_id": "C0",
+    "result": "RETAINS_INCUMBENT_AUTHORITY",
+    "reason": "Exact Threshold K remains the immutable comparison reference selected by the Director in SYM-01."
+  },
+  "mechanically_falsified": {
+    "C0-R2": "Right-field bounding box differs from exact C0, violating the frozen Curve/Tension Study boundary.",
+    "C0-R3": "Aggregate left-field filled area changes by 9.1119%, exceeding the frozen 8% ceiling.",
+    "N1": "Geometry extends outside the declared viewBox and therefore fails the frozen safe-envelope floor."
+  },
+  "subjective_falsification": {
+    "C0-R1": {
+      "result": "FAIL",
+      "reason": "Bézier smoothing preserves C0, but at 16/20/24/32 px the purported improvement is not materially recoverable; the gain appears primarily as display-scale vector tidiness. The frozen refinement rule explicitly falsifies that outcome."
+    },
+    "N2": {
+      "result": "FAIL",
+      "reason": "At compact sizes the four unequal masses collapse into a four-tile/four-way-control reading; at larger sizes the same generic tiled cluster dominates. This directly enters N2's frozen forbidden-drift set."
+    },
+    "N3": {
+      "result": "FAIL",
+      "reason": "At compact sizes the three masses read primarily as a three-bead/ellipsis or generic entity cluster; larger scales retain a generic stacked-particle reading rather than a distinctive authored primary symbol. This enters N3's frozen ellipsis/entities/layers/network-node risk set."
+    }
+  },
+  "survivors": [],
+  "termination": {
+    "zero_refinement_survivors": true,
+    "zero_independent_survivors": true,
+    "C0_R4_constructed": false,
+    "N4_constructed": false,
+    "director_taste_gate_triggered": false,
+    "reason": "The frozen Director gate applies only when multiple materially valid survivors remain. No eligible SYM-02 candidate survives falsification."
+  },
+  "conclusion": "SYM-02 closes with zero candidate survivors. Exact C0 Threshold K remains the provisional primary-symbol incumbent by prior Director authority; this result does not upgrade C0 to final or production status.",
+  "next_boundary": "Return to a fresh Phase-B shared-brand sequencing/reentry audit before opening another symbol batch or another identity-axis program. No automatic SYM-03 is authorized by this closure.",
+  "explicit_non_authority": [
+    "No final logo/app icon or production vector.",
+    "No CLR-01 reentry, O3/TYP/MOT/STA/material/hero mutation, Store/package asset, trademark claim, app/site implementation, final identity, or Phase-C convergence."
+  ],
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FROZEN-CRITERIA FALSIFICATION."
+}

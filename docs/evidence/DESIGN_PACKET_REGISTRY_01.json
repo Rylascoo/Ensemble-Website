@@ -53,10 +53,18 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "Director selected unchanged C0 Threshold K as provisional primary-symbol incumbent; frozen F1 remains historical challenger evidence",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-SYM-02-01",
+      "path": "docs/evidence/packets/PKT_SYM_02_REFINEMENT_EXPLORATION_CLOSURE_01.json",
+      "axis": "primary symbol refinement + independent exploration",
+      "status": "CLOSED_ZERO_SURVIVORS",
+      "current_contribution": "No new survivor; exact C0 Threshold K remains provisional incumbent under prior SYM-01 Director authority",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
-    "C0 Threshold K is the provisional primary-symbol incumbent, but exact geometry is explicitly reopened in a new bounded refinement program; no final symbol authority exists",
+    "C0 Threshold K remains the provisional primary-symbol incumbent after SYM-02 closed with zero refinement/independent-concept survivors; no final symbol authority exists",
     "final typography/typeface system is unresolved; TYP-01 produced zero survivors",
     "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
@@ -66,7 +74,7 @@
   "synthesis_policy": {
     "composition_packets_created": [],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Director selected C0 Threshold K and explicitly authorized a separate exact-shape refinement program preserving exact C0 as immutable control. CLR-01 remains parked and Phase-C remains closed.",
+    "next_synthesis_trigger": "SYM-02 closed with zero new symbol survivors; exact C0 remains provisional under prior SYM-01 authority. A fresh Phase-B sequencing/reentry audit is required before another symbol batch or identity-axis program; CLR-01 remains parked and Phase-C remains closed.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_05.json"
   },

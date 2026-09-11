@@ -1162,3 +1162,19 @@ C0-R1, N2 and N3 were not mechanically falsified by Run-2 diagnostics, but they 
 **Next gate:** run the corrected hosted classifier on the unchanged frozen batch. Only complete-matrix `PASS_MECHANICAL` candidates may enter subjective silhouette/negative-space review.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN EXECUTION-SEMANTICS AUDIT.**
+
+## L-071 - SYM-02 closes with zero survivors; exact C0 remains provisional incumbent
+
+**State:** SYM-02 CLOSED / ZERO SURVIVORS / C0 PROVISIONAL INCUMBENT RETAINED / NO R4 OR N4
+
+Hosted Run `34555569844` at `74d457dad6dff308fcc0ea53c5b4cc836f0867d5` completed the corrected four-mode matrix. `SYM02_BROWSER=PASS`. C0-R1, N2 and N3 passed mechanical floors; C0-R2, C0-R3 and N1 were mechanically falsified and remained frozen without rescue. Artifact `10182425681` preserves diagnostics and exact screenshots; its zip digest is `sha256:4aa17541f21706d217fd950d3d0bed97a9043b6b36672733a8c65daccead08a2`.
+
+Frozen subjective falsification then closes the remaining three. C0-R1's smoothing produces no material 16–32 px identity improvement and therefore reduces to display-scale vector tidiness. N2 resolves primarily as the forbidden tile/four-way-control cluster. N3 resolves primarily as an ellipsis/entity/particle cluster rather than a distinctive authored primary symbol.
+
+`docs/evidence/SYM_02_BROWSER_PREFLIGHT_01.json` and `docs/evidence/SYM_02_DESIGN_SOL_VIEW_01.json` preserve the complete result. Zero refinement survivors and zero independent survivors are both allowed by the frozen program. Because no refinement direction survives, C0-R4 is not constructed. N4 is prohibited in this batch. The Director taste gate is not triggered because no materially valid survivor remains.
+
+Exact C0 Threshold K therefore remains the provisional primary-symbol incumbent solely under the prior SYM-01 Director decision. SYM-02 does not promote it to final logo, production vector or final identity.
+
+**Next gate:** fresh Phase-B shared-brand sequencing/reentry audit before any new symbol batch or identity-axis program. No automatic SYM-03.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FROZEN-CRITERIA FALSIFICATION.**

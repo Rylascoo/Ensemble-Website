@@ -23,10 +23,10 @@ Original C0 Threshold K is immutable reference authority. Future symbol work is 
 
 Derived refinements and new concepts must never reuse the C0 identifier. On comparison surfaces, `C0-ORIGINAL` is the unambiguous review label for the preserved canonical C0 asset; refinements use `C0-R*` and independent concepts use `N*`.
 
-## SYM-02 active program
-`docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json` is frozen. Exact candidate bytes remain frozen by `docs/evidence/SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json`: `C0-ORIGINAL`, C0-R1/R2/R3, and N1/N2/N3. C0-R4 remains post-review reserved. Run `34553692361` exposed carrier overflow and was repaired without symbol mutation. Run `34554003697` then produced valid four-mode diagnostics: C0-R2, C0-R3 and N1 are mechanically falsified; R1/N2/N3 await the complete corrected classifier rerun. `SYM_02_BROWSER_CLASSIFICATION_ADDENDUM_01.json` freezes that distinction.
+## SYM-02 result
+SYM-02 is closed with zero candidate survivors. Hosted Run `34555569844` completed the four-mode matrix: C0-R1/N2/N3 passed mechanical floors; C0-R2/C0-R3/N1 failed mechanically. Frozen subjective review then failed R1 as display-scale vector tidiness without a material 16–32 px gain, N2 as a tile/four-way-control reading, and N3 as an ellipsis/entity/particle cluster. C0-R4 and N4 were not constructed. Exact C0 Threshold K remains the provisional primary-symbol incumbent by the prior SYM-01 Director decision; no final or production authority is created.
 
 ## Exact next action / hard boundary
-Run the corrected hosted four-mode SYM-02 classifier against the unchanged frozen manifest. Only complete-matrix PASS_MECHANICAL candidates may enter subjective silhouette/negative-space scoring. Preserve original C0 bytes exactly. No post-exposure retune or added N4 in this batch. No CLR-01 reentry, wordmark/material/motion/state/hero coupling, production asset claim, final identity, or Phase-C convergence.
+Perform a fresh Phase-B shared-brand sequencing/reentry audit before opening another symbol batch or another identity-axis program. Preserve original C0 exactly; no automatic SYM-03 follows from SYM-02 closure. No CLR-01 reentry, wordmark/material/motion/state/hero coupling, production asset claim, final identity, or Phase-C convergence.
 
 No final logo/app icon, production vector/Store asset, trademark claim, CLR-01 reentry, O3/TYP/MOT/STA/material/hero mutation, app/site implementation, final identity, or Phase-C convergence.
