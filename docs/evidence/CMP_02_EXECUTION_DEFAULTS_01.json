@@ -1,0 +1,208 @@
+{
+  "schema": "kymaean.cmp02.execution-defaults.v1",
+  "status": "FROZEN_PRE_SPECIMEN",
+  "date": "2026-09-11",
+  "program_id": "CMP-02",
+  "parent_method": "docs/evidence/CMP_02_IDENTITY_STACK_WORDMARK_TYPOGRAPHY_HIERARCHY_METHOD_AND_MATRIX_01.json",
+  "reference_font": {
+    "css_stack": "system-ui, \"Segoe UI\", sans-serif",
+    "authority": "measurement carrier only",
+    "custom_or_downloaded_fonts_forbidden": true
+  },
+  "neutral_palette": {
+    "page": "#f7f7f4",
+    "field": "#ecece7",
+    "ink": "#1b1b19",
+    "line": "#8a8a82",
+    "authority": "measurement-only grayscale; no color-family authority"
+  },
+  "shared_page": {
+    "padding_wide_px": 24,
+    "padding_320_px": 10,
+    "surface_gap_px": 18,
+    "surface_width": "min(100%, role max-width); never scale the surface with transforms",
+    "min_inline_size": 0,
+    "overflow": "visible vertically; no required content clipping or horizontal scroll"
+  },
+  "role_geometry": {
+    "APP_COMPACT": {
+      "max_width_px": 420,
+      "min_height_px": 250,
+      "padding_px": 18,
+      "c0_height_px": 28,
+      "o3_width_px": 130,
+      "identity_gap_px": 12,
+      "identity_layout": "horizontal",
+      "scope_position": "same row, margin-inline-start:auto",
+      "scope_text": "PRIMARY SCOPE",
+      "mat_top_channel_depth_px": 18,
+      "mat_right_channel_width_px": 24,
+      "sta_witness": "APP exact vertical inline-start witness"
+    },
+    "WEB_HEADER": {
+      "max_width_px": 680,
+      "min_height_px": 270,
+      "padding_px": 24,
+      "c0_height_px": 32,
+      "o3_width_px": 160,
+      "identity_gap_px": 15,
+      "identity_layout": "horizontal",
+      "scope_position": "same row, margin-inline-start:auto",
+      "scope_text": "OVERVIEW   DETAILS",
+      "mat_top_channel_depth_px": 28,
+      "mat_right_channel_width_px": 36,
+      "sta_witness": "WEB exact low horizontal witness"
+    },
+    "ACQUISITION_PRELUDE": {
+      "max_width_px": 680,
+      "min_height_px": 390,
+      "padding_px": 24,
+      "c0_height_px": 64,
+      "o3_width_px": 340,
+      "o3_max_width_percent": 88,
+      "identity_gap_px": 18,
+      "identity_layout": "vertical prelude",
+      "scope_position": "not used",
+      "scope_text": null,
+      "mat_top_channel_depth_px": 28,
+      "mat_right_channel_width_px": 36,
+      "sta_witness": "WEB exact low horizontal witness"
+    }
+  },
+  "identity_accessibility": {
+    "accessible_name": "Kymaean",
+    "accessible_name_count_per_surface": 1,
+    "mechanism": "One visually hidden text node named Kymaean inside the identity group; exact C0 and O3 SVGs are aria-hidden decorative geometry to prevent duplicate announcement.",
+    "c0_svg": "aria-hidden=true; focusable=false; currentColor; exact canonical path geometry unchanged",
+    "o3_svg": "aria-hidden=true; focusable=false; currentColor; exact canonical path/stroke geometry unchanged",
+    "diagnostics": "O3_SOLO and NO_O3 retain the same single hidden accessible name; hidden visual geometry must not remove the accessible brand name.",
+    "visible_text_duplication": "Do not add a second visible text spelling of KYMÆAN inside scored surfaces."
+  },
+  "typography": {
+    "FULL": {
+      "eyebrow": "0.75rem/600/1.30/+0.06em",
+      "heading_wide": "1.50rem/600/1.15/0",
+      "heading_320": "1.35rem/600/1.15/0",
+      "body": "1.00rem/400/1.50/0",
+      "support": "0.875rem/500/1.40/0",
+      "state": "0.85rem/600/1.25/0",
+      "measures_ch": {
+        "heading": 32,
+        "body": 48,
+        "support": 48
+      },
+      "gaps_px": [8, 12, 12]
+    },
+    "NEUTRAL_TYP": {
+      "eyebrow": "0.75rem/600/1.30/+0.06em",
+      "heading_wide": "1.25rem/600/1.20/0",
+      "heading_320": "1.15rem/600/1.20/0",
+      "body": "1.00rem/400/1.50/0",
+      "support": "0.90rem/500/1.40/0",
+      "state": "0.85rem/600/1.25/0",
+      "measures_ch": {
+        "heading": 32,
+        "body": 48,
+        "support": 48
+      },
+      "gaps_px": [8, 12, 12]
+    },
+    "content": {
+      "eyebrow": "CONTEXT",
+      "heading": "Primary information remains clear.",
+      "body": "Supporting text explains the situation without changing the hierarchy.",
+      "support": "Secondary detail remains available.",
+      "state_labels": ["Field A", "Field B", "Field C"],
+      "selected_state": "Field B"
+    }
+  },
+  "mat_f1_exact": {
+    "top_channel_left_percent": 9,
+    "top_channel_width_percent": 30,
+    "right_channel_top_percent": 57,
+    "right_channel_height_percent": 23,
+    "fill": "page",
+    "radius_px": 0
+  },
+  "sta_f2_exact": {
+    "button_min_height_px": 44,
+    "base_border_px": 1,
+    "focus_outline_px": 2,
+    "focus_offset_px": 2,
+    "selected_border": "ink",
+    "APP": {
+      "selected_padding_inline_start_px": 15,
+      "witness_inline_start_px": 5,
+      "witness_inset_block_px": 7,
+      "witness_width_px": 3
+    },
+    "WEB": {
+      "selected_padding_inline_px": 14,
+      "witness_inset_inline_px": 9,
+      "witness_bottom_px": 5,
+      "witness_height_px": 3
+    }
+  },
+  "review_surface_order": [
+    "APP_COMPACT/FULL",
+    "APP_COMPACT/NEUTRAL_TYP",
+    "APP_COMPACT/O3_SOLO",
+    "APP_COMPACT/NO_O3",
+    "WEB_HEADER/FULL",
+    "WEB_HEADER/NEUTRAL_TYP",
+    "WEB_HEADER/O3_SOLO",
+    "WEB_HEADER/NO_O3",
+    "ACQUISITION_PRELUDE/FULL",
+    "ACQUISITION_PRELUDE/NEUTRAL_TYP",
+    "ACQUISITION_PRELUDE/O3_SOLO",
+    "ACQUISITION_PRELUDE/NO_O3"
+  ],
+  "review_layout": {
+    "wide": "Role sections stack vertically; within each role the four variants form a responsive comparison row only when all four fit without shrinking below their native max-width; otherwise wrap naturally. No CSS transform scaling.",
+    "width_320": "One column in exact review_surface_order; each surface width:100%; native max-width acts only as a ceiling; vertical growth allowed.",
+    "same_dom_order_all_modes": true
+  },
+  "diagnostic_behavior": {
+    "FULL": "show exact C0 + exact O3 + TYP F1 + MAT F1 + STA F2",
+    "NEUTRAL_TYP": "only typography role vector changes to TYP CNEG; exact identity/material/state and layout remain",
+    "O3_SOLO": "hide only C0 visual geometry; preserve its layout slot in APP/WEB horizontal roles and preserve prelude spacing in ACQUISITION",
+    "NO_O3": "hide only O3 visual geometry; preserve its allocated inline/block measure"
+  },
+  "responsive_rules": {
+    "breakpoint_css_px": 520,
+    "overflow_wrap": "break-word",
+    "word_break": "normal",
+    "hyphens": "none",
+    "text_role_min_inline_size": 0,
+    "state_zone": "one column at <=520px; three equal columns above",
+    "brand_group": "may wrap only between identity group and synthetic scope/navigation; C0 and O3 relationship itself must not reorder",
+    "acquisition": "prelude remains vertical; O3 width becomes min(340px,88%,available width); no universal ratio inference"
+  },
+  "browser_modes": [
+    {"id": "normal-baseline-wide", "width": 1200, "forced_colors": false, "root_font_percent": 100, "text_spacing": false},
+    {"id": "normal-baseline-320", "width": 320, "forced_colors": false, "root_font_percent": 100, "text_spacing": false},
+    {"id": "normal-resize200-wide", "width": 1200, "forced_colors": false, "root_font_percent": 200, "text_spacing": false},
+    {"id": "normal-resize200-320", "width": 320, "forced_colors": false, "root_font_percent": 200, "text_spacing": false},
+    {"id": "normal-spacing-wide", "width": 1200, "forced_colors": false, "root_font_percent": 100, "text_spacing": true},
+    {"id": "normal-spacing-320", "width": 320, "forced_colors": false, "root_font_percent": 100, "text_spacing": true},
+    {"id": "forced-baseline-wide", "width": 1200, "forced_colors": true, "root_font_percent": 100, "text_spacing": false},
+    {"id": "forced-baseline-320", "width": 320, "forced_colors": true, "root_font_percent": 100, "text_spacing": false}
+  ],
+  "stress_execution": {
+    "resize_200": "set document root font-size to 200% while preserving CSS viewport width; no role/variant-specific rescue",
+    "text_spacing": "add +0.12em letter spacing, +0.16em word spacing, line-height floor 1.5 and paragraph/block spacing floor 2em where applicable",
+    "forced_colors": "Canvas/CanvasText/Highlight with forced-color-adjust:auto; C0/O3 currentColor geometry, focus ring and selected witness remain visible; MAT decorative channels may flatten"
+  },
+  "source_rules": {
+    "no_remote_resources": true,
+    "no_custom_fonts": true,
+    "no_raster_images": true,
+    "no_canvas_webgl": true,
+    "no_gradients_filters_backdrop_filters_glow": true,
+    "no_animation_transition_timers_autoplay": true,
+    "exact_c0_lf_sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "exact_o3_lf_sha256": "204e6f7b3239f44267a04afa2c12f0254a56142e9298ee6e7fab9f9061a674f5"
+  },
+  "construction_freeze": "After first specimen materialization, role geometry, identity sizes/gaps, accessibility semantics, typography vectors, MAT/STA values, content, diagnostics, review order/layout, responsive rules, browser modes and source rules may not be retuned. Mechanical repair may only restore this exact contract.",
+  "non_authority": "These defaults create no final lockup, final wordmark/typeface, production token, CLR-01 reentry, implementation, final identity or Phase-C authority."
+}
