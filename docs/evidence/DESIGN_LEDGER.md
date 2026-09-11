@@ -1743,7 +1743,7 @@ All VFD-01 P1-P4 premise laws/images and current-family C0/O3/TYP/MAT/STA/MOT ev
 
 ## L-111 - CTF-01 Stage A freezes four orthogonal causal/content topologies
 
-**State:** T1-T4 FROZEN / ALL SIX PAIRS 6 OF 6 DIFFERENT / REPRESENTATION PREMISE CONSTRUCTION NOW ELIGIBLE / 0 IMAGES
+**State:** T1-T4 FROZEN / FIVE PAIRS 6 OF 6 + T1-T3 5 OF 6 / REPRESENTATION PREMISE CONSTRUCTION NOW ELIGIBLE / 0 IMAGES
 
 CTF-01 Stage A freezes four topology-only packets before any representation premise exists: T1 Subtractive Shared Medium, T2 Reoriented Exposure Field, T3 Redistributed Finite Bulk Supply, and T4 Reconfigured Flexible Connection. `docs/evidence/CTF_01_TOPOLOGY_PAIRWISE_AUDIT_01.json` records all six pairwise comparisons; five differ on all six frozen axes and T1-T3 is conservatively 5-of-6 because both contain asymmetric present use/access. Every pair exceeds the 4-of-6 floor.
 
@@ -1778,3 +1778,21 @@ The method ceiling remains six but R4's pre-render rejection reduces the effecti
 **Next gate:** execute exactly the three frozen PRIMARY packets in three separate fresh regular non-project renderer contexts. Preserve all three returned images/provenance before any primary evaluation. No transfer may run early.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-RENDER INPUT FREEZE.**
+
+## L-114 - CTF-01 primary probes leave R1 as the sole transfer survivor
+
+**State:** 3 OF 5 EFFECTIVE IMAGE BUDGET CONSUMED / R1 PRIMARY PASS / R2-R3 PRIMARY FAIL / R1-T3 TRANSFER ONLY NEXT
+
+`docs/evidence/CTF_01_PRIMARY_EVALUATION_01.json` freezes Design Sol's evaluation before any Director taste input. The three supplied PNGs were mapped in requested order to R1/T1, R2/T2 and R3/T3. Supplied-byte SHA-256 hashes/dimensions are pinned in the evaluation. All three originals are archived under Drive `CTF-01 Content-Topology-First Divergence 01`; upload success and exact byte size were verified, while post-upload re-download hashing is not claimed.
+
+R1 Interlaced Continuous Fiber Surface is the sole primary survivor. Long continuous strands construct the people, shared support/enclosure, edges and altered condition across the whole image rather than acting as decorative textile texture. The large ragged subtraction and severed strand continuity make a simpler continuous prior state recoverable; the two people use the same still-connected changed medium differently. R1 clears the frozen whole-surface, topology, quarantine, distance and accessibility gates.
+
+R2 Continuous Relief Skin fails its exact predeclared high-risk falsifier. The pivoted shade/exposure topology is legible, but the image remains an ordinary modeled sculptural/architectural scene made of separate people, awning, architecture, plants and landscape with relief-like material applied. It is not one unbroken shallow relief skin.
+
+R3 Translucent Registration Stack likewise fails its exact predeclared falsifier. The redistributed finite-supply topology is serviceable, but conventional modeled people, bins, granular piles and architecture remain underneath broad translucent overlays. The laminae do not become the exclusive representational substrate and the image collapses toward the historical registration/layering attractor.
+
+**Next gate:** execute exactly one R1/T3 transfer from the already-frozen sterile packet in a fresh regular non-project renderer context with no access to the R1 primary image. R2/R3 receive no transfer. A transfer pass would create second-family evidence and stop at Director convergence review; a transfer fail closes CTF-01 zero-survivor.
+
+**Guardrail:** no R1 retune/reroll, R2/R3 transfer, replacement premise/topology, result-aware remapping, extra calibration render, family-survivor claim, CLR reentry, hero reopening, implementation, final identity or automatic Phase C.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN PRIMARY EVALUATION.**

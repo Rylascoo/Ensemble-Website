@@ -1,0 +1,126 @@
+{
+  "schema": "kymaean.ctf01.primary-evaluation.v1",
+  "status": "R1_PRIMARY_PASS_R2_R3_PRIMARY_FAIL_R1_TRANSFER_ONLY",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "frozen_input_manifest": "docs/evidence/CTF_01_FROZEN_INPUT_MANIFEST_01.json",
+  "construction_quarantine_audit": "docs/evidence/CTF_01_PRE_RENDER_CONSTRUCTION_QUARANTINE_AUDIT_01.json",
+  "post_freeze_comparison_audit": "docs/evidence/CTF_01_POST_FREEZE_PRE_RENDER_COMPARISON_AUDIT_01.json",
+  "director_taste_input_before_freeze": "NONE",
+  "mapping": "User-supplied images are evaluated in supplied order as R1/T1, R2/T2, R3/T3, matching the requested dispatch order.",
+  "drive_folder": {
+    "id": "1ywta8k7Iejh2QWEpP_wNuOBB82VhlC4I",
+    "name": "CTF-01 Content-Topology-First Divergence 01"
+  },
+  "primaries": {
+    "R1_T1": {
+      "premise": "R1 Interlaced Continuous Fiber Surface",
+      "topology": "T1 Subtractive Shared Medium",
+      "sha256": "3cb0fc2330d4e92ced80bd484254a5e5799221e595e6bfafa8ac4f1f9290afd8",
+      "bytes": 3930792,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "drive_id": "1zSOji9lAJorIExL9s66ZDLCFr92OhcYK",
+      "drive_name": "CTF_01_R1_T1_PRIMARY_01.png",
+      "drive_verification": "UPLOAD_SUCCESS_AND_SIZE_MATCH; post-upload re-download hash not claimed",
+      "result": "PASS_PRIMARY",
+      "gates": {
+        "ARTISTIC_INTEGRITY": "PASS - the image reads as one authored woven/fiber world rather than an explanatory diagram or ordinary scene with a texture pasted on.",
+        "HUMAN_PRIMACY": "PASS - two distinct people are legible through different body-scale strand organizations and both physically inhabit/use the shared condition.",
+        "TOPOLOGY_FIDELITY": "PASS - one connected woven medium carries a large persistent subtraction with severed/ragged strand evidence; one person occupies the remaining suspended left condition while the other uses the right/bridging remnant, making asymmetric use of the same changed medium visible.",
+        "RELATIONAL_TRUTH": "PASS - the present relation follows from the missing portion and remaining continuity without labels, arrows or inferred private state.",
+        "EPISTEMIC_RESTRAINT": "PASS - no private knowledge, belief, memory, emotion or intent is required for the reading.",
+        "WHOLE_SURFACE_SPECIFICITY": "PASS - long continuous interlaced strands construct people, support, enclosure, edges and negative space across the image; the grammar is not a single decorative textile motif.",
+        "PREMISE_QUARANTINE_PASS": "PASS - the substrate is continuous strand/weave behavior, not VFD accumulated marks, flat planes, smooth density/haze or discrete mosaic units, and it does not collapse to the current provisional stack.",
+        "DISTANCE_PASS": "PASS - pixel evidence preserves material distance from the current provisional family on ontology, edge/material grammar, human-specificity mechanism, causal-history carrier and texture construction.",
+        "ACCESSIBILITY_TRANSFER_POTENTIAL": "PASS - the two people, major subtraction, remaining continuity and asymmetric use survive through silhouette, large-scale structure and value rather than hue, text, micro-detail or motion."
+      },
+      "binding_read": "The primary proves a fresh whole-surface fiber representation law and its assigned subtractive topology strongly enough to justify the already-frozen R1/T3 transfer. It does not establish a family survivor by itself."
+    },
+    "R2_T2": {
+      "premise": "R2 Continuous Relief Skin",
+      "topology": "T2 Reoriented Exposure Field",
+      "sha256": "f23a1a4b7da80e57cc8cc7c806acdc5fea5ae4eeac8d3ddb43b7ac4056e3adb0",
+      "bytes": 3866392,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "drive_id": "1J0p5d0oNfnzgD13D4SP91APM7Bsv9Xxf",
+      "drive_name": "CTF_01_R2_T2_PRIMARY_01.png",
+      "drive_verification": "UPLOAD_SUCCESS_AND_SIZE_MATCH; post-upload re-download hash not claimed",
+      "result": "FAIL_PRIMARY",
+      "gates": {
+        "ARTISTIC_INTEGRITY": "PASS - coherent sculptural scene.",
+        "HUMAN_PRIMACY": "PASS - the seated and standing people remain distinct and central.",
+        "TOPOLOGY_FIDELITY": "PASS - the pivoted broad shade/cover and large cast exposure pattern visibly place the two people under different exposure conditions in one connected space.",
+        "RELATIONAL_TRUTH": "PASS - the exposure asymmetry is carried by the visible orientation and cast condition.",
+        "EPISTEMIC_RESTRAINT": "PASS.",
+        "WHOLE_SURFACE_SPECIFICITY": "FAIL - the image is a conventional modeled 3D/sculptural scene containing separate awning, people, architecture, plants and landscape, rather than one unbroken shallow relief skin.",
+        "PREMISE_QUARANTINE_PASS": "FAIL - it triggers the exact predeclared R2 falsifier: a normal 3D/architectural scene with relief-like texture/material applied, under strong historical low-relief pressure.",
+        "DISTANCE_PASS": "NONRESCUING - topology/material appearance differs locally from the current stack, but the required fresh whole-surface representation ontology did not survive.",
+        "ACCESSIBILITY_TRANSFER_POTENTIAL": "PASS_LOCAL - major cast shade, people and orientation remain legible without hue/text/motion, but this cannot compensate for the representation-law failure."
+      },
+      "binding_read": "The causal topology works, but the representation premise does not. The primary is consumed and R2 receives no transfer."
+    },
+    "R3_T3": {
+      "premise": "R3 Translucent Registration Stack",
+      "topology": "T3 Redistributed Finite Bulk Supply",
+      "sha256": "04414b549c402875719e8d4db97df29044b98327bc6089778ba56fea41f7deac",
+      "bytes": 2866486,
+      "dimensions": [
+        1586,
+        992
+      ],
+      "drive_id": "1hmkxzkvNkoyY1XHXI_mx5J1o3J4ehD5B",
+      "drive_name": "CTF_01_R3_T3_PRIMARY_01.png",
+      "drive_verification": "UPLOAD_SUCCESS_AND_SIZE_MATCH; post-upload re-download hash not claimed",
+      "result": "FAIL_PRIMARY",
+      "gates": {
+        "ARTISTIC_INTEGRITY": "PASS_LOCAL - coherent restrained editorial/art image.",
+        "HUMAN_PRIMACY": "PASS_LOCAL - two differentiated people remain visible and directly adjacent to unequal present supply conditions.",
+        "TOPOLOGY_FIDELITY": "PASS_LOCAL - a depleted/partial source at left plus larger central and smaller right bulk quantities make redistribution and asymmetric present access plausible without numerical labels.",
+        "RELATIONAL_TRUTH": "PASS_LOCAL - the supply arrangement carries the present asymmetry.",
+        "EPISTEMIC_RESTRAINT": "PASS.",
+        "WHOLE_SURFACE_SPECIFICITY": "FAIL - the people, bins, piles, ground and architecture remain conventionally modeled/illustrated while broad translucent planes sit over or through the scene; the laminae are not the exclusive representational substrate.",
+        "PREMISE_QUARANTINE_PASS": "FAIL - it triggers the exact predeclared R3 falsifier: conventional illustration with translucent overlays, materially close to the historical registration/layering attractor rather than a new whole-image laminar ontology.",
+        "DISTANCE_PASS": "NONRESCUING - the image is not identical to the current provisional family, but the required fresh representation law collapses before family-level distance can be credited.",
+        "ACCESSIBILITY_TRANSFER_POTENTIAL": "PASS_LOCAL - major people and quantity differences are visible without hue/text/motion, but this cannot compensate for the substrate failure."
+      },
+      "binding_read": "The topology is serviceable, but translucency functions as treatment/overlay over an ordinary scene rather than the representation substrate. The primary is consumed and R3 receives no transfer."
+    }
+  },
+  "primary_survivors": [
+    "R1"
+  ],
+  "primary_failures": [
+    "R2",
+    "R3"
+  ],
+  "transfer_authorized_now": [
+    "R1_T3_TRANSFER"
+  ],
+  "transfer_forbidden_now": [
+    "R2_T4_TRANSFER",
+    "R3_T1_TRANSFER"
+  ],
+  "image_budget": {
+    "primary_consumed": 3,
+    "transfer_consumed": 0,
+    "total_consumed": 3,
+    "effective_maximum_total": 5,
+    "remaining_possible": 2,
+    "note": "Only R1 survived primary. Under the frozen method exactly one R1 transfer is currently lawful; the second nominal remaining slot is unavailable unless a second primary had survived, so it will expire if R1 is the sole survivor."
+  },
+  "next_action": "Execute exactly one R1/T3 transfer using docs/evidence/renderer/CTF_01_R1_T3_TRANSFER_STERILE_PACKET_01.txt in a fresh regular non-project renderer context with no access to the R1 primary image. Preserve returned bytes/provenance before evaluation.",
+  "hard_boundaries": [
+    "No R2 or R3 transfer, reroll, replacement, premise retune or topology remapping.",
+    "No R1 prompt retune or access to primary pixels in the transfer renderer context.",
+    "No family-survivor claim until the R1 transfer passes every conjunctive transfer gate.",
+    "No Phase-C convergence, CLR reentry, hero reopening, implementation, production asset or final identity."
+  ],
+  "audit_result": "CLEAN_FROZEN_PRIMARY_EVALUATION_R1_SOLE_SURVIVOR"
+}
