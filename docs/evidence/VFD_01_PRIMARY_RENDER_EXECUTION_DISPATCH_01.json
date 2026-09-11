@@ -1,0 +1,45 @@
+{
+  "schema": "kymaean.vfd01.primary-render-dispatch.v1",
+  "status": "READY_EXTERNAL_ISOLATED_PRIMARY_EXECUTION",
+  "date": "2026-09-11",
+  "program_id": "VFD-01",
+  "frozen_input_commit": "de0d973221bc80485f8f8b83f7292b3e8298af4f",
+  "manifest": "docs/evidence/VFD_01_PRIMARY_INPUT_MANIFEST_01.json",
+  "execution_order": [
+    "P1",
+    "P2",
+    "P3",
+    "P4"
+  ],
+  "rule": "Each slot must be executed in its own fresh regular non-project renderer conversation. Send only the exact packet text for that slot. Do not mention Kymaean, Ensemble, VFD-01, another slot, prior output, project history, evaluation criteria, or current-family material.",
+  "items": [
+    {
+      "slot": "P1",
+      "packet": "docs/evidence/renderer/VFD_01_P1_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "8fb6a3dc266947cbf0dc1b3656eeae7ab8b4aaf0384e1e29ee46831495cb6579",
+      "suggested_output_name": "VFD01-P1-PRIMARY.png"
+    },
+    {
+      "slot": "P2",
+      "packet": "docs/evidence/renderer/VFD_01_P2_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "7ced169f4c92273e76e56a76819bfecba9c4e7024177910ea690fbe8d6e93d95",
+      "suggested_output_name": "VFD01-P2-PRIMARY.png"
+    },
+    {
+      "slot": "P3",
+      "packet": "docs/evidence/renderer/VFD_01_P3_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "07a3671a6d56ae14fa895ef6141deea60c11ef0094c07f2d5282e55cd97213a6",
+      "suggested_output_name": "VFD01-P3-PRIMARY.png"
+    },
+    {
+      "slot": "P4",
+      "packet": "docs/evidence/renderer/VFD_01_P4_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "cca2f79a0d0d7c222f5dec2aecb4ec180a3094a6e8df72514d26cf5c7eefcd8a",
+      "suggested_output_name": "VFD01-P4-PRIMARY.png"
+    }
+  ],
+  "after_each": "Preserve the original returned image bytes/provenance. Do not ask the renderer to explain, revise, regenerate, or produce an alternate.",
+  "batch_gate": "Return all four untouched primary images to Design Sol before any evaluation or transfer execution. If a request returns no image because of a genuine technical failure, stop and report the failure; do not improvise a replacement prompt.",
+  "budget_before_execution": "0/6 judgeable images consumed; P1-P4 primary slots each available exactly once.",
+  "transfer_block": "No transfer packet is executable until all four primary results are preserved and Design Sol has frozen the complete primary evaluation."
+}
