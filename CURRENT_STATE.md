@@ -19,6 +19,6 @@ Path 1 successor divergence selected SYM-01 with unchanged Threshold K as C0. Ex
 `SYM_01_DESIGN_SOL_VIEW_01.json` freezes the pre-Director result: F2 fails stair/Z/process-glyph drift; F3 fails generic paired-entity reading; F4 fails cog/settings reading. **F1 Split Field is the sole challenger survivor. Design Sol recommends retaining C0 Threshold K; F1 is the alternate with compact-scale genericity reservation.** Packet `PKT-SYM-01-01` is Director-gate pending.
 
 ## Exact next action / hard boundary
-**Director chooses C0 Threshold K or exact frozen F1 Split Field as the provisional primary-symbol incumbent.** No redraw, hybrid, F5, rejected-family revival, or CLR-01 coupling is part of this gate.
+**Director chooses C0 Threshold K or exact frozen F1 Split Field as the provisional primary-symbol incumbent.** No redraw, hybrid, F5, rejected-family revival, or CLR-01 coupling is part of this gate. Director review entry: `prototypes/sym-01/director-review.html` (self-contained exact canonical C0/F1 bytes); `prototypes/sym-01/harness.html` remains the validation/evidence surface.
 
 No final logo/app icon, production vector/Store asset, trademark claim, CLR-01 reentry, O3/TYP/MOT/STA/material/hero mutation, app/site implementation, final identity, or Phase-C convergence.

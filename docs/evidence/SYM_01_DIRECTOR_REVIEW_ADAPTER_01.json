@@ -1,0 +1,29 @@
+{
+  "schema": "kymaean.sym01.director-review-adapter.v1",
+  "status": "ACTIVE_REVIEW_ADAPTER",
+  "date": "2026-09-10",
+  "program": "SYM-01 - Primary Symbol / App-Icon Successor Divergence",
+  "defect": "The constrained in-app HTML viewer rendered the CSS-mask validation harness without its symbol masks, producing blank candidate cells. That viewer failure is not design evidence and does not invalidate hosted Run 34542785459.",
+  "repair": "prototypes/sym-01/director-review.html is a script-free, self-contained Director review adapter. It embeds only canonical Git-blob SVG bytes as base64 data URLs and requires no sibling-file loading or CSS masks.",
+  "embedded_sources": {
+    "C0": {
+      "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+      "sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+      "instances": 21
+    },
+    "F1": {
+      "path": "prototypes/sym-01/assets/f1-split-field.svg",
+      "sha256": "7eb7cbd9f26e4a23eb429beb0d18a8769fead098f70bb9d1b0ceb5a355b2574a",
+      "instances": 21
+    }
+  },
+  "integrity": [
+    "42/42 img sources are data:image/svg+xml;base64",
+    "0 script tags",
+    "0 non-data image sources",
+    "canonical harness and all frozen candidate assets unchanged",
+    "SYM_01_DESIGN_SOL_VIEW_01.json unchanged"
+  ],
+  "authority_limit": "Review transport repair only. It creates no new candidate, ranking, production identity authority, CLR-01 coupling, or Phase-C convergence.",
+  "next_gate": "Director chooses C0 Threshold K or exact frozen F1 Split Field."
+}

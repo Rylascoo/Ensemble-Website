@@ -113,11 +113,14 @@
       "docs/evidence/SYM_01_EXECUTION_INSTRUMENT_ADDENDUM_01.json",
       "docs/evidence/SYM_01_FROZEN_CANDIDATE_MANIFEST_01.json",
       "docs/evidence/SYM_01_BROWSER_PREFLIGHT_01.json",
-      "docs/evidence/SYM_01_DESIGN_SOL_VIEW_01.json"
+      "docs/evidence/SYM_01_DESIGN_SOL_VIEW_01.json",
+      "prototypes/sym-01/director-review.html",
+      "docs/evidence/SYM_01_DIRECTOR_REVIEW_ADAPTER_01.json"
     ],
     "director_review_surface": {
-      "entry_point": "prototypes/sym-01/harness.html",
-      "what_to_review": "C0 Threshold K versus F1 Split Field. F2-F4 are closed failures and shown only for evidence context."
+      "entry_point": "prototypes/sym-01/director-review.html",
+      "validation_surface": "prototypes/sym-01/harness.html",
+      "what_to_review": "C0 Threshold K versus F1 Split Field only. The self-contained adapter embeds exact canonical frozen bytes and avoids constrained-viewer CSS-mask failures."
     }
   },
   "synthesis_state": {

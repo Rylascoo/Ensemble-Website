@@ -1064,3 +1064,17 @@ Frozen subjective falsification closes F2 as stair/Z/process-glyph drift, F3 as 
 **Guardrail:** no redraw/hybrid/F5, rejected-family revival, CLR-01 coupling, final logo, production asset, trademark claim or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-064 - SYM-01 Director review transport repaired without reopening evidence
+
+**State:** DIRECTOR GATE UNCHANGED / REVIEW ADAPTER REPAIRED
+
+The Director-facing constrained HTML viewer rendered the canonical CSS-mask harness with blank symbol cells. That display failure is transport-only and is not design evidence; hosted Run `34542785459` remains the valid mechanical result and every frozen C0/CNEG/F1-F4 asset remains unchanged.
+
+`prototypes/sym-01/director-review.html` is now the Director review entry point. It is script-free and self-contained, embedding 21 canonical-Git instances each of exact C0 `72cdd4c3...6305` and exact F1 `7eb7cbd9...574a`; it contains no external image source. `docs/evidence/SYM_01_DIRECTOR_REVIEW_ADAPTER_01.json` records the integrity proof. The original `prototypes/sym-01/harness.html` remains the validation/evidence surface.
+
+**Next gate:** unchanged - Director chooses C0 Threshold K or exact frozen F1 Split Field.
+
+**Guardrail:** no ranking change, candidate redraw/hybrid/F5, rejected-family revival, CLR-01 coupling, final logo, production asset, trademark claim or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC IN-LANE CONTINUITY REPAIR.**
