@@ -1,0 +1,65 @@
+name: Temporary MAT-01 browser preflight
+
+on:
+  push:
+    branches:
+      - design/mat01-material-shape-divergence-2026-09-10
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - name: Static frozen-contract checks
+        run: python tools/verify_mat01.py
+      - name: Hosted Chrome matrix checks
+        shell: bash
+        run: |
+          set -euo pipefail
+          BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
+          test -n "$BROWSER"
+          export BROWSER
+          BROWSER_VERSION="$($BROWSER --version)"
+          OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
+          mkdir -p /tmp/mat01-artifact/diagnostics /tmp/mat01-artifact/screenshots
+          python -m http.server 8765 --bind 127.0.0.1 >/tmp/mat01-http.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
+          for _ in $(seq 1 50); do
+            if curl -fsS http://127.0.0.1:8765/prototypes/mat-01/harness.html >/dev/null; then break; fi
+            sleep 0.1
+          done
+          curl -fsS http://127.0.0.1:8765/prototypes/mat-01/harness.html >/dev/null
+          run_cdp() {
+            local mode="$1" width="$2" stem="$3"
+            node --experimental-websocket tools/mat01_browser_probe.mjs "$mode" "$width" "/tmp/mat01-artifact/diagnostics/$stem.json" "/tmp/mat01-$stem" "/tmp/mat01-artifact/screenshots/$stem.png"
+          }
+          run_cdp normal 1200 normal-wide
+          run_cdp forced 1200 forced-wide
+          run_cdp normal 320 normal-320
+          run_cdp forced 320 forced-320
+          python tools/verify_mat01_browser.py \
+            --normal-wide /tmp/mat01-artifact/diagnostics/normal-wide.json \
+            --forced-wide /tmp/mat01-artifact/diagnostics/forced-wide.json \
+            --normal-320 /tmp/mat01-artifact/diagnostics/normal-320.json \
+            --forced-320 /tmp/mat01-artifact/diagnostics/forced-320.json \
+            --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
+            --output /tmp/mat01-artifact/MAT_01_BROWSER_PREFLIGHT_01.json
+          cp prototypes/mat-01/harness.html /tmp/mat01-artifact/harness.html
+          cp docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_01.json /tmp/mat01-artifact/manifest.json
+          cp docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json /tmp/mat01-artifact/method.json
+          cp docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/mat01-artifact/addendum-01.json
+          cp docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json /tmp/mat01-artifact/addendum-02.json
+          printf '%s\n' "$BROWSER_VERSION" > /tmp/mat01-artifact/browser-version.txt
+          printf '%s\n' "$OS_PRETTY" > /tmp/mat01-artifact/os-pretty.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: mat01-preflight
+          path: /tmp/mat01-artifact
+          if-no-files-found: error
+          retention-days: 7

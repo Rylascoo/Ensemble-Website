@@ -1,0 +1,84 @@
+{
+  "schema": "kymaean.mat01.frozen-candidate-manifest.v1",
+  "status": "FROZEN_BEFORE_BROWSER_EXPOSURE",
+  "date": "2026-09-10",
+  "program": "MAT-01 — Cross-Surface Material / Shape Grammar Successor Divergence",
+  "authority_checkpoint": "d37738c417d49c29cf79f3fc8bd2c41ad5034487",
+  "governing_records": {
+    "method": {
+      "path": "docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json",
+      "git_blob_sha": "3286a155ace72f7c2a114c5643cfccbb8f7362e7"
+    },
+    "addendum_01": {
+      "path": "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+      "git_blob_sha": "542e2c7102cb59927bbd8f1b973e091300405efa"
+    },
+    "addendum_02": {
+      "path": "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json",
+      "git_blob_sha": "2470e5fde0394d6e3927dff851a203abbcda8267"
+    }
+  },
+  "candidate_order": [
+    "CNEG",
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "eligibility": {
+    "CNEG": "INELIGIBLE_GENERICITY_CONTROL",
+    "F1": "ELIGIBLE",
+    "F2": "ELIGIBLE",
+    "F3": "ELIGIBLE",
+    "F4": "ELIGIBLE"
+  },
+  "files": {
+    "harness": {
+      "path": "prototypes/mat-01/harness.html",
+      "sha256": "7ee3be6b9635a3a06cb5e62836c846cc076924cc2fca3c19160b63e34c69f1c6"
+    },
+    "static_verifier": {
+      "path": "tools/verify_mat01.py",
+      "sha256": "bb893d8b83c7a8e09588014724e67d6be34b8e6fc8f1a3c4052053b3fedd4f50"
+    },
+    "browser_probe": {
+      "path": "tools/mat01_browser_probe.mjs",
+      "sha256": "d2aa2a80ad8053438f338849ed36fae91e8e8cf437e1e6bc28e6ef8798d0df5a"
+    },
+    "browser_verifier": {
+      "path": "tools/verify_mat01_browser.py",
+      "sha256": "4b4340e37773876fccc186f5c40fee14da50c843ce513582e94a2877b420179a"
+    },
+    "addendum_02": {
+      "path": "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json",
+      "sha256": "0e1f6c24f0bcfec0f785eced204127005563e2c7737f05df2f03b2a188b86afb"
+    }
+  },
+  "matrix": {
+    "contexts": [
+      "APP",
+      "WEB"
+    ],
+    "viewports": [
+      1200,
+      320
+    ],
+    "modes": [
+      "normal",
+      "forced-colors"
+    ],
+    "compact_app_structural_probes_px": [
+      16,
+      20,
+      24,
+      32
+    ]
+  },
+  "freeze_law": [
+    "Candidate/control topology, geometry, tonal assignments, content packet, compact probe construction and candidate count are frozen before hosted browser exposure.",
+    "Only mechanical repairs restoring the exact frozen contract are permitted after this checkpoint.",
+    "No evidence-aware retune, replacement F5, color rescue, symbol/wordmark coupling, hero reopening or product-semantic coupling is permitted.",
+    "Zero eligible survivors is a valid result."
+  ],
+  "authority_limits": "No final material system, palette, production token, component skin, app/site implementation, final identity, or Phase-C convergence."
+}

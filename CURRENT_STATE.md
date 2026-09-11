@@ -19,5 +19,8 @@ SYM-01 selected exact C0 Threshold K as provisional incumbent. SYM-02 later clos
 ## MAT-01 active
 `SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_06.json` selects **MAT-01 — Cross-Surface Material / Shape Grammar Successor Divergence**. `docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json`, `MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json`, and `MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json` are frozen pre-materialization. Addendum 02 closes only previously unspecified F2/F3 placement, neutral content-flow, control-layer, F4 crease-realization, and compact-probe details before any specimen bytes exist. Mineral Theater is reference/incumbent only; candidates are independently constructed in grayscale.
 
+## MAT-01 frozen specimen packet
+`docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_01.json` binds the first exact CNEG/F1-F4 harness, compact APP probes, static verifier, hosted-browser probe and browser verifier before browser exposure. Candidate/control geometry, tones, content and count are immutable for this run except mechanical repair back to the frozen contract.
+
 ## Exact next action / hard boundary
-Materialize the frozen MAT-01 method + both execution-default addenda as the APP/WEB × WIDE/320 grayscale matrix and pass structural/accessibility preflight before subjective review. No automatic SYM-03; CLR-01 remains parked. No production palette/material token, Threshold-K/O3 redesign, hero reopening, app/site implementation, final identity, or Phase-C convergence.
+Run the frozen MAT-01 packet through hosted Chrome at 1200/320 in normal and forced-colors modes and preserve diagnostics/screenshots. Only complete mechanical PASS may enter subjective falsification. No automatic SYM-03; CLR-01 remains parked. No production palette/material token, Threshold-K/O3 redesign, hero reopening, app/site implementation, final identity, or Phase-C convergence.

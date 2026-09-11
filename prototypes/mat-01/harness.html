@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MAT-01 Frozen Grayscale Matrix</title>
+<style>
+:root{
+  --page:#f7f7f4;
+  --ink:#1b1b19;
+  --secondary:#62625d;
+  --level-1:#ecece7;
+  --level-2:#ddddd6;
+  --level-3:#c9c9c1;
+  --line:#8a8a82;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--page);color:var(--ink);font-family:system-ui,"Segoe UI",sans-serif}
+body{padding:28px}
+main{max-width:1144px;margin:0 auto}
+.page-head{margin:0 0 24px}
+.page-head h1{font-size:20px;line-height:1.2;margin:0 0 8px}
+.page-head p{margin:0;color:var(--secondary);font-size:13px;line-height:1.45}
+.family{margin:0 0 18px}
+.family>header{display:flex;gap:10px;align-items:baseline;margin:0 0 10px;color:var(--secondary);font-size:12px}
+.family>header strong{color:var(--ink);letter-spacing:.08em}
+.compact-band{display:flex;align-items:center;gap:12px;min-height:36px;margin:0 0 10px}
+.probe{width:var(--probe);height:var(--probe);overflow:hidden;position:relative;flex:none}
+.probe-canonical{position:absolute!important;left:0;top:0;width:210px!important;height:210px!important;min-height:210px!important;max-width:none!important;padding:0!important;transform:scale(var(--scale));transform-origin:0 0;overflow:hidden}
+.context-grid{display:grid;grid-template-columns:minmax(0,420px) minmax(0,680px);gap:12px;align-items:start}
+.cell{min-width:0}
+.context-label{font-size:11px;line-height:1;margin:0 0 6px;color:var(--secondary);letter-spacing:.08em}
+.surface{position:relative;width:100%;overflow:hidden;color:var(--ink);isolation:isolate}
+.surface.app{min-height:210px;max-width:420px;padding:18px}
+.surface.web{min-height:250px;max-width:680px;padding:24px}
+.geometry{position:absolute;inset:0;z-index:1;pointer-events:none}
+.content{position:relative;z-index:2}
+.content .eyebrow{margin:0 0 8px;font-size:11px;font-weight:650;letter-spacing:.1em;color:var(--ink)}
+.content h3{margin:0 0 10px;font-size:22px;line-height:1.15;color:var(--ink)}
+.content .body{margin:0 0 18px;max-width:38rem;font-size:14px;line-height:1.5;color:var(--ink)}
+.units{display:flex;flex-wrap:wrap;column-gap:18px;row-gap:12px;font-size:13px;line-height:1.3;color:var(--ink)}
+.units span{display:inline;min-width:0;background:none;border:0;border-radius:0;box-shadow:none;color:var(--ink)}
+
+/* CNEG — Conventional Card Stack */
+.cneg{background:var(--level-1)}
+.cneg-geometry{inset:18px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.web .cneg-geometry{inset:24px}
+.cneg-geometry i{display:block;background:var(--page);border:1px solid var(--line);border-radius:14px}
+
+/* F1 — Subtractive Channel */
+.f1{background:var(--level-1)}
+.f1-geometry .top-channel{position:absolute;left:9%;top:0;width:30%;height:18px;background:var(--page);border-radius:0}
+.web .f1-geometry .top-channel{height:28px}
+.f1-geometry .right-channel{position:absolute;right:0;top:57%;width:24px;height:23%;background:var(--page);border-radius:0}
+.web .f1-geometry .right-channel{width:36px}
+
+/* F2 — Compression Relief */
+.f2{background:var(--level-1)}
+.f2-geometry .pressed-zone{position:absolute;left:23%;top:26%;width:54%;height:48%;background:var(--level-2);border:2px solid var(--level-3);border-radius:12px;box-shadow:none}
+.web .f2-geometry .pressed-zone{border-radius:18px}
+.f2-geometry .edge-witness{position:absolute;right:0;bottom:0;width:23%;height:2px;background:var(--level-3)}
+
+/* F3 — Dry Joint Assemblage */
+.f3{background:var(--page)}
+.f3-geometry{display:grid;grid-template-columns:49fr 29fr 18fr;grid-template-rows:100%;gap:6px;align-items:start}
+.web .f3-geometry{gap:10px}
+.f3-geometry .mass{position:relative;display:block;border-radius:2px}
+.f3-geometry .mass-1{top:18%;height:62%;background:var(--level-1)}
+.f3-geometry .mass-2{top:6%;height:78%;background:var(--level-2)}
+.f3-geometry .mass-3{top:24%;height:54%;background:var(--level-1)}
+
+/* F4 — Folded Continuum */
+.f4{background:var(--level-1);border-radius:0}
+.f4-geometry .fold-overlay{position:absolute;inset:0;background:var(--level-2);clip-path:polygon(56% 0,100% 0,100% 100%,48% 100%)}
+.f4-geometry .crease{position:absolute;inset:0;background:var(--level-3);clip-path:polygon(calc(56% - 1px) 0,calc(56% + 1px) 0,calc(48% + 1px) 100%,calc(48% - 1px) 100%)}
+
+@media (max-width:520px){
+  body{padding:12px}
+  main{max-width:none}
+  .context-grid{grid-template-columns:1fr}
+  .surface{max-width:100%!important}
+}
+@media (forced-colors:active){
+  html,body{background:Canvas;color:CanvasText}
+  .page-head p,.family>header,.context-label{color:CanvasText}
+  .surface,.geometry,.geometry i,.units span{forced-color-adjust:auto}
+}
+</style>
+</head>
+<body>
+<main>
+  <header class="page-head">
+    <h1>MAT-01 frozen grayscale matrix</h1>
+    <p>Neutral research fixture. Grayscale values and typography carry no brand or production authority.</p>
+  </header>
+  <section class="family" data-family="CNEG">
+  <header><strong>CNEG</strong><span>Conventional Card Stack</span></header>
+  <div class="compact-band" aria-label="CNEG compact structural probes"><div class="probe" data-size="16" style="--probe:16px;--scale:0.076190476190" aria-hidden="true"><div class="probe-canonical surface cneg app"><div class="geometry cneg-geometry" aria-hidden="true"><i></i><i></i><i></i></div></div></div><div class="probe" data-size="20" style="--probe:20px;--scale:0.095238095238" aria-hidden="true"><div class="probe-canonical surface cneg app"><div class="geometry cneg-geometry" aria-hidden="true"><i></i><i></i><i></i></div></div></div><div class="probe" data-size="24" style="--probe:24px;--scale:0.114285714286" aria-hidden="true"><div class="probe-canonical surface cneg app"><div class="geometry cneg-geometry" aria-hidden="true"><i></i><i></i><i></i></div></div></div><div class="probe" data-size="32" style="--probe:32px;--scale:0.152380952381" aria-hidden="true"><div class="probe-canonical surface cneg app"><div class="geometry cneg-geometry" aria-hidden="true"><i></i><i></i><i></i></div></div></div></div>
+  <div class="context-grid">
+    <article class="cell" data-context="APP">
+      <div class="context-label">APP</div>
+      <div class="surface cneg app"><div class="geometry cneg-geometry" aria-hidden="true"><i></i><i></i><i></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+    <article class="cell" data-context="WEB">
+      <div class="context-label">WEB</div>
+      <div class="surface cneg web"><div class="geometry cneg-geometry" aria-hidden="true"><i></i><i></i><i></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+  </div>
+</section><section class="family" data-family="F1">
+  <header><strong>F1</strong><span>Subtractive Channel</span></header>
+  <div class="compact-band" aria-label="F1 compact structural probes"><div class="probe" data-size="16" style="--probe:16px;--scale:0.076190476190" aria-hidden="true"><div class="probe-canonical surface f1 app"><div class="geometry f1-geometry" aria-hidden="true"><i class="top-channel"></i><i class="right-channel"></i></div></div></div><div class="probe" data-size="20" style="--probe:20px;--scale:0.095238095238" aria-hidden="true"><div class="probe-canonical surface f1 app"><div class="geometry f1-geometry" aria-hidden="true"><i class="top-channel"></i><i class="right-channel"></i></div></div></div><div class="probe" data-size="24" style="--probe:24px;--scale:0.114285714286" aria-hidden="true"><div class="probe-canonical surface f1 app"><div class="geometry f1-geometry" aria-hidden="true"><i class="top-channel"></i><i class="right-channel"></i></div></div></div><div class="probe" data-size="32" style="--probe:32px;--scale:0.152380952381" aria-hidden="true"><div class="probe-canonical surface f1 app"><div class="geometry f1-geometry" aria-hidden="true"><i class="top-channel"></i><i class="right-channel"></i></div></div></div></div>
+  <div class="context-grid">
+    <article class="cell" data-context="APP">
+      <div class="context-label">APP</div>
+      <div class="surface f1 app"><div class="geometry f1-geometry" aria-hidden="true"><i class="top-channel"></i><i class="right-channel"></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+    <article class="cell" data-context="WEB">
+      <div class="context-label">WEB</div>
+      <div class="surface f1 web"><div class="geometry f1-geometry" aria-hidden="true"><i class="top-channel"></i><i class="right-channel"></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+  </div>
+</section><section class="family" data-family="F2">
+  <header><strong>F2</strong><span>Compression Relief</span></header>
+  <div class="compact-band" aria-label="F2 compact structural probes"><div class="probe" data-size="16" style="--probe:16px;--scale:0.076190476190" aria-hidden="true"><div class="probe-canonical surface f2 app"><div class="geometry f2-geometry" aria-hidden="true"><i class="pressed-zone"></i><i class="edge-witness"></i></div></div></div><div class="probe" data-size="20" style="--probe:20px;--scale:0.095238095238" aria-hidden="true"><div class="probe-canonical surface f2 app"><div class="geometry f2-geometry" aria-hidden="true"><i class="pressed-zone"></i><i class="edge-witness"></i></div></div></div><div class="probe" data-size="24" style="--probe:24px;--scale:0.114285714286" aria-hidden="true"><div class="probe-canonical surface f2 app"><div class="geometry f2-geometry" aria-hidden="true"><i class="pressed-zone"></i><i class="edge-witness"></i></div></div></div><div class="probe" data-size="32" style="--probe:32px;--scale:0.152380952381" aria-hidden="true"><div class="probe-canonical surface f2 app"><div class="geometry f2-geometry" aria-hidden="true"><i class="pressed-zone"></i><i class="edge-witness"></i></div></div></div></div>
+  <div class="context-grid">
+    <article class="cell" data-context="APP">
+      <div class="context-label">APP</div>
+      <div class="surface f2 app"><div class="geometry f2-geometry" aria-hidden="true"><i class="pressed-zone"></i><i class="edge-witness"></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+    <article class="cell" data-context="WEB">
+      <div class="context-label">WEB</div>
+      <div class="surface f2 web"><div class="geometry f2-geometry" aria-hidden="true"><i class="pressed-zone"></i><i class="edge-witness"></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+  </div>
+</section><section class="family" data-family="F3">
+  <header><strong>F3</strong><span>Dry Joint Assemblage</span></header>
+  <div class="compact-band" aria-label="F3 compact structural probes"><div class="probe" data-size="16" style="--probe:16px;--scale:0.076190476190" aria-hidden="true"><div class="probe-canonical surface f3 app"><div class="geometry f3-geometry" aria-hidden="true"><i class="mass mass-1"></i><i class="mass mass-2"></i><i class="mass mass-3"></i></div></div></div><div class="probe" data-size="20" style="--probe:20px;--scale:0.095238095238" aria-hidden="true"><div class="probe-canonical surface f3 app"><div class="geometry f3-geometry" aria-hidden="true"><i class="mass mass-1"></i><i class="mass mass-2"></i><i class="mass mass-3"></i></div></div></div><div class="probe" data-size="24" style="--probe:24px;--scale:0.114285714286" aria-hidden="true"><div class="probe-canonical surface f3 app"><div class="geometry f3-geometry" aria-hidden="true"><i class="mass mass-1"></i><i class="mass mass-2"></i><i class="mass mass-3"></i></div></div></div><div class="probe" data-size="32" style="--probe:32px;--scale:0.152380952381" aria-hidden="true"><div class="probe-canonical surface f3 app"><div class="geometry f3-geometry" aria-hidden="true"><i class="mass mass-1"></i><i class="mass mass-2"></i><i class="mass mass-3"></i></div></div></div></div>
+  <div class="context-grid">
+    <article class="cell" data-context="APP">
+      <div class="context-label">APP</div>
+      <div class="surface f3 app"><div class="geometry f3-geometry" aria-hidden="true"><i class="mass mass-1"></i><i class="mass mass-2"></i><i class="mass mass-3"></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+    <article class="cell" data-context="WEB">
+      <div class="context-label">WEB</div>
+      <div class="surface f3 web"><div class="geometry f3-geometry" aria-hidden="true"><i class="mass mass-1"></i><i class="mass mass-2"></i><i class="mass mass-3"></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+  </div>
+</section><section class="family" data-family="F4">
+  <header><strong>F4</strong><span>Folded Continuum</span></header>
+  <div class="compact-band" aria-label="F4 compact structural probes"><div class="probe" data-size="16" style="--probe:16px;--scale:0.076190476190" aria-hidden="true"><div class="probe-canonical surface f4 app"><div class="geometry f4-geometry" aria-hidden="true"><i class="fold-overlay"></i><i class="crease"></i></div></div></div><div class="probe" data-size="20" style="--probe:20px;--scale:0.095238095238" aria-hidden="true"><div class="probe-canonical surface f4 app"><div class="geometry f4-geometry" aria-hidden="true"><i class="fold-overlay"></i><i class="crease"></i></div></div></div><div class="probe" data-size="24" style="--probe:24px;--scale:0.114285714286" aria-hidden="true"><div class="probe-canonical surface f4 app"><div class="geometry f4-geometry" aria-hidden="true"><i class="fold-overlay"></i><i class="crease"></i></div></div></div><div class="probe" data-size="32" style="--probe:32px;--scale:0.152380952381" aria-hidden="true"><div class="probe-canonical surface f4 app"><div class="geometry f4-geometry" aria-hidden="true"><i class="fold-overlay"></i><i class="crease"></i></div></div></div></div>
+  <div class="context-grid">
+    <article class="cell" data-context="APP">
+      <div class="context-label">APP</div>
+      <div class="surface f4 app"><div class="geometry f4-geometry" aria-hidden="true"><i class="fold-overlay"></i><i class="crease"></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+    <article class="cell" data-context="WEB">
+      <div class="context-label">WEB</div>
+      <div class="surface f4 web"><div class="geometry f4-geometry" aria-hidden="true"><i class="fold-overlay"></i><i class="crease"></i></div><div class="content">
+  <p class="eyebrow">NEUTRAL FIELD</p>
+  <h3>Primary content</h3>
+  <p class="body">Supporting text remains unchanged across every material grammar.</p>
+  <div class="units" aria-label="Neutral content units"><span>Content A</span><span>Content B</span><span>Content C</span></div>
+</div></div>
+    </article>
+  </div>
+</section>
+</main>
+<script>
+(()=>{
+  const q=(s,r=document)=>[...r.querySelectorAll(s)];
+  const rect=e=>{const r=e.getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height,right:r.right,bottom:r.bottom}};
+  const textPacket=e=>({
+    eyebrow:e.querySelector('.eyebrow')?.textContent.trim(),
+    heading:e.querySelector('h3')?.textContent.trim(),
+    body:e.querySelector('.body')?.textContent.trim(),
+    units:q('.units span',e).map(x=>x.textContent.trim())
+  });
+  const families={};
+  for(const f of q('.family')){
+    const id=f.dataset.family;
+    const surfaces=q('.cell',f).map(c=>{
+      const s=c.querySelector('.surface');
+      const content=s.querySelector('.content');
+      return {
+        context:c.dataset.context,
+        cellRect:rect(c),
+        surfaceRect:rect(s),
+        contentRect:rect(content),
+        surfaceBackground:getComputedStyle(s).backgroundColor,
+        surfaceColor:getComputedStyle(s).color,
+        overflow:getComputedStyle(s).overflow,
+        text:textPacket(s),
+        geometryCount:q('.geometry',s).length,
+        geometryRects:q('.geometry i',s).map(rect)
+      };
+    });
+    const probes=q('.probe',f).map(p=>({
+      size:Number(p.dataset.size),
+      wrapperRect:rect(p),
+      canonicalRect:rect(p.querySelector('.probe-canonical')),
+      geometryRects:q('.geometry i',p).map(rect)
+    }));
+    families[id]={surfaces,probes};
+  }
+  window.__MAT01_DIAGNOSTIC__={
+    viewport:{width:innerWidth,height:innerHeight,scrollWidth:document.documentElement.scrollWidth,scrollHeight:document.documentElement.scrollHeight},
+    forcedColors:matchMedia('(forced-colors: active)').matches,
+    familyOrder:q('.family').map(x=>x.dataset.family),
+    families,
+    prohibitedElements:q('img,svg,canvas,video,picture,object,embed,iframe').length,
+    externalStyleLinks:q('link[rel="stylesheet"]').length
+  };
+})();
+</script>
+</body>
+</html>
