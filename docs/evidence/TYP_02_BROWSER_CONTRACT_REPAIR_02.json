@@ -1,0 +1,16 @@
+{
+  "schema": "kymaean.typ02.browser-contract-repair.v1",
+  "status": "RUN_02_INVALID_FROZEN_RESPONSIVE_RULE_OMISSION_NO_DESIGN_RESULT",
+  "date": "2026-09-11",
+  "run_id": 34570224341,
+  "head_sha": "9ab20f92d624883b72dbe7bf3a2a813fe9655659",
+  "artifact": {
+    "id": 10187492734,
+    "digest": "sha256:edec95f0f53bdf7e830159b9214b7931183245ed8665cefb8cf023c957f0eeac",
+    "size_bytes": 2329499
+  },
+  "finding": "After the shell repair, 320px/200% diagnostics expose heading token overflow in CNEG and scored F1/F3/F4. The frozen execution defaults already require overflow-wrap: break-word, word-break: normal, and hyphens: none; the materialized harness omitted those declarations.",
+  "repair": "Restore the already-frozen wrapping declarations to all typography roles and state labels. No family size/weight/measure/rhythm, narrow heading value, content, C0/MAT/STA geometry, accessibility floor or scoring law changes.",
+  "candidate_result": null,
+  "subjective_evidence_consumed": false
+}

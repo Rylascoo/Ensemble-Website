@@ -1439,3 +1439,17 @@ Hosted Run `34569839250` at Manifest 01 completed all eight captures, but the br
 **Guardrail:** no family rescue, post-exposure retune, TYP-01 reroll, final typeface, O3 redesign, CLR-01 reentry, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC FIXTURE/CARRIER REPAIR.**
+
+## L-090 - TYP-02 Run 02 invalidated by omitted frozen wrap rule; Manifest 03 restores contract
+
+**State:** RUN 02 INVALID / NO DESIGN RESULT / MANIFEST 03 FROZEN / CANONICAL PREFLIGHT NEXT
+
+Hosted Run `34570224341` at Manifest 02 completed all eight captures but failed `normal-resize200-320`. After the shared shell repair, diagnostics reported heading overflow in CNEG and scored F1/F3/F4. This is not candidate evidence: the constructed harness had omitted three responsive rules already frozen before specimen materialization in `TYP_02_EXECUTION_DEFAULTS_01.json`: `overflow-wrap: break-word`, `word-break: normal`, and `hyphens: none`. At 200% resize the omitted wrap behavior was sufficient to make long words exceed their text box despite unchanged candidate values.
+
+`TYP_02_BROWSER_CONTRACT_REPAIR_02.json` classifies Run 02 as implementation-invalid/no-design-result. `TYP_02_FROZEN_SOURCE_MANIFEST_03.json` restores only those shared frozen responsive rules. Candidate role vectors, narrow heading values, content, exact C0/MAT/STA geometry, accessibility floors, candidate count and scoring law remain unchanged. Manifest-03 harness SHA-256 is `f129d84f5ce5d5a533f8e935b906b1e3f9b68b2d7bed2074d2cbd09c115a4ab4`; exact C0 remains `72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305`.
+
+**Next gate:** one fresh canonical hosted eight-mode preflight from Manifest 03. No normal-mode screenshot may be used for subjective TYP-02 scoring until complete mechanical PASS.
+
+**Guardrail:** restoration of a pre-frozen shared responsive rule is not family rescue or retuning and creates no survivor, final typeface, O3 redesign, CLR-01 reentry, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC CONTRACT RESTORATION.**

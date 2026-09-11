@@ -1,0 +1,68 @@
+{
+  "schema": "kymaean.typ02.frozen-source-manifest.v3",
+  "status": "FROZEN_CONTRACT_REPAIRED_SOURCE_BYTES_PRE_CANONICAL_BROWSER",
+  "date": "2026-09-11",
+  "program_id": "TYP-02",
+  "candidate_ids": [
+    "CNEG",
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "scored_candidate_ids": [
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "contexts": [
+    "APP",
+    "WEB"
+  ],
+  "browser_modes": [
+    "normal-baseline-wide",
+    "normal-baseline-320",
+    "normal-resize200-wide",
+    "normal-resize200-320",
+    "normal-spacing-wide",
+    "normal-spacing-320",
+    "forced-baseline-wide",
+    "forced-baseline-320"
+  ],
+  "harness_sha256": "f129d84f5ce5d5a533f8e935b906b1e3f9b68b2d7bed2074d2cbd09c115a4ab4",
+  "c0_canonical_lf_sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+  "lf_sha256": {
+    "prototypes/typ-02/harness.html": "f129d84f5ce5d5a533f8e935b906b1e3f9b68b2d7bed2074d2cbd09c115a4ab4",
+    "tools/verify_typ02_contract.py": "c1a194e337272c7a89b0ebe673b418599b5f5dc406d264a0df311a4bac2d1c26",
+    "tools/typ02_browser_probe.mjs": "0c7d0cef89fa376f39e9dffc0b4a888f75db3497575d21bc4eafdc532c478438",
+    "tools/verify_typ02_browser.py": "93134cdd211fba2dce5e44118f372f3ee6cf7e6e0854d4b30103993e993853a5",
+    ".github/workflows/tmp-typ02-browser-preflight.yml": "55c7fbdc1c46d827ecc1c9b207f0702463a19b49c79a9777ae82c3ca5575f943",
+    "docs/evidence/TYP_02_BROWSER_FIXTURE_REPAIR_01.json": "82526bc07fa30b4fe055615094fe8c232e4c936f1dae11967755c4dbbd27e36c",
+    "docs/evidence/TYP_02_BROWSER_CONTRACT_REPAIR_02.json": "11570a005695a4d9593348d46fecc1e02d39568f7c7bb2bac8fe8b4cdceb74a8",
+    "docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_01.json": "dfd017cdb4cd5e6696067423e28b813d755ae48c0edbcf77a3ac634c7b0d33d4",
+    "docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_02.json": "6f21ff1c429d600b6151c8198a6c30739fe03cf34cc89ef93976f94451ddb2b4",
+    "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_08.json": "46b24da104450b1bfbd9d9fce6144e15da37dc83fd8b77a5c8a099eb313edf86",
+    "docs/evidence/TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHIC_ROLE_GRAMMAR_METHOD_AND_MATRIX_01.json": "42c2f73cd558a96933f92b421f740ec4ef3b280f09919bb614141b74815e5f26",
+    "docs/evidence/TYP_02_EXECUTION_DEFAULTS_01.json": "df1bbf75319f2894260612a11afaa1ebc3e256d695977cd6cf13245ac25bdbdc",
+    "docs/evidence/TYP_02_EXECUTION_DEFAULTS_ADDENDUM_01.json": "e6c731165a55c71d5d20f73a389672061e5d8d2d4c4c06d4d2119db55220478c",
+    "assets/brand/kymaean-threshold-k-working-candidate.svg": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json": "2c757d0764f54dac9c6c6845234a3059d370be69de67782252d48942ce18cc3f",
+    "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json": "f0a1d132c06ed9b9d474e827774a3490496d5de37a1d801bfa2fac69a63945fb",
+    "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json": "46e385eb7be8407b26376000292d6ade26654e1419a0c289316eb5a9a18868d8",
+    "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json": "c1db4a8df84d0038a91722ab2503800ca9a72edfb1301fd6e6f1e78fadeb1ad5"
+  },
+  "exposure_state": "RUNS_01_02_INVALID_NO_DESIGN_RESULT; CONTRACT_REPAIRED_BYTES_REQUIRE_NEW_CANONICAL_RUN",
+  "non_authority": [
+    "No candidate preference or survivor.",
+    "No final typeface, O3 change, CLR-01 reentry, production typography token, implementation, final identity or Phase-C convergence."
+  ],
+  "predecessor_manifest": "docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_02.json",
+  "invalid_run_id": 34569839250,
+  "repair_evidence": "docs/evidence/TYP_02_BROWSER_FIXTURE_REPAIR_01.json",
+  "invalid_run_ids": [
+    34569839250,
+    34570224341
+  ],
+  "contract_repair_evidence": "docs/evidence/TYP_02_BROWSER_CONTRACT_REPAIR_02.json"
+}
