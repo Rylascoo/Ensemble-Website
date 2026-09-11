@@ -1337,3 +1337,17 @@ The first source-freeze push at `4db0bd7cfc3be43f135896eb4adb6b74d93d19d7` trigg
 **Guardrail:** this repair creates no packet preference, production authority, CLR-01 reentry, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC TOOLING/HYGIENE REPAIR.**
+
+## L-083 - CMP-01 hidden-descendant measurement defect is repaired in Manifest 03
+
+**State:** MANIFEST 02 RUN INVALID / NO DESIGN RESULT / MANIFEST 03 FROZEN / CANONICAL PREFLIGHT NEXT
+
+Run 1 tooling diagnostics exposed a second verifier defect before any subjective result was consumed: `NO_MAT` correctly hides the parent `.mat-geometry`, so its descendants occupy zero rendered geometry even though `getComputedStyle(child).display` may still report the authored `block` value. The Manifest 02 verifier incorrectly treated that descendant display value as evidence that MAT remained visible.
+
+`CMP_01_FROZEN_SOURCE_MANIFEST_03.json` changes only that measurement: `NO_MAT` now requires both channel descendants to have zero rendered width/height, while non-ablated variants require positive rendered geometry. The harness remains exact SHA-256 `1972b7308a827c0fa8b7b9418de61b14edd3125c32c8c167e945f3708349dba0`. All eight preserved Run 1 diagnostic captures pass the corrected verifier logic, but remain tooling evidence only because Run 1 was already invalidated; Run `34566015344` is likewise classified no-design-result.
+
+**Next gate:** new canonical hosted eight-mode preflight from Manifest 03, then subjective CMP-01 review only after complete PASS.
+
+**Guardrail:** no packet geometry/value/content retune, CLR-01 reentry, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC MEASUREMENT REPAIR.**

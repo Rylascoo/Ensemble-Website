@@ -33,8 +33,8 @@ def check_file(path,label,width,forced,reduced):
   if s['selected']['aria']!='true': fail(f'{label}/{sid}: selected aria')
   v=s['variant']; channels=s['channels']; c0=s['c0']['visibility']; wit=s['selected']['witness']['display']
   if v=='NO_MAT':
-   if any(x['display']!='none' for x in channels): fail(f'{label}/{sid}: MAT ablation')
-  elif any(x['display']=='none' for x in channels): fail(f'{label}/{sid}: MAT unexpectedly absent')
+   if any(not close(x['rect']['width'],0,.1) or not close(x['rect']['height'],0,.1) for x in channels): fail(f'{label}/{sid}: MAT ablation')
+  elif any(x['rect']['width']<=0 or x['rect']['height']<=0 for x in channels): fail(f'{label}/{sid}: MAT unexpectedly absent')
   if (v=='NO_SYM')!=(c0=='hidden'): fail(f'{label}/{sid}: symbol ablation')
   if v=='NO_STA':
    if wit!='none': fail(f'{label}/{sid}: STA witness remains')

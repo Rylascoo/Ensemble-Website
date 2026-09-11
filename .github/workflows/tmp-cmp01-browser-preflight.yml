@@ -10,7 +10,7 @@ on:
       - tools/verify_cmp01.py
       - tools/cmp01_browser_probe.mjs
       - tools/verify_cmp01_browser.py
-      - docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_02.json
+      - docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_03.json
 
 permissions:
   contents: read
@@ -65,7 +65,7 @@ jobs:
             --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
             --output /tmp/cmp01-artifact/CMP_01_BROWSER_PREFLIGHT_01.json
           cp prototypes/cmp-01/harness.html /tmp/cmp01-artifact/harness.html
-          cp docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_02.json /tmp/cmp01-artifact/manifest-02.json
+          cp docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_03.json /tmp/cmp01-artifact/manifest-03.json
           cp docs/evidence/CMP_01_BOUNDED_PACKET_COMPOSITION_METHOD_AND_MATRIX_01.json /tmp/cmp01-artifact/method.json
           cp docs/evidence/CMP_01_EXECUTION_DEFAULTS_01.json /tmp/cmp01-artifact/defaults.json
           printf '%s\n' "$BROWSER_VERSION" > /tmp/cmp01-artifact/browser-version.txt
