@@ -17,9 +17,9 @@ TYP-01 is closed with zero survivors. MOT-01 remains provisional F1A/CS2 researc
 SYM-01 is resolved. Valid hosted Run `34542785459` passed; the pre-Director view recommended C0 over sole challenger F1. The Director selected **C0 Threshold K** as the provisional primary-symbol incumbent. `SYM_01_DIRECTOR_DECISION_01.json` records the decision; frozen F1 remains historical challenger evidence.
 
 ## SYM-02 exact-shape refinement
-Round 01 is active under `SYM_02_THRESHOLD_K_EXACT_VECTOR_REFINEMENT_METHOD_01.json`. Exact selected C0 is immutable control. C1-C3 test Bézier fidelity, tangent discipline and terminal discipline without reopening spacing/mass/topology.
+Round 01 advanced C1 Bézier Fidelity. Round 02 closed with no tension variant displacing C1. Round 03 is frozen pre-review under `SYM_02_ROUND_03_HORIZONTAL_PROPORTION_METHOD_01.json`; C1N/C1W test only ±3% uniform horizontal proportion. Exact selected C0 remains immutable control.
 
 ## Exact next action / hard boundary
-Round 01 advanced C1 Bézier Fidelity. Round 02 is closed with zero variants displacing C1; C1A/C1B/C1C added no sufficient optical gain. Exact C0 remains immutable selected incumbent. No CLR-01 reentry, wordmark/material/motion/state/hero coupling, production asset claim, final identity, or Phase-C convergence.
+Review frozen Round 03 C1N/C1/C1W at display and compact scales. Advance a proportion only if it produces a clear optical gain over C1; zero survivor is valid. Exact C0 remains immutable selected incumbent. No CLR-01 reentry, wordmark/material/motion/state/hero coupling, production asset claim, final identity, or Phase-C convergence.
 
 No final logo/app icon, production vector/Store asset, trademark claim, CLR-01 reentry, O3/TYP/MOT/STA/material/hero mutation, app/site implementation, final identity, or Phase-C convergence.

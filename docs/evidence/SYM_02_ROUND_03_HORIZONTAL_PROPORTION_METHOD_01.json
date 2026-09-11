@@ -1,0 +1,36 @@
+{
+  "schema": "kymaean.sym02.round03-method.v1",
+  "status": "FROZEN_PRE_REVIEW",
+  "date": "2026-09-11",
+  "question": "Does a \u00b13% uniform horizontal proportion change improve Threshold K optical ownership without altering its internal normalized relationships?",
+  "controls": {
+    "C0": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "C1": "5fbbe4468cd72f860d524e311b2ebc2ca68966d9731288d1d68ac4bb7f7b87b2"
+  },
+  "candidates": {
+    "C1N": {
+      "scale_x": 0.97,
+      "sha256": "7d62d813fd751c57ccd6de0af63f692115af9bf3a0243ba5c461f62006c02ee3"
+    },
+    "C1W": {
+      "scale_x": 1.03,
+      "sha256": "5b3a7a18c3afc9ec88a1c7b2978b05b20b9501ea7c382bcee5688f0d2f082a9b"
+    }
+  },
+  "fixed": [
+    "C1 path geometry before transform",
+    "vertical proportion",
+    "three-field topology",
+    "normalized internal spacing/mass hierarchy",
+    "center x=85",
+    "CLR-01 parked"
+  ],
+  "falsify_if": [
+    "compact recognition weakens",
+    "K becomes more literal/conventional",
+    "mark feels squeezed or inflated",
+    "no clear optical benefit versus unscaled C1"
+  ],
+  "experimental_transform_only": "Transforms are evaluation mechanics; if a proportion wins, later production-vector work must bake coordinates explicitly.",
+  "zero_survivor_valid": true
+}
