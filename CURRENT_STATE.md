@@ -24,7 +24,7 @@ Original C0 Threshold K is immutable reference authority. Future symbol work is 
 Derived refinements and new concepts must never reuse the C0 identifier. On comparison surfaces, `C0-ORIGINAL` is the unambiguous review label for the preserved canonical C0 asset; refinements use `C0-R*` and independent concepts use `N*`.
 
 ## SYM-02 active program
-`docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json` is frozen. Exact candidate bytes are frozen by `docs/evidence/SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json`: `C0-ORIGINAL`, C0-R1/R2/R3, and N1/N2/N3. C0-R4 remains post-review reserved and carries no production authority.
+`docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json` is frozen. Exact candidate bytes are frozen by `docs/evidence/SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json`: `C0-ORIGINAL`, C0-R1/R2/R3, and N1/N2/N3. C0-R4 remains post-review reserved and carries no production authority. Hosted attempt `34553692361` exposed review-grid overflow only; `SYM_02_EXECUTION_INSTRUMENT_ADDENDUM_01.json` records the repaired harness with all symbol hashes unchanged.
 
 ## Exact next action / hard boundary
 Run the hosted four-mode SYM-02 browser preflight against the frozen manifest. Only after a clean pass may subjective silhouette/negative-space scoring begin. Preserve original C0 bytes exactly. No post-exposure retune or added N4 in this batch. No CLR-01 reentry, wordmark/material/motion/state/hero coupling, production asset claim, final identity, or Phase-C convergence.

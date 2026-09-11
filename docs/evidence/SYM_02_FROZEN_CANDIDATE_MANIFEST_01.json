@@ -71,7 +71,9 @@
   },
   "harness": {
     "path": "prototypes/sym-02/harness.html",
-    "sha256": "a0bcac4fb01b2ed7a195f83e8f2f92cf28b09d2754c864c3d8aff1b9745a7a04"
+    "sha256": "0feeddd5b27b3185d0235baaf8323cf4608383cc9dbe0aa3ea33737c7f9bb14d",
+    "previous_sha256": "a0bcac4fb01b2ed7a195f83e8f2f92cf28b09d2754c864c3d8aff1b9745a7a04",
+    "repair_basis": "Hosted Run 34553692361: responsive role-grid overflow only; exact frozen C0/C0-R/N asset hashes unchanged."
   },
   "browser_probe": {
     "path": "tools/sym02_browser_probe.mjs",

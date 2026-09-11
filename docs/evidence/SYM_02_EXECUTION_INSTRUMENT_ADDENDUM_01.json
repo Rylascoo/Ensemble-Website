@@ -1,0 +1,27 @@
+{
+  "schema": "kymaean.sym02.execution-instrument-addendum.v1",
+  "status": "REPAIRED_PRE_RERUN",
+  "date": "2026-09-10",
+  "failed_hosted_run_id": 34553692361,
+  "failed_head_sha": "73dd00a8b97dc1a0f1e32903a716c08bee7cf2e7",
+  "classification": "REVIEW_HARNESS_RESPONSIVE_OVERFLOW_ONLY",
+  "failure": "At 1200px, each .roles grid had clientWidth 1107px but fixed child tracks totaling 1120px, so the verifier correctly rejected internal horizontal overflow.",
+  "repair": "Replace fixed 150/280/360/300px role tracks with 150px + flexible minmax tracks whose minimum total fits the available grid width. Candidate SVG bytes, candidate order, size matrix, contexts, modes and scoring law are unchanged.",
+  "previous_harness_sha256": "a0bcac4fb01b2ed7a195f83e8f2f92cf28b09d2754c864c3d8aff1b9745a7a04",
+  "repaired_harness_sha256": "0feeddd5b27b3185d0235baaf8323cf4608383cc9dbe0aa3ea33737c7f9bb14d",
+  "frozen_assets_unchanged": {
+    "C0-ORIGINAL": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "C0-R1": "d67a70c1df7e7bf47c7a143457726dd53d241cc46319c054122ced53bf916dbd",
+    "C0-R2": "7c1ff218415d2887a4c185a172ca5100ed2e9af71eea483510a2ef7d33589a1c",
+    "C0-R3": "964c4331a62fe0c58deda861401d4ced48af7b147030eae5572e5f8ae8715466",
+    "N1": "4ff8672b809a0bda571244f6975cd722cfe0b38cfee39d2fca989713b2c8c0d4",
+    "N2": "eb33956611e2f271b62b7eec14312f46cbf086f6d55820e15ad62f538b6e9b5e",
+    "N3": "c00fb1e02d7ff56befed771057b53b92ba9d62c2c908f5831814d2e0fd8290b1"
+  },
+  "evidence": {
+    "artifact_id": 10181734081,
+    "artifact_digest": "sha256:d8ead5dc891cad5c0d5a96897c1e8226c4a41963302cf587f3a4b1284cacfb26",
+    "artifact_size_bytes": 1189512
+  },
+  "authority_effect": "No design result consumed. No candidate failed or survived. Rerun the same frozen matrix after this transport repair."
+}

@@ -1136,3 +1136,15 @@ The SYM-02 initial batch is now materially constructed and frozen before scored 
 **Guardrail:** no geometry edit after this freeze, no R4/N4 construction, no subjective survivor conclusion before mechanical PASS, and no CLR/O3/TYP/MOT/STA/material/hero/production/final-identity/Phase-C coupling.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-069 - SYM-02 first hosted attempt isolates responsive harness overflow
+
+**State:** EXECUTION INSTRUMENT REPAIRED / CANDIDATE BYTES UNCHANGED / RERUN REQUIRED
+
+Hosted Run `34553692361` loaded the exact frozen SYM-02 batch and completed all four CDP captures, then correctly failed verification because each wide `.roles` fixture used fixed tracks totaling 1120 px inside a 1107 px client grid. This is a review-carrier defect, not symbol evidence; no candidate failure/survival conclusion is consumed from the run.
+
+`docs/evidence/SYM_02_EXECUTION_INSTRUMENT_ADDENDUM_01.json` records the failure, uploaded artifact `10181734081`, previous/repaired harness hashes, and exact unchanged hashes for C0-ORIGINAL plus C0-R1/R2/R3/N1/N2/N3. The responsive fix changes only role-grid track sizing.
+
+**Next gate:** rerun the identical four-mode hosted preflight against the repaired harness and unchanged frozen symbol bytes.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — DETERMINISTIC IN-LANE EXECUTION REPAIR.**
