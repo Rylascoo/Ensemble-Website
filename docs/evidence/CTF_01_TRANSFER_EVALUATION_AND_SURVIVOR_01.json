@@ -1,0 +1,65 @@
+{
+  "schema": "kymaean.ctf01.transfer-evaluation-and-survivor.v1",
+  "status": "R1_TRANSFER_PASS_SECOND_FAMILY_SURVIVOR_DIRECTOR_CONVERGENCE_REVIEW_NEXT",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "primary_evaluation": "docs/evidence/CTF_01_PRIMARY_EVALUATION_01.json",
+  "frozen_input_manifest": "docs/evidence/CTF_01_FROZEN_INPUT_MANIFEST_01.json",
+  "director_taste_input_before_freeze": "NONE",
+  "transfer": {
+    "premise": "R1 Interlaced Continuous Fiber Surface",
+    "primary_topology": "T1 Subtractive Shared Medium",
+    "transfer_topology": "T3 Redistributed Finite Bulk Supply",
+    "renderer_packet": "docs/evidence/renderer/CTF_01_R1_T3_TRANSFER_STERILE_PACKET_01.txt",
+    "renderer_packet_frozen_sha256": "67cad84f709096f69bcdaa8020c2f6c8c369e12554670cae69239e59d7846aef",
+    "sha256": "7aecd932f0071a19d70d5bf62bedcd2eb06abd936d64d19570e7e3d025340d80",
+    "bytes": 4405192,
+    "dimensions": [1672, 941],
+    "drive_id": "1dmmwwIXs8BN1ntbHyVCCMwtovOQQrJ3-",
+    "drive_name": "CTF_01_R1_T3_TRANSFER_01.png",
+    "drive_folder_id": "1ywta8k7Iejh2QWEpP_wNuOBB82VhlC4I",
+    "drive_verification": "UPLOAD_SUCCESS_AND_SIZE_MATCH; post-upload re-download hash not claimed",
+    "result": "PASS_TRANSFER"
+  },
+  "transfer_gates": {
+    "PRIMARY_GATES_REMAIN_SATISFIED": "PASS - the authored fiber world, human primacy, epistemic restraint, whole-surface specificity, quarantine distance and non-hue/text/motion legibility all remain intact under T3.",
+    "TOPOLOGY_CHANGE_PASS": "PASS - the image no longer uses T1's removed shared-medium opening. A depleted central source condition and materially unequal left/right bulk destinations instantiate T3 redistribution.",
+    "GRAMMAR_TRANSFER_PASS": "PASS - long continuous interlaced strands still construct people, ground, architecture, water, distant terrain and atmosphere as one representational fabric while the causal content changes materially.",
+    "ANTI_COPY_PASS": "PASS - the primary's torn opening, suspended/hammock-like occupation, standing-across-opening relation, pose topology and enclosing architecture do not recur. Transfer instead uses two supply-handling participants, unequal destination containers/piles and a depleted central source.",
+    "HUMAN_AND_RELATIONAL_TRANSFER": "PASS - exactly two differentiated people have direct but materially unequal present relations to the redistributed finite supply; the relation is visible through location, quantity and action rather than private-state inference.",
+    "NO_COLLAPSE": "PASS - the transfer does not collapse to the current provisional C0/O3/TYP/MAT/STA/MOT stack, any VFD premise, historical painterly/atmospheric work, or ordinary illustration with fiber texture applied."
+  },
+  "binding_read": "R1 has now survived two materially different frozen causal/content topologies without copying primary composition, props, architecture, pose topology or signature motif. CTF-01 therefore establishes R1 Interlaced Continuous Fiber Surface as a genuine second-family survivor under the frozen contract.",
+  "family_survivors": [
+    "R1_INTERLACED_CONTINUOUS_FIBER_SURFACE"
+  ],
+  "family_failures": [
+    "R2_CONTINUOUS_RELIEF_SKIN",
+    "R3_TRANSLUCENT_REGISTRATION_STACK",
+    "R4_OCCLUSION_CAST_PROJECTION_FIELD_PRE_RENDER_REJECTED"
+  ],
+  "image_budget": {
+    "primary_consumed": 3,
+    "transfer_consumed": 1,
+    "total_consumed": 4,
+    "effective_maximum_total": 5,
+    "remaining_usable": 0,
+    "note": "Only R1 survived primary. Its single transfer passed. The second nominal transfer slot is unavailable because no second primary survived; no additional CTF-01 image is lawful."
+  },
+  "phase_b_effect": {
+    "current_provisional_family_control": "C0 Threshold K + O3 + TYP-02 F1 + MAT F1 + STA F2 with MOT F1A/CS2 bounded behavior",
+    "distinct_second_family_evidence": "R1 Interlaced Continuous Fiber Surface",
+    "two_family_exit_prerequisite": "SATISFIED_AT_EVIDENCE_LEVEL",
+    "phase_b_exit": "NOT_AUTOMATIC; DIRECTOR DELIBERATE CONVERGENCE DECISION REQUIRED",
+    "phase_c_authority": false
+  },
+  "next_action": "Stop CTF-01 and present the current provisional family/control beside R1 second-family evidence for consequential Director convergence review. Do not automatically enter Phase C or refine either family before that decision.",
+  "hard_boundaries": [
+    "No additional CTF-01 render, reroll, transfer, premise edit, topology replacement or result-aware remapping.",
+    "R1 survival does not select it as final Kymaean identity or supersede the current provisional family/control.",
+    "Do not reopen CLR-01, hero/static research, real-product synthesis, implementation, production assets or Phase C without the next governing decision.",
+    "The Director convergence review is a consequential creative gate and is not delegated by this evaluation."
+  ],
+  "audit_result": "CLEAN_TRANSFER_PASS_SECOND_FAMILY_SURVIVOR"
+}

@@ -1796,3 +1796,19 @@ R3 Translucent Registration Stack likewise fails its exact predeclared falsifier
 **Guardrail:** no R1 retune/reroll, R2/R3 transfer, replacement premise/topology, result-aware remapping, extra calibration render, family-survivor claim, CLR reentry, hero reopening, implementation, final identity or automatic Phase C.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN PRIMARY EVALUATION.**
+
+## L-115 - CTF-01 establishes R1 as a genuine second-family survivor
+
+**State:** CTF-01 TRANSFER PASS / R1 SECOND-FAMILY SURVIVOR / 4 OF 5 EFFECTIVE IMAGE BUDGET CONSUMED / DIRECTOR CONVERGENCE REVIEW NEXT
+
+`docs/evidence/CTF_01_TRANSFER_EVALUATION_AND_SURVIVOR_01.json` freezes the R1/T3 transfer result before any Director taste input. The supplied 1672 x 941 PNG is archived under Drive `CTF-01 Content-Topology-First Divergence 01`; supplied-byte SHA-256 is `7aecd932f0071a19d70d5bf62bedcd2eb06abd936d64d19570e7e3d025340d80`, upload size matches 4,405,192 bytes, and post-upload re-download hashing is not claimed.
+
+R1's whole-surface grammar survives the materially different T3 Redistributed Finite Bulk Supply topology. Long continuous interlaced strands still construct people, ground, architecture, water, terrain and atmosphere; a depleted central source plus unequal left/right bulk destinations make redistribution recoverable; and exactly two differentiated people have materially different direct relations to the same finite supply.
+
+The transfer also clears the frozen anti-copy law. The primary's torn shared-medium opening, suspended/hammock-like occupation, standing-across-opening relation, pose topology and enclosing architecture do not recur. The transfer instead uses unequal destination containers/piles, a depleted source and materially different participant poses. R1 therefore passes both primary and transfer under disjoint topology rather than merely repeating one attractive scene.
+
+**Phase-B consequence:** the current provisional C0/O3/TYP/MAT/STA/MOT family/control and R1 Interlaced Continuous Fiber Surface now satisfy the roadmap's requirement for at least two genuinely distinct surviving visual families strongly enough to permit deliberate convergence review. This is eligibility for the convergence decision, not automatic Phase-B exit, final-family selection or Phase-C authority.
+
+**Next gate:** complete normal CTF-01 packetization and guarded serial promotion/archive closeout, then present the two-family evidence at the consequential Director convergence review. No additional CTF render, reroll, premise/topology repair, family refinement, CLR reentry, hero reopening, real-product synthesis, implementation, production asset or Phase-C work before that decision.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN TRANSFER EVALUATION; DIRECTOR CONVERGENCE DECISION RESERVED.**
