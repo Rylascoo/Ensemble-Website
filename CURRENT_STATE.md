@@ -17,9 +17,9 @@ TYP-01 is closed with zero survivors. MOT-01 remains provisional F1A/CS2 researc
 SYM-01 is resolved. Valid hosted Run `34542785459` passed; the pre-Director view recommended C0 over sole challenger F1. The Director selected **C0 Threshold K** as the provisional primary-symbol incumbent. `SYM_01_DIRECTOR_DECISION_01.json` records the decision; frozen F1 remains historical challenger evidence.
 
 ## SYM-02 exact-shape refinement
-Round 01 advanced C1 Bézier Fidelity; Round 02 added no gain. Round 03 advances **C1W 103% width** for stronger compact presence without changing normalized K geometry. Exact selected C0 remains immutable control.
+Round 01 advanced C1 Bézier Fidelity; Round 02 added no gain; Round 03 advanced 103% width. Round 04 is frozen pre-review under `SYM_02_ROUND_04_WIDTH_BRACKET_METHOD_01.json`, comparing 102/103/104% only. Exact selected C0 remains immutable control.
 
 ## Exact next action / hard boundary
-Open Round 04 as a final horizontal-proportion bracket: 102% / 103% / 104% around C1 only. No other geometry variable may change. Exact C0 remains immutable selected incumbent. No CLR-01 reentry, wordmark/material/motion/state/hero coupling, production asset claim, final identity, or Phase-C convergence.
+Review the frozen 102/103/104% width bracket. If materially indistinguishable, retain 103% rather than overfit. No other geometry variable may change. Exact C0 remains immutable selected incumbent. No CLR-01 reentry, wordmark/material/motion/state/hero coupling, production asset claim, final identity, or Phase-C convergence.
 
 No final logo/app icon, production vector/Store asset, trademark claim, CLR-01 reentry, O3/TYP/MOT/STA/material/hero mutation, app/site implementation, final identity, or Phase-C convergence.

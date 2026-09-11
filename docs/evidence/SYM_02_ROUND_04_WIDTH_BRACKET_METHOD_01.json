@@ -1,0 +1,31 @@
+{
+  "schema": "kymaean.sym02.round04-method.v1",
+  "status": "FROZEN_PRE_REVIEW",
+  "date": "2026-09-11",
+  "question": "Within the Round-03 wider-proportion direction, is 102%, 103% or 104% horizontal scale the strongest optical fit?",
+  "controls": {
+    "C0": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "C1": "5fbbe4468cd72f860d524e311b2ebc2ca68966d9731288d1d68ac4bb7f7b87b2",
+    "C1W3": "5b3a7a18c3afc9ec88a1c7b2978b05b20b9501ea7c382bcee5688f0d2f082a9b"
+  },
+  "candidates": {
+    "C1W2": {
+      "scale_x": 1.02,
+      "sha256": "2c72dc4d9c1abc4f57df5246bc0d6878062f22cde613f4a2ed6db0f2ff5c5618"
+    },
+    "C1W4": {
+      "scale_x": 1.04,
+      "sha256": "bfe2429da7ac3b79a7975b8b285f98493c3f000f9392ef656b53ef24b6615533"
+    }
+  },
+  "fixed": [
+    "all C1 geometry",
+    "vertical proportion",
+    "center x=85",
+    "all normalized internal relations",
+    "monochrome",
+    "CLR-01 parked"
+  ],
+  "decision_rule": "Prefer the smallest departure from C1 that yields the best compact optical balance. If 102/103/104 are materially indistinguishable, retain 103% as the already-supported center rather than overfit.",
+  "no_post_exposure_retune": true
+}
