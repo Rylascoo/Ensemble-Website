@@ -1,7 +1,7 @@
 {
   "schema": "kymaean.design-packet-registry.v1",
   "status": "ACTIVE",
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
   "template": "docs/evidence/DESIGN_PACKET_TEMPLATE_01.json",
   "purpose": "Provide one retrievable map of bounded current/provisional/closed visual-gate packets for later composition and whole-app synthesis without turning the registry itself into design authority.",
@@ -69,6 +69,14 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "F1 Subtractive Channel color-independent authored field topology; Mineral Theater remains historical temporary material-role reference pending later synthesis",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-CMP-01-01",
+      "path": "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json",
+      "axis": "bounded shared-brand packet composition / interaction",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "PASS_COMPATIBLE_COMPOSITION for exact C0 + MAT F1 + STA F2 + MOT F1A/CS2 on neutral synthetic APP/WEB carriers; compatibility evidence only",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -77,13 +85,15 @@
     "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
-    "F1 Subtractive Channel is a provisional structural material/shape survivor, but it has not yet been composed with Mineral Theater role behavior, CLR-01 color logic, state, motion or representative product hierarchy; no final material system exists",
+    "F1 Subtractive Channel is composition-compatible with exact C0, STA F2 and MOT F1A/CS2 on CMP-01 neutral carriers, but Mineral Theater/CLR/type/real-product synthesis remains untested; no final material system exists",
     "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists"
   ],
   "synthesis_policy": {
-    "composition_packets_created": [],
+    "composition_packets_created": [
+      "PKT-CMP-01-01"
+    ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "CMP-01 method/matrix and execution defaults are frozen pre-specimen. Materialize the exact FULL plus four diagnostic-ablation APP/WEB harness, freeze its bytes, then run the required eight browser/accessibility modes before any integration judgment.",
+    "next_synthesis_trigger": "Fresh Phase-B shared-brand sequencing/reentry audit after CMP-01 compatibility evidence; do not infer automatic CLR-01/TYP/hero reentry or Phase-C convergence.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_07.json"
   },

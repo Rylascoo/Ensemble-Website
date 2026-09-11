@@ -1,0 +1,99 @@
+{
+  "schema": "kymaean.cmp01.browser-preflight.v1",
+  "status": "PASS_COMPLETE_8_MODE_MATRIX",
+  "date": "2026-09-10",
+  "github_actions_run_id": 34566358197,
+  "head_sha": "3f176f186583ef9a70901db08e7e5a4adafc7ba6",
+  "source_manifest": "docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_03.json",
+  "harness_sha256": "1972b7308a827c0fa8b7b9418de61b14edd3125c32c8c167e945f3708349dba0",
+  "artifact": {
+    "id": 10186157689,
+    "digest": "sha256:251a473a7617a724c2fff61bacc91a5c2f0fc734e765033703e5514243557766",
+    "size_bytes": 996684
+  },
+  "browser_version": "Google Chrome 152.0.7977.82",
+  "os_pretty": "Ubuntu 24.04.5 LTS",
+  "variants": [
+    "FULL",
+    "NO_MAT",
+    "NO_SYM",
+    "NO_STA",
+    "NO_MOT"
+  ],
+  "contexts": [
+    "APP",
+    "WEB"
+  ],
+  "scored_variant": "FULL",
+  "browser_verifier_sha256": "fd709c6cbb028f69dce043e508af4bb80098d130c0c6813d3d5b2f6e0db06b75",
+  "modes": {
+    "normal-full-wide": {
+      "viewport_width": 1200,
+      "forced_colors": false,
+      "reduced_motion": false,
+      "document_horizontal_overflow": false
+    },
+    "normal-full-320": {
+      "viewport_width": 320,
+      "forced_colors": false,
+      "reduced_motion": false,
+      "document_horizontal_overflow": false
+    },
+    "normal-reduced-wide": {
+      "viewport_width": 1200,
+      "forced_colors": false,
+      "reduced_motion": true,
+      "document_horizontal_overflow": false
+    },
+    "normal-reduced-320": {
+      "viewport_width": 320,
+      "forced_colors": false,
+      "reduced_motion": true,
+      "document_horizontal_overflow": false
+    },
+    "forced-full-wide": {
+      "viewport_width": 1200,
+      "forced_colors": true,
+      "reduced_motion": false,
+      "document_horizontal_overflow": false
+    },
+    "forced-full-320": {
+      "viewport_width": 320,
+      "forced_colors": true,
+      "reduced_motion": false,
+      "document_horizontal_overflow": false
+    },
+    "forced-reduced-wide": {
+      "viewport_width": 1200,
+      "forced_colors": true,
+      "reduced_motion": true,
+      "document_horizontal_overflow": false
+    },
+    "forced-reduced-320": {
+      "viewport_width": 320,
+      "forced_colors": true,
+      "reduced_motion": true,
+      "document_horizontal_overflow": false
+    }
+  },
+  "mechanical_findings": [
+    "Exact FULL + four diagnostic ablations preserved across APP/WEB.",
+    "NO_MAT renders zero MAT-channel geometry; NO_SYM hides C0; NO_STA removes selection witness; NO_MOT preserves final states with zero motion animations.",
+    "Keyboard focus reaches FULL selected Field B in APP and WEB with focus-visible ring and selection witness simultaneously preserved.",
+    "F1A animates only three peer units; CS2 animates only two context fields; reduced-motion and NO_MOT use immediate equivalent final states.",
+    "APP/WEB remain side-by-side at 1200 and stack at 320 with no horizontal document overflow."
+  ],
+  "invalid_predecessors": [
+    {
+      "run_id": 34565776511,
+      "classification": "PRECOMMIT_HYGIENE_AND_DESCENDANT_DISPLAY_MEASUREMENT_DEFECT_NO_DESIGN_RESULT",
+      "artifact_id": 10185964595,
+      "artifact_digest": "sha256:9fb8dca9d46a6b1249952b40b34962b1ac6f5ddb1a4bb70864ea5db1d3b71e35"
+    },
+    {
+      "run_id": 34566015344,
+      "classification": "DESCENDANT_DISPLAY_MEASUREMENT_DEFECT_NO_DESIGN_RESULT"
+    }
+  ],
+  "scope": "Mechanical/source/layout/accessibility/motion-partition validation only. Subjective composition compatibility is separate."
+}

@@ -1,0 +1,135 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-CMP-01-01",
+  "packet_class": "COMPOSITION_PACKET",
+  "status": "FROZEN_LOCAL_RESULT",
+  "date": "2026-09-11",
+  "gate_or_program": "CMP-01 — Bounded Shared-Brand Packet Composition / Interaction Audit",
+  "design_axis": "bounded shared-brand packet composition / interaction",
+  "bounded_question": "Can exact C0 Threshold K, MAT F1, STA F2, MOT F1A and MOT CS2 coexist on neutral synthetic APP/WEB carriers without identity competition, semantic collision, accessibility loss, or evidence that removing one included packet makes the composition materially stronger?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "3f176f186583ef9a70901db08e7e5a4adafc7ba6",
+    "current_state_at_close": "CMP-01 canonical mechanical and subjective result frozen on the active post-MAT branch before promotion.",
+    "governing_method_or_contract": [
+      "docs/evidence/CMP_01_BOUNDED_PACKET_COMPOSITION_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/CMP_01_EXECUTION_DEFAULTS_01.json"
+    ],
+    "drive_sources_if_material": []
+  },
+  "controlled_inputs": [
+    "exact C0 Threshold K bytes",
+    "PKT-MAT-01-01 / F1 Subtractive Channel",
+    "PKT-STA-01-01 / F2 Ring + Edge Witness",
+    "PKT-MOT-F1A-01",
+    "PKT-MOT-CS2-01",
+    "FULL plus NO_MAT/NO_SYM/NO_STA/NO_MOT",
+    "synthetic APP/WEB neutral carriers",
+    "1200/320 × normal/forced-colors × full/reduced-motion"
+  ],
+  "excluded_variables": [
+    "final typography/typeface",
+    "CLR-01/final color",
+    "Mineral Theater hue/material-role integration",
+    "wordmark redesign",
+    "hero/static imagery",
+    "real product semantics or shipping UI architecture",
+    "production implementation"
+  ],
+  "local_result": {
+    "summary": "PASS_COMPATIBLE_COMPOSITION. The exact five-packet set coexists on the frozen bounded APP/WEB carriers without a named collision; ablations confirm each packet’s intended contribution or non-destructive optionality.",
+    "survivors_or_closure": [
+      "FULL — compatible bounded composition"
+    ],
+    "recommended_incumbent": null,
+    "alternates": [],
+    "rejections": []
+  },
+  "judgment": {
+    "design_sol_view": "FULL retains clear hierarchy and a single primary identity carrier. MAT F1 adds authored carrier topology without overtaking C0/content; STA F2 preserves selected-state legibility alongside keyboard focus; F1A and CS2 remain semantically disjoint. No ablation is materially stronger because it removes a collision.",
+    "director_view_or_delegation": "No separate Director taste gate is triggered. The result advances under standing clean-recursive-audit delegation and remains explicitly non-final.",
+    "resolution_mode": "DESIGN_SOL_ONLY"
+  },
+  "evidence": {
+    "mechanical": [
+      "canonical hosted Run 34566358197 at 3f176f186583ef9a70901db08e7e5a4adafc7ba6",
+      "artifact 10186157689; zip SHA-256 251a473a7617a724c2fff61bacc91a5c2f0fc734e765033703e5514243557766",
+      "exact harness SHA-256 1972b7308a827c0fa8b7b9418de61b14edd3125c32c8c167e945f3708349dba0",
+      "PASS_COMPLETE_8_MODE_MATRIX"
+    ],
+    "visual": [
+      "prototypes/cmp-01/harness.html — FULL plus four diagnostic ablations in APP/WEB"
+    ],
+    "accessibility": [
+      "no horizontal overflow at 1200 or 320",
+      "forced-colors preserves content/C0/focus/selection comprehension",
+      "real Tab traversal preserves focus-visible ring plus selected witness",
+      "reduced-motion and NO_MOT preserve equivalent final states with zero authored motion"
+    ],
+    "invalid_or_superseded_attempts": [
+      "Run 34565776511 — descendant-display measurement/tooling defect; no design result",
+      "Run 34566015344 — superseded tooling packet; no design result"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "fresh Phase-B sequencing/reentry audit before any further integration/convergence program",
+      "later resolution of typography/color gaps before whole-app synthesis can claim completeness"
+    ],
+    "constrains": [
+      "future representative composition should preserve the demonstrated packet partition unless a bounded successor/refinement gate finds contrary evidence"
+    ],
+    "must_not_be_confused_with": [
+      "whole-app synthesis",
+      "final identity",
+      "CLR-01 selection",
+      "production implementation"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "Typography/color gaps remain visually material and must not be silently filled by fixture choices.",
+    "Mineral Theater atmospheric role behavior remains outside CMP-01 and may expose new interaction evidence later.",
+    "Real product hierarchy/density may stress MAT/STA/MOT differently from this deliberately low-density synthetic carrier."
+  ],
+  "explicit_non_authority": [
+    "No final palette/type/material system, production tokens, component skin, app/site implementation, deployment, final identity or Phase-C convergence.",
+    "CMP-01 does not reopen CLR-01, rerun TYP-01, or promote any source packet from provisional to final."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "prototypes/cmp-01/harness.html",
+      "docs/evidence/CMP_01_BOUNDED_PACKET_COMPOSITION_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/CMP_01_EXECUTION_DEFAULTS_01.json",
+      "docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_03.json",
+      "docs/evidence/CMP_01_BROWSER_PREFLIGHT_01.json",
+      "docs/evidence/CMP_01_DESIGN_SOL_VIEW_01.json"
+    ],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/cmp-01/harness.html",
+      "what_to_review": "Normal-mode FULL APP/WEB composition and the four packet ablations; forced-colors/reduced-motion are validation evidence rather than aesthetic alternatives.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "docs/evidence/CMP_01_BROWSER_PREFLIGHT_01.json"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [
+      "PKT-SYM-01-01",
+      "PKT-MAT-01-01",
+      "PKT-STA-01-01",
+      "PKT-MOT-F1A-01",
+      "PKT-MOT-CS2-01"
+    ],
+    "latest_composition_packet": "PKT-CMP-01-01",
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}

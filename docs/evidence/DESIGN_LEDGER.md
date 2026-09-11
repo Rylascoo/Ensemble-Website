@@ -1351,3 +1351,19 @@ Run 1 tooling diagnostics exposed a second verifier defect before any subjective
 **Guardrail:** no packet geometry/value/content retune, CLR-01 reentry, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC MEASUREMENT REPAIR.**
+
+## L-084 - CMP-01 closes PASS_COMPATIBLE_COMPOSITION
+
+**State:** CMP-01 CLOSED / COMPATIBLE BOUNDED COMPOSITION / PHASE-B REMAINS OPEN
+
+Canonical hosted Run `34566358197` at Manifest-03 commit `3f176f186583ef9a70901db08e7e5a4adafc7ba6` passes the complete 1200/320 × normal/forced-colors × full/reduced-motion matrix in Chrome 152. Artifact `10186157689` has zip digest `sha256:251a473a7617a724c2fff61bacc91a5c2f0fc734e765033703e5514243557766`; the frozen harness remains SHA-256 `1972b7308a827c0fa8b7b9418de61b14edd3125c32c8c167e945f3708349dba0`.
+
+Frozen subjective review yields **PASS_COMPATIBLE_COMPOSITION**. Exact C0 remains the single primary identity mark; MAT F1 adds authored carrier topology without overtaking content; STA F2 preserves selection legibility independently of keyboard focus; F1A peer succession and CS2 whole-context exchange remain semantically disjoint. None of `NO_MAT`, `NO_SYM`, `NO_STA`, or `NO_MOT` is materially stronger because it removes a named collision. APP and WEB continue to read as one underlying packet system.
+
+This is compatibility evidence only. System typography and grayscale remain unscored fixtures; TYP-01 remains zero-survivor, CLR-01 remains parked, and Mineral Theater/CLR/type/real-product synthesis is untested. Source packets remain provisional; CMP-01 creates no final tokens, production implementation, final identity, or Phase-C authority.
+
+Primary evidence: `docs/evidence/CMP_01_BROWSER_PREFLIGHT_01.json`, `docs/evidence/CMP_01_DESIGN_SOL_VIEW_01.json`, `docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json`.
+
+**Next gate:** fresh Phase-B shared-brand sequencing/reentry audit using CMP-01 compatibility as new integration evidence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN-CRITERIA COMPOSITION FALSIFICATION.**
