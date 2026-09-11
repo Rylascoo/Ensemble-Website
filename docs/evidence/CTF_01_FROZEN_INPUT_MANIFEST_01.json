@@ -1,0 +1,134 @@
+{
+  "schema": "kymaean.ctf01.frozen-input-manifest.v2",
+  "status": "FROZEN_PRE_RENDER_R1_R2_R3_ONLY_POST_COMPARISON",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "stage_b_commit": "41c92f7bb9ac68dc6699a7ae63a9281cc8cdb730",
+  "eligible_premises": [
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "rejected_premises": [
+    "R4"
+  ],
+  "primary_assignment": {
+    "R1": "T1",
+    "R2": "T2",
+    "R3": "T3"
+  },
+  "transfer_assignment": {
+    "R1": "T3",
+    "R2": "T4",
+    "R3": "T1"
+  },
+  "renderer_packet_count": 6,
+  "image_budget": {
+    "method_absolute_ceiling": 6,
+    "effective_primary_max": 3,
+    "effective_transfer_max": 2,
+    "effective_total_max": 5,
+    "consumed": 0
+  },
+  "bindings": [
+    {
+      "path": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+      "sha256": "d1c3120777bcdac657cd8a25b671a842f8639b9517bb7a0bab0bccaf75ae9bda",
+      "bytes": 10729
+    },
+    {
+      "path": "docs/evidence/CTF_01_TOPOLOGY_PAIRWISE_AUDIT_01.json",
+      "sha256": "d79217d82a09d074f43c0c9f6cc1a389d79ad1474c9bb6186671a8212055fd79",
+      "bytes": 5443
+    },
+    {
+      "path": "docs/evidence/CTF_01_PREMISE_PAIRWISE_AUDIT_01.json",
+      "sha256": "99076b72792c1ce6f9e70315eedc8ebdf581faa28c12d6c60b2e030cea415c5f",
+      "bytes": 4101
+    },
+    {
+      "path": "docs/evidence/CTF_01_PRE_RENDER_CONSTRUCTION_QUARANTINE_AUDIT_01.json",
+      "sha256": "ac5c85c1f65928a17cd9d5d2719389446debd5c5241b601a66fedae1bd8e0cba",
+      "bytes": 3583
+    },
+    {
+      "path": "docs/evidence/CTF_01_POST_FREEZE_PRE_RENDER_COMPARISON_AUDIT_01.json",
+      "sha256": "84b18436ed7977b92d3abae24995419f1c6fb40c7f45188ab2d059f37e115cf1",
+      "bytes": 4354
+    },
+    {
+      "path": "docs/evidence/CTF_01_TOPOLOGY_T1_SUBTRACTIVE_SHARED_MEDIUM_01.json",
+      "sha256": "1013ad405270b67577c475b7bb402acd901f87230f0cf77d9afb093f34b9fe31",
+      "bytes": 2360
+    },
+    {
+      "path": "docs/evidence/CTF_01_TOPOLOGY_T2_REORIENTED_EXPOSURE_FIELD_01.json",
+      "sha256": "ed4750561c80c921c6e4dcb82a13245c751b64468431b167a041630a4a47d8e1",
+      "bytes": 2327
+    },
+    {
+      "path": "docs/evidence/CTF_01_TOPOLOGY_T3_REDISTRIBUTED_FINITE_BULK_SUPPLY_01.json",
+      "sha256": "a9230d6d38b61686a3658e92632eb3a8d849dccdb2d123eb1af9890f9a2565ac",
+      "bytes": 2284
+    },
+    {
+      "path": "docs/evidence/CTF_01_TOPOLOGY_T4_RECONFIGURED_FLEXIBLE_CONNECTION_01.json",
+      "sha256": "e9f82467a88f3fe46b28aa3da00b9eefb7be1bf27f91ac5ba190efd0ce734117",
+      "bytes": 2312
+    },
+    {
+      "path": "docs/evidence/CTF_01_PREMISE_R1_INTERLACED_CONTINUOUS_FIBER_SURFACE_01.json",
+      "sha256": "8b794ea5745898796eb09bbab5eac82fa45d6c78ec6540aad7bb274521462552",
+      "bytes": 2505
+    },
+    {
+      "path": "docs/evidence/CTF_01_PREMISE_R2_CONTINUOUS_RELIEF_SKIN_01.json",
+      "sha256": "0076021c052b32ed016819151a74d23555bc7e7b023a05e91f44373f081a2bb1",
+      "bytes": 2385
+    },
+    {
+      "path": "docs/evidence/CTF_01_PREMISE_R3_TRANSLUCENT_REGISTRATION_STACK_01.json",
+      "sha256": "09722d4078b521e33ace3dcc8ddcb369ce1e22395ca6186b82626960e8bf1662",
+      "bytes": 2432
+    },
+    {
+      "path": "docs/evidence/CTF_01_PREMISE_R4_OCCLUSION_CAST_PROJECTION_FIELD_01.json",
+      "sha256": "9c07927569e935a075583f335eb22f2bca2d08df9a502f86cfe073e62e892a26",
+      "bytes": 2566
+    },
+    {
+      "path": "docs/evidence/renderer/CTF_01_R1_T1_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "2efc6e0fdfb60001721fc32d4afb419239f6c4940cb05e4dc5b7f7fe99ee90c6",
+      "bytes": 2507
+    },
+    {
+      "path": "docs/evidence/renderer/CTF_01_R1_T3_TRANSFER_STERILE_PACKET_01.txt",
+      "sha256": "67cad84f709096f69bcdaa8020c2f6c8c369e12554670cae69239e59d7846aef",
+      "bytes": 2500
+    },
+    {
+      "path": "docs/evidence/renderer/CTF_01_R2_T2_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "3de6e4281a7a6d87d0f7e60b015eb0ece66211a1a380c4095ab981c5e115c602",
+      "bytes": 2485
+    },
+    {
+      "path": "docs/evidence/renderer/CTF_01_R2_T4_TRANSFER_STERILE_PACKET_01.txt",
+      "sha256": "bf121fe7e27cbe205fe90304ced61a3262644e3e4e98a15a15e3173e03aa46b2",
+      "bytes": 2470
+    },
+    {
+      "path": "docs/evidence/renderer/CTF_01_R3_T1_TRANSFER_STERILE_PACKET_01.txt",
+      "sha256": "69f350c4c3d4e64ccfff1122ad2d2de657a067c2086e50529f7c850b5867e811",
+      "bytes": 2512
+    },
+    {
+      "path": "docs/evidence/renderer/CTF_01_R3_T3_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "474f44191c70f01c8fc9864ec65440d4c372cefac6d356f0f842e7a9cb125152",
+      "bytes": 2505
+    }
+  ],
+  "renderer_isolation": "Each packet executes in a separate fresh regular non-project renderer context. Transfer renderer never sees a primary image.",
+  "no_result_aware_changes": true,
+  "packet_hash_stability_assertion": "All six renderer packet hashes are identical to their values before the post-freeze comparison audit.",
+  "next_action": "Execute exactly the three PRIMARY packets only, one fresh renderer context each. Freeze all three returned images/provenance before any evaluation or transfer execution."
+}

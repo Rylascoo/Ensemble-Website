@@ -7,7 +7,7 @@ Generated file; do not hand-maintain.
 Generation command: `python3 tools/generate_docs_index.py`
 
 Total Markdown documents: 283
-Total text records: 86
+Total text records: 92
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
@@ -308,7 +308,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 ## UNCLASSIFIED (0)
 
 
-## TEXT RECORDS — INVENTORY ONLY (86)
+## TEXT RECORDS — INVENTORY ONLY (92)
 
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
@@ -385,6 +385,12 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/renderer/C07-CBSR-01_STAGE07_STERILE_RENDERER_PACKET.txt`
 - `docs/evidence/renderer/C08-EWTF-01_STAGE07_SANITIZED_MAQUETTE_REFERENCE_SHA256.txt`
 - `docs/evidence/renderer/C08-EWTF-01_STAGE07_STERILE_RENDERER_PACKET.txt`
+- `docs/evidence/renderer/CTF_01_R1_T1_PRIMARY_STERILE_PACKET_01.txt`
+- `docs/evidence/renderer/CTF_01_R1_T3_TRANSFER_STERILE_PACKET_01.txt`
+- `docs/evidence/renderer/CTF_01_R2_T2_PRIMARY_STERILE_PACKET_01.txt`
+- `docs/evidence/renderer/CTF_01_R2_T4_TRANSFER_STERILE_PACKET_01.txt`
+- `docs/evidence/renderer/CTF_01_R3_T1_TRANSFER_STERILE_PACKET_01.txt`
+- `docs/evidence/renderer/CTF_01_R3_T3_PRIMARY_STERILE_PACKET_01.txt`
 - `docs/evidence/renderer/VFD_01_P1_PRIMARY_STERILE_PACKET_01.txt`
 - `docs/evidence/renderer/VFD_01_P1_TRANSFER_STERILE_PACKET_01.txt`
 - `docs/evidence/renderer/VFD_01_P2_PRIMARY_STERILE_PACKET_01.txt`

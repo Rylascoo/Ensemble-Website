@@ -1764,3 +1764,17 @@ The premise audit explicitly excludes VFD P1 accumulated marks, P2 opaque interl
 **Next gate:** Stage C combines the immutable primary/transfer assignment with exact frozen topology and premise packets and freezes every possible renderer-visible primary/transfer packet before any image generation or visual comparison against quarantined evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN STAGE-B PREMISE FREEZE.**
+
+## L-113 - CTF-01 pre-render freeze rejects R4 and binds six sterile packets
+
+**State:** R1-R3 ELIGIBLE / R4 REJECTED PRE-RENDER / 3 PRIMARY + 3 POSSIBLE TRANSFER PACKETS FROZEN / 0 IMAGES
+
+After Stage B was immutable, a repository-textual construction-quarantine audit found one binding stale-mechanism collision: R4 Occlusion-Cast Projection Field materially reopens the historical D7 Mutual occlusion/reflection direction already recorded as too close to Round-01 visibility/occlusion evidence. R4 is therefore rejected before renderer expenditure and is not replaced. This rejection uses history/authority text, not a result-aware pixel comparison or premise edit.
+
+R1 Interlaced Continuous Fiber Surface, R2 Continuous Relief Skin and R3 Translucent Registration Stack remain eligible unchanged, with explicit historical-pressure falsifiers. Their primary assignments are R1/T1, R2/T2 and R3/T3; possible transfer assignments remain R1/T3, R2/T4 and R3/T1. `docs/evidence/CTF_01_FROZEN_INPUT_MANIFEST_01.json` binds the method, topologies, premise laws/audits, construction-quarantine audit and all six renderer-visible packets before any image exists. `tools/verify_ctf01_pre_render_freeze.py` deterministically verifies those bytes and absence of project vocabulary from renderer packets.
+
+The method ceiling remains six but R4's pre-render rejection reduces the effective maximum to five judgeable images: three primary plus at most two transfer. Current consumption is 0.
+
+**Next gate:** execute exactly the three frozen PRIMARY packets in three separate fresh regular non-project renderer contexts. Preserve all three returned images/provenance before any primary evaluation. No transfer may run early.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-RENDER INPUT FREEZE.**

@@ -1,0 +1,50 @@
+{
+  "schema": "kymaean.ctf01.pre-render-construction-quarantine-audit.v1",
+  "status": "R1_R2_R3_ELIGIBLE_R4_REJECTED_NO_REPLACEMENT",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "stage_a": "docs/evidence/CTF_01_TOPOLOGY_PAIRWISE_AUDIT_01.json",
+  "stage_b": "docs/evidence/CTF_01_PREMISE_PAIRWISE_AUDIT_01.json",
+  "comparison_scope": "Repository textual/history construction-quarantine audit only. No current-family/VFD/historical image was used to retune any frozen premise. Frozen premises may only pass or be rejected.",
+  "premises": {
+    "R1": {
+      "result": "ELIGIBLE_WITH_HISTORY_PRESSURE",
+      "reason": "Historical aftermath work used woven garment material as a local source-specific clue, but no prior whole-surface representation ontology was found in which all people/environment are constructed from one continuous interlaced fiber system. R1 is not edited.",
+      "binding_falsification_pressure": "Reject after pixels if it reads as ordinary illustration with decorative textile texture, painterly accumulated marks, or discrete module/mosaic behavior."
+    },
+    "R2": {
+      "result": "ELIGIBLE_WITH_STRONG_HISTORY_PRESSURE",
+      "reason": "Hero research repeatedly used low-relief fields and shallow relief-like forms as causal geometry/material, but the frozen R2 law is a whole-image single relief skin and explicitly forbids MAT-F1-like channel/notch identity. No exact historical surface is inherited. R2 is not edited.",
+      "binding_falsification_pressure": "Reject if it collapses to historical low-relief causal-field/architectural naturalization, current MAT channel/notch grammar, or a normal 3D scene with relief texture applied."
+    },
+    "R3": {
+      "result": "ELIGIBLE_WITH_STRONG_HISTORY_PRESSURE",
+      "reason": "Historical AL/VSG evidence includes translucent overlap and registration/layering mechanisms, but those were local relational/material/UI mechanisms rather than a whole image authored exclusively by a finite translucent registration stack. No exact surface is inherited. R3 is not edited.",
+      "binding_falsification_pressure": "Reject if it collapses to glassmorphism/luxury-tech, opaque flat planes, historical VSG registration/layering, or a conventional illustration with translucent overlays."
+    },
+    "R4": {
+      "result": "REJECT_PRE_RENDER_NO_REPLACEMENT",
+      "reason": "Historical hero method evidence already contains D7 Mutual occlusion / reflection state and explicitly records it as too close to Round 01 visibility/occlusion evidence. R4 Occlusion-Cast Projection Field would therefore reopen a closed historical mechanism rather than satisfy the method requirement for a fresh representation premise.",
+      "evidence": [
+        "docs/KYMAEAN_HERO_METHOD_02_VISUAL_MECHANISM_DIRECTION_INVESTIGATION_02.md",
+        "docs/KYMAEAN_HERO_MECHANISM_CLASS_INVESTIGATION_01.md"
+      ],
+      "consequence": "R4 receives no renderer packet or image; T4 remains a valid frozen topology and is used only by R2 transfer under the predeclared mapping."
+    }
+  },
+  "eligible_primary": [
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "rejected_before_render": [
+    "R4"
+  ],
+  "replacement_authorized": false,
+  "effective_primary_max": 3,
+  "effective_transfer_max": 2,
+  "effective_total_image_max": 5,
+  "method_absolute_ceiling": 6,
+  "audit_result": "CLEAN: R4 rejected without replacement; R1-R3 may proceed unchanged to byte-frozen renderer packets."
+}

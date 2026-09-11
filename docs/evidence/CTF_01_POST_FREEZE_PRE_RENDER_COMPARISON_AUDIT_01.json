@@ -1,0 +1,53 @@
+{
+  "schema": "kymaean.ctf01.post-freeze-pre-render-comparison-audit.v1",
+  "status": "R1_R2_R3_REMAIN_ELIGIBLE_NO_PACKET_CHANGES_DISTANCE_UNPROVEN_UNTIL_PIXELS",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "construction_quarantine_audit": "docs/evidence/CTF_01_PRE_RENDER_CONSTRUCTION_QUARANTINE_AUDIT_01.json",
+  "comparison_timing": "Performed only after all six eligible primary/possible-transfer renderer packets were written and byte-frozen. This audit may reject inputs but may not edit them.",
+  "comparison_basis": "Frozen repository authority/evidence descriptions and already-preserved VFD/current-family evidence. No renderer packet was revised from comparison.",
+  "premises": {
+    "R1": {
+      "result": "ELIGIBLE_HIGH_CONFIDENCE_PRE_RENDER",
+      "current_family_distance": "Continuous interlaced fibers are materially different in ontology, edge grammar, human-specificity mechanism and texture logic from C0/O3/TYP/MAT/STA/MOT packet mechanisms.",
+      "vfd_distance": "Not VFD P1 accumulated marks/deposits, P2 opaque planar fields, P3 smooth density continuum, or P4 discrete rule-bearing units.",
+      "history_pressure": "Historical woven material appears as a local causal clue, not as a whole-surface representational ontology.",
+      "pixel_gate": "Actual DISTANCE_PASS remains unproven until the primary image exists."
+    },
+    "R2": {
+      "result": "ELIGIBLE_HIGH_RISK_PRE_RENDER",
+      "current_family_distance": "Single continuous relief-skin representation is not the current MAT F1 channel/notch topology, but both involve structural depth; this is a strong post-render falsification pressure.",
+      "vfd_distance": "Not accumulated marks, opaque plane assembly, smooth density continuum, or discrete-unit mosaic.",
+      "history_pressure": "Historical hero work contains low-relief causal fields and shallow relief-like humans. R2 may proceed only because its frozen law is whole-image single-skin representation with no inherited scaffold/surface; any visual collapse toward that historical field family is a fail.",
+      "pixel_gate": "Actual CONTAMINATION_PASS and DISTANCE_PASS remain unproven until the primary image exists."
+    },
+    "R3": {
+      "result": "ELIGIBLE_HIGH_RISK_PRE_RENDER",
+      "current_family_distance": "Finite translucent registration layers are not any current provisional packet mechanism, but historical VSG/AL used translucency and registration locally.",
+      "vfd_distance": "Not VFD P2 opaque interlocking planes and not VFD P3 smooth fog/density continuum; the entire scene must be authored by finite continuous translucent layers.",
+      "history_pressure": "Any glassmorphism/luxury-tech, VSG shallow-layer material, AL translucent-boundary, or ordinary illustration-plus-overlay reading is a fail.",
+      "pixel_gate": "Actual CONTAMINATION_PASS and DISTANCE_PASS remain unproven until the primary image exists."
+    },
+    "R4": {
+      "result": "REJECTED_PRE_RENDER_PRE_PACKET",
+      "note": "No renderer packet exists; prior construction-quarantine rejection remains binding."
+    }
+  },
+  "renderer_packet_hashes_before_audit": {
+    "CTF_01_R1_T1_PRIMARY_STERILE_PACKET_01.txt": "2efc6e0fdfb60001721fc32d4afb419239f6c4940cb05e4dc5b7f7fe99ee90c6",
+    "CTF_01_R1_T3_TRANSFER_STERILE_PACKET_01.txt": "67cad84f709096f69bcdaa8020c2f6c8c369e12554670cae69239e59d7846aef",
+    "CTF_01_R2_T2_PRIMARY_STERILE_PACKET_01.txt": "3de6e4281a7a6d87d0f7e60b015eb0ece66211a1a380c4095ab981c5e115c602",
+    "CTF_01_R2_T4_TRANSFER_STERILE_PACKET_01.txt": "bf121fe7e27cbe205fe90304ced61a3262644e3e4e98a15a15e3173e03aa46b2",
+    "CTF_01_R3_T1_TRANSFER_STERILE_PACKET_01.txt": "69f350c4c3d4e64ccfff1122ad2d2de657a067c2086e50529f7c850b5867e811",
+    "CTF_01_R3_T3_PRIMARY_STERILE_PACKET_01.txt": "474f44191c70f01c8fc9864ec65440d4c372cefac6d356f0f842e7a9cb125152"
+  },
+  "packet_edit_authorized": false,
+  "primary_execution_authorized": [
+    "R1_T1_PRIMARY",
+    "R2_T2_PRIMARY",
+    "R3_T3_PRIMARY"
+  ],
+  "transfer_execution_authorized_now": [],
+  "audit_result": "CLEAN: no eligible premise is rejected by post-freeze comparison; no packet bytes changed; pixel-level distance/contamination remains a future conjunctive gate."
+}
