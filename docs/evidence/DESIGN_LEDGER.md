@@ -1267,3 +1267,17 @@ The central queue is not mutated in this closeout because Engineering `CURRENT_S
 **Guardrail:** Website `CURRENT_STATE.md` and the Design Ledger remain controlling for Design truth until that queue repair occurs.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ? CROSS-LANE CONTINUITY RECONCILIATION.**
+
+## L-078 - MAT-01 packet continuity is reconciled before post-MAT sequencing
+
+**State:** MAT-01 GATE PACKET MATERIALIZED / REGISTRY CURRENT THROUGH MAT-01 / NEXT GATE UNCHANGED
+
+The post-MAT re-entry precheck found a deterministic packet-framework defect: MAT-01 had closed and been promoted with F1 Subtractive Channel as its sole provisional survivor, but no required gate packet represented that result and `DESIGN_PACKET_REGISTRY_01.json` still stopped its synthesis trigger at SYM-02. No design result was missing; the retrievability layer was stale.
+
+`docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json` now preserves the frozen MAT-01 result, canonical Run `34561502881`, artifact/hash provenance, Mineral Theater comparison, authority limits, integration sensitivities and untested synthesis state. The registry now includes `PKT-MAT-01-01`, names the unresolved F1/Material-Theater integration question, and points to Audit 06 as the latest completed re-entry audit.
+
+**Next gate:** unchanged ? perform the fresh post-MAT Phase-B sequencing/re-entry audit before opening any composition or successor-divergence program.
+
+**Guardrail:** this continuity repair does not promote F1, reopen CLR-01, replace Mineral Theater, invent a representative surface, or authorize Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC PACKET-CONTINUITY REPAIR.**

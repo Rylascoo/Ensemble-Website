@@ -61,6 +61,14 @@
       "status": "CLOSED_ZERO_SURVIVORS",
       "current_contribution": "No new survivor; exact C0 Threshold K remains provisional incumbent under prior SYM-01 Director authority",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-MAT-01-01",
+      "path": "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json",
+      "axis": "structural material / shape grammar",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F1 Subtractive Channel color-independent authored field topology; Mineral Theater remains historical temporary material-role reference pending later synthesis",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -69,14 +77,15 @@
     "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
+    "F1 Subtractive Channel is a provisional structural material/shape survivor, but it has not yet been composed with Mineral Theater role behavior, CLR-01 color logic, state, motion or representative product hierarchy; no final material system exists",
     "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists"
   ],
   "synthesis_policy": {
     "composition_packets_created": [],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "SYM-02 closed with zero new symbol survivors; exact C0 remains provisional under prior SYM-01 authority. A fresh Phase-B sequencing/reentry audit is required before another symbol batch or identity-axis program; CLR-01 remains parked and Phase-C remains closed.",
+    "next_synthesis_trigger": "MAT-01 closed with F1 Subtractive Channel as its sole provisional survivor while Mineral Theater remains the historical material-role reference. A fresh Phase-B sequencing/reentry audit is required before any composition, another successor-divergence program, CLR-01 reentry, or Phase-C convergence.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_05.json"
+    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_06.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. The registry creates no final identity, production token, implementation or Phase-C authority."
 }

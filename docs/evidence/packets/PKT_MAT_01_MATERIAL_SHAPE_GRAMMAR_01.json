@@ -1,0 +1,142 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-MAT-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-10",
+  "gate_or_program": "MAT-01 ? Cross-Surface Material / Shape Grammar Successor Divergence",
+  "design_axis": "shared-brand structural material / shape grammar",
+  "bounded_question": "Can an independently constructed grayscale material/shape grammar create a distinctive restrained cross-surface field language across APP-like and WEB-like carriers without relying on color identity, symbol/wordmark geometry, bespoke type, imagery, motion, product semantics, or historical hero composition?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "562599f2a491fdd441fd9915b02222855ff4a726",
+    "current_state_at_close": "MAT-01 closure promoted to main at 6a7a466df016a0fac6830391544d89ed9673a35f; later continuity commits do not alter the frozen local result.",
+    "governing_method_or_contract": [
+      "docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+      "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json"
+    ],
+    "drive_sources_if_material": []
+  },
+  "controlled_inputs": [
+    "identical neutral content packet",
+    "APP-like and WEB-like carriers",
+    "grayscale structural levels only",
+    "1200 and 320 CSS-pixel viewports",
+    "normal and forced-colors browser modes",
+    "16/20/24/32 px exact scaled APP structural probes"
+  ],
+  "excluded_variables": [
+    "CLR-01 colors or final palette",
+    "Threshold K and O3 geometry",
+    "bespoke typography",
+    "hero imagery, human figures, terrain or architectural scene",
+    "motion and state-treatment mechanisms",
+    "product-semantic iconography",
+    "gradients, glow, glass, texture spectacle or generative media",
+    "app/site implementation"
+  ],
+  "local_result": {
+    "summary": "Canonical read-only browser preflight passed the complete four-mode matrix. Frozen subjective falsification leaves exactly one provisional survivor: F1 Subtractive Channel.",
+    "survivors_or_closure": [
+      "F1 ? Subtractive Channel"
+    ],
+    "recommended_incumbent": "F1 ? Subtractive Channel",
+    "alternates": [
+      "Mineral Theater remains the historical temporary material-role reference, not a MAT-01 candidate or replaced incumbent."
+    ],
+    "rejections": [
+      "F2 ? Compression Relief: generic rounded inset/control reading",
+      "F3 ? Dry Joint Assemblage: tile/equalizer/control cluster reading",
+      "F4 ? Folded Continuum: folded page/sheet metaphor",
+      "CNEG ? Conventional Card Stack: ineligible genericity control"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "F1 contributes color-independent authored field topology that survives compact scaling and APP/WEB transfer while remaining subordinate to content. It does not require hue, glow, imagery, a product glyph, or conventional card/inset/fold metaphors.",
+    "director_view_or_delegation": "No separate Director taste choice was triggered because exactly one eligible survivor remained. The result advances provisionally under standing clean-recursive-audit delegation and remains subject to later composition/whole-app synthesis.",
+    "resolution_mode": "DESIGN_SOL_ONLY"
+  },
+  "evidence": {
+    "mechanical": [
+      "canonical read-only hosted run 34561502881 at 562599f2a491fdd441fd9915b02222855ff4a726",
+      "normal + forced-colors at 1200 + 320 PASS",
+      "artifact 10184470652; zip SHA-256 1f9f112f7e91eeb760897b33d10cf21db224a548953504eac0f22f46fb8cf751",
+      "canonical harness SHA-256 1490762a5121c859acf1753c76e60d66cf31d969605e29e0cb73e2d716275274",
+      "minimum audited normal text contrast 10.3566:1"
+    ],
+    "visual": [
+      "prototypes/mat-01/harness.html ? canonical human-viewable grayscale comparison surface"
+    ],
+    "accessibility": [
+      "forced-colors comprehension preserved",
+      "no horizontal document overflow at 320 CSS px",
+      "compact structural probes resolve at exact 16/20/24/32 px sizes"
+    ],
+    "invalid_or_superseded_attempts": [
+      "34559903559 ? invalid compact-probe fixture selector; no candidate result",
+      "34560287462 ? runtime repair-validation run, not canonical source execution",
+      "34560557305 ? guarded repair-promotion run, not canonical subjective evidence"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "later composition/whole-app synthesis before production material tokenization",
+      "CLR-01 remains parked until its separately authorized integration/convergence reentry"
+    ],
+    "constrains": [
+      "future cross-surface field/carrier topology",
+      "later material-role and color-role integration",
+      "future representative composition surfaces"
+    ],
+    "must_not_be_confused_with": [
+      "replacement or retirement of Mineral Theater",
+      "final palette/material system",
+      "production component skin",
+      "final identity or implementation authority"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "F1's notch/channel topology must remain structural and subordinate when real color/material roles are reintroduced.",
+    "The topology must not drift into navigation, progress, directional, second-mark or semantic-state meaning on representative surfaces.",
+    "Mineral Theater role behavior and F1 structural topology have not yet been composed together; compatibility is unproven.",
+    "Typography remains a whole-system gap because TYP-01 closed with zero survivors; neutral fixture type must not be mistaken for a final type system."
+  ],
+  "explicit_non_authority": [
+    "No final material system, palette, production token, component skin, app/site implementation, final identity or Phase-C convergence.",
+    "F1 does not replace or retire Mineral Theater and does not reopen CLR-01 by itself."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "prototypes/mat-01/harness.html",
+      "docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json",
+      "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+      "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json",
+      "docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_02.json",
+      "docs/evidence/MAT_01_BROWSER_PREFLIGHT_01.json",
+      "docs/evidence/MAT_01_DESIGN_SOL_VIEW_01.json"
+    ],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/mat-01/harness.html",
+      "what_to_review": "Normal-mode CNEG/F1-F4 APP/WEB matrix and compact probes; forced-colors evidence is validation, not an aesthetic alternative.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "docs/evidence/MAT_01_BROWSER_PREFLIGHT_01.json",
+        "docs/evidence/MAT_01_BROWSER_REPAIR_VALIDATION_01.json"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
