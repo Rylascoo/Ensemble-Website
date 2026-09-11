@@ -1712,3 +1712,17 @@ The new evidence is methodological: P4 proves that a materially distant whole-su
 **Next consequential gate:** Director chooses whether to authorize that successor program, authorize a fresh unrelated second-family program, or explicitly amend the roadmap's two-family exit law as a separate governance decision. No new serial branch exists until that decision.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN POST-VFD REENTRY AUDIT.**
+
+## L-109 - Director authorizes CTF-01 topology-first successor divergence
+
+**State:** CTF-01 AUTHORIZED / METHOD FREEZE NEXT / NO CREATIVE EXPOSURE / NO SERIAL BRANCH YET
+
+Post-VFD Audit 11 returned zero automatic programs and recommended the smallest evidence-responsive continuation: a new second-family successor program that freezes materially disjoint content/cause topologies before any new representation premise. The Director then instructed Design Sol to continue. `docs/evidence/SHARED_BRAND_CTF_01_SUCCESSOR_SECOND_FAMILY_AUTHORIZATION_01.json` records that consequential sequencing decision.
+
+CTF-01 is not VFD-01 continuation, automatic VFD-02, P4 rescue, or reuse of the VFD budget. Every VFD-01 P1-P4 premise law, renderer packet, and image remains diagnostic/control evidence only. The current provisional C0/O3/TYP/MAT/STA/MOT family likewise remains comparison control only. Neither may seed candidate construction.
+
+**Next gate:** freeze the CTF-01 pre-exposure method on promoted `main`, including topology orthogonality, fresh premise construction, cross-assignment, contamination, renderer isolation, finite budget, anti-copy, accessibility, no-reroll, and termination law. Only a clean method freeze may open one serial CTF-01 branch.
+
+**Guardrail:** no candidate topology or visual premise yet; no P4/mosaic-seeded candidate, VFD reroll, CLR reentry, hero reopening, CMP-03/current-family refinement, product semantics, implementation, final identity, or Phase-C convergence.
+
+**APPROVED - DIRECTOR SEQUENCING DECISION + CLEAN DESIGN-SOL RECONCILIATION.**
