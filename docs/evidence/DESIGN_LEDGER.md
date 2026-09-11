@@ -1281,3 +1281,17 @@ The post-MAT re-entry precheck found a deterministic packet-framework defect: MA
 **Guardrail:** this continuity repair does not promote F1, reopen CLR-01, replace Mineral Theater, invent a representative surface, or authorize Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC PACKET-CONTINUITY REPAIR.**
+
+## L-079 - Post-MAT Phase-B reentry selects CMP-01 bounded packet composition
+
+**State:** AUDIT 07 COMPLETE / CMP-01 SELECTED / METHOD FREEZE NEXT / NO PHASE-C CONVERGENCE
+
+Audit 06 rejected composition while the positive packet set lacked a family-defining carrier and would have been dominated by neutral fixture choices. MAT-01 changes that evidence boundary: F1 Subtractive Channel is now a provisional color-independent structural carrier, satisfying Audit 06's explicit composition revisit trigger.
+
+`docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_07.json` therefore selects **CMP-01 ? Bounded Shared-Brand Packet Composition / Interaction Audit**. CMP-01 may combine exact C0 Threshold K, MAT F1, STA F2 Ring + Edge Witness, MOT F1A succession and MOT CS2 context replacement on synthetic APP/WEB carriers. Neutral system typography and grayscale are fixed unscored fixtures; color, final typography, wordmark, hero/static art and real product semantics remain deliberate gaps rather than being silently invented.
+
+**Next gate:** freeze the CMP-01 method/matrix and execution defaults before specimen construction, including packet-presence/ablation evidence and 1200/320 normal/forced-colors full/reduced-motion checks as applicable.
+
+**Guardrail:** no CLR-01 reentry, Mineral Theater recolor, source-packet retune, SYM-03, MAT F5, motion/state refinement, O3 redesign, hero reopening, product UI proposal, app/site implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

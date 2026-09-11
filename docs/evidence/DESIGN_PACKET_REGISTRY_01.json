@@ -83,9 +83,9 @@
   "synthesis_policy": {
     "composition_packets_created": [],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "MAT-01 closed with F1 Subtractive Channel as its sole provisional survivor while Mineral Theater remains the historical material-role reference. A fresh Phase-B sequencing/reentry audit is required before any composition, another successor-divergence program, CLR-01 reentry, or Phase-C convergence.",
+    "next_synthesis_trigger": "CMP-01 selected by Audit 07. Freeze its bounded composition method/matrix before constructing any specimen. Typography and color remain explicit unfilled fixture gaps; CLR-01 remains parked; Phase-C remains closed.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_06.json"
+    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_07.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. The registry creates no final identity, production token, implementation or Phase-C authority."
 }

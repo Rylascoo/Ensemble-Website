@@ -13,10 +13,10 @@ Design: `Rylascoo/Ensemble-Website`; exact product/engineering truth: `Rylascoo/
 ## Preserved state
 TYP-01 closed zero-survivor. MOT-01 provisional F1A/CS2. CLR-01 parked: Design Sol F2 recommended / F1 alternate, no Director selection. STA-01 provisional F2 Ring + Edge Witness. Static hero/renderer paused. SYM-01 exact C0 Threshold K remains provisional incumbent; authoritative SYM-02 closed zero-survivor after Run `34555569844`.
 
-## MAT-01 closed
-**F1 ? Subtractive Channel is the sole provisional MAT-01 survivor.** Canonical read-only Run `34561502881` at `562599f2a491fdd441fd9915b02222855ff4a726` passed normal/forced-colors at 1200/320 with artifact `10184470652` (`sha256:1f9f112f7e91eeb760897b33d10cf21db224a548953504eac0f22f46fb8cf751`). CNEG remains ineligible control. F2 fails as generic rounded inset/control; F3 as tile/equalizer/control cluster; F4 as folded page/sheet metaphor. No post-result retune or F5.
+## MAT-01 / Phase-B sequencing
+MAT-01 closed with **F1 ? Subtractive Channel** as sole provisional structural survivor; Mineral Theater remains historical temporary material-role reference. Required packet `PKT-MAT-01-01` is reconciled in the registry. Audit 07 now selects **CMP-01 ? Bounded Shared-Brand Packet Composition / Interaction Audit** because F1 satisfies Audit 06's composition revisit trigger.
 
-Mineral Theater remains the historical temporary material-role reference: MAT-01 shows F1 adds color-independent authored field topology but does **not** replace/retire Mineral Theater or select production material/color authority. One survivor means no Director taste gate.
+CMP-01 may combine exact C0 Threshold K + MAT F1 + STA F2 + MOT F1A/CS2 only on synthetic neutral APP/WEB carriers. System-ui and grayscale remain unscored fixtures; no wordmark, CLR color, hero art, product semantics, source-packet retune, or implementation authority.
 
 ## Exact next action / hard boundary
-Run a fresh Phase-B shared-brand sequencing/reentry audit before any new identity-axis program or synthesis step. No automatic CLR reopening, F5, Threshold-K/O3 redesign, hero reopening, app/site implementation, final material/palette authority, final identity, or Phase-C convergence.
+Freeze the CMP-01 method/matrix and deterministic execution defaults before specimen construction. CLR-01 remains parked; TYP-01 remains zero-survivor; Phase-B exit is **not** satisfied. No SYM-03, MAT F5, motion/state refinement, Mineral Theater recolor, O3 redesign, hero reopening, app/site implementation, final identity, or Phase-C convergence.
