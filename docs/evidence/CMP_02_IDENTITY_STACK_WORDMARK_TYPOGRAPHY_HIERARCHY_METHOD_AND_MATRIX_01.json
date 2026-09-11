@@ -1,0 +1,142 @@
+{
+  "schema": "kymaean.cmp02.identity-stack-composition-method.v1",
+  "status": "FROZEN_PRE_SPECIMEN",
+  "date": "2026-09-11",
+  "program_id": "CMP-02",
+  "name": "Identity Stack / Wordmark–Typography Hierarchy Composition Audit",
+  "classification": "PHASE_B_COMPOSITION_PACKET_RESEARCH_NOT_WHOLE_APP_SYNTHESIS",
+  "parent_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_09.json",
+  "bounded_question": "Can exact C0 Threshold K, exact O3 Balanced Hierarchy and TYP-02 F1 Ratio Ladder coexist inside the already-compatible MAT F1 + STA F2 scaffold across app-compact, website-header and acquisition/prelude roles without mark/name/type hierarchy collision, over-branding restrained app chrome, O3 becoming a second heading, typography competing with the name carrier, or compact Æ failure?",
+  "source_authority": {
+    "symbol_packet": "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json",
+    "wordmark_packet": "docs/evidence/packets/PKT_W0_O3_WORDMARK_01.json",
+    "typography_packet": "docs/evidence/packets/PKT_TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHY_01.json",
+    "material_packet": "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json",
+    "state_packet": "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
+    "diagnostic_predecessor": "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json",
+    "c0_asset": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+    "c0_lf_sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "o3_asset": "assets/brand/kymaean-o3-wordmark-temporary-incumbent.svg",
+    "o3_lf_sha256": "204e6f7b3239f44267a04afa2c12f0254a56142e9298ee6e7fab9f9061a674f5"
+  },
+  "controlled_inputs": [
+    "exact C0 Threshold K geometry, currentColor only",
+    "exact O3 Balanced Hierarchy geometry, currentColor only",
+    "TYP-02 F1 Ratio Ladder role grammar with system-ui/Segoe UI measurement carrier",
+    "MAT-01 F1 Subtractive Channel support topology",
+    "STA-01 F2 Ring + Edge Witness support state grammar",
+    "synthetic APP_COMPACT, WEB_HEADER and ACQUISITION_PRELUDE roles",
+    "neutral grayscale only"
+  ],
+  "scored_variant": {
+    "id": "FULL",
+    "definition": "Exact C0 + exact O3 + TYP-02 F1 + MAT F1 + STA F2.",
+    "score": true
+  },
+  "diagnostic_variants": [
+    {
+      "id": "NEUTRAL_TYP",
+      "definition": "Replace only TYP-02 F1 role values with the TYP-02 CNEG neutral role vector; exact C0/O3/MAT/STA and layout remain.",
+      "purpose": "Detect whether F1 Ratio Ladder competes with or improves the identity stack.",
+      "score": false
+    },
+    {
+      "id": "O3_SOLO",
+      "definition": "Hide only C0 while preserving the C0 slot where applicable; exact O3/TYP F1/MAT/STA remain.",
+      "purpose": "Detect whether C0 is required or whether mark/name competition weakens FULL.",
+      "score": false
+    },
+    {
+      "id": "NO_O3",
+      "definition": "Hide only O3 while preserving its allocated identity measure; exact C0/TYP F1/MAT/STA remain.",
+      "purpose": "Detect whether the temporary wordmark creates hierarchy collision.",
+      "score": false
+    }
+  ],
+  "role_matrix": [
+    {
+      "id": "APP_COMPACT",
+      "intent": "Restrained app-like brand chrome where product/scope information must remain primary.",
+      "identity_relation": "C0 + O3 horizontal relationship; brand must recede behind the synthetic scope label.",
+      "aesthetic_review": true
+    },
+    {
+      "id": "WEB_HEADER",
+      "intent": "Website-header relationship with more breathing room than app compact.",
+      "identity_relation": "C0 and O3 remain distinct jobs inside one header identity group.",
+      "aesthetic_review": true
+    },
+    {
+      "id": "ACQUISITION_PRELUDE",
+      "intent": "Acquisition/hero-prelude relationship without hero artwork.",
+      "identity_relation": "C0 precedes O3 vertically; TYP F1 content follows as subordinate information.",
+      "aesthetic_review": true
+    }
+  ],
+  "matrix": {
+    "variants": ["FULL", "NEUTRAL_TYP", "O3_SOLO", "NO_O3"],
+    "roles": ["APP_COMPACT", "WEB_HEADER", "ACQUISITION_PRELUDE"],
+    "logical_surfaces": 12,
+    "browser_stress_modes": 8,
+    "browser_surface_observations": 96,
+    "subjective_modes": ["normal-baseline-wide", "normal-baseline-320"],
+    "mechanical_only_modes": [
+      "normal-resize200-wide",
+      "normal-resize200-320",
+      "normal-spacing-wide",
+      "normal-spacing-320",
+      "forced-baseline-wide",
+      "forced-baseline-320"
+    ]
+  },
+  "mechanical_preflight": [
+    "All 12 logical surfaces exist in the frozen review order.",
+    "Exact C0 and O3 source geometry hashes match the canonical LF asset hashes.",
+    "FULL and all diagnostics differ only by their declared ablation/substitution.",
+    "TYP F1/CNEG role values equal the frozen TYP-02 vectors and responsive heading values.",
+    "MAT F1 and STA F2 values equal their frozen packet/default values.",
+    "No horizontal overflow at 1200 or 320 in any browser mode.",
+    "200% root text resize preserves all required content without clipping or horizontal scrolling.",
+    "Text-spacing stress preserves content and role order.",
+    "Forced-colors preserves readable content, a single identity accessible name, focus-visible outline and selected witness; decorative MAT channels may flatten.",
+    "No custom/downloaded font, remote resource, raster image, canvas, WebGL, gradient, filter, backdrop-filter, glow, animation, transition, timer or autoplay behavior.",
+    "No functional product semantics are encoded by candidate geometry."
+  ],
+  "subjective_falsification": [
+    "FAIL if C0 and O3 compete for first read instead of forming a clear mark/name hierarchy appropriate to the role.",
+    "FAIL if O3 reads as a second editorial heading rather than the name carrier.",
+    "FAIL if TYP-02 F1 becomes more identity-dominant than O3 or makes the name carrier visually redundant.",
+    "FAIL APP_COMPACT if branding displaces the synthetic scope label or reads promotional rather than restrained.",
+    "FAIL WEB_HEADER if the identity group becomes an over-coupled universal lockup or loses the approved breathing-room distinction.",
+    "FAIL ACQUISITION_PRELUDE if mark + name + heading become three simultaneous headline events or if C0 cannot operate as a prelude.",
+    "FAIL if O3 compact rendering loses the Æ enough to impair name recognition at the frozen role size.",
+    "FAIL if NEUTRAL_TYP is materially stronger because F1 creates avoidable identity competition.",
+    "FAIL if NO_O3 is materially stronger because O3 creates avoidable hierarchy collision.",
+    "FAIL if O3_SOLO is materially stronger because C0 creates avoidable mark/name competition.",
+    "FAIL if the result depends on color, custom typeface, imagery, motion spectacle or product-specific semantics to feel coherent."
+  ],
+  "review_order": [
+    "mechanical/source fidelity",
+    "320 baseline hierarchy and O3 legibility",
+    "wide baseline role-by-role hierarchy",
+    "FULL versus NEUTRAL_TYP diagnostic",
+    "FULL versus O3_SOLO diagnostic",
+    "FULL versus NO_O3 diagnostic",
+    "cross-role consistency without universal-ratio pressure",
+    "freeze Design Sol view before any Director taste input"
+  ],
+  "valid_outcomes": [
+    "PASS_COMPATIBLE_IDENTITY_STACK",
+    "INTEGRATION_REVIEW_REQUIRED",
+    "FAIL_BOUNDED_COMPOSITION"
+  ],
+  "director_gate": "Only if more than one materially valid hierarchy arrangement exists and the remaining distinction is irreducible taste/product meaning. A simple FULL pass does not create final lockup or Phase-C authority.",
+  "construction_freeze": "After first specimen materialization, C0/O3 geometry, TYP F1/CNEG values, MAT/STA values, role dimensions, identity measures, content, responsive rules, diagnostic definitions, review order and stress modes may not be retuned. Mechanical repair may only restore this exact frozen contract.",
+  "explicit_non_authority": [
+    "No final logo/wordmark lockup or universal mark/name ratio.",
+    "No final wordmark master, final typeface or production typography tokens.",
+    "No CLR-01 reentry, palette/material-color selection or Mineral Theater recolor.",
+    "No motion scoring/refinement, hero/static artwork, real product UI, functional iconography, app/site implementation, final identity or Phase-C convergence."
+  ],
+  "phase_b_exit_satisfied": false
+}
