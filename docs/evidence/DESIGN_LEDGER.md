@@ -1126,3 +1126,13 @@ C1 Bézier Fidelity remains the sole refinement challenger. Exact C0 remains imm
 **Next gate:** a new Round 03 may test only uniform horizontal proportion around C1.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-068 - SYM-02 Round 03 advances 103% horizontal proportion
+
+**State:** ROUND 03 FROZEN / C1W ADVANCES / C0 IMMUTABLE
+
+Uniform horizontal proportion was tested at 97%, 100% and 103% around the frozen C1 geometry. The 97% mark weakens compact presence. The 103% mark improves compact authority while preserving normalized internal geometry and the discovered negative-space K; it therefore advances.
+
+**Next gate:** final bracket at 102% / 103% / 104% only.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
