@@ -1383,3 +1383,17 @@ CLR-01 remains ineligible because its packet requires a Director-declared app-as
 **Guardrail:** no TYP-01 reroll, final typeface, O3 redesign, bespoke glyphs, CLR-01 reentry, product UI proposal, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-086 - TYP-02 method and responsive/reflow defaults freeze pre-specimen
+
+**State:** TYP-02 METHOD FROZEN / EXECUTION DEFAULTS FROZEN / NO SPECIMEN YET
+
+`TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHIC_ROLE_GRAMMAR_METHOD_AND_MATRIX_01.json` freezes a new typography successor rather than a TYP-01 repair. CNEG plus four scored mechanism-isolation families test one primary lever each: F1 Ratio Ladder, F2 Weight Plane, F3 Measure Plane, and F4 Rhythm Plane. Typography is scored as a subordinate contributor inside the exact C0 + MAT F1 + STA F2 structural scaffold, not as an identity system in isolation.
+
+`TYP_02_EXECUTION_DEFAULTS_01.json` freezes neutral content, system-ui measurement stack, grayscale fixtures, APP/WEB carrier dimensions, exact MAT/STA scaffold geometry, candidate role vectors, prospective <=520px adaptations, 200% root-font resize, text-spacing stress and forced-colors handling before any specimen exists. No TYP-01 candidate is reused or rescued, and no accessibility floor is lowered.
+
+**Next gate:** materialize the exact deterministic TYP-02 specimen matrix and static verifier, then freeze source bytes before browser/subjective exposure.
+
+**Guardrail:** no final typeface, O3/wordmark redesign, bespoke glyphs, CLR-01 reentry, source-packet retune, real product UI, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-SPECIMEN TYPOGRAPHY AUDIT.**

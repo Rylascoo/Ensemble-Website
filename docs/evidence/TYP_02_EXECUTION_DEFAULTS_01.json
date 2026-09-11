@@ -1,0 +1,177 @@
+{
+  "schema": "kymaean.typ02.execution-defaults.v1",
+  "status": "FROZEN_PRE_SPECIMEN",
+  "date": "2026-09-11",
+  "program_id": "TYP-02",
+  "reference_font": {
+    "css_stack": "system-ui, \"Segoe UI\", sans-serif",
+    "authority": "measurement carrier only",
+    "custom_or_downloaded_fonts_forbidden": true
+  },
+  "neutral_palette": {
+    "page": "#f7f7f4",
+    "field": "#ecece7",
+    "ink": "#1b1b19",
+    "line": "#8a8a82",
+    "authority": "measurement-only grayscale"
+  },
+  "content_packet": {
+    "eyebrow": "CONTEXT",
+    "heading": "Primary information remains clear.",
+    "body": "Supporting text explains the situation without changing the hierarchy.",
+    "support": "Secondary detail remains available.",
+    "state_labels": [
+      "Field A",
+      "Field B",
+      "Field C"
+    ]
+  },
+  "carrier": {
+    "APP": {
+      "max_width_px": 420,
+      "min_height_px": 360,
+      "padding_px": 18,
+      "c0_px": 32,
+      "identity_slot_px": 44,
+      "top_channel_height_px": 18,
+      "right_channel_width_px": 24
+    },
+    "WEB": {
+      "max_width_px": 680,
+      "min_height_px": 410,
+      "padding_px": 24,
+      "c0_px": 48,
+      "identity_slot_px": 60,
+      "top_channel_height_px": 28,
+      "right_channel_width_px": 36
+    }
+  },
+  "mat_f1_geometry": {
+    "top_channel_left_percent": 9,
+    "top_channel_width_percent": 30,
+    "right_channel_top_percent": 57,
+    "right_channel_height_percent": 23
+  },
+  "sta_f2_geometry": {
+    "APP": "selected edge witness 3px wide, 5px inline start, 7px block inset",
+    "WEB": "selected bottom witness 3px high, 9px inline inset, 5px bottom",
+    "focus": "2px currentColor outline with 2px offset; must coexist with selection witness"
+  },
+  "family_vectors": {
+    "CNEG": {
+      "eyebrow": "0.75rem/600/1.30/+0.06em",
+      "heading": "1.25rem/600/1.20/0",
+      "body": "1.00rem/400/1.50/0",
+      "support": "0.90rem/500/1.40/0",
+      "state": "0.85rem/600/1.25/0",
+      "measures_ch": {
+        "heading": 32,
+        "body": 48,
+        "support": 48
+      },
+      "gaps_px": [
+        8,
+        12,
+        12
+      ]
+    },
+    "F1": {
+      "eyebrow": "0.75rem/600/1.30/+0.06em",
+      "heading": "1.50rem/600/1.15/0",
+      "body": "1.00rem/400/1.50/0",
+      "support": "0.875rem/500/1.40/0",
+      "state": "0.85rem/600/1.25/0",
+      "measures_ch": {
+        "heading": 32,
+        "body": 48,
+        "support": 48
+      },
+      "gaps_px": [
+        8,
+        12,
+        12
+      ]
+    },
+    "F2": {
+      "eyebrow": "0.875rem/700/1.30/+0.02em",
+      "heading": "1.125rem/700/1.22/0",
+      "body": "1.00rem/400/1.50/0",
+      "support": "1.00rem/500/1.42/0",
+      "state": "0.875rem/700/1.25/0",
+      "measures_ch": {
+        "heading": 32,
+        "body": 48,
+        "support": 48
+      },
+      "gaps_px": [
+        8,
+        12,
+        12
+      ]
+    },
+    "F3": {
+      "eyebrow": "0.75rem/600/1.30/+0.06em",
+      "heading": "1.25rem/600/1.20/0",
+      "body": "1.00rem/400/1.50/0",
+      "support": "0.90rem/500/1.40/0",
+      "state": "0.85rem/600/1.25/0",
+      "measures_ch": {
+        "heading": 21,
+        "body": 34,
+        "support": 27
+      },
+      "gaps_px": [
+        8,
+        12,
+        12
+      ]
+    },
+    "F4": {
+      "eyebrow": "0.75rem/600/1.30/+0.06em",
+      "heading": "1.25rem/600/1.20/0",
+      "body": "1.00rem/400/1.50/0",
+      "support": "0.90rem/500/1.40/0",
+      "state": "0.85rem/600/1.25/0",
+      "measures_ch": {
+        "heading": 32,
+        "body": 48,
+        "support": 48
+      },
+      "gaps_px": [
+        6,
+        20,
+        8
+      ]
+    }
+  },
+  "responsive_rules": {
+    "breakpoint_css_px": 520,
+    "state_zone": "one column at <=520px for all families; three equal columns above",
+    "narrow_heading_rem": {
+      "CNEG": 1.15,
+      "F1": 1.35,
+      "F2": 1.05,
+      "F3": 1.15,
+      "F4": 1.15
+    },
+    "body_support_state_sizes": "unchanged from family vector",
+    "measure": "min(100%, declared ch measure)",
+    "container": "no fixed inline width beyond carrier max; no min-inline-size on text roles; vertical growth allowed",
+    "hyphens": "none",
+    "word_break": "normal",
+    "overflow_wrap": "break-word"
+  },
+  "stress_execution": {
+    "resize_200": "set document root font-size to 200% of baseline while preserving CSS viewport width; no candidate-specific rescue",
+    "text_spacing": "add +0.12em letter spacing, +0.16em word spacing, line-height floor 1.5 and paragraph/block spacing floor 2em where applicable",
+    "forced_colors": "Canvas/CanvasText/Highlight with forced-color-adjust:auto; typography family geometry must remain comprehensible without grayscale distinction"
+  },
+  "construction_freeze": "After first specimen materialization, candidate values, responsive rules, carrier geometry, content, stress execution and accessibility floors may not be retuned. Mechanical repairs may only restore this exact frozen contract.",
+  "c0_canonical_lf_sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+  "source_packets": {
+    "symbol": "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json",
+    "material": "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json",
+    "state": "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
+    "composition": "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json"
+  }
+}

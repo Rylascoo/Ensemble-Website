@@ -1,0 +1,154 @@
+{
+  "schema": "kymaean.typ02.method.v1",
+  "status": "FROZEN_PRE_MATERIALIZATION",
+  "date": "2026-09-11",
+  "workstream": "SHARED BRAND / PHASE B",
+  "program_id": "TYP-02",
+  "title": "Composition-Supported Typographic Role Grammar / Reflow",
+  "question": "Can a responsive typographic role grammar add distinctive but subordinate Kymaean character and clearer hierarchy inside the compatible C0 + MAT F1 + STA F2 scaffold across APP/WEB, 320px, 200% text resize and text-spacing stress, without bespoke glyphs, wordmark dependence, color identity, imagery, real product semantics, or requiring typography to carry identity alone?",
+  "authority": {
+    "entry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_08.json",
+    "prior_typography_closure": "docs/evidence/packets/PKT_TYP_01_STRONG_INDEPENDENCE_CLOSURE_01.json",
+    "composition_packet": "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json",
+    "current_state": "CURRENT_STATE.md"
+  },
+  "orthogonality_to_typ01": [
+    "No TYP-01 scored family is repaired or reused as a candidate.",
+    "TYP-01 tested strong identity independence; TYP-02 tests subordinate contribution inside an existing compatible scaffold.",
+    "TYP-02 freezes responsive/reflow behavior prospectively instead of prohibiting all narrow adaptation.",
+    "The WCAG/reflow floors remain unchanged or stronger; no accessibility floor is relaxed."
+  ],
+  "scored_context_scaffold": [
+    "exact C0 Threshold K currentColor geometry",
+    "MAT F1 Subtractive Channel topology",
+    "STA F2 Ring + Edge Witness selected-state grammar",
+    "neutral grayscale only",
+    "no motion scoring or wordmark"
+  ],
+  "candidate_order": [
+    "CNEG",
+    "F1",
+    "F2",
+    "F3",
+    "F4"
+  ],
+  "candidates": {
+    "CNEG": {
+      "name": "Neutral Utility",
+      "role": "ineligible calibration control",
+      "primary_mechanism": "balanced low-delta system hierarchy with no authored identity claim"
+    },
+    "F1": {
+      "name": "Ratio Ladder",
+      "primary_mechanism": "role distinction primarily through a bounded modular size ratio; weight/tracking/measure/rhythm remain near-neutral",
+      "primary_risk": "generic editorial scale or identity competition with C0"
+    },
+    "F2": {
+      "name": "Weight Plane",
+      "primary_mechanism": "role distinction primarily through weight contrast at tightly bounded sizes; measure/rhythm remain near-neutral",
+      "primary_risk": "generic dashboard hierarchy or excessive heaviness"
+    },
+    "F3": {
+      "name": "Measure Plane",
+      "primary_mechanism": "role distinction primarily through controlled text measure and grouping while size/weight deltas remain modest",
+      "primary_risk": "layout trick rather than transferable typography; fragile line-break dependence"
+    },
+    "F4": {
+      "name": "Rhythm Plane",
+      "primary_mechanism": "role distinction primarily through vertical interval cadence and grouping while size/weight/measure remain modest",
+      "primary_risk": "generic editorial whitespace or fatigue under repeated use"
+    }
+  },
+  "content_roles": [
+    "eyebrow",
+    "heading",
+    "body",
+    "support",
+    "state_label"
+  ],
+  "contexts": [
+    "APP",
+    "WEB"
+  ],
+  "browser_matrix": {
+    "viewport_width_css_px": [
+      1200,
+      320
+    ],
+    "text_resize_percent": [
+      100,
+      200
+    ],
+    "text_spacing_stress": [
+      false,
+      true
+    ],
+    "forced_colors": [
+      false,
+      true
+    ],
+    "note": "Mechanical matrix may combine equivalent stresses efficiently, but each listed stress must be independently represented and attributable."
+  },
+  "accessibility_floors": {
+    "normal_text_contrast": "4.5:1 minimum",
+    "large_text_contrast": "3:1 minimum",
+    "reflow": "320 CSS px without two-dimensional scrolling for nonessential content",
+    "text_resize": "200% without loss/clipping/content/function",
+    "text_spacing": "line-height >=1.5x, paragraph spacing >=2x font size where applicable, letter spacing +0.12em, word spacing +0.16em stress must not clip/overflow",
+    "focus_state": "selected witness and keyboard focus remain distinguishable independent of typography family"
+  },
+  "isolation": [
+    "system-ui, Segoe UI, sans-serif fixture stack only",
+    "no downloaded/custom font or font-feature novelty",
+    "no bespoke glyphs, ligature invention or altered letterforms",
+    "no O3/KYMÆAN/wordmark",
+    "no CLR-01 color, Mineral Theater hue/material role, gradients, texture, imagery or hero composition",
+    "no product-specific vocabulary or icons",
+    "no candidate-specific scaffold geometry",
+    "no motion as a scored differentiator"
+  ],
+  "subjective_falsification": [
+    "family is not materially distinguishable from CNEG in hierarchy/character",
+    "family competes with C0 or MAT carrier instead of remaining subordinate",
+    "APP and WEB read as unrelated typographic systems",
+    "distinctiveness depends primarily on accidental line breaks or one viewport",
+    "family reads as generic magazine/SaaS/dashboard styling without Kymaean-specific restraint",
+    "state labels or supporting content lose clarity/scannability",
+    "family becomes fatiguing or theatrically over-authored in repeated low-density use",
+    "judgment depends on unresolved color/typeface/wordmark rather than the frozen role grammar"
+  ],
+  "result_law": {
+    "pass": "One or more families survive every mechanical/accessibility floor and subjective falsification criterion; survivors remain provisional role-grammar evidence only.",
+    "zero_survivor": "Close TYP-02 with typography still unresolved; do not repair/replace candidates after exposure.",
+    "multiple_survivors": "If multiple materially valid survivors remain and distinction is irreducibly aesthetic/product-semantic, trigger Director taste gate.",
+    "no_post_exposure_retune": true,
+    "replacement_family_after_result_allowed": false,
+    "final_typeface_authority": false
+  },
+  "authority_limits": [
+    "No final typeface or production typography tokens.",
+    "No O3/wordmark redesign or bespoke glyph work.",
+    "No CLR-01 reentry or color/material-role convergence.",
+    "No source-packet retune, real product UI, app/site implementation, final identity or Phase-C convergence."
+  ],
+  "review_law": {
+    "subjective_scored_conditions": [
+      "normal-color 1200 APP/WEB",
+      "normal-color 320 APP/WEB"
+    ],
+    "mechanical_only_conditions": [
+      "200% text resize",
+      "text-spacing stress",
+      "forced-colors"
+    ],
+    "principle": "Accessibility/stress modes are pass/fail validation and never aesthetic alternatives. Subjective review occurs only after complete mechanical pass."
+  },
+  "control_law": "CNEG is an ineligible calibration control and can never survive TYP-02",
+  "source_packet_ids": [
+    "PKT-SYM-01-01",
+    "PKT-MAT-01-01",
+    "PKT-STA-01-01",
+    "PKT-CMP-01-01"
+  ],
+  "phase_b_exit_condition_satisfied": false
+}
