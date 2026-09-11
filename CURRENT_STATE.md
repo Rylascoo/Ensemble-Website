@@ -8,19 +8,16 @@ Updated: 2026-09-10
 Design: `Rylascoo/Ensemble-Website`; exact product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap/workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; closure: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / cross-project
-`main` is promoted authority; `site/` alone is deployable. Do not mutate stale central Q-DESIGN-19 during active Engineering provider work. Preserve concurrent branch `design/sym02-threshold-k-shape-refinement-2026-09-11` as stale/conflicting unique-commit evidence; MAT-01 must not merge or delete it.
+`main` is promoted authority; `site/` alone is deployable. Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` as stale/conflicting unique-commit evidence; MAT-01 must not merge/delete it. Zero-unique MAT-01 safety refs created during tool recovery are cleanup debt only.
 
 ## Preserved state
-TYP-01 closed zero-survivor. MOT-01 retains provisional F1A/CS2. CLR-01 is parked: Design Sol F2 recommended / F1 alternate, no Director family selection. STA-01 retains provisional F2 Ring + Edge Witness. Static hero/renderer research remains paused.
-
-## Symbol state
-SYM-01 selected exact C0 Threshold K as provisional incumbent. SYM-02 later closed with zero new survivors after hosted Run `34555569844`; C0-R2/R3/N1 failed mechanically and R1/N2/N3 failed frozen subjective criteria. C0-R4/N4 were not constructed. Exact C0 remains provisional only under SYM-01; no final/production symbol authority exists.
+TYP-01 closed zero-survivor. MOT-01 provisional F1A/CS2. CLR-01 parked: Design Sol F2 recommended / F1 alternate, no Director selection. STA-01 provisional F2 Ring + Edge Witness. Static hero/renderer paused. SYM-01 exact C0 Threshold K remains provisional incumbent; authoritative SYM-02 closed zero-survivor after hosted Run `34555569844`.
 
 ## MAT-01 active
-`SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_06.json` selects **MAT-01 — Cross-Surface Material / Shape Grammar Successor Divergence**. `docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json`, `MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json`, and `MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json` are frozen pre-materialization. Addendum 02 closes only previously unspecified F2/F3 placement, neutral content-flow, control-layer, F4 crease-realization, and compact-probe details before any specimen bytes exist. Mineral Theater is reference/incumbent only; candidates are independently constructed in grayscale.
+`SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_06.json` selects **MAT-01 — Cross-Surface Material / Shape Grammar Successor Divergence**. Method plus `MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json` and `_02.json` are frozen. Mineral Theater is reference/incumbent only; CNEG/F1-F4 are independently constructed in grayscale. `MAT_01_FROZEN_CANDIDATE_MANIFEST_01.json` binds the first packet at `b813dbc5ed1295cb3f6626124f0bd718edc1c0b1`.
 
-## MAT-01 frozen specimen packet
-`docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_01.json` binds the first exact CNEG/F1-F4 harness, compact APP probes, static verifier, hosted-browser probe and browser verifier before browser exposure. Candidate/control geometry, tones, content and count are immutable for this run except mechanical repair back to the frozen contract.
+## Browser preflight defect
+Hosted Run `34559903559` passed the static contract and both 1200px modes, then failed the 320px compact-probe fixture because `.surface{max-width:100%!important}` clamped the mandated 210x210 internal clone before scaling. `MAT_01_BROWSER_PREFLIGHT_FIXTURE_DEFECT_01.json` classifies this as an invalid fixture run, not candidate failure and not subjective evidence. The only authorized repair is selector scoping to `.cell>.surface{max-width:100%!important}`; candidate geometry/tones/count/content stay byte-intent unchanged.
 
 ## Exact next action / hard boundary
-Run the frozen MAT-01 packet through hosted Chrome at 1200/320 in normal and forced-colors modes and preserve diagnostics/screenshots. Only complete mechanical PASS may enter subjective falsification. No automatic SYM-03; CLR-01 remains parked. No production palette/material token, Threshold-K/O3 redesign, hero reopening, app/site implementation, final identity, or Phase-C convergence.
+Validate that exact one-line fixture repair in hosted Chrome at 1200/320 normal + forced-colors. On complete mechanical PASS, freeze the repaired harness bytes and actual browser evidence before subjective MAT-01 review. No evidence-aware retune, replacement F5, CLR reopening, Threshold-K/O3 redesign, hero reopening, app/site implementation, final identity, production material/palette authority, or Phase-C convergence.

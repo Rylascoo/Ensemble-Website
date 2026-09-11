@@ -26,6 +26,29 @@ jobs:
           BROWSER_VERSION="$($BROWSER --version)"
           OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
           mkdir -p /tmp/mat01-artifact/diagnostics /tmp/mat01-artifact/screenshots
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib
+          p=Path('prototypes/mat-01/harness.html')
+          s=p.read_text(encoding='utf-8')
+          old='  .surface{max-width:100%!important}'
+          new='  .cell>.surface{max-width:100%!important}'
+          assert s.count(old)==1, f'expected exactly one frozen defective selector, found {s.count(old)}'
+          assert new not in s, 'repair selector already present unexpectedly'
+          repaired=s.replace(old,new)
+          p.write_text(repaired,encoding='utf-8',newline='\n')
+          print('MAT01_RUNTIME_FIXTURE_REPAIR=APPLIED')
+          print('REPAIRED_HARNESS_SHA256='+hashlib.sha256(repaired.encode('utf-8')).hexdigest())
+          PY
+          cp prototypes/mat-01/harness.html /tmp/mat01-artifact/harness-repaired.html
+          sha256sum prototypes/mat-01/harness.html | tee /tmp/mat01-artifact/harness-repaired.sha256
+          cp docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_01.json /tmp/mat01-artifact/manifest-before-repair.json
+          cp docs/evidence/MAT_01_BROWSER_PREFLIGHT_FIXTURE_DEFECT_01.json /tmp/mat01-artifact/fixture-defect.json
+          cp docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json /tmp/mat01-artifact/method.json
+          cp docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/mat01-artifact/addendum-01.json
+          cp docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json /tmp/mat01-artifact/addendum-02.json
+          printf '%s\n' "$BROWSER_VERSION" > /tmp/mat01-artifact/browser-version.txt
+          printf '%s\n' "$OS_PRETTY" > /tmp/mat01-artifact/os-pretty.txt
           python -m http.server 8765 --bind 127.0.0.1 >/tmp/mat01-http.log 2>&1 &
           SERVER_PID=$!
           trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
@@ -49,13 +72,6 @@ jobs:
             --forced-320 /tmp/mat01-artifact/diagnostics/forced-320.json \
             --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
             --output /tmp/mat01-artifact/MAT_01_BROWSER_PREFLIGHT_01.json
-          cp prototypes/mat-01/harness.html /tmp/mat01-artifact/harness.html
-          cp docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_01.json /tmp/mat01-artifact/manifest.json
-          cp docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json /tmp/mat01-artifact/method.json
-          cp docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/mat01-artifact/addendum-01.json
-          cp docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json /tmp/mat01-artifact/addendum-02.json
-          printf '%s\n' "$BROWSER_VERSION" > /tmp/mat01-artifact/browser-version.txt
-          printf '%s\n' "$OS_PRETTY" > /tmp/mat01-artifact/os-pretty.txt
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         if: always()
         with:

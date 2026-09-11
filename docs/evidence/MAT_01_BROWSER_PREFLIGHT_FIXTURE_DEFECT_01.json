@@ -1,0 +1,47 @@
+{
+  "schema": "kymaean.mat01.browser-preflight-fixture-defect.v1",
+  "status": "CLASSIFIED_INVALID_FIXTURE_RUN_REPAIR_PENDING_VALIDATION",
+  "date": "2026-09-10",
+  "program": "MAT-01 — Cross-Surface Material / Shape Grammar Successor Divergence",
+  "frozen_specimen_commit": "b813dbc5ed1295cb3f6626124f0bd718edc1c0b1",
+  "failed_run": {
+    "workflow": "Temporary MAT-01 browser preflight",
+    "run_id": 34559903559,
+    "job_id": 103140307781,
+    "conclusion": "failure",
+    "artifact_id": 10183937694,
+    "artifact_digest": "sha256:4f3fd11e688b6967d1e50256f187ce3bd95f915d81097a9d01d67d13e73ada9c"
+  },
+  "confirmed_passes_before_failure": {
+    "static_frozen_contract": "PASS",
+    "harness_sha256": "7ee3be6b9635a3a06cb5e62836c846cc076924cc2fca3c19160b63e34c69f1c6",
+    "minimum_text_contrast": 10.3566,
+    "wide_normal_overflow_elements": 0,
+    "wide_forced_overflow_elements": 0,
+    "wide_compact_probe_scaled_widths_px": [16, 20, 24, 32]
+  },
+  "defect": {
+    "scope": "compact structural probe fixture only at <=520px",
+    "cause": "The 320px media rule `.surface{max-width:100%!important}` also matched `.probe-canonical.surface`, clamping the mandated 210x210 internal APP clone to the wrapper width before its frozen size/210 transform. This produced double scaling.",
+    "observed_normal_320_canonical_widths_px": [1.2190475463867188, 1.9047622680664062, 2.7428572177886963, 4.876190185546875],
+    "observed_forced_320_canonical_widths_px": [1.2190475463867188, 1.9047622680664062, 2.7428572177886963, 4.876190185546875],
+    "document_scroll_width_px": 320,
+    "candidate_context_surface_overflow": "not observed"
+  },
+  "classification": {
+    "candidate_failure": false,
+    "valid_subjective_evidence": false,
+    "reason": "The failure contradicts frozen Addendum 02 compact-probe construction and is caused by review-fixture selector scope. Candidate family geometry, tones, topology, proportions and APP/WEB context surfaces are not implicated.",
+    "wide_render_status": "mechanically informative only; not consumed as subjective MAT-01 evidence because the required four-mode matrix did not pass"
+  },
+  "authorized_mechanical_repair": {
+    "old_rule": ".surface{max-width:100%!important}",
+    "new_rule": ".cell>.surface{max-width:100%!important}",
+    "effect": "Scopes the existing 320px max-width behavior to APP/WEB review-cell surfaces and restores the compact probe internal clone to the already-frozen 210x210 construction.",
+    "candidate_geometry_change": false,
+    "candidate_tone_change": false,
+    "candidate_count_change": false,
+    "content_change": false
+  },
+  "next_gate": "Validate this exact one-line repair in hosted Chrome across normal/forced-colors at 1200 and 320 before freezing repaired harness bytes as the valid execution specimen. No subjective review before a complete mechanical PASS."
+}
