@@ -110,9 +110,9 @@
       "PKT-CMP-01-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Perform a fresh Phase-B sequencing/reentry audit using TYP-02 F1 Ratio Ladder as new bounded typography evidence; do not infer CLR-01 reentry or whole-app convergence automatically.",
+    "next_synthesis_trigger": "Freeze and execute CMP-02 bounded identity-stack composition using exact C0 + O3 + TYP-02 F1 + MAT F1 + STA F2; do not infer CLR-01 reentry or whole-app convergence.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_08.json"
+    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_09.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. The registry creates no final identity, production token, implementation or Phase-C authority."
 }

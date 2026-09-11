@@ -1493,3 +1493,19 @@ This is indexing/continuity repair only. O3 geometry, Director approval, Thresho
 **Next gate:** complete the fresh post-TYP-02 Phase-B sequencing/reentry audit.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC CONTINUITY REPAIR.**
+
+## L-094 - Post-TYP-02 reentry selects CMP-02 identity-stack composition
+
+**State:** AUDIT 09 COMPLETE / CMP-02 SELECTED / METHOD FREEZE NEXT / NO CONVERGENCE
+
+TYP-02 supplies the new positive evidence missing from CMP-01: F1 Ratio Ladder now gives the shared scaffold a bounded responsive typography role grammar. The continuity repair also makes the existing Director-approved O3 Balanced Hierarchy wordmark authority explicit as `PKT-W0-O3-01`. O3's own approval already authorizes unchanged Threshold K + O3 in integrated app + website testing and names app-compact, website-header and hero/acquisition deployment roles.
+
+Audit 09 therefore selects **CMP-02 — Identity Stack / Wordmark–Typography Hierarchy Composition Audit**. CMP-02 asks whether exact C0, exact O3 and TYP-02 F1 can coexist inside the already-compatible MAT F1 + STA F2 scaffold across those bounded synthetic roles without mark/name/type hierarchy collision, restrained-app over-branding, O3 becoming a second heading, typography competing with the name carrier, or compact Æ failure. Motion remains preserved but outside scoring because temporal behavior does not answer this bounded hierarchy question.
+
+CLR-01 remains ineligible because its explicit Director-declared convergence trigger is still unsatisfied. Whole-app synthesis remains ineligible because final color/typeface, real product-surface authority, hero/static direction and other system gaps remain open. Phase-B exit remains false.
+
+**Next gate:** freeze CMP-02 method/matrix and deterministic execution defaults before any specimen construction or exposure.
+
+**Guardrail:** no O3/C0/TYP/MAT/STA retune, no final wordmark/typeface, CLR-01 reentry, hero reopening, product UI proposal, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

@@ -1,0 +1,66 @@
+{
+  "schema": "kymaean.shared-brand-orthogonal-reentry-audit.v9",
+  "status": "COMPLETE_CMP02_SELECTED_IDENTITY_STACK_COMPOSITION_NO_CONVERGENCE",
+  "date": "2026-09-11",
+  "baseline": "Rylascoo/Ensemble-Website main 017458bd8b5453d3a048ef8a0a60dc68fb5cbc31 plus continuity packet repair 9ed17548bbc79146d28ff4843fa340a73ecf87a7",
+  "objective": "After TYP-02 closes with F1 Ratio Ladder and O3 continuity is packeted, select at most one lawful next Phase-B gate without reopening CLR-01, redesigning O3/C0, repeating CMP-01 without new information, inventing real product semantics, or crossing into Phase-C convergence.",
+  "new_evidence": [
+    "PKT-TYP-02-01 adds a positive responsive role grammar that was absent from CMP-01.",
+    "PKT-W0-O3-01 makes the already Director-approved O3 temporary wordmark authority explicit in the active packet map.",
+    "O3 approval specifically authorizes unchanged Threshold K + O3 in integrated app + website testing and names app compact, website header and hero/acquisition deployment roles."
+  ],
+  "phase_b_exit_satisfied": false,
+  "engineering_boundary": "Ensemble-Project remains E0-A Experimental Harness Phase B; no shipping product-UI visual authority exists, so real-product composition and whole-app synthesis remain out of scope.",
+  "open_lane_audit": {
+    "composition_identity_stack": "SELECTED. TYP-02 creates genuinely new packet-level evidence, and O3 already carries explicit Director authorization for integrated app + website testing. A bounded mark/name/type hierarchy audit now has higher information value than another isolated successor batch.",
+    "wordmark_redesign": "NOT_NEXT. O3 is already the temporary Director-selected W0 incumbent; redesign before testing it against the new typography packet would discard unexercised authorized integration evidence.",
+    "typography_isolated": "NOT_NEXT. TYP-02 just closed with F1 Ratio Ladder; immediate continuation would be refinement without integration pressure.",
+    "symbol_material_state_motion": "NOT_NEXT_AS_ISOLATED. C0, MAT F1 and STA F2 already have positive bounded evidence; MOT F1A/CS2 already passed CMP-01 interaction and is not required to answer the mark/name/type hierarchy question.",
+    "color_logic": "NOT_ELIGIBLE. CLR-01 remains Director-parked until its explicit app-asset / whole-app synthesis convergence trigger is satisfied.",
+    "whole_app_synthesis": "NOT_ELIGIBLE. Color, final typeface, real product surface authority, hero/static direction and other system gaps remain unresolved; CMP-02 must remain a bounded synthetic composition packet.",
+    "hero_static_world": "NOT_ELIGIBLE. Static hero/renderer research remains paused.",
+    "iconography": "NOT_READY. Functional iconography still depends on later real product vocabulary; decorative glyph invention would not answer the current integration question.",
+    "spacing_density": "NOT_SELECTED_AS_INDEPENDENT. TYP-02 and earlier typography work already exercise hierarchy/spacing variables; use only fixed fixture values inside CMP-02, not as a disguised new axis."
+  },
+  "selected_program": {
+    "program_id": "CMP-02",
+    "name": "Identity Stack / Wordmark–Typography Hierarchy Composition Audit",
+    "classification": "PHASE_B_COMPOSITION_PACKET_RESEARCH_NOT_WHOLE_APP_SYNTHESIS",
+    "question": "Can exact C0 Threshold K, exact O3 Balanced Hierarchy and TYP-02 F1 Ratio Ladder coexist inside the already-compatible MAT F1 + STA F2 structural scaffold across app-compact, website-header and acquisition/prelude roles without mark/name/type hierarchy collision, over-branding restrained app chrome, O3 becoming a second heading, typography competing with the name carrier, or compact Æ failure?",
+    "packet_inputs": [
+      "PKT-SYM-01-01",
+      "PKT-W0-O3-01",
+      "PKT-TYP-02-01",
+      "PKT-MAT-01-01",
+      "PKT-STA-01-01"
+    ],
+    "diagnostic_predecessor": "PKT-CMP-01-01",
+    "scope": "Non-production grayscale identity-stack integration evidence only; synthetic carrier roles, not real app/site layouts."
+  },
+  "frozen_boundaries": [
+    "C0 and O3 must be exact current source geometry; no redraw, simplification or ratio-lockup invention before exposure.",
+    "TYP-02 F1 Ratio Ladder role relationships are inherited unchanged; system-ui remains a measurement carrier, not a final typeface.",
+    "MAT F1 and STA F2 are unchanged support packets; no source-packet retune.",
+    "MOT F1A/CS2 remain preserved but excluded from CMP-02 scoring because temporal behavior does not answer the bounded mark/name/type hierarchy question.",
+    "grayscale only; CLR-01 and Mineral Theater hue roles remain excluded.",
+    "no hero imagery, real product semantics, functional iconography, app/site implementation, final tokens or production assets."
+  ],
+  "termination_and_review": {
+    "valid_outcomes": [
+      "PASS_COMPATIBLE_IDENTITY_STACK",
+      "INTEGRATION_REVIEW_REQUIRED",
+      "FAIL_BOUNDED_COMPOSITION"
+    ],
+    "director_gate": "Trigger only if multiple materially valid hierarchy arrangements survive and the remaining distinction is aesthetic/product-semantic rather than falsifiable. Do not infer a final logo lockup or Phase-C entry from a pass.",
+    "no_retune": "No post-exposure C0/O3/TYP/MAT/STA geometry or role-value retune. A tooling/carrier defect may be repaired only if it is shared, deterministic and does not alter scored packet values."
+  },
+  "next_action": "Freeze CMP-02 method/matrix and deterministic execution defaults before constructing or viewing any specimen.",
+  "hard_boundaries": [
+    "No O3 redesign or final wordmark master.",
+    "No C0/SYM-03 work.",
+    "No final typeface or typography-token production.",
+    "No CLR-01 reentry or color-family selection.",
+    "No hero/static reopening, real product UI proposal, app/site implementation, final identity or Phase-C convergence."
+  ],
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}
