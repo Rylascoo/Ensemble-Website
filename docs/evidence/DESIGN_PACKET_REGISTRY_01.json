@@ -97,7 +97,7 @@
     {
       "packet_id": "PKT-CMP-02-01",
       "path": "docs/evidence/packets/PKT_CMP_02_IDENTITY_STACK_COMPOSITION_01.json",
-      "axis": "identity stack / wordmark?typography hierarchy composition",
+      "axis": "identity stack / wordmark–typography hierarchy composition",
       "status": "FROZEN_LOCAL_RESULT",
       "current_contribution": "PASS_COMPATIBLE_IDENTITY_STACK for exact C0 + O3 + TYP-02 F1 + MAT F1 + STA F2 across three bounded synthetic roles; compatibility evidence only",
       "production_authority": false

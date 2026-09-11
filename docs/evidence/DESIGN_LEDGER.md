@@ -1217,7 +1217,7 @@ Before materialization, recursive audit found two execution values still discret
 
 **Guardrail:** the correction existed before the first specimen; later visual evidence may not be used to alter these values.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN PRE-EXPOSURE AUDIT.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRE-EXPOSURE AUDIT.**
 
 
 ## L-075 - MAT-01 compact-probe fixture defect is mechanically repaired without candidate retune
@@ -1232,7 +1232,7 @@ The sole authorized selector repair was validated by hosted Run `34560287462`, w
 
 **Next gate:** one canonical read-only hosted four-mode run with no runtime source mutation. No subjective family judgment before that complete mechanical PASS.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? DETERMINISTIC FIXTURE REPAIR.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — DETERMINISTIC FIXTURE REPAIR.**
 
 
 ## L-076 - MAT-01 closes with F1 as sole provisional survivor
@@ -1241,7 +1241,7 @@ The sole authorized selector repair was validated by hosted Run `34560287462`, w
 
 Canonical read-only hosted Run `34561502881` at `562599f2a491fdd441fd9915b02222855ff4a726` completed the frozen repaired MAT-01 matrix in Chrome 152 at 1200/320 normal and forced-colors. Artifact `10184470652` preserves the exact harness, diagnostics and screenshots; its zip digest is `sha256:1f9f112f7e91eeb760897b33d10cf21db224a548953504eac0f22f46fb8cf751`. `MAT_01_BROWSER_PREFLIGHT_01.json` records the complete mechanical PASS.
 
-Frozen subjective falsification leaves **F1 ? Subtractive Channel** as the sole provisional survivor. F2 reads primarily as a generic rounded inset/control; F3 as a tile/equalizer/control cluster; F4 as a folded page/sheet metaphor. CNEG remains the ineligible genericity control. No candidate was redrawn, rescued, or replaced by F5.
+Frozen subjective falsification leaves **F1 — Subtractive Channel** as the sole provisional survivor. F2 reads primarily as a generic rounded inset/control; F3 as a tile/equalizer/control cluster; F4 as a folded page/sheet metaphor. CNEG remains the ineligible genericity control. No candidate was redrawn, rescued, or replaced by F5.
 
 Direct comparison with the historical Mineral Theater reference establishes a bounded distinction rather than replacement: Mineral Theater remains the already-proven atmospheric material-role reference, while F1 contributes color-independent authored field topology that survives grayscale and compact scaling. MAT-01 does not retire Mineral Theater or select a final palette, production material system, component skin, app/site implementation or final identity.
 
@@ -1251,7 +1251,7 @@ Primary evidence: `docs/evidence/MAT_01_BROWSER_PREFLIGHT_01.json`, `docs/eviden
 
 **Next gate:** fresh Phase-B shared-brand sequencing/reentry audit. No automatic CLR-01 reopening, F5, production integration, or Phase-C convergence.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN FROZEN-CRITERIA FALSIFICATION.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FROZEN-CRITERIA FALSIFICATION.**
 
 
 ## L-077 - Central Design queue mismatch remains explicit deferred continuity debt
@@ -1266,7 +1266,7 @@ The central queue is not mutated in this closeout because Engineering `CURRENT_S
 
 **Guardrail:** Website `CURRENT_STATE.md` and the Design Ledger remain controlling for Design truth until that queue repair occurs.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? CROSS-LANE CONTINUITY RECONCILIATION.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CROSS-LANE CONTINUITY RECONCILIATION.**
 
 ## L-078 - MAT-01 packet continuity is reconciled before post-MAT sequencing
 
@@ -1276,7 +1276,7 @@ The post-MAT re-entry precheck found a deterministic packet-framework defect: MA
 
 `docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json` now preserves the frozen MAT-01 result, canonical Run `34561502881`, artifact/hash provenance, Mineral Theater comparison, authority limits, integration sensitivities and untested synthesis state. The registry now includes `PKT-MAT-01-01`, names the unresolved F1/Material-Theater integration question, and points to Audit 06 as the latest completed re-entry audit.
 
-**Next gate:** unchanged ? perform the fresh post-MAT Phase-B sequencing/re-entry audit before opening any composition or successor-divergence program.
+**Next gate:** unchanged — perform the fresh post-MAT Phase-B sequencing/re-entry audit before opening any composition or successor-divergence program.
 
 **Guardrail:** this continuity repair does not promote F1, reopen CLR-01, replace Mineral Theater, invent a representative surface, or authorize Phase-C convergence.
 
@@ -1288,7 +1288,7 @@ The post-MAT re-entry precheck found a deterministic packet-framework defect: MA
 
 Audit 06 rejected composition while the positive packet set lacked a family-defining carrier and would have been dominated by neutral fixture choices. MAT-01 changes that evidence boundary: F1 Subtractive Channel is now a provisional color-independent structural carrier, satisfying Audit 06's explicit composition revisit trigger.
 
-`docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_07.json` therefore selects **CMP-01 ? Bounded Shared-Brand Packet Composition / Interaction Audit**. CMP-01 may combine exact C0 Threshold K, MAT F1, STA F2 Ring + Edge Witness, MOT F1A succession and MOT CS2 context replacement on synthetic APP/WEB carriers. Neutral system typography and grayscale are fixed unscored fixtures; color, final typography, wordmark, hero/static art and real product semantics remain deliberate gaps rather than being silently invented.
+`docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_07.json` therefore selects **CMP-01 — Bounded Shared-Brand Packet Composition / Interaction Audit**. CMP-01 may combine exact C0 Threshold K, MAT F1, STA F2 Ring + Edge Witness, MOT F1A succession and MOT CS2 context replacement on synthetic APP/WEB carriers. Neutral system typography and grayscale are fixed unscored fixtures; color, final typography, wordmark, hero/static art and real product semantics remain deliberate gaps rather than being silently invented.
 
 **Next gate:** freeze the CMP-01 method/matrix and execution defaults before specimen construction, including packet-presence/ablation evidence and 1200/320 normal/forced-colors full/reduced-motion checks as applicable.
 
@@ -1536,13 +1536,13 @@ Pre-exposure recursive audit found that Manifest 01 bound `tools/verify_cmp02_br
 
 **Guardrail:** this repair authorizes no packet retune, CLR-01 reentry, final typeface/wordmark/lockup, implementation, final identity or Phase-C convergence.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? DETERMINISTIC TOOLING/PROVENANCE REPAIR.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — DETERMINISTIC TOOLING/PROVENANCE REPAIR.**
 
 ## L-097 - CMP-02 Run 1 is invalidated by sr-only overflow measurement; Manifest 03 repairs verifier only
 
 **State:** RUN 1 INVALID / NO DESIGN RESULT / MANIFEST 03 FROZEN / NEW CANONICAL PREFLIGHT NEXT
 
-Hosted Run `34642160213` at commit `607be74343c510a8f08fb8e6ef445ba55edf97b2` passed checkout and static-source verification, then failed the browser verifier only because every surface's intentional 1?1 `.sr-only.brand-name` accessibility span has `scrollWidth > clientWidth`. Those spans are deliberately visually clipped and are not visible document/layout overflow. Artifact `10280327547` (zip digest `sha256:215484d88eb9ed920c7051f7d2b2181302207be250f991febd0d45c2ce7e3f92`) preserves all eight diagnostic JSONs.
+Hosted Run `34642160213` at commit `607be74343c510a8f08fb8e6ef445ba55edf97b2` passed checkout and static-source verification, then failed the browser verifier only because every surface's intentional 1×1 `.sr-only.brand-name` accessibility span has `scrollWidth > clientWidth`. Those spans are deliberately visually clipped and are not visible document/layout overflow. Artifact `10280327547` (zip digest `sha256:215484d88eb9ed920c7051f7d2b2181302207be250f991febd0d45c2ce7e3f92`) preserves all eight diagnostic JSONs.
 
 Mechanical re-evaluation of those eight JSONs with only `.sr-only` spans excluded from visible-overflow classification yields zero remaining verifier errors: twelve accessibility spans are excluded per mode, zero non-sr-only overflow elements remain, and all frozen geometry, typography, focus, state, source, and responsive checks pass. Run 1 nevertheless remains tooling evidence only; no screenshot was inspected or scored.
 
@@ -1550,7 +1550,7 @@ Mechanical re-evaluation of those eight JSONs with only `.sr-only` spans exclude
 
 **Next gate:** one new canonical hosted eight-mode run from Manifest 03. No subjective review unless it passes completely.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? DETERMINISTIC MEASUREMENT REPAIR.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — DETERMINISTIC MEASUREMENT REPAIR.**
 
 ## L-098 - CMP-02 closes PASS_COMPATIBLE_IDENTITY_STACK
 
@@ -1558,10 +1558,10 @@ Mechanical re-evaluation of those eight JSONs with only `.sr-only` spans exclude
 
 Canonical hosted Run `34642582102` at Manifest-03 commit `9a459e70d19941372ad3c6a73028b966358dbaaf` passes the complete eight-mode mechanical matrix. Artifact `10280822432` has zip digest `sha256:c50babe94df9253c3dd1ae1ebf2f746470994f4963f05ed559312626bd36cd28`; the frozen harness remains SHA-256 `22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea`. Manifest 01 is preserved as a pre-exposure provenance defect; Run `34642160213` is preserved as an sr-only overflow measurement defect. Both are no-design-result.
 
-Frozen subjective review of only `normal-baseline-wide` and `normal-baseline-320` yields **PASS_COMPATIBLE_IDENTITY_STACK**. APP_COMPACT remains restrained rather than promotional; WEB_HEADER gains breathing room while keeping C0 emblematic, O3 the name carrier and F1 content hierarchy separate; ACQUISITION_PRELUDE reads sequentially mark ? name ? content. O3 remains legible at compact width, F1 is clearer than NEUTRAL_TYP without overtaking O3, and neither O3_SOLO nor NO_O3 is materially stronger because it removes a collision.
+Frozen subjective review of only `normal-baseline-wide` and `normal-baseline-320` yields **PASS_COMPATIBLE_IDENTITY_STACK**. APP_COMPACT remains restrained rather than promotional; WEB_HEADER gains breathing room while keeping C0 emblematic, O3 the name carrier and F1 content hierarchy separate; ACQUISITION_PRELUDE reads sequentially mark → name → content. O3 remains legible at compact width, F1 is clearer than NEUTRAL_TYP without overtaking O3, and neither O3_SOLO nor NO_O3 is materially stronger because it removes a collision.
 
 This is compatibility evidence only. C0/O3/TYP/MAT/STA remain provisional/temporary as governed by their own packets; CLR-01 remains parked; motion is outside CMP-02 scoring; final typeface, wordmark/lockup, hero/static world, functional iconography, real product semantics and implementation remain unresolved/outside scope. Phase-B exit remains false.
 
 **Next gate:** fresh Phase-B shared-brand sequencing/reentry audit using CMP-02 compatibility as new evidence.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN FROZEN-CRITERIA COMPOSITION FALSIFICATION.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FROZEN-CRITERIA COMPOSITION FALSIFICATION.**

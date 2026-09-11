@@ -5,9 +5,9 @@
   "packet_class": "COMPOSITION_PACKET",
   "status": "FROZEN_LOCAL_RESULT",
   "date": "2026-09-11",
-  "gate_or_program": "CMP-02 ? Identity Stack / Wordmark?Typography Hierarchy Composition Audit",
-  "design_axis": "identity stack / wordmark?typography hierarchy composition",
-  "bounded_question": "Can exact C0 Threshold K, exact O3 Balanced Hierarchy and TYP-02 F1 Ratio Ladder coexist inside MAT F1 + STA F2 across app-compact, website-header and acquisition/prelude roles without mark/name/type hierarchy collision, over-branding restrained app chrome, O3 becoming a second heading, typography competing with the name carrier, or compact ? failure?",
+  "gate_or_program": "CMP-02 — Identity Stack / Wordmark–Typography Hierarchy Composition Audit",
+  "design_axis": "identity stack / wordmark–typography hierarchy composition",
+  "bounded_question": "Can exact C0 Threshold K, exact O3 Balanced Hierarchy and TYP-02 F1 Ratio Ladder coexist inside MAT F1 + STA F2 across app-compact, website-header and acquisition/prelude roles without mark/name/type hierarchy collision, over-branding restrained app chrome, O3 becoming a second heading, typography competing with the name carrier, or compact Æ failure?",
   "authority": {
     "repository": "Rylascoo/Ensemble-Website",
     "baseline_commit": "9a459e70d19941372ad3c6a73028b966358dbaaf",
@@ -41,7 +41,7 @@
   "local_result": {
     "summary": "PASS_COMPATIBLE_IDENTITY_STACK. Exact C0 + O3 + F1 Ratio Ladder + MAT F1 + STA F2 coexist across the three frozen synthetic roles without a named identity/name/type collision; no diagnostic is materially stronger by removing a collision.",
     "survivors_or_closure": [
-      "FULL ? compatible bounded identity stack"
+      "FULL — compatible bounded identity stack"
     ],
     "recommended_incumbent": null,
     "alternates": [],
@@ -60,7 +60,7 @@
       "PASS_COMPLETE_8_MODE_MATRIX"
     ],
     "visual": [
-      "prototypes/cmp-02/harness.html ? normal-baseline FULL plus three diagnostics across APP_COMPACT/WEB_HEADER/ACQUISITION_PRELUDE"
+      "prototypes/cmp-02/harness.html — normal-baseline FULL plus three diagnostics across APP_COMPACT/WEB_HEADER/ACQUISITION_PRELUDE"
     ],
     "accessibility": [
       "no visible/required-content horizontal overflow at 1200 or 320",
@@ -70,8 +70,8 @@
       "exactly one accessible Kymaean identity name per surface"
     ],
     "invalid_or_superseded_attempts": [
-      "Manifest 01 ? browser-verifier provenance hash defect discovered before browser exposure; no design result",
-      "Run 34642160213 ? sr-only overflow measurement defect; no design result"
+      "Manifest 01 — browser-verifier provenance hash defect discovered before browser exposure; no design result",
+      "Run 34642160213 — sr-only overflow measurement defect; no design result"
     ]
   },
   "dependencies": {
@@ -92,7 +92,7 @@
     ]
   },
   "known_integration_sensitivities": [
-    "O3 compact ? legibility remains a deployment constraint for later production/device validation.",
+    "O3 compact Æ legibility remains a deployment constraint for later production/device validation.",
     "No universal fixed mark/name ratio is established; role-specific deployment is part of the compatible result.",
     "Real product hierarchy/density may stress the provisional stack differently from these synthetic carriers.",
     "Color and final typeface may introduce new integration evidence and remain unresolved."
