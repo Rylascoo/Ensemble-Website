@@ -1,0 +1,15 @@
+{
+  "schema": "kymaean.vfd01.neutral-content.v1",
+  "program_id": "VFD-01",
+  "probe": "TRANSFER",
+  "status": "FROZEN_PRE_RENDER",
+  "content_law": [
+    "Show two distinct people in a materially different present circumstance from the primary probe.",
+    "A durable earlier human choice must have changed a shared condition in a way that materially alters how the two people can occupy, use, reach, avoid, or depend on something now.",
+    "The present image must carry enough evidence to make the changed condition recoverable without a literal before/after comparison or explanatory text.",
+    "The people must remain specific and relationally necessary without repeating any primary cast, pose topology, prop set, architecture, camera arrangement, or signature motif.",
+    "Do not assert private knowledge, belief, memory, emotion, or intent.",
+    "Invent all unstated circumstances independently; no software/product/brand context."
+  ],
+  "output": "one uninterrupted landscape artwork; no text, logo, border, presentation board, UI, diagram labels, or explanatory inset"
+}

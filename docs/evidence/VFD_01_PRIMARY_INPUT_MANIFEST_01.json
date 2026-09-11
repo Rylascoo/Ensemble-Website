@@ -1,0 +1,82 @@
+{
+  "schema": "kymaean.vfd01.render-input-manifest.v1",
+  "status": "FROZEN_COMPLETE_PRE_EXPOSURE_INPUT_SET",
+  "date": "2026-09-11",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "files": {
+    "docs/evidence/VFD_01_PRIMARY_NEUTRAL_CONTENT_01.json": {
+      "sha256": "cff50344ea0a48233cff5dd7f04455c2a6540af806327d6194cb6e09b0fc6f24",
+      "bytes": 1273
+    },
+    "docs/evidence/VFD_01_TRANSFER_NEUTRAL_CONTENT_01.json": {
+      "sha256": "a295359bb4ffd39551d6d7a1096f4952f00af0aad164f603922e9928e496d795",
+      "bytes": 1085
+    },
+    "docs/evidence/VFD_01_PREMISE_PAIRWISE_AUDIT_01.json": {
+      "sha256": "314fdb7506189c74c99a97a8fc849dd3371fa0a3a48ff04f94008d9e476c4532",
+      "bytes": 3985
+    },
+    "docs/evidence/VFD_01_PRE_RENDER_CONTAMINATION_DISTANCE_AUDIT_01.json": {
+      "sha256": "7a51c0ff2162cd65ad6d1fc4bc4b7a0d951167230571f3ef51e082b41cd33cf2",
+      "bytes": 2809
+    },
+    "docs/evidence/VFD_01_P1_PREMISE_01.json": {
+      "sha256": "ccc0632823c80240a82860dcc7772bc8b211b2bfb4dda3c9e4437901484c564e",
+      "bytes": 2726
+    },
+    "docs/evidence/renderer/VFD_01_P1_PRIMARY_STERILE_PACKET_01.txt": {
+      "sha256": "8fb6a3dc266947cbf0dc1b3656eeae7ab8b4aaf0384e1e29ee46831495cb6579",
+      "bytes": 1788
+    },
+    "docs/evidence/renderer/VFD_01_P1_TRANSFER_STERILE_PACKET_01.txt": {
+      "sha256": "d1aad3a7236d9e6f6223e3f88738849267c5132c8780df521f2be9d3defd512b",
+      "bytes": 1717
+    },
+    "docs/evidence/VFD_01_P2_PREMISE_01.json": {
+      "sha256": "52fa7a1b21619571de8e1565ee929ade2601e618094c02f278d02f3c84b4287f",
+      "bytes": 2706
+    },
+    "docs/evidence/renderer/VFD_01_P2_PRIMARY_STERILE_PACKET_01.txt": {
+      "sha256": "7ced169f4c92273e76e56a76819bfecba9c4e7024177910ea690fbe8d6e93d95",
+      "bytes": 1826
+    },
+    "docs/evidence/renderer/VFD_01_P2_TRANSFER_STERILE_PACKET_01.txt": {
+      "sha256": "e5594cb20d74e304465d2b5131a5babae6c2347bf886978c39b2c9a1513bf871",
+      "bytes": 1755
+    },
+    "docs/evidence/VFD_01_P3_PREMISE_01.json": {
+      "sha256": "663db07bd5d82c45e4d95eb9b2e3637f11153bf2402b03c26898e640e99a6612",
+      "bytes": 2687
+    },
+    "docs/evidence/renderer/VFD_01_P3_PRIMARY_STERILE_PACKET_01.txt": {
+      "sha256": "07a3671a6d56ae14fa895ef6141deea60c11ef0094c07f2d5282e55cd97213a6",
+      "bytes": 1859
+    },
+    "docs/evidence/renderer/VFD_01_P3_TRANSFER_STERILE_PACKET_01.txt": {
+      "sha256": "d415fe855649c61ad7c1f168b530c63ccab53d6bd128e9dcd92f460d4ebcc73c",
+      "bytes": 1788
+    },
+    "docs/evidence/VFD_01_P4_PREMISE_01.json": {
+      "sha256": "5ebc58602b402e643e023987e1beaa5470c6484e2249c0aa7a185ee51792e660",
+      "bytes": 2779
+    },
+    "docs/evidence/renderer/VFD_01_P4_PRIMARY_STERILE_PACKET_01.txt": {
+      "sha256": "cca2f79a0d0d7c222f5dec2aecb4ec180a3094a6e8df72514d26cf5c7eefcd8a",
+      "bytes": 1831
+    },
+    "docs/evidence/renderer/VFD_01_P4_TRANSFER_STERILE_PACKET_01.txt": {
+      "sha256": "c3bfac6dfe5703b39778ce80776679216f948bb3291bbbefdca785fb29fd8d55",
+      "bytes": 1760
+    },
+    "tools/verify_vfd01_inputs.py": {
+      "sha256": "f9e17ca34f49c4f243e7531e161fbd58eaa363a3121735868e7429dd6088dcf4",
+      "bytes": 2524
+    }
+  },
+  "image_generation_consumed": 0,
+  "current_family_comparison_stage": "PRE_RENDER_TEXTUAL_AND_AUTHORITY_EVIDENCE_ONLY",
+  "primary_packets_frozen": 4,
+  "transfer_packets_frozen": 4,
+  "no_post_exposure_packet_edits": true
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "kymaean.vfd01.premise.v1",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "status": "FROZEN_PRE_RENDER_PRE_COMPARISON",
+  "date": "2026-09-11",
+  "slot": "P4",
+  "working_name": "Rule-Bearing Mosaic Field",
+  "positive_law": "The whole image is assembled from many small discrete units governed by a visible local ordering rule. People, environment and relationships emerge from how units cluster, align and change rule rather than from smooth drawing. Human specificity comes from distinct local unit rhythm and body-scale organization. Consequence is a persistent local rule change propagated through the field by an earlier human action.",
+  "axes": {
+    "representation ontology": "discrete repeated units whose local ordering collectively forms people and environment",
+    "spatial/relational organization": "field-scale rhythm, clustering, directional alignment and local rule transitions organize proximity and relationship",
+    "figure-ground/material-edge grammar": "unit boundaries remain perceivable; larger figures emerge from coordinated module behavior rather than continuous contour or wash",
+    "human identity/specificity mechanism": "each person has a distinct module cadence, orientation mix, density and posture-scale organization while sharing the same unit vocabulary",
+    "consequence/history representation": "an earlier human act produces a persistent local ordering change that propagates or terminates through neighboring units and alters present affordance/relationship",
+    "tonal/texture/atmosphere construction": "structured granular field with value emerging statistically from module density/orientation rather than painterly residue or smooth gradients"
+  },
+  "anti_motif": "Do not reduce the premise to decorative pattern, pixel art, map symbols or a diagrammatic grid; the unit rule must create a compelling whole visual world with specific people.",
+  "expected_failure_modes": [
+    "reads as infographic/system diagram",
+    "pattern overwhelms humans",
+    "rule change becomes an explanatory symbol rather than present condition"
+  ],
+  "construction_exclusions": [
+    "current C0/O3/TYP/MAT/STA/MOT/CLR mechanisms as construction ingredients",
+    "historical exact VID/hero/Quiet Stage/Mineral Theater surfaces",
+    "brand marks, names, UI, wordmark, bespoke typography, product semantics, functional iconography, motion scoring, final palette selection"
+  ],
+  "renderer_translation_law": "Translate only the positive whole-surface premise law and the applicable neutral content packet into renderer-visible prose. Do not include this premise's expected failure modes, contamination notes, project vocabulary or comparison criteria."
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "kymaean.vfd01.premise.v1",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "status": "FROZEN_PRE_RENDER_PRE_COMPARISON",
+  "date": "2026-09-11",
+  "slot": "P1",
+  "working_name": "Accumulated Mark Field",
+  "positive_law": "The whole image is built from accumulated physical-looking marks and deposits whose overlap, interruption and persistence carry both people and circumstance. Human presence is authored through recurring individual mark signatures and bodily rhythm rather than clean contour drawing. Earlier action remains visible as altered or retained mark history in the present field.",
+  "axes": {
+    "representation ontology": "accumulated indexical-looking marks and deposits; image reads as a field of retained acts rather than objects assembled from clean shapes",
+    "spatial/relational organization": "layered overlap, interruption and partial occlusion establish proximity and relationship without connective graphics",
+    "figure-ground/material-edge grammar": "fibrous, broken, pressure-varied edges; figure and ground interpenetrate through deposits and erased/covered passages",
+    "human identity/specificity mechanism": "each person has a repeatable mark-density, gesture-rhythm and proportion signature that remains distinct through partial representation",
+    "consequence/history representation": "prior human action persists as changed accumulation, overwrite, abrasion, residue or displaced mark density in the present surface",
+    "tonal/texture/atmosphere construction": "tactile near-monochrome field driven by density, pressure and surface grain rather than smooth lighting or decorative color"
+  },
+  "anti_motif": "Do not reduce the premise to one footprint, stain, scar, trail or decorative brush effect; the entire image must obey the accumulated-mark ontology.",
+  "expected_failure_modes": [
+    "generic painterly illustration with ordinary scene underneath",
+    "residue becomes one symbolic clue instead of whole-surface grammar",
+    "people lose specificity inside texture"
+  ],
+  "construction_exclusions": [
+    "current C0/O3/TYP/MAT/STA/MOT/CLR mechanisms as construction ingredients",
+    "historical exact VID/hero/Quiet Stage/Mineral Theater surfaces",
+    "brand marks, names, UI, wordmark, bespoke typography, product semantics, functional iconography, motion scoring, final palette selection"
+  ],
+  "renderer_translation_law": "Translate only the positive whole-surface premise law and the applicable neutral content packet into renderer-visible prose. Do not include this premise's expected failure modes, contamination notes, project vocabulary or comparison criteria."
+}

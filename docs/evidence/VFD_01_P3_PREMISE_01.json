@@ -1,0 +1,30 @@
+{
+  "schema": "kymaean.vfd01.premise.v1",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "status": "FROZEN_PRE_RENDER_PRE_COMPARISON",
+  "date": "2026-09-11",
+  "slot": "P3",
+  "working_name": "Diffused Density Continuum",
+  "positive_law": "The whole image is a continuous field of soft value density with few stable hard edges. People and circumstance emerge through persistent density gradients, overlapping atmospheric bodies and local zones of clarity rather than outline. Human specificity comes from stable internal density/gesture relationships. Consequence appears as a redistributed field condition that changes how bodies emerge, overlap or remain reachable in the present.",
+  "axes": {
+    "representation ontology": "continuous density field with emergent bodies and conditions rather than discrete marks, modules or bounded planar shapes",
+    "spatial/relational organization": "proximity is carried by gradient convergence, overlap and zones of clarity/occlusion rather than adjacency of closed shapes",
+    "figure-ground/material-edge grammar": "dissolved and selectively resolved edges; figure-ground distinction varies continuously across the surface",
+    "human identity/specificity mechanism": "stable density centers, gesture vectors, scale/proportion and internal light-dark relationships distinguish people without fixed contours",
+    "consequence/history representation": "earlier action leaves a durable redistribution of density/clarity that changes present overlap, visibility, reach or spatial possibility",
+    "tonal/texture/atmosphere construction": "near-monochrome luminous-to-opaque tonal continuum with minimal discrete surface grain"
+  },
+  "anti_motif": "Do not treat haze, fog, glow or blur as a decorative overlay on a conventional scene; field density must be the actual representational substrate.",
+  "expected_failure_modes": [
+    "generic atmospheric painting",
+    "softness destroys causal recoverability",
+    "people become anonymous silhouettes"
+  ],
+  "construction_exclusions": [
+    "current C0/O3/TYP/MAT/STA/MOT/CLR mechanisms as construction ingredients",
+    "historical exact VID/hero/Quiet Stage/Mineral Theater surfaces",
+    "brand marks, names, UI, wordmark, bespoke typography, product semantics, functional iconography, motion scoring, final palette selection"
+  ],
+  "renderer_translation_law": "Translate only the positive whole-surface premise law and the applicable neutral content packet into renderer-visible prose. Do not include this premise's expected failure modes, contamination notes, project vocabulary or comparison criteria."
+}

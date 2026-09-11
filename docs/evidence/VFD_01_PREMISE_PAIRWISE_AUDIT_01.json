@@ -1,0 +1,96 @@
+{
+  "schema": "kymaean.vfd01.premise-pairwise-audit.v2",
+  "status": "PASS_FOUR_PREMISES_PAIRWISE_DISTINCT_PRE_RENDER",
+  "date": "2026-09-11",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "comparison_basis": "Frozen premise text only; no VFD-01 image exists.",
+  "pairs": [
+    {
+      "pair": "P1-P2",
+      "different_axes": [
+        "representation ontology",
+        "spatial/relational organization",
+        "figure-ground/material-edge grammar",
+        "human identity/specificity mechanism",
+        "consequence/history representation",
+        "tonal/texture/atmosphere construction"
+      ],
+      "reason": "Accumulated pressure/deposit history and interpenetrating fibrous marks are structurally unlike closed planar masses, shallow adjacency and crisp negative-space topology.",
+      "count": 6,
+      "passes_floor": true
+    },
+    {
+      "pair": "P1-P3",
+      "different_axes": [
+        "representation ontology",
+        "spatial/relational organization",
+        "figure-ground/material-edge grammar",
+        "human identity/specificity mechanism",
+        "consequence/history representation",
+        "tonal/texture/atmosphere construction"
+      ],
+      "reason": "Discrete retained acts/abrasions and pressure grain differ from a continuous density continuum with dissolved edges, gradient convergence and redistributed clarity.",
+      "count": 6,
+      "passes_floor": true
+    },
+    {
+      "pair": "P1-P4",
+      "different_axes": [
+        "representation ontology",
+        "spatial/relational organization",
+        "figure-ground/material-edge grammar",
+        "human identity/specificity mechanism",
+        "consequence/history representation",
+        "tonal/texture/atmosphere construction"
+      ],
+      "reason": "Irregular accumulated marks encode history through overwrite and abrasion, while P4 uses repeated units, local rule transitions and statistical module density.",
+      "count": 6,
+      "passes_floor": true
+    },
+    {
+      "pair": "P2-P3",
+      "different_axes": [
+        "representation ontology",
+        "spatial/relational organization",
+        "figure-ground/material-edge grammar",
+        "human identity/specificity mechanism",
+        "consequence/history representation",
+        "tonal/texture/atmosphere construction"
+      ],
+      "reason": "Crisp closed planar fields, silhouette segmentation and topology change oppose continuous atmospheric density, selectively dissolved boundaries and clarity redistribution.",
+      "count": 6,
+      "passes_floor": true
+    },
+    {
+      "pair": "P2-P4",
+      "different_axes": [
+        "representation ontology",
+        "spatial/relational organization",
+        "figure-ground/material-edge grammar",
+        "human identity/specificity mechanism",
+        "consequence/history representation",
+        "tonal/texture/atmosphere construction"
+      ],
+      "reason": "Large bounded shape masses and negative-space adjacency differ from many small rule-governed modules whose clustering/orientation create emergent figures and propagated local changes.",
+      "count": 6,
+      "passes_floor": true
+    },
+    {
+      "pair": "P3-P4",
+      "different_axes": [
+        "representation ontology",
+        "spatial/relational organization",
+        "figure-ground/material-edge grammar",
+        "human identity/specificity mechanism",
+        "consequence/history representation",
+        "tonal/texture/atmosphere construction"
+      ],
+      "reason": "Continuous low-edge density and gradient overlap oppose discrete visible units, field rhythm, modular identity cadence and rule-change propagation.",
+      "count": 6,
+      "passes_floor": true
+    }
+  ],
+  "result": "All six premise pairs clear the frozen four-of-six floor before rendering. This establishes premise-level divergence only; image-level family distance remains unproven.",
+  "no_creative_exposure": true
+}

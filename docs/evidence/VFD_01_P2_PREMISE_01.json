@@ -1,0 +1,30 @@
+{
+  "schema": "kymaean.vfd01.premise.v1",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "status": "FROZEN_PRE_RENDER_PRE_COMPARISON",
+  "date": "2026-09-11",
+  "slot": "P2",
+  "working_name": "Interlocking Plane Field",
+  "positive_law": "The whole image is constructed from a limited vocabulary of closed flat fields whose boundaries, overlaps and negative spaces define people, environment and relationship. No modeled volume is needed for legibility. Human specificity comes from distinct proportion, segmentation and silhouette rhythm. Consequence appears as a changed adjacency or occupied/emptied spatial relationship in the same plane logic.",
+  "axes": {
+    "representation ontology": "closed flat fields and bounded shape masses; the scene is an interlocking planar construction rather than accumulated marks or continuous atmosphere",
+    "spatial/relational organization": "adjacency, overlap, nesting and negative-space pressure organize relationships on a shallow plane",
+    "figure-ground/material-edge grammar": "crisp controlled boundaries with deliberate closed/open shape relationships and little incidental texture",
+    "human identity/specificity mechanism": "distinct silhouette proportion, segmentation rhythm, orientation and internal shape balance for each person",
+    "consequence/history representation": "present topology shows shifted adjacency, newly occupied void, interrupted enclosure or changed boundary relation attributable to earlier human action",
+    "tonal/texture/atmosphere construction": "matte value blocks with restrained tonal steps; atmosphere comes from proportion and field balance rather than grain or luminous depth"
+  },
+  "anti_motif": "Do not let one logo-like shape, emblem, letterform or isolated negative-space trick carry the premise; the whole composition must use the planar field law.",
+  "expected_failure_modes": [
+    "becomes generic flat vector illustration",
+    "reads as logo system or infographic",
+    "humans become interchangeable pictograms"
+  ],
+  "construction_exclusions": [
+    "current C0/O3/TYP/MAT/STA/MOT/CLR mechanisms as construction ingredients",
+    "historical exact VID/hero/Quiet Stage/Mineral Theater surfaces",
+    "brand marks, names, UI, wordmark, bespoke typography, product semantics, functional iconography, motion scoring, final palette selection"
+  ],
+  "renderer_translation_law": "Translate only the positive whole-surface premise law and the applicable neutral content packet into renderer-visible prose. Do not include this premise's expected failure modes, contamination notes, project vocabulary or comparison criteria."
+}

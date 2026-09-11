@@ -1,0 +1,16 @@
+{
+  "schema": "kymaean.vfd01.neutral-content.v1",
+  "program_id": "VFD-01",
+  "probe": "PRIMARY",
+  "status": "FROZEN_PRE_RENDER",
+  "content_law": [
+    "Show three distinct people sharing one present environment.",
+    "The present organization must visibly carry evidence that an earlier human action materially changed one shared condition.",
+    "That changed condition must alter at least one person's present possibility, access, constraint, or relationship to another person.",
+    "The three people must not be interchangeable: each needs a distinct readable presence through posture, proportion, placement, carried condition, or another premise-compatible invariant.",
+    "Unequal access to what happened or what is available may be visible, but the image must not claim private knowledge, belief, memory, emotion, or intent.",
+    "Relationship must be carried by the scene's organization rather than labels, arrows, diagrams, captions, split panels, before/after framing, or interface graphics.",
+    "Invent unstated setting, era, objects, clothing and circumstance independently; no software/product/brand context."
+  ],
+  "output": "one uninterrupted landscape artwork; no text, logo, border, presentation board, UI, diagram labels, or explanatory inset"
+}

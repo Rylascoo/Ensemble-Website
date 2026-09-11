@@ -1,0 +1,33 @@
+{
+  "schema": "kymaean.vfd01.pre-render-distance-audit.v1",
+  "status": "PASS_ALL_FOUR_ELIGIBLE_FOR_PRIMARY_RENDER_IMAGE_LEVEL_DISTANCE_UNPROVEN",
+  "date": "2026-09-11",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "comparison_basis": "Repository-authoritative current packet descriptions, frozen CMP-01/CMP-02/TYP-02/O3 findings, and durable historical VID/hero surface-quarantine conclusions. No VFD-01 image exists and no premise input is changed by this comparison.",
+  "premises": {
+    "P1": {
+      "result": "ELIGIBLE",
+      "pressure": "Historical VID frequently naturalized into painterly/naturalistic artwork. P1 is eligible only because its representational substrate is explicitly accumulated mark/deposit history across the whole surface rather than an ordinary scene rendered painterly.",
+      "binding_falsifier": "Reject if the generated image is fundamentally a conventional scene with residue/brush texture applied on top, or if people lose specificity inside the mark field."
+    },
+    "P2": {
+      "result": "ELIGIBLE_HIGH_CURRENT_FAMILY_DISTANCE_PRESSURE",
+      "pressure": "P2's crisp fields/negative-space topology is the premise most likely to drift toward the current geometric shared-brand system, including C0/MAT structural authority.",
+      "binding_falsifier": "Reject if whole-surface identity depends on emblematic geometry, subtractive/channel-like field topology, logo-like negative space, or another reading materially continuous with the current provisional family."
+    },
+    "P3": {
+      "result": "ELIGIBLE_HIGH_HISTORICAL_ATMOSPHERE_PRESSURE",
+      "pressure": "P3's soft density field is the premise most likely to be absorbed by historical Quiet-Stage/Mineral-Theater/VID atmosphere or generic painterly naturalism.",
+      "binding_falsifier": "Reject if softness is merely fog/glow/lighting over a conventional scene, if the field reads as historical dark/atmospheric staging, or if causal/relational truth disappears into mood."
+    },
+    "P4": {
+      "result": "ELIGIBLE",
+      "pressure": "P4 is structurally distant from the current packet stack but risks becoming a system diagram, map, decorative mosaic or generic procedural pattern.",
+      "binding_falsifier": "Reject if the visible rule dominates human specificity, if the result reads as information visualization, or if local rule change becomes an explanatory symbol instead of a lived present condition."
+    }
+  },
+  "result": "No premise is rejected before rendering. All four retain distinct predeclared failure pressures. Actual DISTANCE_PASS remains a post-image conjunctive gate; comparison cannot authorize retuning or replacement.",
+  "post_comparison_retune": false,
+  "replacement_allowed": false
+}

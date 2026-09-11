@@ -1626,3 +1626,19 @@ The current C0/O3/TYP/MAT/STA/MOT/CLR evidence is comparison control only. Compa
 **Guardrail:** no image generation yet; no premise replacement after exposure, final family selection, Phase C, CLR-01 reentry, hero/static reopening, production assets or implementation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN PRE-EXPOSURE METHOD FREEZE.**
+
+## L-103 - VFD-01 freezes four premises and all renderer inputs before pixels
+
+**State:** FOUR PREMISES FROZEN / EIGHT STERILE RENDERER PACKETS FROZEN / 0 OF 6 IMAGE BUDGET CONSUMED / PRIMARY PROBES NEXT
+
+The VFD-01 serial branch constructs P1 Accumulated Mark Field, P2 Interlocking Plane Field, P3 Diffused Density Continuum and P4 Rule-Bearing Mosaic Field under the frozen six-axis method. Design Sol's premise-level recursive audit finds every pair materially different on at least four axes. Exact primary and transfer neutral-content packets are frozen, and both primary and transfer sterile renderer packets for all four premises are byte-bound in `VFD_01_PRIMARY_INPUT_MANIFEST_01.json` before any image exists.
+
+Post-freeze pre-render contamination review leaves all four eligible without retuning. P2 carries the strongest risk of collapsing toward current C0/MAT geometric authority; P3 carries the strongest risk of collapsing toward historical atmospheric/painterly visual worlds; P1 must prove mark accumulation is the representation substrate rather than decorative painterly residue; P4 must prove its rule field is an authored human visual world rather than a diagram/procedural pattern. These are binding falsifiers, not edit instructions.
+
+Image-level family distance remains unproven. Current/historical comparison at this stage uses authority/evidence descriptions only; actual DISTANCE_PASS is conjunctive after a generated primary image exists. No premise or sterile packet may now be altered because of comparison evidence.
+
+**Next gate:** four isolated primary probes, exactly one judgeable image per premise in fresh regular non-project renderer contexts. Freeze all four returned images/provenance before evaluating/shortlisting; only then may at most two transfer probes become executable.
+
+**Guardrail:** 0/6 image budget currently consumed; no reroll, hidden premise, post-exposure packet edit, early transfer, final family selection, convergence, production asset or implementation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN PRE-EXPOSURE PREMISE/INPUT FREEZE.**

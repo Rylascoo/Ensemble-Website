@@ -1,0 +1,16 @@
+Create one complete uninterrupted landscape artwork under this representation law:
+
+The whole image is built from accumulated physical-looking marks and deposits whose overlap, interruption and persistence carry both people and circumstance. Human presence is authored through recurring individual mark signatures and bodily rhythm rather than clean contour drawing. Earlier action remains visible as altered or retained mark history in the present field.
+
+Content requirements:
+- Show two distinct people in a materially different present circumstance from the primary probe.
+- A durable earlier human choice must have changed a shared condition in a way that materially alters how the two people can occupy, use, reach, avoid, or depend on something now.
+- The present image must carry enough evidence to make the changed condition recoverable without a literal before/after comparison or explanatory text.
+- The people must remain specific and relationally necessary without repeating any primary cast, pose topology, prop set, architecture, camera arrangement, or signature motif.
+- Do not assert private knowledge, belief, memory, emotion, or intent.
+- Invent all unstated circumstances independently; no software/product/brand context.
+
+Use restrained neutral or near-neutral values. Color may appear incidentally but must not be the main organizing idea.
+Do not add text, labels, interface, logo, promotional framing, presentation board, explanatory arrows, split panels, before/after frames, or explanatory borders.
+Do not visually copy or refer to any earlier image. Apply only the representation law above to this new content.
+Return one artwork only. Do not explain, rank, revise, or provide alternatives.
