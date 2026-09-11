@@ -1,84 +1,13 @@
 name: Temporary MAT-01 browser preflight
 
 on:
-  push:
-    branches:
-      - design/mat01-material-shape-divergence-2026-09-10
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  preflight:
-    if: github.actor != 'github-actions[bot]'
+  paused:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
-      - name: Validate and promote exact mechanical repair
-        shell: bash
-        run: |
-          set -euo pipefail
-          python tools/verify_mat01.py
-          BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
-          test -n "$BROWSER"
-          export BROWSER
-          BROWSER_VERSION="$($BROWSER --version)"
-          OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
-          mkdir -p /tmp/mat01-artifact/diagnostics /tmp/mat01-artifact/screenshots
-          python - <<'PY'
-          from pathlib import Path
-          import hashlib
-          p=Path('prototypes/mat-01/harness.html')
-          before=p.read_bytes()
-          assert hashlib.sha256(before).hexdigest() == '7ee3be6b9635a3a06cb5e62836c846cc076924cc2fca3c19160b63e34c69f1c6'
-          s=before.decode('utf-8')
-          old='  .surface{max-width:100%!important}'
-          new='  .cell>.surface{max-width:100%!important}'
-          assert s.count(old)==1
-          assert new not in s
-          repaired=s.replace(old,new)
-          out=repaired.encode('utf-8')
-          assert hashlib.sha256(out).hexdigest() == '1490762a5121c859acf1753c76e60d66cf31d969605e29e0cb73e2d716275274'
-          p.write_bytes(out)
-          PY
-          git diff --check
-          test "$(git diff --numstat -- prototypes/mat-01/harness.html)" = $'1\t1\tprototypes/mat-01/harness.html'
-          cp prototypes/mat-01/harness.html /tmp/mat01-artifact/harness-repaired.html
-          sha256sum prototypes/mat-01/harness.html | tee /tmp/mat01-artifact/harness-repaired.sha256
-          python -m http.server 8765 --bind 127.0.0.1 >/tmp/mat01-http.log 2>&1 &
-          SERVER_PID=$!
-          trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
-          for _ in $(seq 1 50); do
-            if curl -fsS http://127.0.0.1:8765/prototypes/mat-01/harness.html >/dev/null; then break; fi
-            sleep 0.1
-          done
-          curl -fsS http://127.0.0.1:8765/prototypes/mat-01/harness.html >/dev/null
-          run_cdp() {
-            local mode="$1" width="$2" stem="$3"
-            node --experimental-websocket tools/mat01_browser_probe.mjs "$mode" "$width" "/tmp/mat01-artifact/diagnostics/$stem.json" "/tmp/mat01-$stem" "/tmp/mat01-artifact/screenshots/$stem.png"
-          }
-          run_cdp normal 1200 normal-wide
-          run_cdp forced 1200 forced-wide
-          run_cdp normal 320 normal-320
-          run_cdp forced 320 forced-320
-          python tools/verify_mat01_browser.py \
-            --normal-wide /tmp/mat01-artifact/diagnostics/normal-wide.json \
-            --forced-wide /tmp/mat01-artifact/diagnostics/forced-wide.json \
-            --normal-320 /tmp/mat01-artifact/diagnostics/normal-320.json \
-            --forced-320 /tmp/mat01-artifact/diagnostics/forced-320.json \
-            --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
-            --output /tmp/mat01-artifact/MAT_01_BROWSER_PREFLIGHT_REPAIR_PROMOTION.json
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add prototypes/mat-01/harness.html
-          git commit -m 'Promote validated MAT-01 compact probe repair'
-          git push origin HEAD:design/mat01-material-shape-divergence-2026-09-10
-          printf '%s\n' "$BROWSER_VERSION" > /tmp/mat01-artifact/browser-version.txt
-          printf '%s\n' "$OS_PRETTY" > /tmp/mat01-artifact/os-pretty.txt
-      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
-        if: always()
-        with:
-          name: mat01-repair-promotion
-          path: /tmp/mat01-artifact
-          if-no-files-found: error
-          retention-days: 7
+      - run: echo 'MAT-01 browser preflight paused during repaired-packet reconciliation.'
