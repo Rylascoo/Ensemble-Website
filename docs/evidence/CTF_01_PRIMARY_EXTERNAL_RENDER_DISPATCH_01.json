@@ -1,0 +1,49 @@
+{
+  "schema": "kymaean.ctf01.primary-external-render-dispatch.v1",
+  "status": "READY_FOR_THREE_ISOLATED_PRIMARY_RENDERS",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "frozen_input_commit": "f018647a087ff7769c5e27069cd4550d50fa070b",
+  "active_branch": "design/ctf01-content-topology-first-2026-09-11",
+  "manifest": "docs/evidence/CTF_01_FROZEN_INPUT_MANIFEST_01.json",
+  "drive_archive": {
+    "folder_name": "CTF-01 Content-Topology-First Divergence 01",
+    "folder_id": "1ywta8k7Iejh2QWEpP_wNuOBB82VhlC4I"
+  },
+  "primary_packets": [
+    {
+      "path": "docs/evidence/renderer/CTF_01_R1_T1_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "2efc6e0fdfb60001721fc32d4afb419239f6c4940cb05e4dc5b7f7fe99ee90c6",
+      "bytes": 2507
+    },
+    {
+      "path": "docs/evidence/renderer/CTF_01_R2_T2_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "3de6e4281a7a6d87d0f7e60b015eb0ece66211a1a380c4095ab981c5e115c602",
+      "bytes": 2485
+    },
+    {
+      "path": "docs/evidence/renderer/CTF_01_R3_T3_PRIMARY_STERILE_PACKET_01.txt",
+      "sha256": "474f44191c70f01c8fc9864ec65440d4c372cefac6d356f0f842e7a9cb125152",
+      "bytes": 2505
+    }
+  ],
+  "execution": [
+    "Open three separate fresh regular ChatGPT chats outside the Ensemble project, one per primary packet.",
+    "For each chat, paste only the complete text contents of that packet as the first and only generation request; do not upload the packet file if doing so exposes repository path or project metadata.",
+    "Generate exactly one image in each chat. Do not request revision, alternative, reroll, or explanation.",
+    "Do not show any generated primary image to either of the other primary renderer chats.",
+    "Return the three untouched images together to Design Sol in R1, R2, R3 order. Preserve platform-returned bytes if available.",
+    "Do not execute any TRANSFER packet until all three primary images are frozen and evaluated."
+  ],
+  "image_budget_before_execution": {
+    "consumed": 0,
+    "effective_primary_max": 3,
+    "effective_transfer_max": 2,
+    "effective_total_max": 5
+  },
+  "stop_conditions": [
+    "If a chat returns a judgeable image, that primary slot is consumed regardless of pass/fail.",
+    "A genuine no-image technical failure may retry only with byte-identical packet text.",
+    "Any accidental exposure to project history, another CTF/VFD image, or extra prompt text invalidates that renderer context before generation; start a fresh context with exact packet text."
+  ]
+}
