@@ -1122,3 +1122,17 @@ Primary authority: `docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.j
 **Guardrail:** no C0 mutation, no F2/F3/F4 revival by redraw, no CLR/O3/TYP/MOT/STA/material/hero coupling, no production asset/final identity, and no Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-068 - SYM-02 initial candidate bytes freeze before hosted exposure
+
+**State:** CANDIDATE BYTES FROZEN / HOSTED PREFLIGHT PENDING
+
+The SYM-02 initial batch is now materially constructed and frozen before scored browser exposure. `C0-ORIGINAL` is the exact canonical C0 asset at LF SHA-256 `72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305`. The six eligible candidate assets are C0-R1/R2/R3 and N1/N2/N3 only; C0-R4 remains reserved and N4 is prohibited in this batch.
+
+`docs/evidence/SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json` records exact hashes for every candidate plus the governing program, deterministic harness and browser probe. `tools/verify_sym02.py` passes source isolation, topology, C0 boundary and frozen-hash checks before hosted execution.
+
+**Next gate:** execute the four hosted Chrome modes (normal/forced colors at 1200 px and 320 px), verify responsive/forced-colors/refinement-tolerance floors, and preserve the generated diagnostics/screenshots before subjective scoring.
+
+**Guardrail:** no geometry edit after this freeze, no R4/N4 construction, no subjective survivor conclusion before mechanical PASS, and no CLR/O3/TYP/MOT/STA/material/hero/production/final-identity/Phase-C coupling.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

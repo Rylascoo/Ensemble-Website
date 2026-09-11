@@ -1,0 +1,119 @@
+{
+  "schema": "kymaean.sym02.candidate-manifest.v1",
+  "status": "FROZEN_CANDIDATE_BYTES",
+  "date": "2026-09-10",
+  "program": "SYM-02 — Threshold K Refinement + Independent Concept Exploration",
+  "freeze_law": "C0-ORIGINAL and C0-R1/R2/R3/N1/N2/N3 geometry is frozen at these hashes before hosted/browser scoring. No post-exposure retune, N4, or R4 is allowed in this batch.",
+  "controls": {
+    "C0-ORIGINAL": {
+      "role": "immutable incumbent",
+      "eligible": false,
+      "canonical_id": "C0"
+    }
+  },
+  "assets": {
+    "C0-ORIGINAL": {
+      "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+      "sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305"
+    },
+    "C0-R1": {
+      "path": "prototypes/sym-02/assets/c0-r1-bezier-fidelity.svg",
+      "sha256": "d67a70c1df7e7bf47c7a143457726dd53d241cc46319c054122ced53bf916dbd"
+    },
+    "C0-R2": {
+      "path": "prototypes/sym-02/assets/c0-r2-curve-tension.svg",
+      "sha256": "7c1ff218415d2887a4c185a172ca5100ed2e9af71eea483510a2ef7d33589a1c"
+    },
+    "C0-R3": {
+      "path": "prototypes/sym-02/assets/c0-r3-proportion.svg",
+      "sha256": "964c4331a62fe0c58deda861401d4ced48af7b147030eae5572e5f8ae8715466"
+    },
+    "N1": {
+      "path": "prototypes/sym-02/assets/n1-counterform-junction.svg",
+      "sha256": "4ff8672b809a0bda571244f6975cd722cfe0b38cfee39d2fca989713b2c8c0d4"
+    },
+    "N2": {
+      "path": "prototypes/sym-02/assets/n2-tension-quartet.svg",
+      "sha256": "eb33956611e2f271b62b7eec14312f46cbf086f6d55820e15ad62f538b6e9b5e"
+    },
+    "N3": {
+      "path": "prototypes/sym-02/assets/n3-emergent-spine.svg",
+      "sha256": "c00fb1e02d7ff56befed771057b53b92ba9d62c2c908f5831814d2e0fd8290b1"
+    }
+  },
+  "expected_topology": {
+    "C0-ORIGINAL": {
+      "path_count": 3
+    },
+    "C0-R1": {
+      "path_count": 3
+    },
+    "C0-R2": {
+      "path_count": 3
+    },
+    "C0-R3": {
+      "path_count": 3
+    },
+    "N1": {
+      "path_count": 1,
+      "fill_rule": "evenodd"
+    },
+    "N2": {
+      "path_count": 4
+    },
+    "N3": {
+      "path_count": 3
+    }
+  },
+  "program_contract": {
+    "path": "docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json",
+    "sha256": "480d96a176b52bfc2a5a97835e31319d748f58ccfdad16f28a4b76b9605e46fc"
+  },
+  "harness": {
+    "path": "prototypes/sym-02/harness.html",
+    "sha256": "a0bcac4fb01b2ed7a195f83e8f2f92cf28b09d2754c864c3d8aff1b9745a7a04"
+  },
+  "browser_probe": {
+    "path": "tools/sym02_browser_probe.mjs",
+    "sha256": "2162bb7fcf2664758d06fc4f404a21d3f82ab46c363751fff0db8164cd9d5f0c"
+  },
+  "source_verifier": {
+    "path": "tools/verify_sym02.py"
+  },
+  "browser_verifier": {
+    "path": "tools/verify_sym02_browser.py"
+  },
+  "sizes_css_px": [
+    16,
+    20,
+    24,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "hosted_modes": [
+    "normal-wide",
+    "forced-wide",
+    "normal-320",
+    "forced-320"
+  ],
+  "candidate_eligibility": [
+    "C0-R1",
+    "C0-R2",
+    "C0-R3",
+    "N1",
+    "N2",
+    "N3"
+  ],
+  "post_review_reserved": [
+    "C0-R4"
+  ],
+  "explicit_non_authority": [
+    "No final logo/app icon or production vector.",
+    "No CLR-01/O3/TYP/MOT/STA/material/hero mutation.",
+    "No Store/package asset, trademark clearance, app/site implementation, final identity or Phase-C convergence."
+  ],
+  "hash_basis": "SHA-256 over canonical LF UTF-8 text bytes; equivalent to canonical Git blob content for these text assets."
+}

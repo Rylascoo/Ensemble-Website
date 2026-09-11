@@ -1,0 +1,65 @@
+name: Temporary SYM-02 browser preflight
+
+on:
+  push:
+    branches:
+      - design/sym02-symbol-exploration-2026-09-10
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - name: Static frozen-contract checks
+        run: python tools/verify_sym02.py
+      - name: Hosted Chrome matrix checks
+        shell: bash
+        run: |
+          set -euo pipefail
+          BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
+          test -n "$BROWSER"
+          export BROWSER
+          BROWSER_VERSION="$($BROWSER --version)"
+          OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
+          mkdir -p /tmp/sym02-artifact/diagnostics /tmp/sym02-artifact/screenshots
+          python -m http.server 8765 --bind 127.0.0.1 >/tmp/sym02-http.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
+          for _ in $(seq 1 50); do
+            if curl -fsS http://127.0.0.1:8765/prototypes/sym-02/harness.html >/dev/null; then break; fi
+            sleep 0.1
+          done
+          curl -fsS http://127.0.0.1:8765/prototypes/sym-02/harness.html >/dev/null
+          run_cdp() {
+            local mode="$1" width="$2" stem="$3"
+            node --experimental-websocket tools/sym02_browser_probe.mjs "$mode" "$width" "/tmp/sym02-artifact/diagnostics/$stem.json" "/tmp/sym02-$stem" "/tmp/sym02-artifact/screenshots/$stem.png"
+          }
+          run_cdp normal 1200 normal-wide
+          run_cdp forced 1200 forced-wide
+          run_cdp normal 320 normal-320
+          run_cdp forced 320 forced-320
+          python tools/verify_sym02_browser.py \
+            --normal-wide /tmp/sym02-artifact/diagnostics/normal-wide.json \
+            --forced-wide /tmp/sym02-artifact/diagnostics/forced-wide.json \
+            --normal-320 /tmp/sym02-artifact/diagnostics/normal-320.json \
+            --forced-320 /tmp/sym02-artifact/diagnostics/forced-320.json \
+            --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
+            --output /tmp/sym02-artifact/SYM_02_BROWSER_PREFLIGHT_01.json
+          cp prototypes/sym-02/harness.html /tmp/sym02-artifact/harness.html
+          cp docs/evidence/SYM_02_FROZEN_CANDIDATE_MANIFEST_01.json /tmp/sym02-artifact/manifest.json
+          cp docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json /tmp/sym02-artifact/program.json
+          cp assets/brand/kymaean-threshold-k-working-candidate.svg /tmp/sym02-artifact/C0-ORIGINAL.svg
+          cp -R prototypes/sym-02/assets /tmp/sym02-artifact/assets
+          printf '%s\n' "$BROWSER_VERSION" > /tmp/sym02-artifact/browser-version.txt
+          printf '%s\n' "$OS_PRETTY" > /tmp/sym02-artifact/os-pretty.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: sym02-preflight
+          path: /tmp/sym02-artifact
+          if-no-files-found: error
+          retention-days: 7
