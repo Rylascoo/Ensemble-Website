@@ -1481,3 +1481,15 @@ No Director taste gate is triggered because only one materially valid survivor r
 **Next gate:** fresh Phase-B shared-brand sequencing/reentry audit using TYP-02 as new bounded typography evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN-CRITERIA TYPOGRAPHY FALSIFICATION.**
+
+## L-093 - O3 wordmark authority receives its missing continuity packet
+
+**State:** CONTINUITY REPAIR / PKT-W0-O3-01 REGISTERED / NO DESIGN CHANGE
+
+The active packet registry omitted a bounded packet for an authority that already exists: Director-approved temporary W0 incumbent **O3 — Balanced Hierarchy**. `PKT_W0_O3_WORDMARK_01.json` now records the existing 2026-09-05 Director approval, deterministic source readiness, exact O3 source hash, compact-scale Æ pressure boundary and explicit non-final limits.
+
+This is indexing/continuity repair only. O3 geometry, Director approval, Threshold K, TYP-02 F1 Ratio Ladder, CLR-01, and every other packet result are unchanged. The packet exists so later composition/reentry audits can reason from a complete current map instead of silently treating O3 as unpacketed historical context.
+
+**Next gate:** complete the fresh post-TYP-02 Phase-B sequencing/reentry audit.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC CONTINUITY REPAIR.**

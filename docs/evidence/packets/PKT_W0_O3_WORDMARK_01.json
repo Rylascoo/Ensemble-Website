@@ -1,0 +1,120 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-W0-O3-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-11",
+  "gate_or_program": "Lane B W0 — O3 Balanced Hierarchy Wordmark",
+  "design_axis": "wordmark / shared-brand name carrier",
+  "bounded_question": "Can O3 serve as the deterministic temporary KYMÆAN wordmark incumbent for integrated app + website testing while retaining standalone word ownership, a deliberately resolved Æ, and lower emblematic density than Threshold K?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "017458bd8b5453d3a048ef8a0a60dc68fb5cbc31",
+    "current_state_at_close": "Historical Director-approved O3 temporary W0 authority is packeted here for continuity only; no new design selection is made.",
+    "governing_method_or_contract": [
+      "docs/evidence/LANE_B_O3_WORDMARK_DIRECTOR_APPROVAL_01.md",
+      "docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md",
+      "docs/KYMAEAN_LANE_B_BESPOKE_WORDMARK_CONSTRUCTION_02.md"
+    ],
+    "drive_sources_if_material": []
+  },
+  "controlled_inputs": [
+    "Director-approved O3 Balanced Hierarchy structure",
+    "exact deterministic O3 SVG; LF SHA-256 204e6f7b3239f44267a04afa2c12f0254a56142e9298ee6e7fab9f9061a674f5",
+    "historical Threshold K used only as the approved neighboring symbol/control in integrated testing"
+  ],
+  "excluded_variables": [
+    "final wordmark master",
+    "final Threshold K/logo/app icon",
+    "final typeface or broader typography system",
+    "palette/material system",
+    "trademark clearance",
+    "Windows/device production rendering",
+    "packaging/Store readiness"
+  ],
+  "local_result": {
+    "summary": "O3 Balanced Hierarchy is the Director-approved temporary W0 wordmark incumbent and its deterministic currentColor SVG is ready for integrated testing; it is not final wordmark authority.",
+    "survivors_or_closure": [
+      "O3 — Balanced Hierarchy"
+    ],
+    "recommended_incumbent": "O3 — Balanced Hierarchy",
+    "alternates": [],
+    "rejections": []
+  },
+  "judgment": {
+    "design_sol_view": "Preserve O3 unchanged as the current bounded wordmark control/incumbent; evaluate it through integration rather than redesign by presumption.",
+    "director_view_or_delegation": "Director explicitly approved O3 as the temporary W0 incumbent for integrated app + website testing on 2026-09-05.",
+    "resolution_mode": "DIRECTOR_SELECTED"
+  },
+  "evidence": {
+    "mechanical": [
+      "No external font, remote-resource or generative/runtime dependency.",
+      "Canonical O3 source LF SHA-256 204e6f7b3239f44267a04afa2c12f0254a56142e9298ee6e7fab9f9061a674f5",
+      "Static readiness probes: 14/16/18/22/28/36 px."
+    ],
+    "visual": [
+      "prototypes/lane-b/bespoke-wordmark-o3-legibility-gate-01.html",
+      "assets/brand/kymaean-o3-wordmark-temporary-incumbent.svg"
+    ],
+    "accessibility": [
+      "Accessible text identity remains KYMÆAN separately from the vector asset.",
+      "14–16 px is the first Æ pressure range; 18 px+ is clear in the current browser raster study."
+    ],
+    "invalid_or_superseded_attempts": []
+  },
+  "dependencies": {
+    "requires": [
+      "bounded integrated app + website testing with current shared-brand mechanisms",
+      "later explicit Director/final-master decision before production wordmark authority"
+    ],
+    "constrains": [
+      "integrated tests must preserve exact O3 geometry unless a separately authorized successor/refinement program opens"
+    ],
+    "must_not_be_confused_with": [
+      "final wordmark master",
+      "final typeface/typography system",
+      "final logo lockup",
+      "production or trademark clearance"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "Compact 14–16 px deployment pressures the Æ and must not be treated as a production-safe minimum without device validation.",
+    "No universal fixed mark/name ratio is approved; app compact, website header and hero/acquisition roles may differ.",
+    "O3 may appear alone; integrated hierarchy must keep product scope primary in app chrome."
+  ],
+  "explicit_non_authority": [
+    "No final O3 geometry, logo, app icon, typeface, palette/material system, production packaging, trademark, app/site implementation, final identity or Phase-C convergence."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "assets/brand/kymaean-o3-wordmark-temporary-incumbent.svg",
+      "docs/evidence/LANE_B_O3_WORDMARK_DIRECTOR_APPROVAL_01.md",
+      "docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md",
+      "docs/KYMAEAN_LANE_B_BESPOKE_WORDMARK_CONSTRUCTION_02.md",
+      "prototypes/lane-b/bespoke-wordmark-o3-legibility-gate-01.html"
+    ],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/lane-b/bespoke-wordmark-o3-legibility-gate-01.html",
+      "what_to_review": "O3 word ownership, resolved Æ, optical hierarchy and compact-scale pressure; later integration should review O3 beside exact C0 and the current shared-brand scaffold.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "docs/KYMAEAN_LANE_B_IDENTITY_SOURCE_READINESS_01.md"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [
+      "PKT-SYM-01-01"
+    ],
+    "latest_composition_packet": "PKT-CMP-01-01",
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}

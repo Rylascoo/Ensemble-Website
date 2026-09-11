@@ -71,6 +71,14 @@
       "production_authority": false
     },
     {
+      "packet_id": "PKT-W0-O3-01",
+      "path": "docs/evidence/packets/PKT_W0_O3_WORDMARK_01.json",
+      "axis": "wordmark / shared-brand name carrier",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Director-approved O3 Balanced Hierarchy temporary W0 incumbent; deterministic source ready for integrated testing, not final wordmark authority",
+      "production_authority": false
+    },
+    {
       "packet_id": "PKT-CMP-01-01",
       "path": "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json",
       "axis": "bounded shared-brand packet composition / interaction",
@@ -90,6 +98,7 @@
   "known_whole_system_gaps": [
     "C0 Threshold K remains the provisional primary-symbol incumbent after SYM-02 closed with zero refinement/independent-concept survivors; no final symbol authority exists",
     "F1 Ratio Ladder is the provisional composition-supported role grammar from TYP-02, but final typeface/font implementation remains unresolved; system-ui is measurement-only",
+    "O3 Balanced Hierarchy is the Director-approved temporary W0 wordmark incumbent for integration, but final wordmark/master geometry, device rendering and trademark clearance remain unresolved",
     "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
