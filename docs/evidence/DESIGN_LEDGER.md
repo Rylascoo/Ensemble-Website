@@ -1824,3 +1824,15 @@ The packet deliberately carries `DIRECTOR_ADJUDICATION_PENDING`, not provisional
 **Next gate:** guarded serial promotion/archive closeout, then Director convergence review. No pre-decision family refinement, composition, CLR reentry, hero reopening, implementation, production asset or Phase-C work.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DURABLE PACKETIZATION OF FROZEN CTF-01 RESULT; DIRECTOR CONVERGENCE DECISION RESERVED.**
+
+## L-117 - CTF-01 source is promoted; branch disposal remains strictly gated
+
+**State:** CTF-01 SOURCE PROMOTED / MAIN-ONLY LIFECYCLE CHECKPOINT / ARCHIVE-TAG + ZERO-UNIQUE PROOF NEXT
+
+Serial source `84b496ddd1ae4f835199db1492f6ae62f83cf96e` has been fast-forward-promoted from frozen-method main `3f8dd6484cf6d62ab3d9c3dc5ec98eeb14171f66`. This main-only checkpoint intentionally follows promotion so the immutable CTF-01 source can become a strict ancestor before branch disposal.
+
+Remote serial deletion is authorized only after this checkpoint passes hosted document/publication validation, the exact source is preserved under a lightweight archive tag and read back, and `source...main` proves zero source-unique commits with source strictly behind main. The concurrent unique-commit SYM branch remains protected.
+
+**Next gate:** hosted validation of this lifecycle checkpoint, then exact archive-tag/readback + strict-ancestor/zero-unique proof + remote serial deletion. After branch closeout, the consequential Director convergence review is the only creative next gate.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - GUARDED CTF-01 SERIAL PROMOTION LIFECYCLE.**
