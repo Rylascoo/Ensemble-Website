@@ -1812,3 +1812,15 @@ The transfer also clears the frozen anti-copy law. The primary's torn shared-med
 **Next gate:** complete normal CTF-01 packetization and guarded serial promotion/archive closeout, then present the two-family evidence at the consequential Director convergence review. No additional CTF render, reroll, premise/topology repair, family refinement, CLR reentry, hero reopening, real-product synthesis, implementation, production asset or Phase-C work before that decision.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN TRANSFER EVALUATION; DIRECTOR CONVERGENCE DECISION RESERVED.**
+
+## L-116 - CTF-01 survivor is packetized for Director convergence review
+
+**State:** PKT-CTF-01-01 FROZEN / DIRECTOR ADJUDICATION PENDING / TWO-FAMILY EVIDENCE PREREQUISITE SATISFIED
+
+`docs/evidence/packets/PKT_CTF_01_SECOND_FAMILY_SURVIVOR_01.json` packetizes the immutable CTF-01 result commit `705780ab2b8d1a96a614ef25efdc0ab029ef774c` without changing its scoring. The packet registry now exposes R1 Interlaced Continuous Fiber Surface as a genuine second-family evidence set alongside the existing provisional C0/O3/TYP/MAT/STA/MOT family/control.
+
+The packet deliberately carries `DIRECTOR_ADJUDICATION_PENDING`, not provisional-final-incumbent or production authority. R1 has proven whole-surface representational transfer; the current family/control has broader symbol/wordmark/type/material/state/motion packet evidence. Their evidence scopes are intentionally unequal and must be compared at the consequential Director convergence gate rather than averaged into a synthetic hybrid by default.
+
+**Next gate:** guarded serial promotion/archive closeout, then Director convergence review. No pre-decision family refinement, composition, CLR reentry, hero reopening, implementation, production asset or Phase-C work.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DURABLE PACKETIZATION OF FROZEN CTF-01 RESULT; DIRECTOR CONVERGENCE DECISION RESERVED.**

@@ -1,0 +1,139 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-CTF-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "DIRECTOR_ADJUDICATION_PENDING",
+  "date": "2026-09-11",
+  "gate_or_program": "CTF-01 - Content-Topology-First Second-Family Divergence",
+  "design_axis": "shared-brand second-family / whole-surface representation logic",
+  "bounded_question": "Can a fresh whole-surface representation law remain materially distinct from the current provisional family and VFD-01 premises while preserving human, relational, causal, epistemic and accessibility laws across two pre-frozen materially disjoint content/cause topologies?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "3f8dd6484cf6d62ab3d9c3dc5ec98eeb14171f66",
+    "current_state_at_close": "Frozen CTF-01 program-result commit 705780ab2b8d1a96a614ef25efdc0ab029ef774c; packetization follows without changing that result.",
+    "governing_method_or_contract": [
+      "docs/evidence/SHARED_BRAND_CTF_01_SUCCESSOR_SECOND_FAMILY_AUTHORIZATION_01.json",
+      "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+      "docs/evidence/CTF_01_FROZEN_INPUT_MANIFEST_01.json"
+    ],
+    "drive_sources_if_material": [
+      "Drive folder CTF-01 Content-Topology-First Divergence 01 (id 1ywta8k7Iejh2QWEpP_wNuOBB82VhlC4I)"
+    ]
+  },
+  "controlled_inputs": [
+    "four frozen pairwise-orthogonal causal/content topologies T1-T4",
+    "four frozen topology-agnostic representation premises R1-R4",
+    "predeclared primary/transfer derangement",
+    "R4 pre-render rejection without replacement after frozen historical-contamination audit",
+    "fresh non-project renderer context per probe with no cross-probe pixels",
+    "effective maximum three primary plus at most two transfer images; no reroll or result-aware reassignment"
+  ],
+  "excluded_variables": [
+    "VFD-01 P1-P4 laws/images/scene staging as construction seeds",
+    "current C0/O3/TYP/MAT/STA/MOT/CLR mechanisms as construction seeds",
+    "historical exact VID/hero/Quiet Stage/Mineral Theater surfaces",
+    "color as identity-selection axis, motion scoring, brand marks, wordmark, bespoke typography, product UI, semantic iconography",
+    "production assets and implementation"
+  ],
+  "local_result": {
+    "summary": "R1 Interlaced Continuous Fiber Surface passed its T1 primary and materially different T3 transfer under the frozen whole-surface, topology, quarantine, distance, accessibility and anti-copy gates. R2/R3 failed primary substrate laws and R4 was rejected pre-render. CTF-01 therefore establishes one genuine second-family survivor after four judgeable images.",
+    "survivors_or_closure": [
+      "R1_INTERLACED_CONTINUOUS_FIBER_SURFACE_SECOND_FAMILY_SURVIVOR"
+    ],
+    "recommended_incumbent": null,
+    "alternates": [],
+    "rejections": [
+      "R2 Continuous Relief Skin - normal modeled/sculptural scene with relief-like treatment rather than one unbroken relief skin",
+      "R3 Translucent Registration Stack - conventional illustration with translucent overlays rather than exclusive laminar substrate",
+      "R4 Occlusion-Cast Projection Field - rejected pre-render as reopening historically exhausted occlusion/reflection mechanism"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "R1 is strong enough to count as a genuinely distinct surviving second visual family because its fiber ontology constructs the whole surface and survives a materially different topology without copying the primary scene. This result warrants deliberate convergence comparison; it does not by itself justify selecting R1 over the current provisional family/control.",
+    "director_view_or_delegation": "The Director authorized CTF-01 by instructing continuation after Audit 11. No post-result Director taste input was used in primary or transfer scoring. The final convergence choice remains reserved to the Director.",
+    "resolution_mode": "PENDING_DIRECTOR"
+  },
+  "evidence": {
+    "mechanical": [
+      "program-result commit 705780ab2b8d1a96a614ef25efdc0ab029ef774c",
+      "R1/T1 primary SHA-256 3cb0fc2330d4e92ced80bd484254a5e5799221e595e6bfafa8ac4f1f9290afd8; 1586x992; 3,930,792 bytes",
+      "R1/T3 transfer SHA-256 7aecd932f0071a19d70d5bf62bedcd2eb06abd936d64d19570e7e3d025340d80; 1672x941; 4,405,192 bytes",
+      "image budget consumed 4 effective judgeable images; no further CTF-01 image lawful"
+    ],
+    "visual": [
+      "Drive CTF_01_R1_T1_PRIMARY_01.png",
+      "Drive CTF_01_R1_T3_TRANSFER_01.png",
+      "Drive CTF_01_R2_T2_PRIMARY_01.png",
+      "Drive CTF_01_R3_T3_PRIMARY_01.png"
+    ],
+    "accessibility": [
+      "R1's essential people, changed condition, quantity asymmetry and relational structure survive through silhouette, value, scale and large structural organization without dependence on hue, text or motion."
+    ],
+    "invalid_or_superseded_attempts": []
+  },
+  "dependencies": {
+    "requires": [
+      "consequential Director convergence review between the current provisional family/control and R1 second-family evidence before Phase-B exit or Phase-C work"
+    ],
+    "constrains": [
+      "future convergence must preserve the distinction between R1's whole-surface fiber ontology and literal textile decoration",
+      "no current-family mechanism may be silently imported into R1 merely to make comparison convenient, and no R1 fiber treatment may be silently imposed on the current family before selection"
+    ],
+    "must_not_be_confused_with": [
+      "final Kymaean identity selection",
+      "automatic Phase-B exit",
+      "Phase-C authority",
+      "production artwork or universal literal woven texture",
+      "app/site implementation"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "R1 is currently proven as a whole-surface representation family, not yet as a complete symbol/type/color/UI system.",
+    "Literal fiber density may become visually heavy at UI scale; any later convergence must test translation principles rather than assuming every surface becomes woven imagery.",
+    "The current provisional family/control has stronger packet-level symbol/wordmark/type/material/state/motion evidence; R1 has stronger whole-surface representational divergence evidence. The Director comparison must not pretend these evidence scopes are identical.",
+    "CLR-01 remains parked and final typeface, color, hero/static world, functional iconography and real-product synthesis remain unresolved regardless of R1 survival."
+  ],
+  "explicit_non_authority": [
+    "No final identity family, final symbol, wordmark, typeface, palette, material system, imagery system, iconography, production motion token, app/site implementation, whole-app synthesis or Phase-C work is authorized by this packet.",
+    "No additional CTF-01 render, transfer, reroll, premise repair or topology replacement is authorized."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+      "docs/evidence/CTF_01_FROZEN_INPUT_MANIFEST_01.json",
+      "docs/evidence/CTF_01_PRIMARY_EVALUATION_01.json",
+      "docs/evidence/CTF_01_TRANSFER_EVALUATION_AND_SURVIVOR_01.json",
+      "docs/evidence/CTF_01_TOPOLOGY_PAIRWISE_AUDIT_01.json",
+      "docs/evidence/CTF_01_PREMISE_PAIRWISE_AUDIT_01.json",
+      "docs/evidence/CTF_01_PRE_RENDER_CONSTRUCTION_QUARANTINE_AUDIT_01.json",
+      "docs/evidence/CTF_01_POST_FREEZE_PRE_RENDER_COMPARISON_AUDIT_01.json"
+    ],
+    "drive_visual_masters": [
+      "CTF_01_R1_T1_PRIMARY_01.png (Drive id 1zSOji9lAJorIExL9s66ZDLCFr92OhcYK)",
+      "CTF_01_R1_T3_TRANSFER_01.png (Drive id 1dmmwwIXs8BN1ntbHyVCCMwtovOQQrJ3-)",
+      "CTF_01_R2_T2_PRIMARY_01.png (Drive id 1J0p5d0oNfnzgD13D4SP91APM7Bsv9Xxf)",
+      "CTF_01_R3_T3_PRIMARY_01.png (Drive id 1hmkxzkvNkoyY1XHXI_mx5J1o3J4ehD5B)"
+    ],
+    "director_review_surface": {
+      "entry_point": "Drive folder CTF-01 Content-Topology-First Divergence 01 plus current provisional-family packets in DESIGN_PACKET_REGISTRY_01.json",
+      "what_to_review": "R1 primary and transfer together to judge the surviving fiber family against the current provisional family/control at the deliberate convergence boundary; R2/R3 remain failure evidence, not alternatives.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "docs/evidence/CTF_01_PRIMARY_EVALUATION_01.json",
+        "docs/evidence/CTF_01_TRANSFER_EVALUATION_AND_SURVIVOR_01.json"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
