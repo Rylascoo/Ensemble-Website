@@ -1,0 +1,66 @@
+{
+  "schema": "kymaean.mat01.execution-defaults-addendum.v2",
+  "status": "FROZEN_PRE_SPECIMEN_COMPLETENESS_CORRECTION",
+  "date": "2026-09-10",
+  "parent_method": "docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json",
+  "parent_addendum": "docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json",
+  "purpose": "Close the remaining judgment-bearing placement gaps discovered before the first MAT-01 specimen bytes exist. No family topology, tone, amplitude, candidate count, or falsification law changes.",
+  "neutral_content_fixture": {
+    "flow": "block inside the frozen APP/WEB surface padding",
+    "eyebrow_margin": "0 0 8px 0",
+    "heading_margin": "0 0 10px 0",
+    "body_margin": "0 0 18px 0",
+    "units": "three plain text spans in one flex row with 18px inline gap and 12px row gap; flex-wrap allowed; no unit background, border, radius, shadow, icon, or state styling",
+    "compact_reflow": "wrapping only; unit order remains A, B, C"
+  },
+  "control_completion": {
+    "CNEG_cards": "geometry layer inset equals the frozen surface padding for its context; grid-template-columns repeat(3,minmax(0,1fr)); 12px gap; cards stretch through the remaining geometry-layer height"
+  },
+  "family_geometry_completion": {
+    "F2_perimeter_response": {
+      "edge": "bottom inline-end perimeter",
+      "right_pct": 0,
+      "bottom_px": 0,
+      "width_pct": 23,
+      "height_px": 2,
+      "derivation": "23% equals the frozen residual inline margin after the pressed zone ending at 77%; this closes span without introducing a new free proportion."
+    },
+    "F3_mass_placement": {
+      "horizontal": "one geometry layer spanning the full surface; grid columns weighted 49fr 29fr 18fr with only the already-frozen APP/WEB joint gap between masses",
+      "top_offsets_pct": [
+        18,
+        6,
+        24
+      ],
+      "heights_pct": [
+        62,
+        78,
+        54
+      ],
+      "centers_pct": [
+        49,
+        45,
+        51
+      ],
+      "rule": "Offsets are fixed across APP and WEB. Joint width is the only context-dependent F3 amplitude."
+    },
+    "F4_crease_realization": {
+      "css_shape": "full-surface pseudo-element clipped to polygon(calc(56% - 1px) 0, calc(56% + 1px) 0, calc(48% + 1px) 100%, calc(48% - 1px) 100%)",
+      "purpose": "realize the already-frozen 56%-to-48%, 2px crease without aspect-ratio-dependent transform choices"
+    }
+  },
+  "compact_structural_probe_fixture": {
+    "sizes_px": [
+      16,
+      20,
+      24,
+      32
+    ],
+    "source": "APP topology only",
+    "canonical_internal_square_px": 210,
+    "construction": "Each probe is a size×size overflow-hidden wrapper containing a 210×210 decorative APP-geometry clone scaled uniformly by size/210 from the top-left transform origin.",
+    "content": "No text is rendered inside compact probes; they test structural carrier read only and carry aria-hidden=true.",
+    "tone": "same frozen grayscale levels; no family-specific rescue or simplification at compact size."
+  },
+  "construction_freeze": "These completion values are frozen before first specimen materialization. After specimen bytes exist they may be changed only to repair a demonstrable transcription/measurement defect back to this exact contract; no evidence-aware retune is permitted."
+}
