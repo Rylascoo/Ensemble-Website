@@ -1309,3 +1309,17 @@ Audit 06 rejected composition while the positive packet set lacked a family-defi
 **Guardrail:** no source-packet retune, CLR-01 reentry, Mineral Theater recolor, TYP/O3 work, SYM-03, MAT F5, hero reopening, product UI proposal, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-SPECIMEN COMPOSITION AUDIT.**
+
+## L-081 - CMP-01 deterministic source packet freezes before browser exposure
+
+**State:** CMP-01 SOURCE BYTES FROZEN / EIGHT-MODE HOSTED PREFLIGHT NEXT / NO SUBJECTIVE RESULT YET
+
+`CMP_01_FROZEN_SOURCE_MANIFEST_01.json` binds the exact deterministic composition harness, static verifier, browser probe/verifier, temporary read-only hosted workflow, frozen method/defaults, exact C0 source and all five source gate packets. Canonical harness SHA-256 is `1972b7308a827c0fa8b7b9418de61b14edd3125c32c8c167e945f3708349dba0`; C0 remains exact `72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305`.
+
+A pre-exposure static audit rejected diagnostic `setTimeout` use under the frozen no-autoplay/timer rule. The diagnostic wait was mechanically replaced with each Web Animation's `finished` promise before any browser execution. F1A/CS2 timing, easing, geometry, packet presence, content and scored FULL composition are unchanged. Static checks then pass with minimum audited normal text contrast 14.5544:1.
+
+**Next gate:** canonical hosted eight-mode preflight at 1200/320 across normal/forced-colors and full/reduced-motion. No subjective CMP-01 compatibility judgment before complete mechanical PASS.
+
+**Guardrail:** no post-exposure source-packet retune, CLR-01 reentry, production tokens, real product UI semantics, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-EXPOSURE SOURCE FREEZE.**
