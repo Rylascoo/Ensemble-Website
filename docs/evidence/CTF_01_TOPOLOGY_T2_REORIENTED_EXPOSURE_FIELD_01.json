@@ -1,0 +1,29 @@
+{
+  "schema": "kymaean.ctf01.topology.v1",
+  "program_id": "CTF-01",
+  "status": "FROZEN_STAGE_A_TOPOLOGY_ONLY",
+  "date": "2026-09-11",
+  "governing_method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "representation_authority": "NONE; this packet defines causal/content topology only and must not imply art direction.",
+  "topology_id": "T2",
+  "name": "Reoriented Exposure Field",
+  "topology_law": "An earlier human reorientation of a broad existing cover/reflector/exposure-control element persistently changes a large environmental exposure pattern within one connected shared space. Two distinct people now occupy/use overlapping space under materially different exposure conditions caused by that orientation.",
+  "prior_action": "A broad exposure-modifying element was rotated or reoriented around a physically legible support/pivot and remains in the changed orientation.",
+  "present_relation": "Differential exposure/visibility/comfort within one shared connected space; neither person is separated by a barrier.",
+  "recoverable_evidence": "The current element orientation, its support/pivot relation and the large cast/exposure pattern make the changed orientation and a simpler alternate orientation recoverable without text or arrows.",
+  "restoration_counterfactual": "Returning the element toward its prior orientation would materially change the exposure pattern affecting both people and alter their present spatial use.",
+  "axes": {
+    "causal carrier locus": "projected environmental exposure pattern from an oriented broad element",
+    "current human relation/dependency type": "differential exposure within shared space",
+    "spatial relation topology": "overlapping projected zones in one unpartitioned space",
+    "earlier-action to present-condition mechanism": "rotation/reorientation around support or pivot",
+    "recoverable evidence type": "orientation/pivot relation plus large coherent cast/exposure pattern",
+    "restoration counterfactual": "restore orientation -> exposure zones materially change"
+  },
+  "specific_prohibitions": [
+    "no wall/fence/barrier as the causal carrier",
+    "no unit-built surface or mosaic field",
+    "no sequential small objects or path",
+    "no private emotion/intent explanation"
+  ]
+}

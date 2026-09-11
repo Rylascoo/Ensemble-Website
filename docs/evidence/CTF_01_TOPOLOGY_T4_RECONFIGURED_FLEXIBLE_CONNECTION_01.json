@@ -1,0 +1,29 @@
+{
+  "schema": "kymaean.ctf01.topology.v1",
+  "program_id": "CTF-01",
+  "status": "FROZEN_STAGE_A_TOPOLOGY_ONLY",
+  "date": "2026-09-11",
+  "governing_method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "representation_authority": "NONE; this packet defines causal/content topology only and must not imply art direction.",
+  "topology_id": "T4",
+  "name": "Reconfigured Flexible Connection",
+  "topology_law": "An earlier human action changed the attachment geometry of one continuous flexible connection, persistently altering its tension/slack and the reach/support relationship available to two distinct people. Their present relation depends on the current connection geometry rather than a partition or shared object placement.",
+  "prior_action": "One attachment point or routing relation of a continuous flexible connection was moved/re-fastened earlier and remains in the changed configuration.",
+  "present_relation": "Coupled reach/support/coordination through one shared tensile connection; both people are materially implicated by the present configuration.",
+  "recoverable_evidence": "Current taut/slack geometry plus physically plausible unused/prior attachment evidence makes the changed configuration recoverable without diagram labels.",
+  "restoration_counterfactual": "Reattaching/routing the connection through the prior relation would materially change the reachable/supportable relation between the two people.",
+  "axes": {
+    "causal carrier locus": "continuous flexible tensile connection and its attachment geometry",
+    "current human relation/dependency type": "coupled reach/support/coordination",
+    "spatial relation topology": "linked nodes through one flexible connection, no partition",
+    "earlier-action to present-condition mechanism": "reattachment/rerouting of connection",
+    "recoverable evidence type": "tension/slack geometry plus prior/current attachment evidence",
+    "restoration counterfactual": "restore prior attachment -> reach/support relation changes"
+  },
+  "specific_prohibitions": [
+    "no barrier/fence/gate/channel",
+    "no many-small-unit or mosaic construction",
+    "no diagram arrows/labels/network schematic styling",
+    "no active rescue/intimate-embrace hero topology"
+  ]
+}

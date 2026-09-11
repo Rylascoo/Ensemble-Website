@@ -1,0 +1,125 @@
+{
+  "schema": "kymaean.ctf01.topology-pairwise-audit.v1",
+  "status": "PASS_ALL_FOUR_TOPOLOGIES_FROZEN_ORTHOGONAL",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "topology_packets": {
+    "T1": "docs/evidence/CTF_01_TOPOLOGY_T1_SUBTRACTIVE_SHARED_MEDIUM_01.json",
+    "T2": "docs/evidence/CTF_01_TOPOLOGY_T2_REORIENTED_EXPOSURE_FIELD_01.json",
+    "T3": "docs/evidence/CTF_01_TOPOLOGY_T3_REDISTRIBUTED_FINITE_BULK_SUPPLY_01.json",
+    "T4": "docs/evidence/CTF_01_TOPOLOGY_T4_RECONFIGURED_FLEXIBLE_CONNECTION_01.json"
+  },
+  "axes": [
+    "causal carrier locus",
+    "current human relation/dependency type",
+    "spatial relation topology",
+    "earlier-action to present-condition mechanism",
+    "recoverable evidence type",
+    "restoration counterfactual"
+  ],
+  "floor": "at least 4 of 6 axes materially different for every pair",
+  "pairwise": [
+    {
+      "pair": "T1-T2",
+      "different_axes": [
+        "causal carrier locus",
+        "current human relation/dependency type",
+        "spatial relation topology",
+        "earlier-action to present-condition mechanism",
+        "recoverable evidence type",
+        "restoration counterfactual"
+      ],
+      "floor_pass": true,
+      "materially_different_axis_count": 6,
+      "conservatively_not_counted_axes": [],
+      "materiality_rationale": "Subtracted material continuity/occupation differs from projected exposure/reorientation on carrier, relation, space, mechanism, evidence, and restoration."
+    },
+    {
+      "pair": "T1-T3",
+      "different_axes": [
+        "causal carrier locus",
+        "current human relation/dependency type",
+        "spatial relation topology",
+        "earlier-action to present-condition mechanism",
+        "recoverable evidence type",
+        "restoration counterfactual"
+      ],
+      "floor_pass": true,
+      "materially_different_axis_count": 5,
+      "conservatively_not_counted_axes": [
+        "current human relation/dependency type"
+      ],
+      "materiality_rationale": "Both can create asymmetric present use/access, so that axis is conservatively not counted. They remain materially distinct in carrier locus, spatial topology, causal mechanism, evidence and restoration."
+    },
+    {
+      "pair": "T1-T4",
+      "different_axes": [
+        "causal carrier locus",
+        "current human relation/dependency type",
+        "spatial relation topology",
+        "earlier-action to present-condition mechanism",
+        "recoverable evidence type",
+        "restoration counterfactual"
+      ],
+      "floor_pass": true,
+      "materially_different_axis_count": 6,
+      "conservatively_not_counted_axes": [],
+      "materiality_rationale": "Interior subtraction/occupation is distinct from tensile linkage/coupled reach-support across all six axes."
+    },
+    {
+      "pair": "T2-T3",
+      "different_axes": [
+        "causal carrier locus",
+        "current human relation/dependency type",
+        "spatial relation topology",
+        "earlier-action to present-condition mechanism",
+        "recoverable evidence type",
+        "restoration counterfactual"
+      ],
+      "floor_pass": true,
+      "materially_different_axis_count": 6,
+      "conservatively_not_counted_axes": [],
+      "materiality_rationale": "Projected exposure/reorientation differs from finite-supply allocation/relocation across all six axes."
+    },
+    {
+      "pair": "T2-T4",
+      "different_axes": [
+        "causal carrier locus",
+        "current human relation/dependency type",
+        "spatial relation topology",
+        "earlier-action to present-condition mechanism",
+        "recoverable evidence type",
+        "restoration counterfactual"
+      ],
+      "floor_pass": true,
+      "materially_different_axis_count": 6,
+      "conservatively_not_counted_axes": [],
+      "materiality_rationale": "Exposure zones from orientation differ from linked-node tensile geometry from reattachment across all six axes."
+    },
+    {
+      "pair": "T3-T4",
+      "different_axes": [
+        "causal carrier locus",
+        "current human relation/dependency type",
+        "spatial relation topology",
+        "earlier-action to present-condition mechanism",
+        "recoverable evidence type",
+        "restoration counterfactual"
+      ],
+      "floor_pass": true,
+      "materially_different_axis_count": 6,
+      "conservatively_not_counted_axes": [],
+      "materiality_rationale": "Finite-supply allocation differs from coupled tensile reach/support across all six axes."
+    }
+  ],
+  "all_four_valid": true,
+  "vfd01_quarantine_audit": [
+    "No topology uses VFD-01 primary/transfer dominant barrier-separated worker/standing-person staging.",
+    "No topology uses rule-bearing mosaic/discrete-unit representation as its causal carrier.",
+    "T1 subtraction is an interior continuity change, not a partition; T2 is projected exposure; T3 is bulk allocation; T4 is tensile connection."
+  ],
+  "premise_construction_authorized_after_this_freeze": true,
+  "representation_premises_created": 0,
+  "audit_result": "PASS: all four topologies are valid. Five pairs clear 6/6 material axes; T1-T3 is conservatively 5/6 because both contain asymmetric present use/access. Every pair exceeds the frozen 4/6 floor."
+}

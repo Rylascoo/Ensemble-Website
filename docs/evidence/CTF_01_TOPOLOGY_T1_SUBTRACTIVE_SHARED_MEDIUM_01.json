@@ -1,0 +1,29 @@
+{
+  "schema": "kymaean.ctf01.topology.v1",
+  "program_id": "CTF-01",
+  "status": "FROZEN_STAGE_A_TOPOLOGY_ONLY",
+  "date": "2026-09-11",
+  "governing_method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "representation_authority": "NONE; this packet defines causal/content topology only and must not imply art direction.",
+  "topology_id": "T1",
+  "name": "Subtractive Shared Medium",
+  "topology_law": "A once-continuous shared medium has a persistent local subtraction caused by an earlier human action. Two distinct people now use or occupy the same still-connected shared condition differently because the missing portion changes what each can do or where each can place themselves.",
+  "prior_action": "A substantial portion of one continuous shared medium was removed/cut away earlier and remains absent now.",
+  "present_relation": "Asymmetric occupation/use of one shared continuous condition; neither person is merely watching the other.",
+  "recoverable_evidence": "The present subtraction has physically coherent complementary edges/continuity evidence, with enough visible residue or matching removed-state evidence to make a simpler continuous prior condition recoverable without labels.",
+  "restoration_counterfactual": "Replacing/restoring the missing portion would materially restore the shared continuous condition and change both people's present use/occupation relation.",
+  "axes": {
+    "causal carrier locus": "missing volume inside one continuous shared medium",
+    "current human relation/dependency type": "asymmetric occupation/use of the same shared condition",
+    "spatial relation topology": "one connected field with a local interior subtraction, not a separating partition",
+    "earlier-action to present-condition mechanism": "material subtraction/removal",
+    "recoverable evidence type": "complementary continuity break plus residual/matching subtraction evidence",
+    "restoration counterfactual": "restore missing medium -> common continuous condition returns"
+  },
+  "specific_prohibitions": [
+    "no wall, fence, gate, barrier, channel, stepping-stone/path sequence or unit-built boundary",
+    "no crouched unit-worker plus standing observer topology",
+    "no discrete-tile/mosaic construction",
+    "no before/after split or explanatory mark"
+  ]
+}

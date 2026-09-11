@@ -1,0 +1,29 @@
+{
+  "schema": "kymaean.ctf01.topology.v1",
+  "program_id": "CTF-01",
+  "status": "FROZEN_STAGE_A_TOPOLOGY_ONLY",
+  "date": "2026-09-11",
+  "governing_method": "docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json",
+  "representation_authority": "NONE; this packet defines causal/content topology only and must not imply art direction.",
+  "topology_id": "T3",
+  "name": "Redistributed Finite Bulk Supply",
+  "topology_law": "A finite bulk shared supply has been persistently redistributed by an earlier human action from one source condition into unequal present destinations. Two distinct people now have materially different access/use relationships to the same finite quantity.",
+  "prior_action": "A finite bulk quantity was moved/divided from a shared source condition into materially unequal present locations and remains there.",
+  "present_relation": "Asymmetric availability/allocation of one finite shared quantity; both people have a direct present relation to the redistributed supply.",
+  "recoverable_evidence": "A visibly depleted source condition together with corresponding present bulk quantities/levels makes the prior shared quantity and redistribution recoverable without numerical labels.",
+  "restoration_counterfactual": "Returning/reconsolidating the bulk quantity to the shared source would remove the present allocation asymmetry and materially change both people's access/use.",
+  "axes": {
+    "causal carrier locus": "finite bulk quantity distributed between source and destinations",
+    "current human relation/dependency type": "asymmetric access/allocation to one finite shared supply",
+    "spatial relation topology": "source-to-multiple-destination distribution",
+    "earlier-action to present-condition mechanism": "relocation/division of finite quantity",
+    "recoverable evidence type": "depleted source plus corresponding unequal bulk quantities/levels",
+    "restoration counterfactual": "reconsolidate supply -> allocation asymmetry disappears"
+  },
+  "specific_prohibitions": [
+    "no many-small-unit mosaic/tile/stone vocabulary",
+    "no barrier/gate/path as the main changed condition",
+    "no text, measures or labels",
+    "no generic shopping/warehouse/product illustration"
+  ]
+}
