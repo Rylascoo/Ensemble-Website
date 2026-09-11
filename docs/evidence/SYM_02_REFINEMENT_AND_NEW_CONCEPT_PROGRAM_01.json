@@ -1,0 +1,166 @@
+{
+  "schema": "kymaean.sym02.refinement-new-concept-program.v1",
+  "status": "FROZEN_PRE_CONSTRUCTION",
+  "date": "2026-09-10",
+  "program": "SYM-02 — Threshold K Refinement + Independent Concept Exploration",
+  "question": "Can a controlled descendant improve the exact selected Threshold K without erasing its identity, and can any genuinely independent monochrome concept challenge it, before color, material, motion, wordmark, state, hero or implementation coupling?",
+  "authority": [
+    "CURRENT_STATE.md",
+    "docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md",
+    "docs/evidence/SYM_01_DIRECTOR_DECISION_01.json",
+    "docs/evidence/SYM_01_DESIGN_SOL_VIEW_01.json"
+  ],
+  "control": {
+    "canonical_id": "C0",
+    "review_label": "C0-ORIGINAL",
+    "name": "Threshold K",
+    "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+    "canonical_lf_sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "law": "C0-ORIGINAL is only a review alias for exact canonical C0. Its bytes and geometry are immutable in SYM-02."
+  },
+  "calibration": {
+    "historical_challenger": "F1 Split Field may appear only as a non-editable historical benchmark; it is not reopened or eligible for SYM-02 promotion.",
+    "generic_control": "CNEG may appear only as a non-eligible genericity calibration if useful."
+  },
+  "initial_batch": {
+    "refinements": [
+      "C0-R1",
+      "C0-R2",
+      "C0-R3"
+    ],
+    "independent_concepts": [
+      "N1",
+      "N2",
+      "N3"
+    ],
+    "post_review_reserved": [
+      "C0-R4"
+    ],
+    "no_additional_candidate_after_exposure": true
+  },
+  "refinement_contracts": {
+    "C0-R1": {
+      "name": "Bézier Fidelity",
+      "allowed_change": "Replace raster-trace stair stepping with intentional smooth vector interpolation while preserving component count, outer extrema, negative-space K topology, dominant/right-versus-left mass hierarchy and all identity-defining junctions.",
+      "forbidden_change": "No spacing opening, no new counterform, no silhouette redesign, no component merge/split, no intentional K strengthening.",
+      "mechanical_tolerance": "C0 outer extrema exact; component count exact; total filled area within 2 percent of C0; filled centroid within 1.5 viewBox units; every identity-defining K-facing vertex/turn remains within 1.5 viewBox units of its C0 source location."
+    },
+    "C0-R2": {
+      "name": "Curve/Tension Study",
+      "allowed_change": "Change only the right field's inner waist/return tension; left fields and right-field outer envelope remain exact C0 geometry.",
+      "forbidden_change": "No left-field edit, no envelope expansion/contraction, no new negative-space branch, no letterform regularization.",
+      "mechanical_tolerance": "All left-field path data byte-identical to C0; right-field outer-edge coordinates byte-identical where separable; edited inner-waist control/anchor displacement no more than 6 viewBox units; right-field bounding box exact."
+    },
+    "C0-R3": {
+      "name": "Proportion Study",
+      "allowed_change": "Change only the exterior mass proportion of the two left fields while preserving their K-facing inner boundaries, the inter-left gap and the complete right field.",
+      "forbidden_change": "No K-facing contour edit, no right-field edit, no component-count change, no spacing experiment.",
+      "mechanical_tolerance": "Complete right-field path byte-identical to C0; K-facing left-field boundary coordinates unchanged; left-field filled area may change by at most 8 percent in aggregate; overall left-field centroid shift no more than 4 viewBox units."
+    },
+    "C0-R4": {
+      "name": "Production Vector Candidate",
+      "construction_rule": "Do not construct in the initial batch. It may exist only after review if exactly one refinement direction survives and a clean audit finds consolidation justified. R4 naming never confers production authority."
+    }
+  },
+  "independent_concept_contracts": {
+    "N1": {
+      "name": "Counterform Junction",
+      "topology": "One compact asymmetric field with two edge-open negative cuts entering from different sides and approaching an off-center junction without forming a closed aperture.",
+      "theme": "hidden structure becoming visible through convergence",
+      "forbidden_drift": "K/letterform, trident, crop/focus mark, arrow, eye, doorway, aperture, three-field Threshold-K descendant"
+    },
+    "N2": {
+      "name": "Tension Quartet",
+      "topology": "Four unequal non-mirrored masses arranged around one bent open negative corridor; no enclosing frame, radial symmetry, central dot or closed counterform.",
+      "theme": "many distinct perspectives held in one coherent tension",
+      "forbidden_drift": "sparkle, plus/cross, loading spinner, four-way control, people/entities, tile/grid or three-field Threshold-K descendant"
+    },
+    "N3": {
+      "name": "Emergent Spine",
+      "topology": "Three unequal compact masses distributed along one bent implied spine with deliberately different orientations and no enclosing frame; the identity event is the alignment between masses rather than a letter-shaped void.",
+      "theme": "ensemble coherence emerging from distinct contributions",
+      "forbidden_drift": "ellipsis, people/team, equalizer, layers, chevron/process arrow, network nodes or Threshold-K descendant"
+    }
+  },
+  "neutralization": [
+    "single currentColor only; no gradients, texture, blur, glow, shadow, depth, material or palette identity",
+    "no wordmark, letters, monograms, typography or semantic product glyphs in scored symbols",
+    "no motion/state treatment and no hero/imagery context",
+    "all candidates use self-contained SVG and identical review framing"
+  ],
+  "review_matrix": {
+    "primary_review": [
+      "C0-ORIGINAL",
+      "C0-R1",
+      "C0-R2",
+      "C0-R3",
+      "N1",
+      "N2",
+      "N3"
+    ],
+    "calibration_optional": [
+      "F1",
+      "CNEG"
+    ],
+    "sizes_css_px": [
+      16,
+      20,
+      24,
+      32,
+      48,
+      64,
+      96,
+      128
+    ],
+    "contexts": [
+      "standalone square",
+      "compact app chrome",
+      "website header lead",
+      "website prelude"
+    ],
+    "modes": [
+      "dark-on-light",
+      "light-on-dark",
+      "forced-colors"
+    ],
+    "rule": "Candidate geometry is invariant across size, context and mode."
+  },
+  "mechanical_floors": [
+    "C0 canonical LF SHA-256 must match the frozen SYM-01 value",
+    "all scored SVGs must be self-contained, deterministic-viewBox, currentColor-only and contain no text/external resources",
+    "no clipping at any review size or context",
+    "forced-colors must preserve topology/component relationships",
+    "refinement candidates must satisfy their exact allowed-change boundary when diffed against C0",
+    "independent concepts must not reuse C0's three-field K-counterform topology or any failed SYM-01 family by superficial redraw"
+  ],
+  "subjective_falsification": [
+    "FAIL if a refinement loses the discovered-in-the-void K event, weakens compact tension without a compensating gain, or becomes more deliberately letter-like than C0.",
+    "FAIL if a refinement's purported improvement is not visible or useful at 16-32 px and is merely vector tidiness at display scale.",
+    "FAIL if an independent concept reads primarily as a familiar software/category/control glyph or literal semantic icon.",
+    "FAIL if an independent concept depends on decorative detail lost below 24 px.",
+    "FAIL if any candidate needs color, material, motion or wordmark to feel authored.",
+    "FAIL if an N-series candidate is materially a redraw of C0 or retired F2/F3/F4 rather than an independent concept.",
+    "PASS means only survival to direct comparison; it does not establish final symbol or production authority."
+  ],
+  "review_order": [
+    "1. source/topology and allowed-change audit before browser exposure",
+    "2. 16/20/24/32 px silhouette, negative-space and unintended-symbol audit",
+    "3. 48/64/96/128 px geometry/authorship audit",
+    "4. app-chrome versus website role transfer",
+    "5. direct comparison of survivors against exact C0-ORIGINAL",
+    "6. freeze Design Sol ranking before any Director taste input"
+  ],
+  "termination": {
+    "zero_refinement_survivors_valid": true,
+    "zero_independent_survivors_valid": true,
+    "no_post_exposure_retune": true,
+    "no_n4_in_this_batch": true,
+    "director_gate": "Only if multiple materially valid survivors remain and the distinction is aesthetic/product-semantic rather than falsifiable, present the human-viewable frozen board with Design Sol's pre-frozen ranking."
+  },
+  "explicit_non_authority": [
+    "No final logo/app icon, production vector, Store/package asset or trademark clearance.",
+    "No CLR-01, O3/TYP/MOT/STA/material/hero mutation.",
+    "No app/site implementation or Phase-C convergence."
+  ],
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}

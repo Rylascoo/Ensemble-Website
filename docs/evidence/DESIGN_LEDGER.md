@@ -1106,3 +1106,19 @@ Primary authority: `docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md`, `CURR
 **Guardrail:** every symbol review includes the original C0, current C0-R refinements and independent N-series concepts; no candidate replaces original C0 without an explicit Director decision.
 
 **APPROVED BY DIRECTOR — CONTINUITY CORRECTION.**
+
+## L-067 - SYM-02 opens as a bounded refinement + independent concept program
+
+**State:** ACTIVE / PRE-CONSTRUCTION CONTRACT FROZEN / C0 IMMUTABLE
+
+SYM-02 freezes the first post-selection symbol exploration before candidate construction. Exact C0 remains canonical authority and appears on review surfaces only under the alias `C0-ORIGINAL`. The initial batch contains three bounded descendants (`C0-R1` Bézier Fidelity, `C0-R2` Curve/Tension Study, `C0-R3` Proportion Study) and three independent challengers (`N1` Counterform Junction, `N2` Tension Quartet, `N3` Emergent Spine). `C0-R4` is reserved for a later post-review consolidation only if one refinement direction survives; its name creates no production authority.
+
+The contract fixes single-color isolation, candidate topology, allowed-change boundaries, quantitative refinement tolerances, 16–128 px review sizes, app/web role transfer, failure rules, no post-exposure retune, and no N4 in this batch. Zero refinement survivors and zero independent survivors are both valid outcomes.
+
+Primary authority: `docs/evidence/SYM_02_REFINEMENT_AND_NEW_CONCEPT_PROGRAM_01.json` and `docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md`.
+
+**Next gate:** construct exact initial-batch vector bytes and deterministic review surface, then pass source/topology and compact-size preflight before subjective exposure.
+
+**Guardrail:** no C0 mutation, no F2/F3/F4 revival by redraw, no CLR/O3/TYP/MOT/STA/material/hero coupling, no production asset/final identity, and no Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
