@@ -1686,3 +1686,15 @@ The packet registry now exposes VFD-01 as `CLOSED_ZERO_SURVIVORS`; the roadmap's
 **Next gate:** after normal serial promotion/closeout, run a fresh post-VFD Phase-B sequencing/reentry audit from promoted `main`.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DURABLE PACKETIZATION OF FROZEN RESULT.**
+
+## L-107 - VFD-01 source is promoted; branch disposal is strictly gated
+
+**State:** VFD-01 SOURCE PROMOTED / MAIN-ONLY LIFECYCLE CHECKPOINT / ARCHIVE-TAG + ZERO-UNIQUE PROOF NEXT
+
+Serial source `dcbf618462f7619f75fb7fb883ea2e01707275ef` has been fast-forward-promoted from prior `main` `52d1394575c5a63990e3a33c6a95c955110adec9`. This main-only checkpoint intentionally follows promotion so the immutable serial source can become a strict ancestor before branch disposal.
+
+Remote serial deletion is authorized only after this checkpoint passes hosted document/publication validation, the exact source is preserved under a lightweight archive tag and read back, and `source...main` proves zero source-unique commits with source strictly behind main. The concurrent unique-commit SYM branch remains protected.
+
+**Next gate:** hosted validation of this lifecycle checkpoint, then exact archive-tag/readback + strict-ancestor/zero-unique proof + remote serial deletion; after that, fresh post-VFD Phase-B sequencing/reentry audit from promoted `main`.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - GUARDED SERIAL PROMOTION LIFECYCLE.**
