@@ -22,7 +22,12 @@
     "surface_gap_px": 18,
     "surface_width": "min(100%, role max-width); never scale the surface with transforms",
     "min_inline_size": 0,
-    "overflow": "visible vertically; no required content clipping or horizontal scroll"
+    "overflow": "visible vertically; no required content clipping or horizontal scroll",
+    "surface_frame": "1px solid line; border-radius:0; background:field; position:relative; overflow:hidden",
+    "vertical_flow": ["identity", "typography", "state"],
+    "identity_to_typography_gap_px": 12,
+    "typography_to_state_gap_px": 16,
+    "state_item_gap_px": 8
   },
   "role_geometry": {
     "APP_COMPACT": {
@@ -86,11 +91,7 @@
       "body": "1.00rem/400/1.50/0",
       "support": "0.875rem/500/1.40/0",
       "state": "0.85rem/600/1.25/0",
-      "measures_ch": {
-        "heading": 32,
-        "body": 48,
-        "support": 48
-      },
+      "measures_ch": {"heading": 32, "body": 48, "support": 48},
       "gaps_px": [8, 12, 12]
     },
     "NEUTRAL_TYP": {
@@ -100,11 +101,7 @@
       "body": "1.00rem/400/1.50/0",
       "support": "0.90rem/500/1.40/0",
       "state": "0.85rem/600/1.25/0",
-      "measures_ch": {
-        "heading": 32,
-        "body": 48,
-        "support": 48
-      },
+      "measures_ch": {"heading": 32, "body": 48, "support": 48},
       "gaps_px": [8, 12, 12]
     },
     "content": {
