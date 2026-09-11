@@ -1,0 +1,97 @@
+{
+  "schema": "kymaean.vfd01.second-family-method.v1",
+  "status": "FROZEN_PREMISE_CONTRACT_NO_CREATIVE_EXPOSURE",
+  "date": "2026-09-11",
+  "program_id": "VFD-01",
+  "name": "Second-Family Whole-Surface Representation Divergence",
+  "authority": [
+    "docs/evidence/SHARED_BRAND_POST_CMP02_REENTRY_AUDIT_10.json",
+    "docs/evidence/SHARED_BRAND_SECOND_FAMILY_DIVERGENCE_AUTHORIZATION_01.json",
+    "docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md"
+  ],
+  "purpose": "Attempt to establish one genuinely distinct second surviving visual family for the Phase-B convergence prerequisite without using the current provisional family or historical rendered surfaces as construction seeds.",
+  "bounded_question": "Can a different whole-surface representation logic preserve durable Kymaean human, relational, causal, epistemic and accessibility laws strongly enough to survive across two materially different neutral content probes while remaining genuinely distinct from the current provisional family?",
+  "phase_exit_effect": "A VFD-01 family survivor may satisfy the missing second-family evidence prerequisite only after direct comparison establishes genuine family-level distinction. It does not itself authorize Phase C; reaching the threshold stops at a Director convergence decision.",
+  "construction_quarantine": {
+    "current_family": "C0 Threshold K, O3, TYP-02 F1 Ratio Ladder, MAT F1, STA F2, MOT F1A/CS2 and CLR-01 evidence are comparison controls only. Their geometry, hierarchy, topology, state grammar, cadence, crossfade, palette logic and exact compositions may not seed premises or probes.",
+    "historical_surfaces": "VID, hero, Quiet Stage, Mineral Theater and other historical exact casts/settings/compositions/palettes/props/architecture/rendered surfaces carry no inheritance rights.",
+    "renderer_input": "Renderer-visible packets must be positive premise descriptions plus neutral content requirements. They may not include project names, current-family artifacts, historical images, branch names, critique history, blacklists of named historical styles, or comparison judgments.",
+    "comparison_timing": "Current-family and historical-surface comparison begins only after all four premise packets and their primary renderer-visible packets are byte-frozen. Comparison may falsify a premise but may not trigger premise edits."
+  },
+  "premise_matrix": {
+    "premise_slots": [
+      "P1",
+      "P2",
+      "P3",
+      "P4"
+    ],
+    "premise_count": 4,
+    "content_before_render": "Each premise must positively define its representation ontology, spatial/relational grammar, figure-ground/material-edge grammar, human-specificity mechanism, consequence/history carrier, and tonal/texture atmosphere logic without naming a style exemplar or existing Kymaean surface.",
+    "pairwise_distance_axes": [
+      "representation ontology",
+      "spatial/relational organization",
+      "figure-ground/material-edge grammar",
+      "human identity/specificity mechanism",
+      "consequence/history representation",
+      "tonal/texture/atmosphere construction"
+    ],
+    "pairwise_floor": "Every premise pair must be materially different on at least four of the six axes before any premise is eligible for rendering. Merely changing palette, camera, depth, era, polish or decorative motif does not count.",
+    "premise_rejection": "A premise that cannot meet the pairwise floor is rejected before rendering and is not replaced."
+  },
+  "controlled_neutralities": [
+    "No Kymaean/Ensemble name, logo, wordmark or bespoke typography in scored imagery.",
+    "No product UI, app screen, website layout, status semantics or functional iconography.",
+    "Color is not a candidate axis in VFD-01: primary comparison is neutral/near-neutral value structure; any incidental renderer hue is non-authoritative and must not be the reason a premise survives.",
+    "Motion is excluded from VFD-01 scoring.",
+    "No generated image becomes a hero, production asset, website master, app master or selected identity by survival."
+  ],
+  "probe_budget": {
+    "primary": "Exactly one primary image per eligible premise; maximum four primary images. No reroll, alternate seed or same-premise variant after viewing.",
+    "transfer": "After all primary probes are frozen and evaluated, at most two primary survivors may receive exactly one transfer probe each; maximum two transfer images.",
+    "maximum_total_images": 6,
+    "no_hidden_budget": "No fifth premise, no extra calibration render and no free replacement for a judgeable image. A genuine no-image technical failure may be retried only with byte-identical renderer-visible inputs and creates no design evidence."
+  },
+  "probe_roles": {
+    "primary": "A human-relational present-state carrier that requires distinct people, visible relationship, and consequential organization without UI/text/branding. Exact neutral content packet is frozen before premise-specific renderer packets are made.",
+    "transfer": "A materially different neutral human-relational situation with changed count/arrangement and causal circumstance. It tests whether the same representation grammar transfers without copying primary composition, props or pose topology.",
+    "anti_copy": "Transfer may reuse premise law but not exact composition, cast, objects, architecture, camera, pose arrangement or a signature one-off motif from the primary probe."
+  },
+  "primary_survival_gates": [
+    "ARTISTIC_INTEGRITY: reads as a coherent authored visual world rather than a design diagram, moodboard or generic product illustration.",
+    "HUMAN_PRIMACY: people remain specific causal/relational participants rather than scale figures or decoration.",
+    "RELATIONAL_TRUTH: relationship is carried by composition/condition, not by explanatory connecting graphics.",
+    "EPISTEMIC_RESTRAINT: visible organization does not pretend to establish private Knowledge/Belief/Memory/intent.",
+    "WHOLE_SURFACE_SPECIFICITY: the premise has affirmative repeatable grammar beyond one motif or attractive composition.",
+    "CONTAMINATION_PASS: no material construction dependence on the current provisional family or quarantined historical surface.",
+    "DISTANCE_PASS: after frozen comparison, the premise remains materially different from the current family on at least four of the six distance axes.",
+    "ACCESSIBILITY_TRANSFER_POTENTIAL: essential relationship/identity is not dependent solely on hue, micro-detail, text, precise wide-only position, or motion."
+  ],
+  "transfer_survival_gates": [
+    "All primary gates remain satisfied under the second neutral content probe.",
+    "The family remains recognizable by representation grammar without repeating the primary composition or signature motif.",
+    "Human specificity and relational truth survive changed content/arrangement.",
+    "The transfer does not collapse toward the current provisional family or a quarantined historical surface."
+  ],
+  "selection_and_review": {
+    "primary_shortlist": "At most two primary survivors advance to transfer. Prefer premises with the strongest whole-surface repeatability and greatest evidence-backed distance from the current family; if more than two remain materially indistinguishable on evidence and the cut is irreducibly aesthetic, stop for Director choice rather than silently rank.",
+    "family_survivor": "A VFD-01 visual family survives only if both its primary and transfer probes pass every conjunctive gate. A primary-only pass is premise evidence, not a surviving family.",
+    "second_family_threshold": "If at least one VFD-01 family survives and direct comparison confirms genuine distinction from the current provisional family, the roadmap's two-family prerequisite becomes eligible for Director convergence review. Do not enter Phase C automatically.",
+    "design_sol_freeze": "Design Sol must freeze each evaluation before any Director taste input. Stress/comparison evidence cannot be used to retune frozen premise inputs."
+  },
+  "termination": {
+    "zero_primary_survivors": "Close VFD-01 with zero family survivors; no premise replacement or reroll.",
+    "zero_transfer_survivors": "Close VFD-01 with zero family survivors; preserve primary premise evidence only.",
+    "one_or_more_family_survivors": "Stop VFD-01 and present the surviving second-family evidence at the consequential Director convergence boundary.",
+    "post_exposure_retune": false,
+    "premise_replacement_after_render": false
+  },
+  "next_action": "Construct and recursively audit the four premise packets and the two neutral content packets on one serial VFD-01 branch. Freeze all four premise and primary renderer-visible packets before any image generation or current-family visual comparison.",
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN PRE-EXPOSURE METHOD FREEZE.",
+  "renderer_isolation": {
+    "context_rule": "Each primary or transfer probe is generated in a fresh regular non-project renderer context. No earlier VFD-01 image, current-family artifact, historical artwork or project conversation is present in that renderer context.",
+    "input_rule": "The renderer receives only the exact byte-frozen premise-specific sterile packet plus the applicable exact neutral content packet and generic output instruction. No critique, score, candidate comparison, project name or explanation accompanies it.",
+    "output_rule": "One judgeable image only. The renderer does not rank, explain, revise or propose alternatives. A judgeable image consumes that probe slot regardless of pass/fail.",
+    "preservation_rule": "Returned image bytes and generation provenance must be preserved before evaluation whenever the platform exposes preservable bytes. If exact raw bytes cannot be preserved, record that limitation explicitly rather than implying custody.",
+    "no_cross_probe_memory": "Every later probe receives its family law from the frozen premise packet, not from visual access to an earlier generated image."
+  }
+}

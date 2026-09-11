@@ -1610,3 +1610,19 @@ The program is not yet creatively exposed. Before any premise or image exists, V
 **Guardrail:** no candidate premise/image yet; no current-family source reuse, CLR-01 reentry, final identity axis selection, hero/static reopening, real product UI, implementation, production tokens or Phase-C convergence.
 
 **APPROVED ? DIRECTOR PATH-2 AUTHORIZATION + CLEAN DESIGN-SOL RECONCILIATION.**
+
+## L-102 - VFD-01 pre-exposure method freezes with a six-image ceiling
+
+**State:** METHOD FROZEN / FOUR PREMISE SLOTS / MAX SIX JUDGEABLE IMAGES / NO CREATIVE EXPOSURE YET
+
+`docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json` freezes VFD-01 before any candidate premise or image exists. The method attacks the specific historical failure mode left by VID-01: changing depth, composition or styling is insufficient if underlying representation logic remains in the same family. Every premise must therefore positively define a whole-surface grammar and remain pairwise different from every other premise on at least four of six frozen representation axes.
+
+The budget is finite and conjunctive: four premise slots; exactly one primary probe per eligible premise; at most two primary survivors receive one transfer probe; absolute maximum six judgeable images. A primary image can establish premise viability only. A family survives only when the same representation grammar transfers to materially different neutral content without copying composition/props/pose topology and without collapsing toward the current provisional family or quarantined historical surfaces. No hidden fifth premise, same-premise reroll or evidence-aware rescue exists.
+
+The current C0/O3/TYP/MAT/STA/MOT/CLR evidence is comparison control only. Comparison against current-family/historical visual artifacts is delayed until all four premise and primary renderer-visible packets are frozen. Color, motion, marks, wordmark, bespoke typography, product UI, semantic iconography and implementation are excluded from VFD-01 scoring.
+
+**Next gate:** open one serial VFD-01 branch from this main checkpoint; construct and recursively audit the four premise packets and two neutral content packets, then freeze every primary renderer-visible packet before any generation.
+
+**Guardrail:** no image generation yet; no premise replacement after exposure, final family selection, Phase C, CLR-01 reentry, hero/static reopening, production assets or implementation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN PRE-EXPOSURE METHOD FREEZE.**
