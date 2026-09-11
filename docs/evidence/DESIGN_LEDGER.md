@@ -1509,3 +1509,17 @@ CLR-01 remains ineligible because its explicit Director-declared convergence tri
 **Guardrail:** no O3/C0/TYP/MAT/STA retune, no final wordmark/typeface, CLR-01 reentry, hero reopening, product UI proposal, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-095 - CMP-02 deterministic source packet freezes before first browser exposure
+
+**State:** CMP-02 SOURCE FROZEN / MANIFEST-01 BOUND / NO BROWSER EXPOSURE / HOSTED PREFLIGHT NEXT
+
+Audit 09 selected CMP-02 and the method/defaults were frozen before materialization. The deterministic 12-surface harness, static verifier, CDP probe, browser verifier and source manifest are now committed on the active serial branch. `CMP_02_FROZEN_SOURCE_MANIFEST_01.json` binds harness SHA-256 `22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea`, exact C0 SHA-256 `72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305` and exact O3 SHA-256 `204e6f7b3239f44267a04afa2c12f0254a56142e9298ee6e7fab9f9061a674f5`.
+
+The temporary hosted workflow remains intentionally absent at this checkpoint. Local Chromium attempts were blocked by runtime policy before the harness loaded and therefore produced no design evidence. No CMP-02 hierarchy judgment has been consumed.
+
+**Next gate:** add the already-hashed read-only temporary hosted workflow as the final exposure trigger; require the complete frozen eight-mode mechanical pass before any subjective screenshot review.
+
+**Guardrail:** no post-exposure O3/C0/TYP/MAT/STA retune; only deterministic tooling/carrier repair restoring the frozen contract is permitted. No CLR-01 reentry, final lockup/typeface/wordmark, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN DETERMINISTIC SOURCE FREEZE.**
