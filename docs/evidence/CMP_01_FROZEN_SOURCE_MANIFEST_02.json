@@ -1,0 +1,69 @@
+{
+  "schema": "kymaean.cmp01.frozen-source-manifest.v2",
+  "status": "FROZEN_TOOLING_REPAIR_AFTER_INVALID_RUN_NO_DESIGN_RESULT",
+  "date": "2026-09-10",
+  "program": "CMP-01 \u2014 Bounded Shared-Brand Packet Composition / Interaction Audit",
+  "predecessor_manifest": "docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_01.json",
+  "invalid_run": 34565776511,
+  "invalid_run_classification": "PRECOMMIT_HYGIENE_DEFECT_NO_DESIGN_RESULT",
+  "candidate_harness_unchanged_from_manifest_01": true,
+  "files": {
+    "harness": {
+      "path": "prototypes/cmp-01/harness.html",
+      "sha256_lf": "1972b7308a827c0fa8b7b9418de61b14edd3125c32c8c167e945f3708349dba0"
+    },
+    "static_verifier": {
+      "path": "tools/verify_cmp01.py",
+      "sha256_lf": "675f1a5a20fca1f4dcaa9f2367fa500d2055ae5c469989ed35140d14c8e79cbd"
+    },
+    "browser_probe": {
+      "path": "tools/cmp01_browser_probe.mjs",
+      "sha256_lf": "a5dfba522a51bd57f803b27ba98804846543788961ddd664cf631b421ae20f32"
+    },
+    "browser_verifier": {
+      "path": "tools/verify_cmp01_browser.py",
+      "sha256_lf": "9c48ccd0491d14cfa431c9fef358da5b72027c8f307b378de913f1a102880e12"
+    },
+    "workflow": {
+      "path": ".github/workflows/tmp-cmp01-browser-preflight.yml",
+      "sha256_lf": "97a55ed8297f0781e46944428f4089927b692a42af6f4f1cfe27e573a4392721"
+    },
+    "method": {
+      "path": "docs/evidence/CMP_01_BOUNDED_PACKET_COMPOSITION_METHOD_AND_MATRIX_01.json",
+      "sha256_lf": "f3536a752003aa7d860c83893d1d068da7718f9087d1899b4c88b45cf83dfad1"
+    },
+    "defaults": {
+      "path": "docs/evidence/CMP_01_EXECUTION_DEFAULTS_01.json",
+      "sha256_lf": "aa6181f420acf353f9433feb1f9a1aa89c010fb1cfdfc6714a5fbd3d2d13e915"
+    },
+    "c0": {
+      "path": "assets/brand/kymaean-threshold-k-working-candidate.svg",
+      "sha256_lf": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305"
+    },
+    "packet_sources": {
+      "PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json": {
+        "path": "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json",
+        "sha256_lf": "2c757d0764f54dac9c6c6845234a3059d370be69de67782252d48942ce18cc3f"
+      },
+      "PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json": {
+        "path": "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json",
+        "sha256_lf": "f0a1d132c06ed9b9d474e827774a3490496d5de37a1d801bfa2fac69a63945fb"
+      },
+      "PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json": {
+        "path": "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
+        "sha256_lf": "46e385eb7be8407b26376000292d6ade26654e1419a0c289316eb5a9a18868d8"
+      },
+      "PKT_MOT_F1A_WITHIN_CONTEXT_SUCCESSION_01.json": {
+        "path": "docs/evidence/packets/PKT_MOT_F1A_WITHIN_CONTEXT_SUCCESSION_01.json",
+        "sha256_lf": "29faa99a469115eed19dd124d1c6f6b1961bfca14c968c3c833755738f81dfe1"
+      },
+      "PKT_MOT_CS2_CONTEXT_SHIFT_01.json": {
+        "path": "docs/evidence/packets/PKT_MOT_CS2_CONTEXT_SHIFT_01.json",
+        "sha256_lf": "4a29b39e2c5b0c46d738105d0b0fd5b1849ee766b5ee3863e5c3c4adcdf00bbb"
+      }
+    }
+  },
+  "repair": "Browser verifier trailing whitespace only; harness, C0, packet bytes, method/defaults and scored FULL composition unchanged.",
+  "canonical_exposure_boundary": "Use only a hosted run at this Manifest 02 source or later purely mechanical repair source that preserves the same frozen harness and packet semantics.",
+  "post_exposure_mutation_law": "No packet value, geometry, candidate count, content or scored FULL composition retune after exposure."
+}

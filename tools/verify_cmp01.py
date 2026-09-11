@@ -5,7 +5,7 @@ ROOT=Path(__file__).resolve().parents[1]
 HARNESS=ROOT/'prototypes/cmp-01/harness.html'
 METHOD=ROOT/'docs/evidence/CMP_01_BOUNDED_PACKET_COMPOSITION_METHOD_AND_MATRIX_01.json'
 DEFAULTS=ROOT/'docs/evidence/CMP_01_EXECUTION_DEFAULTS_01.json'
-MANIFEST=ROOT/'docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_01.json'
+MANIFEST=ROOT/'docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_02.json'
 PROBE=ROOT/'tools/cmp01_browser_probe.mjs'
 BVERIFY=ROOT/'tools/verify_cmp01_browser.py'
 WORKFLOW=ROOT/'.github/workflows/tmp-cmp01-browser-preflight.yml'
@@ -20,7 +20,7 @@ def main():
  text=HARNESS.read_text(encoding='utf-8'); method=json.loads(METHOD.read_text(encoding='utf-8')); defaults=json.loads(DEFAULTS.read_text(encoding='utf-8')); m=json.loads(MANIFEST.read_text(encoding='utf-8'))
  if method['status']!='FROZEN_PRE_MATERIALIZATION': fail('method status')
  if defaults['status']!='FROZEN_PRE_SPECIMEN': fail('defaults status')
- if m['status']!='FROZEN_SOURCE_BYTES_BEFORE_BROWSER_EXPOSURE': fail('manifest status')
+ if m['status']!='FROZEN_TOOLING_REPAIR_AFTER_INVALID_RUN_NO_DESIGN_RESULT': fail('manifest status')
  files=m['files']; expected={'harness':HARNESS,'static_verifier':Path(__file__),'browser_probe':PROBE,'browser_verifier':BVERIFY,'workflow':WORKFLOW,'method':METHOD,'defaults':DEFAULTS,'c0':C0}
  for k,p in expected.items():
   got=sha(p); want=files[k]['sha256_lf']

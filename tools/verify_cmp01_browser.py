@@ -56,7 +56,7 @@ def check_file(path,label,width,forced,reduced):
 def check_motion(d,label,reduced):
  motion=d.get('motion',{})
  for sid,dy in [('FULL-APP',28),('FULL-WEB',56)]:
-  x=motion.get(sid); 
+  x=motion.get(sid);
   if not x: fail(f'{label}/{sid}: motion diagnostic missing')
   if reduced:
    if x['midF1A']!={'peerAnimations':0,'fieldAnimations':0}: fail(f'{label}/{sid}: reduced F1A animation')

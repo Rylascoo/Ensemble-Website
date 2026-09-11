@@ -1323,3 +1323,17 @@ A pre-exposure static audit rejected diagnostic `setTimeout` use under the froze
 **Guardrail:** no post-exposure source-packet retune, CLR-01 reentry, production tokens, real product UI semantics, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-EXPOSURE SOURCE FREEZE.**
+
+## L-082 - CMP-01 Manifest 01 run is invalidated by precommit hygiene; Manifest 02 repairs tooling only
+
+**State:** MANIFEST 01 RUN INVALID / NO DESIGN RESULT / MANIFEST 02 FROZEN / CANONICAL PREFLIGHT NEXT
+
+The first source-freeze push at `4db0bd7cfc3be43f135896eb4adb6b74d93d19d7` triggered hosted Run `34565776511`, but the staged `git diff --check` had already reported trailing whitespace in `tools/verify_cmp01_browser.py`. PowerShell did not stop on that native nonzero exit, so the commit/push proceeded. Design Sol classifies that run as **PRECOMMIT_HYGIENE_DEFECT_NO_DESIGN_RESULT** regardless of its eventual workflow conclusion and consumes no subjective evidence from it.
+
+`CMP_01_FROZEN_SOURCE_MANIFEST_02.json` preserves Manifest 01 and repairs only the browser-verifier trailing whitespace plus the manifest/workflow/static-verifier references required to bind the repaired packet. The candidate harness remains exact SHA-256 `1972b7308a827c0fa8b7b9418de61b14edd3125c32c8c167e945f3708349dba0`; C0, source packets, method/defaults, geometry, motion/state fixtures, content and scored FULL composition are unchanged.
+
+**Next gate:** one canonical hosted eight-mode run from Manifest 02. No subjective compatibility judgment until complete PASS.
+
+**Guardrail:** this repair creates no packet preference, production authority, CLR-01 reentry, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC TOOLING/HYGIENE REPAIR.**
