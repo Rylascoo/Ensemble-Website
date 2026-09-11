@@ -1595,3 +1595,18 @@ The valid falsifiable result is therefore zero selected programs. The next conse
 **Guardrail:** no automatic CMP-03, SYM-03, TYP-03, O3 redesign, MAT/STA/MOT refinement, CLR-01 reentry, hero/static reopening, invented product semantics, functional iconography, app/site implementation, whole-app synthesis, production tokens, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+## L-101 - Director authorizes VFD-01 second-family divergence
+
+**State:** PATH 2 AUTHORIZED / VFD-01 SELECTED / METHOD FREEZE NEXT / NO CREATIVE EXPOSURE / NO CONVERGENCE
+
+Audit 10 returned zero automatic post-CMP-02 programs and elevated a consequential Director sequencing decision. Design Sol recommended the broader bounded second-family path because further C0/O3/TYP/MAT/STA/MOT composition or refinement would deepen the same provisional system rather than satisfy the canonical Phase-B requirement for two genuinely distinct surviving visual families. The Director then instructed Design Sol to continue from that recommendation.
+
+`docs/evidence/SHARED_BRAND_SECOND_FAMILY_DIVERGENCE_AUTHORIZATION_01.json` therefore opens **VFD-01 ? Second-Family Whole-Surface Representation Divergence**. The existing provisional family is comparison control only, never a construction seed. Historical VID/hero exact surfaces also carry no inheritance rights. VFD-01 must establish distinction through positive whole-surface representation logic rather than palette, camera, depth, polish or decorative restyling.
+
+The program is not yet creatively exposed. Before any premise or image exists, VFD-01 must freeze candidate count/budget, premise-construction law, contamination quarantine, pairwise-distance requirements, first-probe/transfer-probe rules, accessibility and durable-law floors, comparison timing, survivor definition, no-reroll law and termination consequence.
+
+**Next gate:** freeze and recursively audit the VFD-01 method. Only after a clean freeze may one new serial branch open from promoted `main`.
+
+**Guardrail:** no candidate premise/image yet; no current-family source reuse, CLR-01 reentry, final identity axis selection, hero/static reopening, real product UI, implementation, production tokens or Phase-C convergence.
+
+**APPROVED ? DIRECTOR PATH-2 AUTHORIZATION + CLEAN DESIGN-SOL RECONCILIATION.**
