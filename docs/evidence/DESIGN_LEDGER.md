@@ -1252,3 +1252,18 @@ Primary evidence: `docs/evidence/MAT_01_BROWSER_PREFLIGHT_01.json`, `docs/eviden
 **Next gate:** fresh Phase-B shared-brand sequencing/reentry audit. No automatic CLR-01 reopening, F5, production integration, or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN FROZEN-CRITERIA FALSIFICATION.**
+
+
+## L-077 - Central Design queue mismatch remains explicit deferred continuity debt
+
+**State:** CROSS-PROJECT QUEUE STALE / REPAIR DEFERRED BY ACTIVE ENGINEERING PROVIDER BOUNDARY
+
+Fresh read of `Rylascoo/Ensemble-Project` at `main` `19f6fbb03b890aaa34910a1dc27bd7fad30b6655` confirms `docs/PROJECT_EXECUTION_QUEUE.md` still lists Q-DESIGN-19 / CLR-01 as ACTIVE, while authoritative Design history has since parked CLR-01 and completed STA-01, SYM-01, SYM-02 and MAT-01. The queue's own law says stronger lane authority wins, so the stale row does not reopen CLR-01 or override Website `CURRENT_STATE.md`.
+
+The central queue is not mutated in this closeout because Engineering `CURRENT_STATE.md` remains at the provider-sensitive E0-A Run 05 activation boundary, matching the read-only cross-project synchronization guardrails already recorded in L-057 and L-059. This is administrative continuity debt, not a Design gate and not permission to alter Engineering/provider state.
+
+**Required later repair:** at the next safe central-queue maintenance boundary, reconcile Q-DESIGN-19 to the authoritative CLR-01 deferral and add/classify the subsequent Design sequence through MAT-01 plus the then-current Design next action.
+
+**Guardrail:** Website `CURRENT_STATE.md` and the Design Ledger remain controlling for Design truth until that queue repair occurs.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? CROSS-LANE CONTINUITY RECONCILIATION.**

@@ -8,7 +8,7 @@ Updated: 2026-09-10
 Design: `Rylascoo/Ensemble-Website`; exact product/engineering truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap/workflow: `AGENTS.md` + `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; closure: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / cross-project
-`main` is promoted authority; `site/` alone is deployable. Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` as stale/conflicting unique-commit evidence; do not merge/delete it. Zero-unique MAT-01 safety refs remain cleanup debt until freshly verified and archived.
+`main` is promoted authority; `site/` alone is deployable. Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` as stale/conflicting unique-commit evidence; do not merge/delete it. Central `Ensemble-Project` queue Q-DESIGN-19 is stale relative to Design authority; per L-057/L-059, defer its repair while Engineering remains at the active provider-sensitive boundary.
 
 ## Preserved state
 TYP-01 closed zero-survivor. MOT-01 provisional F1A/CS2. CLR-01 parked: Design Sol F2 recommended / F1 alternate, no Director selection. STA-01 provisional F2 Ring + Edge Witness. Static hero/renderer paused. SYM-01 exact C0 Threshold K remains provisional incumbent; authoritative SYM-02 closed zero-survivor after Run `34555569844`.
