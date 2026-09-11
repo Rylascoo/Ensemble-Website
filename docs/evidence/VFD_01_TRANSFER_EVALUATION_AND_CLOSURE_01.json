@@ -1,0 +1,62 @@
+{
+  "schema": "kymaean.vfd01.transfer-evaluation-and-closure.v1",
+  "status": "VFD01_CLOSED_ZERO_FAMILY_SURVIVORS_P4_TRANSFER_FAIL_ANTI_COPY",
+  "date": "2026-09-11",
+  "program_id": "VFD-01",
+  "method": "docs/evidence/VFD_01_SECOND_FAMILY_WHOLE_SURFACE_REPRESENTATION_METHOD_01.json",
+  "primary_evaluation": "docs/evidence/VFD_01_PRIMARY_EVALUATION_01.json",
+  "director_taste_input_before_freeze": "NONE",
+  "transfer_probe": {
+    "slot": "P4",
+    "working_name": "Rule-Bearing Mosaic Field",
+    "sha256": "e05c672cb76d3142c2f8ec5b420f63f26a47108b14e01a64926a08ec692a7524",
+    "bytes": 4453352,
+    "dimensions": [
+      1586,
+      992
+    ],
+    "drive_id": "1BgID7VeYY9XrouNu67alH2oec6nPcMXW",
+    "drive_name": "VFD_01_P4_TRANSFER_01.png",
+    "drive_folder_id": "1lZ3pVl6K_-zZqkQMvDyDb-IpQTaB4MiZ",
+    "drive_verification": "UPLOAD_SUCCESS_AND_SIZE_MATCH; post-upload re-download hash not claimed",
+    "result": "FAIL_TRANSFER",
+    "primary_gates_retested": {
+      "ARTISTIC_INTEGRITY": "PASS - coherent authored mosaic world",
+      "HUMAN_PRIMACY": "PASS - two differentiated people remain legible and active in the condition",
+      "RELATIONAL_TRUTH": "PASS_LOCAL - the curved constructed field boundary and wet/dry condition organize access without explanatory graphics",
+      "EPISTEMIC_RESTRAINT": "PASS",
+      "WHOLE_SURFACE_SPECIFICITY": "PASS - discrete units remain the representational substrate across sky, terrain, water, people and constructed condition",
+      "CONTAMINATION_PASS": "PASS - no material collapse toward the current provisional family or quarantined painterly/atmospheric surfaces",
+      "DISTANCE_PASS": "PASS - P4 remains materially distinct from the current provisional family on the frozen representation axes",
+      "ACCESSIBILITY_TRANSFER_POTENTIAL": "PASS - large-scale unit density, silhouettes, wet/dry separation and boundary geometry do not depend on hue, text or motion"
+    },
+    "transfer_specific_gates": {
+      "GRAMMAR_RECOGNIZABLE_WITHOUT_PRIMARY_COMPOSITION": "PASS_GRAMMAR_ONLY - P4 unit/order grammar clearly survives changed content",
+      "MATERIALLY_DIFFERENT_CONTENT_AND_ARRANGEMENT": "FAIL - despite changed count/environment, the transfer repeats the primary crouched unit-worker beside a constructed unit barrier plus a standing person across the barrier",
+      "NO_PRIMARY_SIGNATURE_MOTIF_COPY": "FAIL - barrier/wall as the altered condition, stone/unit prop set, crouched manipulation role, separated standing role and broad barrier-separated staging materially repeat the primary causal motif/topology",
+      "HUMAN_SPECIFICITY_AND_RELATIONAL_TRUTH": "PASS_LOCAL - both people are distinct and the shared condition affects their spatial relationship, but this cannot compensate for anti-copy failure",
+      "NO_COLLAPSE_TO_CURRENT_OR_HISTORICAL_FAMILY": "PASS"
+    },
+    "binding_reason": "The transfer proves repeatability of the mosaic surface grammar but not independent family transfer. It reproduces too much of the primary probe's causal staging and signature motif, triggering the frozen anti-copy gate. Conjunctive transfer survival therefore fails."
+  },
+  "image_budget": {
+    "primary_consumed": 4,
+    "transfer_consumed": 1,
+    "total_consumed": 5,
+    "maximum_total": 6,
+    "unused_expired": 1,
+    "reason_unused_expired": "P4 was the sole primary survivor; its failed transfer terminates the program and no other transfer is lawful."
+  },
+  "family_survivors": [],
+  "program_result": "CLOSED_ZERO_FAMILY_SURVIVORS",
+  "phase_b_second_family_prerequisite_satisfied": false,
+  "phase_c_authority": false,
+  "positive_evidence_preserved": [
+    "P4 primary and transfer both demonstrate a repeatable rule-bearing mosaic representation substrate materially distant from the current provisional family.",
+    "The failure is transfer independence/content topology, not collapse of the mosaic surface grammar itself.",
+    "Future explicitly new programs may cite this as evidence, but VFD-01 permits no reroll, prompt retune, premise replacement or second P4 transfer."
+  ],
+  "termination_law_applied": "zero_transfer_survivors -> close VFD-01 with zero family survivors; preserve primary premise evidence only",
+  "next_action": "Promote the closed VFD-01 record through normal serial-branch closeout, then run a fresh post-VFD Phase-B sequencing/reentry audit from promoted main. No successor program is implied by this closure.",
+  "audit_result": "CLEAN_FROZEN_TRANSFER_EVALUATION_PROGRAM_TERMINATED"
+}

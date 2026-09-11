@@ -1658,3 +1658,19 @@ P4 Rule-Bearing Mosaic Field clears every conjunctive primary gate. Discrete uni
 **Guardrail:** 4/6 judgeable-image ceiling consumed; no P1-P3 transfer, reroll or replacement; no P4 prompt retune; no current-family construction seeding, CLR-01 reentry, final identity, production asset, implementation or automatic Phase C.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN PRIMARY EVALUATION.**
+
+## L-105 - VFD-01 closes with zero family survivors after P4 transfer anti-copy failure
+
+**State:** VFD-01 CLOSED / 5 OF 6 MAXIMUM IMAGES CONSUMED / ZERO FAMILY SURVIVORS / PHASE-B SECOND-FAMILY PREREQUISITE UNMET
+
+`docs/evidence/VFD_01_TRANSFER_EVALUATION_AND_CLOSURE_01.json` freezes the P4 transfer judgment before any Director taste input. The judgeable 1586 x 992 PNG is archived in the same Drive VFD-01 evidence folder; supplied-byte SHA-256 is `e05c672cb76d3142c2f8ec5b420f63f26a47108b14e01a64926a08ec692a7524`, upload size matches 4,453,352 bytes, and post-upload re-download hashing is not claimed.
+
+P4's positive representation evidence survives: discrete ordered units still construct sky, terrain, water, people and the altered condition; the grammar remains materially distant from the current provisional stack and does not fall back into the painterly/atmospheric failures that closed P1/P3. The transfer nevertheless fails the frozen family-transfer contract. It repeats too much of the primary's exact causal staging: a crouched person manipulating units beside a constructed unit barrier, a standing person across that barrier, the same barrier-separated relational topology, and closely related stone/unit props. Changed environment/count is insufficient because transfer explicitly forbids reuse of primary pose topology, prop set, architecture or signature one-off motif.
+
+The result is therefore **FAIL_TRANSFER / CLOSED_ZERO_FAMILY_SURVIVORS**. Five judgeable images were consumed; the sixth possible slot expires because P4 was the sole primary survivor and its one transfer attempt is spent. No P4 reroll, second transfer, premise edit/replacement, or P1-P3 transfer exists under VFD-01. The mosaic mechanism remains useful positive evidence for a future explicitly new program, but it is not a surviving second family under this contract.
+
+**Next gate:** complete normal serial promotion/closeout, then run a fresh post-VFD Phase-B sequencing/reentry audit from promoted `main`. The roadmap's two-family prerequisite remains unmet and Phase C is not authorized.
+
+**Guardrail:** no VFD-01 rescue, extra render, automatic successor, CLR-01 reentry, implementation, production asset, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN FROZEN TRANSFER EVALUATION / PROGRAM TERMINATION.**
