@@ -1,0 +1,62 @@
+{
+  "schema": "kymaean.cmp02.frozen-source-manifest.v2",
+  "status": "FROZEN_TOOLING_PROVENANCE_REPAIR_PRE_BROWSER_EXPOSURE",
+  "date": "2026-09-11",
+  "program_id": "CMP-02",
+  "authority_branch": "design/phase-b-reentry-post-typ02-2026-09-11",
+  "authority_checkpoints": {
+    "audit_09": "21f2c0815ef8fda2006d254174b9de20dbb850f7",
+    "method_initial_freeze": "89ec82452df4d5e69bedd34b85dccd31dc944687",
+    "execution_defaults_initial_freeze": "3db5b06ace1ebab7eebf1a7474985dd1d0bf7299",
+    "materialization_boundary_state": "e4ae22dcf4747822e231121d7b7818c6b7cbe44e",
+    "pre_specimen_spacing_frame_closure": "294e46b055b476125a5e27014070c5465627d37b",
+    "method_git_blob_sha": "4b59a787863cb6f1d1e75fda7b6a9cf4a08cf27b",
+    "execution_defaults_git_blob_sha": "268911dd7c5de765606d8da07e4996c9a8b226f1"
+  },
+  "roles": [
+    "APP_COMPACT",
+    "WEB_HEADER",
+    "ACQUISITION_PRELUDE"
+  ],
+  "variants": [
+    "FULL",
+    "NEUTRAL_TYP",
+    "O3_SOLO",
+    "NO_O3"
+  ],
+  "scored_variants": [
+    "FULL"
+  ],
+  "browser_modes": [
+    "normal-baseline-wide",
+    "normal-baseline-320",
+    "normal-resize200-wide",
+    "normal-resize200-320",
+    "normal-spacing-wide",
+    "normal-spacing-320",
+    "forced-baseline-wide",
+    "forced-baseline-320"
+  ],
+  "harness_sha256": "22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea",
+  "c0_canonical_lf_sha256": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+  "o3_canonical_lf_sha256": "204e6f7b3239f44267a04afa2c12f0254a56142e9298ee6e7fab9f9061a674f5",
+  "lf_sha256": {
+    "prototypes/cmp-02/harness.html": "22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea",
+    "tools/verify_cmp02.py": "33d983fbb210d4185fa1442b47f1cfc0dbb45d8fc7f85593b3d70ef020b92532",
+    "tools/cmp02_browser_probe.mjs": "a06c221a196be0460bbe1dc7ea6a1804d4d8e6e95be91f6aeec10098bffb1039",
+    "tools/verify_cmp02_browser.py": "43c6ec72f4673a5a32880e1473ca45be903bc851774ecb09a52fc6fca021296d",
+    ".github/workflows/tmp-cmp02-browser-preflight.yml": "54db213eb1ea37855afc6f75d437310590b932b6b67db8290948def8fc2eb621",
+    "assets/brand/kymaean-threshold-k-working-candidate.svg": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "assets/brand/kymaean-o3-wordmark-temporary-incumbent.svg": "204e6f7b3239f44267a04afa2c12f0254a56142e9298ee6e7fab9f9061a674f5"
+  },
+  "exposure_state": "NO_BROWSER_EXPOSURE; MANIFEST_01_INVALIDATED_BY_PRE_EXPOSURE_PROVENANCE_AUDIT; NO_DESIGN_RESULT",
+  "construction_freeze": "After this manifest, only deterministic tooling/carrier repair that restores the already-frozen CMP-02 contract is permitted. C0/O3/TYP/MAT/STA values, role geometry, content, diagnostic definitions, review order and browser stress modes may not be retuned after exposure.",
+  "non_authority": [
+    "No final logo/wordmark lockup or universal mark/name ratio.",
+    "No final wordmark/typeface, CLR-01 reentry, implementation, final identity or Phase-C convergence."
+  ],
+  "predecessor_manifest": "docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_01.json",
+  "defect_classification": "MANIFEST_01_BROWSER_VERIFIER_HASH_MISMATCH_PRE_EXPOSURE_NO_DESIGN_RESULT",
+  "design_source_unchanged_from_manifest_01": true,
+  "repair": "Manifest 01 bound a browser-verifier SHA-256 not present in the committed source lineage. Manifest 02 preserves harness, C0/O3, method/defaults and all scored semantics; it repairs only verifier/manifest/workflow provenance before first browser exposure."
+}

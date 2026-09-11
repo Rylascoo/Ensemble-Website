@@ -113,7 +113,7 @@ out={
  'schema':'kymaean.cmp02.browser-preflight.v1',
  'status':'PASS_COMPLETE_8_MODE_MATRIX',
  'date':'2026-09-11',
- 'source_manifest':'docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_01.json',
+ 'source_manifest':'docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_02.json',
  'harness_sha256':lfsha('prototypes/cmp-02/harness.html'),
  'browser_verifier_sha256':hashlib.sha256(Path(__file__).read_bytes().replace(b'\r\n',b'\n')).hexdigest(),
  'browser_version':args.browser_version,

@@ -1,0 +1,72 @@
+name: Temporary CMP-02 browser preflight
+
+on:
+  push:
+    branches:
+      - design/phase-b-reentry-post-typ02-2026-09-11
+    paths:
+      - .github/workflows/tmp-cmp02-browser-preflight.yml
+      - prototypes/cmp-02/harness.html
+      - tools/verify_cmp02.py
+      - tools/cmp02_browser_probe.mjs
+      - tools/verify_cmp02_browser.py
+      - docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_02.json
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - name: Static source checks
+        run: python tools/verify_cmp02.py
+      - name: Hosted Chrome eight-mode checks
+        shell: bash
+        run: |
+          set -euo pipefail
+          BROWSER="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
+          test -n "$BROWSER"
+          export BROWSER
+          BROWSER_VERSION="$($BROWSER --version)"
+          OS_PRETTY="$(. /etc/os-release; printf '%s' "$PRETTY_NAME")"
+          mkdir -p /tmp/cmp02-artifact/diagnostics /tmp/cmp02-artifact/screenshots
+          python -m http.server 8765 --bind 127.0.0.1 >/tmp/cmp02-http.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" 2>/dev/null || true' EXIT
+          for _ in $(seq 1 50); do
+            if curl -fsS http://127.0.0.1:8765/prototypes/cmp-02/harness.html >/dev/null; then break; fi
+            sleep 0.1
+          done
+          curl -fsS http://127.0.0.1:8765/prototypes/cmp-02/harness.html >/dev/null
+          run_cdp() {
+            local forced="$1" width="$2" font="$3" spacing="$4" stem="$5"
+            node --experimental-websocket tools/cmp02_browser_probe.mjs "$forced" "$width" "$font" "$spacing" \
+              "/tmp/cmp02-artifact/diagnostics/$stem.json" "/tmp/cmp02-$stem" "/tmp/cmp02-artifact/screenshots/$stem.png"
+          }
+          run_cdp normal 1200 100 base normal-baseline-wide
+          run_cdp normal 320 100 base normal-baseline-320
+          run_cdp normal 1200 200 base normal-resize200-wide
+          run_cdp normal 320 200 base normal-resize200-320
+          run_cdp normal 1200 100 spacing normal-spacing-wide
+          run_cdp normal 320 100 spacing normal-spacing-320
+          run_cdp forced 1200 100 base forced-baseline-wide
+          run_cdp forced 320 100 base forced-baseline-320
+          python tools/verify_cmp02_browser.py \
+            --diagnostics-dir /tmp/cmp02-artifact/diagnostics \
+            --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
+            --output /tmp/cmp02-artifact/CMP_02_BROWSER_PREFLIGHT_01.json
+          cp prototypes/cmp-02/harness.html /tmp/cmp02-artifact/harness.html
+          cp docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_02.json /tmp/cmp02-artifact/manifest-01.json
+          cp docs/evidence/CMP_02_IDENTITY_STACK_WORDMARK_TYPOGRAPHY_HIERARCHY_METHOD_AND_MATRIX_01.json /tmp/cmp02-artifact/method.json
+          cp docs/evidence/CMP_02_EXECUTION_DEFAULTS_01.json /tmp/cmp02-artifact/defaults.json
+          printf '%s\n' "$BROWSER_VERSION" > /tmp/cmp02-artifact/browser-version.txt
+          printf '%s\n' "$OS_PRETTY" > /tmp/cmp02-artifact/os-pretty.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: cmp02-preflight
+          path: /tmp/cmp02-artifact
+          if-no-files-found: error
+          retention-days: 7

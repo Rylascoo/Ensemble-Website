@@ -1523,3 +1523,17 @@ The temporary hosted workflow remains intentionally absent at this checkpoint. L
 **Guardrail:** no post-exposure O3/C0/TYP/MAT/STA retune; only deterministic tooling/carrier repair restoring the frozen contract is permitted. No CLR-01 reentry, final lockup/typeface/wordmark, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN DETERMINISTIC SOURCE FREEZE.**
+
+## L-096 - CMP-02 Manifest 01 provenance defect is repaired before exposure
+
+**State:** MANIFEST 01 INVALID / NO BROWSER EXPOSURE / NO DESIGN RESULT / MANIFEST 02 FROZEN / HOSTED PREFLIGHT NEXT
+
+Pre-exposure recursive audit found that Manifest 01 bound `tools/verify_cmp02_browser.py` to SHA-256 `bdb78fa0f84247724b6d2e62234a86a3f3a0bdc60efc94a5f1a2397d15ec1955`, while the verifier committed immediately before the manifest is LF SHA-256 `a1d7b14bb1c3104571120844a827f210a5c02c11302d63006d1cdba4417898ee`; the manifest-bound bytes are absent from reachable/unreachable Git blobs and retained local persistence. Because no hosted/browser CMP-02 exposure had occurred, this is a pre-exposure provenance defect and produces no design result.
+
+`CMP_02_FROZEN_SOURCE_MANIFEST_02.json` preserves Manifest 01 and repairs tooling/provenance only: static/browser verifiers now identify Manifest 02, the recovered read-only workflow identifies/copies Manifest 02, and Manifest 02 binds those exact repaired bytes. The harness remains exact SHA-256 `22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea`; exact C0/O3, method/defaults, role geometry, content, variants, diagnostics, stress modes and scoring law are unchanged.
+
+**Next gate:** one canonical hosted eight-mode mechanical preflight from Manifest 02. Consume no subjective screenshot evidence unless the complete matrix passes.
+
+**Guardrail:** this repair authorizes no packet retune, CLR-01 reentry, final typeface/wordmark/lockup, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? DETERMINISTIC TOOLING/PROVENANCE REPAIR.**
