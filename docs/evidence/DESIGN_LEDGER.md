@@ -1453,3 +1453,17 @@ Hosted Run `34570224341` at Manifest 02 completed all eight captures but failed 
 **Guardrail:** restoration of a pre-frozen shared responsive rule is not family rescue or retuning and creates no survivor, final typeface, O3 redesign, CLR-01 reentry, implementation, final identity or Phase-C convergence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC CONTRACT RESTORATION.**
+
+## L-091 - TYP-02 Run 03 passes mechanics; Manifest 04 repairs provenance metadata only
+
+**State:** RUN 03 MECHANICAL PASS / PROVENANCE METADATA DEFECT / MANIFEST 04 FROZEN / FINAL CANONICAL PREFLIGHT NEXT
+
+Hosted Run `34570846103` at Manifest-03 commit `79325ecf46816d6680dbc7b418f01b221e33ea67` passes the complete eight-mode baseline/200%-resize/text-spacing/forced-colors matrix in Chrome 152. Artifact `10187708110` has zip digest `sha256:21da932572aa43de92c327ea96e6db0ea371a2a8adcdfc92855e4f352a736432`; exact harness SHA-256 is `f129d84f5ce5d5a533f8e935b906b1e3f9b68b2d7bed2074d2cbd09c115a4ab4`.
+
+The generated `TYP_02_BROWSER_PREFLIGHT_01.json` nevertheless hardcodes `source_manifest` to Manifest 01. `TYP_02_BROWSER_METADATA_REPAIR_03.json` classifies this as evidence/provenance metadata only: all browser assertions passed and the executed harness hash is the Manifest-03 hash. `TYP_02_FROZEN_SOURCE_MANIFEST_04.json` retargets only browser evidence metadata, static verifier target and temporary workflow manifest reference to Manifest 04; the harness and all candidate/scaffold/content/responsive/accessibility values are unchanged.
+
+**Next gate:** one final hosted eight-mode rerun from Manifest 04. If it passes, freeze that run as canonical mechanical evidence and close subjective TYP-02 scoring against the already-frozen candidates.
+
+**Guardrail:** no post-exposure family/source retune, TYP-01 reroll, final typeface, O3 redesign, CLR-01 reentry, implementation, final identity or Phase-C convergence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC EVIDENCE-METADATA REPAIR.**

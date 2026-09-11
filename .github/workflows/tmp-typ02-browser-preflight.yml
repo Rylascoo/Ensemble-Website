@@ -10,7 +10,7 @@ on:
       - tools/verify_typ02_contract.py
       - tools/typ02_browser_probe.mjs
       - tools/verify_typ02_browser.py
-      - docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_03.json
+      - docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_04.json
 
 permissions:
   contents: read
@@ -58,7 +58,7 @@ jobs:
             --browser-version "$BROWSER_VERSION" --os-pretty "$OS_PRETTY" \
             --output /tmp/typ02-artifact/TYP_02_BROWSER_PREFLIGHT_01.json
           cp prototypes/typ-02/harness.html /tmp/typ02-artifact/harness.html
-          cp docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_03.json /tmp/typ02-artifact/manifest-03.json
+          cp docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_04.json /tmp/typ02-artifact/manifest-04.json
           cp docs/evidence/TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHIC_ROLE_GRAMMAR_METHOD_AND_MATRIX_01.json /tmp/typ02-artifact/method.json
           cp docs/evidence/TYP_02_EXECUTION_DEFAULTS_01.json /tmp/typ02-artifact/defaults.json
           cp docs/evidence/TYP_02_EXECUTION_DEFAULTS_ADDENDUM_01.json /tmp/typ02-artifact/addendum-01.json

@@ -1,0 +1,18 @@
+{
+  "schema": "kymaean.typ02.browser-metadata-repair.v1",
+  "status": "RUN_03_MECHANICAL_PASS_PROVENANCE_METADATA_DEFECT_NO_CANONICAL_RESULT",
+  "date": "2026-09-11",
+  "program_id": "TYP-02",
+  "run": {
+    "id": 34570846103,
+    "head_sha": "79325ecf46816d6680dbc7b418f01b221e33ea67",
+    "artifact_id": 10187708110,
+    "artifact_digest": "sha256:21da932572aa43de92c327ea96e6db0ea371a2a8adcdfc92855e4f352a736432",
+    "mechanical_status": "PASS_COMPLETE_8_MODE_MATRIX"
+  },
+  "defect": "Generated browser preflight hardcoded source_manifest to Manifest 01 although Run 03 executed Manifest 03 at the exact repaired harness hash.",
+  "classification": "Evidence/provenance metadata defect only; all mechanical assertions passed. Run 03 is preserved as valid mechanical evidence but not the canonical provenance record.",
+  "repair": "Retarget source_manifest metadata, static verifier target and temporary workflow artifact reference to Manifest 04. No harness, candidate, content, responsive, C0, MAT, STA or accessibility value changes.",
+  "harness_sha256": "f129d84f5ce5d5a533f8e935b906b1e3f9b68b2d7bed2074d2cbd09c115a4ab4",
+  "next_gate": "Fresh hosted eight-mode rerun from Manifest 04; use that run as canonical evidence if it passes completely."
+}
