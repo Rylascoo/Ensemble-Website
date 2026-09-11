@@ -1726,3 +1726,17 @@ CTF-01 is not VFD-01 continuation, automatic VFD-02, P4 rescue, or reuse of the 
 **Guardrail:** no candidate topology or visual premise yet; no P4/mosaic-seeded candidate, VFD reroll, CLR reentry, hero reopening, CMP-03/current-family refinement, product semantics, implementation, final identity, or Phase-C convergence.
 
 **APPROVED - DIRECTOR SEQUENCING DECISION + CLEAN DESIGN-SOL RECONCILIATION.**
+
+## L-110 - CTF-01 method freezes topology before representation premises
+
+**State:** METHOD FROZEN / NO TOPOLOGY CONTENT YET / NO REPRESENTATION PREMISE YET / SERIAL BRANCH NEXT
+
+`docs/evidence/CTF_01_CONTENT_TOPOLOGY_FIRST_SECOND_FAMILY_METHOD_01.json` freezes CTF-01 before any topology packet, representation premise or image exists. The method makes the VFD-01 lesson structural rather than cosmetic: four materially disjoint causal/content topology slots T1-T4 must be constructed and frozen first, and every pair must differ on at least four of six causal/topological axes. Only after that immutable freeze may four fresh representation laws R1-R4 exist.
+
+Primary assignment is R1/T1, R2/T2, R3/T3, R4/T4. Transfer is predeclared as the two-slot derangement R1/T3, R2/T4, R3/T1, R4/T2, so a surviving representation law must work on a different causal topology rather than merely repeat primary staging. The complete ceiling remains four primary plus at most two transfer images, with no fifth topology/premise, reroll, result-aware reassignment or hidden budget.
+
+All VFD-01 P1-P4 premise laws/images and current-family C0/O3/TYP/MAT/STA/MOT evidence are quarantined from candidate construction. In particular P4's discrete-unit/mosaic ontology and VFD barrier-worker-standing-person topology cannot seed CTF-01.
+
+**Next gate:** open one serial CTF-01 branch from this exact method checkpoint; construct/freeze T1-T4 and the pairwise topology audit. Representation-premise construction remains prohibited until that topology freeze is immutable.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-EXPOSURE METHOD FREEZE.**

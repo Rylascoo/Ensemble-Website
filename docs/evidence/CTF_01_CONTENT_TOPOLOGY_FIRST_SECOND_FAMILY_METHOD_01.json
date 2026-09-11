@@ -1,0 +1,139 @@
+{
+  "schema": "kymaean.ctf01.content-topology-first-second-family-method.v1",
+  "status": "FROZEN_PRE_EXPOSURE_METHOD_NO_TOPOLOGY_OR_PREMISE_YET",
+  "date": "2026-09-11",
+  "program_id": "CTF-01",
+  "name": "Content-Topology-First Second-Family Divergence",
+  "authority": [
+    "docs/evidence/SHARED_BRAND_POST_VFD01_REENTRY_AUDIT_11.json",
+    "docs/evidence/SHARED_BRAND_CTF_01_SUCCESSOR_SECOND_FAMILY_AUTHORIZATION_01.json",
+    "docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md"
+  ],
+  "purpose": "Attempt one genuinely distinct second visual family while preventing a representation law from surviving merely by repeating one causal/content staging. Content/cause topology is frozen before representation premises, and transfer forces a different topology.",
+  "bounded_question": "Can a fresh whole-surface representation law remain materially distinct from the current provisional family and VFD-01 premises while preserving human, relational, causal, epistemic and accessibility laws across two pre-frozen materially disjoint content/cause topologies?",
+  "stage_order": [
+    "A_TOPOLOGY_FREEZE: construct T1-T4 only; no representation premise may exist.",
+    "B_PREMISE_FREEZE: after A is immutable, construct R1-R4 as representation laws without topology-specific objects, poses, architecture or signature motifs.",
+    "C_INPUT_FREEZE: combine exact frozen topology packets and premise laws using the predeclared assignment; freeze all primary and all possible transfer renderer-visible packets before any image generation.",
+    "D_PRIMARY: generate/evaluate at most four primary images.",
+    "E_TRANSFER: at most two primary survivors receive one transfer each under the predeclared different topology.",
+    "F_CLOSE: zero transfer survivors closes CTF-01; any survivor stops at Director convergence review. No automatic Phase C."
+  ],
+  "topology_contract": {
+    "slots": [
+      "T1",
+      "T2",
+      "T3",
+      "T4"
+    ],
+    "count": 4,
+    "definition": "A topology class specifies only the causal relation structure of the neutral present situation: earlier durable human action, current shared-condition change, actor dependency/access/use consequence, spatial relation class, recoverable evidence carrier and restoration counterfactual. It must not specify an art style or representation ontology.",
+    "orthogonality_axes": [
+      "causal carrier locus",
+      "current human relation/dependency type",
+      "spatial relation topology",
+      "earlier-action to present-condition mechanism",
+      "recoverable evidence type",
+      "restoration counterfactual"
+    ],
+    "pairwise_floor": "Every topology pair must differ materially on at least four of six axes. Surface changes such as era, location, camera, props, profession, weather or palette do not count.",
+    "anti_motif": "No two topology packets may share the same dominant barrier/partition, worker-manipulating-units, before/after residue motif, pose topology, object family, or architecture shorthand. VFD-01 primary/transfer barrier-worker-standing-person topology is specifically quarantined as diagnostic evidence, not a topology seed.",
+    "rejection": "All four topology slots must satisfy the pairwise floor. If any slot fails, CTF-01 terminates before premise construction with zero family survivors and no replacement topology; this preserves the predeclared primary/transfer assignment without result-aware remapping."
+  },
+  "premise_contract": {
+    "slots": [
+      "R1",
+      "R2",
+      "R3",
+      "R4"
+    ],
+    "count": 4,
+    "construction_timing": "R1-R4 do not exist until T1-T4 are frozen and audited.",
+    "content": "Each premise positively defines representation ontology, spatial/relational visual grammar, figure-ground/material-edge grammar, human-specificity mechanism, consequence/history carrier and tonal/texture atmosphere logic without naming any topology-specific object, pose, architecture or scenario.",
+    "pairwise_axes": [
+      "representation ontology",
+      "spatial/relational visual organization",
+      "figure-ground/material-edge grammar",
+      "human identity/specificity mechanism",
+      "consequence/history representation",
+      "tonal/texture/atmosphere construction"
+    ],
+    "pairwise_floor": "Every surviving premise pair differs materially on at least four of six axes.",
+    "quarantine": "No R premise may use or cosmetically rename VFD-01 P1 accumulated-mark field, P2 interlocking-plane field, P3 diffused-density continuum, P4 rule-bearing mosaic/discrete-unit field, or the current C0/O3/TYP/MAT/STA/MOT family as a construction seed.",
+    "rejection": "A premise failing pairwise distance or quarantine is rejected before rendering and not replaced."
+  },
+  "assignment": {
+    "primary": {
+      "R1": "T1",
+      "R2": "T2",
+      "R3": "T3",
+      "R4": "T4"
+    },
+    "transfer": {
+      "R1": "T3",
+      "R2": "T4",
+      "R3": "T1",
+      "R4": "T2"
+    },
+    "law": "Mapping is frozen before topology/premise content exists. Transfer topology is always different from primary and separated by a two-slot derangement; no result-aware reassignment."
+  },
+  "construction_quarantine": {
+    "vfd01": "All VFD-01 P1-P4 laws, packets, images, props, architecture, pose/staging and mosaic result are diagnostic/falsification controls only. They may not appear in renderer-visible construction inputs or seed premise/topology design.",
+    "current_family": "C0 Threshold K, O3, TYP-02 F1, MAT F1, STA F2, MOT F1A/CS2 and CLR evidence are later comparison controls only.",
+    "historical": "Exact VID/hero/Quiet Stage/Mineral Theater imagery, casts, props, architecture and compositions carry no inheritance rights.",
+    "comparison_timing": "Visual comparison against quarantined evidence occurs only after all topology, premise and possible renderer-visible packets are frozen; comparison may falsify but never edit them."
+  },
+  "controlled_neutralities": [
+    "No project/product/brand names, marks, wordmark, bespoke typography, UI, website layout, semantic icons or product-state semantics in scored images.",
+    "Color is incidental only and cannot be the organizing identity axis.",
+    "Motion is excluded.",
+    "No generated image becomes production/hero/app/site master by survival."
+  ],
+  "probe_budget": {
+    "primary_max": 4,
+    "transfer_max": 2,
+    "maximum_total_images": 6,
+    "primary_rule": "Exactly one judgeable primary image per eligible R/T primary pairing. No reroll or alternate seed after viewing.",
+    "transfer_rule": "At most two primary survivors receive exactly one transfer image under the frozen transfer mapping.",
+    "technical_failure": "A genuine no-image technical failure may retry only with byte-identical inputs and creates no design evidence.",
+    "no_hidden_budget": "No fifth topology, fifth premise, calibration render, result-aware reassignment or free replacement."
+  },
+  "renderer_isolation": {
+    "context_rule": "Every probe runs in a fresh regular non-project renderer context with no earlier CTF/VFD/current-family image or project conversation.",
+    "input_rule": "Renderer sees only the exact premise law plus exact assigned topology packet and generic output instruction. No critique/history/comparison/project name.",
+    "output_rule": "One artwork only; no rank, explanation, revision or alternatives. Judgeable output consumes the slot.",
+    "preservation_rule": "Preserve returned bytes/provenance before evaluation where available; record custody limits truthfully.",
+    "no_cross_probe_memory": "Later probes inherit only frozen text law, never prior pixels."
+  },
+  "primary_survival_gates": [
+    "ARTISTIC_INTEGRITY: coherent authored visual world, not diagram/moodboard/generic product illustration.",
+    "HUMAN_PRIMACY: people are specific causal/relational participants, not scale figures.",
+    "TOPOLOGY_FIDELITY: image visibly instantiates its assigned frozen causal topology without substituting another simpler topology.",
+    "RELATIONAL_TRUTH: current relation follows from visible changed condition without explanatory graphics.",
+    "EPISTEMIC_RESTRAINT: no private intent/belief/memory is asserted.",
+    "WHOLE_SURFACE_SPECIFICITY: affirmative repeatable representation grammar beyond one motif.",
+    "PREMISE_QUARANTINE_PASS: no material reuse of VFD-01 premise ontology or current/historical construction seed.",
+    "DISTANCE_PASS: after frozen comparison, materially different from current provisional family on at least four of six representation axes.",
+    "ACCESSIBILITY_TRANSFER_POTENTIAL: essential people/relation/condition do not depend solely on hue, micro-detail, text, motion or wide-only positioning."
+  ],
+  "transfer_survival_gates": [
+    "All primary gates remain satisfied under the assigned different topology.",
+    "TOPOLOGY_CHANGE_PASS: transfer instantiates the frozen transfer topology, not the primary topology under new scenery.",
+    "GRAMMAR_TRANSFER_PASS: representation family remains recognizable without copying primary composition, props, architecture, pose topology or signature motif.",
+    "ANTI_COPY_PASS: no dominant primary causal staging/signature motif recurs even if the renderer independently chooses it.",
+    "HUMAN_AND_RELATIONAL_TRANSFER: specificity and causal relation survive the new topology.",
+    "NO_COLLAPSE: transfer does not collapse to current provisional family, a VFD premise, or quarantined historical surface."
+  ],
+  "selection_and_termination": {
+    "primary_shortlist": "At most two primary survivors. Prefer strongest topology fidelity + whole-surface repeatability + distance. If >2 are evidence-tied and cut is irreducibly aesthetic, stop for Director choice.",
+    "family_survivor": "One R family survives only if both its primary and transfer pass every conjunctive gate.",
+    "zero_primary": "Close CTF-01 zero-survivor; no replacement/reroll.",
+    "zero_transfer": "Close CTF-01 zero-survivor; preserve mechanism/topology evidence only.",
+    "one_or_more_transfer": "Stop CTF-01 and present surviving second-family evidence at Director convergence review. Phase C remains non-automatic.",
+    "post_exposure_retune": false,
+    "topology_replacement_after_render": false,
+    "premise_replacement_after_render": false
+  },
+  "next_action": "Open one serial CTF-01 branch from this exact method checkpoint. Construct and freeze T1-T4 plus their pairwise audit first. Only after that freeze may R1-R4 be constructed.",
+  "audit_result": "APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-EXPOSURE METHOD FREEZE."
+}
