@@ -8,6 +8,8 @@ Original C0 Threshold K is the immutable symbol reference selected during SYM-01
 
 C0 refers only to the preserved original Threshold K asset and must never be reused as a label for derived studies or new concepts.
 
+When comparison surfaces need an unambiguous display label, use **C0-ORIGINAL** for that preserved asset. `C0-ORIGINAL` is a review alias for canonical C0, not a new candidate identifier or new asset.
+
 ## Exploration lanes
 
 ### Lane A — C0 Preservation
@@ -30,9 +32,12 @@ Purpose:
 Explore controlled descendants of the original symbol.
 
 Naming:
-- C0-R1
-- C0-R2
-- C0-R3
+- C0-R1 — Bézier Fidelity
+- C0-R2 — Curve/Tension Study
+- C0-R3 — Proportion Study
+- C0-R4 — Production Vector Candidate
+
+These names reserve refinement-study identities only; they do not pre-approve geometry or confer production-asset authority.
 
 Derived studies do not inherit C0 authority.
 
@@ -52,6 +57,12 @@ Possible themes:
 - emergence of hidden order;
 - human and AI collaboration;
 - multiple perspectives becoming coherent.
+
+Naming:
+- N1
+- N2
+- N3
+- continue sequentially as needed.
 
 New concepts are challengers, not replacements.
 

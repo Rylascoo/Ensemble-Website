@@ -1079,7 +1079,7 @@ The Director-facing constrained HTML viewer rendered the canonical CSS-mask harn
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - DETERMINISTIC IN-LANE CONTINUITY REPAIR.**
 
-## L-064 - Director selects C0 Threshold K and opens separate exact-shape refinement
+## L-065 - Director selects C0 Threshold K and opens separate exact-shape refinement
 
 **State:** SYM-01 RESOLVED / C0 PROVISIONAL INCUMBENT / SHAPE REFINEMENT AUTHORIZED
 
@@ -1090,3 +1090,19 @@ The Director simultaneously authorized a new bounded exact-shape refinement prog
 **Next gate:** close the SYM-01 serial branch lifecycle, then open the new Threshold K geometry-refinement branch from promoted main.
 
 **APPROVED BY DIRECTOR.**
+
+## L-066 - C0 identity continuity correction separates original, refinements and independent concepts
+
+**State:** ACTIVE CONTINUITY GUARDRAIL / NAMING AMBIGUITY CLOSED
+
+Original C0 Threshold K is immutable reference authority. Canonical `C0` means only the exact preserved symbol selected by the Director in SYM-01. On comparison/review surfaces, `C0-ORIGINAL` is the explicit alias for that same preserved asset; it is not a new candidate or regenerated control.
+
+Controlled descendants use `C0-R*` identifiers only. The initial refinement-study identities are `C0-R1` Bézier Fidelity, `C0-R2` Curve/Tension Study, `C0-R3` Proportion Study and `C0-R4` Production Vector Candidate; none inherits C0 authority or production approval. Independent Kymaean concepts use `N*` identifiers and remain challengers unless a later explicit Director decision replaces the incumbent.
+
+This correction does not rewrite historical SYM-01 labels or evidence. It prevents later refinement/exploration notation from creating a second C0.
+
+Primary authority: `docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md`, `CURRENT_STATE.md`, and historical decision evidence `docs/evidence/SYM_01_DIRECTOR_DECISION_01.json`.
+
+**Guardrail:** every symbol review includes the original C0, current C0-R refinements and independent N-series concepts; no candidate replaces original C0 without an explicit Director decision.
+
+**APPROVED BY DIRECTOR — CONTINUITY CORRECTION.**

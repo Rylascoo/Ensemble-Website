@@ -21,7 +21,7 @@ Original C0 Threshold K is immutable reference authority. Future symbol work is 
 - C0 preservation/refinement studies;
 - independent Kymaean symbol exploration.
 
-Derived refinements and new concepts must never reuse the C0 identifier.
+Derived refinements and new concepts must never reuse the C0 identifier. On comparison surfaces, `C0-ORIGINAL` is the unambiguous review label for the preserved canonical C0 asset; refinements use `C0-R*` and independent concepts use `N*`.
 
 ## Exact next action / hard boundary
 Continue bounded Threshold K symbol exploration under `docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md`. Preserve original C0 exactly. Explore refinements and independent concepts separately. No CLR-01 reentry, wordmark/material/motion/state/hero coupling, production asset claim, final identity, or Phase-C convergence.
