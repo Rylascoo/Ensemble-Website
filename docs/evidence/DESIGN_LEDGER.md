@@ -1940,3 +1940,19 @@ F2 is a provisional neutral Rest-state optical challenger only. It is not a prod
 **Next gate after guarded serial promotion/closeout:** one bounded comparison of F2 against the exact `PKT-STAGE-CORE-02` Stage incumbent, changing only neutral Rest-state cone optical hierarchy. Do not change palette, motion, texture vocabulary, identity cues, rail, pips/arcs, performance layout, controls or implementation in that comparison.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-125 - F2 full-Stage comparison retains PKT-STAGE-CORE-02
+
+**State:** FROZEN INTEGRATION COMPARISON COMPLETE / F2 FAILS PROMOTION / INCUMBENT RETAINED / NO F2B
+
+`docs/evidence/CONE_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_01.json` froze the exact F2 full-Stage translation, accepted challenger bytes, pixel-isolation evidence, eight integration criteria and no-retune decision law before scoring. The challenger is Drive file `1ggRgcd04JDtbmrVVWqSsJCow4BQ2YPCq`, SHA-256 `ae0d368077dc13babb4c5e43195873b724dd94040544eb7104c1be9872c9e9a3`; Drive re-download matched. Two deterministic construction attempts were rejected before evaluation for visible compositing artifacts and are preserved as evidence.
+
+The accepted challenger changes only the five cone optical fields: 137,273 of 1,573,352 pixels (8.72%), with shell, right rail, performance/actions/footer and lower Stage continuation pixel-identical in the audited regions. F2 preserves five-Character readability, shared-floor cohesion and semantic/background boundaries.
+
+Integrated scoring nevertheless fails the preregistered promotion floor. F2 improves softness and shared-floor atmosphere, but suppresses distinctive internal causal/light texture, compresses some incumbent state differentiation, reads more like conventional atmospheric spotlights, and lifts luminous competition toward Production/Scene context. This is a mixed tradeoff rather than a material net improvement.
+
+`docs/evidence/CONE_S1_F2_INCUMBENT_STAGE_COMPARISON_RESULT_01.json` therefore records **RETAIN_INCUMBENT_F2_FAILS_INTEGRATION**. `PKT-STAGE-CORE-02` and Drive master `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH` remain unchanged. F2 gains no Stage, state, production-token or implementation authority, and no F2b/reroll/retune is allowed in this gate.
+
+**Next gate after guarded serial promotion/closeout:** one bounded post-CONE-S1 Phase-C re-entry audit to select the next single incumbent-refinement variable. Do not begin another render or implementation package in the same step.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

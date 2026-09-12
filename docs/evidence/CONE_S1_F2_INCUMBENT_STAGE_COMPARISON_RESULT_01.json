@@ -1,0 +1,123 @@
+{
+  "schema": "kymaean.cone-s1.f2-incumbent-stage-comparison-result.v1",
+  "status": "RETAIN_INCUMBENT_F2_FAILS_INTEGRATION",
+  "date": "2026-09-11",
+  "program_id": "CONE-S1-F2-STAGE-01",
+  "branch": "design/cone-s1-f2-incumbent-stage-comparison-2026-09-11",
+  "method": {
+    "path": "docs/evidence/CONE_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_01.json",
+    "commit": "f35f6163137e1526829b3122d7193094e0cbc51e",
+    "status": "FROZEN_PRE_EVALUATION"
+  },
+  "incumbent": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "disposition": "RETAIN_CURRENT_CORE_APP_VISUAL_BASELINE"
+  },
+  "challenger": {
+    "family": "F2",
+    "name": "Balanced Atmospheric Taper",
+    "drive_file_id": "1ggRgcd04JDtbmrVVWqSsJCow4BQ2YPCq",
+    "sha256": "ae0d368077dc13babb4c5e43195873b724dd94040544eb7104c1be9872c9e9a3",
+    "bytes": 1481310,
+    "drive_redownload_hash_verified": true,
+    "disposition": "FAIL_INTEGRATED_STAGE"
+  },
+  "comparison_board": {
+    "drive_file_id": "1zAV0ivFLWsmL5o0ZAooWhXfl1Kgfyzdl",
+    "sha256": "5a9350d0deee08b05562fe943f2c6ff09b3a709d5726b2edc6f62e8140b66d9f"
+  },
+  "construction_evidence": {
+    "accepted_pixel_changed_fraction": 0.08724875298089683,
+    "accepted_changed_bbox_xyxy": [199,170,1184,482],
+    "fixed_shell_rail_performance_controls_preserved": true,
+    "rejected_technical_attempts": [
+      {
+        "id": "TECH-01",
+        "drive_file_id": "1MUIkQGqK96lq3X20WeTHcV2evIrB8zJj",
+        "reason": "Perspective-warp base artifact; rejected before scoring."
+      },
+      {
+        "id": "TECH-02",
+        "drive_file_id": "14KHTRX5m8ZTkD_jIrQgtO5JHxcGGQvjZ",
+        "reason": "Residual lower-cone artifact; rejected before scoring."
+      }
+    ]
+  },
+  "criteria": {    "inhabited_volume_over_fixture": {
+      "status": "FAIL",
+      "finding": "F2 softens the cones but pushes them toward conventional atmospheric spotlights; the incumbent reads as more specific inhabited presence."
+    },
+    "five_character_readability": {
+      "status": "PASS",
+      "finding": "All five Character positions remain discrete and readable; one cone per Character is preserved."
+    },
+    "shared_floor_without_merging": {
+      "status": "PASS",
+      "finding": "F2 improves shared-floor atmosphere without merging the five Character volumes into one field."
+    },
+    "state_hierarchy_preservation": {
+      "status": "FAIL",
+      "finding": "Optical smoothing compresses some of the incumbent differentiation that supports the existing state hierarchy in context."
+    },
+    "kymaean_texture_identity": {
+      "status": "FAIL",
+      "finding": "F2 materially suppresses the incumbent internal causal/light texture and therefore reads more generically atmospheric."
+    },
+    "hierarchy_competition": {
+      "status": "FAIL",
+      "finding": "The smoother taller luminous mass lifts visual attention toward the Production/Scene region more than the incumbent."
+    },
+    "background_and_semantic_preservation": {
+      "status": "PASS",
+      "finding": "The context-agnostic background remains intact and no relationship, role, emotion, authority or ODR meaning is introduced."
+    },
+    "material_net_improvement": {
+      "status": "FAIL",
+      "finding": "F2 gains softness/shared-floor atmosphere but loses distinctive texture, state separation and hierarchy balance; the tradeoff is not a material net improvement."
+    }
+  },
+  "decision": {
+    "result": "RETAIN_INCUMBENT_F2_FAILS_INTEGRATION",
+    "promote_f2": false,
+    "retain_pkt_stage_core_02": true,
+    "f2b_or_same_gate_retune_allowed": false,
+    "reason": "The preregistered promotion floor requires a material net improvement. F2 produces a mixed tradeoff with multiple material integration regressions, so the incumbent wins by the frozen decision law."
+  },
+  "authority_consequence": {
+    "stage_packet_changes": false,
+    "drive_master_changes": false,
+    "f2_production_authority": false,
+    "f2_state_authority": false,
+    "f2_implementation_authority": false,
+    "cone_carrier_remains_frozen": true
+  },
+  "recursive_audit": {
+    "method_frozen_before_scoring": true,
+    "challenger_bytes_drive_verified": true,
+    "no_post_result_retune": true,
+    "technical_construction_failures_separated_from_design_scoring": true,
+    "single_variable_isolation_preserved": true,
+    "incumbent_packet_unchanged": true,
+    "no_palette_or_motion_claim": true,
+    "no_cir_s1_reopening": true,
+    "no_odr_resolution": true,
+    "no_implementation_claim": true,
+    "material_defects_remaining_inside_comparison_gate": false
+  },
+  "next_action": {
+    "action": "After guarded serial promotion and closeout, run one bounded post-CONE-S1 Phase-C re-entry audit to select the next single incumbent-refinement variable.",
+    "same_step_prohibition": "Do not rerender or retune F2, open F2b, or begin another refinement variable inside this comparison-result gate.",
+    "blocked_or_unresolved": [
+      "Observed Cues",
+      "right-rail provenance/semantics",
+      "pips",
+      "inter-character arcs",
+      "exact redundant identity cue",
+      "final palette/type/motion",
+      "ODR-05/07/14/15/19/30"
+    ]
+  },
+  "result": "RETAIN PKT-STAGE-CORE-02. F2 Balanced Atmospheric Taper fails integrated Stage promotion despite bounded local gains. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}
