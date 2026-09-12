@@ -1,0 +1,43 @@
+{
+  "schema": "kymaean.sel-s1.structural-accessibility-preflight.v1",
+  "status": "CLEAN_BROWSER_PREFLIGHT_NO_SUBJECTIVE_RESULT",
+  "program_id": "SEL-S1",
+  "static": {
+    "method_sha256": "270c71e5d668f88134bb46dbd80dbccc7de7fd43bbfb09b73f9da77c6324901f",
+    "harness_sha256": "68990067baa686284959324ba0df76136b205a20f79a02ef373a99579ed4722c",
+    "matrix": "6 families / 5 layouts / 30 boards / 114 Character loci"
+  },
+  "browser_version": "Edg/152.0.4191.66",
+  "os_pretty": "Microsoft Windows 11 Home 10.0.26200",
+  "browser_checks": [
+    {
+      "mode": "NORMAL",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "keyboard_targets": "12/12 PASS",
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "keyboard_targets": "12/12 PASS",
+      "status": "PASS"
+    },
+    {
+      "mode": "NORMAL",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "keyboard_targets": "12/12 PASS",
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "keyboard_targets": "12/12 PASS",
+      "status": "PASS"
+    }
+  ],
+  "failures": []
+}
