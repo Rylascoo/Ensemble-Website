@@ -1924,3 +1924,19 @@ CONE-S1 must preserve cone-as-presence rather than container/button, one cone pe
 **Next gate:** construct and recursively audit the CONE-S1 frozen deterministic method contract plus neutral Rest-state 2–5 Character optical specimen matrix. Freeze materially distinct width/falloff/blur/vertical-scale/overlap families, name/floor clearance, anti-container/anti-portal falsifiers, narrow/overlap survival and no-reroll/promotion rules before any full Stage render.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-124 - CONE-S1 neutral optical matrix selects F2 Balanced Atmospheric Taper
+
+**State:** METHOD/PREFLIGHT PASS / F2 SOLE PROVISIONAL SURVIVOR / FULL STAGE COMPARISON NEXT / INCUMBENT UNCHANGED
+
+`docs/evidence/CONE_S1_STAGE_OPTICAL_HIERARCHY_METHOD_AND_MATRIX_01.json` freezes two controls plus four materially distinct neutral Rest-state cone families across 2/3/4/5 Characters, 1200px and 320px transfer, shared-floor landing, name/floor clearance, anti-container/anti-portal falsifiers and no-reroll law. Exact harness SHA-256 is `94ab361ea77aaa4af48c30fd8ea61571413cf9152744a24b4359c15df1a64fce`; candidate geometry did not change after exposure.
+
+Browser preflight preserves one frozen mechanical failure: F3 clips its blur-expanded envelope at 320px in the five-Character specimen. The initial verifier incorrectly elevated one family failure into a whole-study stop; `docs/evidence/CONE_S1_VERIFIER_FAMILY_AGGREGATION_CORRECTION_01.json` records the tooling-only correction. No harness or family parameter changed. F1, F2 and F4 remained mechanically eligible.
+
+Subjective evaluation then applies only the frozen falsifiers. F1 reads primarily as discrete theatrical spotlights/fixtures; F3 also merges equal Rest Characters into a shared luminous wash; F4 reads too strongly as an overhead fixture through its tall narrow reach. **F2 — Balanced Atmospheric Taper** alone preserves discrete equal Character presence, atmospheric depth, shared-floor cohesion and narrow-layout transfer without depending on color, texture or motion.
+
+F2 is a provisional neutral Rest-state optical challenger only. It is not a production token, full-Stage authority, state-specific intensity law, palette, motion or implementation decision. `PKT-STAGE-CORE-02` remains the current frozen visual baseline.
+
+**Next gate after guarded serial promotion/closeout:** one bounded comparison of F2 against the exact `PKT-STAGE-CORE-02` Stage incumbent, changing only neutral Rest-state cone optical hierarchy. Do not change palette, motion, texture vocabulary, identity cues, rail, pips/arcs, performance layout, controls or implementation in that comparison.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

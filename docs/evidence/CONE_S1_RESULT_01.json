@@ -1,0 +1,106 @@
+{
+  "schema": "kymaean.cone-s1.result.v1",
+  "status": "ONE_PROVISIONAL_SURVIVOR_F2",
+  "date": "2026-09-11",
+  "program_id": "CONE-S1",
+  "branch": "design/cone-s1-method-matrix-2026-09-11",
+  "baseline": {
+    "website_main": "8e265be49556a43e9a852ec4c846a4b0745eb676",
+    "stage_packet": "PKT-STAGE-CORE-02",
+    "stage_master_drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "stage_master_sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0"
+  },
+  "method": {
+    "path": "docs/evidence/CONE_S1_STAGE_OPTICAL_HIERARCHY_METHOD_AND_MATRIX_01.json",
+    "sha256": "725718b07cedaf80761c8fac0940cf632a6edd8d633ca1be393632c7df5a7c4e",
+    "harness_path": "prototypes/cone-s1/harness.html",
+    "harness_sha256": "94ab361ea77aaa4af48c30fd8ea61571413cf9152744a24b4359c15df1a64fce",
+    "post_evaluation_retune_allowed": false
+  },
+  "browser_environment": {
+    "browser": "Microsoft Edge 152.0.4191.66",
+    "os": "Microsoft Windows 11 Home 10.0.26200",
+    "viewports_css_px": [1200,320],
+    "modes": ["NORMAL_NEUTRAL","FORCED_COLORS_FALLBACK"]
+  },
+  "preflight": {
+    "path": "docs/evidence/CONE_S1_STRUCTURAL_PREFLIGHT_01.json",
+    "sha256": "529a5b2f9c4ac3a9ae2d889997151a1742eb1fe621ed4681e9abd01365c7b8c2",
+    "status": "CLEAN_BROWSER_PREFLIGHT_WITH_FAMILY_FAILURES",
+    "verifier_correction": "docs/evidence/CONE_S1_VERIFIER_FAMILY_AGGREGATION_CORRECTION_01.json"
+  },
+  "browser_evidence": {
+    "normal_wide": {
+      "diagnostic_sha256": "e2b2d978853a54ba4440d984cf4c23bc59750a5b8410728b5659745c89a0f655",
+      "screenshot_sha256": "58b9e24c720c28b74c35a59566f30495685055b6aa9fe79f609dab6179de7f7b"
+    },
+    "normal_320": {
+      "diagnostic_sha256": "edef680514ab36a05681a2f8e6992db7ae181a28e7018b2bc8bef31a56fe27d0",
+      "screenshot_sha256": "e2eaa2bcf0423dba85d641b1f2cd7189655894468f5d152c6d8fec81b9089de6"
+    },
+    "forced_wide": {
+      "diagnostic_sha256": "b6eade989e72f54dad6de55908cc24fd9b309c79db6f775aa6ac69b4c35ea830",
+      "screenshot_sha256": "4380c74bcb28e39c69af985428d64c1dae2daf421b0f925d7827c1738ff3267e"
+    },
+    "forced_320": {
+      "diagnostic_sha256": "f4b19ae8733f9ac0b7cbe3bb8994b3b2b943f3469a488ad477d6344059815a1f",
+      "screenshot_sha256": "c802bd2b595ba4c05debe8bbec40bf6b23781e4b74d5b2e0405c2eb70cdaf8d1"
+    },
+    "publication_note": "Browser boards are deterministic review evidence reproducible from the frozen harness and recorded environment; the binary captures are not Design-law authority."
+  },
+  "mechanical_result": {
+    "CREF": "PASS_CONTROL_INELIGIBLE",
+    "CNEG": "PASS_CONTROL_INELIGIBLE",
+    "F1": "PASS_TO_SUBJECTIVE",
+    "F2": "PASS_TO_SUBJECTIVE",
+    "F3": "FAIL_320_FIVE_CHARACTER_BLUR_EXPANDED_CLIP",
+    "F4": "PASS_TO_SUBJECTIVE"
+  },
+  "subjective_result": {
+    "F1": {
+      "disposition": "FAIL",
+      "reason": "The narrow high-clarity taper remains individually legible but reads primarily as discrete stage spotlights/fixtures, weakening inhabited presence and shared-floor ensemble cohesion in the 2–5 Character progression."
+    },
+    "F2": {
+      "disposition": "PASS_PROVISIONAL_SURVIVOR",
+      "reason": "The moderate taper preserves discrete equal Rest volumes, soft atmospheric depth, shared-floor cohesion and name/floor clearance across 2–5 Characters and 320px without relying on color, texture or motion."
+    },
+    "F3": {
+      "disposition": "FAIL",
+      "reason": "Mechanically fails the 320px five-Character no-clipping floor; visually, the broad soft fields also merge into additive shared luminance that can imply relationship or priority among equal Rest Characters."
+    },
+    "F4": {
+      "disposition": "FAIL",
+      "reason": "The taller narrower reach survives mechanics but reads too strongly as overhead theatrical fixture light and loses volumetric inhabited presence through its long attenuated upper reach."
+    }
+  },
+  "selected_survivor": {
+    "family": "F2",
+    "name": "Balanced Atmospheric Taper",
+    "scope": "PROVISIONAL_NEUTRAL_REST_OPTICAL_FAMILY_ONLY",
+    "production_token": false,
+    "full_stage_authority": false,
+    "state_specific_authority": false
+  },
+  "recursive_audit": {
+    "frozen_harness_preserved_after_exposure": true,
+    "no_family_retune_after_result": true,
+    "f3_mechanical_failure_preserved": true,
+    "verifier_correction_changes_aggregation_only": true,
+    "rest_state_isolation_preserved": true,
+    "no_color_identity": true,
+    "no_motion_or_texture_dependency": true,
+    "no_state_semantic_invention": true,
+    "no_cir_s1_reopening": true,
+    "no_odr_resolution": true,
+    "no_implementation_claim": true,
+    "material_defects_remaining_inside_method_gate": false
+  },
+  "next_action": {
+    "action": "After this method/matrix serial is promoted and closed, perform one bounded incumbent Stage comparison using exact PKT-STAGE-CORE-02 and F2 as the only optical challenger variable.",
+    "must_preserve": ["cone geometry","five-Character composition on first comparison","shared dark floor","names/state labels","context-agnostic background","creator actions outside cones","all unresolved rail/pip/arc semantics"],
+    "must_not_change": ["palette","state-specific intensity","motion","texture vocabulary","identity cues","right rail","performance/transcript layout","controls","implementation"],
+    "same_step_prohibition": "Do not begin the full Stage comparison inside the CONE-S1 method/matrix gate."
+  },
+  "result": "F2 — Balanced Atmospheric Taper is the sole provisional CONE-S1 survivor for a later bounded incumbent Stage comparison. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}

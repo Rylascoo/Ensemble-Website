@@ -145,7 +145,8 @@
     "F1 Subtractive Channel is composition-compatible with exact C0, STA F2 and MOT F1A/CS2 on CMP-01 neutral carriers, but Mineral Theater/CLR/type/real-product synthesis remains untested; no final material system exists",
     "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists",
     "Phase-B convergence is resolved and PKT-STAGE-CORE-02 is the current frozen Stage visual baseline with the first context-agnostic causal-field background; final shared identity, palette, typeface, motion tokens, rail provenance, exact background production tokens and implementation authority remain unresolved.",
-    "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method"
+    "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method",
+    "CONE-S1 neutral Rest-state optical matrix selected F2 Balanced Atmospheric Taper as the sole provisional challenger; PKT-STAGE-CORE-02 remains the frozen Stage baseline pending a bounded incumbent comparison"
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -153,11 +154,11 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "CONE-S1 method construction: freeze and recursively audit the neutral Rest-state Stage cone optical hierarchy method and deterministic 2?5 Character specimen matrix before any full Stage render.",
+    "next_synthesis_trigger": "Bounded CONE-S1 F2 versus exact PKT-STAGE-CORE-02 incumbent Stage comparison; change only neutral Rest-state cone optical hierarchy and preserve all other Stage variables.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_CIR_S1_REENTRY_AUDIT_02.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
-    "latest_convergence_audit": "docs/evidence/CIR_S1_RESULT_01.json"
+    "latest_convergence_audit": "docs/evidence/CONE_S1_RESULT_01.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

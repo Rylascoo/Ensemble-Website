@@ -1,0 +1,317 @@
+{
+  "schema": "kymaean.cone-s1.stage-optical-hierarchy-method.v1",
+  "status": "FROZEN_PRE_EVALUATION",
+  "date": "2026-09-11",
+  "program_id": "CONE-S1",
+  "name": "Stage Cone Optical Hierarchy 01",
+  "parent_reentry_audit": "docs/evidence/PHASE_C_POST_CIR_S1_REENTRY_AUDIT_02.json",
+  "baseline_main": "8e265be49556a43e9a852ec4c846a4b0745eb676",
+  "incumbent_packet": "PKT-STAGE-CORE-02",
+  "bounded_question": "What static neutral Rest-state cone width, taper, falloff, blur and vertical scale best preserve individual Character presence and one shared dark floor across 2–5 Characters without introducing state, identity, palette, motion or product-semantic meaning?",
+  "authority_limits": [
+    "Cone geometry and one-cone-per-Character remain frozen; CONE-S1 refines only optical treatment inside that carrier.",
+    "All scored Characters are Rest-state equals; no candidate may encode Opportunity, Speaking, Listening, selection, Take a Seat, rank, relationship or authority.",
+    "Human-readable Character names remain visible; CIR-S1 closed with zero survivors, so no replacement identity cue may be invented here.",
+    "Current Character colors, texture vocabulary, motion timing, right-rail content, pips, arcs, performance layout and creator-action hierarchy are excluded.",
+    "No outcome establishes production tokens, final palette, implementation values or Phase-C exit."
+  ],
+  "source_law": [
+    "docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md",
+    "docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md",
+    "docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md",
+    "docs/evidence/packets/PKT_STAGE_CORE_02.json"
+  ],
+  "controls": {
+    "CREF": {
+      "name": "Historical Cone Interaction Reference",
+      "role": "ineligible historical calibration control",
+      "source": "prototypes/lane-a/stage-cone-interaction-01.html",
+      "note": "Translates the earlier qualitative prototype's Rest-like beam proportions into the neutral matrix; it is not the exact PKT-STAGE-CORE-02 pixel geometry."
+    },
+    "CNEG": {
+      "name": "Broad Light Wall Negative Control",
+      "role": "ineligible negative calibration",
+      "expected_failure": "hard/broad luminous wall weakens discrete Character presence and shared-floor reading"
+    }
+  },
+  "neutral_shared_constants": {
+    "beam_color": "neutral white only",
+    "background": "near-black neutral field",
+    "floor_pool_width_pct_stage": 10.5,
+    "floor_pool_height_px": 14,
+    "floor_pool_blur_px": 8,
+    "floor_pool_peak_alpha": 0.18,
+    "floor_line": "single shared neutral horizon",
+    "names": [
+      "Marlowe",
+      "Dr. Voss",
+      "Wren",
+      "Iona",
+      "Keir"
+    ],
+    "state_label": "REST",
+    "texture": "none",
+    "motion": "none"
+  },
+  "families": {
+    "CREF": {
+      "envelope_width_pct_stage": 18.0,
+      "top_aperture_pct_envelope": 16,
+      "base_aperture_pct_envelope": 80,
+      "blur_px": 5,
+      "falloff": [
+        [
+          0,
+          0.02
+        ],
+        [
+          48,
+          0.07
+        ],
+        [
+          74,
+          0.27
+        ],
+        [
+          100,
+          0.055
+        ]
+      ],
+      "height_pct_optical_zone": 74.0
+    },
+    "CNEG": {
+      "envelope_width_pct_stage": 24.0,
+      "top_aperture_pct_envelope": 80,
+      "base_aperture_pct_envelope": 95,
+      "blur_px": 2,
+      "falloff": [
+        [
+          0,
+          0.11
+        ],
+        [
+          100,
+          0.11
+        ]
+      ],
+      "height_pct_optical_zone": 74.0
+    },
+    "F1": {
+      "name": "Focused Taper",
+      "role": "candidate",
+      "envelope_width_pct_stage": 14.0,
+      "top_aperture_pct_envelope": 16,
+      "base_aperture_pct_envelope": 70,
+      "blur_px": 3,
+      "falloff": [
+        [
+          0,
+          0.015
+        ],
+        [
+          46,
+          0.07
+        ],
+        [
+          78,
+          0.27
+        ],
+        [
+          100,
+          0.05
+        ]
+      ],
+      "risk": "too narrow or fixture-like; isolated spotlight rather than inhabited presence",
+      "height_pct_optical_zone": 82.0
+    },
+    "F2": {
+      "name": "Balanced Atmospheric Taper",
+      "role": "candidate",
+      "envelope_width_pct_stage": 17.0,
+      "top_aperture_pct_envelope": 18,
+      "base_aperture_pct_envelope": 82,
+      "blur_px": 5,
+      "falloff": [
+        [
+          0,
+          0.012
+        ],
+        [
+          42,
+          0.06
+        ],
+        [
+          76,
+          0.23
+        ],
+        [
+          100,
+          0.045
+        ]
+      ],
+      "risk": "too generic or insufficiently volumetric",
+      "height_pct_optical_zone": 80.0
+    },
+    "F3": {
+      "name": "Broad Shared Field",
+      "role": "stress candidate",
+      "envelope_width_pct_stage": 21.0,
+      "top_aperture_pct_envelope": 24,
+      "base_aperture_pct_envelope": 94,
+      "blur_px": 8,
+      "falloff": [
+        [
+          0,
+          0.01
+        ],
+        [
+          36,
+          0.04
+        ],
+        [
+          72,
+          0.17
+        ],
+        [
+          100,
+          0.035
+        ]
+      ],
+      "risk": "adjacent Characters merge or additive brightness implies relationship/state meaning",
+      "height_pct_optical_zone": 76.0
+    },
+    "F4": {
+      "name": "Floor-Anchored Tall Taper",
+      "role": "candidate",
+      "envelope_width_pct_stage": 16.0,
+      "top_aperture_pct_envelope": 14,
+      "base_aperture_pct_envelope": 76,
+      "blur_px": 6,
+      "falloff": [
+        [
+          0,
+          0.008
+        ],
+        [
+          58,
+          0.045
+        ],
+        [
+          86,
+          0.24
+        ],
+        [
+          100,
+          0.06
+        ]
+      ],
+      "risk": "over-tall theatrical beam or lower-weight concentration that competes with the floor/name hinge",
+      "height_pct_optical_zone": 88.0
+    }
+  },
+  "family_separation_law": [
+    "F1 tests a narrow high-clarity taper; F2 a moderate balanced taper; F3 a broad/soft shared-field stress direction; F4 a taller lower-weight floor-anchored direction.",
+    "No candidate may differ from another by only one scalar; envelope, vertical scale, taper, blur and falloff must remain the frozen multi-parameter family definitions above.",
+    "Every Character within a family uses identical optical geometry and neutral luminance; Character identity is not encoded by beam treatment.",
+    "The fixed floor pool is identical across families so the scored variable remains the beam optical hierarchy rather than a second floor-shape experiment."
+  ],
+  "matrix": {
+    "character_counts": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "viewports_css_px": [
+      1200,
+      320
+    ],
+    "modes": [
+      "NORMAL_NEUTRAL",
+      "FORCED_COLORS_FALLBACK"
+    ],
+    "wide_centers_pct": {
+      "2": [
+        35,
+        65
+      ],
+      "3": [
+        24,
+        50,
+        76
+      ],
+      "4": [
+        16,
+        39,
+        61,
+        84
+      ],
+      "5": [
+        12,
+        31,
+        50,
+        69,
+        88
+      ]
+    },
+    "stage_height_px": 260,
+    "rule": "All families are rendered on the same shared dark floor with the same names, Rest labels, x-centers, pool treatment and neutral field.",
+    "optical_zone_top_px": 12,
+    "shared_floor_bottom_px": 48
+  },
+  "mechanical_floors": [
+    "exactly 6 families and 4 character-count specimens per family",
+    "every scored specimen is neutral Rest state; no per-Character optical variation exists within a family",
+    "beam base remains anchored to the same shared-floor y-coordinate in every specimen",
+    "no beam or blur-expanded envelope clips the stage left/right/top bounds in normal mode",
+    "no horizontal document overflow at 320 CSS px",
+    "no authored animation, transition, texture, gradient hue or non-neutral color identity",
+    "names and REST labels remain visible and outside the beam scoring geometry",
+    "CREF and CNEG are controls and ineligible for promotion",
+    "forced-colors mode may suppress decorative beam/pool optics but must retain names, Rest labels and shared-floor structure",
+    "candidate geometry and falloff arrays exactly match the frozen method; no post-exposure mutation"
+  ],
+  "subjective_falsification_after_clean_preflight": [
+    "FAIL if a cone reads primarily as a wall, portal, column, UI container or literal lighting fixture rather than Character presence.",
+    "FAIL if five equal Rest Characters visually collapse into one wash or produce overlap brightness that implies relationship, priority or state.",
+    "FAIL if two-Character layouts become isolated spotlights with no convincing shared-floor ensemble field.",
+    "FAIL if the beam competes with or obscures the floor/name interaction hinge.",
+    "FAIL if 320px transfer turns the cone into an unreadable sliver or dominant luminous block.",
+    "FAIL if a family needs color, texture or motion to feel volumetric and intentional.",
+    "FAIL if optical weight creates an unintended central/edge hierarchy among equal Rest Characters.",
+    "PASS means only that one static neutral optical family may proceed to a bounded incumbent Stage comparison."
+  ],
+  "result_law": {
+    "no_post_result_retune": true,
+    "replacement_family_allowed": false,
+    "zero_survivors_valid": true,
+    "maximum_provisional_survivors": 1,
+    "control_families_ineligible": [
+      "CREF",
+      "CNEG"
+    ],
+    "promotion_scope": "provisional neutral Rest-state cone optical family for later incumbent Stage comparison only"
+  },
+  "review_order": [
+    "1. source/matrix/mechanical isolation preflight",
+    "2. five-Character wide separation and additive-overlap audit",
+    "3. two-Character shared-floor cohesion audit",
+    "4. three/four-Character transfer and equal-weight audit",
+    "5. 320px transfer",
+    "6. forced-colors fallback confirms optics are not required for identity/state recovery",
+    "7. freeze Design Sol view before any full Stage incumbent comparison"
+  ],
+  "source_freeze": {
+    "harness_path": "prototypes/cone-s1/harness.html",
+    "harness_sha256": "94ab361ea77aaa4af48c30fd8ea61571413cf9152744a24b4359c15df1a64fce",
+    "verifier_path": "tools/verify_cone_s1.py",
+    "browser_probe_path": "tools/cone_s1_browser_probe.mjs",
+    "post_evaluation_family_retune_allowed": false
+  },
+  "explicit_non_authority": [
+    "No full Stage successor image or pixel edit is authorized by this method freeze alone.",
+    "No state-specific intensity, Character color, texture vocabulary, motion timing, focus/selection treatment, identity cue, pip/arc meaning, rail content, Performance placement or implementation is selected.",
+    "Browser/static evidence cannot be relabeled as native Windows high-contrast, GPU, screen-reader, WACK or runtime validation."
+  ],
+  "recursive_preflight_judgment": "METHOD CONTRACT IS INTERNALLY CONSISTENT AND MAY BE MATERIALIZED WITHOUT RENDERING THE FULL STAGE. FINAL FAMILY RESULT REMAINS PENDING FROZEN-HARNESS EVIDENCE."
+}

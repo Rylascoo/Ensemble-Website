@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CONE-S1 â€” Stage Cone Optical Hierarchy 01</title>
+<style>
+:root{color-scheme:dark;--bg:#080808;--panel:#0d0d0d;--line:#303030;--text:#eee;--muted:#aaa;--floor:#666}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,"Segoe UI",sans-serif}
+body{padding:18px}.intro{max-width:980px;margin:0 auto 18px}.intro h1{font-size:20px;margin:0 0 6px}.intro p{margin:0;color:var(--muted);font-size:12px;line-height:1.5}
+#matrix{max-width:1180px;margin:auto;display:grid;gap:18px}.family{border-top:1px solid var(--line);padding-top:12px}.family-head{display:flex;gap:12px;align-items:baseline;margin-bottom:8px}.family-head b{font-size:14px}.family-head span{font-size:11px;color:var(--muted)}
+.specimens{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.specimen{position:relative;height:260px;background:#0a0a0a;border:1px solid #242424;overflow:hidden}.specimen-title{position:absolute;left:8px;top:6px;z-index:5;font-size:10px;color:#aaa;letter-spacing:.06em}.floor{position:absolute;left:4%;right:4%;bottom:48px;height:1px;background:var(--floor)}
+.beam{position:absolute;bottom:48px;transform:translateX(-50%);pointer-events:none}.pool{position:absolute;bottom:41px;transform:translateX(-50%);height:14px;border-radius:50%;filter:blur(8px);background:rgba(255,255,255,.18);pointer-events:none}.namebox{position:absolute;bottom:4px;transform:translateX(-50%);text-align:center;white-space:nowrap;z-index:4}.name{font-size:11px;line-height:1.05}.rest{font-size:8px;line-height:1.1;letter-spacing:.14em;color:#999;margin-top:2px}
+@media(max-width:500px){body{padding:8px}.specimens{grid-template-columns:1fr}.family-head{display:block}.specimen{height:260px}.name{font-size:9px}.rest{font-size:7px}}
+@media(forced-colors:active){.beam,.pool{display:none}.specimen{background:Canvas;color:CanvasText;border-color:CanvasText}.floor{background:CanvasText}.rest{color:CanvasText}}
+</style>
+</head>
+<body>
+<div class="intro"><h1>CONE-S1 â€” neutral Rest-state optical matrix</h1><p>Static design instrument only. Equal Rest Characters; neutral monochrome; shared floor; no state, identity, palette, motion, texture, or implementation authority.</p></div>
+<div id="matrix"></div>
+<script type="application/json" id="cone-s1-definitions">
+{
+  "stageHeight":260,"opticalTop":12,"floorBottom":48,"poolWidth":10.5,"poolHeight":14,"poolBlur":8,"poolAlpha":0.18,
+  "names":["Marlowe","Dr. Voss","Wren","Iona","Keir"],
+  "counts":[2,3,4,5],
+  "centers":{"2":[35,65],"3":[24,50,76],"4":[16,39,61,84],"5":[12,31,50,69,88]},
+  "families":{
+    "CREF":{"label":"Historical Cone Interaction Reference","width":18,"height":74,"top":16,"base":80,"blur":5,"falloff":[[0,0.02],[48,0.07],[74,0.27],[100,0.055]]},
+    "CNEG":{"label":"Broad Light Wall Negative Control","width":24,"height":74,"top":80,"base":95,"blur":2,"falloff":[[0,0.11],[100,0.11]]},
+    "F1":{"label":"Focused Taper","width":14,"height":82,"top":16,"base":70,"blur":3,"falloff":[[0,0.015],[46,0.07],[78,0.27],[100,0.05]]},
+    "F2":{"label":"Balanced Atmospheric Taper","width":17,"height":80,"top":18,"base":82,"blur":5,"falloff":[[0,0.012],[42,0.06],[76,0.23],[100,0.045]]},
+    "F3":{"label":"Broad Shared Field","width":21,"height":76,"top":24,"base":94,"blur":8,"falloff":[[0,0.01],[36,0.04],[72,0.17],[100,0.035]]},
+    "F4":{"label":"Floor-Anchored Tall Taper","width":16,"height":88,"top":14,"base":76,"blur":6,"falloff":[[0,0.008],[58,0.045],[86,0.24],[100,0.06]]}
+  }
+}
+</script>
+<script>
+const D=JSON.parse(document.querySelector('#cone-s1-definitions').textContent),matrix=document.querySelector('#matrix');
+const controls=new Set(['CREF','CNEG']);
+function alphaStops(a){return a.map(([p,v])=>`rgba(255,255,255,${v}) ${p}%`).join(',')}
+function geometryKey(f){return [f.width,f.height,f.top,f.base,f.blur,JSON.stringify(f.falloff)].join('|')}
+function renderSpecimen(fid,f,count){
+  const s=document.createElement('section');s.className='specimen';s.dataset.family=fid;s.dataset.count=String(count);
+  s.setAttribute('aria-label',`${fid} ${count}-Character neutral Rest specimen`);
+  const title=document.createElement('div');title.className='specimen-title';title.textContent=`${count} Characters Â· REST`;s.append(title);
+  const floor=document.createElement('div');floor.className='floor';s.append(floor);
+  const zone=D.stageHeight-D.floorBottom-D.opticalTop,heightPx=zone*f.height/100;
+  const topLeft=(100-f.top)/2,baseLeft=(100-f.base)/2,key=geometryKey(f);
+  D.centers[String(count)].forEach((x,i)=>{
+    const beam=document.createElement('div');beam.className='beam';beam.dataset.family=fid;beam.dataset.geometry=key;
+    beam.style.left=x+'%';beam.style.width=f.width+'%';beam.style.height=heightPx+'px';beam.style.filter=`blur(${f.blur}px)`;
+    beam.style.clipPath=`polygon(${topLeft}% 0,${100-topLeft}% 0,${100-baseLeft}% 100%,${baseLeft}% 100%)`;
+    beam.style.background=`linear-gradient(180deg,${alphaStops(f.falloff)})`;s.append(beam);
+    const pool=document.createElement('div');pool.className='pool';pool.style.left=x+'%';pool.style.width=D.poolWidth+'%';s.append(pool);
+    const box=document.createElement('div');box.className='namebox';box.style.left=x+'%';
+    box.innerHTML=`<div class="name">${D.names[i]}</div><div class="rest">REST</div>`;s.append(box);
+  });
+  return s;
+}
+for(const [fid,f] of Object.entries(D.families)){
+  const sec=document.createElement('section');sec.className='family';sec.dataset.family=fid;
+  const head=document.createElement('div');head.className='family-head';
+  head.innerHTML=`<b>${fid} â€” ${f.label}</b><span>${controls.has(fid)?'CONTROL Â· INELIGIBLE':'CANDIDATE'}</span>`;sec.append(head);
+  const grid=document.createElement('div');grid.className='specimens';D.counts.forEach(n=>grid.append(renderSpecimen(fid,f,n)));sec.append(grid);matrix.append(sec);
+}
+function expandedRect(el,blur){const r=el.getBoundingClientRect();return {left:r.left-blur,right:r.right+blur,top:r.top-blur,bottom:r.bottom+blur,width:r.width+2*blur}}
+function inspect(){
+  const forced=matchMedia('(forced-colors: active)').matches,clipFailures=[],nameOverlapFailures=[],geometryInvariantFailures=[],overlapByFamily={};
+  for(const [fid,f] of Object.entries(D.families)){
+    const beams=[...document.querySelectorAll(`.beam[data-family="${fid}"]`)];
+    if(new Set(beams.map(x=>x.dataset.geometry)).size!==1)geometryInvariantFailures.push(fid);
+    if(!forced){
+      for(const b of beams){const stage=b.closest('.specimen').getBoundingClientRect(),e=expandedRect(b,f.blur),name=b.parentElement.querySelector('.namebox').getBoundingClientRect();
+        if(e.left<stage.left-1||e.right>stage.right+1||e.top<stage.top-1)clipFailures.push({fid,count:b.closest('.specimen').dataset.count});
+        if(e.bottom>name.top-1)nameOverlapFailures.push({fid,count:b.closest('.specimen').dataset.count});
+      }
+      const five=[...document.querySelector(`.specimen[data-family="${fid}"][data-count="5"]`).querySelectorAll('.beam')].map(x=>expandedRect(x,f.blur)).sort((a,b)=>a.left-b.left);
+      let max=0;for(let i=1;i<five.length;i++){const ov=Math.max(0,Math.min(five[i-1].right,five[i].right)-Math.max(five[i-1].left,five[i].left));max=Math.max(max,ov/Math.min(five[i-1].width,five[i].width));}
+      overlapByFamily[fid]=Number(max.toFixed(4));
+    }
+  }
+  const root=document.documentElement;
+  window.__CONE_S1_DIAGNOSTIC__={schema:'kymaean.cone-s1.browser-diagnostic.v1',forcedColors:forced,families:Object.keys(D.families).length,specimens:document.querySelectorAll('.specimen').length,cones:document.querySelectorAll('.beam').length,names:document.querySelectorAll('.name').length,restLabels:document.querySelectorAll('.rest').length,geometryInvariantFailures,clipFailures,nameOverlapFailures,overlapByFamily,viewport:{innerWidth,scrollWidth:Math.max(root.scrollWidth,document.body.scrollWidth)}};
+}
+requestAnimationFrame(()=>requestAnimationFrame(inspect));
+</script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+{
+  "schema": "kymaean.cone-s1.verifier-family-aggregation-correction.v1",
+  "status": "CORRECTED_WITHOUT_HARNESS_MUTATION",
+  "date": "2026-09-11",
+  "program_id": "CONE-S1",
+  "frozen_harness_sha256": "94ab361ea77aaa4af48c30fd8ea61571413cf9152744a24b4359c15df1a64fce",
+  "initial_verifier_behavior": {
+    "tool": "tools/verify_cone_s1.py",
+    "result": "GLOBAL_STOP_ON_ANY_FAMILY_MECHANICAL_FAILURE",
+    "observed_stop": "normal-320: F3 five-Character blur-expanded envelope clipped the stage bounds",
+    "frozen_family_implication": "F3 mechanically fails the no-clipping floor and may not be retuned"
+  },
+  "method_readback": {
+    "mechanical_floor_unchanged": "no beam or blur-expanded envelope clips stage bounds in normal mode",
+    "candidate_result_law": "families are evaluated for promotion individually; controls are ineligible; zero survivors is valid; maximum provisional survivors is one",
+    "correction_needed": "aggregate family failures without converting one frozen candidate failure into a tooling-level invalidation of mechanically clean candidates"
+  },
+  "correction": {
+    "verifier_only": true,
+    "browser_diagnostics_reused_unchanged": true,
+    "harness_changed": false,
+    "method_family_parameters_changed": false,
+    "source_hash_changed": false,
+    "family_level_failure_preserved": "F3 = FAIL / CLIP",
+    "remaining_mechanical_candidates": ["F1","F2","F4"]
+  },
+  "integrity_judgment": {
+    "criterion_moved_after_result": false,
+    "failed_family_rescued": false,
+    "new_family_added": false,
+    "post_exposure_geometry_retune": false,
+    "material_design_bias_introduced": false
+  },
+  "result": "Verifier aggregation corrected; frozen F3 failure preserved; F1/F2/F4 may proceed to the already-defined subjective falsification pass."
+}

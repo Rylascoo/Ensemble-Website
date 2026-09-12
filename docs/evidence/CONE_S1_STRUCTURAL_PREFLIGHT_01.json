@@ -1,0 +1,112 @@
+{
+  "schema": "kymaean.cone-s1.structural-preflight.v1",
+  "program_id": "CONE-S1",
+  "status": "CLEAN_BROWSER_PREFLIGHT_WITH_FAMILY_FAILURES",
+  "static": {
+    "harness_sha256": "94ab361ea77aaa4af48c30fd8ea61571413cf9152744a24b4359c15df1a64fce",
+    "families": 6,
+    "candidate_families": 4,
+    "character_counts": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "source_status": "PASS"
+  },
+  "browser_version": "152.0.4191.66",
+  "os_pretty": "Microsoft Windows 11 Home 10.0.26200",
+  "browser_checks": [
+    {
+      "mode": "NORMAL_NEUTRAL",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "family_failures": {
+        "CREF": [],
+        "CNEG": [],
+        "F1": [],
+        "F2": [],
+        "F3": [],
+        "F4": []
+      },
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS_FALLBACK",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "family_failures": {
+        "CREF": [],
+        "CNEG": [],
+        "F1": [],
+        "F2": [],
+        "F3": [],
+        "F4": []
+      },
+      "status": "PASS"
+    },
+    {
+      "mode": "NORMAL_NEUTRAL",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "family_failures": {
+        "CREF": [],
+        "CNEG": [],
+        "F1": [],
+        "F2": [],
+        "F3": [
+          "CLIP",
+          "CLIP"
+        ],
+        "F4": []
+      },
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS_FALLBACK",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "family_failures": {
+        "CREF": [],
+        "CNEG": [],
+        "F1": [],
+        "F2": [],
+        "F3": [],
+        "F4": []
+      },
+      "status": "PASS"
+    }
+  ],
+  "mechanical_family_status": {
+    "CREF": {
+      "status": "PASS",
+      "failures": []
+    },
+    "CNEG": {
+      "status": "PASS",
+      "failures": []
+    },
+    "F1": {
+      "status": "PASS",
+      "failures": []
+    },
+    "F2": {
+      "status": "PASS",
+      "failures": []
+    },
+    "F3": {
+      "status": "FAIL",
+      "failures": [
+        "CLIP"
+      ]
+    },
+    "F4": {
+      "status": "PASS",
+      "failures": []
+    }
+  },
+  "candidate_mechanical_failures": [
+    "F3"
+  ],
+  "failures": []
+}
