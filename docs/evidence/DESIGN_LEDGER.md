@@ -1862,3 +1862,19 @@ The recursive audit preserves unresolved semantics instead of letting the persua
 **Next gate:** incumbent background refinement only. Replace the story-specific island/storm scenery with the first context-agnostic Kymaean-provided Stage background. Preserve the frozen cone system and core composition; do not redesign the rail or resolve unrelated ODR questions in the same render round.
 
 **APPROVED — DIRECTOR CONVERGENCE DECISION + CLEAN DESIGN SOL RECURSIVE AUDIT.**
+
+## L-120 - Context-agnostic Stage background successor is promoted as `PKT-STAGE-CORE-02`
+
+**State:** BACKGROUND SUCCESSOR PASS / `PKT-STAGE-CORE-02` CURRENT FROZEN CORE APP BASELINE / PHASE C CONTINUES
+
+The exact Drive master from L-119 was used as the incumbent. Three direct image-edit/render attempts were rejected because they reauthored the shell, Character names/positions, rail/action/performance surfaces and/or introduced literal ruin/city architecture instead of isolating the background variable. Those three failures are preserved in Drive under `12 Core Stage Background Successor 01 — Frozen / Rejected Renderer Scope-Drift Attempts — Evidence` with their exact hashes recorded in `docs/evidence/STAGE_CORE_BACKGROUND_SUCCESSOR_01_AUDIT.json`. The failure is method evidence: direct whole-image generative editing was not reliable enough for this pixel-preserving incumbent-refinement gate.
+
+Design Sol therefore changed execution method without changing the brief. A restrained, context-agnostic causal-field background was constructed deterministically/procedurally and composited onto the exact frozen master; translucent cone light was reconstructed only inside the original cone envelopes so story scenery did not survive through the beams. The accepted visual master is Drive file `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH`, SHA-256 `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`, 1672 x 941, 1,431,659 bytes. Re-download hashing matched the supplied bytes exactly.
+
+The recursive audit passes all twelve frozen successor criteria. The top shell, right rail, central floor/name/pip region and performance/action/footer region are pixel-identical to the predecessor in the audited fixed regions; the five cone envelopes remain bounded to the incumbent geometry; grayscale review preserves cone/floor dominance. The background removes island/coast/ocean/storm imagery and the story-background quote, replacing them with a deep near-black volumetric causal field using restrained pressure/history strata, sparse continuity/current traces and bounded non-literal interlaced influence. It introduces no new control, state meaning, ODR resolution, AI-tech symbolism or implementation claim.
+
+`PKT-STAGE-CORE-01` is retained as frozen predecessor evidence. `docs/evidence/packets/PKT_STAGE_CORE_02.json` is now the current core app visual-baseline packet and the registry points to the new audit/master. Right-rail provenance, Observed Cues, pips, redundant identity symbols, arc semantics, Intervene flow, timer/Pause architecture, persistence wording, provider/cost placement, performance/transcript placement, final palette/type/motion and implementation remain unresolved or provisional; ODR-05/07/14/15/19/30 remain open.
+
+**Next gate after serial closeout:** one bounded post-background Phase-C re-entry audit to select the next single incumbent-refinement variable. Do not open another render or implementation package in the same step; `Observed Cues` remains blocked.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

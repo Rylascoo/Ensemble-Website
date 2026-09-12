@@ -6,11 +6,30 @@ Status: **DIRECTOR-FROZEN CORE APP DESIGN BASELINE / PHASE-C ENTRY AUTHORITY**
 
 Updated: 2026-09-11
 
+## Background successor closure — current authority
+
+The background-successor gate is **CLOSED**. `PKT-STAGE-CORE-02` is now the current frozen core app visual baseline, promoted under the standing Director delegation after a clean Design Sol recursive audit recorded in `docs/evidence/STAGE_CORE_BACKGROUND_SUCCESSOR_01_AUDIT.json`.
+
+Current canonical visual master:
+- Drive folder: `Ensemble Project / Kymaean / 04 Lane A — Product UI Reintegration — Active / 12 Core Stage Background Successor 01 — Frozen`
+- Drive folder ID: `1InxQnCo7s1MTz3hegYoU1H-qhjwXFfXo`
+- Drive file: `Kymaean Core Stage Background Successor 01 — Frozen.png`
+- Drive file ID: `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH`
+- SHA-256: `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`
+- dimensions: `1672 x 941`
+- uploaded byte size: `1,431,659`
+
+The accepted successor replaces the island/coast/ocean/storm scenery and story-background quote with a context-agnostic Kymaean causal field: deep near-black volumetric atmosphere, restrained pressure/history strata, sparse continuity/current structures and bounded non-literal interlaced-field influence. The five Character cone system, central floor/name/pip region, right rail, performance panel, action controls and shell remain materially or exactly preserved as documented by the audit.
+
+Three direct generative-edit attempts were rejected because the renderer reauthored the interface and/or introduced literal architecture instead of isolating the background variable. The accepted successor therefore used deterministic/procedural background materialization and constrained compositing onto the exact frozen master. That is a bounded execution-method finding, not a global prohibition on image generation. Rejected attempts are archived in Drive under `Rejected Renderer Scope-Drift Attempts — Evidence`.
+
+`PKT-STAGE-CORE-01` remains frozen predecessor evidence. Any section below that describes the background successor as the **next** gate is preserved as the predecessor contract and is no longer the live next action. `CURRENT_STATE.md` controls the current boundary.
+
 ## Director decision
 
-The Director freezes the five-character `The Missing Raft` Stage render as the current **core app design baseline**. The native-app visual system will build cumulatively from this image until an explicitly approved successor replaces it.
+The Director’s Phase-B decision froze the five-character `The Missing Raft` Stage render as predecessor `PKT-STAGE-CORE-01`. The background-successor closure above now replaces it as the current visual master with `PKT-STAGE-CORE-02`; this block preserves the predecessor provenance and carrier law.
 
-Canonical visual master:
+Predecessor canonical visual master:
 - Drive folder: `Ensemble Project / Kymaean / 04 Lane A — Product UI Reintegration — Active / 11 Core Stage Baseline 01 — Frozen`
 - Drive file: `Kymaean Core Stage Baseline 01 — Frozen.png`
 - Drive file ID: `1PIlvYvyE17VGxOZ3JCvWYz1LuqkoOENy`
@@ -111,11 +130,11 @@ These elements may remain during the next background-only successor pass, but th
 **Relevance to long-term Stage identity:** failed as a default because it binds the app visually to one Production/Scene.
 **Disposition:** explicitly **not frozen**. It is the first major element the successor must replace.
 
-## Background successor contract — next image-generation gate
+## Background successor contract — CLOSED predecessor gate
 
-The next successor image changes the **background behind the five frozen Character cones** while preserving the frozen Stage carrier and overall baseline composition.
+The closed successor gate required changing the **background behind the five frozen Character cones** while preserving the frozen Stage carrier and overall baseline composition.
 
-The new background is intended to become the first Kymaean-provided default/custom Stage background outside user-uploaded backgrounds. It must represent the product's core identity rather than `The Missing Raft` or any other story.
+The promoted background is the first Kymaean-provided default/custom Stage background outside user-uploaded backgrounds. It represents the product's core identity rather than `The Missing Raft` or any other story while retaining the predecessor contract below as its audit basis.
 
 Required qualities:
 - context-agnostic: no island, shoreline, raft, storm, literal room, named world, plot prop or scene-specific architecture;
@@ -150,7 +169,7 @@ The current timer/Pause pairing does not establish auto-advance product architec
 
 ## Successor replacement rule
 
-The frozen core baseline remains authoritative until a successor:
+`PKT-STAGE-CORE-01` remained authoritative until a successor:
 1. uses this exact image as the incumbent comparison baseline;
 2. preserves every frozen cone/Character relation above;
 3. replaces the story-specific background with a context-agnostic Kymaean background meeting this contract;
@@ -164,14 +183,10 @@ A merely attractive new background does not replace the incumbent if it weakens 
 
 A fresh Design Sol must:
 1. fresh-resolve `Rylascoo/Ensemble-Website` and read `AGENTS.md` then exact `CURRENT_STATE.md`;
-2. read this authority file;
+2. read this authority file and `docs/evidence/STAGE_CORE_BACKGROUND_SUCCESSOR_01_AUDIT.json`;
 3. read `docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md` and `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md`;
-4. read the latest Design Ledger entry and the exact frozen Drive image above;
-5. treat prior chat, prior generated images and external critique only as supporting context after repository/Drive recovery;
-6. perform the next task as **incumbent background refinement**, not clean-slate Stage redesign.
+4. read the latest Design Ledger entry, `PKT-STAGE-CORE-02`, the packet registry and the current Drive visual master above;
+5. treat `PKT-STAGE-CORE-01` and its Missing Raft scenery as frozen predecessor evidence, not the current visual master;
+6. do not restart the closed background-successor gate; obtain the exact next bounded Phase-C action from `CURRENT_STATE.md`.
 
-Exact next creative task:
-
-> Generate/refine the first context-agnostic Kymaean default Stage background behind the frozen five-character cone system. Preserve the frozen baseline composition and cone-to-Character relationship. Judge the result primarily on core-identity expression, cone readability, theatrical depth, context neutrality, human-causal character and restraint. Do not redesign unresolved rail semantics or resolve ODR items in the same render round.
-
-This authority remains in force until a successor baseline is promoted or stronger repository/product authority supersedes it.
+This authority remains in force until stronger repository/product authority supersedes it.

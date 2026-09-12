@@ -1,0 +1,166 @@
+{
+  "schema": "kymaean.design-audit.v1",
+  "audit_id": "STAGE_CORE_BACKGROUND_SUCCESSOR_01",
+  "status": "PASS_PROMOTE",
+  "date": "2026-09-11",
+  "phase": "C_CONTROLLED_VISUAL_CONVERGENCE",
+  "branch": "design/stage-background-successor-01-2026-09-11",
+  "authority": "docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md",
+  "baseline": {
+    "packet_id": "PKT-STAGE-CORE-01",
+    "drive_file_id": "1PIlvYvyE17VGxOZ3JCvWYz1LuqkoOENy",
+    "sha256": "4e86d51b78bc6dc73877741c5190f2a25f59c45305f609bbcb2fc6ac19c25fcc",
+    "dimensions": "1672x941",
+    "uploaded_size_bytes": 1797028
+  },
+  "successor": {
+    "packet_id": "PKT-STAGE-CORE-02",
+    "drive_folder_id": "1InxQnCo7s1MTz3hegYoU1H-qhjwXFfXo",
+    "drive_folder": "Ensemble Project / Kymaean / 04 Lane A — Product UI Reintegration — Active / 12 Core Stage Background Successor 01 — Frozen",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "file_name": "Kymaean Core Stage Background Successor 01 — Frozen.png",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "dimensions": "1672x941",
+    "uploaded_size_bytes": 1431659
+  },
+  "execution": {
+    "intended_variable": "background behind the five frozen Character cones only",
+    "direct_renderer_attempts": [
+      {
+        "attempt": 1,
+        "status": "REJECT_SCOPE_DRIFT",
+        "drive_file_id": "1p2oyeTKCe1wNLW2RwGKOwCQ_hrepNkJp",
+        "sha256": "532c1113a520281acc90ef1cb7d4330683730f17bbf21f865a197667b4c84691",
+        "diagnosis": "Renderer reauthored shell, Character names, cone layout, rail, action hierarchy and performance panel instead of editing the background."
+      },
+      {
+        "attempt": 2,
+        "status": "REJECT_SCOPE_DRIFT",
+        "drive_file_id": "1kPfnEoS55efy_hyc0aG0cSLhIxxjye0D",
+        "sha256": "c0991825d50bb39da47bb2ba768993198b5dcdf0771d6cb54b252925e3039fd4",
+        "diagnosis": "Renderer again reauthored the interface and introduced literal ruin/city architecture, violating context-neutrality and the frozen-carrier contract."
+      },
+      {
+        "attempt": 3,
+        "status": "REJECT_RENDERER_METHOD",
+        "drive_file_id": "1pd4irxZWtQRZIDuzuCpmOhdBlM0Oq0uc",
+        "sha256": "3d0f9e3d559883735d78f9134575fba8802a2ded36834e5b137bfa0edc308b71",
+        "diagnosis": "A requested standalone background plate was ignored; the renderer produced another whole-interface redesign with literal architecture and story semantics."
+      }
+    ],
+    "accepted_method": "After three renderer scope-drift failures, Design Sol switched execution method without changing the brief: construct a restrained context-agnostic causal-field background deterministically/procedurally, composite it onto the exact frozen master, and reconstruct only the translucent cone-light contribution inside the original cone envelopes so story scenery does not survive through the beams.",
+    "process_finding": "For this pixel-preserving incumbent-refinement gate, direct whole-image generative editing was not reliable enough to preserve frozen UI/carrier structure. Deterministic compositing provided the needed variable isolation. This is a tool/method finding, not a global prohibition on image generation."
+  },
+  "deterministic_preservation": {
+    "top_shell": {
+      "exact_unchanged": true,
+      "changed_pixels": 0,
+      "total_pixels": 91960
+    },
+    "right_rail": {
+      "exact_unchanged": true,
+      "changed_pixels": 0,
+      "total_pixels": 387182
+    },
+    "central_floor_names_pips": {
+      "exact_unchanged": true,
+      "changed_pixels": 0,
+      "total_pixels": 136565
+    },
+    "performance_panel_actions_footer": {
+      "exact_unchanged": true,
+      "changed_pixels": 0,
+      "total_pixels": 695552
+    },
+    "cone_envelopes": "Reconstruction is bounded to the original five cone polygons; no cone/card/portrait geometry was introduced.",
+    "reduced_color_check": "A grayscale audit preserves all five cone/floor/name units and leaves the background subordinate. Drive file 1NVp40ZMqrUmDXVRc0TZ2iSHht6rOT_5g, SHA-256 14937c63e6d988ef94429133f5ae4e31bd1047db99fd903b24a86382e581e1e1, 896,718 bytes. This is design evidence only, not native forced-colors/high-contrast validation."
+  },
+  "criteria": [
+    {
+      "id": 1,
+      "name": "preservation of every frozen cone/Character relation",
+      "result": "PASS",
+      "evidence": "Five positions, one-cone-per-Character relation, names, state labels, floor pools and creator actions are preserved; central floor/name/pip region is pixel-identical."
+    },
+    {
+      "id": 2,
+      "name": "five-Character readability",
+      "result": "PASS",
+      "evidence": "All five Characters remain simultaneously legible with explicit names and state annotations."
+    },
+    {
+      "id": 3,
+      "name": "cone/floor dominance",
+      "result": "PASS",
+      "evidence": "Background luminance/detail remains below the five light volumes and floor pools; grayscale audit preserves dominance."
+    },
+    {
+      "id": 4,
+      "name": "context neutrality",
+      "result": "PASS",
+      "evidence": "Island/coast/ocean/storm/raft scenery and the story-background quote are removed from the background. Production/Scene/rail copy remains untouched because it is outside this visual-variable gate."
+    },
+    {
+      "id": 5,
+      "name": "Kymaean identity",
+      "result": "PASS",
+      "evidence": "The background uses a restrained causal-field grammar: deep near-black atmosphere, volumetric pressure folds, accumulated-history strata and bounded continuity/current traces rather than generic scenery."
+    },
+    {
+      "id": 6,
+      "name": "theatrical spatial depth",
+      "result": "PASS",
+      "evidence": "Soft recession, asymmetrical pressure pockets and layered atmospheric current structures provide depth without literal theater architecture."
+    },
+    {
+      "id": 7,
+      "name": "human-causal rather than AI-tech character",
+      "result": "PASS",
+      "evidence": "No circuitry, neural-network diagrams, HUD/data grids, provider/model symbolism or machine iconography are introduced."
+    },
+    {
+      "id": 8,
+      "name": "bounded/non-literal fiber influence",
+      "result": "PASS",
+      "evidence": "Interlaced influence appears only as sparse atmospheric continuity traces and never replaces or costumes the cones."
+    },
+    {
+      "id": 9,
+      "name": "text/control competition",
+      "result": "PASS",
+      "evidence": "Top shell, right rail and performance/action surfaces are unchanged and the new background is quieter than the predecessor scenery."
+    },
+    {
+      "id": 10,
+      "name": "accessibility/redundancy regression",
+      "result": "PASS",
+      "evidence": "Names, state labels, floor hinge and existing redundant cues are unchanged; background carries no required semantic state."
+    },
+    {
+      "id": 11,
+      "name": "accidental ODR resolution",
+      "result": "PASS",
+      "evidence": "No new controls, pips, arc semantics, rail provenance, observation claims, Intervene behavior, Take acceptance, Turn/Beat ontology or scene-limit rule are introduced."
+    },
+    {
+      "id": 12,
+      "name": "material improvement over frozen incumbent",
+      "result": "PASS",
+      "evidence": "The only explicitly failed long-term baseline element—the story-specific scenery—is replaced by a reusable default field while the frozen carrier and information architecture remain intact."
+    }
+  ],
+  "promotion": {
+    "decision": "PROMOTE",
+    "authority": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT",
+    "new_current_packet": "PKT-STAGE-CORE-02",
+    "predecessor_status": "PKT-STAGE-CORE-01 remains frozen predecessor evidence and no longer controls the current visual master.",
+    "production_authority": false
+  },
+  "authority_limits": [
+    "No WinUI/runtime/ARM64/Store/provider claim is created.",
+    "No final palette, typeface, motion token, background production token or implementation authority is created.",
+    "ODR-05, ODR-07, ODR-14, ODR-15, ODR-19 and ODR-30 remain unresolved.",
+    "Observed Cues remains blocked from hardening.",
+    "Right-rail provenance, pips, redundant identity symbols, exact arc semantics, Intervene flow, timer/Pause architecture, persistence wording, provider/cost placement and performance/transcript placement remain provisional or unresolved."
+  ]
+}\n
