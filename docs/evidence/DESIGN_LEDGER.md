@@ -2002,3 +2002,17 @@ Integrated scoring finds a mixed tradeoff. F4 preserves Rest/Listening presence,
 **Next gate after guarded serial promotion/closeout:** one bounded post-STATE-S1 Phase-C re-entry audit to select the next single incumbent-refinement variable. Do not begin another render or implementation package in the same step.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-129 - Post-STATE-S1 Phase-C re-entry selects PERF-S1 Performance attribution coupling
+
+**State:** RE-ENTRY AUDIT PASS / `PERF-S1` SELECTED / METHOD CONSTRUCTION NEXT / NO RENDER AUTHORIZED
+
+`docs/evidence/PHASE_C_POST_STATE_S1_REENTRY_AUDIT_04.json` re-audits unresolved `PKT-STAGE-CORE-02` variables after STATE-S1 closes without Stage promotion. F4 repair/replacement is ineligible under the frozen no-retune law; color remains parked; rail/Observed Cues, pips and arcs remain semantics-blocked; creator actions, timer/persistence and provider/cost placement remain product/runtime dependent.
+
+The next single variable is **PERF-S1 — Stage Performance Attribution Coupling 01**. Stage authority already keeps one dominant Performance region plus secondary recent history and explicitly leaves stronger spatial relationship to the performing Character open. Patch 0015 now supplies bounded source Character, Character-legible visible text and append order while withholding transcript geometry, epistemic promotion and durable-consequence meaning.
+
+PERF-S1 therefore isolates only spatial attribution between the dominant Character-attributed Performance region and its source/performing Character. It must not become a chat bubble, speech tail, permanent transcript rail, notification card, knowledge/observation signal, durable-consequence claim or creator control. Beat terminology, chronology density, Archive causality, current-vs-accepted runtime semantics, motion and implementation remain outside the gate.
+
+**Next gate:** construct and recursively audit the frozen PERF-S1 deterministic method contract plus neutral 2–5 Character attribution-coupling specimen matrix before any full Stage render.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
