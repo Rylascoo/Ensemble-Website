@@ -153,9 +153,9 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Post-CIR-S1 Phase-C re-entry audit: select the next single incumbent-refinement variable without rerolling CIR-S1 or hardening ODR-dependent Stage semantics.",
+    "next_synthesis_trigger": "CONE-S1 method construction: freeze and recursively audit the neutral Rest-state Stage cone optical hierarchy method and deterministic 2?5 Character specimen matrix before any full Stage render.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_STAGE_BACKGROUND_REENTRY_AUDIT_01.json",
+    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_CIR_S1_REENTRY_AUDIT_02.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/CIR_S1_RESULT_01.json"
   },

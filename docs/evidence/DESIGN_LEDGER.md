@@ -1910,3 +1910,17 @@ Zero survivors is an allowed frozen result. No F5, reroll, geometry retune or fu
 **Next gate after guarded serial promotion/closeout:** one bounded post-CIR-S1 Phase-C re-entry audit to select the next single incumbent-refinement variable. `Observed Cues`, pips, arcs and rail semantics remain unresolved and ODR-05/07/14/15/19/30 remain open.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-123 - Post-CIR-S1 Phase-C re-entry selects CONE-S1 static cone optical hierarchy
+
+**State:** RE-ENTRY AUDIT PASS / `CONE-S1` SELECTED / METHOD CONSTRUCTION NEXT / NO RENDER AUTHORIZED
+
+`docs/evidence/PHASE_C_POST_CIR_S1_REENTRY_AUDIT_02.json` re-audits the unresolved `PKT-STAGE-CORE-02` variables after CIR-S1 closes zero-survivor. CIR-S1 repair/replacement is ineligible under its frozen no-reroll law; color remains parked; rail/Observed Cues, pips and arcs remain semantics-blocked; creator-action, timer/persistence and provider/cost work remains product/runtime dependent; performance/transcript coupling is valid later but still touches unresolved history terminology; final Stage motion remains unfrozen.
+
+The next single variable is **CONE-S1 — Stage Cone Optical Hierarchy 01**. Carrier authority explicitly leaves exact beam width, falloff, blur, vertical scale, overlap and precise ray treatment open. Those dimensions are visually central, ODR-independent and deterministically testable while preserving the selected cone carrier. The first gate is deliberately static and neutral Rest-state only: no Opportunity/Speaking/Listening modulation, color family, motion timing or redundant identity cue is allowed to enter the comparison.
+
+CONE-S1 must preserve cone-as-presence rather than container/button, one cone per Character, shared dark-floor landing, 2–5 Character social-field composition, human-readable names/floor hinge, frozen state separation, the `PKT-STAGE-CORE-02` background and creator actions outside cones.
+
+**Next gate:** construct and recursively audit the CONE-S1 frozen deterministic method contract plus neutral Rest-state 2–5 Character optical specimen matrix. Freeze materially distinct width/falloff/blur/vertical-scale/overlap families, name/floor clearance, anti-container/anti-portal falsifiers, narrow/overlap survival and no-reroll/promotion rules before any full Stage render.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
