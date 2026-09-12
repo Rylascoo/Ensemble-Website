@@ -1956,3 +1956,17 @@ Integrated scoring nevertheless fails the preregistered promotion floor. F2 impr
 **Next gate after guarded serial promotion/closeout:** one bounded post-CONE-S1 Phase-C re-entry audit to select the next single incumbent-refinement variable. Do not begin another render or implementation package in the same step.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-126 - Post-CONE-S1 Phase-C re-entry selects STATE-S1 static state salience
+
+**State:** RE-ENTRY AUDIT PASS / `STATE-S1` SELECTED / METHOD CONSTRUCTION NEXT / NO RENDER AUTHORIZED
+
+`docs/evidence/PHASE_C_POST_CONE_S1_REENTRY_AUDIT_03.json` re-audits the unresolved `PKT-STAGE-CORE-02` variables after CONE-S1 closes with no promoted optical successor. F2 repair/replacement is ineligible under the frozen full-Stage comparison law; color remains parked; rail/Observed Cues, pips and arcs remain semantics-blocked; creator-action, timer/persistence and provider/cost work remains product/runtime dependent; performance/history geometry remains eligible later but carries broader terminology/density coupling.
+
+The next single variable is **STATE-S1 — Stage Static State Salience 01**. Stage interaction law already separates Rest, Listening, Current Opportunity and Speaking, while exact static cone salience remains open. STATE-S1 therefore holds the incumbent cone geometry fixed and tests only neutral static luminance/contrast separation. Selection/focus remains outside the cone and Take a Seat remains a separate floor/name creator-action treatment.
+
+STATE-S1 must keep every Character visibly present, preserve opportunity as possibility rather than obligation, avoid reducing Listening to inactivity, and let Speaking intensify the same carrier without dominating the entire Stage. Motion timing, palette/color identity, cone geometry, floor-pool redesign, redundant identity cues, rail/pips/arcs, performance/history redesign and implementation remain outside this gate.
+
+**Next gate:** construct and recursively audit the frozen STATE-S1 deterministic method contract plus neutral static state-salience specimen matrix before any full Stage render.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

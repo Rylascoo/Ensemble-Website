@@ -146,7 +146,8 @@
     "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists",
     "Phase-B convergence is resolved and PKT-STAGE-CORE-02 is the current frozen Stage visual baseline with the first context-agnostic causal-field background; final shared identity, palette, typeface, motion tokens, rail provenance, exact background production tokens and implementation authority remain unresolved.",
     "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method",
-    "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate"
+    "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
+    "STATE-S1 Stage Static State Salience 01 is the selected next Phase-C incumbent-refinement gate; exact incumbent cone geometry remains fixed while neutral static Rest/Listening/Current Opportunity/Speaking salience is unresolved pending its frozen method/matrix."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -154,9 +155,9 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "One bounded post-CONE-S1 Phase-C re-entry audit to select the next single incumbent-refinement variable; no new render or implementation package in the same step.",
+    "next_synthesis_trigger": "Construct and recursively audit the frozen STATE-S1 deterministic method contract plus neutral static state-salience specimen matrix; no full Stage render or implementation in the same gate.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_CIR_S1_REENTRY_AUDIT_02.json",
+    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_CONE_S1_REENTRY_AUDIT_03.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/CONE_S1_F2_INCUMBENT_STAGE_COMPARISON_RESULT_01.json"
   },
