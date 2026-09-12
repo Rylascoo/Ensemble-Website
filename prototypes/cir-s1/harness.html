@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CIR-S1 Stage Redundant Identity Cue Matrix</title>
+<style>
+:root{color-scheme:dark;background:#0b0c0f;color:#f2f3f5;font-family:system-ui,"Segoe UI",sans-serif}
+*{box-sizing:border-box} body{margin:0;padding:24px;background:#0b0c0f;color:#f2f3f5}
+h1{font-size:24px;margin:0 0 8px}.lede{max-width:82ch;color:#b8bcc4;margin:0 0 24px}
+.family{border-top:1px solid #3a3d44;padding:20px 0 28px}.family h2{font-size:18px;margin:0 0 6px}
+.meta{font-size:12px;color:#a8adb7;margin:0 0 16px}.block{margin:14px 0}.block h3{font-size:13px;margin:0 0 8px;color:#d5d8de}
+.row{display:flex;gap:10px;align-items:stretch;flex-wrap:wrap}.row.nowrap{flex-wrap:nowrap}
+.specimen{min-width:92px;flex:1 1 92px;display:grid;place-items:center;gap:7px;padding:10px;border:1px solid #30343a;border-radius:8px;background:#111318;position:relative}
+.cue{width:32px;height:32px;color:#f2f3f5;display:block}.cue svg{width:100%;height:100%;display:block;overflow:visible}
+.name{font-size:12px;line-height:1.2;text-align:center}.state{font-size:10px;color:#aeb3bd;text-transform:uppercase;letter-spacing:.06em}
+.name-reduced .name{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.size-strip{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}.size-cell{border:1px solid #30343a;border-radius:8px;padding:8px;text-align:center}
+.size-cell .swatch{display:flex;gap:8px;justify-content:center;align-items:end;min-height:48px}.size-label{font-size:10px;color:#aeb3bd;margin-top:6px}
+.state-grid{display:grid;grid-template-columns:repeat(5,minmax(96px,1fr));gap:8px}.state-card{padding:8px;border:1px solid #30343a;border-radius:8px;text-align:center;position:relative}
+.state-card.selected{outline:2px solid currentColor;outline-offset:2px}.state-card.speaking{border-style:double}.state-card.listening{border-style:dashed}
+.narrow-frame{width:320px;max-width:100%;padding:8px;border:1px dashed #5a5f69}.narrow-frame .row{gap:6px}.narrow-frame .specimen{min-width:48px;padding:6px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.light-field{background:#f4f5f7;color:#111318;padding:10px;border-radius:8px}.light-field .specimen,.light-field .state-card,.light-field .size-cell{background:#fff;border-color:#c7cad0}.light-field .cue{color:#111318}.light-field .meta,.light-field .state,.light-field .size-label{color:#4d525c}
+@media(max-width:640px){body{padding:12px}.state-grid{grid-template-columns:1fr 1fr}.size-strip{grid-template-columns:1fr}.row.nowrap{flex-wrap:wrap}}
+@media(forced-colors:active){
+  :root,body{background:Canvas;color:CanvasText}.specimen,.state-card,.size-cell,.light-field{background:Canvas;color:CanvasText;border-color:CanvasText}
+  .cue,.light-field .cue{color:CanvasText}.selected{outline-color:Highlight!important}.meta,.state,.size-label,.lede{color:CanvasText}
+}
+</style>
+</head>
+<body>
+<h1>CIR-S1 — Stage Redundant Identity Cue Vocabulary 01</h1>
+<p class="lede">Neutral deterministic comparison surface. Character names remain primary. Cues are non-interactive, currentColor-only redundant identity support and must remain unchanged across state conditions.</p>
+<div id="matrix"></div>
+<pre id="cir-s1-diagnostic" hidden></pre>
+<script type="application/json" id="cir-s1-definitions">
+{
+  "characters":[
+    {"id":"marlowe","name":"Marlowe"},{"id":"voss","name":"Dr. Voss"},{"id":"wren","name":"Wren"},{"id":"iona","name":"Iona"},{"id":"keir","name":"Keir"}
+  ],
+  "families":{
+    "cneg":{"name":"CNEG — Identical Ring","eligible":false,"glyphs":{
+      "marlowe":"<circle cx='16' cy='16' r='9'/>","voss":"<circle cx='16' cy='16' r='9'/>","wren":"<circle cx='16' cy='16' r='9'/>","iona":"<circle cx='16' cy='16' r='9'/>","keir":"<circle cx='16' cy='16' r='9'/>"}},
+    "cinc":{"name":"CINC — Primitive Outline","eligible":false,"glyphs":{
+      "marlowe":"<circle cx='16' cy='16' r='9'/>",
+      "voss":"<rect x='8' y='8' width='16' height='16' rx='1'/>",
+      "wren":"<path d='M16 7 L25 24 H7 Z'/>",
+      "iona":"<path d='M16 6 L26 16 L16 26 L6 16 Z'/>",
+      "keir":"<path d='M16 6 L25 13 L22 24 L10 24 L7 13 Z'/>"}},
+    "f1":{"name":"F1 — Faceted Contour","eligible":true,"glyphs":{
+      "marlowe":"<path d='M8 11 L17 6 L25 12 L23 23 L14 26 L7 20 Z'/>",
+      "voss":"<path d='M7 15 L12 7 L23 8 L26 18 L19 26 L9 23 Z'/>",
+      "wren":"<path d='M9 8 L20 6 L26 14 L21 25 L10 24 L6 15 Z'/>",
+      "iona":"<path d='M6 12 L14 6 L25 10 L26 20 L17 26 L8 22 Z'/>",
+      "keir":"<path d='M10 6 L22 8 L26 17 L20 26 L8 23 L6 13 Z'/>"}},
+    "f2":{"name":"F2 — Broken Perimeter","eligible":true,"glyphs":{
+      "marlowe":"<path d='M8 19 C5 12 10 6 17 6'/><path d='M21 7 C27 11 28 19 23 24 C18 28 11 26 8 22'/>",
+      "voss":"<path d='M9 9 C14 5 22 7 25 13'/><path d='M26 18 C24 25 16 28 10 24 C5 20 5 13 8 10'/>",
+      "wren":"<path d='M7 13 C10 7 17 5 23 8 C27 10 28 14 27 18'/><path d='M24 23 C18 28 10 26 7 20'/>",
+      "iona":"<path d='M12 7 C18 4 25 8 27 14 C29 21 23 27 16 27'/><path d='M11 25 C5 22 4 14 8 9'/>",
+      "keir":"<path d='M7 17 C6 10 12 5 19 6 C25 7 28 13 26 19'/><path d='M23 24 C17 28 9 25 7 20'/>"}},
+    "f3":{"name":"F3 — Offset Pair","eligible":true,"glyphs":{
+      "marlowe":"<path d='M8 11 L18 8'/><path d='M15 22 L25 18'/>",
+      "voss":"<path d='M9 8 L13 19'/><path d='M20 13 L25 24'/>",
+      "wren":"<path d='M7 18 L17 23'/><path d='M19 8 L25 15'/>",
+      "iona":"<path d='M8 9 L17 16'/><path d='M18 22 L25 12'/>",
+      "keir":"<path d='M9 24 L14 11'/><path d='M19 8 L25 20'/>"}},
+    "f4":{"name":"F4 — Aperture Field","eligible":true,"glyphs":{
+      "marlowe":"<path fill-rule='evenodd' d='M6 6 H26 V26 H6 Z M11 11 H18 V18 H11 Z'/>",
+      "voss":"<path fill-rule='evenodd' d='M6 6 H26 V26 H6 Z M16 10 L22 16 L16 22 L10 16 Z'/>",
+      "wren":"<path fill-rule='evenodd' d='M6 6 H26 V26 H6 Z M10 11 H22 L17 21 H12 Z'/>",
+      "iona":"<path fill-rule='evenodd' d='M6 6 H26 V26 H6 Z M11 10 H20 L22 16 L17 22 H10 L9 15 Z'/>",
+      "keir":"<path fill-rule='evenodd' d='M6 6 H26 V26 H6 Z M10 13 C13 9 19 9 22 13 C20 19 15 22 10 19 Z'/>"}}
+  }
+}
+</script>
+<script>
+const defs=JSON.parse(document.getElementById('cir-s1-definitions').textContent);
+const states=['rest','listening','selected','current_opportunity','speaking'];
+const subsets={FIVE_WIDE:defs.characters,THREE_SUBSET:defs.characters.slice(0,3),TWO_SUBSET:[defs.characters[1],defs.characters[4]],NARROW_320:defs.characters};
+function svg(family,char,size=32){
+  const frag=defs.families[family].glyphs[char.id];
+  const filled=family==='f4';
+  return `<span class="cue" data-family="${family}" data-character="${char.id}" data-geometry="${encodeURIComponent(frag)}" style="width:${size}px;height:${size}px" aria-hidden="true"><svg viewBox="0 0 32 32" fill="${filled?'currentColor':'none'}" stroke="${filled?'none':'currentColor'}" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">${frag}</svg></span>`;
+}
+function specimen(family,char,{nameReduced=false,state='rest',size=32}={}){
+  const stateClass=state==='current_opportunity'?'opportunity':state;
+  return `<div class="specimen ${nameReduced?'name-reduced':''} ${stateClass}" role="group" aria-label="${char.name}" data-state="${state}">${svg(family,char,size)}<span class="name">${char.name}</span><span class="state">${state.replace('_',' ')}</span></div>`;
+}
+function layoutBlock(family,label,key){
+  const chars=subsets[key]; const narrow=key==='NARROW_320';
+  return `<div class="block"><h3>${label}</h3><div class="${narrow?'narrow-frame':''}"><div class="row ${key==='FIVE_WIDE'?'nowrap':''}" data-layout="${key}">${chars.map(c=>specimen(family,c)).join('')}</div></div></div>`;
+}
+function sizeBlock(family){
+  const sizes=[12,16,20,24,32];
+  return `<div class="block"><h3>Size strip — all identities</h3><div class="size-strip">${sizes.map(sz=>`<div class="size-cell" data-size="${sz}"><div class="swatch">${defs.characters.map(c=>svg(family,c,sz)).join('')}</div><div class="size-label">${sz}px</div></div>`).join('')}</div></div>`;
+}
+function reducedBlock(family){
+  return `<div class="block"><h3>Name visually reduced / accessible identity retained</h3><div class="row name-reduced" data-identity-condition="NAME_VISUALLY_REDUCED_ACCESSIBLE_RETAINED">${defs.characters.map(c=>specimen(family,c,{nameReduced:true})).join('')}</div></div>`;
+}
+function stateBlock(family,char){
+  return `<div class="block"><h3>Immutable cue under state collision — ${char.name}</h3><div class="state-grid" data-state-collision="${char.id}">${states.map(s=>`<div class="state-card ${s==='current_opportunity'?'opportunity':s}" data-state="${s}">${svg(family,char,24)}<div class="state">${s.replace('_',' ')}</div></div>`).join('')}</div></div>`;
+}
+function familySection(id,f){
+  return `<section class="family" data-family="${id}" data-eligible="${f.eligible}"><h2>${f.name}</h2><p class="meta">${f.eligible?'candidate':'control — ineligible for promotion'}</p>${layoutBlock(id,'Five Character wide','FIVE_WIDE')}${layoutBlock(id,'Three Character subset','THREE_SUBSET')}${layoutBlock(id,'Two Character subset','TWO_SUBSET')}${layoutBlock(id,'320px narrow transfer','NARROW_320')}${reducedBlock(id)}${sizeBlock(id)}<div class="light-field"><h3>Light-field monochrome transfer</h3><div class="row">${defs.characters.map(c=>specimen(id,c,{size:24})).join('')}</div></div>${defs.characters.map(c=>stateBlock(id,c)).join('')}</section>`;
+}
+document.getElementById('matrix').innerHTML=Object.entries(defs.families).map(([id,f])=>familySection(id,f)).join('');
+function geometryInvariant(){
+  const failures=[];
+  for(const [fid,f] of Object.entries(defs.families)){
+    for(const ch of defs.characters){
+      const expected=encodeURIComponent(f.glyphs[ch.id]);
+      const nodes=[...document.querySelectorAll(`.cue[data-family="${fid}"][data-character="${ch.id}"]`)];
+      if(!nodes.length) failures.push(`${fid}/${ch.id}:missing`);
+      for(const n of nodes) if(n.dataset.geometry!==expected) failures.push(`${fid}/${ch.id}:mutated`);
+    }
+  }
+  return failures;
+}
+function familyDistinctness(){
+  const out={};
+  for(const [fid,f] of Object.entries(defs.families)){
+    const vals=defs.characters.map(c=>f.glyphs[c.id]);
+    out[fid]={unique:new Set(vals).size,total:vals.length};
+  }
+  return out;
+}
+function diagnostics(){
+  const families=document.querySelectorAll('.family').length;
+  const cues=document.querySelectorAll('.cue').length;
+  const stateCards=document.querySelectorAll('.state-card').length;
+  const reduced=document.querySelectorAll('[data-identity-condition="NAME_VISUALLY_REDUCED_ACCESSIBLE_RETAINED"] .specimen').length;
+  const narrow=[...document.querySelectorAll('[data-layout="NARROW_320"]')].map(el=>({family:el.closest('.family').dataset.family,scrollWidth:el.parentElement.scrollWidth,clientWidth:el.parentElement.clientWidth}));
+  return {schema:'kymaean.cir-s1.browser-diagnostic.v1',families,cues,stateCards,reduced,familyDistinctness:familyDistinctness(),geometryInvariantFailures:geometryInvariant(),forcedColors:matchMedia('(forced-colors: active)').matches,viewport:{innerWidth:innerWidth,scrollWidth:document.documentElement.scrollWidth},narrow};
+}
+const diag=diagnostics();
+document.getElementById('cir-s1-diagnostic').textContent=JSON.stringify(diag);
+window.__CIR_S1_DIAGNOSTIC__=diag;
+</script>
+</body>
+</html>

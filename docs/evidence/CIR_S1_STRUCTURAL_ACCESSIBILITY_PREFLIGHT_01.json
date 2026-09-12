@@ -1,0 +1,45 @@
+{
+  "schema": "kymaean.cir-s1.structural-accessibility-preflight.v1",
+  "program_id": "CIR-S1",
+  "status": "CLEAN_BROWSER_PREFLIGHT_NO_SUBJECTIVE_RESULT",
+  "static": {
+    "harness_sha256": "ad423e7a2ed1d8d4f87f45fdaab5788b1e63499bab33f73c40ff51277ad66180",
+    "families": 6,
+    "candidate_families": 4,
+    "characters": 5,
+    "source_status": "PASS"
+  },
+  "browser_version": "152.0.4191.66",
+  "os_pretty": "Microsoft Windows 11 Home 10.0.26200",
+  "browser_checks": [
+    {
+      "mode": "NORMAL",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "cue_count": 450,
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "cue_count": 450,
+      "status": "PASS"
+    },
+    {
+      "mode": "NORMAL",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "cue_count": 450,
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "cue_count": 450,
+      "status": "PASS"
+    }
+  ],
+  "failures": []
+}

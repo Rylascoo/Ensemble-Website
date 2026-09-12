@@ -1,0 +1,136 @@
+{
+  "schema": "kymaean.cir-s1.stage-redundant-identity-cue-method.v1",
+  "status": "FROZEN_PRE_EVALUATION",
+  "date": "2026-09-11",
+  "program_id": "CIR-S1",
+  "name": "Stage Redundant Identity Cue Vocabulary 01",
+  "parent_reentry_audit": "docs/evidence/PHASE_C_POST_STAGE_BACKGROUND_REENTRY_AUDIT_01.json",
+  "baseline_main": "50986d7b2a38fecfbf0a9a8680fb5c49c1400d9c",
+  "incumbent_packet": "PKT-STAGE-CORE-02",
+  "bounded_question": "What minimal non-color shape or motif vocabulary can give 2–5 present Characters a stable redundant visual identity cue at the Stage floor/name hinge without encoding mutable state, psychology, role, Perspective, Opportunity or creator authority?",
+  "authority_limits": [
+    "Human-readable Character names remain the primary explicit identity channel.",
+    "The cue is redundant visual identity support, not a replacement for stable programmatic identity or accessible naming.",
+    "CIR-S1 does not select a final icon family, app symbol, palette, typeface, motion system, Character psychology vocabulary or implementation token.",
+    "STA-01 focus/selection treatment remains separate; C0 Threshold K remains the provisional primary app-symbol incumbent and is not a Character cue source.",
+    "Three pips and inter-Character arcs remain outside scope and acquire no meaning here.",
+    "No result resolves ODR-05, ODR-07, ODR-14, ODR-15, ODR-19 or ODR-30."
+  ],
+  "reentry_law": {
+    "prior_closure": "CIR-T1R1 closed the earlier identity-mechanics visual laboratory and handed forward laws rather than a selected surface.",
+    "new_basis": "Phase C plus PKT-STAGE-CORE-02 creates a later frozen incumbent whose Stage law explicitly requires a non-color redundant identity cue while leaving the exact visual vocabulary unresolved.",
+    "classification": "NEW_BOUNDED_CONVERGENCE_GATE_NOT_CIR_T1R1_RERUN"
+  },
+  "controlled_characters": ["Marlowe", "Dr. Voss", "Wren", "Iona", "Keir"],
+  "families": {
+    "CNEG": {
+      "name": "Identical Ring Negative Control",
+      "role": "ineligible negative calibration",
+      "grammar": "same simple ring for every Character",
+      "expected_failure": "cannot distinguish Characters after visible names recede"
+    },
+    "CINC": {
+      "name": "Incumbent Primitive Outline Control",
+      "role": "ineligible structural control",
+      "grammar": "simple familiar primitive outlines transcribing the incumbent placeholder class without claiming exact pixel identity",
+      "expected_risk": "generic shape-set / badge vocabulary"
+    },
+    "F1": {
+      "name": "Faceted Contour",
+      "role": "candidate",
+      "grammar": "one compact closed asymmetric contour per Character; identity difference lives only in perimeter topology",
+      "forbidden_drift": "shield, gem, map pin, letterform, rank badge"
+    },
+    "F2": {
+      "name": "Broken Perimeter",
+      "role": "candidate",
+      "grammar": "one compact open contour composed of two unequal perimeter segments with Character-specific gap relation",
+      "forbidden_drift": "progress ring, clock, loading state, gauge, activity status"
+    },
+    "F3": {
+      "name": "Offset Pair",
+      "role": "candidate",
+      "grammar": "two unequal non-touching strokes or masses in a Character-specific asymmetrical relation",
+      "forbidden_drift": "pause, equals, link, people, quotation marks, transport/control glyph"
+    },
+    "F4": {
+      "name": "Aperture Field",
+      "role": "stress candidate",
+      "grammar": "shared compact outer field with a Character-specific non-semantic interior aperture",
+      "forbidden_drift": "camera, eye, keyhole, letter counterform, badge or software-category icon"
+    }
+  },
+  "family_separation_law": [
+    "F1 identity varies by outer silhouette only; F2 by open-perimeter gap relation; F3 by two-part relation; F4 by interior negative space.",
+    "No candidate may be a one-parameter mutation of another family.",
+    "No candidate may use current Character color, portrait, initials, names, occupation, biography, role, emotion, faction, rank, relationship strength or Stage state to construct its geometry.",
+    "Current incumbent floor symbols are evidence/control only and receive no automatic candidate status."
+  ],
+  "neutralization": [
+    "cue visible paint is currentColor only",
+    "no gradients, glow, shadow, texture, animation or material identity",
+    "no letters, initials, numbers, portraits, faces or semantic pictograms",
+    "no Threshold K or wordmark geometry",
+    "cue geometry is identical across Rest, Listening, Selected, Current Opportunity and Speaking test states",
+    "state treatment is external to the cue and may not modify cue paths"
+  ],
+  "matrix": {
+    "layout_conditions": ["FIVE_WIDE", "THREE_SUBSET", "TWO_SUBSET", "NARROW_320"],
+    "identity_conditions": ["NAME_PRESENT", "NAME_VISUALLY_REDUCED_ACCESSIBLE_RETAINED"],
+    "state_conditions": ["REST", "LISTENING", "SELECTED", "CURRENT_OPPORTUNITY", "SPEAKING"],
+    "sizes_css_px": [12, 16, 20, 24, 32],
+    "modes": ["DARK_STAGE_MONOCHROME", "LIGHT_FIELD_MONOCHROME", "FORCED_COLORS_COMPATIBLE"],
+    "rule": "Within one family, each Character owns one immutable cue geometry reused across every layout, size, mode and state."
+  },
+  "mechanical_floors": [
+    "all cue SVGs are self-contained, deterministic and external-resource-free",
+    "visible cue paint uses currentColor only",
+    "five distinct cue definitions exist per promotable family",
+    "CNEG is intentionally identical and ineligible",
+    "every Character cue is reused unchanged in every state-collision cell",
+    "visual names may be reduced only in a labeled stress condition while an accessible Character name remains present",
+    "no cue contains text, aria-label duplication or interactive semantics",
+    "no horizontal overflow at 320 CSS px",
+    "12/16/20/24/32 px size strip preserves recognizable family topology without clipping",
+    "forced-colors compatibility cannot depend on authored color",
+    "pairwise differentiation within a family must survive monochrome and loss of Stage position"
+  ],
+  "subjective_falsification_after_clean_preflight": [
+    "FAIL a family if two Character cues are readily confusable at 16–20 px when names are visually reduced.",
+    "FAIL if the cue reads primarily as mutable status, progress, selection, Opportunity, speaking, emotion, role, profession, faction or rank.",
+    "FAIL if the cue becomes a familiar software/category pictogram rather than neutral identity support.",
+    "FAIL if the cue visually overpowers the Character name or floor pool.",
+    "FAIL if a family requires color, motion, exact Stage position or surrounding cone geometry to distinguish its members.",
+    "FAIL if Selected/Opportunity/Speaking overlays make the identity cue appear to change identity.",
+    "FAIL if narrow/reduced conditions require a different cue geometry.",
+    "PASS means only that a cue family survives as a bounded Phase-C identity mechanism for Stage composition testing."
+  ],
+  "result_law": {
+    "no_post_result_retune": true,
+    "replacement_family_allowed": false,
+    "zero_survivors_valid": true,
+    "maximum_provisional_survivors": 1,
+    "control_families_ineligible": ["CNEG", "CINC"],
+    "promotion_scope": "provisional Stage redundant-identity cue mechanism only; no production token or final shared icon family"
+  },
+  "review_order": [
+    "1. source/matrix/mechanical isolation preflight",
+    "2. 12/16/20 px pairwise differentiation and semantic-drift audit",
+    "3. 24/32 px authorship and genericity audit",
+    "4. 2/3/5-Character and 320px layout transfer",
+    "5. name-visually-reduced recovery with accessible names retained",
+    "6. state-collision audit with immutable cue geometry",
+    "7. freeze Design Sol view before any Director taste input if more than one lawful survivor remains"
+  ],
+  "source_freeze": {
+    "harness_path": "prototypes/cir-s1/harness.html",
+    "harness_sha256": "ad423e7a2ed1d8d4f87f45fdaab5788b1e63499bab33f73c40ff51277ad66180",
+    "verifier_path": "tools/verify_cir_s1.py",
+    "post_evaluation_family_retune_allowed": false
+  },
+  "explicit_non_authority": [
+    "No full Stage successor render is authorized by this method freeze alone.",
+    "No final iconography system, palette, typeface, motion token, WinUI behavior, accessibility validation, Store asset or implementation is claimed.",
+    "Browser/static evidence cannot be relabeled as native Windows screen-reader, high-contrast, WACK or runtime validation."
+  ]
+}

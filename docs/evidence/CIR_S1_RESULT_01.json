@@ -1,0 +1,106 @@
+{
+  "schema": "kymaean.cir-s1.result.v1",
+  "status": "COMPLETE_ZERO_SURVIVORS",
+  "date": "2026-09-11",
+  "program_id": "CIR-S1",
+  "name": "Stage Redundant Identity Cue Vocabulary 01",
+  "baseline_main": "50986d7b2a38fecfbf0a9a8680fb5c49c1400d9c",
+  "method": "docs/evidence/CIR_S1_STAGE_REDUNDANT_IDENTITY_CUE_METHOD_AND_MATRIX_01.json",
+  "method_sha256": "66e390cdbb871c843ed61a68a0cba61e16b57505af6c62d54f680c0dd8277418",
+  "harness": {
+    "path": "prototypes/cir-s1/harness.html",
+    "sha256": "ad423e7a2ed1d8d4f87f45fdaab5788b1e63499bab33f73c40ff51277ad66180",
+    "bytes": 11529,
+    "post_freeze_geometry_changes": 0
+  },
+  "preflight": {
+    "path": "docs/evidence/CIR_S1_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "sha256": "d1fe9f7fafae034c401adc4861ea440b20273279feaaed5547edb50707bcc9f6",
+    "status": "CLEAN_BROWSER_PREFLIGHT_NO_SUBJECTIVE_RESULT",
+    "browser": "Microsoft Edge 152.0.4191.66",
+    "host": "Microsoft Windows 11 Home 10.0.26200",
+    "modes": ["1200_NORMAL", "1200_FORCED_COLORS", "320_NORMAL", "320_FORCED_COLORS"],
+    "mechanical_result": "PASS"
+  },
+  "browser_evidence": {
+    "normal_wide_sha256": "7783ea3801ff5ad10f1e024fce41cbb49f8bdb1c12c76bae741bf173cadda09f",
+    "forced_wide_sha256": "420807e90ca3a0476051000012dc73fa953d722825628427364f862de7be5cb8",
+    "normal_320_sha256": "ef78f4e03b4d2474d34b136c3156f4d214fc274b8d34bf7a45771fa85d752e91",
+    "forced_320_sha256": "cc648014a177264900d82444969784ac2d3eb48e2bbaf5489efbe19e6a61a5fd"
+  },  "controls": {
+    "CNEG": {
+      "name": "Identical Ring Negative Control",
+      "result": "EXPECTED_FAIL_INELIGIBLE",
+      "finding": "Identical geometry cannot preserve redundant Character differentiation when visible names recede."
+    },
+    "CINC": {
+      "name": "Incumbent Primitive Outline Control",
+      "result": "CONTROL_ONLY_INELIGIBLE",
+      "finding": "The primitive outline set remains legible but reads as a generic badge/shape vocabulary and is not a promotable candidate."
+    }
+  },
+  "candidate_results": {
+    "F1": {
+      "name": "Faceted Contour",
+      "result": "FAIL",
+      "primary_falsifier": "forbidden semantic/generic drift",
+      "finding": "The compact closed contours remain mechanically distinct, but their strongest reading is generic faceted gem/badge geometry. At small size several differences reduce to minor perimeter inflections, so the family does not establish a neutral authored identity vocabulary strongly enough to justify promotion."
+    },
+    "F2": {
+      "name": "Broken Perimeter",
+      "result": "FAIL",
+      "primary_falsifier": "mutable-status reading",
+      "finding": "Gap position survives monochrome and layout transfer, but the open-ring language reads primarily as progress/loading/gauge or activity state. That is exactly the predeclared forbidden drift for a cue required to remain immutable across Rest, Listening, Selected, Opportunity and Speaking."
+    },
+    "F3": {
+      "name": "Offset Pair",
+      "result": "FAIL",
+      "primary_falsifier": "punctuation/control-glyph reading",
+      "finding": "The two-part relations remain visible at small sizes, but several members read as equals, pause-like, quotation-like or directional punctuation/control marks. The family therefore imports familiar sign semantics instead of remaining neutral identity support."
+    },    "F4": {
+      "name": "Aperture Field",
+      "result": "FAIL",
+      "primary_falsifier": "software/badge iconography",
+      "finding": "The aperture differences survive scale and forced colors, but the shared square field reads as an app/button/badge carrier and several apertures resemble familiar category-icon counters. The cue becomes software iconography rather than subordinate Character identity support."
+    }
+  },
+  "cross_condition_findings": [
+    "All four candidate families passed deterministic rendering, monochrome transfer, 320px transfer, forced-colors compatibility and immutable-geometry state-collision checks.",
+    "Mechanical survival does not rescue semantic drift: identity geometry must remain subordinate to names and must not imply mutable Stage state or familiar software meaning.",
+    "No candidate earned promotion solely because it remained differentiable when names were visually reduced.",
+    "No candidate failure depends on color preference, final typography, pips, arcs, rail semantics, ODR resolution or full-Stage composition."
+  ],
+  "survivors": [],
+  "survivor_count": 0,
+  "result_law_application": {
+    "zero_survivors_valid": true,
+    "post_result_retune_permitted": false,
+    "replacement_family_permitted": false,
+    "full_stage_render_authorized": false,
+    "provisional_identity_cue_selected": false
+  },
+  "incumbent_effect": {
+    "packet": "PKT-STAGE-CORE-02",
+    "status": "UNCHANGED",
+    "exact_redundant_identity_cue": "UNRESOLVED",
+    "law_preserved": "Human-readable/programmatic Character identity remains primary; any later redundant visual cue must stay non-color, non-state, accessible and subordinate."
+  },  "next_gate": {
+    "type": "POST_CIR_S1_PHASE_C_REENTRY_AUDIT",
+    "action": "After guarded promotion and serial closeout, run one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable.",
+    "prohibitions": [
+      "No CIR-S1 reroll, F5 replacement family, geometry retune or full-Stage cue render under this closed method.",
+      "Do not harden Observed Cues or resolve pips/arcs/right-rail semantics through this result.",
+      "Do not infer final iconography, palette, typography, motion, implementation or ODR authority."
+    ]
+  },
+  "cross_project_note": "Ensemble-Project remains in active provider-sensitive E0-A work; central queue reconciliation remains debt and is not mutated by this Design result.",
+  "recursive_audit": [
+    "Frozen method and exact harness hash remained unchanged after subjective exposure.",
+    "All four browser modes passed the mechanical verifier before subjective judgment.",
+    "Every candidate judgment maps to a predeclared falsifier rather than a new post-hoc taste rule.",
+    "Controls remain ineligible and no failed family is promoted by relative preference.",
+    "Zero survivors is explicitly permitted by the frozen result law.",
+    "No incumbent Stage geometry, background, state semantics or unresolved ODR question is changed."
+  ],
+  "audit_result": "CIR-S1 CLOSED ZERO SURVIVORS. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}
