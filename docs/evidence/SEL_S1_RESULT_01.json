@@ -1,0 +1,164 @@
+{
+  "schema": "kymaean.sel-s1.result.v1",
+  "status": "ONE_PROVISIONAL_SURVIVOR_F4",
+  "date": "2026-09-12",
+  "program_id": "SEL-S1",
+  "branch": "design/sel-s1-method-matrix-2026-09-12",
+  "baseline": {
+    "website_main": "1f0b696e7341a58642904b14969d2eb9f60596ee",
+    "stage_packet": "PKT-STAGE-CORE-02",
+    "stage_master_drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "stage_master_sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0"
+  },
+  "method": {
+    "path": "docs/evidence/SEL_S1_STAGE_FOCUS_SELECTION_HINGE_METHOD_AND_MATRIX_01.json",
+    "sha256": "270c71e5d668f88134bb46dbd80dbccc7de7fd43bbfb09b73f9da77c6324901f",
+    "method_commit": "f7c55272b070f7228f479f56902818a57df02773",
+    "harness_path": "prototypes/sel-s1/harness.html",
+    "harness_sha256": "68990067baa686284959324ba0df76136b205a20f79a02ef373a99579ed4722c",
+    "post_exposure_retune_allowed": false
+  },
+  "source_and_execution_freeze": {
+    "source_freeze_commit": "4600d03e44b4dc7d896a87202bbf48d1cd6d0cba",
+    "source_freeze_path": "docs/evidence/SEL_S1_SOURCE_FREEZE_01.json",
+    "source_freeze_sha256": "93f4684c1f33d51d8421fcf76e2c80b89719edbb2657823815caa7afe95db709",
+    "adapter_01_commit": "6dc3599565691054e5193292f0a078f9f0a533c3",
+    "adapter_02_commit": "f995d6813fd8e47b94ad92d3a9656947079ad8d6"
+  },
+  "preflight": {
+    "path": "docs/evidence/SEL_S1_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "sha256": "a1db50c9e682b772cf916ea52023832d46a1b36a8274849bcf5f7b80635b52fd",
+    "browser_evidence_path": "docs/evidence/SEL_S1_BROWSER_EVIDENCE_01.json",
+    "browser_evidence_sha256": "67d0fbc20c3261f01a49f783175df1e84e59fde5a013854f8b2f85d91362f60e",
+    "commit": "e939718fe296052ce2fe851a1774238ad8322dff",
+    "status": "CLEAN_BROWSER_PREFLIGHT_NO_SUBJECTIVE_RESULT",
+    "browser_version": "Edg/152.0.4191.66",
+    "os_pretty": "Microsoft Windows 11 Home 10.0.26200"
+  },
+  "invalid_attempt": {
+    "status": "TOOLING_INVALID_COORDINATE_FRAME_NO_CANDIDATE_RESULT",
+    "diagnostic_sha256": "e9cb9426e2c6e860b44c19534e86b46a2ea1281f80d043bbe6831d9c18cf0032",
+    "screenshot_sha256": "3c197a7a707275333f41424f41c1c386be85dc2189936bd0930e082fc8f8e23c",
+    "finding": "Adapter 01 compared absolute page-space y coordinates across vertically stacked family boards, producing 304 false y-only geometry failures while every other failure array remained empty and all 12 keyboard-focus observations were present.",
+    "candidate_result_created": false,
+    "rendered_pixels_changed_by_repair": false
+  },
+  "mechanical_result": {
+    "CNEG": "PASS_CONTROL_INELIGIBLE",
+    "CINC": "PASS_CONTROL_INELIGIBLE",
+    "F1": "PASS_TO_SUBJECTIVE",
+    "F2": "PASS_TO_SUBJECTIVE",
+    "F3": "PASS_TO_SUBJECTIVE",
+    "F4": "PASS_TO_SUBJECTIVE"
+  },
+  "control_calibration": {
+    "CNEG": {
+      "status": "PASS_EXPECTED_NEGATIVE_CONTROL",
+      "finding": "Once keyboard focus is absent, no authored persistent selection witness remains; the selected fixture is not visually recoverable beyond explicit fixture text."
+    },
+    "CINC": {
+      "status": "PASS_EXPECTED_HISTORICAL_CONTROL",
+      "finding": "Focus and persistent selection collapse into the same pill/pool-outline treatment, confirming the expected chip/container risk and validating the calibration contrast."
+    }
+  },
+  "subjective_result": {
+    "F1": {
+      "disposition": "FAIL",
+      "reason": "Name Underline Witness remains legible and mechanically clean, but the selected state reads primarily as conventional text emphasis / active navigation-tab underlining rather than a Stage-native persistent Character-selection witness. The reading strengthens when selection coexists with Opportunity or Speaking and binds the frozen navigation-indicator falsifier."
+    },
+    "F2": {
+      "disposition": "FAIL",
+      "reason": "Low Ground Edge Witness preserves the common focus ellipse and survives 320px transfer, but its straight low horizontal bar reads as an active-tab/current-item indicator and becomes too UI-navigation-like relative to the floor/name hinge. It therefore binds the frozen navigation-tab falsifier despite clean mechanics."
+    },
+    "F3": {
+      "disposition": "FAIL",
+      "reason": "Lateral Ground Witness avoids text underlining, but the single vertical bar falls into inter-Character space and becomes ownership-ambiguous across 2-5 Character layouts, especially at 320px. It can also read as an alignment/edit mark; transfer therefore fails the frozen attribution/clear-persistence standard."
+    },
+    "F4": {
+      "disposition": "PASS_PROVISIONAL_SURVIVOR",
+      "reason": "Shallow Ground Arc remains local to the selected Character's floor/name hinge without enclosing or materially changing the cone, stays visually independent from the common focus ellipse in focus-plus-selected conditions, remains subordinate to Character presence/name/state, survives 320px transfer, and coexists with Current Opportunity and Speaking without materially reading as those states, Take a Seat, progress, validation or navigation."
+    }
+  },
+  "selected_survivor": {
+    "family": "F4",
+    "name": "Shallow Ground Arc",
+    "scope": "PROVISIONAL_NEUTRAL_STAGE_SELECTION_HINGE_ONLY",
+    "production_token": false,
+    "full_stage_authority": false,
+    "take_a_seat_authority": false,
+    "current_opportunity_authority": false,
+    "speaking_authority": false,
+    "implementation_authority": false,
+    "palette_authority": false,
+    "motion_authority": false
+  },
+  "browser_evidence": {
+    "normal-wide": {
+      "diagnostic_sha256": "673fd1821782a6eb59cc0385bfa628fb60a823ab64ed5ec8c973ec251eb19e5e",
+      "screenshot_sha256": "3c197a7a707275333f41424f41c1c386be85dc2189936bd0930e082fc8f8e23c"
+    },
+    "forced-wide": {
+      "diagnostic_sha256": "e18fa106293890241e720312b90e63530068086c908b2e77e691ea918337fc86",
+      "screenshot_sha256": "d4e672b41a223de4caa5919cb65776db215382e60361b26995e070c6aeb6e6a2"
+    },
+    "normal-320": {
+      "diagnostic_sha256": "56ac5214e1d64d499d5ac66ceedd0f0d4fa22ce913ee5ac4d74cbca590616e18",
+      "screenshot_sha256": "20d61020d21ef466793f162291454c9597e62895ecf9a5cc0339b9446b8bdb14"
+    },
+    "forced-320": {
+      "diagnostic_sha256": "9953a0eacef115d7d74a2b071251bf7f44a749dbb08ef7007343c2c52bd5c13e",
+      "screenshot_sha256": "4ae903cf491ddde47ed6b4c2fbcb7f42c775b078ff92a00563024fc6099316cb"
+    }
+  },
+  "review_evidence": {
+    "normal_wide_filename": "normal-wide.png",
+    "normal_wide_sha256": "3c197a7a707275333f41424f41c1c386be85dc2189936bd0930e082fc8f8e23c",
+    "normal_320_filename": "normal-320.png",
+    "normal_320_sha256": "20d61020d21ef466793f162291454c9597e62895ecf9a5cc0339b9446b8bdb14",
+    "drive_evidence_folder_id": "1HRiH1GS5ZNxf_Ju8Mgsd0XFYgiMqBgcb",
+    "drive_upload_status": "PENDING_EXACT_BYTE_TRANSFER_PATH_UNAVAILABLE_NO_SUBSTITUTION",
+    "note": "The Drive evidence folder is reserved, but these exact SurfSeven-local PNG bytes were not uploaded because the available Drive connector does not accept remote workstation paths. Their hashes remain pinned here and in SEL_S1_BROWSER_EVIDENCE_01.json; no recompressed or substituted review image was uploaded."
+  },
+  "recursive_audit": {
+    "frozen_method_preserved_after_exposure": true,
+    "frozen_harness_preserved_after_exposure": true,
+    "no_candidate_retune_after_exposure": true,
+    "adapter_02_changed_diagnostic_coordinate_frame_only": true,
+    "invalid_adapter_01_created_no_candidate_result": true,
+    "valid_normal_wide_pixels_identical_to_invalid_attempt": true,
+    "all_four_browser_modes_passed": true,
+    "actual_sequential_tab_focus_12_of_12_per_mode": true,
+    "control_calibration_passed": true,
+    "cone_pool_name_state_geometry_preserved": true,
+    "selection_remains_distinct_from_opportunity_speaking_take_a_seat": true,
+    "no_color_motion_identity_or_runtime_dependency": true,
+    "no_full_stage_render": true,
+    "no_implementation_claim": true,
+    "material_defects_remaining_inside_method_gate": false
+  },
+  "next_action": {
+    "action": "After this SEL-S1 method/matrix serial is promoted and closed, perform one separately frozen bounded exact-incumbent Stage comparison using F4 Shallow Ground Arc as the only selection-hinge challenger.",
+    "must_preserve": [
+      "PKT-STAGE-CORE-02 composition and five-Character cone geometry",
+      "current Character names and explicit state labels",
+      "current static state salience",
+      "background and texture vocabulary",
+      "Performance/history layout and source attribution",
+      "creator actions and right rail",
+      "palette and Character color identity",
+      "Take a Seat / Intervene semantics"
+    ],
+    "must_not_change": [
+      "motion timing",
+      "palette",
+      "cone geometry",
+      "floor-pool geometry except the exact frozen selection witness overlay under test",
+      "identity cues",
+      "rail/pip/arc semantics",
+      "Performance/history geometry",
+      "implementation"
+    ],
+    "same_step_prohibition": "Do not begin the full Stage comparison inside the SEL-S1 method/matrix gate and do not create F4b, a replacement family, or a post-result retune."
+  },
+  "result": "F4 — Shallow Ground Arc is the sole provisional SEL-S1 survivor for a later separately frozen exact-incumbent Stage comparison. PKT-STAGE-CORE-02 remains unchanged. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}

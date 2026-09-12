@@ -2150,3 +2150,21 @@ SEL-S1 may not redesign Take a Seat or Intervene, change cone geometry/state sal
 **Next gate:** after guarded re-entry promotion/closeout, construct and recursively audit the frozen SEL-S1 deterministic method contract plus neutral Stage-hinge specimen matrix before any full Stage image generation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-138 - SEL-S1 Stage focus / selection matrix selects F4 Shallow Ground Arc
+
+**State:** METHOD/PREFLIGHT PASS / F4 SOLE PROVISIONAL SURVIVOR / EXACT-INCUMBENT STAGE COMPARISON NEXT / INCUMBENT UNCHANGED
+
+`docs/evidence/SEL_S1_STAGE_FOCUS_SELECTION_HINGE_METHOD_AND_MATRIX_01.json` freezes one Stage-local variable: persistent creator-selection witness geometry at the Character floor/name hinge. F1-F4 share the same transient keyboard-focus ellipse; cone, pool, name and explicit state geometry remain fixed. Exact harness SHA-256 is `68990067baa686284959324ba0df76136b205a20f79a02ef373a99579ed4722c`; no candidate geometry or falsifier changed after visual exposure.
+
+The first 1200-normal browser diagnostic was tooling-invalid because Adapter 01 compared absolute page-space y coordinates across vertically stacked family boards. All 304 failures were y-only; every other failure array was empty, all 12 Tab observations existed, and the invalid screenshot is byte-identical to the later valid normal-wide screenshot. Adapter 02 changed only geometry measurement into each board's `.cast` coordinate frame; method/harness bytes remained exact.
+
+`docs/evidence/SEL_S1_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json` then passes all four `Edg/152.0.4191.66` modes at 1200/320 × normal/forced-colors: 30 boards, 114 Character loci, 12/12 real sequential-Tab focus targets per mode, and zero overflow, geometry, text, witness or focus failures. CNEG and CINC calibrate as preregistered: CNEG loses persistent selection after focus leaves, while CINC collapses focus/selection into pill/pool container treatment.
+
+Frozen subjective review rejects F1 because the name underline reads primarily as conventional text emphasis / active navigation; rejects F2 because the low horizontal witness reads as an active-tab/current-item bar; and rejects F3 because the lateral witness becomes ownership-ambiguous between adjacent Characters and can read as edit/alignment tooling, especially at 320px. **F4 — Shallow Ground Arc** alone stays clearly Character-local, distinct from the common focus ellipse, subordinate to Character presence/name/state, legible at 320px, and non-conflating with Current Opportunity, Speaking or Take a Seat.
+
+F4 is provisional neutral Stage selection-hinge evidence only. `PKT-STAGE-CORE-02` remains unchanged. The Drive evidence folder `1HRiH1GS5ZNxf_Ju8Mgsd0XFYgiMqBgcb` is reserved; exact review PNG hashes are pinned in `SEL_S1_RESULT_01.json`, but no substituted/recompressed image was uploaded when the connector lacked a SurfSeven-local byte-transfer path.
+
+**Next gate after guarded serial promotion/closeout:** one separately frozen exact-incumbent Stage comparison using F4 as the only selection-hinge challenger. No F4b/reroll/retune is allowed.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
