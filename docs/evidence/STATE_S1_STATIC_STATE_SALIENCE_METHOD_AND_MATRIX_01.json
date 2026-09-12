@@ -1,0 +1,209 @@
+{
+  "schema": "kymaean.state-s1.static-state-salience-method.v1",
+  "status": "FROZEN_PRE_EVALUATION",
+  "date": "2026-09-12",
+  "program_id": "STATE-S1",
+  "name": "Stage Static State Salience 01",
+  "branch": "design/state-s1-method-matrix-2026-09-12",
+  "parent_reentry_audit": "docs/evidence/PHASE_C_POST_CONE_S1_REENTRY_AUDIT_03.json",
+  "baseline_main": "f6918d44d02003fda669106756eb745088ff444d",
+  "incumbent_packet": "PKT-STAGE-CORE-02",
+  "incumbent_master": {
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1431659
+  },
+  "bounded_question": "What neutral static luminance and internal-core contrast grammar best separates Rest, Listening, Current Opportunity and Speaking while every Character remains visibly present and no state implies emotion, rank, obligation or authority?",
+  "single_variable": "static neutral cone salience expressed only through whole-beam luminance and internal-core contrast",
+  "authority_limits": [
+    "The cone carrier and incumbent geometry are not candidates in STATE-S1.",
+    "No state may depend on color, motion, texture change, floor-pool geometry, spatial position or selection treatment.",
+    "Human-readable Character names and explicit state labels remain present in every specimen and forced-colors fallback.",
+    "Selection/focus leaves the cone materially unchanged; Wren's selected incumbent cone is treated as Rest for this state-only study.",
+    "Take a Seat, creator actions, rail/pips/arcs, performance/history geometry and implementation are outside this gate.",
+    "No outcome creates production luminance tokens, final palette, motion timing or Phase-C exit authority."
+  ],  "source_law": [
+    "docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md",
+    "docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md",
+    "docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md",
+    "docs/evidence/packets/PKT_STAGE_CORE_02.json",
+    "docs/evidence/CONE_S1_F2_INCUMBENT_STAGE_COMPARISON_RESULT_01.json"
+  ],
+  "state_semantics": {
+    "REST": "Visible near-still presence; not inactive or de-emphasized out of the ensemble.",
+    "LISTENING": "Readable receptive presence; must not be represented as simple inactivity or epistemic observation authority.",
+    "CURRENT_OPPORTUNITY": "This Character may act; salience must not imply obligation, promise of speech or rank.",
+    "SPEAKING": "The same carrier intensifies for current performance; it must not replace or visually erase the ensemble."
+  },
+  "incumbent_geometry_control": {
+    "source_master_crop_xyxy": [150, 170, 1225, 490],
+    "viewbox": [0, 0, 1075, 320],
+    "derivation": "Raster-measured visible cone envelopes from the exact incumbent master; frozen as comparison scaffolding and not promoted as production vector tokens.",
+    "character_geometry": {
+      "Marlowe": {"polygon": [[123,97],[141,97],[188,280],[76,280]], "anchor": [132,280]},
+      "Dr. Voss": {"polygon": [[306,58],[326,58],[374,235],[258,235]], "anchor": [316,235]},
+      "Wren": {"polygon": [[528,30],[552,30],[608,260],[472,260]], "anchor": [540,260]},
+      "Iona": {"polygon": [[730,85],[750,85],[791,240],[689,240]], "anchor": [740,240]},
+      "Keir": {"polygon": [[942,122],[962,122],[1007,285],[897,285]], "anchor": [952,285]}
+    }
+  },  "neutral_shared_constants": {
+    "background": "neutral near-black",
+    "beam_color": "neutral white/currentColor only",
+    "beam_falloff": [[0,0.02],[44,0.07],[76,0.28],[100,0.055]],
+    "beam_blur_px": 5,
+    "texture_alpha": 0.045,
+    "texture_motion": "none",
+    "floor_pool_geometry": "fixed across all families and states",
+    "floor_pool_alpha": 0.16,
+    "state_channels": ["envelope_alpha","core_alpha"]
+  },
+  "controls": {
+    "CREF": {
+      "name": "Historical Interaction Static Ladder",
+      "role": "ineligible historical calibration control",
+      "source_note": "Uses the old Stage Cone Interaction opacity ordering after removing its geometry, pool-shape and motion changes."
+    },
+    "CNEG": {
+      "name": "Flat Salience Negative Control",
+      "role": "ineligible negative calibration",
+      "expected_failure": "All four states share the same optical signature and therefore cannot provide redundant visual separation."
+    }
+  },
+  "families": {
+    "CREF": {
+      "role": "control",
+      "REST": {"envelope_alpha": 0.42, "core_alpha": 0.18},
+      "LISTENING": {"envelope_alpha": 0.50, "core_alpha": 0.20},
+      "CURRENT_OPPORTUNITY": {"envelope_alpha": 0.67, "core_alpha": 0.24},
+      "SPEAKING": {"envelope_alpha": 0.87, "core_alpha": 0.34}
+    },    "CNEG": {
+      "role": "control",
+      "REST": {"envelope_alpha": 0.55, "core_alpha": 0.22},
+      "LISTENING": {"envelope_alpha": 0.55, "core_alpha": 0.22},
+      "CURRENT_OPPORTUNITY": {"envelope_alpha": 0.55, "core_alpha": 0.22},
+      "SPEAKING": {"envelope_alpha": 0.55, "core_alpha": 0.22}
+    },
+    "F1": {
+      "name": "Compressed Presence Ladder",
+      "role": "candidate",
+      "REST": {"envelope_alpha": 0.46, "core_alpha": 0.17},
+      "LISTENING": {"envelope_alpha": 0.50, "core_alpha": 0.19},
+      "CURRENT_OPPORTUNITY": {"envelope_alpha": 0.58, "core_alpha": 0.24},
+      "SPEAKING": {"envelope_alpha": 0.66, "core_alpha": 0.30},
+      "risk": "state separation may become too subtle at ensemble scale or narrow transfer"
+    },
+    "F2": {
+      "name": "Core-Led Salience Ladder",
+      "role": "candidate",
+      "REST": {"envelope_alpha": 0.44, "core_alpha": 0.16},
+      "LISTENING": {"envelope_alpha": 0.47, "core_alpha": 0.21},
+      "CURRENT_OPPORTUNITY": {"envelope_alpha": 0.54, "core_alpha": 0.30},
+      "SPEAKING": {"envelope_alpha": 0.60, "core_alpha": 0.43},
+      "risk": "high core contrast may read like a software status lamp or make Speaking too punctate"
+    },    "F3": {
+      "name": "Envelope-Led Salience Ladder",
+      "role": "candidate",
+      "REST": {"envelope_alpha": 0.40, "core_alpha": 0.18},
+      "LISTENING": {"envelope_alpha": 0.48, "core_alpha": 0.18},
+      "CURRENT_OPPORTUNITY": {"envelope_alpha": 0.64, "core_alpha": 0.18},
+      "SPEAKING": {"envelope_alpha": 0.80, "core_alpha": 0.18},
+      "risk": "whole-beam brightness may become a rank/status meter and Speaking may dominate the ensemble"
+    },
+    "F4": {
+      "name": "Balanced Dual-Channel Ladder",
+      "role": "candidate",
+      "REST": {"envelope_alpha": 0.45, "core_alpha": 0.16},
+      "LISTENING": {"envelope_alpha": 0.50, "core_alpha": 0.20},
+      "CURRENT_OPPORTUNITY": {"envelope_alpha": 0.62, "core_alpha": 0.27},
+      "SPEAKING": {"envelope_alpha": 0.72, "core_alpha": 0.36},
+      "risk": "dual-channel increase may still overstate Opportunity or compress Opportunity/Speaking distinction"
+    }
+  },
+  "family_separation_law": [
+    "F1 tests a deliberately compressed two-channel ladder.",
+    "F2 keeps whole-beam change restrained and moves most separation into the internal core.",
+    "F3 keeps the internal core fixed and moves separation into whole-beam luminance.",
+    "F4 distributes separation across both channels at moderate strength.",
+    "No family may change cone polygon, blur, falloff, floor-pool geometry, texture pattern, color or motion.",
+    "CREF and CNEG are calibration controls and cannot win."
+  ],  "matrix": {
+    "character_counts": [2,3,4,5],
+    "state_patterns": {
+      "2": [["Dr. Voss","LISTENING"],["Iona","SPEAKING"]],
+      "3": [["Marlowe","REST"],["Wren","CURRENT_OPPORTUNITY"],["Keir","SPEAKING"]],
+      "4": [["Marlowe","REST"],["Dr. Voss","LISTENING"],["Iona","CURRENT_OPPORTUNITY"],["Keir","SPEAKING"]],
+      "5": [["Marlowe","SPEAKING"],["Dr. Voss","LISTENING"],["Wren","REST"],["Iona","CURRENT_OPPORTUNITY"],["Keir","LISTENING"]]
+    },
+    "five_character_pattern_note": "Mirrors the incumbent Stage's Speaking/Listening/Selected/Current Opportunity/Listening distribution while treating Selection as cone-neutral Rest, as required by interaction law.",
+    "wide_viewport_css_px": 1200,
+    "narrow_viewport_css_px": 320,
+    "forced_colors_required": true,
+    "forced_colors_law": "Decorative beams may disappear; human-readable Character names and explicit state labels must remain visible and unambiguous without horizontal overflow.",
+    "normal_mode_law": "All families render neutral monochrome with identical geometry, blur, falloff, texture and floor treatment."
+  },
+  "mechanical_falsifiers": [
+    "Any family or state mutates a Character polygon, anchor, blur, falloff, floor-pool geometry or texture pattern.",
+    "Any candidate depends on non-neutral color, animation, transition or state-specific texture.",
+    "Any candidate gives two or more of the four states identical envelope/core signatures.",
+    "Any normal-mode cone becomes effectively absent because envelope_alpha <= 0.35.",
+    "Any forced-colors specimen loses Character name or explicit state text.",
+    "Any 320px specimen causes horizontal document overflow."
+  ],  "subjective_falsifiers": [
+    "REST reads absent, deactivated or outside the living ensemble.",
+    "LISTENING reads as merely dimmed inactivity rather than present receptive participation.",
+    "CURRENT_OPPORTUNITY reads as obligation, guaranteed speech, rank or creator selection rather than may-act salience.",
+    "SPEAKING visually erases neighboring Characters or dominates the entire Stage rather than intensifying the same carrier.",
+    "The four states read as a generic software status meter, progress scale or social rank ladder instead of performance-state salience.",
+    "State differentiation depends on exact spatial position, color, motion, portrait recognition or hidden text.",
+    "The five-Character mixed-state specimen loses one-cone-per-Character ensemble readability.",
+    "The 320px transfer collapses state separation into indistinguishable brightness noise."
+  ],
+  "evaluation_priority": [
+    "every Character remains visibly present",
+    "four-state static separation remains legible",
+    "Listening retains presence without inactivity",
+    "Opportunity remains possibility without obligation",
+    "Speaking intensifies without ensemble domination",
+    "the result avoids software-meter/rank semantics",
+    "five-Character and 320px transfer remain coherent"
+  ],
+  "promotion_law": {
+    "controls_ineligible": ["CREF","CNEG"],
+    "candidate_ids": ["F1","F2","F3","F4"],
+    "zero_survivors_valid": true,
+    "post_exposure_retune_allowed": false,
+    "replacement_family_after_exposure_allowed": false,
+    "multiple_survivors": "Apply the frozen evaluation_priority in order. An unresolved exact tie closes without a selected survivor rather than creating a result-aware hybrid.",
+    "promotion_scope": "Any survivor is provisional neutral static state-salience evidence only and must later survive a separately frozen exact-incumbent Stage comparison before gaining Stage authority."
+  },  "source_freeze": {
+    "harness_path": "prototypes/state-s1/harness.html",
+    "harness_sha256": "e50670ffea9876b53d4ae1df26cc496d3c691fe942cc8fa031c612a234d081ce",
+    "verifier_path": "tools/verify_state_s1.py",
+    "browser_probe_path": "tools/state_s1_browser_probe.mjs",
+    "freeze_law": "Complete source-only verification, then replace only the pending harness hash before the first visual/browser exposure. No family, geometry, state value or falsifier may change after exposure."
+  },
+  "browser_preflight_plan": {
+    "modes": ["1200_NORMAL_NEUTRAL","1200_FORCED_COLORS","320_NORMAL_NEUTRAL","320_FORCED_COLORS"],
+    "required_diagnostics": [
+      "six families and twenty-four mixed-state specimens materialize",
+      "eighty-four cones/names/state labels materialize",
+      "geometry is invariant by Character across family and state",
+      "candidate state signatures are unique and CNEG remains intentionally flat",
+      "normal-mode presence floor is respected",
+      "forced-colors fallback retains labels and removes decorative state dependence",
+      "no horizontal overflow at either viewport"
+    ]
+  },
+  "recursive_preflight_requirements": [
+    "authority and state semantics remain intact",
+    "single-variable isolation is exact",
+    "incumbent carrier geometry is not reopened",
+    "selection and Take a Seat remain excluded",
+    "CONE-S1/F2 closed-result law is not reopened",
+    "no ODR is resolved",
+    "no production token or implementation claim is made"
+  ],
+  "next_action": "Materialize the deterministic neutral STATE-S1 harness and verifier from these frozen values; perform source-only audit and hash freeze before any visual exposure."
+}

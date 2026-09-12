@@ -1970,3 +1970,19 @@ STATE-S1 must keep every Character visibly present, preserve opportunity as poss
 **Next gate:** construct and recursively audit the frozen STATE-S1 deterministic method contract plus neutral static state-salience specimen matrix before any full Stage render.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-127 - STATE-S1 static state-salience matrix selects F4 Balanced Dual-Channel Ladder
+
+**State:** METHOD/PREFLIGHT PASS / F4 SOLE PROVISIONAL SURVIVOR / FULL STAGE COMPARISON NEXT / INCUMBENT UNCHANGED
+
+`docs/evidence/STATE_S1_STATIC_STATE_SALIENCE_METHOD_AND_MATRIX_01.json` freezes the exact incumbent cone geometry and six static salience families across Rest, Listening, Current Opportunity and Speaking, 2/3/4/5 Character mixed-state layouts, 1200px and 320px transfer, and forced-colors fallback. Exact harness SHA-256 is `e50670ffea9876b53d4ae1df26cc496d3c691fe942cc8fa031c612a234d081ce`; no family or state value changed after visual exposure.
+
+`docs/evidence/STATE_S1_STRUCTURAL_PREFLIGHT_01.json` passes all four EdgeCore 153 browser modes. Geometry remains invariant, state signatures match the frozen method, every normal-mode cone clears the presence floor, forced-colors retains explicit Character/state text, and neither viewport overflows. The earlier Edge Application-channel exit occurred before harness navigation and is recorded as tooling-only evidence.
+
+Subjective evaluation then applies only the frozen falsifiers. F1 compresses Rest/Listening separation too far; F2 turns high-state contrast into a punctate software-status-lamp core; F3 becomes an overt whole-beam brightness/rank ladder and lets Speaking dominate. **F4 — Balanced Dual-Channel Ladder** alone preserves visible Rest/Listening presence, legible Opportunity/Speaking separation, one-cone-per-Character ensemble readability and 320px transfer without depending on color or motion.
+
+F4 is provisional neutral static state-salience evidence only. It is not a production token or Stage successor. `PKT-STAGE-CORE-02` remains unchanged.
+
+**Next gate after guarded serial promotion/closeout:** one separately frozen bounded exact-incumbent Stage comparison using F4 as the only static state-salience challenger. Preserve all other Stage variables and do not begin that comparison inside the STATE-S1 method/matrix gate.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

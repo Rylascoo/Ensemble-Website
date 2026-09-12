@@ -1,0 +1,119 @@
+{
+  "schema": "kymaean.state-s1.result.v1",
+  "status": "ONE_PROVISIONAL_SURVIVOR_F4",
+  "date": "2026-09-12",
+  "program_id": "STATE-S1",
+  "branch": "design/state-s1-method-matrix-2026-09-12",
+  "baseline": {
+    "website_main": "f6918d44d02003fda669106756eb745088ff444d",
+    "stage_packet": "PKT-STAGE-CORE-02",
+    "stage_master_drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "stage_master_sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0"
+  },
+  "method": {
+    "path": "docs/evidence/STATE_S1_STATIC_STATE_SALIENCE_METHOD_AND_MATRIX_01.json",
+    "sha256": "ca993957ea43e5ae8bcb11df8ea5b9a5142192a6441c468e64f907d042d4a873",
+    "harness_path": "prototypes/state-s1/harness.html",
+    "harness_sha256": "e50670ffea9876b53d4ae1df26cc496d3c691fe942cc8fa031c612a234d081ce",
+    "post_exposure_retune_allowed": false
+  },
+  "preflight": {
+    "path": "docs/evidence/STATE_S1_STRUCTURAL_PREFLIGHT_01.json",
+    "sha256": "ba63e3ed9f396e374ca2515825267b950ddc12030b5f42110d5d7749fc1c1dc4",
+    "status": "CLEAN_BROWSER_PREFLIGHT_NO_SUBJECTIVE_RESULT",
+    "browser_version": "Microsoft EdgeCore 153.0.4234.32",
+    "os_pretty": "Microsoft Windows 11 Home 10.0.26200"
+  },
+  "mechanical_result": {
+    "CREF": "PASS_CONTROL_INELIGIBLE",
+    "CNEG": "PASS_CONTROL_INELIGIBLE",
+    "F1": "PASS_TO_SUBJECTIVE",
+    "F2": "PASS_TO_SUBJECTIVE",
+    "F3": "PASS_TO_SUBJECTIVE",
+    "F4": "PASS_TO_SUBJECTIVE"
+  },
+  "subjective_result": {
+    "F1": {
+      "disposition": "FAIL",
+      "reason": "Compressed Presence Ladder keeps every Character present, but Rest and Listening remain too close at ensemble and 320px scale; four-state static separation becomes overly dependent on the explicit text label."
+    },
+    "F2": {
+      "disposition": "FAIL",
+      "reason": "Core-Led Salience Ladder separates Opportunity/Speaking, but the bright punctate internal core reads too much like a software status lamp and its state distinction weakens at narrow transfer."
+    },
+    "F3": {
+      "disposition": "FAIL",
+      "reason": "Envelope-Led Salience Ladder produces clear separation, but the whole-cone brightness staircase reads as a generic rank/status meter and Speaking pulls too much attention from neighboring Characters."
+    },
+    "F4": {
+      "disposition": "PASS_PROVISIONAL_SURVIVOR",
+      "reason": "Balanced Dual-Channel Ladder preserves visible Rest and Listening presence while making Opportunity and Speaking legible through moderate distributed change; it avoids a punctate lamp, avoids an overt brightness/rank staircase, preserves the one-cone-per-Character ensemble, and survives 320px transfer."
+    }
+  },
+  "selected_survivor": {
+    "family": "F4",
+    "name": "Balanced Dual-Channel Ladder",
+    "scope": "PROVISIONAL_NEUTRAL_STATIC_STATE_SALIENCE_ONLY",
+    "production_token": false,
+    "full_stage_authority": false,
+    "motion_authority": false,
+    "palette_authority": false
+  },
+  "browser_evidence": {
+    "normal-wide": {
+      "diagnostic_sha256": "02e781775d5a54926f72a9ecf12c37c39ec9443409b8897dfedb41ae468d9fcb",
+      "screenshot_sha256": "b813f8b84d566d60a58d34c71f9b414b6bf2902ab521dc0900a260b1678608e5"
+    },
+    "forced-wide": {
+      "diagnostic_sha256": "b6e7e6be4e767d623a82d27aac1f86928b382d95e30c24ba206c87038ca32d3d",
+      "screenshot_sha256": "25bd7d5f3a393f1f77e81f065acd8db27977e7a55277978c5e8d899a689131c9"
+    },
+    "normal-320": {
+      "diagnostic_sha256": "9e4de72e11952a7a5b5a39a64593054990fbb95e27a0d1493dbb8605d5faa41f",
+      "screenshot_sha256": "5892b67f08ad82e4ef5fd88c9eb8ff98183c6cd0bfdd0c2136a31fdb7dcb32ca"
+    },
+    "forced-320": {
+      "diagnostic_sha256": "d0607978af4a1aa470119c4aa56909d1f0bea7917f57022ae958aee63b91fd27",
+      "screenshot_sha256": "68c020e841371796765aa4918f57ecb3013a029d7c1a7c4ac1e14adddac870e8"
+    }
+  },
+  "recursive_audit": {
+    "frozen_harness_preserved_after_exposure": true,
+    "no_family_retune_after_result": true,
+    "all_four_browser_modes_passed": true,
+    "incumbent_geometry_preserved": true,
+    "selection_and_take_a_seat_excluded": true,
+    "no_color_or_motion_dependency": true,
+    "no_floor_pool_redesign": true,
+    "no_state_semantic_invention": true,
+    "no_odr_resolution": true,
+    "no_implementation_claim": true,
+    "material_defects_remaining_inside_method_gate": false,
+    "post_exposure_change_limited_to_eof_formatting": true
+  },
+  "next_action": {
+    "action": "After this method/matrix serial is promoted and closed, perform one separately frozen bounded exact-incumbent Stage comparison using F4 as the only static state-salience challenger.",
+    "must_preserve": [
+      "PKT-STAGE-CORE-02 composition and cone geometry",
+      "current five-Character state assignment",
+      "palette and Character color identity",
+      "background and texture vocabulary",
+      "floor pools/names/state labels",
+      "selection/focus semantics",
+      "creator actions and right rail",
+      "performance/history layout"
+    ],
+    "must_not_change": [
+      "motion timing",
+      "palette",
+      "cone geometry",
+      "floor-pool geometry",
+      "identity cues",
+      "rail/pip/arc semantics",
+      "performance/history geometry",
+      "implementation"
+    ],
+    "same_step_prohibition": "Do not begin the full Stage comparison inside the STATE-S1 method/matrix gate."
+  },
+  "result": "F4 ? Balanced Dual-Channel Ladder is the sole provisional STATE-S1 survivor for a later bounded exact-incumbent Stage comparison. APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE AUDIT."
+}

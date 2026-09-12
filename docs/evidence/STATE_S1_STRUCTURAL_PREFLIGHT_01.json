@@ -1,0 +1,94 @@
+{
+  "schema": "kymaean.state-s1.structural-preflight.v1",
+  "program_id": "STATE-S1",
+  "status": "CLEAN_BROWSER_PREFLIGHT_NO_SUBJECTIVE_RESULT",
+  "static": {
+    "harness_sha256": "e50670ffea9876b53d4ae1df26cc496d3c691fe942cc8fa031c612a234d081ce",
+    "families": 6,
+    "candidate_families": 4,
+    "states": [
+      "REST",
+      "LISTENING",
+      "CURRENT_OPPORTUNITY",
+      "SPEAKING"
+    ],
+    "specimens": 24,
+    "cones": 84,
+    "source_status": "PASS"
+  },
+  "browser_version": "Microsoft EdgeCore 153.0.4234.32",
+  "os_pretty": "Microsoft Windows 11 Home 10.0.26200",
+  "browser_checks": [
+    {
+      "mode": "NORMAL_NEUTRAL",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS_FALLBACK",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "status": "PASS"
+    },
+    {
+      "mode": "NORMAL_NEUTRAL",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS_FALLBACK",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "status": "PASS"
+    }
+  ],
+  "failures": [],
+  "method_path": "docs/evidence/STATE_S1_STATIC_STATE_SALIENCE_METHOD_AND_MATRIX_01.json",
+  "method_sha256": "ca993957ea43e5ae8bcb11df8ea5b9a5142192a6441c468e64f907d042d4a873",
+  "harness_path": "prototypes/state-s1/harness.html",
+  "harness_sha256": "e50670ffea9876b53d4ae1df26cc496d3c691fe942cc8fa031c612a234d081ce",
+  "launcher_evidence": {
+    "initial_application_channel": "Microsoft Edge 152.0.4191.66",
+    "initial_result": "TOOLING_FAIL_BEFORE_HARNESS_NAVIGATION",
+    "initial_detail": "Application-channel launcher exited before creating DevToolsActivePort; no STATE-S1 screenshot or candidate visual exposure occurred.",
+    "successful_runtime": "Microsoft EdgeCore 153.0.4234.32",
+    "classification": "TOOLING_ONLY_NO_DESIGN_CHANGE"
+  },
+  "browser_evidence": {
+    "normal-wide": {
+      "diagnostic_sha256": "02e781775d5a54926f72a9ecf12c37c39ec9443409b8897dfedb41ae468d9fcb",
+      "screenshot_sha256": "b813f8b84d566d60a58d34c71f9b414b6bf2902ab521dc0900a260b1678608e5"
+    },
+    "forced-wide": {
+      "diagnostic_sha256": "b6e7e6be4e767d623a82d27aac1f86928b382d95e30c24ba206c87038ca32d3d",
+      "screenshot_sha256": "25bd7d5f3a393f1f77e81f065acd8db27977e7a55277978c5e8d899a689131c9"
+    },
+    "normal-320": {
+      "diagnostic_sha256": "9e4de72e11952a7a5b5a39a64593054990fbb95e27a0d1493dbb8605d5faa41f",
+      "screenshot_sha256": "5892b67f08ad82e4ef5fd88c9eb8ff98183c6cd0bfdd0c2136a31fdb7dcb32ca"
+    },
+    "forced-320": {
+      "diagnostic_sha256": "d0607978af4a1aa470119c4aa56909d1f0bea7917f57022ae958aee63b91fd27",
+      "screenshot_sha256": "68c020e841371796765aa4918f57ecb3013a029d7c1a7c4ac1e14adddac870e8"
+    }
+  },
+  "publication_note": "Browser captures are reproducible review evidence from the frozen harness and recorded runtime; binary screenshots are not Design-law authority.",
+  "recursive_audit": {
+    "frozen_harness_hash_verified": true,
+    "geometry_invariant": true,
+    "state_signatures_match_method": true,
+    "presence_floor_pass": true,
+    "forced_colors_text_fallback_pass": true,
+    "narrow_overflow_pass": true,
+    "no_candidate_value_changed_after_exposure": true,
+    "initial_launcher_failure_separated_from_design_result": true
+  },
+  "post_exposure_formatting_normalization": {
+    "classification": "TOOLING_ONLY",
+    "old_method_sha256": "f09fefcd8af295493f16f3af239023bf679267b5d0c8b908c95928e64ca67500",
+    "new_method_sha256": "ca993957ea43e5ae8bcb11df8ea5b9a5142192a6441c468e64f907d042d4a873",
+    "change": "Removed one extra trailing blank line at EOF from method JSON and browser probe after git diff --check; parsed method values, falsifiers, family definitions, frozen harness bytes and browser evidence are unchanged."
+  }
+}

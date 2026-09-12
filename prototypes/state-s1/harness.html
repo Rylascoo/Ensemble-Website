@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>STATE-S1 — Static State Salience 01</title>
+<style>
+:root{color-scheme:dark;--bg:#080808;--panel:#0d0d0d;--line:#303030;--text:#eeeeee;--muted:#aaaaaa}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,"Segoe UI",sans-serif}body{padding:18px}
+.intro{max-width:1060px;margin:0 auto 18px}.intro h1{font-size:20px;margin:0 0 6px}.intro p{font-size:12px;line-height:1.5;color:var(--muted);margin:0}
+#matrix{max-width:1180px;margin:auto;display:grid;gap:18px}.family{border-top:1px solid var(--line);padding-top:12px}.family-head{display:flex;gap:12px;align-items:baseline;margin-bottom:8px}.family-head b{font-size:14px}.family-head span{font-size:11px;color:var(--muted)}
+.specimens{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.specimen{background:#0a0a0a;border:1px solid #242424;overflow:hidden}.specimen-title{font-size:10px;color:#aaa;letter-spacing:.06em;padding:6px 8px 0}
+.stage-svg{display:block;width:100%;height:auto;background:#0a0a0a}.floor{fill:none;stroke:#555;stroke-width:1}.pool{fill:#fff;opacity:.16;filter:blur(8px)}.beam{filter:blur(5px)}.texture{opacity:.045}.char-name{fill:#eee;font-size:11px;text-anchor:middle}.state-label{fill:#aaa;font-size:7px;letter-spacing:1px;text-anchor:middle}.mobile-list{display:none;padding:5px 8px 8px;font-size:10px;line-height:1.4;color:#bbb}
+@media(max-width:500px){body{padding:8px}.specimens{grid-template-columns:1fr}.family-head{display:block}.mobile-list{display:block}}
+@media(forced-colors:active){.beam,.core,.texture,.pool{display:none}.stage-svg,.specimen{background:Canvas;color:CanvasText;border-color:CanvasText}.floor{stroke:CanvasText}.char-name,.state-label{fill:CanvasText}.mobile-list{color:CanvasText}}
+</style>
+</head>
+<body>
+<div class="intro"><h1>STATE-S1 — neutral static state-salience matrix</h1><p>Exact incumbent carrier geometry is held fixed. Only neutral whole-beam luminance and internal-core contrast vary among Rest, Listening, Current Opportunity and Speaking. No color identity, motion, selection, floor-pool redesign or production-token authority.</p></div>
+<div id="matrix"></div>
+<script type="application/json" id="state-s1-definitions">{
+  "viewBox":[0,0,1075,320],
+  "falloff":[[0,0.02],[44,0.07],[76,0.28],[100,0.055]],
+  "blur":5,"textureAlpha":0.045,"poolAlpha":0.16,
+  "geometry":{
+    "Marlowe":{"polygon":[[123,97],[141,97],[188,280],[76,280]],"anchor":[132,280]},
+    "Dr. Voss":{"polygon":[[306,58],[326,58],[374,235],[258,235]],"anchor":[316,235]},
+    "Wren":{"polygon":[[528,30],[552,30],[608,260],[472,260]],"anchor":[540,260]},
+    "Iona":{"polygon":[[730,85],[750,85],[791,240],[689,240]],"anchor":[740,240]},
+    "Keir":{"polygon":[[942,122],[962,122],[1007,285],[897,285]],"anchor":[952,285]}
+  },
+  "patterns":{
+    "2":[["Dr. Voss","LISTENING"],["Iona","SPEAKING"]],
+    "3":[["Marlowe","REST"],["Wren","CURRENT_OPPORTUNITY"],["Keir","SPEAKING"]],
+    "4":[["Marlowe","REST"],["Dr. Voss","LISTENING"],["Iona","CURRENT_OPPORTUNITY"],["Keir","SPEAKING"]],
+    "5":[["Marlowe","SPEAKING"],["Dr. Voss","LISTENING"],["Wren","REST"],["Iona","CURRENT_OPPORTUNITY"],["Keir","LISTENING"]]
+  },
+  "families":{    "CREF":{"label":"Historical Interaction Static Ladder","role":"control","REST":[0.42,0.18],"LISTENING":[0.50,0.20],"CURRENT_OPPORTUNITY":[0.67,0.24],"SPEAKING":[0.87,0.34]},
+    "CNEG":{"label":"Flat Salience Negative Control","role":"control","REST":[0.55,0.22],"LISTENING":[0.55,0.22],"CURRENT_OPPORTUNITY":[0.55,0.22],"SPEAKING":[0.55,0.22]},
+    "F1":{"label":"Compressed Presence Ladder","role":"candidate","REST":[0.46,0.17],"LISTENING":[0.50,0.19],"CURRENT_OPPORTUNITY":[0.58,0.24],"SPEAKING":[0.66,0.30]},
+    "F2":{"label":"Core-Led Salience Ladder","role":"candidate","REST":[0.44,0.16],"LISTENING":[0.47,0.21],"CURRENT_OPPORTUNITY":[0.54,0.30],"SPEAKING":[0.60,0.43]},
+    "F3":{"label":"Envelope-Led Salience Ladder","role":"candidate","REST":[0.40,0.18],"LISTENING":[0.48,0.18],"CURRENT_OPPORTUNITY":[0.64,0.18],"SPEAKING":[0.80,0.18]},
+    "F4":{"label":"Balanced Dual-Channel Ladder","role":"candidate","REST":[0.45,0.16],"LISTENING":[0.50,0.20],"CURRENT_OPPORTUNITY":[0.62,0.27],"SPEAKING":[0.72,0.36]}
+  }
+}
+</script>
+<script>
+const NS='http://www.w3.org/2000/svg',D=JSON.parse(document.querySelector('#state-s1-definitions').textContent),matrix=document.querySelector('#matrix');
+const states=['REST','LISTENING','CURRENT_OPPORTUNITY','SPEAKING'],controls=new Set(['CREF','CNEG']);
+const el=(tag,attrs={})=>{const n=document.createElementNS(NS,tag);for(const [k,v] of Object.entries(attrs))n.setAttribute(k,String(v));return n};
+const points=p=>p.map(x=>x.join(',')).join(' '),geomKey=g=>JSON.stringify([g.polygon,g.anchor]);
+function addGradient(defs,id,state){
+  const [env,core]=state,lg=el('linearGradient',{id:`g-${id}`,x1:'0',y1:'0',x2:'0',y2:'1'});D.falloff.forEach(([p,a])=>lg.append(el('stop',{offset:`${p}%`,'stop-color':'#fff','stop-opacity':(a*env).toFixed(4)})));defs.append(lg);
+  const rg=el('radialGradient',{id:`c-${id}`,cx:'50%',cy:'72%',r:'56%'});rg.append(el('stop',{offset:'0%','stop-color':'#fff','stop-opacity':core}));rg.append(el('stop',{offset:'48%','stop-color':'#fff','stop-opacity':(core*.32).toFixed(4)}));rg.append(el('stop',{offset:'100%','stop-color':'#fff','stop-opacity':'0'}));defs.append(rg);
+}
+function renderSpecimen(fid,f,count,index){
+  const wrap=document.createElement('article');wrap.className='specimen';wrap.dataset.family=fid;wrap.dataset.count=String(count);
+  const title=document.createElement('div');title.className='specimen-title';title.textContent=`${count} Characters · mixed static states`;wrap.append(title);
+  const svg=el('svg',{class:'stage-svg',viewBox:D.viewBox.join(' '),role:'img','aria-label':`${fid} ${count}-Character static state specimen`});
+  const defs=el('defs'),pat=el('pattern',{id:`p-${fid}-${count}`,width:'14',height:'14',patternUnits:'userSpaceOnUse',patternTransform:'rotate(8)'});pat.append(el('line',{x1:'0',y1:'0',x2:'0',y2:'14',stroke:'#fff','stroke-width':'1'}));defs.append(pat);svg.append(defs);
+  svg.append(el('path',{class:'floor',d:'M 30 294 Q 535 222 1045 294'}));
+  const rows=[];
+  D.patterns[String(count)].forEach(([name,state],i)=>{
+    const g=D.geometry[name],[env,core]=f[state],uid=`${fid}-${count}-${i}`;addGradient(defs,uid,[env,core]);
+    const grp=el('g',{class:'character','data-character':name,'data-state':state,'data-family':fid,'data-geometry':geomKey(g),'data-envelope':env,'data-core':core});
+    grp.append(el('polygon',{class:'beam',points:points(g.polygon),fill:`url(#g-${uid})`}));
+    grp.append(el('polygon',{class:'core',points:points(g.polygon),fill:`url(#c-${uid})`}));
+    grp.append(el('polygon',{class:'texture',points:points(g.polygon),fill:`url(#p-${fid}-${count})`}));
+    grp.append(el('ellipse',{class:'pool',cx:g.anchor[0],cy:g.anchor[1]+1,rx:'42',ry:'7'}));
+    const nm=el('text',{class:'char-name',x:g.anchor[0],y:Math.min(303,g.anchor[1]+17)});nm.textContent=name;grp.append(nm);
+    const st=el('text',{class:'state-label',x:g.anchor[0],y:Math.min(316,g.anchor[1]+29)});st.textContent=state.replaceAll('_',' ');grp.append(st);svg.append(grp);rows.push(`${name} · ${state.replaceAll('_',' ')}`);
+  });
+  wrap.append(svg);const list=document.createElement('div');list.className='mobile-list';list.textContent=rows.join('  |  ');wrap.append(list);return wrap;
+}
+for(const [fid,f] of Object.entries(D.families)){
+  const sec=document.createElement('section');sec.className='family';sec.dataset.family=fid;const head=document.createElement('div');head.className='family-head';head.innerHTML=`<b>${fid} — ${f.label}</b><span>${controls.has(fid)?'CONTROL · INELIGIBLE':'CANDIDATE'}</span>`;sec.append(head);
+  const grid=document.createElement('div');grid.className='specimens';[2,3,4,5].forEach((n,i)=>grid.append(renderSpecimen(fid,f,n,i)));sec.append(grid);matrix.append(sec);
+}
+function inspect(){
+  const forced=matchMedia('(forced-colors: active)').matches,geometryInvariantFailures=[],signatureFailures=[],presenceFailures=[],labelVisibilityFailures=[];
+  for(const name of Object.keys(D.geometry)){
+    const gs=[...document.querySelectorAll(`.character[data-character="${name}"]`)];
+    if(new Set(gs.map(x=>x.dataset.geometry)).size!==1)geometryInvariantFailures.push(name);
+  }
+  const stateSignatures={};
+  for(const [fid,f] of Object.entries(D.families)){
+    const sig=states.map(s=>`${f[s][0]}|${f[s][1]}`);stateSignatures[fid]=sig;
+    const unique=new Set(sig).size;if(fid==='CNEG'){if(unique!==1)signatureFailures.push(fid)}else if(unique!==4)signatureFailures.push(fid);
+    for(const s of states)if(f[s][0]<=.35)presenceFailures.push(`${fid}:${s}`);
+  }
+  for(const n of document.querySelectorAll('.char-name,.state-label')){const cs=getComputedStyle(n);if(cs.display==='none'||cs.visibility==='hidden')labelVisibilityFailures.push(n.textContent)}
+  const decorativeBeamsVisible=[...document.querySelectorAll('.beam')].filter(x=>getComputedStyle(x).display!=='none').length,root=document.documentElement;
+  window.__STATE_S1_DIAGNOSTIC__={schema:'kymaean.state-s1.browser-diagnostic.v1',forcedColors:forced,families:Object.keys(D.families).length,specimens:document.querySelectorAll('.specimen').length,cones:document.querySelectorAll('.character').length,names:document.querySelectorAll('.char-name').length,stateLabels:document.querySelectorAll('.state-label').length,geometryInvariantFailures,signatureFailures,presenceFailures,labelVisibilityFailures,stateSignatures,decorativeBeamsVisible,viewport:{innerWidth,scrollWidth:Math.max(root.scrollWidth,document.body.scrollWidth)}};
+}
+requestAnimationFrame(()=>requestAnimationFrame(inspect));
+</script>
+</body>
+</html>
