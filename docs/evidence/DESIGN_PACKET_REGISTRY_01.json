@@ -1,168 +1,166 @@
 {
-    "schema":  "kymaean.design-packet-registry.v1",
-    "status":  "ACTIVE",
-    "date":  "2026-09-11",
-    "framework":  "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
-    "template":  "docs/evidence/DESIGN_PACKET_TEMPLATE_01.json",
-    "purpose":  "Provide one retrievable map of bounded current/provisional/closed visual-gate packets for later composition and whole-app synthesis without turning the registry itself into design authority.",
-    "packets":  [
-                    {
-                        "packet_id":  "PKT-MOT-F1A-01",
-                        "path":  "docs/evidence/packets/PKT_MOT_F1A_WITHIN_CONTEXT_SUCCESSION_01.json",
-                        "axis":  "motion / within-context succession",
-                        "status":  "PROVISIONAL_INCUMBENT",
-                        "current_contribution":  "F1A Tight bounded succession mechanism",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-MOT-CS2-01",
-                        "path":  "docs/evidence/packets/PKT_MOT_CS2_CONTEXT_SHIFT_01.json",
-                        "axis":  "motion / genuine context replacement",
-                        "status":  "PROVISIONAL_INCUMBENT",
-                        "current_contribution":  "CS2 Balanced Crossfade Exchange with CUT fallback",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-TYP-01-CLOSE-01",
-                        "path":  "docs/evidence/packets/PKT_TYP_01_STRONG_INDEPENDENCE_CLOSURE_01.json",
-                        "axis":  "typography/editorial identity independence",
-                        "status":  "CLOSED_ZERO_SURVIVORS",
-                        "current_contribution":  "No incumbent; preserve typography as an unresolved whole-system gap",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-CLR-01-01",
-                        "path":  "docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json",
-                        "axis":  "cross-surface color-role logic",
-                        "status":  "PAUSED",
-                        "current_contribution":  "Director intentionally deferred selection until app-asset / whole-app synthesis convergence; Design Sol\u0027s frozen F2 recommendation and F1 alternate remain preserved as local evidence, with no Director family selection",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-STA-01-01",
-                        "path":  "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
-                        "axis":  "non-color focus / selection state-treatment logic",
-                        "status":  "PROVISIONAL_INCUMBENT",
-                        "current_contribution":  "F2 Ring + Edge Witness bounded selection mechanism",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-SYM-01-01",
-                        "path":  "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json",
-                        "axis":  "primary symbol / app-icon identity geometry",
-                        "status":  "PROVISIONAL_INCUMBENT",
-                        "current_contribution":  "Director selected unchanged C0 Threshold K as provisional primary-symbol incumbent; frozen F1 remains historical challenger evidence",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-SYM-02-01",
-                        "path":  "docs/evidence/packets/PKT_SYM_02_REFINEMENT_EXPLORATION_CLOSURE_01.json",
-                        "axis":  "primary symbol refinement + independent exploration",
-                        "status":  "CLOSED_ZERO_SURVIVORS",
-                        "current_contribution":  "No new survivor; exact C0 Threshold K remains provisional incumbent under prior SYM-01 Director authority",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-MAT-01-01",
-                        "path":  "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json",
-                        "axis":  "structural material / shape grammar",
-                        "status":  "PROVISIONAL_INCUMBENT",
-                        "current_contribution":  "F1 Subtractive Channel color-independent authored field topology; Mineral Theater remains historical temporary material-role reference pending later synthesis",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-W0-O3-01",
-                        "path":  "docs/evidence/packets/PKT_W0_O3_WORDMARK_01.json",
-                        "axis":  "wordmark / shared-brand name carrier",
-                        "status":  "PROVISIONAL_INCUMBENT",
-                        "current_contribution":  "Director-approved O3 Balanced Hierarchy temporary W0 incumbent; deterministic source ready for integrated testing, not final wordmark authority",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-CMP-01-01",
-                        "path":  "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json",
-                        "axis":  "bounded shared-brand packet composition / interaction",
-                        "status":  "FROZEN_LOCAL_RESULT",
-                        "current_contribution":  "PASS_COMPATIBLE_COMPOSITION for exact C0 + MAT F1 + STA F2 + MOT F1A/CS2 on neutral synthetic APP/WEB carriers; compatibility evidence only",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-TYP-02-01",
-                        "path":  "docs/evidence/packets/PKT_TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHY_01.json",
-                        "axis":  "composition-supported typography / role grammar / reflow",
-                        "status":  "PROVISIONAL_INCUMBENT",
-                        "current_contribution":  "F1 Ratio Ladder provisional role grammar; system-ui remains measurement-only and final typeface remains unresolved",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-CMP-02-01",
-                        "path":  "docs/evidence/packets/PKT_CMP_02_IDENTITY_STACK_COMPOSITION_01.json",
-                        "axis":  "identity stack / wordmarkâ€“typography hierarchy composition",
-                        "status":  "FROZEN_LOCAL_RESULT",
-                        "current_contribution":  "PASS_COMPATIBLE_IDENTITY_STACK for exact C0 + O3 + TYP-02 F1 + MAT F1 + STA F2 across three bounded synthetic roles; compatibility evidence only",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-VFD-01-01",
-                        "path":  "docs/evidence/packets/PKT_VFD_01_SECOND_FAMILY_DIVERGENCE_CLOSURE_01.json",
-                        "axis":  "shared-brand second-family / whole-surface representation divergence",
-                        "status":  "CLOSED_ZERO_SURVIVORS",
-                        "current_contribution":  "No second-family incumbent; preserve P4 Rule-Bearing Mosaic Field as positive representation-mechanism evidence whose transfer failed anti-copy/content-topology independence",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-CTF-01-01",
-                        "path":  "docs/evidence/packets/PKT_CTF_01_SECOND_FAMILY_SURVIVOR_01.json",
-                        "axis":  "shared-brand second-family / whole-surface representation logic",
-                        "status":  "CONVERGENCE_EVIDENCE_CONSUMED",
-                        "current_contribution":  "R1 Interlaced Continuous Fiber Surface remains genuine second-family evidence; Director convergence is now resolved through Stage-first controlled synthesis rather than wholesale R1 adoption.",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-STAGE-CORE-01",
-                        "path":  "docs/evidence/packets/PKT_STAGE_CORE_BASELINE_01.json",
-                        "axis":  "native app / Stage core visual convergence",
-                        "status":  "FROZEN_PREDECESSOR_SUPERSEDED_BY_PKT_STAGE_CORE_02",
-                        "current_contribution":  "Frozen predecessor Stage baseline that established the five-character cone carrier; superseded as current visual master by PKT-STAGE-CORE-02 after the background-successor audit.",
-                        "production_authority":  false
-                    },
-                    {
-                        "packet_id":  "PKT-STAGE-CORE-02",
-                        "path":  "docs/evidence/packets/PKT_STAGE_CORE_02.json",
-                        "axis":  "native app / Stage core visual convergence / default background successor",
-                        "status":  "DIRECTOR_DELEGATED_FROZEN_CORE_APP_BASELINE",
-                        "current_contribution":  "Current five-character cone Stage baseline with the context-agnostic Kymaean causal-field background; no production-token or implementation authority.",
-                        "production_authority":  false
-                    }
-                ],
-    "known_whole_system_gaps":  [
-                                    "C0 Threshold K remains the provisional primary-symbol incumbent after SYM-02 closed with zero refinement/independent-concept survivors; no final symbol authority exists",
-                                    "F1 Ratio Ladder is the provisional composition-supported role grammar from TYP-02, but final typeface/font implementation remains unresolved; system-ui is measurement-only",
-                                    "O3 Balanced Hierarchy is the Director-approved temporary W0 wordmark incumbent for integration, but final wordmark/master geometry, device rendering and trademark clearance remain unresolved",
-                                    "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
-                                    "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
-                                    "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
-                                    "F1 Subtractive Channel is composition-compatible with exact C0, STA F2 and MOT F1A/CS2 on CMP-01 neutral carriers, but Mineral Theater/CLR/type/real-product synthesis remains untested; no final material system exists",
-                                    "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists",
-                                    "Phase-B convergence is resolved and PKT-STAGE-CORE-02 is the current frozen Stage visual baseline with the first context-agnostic causal-field background; final shared identity, palette, typeface, motion tokens, rail provenance, exact background production tokens and implementation authority remain unresolved.",
-                                    "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method",
-                                    "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
-                                    "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
-                                    "PERF-S1 F2 Source-Aligned Header remains provisional neutral attribution-coupling evidence. Methods 01, 02 and 03 all failed technically before subjective scoring because their frozen source-mask completeness laws left a visible old-header residual. No Stage result exists; PKT-STAGE-CORE-02 remains authoritative. A next construction method may change only source-header raster completeness/erasure while preserving F2 +177 px alignment, x=282 source anchor, fixed panel geometry and all nine evaluation criteria."
-                                ],
-    "synthesis_policy":  {
-                             "composition_packets_created":  [
-                                                                 "PKT-CMP-01-01",
-                                                                 "PKT-CMP-02-01"
-                                                             ],
-                             "whole_app_synthesis_packets_created":  [
-
-                                                                     ],
-                             "next_synthesis_trigger":  "After hosted-valid TECH-03, preregister one new bounded PERF-S1 F2 Stage construction method changing only source-header raster completeness/erasure; preserve F2 +177 px alignment, x=282 source anchor, panel geometry and all nine evaluation criteria. No construction before that method passes hosted validation.",
-                             "no_silent_gap_filling":  true,
-                             "latest_reentry_audit":  "docs/evidence/PHASE_C_POST_STATE_S1_REENTRY_AUDIT_04.json",
-                             "core_app_baseline_packet":  "PKT-STAGE-CORE-02",
-                             "latest_convergence_audit":  "docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_TECHNICAL_FAILURE_03.json"
-                         },
-    "authority_limit":  "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
+  "schema": "kymaean.design-packet-registry.v1",
+  "status": "ACTIVE",
+  "date": "2026-09-11",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "template": "docs/evidence/DESIGN_PACKET_TEMPLATE_01.json",
+  "purpose": "Provide one retrievable map of bounded current/provisional/closed visual-gate packets for later composition and whole-app synthesis without turning the registry itself into design authority.",
+  "packets": [
+    {
+      "packet_id": "PKT-MOT-F1A-01",
+      "path": "docs/evidence/packets/PKT_MOT_F1A_WITHIN_CONTEXT_SUCCESSION_01.json",
+      "axis": "motion / within-context succession",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F1A Tight bounded succession mechanism",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-MOT-CS2-01",
+      "path": "docs/evidence/packets/PKT_MOT_CS2_CONTEXT_SHIFT_01.json",
+      "axis": "motion / genuine context replacement",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "CS2 Balanced Crossfade Exchange with CUT fallback",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-TYP-01-CLOSE-01",
+      "path": "docs/evidence/packets/PKT_TYP_01_STRONG_INDEPENDENCE_CLOSURE_01.json",
+      "axis": "typography/editorial identity independence",
+      "status": "CLOSED_ZERO_SURVIVORS",
+      "current_contribution": "No incumbent; preserve typography as an unresolved whole-system gap",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-CLR-01-01",
+      "path": "docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json",
+      "axis": "cross-surface color-role logic",
+      "status": "PAUSED",
+      "current_contribution": "Director intentionally deferred selection until app-asset / whole-app synthesis convergence; Design Sol's frozen F2 recommendation and F1 alternate remain preserved as local evidence, with no Director family selection",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-STA-01-01",
+      "path": "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
+      "axis": "non-color focus / selection state-treatment logic",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F2 Ring + Edge Witness bounded selection mechanism",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-SYM-01-01",
+      "path": "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json",
+      "axis": "primary symbol / app-icon identity geometry",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Director selected unchanged C0 Threshold K as provisional primary-symbol incumbent; frozen F1 remains historical challenger evidence",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-SYM-02-01",
+      "path": "docs/evidence/packets/PKT_SYM_02_REFINEMENT_EXPLORATION_CLOSURE_01.json",
+      "axis": "primary symbol refinement + independent exploration",
+      "status": "CLOSED_ZERO_SURVIVORS",
+      "current_contribution": "No new survivor; exact C0 Threshold K remains provisional incumbent under prior SYM-01 Director authority",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-MAT-01-01",
+      "path": "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json",
+      "axis": "structural material / shape grammar",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F1 Subtractive Channel color-independent authored field topology; Mineral Theater remains historical temporary material-role reference pending later synthesis",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-W0-O3-01",
+      "path": "docs/evidence/packets/PKT_W0_O3_WORDMARK_01.json",
+      "axis": "wordmark / shared-brand name carrier",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Director-approved O3 Balanced Hierarchy temporary W0 incumbent; deterministic source ready for integrated testing, not final wordmark authority",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-CMP-01-01",
+      "path": "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json",
+      "axis": "bounded shared-brand packet composition / interaction",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "PASS_COMPATIBLE_COMPOSITION for exact C0 + MAT F1 + STA F2 + MOT F1A/CS2 on neutral synthetic APP/WEB carriers; compatibility evidence only",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-TYP-02-01",
+      "path": "docs/evidence/packets/PKT_TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHY_01.json",
+      "axis": "composition-supported typography / role grammar / reflow",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F1 Ratio Ladder provisional role grammar; system-ui remains measurement-only and final typeface remains unresolved",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-CMP-02-01",
+      "path": "docs/evidence/packets/PKT_CMP_02_IDENTITY_STACK_COMPOSITION_01.json",
+      "axis": "identity stack / wordmark–typography hierarchy composition",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "PASS_COMPATIBLE_IDENTITY_STACK for exact C0 + O3 + TYP-02 F1 + MAT F1 + STA F2 across three bounded synthetic roles; compatibility evidence only",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-VFD-01-01",
+      "path": "docs/evidence/packets/PKT_VFD_01_SECOND_FAMILY_DIVERGENCE_CLOSURE_01.json",
+      "axis": "shared-brand second-family / whole-surface representation divergence",
+      "status": "CLOSED_ZERO_SURVIVORS",
+      "current_contribution": "No second-family incumbent; preserve P4 Rule-Bearing Mosaic Field as positive representation-mechanism evidence whose transfer failed anti-copy/content-topology independence",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-CTF-01-01",
+      "path": "docs/evidence/packets/PKT_CTF_01_SECOND_FAMILY_SURVIVOR_01.json",
+      "axis": "shared-brand second-family / whole-surface representation logic",
+      "status": "CONVERGENCE_EVIDENCE_CONSUMED",
+      "current_contribution": "R1 Interlaced Continuous Fiber Surface remains genuine second-family evidence; Director convergence is now resolved through Stage-first controlled synthesis rather than wholesale R1 adoption.",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-STAGE-CORE-01",
+      "path": "docs/evidence/packets/PKT_STAGE_CORE_BASELINE_01.json",
+      "axis": "native app / Stage core visual convergence",
+      "status": "FROZEN_PREDECESSOR_SUPERSEDED_BY_PKT_STAGE_CORE_02",
+      "current_contribution": "Frozen predecessor Stage baseline that established the five-character cone carrier; superseded as current visual master by PKT-STAGE-CORE-02 after the background-successor audit.",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-STAGE-CORE-02",
+      "path": "docs/evidence/packets/PKT_STAGE_CORE_02.json",
+      "axis": "native app / Stage core visual convergence / default background successor",
+      "status": "DIRECTOR_DELEGATED_FROZEN_CORE_APP_BASELINE",
+      "current_contribution": "Current five-character cone Stage baseline with the context-agnostic Kymaean causal-field background; no production-token or implementation authority.",
+      "production_authority": false
+    }
+  ],
+  "known_whole_system_gaps": [
+    "C0 Threshold K remains the provisional primary-symbol incumbent after SYM-02 closed with zero refinement/independent-concept survivors; no final symbol authority exists",
+    "F1 Ratio Ladder is the provisional composition-supported role grammar from TYP-02, but final typeface/font implementation remains unresolved; system-ui is measurement-only",
+    "O3 Balanced Hierarchy is the Director-approved temporary W0 wordmark incumbent for integration, but final wordmark/master geometry, device rendering and trademark clearance remain unresolved",
+    "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
+    "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
+    "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
+    "F1 Subtractive Channel is composition-compatible with exact C0, STA F2 and MOT F1A/CS2 on CMP-01 neutral carriers, but Mineral Theater/CLR/type/real-product synthesis remains untested; no final material system exists",
+    "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists",
+    "Phase-B convergence is resolved and PKT-STAGE-CORE-02 is the current frozen Stage visual baseline with the first context-agnostic causal-field background; final shared identity, palette, typeface, motion tokens, rail provenance, exact background production tokens and implementation authority remain unresolved.",
+    "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method",
+    "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
+    "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
+    "PERF-S1 F2 Source-Aligned Header remains provisional neutral attribution-coupling evidence. Methods 01, 02 and 03 all failed technically before subjective scoring because their frozen source-mask completeness laws left a visible old-header residual. No Stage result exists; PKT-STAGE-CORE-02 remains authoritative. A next construction method may change only source-header raster completeness/erasure while preserving F2 +177 px alignment, x=282 source anchor, fixed panel geometry and all nine evaluation criteria."
+  ],
+  "synthesis_policy": {
+    "composition_packets_created": [
+      "PKT-CMP-01-01",
+      "PKT-CMP-02-01"
+    ],
+    "whole_app_synthesis_packets_created": [],
+    "next_synthesis_trigger": "After hosted-valid TECH-03, preregister one new bounded PERF-S1 F2 Stage construction method changing only source-header raster completeness/erasure; preserve F2 +177 px alignment, x=282 source anchor, panel geometry and all nine evaluation criteria. No construction before that method passes hosted validation.",
+    "no_silent_gap_filling": true,
+    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_STATE_S1_REENTRY_AUDIT_04.json",
+    "core_app_baseline_packet": "PKT-STAGE-CORE-02",
+    "latest_convergence_audit": "docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_TECHNICAL_FAILURE_03.json"
+  },
+  "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }
