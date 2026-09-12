@@ -148,7 +148,7 @@
     "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method",
     "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
     "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
-    "PERF-S1 F2 Source-Aligned Header is the sole provisional neutral attribution-coupling survivor; PKT-STAGE-CORE-02 remains authoritative and F2 must pass a separately frozen exact-incumbent Stage comparison before gaining any Stage authority. Beat terminology, history density, Archive causality, motion and runtime semantics remain excluded."
+    "PERF-S1 F2 Source-Aligned Header remains provisional neutral attribution-coupling evidence; exact-incumbent comparison Method 01 failed technically before scoring because its frozen glyph mask left dark MARLOWE antialiasing visible at the old header location. No Stage result exists; PKT-STAGE-CORE-02 remains authoritative and Method 02 may change only glyph-mask completeness."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -156,11 +156,11 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "After guarded PERF-S1 method/matrix promotion and closeout, run one separately frozen exact-incumbent Stage comparison with F2 Source-Aligned Header as the only attribution-coupling challenger; preserve every other Stage variable and do not retune F2.",
+    "next_synthesis_trigger": "Preregister PERF-S1-F2-STAGE-02 after the Method-01 technical failure checkpoint is hosted-valid; change only source-glyph raster completeness while keeping F2 +177 px alignment, source anchor, panel geometry and all nine evaluation criteria unchanged. No construction before Method-02 hosted validation.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_STATE_S1_REENTRY_AUDIT_04.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
-    "latest_convergence_audit": "docs/evidence/PERF_S1_RESULT_01.json"
+    "latest_convergence_audit": "docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_TECHNICAL_FAILURE_01.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

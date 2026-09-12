@@ -2032,3 +2032,19 @@ F2 is provisional neutral attribution-coupling evidence only. `PKT-STAGE-CORE-02
 **Next gate after guarded serial promotion/closeout:** one separately frozen exact-incumbent Stage comparison using F2 as the only Performance-attribution challenger. No F2b/reroll/retune is allowed.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-131 - PERF-S1 F2 Stage comparison method 01 stops on technical glyph-mask failure
+
+**State:** TECHNICAL METHOD FAILURE / NO SUBJECTIVE RESULT / F2 STILL PROVISIONAL / METHOD-02 PREREGISTRATION NEXT
+
+`docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_01.json` froze a +177 px translation of the existing `MARLOWE` Performance source-header raster while protecting every other Stage pixel. TECH-01 passed the frozen coordinate/pixel-isolation audit: exactly 856 pixels changed, all within the authorized 428 source glyph pixels plus their 428 translated destinations.
+
+Before any integration criterion was scored, exact Drive-readback inspection revealed a visible dark `MARLOWE` ghost at the incumbent header location. The frozen 428-pixel warm-color predicate omitted darker antialiased glyph pixels; the implementation conformed to Method 01, so removing the residual would require changing the frozen predicate and is not a lawful in-place repair.
+
+TECH-01 challenger `1R510iF-62NKO90ph2cl4mp9F_WP2eVGr`, board `1UzHfZdAkohs-cU3zf4qAxUF51ULieFyj`, and ghost detail `1tX7noBoG8szv3wtuujDenJ3GRuA13rzW` are preserved in Drive folder `1JRT37KdL3z3AXyPtb45Xv4VUuNOK5xG9` as rejected technical evidence.
+
+No subjective Stage score exists. `PKT-STAGE-CORE-02` remains authoritative and F2 remains provisional neutral attribution-coupling evidence only. F2b/design retuning is not authorized.
+
+**Next gate after hosted validation:** preregister PERF-S1-F2-STAGE-02 changing only source-glyph raster completeness; keep the F2 mechanism, +177 px translation, source anchor, panel geometry and all nine evaluation criteria exactly unchanged.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
