@@ -1836,3 +1836,15 @@ Remote serial deletion is authorized only after this checkpoint passes hosted do
 **Next gate:** hosted validation of this lifecycle checkpoint, then exact archive-tag/readback + strict-ancestor/zero-unique proof + remote serial deletion. After branch closeout, the consequential Director convergence review is the only creative next gate.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - GUARDED CTF-01 SERIAL PROMOTION LIFECYCLE.**
+
+## L-118 - CTF-01 serial lifecycle is closed; Director convergence is the sole creative gate
+
+**State:** CTF-01 SERIAL CLOSED / ARCHIVED / NO ACTIVE SERIAL DESIGN BRANCH / DIRECTOR CONVERGENCE REVIEW NEXT
+
+Exact CTF-01 serial source `84b496ddd1ae4f835199db1492f6ae62f83cf96e` is preserved under lightweight tag `archive/design/ctf01-content-topology-first-2026-09-11`. Readback matched exactly. Before deletion, `source...main` proved zero source-unique commits and one main-only lifecycle commit; the source was therefore a strict ancestor. The remote serial branch was deleted. Concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` remains preserved at `9308fb581c07d0b732cc488418a89c1c1ae4e750`.
+
+The design state now contains two genuinely distinct surviving family evidence sets: the existing provisional C0/O3/TYP/MAT/STA/MOT family/control and CTF-01 R1 Interlaced Continuous Fiber Surface. This satisfies the Phase-B roadmap prerequisite for deliberate convergence review but does not itself select the final family or authorize Phase C.
+
+**Next and only creative gate:** consequential Director convergence review. No automatic family blend, refinement, CLR-01 reentry, hero reopening, composition/synthesis, implementation, production asset, final identity or Phase-C execution before that decision.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN SERIAL CLOSEOUT; DIRECTOR CONVERGENCE DECISION RESERVED.**
