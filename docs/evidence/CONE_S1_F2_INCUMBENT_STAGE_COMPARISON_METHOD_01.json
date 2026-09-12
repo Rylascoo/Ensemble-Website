@@ -1,0 +1,127 @@
+{
+  "schema": "kymaean.cone-s1.f2-incumbent-stage-comparison-method.v1",
+  "status": "FROZEN_PRE_EVALUATION",
+  "date": "2026-09-11",
+  "branch": "design/cone-s1-f2-incumbent-stage-comparison-2026-09-11",
+  "program_id": "CONE-S1-F2-STAGE-01",
+  "parent_result": "docs/evidence/CONE_S1_RESULT_01.json",
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1431659
+  },
+  "question": "Does the frozen CONE-S1 F2 Balanced Atmospheric Taper materially improve the exact PKT-STAGE-CORE-02 Stage incumbent when translated into the real five-Character composition without weakening texture, state readability, hierarchy or Kymaean identity?",
+  "single_variable": "neutral Rest-state cone optical hierarchy: envelope width, taper, falloff, blur and vertical scale",
+  "excluded_variables": [
+    "palette and per-Character color identity",
+    "state-specific intensity semantics",
+    "motion timing",
+    "texture vocabulary",
+    "identity cues",
+    "floor pools",
+    "names/state labels/pips",
+    "right rail and Observed Cues",
+    "performance/history layout",
+    "creator controls",
+    "background identity",
+    "implementation"
+  ],
+  "f2_source_family": {
+    "envelope_width_pct_stage": 17.0,
+    "top_aperture_pct_envelope": 18,
+    "base_aperture_pct_envelope": 82,
+    "blur_px": 5,
+    "falloff": [[0,0.012],[42,0.06],[76,0.23],[100,0.045]],
+    "height_pct_optical_zone": 80.0
+  },
+  "full_stage_translation": {
+    "effective_optical_field_x_px": [150,1225],
+    "effective_field_width_px": 1075,
+    "target_envelope_width_px": 183,
+    "target_top_aperture_px": 33,
+    "target_base_aperture_px": 150,
+    "effective_optical_zone_px": 287.5,
+    "target_height_px": 230,
+    "character_floor_anchors_px": {
+      "Marlowe": [282,450],
+      "Dr. Voss": [466,405],
+      "Wren": [690,430],
+      "Iona": [890,410],
+      "Keir": [1102,455]
+    },
+    "translation_law": "Each target cone uses the same F2 geometry relative to its incumbent floor anchor. Existing floor positions/social arc remain fixed; no Character receives a different optical family."
+  },
+  "construction_method": {
+    "type": "DETERMINISTIC_PIXEL_COMPOSITING",
+    "source_beam_isolation": "Per-cone source trapezoids are removed with bounded OpenCV Telea inpainting before the challenger field is applied.",
+    "color_preservation": "Each cone's positive source-light residual determines its existing RGB direction; no new hue or palette value is introduced.",
+    "state_intensity_preservation": "Per-cone source residual luminance above the floor is measured and used to scale the F2 field, preserving relative incumbent state intensity rather than assigning new state meaning.",
+    "texture_preservation": "Only bounded high-frequency source residual is reintroduced at fixed low weight; no new texture vocabulary is authored.",
+    "floor_pool_preservation": "Original incumbent floor pools are restored after beam construction using fixed feathered ellipses; F2 does not reopen floor-pool design.",
+    "fixed_ui_preservation": "Top shell, right rail, performance/history, creator-action bar and footer are pixel-identical to the incumbent.",
+    "post_freeze_retune_allowed": false
+  },
+  "construction_preflight": {
+    "rejected_attempts": [
+      {
+        "id": "TECH-01",
+        "sha256": "fa69c6284c8f5d13274f44a72b5ff7f224a1dbc56eba05beb402cd4ac1555b19",
+        "drive_file_id": "1MUIkQGqK96lq3X20WeTHcV2evIrB8zJj",
+        "reason": "Perspective-warp residual produced a hard bright lower-cone V artifact and was rejected before evaluation."
+      },
+      {
+        "id": "TECH-02",
+        "sha256": "68c38360aa3b836a75bdf721b8e35533b0646de32cdf80c0a50ceee5440c9f8d",
+        "drive_file_id": "14KHTRX5m8ZTkD_jIrQgtO5JHxcGGQvjZ",
+        "reason": "Residual lower-cone geometry remained visible beneath the smooth field and was rejected before evaluation."
+      }
+    ],
+    "accepted_candidate": {
+      "drive_file_id": "1ggRgcd04JDtbmrVVWqSsJCow4BQ2YPCq",
+      "sha256": "ae0d368077dc13babb4c5e43195873b724dd94040544eb7104c1be9872c9e9a3",
+      "bytes": 1481310,
+      "width": 1672,
+      "height": 941,
+      "drive_redownload_hash_verified": true
+    },
+    "comparison_board": {
+      "drive_file_id": "1zAV0ivFLWsmL5o0ZAooWhXfl1Kgfyzdl",
+      "sha256": "5a9350d0deee08b05562fe943f2c6ff09b3a709d5726b2edc6f62e8140b66d9f",
+      "width": 3344,
+      "height": 991
+    }
+  },
+  "pixel_isolation_audit": {
+    "total_changed_pixels": 137273,
+    "total_pixels": 1573352,
+    "changed_fraction": 0.08724875298089683,
+    "changed_bbox_xyxy": [199,170,1184,482],
+    "exact_unchanged_regions": {
+      "top_shell_y_0_54": {"changed_pixels": 0, "pixels": 91960},
+      "right_rail_x_1235_plus_y_55_849": {"changed_pixels": 0, "pixels": 347415},
+      "performance_actions_footer_x_0_1234_y_555_plus": {"changed_pixels": 0, "pixels": 476710},
+      "lower_stage_x_0_1234_y_500_554": {"changed_pixels": 0, "pixels": 67925}
+    },
+    "interpretation": "All differences are bounded to the five beam optical fields and their immediate upper/floor-adjacent atmosphere; no shell, rail, performance, action, footer, or lower-stage continuation surface is rewritten."
+  },
+  "evaluation_criteria": [
+    "F2 must strengthen Characters as inhabited volumes of light rather than theatrical fixtures or software objects.",
+    "F2 must preserve or improve five-Character readability and discrete one-cone-per-Character presence.",
+    "F2 must preserve the shared dark-floor ensemble relation without merging equal Characters into one luminous field.",
+    "F2 must not weaken the existing state hierarchy or make Selected/Opportunity/Speaking/Listening distinctions less legible in context.",
+    "F2 must preserve the incumbent texture vocabulary and causal-field character strongly enough that the Stage remains recognizably Kymaean rather than generic atmospheric spotlights.",
+    "F2 must not increase competition with Production/Scene context, performance text, creator controls or right-rail hierarchy.",
+    "F2 must preserve the context-agnostic background and must not imply new relationship, role, emotion, authority or ODR semantics.",
+    "Promotion requires a material net improvement over PKT-STAGE-CORE-02; parity or mixed tradeoff retains the incumbent."
+  ],
+  "decision_law": {
+    "possible_results": ["PROMOTE_F2_STAGE_SUCCESSOR","RETAIN_INCUMBENT_F2_FAILS_INTEGRATION"],
+    "no_draw_by_default": true,
+    "no_post_result_retune": true,
+    "failure_consequence": "If F2 fails integrated Stage criteria, retain PKT-STAGE-CORE-02 and close this F2 comparison without F2b, reroll or geometry retune in the same gate.",
+    "promotion_consequence": "If F2 materially improves the incumbent, promote only the optical successor; no palette, state, motion, texture-token or implementation authority is created."
+  }
+}
