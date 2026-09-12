@@ -1,0 +1,136 @@
+{
+  "schema": "kymaean.state-s1.f4-incumbent-stage-comparison-result.v1",
+  "status": "RETAIN_INCUMBENT_F4_FAILS_INTEGRATION",
+  "date": "2026-09-12",
+  "program_id": "STATE-S1-F4-STAGE-01",
+  "branch": "design/state-s1-f4-incumbent-stage-comparison-2026-09-12",
+  "method": {
+    "path": "docs/evidence/STATE_S1_F4_INCUMBENT_STAGE_COMPARISON_METHOD_01.json",
+    "commit": "18778dd627895e3ff98d3e545f93dca533ddb670",
+    "sha256": "41fd3e6c8757977408629fd3eebf2aae11f0b0d21369600bab666bede5d2b470",
+    "status": "FROZEN_PRE_CONSTRUCTION_PRE_EVALUATION"
+  },
+  "preflight": {
+    "path": "docs/evidence/STATE_S1_F4_INCUMBENT_STAGE_COMPARISON_PREFLIGHT_01.json",
+    "commit": "3d4f9187ddad43c599287539549e6774b5bd3e14",
+    "sha256": "506fa275f79791f2ddf9fb8bd92d755bfda1165abf636f10cb06f6242eea7f25",
+    "status": "CONSTRUCTION_CLEAN_PRE_SUBJECTIVE_SCORING",
+    "hosted_document_status": "PASS",
+    "hosted_repository_boundaries": "PASS"
+  },
+  "incumbent": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "disposition": "RETAIN_CURRENT_CORE_APP_VISUAL_BASELINE"
+  },  "challenger": {
+    "family": "F4",
+    "name": "Balanced Dual-Channel Ladder",
+    "drive_file_id": "1izRf-VLWTiw2GgJ4ZN2tDnAUY86Hwvm1",
+    "sha256": "cd77b419de00b21a2f569d919bf97d32e244ebd3169416db5d54ee90322935d3",
+    "bytes": 1431649,
+    "drive_redownload_hash_verified": true,
+    "disposition": "FAIL_INTEGRATED_STAGE"
+  },
+  "comparison_board": {
+    "drive_file_id": "1YvJdT7nQ77CYJu_V_jw1M49KMEYqgehc",
+    "sha256": "45de82b7e0bb752db8b17ce0c4f204573ff71fe3216afb066df8df34851c9558",
+    "drive_redownload_hash_verified": true
+  },
+  "construction_evidence": {
+    "changed_pixels": 34565,
+    "total_pixels": 1573352,
+    "changed_fraction": 0.021969019011638845,
+    "changed_bbox_xyxy": [229, 202, 938, 450],
+    "outside_nonzero_mask_changed_pixels": 0,
+    "listening_controls_pixel_identical": true,
+    "fixed_shell_rail_performance_controls_footer_exact": true,
+    "construction_artifact": false
+  },
+  "supporting_measurement_not_semantic_oracle": {
+    "Marlowe_SPEAKING": {"whole_beam_mean_change_pct": -9.665, "core_mean_change_pct": -1.306, "envelope_mean_change_pct": -14.94},
+    "Wren_REST_selected_chrome_preserved": {"whole_beam_mean_change_pct": 0.946, "core_mean_change_pct": -5.736, "envelope_mean_change_pct": 5.85},
+    "Iona_CURRENT_OPPORTUNITY": {"whole_beam_mean_change_pct": -0.296, "core_mean_change_pct": 6.348, "envelope_mean_change_pct": -5.638}
+  },  "criteria": {
+    "static_state_distinction_materially_improves": {
+      "status": "FAIL_MIXED_TRADEOFF",
+      "finding": "Opportunity becomes more locally concentrated and Rest remains present, but Speaking loses enough whole-beam energy that the real colored Stage does not gain a clear material four-state hierarchy over the incumbent."
+    },
+    "rest_selected_wren_remains_alive": {
+      "status": "PASS",
+      "finding": "Wren remains visibly present and the existing selection chrome is unchanged; the cone does not become inactive or demoted."
+    },
+    "listening_remains_receptive_presence": {
+      "status": "PASS_PRESERVED",
+      "finding": "Dr. Voss and Keir are exact pixel-neutral controls under the frozen CREF/F4 Listening identity point, so their existing receptive-presence treatment is preserved rather than dimmed."
+    },
+    "current_opportunity_without_obligation_or_rank": {
+      "status": "PASS_LOCAL_GAIN",
+      "finding": "Iona's internal core becomes modestly clearer while the outer field softens, improving local may-act salience without a whole-beam rank staircase or selection implication."
+    },
+    "speaking_intensifies_without_ensemble_domination": {
+      "status": "FAIL",
+      "finding": "Marlowe's envelope is reduced too strongly in the integrated colored Stage. The local anti-domination gain is real, but the Speaking carrier loses performing energy instead of producing a clearer same-carrier intensification."
+    },
+    "avoid_software_meter_or_social_rank": {
+      "status": "PASS",
+      "finding": "The distributed envelope/core change does not read as a punctate status lamp or monotonic whole-beam rank meter."
+    },    "identity_texture_background_and_floor_hinge_preserved": {
+      "status": "PASS",
+      "finding": "Hue direction, internal causal texture, background, floor/name hinge, labels, pips and fixed UI remain materially or pixel-identically preserved within the frozen construction law."
+    },
+    "hierarchy_competition_not_increased": {
+      "status": "PASS_LOCAL_IMPROVEMENT",
+      "finding": "The challenger does not increase competition with Production/Scene context, performance text, controls or the right rail; Marlowe's reduced envelope slightly lowers upper-Stage competition."
+    },
+    "material_net_improvement": {
+      "status": "FAIL",
+      "finding": "Local Opportunity and hierarchy gains are offset by the Speaking regression. The outcome is a mixed tradeoff rather than the preregistered material net improvement required for promotion."
+    }
+  },
+  "decision": {
+    "result": "RETAIN_INCUMBENT_F4_FAILS_INTEGRATION",
+    "promote_f4": false,
+    "retain_pkt_stage_core_02": true,
+    "f4b_or_same_gate_retune_allowed": false,
+    "reason": "The preregistered decision law retains the incumbent on parity or mixed tradeoff. F4 preserves boundaries and improves Opportunity locally, but its Speaking regression prevents a material integrated improvement."
+  },
+  "authority_consequence": {
+    "stage_packet_changes": false,
+    "drive_master_changes": false,
+    "f4_full_stage_authority": false,
+    "f4_production_token_authority": false,
+    "f4_motion_authority": false,
+    "f4_palette_authority": false,
+    "f4_implementation_authority": false,
+    "state_s1_neutral_matrix_evidence_retained": true
+  },  "recursive_audit": {
+    "method_frozen_before_construction_and_scoring": true,
+    "preflight_committed_and_hosted_clean_before_scoring": true,
+    "challenger_and_board_drive_readback_verified": true,
+    "no_post_result_retune": true,
+    "single_variable_isolation_preserved": true,
+    "listening_control_identity_preserved": true,
+    "selection_semantics_preserved": true,
+    "incumbent_packet_unchanged": true,
+    "no_palette_or_motion_claim": true,
+    "no_floor_pool_or_geometry_reopening": true,
+    "no_odr_resolution": true,
+    "no_implementation_claim": true,
+    "material_defects_remaining_inside_comparison_gate": false
+  },
+  "next_action": {
+    "action": "After guarded serial promotion and closeout, run one bounded post-STATE-S1 Phase-C re-entry audit to select the next single incumbent-refinement variable.",
+    "same_step_prohibition": "Do not rerender or retune F4, open F4b, or begin another refinement variable inside this comparison-result gate.",
+    "blocked_or_unresolved": [
+      "Observed Cues",
+      "right-rail provenance/semantics",
+      "pips",
+      "inter-character arcs",
+      "exact redundant identity cue",
+      "final palette/type/motion",
+      "ODR-05/07/14/15/19/30"
+    ]
+  },
+  "result": "RETAIN PKT-STAGE-CORE-02. F4 Balanced Dual-Channel Ladder fails integrated Stage promotion because its local gains are offset by a material Speaking regression. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}

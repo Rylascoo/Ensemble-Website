@@ -1986,3 +1986,19 @@ F4 is provisional neutral static state-salience evidence only. It is not a produ
 **Next gate after guarded serial promotion/closeout:** one separately frozen bounded exact-incumbent Stage comparison using F4 as the only static state-salience challenger. Preserve all other Stage variables and do not begin that comparison inside the STATE-S1 method/matrix gate.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-128 - F4 full-Stage comparison retains PKT-STAGE-CORE-02
+
+**State:** FROZEN INTEGRATION COMPARISON COMPLETE / F4 FAILS PROMOTION / INCUMBENT RETAINED / NO F4B
+
+`docs/evidence/STATE_S1_F4_INCUMBENT_STAGE_COMPARISON_METHOD_01.json` froze the exact integrated F4 translation before construction or scoring. `docs/evidence/STATE_S1_F4_INCUMBENT_STAGE_COMPARISON_PREFLIGHT_01.json` then froze the clean challenger and comparison board after Drive readback. Challenger Drive file `1izRf-VLWTiw2GgJ4ZN2tDnAUY86Hwvm1` is SHA-256 `cd77b419de00b21a2f569d919bf97d32e244ebd3169416db5d54ee90322935d3`; comparison board `1YvJdT7nQ77CYJu_V_jw1M49KMEYqgehc` is SHA-256 `45de82b7e0bb752db8b17ce0c4f204573ff71fe3216afb066df8df34851c9558`.
+
+The deterministic challenger changes 34,565 of 1,573,352 pixels (2.197%), all within the frozen Marlowe/Wren/Iona salience masks. Dr. Voss and Keir remain exact Listening controls, and shell, rail, performance/history, controls, footer and lower Stage audit regions remain pixel-identical.
+
+Integrated scoring finds a mixed tradeoff. F4 preserves Rest/Listening presence, avoids rank/status-meter semantics, and gives Iona a modestly clearer Opportunity core without disturbing selection or fixed UI. However Marlowe's Speaking envelope loses too much whole-beam intensity in the real colored Stage, weakening the same-carrier performing signal that STATE-S1 was meant to improve.
+
+`docs/evidence/STATE_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json` therefore records **RETAIN_INCUMBENT_F4_FAILS_INTEGRATION**. `PKT-STAGE-CORE-02` and Drive master `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH` remain unchanged. F4 gains no Stage, production-token, motion, palette or implementation authority, and no F4b/reroll/retune is allowed in this gate.
+
+**Next gate after guarded serial promotion/closeout:** one bounded post-STATE-S1 Phase-C re-entry audit to select the next single incumbent-refinement variable. Do not begin another render or implementation package in the same step.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
