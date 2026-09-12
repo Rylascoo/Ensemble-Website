@@ -1,0 +1,134 @@
+{
+  "schema": "kymaean.perf-s1.f2-incumbent-stage-comparison-method.v1",
+  "status": "FROZEN_PRE_CONSTRUCTION_PRE_EVALUATION",
+  "date": "2026-09-12",
+  "branch": "design/perf-s1-f2-incumbent-stage-comparison-2026-09-12",
+  "program_id": "PERF-S1-F2-STAGE-01",
+  "parent_result": "docs/evidence/PERF_S1_RESULT_01.json",
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1431659,
+    "authenticated_drive_recovery_verified_before_method_freeze": true
+  },
+  "question": "Does frozen PERF-S1 F2 Source-Aligned Header materially improve attribution of the dominant Performance to Marlowe in the exact PKT-STAGE-CORE-02 Stage while keeping Performance a shared Stage occurrence and preserving every other Stage variable?",
+  "single_variable": "horizontal source attribution of the existing dominant Performance source header",
+  "excluded_variables": [
+    "Performance panel position, size, border, background or opacity",
+    "dominant Performance quote copy, line breaks or typography",
+    "Recent Beats label, rows, order, density or terminology",
+    "Character/cone position, geometry, state, hue, texture or floor treatment",
+    "Production/Scene context",
+    "right rail and Observed Cues",
+    "creator controls and footer",
+    "motion, animation or transition",
+    "Archive causality, runtime state semantics or durable consequence meaning",
+    "implementation"
+  ],  "source_authority": {
+    "f2_name": "Source-Aligned Header",
+    "f2_scope": "PROVISIONAL_NEUTRAL_ATTRIBUTION_COUPLING_ONLY",
+    "f2_stage_authority_before_this_comparison": false,
+    "incumbent_header_text": "MARLOWE",
+    "performing_character": "Marlowe",
+    "source_character_floor_anchor_px": [282, 450],
+    "anchor_source": "Frozen incumbent carrier geometry already recorded by STATE-S1; this comparison does not remeasure or move the Character carrier."
+  },
+  "full_stage_translation": {
+    "incumbent_header_search_box_xyxy": [48, 572, 160, 600],
+    "incumbent_glyph_bbox_xyxy_inclusive": [65, 580, 144, 591],
+    "incumbent_glyph_center_x_px": 104.5,
+    "target_glyph_center_x_px": 281.5,
+    "source_anchor_x_px": 282,
+    "horizontal_translation_px": 177,
+    "target_glyph_bbox_xyxy_inclusive": [242, 580, 321, 591],
+    "vertical_translation_px": 0,
+    "alignment_error_px": 0.5,
+    "translation_law": "Move only the existing MARLOWE source-header raster glyphs horizontally by +177 px. Do not render replacement text, move the panel or alter quote/history geometry."
+  },
+  "glyph_mask_law": {
+    "search_box_xyxy": [48, 572, 160, 600],
+    "pixel_predicate": "Within the search box, select a source-header glyph pixel iff R>45, (R-G)>4 and (G-B)>2 in the incumbent sRGB uint8 raster.",
+    "expected_mask_pixels": 428,
+    "expected_mask_bbox_xyxy_inclusive": [65, 580, 144, 591],
+    "source_pixel_preservation": "Destination glyph pixels copy the exact incumbent RGB values from their source-mask pixels; no recoloring or font rasterization is allowed."
+  },  "source_erasure_law": {
+    "type": "MASK_ONLY_LOCAL_BACKGROUND_RECONSTRUCTION",
+    "replacement_rule": "For each source-mask pixel (x,y), replace only that pixel with the per-channel median of the incumbent pixels at the same x over rows y=574..578 and y=593..597 inclusive.",
+    "reason": "Those fixed sampling strips are blank local panel background above/below the incumbent header and avoid quote/history content; only source glyph pixels are reconstructed.",
+    "no_inpainting": true,
+    "no_neighbor_geometry_change": true
+  },
+  "destination_compositing_law": {
+    "write_order": "First erase all source-mask pixels under source_erasure_law, then copy each original source-mask RGB value to (x+177,y).",
+    "collision_rule": "Any destination coordinate outside the expected target bbox or any overlap with an existing non-background semantic glyph fails construction before scoring.",
+    "resampling": "none",
+    "alpha_blending": "none",
+    "color_transform": "none"
+  },
+  "pixel_preservation_law": {
+    "only_permitted_changed_coordinates": "the 428 source glyph-mask coordinates and their +177 px translated destination coordinates",
+    "must_be_exact": [
+      "all pixels outside those source/destination glyph coordinates",
+      "Performance panel frame/background outside source erasure glyph pixels",
+      "dominant quote and quotation marks",
+      "Recent Beats label and all four history rows",
+      "all Character/cone/name/state/pip pixels",
+      "Production/Scene context",
+      "right rail including Observed Cues",
+      "creator actions and footer"
+    ],
+    "semantic_law": "The only visual claim tested is whether existing explicit source identity becomes clearer through horizontal header alignment."
+  },  "construction_preflight": {
+    "required": [
+      "input hash/size/dimensions equal frozen baseline",
+      "glyph mask contains exactly 428 pixels and exact expected bbox",
+      "output remains 1672x941 RGB",
+      "all changed pixels are a subset of source-mask union translated-destination coordinates",
+      "dominant quote and Recent Beats rows are pixel-identical",
+      "all Character/cone/name/state/pip pixels are pixel-identical",
+      "shell, Production/Scene, right rail, controls and footer are pixel-identical",
+      "target glyph center remains within 1 px of Marlowe source anchor x=282",
+      "challenger and side-by-side board receive immutable hashes before subjective scoring"
+    ],
+    "technical_failure_law": "A construction or preservation defect rejects that technical attempt before scoring. Repair may only conform implementation to this already-frozen algorithm; no translation, mask predicate, source anchor, evaluation criterion or F2 mechanism may change."
+  },
+  "evaluation_criteria": [
+    "F2 must make Marlowe attribution immediately clearer than the incumbent detached left-aligned header.",
+    "The dominant Performance must still read as one shared Stage occurrence rather than Marlowe's private card, chat bubble or direct-message surface.",
+    "The fixed panel must remain compositionally stable; source attribution may move inside it without making the panel itself appear to move toward Marlowe.",
+    "The aligned header must not compete with or visually fuse into Marlowe's cone/name/state carrier.",
+    "The quote and Recent Beats hierarchy must remain materially unchanged and readable as dominant current Performance plus secondary recent history.",
+    "The relocation must not imply Current Opportunity, selection, causal direction, Observation/Knowledge/Memory or durable consequence.",
+    "The change must not increase competition with Production/Scene context, creator controls or the right rail.",
+    "The relocated header must remain visually balanced inside the real Stage panel and must not create a conspicuous empty-left / heavy-middle artifact.",
+    "Promotion requires a material net improvement over PKT-STAGE-CORE-02; parity or mixed tradeoff retains the incumbent."
+  ],  "decision_law": {
+    "possible_results": [
+      "PROMOTE_PERF_S1_F2_STAGE_SUCCESSOR",
+      "RETAIN_INCUMBENT_F2_FAILS_INTEGRATION"
+    ],
+    "no_draw_by_default": true,
+    "no_post_result_retune": true,
+    "no_f2b_or_replacement_in_same_gate": true,
+    "failure_consequence": "Retain PKT-STAGE-CORE-02 and close the F2 comparison without F2b, alternative translation, panel motion or a replacement attribution family in this gate.",
+    "promotion_consequence": "Promote only the bounded Performance source-header attribution successor. No Beat/history-density, Archive, motion, palette, runtime-semantic, implementation or ODR authority is created."
+  },
+  "recursive_pre_evaluation_audit": {
+    "exact_incumbent_bytes_verified": true,
+    "single_variable_isolation": true,
+    "f2_mechanism_unchanged_from_frozen_perf_s1": true,
+    "existing_header_raster_reused": true,
+    "no_font_rendering_or_copy_change": true,
+    "panel_geometry_not_reopened": true,
+    "quote_and_history_geometry_protected": true,
+    "character_carriers_protected": true,
+    "no_motion_palette_or_implementation_claim": true,
+    "no_odr_resolution": true,
+    "post_scoring_retune_prohibited": true,
+    "material_defects_remaining_before_construction": false
+  },
+  "next_action": "Commit and host-validate this preregistration, then construct exactly one F2 challenger from the verified incumbent bytes under this frozen raster-translation algorithm. Do not score until preservation checks and immutable challenger/comparison hashes are complete."
+}
