@@ -2134,3 +2134,19 @@ Under workflow law, an audit that cannot be made clean inside authorized scope s
 **Next gate after guarded promotion and serial closeout:** one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-137 - Post-PERF-S1 Phase-C re-entry selects SEL-S1 Stage focus / selection hinge
+
+**State:** RE-ENTRY AUDIT PASS / `SEL-S1` SELECTED / METHOD CONSTRUCTION NEXT / NO RENDER AUTHORIZED
+
+`docs/evidence/PHASE_C_POST_PERF_S1_REENTRY_AUDIT_05.json` re-audits unresolved `PKT-STAGE-CORE-02` variables after the PERF-S1 F2 exact-incumbent comparison closes with no subjective result. Same-gate F2 recovery is ineligible after five technical failures and provenance exhaustion; CIR-S1 has no new cue evidence; color remains parked; right-rail/Observed Cues, pips and arcs remain semantics-blocked; creator actions, timer/persistence, provider/cost placement and implementation remain product/runtime dependent.
+
+The next single variable is **SEL-S1 — Stage Character Focus / Selection Hinge 01**. Stage interaction law already requires focus/selection feedback around the Character floor/name relationship, explicitly forbids a full-cone container, keeps the cone materially unchanged, and separates `USER SELECTION` from `CURRENT OPPORTUNITY`, `SPEAKING` and `TAKE A SEAT`.
+
+Prior `PKT-STA-01-01` F2 Ring + Edge Witness and CMP-01 coexistence evidence make the axis mechanically mature enough to test, but they do not receive automatic Stage authority. SEL-S1 must therefore treat a faithful STA-01 F2 Stage adaptation as prior-evidence control while comparing Stage-specific floor/name-local mechanisms under non-color, keyboard-focus, focus+selected, 2–5 Character, 320px and forced-colors constraints.
+
+SEL-S1 may not redesign Take a Seat or Intervene, change cone geometry/state salience, reopen identity cues, assign pip/arc meaning, choose palette/motion/type, alter Performance/history, or create WinUI/runtime implementation authority. Zero survivors remains valid and no post-exposure reroll/retune is allowed.
+
+**Next gate:** after guarded re-entry promotion/closeout, construct and recursively audit the frozen SEL-S1 deterministic method contract plus neutral Stage-hinge specimen matrix before any full Stage image generation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

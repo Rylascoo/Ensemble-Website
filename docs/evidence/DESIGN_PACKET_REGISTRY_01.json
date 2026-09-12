@@ -148,7 +148,8 @@
     "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method",
     "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
     "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
-    "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance."
+    "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance.",
+    "SEL-S1 Stage Character Focus / Selection Hinge 01 is selected as the next Phase-C incumbent-refinement gate; Stage focus/selection remains unresolved while PKT-STA-01-01 F2 Ring + Edge Witness and CMP-01 are prior evidence only, not Stage authority"
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -156,9 +157,9 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "After hosted-valid promotion and serial closeout of the PERF-S1 F2 technical-exhaustion record, run one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable. Do not continue Method-06 recovery or treat F2 as a Stage pass/fail.",
+    "next_synthesis_trigger": "SEL-S1 method construction: freeze and recursively audit the neutral Stage floor/name-hinge focus/selection method and specimen matrix before any full Stage render; preserve cone geometry/state salience and keep Take-a-Seat/Intervene semantics outside the gate.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_STATE_S1_REENTRY_AUDIT_04.json",
+    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_PERF_S1_REENTRY_AUDIT_05.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_TECHNICAL_EXHAUSTION_CLOSEOUT_01.json"
   },
