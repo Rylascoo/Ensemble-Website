@@ -1,0 +1,85 @@
+{
+  "schema": "kymaean.perf-s1.f2-incumbent-stage-comparison-technical-failure.v3",
+  "status": "TECHNICAL_METHOD_FAILURE_NO_SUBJECTIVE_RESULT",
+  "date": "2026-09-12",
+  "program_id": "PERF-S1-F2-STAGE-03",
+  "branch": "design/perf-s1-f2-incumbent-stage-comparison-2026-09-12",
+  "method": "docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_03.json",
+  "method_commit": "c5f84ee106a78fdbd4dd6264df1a552f82d34ddb",
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0"
+  },
+  "rejected_attempt": {
+    "id": "TECH-03",
+    "drive_folder_id": "1JRT37KdL3z3AXyPtb45Xv4VUuNOK5xG9",
+    "challenger_drive_file_id": "1DgI4miJ3aKmCbAiuwL8NX231Z_qq97ms",
+    "challenger_sha256": "07fda078f0f25322564fe2c16faec0e8cf0177d98923fa60941f09c24f3cee0a",
+    "comparison_board_drive_file_id": "1iczjExyF7YI1aZ5qaDnLE_XeZMzQ5vVV",
+    "comparison_board_sha256": "b3a508906fd72c1781fd8007fd9adde8f4ee2368d2cbe06942e19c1b459a44b9",
+    "integrity_crop_drive_file_id": "1tpvdPv5Ucktz2RBXDjj1Chhvs4tohazY",
+    "integrity_crop_sha256": "67553e8e4bfaa166917666206a53ea06c1cba72ea562d296751bfc18f8fb4af5",
+    "drive_readback_verified": true
+  },
+  "construction_audit": {
+    "method03_source_mask_pixels": 871,
+    "expected_changed_coordinates_max": 1742,
+    "actual_changed_pixels": 1742,
+    "actual_changed_bbox_xyxy_inclusive": [65, 580, 321, 591],
+    "all_changes_inside_frozen_source_or_destination_coordinates": true,
+    "non_header_stage_pixels_exact": true,
+    "top_shell_changed_pixels": 0,
+    "character_stage_region_changed_pixels": 0,
+    "right_rail_changed_pixels": 0,
+    "creator_controls_footer_changed_pixels": 0
+  },
+  "failure": {
+    "class": "METHOD03_ONE_PIXEL_NEIGHBORHOOD_STILL_UNDERCOVERS_RESIDUAL_GLYPH_SHADOW",
+    "finding": "The 871-pixel Method-03 mask removes the warm raster and its one-pixel 8-connected neighborhood, but the mandatory pre-score integrity crop still shows a faint legible MARLOWE residual at the incumbent source location.",
+    "visual_evidence": "REJECTED TECH-03 — Method03 Header Integrity Crop.png",
+    "repair_under_method_03_possible": false,
+    "reason_repair_is_forbidden": "Method 03 freezes the 871-pixel completeness rule. Removing the remaining residual would require a new preregistered construction law rather than mutating Method 03 after construction."
+  },
+  "scoring_disposition": {
+    "subjective_scoring_started": false,
+    "design_result": null,
+    "f2_stage_pass": false,
+    "f2_stage_fail": false,
+    "incumbent_replaced": false,
+    "nine_integration_criteria_scored": 0,
+    "note": "The attempt stopped at the mandatory pre-score ghost-integrity check."
+  },
+  "authority_consequence": {
+    "pkt_stage_core_02_unchanged": true,
+    "f2_remains_provisional_neutral_evidence": true,
+    "f2_stage_authority": false,
+    "f2b_or_design_retune_authorized": false,
+    "method_03_may_not_be_mutated": true
+  },
+  "recovery_boundary": {
+    "allowed_next_step": "After this TECH-03 failure is committed and hosted-validated, preregister a new bounded construction method changing only source-glyph/shadow raster completeness.",
+    "must_hold_exact": [
+      "F2 Source-Aligned Header mechanism",
+      "+177 px horizontal translation",
+      "Marlowe frozen source anchor x=282",
+      "fixed Performance panel geometry",
+      "dominant quote and Recent Beats pixels/semantics",
+      "all nine integration criteria",
+      "mixed-tradeoff-retains-incumbent decision law",
+      "no F2b, alternate attribution family or visual retune"
+    ],
+    "may_change_only": "the deterministic source-header raster-completeness/erasure rule needed to remove the remaining residual glyph/shadow pixels",
+    "no_candidate_construction_before_next_method_host_validation": true
+  },
+  "recursive_audit": {
+    "technical_defect_caught_before_design_scoring": true,
+    "rejected_bytes_preserved": true,
+    "drive_readback_verified": true,
+    "method_03_immutability_preserved": true,
+    "f2_design_mechanism_not_retuned": true,
+    "incumbent_authority_preserved": true,
+    "no_subjective_result_claimed": true,
+    "material_defects_remaining_in_method_03": true
+  }
+}

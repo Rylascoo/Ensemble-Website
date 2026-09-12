@@ -2064,3 +2064,21 @@ TECH-02 challenger `1UCGjjr4qRqJUgZJy01KprdbAopONCOB7`, board `1ahGUsMUj9mEKsg4c
 **Next gate after hosted validation:** preregister PERF-S1-F2-STAGE-03 changing only deterministic inclusion of the remaining adjacent dark glyph/shadow raster while holding F2 geometry and the nine evaluation criteria exact.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
+
+## L-133 - PERF-S1 F2 Stage comparison method 03 stops on residual-shadow technical failure
+
+**State:** TECHNICAL METHOD FAILURE / NO SUBJECTIVE RESULT / F2 STILL PROVISIONAL / NEXT CONSTRUCTION METHOD PREREGISTRATION REQUIRED
+
+`docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_03.json` froze the Method-02 warm raster plus its one-pixel 8-connected neighborhood: 871 source pixels translated +177 px with all non-header Stage pixels protected.
+
+TECH-03 passes its mechanical isolation audit exactly: 1,742 changed pixels, comprising 871 source-mask pixels plus 871 translated destinations, with zero changes elsewhere in the Stage.
+
+Before any of the nine integration criteria was scored, the mandatory pre-score integrity crop still showed a faint legible `MARLOWE` residual at the original source position. Method 03 therefore fails as a technical construction method rather than as a design result.
+
+Rejected challenger `1DgI4miJ3aKmCbAiuwL8NX231Z_qq97ms`, board `1iczjExyF7YI1aZ5qaDnLE_XeZMzQ5vVV`, and integrity crop `1tpvdPv5Ucktz2RBXDjj1Chhvs4tohazY` are preserved and Drive-readback verified in evidence folder `1JRT37KdL3z3AXyPtb45Xv4VUuNOK5xG9`.
+
+`PKT-STAGE-CORE-02` remains authoritative. F2 remains provisional neutral attribution-coupling evidence only; no F2b/design retune or subjective Stage score is authorized.
+
+**Next gate after hosted validation:** preregister one new bounded construction method changing only source-header raster completeness/erasure while keeping F2 +177 px alignment, Marlowe anchor x=282, fixed panel geometry and all nine evaluation criteria unchanged.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
