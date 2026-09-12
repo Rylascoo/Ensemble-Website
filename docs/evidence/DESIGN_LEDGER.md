@@ -2116,3 +2116,21 @@ No subjective Stage score exists. `PKT-STAGE-CORE-02` remains authoritative and 
 **Next gate after hosted validation:** preregister PERF-S1-F2-STAGE-06 changing only deterministic source-background reconstruction/erasure inside the same full 80x12 envelope. Preserve F2 alignment, exact destination transfer, panel geometry and all nine criteria exactly.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
+
+## L-136 - PERF-S1 F2 Stage comparison closes with no subjective result after technical recovery exhaustion
+
+**State:** TECHNICAL EXHAUSTION CLOSEOUT / ZERO SUBJECTIVE STAGE CRITERIA SCORED / F2 NOT PROMOTED OR DESIGN-REJECTED / PHASE-C RE-ENTRY NEXT
+
+TECH-05 passed both hosted repository checks at `ac6837a0dda08639b841ca15ec34536194159f8e`, completing five immutable construction-method attempts. Methods 01-03 left source-header raster; Methods 04-05 removed the word but left a visible 80x12 source reconstruction scar. No attempt passed the mandatory pre-score integrity gate.
+
+A provenance-first recovery audit then checked the frozen predecessor `1PIlvYvyE17VGxOZ3JCvWYz1LuqkoOENy` against current master `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH`. The 1,191x266 Performance-panel comparison rectangle is pixel-identical across all 316,806 pixels; the 80x12 source bbox is also exact-identical. The predecessor Drive folder contains only the baked frozen raster, and repository source search found no exact clean rendered `MARLOWE` / `Recent Beats` panel source.
+
+Source-only vertical, Coons, harmonic, inpainting, polynomial and donor-based reconstruction families were examined only as recovery analysis and were never frozen or exposed as F2 challengers; all retained a materially detectable patch/scar. Continuing with Method 06 would therefore be result-aware reconstruction proliferation without materially new source evidence.
+
+Under workflow law, an audit that cannot be made clean inside authorized scope stops on the blocker; budget/recovery exhaustion does not force a winner. `docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_TECHNICAL_EXHAUSTION_CLOSEOUT_01.json` therefore closes the exact-incumbent comparison with **no subjective result**. The frozen PROMOTE/RETAIN design decision law was never entered because no technically valid challenger reached scoring.
+
+`PKT-STAGE-CORE-02` remains authoritative. F2 remains historical provisional neutral attribution-coupling evidence only: it neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. Any future revisit requires a separately authorized gate plus materially new clean-plate/source provenance.
+
+**Next gate after guarded promotion and serial closeout:** one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

@@ -1,0 +1,100 @@
+{
+  "schema": "kymaean.perf-s1.f2-incumbent-stage-comparison-technical-exhaustion-closeout.v1",
+  "status": "CLOSED_NO_SUBJECTIVE_RESULT_TECHNICAL_CONSTRUCTION_EXHAUSTED",
+  "date": "2026-09-12",
+  "program_id": "PERF-S1-F2-STAGE",
+  "branch": "design/perf-s1-f2-incumbent-stage-comparison-2026-09-12",
+  "authority": {
+    "workflow": "docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md",
+    "continuity": "docs/DESIGN_CONTINUITY.md",
+    "parent_result": "docs/evidence/PERF_S1_RESULT_01.json",
+    "initial_method": "docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_01.json"
+  },
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "dimensions": [1672, 941]
+  },
+  "technical_attempt_chain": [
+    {"id":"TECH-01","method_commit":"70f90df","failure_commit":"a624923","failure":"incomplete warm-glyph mask left visible source ghost"},
+    {"id":"TECH-02","method_commit":"f7dba5f","failure_commit":"893b663","failure":"complete warm raster still omitted adjacent dark glyph/shadow raster"},
+    {"id":"TECH-03","method_commit":"c5f84ee","failure_commit":"4ea436c","failure":"one-pixel neighborhood expansion still left visible residual shadow"},
+    {"id":"TECH-04","method_commit":"fac7ae2","failure_commit":"1be0a69","failure":"full-envelope vertical-strip reconstruction removed the word but created a visible source rectangle scar"},
+    {"id":"TECH-05","method_commit":"bb94f39","failure_commit":"ac6837a","failure":"exact edge-anchored row interpolation remained a visible dark source rectangle scar"}
+  ],  "post_tech05_recovery_audit": {
+    "method_06_preregistered": false,
+    "challenger_06_constructed": false,
+    "provenance_first_search_completed": true,
+    "predecessor_drive_file_id": "1PIlvYvyE17VGxOZ3JCvWYz1LuqkoOENy",
+    "predecessor_sha256": "4e86d51b78bc6dc73877741c5190f2a25f59c45305f609bbcb2fc6ac19c25fcc",
+    "predecessor_parent_folder_id": "1IisuzL0sVMg7jmOdPgiJiv5pu6Ubtrkm",
+    "predecessor_parent_contents": "only the frozen predecessor raster",
+    "performance_panel_comparison_xyxy_inclusive": [28, 556, 1218, 821],
+    "performance_panel_pixels_compared": 316806,
+    "predecessor_successor_panel_changed_pixels": 0,
+    "performance_panel_rgb_sha256_both": "ae19d92ba677de4a580b001756c58ee8d511fafd8582a45475c0c1a40cd69f18",
+    "source_bbox_rgb_sha256_both": "4d7af31a84116ea16c2f481482609658cd4ec811b2e9d244e65893dae88d36a0",
+    "finding": "The accepted background successor preserved the baked Performance panel exactly from its predecessor; the predecessor does not supply a clean pre-label plate.",
+    "repository_source_search": "Committed prototype/source search found no exact rendered MARLOWE plus Recent Beats Stage-panel construction source. prototypes/perf-s1/harness.html remains a neutral method harness rather than a clean plate for the frozen raster master.",
+    "successor_provenance_finding": "Stage authority records deterministic background compositing onto the exact frozen master while preserving Performance panel pixels exactly; no separate clean Performance-panel plate is named or stored as current provenance."
+  },
+  "source_only_reconstruction_analysis": {
+    "candidate_render_status": "NONE_OF_THESE_WERE_FROZEN_METHODS_OR_F2_CHALLENGERS",
+    "families_examined": [
+      "vertical interpolation",
+      "Coons patch",
+      "harmonic fill",
+      "OpenCV TELEA and Navier-Stokes inpainting variants",
+      "polynomial surface fits",
+      "target-background donor swap",
+      "donor plus harmonic correction"
+    ],    "finding": "Every examined inference-only family retained a materially detectable source patch/scar in source-only inspection. Continuing to invent reconstruction rules would be result-aware method proliferation without new source evidence.",
+    "not_a_design_result": true
+  },
+  "governing_stop_law": {
+    "workflow_rule": "If the audit cannot be made clean inside authorized design scope, stop on the blocker and report it. Do not convert an unresolved defect into an approval request.",
+    "continuity_rule": "Budget exhaustion does not force a winner; the frozen method determines selection, zero survivors, termination or a separately authorized new program.",
+    "application": "Five hosted-valid construction methods exhausted the authorized source-erasure recovery family and provenance supplies no exact clean plate. A sixth inferred fill would not add materially new evidence."
+  },
+  "scoring_disposition": {
+    "technical_pre_score_gate_ever_passed": false,
+    "subjective_scoring_started": false,
+    "nine_integration_criteria_scored": 0,
+    "design_result": null,
+    "f2_stage_pass": false,
+    "f2_stage_fail": false,
+    "comparison_decision_law_entered": false,
+    "reason": "The frozen PROMOTE/RETAIN design outcomes apply only after a technically valid challenger reaches integration scoring; none did."
+  },
+  "authority_consequence": {
+    "pkt_stage_core_02_unchanged": true,
+    "incumbent_replaced": false,
+    "f2_stage_authority": false,
+    "f2_remains_historical_provisional_neutral_evidence": true,
+    "method_06_same_gate_recovery_authorized": false,
+    "f2b_or_design_retune_authorized": false,
+    "future_revisit_requires_separately_authorized_gate_and_materially_new_clean_plate_or_source_provenance": true
+  },  "next_action": {
+    "after_hosted_validation_and_serial_promotion": "Open one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable from current authority.",
+    "same_step_prohibitions": [
+      "no Method-06 construction recovery",
+      "no F2b or alternate attribution family",
+      "no panel motion or translation change",
+      "no history-density, Beat/Archive, motion, palette, runtime-semantic or implementation expansion",
+      "no claim that F2 passed or failed Stage integration"
+    ]
+  },
+  "recursive_audit": {
+    "technical_attempts_preserved": true,
+    "drive_evidence_preserved": true,
+    "provenance_checked_before_termination": true,
+    "no_clean_plate_found": true,
+    "no_post_result_retune": true,
+    "no_subjective_result_fabricated": true,
+    "incumbent_authority_preserved": true,
+    "future_revisit_boundary_explicit": true,
+    "material_defects_remaining_in_closeout": false
+  },
+  "result": "Close PERF-S1 F2 exact-incumbent Stage comparison with no subjective result because a technically valid challenger could not be constructed inside the frozen pixel-preserving scope after five hosted-valid methods and a provenance-first recovery audit. PKT-STAGE-CORE-02 remains authoritative. APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT."
+}
