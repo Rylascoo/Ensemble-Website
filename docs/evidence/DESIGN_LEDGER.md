@@ -1848,3 +1848,17 @@ The design state now contains two genuinely distinct surviving family evidence s
 **Next and only creative gate:** consequential Director convergence review. No automatic family blend, refinement, CLR-01 reentry, hero reopening, composition/synthesis, implementation, production asset, final identity or Phase-C execution before that decision.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN SERIAL CLOSEOUT; DIRECTOR CONVERGENCE DECISION RESERVED.**
+
+## L-119 - Director freezes the five-character Stage as the core app baseline and enters Phase C
+
+**State:** PHASE-B CONVERGENCE RESOLVED / PHASE-C CONTROLLED CONVERGENCE ACTIVE / `PKT-STAGE-CORE-01` FROZEN / BACKGROUND SUCCESSOR NEXT
+
+The Director explicitly freezes the five-character `The Missing Raft` Stage render as the current core app design baseline and directs all subsequent app design to build cumulatively from it. The canonical visual master is archived in Drive under `11 Core Stage Baseline 01 — Frozen` as file `1PIlvYvyE17VGxOZ3JCvWYz1LuqkoOENy`; supplied-byte SHA-256 is `4e86d51b78bc6dc73877741c5190f2a25f59c45305f609bbcb2fc6ac19c25fcc`, dimensions 1672 x 941.
+
+`docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md` freezes the Stage carrier and successor law. The five-character composition, cone-of-light carrier, cone geometry, one-cone-per-Character relation, dark shared floor, floor/name interaction hinge, explicit names/state labels, no portrait/card dependency, simultaneous state separation, listening presence and creator actions outside cones are incumbent constraints. R1 fiber influence is admitted only as bounded relational-field evidence; it does not replace the cone carrier or authorize literal fiber scenery.
+
+The recursive audit preserves unresolved semantics instead of letting the persuasive render decide them. The right rail requires later provenance/authority separation; Observed Cues is blocked from hardening; pips, redundant identity symbols and arc meaning remain unresolved; current timer/Pause and `all changes saved` wording do not establish runtime/canon behavior. ODR-05, ODR-07, ODR-14, ODR-15, ODR-19 and ODR-30 remain open; the five-character frame is only useful evidence for ODR-30.
+
+**Next gate:** incumbent background refinement only. Replace the story-specific island/storm scenery with the first context-agnostic Kymaean-provided Stage background. Preserve the frozen cone system and core composition; do not redesign the rail or resolve unrelated ODR questions in the same render round.
+
+**APPROVED — DIRECTOR CONVERGENCE DECISION + CLEAN DESIGN SOL RECURSIVE AUDIT.**

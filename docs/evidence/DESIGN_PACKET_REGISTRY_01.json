@@ -114,8 +114,16 @@
       "packet_id": "PKT-CTF-01-01",
       "path": "docs/evidence/packets/PKT_CTF_01_SECOND_FAMILY_SURVIVOR_01.json",
       "axis": "shared-brand second-family / whole-surface representation logic",
-      "status": "DIRECTOR_ADJUDICATION_PENDING",
-      "current_contribution": "R1 Interlaced Continuous Fiber Surface survives T1 primary + T3 transfer as a genuinely distinct second-family evidence set; final convergence choice pending",
+      "status": "CONVERGENCE_EVIDENCE_CONSUMED",
+      "current_contribution": "R1 Interlaced Continuous Fiber Surface remains genuine second-family evidence; Director convergence is now resolved through Stage-first controlled synthesis rather than wholesale R1 adoption.",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-STAGE-CORE-01",
+      "path": "docs/evidence/packets/PKT_STAGE_CORE_BASELINE_01.json",
+      "axis": "native app / Stage core visual convergence",
+      "status": "DIRECTOR_FROZEN_CORE_APP_BASELINE",
+      "current_contribution": "Frozen five-character cone Stage baseline and Phase-C incumbent; story-specific background is the first successor variable.",
       "production_authority": false
     }
   ],
@@ -128,7 +136,7 @@
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
     "F1 Subtractive Channel is composition-compatible with exact C0, STA F2 and MOT F1A/CS2 on CMP-01 neutral carriers, but Mineral Theater/CLR/type/real-product synthesis remains untested; no final material system exists",
     "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists",
-    "Phase-B now has two genuinely distinct surviving family evidence sets: the current provisional C0/O3/TYP/MAT/STA/MOT family/control and CTF-01 R1 Interlaced Continuous Fiber Surface. Final convergence selection remains unresolved and Phase C is not automatic."
+    "Phase-B convergence is resolved through the Director-frozen five-character Stage core baseline; Phase C controlled visual convergence is active, but final shared identity, palette, typeface, motion tokens, rail provenance, background identity and implementation authority remain unresolved."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -136,9 +144,11 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Consequential Director convergence review between the current provisional family/control and CTF-01 R1 second-family evidence. Do not refine, compose, enter Phase C or reopen CLR-01 before that decision.",
+    "next_synthesis_trigger": "Incumbent refinement of PKT-STAGE-CORE-01: replace the story-specific background with the first context-agnostic Kymaean-provided Stage background while preserving the frozen five-character cone carrier and avoiding unrelated ODR resolution.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_POST_VFD01_REENTRY_AUDIT_11.json"
+    "latest_reentry_audit": "docs/evidence/SHARED_BRAND_POST_VFD01_REENTRY_AUDIT_11.json",
+    "core_app_baseline_packet": "PKT-STAGE-CORE-01",
+    "latest_convergence_audit": "docs/evidence/STAGE_CORE_BASELINE_FREEZE_AND_SUCCESSOR_AUDIT_01.json"
   },
-  "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. The registry creates no final identity, production token, implementation or Phase-C authority."
+  "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

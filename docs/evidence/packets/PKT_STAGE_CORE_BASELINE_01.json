@@ -1,0 +1,57 @@
+{
+  "schema": "kymaean.design-packet.v1",
+  "packet_id": "PKT-STAGE-CORE-01",
+  "status": "DIRECTOR_FROZEN_CORE_APP_BASELINE",
+  "date": "2026-09-11",
+  "axis": "native app / Stage core visual convergence",
+  "authority": "Director convergence decision plus Design Sol recursive audit",
+  "source_authority": "docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md",
+  "audit": "docs/evidence/STAGE_CORE_BASELINE_FREEZE_AND_SUCCESSOR_AUDIT_01.json",
+  "visual_master": {
+    "drive_file_id": "1PIlvYvyE17VGxOZ3JCvWYz1LuqkoOENy",
+    "file_name": "Kymaean Core Stage Baseline 01 — Frozen.png",
+    "sha256": "4e86d51b78bc6dc73877741c5190f2a25f59c45305f609bbcb2fc6ac19c25fcc",
+    "dimensions": "1672x941",
+    "uploaded_size_bytes": 1797028
+  },
+  "current_contribution": "Frozen five-character Stage baseline: cone-of-light Characters on shared dark floor, simultaneous state separation, creator actions outside cones, Stage-first controlled convergence with bounded R1 relational-field influence.",
+  "production_authority": false,
+  "phase": "C_CONTROLLED_VISUAL_CONVERGENCE",
+  "frozen": [
+    "five-character Stage composition",
+    "cone-of-light Character carrier",
+    "cone geometry",
+    "floor-pool/name interaction hinge",
+    "no portrait/card dependency",
+    "state separation",
+    "listening presence",
+    "creator actions outside cones",
+    "dark shared Stage floor"
+  ],  "provisional": [
+    "story-specific background is explicitly non-authoritative and replaced next",
+    "right-rail semantics/provenance",
+    "Observed Cues",
+    "inter-character arc meaning",
+    "three-pip meaning",
+    "exact redundant identity symbols",
+    "final palette/type/motion",
+    "timer/Pause runtime semantics",
+    "provider/cost placement"
+  ],
+  "odr_not_resolved": [
+    "ODR-05",
+    "ODR-07",
+    "ODR-14",
+    "ODR-15",
+    "ODR-19",
+    "ODR-30"
+  ],
+  "successor_gate": {
+    "question": "What context-agnostic Kymaean-provided Stage background best expresses core identity behind the frozen five-character cone system?",
+    "incumbent_refinement": true,
+    "clean_slate_stage_redesign": false,
+    "must_preserve_frozen_carrier": true,
+    "must_not_resolve_unrelated_odr": true
+  },
+  "replacement_rule": "This packet remains the frozen core app baseline until a recursively audited successor preserving the frozen cone system is explicitly promoted."
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "kymaean.stage-core-baseline-freeze-successor-audit.v1",
+  "status": "COMPLETE_DIRECTOR_FREEZE_PHASE_C_ENTRY",
+  "date": "2026-09-11",
+  "baseline": {
+    "drive_folder_id": "1IisuzL0sVMg7jmOdPgiJiv5pu6Ubtrkm",
+    "drive_file_id": "1PIlvYvyE17VGxOZ3JCvWYz1LuqkoOENy",
+    "file_name": "Kymaean Core Stage Baseline 01 — Frozen.png",
+    "sha256": "4e86d51b78bc6dc73877741c5190f2a25f59c45305f609bbcb2fc6ac19c25fcc",
+    "width": 1672,
+    "height": 941,
+    "uploaded_size_bytes": 1797028
+  },
+  "director_decision": {
+    "freeze_as_core_app_design": true,
+    "app_builds_from_incumbent": true,
+    "next_focus": "context-agnostic default Stage background",
+    "character_cone_system_frozen": true
+  },
+  "phase_consequence": {
+    "phase_b_convergence_gate_resolved": true,
+    "phase_c_controlled_convergence_active": true,
+    "final_shared_identity_complete": false,
+    "implementation_authorized": false
+  },  "frozen_carrier": {
+    "carrier": "light cone on dark floor",
+    "geometry": "cone",
+    "five_character_composition": true,
+    "one_cone_per_character": true,
+    "floor_name_interaction_hinge": true,
+    "portrait_dependency": false,
+    "state_separation": [
+      "USER_SELECTION",
+      "CURRENT_OPPORTUNITY",
+      "SPEAKING",
+      "LISTENING_OR_REST",
+      "TAKE_A_SEAT_AS_EXPLICIT_ACTION"
+    ],
+    "listening_retains_presence": true,
+    "creator_actions_outside_cone": true,
+    "color_not_sole_carrier": true,
+    "full_cone_container_prohibited": true
+  },
+  "section_audit": {
+    "stage_center": "STRONGEST_KEEP",
+    "app_shell": "KEEP_REFINE_POLISH",
+    "production_scene_context": "KEEP_RUNTIME_SEMANTICS_UNRESOLVED",
+    "performance_history": "KEEP_REFINE_SPATIAL_RELATION_AND_DENSITY",
+    "action_bar": "KEEP_REFINE_AUTHORITY_HIERARCHY",
+    "right_rail": "PROVISIONAL_NEEDS_PROVENANCE_AND_REDUCTION",
+    "observed_cues": "BLOCKED_FROM_HARDENING",
+    "footer_status": "KEEP_LOCAL_FIRST_REFINE_PERSISTENCE_SEMANTICS",
+    "story_specific_background": "REPLACE_NEXT"
+  },  "unresolved_semantics": {
+    "inter_character_arcs": "VISUAL_HYPOTHESIS_ONLY",
+    "three_pips": "UNDEFINED_NOT_PSYCHOLOGICAL_AUTHORITY",
+    "redundant_floor_identity_cue": "REQUIRED_ROLE_EXACT_SYMBOL_UNRESOLVED",
+    "timer_pause_auto_advance": "NOT_ESTABLISHED",
+    "all_changes_saved_canon_semantics": "NOT_ESTABLISHED",
+    "provider_cost_visibility": "REQUIRED_LATER_NOT_RESOLVED",
+    "recent_beats_term": "DOES_NOT_RESOLVE_ODR_14"
+  },
+  "odr_boundaries": [
+    "ODR-05",
+    "ODR-07",
+    "ODR-14",
+    "ODR-15",
+    "ODR-19",
+    "ODR-30"
+  ],
+  "background_successor": {
+    "must_be_context_agnostic": true,
+    "must_preserve_frozen_cones": true,
+    "must_preserve_five_character_layout": true,
+    "must_be_dark_stage_compatible": true,
+    "must_express_core_identity": true,
+    "must_support_two_to_five_characters": true,
+    "must_avoid_story_specific_scenery": true,
+    "must_avoid_generic_ai_technology_aesthetic": true,
+    "fiber_influence_bounded_not_literal": true,
+    "may_not_resolve_odr_by_implication": true
+  },  "recursive_audit": {
+    "authority_consistent": true,
+    "carrier_law_consistent": true,
+    "phase_sequence_consistent": true,
+    "drive_provenance_recorded": true,
+    "no_implementation_claim": true,
+    "no_odr_silent_resolution": true,
+    "no_final_palette_type_motion_claim": true,
+    "material_defects_remaining_inside_freeze": false
+  },
+  "exact_next_action": "Generate/refine one successor of the frozen Stage baseline whose primary design variable is the context-agnostic Kymaean default background. Preserve the frozen five-character cone system and do not redesign right-rail semantics in the same render round.",
+  "approval": "DIRECTOR_FREEZE_PLUS_CLEAN_DESIGN_SOL_RECURSIVE_AUDIT"
+}

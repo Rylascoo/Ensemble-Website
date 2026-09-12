@@ -1,0 +1,177 @@
+<!-- D-R1-STATUS: ACTIVE LAW -->
+
+# Kymaean Stage Core Baseline and Background Successor Authority 01
+
+Status: **DIRECTOR-FROZEN CORE APP DESIGN BASELINE / PHASE-C ENTRY AUTHORITY**
+
+Updated: 2026-09-11
+
+## Director decision
+
+The Director freezes the five-character `The Missing Raft` Stage render as the current **core app design baseline**. The native-app visual system will build cumulatively from this image until an explicitly approved successor replaces it.
+
+Canonical visual master:
+- Drive folder: `Ensemble Project / Kymaean / 04 Lane A — Product UI Reintegration — Active / 11 Core Stage Baseline 01 — Frozen`
+- Drive file: `Kymaean Core Stage Baseline 01 — Frozen.png`
+- Drive file ID: `1PIlvYvyE17VGxOZ3JCvWYz1LuqkoOENy`
+- supplied-byte SHA-256: `4e86d51b78bc6dc73877741c5190f2a25f59c45305f609bbcb2fc6ac19c25fcc`
+- dimensions: `1672 x 941`
+- uploaded byte size: `1,797,028`
+
+This freeze is an incumbent-refinement authority, not a clean-slate program. Future Stage work must preserve the frozen elements below unless a later Director decision or falsifying evidence explicitly reopens them.
+## Phase consequence
+
+The Phase-B convergence gate is now resolved by Director action. Kymaean enters **Phase C — controlled visual convergence** through a Stage-first synthesis rather than by selecting either surviving family wholesale.
+
+The chosen convergence principle is:
+
+> **Preserve the proven Lane-A cone Stage and architectural restraint as the interaction/authority foundation; admit the R1 continuous-fiber family only where it improves relational continuity, living consequence, or shared-field identity without replacing the cone carrier or becoming decorative costume.**
+
+This is not yet a final shared identity system, production token set, implementation specification, final palette, final typeface, or Phase-C exit. It is the authoritative starting point for controlled convergence.
+
+## Frozen Stage-carrier elements
+
+The following are frozen for the incumbent Stage baseline and must remain materially unchanged in the next successor image:
+
+1. **Character carrier:** each present Character is a volume/cone of light on a dark Stage floor.
+2. **Cone geometry:** tapered cone, not cylinder/card/portal/avatar container.
+3. **Cone purpose:** the cone is Character presence, not a button and not narrative authority.
+4. **One cone = one Character:** cone, floor pool, Character name and state annotation remain one coherent presentation unit.
+5. **Floor/name hinge:** visible selection/focus/occupation feedback concentrates around the floor pool, name and redundant cue rather than boxing the whole cone.
+6. **No portrait dependence:** the default Stage carrier does not require faces, bodies or portrait recognition.
+7. **Five-character composition:** the current five-present-Character Stage remains the successor baseline for this refinement program.
+8. **State separation:** `USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT`; Listening/Rest remain independently readable.
+9. **Listening presence:** non-speaking Characters remain visibly present rather than fading into inactivity.
+10. **Explicit identity:** human-readable Character names remain primary explicit identity; color is never the sole identity/state carrier.11. **State-bearing modulation:** Speaking, Current Opportunity, Selection, Listening and Rest may alter intensity/floor emphasis/annotation, but they do not redefine Character identity.
+12. **Creator actions stay outside cones:** Inspect, Intervene and Take a Seat remain explicit creator actions in contextual chrome rather than hidden cone gestures.
+13. **Dark-floor grounding:** every cone visibly lands on a shared dark floor/field; this shared grounding is part of the Stage carrier.
+14. **Quiet theatrical hierarchy:** the ensemble field remains the dominant visual event; permanent dashboard chrome may not overtake it.
+15. **Character-relative spatial composition:** the five cones occupy a social field rather than a uniform card/grid layout.
+
+The current exact beam width, palette values, texture details, pip design and redundant identity symbol are **not** frozen as production tokens. Their semantic roles below govern successor work.
+
+## Provisional elements that remain visible but unresolved
+
+These elements may remain during the next background-only successor pass, but they do not acquire final semantic authority merely because the baseline depicts them:
+
+- faint inter-character arcs / fiber traces: provisional R1 relational-field hypothesis; meaning not yet frozen;
+- three pips beneath Character names: undefined in the render and must not be treated as psychological meters;
+- floor-shape / redundant identity cues: accessibility role remains required, exact symbol vocabulary remains unresolved;
+- per-Character color choices: useful distinction channel, not final palette authority;
+- precise cone texture/ray pattern: presentation treatment only until separately frozen;
+- `RECENT BEATS` terminology: render evidence only; does not resolve ODR-14;
+- current action-bar emphasis: render evidence only; does not resolve ODR-05;
+- absent accept/reject controls: does not resolve ODR-19;
+- five-character frame: useful ODR-30 evidence, not a final active-scene-limit ruling.
+
+## Section-by-section recursive audit
+
+### App shell / top bar
+**Relevance:** high. Preserves native-app identity, Studio/Stage/Archive orientation, Production context and perspective/posture status.
+**Keep:** restrained dark shell; Stage-centered hierarchy; compact top-level navigation.
+**Refine later:** typography, spacing, exact window chrome and metadata priority. Do not let shell ornament compete with Stage.
+### Production / Scene context
+**Relevance:** high. The user must know the active Production and Scene.
+**Keep:** Production title, Scene title and compact live/performance status region.
+**Refine later:** the timer/Pause model is not design authority for auto-advance; wording must remain compatible with actual runtime semantics.
+
+### Five-character Stage field
+**Relevance:** highest. This is the core app-design anchor.
+**Keep:** five cones, floor pools, names, state labels, non-card presentation, simultaneous multi-state legibility, shared dark floor and broad social arc.
+**Refine later:** exact cone widths, overlap rules, beam falloff, vertical scale, per-state intensity and the non-color redundant identity carrier.
+
+### Performance region / recent history
+**Relevance:** high. Stage needs current action plus enough immediate history for causal comprehension.
+**Keep:** one dominant current performance plus secondary recent history.
+**Refine later:** stronger spatial relationship to the performing Character; transcript/history density; exact `Beat` terminology; long-performance behavior.
+
+### Bottom creator-action bar
+**Relevance:** high. Makes creator authority explicit without turning the cone into a control.
+**Keep:** explicit Pause/Intervene/Inspect/Take-a-Seat class of actions outside the Character carriers.
+**Refine later:** Intervene prominence and confirmation flow; Inspect versus Take-a-Seat hierarchy; keyboard/focus treatment; exact runtime availability.
+
+### Right rail
+**Relevance:** the information need is real, but the current realization is not frozen.
+**Problem:** the rail approaches the dashboard perimeter prohibited by the Stage carrier contract and currently mixes possible Production truth with interpretation at equal visual confidence.
+**Successor law:** background refinement must not expand or further harden this rail. Later refinement must classify every item by provenance/authority and reduce competition with the Stage.
+
+### Live Summary / Active Tensions
+**Relevance:** potentially high for creator orientation and pressure visibility.
+**Keep only as provisional slots.** Deterministic state and model interpretation must not be typeset as equivalent authority. Tensions must remain semantic/causal rather than gamified psychological meters.
+
+### Observed Cues
+**Relevance:** unresolved.
+**Boundary:** this content is blocked from hardening. The baseline phrases that infer intent, emotion or observation authority do not establish product law. ODR-07 and ODR-15 remain unresolved; the cone law still forbids the presentation layer from inventing emotional state, intent or observation authority.
+### Footer / system status
+**Relevance:** secondary but useful for local-first trust and operational truth.
+**Keep:** local-first grounding.
+**Refine later:** `all changes saved` must not imply that unaccepted Performance is canon; provider/cost attribution must eventually be visible without dominating Stage.
+
+### Current story-specific background
+**Relevance to long-term Stage identity:** failed as a default because it binds the app visually to one Production/Scene.
+**Disposition:** explicitly **not frozen**. It is the first major element the successor must replace.
+
+## Background successor contract — next image-generation gate
+
+The next successor image changes the **background behind the five frozen Character cones** while preserving the frozen Stage carrier and overall baseline composition.
+
+The new background is intended to become the first Kymaean-provided default/custom Stage background outside user-uploaded backgrounds. It must represent the product's core identity rather than `The Missing Raft` or any other story.
+
+Required qualities:
+- context-agnostic: no island, shoreline, raft, storm, literal room, named world, plot prop or scene-specific architecture;
+- unmistakably Stage-compatible: dark enough for all five cones/floor pools to remain primary and readable;
+- spatial rather than flat: provide depth, atmosphere and a sense of an inhabitable performance field without depicting a literal location;
+- human-causal rather than technological: avoid generic AI grids, circuitry, neural-network spectacle, sci-fi HUD space or model/provider symbolism;
+- continuous with Kymaean identity: suggest memory, consequence, pressure, relationship and continuity through restrained abstract structure;
+- compatible with R1 only in a bounded way: interlaced/continuous-field cues may inform depth or relational atmosphere, but must not replace cones, form literal wicker scenery or turn fiber into costume;
+- quiet enough to support text and controls; no high-frequency texture behind names or performance copy;
+- suitable for 2–5 Character layouts, not composed only for the exact five current positions;
+- capable of surviving monochrome/reduced-color and future high-contrast equivalents without losing the cone/floor hierarchy.
+
+Prohibited successor changes:
+- no redesign of cone geometry or Character carrier;
+- no portrait/body insertion;
+- no card/container around a Character;
+- no re-layout of the five Character identities merely to accommodate the background;
+- no new semantic meaning assigned to arcs, pips, cues or right-rail content;
+- no ODR resolution by visual implication;
+- no final palette/type/motion/implementation claim.
+## ODR / authority boundary
+
+This freeze does **not** resolve the open product questions that the baseline happens to depict. In particular:
+- ODR-05 Intervene authority taxonomy / confirmation flow remains open;
+- ODR-07 internal-thought disclosure remains open;
+- ODR-14 Turn versus Beat ontology timing remains open;
+- ODR-15 observation model remains open;
+- ODR-19 consequence/Take acceptance mode remains open;
+- ODR-30 five-Character active Scene limit remains open, with this render counted only as useful legibility evidence.
+
+The current timer/Pause pairing does not establish auto-advance product architecture. The current right-rail wording does not establish omniscient Creator disclosure. The current pips do not establish psychological scoring. The current arcs do not establish relationship-state encoding.
+
+## Successor replacement rule
+
+The frozen core baseline remains authoritative until a successor:
+1. uses this exact image as the incumbent comparison baseline;
+2. preserves every frozen cone/Character relation above;
+3. replaces the story-specific background with a context-agnostic Kymaean background meeting this contract;
+4. does not introduce new semantic/ODR commitments;
+5. survives Design Sol recursive audit for hierarchy, identity, accessibility, background contamination, five-Character readability and core-product fit;
+6. is explicitly promoted as the new frozen core app baseline.
+
+A merely attractive new background does not replace the incumbent if it weakens Stage presence, makes the cones decorative, becomes story-specific, or competes with the ensemble.
+
+## Fresh-chat continuation
+
+A fresh Design Sol must:
+1. fresh-resolve `Rylascoo/Ensemble-Website` and read `AGENTS.md` then exact `CURRENT_STATE.md`;
+2. read this authority file;
+3. read `docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md` and `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md`;
+4. read the latest Design Ledger entry and the exact frozen Drive image above;
+5. treat prior chat, prior generated images and external critique only as supporting context after repository/Drive recovery;
+6. perform the next task as **incumbent background refinement**, not clean-slate Stage redesign.
+
+Exact next creative task:
+
+> Generate/refine the first context-agnostic Kymaean default Stage background behind the frozen five-character cone system. Preserve the frozen baseline composition and cone-to-Character relationship. Judge the result primarily on core-identity expression, cone readability, theatrical depth, context neutrality, human-causal character and restraint. Do not redesign unresolved rail semantics or resolve ODR items in the same render round.
+
+This authority remains in force until a successor baseline is promoted or stronger repository/product authority supersedes it.
