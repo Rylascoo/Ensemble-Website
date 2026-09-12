@@ -1,0 +1,194 @@
+{
+  "schema": "kymaean.sel-s1.stage-focus-selection-hinge-method.v1",
+  "status": "FROZEN_PRE_SPECIMEN_PRE_EVALUATION",
+  "date": "2026-09-12",
+  "program_id": "SEL-S1",
+  "name": "Stage Character Focus / Selection Hinge 01",
+  "branch": "design/sel-s1-method-matrix-2026-09-12",
+  "parent_reentry_audit": "docs/evidence/PHASE_C_POST_PERF_S1_REENTRY_AUDIT_05.json",
+  "baseline_main": "1f0b696e7341a58642904b14969d2eb9f60596ee",
+  "incumbent_packet": "PKT-STAGE-CORE-02",
+  "bounded_question": "What non-color floor/name-hinge grammar best distinguishes transient keyboard focus from persistent creator selection on the Stage while leaving the Character cone materially unchanged and preserving separation from Current Opportunity, Speaking and Take a Seat?",
+  "single_variable": "persistent selected-state witness geometry at the fixed Character floor/name hinge",
+  "common_focus_law": "All scored F1-F4 candidates use the same transient keyboard-focus carrier: a 2px currentColor outer ellipse around a fixed floor/name hinge footprint with 2px clearance. Focus does not alter cone, pool, name metrics, state label or selection witness.",
+  "authority_limits": [
+    "USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT.",
+    "Selection is persistent creator focus only and creates no fictional action.",
+    "The cone itself remains materially unchanged under focus or selection.",
+    "Visible feedback remains local to the floor/name hinge and never reveals the full Character hit-target rectangle.",
+    "PKT-STA-01-01 F2 Ring + Edge Witness and CMP-01 are prior mechanics/compatibility evidence only, not automatic Stage authority.",
+    "No outcome creates production focus-management semantics, native tokens, implementation or final palette/motion authority."
+  ],
+  "source_law": [
+    "docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md",
+    "docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md",
+    "docs/evidence/PHASE_C_POST_PERF_S1_REENTRY_AUDIT_05.json",
+    "docs/evidence/STA_01_NONCOLOR_FOCUS_SELECTION_METHOD_AND_MATRIX_01.json",
+    "docs/evidence/STA_01_DESIGN_SOL_VIEW_01.json",
+    "docs/evidence/STA_01_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
+    "docs/evidence/CMP_01_DESIGN_SOL_VIEW_01.json",
+    "docs/evidence/packets/PKT_STAGE_CORE_02.json"
+  ],
+  "neutral_stage_scaffold": {
+    "purpose": "Test Stage-specific focus/selection mechanics without importing final palette, cone-state optics, identity cues or creator-action chrome.",
+    "carrier": "neutral static tapered light volume over a fixed floor ellipse with explicit Character name and state label",
+    "color": "grayscale/currentColor only; no candidate hue",
+    "motion": "none; no authored transition or animation",
+    "identity": "human-readable name plus stable fixture id; one neutral identical placeholder cue may be shown but carries no scored identity or state meaning",
+    "cone_geometry": "identical within each layout across default/focus/selected/focus+selected conditions",
+    "floor_geometry": "identical within each layout across focus/selection conditions; no candidate may broaden, tighten, brighten or move the pool",
+    "hinge_footprint": "fixed local footprint below the cone containing floor edge, name and state label; selection/focus decoration may not extend into the beam body",
+    "implementation_semantics": "focusable fixture elements are browser-test instrumentation only and do not select production control semantics"
+  },
+  "controls": {
+    "CNEG": {
+      "name": "No Authored Selection Witness",
+      "role": "negative control",
+      "focus": "common focus ellipse only",
+      "selection": "no additional structural carrier; explicit fixture label remains",
+      "expected_failure": "Persistent creator selection is not visually recoverable once keyboard focus leaves."
+    },
+    "CINC": {
+      "name": "Incumbent Prototype Pill + Pool Outline",
+      "role": "historical Stage-scaffold control, not incumbent authority",
+      "focus": "rounded name pill plus pool outline/halo",
+      "selection": "same rounded name pill plus pool outline/halo",
+      "expected_failure": "Focus and selection collapse while the name treatment becomes chip/card-like and overstates software-container geometry."
+    }
+  },
+  "candidates": {
+    "F1": {
+      "name": "Name Underline Witness",
+      "focus": "common focus ellipse",
+      "selection": "2px currentColor underline centered under the human-readable name, width 70% of the rendered name block, 4px clear of glyphs",
+      "intent": "Keep persistence attached to explicit identity while avoiding pool/state mutation."
+    },
+    "F2": {
+      "name": "Low Ground Edge Witness",
+      "focus": "common focus ellipse",
+      "selection": "3px currentColor low horizontal witness, 38px wide at wide scale, centered at the lower edge of the fixed hinge footprint and detached from name/pool",
+      "intent": "Faithful Stage adaptation of STA-01 F2 edge-witness logic without importing generic button geometry."
+    },
+    "F3": {
+      "name": "Lateral Ground Witness",
+      "focus": "common focus ellipse",
+      "selection": "3px currentColor vertical witness, 26px high at the inline-start edge of the fixed hinge footprint, vertically centered on the floor/name transition and never mirrored into a bracket pair",
+      "intent": "Test a single peripheral persistence mark that does not underline text or trace the pool."
+    },
+    "F4": {
+      "name": "Shallow Ground Arc",
+      "focus": "common focus ellipse",
+      "selection": "2px currentColor lower arc following 42% of the fixed floor-ellipse width, centered beneath the pool with no top or side enclosure",
+      "intent": "Test a Stage-native ground-following witness while falsifying seat/occupation and Opportunity-like readings."
+    }
+  },
+  "fixed_geometry": {
+    "wide_character_cell_px": [164, 250],
+    "narrow_character_cell_min_px": [92, 178],
+    "beam_box_pct_of_cell": [46, 8, 54, 58],
+    "pool_box_pct_of_cell": [22, 58, 56, 15],
+    "hinge_box_pct_of_cell": [10, 55, 80, 39],
+    "focus_ellipse_inset_px": 2,
+    "focus_stroke_px": 2,
+    "selection_stroke_cap": "square",
+    "geometry_law": "Candidate state changes may add only their frozen pseudo-element/witness. Beam, pool, hinge, name and state-label boxes must remain pixel-identical across conditions within a layout."
+  },
+  "matrix": {
+    "families": ["CNEG", "CINC", "F1", "F2", "F3", "F4"],
+    "candidate_ids": ["F1", "F2", "F3", "F4"],
+    "layouts": ["L2_SELECTED_RIGHT", "L3_FOCUS_LEFT", "L4_FOCUS_SELECTED_THIRD", "L5_SELECTED_OPPORTUNITY_SECOND", "L5_SELECTED_SPEAKING_FOURTH"],
+    "logical_boards": 30,
+    "character_counts": [2, 3, 4, 5],
+    "layout_law": {
+      "L2_SELECTED_RIGHT": "two Characters; right Character selected, left default; no state-salience stress",
+      "L3_FOCUS_LEFT": "three Characters; left Character is the actual keyboard-focus target; center Character carries explicit CURRENT OPPORTUNITY text; right default",
+      "L4_FOCUS_SELECTED_THIRD": "four Characters; third Character is selected and actual keyboard-focus target; second carries explicit SPEAKING text; remaining peers REST/LISTENING",
+      "L5_SELECTED_OPPORTUNITY_SECOND": "five Characters; second Character is selected while explicitly CURRENT OPPORTUNITY; a different peer is SPEAKING; tests coexistence without conflation",
+      "L5_SELECTED_SPEAKING_FOURTH": "five Characters; fourth Character is selected while explicitly SPEAKING; another peer is CURRENT OPPORTUNITY; tests coexistence without conflation"
+    },
+    "names": ["Marlowe", "Dr. Voss", "Wren", "Iona", "Keir"],
+    "state_labels": ["REST", "LISTENING", "CURRENT OPPORTUNITY", "SPEAKING"],
+    "name_law": "Names and state labels remain explicit and identical across family comparisons; no candidate changes copy, typography or state assignment.",
+    "ordering_law": "Families are rendered in fixed CNEG/CINC/F1/F2/F3/F4 order for diagnostics. Human review may inspect candidates in an anonymized order generated before first exposure if useful; controls remain identified as calibration."
+  },
+  "browser_preflight": {
+    "viewports_css_px": [1200, 320],
+    "modes": ["NORMAL", "FORCED_COLORS"],
+    "required_conditions": ["default", "keyboard_focus", "selected", "focus_plus_selected", "selected_plus_opportunity", "selected_plus_speaking"],
+    "actual_keyboard_law": "DevTools-dispatched sequential Tab focus must reach the designated enabled target in L3 and L4 for every family at both viewport widths and produce visible :focus-visible geometry. Scripted HTMLElement.focus() alone is not keyboard-focus evidence.",
+    "forced_colors_law": "Focus ellipse and F1-F4 selection witnesses remain structurally visible with system/currentColor equivalents; comprehension may not depend on grayscale fixture values.",
+    "narrow_law": "At 320 CSS px boards reflow vertically; no horizontal document overflow, hidden name/state text or selection witness clipping is allowed.",
+    "reduced_motion_law": "No authored animation or transition exists; prefers-reduced-motion therefore preserves an identical static state."
+  },
+  "mechanical_falsifiers": [
+    "Any focus or selection condition changes beam, pool, name-block or state-label layout geometry rather than adding only the frozen local carrier.",
+    "Keyboard focus is not visible with color removed or fails to remain independently visible when combined with selection.",
+    "A selected witness clips, disappears or causes horizontal overflow at 320 CSS px.",
+    "A candidate depends on authored hue, glow, motion, texture, exact Character position or portrait recognition.",
+    "A candidate changes or obscures explicit Character name/state text.",
+    "A candidate alters Current Opportunity or Speaking fixture assignment when selection changes.",
+    "A candidate extends into the beam body or reveals the rectangular semantic hit target.",
+    "Forced-colors removes the focus carrier or persistent selection witness needed for comprehension.",
+    "CNEG unexpectedly provides durable authored selection legibility or CINC unexpectedly preserves independent focus and selection; either control failure invalidates calibration rather than promoting a candidate."
+  ],
+  "subjective_falsification_after_clean_preflight": [
+    "focus and persistent selection collapse into one visual state",
+    "selection primarily reads as Current Opportunity, Speaking, status, validation, progress or narrative nomination",
+    "selection reads as Take a Seat, occupied-seat ownership or creator possession rather than inspect/focus persistence",
+    "the treatment turns the Character into a button, chip, card, avatar container or boxed selectable object",
+    "the treatment resembles crop/edit/resize tooling or a navigation-tab indicator",
+    "the selection witness becomes more visually authoritative than Character presence/name/state",
+    "the mechanism depends on the exact pool shape or mutable state modulation rather than the floor/name hinge",
+    "focus plus selection becomes visually congested or less legible than either state alone",
+    "the mechanism fails to transfer across 2-5 Character layouts or becomes ambiguous on a selected Character who is also Opportunity/Speaking",
+    "the mechanism is so generic or faint that it adds no useful persistent-selection legibility beyond explicit fixture text"
+  ],  "decision_law": {
+    "preflight_required_before_subjective_review": true,
+    "zero_survivors_valid": true,
+    "maximum_provisional_survivors": 1,
+    "controls_cannot_win": true,
+    "no_post_exposure_retune": true,
+    "no_replacement_family_after_result": true,
+    "selection_rule": "A candidate survives only if every mechanical requirement passes and none of the frozen subjective falsifiers binds materially across the matrix.",
+    "tie_or_mixed_tradeoff_rule": "If no candidate is materially cleaner than the others, record zero survivors rather than choosing by taste.",
+    "promotion_scope": "A sole survivor becomes provisional neutral Stage focus/selection-hinge evidence only and must later pass a separately frozen exact-incumbent Stage integration comparison before changing PKT-STAGE-CORE-02.",
+    "non_authority": "No result freezes production dimensions, native focus management, color, motion, Take-a-Seat treatment, action hierarchy or implementation tokens."
+  },
+  "source_freeze": {
+    "method_freeze_point": "This JSON contract must parse, pass recursive source audit and be committed before any harness specimen is materialized or viewed.",
+    "planned_harness_path": "prototypes/sel-s1/harness.html",
+    "planned_verifier_path": "tools/verify_sel_s1.py",
+    "planned_browser_probe_path": "tools/sel_s1_browser_probe.mjs",
+    "harness_hash_law": "The exact harness SHA-256 is recorded in a separate structural/accessibility preflight record before first visual exposure; this method file is not mutated after its freeze commit.",
+    "visual_exposure_law": "No screenshot, browser review surface or subjective candidate judgment may occur until the harness bytes and browser probe are source-audited and hash-frozen.",
+    "full_stage_render_authorized": false
+  },  "recursive_audit": {
+    "single_visual_variable_only": true,
+    "common_focus_invariant_across_candidates": true,
+    "selection_distinct_from_opportunity_speaking_and_take_a_seat": true,
+    "cone_and_pool_geometry_fixed": true,
+    "floor_name_hinge_locality_preserved": true,
+    "prior_sta01_used_as_evidence_not_authority": true,
+    "cmp01_used_as_compatibility_evidence_only": true,
+    "identity_cue_semantics_not_reopened": true,
+    "color_motion_and_runtime_semantics_excluded": true,
+    "forced_colors_and_keyboard_focus_required": true,
+    "no_full_stage_render": true,
+    "no_implementation_claim": true,
+    "post_result_retune_prohibited": true,
+    "material_pre_specimen_defect": false
+  },
+  "next_action": {
+    "action": "After this exact method contract is committed and hosted-valid, materialize the deterministic neutral SEL-S1 harness, verifier and browser probe; source-audit and hash-freeze them before first visual exposure.",
+    "first_exposure_requires": [
+      "exact 30-board matrix",
+      "common keyboard-focus ellipse invariant across F1-F4",
+      "candidate-only persistent selection geometry",
+      "1200/320 and normal/forced-colors browser preflight",
+      "actual sequential Tab-key focus evidence",
+      "zero mechanical falsifiers"
+    ],
+    "prohibited_until_separate_gate": ["full PKT-STAGE-CORE-02 challenger construction", "Stage master mutation", "production tokenization", "WinUI/runtime implementation"]
+  }
+}
