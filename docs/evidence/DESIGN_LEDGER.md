@@ -2082,3 +2082,19 @@ Rejected challenger `1DgI4miJ3aKmCbAiuwL8NX231Z_qq97ms`, board `1iczjExyF7YI1aZ5
 **Next gate after hosted validation:** preregister one new bounded construction method changing only source-header raster completeness/erasure while keeping F2 +177 px alignment, Marlowe anchor x=282, fixed panel geometry and all nine evaluation criteria unchanged.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
+
+## L-134 - PERF-S1 F2 Stage comparison method 04 stops on source-reconstruction scar
+
+**State:** TECHNICAL METHOD FAILURE / NO SUBJECTIVE RESULT / F2 STILL PROVISIONAL / METHOD-05 PREREGISTRATION NEXT
+
+`docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_04.json` replaces color/neighborhood masking with the complete frozen 80x12 source-header raster envelope while preserving F2's +177 px translation, x=282 source anchor, fixed Performance panel and all nine integration criteria.
+
+TECH-04 passes mechanical isolation: 1,919 pixels change, all inside the two authorized 80x12 source/destination rectangles; the old `MARLOWE` raster is fully removed and the translated destination is an exact source-raster copy. Before any design criterion is scored, however, the exact incumbent-versus-challenger integrity comparison reveals a visibly dark rectangular scar at the reconstructed source location. The frozen vertical-strip median erasure law therefore fails construction integrity.
+
+TECH-04 challenger `1fOeAnsInEBK7JyQQv94Wh7UYL3C5lN4C`, board `1ujsugpoYf5kNXWAjAyvlWCWjfHDAyFFU`, and integrity comparison `1idnrpfvN_32itWhhNklziDjDPOEObZ6W` are preserved and Drive-readback verified in evidence folder `1JRT37KdL3z3AXyPtb45Xv4VUuNOK5xG9`.
+
+No subjective Stage score exists. `PKT-STAGE-CORE-02` remains authoritative and F2 remains provisional neutral attribution-coupling evidence only. No F2b/design retune is authorized.
+
+**Next gate after hosted validation:** preregister PERF-S1-F2-STAGE-05 changing only deterministic source-background reconstruction/erasure inside the same full 80x12 envelope. Preserve F2 alignment, destination transfer, panel geometry and all nine criteria exactly.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
