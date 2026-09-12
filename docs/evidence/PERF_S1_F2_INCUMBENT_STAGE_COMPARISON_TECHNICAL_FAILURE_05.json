@@ -1,0 +1,90 @@
+{
+  "schema": "kymaean.perf-s1.f2-incumbent-stage-comparison-technical-failure.v5",
+  "status": "TECHNICAL_METHOD_FAILURE_NO_SUBJECTIVE_RESULT",
+  "date": "2026-09-12",
+  "program_id": "PERF-S1-F2-STAGE-05",
+  "branch": "design/perf-s1-f2-incumbent-stage-comparison-2026-09-12",
+  "method": "docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_05.json",
+  "method_commit": "bb94f39f5a897472de9c9d3f396a31913f937a2e",
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0"
+  },
+  "rejected_attempt": {
+    "id": "TECH-05",
+    "drive_folder_id": "1JRT37KdL3z3AXyPtb45Xv4VUuNOK5xG9",
+    "challenger_drive_file_id": "1rxMBX7srZHiULOBrhUmPSPX3O6YOjRGo",
+    "challenger_sha256": "f869f58f8b57824d9ef886443dc43ac4eed3e0a59ac480b0c00ba71c745285bd",
+    "comparison_board_drive_file_id": "1plzf9mPBVYzjWkIRp490BwLT2lLKSBlz",
+    "comparison_board_sha256": "336dd92bf1f82e089bd8cb0d50d8d9da32911dd5b916801592913f4ac8422db0",
+    "integrity_compare_drive_file_id": "1wuWmBwwXfkq9aOKyi1SpvWdrBQFNax09",
+    "integrity_compare_sha256": "60f07bbb9cc0ac8623669c91179d61512db4589a2d2195e800fb3d6e74cd87af",
+    "drive_readback_verified": true
+  },  "construction_audit": {
+    "source_envelope_pixels": 960,
+    "expected_authorized_coordinates_max": 1920,
+    "actual_changed_pixels": 1920,
+    "source_changed_pixels": 960,
+    "destination_changed_pixels": 960,
+    "actual_changed_bbox_xyxy_inclusive": [65, 580, 321, 591],
+    "changed_pixels_outside_authorized_rectangles": 0,
+    "source_reconstruction_matrix_sha256": "f4a23fb9b3d8b450687cc58a4d03194462eac146d6749b938df9661dc46c826d",
+    "source_reconstruction_matches_method_05_exactly": true,
+    "source_first_and_last_interior_columns_match_edge_anchors_exactly": true,
+    "destination_is_exact_original_source_raster_copy": true,
+    "all_non_header_stage_pixels_exact": true
+  },
+  "failure": {
+    "class": "ROW_WISE_EDGE_INTERPOLATION_STILL_CREATES_VISIBLE_SOURCE_RECTANGLE_SCAR",
+    "finding": "Method 05 mechanically satisfies the frozen row-wise exact-edge interpolation law and fully removes the old MARLOWE raster, but the reconstructed 80x12 source region remains a visibly legible dark rectangular scar against the surrounding Performance panel. The mandatory integrity comparison therefore rejects the construction before design scoring.",
+    "visual_evidence": "REJECTED TECH-05 — Method05 Header Integrity Compare.png",
+    "old_header_ghost_removed": true,
+    "destination_rectangular_seam_materially_observed": false,
+    "source_rectangular_scar_materially_observed": true,
+    "repair_under_method_05_possible": false,
+    "reason_repair_is_forbidden": "Method 05 freezes exact row-wise interpolation between incumbent x=64 and x=145 edge anchors. Removing the remaining source scar requires a new preregistered source-background reconstruction law rather than mutating Method 05 after construction."
+  },  "scoring_disposition": {
+    "subjective_scoring_started": false,
+    "design_result": null,
+    "f2_stage_pass": false,
+    "f2_stage_fail": false,
+    "incumbent_replaced": false,
+    "nine_integration_criteria_scored": 0,
+    "note": "The attempt stopped at the mandatory pre-score source-scar integrity check."
+  },
+  "authority_consequence": {
+    "pkt_stage_core_02_unchanged": true,
+    "f2_remains_provisional_neutral_evidence": true,
+    "f2_stage_authority": false,
+    "f2b_or_design_retune_authorized": false,
+    "method_05_may_not_be_mutated": true
+  },
+  "recovery_boundary": {
+    "allowed_next_step": "After this TECH-05 failure is committed and hosted-validated, preregister PERF-S1-F2-STAGE-06 changing only deterministic source-background reconstruction/erasure inside the same full 80x12 envelope.",
+    "must_hold_exact": [
+      "F2 Source-Aligned Header mechanism",
+      "+177 px horizontal translation",
+      "Marlowe frozen source anchor x=282",
+      "full 80x12 source/destination raster envelope",
+      "exact destination transfer",
+      "fixed Performance panel geometry",      "dominant quote and Recent Beats pixels/semantics",
+      "all nine evaluation criteria",
+      "mixed-tradeoff-retains-incumbent decision law",
+      "no F2b, alternate attribution family or visual retune"
+    ],
+    "may_change_only": "the deterministic source-background reconstruction/erasure rule required to eliminate the visible source rectangle scar",
+    "no_candidate_construction_before_method_06_host_validation": true
+  },
+  "recursive_audit": {
+    "technical_defect_caught_before_design_scoring": true,
+    "rejected_bytes_preserved": true,
+    "drive_readback_verified": true,
+    "method_05_immutability_preserved": true,
+    "f2_design_mechanism_not_retuned": true,
+    "full_envelope_transfer_preserved_for_recovery": true,
+    "incumbent_authority_preserved": true,
+    "no_subjective_result_claimed": true,
+    "material_defects_remaining_in_method_05": true
+  }
+}

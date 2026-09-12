@@ -2098,3 +2098,21 @@ No subjective Stage score exists. `PKT-STAGE-CORE-02` remains authoritative and 
 **Next gate after hosted validation:** preregister PERF-S1-F2-STAGE-05 changing only deterministic source-background reconstruction/erasure inside the same full 80x12 envelope. Preserve F2 alignment, destination transfer, panel geometry and all nine criteria exactly.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
+
+## L-135 - PERF-S1 F2 Stage comparison method 05 stops on edge-interpolation source scar
+
+**State:** TECHNICAL METHOD FAILURE / NO SUBJECTIVE RESULT / F2 STILL PROVISIONAL / METHOD-06 PREREGISTRATION NEXT
+
+`docs/evidence/PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_05.json` freezes exact row-wise interpolation between untouched incumbent x=64/x=145 edge pixels for the complete 80x12 source region while preserving F2's +177 px translation, x=282 source anchor, exact destination transfer, fixed Performance panel and all nine integration criteria.
+
+TECH-05 is mechanically exact: all 1,920 changed pixels are confined to the two authorized 80x12 source/destination rectangles; all 960 source pixels match the frozen reconstruction matrix SHA-256 `f4a23fb9b3d8b450687cc58a4d03194462eac146d6749b938df9661dc46c826d`; the 960 destination pixels are an exact copy of the original source raster; all protected Stage pixels remain exact.
+
+Before any design criterion is scored, the mandatory integrity comparison still reveals a visibly legible dark rectangular scar across the reconstructed source region. Method 05 therefore fails construction integrity rather than producing a design result.
+
+TECH-05 challenger `1rxMBX7srZHiULOBrhUmPSPX3O6YOjRGo`, board `1plzf9mPBVYzjWkIRp490BwLT2lLKSBlz`, and integrity comparison `1wuWmBwwXfkq9aOKyi1SpvWdrBQFNax09` are preserved and authenticated Drive-readback verified in evidence folder `1JRT37KdL3z3AXyPtb45Xv4VUuNOK5xG9`.
+
+No subjective Stage score exists. `PKT-STAGE-CORE-02` remains authoritative and F2 remains provisional neutral attribution-coupling evidence only. No F2b/design retune is authorized.
+
+**Next gate after hosted validation:** preregister PERF-S1-F2-STAGE-06 changing only deterministic source-background reconstruction/erasure inside the same full 80x12 envelope. Preserve F2 alignment, exact destination transfer, panel geometry and all nine criteria exactly.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
