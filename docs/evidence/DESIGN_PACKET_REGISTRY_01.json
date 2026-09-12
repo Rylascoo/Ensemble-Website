@@ -148,7 +148,7 @@
     "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method",
     "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
     "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
-    "PERF-S1 Stage Performance Attribution Coupling 01 is the selected next Phase-C incumbent-refinement gate; spatial attribution between the dominant Character-attributed Performance region and its source/performing Character remains unresolved pending its frozen method/matrix, while Beat terminology, history density, Archive causality, motion and runtime semantics remain excluded."
+    "PERF-S1 F2 Source-Aligned Header is the sole provisional neutral attribution-coupling survivor; PKT-STAGE-CORE-02 remains authoritative and F2 must pass a separately frozen exact-incumbent Stage comparison before gaining any Stage authority. Beat terminology, history density, Archive causality, motion and runtime semantics remain excluded."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -156,11 +156,11 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Construct and recursively audit the frozen PERF-S1 deterministic method contract plus neutral 2-5 Character attribution-coupling specimen matrix; no full Stage render or implementation in the same gate.",
+    "next_synthesis_trigger": "After guarded PERF-S1 method/matrix promotion and closeout, run one separately frozen exact-incumbent Stage comparison with F2 Source-Aligned Header as the only attribution-coupling challenger; preserve every other Stage variable and do not retune F2.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_STATE_S1_REENTRY_AUDIT_04.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
-    "latest_convergence_audit": "docs/evidence/STATE_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json"
+    "latest_convergence_audit": "docs/evidence/PERF_S1_RESULT_01.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

@@ -2016,3 +2016,19 @@ PERF-S1 therefore isolates only spatial attribution between the dominant Charact
 **Next gate:** construct and recursively audit the frozen PERF-S1 deterministic method contract plus neutral 2–5 Character attribution-coupling specimen matrix before any full Stage render.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-130 - PERF-S1 attribution-coupling matrix selects F2 Source-Aligned Header
+
+**State:** METHOD/PREFLIGHT PASS / F2 SOLE PROVISIONAL SURVIVOR / EXACT-INCUMBENT STAGE COMPARISON NEXT / INCUMBENT UNCHANGED
+
+`docs/evidence/PERF_S1_STAGE_PERFORMANCE_ATTRIBUTION_COUPLING_METHOD_AND_MATRIX_01.json` freezes the bounded Stage Performance attribution question, two controls and four candidate spatial-coupling families. Exact harness SHA-256 is `b4451f1cbbda428b20c32e3ee28998dcd41ba5ef3ea24fb443c6f87f3a855196`; no candidate geometry, copy, falsifier or scoring rule changed after visual exposure.
+
+`docs/evidence/PERF_S1_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json` passes all four EdgeCore 153 browser modes at 1200px/320px and normal/forced-colors fallback. Thirty boards materialize with exact source names, preserved dominant/recent-history content structure, no geometry/source-alignment failures and no horizontal overflow. The earlier DevToolsActivePort launcher failure was tooling-only and occurred before harness exposure.
+
+Frozen subjective review rejects F1 because moving the whole region toward the source reads too much like a private/source-owned Character card and compresses badly at 320px; rejects F3 because its floor witness reads like a speech-tail/causal connector; and rejects F4 because its edge aperture is too subtle for immediate attribution and risks selected-tab/inspector semantics. **F2 — Source-Aligned Header** alone materially improves source attribution while keeping the dominant Performance region global/shared and adding no reaching connector ornament.
+
+F2 is provisional neutral attribution-coupling evidence only. `PKT-STAGE-CORE-02` remains unchanged. Beat terminology, history density, Archive causality, motion, runtime semantics, production tokens and implementation remain unresolved/out of scope.
+
+**Next gate after guarded serial promotion/closeout:** one separately frozen exact-incumbent Stage comparison using F2 as the only Performance-attribution challenger. No F2b/reroll/retune is allowed.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

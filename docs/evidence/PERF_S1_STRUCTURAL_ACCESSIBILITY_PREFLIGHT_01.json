@@ -1,0 +1,44 @@
+{
+  "schema": "kymaean.perf-s1.structural-preflight.v1",
+  "program_id": "PERF-S1",
+  "status": "CLEAN_BROWSER_PREFLIGHT_NO_SUBJECTIVE_RESULT",
+  "static": {
+    "harness_sha256": "b4451f1cbbda428b20c32e3ee28998dcd41ba5ef3ea24fb443c6f87f3a855196",
+    "families": 6,
+    "candidate_families": 4,
+    "stress_specimens_expected": 24,
+    "exact_content_specimens_expected": 6,
+    "total_specimens_expected": 30,
+    "character_loci_expected": 114,
+    "source_status": "PASS"
+  },
+  "browser_version": "EdgeCore 153.0.4234.32",
+  "os_pretty": "Windows",
+  "browser_checks": [
+    {
+      "mode": "NORMAL_NEUTRAL",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS_FALLBACK",
+      "viewport_width": 1200,
+      "scroll_width": 1185,
+      "status": "PASS"
+    },
+    {
+      "mode": "NORMAL_NEUTRAL",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "status": "PASS"
+    },
+    {
+      "mode": "FORCED_COLORS_FALLBACK",
+      "viewport_width": 320,
+      "scroll_width": 305,
+      "status": "PASS"
+    }
+  ],
+  "failures": []
+}

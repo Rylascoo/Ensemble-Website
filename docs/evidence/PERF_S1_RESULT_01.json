@@ -1,0 +1,139 @@
+{
+  "schema": "kymaean.perf-s1.result.v1",
+  "status": "F2_SOLE_PROVISIONAL_SURVIVOR",
+  "date": "2026-09-12",
+  "program_id": "PERF-S1",
+  "name": "Stage Performance Attribution Coupling 01",
+  "branch": "design/perf-s1-method-matrix-2026-09-12",
+  "baseline_main": "86a11d3eb58bea81dddf4dc74233e58dcf7fc2e7",
+  "incumbent_packet": "PKT-STAGE-CORE-02",
+  "incumbent_master": {
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0"
+  },
+  "frozen_source": {
+    "method": "docs/evidence/PERF_S1_STAGE_PERFORMANCE_ATTRIBUTION_COUPLING_METHOD_AND_MATRIX_01.json",
+    "method_sha256": "97b4149f2b8584c18898ab21233d72c71606f95b45c1ee4dcf856f514fb59c94",
+    "harness": "prototypes/perf-s1/harness.html",
+    "harness_sha256": "b4451f1cbbda428b20c32e3ee28998dcd41ba5ef3ea24fb443c6f87f3a855196",
+    "preflight": "docs/evidence/PERF_S1_STRUCTURAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "preflight_sha256": "2796f30de98f6172522fbd904906638dff588ac693c10cadf46b6217bace8e02"
+  },
+  "browser_runtime": {
+    "engine": "EdgeCore 153.0.4234.32",
+    "modes": ["1200_NORMAL_NEUTRAL", "1200_FORCED_COLORS", "320_NORMAL_NEUTRAL", "320_FORCED_COLORS"],
+    "preflight_status": "PASS"
+  },
+  "browser_evidence": {
+    "normal_wide_json_sha256": "544fe2f95835430d5bd40288a9290e91b20b387e88e8289d9800a4ac484a7fa8",
+    "forced_wide_json_sha256": "d45a5dce2ea83ea6a85f1719d662cc406dab080946c59495f64d5a5374212f37",
+    "normal_320_json_sha256": "f0e859b845cfca59afe8852f52999e4cda1df1936541083f793bc688b74493cc",
+    "forced_320_json_sha256": "0744ad41854448d30fe47ecb39b49339ec38ff6302ab615c0e9140704f22b401",
+    "normal_wide_png_sha256": "fe256705434d26cd05b9f655a950916cddc6fcdde7976e0e2111216db6255c3b",
+    "forced_wide_png_sha256": "6028fd1d8e85c4d1b7cbf8f1e48f7def7a9db0ed7a6b92f80f6fd5ffe8cbc0c4",
+    "normal_320_png_sha256": "e91be3d5657aba16428d80f1cb275670927530a7cc276909da930d4b232537e8",
+    "forced_320_png_sha256": "8b23d3a0da5ea3297d84b8b83e1175bd4637435fbfa9389eccdfa37518ae9a23"
+  },
+  "tooling_note": {
+    "before_exposure": "The original probe relied on --remote-debugging-port=0 and DevToolsActivePort; EdgeCore launched a child browser but its launcher exited before writing that file.",
+    "correction": "Probe discovery was changed to a caller-supplied explicit localhost CDP port and Browser.close cleanup only. No method value, harness byte, family geometry, copy, falsifier or scoring rule changed.",
+    "first_visual_exposure": "1200_NORMAL_NEUTRAL after explicit-port probe correction"
+  },
+  "mechanical_result": {
+    "families": 6,
+    "boards": 30,
+    "stress_boards": 24,
+    "exact_content_boards": 6,
+    "character_loci": 114,
+    "source_alignment_failures": 0,
+    "geometry_failures": 0,
+    "label_visibility_failures": 0,
+    "horizontal_overflow_failures": 0
+  },
+  "controls": {
+    "CINC": {
+      "disposition": "INELIGIBLE_CONTROL",
+      "finding": "Detached incumbent panel preserves the existing hierarchy but leaves spatial source attribution weak by design."
+    },
+    "CNEG": {
+      "disposition": "INELIGIBLE_NEGATIVE_CONTROL",
+      "finding": "Centered detached panel keeps source attribution text-only and therefore does not improve the bounded spatial relationship."
+    }
+  },
+  "candidate_results": {
+    "F1": {
+      "name": "Source-Aligned Dock",
+      "disposition": "FAIL",
+      "strength": "Source ownership becomes immediately obvious across edge and noncentral source positions.",
+      "failures": [
+        "Moving the whole dominant region toward the source makes the Performance read too much like a source-owned/private Character card rather than a shared Stage occurrence.",
+        "At 320px the 62% dock materially compresses the Performance text/history region and overweights source ownership relative to ensemble Stage context."
+      ]
+    },
+    "F2": {
+      "name": "Source-Aligned Header",
+      "disposition": "SOLE_PROVISIONAL_SURVIVOR",
+      "strength": "The global Performance region remains fixed while the explicit source header tracks the source Character locus, improving attribution with no connector ornament and preserving the dominant Performance plus secondary-history hierarchy.",
+      "falsifier_result": "PASS across wide, 320px and forced-colors fallback; attribution remains textually explicit and spatially reinforced without chat-tail, causal-arrow, selected-control or transcript-rail implication."
+    },
+    "F3": {
+      "name": "Floor Witness Line",
+      "disposition": "FAIL",
+      "strength": "The source-to-panel relationship is immediately legible.",
+      "failures": [
+        "The vertical witness reads too much like a speech tail/callout connector and risks causal-direction meaning between Character and Performance region.",
+        "The extra reaching ornament competes with the quiet Character/floor carrier more than necessary."
+      ]
+    },
+    "F4": {
+      "name": "Source Edge Aperture",
+      "disposition": "FAIL",
+      "strength": "Keeps the global panel fixed and avoids a reaching connector.",
+      "failures": [
+        "The edge opening is too subtle to make source attribution immediately clearer than the detached control across all source positions.",
+        "The broken panel edge can read as a selected tab/inspector attachment rather than Performance attribution."
+      ]
+    }
+  },
+  "decision": {
+    "selected": "F2",
+    "selected_name": "Source-Aligned Header",
+    "scope": "PROVISIONAL_NEUTRAL_ATTRIBUTION_COUPLING_ONLY",
+    "incumbent_stage_replaced": false,
+    "reason": "F2 is the only candidate that materially improves source attribution while preserving the dominant Performance as shared Stage occurrence and adding the least structural ornament."
+  },
+  "authority_consequence": {
+    "pkt_stage_core_02_unchanged": true,
+    "f2_stage_authority": false,
+    "f2_production_token_authority": false,
+    "history_density_authority": false,
+    "beat_terminology_authority": false,
+    "motion_authority": false,
+    "implementation_authority": false,
+    "post_result_f2_retune_allowed": false,
+    "replacement_family_in_same_gate_allowed": false
+  },
+  "next_action": {
+    "action": "After guarded PERF-S1 method/result promotion and serial closeout, open one separately frozen exact-incumbent Stage comparison using F2 Source-Aligned Header as the only attribution-coupling challenger.",
+    "same_step_prohibition": "Do not construct or score a full Stage F2 challenger inside this method/matrix result gate.",
+    "must_preserve": [
+      "exact PKT-STAGE-CORE-02 master and non-Performance pixels",
+      "incumbent dominant Performance copy and recent-history content",
+      "Character/cone positions, state semantics, palette, background, right rail and creator actions",
+      "no Beat/history-density, Archive-causality, consequence, motion or runtime-semantic change"
+    ]
+  },
+  "recursive_audit": {
+    "single_variable_preserved": true,
+    "method_and_harness_frozen_before_exposure": true,
+    "no_post_exposure_retune": true,
+    "source_character_explicit": true,
+    "performance_not_epistemic_state": true,
+    "performance_not_durable_consequence": true,
+    "history_density_and_beat_terminology_unchanged": true,
+    "forced_colors_and_320_transfer_checked": true,
+    "incumbent_stage_unchanged": true,
+    "material_defects_remaining": false
+  },
+  "result": "SELECT F2 — Source-Aligned Header as the sole provisional PERF-S1 survivor. PKT-STAGE-CORE-02 remains authoritative pending a separately frozen exact-incumbent Stage comparison. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}

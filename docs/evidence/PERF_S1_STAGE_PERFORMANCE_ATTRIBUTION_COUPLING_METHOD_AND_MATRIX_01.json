@@ -1,0 +1,195 @@
+{
+  "schema": "kymaean.perf-s1.performance-attribution-coupling-method.v1",
+  "status": "FROZEN_PRE_EVALUATION",
+  "date": "2026-09-12",
+  "program_id": "PERF-S1",
+  "name": "Stage Performance Attribution Coupling 01",
+  "branch": "design/perf-s1-method-matrix-2026-09-12",
+  "parent_reentry_audit": "docs/evidence/PHASE_C_POST_STATE_S1_REENTRY_AUDIT_04.json",
+  "baseline_main": "86a11d3eb58bea81dddf4dc74233e58dcf7fc2e7",
+  "incumbent_packet": "PKT-STAGE-CORE-02",
+  "incumbent_master": {
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1431659
+  },
+  "bounded_question": "What spatial attribution grammar best strengthens the relationship between the Stage's dominant Character-attributed Performance region and its source/performing Character without turning Performance into a chat bubble, permanent transcript rail, observation/knowledge signal, durable-consequence claim or creator control?",
+  "single_variable": "static spatial attribution coupling between one dominant Performance region and its human-readable source Character",
+  "authority_limits": [
+    "PERF-S1 does not decide whether a displayed Performance is current, accepted, recent, pending or canon; runtime state semantics remain outside this gate.",
+    "Performance occurrence must not be styled as Observation, Knowledge, Memory, Belief, Suspicion, agreement or durable consequence.",
+    "The Stage hierarchy remains one dominant Performance region plus secondary recent history; history density, retention depth and Archive geometry are not candidates.",
+    "The incumbent RECENT BEATS wording is held only as content-control evidence and does not resolve ODR-14 or establish final terminology.",
+    "Human-readable source Character identity remains explicit in every specimen; no family may depend on color, portrait recognition, motion or spatial memory alone.",
+    "Cones, floor/name hinges, pips, right rail, creator actions, palette, typography tokens and implementation remain outside this gate.",
+    "No outcome creates production layout tokens or Stage authority without a later separately frozen exact-incumbent comparison."
+  ],  "source_law": [
+    "docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md",
+    "docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_PATCH_0015_ADDENDUM_01.md",
+    "docs/KYMAEAN_LANE_A_LONG_SCENE_01.md",
+    "docs/evidence/packets/PKT_STAGE_CORE_02.json",
+    "docs/evidence/STATE_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json"
+  ],
+  "incumbent_content_control": {
+    "source_character": "Marlowe",
+    "source_state": "SPEAKING",
+    "dominant_copy": "These fibers match the raft’s mooring line. And look at the prints — someone moved our supplies at low tide. This wasn’t the storm. Someone here knows more than they’re saying.",
+    "secondary_history_label": "RECENT BEATS",
+    "secondary_history_label_authority": "INCUMBENT_WORDING_ONLY_NOT_FINAL_TERMINOLOGY",
+    "secondary_history_rows": [
+      {"time":"00:27:01","source":"Wren","text":"The fibers are fresh. Not from the storm. Someone cut this."},
+      {"time":"00:26:38","source":"Keir","text":"Low tide would have given them cover. The prints head toward the north cove."},
+      {"time":"00:26:12","source":"Dr. Voss","text":"Coincidence is a comforting story, but the island rarely offers them."},
+      {"time":"00:25:49","source":"Iona","text":"We can argue later. Right now we need to ration food. The stores won’t last."}
+    ],
+    "matrix_use": "The exact Marlowe block is rendered once per family in the five-Character incumbent-content comparison. Source-position stress specimens use neutral text bars so changing source identity cannot invent fictional dialogue or confound geometry with copy length."
+  },
+  "neutral_stage_scaffold": {
+    "canvas": {"width":1000,"height":560},
+    "character_zone_y": 54,
+    "character_floor_y": 205,
+    "performance_top_y": 260,
+    "performance_height": 230,
+    "fixed_content_column_width": 540,
+    "character_carrier": "neutral abstract presence locus plus human-readable name; not a new cone design and not production geometry",
+    "background": "neutral near-black",
+    "paint": "currentColor / grayscale only",
+    "motion": "none"
+  },  "controls": {
+    "CINC": {
+      "name": "Detached Incumbent Panel Control",
+      "role": "ineligible incumbent structural control",
+      "geometry": "full-width fixed Performance panel below the Character field; source name remains at the panel's leading edge",
+      "purpose": "Calibrates the current detached relationship without claiming that the raster geometry is a production layout token."
+    },
+    "CNEG": {
+      "name": "Centered Detached Attribution Negative Control",
+      "role": "ineligible negative calibration",
+      "geometry": "same fixed panel and content hierarchy, but source attribution is centered independently of source Character position",
+      "expected_failure": "Human-readable source remains present, but the spatial relationship deliberately carries no source-position information."
+    }
+  },
+  "families": {
+    "F1": {
+      "name": "Source-Aligned Dock",
+      "role": "candidate",
+      "mechanism": "Move the dominant Performance region as a bounded dock toward the source Character while preserving the fixed internal content-column width and secondary-history count/order.",
+      "geometry": {"panel_width":620,"panel_height":230,"center_on_source":true,"clamp_left":70,"clamp_right":930},
+      "risk": "May privatize a shared Stage occurrence into a personal card/chat bubble or distort Stage balance for edge Characters."
+    },
+    "F2": {
+      "name": "Source-Aligned Header",
+      "role": "candidate",
+      "mechanism": "Keep the global panel fixed while aligning only its source-attribution header with the source Character's horizontal locus; dominant text and recent-history geometry stay fixed.",
+      "geometry": {"panel_x":70,"panel_width":860,"source_header_tracks_source_x":true,"source_header_clamp":[90,910]},
+      "risk": "May be too subtle to strengthen attribution, or may read as a selected column/tab rather than authorship."
+    },
+    "F3": {
+      "name": "Floor Witness Line",
+      "role": "candidate",
+      "mechanism": "Keep the incumbent panel fixed and add one neutral one-pixel vertical witness from the source Character floor/name locus to the panel top edge; no arrowhead, dot, tail, animation or color coding.",
+      "geometry": {"panel_x":70,"panel_width":860,"witness_width_px":1,"witness_start_y":215,"witness_end_y":260},
+      "risk": "May read as speech-tail, causal arrow, selection tether, turn queue, Opportunity indicator or relationship edge."
+    },
+    "F4": {
+      "name": "Source Edge Aperture",
+      "role": "candidate",
+      "mechanism": "Keep the incumbent panel fixed but interrupt its top border with a small source-aligned aperture; place the source name immediately inside that aligned opening without any line reaching the Character.",
+      "geometry": {"panel_x":70,"panel_width":860,"aperture_width":44,"source_alignment_tolerance_px":12},
+      "risk": "May read as a speech bubble notch, notification-card tab, selected segment or decorative pointer."
+    }
+  },  "family_separation_law": [
+    "F1 tests whole-region proximity/alignment while keeping internal text-column width fixed.",
+    "F2 tests attribution-header alignment while leaving the region itself global and fixed.",
+    "F3 tests an explicit minimal connector while leaving panel and header geometry otherwise incumbent-like.",
+    "F4 tests a source-aligned panel-edge interruption without any connector reaching the Character.",
+    "No family may change Performance copy semantics, secondary-history count/order, Character identities, cone/state treatment, palette, typeface role, motion or creator actions.",
+    "CINC and CNEG are calibration controls and cannot win."
+  ],
+  "matrix": {
+    "character_layouts": {
+      "2": {"characters":["Marlowe","Iona"],"source":"Iona","source_position":"right"},
+      "3": {"characters":["Marlowe","Wren","Keir"],"source":"Wren","source_position":"center"},
+      "4": {"characters":["Marlowe","Dr. Voss","Iona","Keir"],"source":"Dr. Voss","source_position":"inner-left"},
+      "5": {"characters":["Marlowe","Dr. Voss","Wren","Iona","Keir"],"source":"Marlowe","source_position":"far-left"}
+    },
+    "stress_copy": "Neutral performance text block — semantic content intentionally withheld for attribution-geometry stress.",
+    "incumbent_content_layout": "five Characters with Marlowe as source using exact incumbent dominant copy and fixed four-row recent-history control",
+    "wide_viewport_css_px": 1200,
+    "narrow_viewport_css_px": 320,
+    "forced_colors_required": true,
+    "forced_colors_law": "All Character names, source identity, dominant Performance text/control label and recent-history structure remain understandable if decorative borders, witness lines or apertures are suppressed or system-colored.",
+    "narrow_law": "At 320px, the same source/Performance relationship must remain understandable without horizontal document overflow, permanent side rail, hidden source identity or reliance on simultaneous wide-column scanning."
+  },  "mechanical_falsifiers": [
+    "Any family removes the human-readable source Character name from either the Character field or dominant Performance attribution.",
+    "Any family changes the dominant Performance semantic text, secondary-history count/order, or introduces new fictional content after freeze.",
+    "Any family depends on non-neutral color, animation, transition, portrait recognition or state-specific cone treatment.",
+    "Any source-coupling marker is attached to a non-source Character or misses its intended source locus beyond the frozen tolerance.",
+    "F1 changes the fixed internal content-column width or causes the dominant region to collide with Character names/floor loci.",
+    "F2 source header fails to track the source locus within 12 CSS px in wide specimens.",
+    "F3 witness is wider than one CSS px, gains arrowheads/dots, or extends into the Character carrier rather than terminating below the floor/name locus.",
+    "F4 aperture is wider than 44 CSS px or is not centered within 12 CSS px of the source locus.",
+    "Any forced-colors specimen loses explicit source identity or dominant Performance text/control meaning.",
+    "Any 320px specimen causes horizontal document overflow."
+  ],
+  "subjective_falsifiers": [
+    "The dominant Performance reads primarily as a chat bubble, direct message, speech balloon or private Character card rather than a shared Stage occurrence.",
+    "The spatial cue implies Observation, Knowledge, Memory, agreement, durable consequence, creator selection, Current Opportunity or causal direction.",
+    "The source relationship remains ambiguous for a noncentral or edge source Character despite explicit text.",
+    "The coupling ornament competes with the Character carriers or makes the Performance region visually more important than the live Stage.",
+    "Secondary recent history becomes a permanent transcript rail or appears to share the same source relationship as the dominant Performance.",
+    "The dominant region reads as a toast, notification card, selected tab, inspector or creator control.",
+    "The 320px transfer loses the same source-attribution relationship or requires hidden/hover-only context.",
+    "The mechanism needs exact color, motion, portrait recognition or wide-layout position to remain understandable."
+  ],  "evaluation_priority": [
+    "source Character attribution becomes immediately clearer than the detached incumbent control",
+    "Performance still reads as a shared Stage occurrence rather than private speech/chat",
+    "one dominant Performance plus secondary recent history hierarchy remains intact",
+    "Character/cone presence remains visually primary over the Performance coupling ornament",
+    "the mechanism avoids epistemic, consequence, selection, Opportunity and causal-arrow implications",
+    "edge-source and noncentral-source layouts remain coherent",
+    "320px and forced-colors transfer preserve attribution without hidden context",
+    "the mechanism adds the least structural ornament needed to improve attribution"
+  ],
+  "promotion_law": {
+    "controls_ineligible": ["CINC","CNEG"],
+    "candidate_ids": ["F1","F2","F3","F4"],
+    "zero_survivors_valid": true,
+    "post_exposure_retune_allowed": false,
+    "replacement_family_after_exposure_allowed": false,
+    "multiple_survivors": "Apply evaluation_priority in order. If two candidates remain materially tied, close without a selected survivor rather than create a result-aware hybrid.",
+    "promotion_scope": "Any survivor is provisional neutral attribution-coupling evidence only and must later survive a separately frozen exact-incumbent Stage comparison before gaining Stage authority."
+  },
+  "source_freeze": {
+    "harness_path": "prototypes/perf-s1/harness.html",
+    "harness_sha256": "b4451f1cbbda428b20c32e3ee28998dcd41ba5ef3ea24fb443c6f87f3a855196",
+    "verifier_path": "tools/verify_perf_s1.py",
+    "browser_probe_path": "tools/perf_s1_browser_probe.mjs",
+    "freeze_law": "Complete source-only verification, then replace only the pending harness hash before first visual/browser exposure. No family geometry, content, falsifier or decision law may change after exposure."
+  },  "browser_preflight_plan": {
+    "modes": ["1200_NORMAL_NEUTRAL","1200_FORCED_COLORS","320_NORMAL_NEUTRAL","320_FORCED_COLORS"],
+    "required_diagnostics": [
+      "two controls and four candidate families materialize",
+      "2/3/4/5 Character source-position stress specimens materialize for every family",
+      "one exact incumbent-content five-Character specimen materializes for every family",
+      "source Character and source attribution remain human-readable",
+      "candidate-specific geometry matches the frozen method",
+      "dominant Performance plus secondary recent-history hierarchy remains intact",
+      "forced-colors fallback retains source and content semantics",
+      "no horizontal overflow at either viewport"
+    ]
+  },
+  "recursive_preflight_requirements": [
+    "Patch 0015 occurrence-versus-epistemic and occurrence-versus-consequence distinctions remain intact",
+    "Stage current/recent hierarchy remains intact without selecting transcript geometry",
+    "ODR-14 and Beat terminology remain unresolved",
+    "full chronology remains progressive/on-demand rather than permanent Stage furniture",
+    "single-variable spatial attribution isolation is exact",
+    "closed CIR-S1/CONE-S1/STATE-S1 results are not reopened",
+    "no motion, palette, creator-action, right-rail or implementation authority is created",
+    "no renderer or full Stage image is used before neutral method evaluation closes"
+  ],
+  "next_action": "Materialize the deterministic neutral PERF-S1 harness, verifier and browser probe from this frozen contract; perform source-only audit and hash freeze before any visual exposure."
+}
