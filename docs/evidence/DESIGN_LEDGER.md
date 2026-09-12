@@ -2048,3 +2048,19 @@ No subjective Stage score exists. `PKT-STAGE-CORE-02` remains authoritative and 
 **Next gate after hosted validation:** preregister PERF-S1-F2-STAGE-02 changing only source-glyph raster completeness; keep the F2 mechanism, +177 px translation, source anchor, panel geometry and all nine evaluation criteria exactly unchanged.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
+
+## L-132 - PERF-S1 F2 Stage comparison method 02 stops on residual dark glyph-shadow failure
+
+**State:** TECHNICAL METHOD FAILURE / NO SUBJECTIVE RESULT / F2 STILL PROVISIONAL / METHOD-03 PREREGISTRATION NEXT
+
+`PERF_S1_F2_INCUMBENT_STAGE_COMPARISON_METHOD_02.json` froze the same F2 +177 px alignment and all nine integration criteria while expanding the source mask from 428 to 563 warm `R>G>B` pixels. Its first construction changed exactly 1,126 authorized source/destination pixels and no other Stage pixel.
+
+The mandatory pre-score integrity crop still shows a faint but legible old `MARLOWE` residual. Method 02 therefore undercovers adjacent dark non-warm glyph/shadow raster. No integration criterion was scored, and this is not a design rejection of F2.
+
+TECH-02 challenger `1UCGjjr4qRqJUgZJy01KprdbAopONCOB7`, board `1ahGUsMUj9mEKsg4cGs1iVrwQ3JryiywR`, and integrity crop `1WgfoX7Cn3vAm4RY2h687Ii79AbqkJHJA` are preserved in Drive folder `1JRT37KdL3z3AXyPtb45Xv4VUuNOK5xG9` with byte-level readback verification.
+
+`PKT-STAGE-CORE-02` remains authoritative and F2 remains provisional neutral attribution evidence only. Method 02 is immutable; no F2b, alternate translation or design retune is authorized.
+
+**Next gate after hosted validation:** preregister PERF-S1-F2-STAGE-03 changing only deterministic inclusion of the remaining adjacent dark glyph/shadow raster while holding F2 geometry and the nine evaluation criteria exact.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT OF TECHNICAL FAILURE.**
