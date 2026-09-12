@@ -1,0 +1,97 @@
+{
+  "schema": "kymaean.state-s1.f4-incumbent-stage-comparison-preflight.v1",
+  "status": "CONSTRUCTION_CLEAN_PRE_SUBJECTIVE_SCORING",
+  "date": "2026-09-12",
+  "program_id": "STATE-S1-F4-STAGE-01",
+  "method": {
+    "path": "docs/evidence/STATE_S1_F4_INCUMBENT_STAGE_COMPARISON_METHOD_01.json",
+    "commit": "18778dd627895e3ff98d3e545f93dca533ddb670",
+    "sha256": "41fd3e6c8757977408629fd3eebf2aae11f0b0d21369600bab666bede5d2b470",
+    "hosted_document_status": "PASS",
+    "hosted_repository_boundaries": "PASS"
+  },
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "bytes": 1431659,
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB"
+  },
+  "drive_archive": {
+    "folder_id": "1RxgybstHX2JW7hWwc9csBiayAY1B7nIB",
+    "folder_name": "13 STATE-S1 F4 Stage Comparison 01 — Evidence"
+  },  "challenger": {
+    "drive_file_id": "1izRf-VLWTiw2GgJ4ZN2tDnAUY86Hwvm1",
+    "file_name": "Kymaean STATE-S1 F4 Stage Challenger 01 — Frozen.png",
+    "sha256": "cd77b419de00b21a2f569d919bf97d32e244ebd3169416db5d54ee90322935d3",
+    "bytes": 1431649,
+    "width": 1672,
+    "height": 941,
+    "drive_redownload_hash_verified": true
+  },
+  "comparison_board": {
+    "drive_file_id": "1YvJdT7nQ77CYJu_V_jw1M49KMEYqgehc",
+    "file_name": "Kymaean STATE-S1 F4 Stage Comparison Board 01 — Frozen.png",
+    "sha256": "45de82b7e0bb752db8b17ce0c4f204573ff71fe3216afb066df8df34851c9558",
+    "bytes": 1550710,
+    "width": 3344,
+    "height": 991,
+    "drive_redownload_hash_verified": true
+  },
+  "pixel_isolation_audit": {
+    "total_changed_pixels": 34565,
+    "total_pixels": 1573352,
+    "changed_fraction": 0.021969019011638845,
+    "changed_bbox_xyxy": [229, 202, 938, 450],
+    "outside_nonzero_mask_changed_pixels": 0
+  },  "per_character_changed_pixels": {
+    "Marlowe": 11361,
+    "Dr. Voss": 0,
+    "Wren": 15123,
+    "Iona": 8081,
+    "Keir": 0
+  },
+  "fixed_region_audit": {
+    "top_shell_y_0_54": {"changed_pixels": 0, "pixels": 91960},
+    "right_rail_x_1235_plus_y_55_849": {"changed_pixels": 0, "pixels": 347415},
+    "performance_actions_footer_x_0_1234_y_555_plus": {"changed_pixels": 0, "pixels": 476710},
+    "lower_stage_x_0_1234_y_500_554": {"changed_pixels": 0, "pixels": 67925}
+  },
+  "listening_control_audit": {
+    "Dr. Voss_changed_pixels_inside_beam_mask": 0,
+    "Keir_changed_pixels_inside_beam_mask": 0,
+    "interpretation": "Listening is the exact CREF/F4 identity point and therefore remains pixel-neutral as frozen."
+  },
+  "gain_and_clipping_audit": {
+    "Marlowe": {"state": "SPEAKING", "effective_gain_min": 0.8275862068965517, "effective_gain_max": 1.0580563485993606},
+    "Wren": {"state": "REST", "effective_gain_min": 0.8896919879062736, "effective_gain_max": 1.0714285714285714},
+    "Iona": {"state": "CURRENT_OPPORTUNITY", "effective_gain_min": 0.9253731343283582, "effective_gain_max": 1.12369675241305},
+    "preclip_channel_values_over_1": 26,
+    "preclip_pixels_over_1": 15,
+    "interpretation": "Clipping is limited to fifteen pre-existing bright-highlight pixels after scalar linear-RGB gain; no channel-specific operation or new hue value is authored."
+  },  "technical_visual_review": {
+    "hard_mask_edges_visible": false,
+    "geometry_shift_visible": false,
+    "floor_pool_or_label_damage_visible": false,
+    "selection_chrome_damage_visible": false,
+    "unrelated_ui_rewrite_visible": false,
+    "construction_artifact": false,
+    "note": "This review is construction-only. It does not score whether F4 is a better integrated Stage design than the incumbent."
+  },
+  "recursive_preflight": {
+    "exact_incumbent_input_verified": true,
+    "frozen_method_commit_hosted_clean": true,
+    "f4_values_and_ratios_unchanged": true,
+    "no_post_freeze_geometry_or_mask_change": true,
+    "single_variable_isolation_preserved": true,
+    "listening_controls_exact": true,
+    "fixed_ui_regions_exact": true,
+    "challenger_drive_readback_verified": true,
+    "comparison_board_drive_readback_verified": true,
+    "subjective_result_recorded": false,
+    "construction_ready_for_scoring": true
+  },
+  "next_action": "Commit and host-validate this construction preflight, then score the frozen Drive-readback comparison board against the preregistered evaluation criteria. No construction or F4 retune is permitted after this checkpoint."
+}
