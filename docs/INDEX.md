@@ -7,7 +7,7 @@ Generated file; do not hand-maintain.
 Generation command: `python3 tools/generate_docs_index.py`
 
 Total Markdown documents: 284
-Total text records: 96
+Total text records: 92
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
@@ -309,12 +309,8 @@ Text records are listed for corpus visibility only. Presence here does not infer
 ## UNCLASSIFIED (0)
 
 
-## TEXT RECORDS — INVENTORY ONLY (96)
+## TEXT RECORDS — INVENTORY ONLY (92)
 
-- `.tmp/state-s1-browser/profile-forced-320/Edge Notifications/0.0.0.46/arbitration_metadata.txt`
-- `.tmp/state-s1-browser/profile-forced-wide/Edge Notifications/0.0.0.46/arbitration_metadata.txt`
-- `.tmp/state-s1-browser/profile-normal-320/Edge Notifications/0.0.0.46/arbitration_metadata.txt`
-- `.tmp/state-s1-browser/profile-normal-wide/Edge Notifications/0.0.0.46/arbitration_metadata.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
 - `docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_01.txt`
