@@ -1,0 +1,163 @@
+{
+  "schema": "kymaean.state-s1.f4-incumbent-stage-comparison-method.v1",
+  "status": "FROZEN_PRE_CONSTRUCTION_PRE_EVALUATION",
+  "date": "2026-09-12",
+  "branch": "design/state-s1-f4-incumbent-stage-comparison-2026-09-12",
+  "program_id": "STATE-S1-F4-STAGE-01",
+  "parent_result": "docs/evidence/STATE_S1_RESULT_01.json",
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1431659,
+    "drive_recovery_verified_before_method_freeze": true
+  },
+  "question": "Does frozen STATE-S1 F4 Balanced Dual-Channel Ladder materially improve static Rest/Listening/Current Opportunity/Speaking readability in the exact PKT-STAGE-CORE-02 Stage without turning state into rank/status, weakening ensemble presence, changing selection meaning or disturbing the incumbent visual hierarchy?",
+  "single_variable": "static cone state salience expressed only through relative envelope luminance and internal-core contrast",
+  "excluded_variables": [
+    "cone geometry, taper, blur, falloff or vertical scale",
+    "palette and per-Character hue identity",
+    "motion timing or texture motion",
+    "texture vocabulary",
+    "floor-pool geometry or selection chrome",
+    "names, state labels, pips or identity cues",
+    "right rail, Observed Cues or arc semantics",
+    "performance/history layout",
+    "creator controls",
+    "background identity",
+    "implementation"
+  ],  "state_assignment": {
+    "Marlowe": "SPEAKING",
+    "Dr. Voss": "LISTENING",
+    "Wren": "REST",
+    "Iona": "CURRENT_OPPORTUNITY",
+    "Keir": "LISTENING",
+    "wren_note": "The incumbent label is SELECTED, but interaction law requires selection to leave the cone materially unchanged; Wren therefore uses the Rest optical signature while selection chrome remains untouched."
+  },
+  "source_ladders": {
+    "CREF": {
+      "REST": [0.42, 0.18],
+      "LISTENING": [0.50, 0.20],
+      "CURRENT_OPPORTUNITY": [0.67, 0.24],
+      "SPEAKING": [0.87, 0.34]
+    },
+    "F4": {
+      "REST": [0.45, 0.16],
+      "LISTENING": [0.50, 0.20],
+      "CURRENT_OPPORTUNITY": [0.62, 0.27],
+      "SPEAKING": [0.72, 0.36]
+    },
+    "pair_semantics": "Each pair is [envelope_alpha, core_alpha] from the frozen STATE-S1 method; CREF is the historical static calibration control and F4 is the sole provisional survivor."
+  },
+  "state_gain_ratios": {
+    "REST": {"envelope": 1.0714285714285714, "core": 0.8888888888888888},
+    "LISTENING": {"envelope": 1.0, "core": 1.0},
+    "CURRENT_OPPORTUNITY": {"envelope": 0.9253731343283582, "core": 1.125},
+    "SPEAKING": {"envelope": 0.8275862068965517, "core": 1.0588235294117647}
+  },  "full_stage_geometry": {
+    "source_crop_xyxy": [150, 170, 1225, 490],
+    "character_beam_polygons_px": {
+      "Marlowe": [[273,267],[291,267],[338,450],[226,450]],
+      "Dr. Voss": [[456,228],[476,228],[524,405],[408,405]],
+      "Wren": [[678,200],[702,200],[758,430],[622,430]],
+      "Iona": [[880,255],[900,255],[941,410],[839,410]],
+      "Keir": [[1092,292],[1112,292],[1157,455],[1047,455]]
+    },
+    "floor_anchors_px": {
+      "Marlowe": [282,450],
+      "Dr. Voss": [466,405],
+      "Wren": [690,430],
+      "Iona": [890,410],
+      "Keir": [1102,455]
+    },
+    "geometry_law": "These polygons are the frozen STATE-S1 incumbent-measured cone envelopes translated from the 1075x320 optical crop into full-master coordinates. They are masks only and create no vector production-token authority."
+  },
+  "construction_method": {
+    "type": "DETERMINISTIC_EXISTING_PIXEL_SALIENCE_TRANSFORM",
+    "input": "Exact Drive-recovered PKT-STAGE-CORE-02 master bytes only.",
+    "color_space": "Decode sRGB to linear RGB, apply a scalar luminance gain identically to R/G/B, then encode to sRGB; this preserves hue direction rather than authoring new palette values.",
+    "geometry": "No resampling, inpainting, warping, generation or replacement of the existing cone pixels is allowed.",
+    "state_gain": "For each Character, envelope and core gains are F4 divided by CREF for that Character's frozen state assignment.",
+    "listening_identity": "Dr. Voss and Keir have envelope/core gains of exactly 1.0 and therefore remain pixel-identical controls inside their beam masks."
+  },  "mask_and_core_weight_law": {
+    "trapezoid_coordinates": "For a pixel y between each polygon top and bottom, linearly interpolate the left and right polygon edges; normalize x to xn=(x-center)/half_width and y to t=(y-top)/(bottom-top).",
+    "edge_feather": "Horizontal mask weight is 1 for |xn|<=0.92 and linearly falls to 0 at |xn|=1.0.",
+    "top_feather": "Vertical mask weight rises linearly from 0 at t=0 to 1 at t=0.04.",
+    "floor_pool_protection": "Vertical mask weight remains 1 through t=0.86 and linearly falls to 0 at t=1.0, preserving the floor-pool/anchor relationship rather than reopening it.",
+    "combined_mask": "mask=edge_feather*top_feather*floor_pool_protection; all pixels with mask=0 remain exact incumbent bytes.",
+    "core_center": [0.5, 0.72],
+    "core_radius_fraction": 0.56,
+    "core_profile": "Use normalized bbox coordinates xnorm=(xn+1)/2 and t. Let r=sqrt(((xnorm-0.5)/0.56)^2+((t-0.72)/0.56)^2). Core weight is 1 at r=0, linearly reaches 0.32 at r=0.48, linearly reaches 0 at r=1, and is 0 beyond r=1.",
+    "combined_gain": "gain=envelope_gain+(core_gain-envelope_gain)*core_weight; effective_gain=1+mask*(gain-1).",
+    "rounding": "Linear-RGB output is clipped to [0,1], encoded to sRGB and rounded to the nearest uint8 value."
+  },
+  "pixel_preservation_law": {
+    "must_be_exact": [
+      "top shell and navigation",
+      "Production/Scene context",
+      "right rail including Observed Cues",
+      "performance/history panel",
+      "creator-action bar and footer",
+      "all Character names/state labels/pips",
+      "all selection/focus and Take-a-Seat chrome",
+      "all pixels outside the five frozen beam polygons or with zero mask weight"
+    ],
+    "must_remain_semantically_unchanged": [
+      "five-Character composition and social arc",
+      "one cone per Character",
+      "per-Character hue identity",
+      "existing internal texture vocabulary",
+      "background causal field",
+      "floor pools and floor/name interaction hinge"
+    ]
+  },  "construction_preflight": {
+    "required": [
+      "input hash/size/dimensions equal frozen baseline",
+      "output size/mode remain 1672x941 RGB",
+      "Dr. Voss and Keir beam polygons remain pixel-identical",
+      "all changed pixels are inside Marlowe/Wren/Iona nonzero salience masks",
+      "no changed pixel enters shell, right rail, performance/history, controls, footer, labels, pips or floor-pool protection zones",
+      "no hue-channel-specific transform is applied",
+      "challenger and side-by-side board receive immutable hashes before subjective scoring"
+    ],
+    "technical_failure_law": "A construction artifact or preservation failure rejects that technical attempt before scoring. It may be repaired only by conforming the implementation to this already-frozen algorithm; no F4 value, gain ratio, mask law, geometry or evaluation criterion may change."
+  },
+  "evaluation_criteria": [
+    "F4 must materially improve static distinction among Rest/Listening/Current Opportunity/Speaking in the real five-Character Stage.",
+    "Rest/Selected-Wren must remain visibly alive in the ensemble and must not read as inactivity or demotion.",
+    "Listening must remain readable receptive presence rather than merely a dimmer non-speaker state.",
+    "Current Opportunity must read as may-act salience without obligation, rank, promise of speech or creator selection.",
+    "Speaking must intensify the same carrier without erasing neighbors or dominating the entire Stage.",
+    "The integrated ladder must avoid reading as a software meter, social rank staircase or generic status brightness scale.",
+    "The incumbent Character hue/texture/background identity and floor/name interaction hinge must remain materially intact.",
+    "F4 must not increase competition with Production/Scene context, performance text, creator controls or the right rail.",
+    "Promotion requires a material net improvement over PKT-STAGE-CORE-02; parity or mixed tradeoff retains the incumbent."
+  ],
+  "decision_law": {
+    "possible_results": [
+      "PROMOTE_STATE_S1_F4_STAGE_SUCCESSOR",
+      "RETAIN_INCUMBENT_F4_FAILS_INTEGRATION"
+    ],
+    "no_draw_by_default": true,
+    "no_post_result_retune": true,
+    "no_f4b_or_replacement_in_same_gate": true,
+    "failure_consequence": "Retain PKT-STAGE-CORE-02 and close the F4 comparison; do not open F4b, change gain ratios, or author another state ladder in this gate.",
+    "promotion_consequence": "Promote only the bounded static state-salience visual successor. No palette, motion, production-token, implementation, rail, identity-cue or ODR authority is created."
+  },  "recursive_pre_evaluation_audit": {
+    "exact_incumbent_bytes_recovered": true,
+    "single_variable_isolation": true,
+    "f4_values_unchanged_from_frozen_state_s1": true,
+    "selection_treated_as_cone_neutral_rest": true,
+    "listening_controls_pixel_neutral": true,
+    "cone_geometry_not_reopened": true,
+    "palette_and_texture_not_reauthored": true,
+    "floor_pool_and_labels_protected": true,
+    "no_motion_or_implementation_claim": true,
+    "no_odr_resolution": true,
+    "post_scoring_retune_prohibited": true,
+    "material_defects_remaining_before_construction": false
+  },
+  "next_action": "Commit and host-validate this preregistration, then construct the deterministic challenger from the exact incumbent bytes under this frozen algorithm. Do not score until construction preservation checks and immutable challenger/comparison hashes are complete."
+}
