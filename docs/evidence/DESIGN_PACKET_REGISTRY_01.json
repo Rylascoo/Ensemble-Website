@@ -133,6 +133,14 @@
       "status": "DIRECTOR_DELEGATED_FROZEN_CORE_APP_BASELINE",
       "current_contribution": "Current five-character cone Stage baseline with the context-agnostic Kymaean causal-field background; no production-token or implementation authority.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-APP-SYN-01-01",
+      "path": "docs/evidence/packets/PKT_APP_SYN_01_WHOLE_APP_SYNTHESIS_01.json",
+      "axis": "whole-app / cross-packet system coherence and CLR contextual reentry",
+      "status": "DIRECTOR_ADJUDICATION_PENDING",
+      "current_contribution": "Current packet set is compatible with usage restraint; Stage-to-app-shell translation gap remains; CLR F2/F1 both survive and await Director contextual choice.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -157,17 +165,23 @@
       "PKT-CMP-01-01",
       "PKT-CMP-02-01"
     ],
-    "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Manifest 04 freezes the no-result review-label reflow carrier repair. Execute the unchanged 10-mode mechanical/accessibility matrix; subjective review remains forbidden until PASS.",
+    "whole_app_synthesis_packets_created": [
+      "PKT-APP-SYN-01-01"
+    ],
+    "next_synthesis_trigger": "Director contextual CLR F2/F1 choice. Then close APP-SYN-01 and decide whether the recommended bounded Stage-to-app-shell adjacency / shared surface-hierarchy translation gate should be activated.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_SEL_S1_F4_REENTRY_AUDIT_06.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
     "active_whole_app_synthesis_method": "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json",
-    "active_whole_app_synthesis_status": "CARRIER_REFLOW_REPAIR_FROZEN_NO_DESIGN_RESULT",
+    "active_whole_app_synthesis_status": "DESIGN_SOL_VIEW_FROZEN_DIRECTOR_CLR_CONTEXT_PENDING",
     "active_whole_app_synthesis_manifest": "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_04.json",
-    "active_whole_app_synthesis_manifest_sha256": "7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c25339673"
+    "active_whole_app_synthesis_manifest_sha256": "7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c25339673",
+    "active_whole_app_synthesis_preflight": "docs/evidence/APP_SYN_01_BROWSER_PREFLIGHT_01.json",
+    "active_whole_app_synthesis_preflight_sha256": "5ee25acd4c339866b0941454ddc7e4eb6cc37843242492982e8fcdc84e0af1a4",
+    "active_whole_app_synthesis_design_sol_view": "docs/evidence/APP_SYN_01_DESIGN_SOL_WHOLE_SYSTEM_VIEW_01.json",
+    "active_whole_app_synthesis_design_sol_view_sha256": "9d9bf2c84806d0666eedc3a984169277f1a8c9e6dfc4cf5fae9d47ee155820a0"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

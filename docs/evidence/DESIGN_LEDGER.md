@@ -2240,7 +2240,7 @@ The repaired source verifier passes all 11 packet hashes and 16 materialization-
 
 **Next boundary:** execute the unchanged 10-mode structural/accessibility browser matrix. Subjective review remains inadmissible until `APP_SYN_01_BROWSER=PASS`.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE NO-RESULT TOOLING-REPAIR AUDIT.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE NO-RESULT TOOLING-REPAIR AUDIT.**
 
 ## L-144 - APP-SYN-01 normal-wide overflow is sr-only measurement defect, not carrier failure
 
@@ -2254,7 +2254,7 @@ Manifest 03 SHA-256 is `8c287ccf5dfffedb8dd5e1a323e9e991a8f8cf20471c9b6b7d74638c
 
 **Next boundary:** rerun `normal-wide`, then execute the remaining frozen browser modes. Subjective review remains inadmissible until `APP_SYN_01_BROWSER=PASS`.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE NO-RESULT MEASUREMENT-REPAIR AUDIT.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE NO-RESULT MEASUREMENT-REPAIR AUDIT.**
 
 ## L-145 - APP-SYN-01 200%/320 overflow repaired in review-only labels
 
@@ -2268,4 +2268,34 @@ Manifest 04 SHA-256 is `7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c
 
 **Next boundary:** rerun the unchanged ten-mode structural/accessibility browser matrix. Subjective review remains inadmissible until `APP_SYN_01_BROWSER=PASS`.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE NO-RESULT MECHANICAL CARRIER-REPAIR AUDIT.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE NO-RESULT MECHANICAL CARRIER-REPAIR AUDIT.**
+
+## L-146 - APP-SYN-01 canonical ten-mode browser preflight passes
+
+**State:** MECHANICAL / ACCESSIBILITY PREFLIGHT PASS / SUBJECTIVE REVIEW UNBLOCKED
+
+Under Manifest 04, all ten frozen browser modes pass across the eleven preregistered surfaces. Every mode preserves the exact 1672x941 Stage raster, has zero material horizontal overflow, retains exactly eleven intentional clipped accessible-name spans, and reaches all eleven surfaces through real sequential Tab focus with the independent STA F2 selection witness intact. Normal motion preserves F1A 460ms / 70ms succession and CS2 280ms opacity transition; reduced-motion computes zero transition.
+
+`docs/evidence/APP_SYN_01_BROWSER_PREFLIGHT_01.json` freezes the aggregate canonical result, SHA-256 `5ee25acd4c339866b0941454ddc7e4eb6cc37843242492982e8fcdc84e0af1a4`. The two preregistered review captures were then generated from the same carrier and archived to authenticated Drive folder `1qI0xQ5wVSEFj_0bNtIDi456zW8Y5GCTK`: wide file `1K8bPDtpsa_s4ewyQ71X6lsMOe6Qbwwry` SHA-256 `a282deef12b772b7ac8bcf5ed6e6df3d59b2a040e6635869b27008d7b59f02ef`, compact file `15B8IAXbzMvKfv5PGh3KnwJrCjDQ_O1LF` SHA-256 `c76feaa49b15e5ab8830905b8c6aff7c170ce08e4ba2aff8c38812625cda955d`. Authenticated provider download byte sizes and SHA-256 match the local capture bytes exactly.
+
+Fresh Project main is `1b0d68f7621790c9b610559ac32ca0c73e0ba988`; E0-C remains provider-traffic-zero preactivation and creates no Design/Stage semantic change.
+
+**Next boundary:** freeze Design Sol whole-system judgment before Director CLR contextual input.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE MECHANICAL-PREFLIGHT AUDIT.**
+
+## L-147 - APP-SYN-01 Design Sol whole-system view is frozen
+
+**State:** DESIGN SOL VIEW FROZEN / DIRECTOR CLR CONTEXT DECISION PENDING / NO FINAL CLR OR PHASE-C EXIT
+
+`docs/evidence/APP_SYN_01_DESIGN_SOL_WHOLE_SYSTEM_VIEW_01.json` freezes the preregistered subjective synthesis before Director taste input, SHA-256 `9d9bf2c84806d0666eedc3a984169277f1a8c9e6dfc4cf5fae9d47ee155820a0`. The result types are **COMPATIBLE_WITH_USAGE_RESTRAINT** and **WHOLE_SYSTEM_GAP_REMAINS**. Current packets coexist without a material contradiction, but the whole is stronger when identity, material, accent and motion are deployed only where they have a real job rather than repeated as decoration.
+
+The exact Stage remains the strongest visual/semantic center. C0 + O3 + content hierarchy coexist, but repeating the full identity stack across every carrier creates avoidable branding pressure; NO_O3 evidence supports reserving O3 for genuine identity moments. MAT F1 remains compatible but FULL vs NO_MAT is low-leverage here, so subtractive geometry should remain structural rather than ubiquitous. STA F2 stays distinct from keyboard focus; F1A and CS2 remain mechanically/semantically disjoint.
+
+CLR F2 and F1 both survive contextual integration. Design Sol prefers **F2** because its low-chroma cool field and scarce teal intruder better protect Stage primacy and avoid collision with Stage warm signals. **F1 remains materially valid** because its warmer neutral field feels more continuous with the Stage editorial temperature, but its burnt-orange accent is more generic and more liable to collide with existing warm Stage cues if repeated. This preserved two-way validity triggers the preregistered Director contextual choice; Design Sol preference is not a winner.
+
+The synthesis also exposes a genuine whole-system gap: current packets do not yet define how the dark, dimensional, atmospheric Stage transitions into flatter surrounding app-shell surfaces. That earns recommendation—not activation—of the smallest later Stage-to-app-shell adjacency / shared surface-hierarchy translation gate after CLR context is settled. It does not authorize new product IA or Stage refinement.
+
+`docs/evidence/packets/PKT_APP_SYN_01_WHOLE_APP_SYNTHESIS_01.json` is therefore created as `DIRECTOR_ADJUDICATION_PENDING`, SHA-256 `8c925da247993f46fa87c759d95089aeb0ffb001adbe298fe9ed60f27d196731`.
+
+**Exact next boundary:** Director contextual F2-versus-F1 choice only. No final palette, Phase-C exit, implementation, or closed-gate reopening follows automatically.

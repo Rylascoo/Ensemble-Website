@@ -1,0 +1,151 @@
+{
+  "schema": "kymaean.app-syn-01.design-sol-whole-system-view.v1",
+  "status": "FROZEN_DESIGN_SOL_VIEW_DIRECTOR_CLR_CONTEXT_PENDING",
+  "date": "2026-09-12",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "branch": "design/app-syn-01-whole-app-synthesis-2026-09-12",
+    "carrier_authority_commit": "120b7be97bfdec4877c41f71fc5733679c93c69f",
+    "method": "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json",
+    "execution_manifest": "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_04.json",
+    "execution_manifest_sha256": "7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c25339673",
+    "mechanical_preflight": "docs/evidence/APP_SYN_01_BROWSER_PREFLIGHT_01.json",
+    "mechanical_preflight_sha256": "5ee25acd4c339866b0941454ddc7e4eb6cc37843242492982e8fcdc84e0af1a4",
+    "fresh_project_checkpoint": "1b0d68f7621790c9b610559ac32ca0c73e0ba988",
+    "project_reconciliation": "E0-C remains provider-traffic-zero preactivation; no new Design/Stage semantics or authority are created."
+  },
+  "review_evidence": {
+    "drive_folder_id": "1qI0xQ5wVSEFj_0bNtIDi456zW8Y5GCTK",
+    "normal_wide": {
+      "drive_file_id": "1K8bPDtpsa_s4ewyQ71X6lsMOe6Qbwwry",
+      "name": "APP-SYN-01 — Normal Wide Whole-System Review.png",
+      "sha256": "a282deef12b772b7ac8bcf5ed6e6df3d59b2a040e6635869b27008d7b59f02ef",
+      "size_bytes": 966071,
+      "dimensions": [
+        1200,
+        14000
+      ]
+    },
+    "normal_320": {
+      "drive_file_id": "15B8IAXbzMvKfv5PGh3KnwJrCjDQ_O1LF",
+      "name": "APP-SYN-01 — Normal 320 Whole-System Review.png",
+      "sha256": "c76feaa49b15e5ab8830905b8c6aff7c170ce08e4ba2aff8c38812625cda955d",
+      "size_bytes": 357920,
+      "dimensions": [
+        320,
+        14000
+      ]
+    },
+    "drive_provider_readback": "AUTHENTICATED_FILE_IDS_AND_BYTE_SIZES_MATCH; downloaded provider bytes independently match the pinned SHA-256 values.",
+    "derived_crops": "Disposable local review aids only; not canonical evidence."
+  },
+  "result_types": [
+    "COMPATIBLE_WITH_USAGE_RESTRAINT",
+    "WHOLE_SYSTEM_GAP_REMAINS"
+  ],
+  "whole_system_summary": "The current Stage baseline and bounded shared-brand/app packets form a coherent supporting system when viewed together, but coherence depends on disciplined deployment rather than repeating every packet everywhere. No existing packet is contradicted strongly enough to require rewrite. The synthesis also exposes a real unresolved translation gap between the highly resolved, atmospheric Stage and the intentionally flatter surrounding app carriers; that gap is new whole-system evidence, not permission to redesign Stage or invent product architecture.",
+  "dimension_findings": [
+    {
+      "dimension": "cross-packet hierarchy and Stage primacy",
+      "result": "PASS_WITH_RESTRAINT",
+      "finding": "The exact Stage remains visually dominant and semantically richest. The synthetic app carriers read as supporting system surfaces rather than alternate hero surfaces; neither CLR family displaces Stage primacy in the frozen review."
+    },
+    {
+      "dimension": "single coherent identity hierarchy without C0/O3/type/material/state carrier competition",
+      "result": "PASS_WITH_USAGE_RESTRAINT",
+      "finding": "C0 + O3 + content hierarchy remain legible and non-colliding. Repeating the full C0/O3 stack on every carrier creates unnecessary branding pressure; the NO_O3 ablations show that established-context surfaces can become calmer when the wordmark is not repeated."
+    },
+    {
+      "dimension": "preservation of Character names and semantic separations",
+      "result": "PASS",
+      "finding": "The Stage raster remains exact, including human-readable Character names and its current semantic separations. The synthesis carrier introduces no Stage semantics and does not assign meaning to Observed Cues, pips or inter-Character arcs."
+    },
+    {
+      "dimension": "material topology structural/subordinate",
+      "result": "COMPATIBLE_WITH_USAGE_RESTRAINT",
+      "finding": "FULL and NO_MAT remain extremely close in both CLR families. MAT F1 therefore does not compete with content, but its contribution is too subtle to justify ubiquitous decorative repetition; use it only where a real structural subtraction/hierarchy job exists."
+    },
+    {
+      "dimension": "STA F2 distinct from keyboard focus and other states",
+      "result": "PASS",
+      "finding": "The persistent selected witness remains visually distinct from transient focus outline in both wide and compact review, matching the canonical keyboard preflight."
+    },
+    {
+      "dimension": "F1A and CS2 semantically disjoint with truthful reduced motion",
+      "result": "PASS_STRUCTURAL",
+      "finding": "The frozen source and canonical diagnostics preserve F1A as ordered peer succession and CS2 as same-host context replacement; reduced-motion removes transition. The still review exposes no persistent visual collision and does not earn cadence retuning."
+    },
+    {
+      "dimension": "CLR F2 scarcity and F1 genericity pressure under accumulated density",
+      "result": "BOTH_MATERIALLY_VALID_DIRECTOR_CONTEXT_REQUIRED",
+      "finding": "F2 stays low-chroma and keeps its teal intruder small, which best protects Stage chroma and reduces semantic collision with Stage amber/gold cues. F1 feels warmer and more immediately continuous with the Stage editorial tone, but its orange accent is more generic and more liable to collide with existing warm Stage signals if repeated. Both remain materially valid under the frozen matrix."
+    },
+    {
+      "dimension": "forced-colors/high-contrast/reduced-motion and representative-width coherence",
+      "result": "PASS_MECHANICAL",
+      "finding": "All frozen validation modes pass. Forced-colors evidence applies only to the HTML synthesis carrier; the baked Stage raster is not relabeled as native high-contrast validation."
+    },
+    {
+      "dimension": "200% text resize/text-spacing/reflow",
+      "result": "PASS_MECHANICAL",
+      "finding": "Canonical Manifest 04 carrier passes 200% and text-spacing at 1200 and 320 with zero material overflow after the review-only label repair."
+    },
+    {
+      "dimension": "fatigue/repetition pressure and whether restraint strengthens the whole",
+      "result": "USAGE_RESTRAINT_REQUIRED",
+      "finding": "The ablations show no need to stamp O3, MAT F1, or accent treatment on every bounded surface. Identity should concentrate at shell/entry moments; material cuts should be structural; color accent should stay scarce; F1A/CS2 should appear only for their actual semantic jobs."
+    },
+    {
+      "dimension": "unresolved system gaps remain explicit",
+      "result": "WHOLE_SYSTEM_GAP_REMAINS",
+      "finding": "The Stage is dark, dimensional, atmospheric and editorially specific while the surrounding carriers are intentionally flat/light/neutral. Current packets do not yet define the Stage-to-app-shell adjacency/surface-depth transition. That missing translation law should remain explicit rather than be filled by this synthetic carrier."
+    }
+  ],
+  "usage_restraint_law": [
+    "Do not repeat O3 as a per-component badge; reserve the full C0/O3 identity stack for app-shell, entry or other genuine identity moments.",
+    "Do not use C0 as decorative punctuation on every component merely because it survived bounded identity composition.",
+    "Use MAT F1 only where subtractive geometry performs a structural hierarchy job; NO_MAT evidence shows ubiquitous use is unnecessary.",
+    "Keep CLR accents scarce and non-semantic unless later product authority assigns a role; selected/success/speaking meanings must not be inferred from the accent strip.",
+    "Keep F1A and CS2 attached to their frozen succession/context-shift semantics; do not add ambient looping or ornamental motion."
+  ],
+  "clr_contextual_assessment": {
+    "F2": {
+      "status": "SURVIVES_CONTEXTUAL_INTEGRATION",
+      "strength": "Best protects Stage chroma/semantic scarcity and keeps supporting app surfaces quiet; teal intruder remains visibly distinct when scarce.",
+      "pressure": "Can feel like a separate cool UI world if its lilac/teal field becomes too pervasive; scarcity remains mandatory."
+    },
+    "F1": {
+      "status": "SURVIVES_CONTEXTUAL_INTEGRATION",
+      "strength": "Warmer neutral continuity feels closer to the Stage editorial temperature and remains highly readable.",
+      "pressure": "Burnt-orange accent is more generic and is closer to existing warm Stage signals, increasing collision/fatigue risk if repeated."
+    },
+    "design_sol_contextual_preference": "F2",
+    "preference_reason": "F2 better protects Stage primacy and semantic color scarcity in this whole-system context while remaining restrained enough not to become a second visual center.",
+    "director_decision_required": true,
+    "director_choice_scope": "Contextual F2 versus F1 choice for current synthesis direction only; neither choice creates final palette or production-token authority."
+  },
+  "earned_followup_pressure": {
+    "status": "RECOMMENDED_NOT_ACTIVATED",
+    "purpose": "After the Director CLR contextual choice, test the smallest bounded Stage-to-app-shell adjacency / shared surface-hierarchy translation needed to bridge the current whole-system gap without inventing product IA or modifying Stage.",
+    "must_preserve": [
+      "PKT-STAGE-CORE-02",
+      "all closed CIR-S1/CONE-S1/STATE-S1/PERF-S1/SEL-S1 laws",
+      "unresolved ODR/product/runtime semantics",
+      "Design/Engineering authority separation"
+    ]
+  },
+  "explicit_non_authority": [
+    "No CLR winner is selected by Design Sol alone; both F2 and F1 remain valid pending Director contextual choice.",
+    "No final palette, typeface, material, motion, symbol, wordmark, identity, production token or shipping component system.",
+    "No Phase-C exit, WinUI/runtime implementation or native accessibility claim.",
+    "No resolution of ODR-05/07/14/15/19/30 or Stage Observed Cues/pip/arc semantics.",
+    "No Stage pixel/geometry change and no reopening of CIR-S1/CONE-S1/STATE-S1/PERF-S1/SEL-S1."
+  ],
+  "recursive_audit": {
+    "status": "CLEAN_DESIGN_SOL_VIEW_FROZEN",
+    "stale_project_assumption_repaired": true,
+    "fresh_project_main": "1b0d68f7621790c9b610559ac32ca0c73e0ba988",
+    "authority_contradiction_found": false,
+    "result_aware_retune_after_review": false
+  }
+}
