@@ -1,0 +1,287 @@
+{
+  "schema": "kymaean.img-01.stage0-evidence-atlas-source-manifest.v1",
+  "status": "FROZEN_STAGE0_NO_NEW_VISUAL_GENERATION",
+  "date": "2026-09-13",
+  "program": "IMG-01",
+  "authority": {
+    "activation_commit": "d5afa8fda779133fb56e8bd947b960f690fa3d72",
+    "method": "docs/evidence/IMG_01_SHARED_IMAGE_CHARACTER_ART_DIRECTION_METHOD_01.json",
+    "method_sha256": "2d7cbdc5471b0c97f156d9bf1928eba0f12ba821ac954dce4d1c3877a1c8be13",
+    "project_checkpoint": "65b73d4a6193ce6e2110dc35ac8e3c13ac21e539"
+  },
+  "hash_law": {
+    "repository_text": "SHA-256 after CRLF->LF normalization",
+    "visual_binary": "SHA-256 exact bytes"
+  },
+  "repository_sources": [
+    {
+      "path": "docs/evidence/packets/PKT_STAGE_CORE_02.json",
+      "sha256": "2318109789f24021258f50135d7535818b3ee0295292654897dabef6b595d625",
+      "class": "CURRENT_POSITIVE_BASELINE",
+      "role": "Exact current Stage packet; frozen carrier and no-portrait/card dependency."
+    },
+    {
+      "path": "docs/evidence/APP_SYN_01_DESIGN_SOL_WHOLE_SYSTEM_VIEW_01.json",
+      "sha256": "9d9bf2c84806d0666eedc3a984169277f1a8c9e6dfc4cf5fae9d47ee155820a0",
+      "class": "CURRENT_POSITIVE_BASELINE",
+      "role": "Whole-system Stage primacy, usage restraint, and unresolved shell translation."
+    },
+    {
+      "path": "docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md",
+      "sha256": "b49c4893d04ad84aed7e839ae25acda227c24090ff509b8462b615beca77cc83",
+      "class": "CURRENT_POSITIVE_BASELINE",
+      "role": "Stage human-causal background and carrier law; generic AI/sci-fi spectacle excluded."
+    },
+    {
+      "path": "docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md",
+      "sha256": "235a923e1b1ce7054134dbbc60cbf38e88e0f21788ea919e67df6d86dd0f7302",
+      "class": "DURABLE_VISUAL_LAW",
+      "role": "Human signal over system ornament; persistent identity bundle; cross-surface transfer and fallback law."
+    },
+    {
+      "path": "docs/KYMAEAN_CHARACTER_REPRESENTATION_REQUIREMENTS_PROPOSAL_01.md",
+      "sha256": "b43cdcba794d6c9f5020a876aac5bfa1efdf2d584e049c34e68358f6df0d7747",
+      "class": "DURABLE_VISUAL_LAW",
+      "role": "Six Character representation jobs, representation-depth model, state independence and epistemic restraint."
+    },
+    {
+      "path": "docs/KYMAEAN_CRV_01_CHARACTER_REPRESENTATION_VIABILITY_RESULT.md",
+      "sha256": "2e087ad4f97418e0cbf6bd9b783a1b85db39a05d0f84c6ea0ad7bd8964544fb8",
+      "class": "HISTORICAL_POSITIVE_NEGATIVE",
+      "role": "Representation viability across reduced, figurative and rich depths; no depth selected."
+    },
+    {
+      "path": "docs/KYMAEAN_CIR_V1_CHARACTER_IDENTITY_RECOVERABILITY_MATRIX_RESULT.md",
+      "sha256": "e9ef09e75dedee8008d5b2e32cada8994b8cecf6286ccb262fd2b89c24c93631",
+      "class": "DURABLE_VISUAL_LAW",
+      "role": "Adaptive identity explicitness and image-unavailable recoverability without a permanent roster."
+    },
+    {
+      "path": "docs/KYMAEAN_LANE_A_CHARACTER_RECASTING_01.md",
+      "sha256": "e37235d7d32a6238ba6f2f29fc3c0804f6d20c500cdd649365d8c23ccd394904",
+      "class": "HISTORICAL_POSITIVE_NEGATIVE",
+      "role": "Identity survives Performer reassignment and monochrome through redundant invariant bundle."
+    },
+    {
+      "path": "docs/KYMAEAN_VSG_CONTROLLED_MULTISTATE_STUDIES_01.md",
+      "sha256": "14371e88705a32776e46b9d57e643e4774f36b24da0bb70fdac2f5fabb66bf0b",
+      "class": "HISTORICAL_POSITIVE_NEGATIVE",
+      "role": "Three divergent multi-state grammars and their human/relational/material strengths and failure risks."
+    },
+    {
+      "path": "docs/KYMAEAN_VSG_A_B_CONVERGENCE_READINESS_AUDIT_01.md",
+      "sha256": "2d67bcd8b0877a2a59ed78b23d190bbb309ebf7148327b325156cf4e6304979c",
+      "class": "HISTORICAL_CONVERGENCE_EVIDENCE",
+      "role": "Relational structure plus editorial hierarchy are law-level compatible; superficial style mixing rejected."
+    },
+    {
+      "path": "docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md",
+      "sha256": "a77d99979cba3e74b0ef4807c9d3515ed489c44381d29dc979fdaa7787c1b2d0",
+      "class": "HISTORICAL_POSITIVE_NEGATIVE",
+      "role": "Renderer isolation: invariant identity can survive transformation; stylistic continuity alone cannot."
+    },
+    {
+      "path": "docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md",
+      "sha256": "a812516e4afeacb1b9d7e652ee71ae31fc9b33e1255be0ea960a2ad43d263bbf",
+      "class": "HISTORICAL_SYNTHESIS",
+      "role": "Transferable semantic laws; renderer surfaces quarantined; final human representation left unresolved."
+    },
+    {
+      "path": "docs/KYMAEAN_LANE_B_STAGE_INSPIRED_VISUAL_PHYSICS_SYNTHESIS_01.md",
+      "sha256": "5d711535049a8533714525822bb4d17da28783a321a30150abeee158aca7289f",
+      "class": "HISTORICAL_TRANSLATION_EVIDENCE",
+      "role": "Presence as local law of shared space; consequence leaves residue; relationship without connectors."
+    },
+    {
+      "path": "docs/KYMAEAN_LANE_B_WEBSITE_VISUAL_WORLD_COMPOSITION_01.md",
+      "sha256": "6851014ae65c57aac9cf1d6b64d8e6174624a87ee24c8d3029a1c83e08e3c2ed",
+      "class": "HISTORICAL_TRANSLATION_EVIDENCE",
+      "role": "Quiet Stage primary website-world research; cones/scenery explicitly non-universal."
+    },
+    {
+      "path": "docs/KYMAEAN_LANE_B_QUIET_STAGE_EXTENSION_TEST_01.md",
+      "sha256": "3d896c6205879e43d67e2a112931dfd02b200eea52ed6e09825ba004da3bac25",
+      "class": "HISTORICAL_TRANSLATION_EVIDENCE",
+      "role": "Non-cone relationship/history/posture extensions prove theatrical absence can transfer by law."
+    },
+    {
+      "path": "docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_CROSSWALK_01.md",
+      "sha256": "0af14a6e5e73a434d0196143c5cef5f4425372f887fc97f1b303f72d5448a54c",
+      "class": "PRODUCT_VISUAL_CONSTRAINT",
+      "role": "Character != portrait; visual representation must not manufacture product ontology or authority."
+    }
+  ],
+  "drive_visual_sources": [
+    {
+      "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+      "title": "Kymaean Core Stage Background Successor 01 \u2014 Frozen.png",
+      "size_bytes": 1431659,
+      "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "class": "CURRENT_VISUAL_MASTER",
+      "role": "Exact Stage anchor; pixels/geometry are not IMG-01 inheritance except as comparison baseline.",
+      "inheritance_rights": "COMPARISON_BASELINE_ONLY"
+    },
+    {
+      "drive_file_id": "1h_gY8AuyypL-6pqOpVjASl_d8me-A2AI",
+      "title": "Character Recasting 01 \u2014 Effective.png",
+      "size_bytes": 335755,
+      "sha256": "beb7ffe40c445e21168513a8abe78bc6730a9d9260da7ad5b7a694b03835c53f",
+      "dimensions": [
+        1600,
+        1050
+      ],
+      "class": "HISTORICAL_EVIDENCE",
+      "role": "Recasting evidence: identity persists while Performer assignment changes.",
+      "inheritance_rights": false
+    },
+    {
+      "drive_file_id": "1tLBxcGncKOcwd7UfWrnd8In1m985-A3r",
+      "title": "Character Recasting 01 \u2014 Monochrome.png",
+      "size_bytes": 283669,
+      "sha256": "f13ffb79a7a714d5e78b0bb37cf810f16ab3dae54ccd43eb286a768678bf1ba6",
+      "dimensions": [
+        1600,
+        1050
+      ],
+      "class": "HISTORICAL_EVIDENCE",
+      "role": "Monochrome evidence: distinct shape + name survives color removal.",
+      "inheritance_rights": false
+    },
+    {
+      "drive_file_id": "1QvRk-rzLKF4l6jNY7igMRHJ9gvBZcq_7",
+      "title": "Character Recasting 01 \u2014 Before.png",
+      "size_bytes": 318949,
+      "sha256": "d21b5dce364c60f67c13c6894d03401b224ed20650f4913629e537cfd953dcac",
+      "dimensions": [
+        1600,
+        1050
+      ],
+      "class": "HISTORICAL_EVIDENCE",
+      "role": "Pre-recast comparison only; no surface inheritance.",
+      "inheritance_rights": false
+    },
+    {
+      "drive_file_id": "17yyfAfa63-CFax2QLHMQMUhSl0WcgP_p",
+      "title": "Integration Reference 01 \u2014 Character View.png",
+      "size_bytes": 189125,
+      "sha256": "c0e53b47d0a0664a0650acfbe1692307997ee42975a1788f21fcbb9403d31015",
+      "dimensions": [
+        1440,
+        980
+      ],
+      "class": "HISTORICAL_EVIDENCE",
+      "role": "Character-view integration reference; hierarchy/identity evidence only.",
+      "inheritance_rights": false
+    },
+    {
+      "drive_file_id": "1S6fPvFx-oveZJeL6Ptsi1jfSSjPQcsRK",
+      "title": "Kymaean_Stage_Inspired_Visual_Physics_Synthesis_01.png",
+      "size_bytes": 556065,
+      "sha256": "b6f10ba864744bb929a9fff509933aa1a2538d7c08b0e65f8930ae9095b73ecc",
+      "dimensions": [
+        1650,
+        2500
+      ],
+      "class": "HISTORICAL_EVIDENCE",
+      "role": "Visual-physics board: local presence/shared field hypotheses; not a final image system.",
+      "inheritance_rights": false
+    },
+    {
+      "drive_file_id": "1y5j0onAfftZWoVu6ykdvcgH1-bdWwH1N",
+      "title": "Kymaean_Website_Visual_World_Composition_01.png",
+      "size_bytes": 543002,
+      "sha256": "12f7fbddeb58fcc0e6a93925ee361b3ffcdbc785c181fc18da7862742f72d78d",
+      "dimensions": [
+        1700,
+        3600
+      ],
+      "class": "HISTORICAL_EVIDENCE",
+      "role": "Three website-world directions; Quiet Stage evidence, not a website master.",
+      "inheritance_rights": false
+    },
+    {
+      "drive_file_id": "10OFETjVHlO9KAOV63mGiOMZkeFIqXId3",
+      "title": "Kymaean_Quiet_Stage_Extension_Test_01.png",
+      "size_bytes": 568162,
+      "sha256": "596283a1a09165980395f18573e6947638acd80f2022515fb7ad44d899c09ffa",
+      "dimensions": [
+        1600,
+        3586
+      ],
+      "class": "HISTORICAL_EVIDENCE",
+      "role": "Desktop non-cone extension laws: bounded chorus, causal scar, posture proximity.",
+      "inheritance_rights": false
+    },
+    {
+      "drive_file_id": "1WqSNBSmHTkzhV-pUgRpydA90Atrhf86V",
+      "title": "Kymaean_Quiet_Stage_Extension_Test_01_Mobile.png",
+      "size_bytes": 726762,
+      "sha256": "d3f5ac978e6291d8f5cceb9443518fe62d5203f930f7c2120266c3fcea4e9dd1",
+      "dimensions": [
+        780,
+        8350
+      ],
+      "class": "HISTORICAL_EVIDENCE",
+      "role": "Mobile translation evidence for non-cone extension laws.",
+      "inheritance_rights": false
+    }
+  ],
+  "positive_laws": [
+    "Human signal outranks system ornament; people must remain specific rather than decorative tokens.",
+    "Character identity is a redundant invariant bundle, not one permanent face, portrait, hue, position, motion or material treatment.",
+    "Rich depiction increases immediacy but is not required for identity, relationship, bounded perspective or salience.",
+    "Authored human identity is more important than simulated human appearance; specificity does not require photorealism.",
+    "Character identity remains stable across Performer reassignment, representation-depth change and color loss.",
+    "Relationship can be expressed through orientation, proximity, negative space, grouping, overlap, interruption and shared-space behavior without connector diagrams.",
+    "State decorates/contextualizes identity; state must not rewrite identity.",
+    "Visible portrayal never becomes authority for belief, knowledge, observation, intention, emotion, trust or private psychology.",
+    "As visual certainty decreases, textual/programmatic identity explicitness increases while identity truth stays stable.",
+    "Image-unavailable and assistive states must preserve names, participation, perspective/opportunity reference, focus and task attribution without rebuilding a permanent portrait roster.",
+    "Transformation plus persistent perceptual invariants can preserve identity; stylistic continuity alone cannot.",
+    "Presence may act as a local law of shared space; relationship may alter available space; consequence may leave a shared field structurally non-neutral.",
+    "Cross-surface translation must inherit laws rather than copied layouts: APP may stay restrained while WEB uses greater expressive amplitude.",
+    "Theatrical absence, human priority and living consequence can survive non-cone compositions; current Stage imagery is not a universal motif.",
+    "Expressive imagery is concentrated where it earns meaning; shell/control/supporting surfaces remain capable of staying quiet and semantically complete without it."
+  ],
+  "negative_quarantine_laws": [
+    "No generic profile-avatar or interchangeable AI-portrait system.",
+    "No color-only, costume-tint-only, lighting-only or fixed-headshot identity.",
+    "No gaze, expression, posture or gesture treated as authoritative psychology/state unless independently supported.",
+    "No social-graph/node language, connector beams or quantified relationship implication.",
+    "No copied cone lineup, Stage scenery, black-box theater, spotlight, floor-name or literal Stage composition as cross-surface identity shorthand.",
+    "No generic dark atmosphere, luxury editorial, cinematic fantasy concept art, mystical portal/rift or technology spectacle as identity.",
+    "No paper/collage/antiquarian archive shorthand or material metaphor outranking people.",
+    "No provider/model identity or capability spectacle outranking Character identity.",
+    "No permanent timeline, transcript wall or dashboard-card perimeter used as image/art-direction identity.",
+    "No essential task/state/identity meaning lost when expressive imagery is removed.",
+    "No historical visual source gains incumbent rights merely because it appears in this atlas.",
+    "No result-aware prompt retuning after subjective review."
+  ],
+  "controlled_comparison_facts": {
+    "people": "Three distinct temporary Character identities; labels and programmatic identity remain visible and are not product defaults.",
+    "relationship": "A and B share a current relationship; C remains a specific present participant rather than disappearing when not central.",
+    "bounded_perspective": "B may be the bounded perspective while C may independently carry current opportunity and A may independently hold focus; these are orthogonal state references.",
+    "changed_present": "An accepted causal event may reorganize the shared field; the same people remain recognizable afterward.",
+    "fallback": "The same facts must remain intelligible with expressive imagery removed and under monochrome/high-contrast abstraction.",
+    "clr": "No family may depend on F2 or F1; family boards use neutral/value-first construction until later lawful context."
+  },
+  "stage0_conclusion": {
+    "new_visual_generation_consumed": false,
+    "historical_source_surfaces_selected_as_incumbents": false,
+    "evidence_sufficient_for_three_family_freeze": true,
+    "next_action": "Freeze three materially divergent IMG-01 art-direction family definitions before deterministic reference-board construction."
+  },
+  "recursive_audit": {
+    "source_classes_separated": true,
+    "visual_master_inheritance_quarantined": true,
+    "clr_deferral_preserved": true,
+    "stage_primacy_preserved": true,
+    "product_semantics_not_invented": true,
+    "material_defects_remaining": false,
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN IMG-01 STAGE-0 EVIDENCE FREEZE."
+  }
+}

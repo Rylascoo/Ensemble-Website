@@ -2369,3 +2369,16 @@ The same audit repairs one factual provenance typo in L-150: the archive ref is 
 **Next boundary:** freeze the IMG-01 Stage-0 evidence atlas/source manifest, then freeze all three art-direction families before visual materialization or subjective comparison. No CLR selection, Phase D entry, Stage change, closed-gate reopening, bespoke product-icon semantics, or WinUI/runtime authority is created.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PHASE C COMPLETION AUDIT / IMG-01 METHOD FREEZE.**
+## L-153 - IMG-01 Stage-0 evidence atlas and three family definitions are frozen
+
+**State:** IMG-01 ACTIVE / STAGE-0 FROZEN / THREE FAMILIES FROZEN / REFERENCE BOARD NEXT / NO NEW VISUAL GENERATION
+
+`docs/evidence/IMG_01_STAGE0_EVIDENCE_ATLAS_AND_SOURCE_MANIFEST_01.json` freezes the IMG-01 source corpus at SHA-256 `c3ddc1fa9c5ade158edbf8f82f1b6c8afa086eda4e62441f9fc25e11146f7283`: 16 canonical repository sources, 9 exact authenticated Drive visual masters, 15 positive laws and 12 quarantine laws. The corpus preserves current Stage primacy, CRV/CIR representation-depth and recoverability findings, renderer-isolation invariant-identity evidence, Lane-B visual-physics/Quiet-Stage translation evidence and APP-SYN usage restraint without promoting any historical surface into a new incumbent.
+
+`docs/evidence/IMG_01_FROZEN_ART_DIRECTION_FAMILIES_01.json` is frozen at SHA-256 `13513408875a6f4f6ba8be8e5aaead83bf616d38cb821f36291e82d2f79e8207`. Exactly three families are defined before subjective comparison: `IMG-F1 - Authored Figurative Ensemble`, `IMG-F2 - Transforming Human Invariants`, and `IMG-F3 - Grounded Residual Presence`. Pairwise material-divergence counts are `6 / 7 / 6`, satisfying the four-axis floor without palette-only, crop-only, lighting-only or copied-Stage pseudo-divergence.
+
+No new generated visual has been consumed, no subjective family scoring has begun, CLR F2/F1 remains deferred, `PKT-STAGE-CORE-02` is unchanged, and no Phase D/product/runtime authority is created. The next artifact is one deterministic neutral reference board using only frozen laws, controlled facts, clearly labeled source evidence and non-authoritative abstractions; mechanical/readability/no-image/monochrome preflight must precede aesthetic scoring or generated exemplars.
+
+**Next boundary:** construct and preflight the neutral IMG-F1/F2/F3 reference board; stop before generated visual exemplars or consequential taste selection.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN IMG-01 STAGE-0 + FAMILY FREEZE.**
