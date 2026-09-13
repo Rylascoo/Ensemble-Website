@@ -2331,7 +2331,7 @@ This main-only lifecycle checkpoint intentionally follows promotion so the immut
 
 **State:** APP-SYN-01 SERIAL CLOSED / ARCHIVED / NO ACTIVE SERIAL DESIGN BRANCH / CLR CONTEXT DEFERRED UNTIL REPRESENTATIVE REAL ASSEMBLY
 
-Exact APP-SYN-01 source 347afe2f3aaa4a772fe27dc471687e1ea9eff83c is preserved under lightweight tag rchive/design/app-syn-01-whole-app-synthesis-2026-09-12; remote readback matched exactly. Before deletion, source...main proved zero source-unique commits and one main-only lifecycle commit, so the source was a strict ancestor of main at 4ddd530e95345c352c0379b8dd1133c8ba32ef33. The remote serial branch was then deleted and confirmed absent. Concurrent design/sym02-threshold-k-shape-refinement-2026-09-11 remains preserved at 9308fb581c07d0b732cc488418a89c1c1ae4e750.
+Exact APP-SYN-01 source 347afe2f3aaa4a772fe27dc471687e1ea9eff83c is preserved under lightweight tag archive/design/app-syn-01-whole-app-synthesis-2026-09-12; remote readback matched exactly. Before deletion, source...main proved zero source-unique commits and one main-only lifecycle commit, so the source was a strict ancestor of main at 4ddd530e95345c352c0379b8dd1133c8ba32ef33. The remote serial branch was then deleted and confirmed absent. Concurrent design/sym02-threshold-k-shape-refinement-2026-09-11 remains preserved at 9308fb581c07d0b732cc488418a89c1c1ae4e750.
 
 This lifecycle closeout does not close the substantive APP-SYN-01 adjudication record. PKT-APP-SYN-01-01 remains DIRECTOR_ADJUDICATION_PENDING; Design Sol still prefers F2 contextually, F1 remains materially valid, and the Director has deferred the F2/F1 choice until representative real app assembly. No CLR winner, final palette, Phase-C exit, implementation authority, Stage change, or follow-on Stage-to-app-shell gate is created by branch closeout.
 
@@ -2353,3 +2353,19 @@ Phase C roadmap exit still requires a Director-approved shared identity system b
 **Next boundary:** remain parked until representative real app assembly becomes authoritative or the Director explicitly authorizes a bounded Phase C assembly context that supplies the missing evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN NO-ACTION READINESS AUDIT.**
+
+## L-152 - Phase C completion audit corrects overbroad parking and activates IMG-01
+
+**State:** PHASE C MATERIAL INCOMPLETE / IMG-01 ACTIVE / METHOD FROZEN / PRE-MATERIALIZATION / NO VISUAL RESULT
+
+`docs/evidence/PHASE_C_SHARED_IDENTITY_COMPLETION_AUDIT_01.json` performs a requirement-by-requirement audit against the canonical Phase C exit contract. It preserves all prior negative results and the APP-SYN CLR deferral, but corrects one overbroad inference from L-151: lack of representative native assembly blocks Phase D/shipping implementation and the deferred CLR contextual choice; it does not block all remaining Design-owned Phase C work.
+
+The audit classifies symbol, app icon, wordmark, typography, material/shape and motion as provisional or successor-only; CLR remains Director-deferred; bespoke domain iconography remains partly product-vocabulary-dependent; integrated durability and cross-surface translation remain partial. Two explicit Phase C requirements remain unconverged and Design-ready despite extensive historical evidence: **Character/human imagery principles** and **image/art direction**.
+
+IMG-01 — Shared Image / Character Art-Direction Convergence — is selected as the strongest next bounded program. It is a successor/convergence synthesis, not another fresh-reset visual-family experiment. `docs/evidence/IMG_01_SHARED_IMAGE_CHARACTER_ART_DIRECTION_METHOD_01.json` freezes three materially divergent family definitions, controlled APP/WEB/no-image/monochrome roles, hard anti-genericity and Stage-noncopy failures, CLR independence, provenance, and accessibility/fallback requirements before any new exemplar may be produced.
+
+The same audit repairs one factual provenance typo in L-150: the archive ref is `archive/design/app-syn-01-whole-app-synthesis-2026-09-12`; the stray control character before `archive/` was text corruption only and never altered the actual archived ref or APP-SYN result.
+
+**Next boundary:** freeze the IMG-01 Stage-0 evidence atlas/source manifest, then freeze all three art-direction families before visual materialization or subjective comparison. No CLR selection, Phase D entry, Stage change, closed-gate reopening, bespoke product-icon semantics, or WinUI/runtime authority is created.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PHASE C COMPLETION AUDIT / IMG-01 METHOD FREEZE.**
