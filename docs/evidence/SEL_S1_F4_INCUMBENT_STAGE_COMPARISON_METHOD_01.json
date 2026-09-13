@@ -1,0 +1,125 @@
+{
+  "schema": "kymaean.sel-s1.f4-incumbent-stage-comparison-method.v1",
+  "status": "FROZEN_PRE_CONSTRUCTION_PRE_EVALUATION",
+  "date": "2026-09-12",
+  "program_id": "SEL-S1-F4-STAGE-01",
+  "branch": "design/sel-s1-f4-incumbent-stage-comparison-2026-09-12",
+  "parent_result": "docs/evidence/SEL_S1_RESULT_01.json",
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "width": 1672,
+    "height": 941,
+    "bytes": 1431659,
+    "drive_recovery_verified_before_method_freeze": true,
+    "website_main_at_serial_open": "59f6d429cc02a70e019da4eb112c9b8c9f727f38"
+  },
+  "question": "Does frozen SEL-S1 F4 Shallow Ground Arc materially improve persistent creator-selection legibility for the already-selected Wren in the exact PKT-STAGE-CORE-02 Stage while preserving the incumbent floor/name hinge, ensemble hierarchy and separation from Current Opportunity, Speaking, Take a Seat and unresolved arc/pip semantics?",
+  "single_variable": "one additive persistent-selection witness raster beneath the existing Wren SELECTED label",
+  "incumbent_state": {
+    "selected_character": "Wren",
+    "explicit_label": "SELECTED",
+    "floor_anchor_px": [690, 430],
+    "optical_state": "REST",
+    "state_law": "Wren is already selected in PKT-STAGE-CORE-02; selection leaves the cone materially unchanged and creates no fictional action. No new selection state is invented for this comparison."
+  },
+  "source_translation": {
+    "frozen_f4_source": "prototypes/sel-s1/harness.html",
+    "source_css": "F4 selected hinge uses width 29.4% of the fixed hinge, height 14px, border-bottom:2px solid currentColor and lower 50% corner radii; this equals 42% of the frozen floor-pool width in the neutral scaffold.",
+    "stage_translation_law": "Translate only the ground-following witness proportion to the existing Wren floor/name hinge. Do not import neutral scaffold dimensions, beam/pool geometry, typography, focus ellipse or any other fixture styling.",
+    "wren_arc_center_x_px": 690,
+    "raster_bbox_xyxy_inclusive": [664, 490, 716, 498],
+    "raster_envelope_width_px": 53,
+    "raster_envelope_height_px": 9,
+    "outer_rx_px": 26,
+    "outer_ry_px": 8,
+    "center_y_px": 490,
+    "mask_predicate": "For each integer pixel x=664..716 and y=490..498, compute q=((x-690)/26)^2+((y-490)/8)^2. Include the pixel iff 0.68<=q<=1.0.",
+    "expected_mask_pixels": 106,
+    "expected_mask_bbox_xyxy_inclusive": [664, 490, 716, 498],
+    "stroke_rgb": [242, 242, 238],
+    "stroke_hex": "#f2f2ee",
+    "stroke_source_law": "Use the exact frozen SEL-S1 harness currentColor (--ink:#f2f2ee) so the comparison changes witness geometry only; this comparison color is evidence scaffolding and creates no final palette/token authority.",
+    "compositing": "Opaque replace only the 106 mask pixels with stroke_rgb. No antialiasing, blur, glow, alpha blend, resampling or neighboring-pixel modification.",
+    "existing_pixels_equal_stroke_inside_mask": 0
+  },
+  "excluded_variables": [
+    "Wren cone, floor pool, identity cue, name, SELECTED label and three pips",
+    "all other Character cones, pools, names, state labels, identity cues and pips",
+    "Current Opportunity, Speaking, Listening and Rest optics",
+    "Take a Seat, Perspective, creator actions and Intervene semantics",
+    "right rail, Observed Cues, inter-character arcs and unresolved pip/arc meaning",
+    "Performance/history layout and source attribution",
+    "Production/Scene context, background causal field, shell, controls and footer",
+    "palette outside the frozen witness comparison color, typography, motion and implementation"
+  ],
+  "pixel_preservation_law": {
+    "must_be_exact": [
+      "all 1,573,352 incumbent pixels except the 106 frozen witness-mask coordinates",
+      "Wren SELECTED text and the full three-pip row",
+      "Wren cone/pool/name/identity cue and existing selection treatment",
+      "every other Character and every non-Character Stage region"
+    ],
+    "must_remain_semantically_unchanged": [
+      "USER SELECTION != CURRENT OPPORTUNITY != SPEAKING != TAKE A SEAT",
+      "selection remains persistent creator focus only",
+      "the cone remains presence rather than a button/container",
+      "the floor/name relationship remains the interaction hinge",
+      "unresolved inter-character arc and three-pip semantics remain unresolved"
+    ]
+  },
+  "construction_preflight": {
+    "required": [
+      "input SHA-256, byte count and dimensions equal the frozen baseline",
+      "generated mask has exactly 106 unique pixels and bbox [664,490,716,498]",
+      "all 106 mask pixels differ from the incumbent stroke_rgb value before construction",
+      "output remains 1672x941 RGB",
+      "exactly 106 pixels change and every changed coordinate belongs to the frozen mask",
+      "all non-mask pixels are byte-identical to the incumbent",
+      "Wren SELECTED text and all three pips remain byte-identical",
+      "challenger and comparison board receive immutable hashes before subjective scoring",
+      "an evidence-only Wren hinge crop confirms no clipping, accidental pip connection or raster defect before scoring"
+    ],
+    "technical_failure_law": "Any hash, mask, pixel-isolation, clipping, collision or raster-integrity failure rejects the technical attempt before scoring. Repair may only conform implementation to this frozen method; no geometry, color, criterion or F4 variant may change."
+  },
+  "evaluation_criteria": [
+    "F4 must materially improve persistent selection legibility for the already-selected Wren over the exact incumbent.",
+    "The witness must remain local to the Wren floor/name hinge and must not turn the cone into a button, chip, card, avatar container or boxed selectable object.",
+    "The witness must remain clearly subordinate to Wren's presence, name, SELECTED label and existing identity cue rather than becoming the most authoritative mark.",
+    "The witness must not read as Current Opportunity, Speaking, validation, progress, navigation, nomination or another narrative/runtime state.",
+    "The witness must not read as Take a Seat, occupied-seat ownership or creator possession.",
+    "The witness must not visually fuse with the three pips or imply that the unresolved pips/inter-character arcs have acquired selection, progress or causality semantics.",
+    "The witness must preserve five-Character ensemble balance and must not increase competition with Performance text, Production/Scene context, creator controls or the right rail.",
+    "The additive witness must feel native to the incumbent floor/name hinge rather than like crop/edit/alignment tooling or an ornamental underline detached from the Character.",
+    "Promotion requires a material net improvement over PKT-STAGE-CORE-02; parity, mixed tradeoff or any new semantic ambiguity retains the incumbent."
+  ],
+  "decision_law": {
+    "possible_results": [
+      "PROMOTE_SEL_S1_F4_STAGE_SUCCESSOR",
+      "RETAIN_INCUMBENT_F4_FAILS_INTEGRATION"
+    ],
+    "no_draw_by_default": true,
+    "no_post_result_retune": true,
+    "no_f4b_or_replacement_in_same_gate": true,
+    "failure_consequence": "Retain PKT-STAGE-CORE-02 and close the F4 comparison. Do not change arc geometry, witness color, placement or author F4b in this gate.",
+    "promotion_consequence": "Promote only the bounded persistent-selection witness integration. No final palette, focus-management, Take-a-Seat, pip/arc, motion, typography, implementation or ODR authority is created."
+  },
+  "recursive_pre_evaluation_audit": {
+    "exact_incumbent_bytes_recovered": true,
+    "incumbent_already_contains_selected_wren": true,
+    "single_variable_isolation": true,
+    "f4_family_unchanged_from_frozen_sel_s1": true,
+    "f4_width_relation_preserved_from_frozen_sel_s1": true,
+    "wren_floor_anchor_reused_from_prior_exact_stage_geometry": true,
+    "cone_pool_name_state_and_pips_not_reopened": true,
+    "selection_semantics_not_reopened": true,
+    "opportunity_speaking_take_a_seat_separation_preserved": true,
+    "unresolved_arc_and_pip_semantics_not_assigned": true,
+    "no_motion_typography_or_implementation_claim": true,
+    "no_odr_resolution": true,
+    "post_scoring_retune_prohibited": true,
+    "material_defects_remaining_before_construction": false
+  },
+  "next_action": "Commit and host-validate this preregistration. Only after both hosted checks pass, construct one deterministic challenger from the exact incumbent bytes using the 106-pixel mask, run the full construction-preservation audit, freeze challenger/comparison hashes and inspect the evidence-only hinge crop before any subjective criterion is scored."
+}
