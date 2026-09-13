@@ -149,7 +149,8 @@
     "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
     "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
     "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance.",
-    "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized."
+    "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized.",
+    "Post-SEL-S1-F4 Phase-C Audit 06 finds zero eligible isolated Stage incumbent-refinement variables. CIR/CONE/STATE/PERF/SEL local gates are consumed or closed; remaining Stage gaps are ODR/runtime blocked, evidence-not-ready or synthesis-triggered. Do not invent another Stage microgate. A bounded app-asset/whole-app synthesis sequencing decision is recommended but not activated."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -157,9 +158,9 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "After guarded SEL-S1 F4 Stage comparison promotion and lifecycle closeout, run one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable; do not reopen SEL-S1 F4 in the same gate.",
+    "next_synthesis_trigger": "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. The next consequential boundary is a Phase-C sequencing decision: authorize a bounded app-asset/whole-app synthesis gate (the lawful CLR-01 reentry trigger) or hold Stage refinement until materially new authority/evidence appears. Do not silently reopen closed/blocked Stage axes.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_PERF_S1_REENTRY_AUDIT_05.json",
+    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_SEL_S1_F4_REENTRY_AUDIT_06.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json"
   },
