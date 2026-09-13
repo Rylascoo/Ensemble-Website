@@ -2382,3 +2382,17 @@ No new generated visual has been consumed, no subjective family scoring has begu
 **Next boundary:** construct and preflight the neutral IMG-F1/F2/F3 reference board; stop before generated visual exemplars or consequential taste selection.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN IMG-01 STAGE-0 + FAMILY FREEZE.**
+
+## L-154 - IMG-01 mechanical preflight passes; Director prior exposure is quarantined before scoring
+
+**State:** IMG-01 MECHANICAL PREFLIGHT PASS / ALL THREE FAMILIES SURVIVE / DIRECTOR PRIOR EXPOSED PRE-SCORING / EXEMPLAR MATERIALIZATION NEXT / NO SUBJECTIVE RANKING
+
+`docs/evidence/IMG_01_REFERENCE_BOARD_MECHANICAL_PREFLIGHT_01.json` freezes the final deterministic reference-board carrier, probe, five-mode diagnostics and authenticated Drive review masters. Normal wide/compact, forced-colors wide/compact and compact 200% text all pass with 3 families, 12 controlled roles, 5/5 source tiles, zero no-image descendant images, zero page/internal overflow, 12 px baseline minimum review text and 24 px at 200%. All three frozen families remain mechanically eligible; no subjective scoring or generated exemplar has yet been consumed.
+
+After that mechanical evidence existed but before subjective F1/F2/F3 scoring, the Director supplied the separately audited `Kymaean Character & Image Direction — Pre-Candidate Director Intuition Synthesis 01` plus the amended `Kymaean Visual Continuity Constitution`. `docs/evidence/IMG_01_DIRECTOR_PRIOR_EXPOSURE_AND_EVALUATION_QUARANTINE_01.json` pins the exact Drive document IDs/revisions and records the consequence: this chat may no longer claim a fully blind Design Sol preference.
+
+The Director prior is compatible with the frozen IMG-01 law but does not modify it. It is quarantined from exemplar prompt construction and retroactive pass/fail logic. Exemplar materialization must use only the frozen method, Stage-0 manifest, family definitions and controlled facts. Method-bound evaluation must be recorded before any separate Director-prior concordance audit.
+
+**Next boundary:** materialize exactly one bounded raw exemplar for IMG-F1, IMG-F2 and IMG-F3, preserve each before evaluation, then evaluate against the frozen promotion floor. No CLR selection, Stage change, Phase-D entry, product-semantic invention, closed-gate reopening or runtime authority is created.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN IMG-01 MECHANICAL PREFLIGHT / PRIOR-EXPOSURE QUARANTINE AUDIT.**

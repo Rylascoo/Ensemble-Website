@@ -9,12 +9,20 @@ AUDIT = ROOT / "docs/evidence/PHASE_C_SHARED_IDENTITY_COMPLETION_AUDIT_01.json"
 METHOD = ROOT / "docs/evidence/IMG_01_SHARED_IMAGE_CHARACTER_ART_DIRECTION_METHOD_01.json"
 STAGE0 = ROOT / "docs/evidence/IMG_01_STAGE0_EVIDENCE_ATLAS_AND_SOURCE_MANIFEST_01.json"
 FAMILIES = ROOT / "docs/evidence/IMG_01_FROZEN_ART_DIRECTION_FAMILIES_01.json"
+PREFLIGHT = ROOT / "docs/evidence/IMG_01_REFERENCE_BOARD_MECHANICAL_PREFLIGHT_01.json"
+EXPOSURE = ROOT / "docs/evidence/IMG_01_DIRECTOR_PRIOR_EXPOSURE_AND_EVALUATION_QUARANTINE_01.json"
+CARRIER = ROOT / "prototypes/img-01/reference-board.html"
+PROBE = ROOT / "tools/img01_reference_board_probe.mjs"
 CURRENT = ROOT / "CURRENT_STATE.md"
 LEDGER = ROOT / "docs/evidence/DESIGN_LEDGER.md"
 AUDIT_SHA = "13291d7d1f09114bf59063229fdc018ed277cd077d4dc5174650c8f9a0346d49"
 METHOD_SHA = "2d7cbdc5471b0c97f156d9bf1928eba0f12ba821ac954dce4d1c3877a1c8be13"
 STAGE0_SHA = "c3ddc1fa9c5ade158edbf8f82f1b6c8afa086eda4e62441f9fc25e11146f7283"
 FAMILIES_SHA = "13513408875a6f4f6ba8be8e5aaead83bf616d38cb821f36291e82d2f79e8207"
+PREFLIGHT_SHA = "3dc93454fe9caa2962e87c193dfac68e9db197bdf6925fa79f48dd2ee702d575"
+EXPOSURE_SHA = "be4b7063c8c76174e90898d7c32073af7341a338218c94b0906364f2a543743a"
+CARRIER_SHA = "879816826a7e1b7d9afe8bfd514f875f2cc148e698f6421046d995079456a4a0"
+PROBE_SHA = "f500b7d1d157f60b90e73b719db73a89c5c638ea52c01d75bb3b6de1681d3ed3"
 
 def fail(message):
     raise AssertionError(message)
@@ -33,11 +41,19 @@ def main():
         fail("IMG-01 Stage-0 hash mismatch")
     if sha256(FAMILIES) != FAMILIES_SHA:
         fail("IMG-01 family-freeze hash mismatch")
+    if sha256(PREFLIGHT) != PREFLIGHT_SHA:
+        fail("IMG-01 mechanical-preflight hash mismatch")
+    if sha256(EXPOSURE) != EXPOSURE_SHA:
+        fail("IMG-01 prior-exposure hash mismatch")
+    if sha256(CARRIER) != CARRIER_SHA or sha256(PROBE) != PROBE_SHA:
+        fail("IMG-01 reference carrier/probe hash mismatch")
 
     audit = load(AUDIT)
     method = load(METHOD)
     stage0 = load(STAGE0)
     families = load(FAMILIES)
+    preflight = load(PREFLIGHT)
+    exposure = load(EXPOSURE)
     current = CURRENT.read_text(encoding="utf-8")
     ledger = LEDGER.read_text(encoding="utf-8")
 
@@ -112,23 +128,61 @@ def main():
         fail("premature scoring/generation")
     if families.get("clr_selection_created") is not False or families.get("stage_change_created") is not False:
         fail("CLR/Stage authority leak")
-    for token in ("IMG-01", AUDIT.relative_to(ROOT).as_posix(), AUDIT_SHA, METHOD.relative_to(ROOT).as_posix(), METHOD_SHA,
-                  STAGE0.relative_to(ROOT).as_posix(), STAGE0_SHA, FAMILIES.relative_to(ROOT).as_posix(), FAMILIES_SHA,
-                  "STAGE-0 + FAMILY FREEZE COMPLETE", "REFERENCE BOARD NEXT", "NO NEW VISUAL GENERATION"):
+
+    if preflight.get("status") != "PASS_COMPLETE_PRE_AESTHETIC_MECHANICAL_MATRIX":
+        fail("mechanical preflight status")
+    if preflight.get("carrier", {}).get("sha256") != CARRIER_SHA or preflight.get("carrier", {}).get("probe_sha256") != PROBE_SHA:
+        fail("preflight carrier/probe pins")
+    modes = preflight.get("matrix", [])
+    expected_modes = ["NORMAL_WIDE", "NORMAL_COMPACT", "FORCED_COLORS_WIDE", "FORCED_COLORS_COMPACT", "TEXT_200_COMPACT"]
+    if [x.get("mode") for x in modes] != expected_modes or not all(x.get("pass") is True for x in modes):
+        fail("mechanical matrix")
+    if not all(x.get("families") == 3 and x.get("roles") == 12 and x.get("sources_loaded") == "5/5" for x in modes):
+        fail("mechanical matrix counts")
+    if not all(x.get("no_image_descendant_images") == 0 and x.get("page_overflow") is False and x.get("internal_overflow") == 0 for x in modes):
+        fail("mechanical matrix fallback/overflow")
+    if preflight.get("result", {}).get("surviving_families") != ["IMG-F1", "IMG-F2", "IMG-F3"]:
+        fail("preflight survivors")
+    if preflight.get("result", {}).get("subjective_scoring_started") is not False or preflight.get("result", {}).get("new_generated_visual_exemplars_consumed") is not False:
+        fail("premature preflight scoring/generation")
+    if preflight.get("drive_review_folder", {}).get("id") != "1FdfoCY4pjsTRs3AuCUczDrHbq3rj-p40":
+        fail("Drive review folder")
+    expected_drive_ids = ["1_DatC27ZFudlJDh3eNNY8h8XhRhp-ZSd", "1YUHiHkfHFPbtMO9fJLraZwSm0H878uuJ", "1UXG2nJrfNnTWSahUwvNzfe8JtbqWmIPT", "120Hmh6WYzOOaN2vFRy8F04GdcBXe5MrE", "1HeU08xD-P0JLVVVoaqXrNJwr_nG_PgfB"]
+    if [x.get("drive_file_id") for x in preflight.get("drive_review_masters", [])] != expected_drive_ids:
+        fail("Drive review master ids")
+
+    if exposure.get("status") != "RECORDED_AFTER_MECHANICAL_PREFLIGHT_BEFORE_SUBJECTIVE_SCORING":
+        fail("prior exposure status")
+    sources = exposure.get("drive_sources", [])
+    if [x.get("document_id") for x in sources] != ["1KJeorPBsNnRivFVFJQqKB3CsB6nHtlLiApfAHxh0-VU", "1VXug3hCV-LDyfgqN5QXh6aNOB-G5W3CtR_TFdClGcns"]:
+        fail("prior source document ids")
+    if exposure.get("event", {}).get("independence_effect") is None or exposure.get("event", {}).get("generated_exemplar_prompts_affected") is not False:
+        fail("prior exposure boundary")
+    q = exposure.get("quarantine_law", {})
+    if "frozen IMG-01" not in q.get("prompt_construction", "") or "Do not add" not in q.get("candidate_criteria", ""):
+        fail("prior quarantine law")
+    if exposure.get("recursive_audit", {}).get("blind_independence_claim_withdrawn") is not True:
+        fail("blind independence correction")
+    for token in ("IMG-01", AUDIT.relative_to(ROOT).as_posix(), AUDIT_SHA, METHOD_SHA, STAGE0_SHA, FAMILIES_SHA,
+                  PREFLIGHT.relative_to(ROOT).as_posix(), PREFLIGHT_SHA, EXPOSURE.relative_to(ROOT).as_posix(), EXPOSURE_SHA,
+                  "MECHANICAL PREFLIGHT PASS", "ALL 3 FAMILIES SURVIVE", "DIRECTOR PRIOR EXPOSED PRE-SCORING",
+                  "EXEMPLAR MATERIALIZATION NEXT", "NO SUBJECTIVE RANKING"):
         if token not in current:
             fail(f"CURRENT_STATE missing {token}")
-    if "L-152 - Phase C completion audit corrects overbroad parking and activates IMG-01" not in ledger:
-        fail("ledger L-152 missing")
+    if "L-154 - IMG-01 mechanical preflight passes; Director prior exposure is quarantined before scoring" not in ledger:
+        fail("ledger L-154 missing")
     bad = [ord(c) for c in ledger if ord(c) < 32 and c not in "\n\r\t"]
     if bad:
         fail(f"ledger control characters: {bad}")
 
-    print("IMG_01_STAGE0_FAMILY_FREEZE=PASS")
+    print("IMG_01_PREFLIGHT_PRIOR_QUARANTINE=PASS")
     print(f"AUDIT_SHA256={AUDIT_SHA}")
     print(f"METHOD_SHA256={METHOD_SHA}")
     print(f"STAGE0_SHA256={STAGE0_SHA}")
     print(f"FAMILIES_SHA256={FAMILIES_SHA}")
-    print("FAMILIES=3 PAIRWISE_DIVERGENCE=6/7/6")
+    print(f"PREFLIGHT_SHA256={PREFLIGHT_SHA}")
+    print(f"EXPOSURE_SHA256={EXPOSURE_SHA}")
+    print("FAMILIES=3 PAIRWISE_DIVERGENCE=6/7/6 MODES=5 DRIVE_MASTERS=5")
     return 0
 
 if __name__ == "__main__":

@@ -1,0 +1,56 @@
+{
+  "schema": "kymaean.img-01.director-prior-exposure-quarantine.v1",
+  "status": "RECORDED_AFTER_MECHANICAL_PREFLIGHT_BEFORE_SUBJECTIVE_SCORING",
+  "date": "2026-09-13",
+  "program": "IMG-01",
+  "event": {
+    "timing": "After Stage-0/family freeze and final mechanical reference-board matrix; before any subjective F1/F2/F3 scoring or generated exemplar evaluation.",
+    "cause": "Director supplied an update from a parallel Design Sol chat containing the audited pre-candidate Character/Image intuition synthesis and continuity-constitution amendment.",
+    "independence_effect": "A future Design Sol preference in this chat may no longer be described as fully blind or independent of the Director prior.",
+    "mechanical_preflight_affected": false,
+    "frozen_method_affected": false,
+    "frozen_family_definitions_affected": false,
+    "generated_exemplar_prompts_affected": false
+  },
+  "drive_sources": [
+    {
+      "document_id": "1KJeorPBsNnRivFVFJQqKB3CsB6nHtlLiApfAHxh0-VU",
+      "title": "Kymaean Character & Image Direction — Pre-Candidate Director Intuition Synthesis 01",
+      "revision_id": "ANLCKQnjzHUOp9C3Ndagje5i9kftz2LmN6ma-ST5dIQ5B_ToLCYggqxZJGm9qkCyUUy9cYyetx0AVkCyXPVNG5gniBQxj70au2tKOi2QuaU",
+      "authority_boundary": "Preserved pre-candidate qualitative prior and challenge-check source only; not activation authority, not frozen candidate method, not retroactive pass/fail criteria, not Stage/app replacement."
+    },
+    {
+      "document_id": "1VXug3hCV-LDyfgqN5QXh6aNOB-G5W3CtR_TFdClGcns",
+      "title": "Kymaean Visual Continuity Constitution",
+      "revision_id": "ANLCKQkT4jaqwOedM5XOUYeDIWgWBLJeba20KpzhPq_hbMWwfZHHmLgXFP60jMjll6mlx41-uSLaXawPPqj_Yf5GhIuhSIrernzzJj3oX90",
+      "authority_boundary": "Drive continuity law points to the intuition synthesis as qualitative prior/challenge checks while preserving newer live repository authority and frozen candidate criteria."
+    }
+  ],
+  "compatibility_findings": [
+    "No contradiction with IMG-01's frozen human-specificity, representation-depth continuity, no-image fallback, monochrome/high-contrast, relational/causal, provenance, Stage-noncopy or anti-genericity requirements.",
+    "The prior explicitly keeps portrait/face presentation optional rather than prohibited; this is compatible with IMG-F1 as well as reduced/transforming representations.",
+    "The prior treats identity robustness as redundant system recoverability rather than one invariant feature; this is compatible with the IMG-01 identity floor and no-image fallback law.",
+    "Environmental response is contextual rather than mandatory; this prevents IMG-F3's field behavior from becoming a universal requirement.",
+    "Psychological expression remains suggestive by default but permits creator-authored, observable, perspective-safe overt expression; no frozen family is disqualified by this prior.",
+    "Visual history is presentation of authoritative history rather than an independent memory/causal system; this matches existing provenance and semantic-boundary law."
+  ],
+  "quarantine_law": {
+    "prompt_construction": "Generated exemplar prompts may use only the frozen IMG-01 method, Stage-0 manifest, frozen family definitions, controlled facts and already-authoritative source laws. Do not import wording, preferences or new distinctions from the Director prior into prompt construction.",
+    "candidate_criteria": "Do not add, remove, tighten or reinterpret frozen pass/fail criteria because of the Director prior.",
+    "method_bound_evaluation": "Evaluate exemplar evidence first against the frozen IMG-01 promotion floor and hard failures. Any qualitative observation influenced by the Director prior must be identified as such rather than disguised as preregistered law.",
+    "prior_concordance": "Only after method-bound evaluation is recorded may a separate concordance audit compare candidate behavior with the Director prior's qualitative lenses and working principles.",
+    "selection_language": "Do not describe the resulting Design Sol preference as blind or fully independent. State the exposure provenance explicitly.",
+    "director_choice": "The prior itself does not select F1/F2/F3 and does not convert later agreement with it into Director approval or convergence."
+  },
+  "next_action": "Complete and freeze the mechanical preflight checkpoint plus this exposure record, then materialize one bounded exemplar per surviving family strictly from frozen IMG-01 sources. Preserve each raw exemplar before evaluation.",
+  "recursive_audit": {
+    "prior_read_in_full": true,
+    "continuity_constitution_read_in_full": true,
+    "no_retroactive_gate_created": true,
+    "no_family_definition_changed": true,
+    "no_exemplar_prompt_changed": true,
+    "blind_independence_claim_withdrawn": true,
+    "material_defects_remaining": false,
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRIOR-EXPOSURE QUARANTINE AUDIT."
+  }
+}

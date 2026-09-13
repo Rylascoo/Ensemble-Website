@@ -1,0 +1,105 @@
+{
+  "schema": "kymaean.img-01.reference-board-mechanical-preflight.v1",
+  "status": "PASS_COMPLETE_PRE_AESTHETIC_MECHANICAL_MATRIX",
+  "date": "2026-09-13",
+  "program": "IMG-01",
+  "authority": {
+    "activation_commit": "d5afa8fda779133fb56e8bd947b960f690fa3d72",
+    "stage0_family_freeze_commit": "57e33cbb35f5134b1456be2926bf817418471ee8",
+    "method": "docs/evidence/IMG_01_SHARED_IMAGE_CHARACTER_ART_DIRECTION_METHOD_01.json",
+    "stage0_manifest": "docs/evidence/IMG_01_STAGE0_EVIDENCE_ATLAS_AND_SOURCE_MANIFEST_01.json",
+    "stage0_sha256": "c3ddc1fa9c5ade158edbf8f82f1b6c8afa086eda4e62441f9fc25e11146f7283",
+    "families": "docs/evidence/IMG_01_FROZEN_ART_DIRECTION_FAMILIES_01.json",
+    "families_sha256": "13513408875a6f4f6ba8be8e5aaead83bf616d38cb821f36291e82d2f79e8207"
+  },
+  "carrier": {
+    "path": "prototypes/img-01/reference-board.html",
+    "sha256": "879816826a7e1b7d9afe8bfd514f875f2cc148e698f6421046d995079456a4a0",
+    "bytes": 19058,
+    "probe": "tools/img01_reference_board_probe.mjs",
+    "probe_sha256": "f500b7d1d157f60b90e73b719db73a89c5c638ea52c01d75bb3b6de1681d3ed3",
+    "probe_bytes": 3659,
+    "construction": "deterministic HTML/CSS geometric abstraction + five frozen evidence tiles; no generated artwork",
+    "clr_posture": "VALUE_FIRST_NEUTRAL_NO_F2_F1_SELECTION"
+  },
+  "repair_history": [
+    {
+      "class": "EXECUTION_CARRIER_ONLY",
+      "finding": "Edge 153 did not expose CDP when the disposable profile path contained spaces.",
+      "repair": "Use space-free disposable browser profiles; family/carrier visual content unchanged."
+    },
+    {
+      "class": "MECHANICAL_CARRIER_ONLY",
+      "finding": "Initial overflow diagnostics counted intentionally clipped internal geometry; baseline text used fixed px sizes; forced-colors suppressed filled figure geometry in F1/F3.",
+      "repair": "Separate page overflow from internal canvas clipping, convert review typography to rem scaling, and add explicit forced-colors outline fallbacks matching each family's declared non-color identity law."
+    },
+    {
+      "class": "RESPONSIVE_CARRIER_ONLY",
+      "finding": "At 200% text, compact labels and fixed-height no-image cells collided/clipped while decorative WEB annotations overlaid enlarged text.",
+      "repair": "Stack compact identity labels, allow no-image cells to grow, and remove redundant WEB canvas annotations in compact layouts."
+    }
+  ],
+  "repair_constraint": "All repairs occurred before subjective family scoring and changed only review-carrier mechanics/accessibility. No family thesis, geometry law, controlled facts, source evidence, CLR posture or Stage authority changed.",
+  "matrix": [    {
+      "mode": "NORMAL_WIDE",
+      "requested": {"width": 1200, "forced_colors": false, "font_percent": 100},
+      "diagnostic_sha256": "67214ceaa93a39ee71902d7336d9d5bf42c655820b1c19f0cab92b3b0280e91f",
+      "screenshot_sha256": "227f2c2915ca6d6167315db3b99b45549f613c112050247a13cdeb3ac371a516",
+      "screenshot_dimensions": "1200x12000", "families": 3, "roles": 12, "sources_loaded": "5/5", "no_image_descendant_images": 0, "min_font_px": 12, "page_overflow": false, "internal_overflow": 0, "pass": true
+    },
+    {
+      "mode": "NORMAL_COMPACT",
+      "requested": {"width": 390, "forced_colors": false, "font_percent": 100},
+      "diagnostic_sha256": "3f38a5fa8637a773738e0f4c1320e8025ff152125815d9b0e044f88d29d30592",
+      "screenshot_sha256": "ee4a019232f23519b9fdfe5c1323b739776c658c27bd64d9378a70ec8e3c3e9c",
+      "screenshot_dimensions": "390x12000", "families": 3, "roles": 12, "sources_loaded": "5/5", "no_image_descendant_images": 0, "min_font_px": 12, "page_overflow": false, "internal_overflow": 0, "pass": true
+    },
+    {
+      "mode": "FORCED_COLORS_WIDE",
+      "requested": {"width": 1200, "forced_colors": true, "font_percent": 100},
+      "diagnostic_sha256": "286c8dce4d3d6a367414120d07e96d48ba71402be6378c88e8c158c2042601de",
+      "screenshot_sha256": "95b2da2a2499378c495ab9ceb174120f194d0da5b01478c41094cba75d5ce1ba",
+      "screenshot_dimensions": "1200x12000", "families": 3, "roles": 12, "sources_loaded": "5/5", "no_image_descendant_images": 0, "min_font_px": 12, "page_overflow": false, "internal_overflow": 0, "forced_colors_detected": true, "pass": true
+    },
+    {
+      "mode": "FORCED_COLORS_COMPACT",
+      "requested": {"width": 390, "forced_colors": true, "font_percent": 100},
+      "diagnostic_sha256": "7c557ebef07fa6587d09504639be2c2751af2d922f37b5654b49502f1f2f9ea8",
+      "screenshot_sha256": "b88025a84b9f051747735ae23784d45e306deab5cc5c367ca07f4d64613bb125",
+      "screenshot_dimensions": "390x12000", "families": 3, "roles": 12, "sources_loaded": "5/5", "no_image_descendant_images": 0, "min_font_px": 12, "page_overflow": false, "internal_overflow": 0, "forced_colors_detected": true, "pass": true
+    },
+    {
+      "mode": "TEXT_200_COMPACT",
+      "requested": {"width": 390, "forced_colors": false, "font_percent": 200},
+      "diagnostic_sha256": "0d062310f8c1c585d92d107087efbbefcfdf6c8ed9a555bab1afbdade4f86445",
+      "screenshot_sha256": "42c4bd00ca9ae32f0841d6cdc9bbcd038e06c931998a688960051dd953bde65a",
+      "screenshot_dimensions": "390x12000", "families": 3, "roles": 12, "sources_loaded": "5/5", "no_image_descendant_images": 0, "min_font_px": 24, "page_overflow": false, "internal_overflow": 0, "pass": true
+    }
+  ],
+  "drive_review_folder": {"id": "1FdfoCY4pjsTRs3AuCUczDrHbq3rj-p40", "name": "15 IMG-01 Shared Image Character Art Direction Convergence 01"},
+  "drive_review_masters": [
+    {"mode": "NORMAL_WIDE", "drive_file_id": "1_DatC27ZFudlJDh3eNNY8h8XhRhp-ZSd", "file_name": "IMG-01 Reference Board 01 - Normal Wide.png", "sha256": "227f2c2915ca6d6167315db3b99b45549f613c112050247a13cdeb3ac371a516", "bytes": 332598, "dimensions": "1200x12000"},
+    {"mode": "NORMAL_COMPACT", "drive_file_id": "1YUHiHkfHFPbtMO9fJLraZwSm0H878uuJ", "file_name": "IMG-01 Reference Board 01 - Normal Compact.png", "sha256": "ee4a019232f23519b9fdfe5c1323b739776c658c27bd64d9378a70ec8e3c3e9c", "bytes": 291813, "dimensions": "390x12000"},
+    {"mode": "FORCED_COLORS_WIDE", "drive_file_id": "1UXG2nJrfNnTWSahUwvNzfe8JtbqWmIPT", "file_name": "IMG-01 Reference Board 01 - Forced Colors Wide.png", "sha256": "95b2da2a2499378c495ab9ceb174120f194d0da5b01478c41094cba75d5ce1ba", "bytes": 289129, "dimensions": "1200x12000"},
+    {"mode": "FORCED_COLORS_COMPACT", "drive_file_id": "120Hmh6WYzOOaN2vFRy8F04GdcBXe5MrE", "file_name": "IMG-01 Reference Board 01 - Forced Colors Compact.png", "sha256": "b88025a84b9f051747735ae23784d45e306deab5cc5c367ca07f4d64613bb125", "bytes": 259453, "dimensions": "390x12000"},
+    {"mode": "TEXT_200_COMPACT", "drive_file_id": "1HeU08xD-P0JLVVVoaqXrNJwr_nG_PgfB", "file_name": "IMG-01 Reference Board 01 - 200 Percent Text Compact.png", "sha256": "42c4bd00ca9ae32f0841d6cdc9bbcd038e06c931998a688960051dd953bde65a", "bytes": 773893, "dimensions": "390x12000"}
+  ],
+  "result": {
+    "mechanical_preflight": "PASS",
+    "surviving_families": ["IMG-F1", "IMG-F2", "IMG-F3"],
+    "mechanically_disqualified_families": [],
+    "subjective_scoring_started": false,
+    "new_generated_visual_exemplars_consumed": false,
+    "next_action": "Materialize one bounded visual exemplar per surviving family from the same controlled people/facts and promotion floor, then evaluate independently before comparative Design Sol scoring."
+  },
+  "recursive_audit": {
+    "all_five_modes_same_final_carrier_revision": true,
+    "drive_provider_readback_complete": true,
+    "repair_rounds_pre_subjective_only": true,
+    "family_laws_unchanged_by_repairs": true,
+    "clr_deferral_preserved": true,
+    "stage_authority_preserved": true,
+    "material_defects_remaining": false,
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN IMG-01 MECHANICAL PREFLIGHT FREEZE."
+  }
+}
