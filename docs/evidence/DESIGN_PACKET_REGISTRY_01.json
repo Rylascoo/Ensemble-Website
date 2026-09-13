@@ -149,7 +149,7 @@
     "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
     "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
     "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance.",
-    "SEL-S1 F4 Shallow Ground Arc is the sole provisional neutral Stage selection-hinge survivor; it has no Stage authority until a separately frozen exact-incumbent comparison passes. PKT-STAGE-CORE-02 remains authoritative and no F4b/reroll/retune is authorized."
+    "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -157,11 +157,11 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "After guarded SEL-S1 method/matrix promotion and lifecycle closeout, freeze one exact-incumbent Stage comparison using F4 Shallow Ground Arc as the only selection-hinge challenger; preserve every other PKT-STAGE-CORE-02 variable and do not create F4b/reroll/retune.",
+    "next_synthesis_trigger": "After guarded SEL-S1 F4 Stage comparison promotion and lifecycle closeout, run one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable; do not reopen SEL-S1 F4 in the same gate.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_PERF_S1_REENTRY_AUDIT_05.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
-    "latest_convergence_audit": "docs/evidence/SEL_S1_RESULT_01.json"
+    "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

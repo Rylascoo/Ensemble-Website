@@ -2168,3 +2168,16 @@ F4 is provisional neutral Stage selection-hinge evidence only. `PKT-STAGE-CORE-0
 **Next gate after guarded serial promotion/closeout:** one separately frozen exact-incumbent Stage comparison using F4 as the only selection-hinge challenger. No F4b/reroll/retune is allowed.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+## L-139 - SEL-S1 F4 full-Stage comparison retains PKT-STAGE-CORE-02
+
+**State:** FROZEN INTEGRATION COMPARISON COMPLETE / F4 FAILS PROMOTION / INCUMBENT RETAINED / NO F4B
+
+`docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_METHOD_01.json` freezes one additive Stage translation of F4 Shallow Ground Arc beneath the already-selected Wren. The deterministic challenger changes exactly 106 pixels inside bbox `[664,490,716,498]`; every other Stage pixel is exact incumbent. Construction preflight and authenticated Drive readback pass before scoring.
+
+The exact comparison confirms real gains: F4 materially strengthens persistent-selection legibility, remains local to Wren, leaves the cone unchanged, and does not disturb whole-Stage ensemble balance. Integration nevertheless fails the frozen promotion floor. In the incumbent hinge the bright arc visually crowns/groups the unresolved three-pip row and reads as an ornamental brace/underline detached from the actual floor pool. This introduces new pip-selection/progress ambiguity and weakens the intended floor/name-hinge reading.
+
+`docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json` therefore records **RETAIN_INCUMBENT_F4_FAILS_INTEGRATION**. `PKT-STAGE-CORE-02` remains authoritative. F4 remains historical neutral SEL-S1 evidence only and receives no Stage authority, F4b, reroll or retune.
+
+**Next gate after guarded promotion/closeout:** one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable without reopening SEL-S1 F4 in the same gate.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

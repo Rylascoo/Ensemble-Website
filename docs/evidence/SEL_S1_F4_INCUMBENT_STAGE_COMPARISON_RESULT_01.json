@@ -1,0 +1,115 @@
+{
+  "schema": "kymaean.sel-s1.f4-incumbent-stage-comparison-result.v1",
+  "status": "RETAIN_INCUMBENT_F4_FAILS_INTEGRATION",
+  "date": "2026-09-12",
+  "program_id": "SEL-S1-F4-STAGE-01",
+  "branch": "design/sel-s1-f4-incumbent-stage-comparison-2026-09-12",
+  "method": {
+    "path": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_METHOD_01.json",
+    "sha256": "ab72202aa434e9c83c10cbdf7ec0830e6de2db3fda021a85be3fca3893d712bb",
+    "commit": "8777e50c7f52277ace828466f4ece0dafb1a0e77"
+  },
+  "preflight": {
+    "path": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_PREFLIGHT_01.json",
+    "sha256": "ec3cd788e64e93da4bf02d4dee4a01ecceac153f91f2f55231e48c6cdd9da98a",
+    "commit": "a5498daf6845a25796d25f5d28fb67cad5d60aa0",
+    "hosted_checks_passed": true
+  },
+  "baseline": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0"
+  },
+  "challenger": {
+    "family": "F4",
+    "name": "Shallow Ground Arc",
+    "changed_pixels": 106,
+    "changed_bbox_xyxy_inclusive": [664, 490, 716, 498],
+    "all_other_stage_pixels_exact": true
+  },
+  "drive_evidence": {
+    "folder_id": "1Tq1_vMr6WCQ_CSRg2qz67tZNLwoDGMtn",
+    "challenger_file_id": "1VSGPRanJK1FMqrLxp23MLzDfLt34ixO9",
+    "challenger_sha256": "4a2df6a2aac465f4a7ac927e679cf4a86bb67a6b9a2a4718c591a3c4caf95e4f",
+    "comparison_board_file_id": "1T3JuOwQB912qeRMkbt0alQ6mWz8y3ynz",
+    "comparison_board_sha256": "34da813989e4ab4fe0c1a94ff8473964d9c27ddcff5a57ede6895905e2201426",
+    "hinge_detail_file_id": "19p4bcrypKT1Mavt-nY5nLl2qXSDmQBMh",
+    "hinge_detail_sha256": "996c3158f7ae67f59b78f516c1edbb5149962bf79ccfda9d73dbc0c18030aa2a",
+    "authenticated_readback_verified": true
+  },
+  "criterion_scores": [
+    {
+      "criterion": 1,
+      "status": "PASS",
+      "finding": "The added arc materially increases immediate persistent-selection legibility for Wren relative to the exact incumbent."
+    },
+    {
+      "criterion": 2,
+      "status": "PASS",
+      "finding": "The witness remains local to Wren's floor/name hinge and does not enclose or materially change the cone."
+    },
+    {
+      "criterion": 3,
+      "status": "MIXED_FAIL",
+      "finding": "The white arc remains small in the whole Stage, but inside the Wren hinge it becomes more visually assertive than the muted SELECTED label and adds a second high-contrast selection mark."
+    },
+    {
+      "criterion": 4,
+      "status": "PASS",
+      "finding": "The arc does not materially read as Current Opportunity, Speaking, validation, nomination or another narrative/runtime state when viewed in the whole Stage."
+    },
+    {
+      "criterion": 5,
+      "status": "PASS",
+      "finding": "The additive mark does not materially read as Take a Seat, occupied-seat ownership or creator possession."
+    },
+    {
+      "criterion": 6,
+      "status": "FAIL",
+      "finding": "In the exact Wren hinge the bright shallow arc visually crowns and groups the unresolved three-pip row. Its span and placement create a material risk that the pips are being assigned selection/progress semantics, which the frozen gate expressly forbids."
+    },
+    {
+      "criterion": 7,
+      "status": "PASS",
+      "finding": "At whole-Stage scale the 106-pixel witness does not disturb five-Character ensemble balance or increase competition with Performance text, Production/Scene context, creator controls or the right rail."
+    },
+    {
+      "criterion": 8,
+      "status": "FAIL",
+      "finding": "Although the curve echoes ground geometry, in the incumbent hinge it sits between SELECTED and the pips as an ornamental brace/underline detached from the actual floor pool, weakening the Stage-native floor/name reading."
+    },
+    {
+      "criterion": 9,
+      "status": "FAIL",
+      "finding": "Selection legibility improves, but the new pip-grouping ambiguity and ornamental-brace reading are material integration costs. Under the frozen mixed-tradeoff law the incumbent must be retained."
+    }
+  ],
+  "decision": {
+    "result": "RETAIN_INCUMBENT_F4_FAILS_INTEGRATION",
+    "incumbent_retained": true,
+    "stage_successor_created": false,
+    "f4_stage_authority": false,
+    "f4b_allowed": false,
+    "post_result_retune_allowed": false,
+    "rationale": "F4's neutral mechanism remains historical SEL-S1 evidence, but this exact Stage translation creates unresolved-pip grouping and ornamental-brace ambiguity. The selection-legibility gain is therefore a mixed tradeoff rather than a material net improvement."
+  },
+  "scope_effect": {
+    "PKT_STAGE_CORE_02_remains_current": true,
+    "selection_semantics_changed": false,
+    "pip_or_arc_semantics_assigned": false,
+    "new_palette_motion_typography_or_implementation_claim": false
+  },
+  "recursive_audit": {
+    "frozen_method_preserved": true,
+    "frozen_challenger_preserved": true,
+    "exact_drive_readback_board_scored": true,
+    "all_nine_frozen_criteria_scored": true,
+    "single_variable_isolation_preserved": true,
+    "no_post_result_retune": true,
+    "no_f4b_or_replacement_family": true,
+    "incumbent_stage_pixels_remain_current_authority": true,
+    "unresolved_pip_and_arc_semantics_remain_unresolved": true
+  },
+  "next_action": "After guarded promotion and lifecycle closeout of this comparison, perform one bounded Phase-C re-entry audit to select the next single incumbent-refinement variable. Do not reopen SEL-S1 F4 in the same gate.",
+  "result": "RETAIN_INCUMBENT_F4_FAILS_INTEGRATION. PKT-STAGE-CORE-02 remains authoritative. APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT."
+}
