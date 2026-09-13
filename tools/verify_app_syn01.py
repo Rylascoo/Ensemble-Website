@@ -29,10 +29,10 @@ assert anchor["dimensions"] == master["dimensions"]
 
 policy = registry["synthesis_policy"]
 assert policy["active_whole_app_synthesis_program"] == "APP-SYN-01"
-assert policy["active_whole_app_synthesis_status"] == "SOURCE_FREEZE_COMPLETE_NO_VISUAL_RESULT"
+assert policy["active_whole_app_synthesis_status"] == "BROWSER_LAUNCH_REPAIR_FROZEN_NO_VISUAL_RESULT"
 assert policy["active_whole_app_synthesis_method"] == "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json"
-assert policy["active_whole_app_synthesis_manifest"] == "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_01.json"
-assert policy["active_whole_app_synthesis_manifest_sha256"] == "af5e8c2a05bb368344c4538a616dfbfcd4594ec10377dca28d7f2c236f37dceb"
+assert policy["active_whole_app_synthesis_manifest"] == "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_02.json"
+assert policy["active_whole_app_synthesis_manifest_sha256"] == "e01c8594349bea161f5c53a096a38c392d20b39b016b407130359c9e5763c1d4"
 assert policy["whole_app_synthesis_packets_created"] == []
 
 packet_ids = {item["packet_id"] for item in registry["packets"]}
@@ -40,8 +40,8 @@ for packet_id in method["primary_input_packets"]:
     assert packet_id in packet_ids, packet_id
 
 assert "APP-SYN-01" in state
-assert "ACTIVE / METHOD + EXECUTION SOURCE FREEZE COMPLETE / NO NEW VISUAL SYNTHESIS EVIDENCE YET" in state
-assert "APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_01.json" in state
+assert "ACTIVE / SOURCE FREEZE + NO-RESULT BROWSER-LAUNCH REPAIR COMPLETE / NO VISUAL SYNTHESIS RESULT YET" in state
+assert "APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_02.json" in state
 assert len(state.encode("utf-8")) <= 3072
 
 non_authority = "\n".join(method["explicit_non_authority"])

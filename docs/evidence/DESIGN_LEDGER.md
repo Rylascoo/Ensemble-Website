@@ -2227,3 +2227,17 @@ No aesthetic evidence is created by this checkpoint. CLR-01 remains a contextual
 **Next boundary:** authenticate the exact Drive Stage bytes into disposable runtime storage, materialize the frozen carrier, and execute the preregistered structural/accessibility browser matrix. Subjective scoring is forbidden until mechanical preflight passes.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE PRE-EXPOSURE AUDIT.**
+
+## L-143 - APP-SYN-01 browser-launch transport repaired before page exposure
+
+**State:** MECHANICAL TOOLING REPAIR FROZEN / NO PAGE LOAD IN INVALID ATTEMPTS / NO DESIGN RESULT
+
+After exact Stage authentication and deterministic carrier materialization, the first two `normal-wide` browser attempts failed before APP-SYN navigation because Microsoft Edge detached a healthy isolated headless child while the frozen probe waited for a `DevToolsActivePort` file from `--remote-debugging-port=0`. No APP-SYN page was loaded, screenshot captured, aesthetic evidence consumed, CLR family compared, or synthesis judgment formed.
+
+`docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_02.json` preserves Manifest 01 unchanged as predecessor and freezes only the launcher transport repair: fixed isolated CDP port `9229` by default, `/json/version` polling, and explicit `Browser.close` shutdown. The exact Stage bytes/hash/geometry, materialized carrier contract, C0/O3 bytes, 11-surface topology, 10 browser modes, CLR F2/F1 values/ablations, accessibility thresholds, motion fixtures, review order and scoring law are unchanged.
+
+The repaired source verifier passes all 11 packet hashes and 16 materialization-source hashes and asserts the no-page-load/no-design-result defect classification. Manifest 02 SHA-256 is `e01c8594349bea161f5c53a096a38c392d20b39b016b407130359c9e5763c1d4`.
+
+**Next boundary:** execute the unchanged 10-mode structural/accessibility browser matrix. Subjective review remains inadmissible until `APP_SYN_01_BROWSER=PASS`.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE NO-RESULT TOOLING-REPAIR AUDIT.**
