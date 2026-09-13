@@ -2241,3 +2241,17 @@ The repaired source verifier passes all 11 packet hashes and 16 materialization-
 **Next boundary:** execute the unchanged 10-mode structural/accessibility browser matrix. Subjective review remains inadmissible until `APP_SYN_01_BROWSER=PASS`.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE NO-RESULT TOOLING-REPAIR AUDIT.**
+
+## L-144 - APP-SYN-01 normal-wide overflow is sr-only measurement defect, not carrier failure
+
+**State:** NORMAL-WIDE-01 MECHANICALLY INVALID / SR-ONLY OVERFLOW MEASUREMENT REPAIRED / NO SUBJECTIVE DESIGN RESULT
+
+The first admissible page load under Manifest 02 confirms the exact 1672x941 Stage, all 11 preregistered surfaces, frozen F1A/CS2 timing, and 42 keyboard-focus observations. Its overflow diagnostic reported 11 records, but every record is the intentional clipped 1x1 `.brand-name` accessibility span. Every actual `.surface` has `scrollWidth == clientWidth`, and all 11 surfaces produce a >=2px `:focus-visible` keyboard witness. No screenshot or subjective scoring was consumed.
+
+`docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_03.json` preserves Manifest 02 as predecessor and changes only browser-verifier classification: raw overflow diagnostics remain untouched; exactly 11 1x1 `SPAN.brand-name` records are classified as sr-only, while any other overflow remains a hard failure. Carrier/template bytes, materialized runtime harness, Stage bytes, C0/O3, topology, modes, CLR values, thresholds, motion fixtures and scoring law are unchanged.
+
+Manifest 03 SHA-256 is `8c287ccf5dfffedb8dd5e1a323e9e991a8f8cf20471c9b6b7d74638cba08571d`; source verification passes all 11 packet hashes and 16 materialization-source hashes.
+
+**Next boundary:** rerun `normal-wide`, then execute the remaining frozen browser modes. Subjective review remains inadmissible until `APP_SYN_01_BROWSER=PASS`.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE NO-RESULT MEASUREMENT-REPAIR AUDIT.**

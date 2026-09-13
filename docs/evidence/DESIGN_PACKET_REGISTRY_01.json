@@ -158,16 +158,16 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "APP-SYN-01 source freeze and no-result browser-launch repair are frozen. Execute the unchanged 10-mode mechanical/accessibility matrix; subjective review remains forbidden until PASS.",
+    "next_synthesis_trigger": "Manifest 03 freezes the no-result sr-only overflow measurement repair. Rerun normal-wide and complete the unchanged 10-mode mechanical/accessibility matrix; subjective review remains forbidden until PASS.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_SEL_S1_F4_REENTRY_AUDIT_06.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
     "active_whole_app_synthesis_method": "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json",
-    "active_whole_app_synthesis_status": "BROWSER_LAUNCH_REPAIR_FROZEN_NO_VISUAL_RESULT",
-    "active_whole_app_synthesis_manifest": "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_02.json",
-    "active_whole_app_synthesis_manifest_sha256": "e01c8594349bea161f5c53a096a38c392d20b39b016b407130359c9e5763c1d4"
+    "active_whole_app_synthesis_status": "BROWSER_MEASUREMENT_REPAIR_FROZEN_NO_DESIGN_RESULT",
+    "active_whole_app_synthesis_manifest": "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_03.json",
+    "active_whole_app_synthesis_manifest_sha256": "8c287ccf5dfffedb8dd5e1a323e9e991a8f8cf20471c9b6b7d74638cba08571d"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

@@ -21,7 +21,12 @@ def main()->int:
   d=json.loads(path.read_text(encoding='utf-8'));r=d['requested'];mode=(r['width'],r['forced'],r['reduced'],r['fontPercent'],r['spacing']);seen.add(mode)
   assert d['stage']['complete'] and d['stage']['naturalWidth']==1672 and d['stage']['naturalHeight']==941 and d['stage']['srcIsDataPng']
   assert math.isclose(d['stage']['width']/d['stage']['height'],1672/941,rel_tol=.002)
-  assert d['surfaceCount']==11 and not d['remoteRefs'] and not d.get('overflowElements'),path
+  assert d['surfaceCount']==11 and not d['remoteRefs'],path
+  raw_overflow=d.get('overflowElements') or []
+  sr_only=[x for x in raw_overflow if x.get('tag')=='SPAN' and 'brand-name' in (x.get('cls') or '').split() and float(x.get('width',0))<=1.1 and float(x.get('clientWidth',0))<=1]
+  material_overflow=[x for x in raw_overflow if x not in sr_only]
+  assert len(sr_only)==11,(path,'sr-only overflow count',len(sr_only))
+  assert not material_overflow,(path,material_overflow)
   surfaces={s['id']:s for s in d['surfaces']};assert set(surfaces)==EXPECTED_IDS
   for sid,s in surfaces.items():
    assert s['brandNames']==1 and s['c0Paths']==3
