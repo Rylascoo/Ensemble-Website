@@ -168,14 +168,14 @@
     "whole_app_synthesis_packets_created": [
       "PKT-APP-SYN-01-01"
     ],
-    "next_synthesis_trigger": "Director contextual CLR F2/F1 choice. Then close APP-SYN-01 and decide whether the recommended bounded Stage-to-app-shell adjacency / shared surface-hierarchy translation gate should be activated.",
+    "next_synthesis_trigger": "Hold CLR F2/F1 adjudication and do not activate the Stage-to-app-shell follow-on gate from APP-SYN-01 alone. Resume contextual CLR choice only when representative real app assembly provides meaningful shell/navigation/Stage-adjacency/identity/control context.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_SEL_S1_F4_REENTRY_AUDIT_06.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
     "active_whole_app_synthesis_method": "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json",
-    "active_whole_app_synthesis_status": "DESIGN_SOL_VIEW_FROZEN_DIRECTOR_CLR_CONTEXT_PENDING",
+    "active_whole_app_synthesis_status": "DIRECTOR_CLR_CONTEXT_DEFERRED_UNTIL_REAL_ASSEMBLY",
     "active_whole_app_synthesis_manifest": "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_04.json",
     "active_whole_app_synthesis_manifest_sha256": "7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c25339673",
     "active_whole_app_synthesis_preflight": "docs/evidence/APP_SYN_01_BROWSER_PREFLIGHT_01.json",

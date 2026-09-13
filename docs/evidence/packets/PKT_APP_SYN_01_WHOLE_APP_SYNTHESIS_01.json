@@ -78,8 +78,8 @@
   },
   "judgment": {
     "design_sol_view": "F2 is the contextual Design Sol preference because it better protects Stage primacy and color-semantic scarcity, while O3/MAT/accent repetition should be restrained across either family. A real Stage-to-app-shell translation gap remains and should be tested later in the smallest bounded gate after CLR context is settled.",
-    "director_view_or_delegation": "PENDING — a genuine Director contextual F2-versus-F1 taste choice remains. Standing clean-audit delegation does not substitute for this explicitly preserved Director choice.",
-    "resolution_mode": "DESIGN_SOL_VIEW_FROZEN_DIRECTOR_CLR_CONTEXT_PENDING"
+    "director_view_or_delegation": "DEFERRED ? Director agrees the contextual CLR F2-versus-F1 choice should be held until representative real app assembly puts the current pieces together in meaningful product context. F2 remains Design Sol?s non-authoritative preference; F1 remains materially valid. No CLR winner or final palette is created by this deferral.",
+    "resolution_mode": "DIRECTOR_CLR_CONTEXT_DEFERRED_UNTIL_REAL_ASSEMBLY"
   },
   "evidence": {
     "mechanical": [
@@ -105,12 +105,14 @@
   },
   "dependencies": {
     "requires": [
-      "Director contextual CLR F2/F1 choice to close APP-SYN-01 packet",
-      "later bounded Stage-to-app-shell adjacency/surface-hierarchy gate before whole-system translation can be considered resolved"
+      "Representative real app assembly/context before Director contextual CLR F2/F1 adjudication resumes",
+      "Later bounded Stage-to-app-shell adjacency/surface-hierarchy evidence only when separately activated under current authority"
     ],
     "constrains": [
+      "Do not select CLR F2/F1 from the synthetic APP-SYN carrier alone; wait for representative real assembly context",
+      "Preserve Design Sol F2 preference as advisory only and F1 as materially valid",
+      "Do not activate the Stage-to-app-shell follow-on gate solely from this deferral",
       "future synthesis should preserve usage restraint for O3/C0/MAT/accent/motion",
-      "later CLR context should preserve Stage primacy and semantic scarcity",
       "no later gate may silently treat the synthetic review carrier as shipping architecture"
     ],
     "must_not_be_confused_with": [
@@ -199,5 +201,15 @@
     ],
     "latest_composition_packet": "PKT-CMP-02-01",
     "whole_app_synthesis_status": "DESIGN_SOL_VIEW_FROZEN_DIRECTOR_ADJUDICATION_PENDING"
+  },
+  "director_decision": {
+    "date": "2026-09-13",
+    "decision": "DEFER_CLR_CONTEXTUAL_ADJUDICATION_UNTIL_REPRESENTATIVE_REAL_ASSEMBLY",
+    "reason": "The Director and Design Sol agree the palette-context choice is more trustworthy when the actual shell, navigation, Stage adjacency, identity, controls and supporting surfaces are assembled together.",
+    "design_sol_preference_preserved": "F2 ? Monochrome + Intruder",
+    "alternate_preserved": "F1 ? Split Temperature",
+    "selection_created": false,
+    "follow_on_gate_activated": false,
+    "phase_c_exit_created": false
   }
 }

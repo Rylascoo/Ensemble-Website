@@ -2299,3 +2299,18 @@ The synthesis also exposes a genuine whole-system gap: current packets do not ye
 `docs/evidence/packets/PKT_APP_SYN_01_WHOLE_APP_SYNTHESIS_01.json` is therefore created as `DIRECTOR_ADJUDICATION_PENDING`, SHA-256 `8c925da247993f46fa87c759d95089aeb0ffb001adbe298fe9ed60f27d196731`.
 
 **Exact next boundary:** Director contextual F2-versus-F1 choice only. No final palette, Phase-C exit, implementation, or closed-gate reopening follows automatically.
+
+
+## L-148 - Director defers APP-SYN-01 CLR contextual adjudication until representative real assembly
+
+**State:** DIRECTOR CLR CONTEXT DEFERRED / F2 ADVISORY PREFERENCE PRESERVED / F1 REMAINS VALID / APP-SYN-01 OPEN / NO FOLLOW-ON GATE ACTIVATED
+
+After reviewing the frozen APP-SYN-01 result, the Director agrees that CLR F2-versus-F1 should not be selected from the synthetic synthesis carrier alone. The contextual choice is intentionally deferred until representative real app assembly puts the shell/navigation, exact Stage adjacency, identity, controls and supporting surfaces together in a form that can reveal actual system pressure.
+
+Design Sol?s current preference remains **F2 ? Monochrome + Intruder** because its low-chroma cool field and scarce teal intrusion better preserve Stage primacy, color scarcity and future semantic headroom. **F1 ? Split Temperature** remains materially valid because its warmer field can provide stronger immediate continuity with the Stage. Neither is promoted by this decision.
+
+`PKT-APP-SYN-01-01` remains `DIRECTOR_ADJUDICATION_PENDING`; its Director decision now records `DEFER_CLR_CONTEXTUAL_ADJUDICATION_UNTIL_REPRESENTATIVE_REAL_ASSEMBLY`. No CLR winner, final palette, Phase-C exit, product/runtime authority or Stage change is created. The recommended Stage-to-app-shell adjacency/shared surface-hierarchy translation gate is not activated by this deferral alone. The updated pending packet SHA-256 is `7ffef03bdec0dda58f5857508e8f1376d03980cb5b486eaa58f23c0a3ea956e1`.
+
+**Next boundary:** hold the contextual CLR choice until representative real assembly exists. Re-enter only when the actual pieces are being put together and can be judged as a system.
+
+**DIRECTOR DECISION ? DEFER CONTEXTUAL CLR ADJUDICATION UNTIL REAL ASSEMBLY.**
