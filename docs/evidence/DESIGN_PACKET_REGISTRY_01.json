@@ -150,7 +150,7 @@
     "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
     "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance.",
     "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized.",
-    "Post-SEL-S1-F4 Phase-C Audit 06 finds zero eligible isolated Stage incumbent-refinement variables. CIR/CONE/STATE/PERF/SEL local gates are consumed or closed; remaining Stage gaps are ODR/runtime blocked, evidence-not-ready or synthesis-triggered. Do not invent another Stage microgate. A bounded app-asset/whole-app synthesis sequencing decision is recommended but not activated."
+    "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -158,11 +158,14 @@
       "PKT-CMP-02-01"
     ],
     "whole_app_synthesis_packets_created": [],
-    "next_synthesis_trigger": "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. The next consequential boundary is a Phase-C sequencing decision: authorize a bounded app-asset/whole-app synthesis gate (the lawful CLR-01 reentry trigger) or hold Stage refinement until materially new authority/evidence appears. Do not silently reopen closed/blocked Stage axes.",
+    "next_synthesis_trigger": "APP-SYN-01 is activated and its method is preregistered. Freeze APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_01.json before any new synthesis visual or aesthetic scoring; then materialize only the frozen deterministic system-review carrier.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_SEL_S1_F4_REENTRY_AUDIT_06.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
-    "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json"
+    "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
+    "active_whole_app_synthesis_program": "APP-SYN-01",
+    "active_whole_app_synthesis_method": "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json",
+    "active_whole_app_synthesis_status": "METHOD_PREREGISTERED_NO_VISUAL_RESULT"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

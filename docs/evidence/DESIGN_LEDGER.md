@@ -2196,3 +2196,19 @@ The clean result is **zero eligible isolated Stage incumbent-refinement variable
 **Next boundary after guarded promotion/closeout:** Phase-C sequencing decision — authorize the recommended bounded app-asset/whole-app synthesis gate, or hold further Stage refinement until materially new product/ODR/runtime evidence makes a new isolated variable eligible.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-141 - APP-SYN-01 is activated and preregistered before visual synthesis
+
+**State:** APP-SYN-01 ACTIVE / METHOD PREREGISTERED / NO NEW VISUAL SYNTHESIS EVIDENCE
+
+Fresh authority recovery at Website `main` `28c6e428d6f9d6d492c60ad9890010ad57e9ed4a` confirms that no serial Design gate was active and Audit 06 left `APP-SYN-01 — Bounded App-Asset / Whole-App Packet Synthesis 01` as recommendation-only. The exact current Stage master was authenticated from Drive file `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH` and reverified at 1,431,659 bytes, 1672x941, SHA-256 `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`.
+
+Fresh Project `main` `4f084f6820dbdcf8d3a55ab76fc3c5e59a4fb6d2` advances Q-E0C-01 only to Repeat 1 ready for exactly one execution, with Repeat 2 reserved/blocked. That provider-sensitive Engineering progression creates no Stage/design authority and is kept read-only from this gate; stale central `Q-DESIGN-19` debt is not repaired from Design.
+
+The recursive Phase-C sequencing audit supports synthesis rather than hold: Audit 06 finds zero lawful isolated Stage variables, the packet framework forbids claiming system coherence from accumulated local packets, and the Phase-C roadmap requires controlled convergence before native-app translation. `docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json` therefore preregisters the synthesis objective, packet inputs, closed-gate constraints, CLR-01 contextual reentry law, evaluation dimensions, result classes, review sequence and stop conditions before any new synthesis visual is consumed.
+
+`PKT-STAGE-CORE-02` remains the immutable Stage comparison anchor. CLR-01 re-enters only through existing F2 Monochrome + Intruder and F1 Split Temperature evidence; activation selects neither family and preserves the later Director contextual choice. CIR-S1/CONE-S1/STATE-S1/PERF-S1/SEL-S1 remain closed under their no-reroll/no-retune laws. Observed Cues, pips, arcs and ODR-05/07/14/15/19/30 remain unresolved/blocked.
+
+**Next gate:** freeze `docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_01.json` with exact source bytes/hashes, review-surface topology, synthetic viewport fixtures, accessibility/motion modes, CLR probe values, ablations and protected Stage treatment. No new synthesis render/screenshot/animation or aesthetic scoring is admissible before that freeze.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
