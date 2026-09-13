@@ -2307,10 +2307,22 @@ The synthesis also exposes a genuine whole-system gap: current packets do not ye
 
 After reviewing the frozen APP-SYN-01 result, the Director agrees that CLR F2-versus-F1 should not be selected from the synthetic synthesis carrier alone. The contextual choice is intentionally deferred until representative real app assembly puts the shell/navigation, exact Stage adjacency, identity, controls and supporting surfaces together in a form that can reveal actual system pressure.
 
-Design Sol?s current preference remains **F2 ? Monochrome + Intruder** because its low-chroma cool field and scarce teal intrusion better preserve Stage primacy, color scarcity and future semantic headroom. **F1 ? Split Temperature** remains materially valid because its warmer field can provide stronger immediate continuity with the Stage. Neither is promoted by this decision.
+Design Sol's current preference remains **F2 — Monochrome + Intruder** because its low-chroma cool field and scarce teal intrusion better preserve Stage primacy, color scarcity and future semantic headroom. **F1 — Split Temperature** remains materially valid because its warmer field can provide stronger immediate continuity with the Stage. Neither is promoted by this decision.
 
 `PKT-APP-SYN-01-01` remains `DIRECTOR_ADJUDICATION_PENDING`; its Director decision now records `DEFER_CLR_CONTEXTUAL_ADJUDICATION_UNTIL_REPRESENTATIVE_REAL_ASSEMBLY`. No CLR winner, final palette, Phase-C exit, product/runtime authority or Stage change is created. The recommended Stage-to-app-shell adjacency/shared surface-hierarchy translation gate is not activated by this deferral alone. The updated pending packet SHA-256 is `7ffef03bdec0dda58f5857508e8f1376d03980cb5b486eaa58f23c0a3ea956e1`.
 
 **Next boundary:** hold the contextual CLR choice until representative real assembly exists. Re-enter only when the actual pieces are being put together and can be judged as a system.
 
-**DIRECTOR DECISION ? DEFER CONTEXTUAL CLR ADJUDICATION UNTIL REAL ASSEMBLY.**
+**DIRECTOR DECISION — DEFER CONTEXTUAL CLR ADJUDICATION UNTIL REAL ASSEMBLY.**
+
+## L-149 - APP-SYN-01 result/deferral authority is promoted; branch disposal remains strictly gated
+
+**State:** APP-SYN-01 SOURCE PROMOTED / MAIN-ONLY LIFECYCLE CHECKPOINT / ARCHIVE-TAG + ZERO-UNIQUE PROOF NEXT / CLR STILL DEFERRED
+
+Exact APP-SYN-01 serial source `347afe2f3aaa4a772fe27dc471687e1ea9eff83c` has been fast-forward-promoted from prior `main` `28c6e428d6f9d6d492c60ad9890010ad57e9ed4a`. The promoted authority preserves the canonical ten-mode preflight, Design Sol whole-system view, `PKT-APP-SYN-01-01`, and the Director decision to defer CLR F2/F1 contextual adjudication until representative real assembly. Promotion does not select F2 or F1, close APP-SYN-01, activate the Stage-to-app-shell follow-on gate, or create implementation/Phase-C-exit authority.
+
+This main-only lifecycle checkpoint intentionally follows promotion so the immutable APP-SYN-01 source can become a strict ancestor before branch disposal. Remote deletion is authorized only after this checkpoint passes hosted validation, the exact source is preserved under lightweight tag `archive/design/app-syn-01-whole-app-synthesis-2026-09-12` and read back, and source-versus-main proves zero source-unique commits with source strictly behind main. The concurrent unique-commit SYM-02 branch remains protected.
+
+**Next boundary:** hosted validation of this lifecycle checkpoint, then exact archive-tag/readback + strict-ancestor/zero-unique proof + remote serial deletion and final no-active-serial closeout. CLR remains deferred until representative real assembly.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — GUARDED APP-SYN-01 SERIAL PROMOTION LIFECYCLE.**
