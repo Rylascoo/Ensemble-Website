@@ -2255,3 +2255,17 @@ Manifest 03 SHA-256 is `8c287ccf5dfffedb8dd5e1a323e9e991a8f8cf20471c9b6b7d74638c
 **Next boundary:** rerun `normal-wide`, then execute the remaining frozen browser modes. Subjective review remains inadmissible until `APP_SYN_01_BROWSER=PASS`.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE NO-RESULT MEASUREMENT-REPAIR AUDIT.**
+
+## L-145 - APP-SYN-01 200%/320 overflow repaired in review-only labels
+
+**State:** MECHANICAL CARRIER REPAIR FROZEN / SYNTHESIS CONTENT UNCHANGED / NO SUBJECTIVE DESIGN RESULT
+
+The complete ten-mode mechanical run under Manifest 03 exposed one additional non-design defect: at 200% text resize the underscore-separated reference labels `APP_NEUTRAL_COMPOSITION`, `APP_COMPACT_IDENTITY_STACK` and `SYSTEM_INTERACTION_STRIP` could not wrap. At 320px they caused parent reference articles to scroll horizontally; at 1200px only `APP_COMPACT_IDENTITY_STACK` exceeded its label box. No F1/F2 synthesis surface, Stage raster, app content, identity geometry, state control or motion content produced material overflow.
+
+`docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_04.json` freezes the deterministic repair: `.probe-label` alone receives `min-width:0; overflow-wrap:anywhere; word-break:normal; hyphens:none`. Label text/IDs, DOM order, semantics and all scored content remain exact. The Stage remains exact; the materialized runtime carrier changes from SHA-256 `b3d7b03b4552a2b66ced6d94175edbd4b8b53fbc9e36e97c86e2d3734b54825d` to `5e5ec2c7b810dcbf494e3e45d16b4918546aec505c16f7df0e544e3204ba5de9`.
+
+Manifest 04 SHA-256 is `7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c25339673`; source verification passes all 11 packet hashes and 16 materialization-source hashes. No screenshot or subjective scoring was consumed before this repair.
+
+**Next boundary:** rerun the unchanged ten-mode structural/accessibility browser matrix. Subjective review remains inadmissible until `APP_SYN_01_BROWSER=PASS`.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION ? CLEAN RECURSIVE NO-RESULT MECHANICAL CARRIER-REPAIR AUDIT.**

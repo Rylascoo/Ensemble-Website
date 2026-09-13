@@ -4,7 +4,7 @@ import hashlib,json
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-MANIFEST=ROOT/'docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_03.json'
+MANIFEST=ROOT/'docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_04.json'
 STAGE_PACKET=ROOT/'docs/evidence/packets/PKT_STAGE_CORE_02.json'
 
 def lf_sha(path:Path)->str:
@@ -13,12 +13,13 @@ def lf_sha(path:Path)->str:
 
 def main()->int:
  m=json.loads(MANIFEST.read_text(encoding='utf-8'));stage=json.loads(STAGE_PACKET.read_text(encoding='utf-8'))['visual_master']
- assert m['schema']=='kymaean.app-syn-01.execution-defaults-source-manifest.v3'
- assert m['status']=='FROZEN_BROWSER_OVERFLOW_MEASUREMENT_REPAIR_AFTER_INVALID_RUN_NO_DESIGN_RESULT'
- assert m['predecessor_manifest']['lf_sha256']=='e01c8594349bea161f5c53a096a38c392d20b39b016b407130359c9e5763c1d4'
+ assert m['schema']=='kymaean.app-syn-01.execution-defaults-source-manifest.v4'
+ assert m['status']=='FROZEN_REVIEW_LABEL_REFLOW_CARRIER_REPAIR_AFTER_INVALID_MECHANICAL_MATRIX_NO_DESIGN_RESULT'
+ assert m['predecessor_manifest']['lf_sha256']=='8c287ccf5dfffedb8dd5e1a323e9e991a8f8cf20471c9b6b7d74638cba08571d'
  repair=m['browser_launcher_repair'];assert repair['classification']=='EDGE_LAUNCHER_DETACHED_CHILD_CDP_HANDSHAKE_DEFECT_NO_PAGE_LOAD_NO_DESIGN_RESULT' and repair['visual_evidence_consumed_before_repair'] is False
  transport=m['browser_transport'];assert transport['cdp_port_default']==9229 and transport['shutdown']=='Browser.close CDP command'
  measure=m['browser_measurement_repair'];assert measure['classification']=='SR_ONLY_ACCESSIBILITY_SPAN_OVERFLOW_MEASUREMENT_DEFECT_NO_DESIGN_RESULT' and measure['invalid_run_id']=='normal-wide-01' and measure['subjective_evidence_consumed'] is False
+ carrier=m['browser_carrier_repair'];assert carrier['classification']=='REVIEW_ONLY_PROBE_LABEL_UNBREAKABLE_IDENTIFIER_OVERFLOW_NO_DESIGN_RESULT' and carrier['subjective_evidence_consumed'] is False and carrier['new_runtime_harness_sha256']=='5e5ec2c7b810dcbf494e3e45d16b4918546aec505c16f7df0e544e3204ba5de9'
  assert m['recursive_audit']['new_visual_synthesis_evidence_consumed'] is False
  for _,rec in m['packet_sources'].items(): assert lf_sha(ROOT/rec['path'])==rec['lf_sha256'],rec['path']
  for path,expected in m['materialization_sources'].items(): assert lf_sha(ROOT/path)==expected,path
@@ -30,7 +31,7 @@ def main()->int:
  assert 'http://' not in template and 'https://' not in template
  assert set(m['clr_contextual_probes']['families'])=={'F1','F2'} and m['clr_contextual_probes']['variants']==['FULL','NO_MAT','NO_O3','NO_MOT']
  assert m['director_review_surface']['primary_aesthetic'].startswith('normal-wide')
- assert m['recursive_audit']=={'status':'CLEAN_AFTER_MECHANICAL_BROWSER_MEASUREMENT_REPAIR_NO_DESIGN_RESULT','new_visual_synthesis_evidence_consumed':False,'material_defects_remaining':False}
+ assert m['recursive_audit']=={'status':'CLEAN_AFTER_REVIEW_LABEL_REFLOW_CARRIER_REPAIR_NO_DESIGN_RESULT','new_visual_synthesis_evidence_consumed':False,'material_defects_remaining':False}
  print('APP_SYN_01_SOURCES=PASS')
  print('PACKETS='+str(len(m['packet_sources'])))
  print('MATERIALIZATION_SOURCES='+str(len(m['materialization_sources'])))
