@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import hashlib
 import json
 from pathlib import Path
 
@@ -30,8 +29,10 @@ assert anchor["dimensions"] == master["dimensions"]
 
 policy = registry["synthesis_policy"]
 assert policy["active_whole_app_synthesis_program"] == "APP-SYN-01"
-assert policy["active_whole_app_synthesis_status"] == "METHOD_PREREGISTERED_NO_VISUAL_RESULT"
+assert policy["active_whole_app_synthesis_status"] == "SOURCE_FREEZE_COMPLETE_NO_VISUAL_RESULT"
 assert policy["active_whole_app_synthesis_method"] == "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json"
+assert policy["active_whole_app_synthesis_manifest"] == "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_01.json"
+assert policy["active_whole_app_synthesis_manifest_sha256"] == "af5e8c2a05bb368344c4538a616dfbfcd4594ec10377dca28d7f2c236f37dceb"
 assert policy["whole_app_synthesis_packets_created"] == []
 
 packet_ids = {item["packet_id"] for item in registry["packets"]}
@@ -39,7 +40,7 @@ for packet_id in method["primary_input_packets"]:
     assert packet_id in packet_ids, packet_id
 
 assert "APP-SYN-01" in state
-assert "ACTIVATED / METHOD PREREGISTERED / NO NEW VISUAL SYNTHESIS EVIDENCE YET" in state
+assert "ACTIVE / METHOD + EXECUTION SOURCE FREEZE COMPLETE / NO NEW VISUAL SYNTHESIS EVIDENCE YET" in state
 assert "APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_01.json" in state
 assert len(state.encode("utf-8")) <= 3072
 

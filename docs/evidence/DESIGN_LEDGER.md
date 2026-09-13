@@ -2212,3 +2212,18 @@ The recursive Phase-C sequencing audit supports synthesis rather than hold: Audi
 **Next gate:** freeze `docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_01.json` with exact source bytes/hashes, review-surface topology, synthetic viewport fixtures, accessibility/motion modes, CLR probe values, ablations and protected Stage treatment. No new synthesis render/screenshot/animation or aesthetic scoring is admissible before that freeze.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+## L-142 - APP-SYN-01 execution/source freeze completes before first visual exposure
+
+**State:** APP-SYN-01 ACTIVE / METHOD + EXECUTION SOURCE FREEZE COMPLETE / NO NEW VISUAL SYNTHESIS EVIDENCE
+
+`docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_01.json` freezes the deterministic synthesis carrier before any APP-SYN-01 render or screenshot is consumed. The manifest pins 11 source packets, exact C0/O3 bytes, inherited CMP-01/CMP-02 carrier contracts, frozen F1A/CS2 motion fixtures, CLR-01 F2/F1 contextual role values, a 10-mode browser matrix, an 11-surface source/ablation matrix, and explicit mechanical failure thresholds.
+
+The exact Stage remains Drive authority rather than a duplicated GitHub binary. Materialization is required to reject any runtime Stage input that does not match Drive file `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH`, 1,431,659 bytes, 1672x941, SHA-256 `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`. The frozen manifest SHA-256 is `af5e8c2a05bb368344c4538a616dfbfcd4594ec10377dca28d7f2c236f37dceb`.
+
+Static pre-exposure verification passes: all 11 packet hashes and 16 materialization-source hashes match; the Stage metadata matches `PKT-STAGE-CORE-02`; required injection tokens, frozen motion/color values, CLR F2/F1-only law, browser-mode count and ablation count are intact; no materialized runtime harness or runtime Stage raster existed at freeze.
+
+No aesthetic evidence is created by this checkpoint. CLR-01 remains a contextual F2/F1 comparison only; no family wins. CIR-S1/CONE-S1/STATE-S1/PERF-S1/SEL-S1 remain closed. Product/Engineering main remains `4f084f6820dbdcf8d3a55ab76fc3c5e59a4fb6d2` and creates no Design authority.
+
+**Next boundary:** authenticate the exact Drive Stage bytes into disposable runtime storage, materialize the frozen carrier, and execute the preregistered structural/accessibility browser matrix. Subjective scoring is forbidden until mechanical preflight passes.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE PRE-EXPOSURE AUDIT.**

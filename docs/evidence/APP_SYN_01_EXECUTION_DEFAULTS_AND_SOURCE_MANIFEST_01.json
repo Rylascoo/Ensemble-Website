@@ -1,0 +1,342 @@
+{
+  "schema": "kymaean.app-syn-01.execution-defaults-source-manifest.v1",
+  "status": "FROZEN_PRE_MATERIALIZATION_NO_SYNTHESIS_RESULT",
+  "date": "2026-09-12",
+  "program": "APP-SYN-01 — Bounded App-Asset / Whole-App Packet Synthesis 01",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "branch": "design/app-syn-01-whole-app-synthesis-2026-09-12",
+    "activation_commit": "cd3557e9a3869d0284330133893e49e34befad9c",
+    "parent_method": "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json",
+    "parent_method_lf_sha256": "566e2f57b68cd7644e1afc7241c1d0a52a8ade2292d7aba4b090a0b673a34db0",
+    "project_checkpoint": "4f084f6820dbdcf8d3a55ab76fc3c5e59a4fb6d2"
+  },
+  "drive_stage_input": {
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "file_name": "Kymaean Core Stage Background Successor 01 — Frozen.png",
+    "sha256_raw": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "size_bytes": 1431659,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "residency": "Drive remains visual-master authority; runtime copy is disposable authenticated input and is not committed to GitHub."
+  },
+  "hash_basis": "Repository text SHA-256 is canonical LF UTF-8; Stage SHA-256 is raw PNG bytes.",
+  "packet_sources": {
+    "PKT-STAGE-CORE-02": {
+      "path": "docs/evidence/packets/PKT_STAGE_CORE_02.json",
+      "lf_sha256": "2318109789f24021258f50135d7535818b3ee0295292654897dabef6b595d625"
+    },
+    "PKT-CMP-01-01": {
+      "path": "docs/evidence/packets/PKT_CMP_01_BOUNDED_PACKET_COMPOSITION_01.json",
+      "lf_sha256": "c1db4a8df84d0038a91722ab2503800ca9a72edfb1301fd6e6f1e78fadeb1ad5"
+    },
+    "PKT-CMP-02-01": {
+      "path": "docs/evidence/packets/PKT_CMP_02_IDENTITY_STACK_COMPOSITION_01.json",
+      "lf_sha256": "6d4b01a0f14ca7ce17c14c8f76c5add63f5d632899592b5778fc3335a2c3bbee"
+    },
+    "PKT-SYM-01-01": {
+      "path": "docs/evidence/packets/PKT_SYM_01_PRIMARY_SYMBOL_SUCCESSOR_01.json",
+      "lf_sha256": "2c757d0764f54dac9c6c6845234a3059d370be69de67782252d48942ce18cc3f"
+    },
+    "PKT-W0-O3-01": {
+      "path": "docs/evidence/packets/PKT_W0_O3_WORDMARK_01.json",
+      "lf_sha256": "ae50699bb69390d6b38cfca4532ecaa97200e453fada546ba867ab602c43c720"
+    },
+    "PKT-TYP-02-01": {
+      "path": "docs/evidence/packets/PKT_TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHY_01.json",
+      "lf_sha256": "bb236bf8d000150b99c69657ca6e0bdaf2ab433285d0c619821cfbde2f573a19"
+    },
+    "PKT-MAT-01-01": {
+      "path": "docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json",
+      "lf_sha256": "f0a1d132c06ed9b9d474e827774a3490496d5de37a1d801bfa2fac69a63945fb"
+    },
+    "PKT-STA-01-01": {
+      "path": "docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json",
+      "lf_sha256": "46e385eb7be8407b26376000292d6ade26654e1419a0c289316eb5a9a18868d8"
+    },
+    "PKT-MOT-F1A-01": {
+      "path": "docs/evidence/packets/PKT_MOT_F1A_WITHIN_CONTEXT_SUCCESSION_01.json",
+      "lf_sha256": "29faa99a469115eed19dd124d1c6f6b1961bfca14c968c3c833755738f81dfe1"
+    },
+    "PKT-MOT-CS2-01": {
+      "path": "docs/evidence/packets/PKT_MOT_CS2_CONTEXT_SHIFT_01.json",
+      "lf_sha256": "4a29b39e2c5b0c46d738105d0b0fd5b1849ee766b5ee3863e5c3c4adcdf00bbb"
+    },
+    "PKT-CLR-01-01": {
+      "path": "docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json",
+      "lf_sha256": "e7da5fe8f8b866bb730db6646965c2ba8104c3d74d3a0f26d72a3e6e7cc846e0"
+    }
+  },
+  "materialization_sources": {
+    "prototypes/app-syn-01/harness-template.html": "c3fdf7fce3b8f0ea1eee0f85173e1fd175625dfd3ba80c818a0e42123556b635",
+    "tools/materialize_app_syn01.py": "976edb98057b0dfe6c2bcfa2b50146dae7a63e5fa41e046f77ef7458067a9bf1",
+    "tools/app_syn01_browser_probe.mjs": "9f58abcb57a10ac9ba08fff6e88b72a952a6c8665d3a1b8d877524333a3cc37b",
+    "tools/verify_app_syn01_browser.py": "53a0985029e632dea4db032929379050b24d18770ccc9b090fccf89c3653ff4b",
+    "tools/verify_app_syn01_sources.py": "b89b7ebd8c0210287da356460e95aa860049c9eb190b39f64d086bb1e8eff970",
+    "assets/brand/kymaean-threshold-k-working-candidate.svg": "72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305",
+    "assets/brand/kymaean-o3-wordmark-temporary-incumbent.svg": "204e6f7b3239f44267a04afa2c12f0254a56142e9298ee6e7fab9f9061a674f5",
+    "prototypes/cmp-01/harness.html": "1972b7308a827c0fa8b7b9418de61b14edd3125c32c8c167e945f3708349dba0",
+    "docs/evidence/CMP_01_EXECUTION_DEFAULTS_01.json": "aa6181f420acf353f9433feb1f9a1aa89c010fb1cfdfc6714a5fbd3d2d13e915",
+    "docs/evidence/CMP_01_FROZEN_SOURCE_MANIFEST_03.json": "a2c32fd43c02794a8d696dc0be338b4e94f051cd98bfd3be4adfb0aaa996b11d",
+    "prototypes/cmp-02/harness.html": "22b1ef99cb0f94f331f4e953e3822bbcd307da1684f7fb097fe9ebdcc42351ea",
+    "docs/evidence/CMP_02_EXECUTION_DEFAULTS_01.json": "05006c40085844e3920de864dfd3a551a9df80cba5f56607ce694b1dfe4151ff",
+    "docs/evidence/CMP_02_FROZEN_SOURCE_MANIFEST_03.json": "e4ad38d16191a189a3da83e5ea052b4bf1fc3585193409b929bddadf8e8e9e47",
+    "prototypes/mot-01/deployment-envelope/manifest.json": "e967735edcb9cfcf26d04b4d3a26fd276b4920d64d69ddd9a4fbc7373d24f6f8",
+    "prototypes/mot-01/cs2-envelope/manifest.json": "6cdea6015bd603d2fff874d1f28b4866c002a4bc1a9d3c8ad237d2eee42e1bc8",
+    "prototypes/clr-01/manifest.json": "71462d20a1de819e214a20bddd584f89187663c7c0cd9fcb17721c54679bac8c"
+  },
+  "review_surface": {
+    "template": "prototypes/app-syn-01/harness-template.html",
+    "runtime_output": ".tmp/app-syn-01/harness.html",
+    "runtime_stage_input": ".tmp/app-syn-01/stage-core-02.png",
+    "sections": [
+      "EXACT_STAGE_ANCHOR",
+      "REFERENCE_CARRIERS",
+      "CLR_CONTEXTUAL_SYNTHESIS_PROBES"
+    ],
+    "surface_count": 11,
+    "wide_layout": "1200px viewport; two columns; each synthetic surface max-width 420px; no transform scaling",
+    "compact_layout": "320px viewport; one column; surface width 100%; no content reorder",
+    "stage_treatment": "Exact 1672x941 raster embedded by verified data URI; width scales to container with height auto; no crop, overlay, filter, recolor, retouch or transform."
+  },
+  "synthetic_content": {
+    "identity_accessible_name": "Kymaean",
+    "eyebrow": "CONTEXT",
+    "heading": "Primary information remains clear.",
+    "body": "Supporting text explains the situation without changing the hierarchy.",
+    "support": "Secondary detail remains available.",
+    "states": [
+      "Field A",
+      "Field B",
+      "Field C"
+    ],
+    "selected": "Field B",
+    "peers": [
+      "Peer A",
+      "Peer B",
+      "Peer C"
+    ],
+    "contexts": [
+      "Context A",
+      "Context B"
+    ]
+  },
+  "clr_contextual_probes": {
+    "families": [
+      "F2",
+      "F1"
+    ],
+    "variants": [
+      "FULL",
+      "NO_MAT",
+      "NO_O3",
+      "NO_MOT"
+    ],
+    "neutral_reference_palette": {
+      "page": "#f7f7f4",
+      "field": "#ecece7",
+      "primary": "#1b1b19",
+      "secondary": "#62625d",
+      "boundary": "#8a8a82"
+    },
+    "F2_APP": {
+      "field": "#F4F3F7",
+      "primary": "#221B2D",
+      "secondary": "#5C5565",
+      "accent": "#006F73",
+      "boundary": "#7D7486",
+      "soft_surface": "#EAE8EF"
+    },
+    "F1_APP": {
+      "field": "#F7F5F2",
+      "primary": "#191B24",
+      "secondary": "#565B67",
+      "accent": "#9A4D2E",
+      "boundary": "#8A8178",
+      "soft_surface": "#EEE8E2"
+    },
+    "role_mapping": "Outer review page remains CMP neutral page. Family field colors only the synthetic carrier; primary/secondary/boundary/soft-surface retain CLR role meanings. Accent is restricted to a small non-semantic strip and replay-control border and never becomes selected/success/active semantics."
+  },
+  "inherited_geometry": {
+    "surface_max_width_px": 420,
+    "surface_min_height_px": 340,
+    "surface_padding_px": 18,
+    "mat_top": {
+      "left_pct": 9,
+      "width_pct": 30,
+      "height_px": 18
+    },
+    "mat_right": {
+      "width_px": 24,
+      "top_pct": 57,
+      "height_pct": 23
+    },
+    "sta_selected": {
+      "min_height_px": 44,
+      "border_px": 1,
+      "focus_outline_px": 2,
+      "focus_offset_px": 2,
+      "selected_padding_inline_start_px": 15,
+      "witness_left_px": 5,
+      "witness_inset_block_px": 7,
+      "witness_width_px": 3
+    },
+    "c0_height_px": 32,
+    "o3_width_px": 130,
+    "identity_gap_px": 12
+  },
+  "motion_fixtures": {
+    "F1A": {
+      "peer_count": 3,
+      "duration_ms": 460,
+      "onset_interval_ms": 70,
+      "easing": "cubic-bezier(0.2,0,0,1)",
+      "app_translate_y_px": 28,
+      "reduced_motion": "immediate final state; zero transition"
+    },
+    "CS2": {
+      "duration_ms": 280,
+      "easing": "cubic-bezier(0.2,0,0,1)",
+      "property": "opacity only",
+      "element_level_stagger": false,
+      "host_geometry": "fixed",
+      "reduced_motion": "immediate incoming context; zero transition"
+    }
+  },
+  "browser_modes": [
+    {
+      "id": "normal-wide",
+      "width": 1200,
+      "forced_colors": false,
+      "reduced_motion": false,
+      "root_font_percent": 100,
+      "text_spacing": false
+    },
+    {
+      "id": "normal-320",
+      "width": 320,
+      "forced_colors": false,
+      "reduced_motion": false,
+      "root_font_percent": 100,
+      "text_spacing": false
+    },
+    {
+      "id": "resize200-wide",
+      "width": 1200,
+      "forced_colors": false,
+      "reduced_motion": false,
+      "root_font_percent": 200,
+      "text_spacing": false
+    },
+    {
+      "id": "resize200-320",
+      "width": 320,
+      "forced_colors": false,
+      "reduced_motion": false,
+      "root_font_percent": 200,
+      "text_spacing": false
+    },
+    {
+      "id": "spacing-wide",
+      "width": 1200,
+      "forced_colors": false,
+      "reduced_motion": false,
+      "root_font_percent": 100,
+      "text_spacing": true
+    },
+    {
+      "id": "spacing-320",
+      "width": 320,
+      "forced_colors": false,
+      "reduced_motion": false,
+      "root_font_percent": 100,
+      "text_spacing": true
+    },
+    {
+      "id": "forced-wide",
+      "width": 1200,
+      "forced_colors": true,
+      "reduced_motion": false,
+      "root_font_percent": 100,
+      "text_spacing": false
+    },
+    {
+      "id": "forced-320",
+      "width": 320,
+      "forced_colors": true,
+      "reduced_motion": false,
+      "root_font_percent": 100,
+      "text_spacing": false
+    },
+    {
+      "id": "reduced-wide",
+      "width": 1200,
+      "forced_colors": false,
+      "reduced_motion": true,
+      "root_font_percent": 100,
+      "text_spacing": false
+    },
+    {
+      "id": "reduced-320",
+      "width": 320,
+      "forced_colors": false,
+      "reduced_motion": true,
+      "root_font_percent": 100,
+      "text_spacing": false
+    }
+  ],
+  "ablation_matrix": [
+    "REF_NEUTRAL_COMPOSITION",
+    "REF_IDENTITY_STACK",
+    "REF_INTERACTION_STRIP",
+    "F2_FULL",
+    "F2_NO_MAT",
+    "F2_NO_O3",
+    "F2_NO_MOT",
+    "F1_FULL",
+    "F1_NO_MAT",
+    "F1_NO_O3",
+    "F1_NO_MOT"
+  ],
+  "failure_thresholds": [
+    "Stage runtime input must match exact raw SHA-256, byte size and 1672x941 intrinsic dimensions.",
+    "Exactly 11 synthetic surfaces must materialize in every browser mode.",
+    "No required element may horizontally overflow the viewport or its carrier by more than 1 CSS px.",
+    "Every surface carries exactly one accessible Kymaean name and exact C0 geometry; O3 visibility changes only in preregistered NO_O3/reference cases.",
+    "Sequential Tab focus must reach state controls on every surface with >=2px non-none :focus-visible outline; selected witness remains >=3px independently.",
+    "At 1200 and 320, baseline/200%-resize/text-spacing/forced-colors modes preserve required content and DOM order.",
+    "Normal F1A computes 460ms duration and 70ms second-peer delay; normal CS2 computes 280ms opacity transition. Reduced-motion computes zero transition for both.",
+    "No remote resource references, custom fonts, canvas/WebGL, gradients, filters, backdrop filters, glow, autoplay or looping motion.",
+    "Forced-colors evidence applies only to the HTML synthesis carrier; the exact baked Stage raster is never relabeled as native high-contrast validation."
+  ],
+  "director_review_surface": {
+    "primary_aesthetic": "normal-wide screenshot/contact sheet from the frozen carrier after mechanical PASS",
+    "secondary_context": "normal-320 screenshot for compact/reflow coherence",
+    "diagnostic_only": [
+      "resize200-wide",
+      "resize200-320",
+      "spacing-wide",
+      "spacing-320",
+      "forced-wide",
+      "forced-320",
+      "reduced-wide",
+      "reduced-320"
+    ],
+    "law": "Design Sol freezes whole-system view before Director preference. If both CLR F2/F1 remain materially valid, Director choice is contextual and does not create final-palette authority."
+  },
+  "explicit_non_authority": [
+    "No Stage pixel or geometry mutation.",
+    "No CLR F3/F4 rerun, new CLR family, fixture retune after exposure, or automatic F2/F1 winner.",
+    "No final palette, typeface, material, motion, symbol, wordmark, identity or production tokens.",
+    "No Phase-C exit or implementation/WinUI/native accessibility claim.",
+    "No resolution of ODR-05/07/14/15/19/30 and no semantics for Observed Cues, pips or inter-Character arcs."
+  ],
+  "freeze_law": "This file, template, materializer, browser probe and verifier are frozen before the first APP-SYN-01 browser materialization. After visual exposure, only deterministic repair restoring this exact contract is permitted; no source value, CLR mapping, topology, ablation, viewport, criterion or threshold may be result-aware retuned inside APP-SYN-01.",
+  "recursive_audit": {
+    "status": "CLEAN_PRE_EXPOSURE",
+    "new_visual_synthesis_evidence_consumed": false,
+    "material_defects_remaining": false
+  }
+}
