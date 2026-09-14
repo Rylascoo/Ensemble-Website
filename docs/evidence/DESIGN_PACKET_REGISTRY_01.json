@@ -183,7 +183,7 @@
     "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance.",
     "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized.",
     "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence.",
-    "CPS-B is the Director-selected canonical Phase C Character-presence architecture, but representative real-app integration, final expressive depiction/artwork, production tokens and native implementation remain unresolved; CPS-01 selection alone does not authorize Phase D.",
+    "CPS-B is the Director-selected canonical Phase C Character-presence architecture; CHARART-01 is active pre-render to test one optional expressive artwork master. Representative real-app integration, Director artwork acceptance, production tokens and native implementation remain unresolved.",
     "APPICON-01 closes with E06 as the sole current app-icon design-master envelope around exact C0; production Store/package/native-mask implementation and final symbol authority remain unresolved."
   ],
   "synthesis_policy": {
@@ -196,7 +196,7 @@
     ],
     "next_synthesis_trigger": "Hold CLR F2/F1 adjudication and do not activate the Stage-to-app-shell follow-on gate from APP-SYN-01 alone. Resume contextual CLR choice only when representative real app assembly provides meaningful shell/navigation/Stage-adjacency/identity/control context.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_DUR_01_REENTRY_AUDIT_08.json",
+    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
@@ -231,7 +231,16 @@
     "active_appicon_evaluation": "docs/evidence/APPICON_01_DESIGN_SOL_ENVELOPE_EVALUATION_01.json",
     "active_appicon_evaluation_sha256": "960d5266aec673010b28a306582d669a3ea7047f414d7bc65567167e634a565d",
     "active_appicon_packet": "PKT-APPICON-01-01",
-    "active_appicon_packet_sha256": "9e0782c3e13642c3239e421e5079847da122022f0244400b2f31ddea1f15add0"
+    "active_appicon_packet_sha256": "9e0782c3e13642c3239e421e5079847da122022f0244400b2f31ddea1f15add0",
+    "latest_reentry_audit_sha256": "fe16dba8eb40664533de5af833f94f1fefc1ba5ef94b4c9bdee9e98524808ab0",
+    "active_charart_program": "CHARART-01",
+    "active_charart_status": "METHOD_FROZEN_PRE_RENDER_EXTERNAL_ISOLATED_EXECUTION_REQUIRED",
+    "active_charart_method": "docs/evidence/CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_METHOD_01.json",
+    "active_charart_method_sha256": "83743369365323eae9635c7eadb729e553eda4bda8a1c948c25058ba5d9bd161",
+    "active_charart_renderer_packet": "docs/evidence/CHARART_01_ISOLATED_RENDERER_PACKET_01.json",
+    "active_charart_renderer_packet_sha256": "29008eb467d450e0b6ce420c34311a61e3b18394636524e6ede4fff747df6afb",
+    "active_charart_drive_folder_id": "16mixyRAIXVjLbY7vQVfaew_9Kim628vy",
+    "active_charart_director_gate": "REQUIRED_IF_DESIGN_SOL_SURVIVOR"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

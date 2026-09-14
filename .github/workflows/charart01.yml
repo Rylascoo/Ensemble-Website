@@ -1,0 +1,40 @@
+name: CHARART-01 deterministic checkpoint
+
+on:
+  push:
+    paths:
+      - '.gitattributes'
+      - 'CURRENT_STATE.md'
+      - 'docs/HANDOFF_CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_2026_09_14.md'
+      - 'docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json'
+      - 'docs/evidence/CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_METHOD_01.json'
+      - 'docs/evidence/CHARART_01_ISOLATED_RENDERER_PACKET_01.json'
+      - 'docs/evidence/DESIGN_LEDGER.md'
+      - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
+      - 'tools/verify_charart01.py'
+      - '.github/workflows/charart01.yml'
+  pull_request:
+    paths:
+      - '.gitattributes'
+      - 'CURRENT_STATE.md'
+      - 'docs/HANDOFF_CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_2026_09_14.md'
+      - 'docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json'
+      - 'docs/evidence/CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_METHOD_01.json'
+      - 'docs/evidence/CHARART_01_ISOLATED_RENDERER_PACKET_01.json'
+      - 'docs/evidence/DESIGN_LEDGER.md'
+      - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
+      - 'tools/verify_charart01.py'
+      - '.github/workflows/charart01.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Verify CHARART-01 frozen checkpoint
+        run: python3 tools/verify_charart01.py

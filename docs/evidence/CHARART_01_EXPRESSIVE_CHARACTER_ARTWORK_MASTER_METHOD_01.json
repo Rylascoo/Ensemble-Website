@@ -1,0 +1,191 @@
+{
+  "schema": "kymaean.charart-01.expressive-character-artwork-master-method.v1",
+  "status": "FROZEN_PRE_RENDER_SINGLE_MASTER",
+  "date": "2026-09-14",
+  "program": "CHARART-01",
+  "name": "Expressive Character Artwork Master Materialization",
+  "activation_audit": "docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json",
+  "activation_audit_sha256": "fe16dba8eb40664533de5af833f94f1fefc1ba5ef94b4c9bdee9e98524808ab0",
+  "bounded_question": "Can one optional expressive artwork master, generated from current Phase-C Character/image laws, provide enough cross-surface art-direction specificity to guide later app/website design while remaining subordinate to CPS-B and surviving fixed crop/reduction stress without palette, Stage or product-semantic dependence?",
+  "authority": {
+    "cps_b_decision_sha256": "02f14c5360b07ca6b5d04f80e16fb9877976eee0c4a0ec10f1d9a924f82413a8",
+    "img01_method_bound_evaluation_sha256": "f17a98b1b64ac7ea471f356912c88c547027bc20381c2bab8796b5addeb05257",
+    "img01_concordance_sha256": "1ddf51fa28ddea497b8dd1da353f26733c0cf1a7a857e02020e1322a9c06ce27",
+    "appicon_packet_sha256": "9e0782c3e13642c3239e421e5079847da122022f0244400b2f31ddea1f15add0",
+    "drive_charart01_folder_id": "16mixyRAIXVjLbY7vQVfaew_9Kim628vy",
+    "drive_img_f1_raw_id": "1Howv8ATwZ1fCbuJ5EPTv_TQZxJv2gWvr",
+    "drive_director_prior_doc_id": "1KJeorPBsNnRivFVFJQqKB3CsB6nHtlLiApfAHxh0-VU"
+  },
+  "non_rerun_law": [
+    "This is a new materialization namespace, not IMG-01 family rerun or IMG-F2 refinement.",
+    "IMG-F1 contributes reduced expressive-depiction laws only; its raw pixels are not renderer style reference.",
+    "IMG-F2 remains targeted-refinement-required and cannot be rescued by this output.",
+    "IMG-F3 remains rejected; environmental response is contextual/subordinate only.",
+    "CPS-B remains canonical beneath any optional depiction."
+  ],
+  "attempt_law": {
+    "valid_render_budget": 1,
+    "technical_no_output_retry_budget": 1,
+    "technical_retry_condition": "Only a renderer/tool failure that returns no usable image bytes and no visually inspectable output. Any valid returned image consumes the gate attempt regardless of quality.",
+    "same_gate_reroll": false,
+    "prompt_repair_after_exposure": false,
+    "image_edit_after_exposure": false,
+    "inpaint_outpaint_upscale_before_scoring": false,
+    "stop_consequence": "A consumed output that does not survive is not repaired inside CHARART-01. Any successor/refinement requires a fresh audit and new frozen method."
+  },
+  "renderer_isolation": {
+    "execution_context": "One fresh regular non-project image-generation chat.",
+    "renderer_sees_only": "renderer_visible_prompt from the frozen renderer packet",
+    "historical_images_visible": false,
+    "img_f1_raw_visible": false,
+    "director_prior_visible": false,
+    "stage_image_visible": false,
+    "project_or_brand_name_visible": false,
+    "competing_prompt_visible": false,
+    "renderer_critique_requested": false,
+    "output_contract": "Return only one uninterrupted artwork."
+  },
+  "controlled_scene_facts": {
+    "people": "Exactly three distinct, specific adults; A and B carry the strongest current relation; C remains specific and relevant.",
+    "time": "Temporally non-specific present after one completed human action changed the shared situation; the act itself is over.",
+    "psychology": "Do not explain or infer motive, belief, knowledge, diagnosis, emotion or hidden mental state.",
+    "identity": "Each person uses sparse redundant non-color cues distributed across silhouette, proportion, contour, hair/body geometry and recurring form rhythm; face may contribute but may not be sole recognition authority.",
+    "environment": "Sparse, quiet, subordinate shared field. Physical consequence may appear only where attributable to people and may not become spectacle."
+  },
+  "composition_contract": {
+    "aspect": "landscape 16:9",
+    "blocking": "Asymmetric shared composition, not a lineup or character-select sheet.",
+    "placement_pressure": {
+      "A": "primarily left 10–34% of width",
+      "B": "primarily center 38–66% of width",
+      "C": "primarily right 68–92% of width with deliberate vertical/depth offset"
+    },
+    "relation": "A/B relation must emerge from orientation, overlap, shared contact/obstruction or negative space rather than connector graphics.",
+    "crop_margin": "Keep sufficient authored body/form information inside the fixed crop windows; failure to do so is evidence, not a reason to move the crops."
+  },
+  "fixed_crop_windows": {
+    "ENSEMBLE_FULL": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "PAIR_AB": [
+      0.04,
+      0.04,
+      0.72,
+      0.96
+    ],
+    "FOCUSED_B": [
+      0.33,
+      0.06,
+      0.7,
+      0.94
+    ],
+    "FRAGMENT_A": [
+      0.0,
+      0.18,
+      0.3,
+      0.88
+    ],
+    "APP_CARD_BC": [
+      0.44,
+      0.1,
+      0.97,
+      0.92
+    ]
+  },
+  "art_direction_constraints": [
+    "Authored stylized human figures; not photorealistic, fashion/editorial portraiture, profile-avatar imagery, game-character art or mascot design.",
+    "Human figures remain the strongest visual hierarchy; environment/material response never outranks them.",
+    "Planar to shallow spatial depth; no giant symbolic object, cinematic spectacle, magical energy, portals, beams, aura or decorative texture carpet.",
+    "No UI, text, labels, logos, arrows, nodes, diagram connectors, cone lineups, spotlight/theater composition or copied Stage geometry.",
+    "Do not prescribe a brand palette; value, form, contact and geometry must carry the result."
+  ],
+  "post_render_sequence": [
+    "Immediately preserve the untouched raw output in authenticated Drive folder 16mixyRAIXVjLbY7vQVfaew_9Kim628vy before subjective evaluation.",
+    "Record exact Drive file ID, filename, SHA-256, byte count and pixel dimensions in GitHub evidence.",
+    "Construct only deterministic fixed crops and diagnostic grayscale/high-contrast/no-image review surfaces; never edit the raw master.",
+    "Run mechanical/source/provenance preflight before Design Sol subjective scoring.",
+    "Freeze the Design Sol method-bound view before any Director acceptance decision.",
+    "If the output survives, return the raw master plus fixed diagnostic crops to the Director for consequential acceptance/rejection. No automatic master promotion."
+  ],
+  "mechanical_preflight": {
+    "raw_master": "Readable raw image, expected landscape 16:9 within normal renderer tolerance; no corruption or unexpected embedded UI/text.",
+    "crop_stress": "Apply the five frozen normalized crop windows unchanged. Record whether the intended people/identity/relationship survive each window.",
+    "reduction_roles_px": [
+      1440,
+      720,
+      390,
+      192,
+      96
+    ],
+    "diagnostic_modes": [
+      "NORMAL",
+      "GRAYSCALE",
+      "HIGH_CONTRAST_VALUE",
+      "NO_IMAGE_FALLBACK"
+    ],
+    "no_image_law": "Removing expressive artwork must not destroy canonical Character identity/task comprehension because CPS-B identity remains separate; this gate may not make the image semantically mandatory.",
+    "motion": "Static artwork only; no motion dependency."
+  },
+  "evaluation_dimensions": [
+    "HUMAN_SPECIFICITY",
+    "CPS_B_SUBORDINATION",
+    "DISTRIBUTED_NONCOLOR_RECOVERY",
+    "RELATIONAL_CAUSAL_MEANING",
+    "FIXED_CROP_SURVIVAL",
+    "ENVIRONMENT_SUBORDINATION",
+    "ANTI_AVATAR_EDITORIAL_GAME",
+    "NON_GENERIC_AI_ART_DIRECTION",
+    "STAGE_PRIMACY_NONCOPY",
+    "APP_WEB_OPTIONAL_DEPLOYMENT",
+    "PERSPECTIVE_PRIVACY_RESTRAINT",
+    "PROVENANCE_REPRODUCIBILITY"
+  ],
+  "hard_failures": [
+    "Face/portrait becomes sole practical identity authority.",
+    "People collapse into generic avatars, mascots, game characters, fashion/editorial models or interchangeable AI figures.",
+    "Environment, material spectacle or giant symbolic object outranks the people.",
+    "Stage/cone/scenery shorthand is copied or recognizably recreated.",
+    "Private psychology, hidden-state inference or demographic stereotype becomes required meaning.",
+    "The fixed pair/focused/fragment crop stress destroys the authored human-specificity or relationship mechanism rather than merely reducing decoration."
+  ],
+  "promotion_floor": "SURVIVES_FOR_DIRECTOR_REVIEW only if HUMAN_SPECIFICITY, CPS_B_SUBORDINATION, DISTRIBUTED_NONCOLOR_RECOVERY, RELATIONAL_CAUSAL_MEANING, FIXED_CROP_SURVIVAL, ENVIRONMENT_SUBORDINATION, ANTI_AVATAR_EDITORIAL_GAME, STAGE_PRIMACY_NONCOPY, PERSPECTIVE_PRIVACY_RESTRAINT and PROVENANCE_REPRODUCIBILITY all pass with no hard failure. NON_GENERIC_AI_ART_DIRECTION and APP_WEB_OPTIONAL_DEPLOYMENT must be explicitly judged and may impose restraint but cannot be ignored.",
+  "result_classes": [
+    "SURVIVES_FOR_DIRECTOR_REVIEW — clears the frozen floor; Director acceptance remains required before master authority.",
+    "TARGETED_REFINEMENT_REQUIRED_NO_SAME_GATE_RERENDER — concept retains value but consumed output misses one or more non-hard dimensions; no repair in this gate.",
+    "REJECTED — hard failure or broad inability to satisfy the frozen expressive-master role."
+  ],
+  "director_gate": {
+    "required_if_design_sol_survivor": true,
+    "question": "Does the method-bound surviving raw master feel sufficiently Kymaean, human, specific and non-generic to become the current Phase-C expressive artwork master under CPS-B restraint?",
+    "director_may_accept_or_reject": true,
+    "director_may_request_same_gate_prompt_tuning": false
+  },
+  "explicit_non_authority": [
+    "No canonical Character identity transfer from artwork; CPS-B remains canonical.",
+    "No CLR family/palette selection or production color token.",
+    "No Stage/Stage-to-shell geometry or scenery authority.",
+    "No product semantics, Character biography or private-state authority.",
+    "No final symbol/wordmark/typeface/material/icon-family authority.",
+    "No Phase-C exit, Phase-D entry, native/runtime/provider/shipping/Store authority."
+  ],
+  "required_outputs": [
+    "one frozen isolated renderer packet",
+    "one raw Drive master or documented technical no-output failure",
+    "raw-master provenance record",
+    "deterministic crop/reduction mechanical preflight",
+    "Design Sol frozen method-bound evaluation",
+    "Director decision only if the output survives for review",
+    "gate packet after terminal disposition"
+  ],
+  "recursive_audit": {
+    "criteria_frozen_before_render": true,
+    "raw_img_pixels_not_renderer_reference": true,
+    "f2_reroll_prevented": true,
+    "cps_b_subordination_explicit": true,
+    "director_taste_gate_preserved": true,
+    "material_defects_remaining": false
+  }
+}

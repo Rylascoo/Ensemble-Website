@@ -2559,3 +2559,20 @@ Because only E06 clears the frozen all-scale promotion floor, the method's multi
 **Next boundary:** run a fresh Phase-C post-APPICON reentry audit before activating another program or claiming Phase-C completion.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FROZEN-CRITERIA SINGLE-SURVIVOR CLOSURE.**
+## L-166 - Post-APPICON reentry activates CHARART-01 expressive artwork master materialization
+
+**State:** APPICON-01 E06 PRESERVED / CHARART-01 ACTIVE / METHOD FROZEN PRE-RENDER / DIRECTOR ACCEPTANCE REQUIRED IF SURVIVOR
+
+Pre-promotion remote-race reconciliation: Engineering `main` advanced to `724f5e1664ac1eeb3e67bab7bb16e3bc846f7a90` before this checkpoint was committed. A fresh exact-ref `CURRENT_STATE.md` read confirmed E0-D remains blocked and no representative real app assembly exists; the audit baseline and chained hashes were refreshed before promotion. No CHARART criterion or sequencing conclusion changed.
+
+`docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json` SHA-256 `fe16dba8eb40664533de5af833f94f1fefc1ba5ef94b4c9bdee9e98524808ab0` re-audits the remaining Phase C requirements after APPICON-01 closure. It selects `CHARART-01 - Expressive Character Artwork Master Materialization` because APPICON-01 was the explicit higher-priority reason the expressive-art successor remained deferred; that dependency is now closed. CLR and Stage-to-shell remain held by representative real-app assembly, bespoke iconography remains product-vocabulary dependent, public voice remains partly product/content dependent, and no isolated symbol/wordmark/typeface rerun is earned.
+
+`docs/evidence/CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_METHOD_01.json` SHA-256 `83743369365323eae9635c7eadb729e553eda4bda8a1c948c25058ba5d9bd161` freezes a single-master materialization test subordinate to CPS-B. It is not IMG-02 and cannot rescue/reroll IMG-F2 or revive IMG-F3. IMG-F1 contributes reduced optional-depiction law only; its raw pixels are quarantined from renderer input. One valid returned image consumes the attempt. Same-gate reroll, prompt repair, edit/inpaint/outpaint/upscale are prohibited.
+
+`docs/evidence/CHARART_01_ISOLATED_RENDERER_PACKET_01.json` SHA-256 `29008eb467d450e0b6ce420c34311a61e3b18394636524e6ede4fff747df6afb` freezes the sterile renderer-visible prompt. Execution must occur in one fresh regular non-project image-generation chat with no project/brand name, historical image, Stage image, Director prior or competing prompt. The untouched raw output must be preserved first in authenticated Drive folder `16mixyRAIXVjLbY7vQVfaew_9Kim628vy` before evaluation.
+
+The method fixes five normalized crop windows, reduction/diagnostic modes, promotion floor and hard failures before rendering. Any Design Sol survivor is `SURVIVES_FOR_DIRECTOR_REVIEW` only; consequential Director acceptance/rejection remains mandatory before expressive-master authority. No CLR, Stage, product-semantic, Phase-C exit, Phase-D, native/runtime/provider or shipping authority is created.
+
+**Next boundary:** execute the isolated renderer packet externally, preserve raw provenance, then run deterministic crop/reduction preflight and Design Sol scoring. Stop for Director acceptance if and only if the consumed output survives the frozen floor.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PRE-RENDER ACTIVATION.**
