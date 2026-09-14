@@ -2,24 +2,29 @@
 
 # Ensemble Website - Current State
 
-Updated: 2026-09-14
+Updated: 2026-09-15
 
 ## Authority
 Design: `Rylascoo/Ensemble-Website`; Engineering/Product: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap `AGENTS.md`; continuity `docs/DESIGN_CONTINUITY.md`; ledger `docs/evidence/DESIGN_LEDGER.md`.
 
-## Repository / concurrent streams
-APPUI serial branch: `design/appui01-working-compositions-2026-09-14`, based from exact predecessor `405c8d014300e8154f1cd5dc0e0c326d0498533a`. Website `main` advanced independently during Pass 01 to `4bb91292171e0d503d3a4e058ee421436221a793` under concurrent Website Sol. **Do not merge, reset, overwrite or retire concurrent website work merely to synchronize APPUI.** Fresh-resolve both streams before cross-stream operations.
+## Concurrent streams
+APPUI branch: `design/appui01-working-compositions-2026-09-14`, based from `405c8d014300e8154f1cd5dc0e0c326d0498533a`. Website `main` observed at `4bb91292171e0d503d3a4e058ee421436221a793`. Keep concurrent website work separate; fresh-resolve before cross-stream operations.
 
-## Product target / Director correction
-Current app target: **Microsoft Windows 11 desktop on ARM64, intended for Microsoft Store distribution**. Human artwork is not prerequisite; CHARART-01 is **DIRECTOR-TERMINATED / NO MASTER ADOPTED / NO SCORING**.
+## Product / lane boundary
+Target: **Windows 11 desktop on ARM64, intended for Microsoft Store distribution**. CHARART-01 remains **DIRECTOR-TERMINATED / NO MASTER**. `Ensemble-Project` is read-only Design input for product/runtime/architecture facts that materially change what the UI must communicate; Design artifacts remain in `Ensemble-Website` and authenticated Drive.
 
 ## Preserved law
-CPS-B Distributed Recognition Mesh remains canonical Character presence; DUR-01 remains **PASS_INTEGRATED_DURABILITY**; APPICON-01 E06 remains the current exact-C0 design-master envelope; `PKT-STAGE-CORE-02` remains exact Stage authority. CLR F2/F1 remains unselected; provisional color is allowed in working mockups. Phase C remains open.
+CPS-B, DUR-01, APPICON-01 E06 and `PKT-STAGE-CORE-02` remain authoritative. The **Stage stays dark in both app themes**. CLR F2/F1 remains unselected; provisional semantic color is allowed. Phase C remains open.
 
-## APPUI-01 active
-`APPUI-01 - Windows 11 ARM64 Working App Visual Prototype` is **ACTIVE / ITERATIVE / SCREEN-FIRST**. Working Composition Pass 01 is preserved in `docs/evidence/APPUI_01_WORKING_COMPOSITION_PASS_01_2026_09_14.json` and authenticated Drive folder `1YxHR5B5AAeLBlWHbbLZmYVx27Qht2Ylo`. It contains a Live Stage Workspace and Production Overview with Stage adjacency, selected Character inspection and causal-history placement. This is working evidence, not final APPUI authority.
+## APPUI-01
+`APPUI-01 - Windows 11 ARM64 Working App Visual Prototype` is **ACTIVE / ITERATIVE / SCREEN-FIRST**. Pass 01 remains working evidence. Director reaction establishes co-equal **Light and Dark** application themes around one semantic UI system; neither is secondary. The dark Stage is invariant across both.
 
-## Exact next action
-Present Pass 01 for Director reaction, then iterate the representative Windows desktop assembly. Focus the reaction on shell-to-Stage depth/hierarchy, causal-history prominence and whether the provisional supporting shell feels distinctively Kymaean enough. Preserve frozen Stage/CPS/app-icon law, accessibility intent, truthful semantics and Design/Engineering separation.
+Active sequence:
+1. Complete the clean, intuitive functional UI architecture: navigation/scopes, hierarchy, Stage adjacency, inspectors, causal history, commands, responsive behavior, accessibility/state grammar, semantic theme tokens, functional iconography, typography/spacing and functional empty/loading/error states.
+2. Continue Stage/live-production rendering as the major visual program and the only separate visual-design program before the UI framework is polished.
+3. After UI framework and Stage/live-production visuals are sufficiently resolved, add secondary Kymaean ornament, expanded brand expression, decorative motion and other nonessential visual layers inside the proven framework.
 
-Fresh-chat handoff remains `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md`; repository state above supersedes stale checkpoint values inside that handoff.
+## Next
+Create Pass 02 as paired Light/Dark representative Windows screens using one semantic component/layout system and the same dark Stage. Audit hierarchy, clarity, theme parity, accessibility/state distinction and implementation usefulness before ornamental expansion. Consult `Ensemble-Project` only when live architecture/product/runtime truth changes what the interface must show.
+
+Fresh-chat handoff remains `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md`; this state supersedes stale checkpoint values there.

@@ -2650,3 +2650,17 @@ CLR remains unresolved. The cool low-chroma shell is provisional working evidenc
 Concurrency remained isolated. APPUI work is on `design/appui01-working-compositions-2026-09-14`; concurrent Website `main` advanced independently to `4bb91292171e0d503d3a4e058ee421436221a793` during this pass and was not merged, reset, rebased or overwritten. Current `site/*` refs remain separate.
 
 **Next boundary:** Director reaction to the two representative compositions, especially shell-to-Stage depth, history prominence and whether the provisional supporting shell feels distinctively Kymaean enough. Iterate the APPUI assembly from that reaction without reopening frozen Stage/CHARART gates.
+
+## L-172 - Director fixes APPUI sequencing and co-equal Light/Dark shell around invariant dark Stage
+
+**State:** ACTIVE DIRECTOR SEQUENCING LAW / LIGHT + DARK CO-EQUAL / DARK STAGE INVARIANT / DECORATION DEFERRED
+
+`docs/evidence/APPUI_01_DIRECTOR_THEME_AND_SEQUENCE_DECISION_2026_09_15.json` records the Director reaction after Working Composition Pass 01. APPUI now targets one semantic Windows interface system with co-equal Light and Dark application themes; neither theme is a secondary adaptation. The Stage remains dark in both themes and `PKT-STAGE-CORE-02` remains unchanged.
+
+The active design sequence is explicit. First, complete and polish the functional UI architecture: durable scopes/navigation, information hierarchy, Stage adjacency, inspectors, causal history, commands, responsive behavior, semantic theme tokens, theme-aware functional iconography, typography/spacing, accessibility witnesses and functional empty/loading/error/unavailable states. Second, continue Stage/live-production rendering as the major visual program and the only separate visual-design program justified before the UI framework is sufficiently resolved. Third, after both the APPUI framework and Stage/live-production visual system are sufficiently stable, add secondary Kymaean ornament, expanded brand expression, decorative motion and other nonessential visual layers inside the proven interface framework.
+
+This sequencing does not move Design work into `Rylascoo/Ensemble-Project`. Design artifacts remain in `Rylascoo/Ensemble-Website` and authenticated Drive. Engineering `CURRENT_STATE.md` may be consulted read-only when product/runtime/architecture truth materially changes what the app must communicate. At this decision point Engineering `main` is `243dd7314cda1770878d555f04d4373199e29492` and remains in the E0 program; no app-UI implementation surface is inferred.
+
+**Next boundary:** construct APPUI Pass 02 as paired Light/Dark representative Windows screens using the same semantic layout/component system and the same dark Stage. Recursively audit hierarchy, clarity, accessibility/state distinction, theme parity and implementation usefulness before expanding ornamental visual language.
+
+**DIRECTOR THEME + SEQUENCING DECISION - ACTIVE.**

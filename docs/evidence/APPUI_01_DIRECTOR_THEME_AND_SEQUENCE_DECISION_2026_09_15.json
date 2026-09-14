@@ -1,0 +1,55 @@
+{
+  "schema": "kymaean.appui-director-sequencing-decision.v1",
+  "status": "DIRECTOR_DECISION_ACTIVE",
+  "date": "2026-09-15",
+  "program": "APPUI-01 - Windows 11 ARM64 Working App Visual Prototype",
+  "decision": {
+    "theme_model": "LIGHT_AND_DARK_COEQUAL",
+    "stage_theme_behavior": "INVARIANT_DARK_STAGE_IN_BOTH_APPLICATION_THEMES",
+    "design_residency": "APPUI design work remains in Rylascoo/Ensemble-Website and authenticated Drive; Rylascoo/Ensemble-Project is consulted read-only for architecture/product/runtime decisions that materially affect what the app must show.",
+    "sequencing": [
+      "Complete and polish the functional app UI architecture and layout.",
+      "Continue Stage/live-production rendering as the major parallel visual-design program.",
+      "After the UI framework and Stage/live-production visual system are resolved, add secondary app visual-design elements inside the established interface framework."
+    ],
+    "ui_architecture_includes": [
+      "Light/Dark semantic theme tokens",
+      "navigation and durable-scope hierarchy",
+      "layout and responsive behavior",
+      "information hierarchy",
+      "Stage adjacency",
+      "Character/state inspectors",
+      "causal-history placement",
+      "commands and control states",
+      "focus/selection/accessibility witnesses",
+      "functional theme-aware iconography",
+      "typography roles and spacing",
+      "empty/loading/error/unavailable states"
+    ],
+    "deferred_until_framework_is_stable": [
+      "ornamental visual systems",
+      "expanded brand decoration",
+      "nonessential identity embellishment",
+      "decorative motion",
+      "other visual programs not required for Stage or functional UI comprehension"
+    ]
+  },
+  "reasoning": [
+    "The Stage is the most visually complex and product-distinctive surface.",
+    "The remaining immediate design responsibility is to make the application architecture visually clean, intuitive and implementation-useful.",
+    "A single semantic UI system with Light/Dark values prevents duplicate theme-specific layouts and keeps functional meaning stable.",
+    "Keeping Stage dark in both themes preserves the current Stage authority and lets the light shell frame it as a theatrical chamber rather than forcing a second Stage art direction."
+  ],
+  "authority_boundaries": {
+    "stage": "PKT-STAGE-CORE-02 remains authoritative; this decision does not redesign its geometry or live-production semantics.",
+    "color": "No final CLR family or final palette is selected by this decision.",
+    "engineering": "No WinUI/XAML/runtime/package/Store implementation authority is created.",
+    "website": "Concurrent Website Sol publication work remains separate and untouched."
+  },
+  "engineering_truth_checked": {
+    "repository": "Rylascoo/Ensemble-Project",
+    "main": "243dd7314cda1770878d555f04d4373199e29492",
+    "observed_boundary": "E0-D remains blocked from live execution; no application UI implementation surface is opened by CURRENT_STATE.md."
+  },
+  "next": "Create APPUI Pass 02 as paired Light/Dark representative screens sharing one semantic system and the same dark Stage; recursively audit for hierarchy, clarity, accessibility/state distinction, theme parity and implementation usefulness before decorative expansion."
+}
