@@ -1,2 +1,3 @@
+# Preserve source-exact placeholder bytes; block automatic Web Analytics injection.
 /*
   Cache-Control: public, max-age=0, must-revalidate, no-transform
