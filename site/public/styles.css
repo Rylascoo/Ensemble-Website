@@ -75,9 +75,11 @@ body {
   transform: translate3d(var(--field-x), var(--field-y), 0);
   transition: transform 900ms cubic-bezier(.2,.65,.2,1);
   background:
-    radial-gradient(ellipse at var(--light-x) var(--light-y), rgba(218, 208, 190, 0.045) 0%, rgba(218, 208, 190, 0.012) 17%, transparent 38%),
-    radial-gradient(ellipse at 18% 24%, rgba(255,255,255,0.016) 0%, transparent 37%),
-    radial-gradient(ellipse at 78% 79%, rgba(154,108,68,0.018) 0%, transparent 30%),
+    radial-gradient(ellipse at var(--light-x) var(--light-y), rgba(218, 208, 190, 0.043) 0%, rgba(218, 208, 190, 0.011) 17%, transparent 38%),
+    linear-gradient(166deg, transparent 0 42%, rgba(226,218,202,0.007) 48%, transparent 54%),
+    linear-gradient(18deg, transparent 0 61%, rgba(154,108,68,0.009) 65%, transparent 69%),
+    radial-gradient(ellipse at 18% 24%, rgba(255,255,255,0.014) 0%, transparent 37%),
+    radial-gradient(ellipse at 78% 79%, rgba(154,108,68,0.014) 0%, transparent 30%),
     linear-gradient(148deg, #0c0e0f 0%, #090b0c 48%, #07090a 100%);
   animation: field-awaken 1800ms ease-out both;
 }
@@ -86,13 +88,14 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  opacity: 0.17;
+  opacity: 0.14;
   background-image:
-    repeating-radial-gradient(circle at 17% 29%, rgba(255,255,255,0.022) 0 0.45px, transparent 0.55px 3.4px),
-    repeating-radial-gradient(circle at 73% 61%, rgba(255,255,255,0.014) 0 0.45px, transparent 0.55px 4.8px);
-  background-size: 17px 19px, 29px 31px;
+    repeating-linear-gradient(171deg, transparent 0 23px, rgba(255,255,255,0.006) 24px, transparent 25px 49px),
+    repeating-radial-gradient(circle at 17% 29%, rgba(255,255,255,0.020) 0 0.45px, transparent 0.55px 3.4px),
+    repeating-radial-gradient(circle at 73% 61%, rgba(255,255,255,0.012) 0 0.45px, transparent 0.55px 4.8px);
+  background-size: auto, 17px 19px, 29px 31px;
   mix-blend-mode: soft-light;
-  animation: grain-drift 34s linear infinite alternate;
+  animation: grain-drift 72s linear infinite alternate;
 }
 
 .field::after {
@@ -112,15 +115,15 @@ body {
 
 .plane {
   border: 0;
-  opacity: 0.68;
+  opacity: 0.46;
   background:
-    radial-gradient(ellipse at 46% 35%, rgba(255,255,255,0.024), transparent 44%),
-    linear-gradient(160deg, rgba(28,31,31,0.72), rgba(11,13,14,0.9));
+    radial-gradient(ellipse at 46% 35%, rgba(255,255,255,0.020), transparent 46%),
+    linear-gradient(160deg, rgba(25,28,28,0.64), rgba(10,12,13,0.90));
   box-shadow:
-    inset 0 1px rgba(255,255,255,0.012),
-    0 0 8rem rgba(0,0,0,0.32);
-  filter: blur(0.22px);
-  animation: material-pressure 36s ease-in-out infinite alternate;
+    inset 0 1px rgba(255,255,255,0.010),
+    0 0 10rem rgba(0,0,0,0.20);
+  filter: blur(0.48px);
+  animation: material-settle 48s cubic-bezier(.2,.65,.2,1) 1.5s both;
 }
 
 .plane::after {
@@ -133,61 +136,63 @@ body {
 }
 
 .plane-a {
-  width: 48vw;
-  height: 132vh;
-  left: -24vw;
-  top: -14vh;
-  border-radius: 47% 53% 44% 56% / 18% 28% 72% 82%;
-  transform: rotate(7deg);
+  width: 56vw;
+  height: 138vh;
+  left: -32vw;
+  top: -18vh;
+  border-radius: 41% 59% 37% 63% / 16% 31% 69% 84%;
+  transform: rotate(6deg);
 }
 
 .plane-b {
-  width: 39vw;
-  height: 126vh;
-  right: -23vw;
-  top: -10vh;
-  border-radius: 61% 39% 46% 54% / 29% 19% 81% 71%;
-  transform: rotate(-6deg);
-  opacity: 0.56;
-  animation-duration: 43s;
+  width: 44vw;
+  height: 132vh;
+  right: -30vw;
+  top: -14vh;
+  border-radius: 66% 34% 43% 57% / 24% 17% 83% 76%;
+  transform: rotate(-5deg);
+  opacity: 0.38;
+  animation-duration: 57s;
 }
 
 .plane-c {
-  width: 92vw;
-  height: 47vh;
-  right: -25vw;
-  bottom: -25vh;
-  border-radius: 58% 42% 18% 82% / 52% 29% 71% 48%;
-  transform: rotate(-8deg);
-  opacity: 0.48;
+  width: 104vw;
+  height: 51vh;
+  right: -35vw;
+  bottom: -31vh;
+  border-radius: 61% 39% 16% 84% / 58% 25% 75% 42%;
+  transform: rotate(-7deg);
+  opacity: 0.32;
   background:
-    radial-gradient(ellipse at 40% 10%, rgba(255,255,255,0.018), transparent 46%),
-    linear-gradient(176deg, rgba(18,20,20,0.84), rgba(8,10,11,0.96));
-  animation-duration: 47s;
+    radial-gradient(ellipse at 40% 10%, rgba(255,255,255,0.015), transparent 48%),
+    linear-gradient(176deg, rgba(18,20,20,0.80), rgba(8,10,11,0.96));
+  animation-duration: 63s;
 }
 
 .plane-d {
-  width: 31vw;
-  height: 76vh;
-  left: 14vw;
-  bottom: -47vh;
-  border-radius: 43% 57% 49% 51% / 24% 46% 54% 76%;
-  transform: rotate(11deg);
-  opacity: 0.33;
-  animation-duration: 39s;
+  width: 38vw;
+  height: 82vh;
+  left: 5vw;
+  bottom: -54vh;
+  border-radius: 39% 61% 53% 47% / 21% 42% 58% 79%;
+  transform: rotate(9deg);
+  opacity: 0.24;
+  animation-duration: 54s;
 }
 
 .signal {
-  width: 1px;
-  height: 58vh;
-  top: 20vh;
-  right: 25vw;
-  opacity: 0.16;
-  background: linear-gradient(to bottom, transparent, rgba(154,108,68,0.8) 36%, rgba(154,108,68,0.34) 66%, transparent);
-  box-shadow: 0 0 1.5rem rgba(154,108,68,0.18);
-  transform: rotate(5deg);
+  width: 31vw;
+  height: 88vh;
+  top: 6vh;
+  right: 8vw;
+  opacity: 0.10;
+  background:
+    linear-gradient(101deg, transparent 0 47.8%, rgba(154,108,68,0.045) 49.1%, rgba(154,108,68,0.18) 49.9%, rgba(154,108,68,0.045) 50.8%, transparent 52.2%),
+    radial-gradient(ellipse at 50% 52%, rgba(154,108,68,0.025), transparent 64%);
+  filter: blur(0.35px);
+  transform: rotate(2.5deg);
   transform-origin: center;
-  animation: signal-breathe 14s ease-in-out infinite alternate;
+  animation: trace-settle 52s cubic-bezier(.2,.65,.2,1) 2.4s both;
 }
 
 .stage {
@@ -311,9 +316,9 @@ body {
   }
 }
 
-@keyframes material-pressure {
+@keyframes material-settle {
   from { translate: 0 0; }
-  to { translate: 0.32vw -0.24vh; }
+  to { translate: 0.18vw -0.12vh; }
 }
 
 @keyframes grain-drift {
@@ -321,9 +326,15 @@ body {
   to { transform: translate3d(0.2%, 0.12%, 0); }
 }
 
-@keyframes signal-breathe {
-  from { opacity: 0.09; }
-  to { opacity: 0.21; }
+@keyframes trace-settle {
+  from {
+    opacity: 0.035;
+    translate: 0.12vw 0.08vh;
+  }
+  to {
+    opacity: 0.10;
+    translate: 0 0;
+  }
 }
 
 @media (max-width: 720px) {
@@ -342,21 +353,22 @@ body {
   }
 
   .plane-c {
-    width: 128vw;
-    right: -53vw;
-    bottom: -24vh;
+    width: 132vw;
+    right: -58vw;
+    bottom: -31vh;
   }
 
   .plane-d {
-    width: 49vw;
-    left: 9vw;
+    width: 52vw;
+    left: 3vw;
   }
 
   .signal {
-    right: 17vw;
-    height: 54vh;
-    top: 23vh;
-    opacity: 0.13;
+    width: 46vw;
+    right: 9vw;
+    height: 72vh;
+    top: 14vh;
+    opacity: 0.08;
   }
 
   .brand-lockup {

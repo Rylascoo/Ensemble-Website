@@ -1,8 +1,8 @@
-<!-- D-R1-STATUS: ACTIVE EVIDENCE -->
+<!-- D-R1-STATUS: ACTIVE LAW -->
 
 # Kymaean Website Placeholder V2.1 — Atmospheric Finish 01
 
-Status: DIRECTOR-OPENED BOUNDED WEBSITE REFINEMENT / LOCAL PREFLIGHT PASS / CLOUDFLARE PREVIEW REVIEW NEXT / NOT FINAL BRAND FREEZE
+Status: DIRECTOR-OPENED BOUNDED WEBSITE REFINEMENT / SOURCE-GROUNDED ATMOSPHERIC REFINEMENT LOCALLY VALIDATED / CLOUDFLARE PREVIEW REFRESH NEXT / NOT FINAL BRAND FREEZE
 Date: 2026-09-14
 Workstream: WEB / SHARED BRAND
 PR: #65
@@ -57,13 +57,21 @@ Motion/accessibility:
 - at initial load, Threshold K and O3 begin hidden under the authored reveal sequence and resolve fully;
 - `prefers-reduced-motion: reduce`: mark animation `none`, field animation `none`, complete identity immediately visible;
 - `forced-colors: active`: atmospheric field computes to `display:none`; identity/message remain, with no horizontal overflow;
-- desktop pointer test moved the field from identity-neutral transform to approximately 2.25px × 1.61px while the Threshold K bounding box remained exactly 168×168 at the same x/y coordinates.
+- fresh fine-pointer regression moved the field from identity-neutral transform to 2.80px × 2.20px while the Threshold K bounding rectangle remained pixel-identical before and after.
 
 Finishing assets:
 
 - `favicon.svg`: exact Threshold K paths; tighter framing only; light/dark browser-chrome fill adaptation;
 - `apple-touch-icon.png`: 180×180 exact mark derivative;
 - `social-card.jpg`: 1200×630 secrecy-first share card using Threshold K, O3, and the approved tagline.
+
+## Recursive audit and source-grounded atmosphere refinement
+
+The post-preview recursive audit recovered and retained three interrupted corrections: this document now uses canonical `ACTIVE LAW`; `docs/INDEX.md` is regenerated; and `index.html` adds canonical URL, explicit JPEG Open Graph type, and Twitter image alt text.
+
+Fresh review of the authenticated Drive visual corpus plus current `Ensemble-Project` product/engineering authority confirmed that the placeholder should borrow atmospheric physics, not disclose app concepts. The field therefore changes only at the environmental layer: edge masses are less diagram-like, low-contrast strata/trace pressure replaces decorative geometry, the thin warm signal becomes a broad scarce discontinuity, and large material forms settle once toward a slightly changed equilibrium instead of endlessly oscillating. Threshold K, O3/KYMÆAN, all public copy, hierarchy, and product secrecy remain unchanged.
+
+Fresh CDP viewport checks pass at 390×844 and 320×640, including the 320×640 200% root-text approximation, with no horizontal overflow. Reduced motion computes decorative animations to `none`. Actual Edge high-contrast runtime confirms `forced-colors: active`, `.field` computes to `display:none`, system colors replace authored colors, and `scrollWidth == clientWidth`.
 
 ## Next boundary
 
