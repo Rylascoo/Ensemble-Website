@@ -7,10 +7,11 @@
   "branch": "design/appui01-working-compositions-2026-09-14",
   "baseline": "405c8d014300e8154f1cd5dc0e0c326d0498533a",
   "concurrency": {
-    "website_main_observed": "0ebd9ce278847269208ddf43fc482e0b1ca7165d",
     "appui_source_branch": "design/phase-c-completion-audit-2026-09-13",
     "website_stream_merged_or_rebased": false,
-    "site_streams_modified": false
+    "site_streams_modified": false,
+    "website_main_at_start": "0ebd9ce278847269208ddf43fc482e0b1ca7165d",
+    "website_main_at_closeout": "4bb91292171e0d503d3a4e058ee421436221a793"
   },
   "purpose": "Materialize the first representative real Windows desktop assembly around the frozen Stage so hierarchy, navigation, Stage adjacency, Character presence, inspector behavior and causal-history placement can be judged as compositions rather than abstract gates.",
   "governing_inputs": [
@@ -45,7 +46,10 @@
         "role": "COMPOSITION_A_LIVE_STAGE_WORKSPACE",
         "drive_file_id": "15GwAjdIiBYR5Dm8x809-J244CZfkqXLi",
         "file_name": "APPUI-01 Composition A — Live Stage Workspace.png",
-        "dimensions": [1600, 1000],
+        "dimensions": [
+          1600,
+          1000
+        ],
         "bytes": 742142,
         "sha256": "509b0db2f6a20ff52aad3541485072083bbd0462318eb56e2b631fef783ab504"
       },
@@ -53,7 +57,10 @@
         "role": "COMPOSITION_B_PRODUCTION_OVERVIEW",
         "drive_file_id": "19VS3DohkrULndXMdohjEC_1jH4BV6Wze",
         "file_name": "APPUI-01 Composition B — Production Overview.png",
-        "dimensions": [1600, 1000],
+        "dimensions": [
+          1600,
+          1000
+        ],
         "bytes": 289668,
         "sha256": "fe2cb6b2b3d5a012f112f544825bc539dfe0f27d3318108e00ec25d17356fc8d"
       }

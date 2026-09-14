@@ -2634,3 +2634,19 @@ APPUI-01 remains the active Windows 11 ARM64 screen-first Design stream. Website
 **Next boundary:** continue APPUI-01 by constructing substantial Windows desktop app screens. Do not take over Website Sol work and do not block APPUI merely because website `main` advances concurrently.
 
 **DIRECTOR CONCURRENCY CLARIFICATION - ACTIVE.**
+
+## L-171 - APPUI-01 working composition Pass 01 materializes the real Windows shell around frozen Stage
+
+**State:** WORKING PASS PRESERVED / NO FINAL APPUI SELECTION / DIRECTOR REACTION NEXT
+
+`docs/evidence/APPUI_01_WORKING_COMPOSITION_PASS_01_2026_09_14.json` records the first representative Windows desktop assembly after the Director's screen-first pivot. Two 1600x1000 compositions are preserved in authenticated Drive folder `1YxHR5B5AAeLBlWHbbLZmYVx27Qht2Ylo`: Live Stage Workspace SHA-256 `509b0db2f6a20ff52aad3541485072083bbd0462318eb56e2b631fef783ab504` and Production Overview SHA-256 `fe2cb6b2b3d5a012f112f544825bc539dfe0f27d3318108e00ec25d17356fc8d`.
+
+The pass preserves `PKT-STAGE-CORE-02` by using exact pixel crops from the frozen Stage master rather than redesigning Stage. The surrounding working shell concentrates identity at durable scope, keeps Stage dominant, uses a selected-Character inspector with sparse CPS-B-inspired distributed recognition cues, separates persistent selection from keyboard-focus witness, and places causal history adjacent to current work instead of making History a disconnected application.
+
+The first pixel audit found four deterministic composition defects: clipped inherited Stage text, overpacked causal-history content, awkward rail labels, and an undersized/letterboxed overview preview. All four were repaired before preservation; the final working pass is clean within static-composition scope.
+
+CLR remains unresolved. The cool low-chroma shell is provisional working evidence only; no final palette, typography, material, motion, navigation label, Character artwork or implementation authority is created. No WinUI/native accessibility, ARM64 performance, package/MSIX, WACK, Partner Center or Store claim is made.
+
+Concurrency remained isolated. APPUI work is on `design/appui01-working-compositions-2026-09-14`; concurrent Website `main` advanced independently to `4bb91292171e0d503d3a4e058ee421436221a793` during this pass and was not merged, reset, rebased or overwritten. Current `site/*` refs remain separate.
+
+**Next boundary:** Director reaction to the two representative compositions, especially shell-to-Stage depth, history prominence and whether the provisional supporting shell feels distinctively Kymaean enough. Iterate the APPUI assembly from that reaction without reopening frozen Stage/CHARART gates.

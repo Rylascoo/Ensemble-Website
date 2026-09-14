@@ -8,18 +8,18 @@ Updated: 2026-09-14
 Design: `Rylascoo/Ensemble-Website`; Engineering/Product: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap `AGENTS.md`; continuity `docs/DESIGN_CONTINUITY.md`; ledger `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / concurrent streams
-APPUI serial branch: `design/phase-c-completion-audit-2026-09-13`. At last reconciliation, Website `main` had advanced independently to `0ebd9ce278847269208ddf43fc482e0b1ca7165d` under a concurrent Website Sol. **Do not merge, reset, overwrite or retire concurrent website work merely to synchronize APPUI.** Fresh-resolve both streams before cross-stream operations. Coordination evidence SHA-256 `0e520b51b80065a5fbd74288946b42edee87917b2cc8538ad847f937310d38a1`.
+APPUI serial branch: `design/appui01-working-compositions-2026-09-14`, based from exact predecessor `405c8d014300e8154f1cd5dc0e0c326d0498533a`. Website `main` advanced independently during Pass 01 to `4bb91292171e0d503d3a4e058ee421436221a793` under concurrent Website Sol. **Do not merge, reset, overwrite or retire concurrent website work merely to synchronize APPUI.** Fresh-resolve both streams before cross-stream operations.
 
 ## Product target / Director correction
-Current app target: **Microsoft Windows 11 desktop on ARM64, intended for Microsoft Store distribution**. `APP_UI_DIRECTOR_ITERATIVE_DESIGN_PIVOT_2026_09_14.json` SHA-256 `4b21d11345aed8a049f95ae1b40115a3b9650fef32a554d7789765d61a34b9c3`. Human artwork is not prerequisite; CHARART-01 is **DIRECTOR-TERMINATED / NO MASTER ADOPTED / NO SCORING**.
+Current app target: **Microsoft Windows 11 desktop on ARM64, intended for Microsoft Store distribution**. Human artwork is not prerequisite; CHARART-01 is **DIRECTOR-TERMINATED / NO MASTER ADOPTED / NO SCORING**.
 
 ## Preserved law
-`CPS-01 - Canonical Character Presence System`: CPS-B Distributed Recognition Mesh is the canonical Phase C Character-presence architecture. `DUR-01 — Integrated Identity Durability`: **CLOSED / PASS_INTEGRATED_DURABILITY**. `APPICON-01 - Primary App Icon Design-Master Convergence`: **CLOSED / E06 SINGLE SURVIVOR**. `PKT-STAGE-CORE-02` remains exact Stage authority. CLR F2/F1 remains unselected; provisional color is allowed in working mockups. Phase C remains open.
+CPS-B Distributed Recognition Mesh remains canonical Character presence; DUR-01 remains **PASS_INTEGRATED_DURABILITY**; APPICON-01 E06 remains the current exact-C0 design-master envelope; `PKT-STAGE-CORE-02` remains exact Stage authority. CLR F2/F1 remains unselected; provisional color is allowed in working mockups. Phase C remains open.
 
 ## APPUI-01 active
-`APPUI-01 - Windows 11 ARM64 Working App Visual Prototype` is **ACTIVE / ITERATIVE / SCREEN-FIRST**. Build real desktop screens and refine the visual system through composition/use. Historical shell/navigation, information-relationship, task-first and APP-SYN documents are inputs, not gates to replay. Website/publication work is concurrently owned by Website Sol and is outside APPUI unless reconciliation is required.
+`APPUI-01 - Windows 11 ARM64 Working App Visual Prototype` is **ACTIVE / ITERATIVE / SCREEN-FIRST**. Working Composition Pass 01 is preserved in `docs/evidence/APPUI_01_WORKING_COMPOSITION_PASS_01_2026_09_14.json` and authenticated Drive folder `1YxHR5B5AAeLBlWHbbLZmYVx27Qht2Ylo`. It contains a Live Stage Workspace and Production Overview with Stage adjacency, selected Character inspection and causal-history placement. This is working evidence, not final APPUI authority.
 
 ## Exact next action
-Create a coherent Windows desktop visual pass spanning Production/Scene overview, live Stage workspace, selected Character/state inspector and Performance/causal-history adjacency. Prefer useful screens over new abstract convergence gates. Preserve Stage/CPS/app-icon law, accessibility intent, truthful semantics and Design/Engineering separation.
+Present Pass 01 for Director reaction, then iterate the representative Windows desktop assembly. Focus the reaction on shell-to-Stage depth/hierarchy, causal-history prominence and whether the provisional supporting shell feels distinctively Kymaean enough. Preserve frozen Stage/CPS/app-icon law, accessibility intent, truthful semantics and Design/Engineering separation.
 
-Fresh-chat handoff: `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md`.
+Fresh-chat handoff remains `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md`; repository state above supersedes stale checkpoint values inside that handoff.
