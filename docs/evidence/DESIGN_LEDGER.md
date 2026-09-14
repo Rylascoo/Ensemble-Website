@@ -2367,3 +2367,35 @@ The public surface remains intentionally limited to `KYMÆAN`, `Something is tak
 **Next boundary:** keep Placeholder V2 stable while the app remains unfinished; close the merged website source-branch lifecycle under archive-tag/strict-ancestor/zero-unique law. Any later public expansion requires a new authorized website/brand gate.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT AND DIRECTOR LIVE VERIFICATION.**
+
+## L-153 - Placeholder V2.1 atmosphere is source-grounded and locally revalidated; hosted review remains required
+
+**State:** V2.1 LOCAL REFINEMENT/AUDIT PASS / PR #65 REMAINS DRAFT / HOSTED PREVIEW REFRESH + DIRECTOR REVIEW NEXT / PRODUCTION UNCHANGED
+
+Director-approved V2.1 remains the secrecy-first successor candidate to live Placeholder V2. The visual identity and public language are unchanged: exact inherited Threshold K geometry, exact inherited O3/KYMÆAN geometry, `Something is taking shape.`, and `In development`. No product concept, app terminology, Stage screenshot, Character imagery, navigation, feature claim, or final-brand authority is added.
+
+A fresh source review across authenticated Drive and current `Rylascoo/Ensemble-Project` reinforced the same design boundary: use current Kymaean work as atmospheric physics rather than disclosure. The field was therefore refined only at the environmental layer: large edge masses are less object/diagram-like, subtle strata/trace pressure is added, the former thin warm signal is broadened into a scarce discontinuity, and large material forms settle once toward a slightly changed equilibrium rather than endlessly oscillating. Identity remains fixed.
+
+The recursive audit recovered three interrupted local corrections from the failed prior chat and retained them exactly: V2.1 evidence D-R1 status corrected from invalid `ACTIVE EVIDENCE` to canonical `ACTIVE LAW`; `docs/INDEX.md` regenerated; and `site/public/index.html` gains canonical `https://www.kymaean.com/`, explicit `og:image:type=image/jpeg`, and Twitter image alt text.
+
+Fresh CDP viewport validation after the atmospheric refinement passes 390x844, 320x640, and 320x640 with 200% root-text approximation with `scrollWidth == clientWidth`. Reduced motion computes decorative animations to `none`. Fine-pointer testing moves only the field to 2.80px x 2.20px while Threshold K's bounding rectangle is pixel-identical before/after. Actual Edge high-contrast runtime confirms `forced-colors: active`, `.field` computes to `display:none`, system colors replace authored colors, and `scrollWidth == clientWidth`.
+
+This local result is not production approval. The branch must be committed/pushed, Cloudflare must produce the exact refreshed non-production deployment, and that deployed candidate must be reviewed on desktop/mobile for reveal sequence, long-dwell ambience, pointer restraint, favicon, reflow, reduced motion, and forced-colors/system-color behavior before merge.
+
+**Next boundary:** complete repository validation and recursive diff audit; push the exact clean candidate to draft PR #65; then inspect the refreshed Cloudflare non-production deployment. Do not merge or replace production before that hosted review is clean.
+
+## L-154 - Placeholder V2.1 refreshed Cloudflare preview passes hosted recursive review
+
+**State:** HOSTED PREVIEW PASS / CLEAN RECURSIVE AUDIT / STANDING DESIGN APPROVAL EARNED / PRODUCTION PROMOTION NEXT
+
+The exact public-site candidate from commit `ef436349d89a0b6f15ef42a41b66890a3e6cb9a1` is live on the PR #65 Cloudflare branch preview and was reviewed against the source-grounded V2.1 intent. All six deployable public assets (`index.html`, `styles.css`, `motion.js`, `favicon.svg`, `apple-touch-icon.png`, `social-card.jpg`) match the audited branch source; text assets differ only by Windows-worktree CRLF versus hosted LF where applicable.
+
+Hosted desktop 1440x900 and mobile 390x844 render cleanly with no horizontal overflow. The 320x640 200% root-text approximation reflows the tagline/status rather than clipping. Hosted reduced-motion exposes no decorative animations. Actual Edge forced-colors runtime reports `forced-colors: active`, hides `.field`, substitutes system colors, and preserves zero horizontal overflow.
+
+Fine-pointer testing on the hosted preview moves only atmospheric variables to 2.80px x 2.20px while the 168x168 Threshold K rectangle remains pixel-identical. The finite `material-settle` and `trace-settle` animations terminate after their one iteration; terminal long-dwell review remains visually balanced while only the intentionally minute grain drift continues indefinitely.
+
+No new product disclosure, app UI, Stage imagery, Character imagery, identity geometry, public copy, or final-brand authority is introduced. The earlier nonvisual audit defects are closed: canonical D-R1 status, regenerated index, canonical URL, explicit JPEG Open Graph type, Twitter image alt, and required ledger continuity are all present and validated.
+
+**Next boundary:** promote draft PR #65 to `main` using the exact reviewed source, then verify `www.kymaean.com` serves the promoted bytes before closing the serial branch lifecycle. Production must not be called complete until that live verification passes.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
