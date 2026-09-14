@@ -3,7 +3,7 @@
 # Kymaean Design Ledger
 
 Status: ACTIVE DURABLE CLOSURE / RE-DERIVATION LEDGER
-Updated: 2026-09-11
+Updated: 2026-09-14
 
 ## Purpose
 
@@ -2442,3 +2442,20 @@ No new renderer generation is authorized inside CPS-01. IMG-01 history is closed
 **Next boundary:** construct the deterministic CPS-A/B/C comparison carrier and complete mechanical/accessibility preflight before any architecture scoring or later artwork proposal.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN IMG-01 PRIOR-CONCORDANCE / CPS-01 SUCCESSOR-METHOD AUDIT.**
+
+## L-158 - CPS-01 deterministic carrier leaves B/C survivor choice pending Director adjudication
+
+**State:** CPS-01 MECHANICAL PREFLIGHT PASS / DESIGN SOL VIEW FROZEN / CPS-B + CPS-C SURVIVE / CPS-A TARGETED REFINEMENT / DIRECTOR B-C ADJUDICATION PENDING
+
+The deterministic grayscale/value-first carrier is frozen at `prototypes/cps-01/carrier.html` SHA-256 `28fb10f481345288b8dc1cb278caf60a804027b82a1a4fd7058ccdd9f04ea65e`. All three architectures use identical synthetic A/B/C identity, observable-state, authoritative-history and relational facts across the ten preregistered roles; no IMG-01 artwork, palette, Stage geometry, renderer output or product semantics entered construction.
+
+`docs/evidence/CPS_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json` SHA-256 `6cb91ac47baf957e15fe8fef6d8daa9cab5cadc9c97d22acf3fb4ee98b486275` freezes the repaired browser matrix. Normal 1440/320, 200% text 1440/320, forced-colors 1440/320 and reduced-motion 1440 all pass with zero unintended overflow, zero images/external resources/motion dependencies, no depiction in NO_IMAGE, at least two surviving structural signature segments in every aggressive crop, and exact APP↔WEB identity/signature continuity. Carrier defects were repaired before scoring; no candidate was tuned after preference exposure.
+`docs/evidence/CPS_01_DESIGN_SOL_ARCHITECTURE_EVALUATION_01.json` SHA-256 `b85fd86efc65bd74d1def8c2e9445f343257801c04cd3510de02eea222e19137` freezes the independent Design Sol view. CPS-B Distributed Recognition Mesh earns `ARCHITECTURE_SURVIVES` and is ranked first because redundant recognition remains recoverable without a central emblem or contextual dependency. CPS-C Context-Persistent Presence Scaffold earns `ARCHITECTURE_SURVIVES_WITH_USAGE_RESTRAINT`: context may expand relation/composition but may never substitute for or mutate canonical identity. CPS-A Nested Invariant Stack is `TARGETED_REFINEMENT_REQUIRED`; its centralized kernel becomes structurally too emblem/profile-icon-like at MICRO/COMPACT scale to earn survivor status in this consumed construction, but is not retroactively rejected or retuned.
+
+Two lawful survivors remain, so evidence no longer decides the consequential identity choice. Packet `PKT-CPS-01-01` SHA-256 `e3c12d607e370dd4304421082d29719a9a39a72f2c0906facb27d18279b4069f` is `DIRECTOR_ADJUDICATION_PENDING`; Design Sol's frozen recommendation is CPS-B, with CPS-C the lawful restrained alternate. No canonical CPS incumbent exists until the Director chooses B or C.
+
+Concurrent public-site/Cloudflare work from then-live `main` was merged into the serial Design branch at `a0d63d84696d3d3c7ed6ae1ed42f3f6c1605ba15` before this checkpoint. It changes no IMG-01/CPS-01/Stage/CLR result and is preserved rather than overwritten.
+
+**Guardrail:** no CPS-A same-gate rescue, new renderer generation, IMG reroll, CLR selection, Stage modification, Phase-D entry, native/runtime/production authority or ODR resolution is created.
+
+**Next boundary:** Director adjudication between CPS-B and CPS-C only. After that decision, record the selected canonical presence architecture and continue only through the next repository-defined CPS successor step.

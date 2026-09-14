@@ -1,0 +1,40 @@
+name: CPS-01 deterministic checkpoint
+
+on:
+  push:
+    paths:
+      - 'CURRENT_STATE.md'
+      - 'docs/HANDOFF_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_2026_09_13.md'
+      - 'docs/evidence/CPS_01_*.json'
+      - 'docs/evidence/DESIGN_LEDGER.md'
+      - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
+      - 'docs/evidence/packets/PKT_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_01.json'
+      - 'prototypes/cps-01/**'
+      - 'tools/cps01_browser_probe.mjs'
+      - 'tools/verify_cps01.py'
+      - '.github/workflows/cps01.yml'
+  pull_request:
+    paths:
+      - 'CURRENT_STATE.md'
+      - 'docs/HANDOFF_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_2026_09_13.md'
+      - 'docs/evidence/CPS_01_*.json'
+      - 'docs/evidence/DESIGN_LEDGER.md'
+      - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
+      - 'docs/evidence/packets/PKT_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_01.json'
+      - 'prototypes/cps-01/**'
+      - 'tools/cps01_browser_probe.mjs'
+      - 'tools/verify_cps01.py'
+      - '.github/workflows/cps01.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Verify CPS-01 frozen deterministic checkpoint
+        run: python3 tools/verify_cps01.py

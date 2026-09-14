@@ -141,6 +141,14 @@
       "status": "DIRECTOR_ADJUDICATION_PENDING",
       "current_contribution": "Current packet set is compatible with usage restraint; Stage-to-app-shell translation gap remains; CLR F2/F1 both survive and await Director contextual choice.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-CPS-01-01",
+      "path": "docs/evidence/packets/PKT_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_01.json",
+      "axis": "canonical Character identity/presence architecture",
+      "status": "DIRECTOR_ADJUDICATION_PENDING",
+      "current_contribution": "CPS-B and CPS-C survive; Design Sol ranks CPS-B first; CPS-A requires targeted refinement; no canonical architecture selected",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -158,7 +166,8 @@
     "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
     "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance.",
     "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized.",
-    "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence."
+    "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence.",
+    "CPS-01 deterministic architecture scoring leaves CPS-B and CPS-C as lawful survivors; CPS-B is Design Sol's first-ranked recommendation, but canonical Character-presence architecture remains unresolved pending Director B/C adjudication."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -181,7 +190,10 @@
     "active_whole_app_synthesis_preflight": "docs/evidence/APP_SYN_01_BROWSER_PREFLIGHT_01.json",
     "active_whole_app_synthesis_preflight_sha256": "5ee25acd4c339866b0941454ddc7e4eb6cc37843242492982e8fcdc84e0af1a4",
     "active_whole_app_synthesis_design_sol_view": "docs/evidence/APP_SYN_01_DESIGN_SOL_WHOLE_SYSTEM_VIEW_01.json",
-    "active_whole_app_synthesis_design_sol_view_sha256": "9d9bf2c84806d0666eedc3a984169277f1a8c9e6dfc4cf5fae9d47ee155820a0"
+    "active_whole_app_synthesis_design_sol_view_sha256": "9d9bf2c84806d0666eedc3a984169277f1a8c9e6dfc4cf5fae9d47ee155820a0",
+    "active_character_presence_program": "CPS-01",
+    "active_character_presence_status": "DIRECTOR_ADJUDICATION_PENDING_B_VS_C",
+    "active_character_presence_packet": "PKT-CPS-01-01"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

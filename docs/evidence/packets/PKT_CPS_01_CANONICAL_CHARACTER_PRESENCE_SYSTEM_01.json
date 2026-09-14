@@ -1,0 +1,121 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-CPS-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "DIRECTOR_ADJUDICATION_PENDING",
+  "date": "2026-09-14",
+  "gate_or_program": "CPS-01 — Canonical Character Presence System",
+  "design_axis": "canonical Character identity/presence architecture beneath optional depiction",
+  "bounded_question": "How can one persistent Character remain visually recoverable across scale, crop, context, accessibility reduction and optional depiction changes without one fixed portrait or image becoming identity authority?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "governing_method_or_contract": [
+      "docs/evidence/CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_METHOD_01.json"
+    ],
+    "method_sha256": "3069f468a0fb98964758154f82e126d7a4296a529b78885c90818235527d6dc4",
+    "img01_concordance": "docs/evidence/IMG_01_DIRECTOR_PRIOR_CONCORDANCE_01.json"
+  },
+  "controlled_inputs": [
+    "identical synthetic Characters A/B/C and signatures 1-3-2 / 2-1-3 / 3-2-1",
+    "identical observable S1/S2/S3 current-state labels",
+    "identical authoritative synthetic H1/H2/H3 history labels",
+    "A/B strongest relational focus while C remains fully specific",
+    "the ten frozen deterministic CPS-01 roles",
+    "neutral grayscale/value-first deterministic geometry and labels only"
+  ],
+  "excluded_variables": [
+    "CLR F2-versus-F1 adjudication or palette tokenization",
+    "final typeface, symbol, wordmark, material or motion selection",
+    "Stage pixel/geometry modification or reopening closed Stage gates",
+    "functional product-domain icon semantics",
+    "WinUI/runtime/provider architecture or application implementation",
+    "new renderer/image generation during CPS-01",
+    "Phase C exit by CPS-01 alone"
+  ],
+  "local_result": {
+    "summary": "Mechanical/accessibility preflight passes after neutral carrier repairs. Frozen-method Design Sol scoring leaves CPS-B and CPS-C as survivors; CPS-A requires targeted refinement. No canonical architecture is selected before Director adjudication.",
+    "survivors_or_closure": [
+      "CPS-B",
+      "CPS-C"
+    ],
+    "recommended_incumbent": "CPS-B — Design Sol recommendation pending Director adjudication",
+    "alternates": [
+      "CPS-C — lawful survivor with context-dependency restraint"
+    ],
+    "rejections": [],
+    "targeted_refinement_required": [
+      "CPS-A — centralized kernel creates structural emblem/avatar pressure at MICRO/COMPACT scale"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "Rank CPS-B first, CPS-C second, CPS-A third. Promote neither B nor C to canonical authority until the Director makes the consequential identity choice.",
+    "director_view_or_delegation": "PENDING — genuine consequential identity/taste decision remains between two lawful survivors.",
+    "resolution_mode": "DIRECTOR_ADJUDICATION_PENDING"
+  },
+  "evidence": {
+    "mechanical": [
+      "docs/evidence/CPS_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json",
+      "carrier sha256:28fb10f481345288b8dc1cb278caf60a804027b82a1a4fd7058ccdd9f04ea65e",
+      "browser probe sha256:a351cd302afa27365206af1338c00e463efffaa1dba16c8bb1d48d036b6ec8b2"
+    ],
+    "visual": [
+      "prototypes/cps-01/carrier.html — deterministic human-viewable architecture comparison surface"
+    ],
+    "accessibility": [
+      "normal 1440/320, 200% text 1440/320, forced-colors 1440/320, reduced-motion 1440; all zero unintended overflow"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "Director adjudication between CPS-B and CPS-C before any canonical CPS incumbent is recorded"
+    ],
+    "constrains": [
+      "future Character identity/presence system",
+      "later optional expressive depiction stress tests",
+      "APP/WEB Character translation"
+    ],
+    "must_not_be_confused_with": [
+      "final portrait/art family",
+      "CLR selection",
+      "Stage geometry",
+      "native implementation",
+      "product semantics"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "CPS-B redundancy must remain sparse and must not become an inventory of decorative marks.",
+    "CPS-C context may shape composition but must never substitute for or mutate canonical identity.",
+    "CPS-A has not been rejected outright; it simply does not survive this consumed comparison and cannot be repaired inside the same gate after scoring.",
+    "Any representative real-app conflict is new integration evidence and must open a bounded successor/refinement gate rather than rewrite CPS-01 history."
+  ],
+  "explicit_non_authority": [
+    "No canonical Character architecture selected before Director adjudication.",
+    "No final Character appearance, portrait system, generated artwork or renderer authorization.",
+    "No CLR choice, Stage modification, Phase-D entry, native/runtime/production authority or ODR resolution."
+  ],
+  "lawful_reentry_triggers": [
+    "Director B/C adjudication",
+    "new integration evidence after selection",
+    "direct contradiction",
+    "changed governing contract"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "prototypes/cps-01/carrier.html",
+      "docs/evidence/CPS_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json",
+      "docs/evidence/CPS_01_DESIGN_SOL_ARCHITECTURE_EVALUATION_01.json"
+    ],
+    "drive_visual_masters": [],
+    "director_review_surface": {
+      "entry_point": "prototypes/cps-01/carrier.html",
+      "what_to_review": "Compare CPS-B Distributed Recognition Mesh against CPS-C Context-Persistent Presence Scaffold across the same ten roles; judge which should become the canonical Phase C Character-presence architecture.",
+      "diagnostics_not_for_aesthetic_choice": "docs/evidence/CPS_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json"
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED_AS_CANONICAL_CPS_SELECTION_PENDING"
+  }
+}
