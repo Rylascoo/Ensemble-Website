@@ -6,22 +6,26 @@ on:
       - 'CURRENT_STATE.md'
       - 'docs/HANDOFF_DUR_01_INTEGRATED_IDENTITY_DURABILITY_2026_09_14.md'
       - 'docs/evidence/DUR_01_*'
+      - 'docs/evidence/packets/PKT_DUR_01_INTEGRATED_IDENTITY_DURABILITY_01.json'
       - 'docs/evidence/PHASE_C_POST_CPS_01_REENTRY_AUDIT_07.json'
       - 'docs/evidence/DESIGN_LEDGER.md'
       - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
       - 'prototypes/dur-01/**'
       - 'tools/verify_dur01.py'
+      - 'tools/dur01_browser_probe.mjs'
       - '.github/workflows/dur01.yml'
   pull_request:
     paths:
       - 'CURRENT_STATE.md'
       - 'docs/HANDOFF_DUR_01_INTEGRATED_IDENTITY_DURABILITY_2026_09_14.md'
       - 'docs/evidence/DUR_01_*'
+      - 'docs/evidence/packets/PKT_DUR_01_INTEGRATED_IDENTITY_DURABILITY_01.json'
       - 'docs/evidence/PHASE_C_POST_CPS_01_REENTRY_AUDIT_07.json'
       - 'docs/evidence/DESIGN_LEDGER.md'
       - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
       - 'prototypes/dur-01/**'
       - 'tools/verify_dur01.py'
+      - 'tools/dur01_browser_probe.mjs'
       - '.github/workflows/dur01.yml'
 
 permissions:

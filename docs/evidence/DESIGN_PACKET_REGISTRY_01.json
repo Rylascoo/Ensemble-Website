@@ -149,6 +149,14 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "Director-selected CPS-B Distributed Recognition Mesh is the canonical Phase C Character-presence architecture; CPS-C remains lawful non-selected evidence, CPS-A remains targeted-refinement-required; no production/runtime authority.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-DUR-01-01",
+      "path": "docs/evidence/packets/PKT_DUR_01_INTEGRATED_IDENTITY_DURABILITY_01.json",
+      "axis": "shared-identity reduction/accessibility durability",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "PASS_INTEGRATED_DURABILITY across the frozen deterministic reduction/accessibility matrix; source packet authority remains bounded and representative real-app assembly remains untested.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -195,9 +203,15 @@
     "active_character_presence_status": "DIRECTOR_SELECTED_CPS_B",
     "active_character_presence_packet": "PKT-CPS-01-01",
     "active_durability_program": "DUR-01",
-    "active_durability_status": "METHOD_FROZEN_PRE_CONSTRUCTION",
+    "active_durability_status": "PASS_INTEGRATED_DURABILITY_CLOSED",
     "active_durability_method": "docs/evidence/DUR_01_INTEGRATED_IDENTITY_DURABILITY_METHOD_01.json",
-    "active_durability_method_sha256": "7b82ddc895843f27e7ca8b0740b5108fa0b44f2a29507e129cf6aa14e9d8c308"
+    "active_durability_method_sha256": "7b82ddc895843f27e7ca8b0740b5108fa0b44f2a29507e129cf6aa14e9d8c308",
+    "active_durability_preflight": "docs/evidence/DUR_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "active_durability_preflight_sha256": "a2badbe6d761ac35986ccd3dfdc84dc795261b02e698330d9c5aaf4612147d4b",
+    "active_durability_evaluation": "docs/evidence/DUR_01_DESIGN_SOL_INTEGRATED_DURABILITY_EVALUATION_01.json",
+    "active_durability_evaluation_sha256": "8240e96ba6be9cc5295bc3fa18566489ed612d3e52e9ab283947eee7be61d9d3",
+    "active_durability_packet": "PKT-DUR-01-01",
+    "active_durability_packet_sha256": "c5851a420b71459f19d2fd5e53af47f0ae18b3d6b37a7b2c5e8858cf3b0e03f7"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

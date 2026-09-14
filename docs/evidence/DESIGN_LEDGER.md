@@ -2504,3 +2504,19 @@ CLR F2/F1 remains Director-deferred until representative real assembly; Stage an
 **Next boundary:** construct one neutral deterministic DUR-01 carrier from the frozen method, run and repair the full mechanical/accessibility matrix, then evaluate durability only after preflight is clean.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-162 - DUR-01 integrated identity durability closes PASS
+
+**State:** DUR-01 CLOSED / PASS_INTEGRATED_DURABILITY / POST-DUR PHASE-C REENTRY AUDIT NEXT
+
+`docs/evidence/DUR_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json` SHA-256 `a2badbe6d761ac35986ccd3dfdc84dc795261b02e698330d9c5aaf4612147d4b` freezes the repaired nine-mode matrix. Normal 1440/320, 200% text 1440/320, forced-colors 1440/320, reduced-motion 1440 and no-image 1440/320 all pass with zero unintended overflow; no images/background images/external resources are required; reduced-motion has zero remaining animation dependencies.
+
+The deterministic carrier is `prototypes/dur-01/carrier.html` SHA-256 `88384760873d44198cf94f1ac242eeaa8d30027b61f9760073ad40a3bffde971` and the browser probe is `tools/dur01_browser_probe.mjs` SHA-256 `06b440e91ea57a8231518595f67fe0bbbe59160c32bf8192866e48300a9e918d`. Exact C0/O3 source hashes and path counts are preserved, narrow layouts omit O3 in favor of semantic-name fallback, CPS-B retains all frozen signatures, STA F2 selection remains distinct from focus, and APP↔WEB preserves C0/CPS-B identity facts without copied composition.
+
+`docs/evidence/DUR_01_DESIGN_SOL_INTEGRATED_DURABILITY_EVALUATION_01.json` SHA-256 `8240e96ba6be9cc5295bc3fa18566489ed612d3e52e9ab283947eee7be61d9d3` freezes `PASS_INTEGRATED_DURABILITY` across all twelve preregistered dimensions with no new usage restriction beyond the frozen reduction law. Packet `PKT-DUR-01-01` SHA-256 `c5851a420b71459f19d2fd5e53af47f0ae18b3d6b37a7b2c5e8858cf3b0e03f7` is `FROZEN_LOCAL_RESULT`; it does not promote any source packet to final authority.
+
+CLR remains deferred; Stage and Stage-to-shell remain unchanged; no final typeface/symbol/wordmark/Character artwork, Phase-D entry, product semantics, ODR resolution, native/runtime/provider or production authority is created. Representative real-app assembly remains untested.
+
+**Next boundary:** run a fresh Phase-C post-DUR reentry audit before activating any successor program or claiming Phase-C completion.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN DUR-01 IN-LANE CLOSURE.**
