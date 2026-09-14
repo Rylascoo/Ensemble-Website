@@ -2412,3 +2412,17 @@ The Director Character/Image prior was read after mechanical preflight and befor
 **Guardrail:** these packets authorize only the three isolated first renders. They do not authorize refinement, rerolls, cross-family reference use, family selection, CLR choice, Stage modification, Phase-C exit, production assets, app/site implementation or runtime authority.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-156 - IMG-01 raw exemplar method-bound evaluation leaves F1 as sole current survivor
+
+**State:** IMG-01 RAW EXEMPLARS PRESERVED / METHOD-BOUND VIEW FROZEN / F1 SURVIVES WITH USAGE RESTRAINT / F2 TARGETED REFINEMENT REQUIRED / F3 REJECTED / DIRECTOR-PRIOR CONCORDANCE NEXT
+
+Three isolated first-render outputs were returned under the frozen IMG-01 renderer packets and preserved byte-for-byte in authenticated Drive before scoring. Exact provider IDs, SHA-256 hashes, byte sizes and 1672x941 dimensions are pinned in `docs/evidence/IMG_01_RAW_EXEMPLAR_METHOD_BOUND_EVALUATION_01.json`.
+
+Under the original frozen IMG-01 promotion floor only, IMG-F1 Authored Figurative Ensemble survives with usage restraint: it gives the strongest current human specificity and A/B relational legibility without copying Stage, but carries an explicit generic editorial/cinematic familiarity reservation and comparatively weak changed-present evidence. IMG-F2 Transforming Human Invariants does not currently survive because the renderer collapsed its defining transformable-invariant mechanism back toward conventional full-figure editorial illustration; any rescue requires a separately authorized successor/refinement gate rather than result-aware prompt retuning. IMG-F3 Grounded Residual Presence is rejected because its dominant sculptural field/material response outranks people and weakens human-causal attribution, triggering the preregistered environmental-spectacle failure pressure.
+
+This evaluation did not use the Director qualitative prior as a criterion, prompt repair or tie-break. Because that prior was already exposed before subjective scoring, the result is described as **method-bound**, not blind or independent. The next gate is a separate prior-concordance audit that may detect alignment or conflict but may not rewrite any IMG-01 score or criterion.
+
+**Guardrail:** no renderer reroll/refinement, final Character/image identity, CLR selection, Stage change, Phase-C exit, app/site implementation or production/runtime authority is created by this result.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN METHOD-BOUND IMG-01 EVALUATION.**

@@ -12,6 +12,7 @@ FAMILIES = ROOT / "docs/evidence/IMG_01_FROZEN_ART_DIRECTION_FAMILIES_01.json"
 PREFLIGHT = ROOT / "docs/evidence/IMG_01_REFERENCE_BOARD_MECHANICAL_PREFLIGHT_01.json"
 EXPOSURE = ROOT / "docs/evidence/IMG_01_DIRECTOR_PRIOR_EXPOSURE_AND_EVALUATION_QUARANTINE_01.json"
 PACKETS = ROOT / "docs/evidence/IMG_01_EXEMPLAR_RENDERER_PACKETS_01.json"
+EVALUATION = ROOT / "docs/evidence/IMG_01_RAW_EXEMPLAR_METHOD_BOUND_EVALUATION_01.json"
 CARRIER = ROOT / "prototypes/img-01/reference-board.html"
 PROBE = ROOT / "tools/img01_reference_board_probe.mjs"
 CURRENT = ROOT / "CURRENT_STATE.md"
@@ -23,6 +24,7 @@ FAMILIES_SHA = "13513408875a6f4f6ba8be8e5aaead83bf616d38cb821f36291e82d2f79e8207
 PREFLIGHT_SHA = "3dc93454fe9caa2962e87c193dfac68e9db197bdf6925fa79f48dd2ee702d575"
 EXPOSURE_SHA = "be4b7063c8c76174e90898d7c32073af7341a338218c94b0906364f2a543743a"
 PACKETS_SHA = "7b861b38acec500013c62ed2284d3c7eb0e0db42b3254483590a98a302cd5b33"
+EVALUATION_SHA = "f17a98b1b64ac7ea471f356912c88c547027bc20381c2bab8796b5addeb05257"
 CARRIER_SHA = "879816826a7e1b7d9afe8bfd514f875f2cc148e698f6421046d995079456a4a0"
 PROBE_SHA = "f500b7d1d157f60b90e73b719db73a89c5c638ea52c01d75bb3b6de1681d3ed3"
 
@@ -59,6 +61,7 @@ def main():
     preflight = load(PREFLIGHT)
     exposure = load(EXPOSURE)
     packets = load(PACKETS)
+    evaluation = load(EVALUATION)
     current = CURRENT.read_text(encoding="utf-8")
     ledger = LEDGER.read_text(encoding="utf-8")
 
@@ -171,6 +174,23 @@ def main():
 
     if packets.get("status") != "FROZEN_EXTERNAL_ISOLATED_EXECUTION_READY_NO_RENDER_RESULT":
         fail("renderer packet status")
+    if evaluation.get("status") != "DESIGN_SOL_METHOD_BOUND_VIEW_FROZEN_BEFORE_DIRECTOR_PRIOR_CONCORDANCE":
+        fail("method-bound evaluation status")
+    raw=evaluation.get("raw_outputs", [])
+    if [x.get("family") for x in raw] != ["IMG-F1","IMG-F2","IMG-F3"]:
+        fail("raw exemplar family order")
+    expected_ids=["1Howv8ATwZ1fCbuJ5EPTv_TQZxJv2gWvr","1GB8_eQ08cKKJsd7rj-eyqDI3OyBjHfOJ","117XdfJLTGPlH6q3Ihxygbztg3hrqO8zG"]
+    if [x.get("drive_file_id") for x in raw] != expected_ids:
+        fail("raw exemplar Drive ids")
+    if not all(x.get("width")==1672 and x.get("height")==941 for x in raw):
+        fail("raw exemplar dimensions")
+    results={x.get("family"):x.get("result_class") for x in evaluation.get("family_results", [])}
+    if results != {"IMG-F1":"FAMILY_SURVIVES_WITH_USAGE_RESTRAINT","IMG-F2":"TARGETED_REFINEMENT_REQUIRED","IMG-F3":"FAMILY_REJECTED_GENERIC_OR_SEMANTICALLY_WEAK"}:
+        fail("method-bound family results")
+    if evaluation.get("comparative_conclusion",{}).get("current_survivors") != ["IMG-F1"]:
+        fail("method-bound survivor set")
+    if evaluation.get("director_prior_disposition",{}).get("used_in_this_evaluation") is not False:
+        fail("Director prior contamination")
     if packets.get("execution_protocol", {}).get("images_per_context") != 1:
         fail("renderer packet image count")
     if packets.get("execution_protocol", {}).get("drive_destination_folder_id") != "1FdfoCY4pjsTRs3AuCUczDrHbq3rj-p40":
@@ -201,22 +221,24 @@ def main():
         fail("renderer packet parity/prior audit")
     if pa.get("subjective_family_scoring_started") is not False or pa.get("new_visual_generation_consumed") is not False:
         fail("renderer packet pre-execution boundary")
-    for token in ("IMG-01", AUDIT.relative_to(ROOT).as_posix(), AUDIT_SHA, METHOD_SHA, STAGE0_SHA, FAMILIES_SHA,
-                  PREFLIGHT.relative_to(ROOT).as_posix(), PREFLIGHT_SHA, EXPOSURE.relative_to(ROOT).as_posix(), EXPOSURE_SHA,
-                  PACKETS.relative_to(ROOT).as_posix(), PACKETS_SHA,
-                  "MECHANICAL PREFLIGHT PASS", "ALL 3 FAMILIES SURVIVE", "DIRECTOR PRIOR EXPOSED PRE-SCORING",
-                  "RENDERER PACKETS FROZEN", "EXTERNAL ISOLATED FIRST-RENDER EXECUTION NEXT", "NO SUBJECTIVE RANKING", "ZERO RENDERS"):
+    for token in ("IMG-01", AUDIT.relative_to(ROOT).as_posix(), AUDIT_SHA, METHOD_SHA, FAMILIES_SHA,
+                  EXPOSURE_SHA, PACKETS.relative_to(ROOT).as_posix(), PACKETS_SHA,
+                  EVALUATION.relative_to(ROOT).as_posix(), EVALUATION_SHA,
+                  "RAW EXEMPLARS PRESERVED + METHOD-BOUND VIEW FROZEN", "F1 SOLE CURRENT SURVIVOR WITH USAGE RESTRAINT",
+                  "F2 TARGETED REFINEMENT REQUIRED", "F3 REJECTED", "DIRECTOR-PRIOR CONCORDANCE NEXT", "NO FINAL IDENTITY"):
         if token not in current:
             fail(f"CURRENT_STATE missing {token}")
     if "L-154 - IMG-01 mechanical preflight passes; Director prior exposure is quarantined before scoring" not in ledger:
         fail("ledger L-154 missing")
     if "L-155 - IMG-01 sterile renderer packets are frozen for three isolated first outputs" not in ledger:
         fail("ledger L-155 missing")
+    if "L-156 - IMG-01 raw exemplar method-bound evaluation leaves F1 as sole current survivor" not in ledger:
+        fail("ledger L-156 missing")
     bad = [ord(c) for c in ledger if ord(c) < 32 and c not in "\n\r\t"]
     if bad:
         fail(f"ledger control characters: {bad}")
 
-    print("IMG_01_RENDERER_PACKETS=PASS")
+    print("IMG_01_METHOD_BOUND_EVALUATION=PASS")
     print(f"AUDIT_SHA256={AUDIT_SHA}")
     print(f"METHOD_SHA256={METHOD_SHA}")
     print(f"STAGE0_SHA256={STAGE0_SHA}")
@@ -224,7 +246,8 @@ def main():
     print(f"PREFLIGHT_SHA256={PREFLIGHT_SHA}")
     print(f"EXPOSURE_SHA256={EXPOSURE_SHA}")
     print(f"PACKETS_SHA256={PACKETS_SHA}")
-    print("FAMILIES=3 PAIRWISE_DIVERGENCE=6/7/6 MODES=5 DRIVE_MASTERS=5 PACKETS=3 RENDERS=0")
+    print(f"EVALUATION_SHA256={EVALUATION_SHA}")
+    print("FAMILIES=3 RAW_EXEMPLARS=3 CURRENT_SURVIVORS=IMG-F1 F2=TARGETED_REFINEMENT_REQUIRED F3=REJECTED")
     return 0
 
 if __name__ == "__main__":
