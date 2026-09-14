@@ -249,7 +249,10 @@
     "active_app_ui_program": "APPUI-01",
     "active_app_ui_status": "ITERATIVE_WINDOWS11_ARM64_SCREEN_FIRST",
     "active_app_ui_platform": "Microsoft Windows 11 desktop / ARM64 / Microsoft Store distribution intent",
-    "active_app_ui_handoff": "docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_2026_09_14.md"
+    "active_app_ui_handoff": "docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md",
+    "active_app_ui_concurrent_website_coordination": "docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json",
+    "active_app_ui_concurrent_website_coordination_sha256": "0e520b51b80065a5fbd74288946b42edee87917b2cc8538ad847f937310d38a1",
+    "active_app_ui_concurrency_status": "APPUI_AND_WEBSITE_SOL_SEPARATE_LIVE_STREAMS"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

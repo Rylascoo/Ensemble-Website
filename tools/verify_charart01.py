@@ -10,21 +10,25 @@ P={
  'CUR':R/'CURRENT_STATE.md','LED':R/'docs/evidence/DESIGN_LEDGER.md',
  'HAND':R/'docs/HANDOFF_CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_2026_09_14.md',
  'PIV':R/'docs/evidence/APP_UI_DIRECTOR_ITERATIVE_DESIGN_PIVOT_2026_09_14.json',
- 'NEW_HAND':R/'docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_2026_09_14.md',
+ 'OLD_APP_HAND':R/'docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_2026_09_14.md',
+ 'NEW_HAND':R/'docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md',
+ 'COORD':R/'docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json',
  'ATTR':R/'.gitattributes'}
-H={'AUD':'fe16dba8eb40664533de5af833f94f1fefc1ba5ef94b4c9bdee9e98524808ab0','METHOD':'83743369365323eae9635c7eadb729e553eda4bda8a1c948c25058ba5d9bd161','RENDER':'29008eb467d450e0b6ce420c34311a61e3b18394636524e6ede4fff747df6afb','PIV':'4b21d11345aed8a049f95ae1b40115a3b9650fef32a554d7789765d61a34b9c3'}
+H={'AUD':'fe16dba8eb40664533de5af833f94f1fefc1ba5ef94b4c9bdee9e98524808ab0','METHOD':'83743369365323eae9635c7eadb729e553eda4bda8a1c948c25058ba5d9bd161','RENDER':'29008eb467d450e0b6ce420c34311a61e3b18394636524e6ede4fff747df6afb','PIV':'4b21d11345aed8a049f95ae1b40115a3b9650fef32a554d7789765d61a34b9c3','COORD':'0e520b51b80065a5fbd74288946b42edee87917b2cc8538ad847f937310d38a1'}
 DRIVE='16mixyRAIXVjLbY7vQVfaew_9Kim628vy'
 def b(p): return p.read_bytes().replace(b'\r\n',b'\n')
 def sha(p): return hashlib.sha256(b(p)).hexdigest()
 def load(p): return json.loads(p.read_text(encoding='utf-8'))
 def fail(x): raise AssertionError(x)
 def main():
- for k in ['AUD','METHOD','RENDER','PIV']:
+ for k in ['AUD','METHOD','RENDER','PIV','COORD']:
   if not P[k].exists(): fail(f'missing {P[k].relative_to(R)}')
   got=sha(P[k])
   if got!=H[k]: fail(f'{k} hash mismatch {got}')
- aud,method,render,reg,piv=[load(P[k]) for k in ['AUD','METHOD','RENDER','REG','PIV']]
+ aud,method,render,reg,piv,coord=[load(P[k]) for k in ['AUD','METHOD','RENDER','REG','PIV','COORD']]
  if piv.get('status')!='DIRECTOR_SEQUENCING_CORRECTION_ACTIVE': fail('pivot status')
+ if coord.get('status')!='ACTIVE_CONCURRENT_STREAM_COORDINATION': fail('coordination status')
+ if coord.get('stream_ownership',{}).get('website_stream',{}).get('owner_role')!='concurrent Website Sol': fail('coordination website owner')
  pt=piv.get('platform_target',{})
  if pt.get('os')!='Microsoft Windows 11' or pt.get('architecture')!='ARM64' or pt.get('distribution_intent')!='Microsoft Store': fail('pivot platform')
  cd=piv.get('charart_disposition',{})
@@ -62,22 +66,24 @@ def main():
   if iso.get(k) is not False: fail(f'isolation {k}')
  if 'fresh regular non-project image-generation chat' not in iso.get('execution_context',''): fail('execution isolation context')
  sp=reg.get('synthesis_policy',{})
- checks={'latest_reentry_audit_sha256':H['AUD'],'active_charart_program':'CHARART-01','active_charart_status':'DIRECTOR_TERMINATED_AFTER_VALID_OUTPUT_NO_MASTER_ADOPTED','active_charart_method_sha256':H['METHOD'],'active_charart_renderer_packet_sha256':H['RENDER'],'active_charart_drive_folder_id':DRIVE,'active_charart_director_gate':'CLOSED_NO_MASTER','active_charart_output_sha256':'4b793a5bf265d932e581d5b34fd05fa9ed132c3b6d0b2623a26a3c7b3363d6ba','latest_director_sequencing_correction_sha256':H['PIV'],'active_app_ui_program':'APPUI-01','active_app_ui_status':'ITERATIVE_WINDOWS11_ARM64_SCREEN_FIRST'}
+ checks={'latest_reentry_audit_sha256':H['AUD'],'active_charart_program':'CHARART-01','active_charart_status':'DIRECTOR_TERMINATED_AFTER_VALID_OUTPUT_NO_MASTER_ADOPTED','active_charart_method_sha256':H['METHOD'],'active_charart_renderer_packet_sha256':H['RENDER'],'active_charart_drive_folder_id':DRIVE,'active_charart_director_gate':'CLOSED_NO_MASTER','active_charart_output_sha256':'4b793a5bf265d932e581d5b34fd05fa9ed132c3b6d0b2623a26a3c7b3363d6ba','latest_director_sequencing_correction_sha256':H['PIV'],'active_app_ui_program':'APPUI-01','active_app_ui_status':'ITERATIVE_WINDOWS11_ARM64_SCREEN_FIRST','active_app_ui_handoff':'docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md','active_app_ui_concurrent_website_coordination':'docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json','active_app_ui_concurrent_website_coordination_sha256':H['COORD'],'active_app_ui_concurrency_status':'APPUI_AND_WEBSITE_SOL_SEPARATE_LIVE_STREAMS'}
  for k,w in checks.items():
   if sp.get(k)!=w: fail(f'registry {k}')
  cur=P['CUR'].read_text(encoding='utf-8'); led=P['LED'].read_text(encoding='utf-8'); hand=P['HAND'].read_text(encoding='utf-8')
- for token in ['APPUI-01 - Windows 11 ARM64 Working App Visual Prototype','Microsoft Windows 11 desktop on ARM64','DIRECTOR-TERMINATED / NO MASTER ADOPTED / NO SCORING',H['PIV']]:
+ for token in ['APPUI-01 - Windows 11 ARM64 Working App Visual Prototype','Microsoft Windows 11 desktop on ARM64','DIRECTOR-TERMINATED / NO MASTER ADOPTED / NO SCORING',H['PIV'],H['COORD'],'concurrent Website Sol']:
   if token not in cur: fail(f'CURRENT_STATE missing {token}')
  if len(P['CUR'].read_bytes())>3072: fail('CURRENT_STATE exceeds 3 KiB')
- for token in ['## L-166 - Post-APPICON reentry activates CHARART-01',H['AUD'],H['METHOD'],H['RENDER'],DRIVE,'## L-169 - Director pivots Phase C from human-art gating to iterative Windows app-screen design',H['PIV'],'APPUI-01']:
+ for token in ['## L-166 - Post-APPICON reentry activates CHARART-01',H['AUD'],H['METHOD'],H['RENDER'],DRIVE,'## L-169 - Director pivots Phase C from human-art gating to iterative Windows app-screen design',H['PIV'],'APPUI-01','## L-170 - APPUI-01 handoff records concurrent Website Sol stream',H['COORD']]:
   if token not in led: fail(f'ledger missing {token}')
- new_hand=P['NEW_HAND'].read_text(encoding='utf-8')
+ old_app_hand=P['OLD_APP_HAND'].read_text(encoding='utf-8'); new_hand=P['NEW_HAND'].read_text(encoding='utf-8')
  for token in ['D-R1-STATUS: SUPERSEDED','Superseded by `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_2026_09_14.md`',H['AUD'],H['METHOD'],H['RENDER']]:
   if token not in hand: fail(f'old handoff missing {token}')
- for token in ['APPUI-01 Fresh-Chat Handoff','Microsoft Windows 11 desktop app on ARM64 intended for the Microsoft Store',H['PIV'],'CHARART-01 is Director-terminated']:
+ for token in ['D-R1-STATUS: SUPERSEDED','HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md']:
+  if token not in old_app_hand: fail(f'old APPUI handoff missing {token}')
+ for token in ['APPUI-01 Fresh-Chat Handoff with Concurrent Website Sol','Microsoft Windows 11 desktop app on ARM64 intended for Microsoft Store distribution',H['COORD'],'separate workstreams','Do not merge/rebase/reset/delete/overwrite Website Sol work']:
   if token not in new_hand: fail(f'new handoff missing {token}')
  attrs=P['ATTR'].read_text(encoding='utf-8')
- for rel in ['docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json','docs/evidence/CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_METHOD_01.json','docs/evidence/CHARART_01_ISOLATED_RENDERER_PACKET_01.json','docs/evidence/APP_UI_DIRECTOR_ITERATIVE_DESIGN_PIVOT_2026_09_14.json']:
+ for rel in ['docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json','docs/evidence/CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_METHOD_01.json','docs/evidence/CHARART_01_ISOLATED_RENDERER_PACKET_01.json','docs/evidence/APP_UI_DIRECTOR_ITERATIVE_DESIGN_PIVOT_2026_09_14.json','docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json']:
   if f'{rel} text eol=lf' not in attrs: fail(f'LF policy missing {rel}')
  for p in P.values():
   if not p.exists(): fail(f'missing {p.relative_to(R)}')

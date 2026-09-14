@@ -1,0 +1,40 @@
+{
+  "schema": "kymaean.appui-concurrent-website-stream-coordination.v1",
+  "status": "ACTIVE_CONCURRENT_STREAM_COORDINATION",
+  "date": "2026-09-14",
+  "observed_refs": {
+    "appui_design_branch": "design/phase-c-completion-audit-2026-09-13",
+    "appui_head_before_coordination": "5ec8d6de728f588b861eccadbd8ff7019aa63fdc",
+    "website_main": "0ebd9ce278847269208ddf43fc482e0b1ca7165d",
+    "engineering_main": "57ec145c09e701e5d62907ae75046f38b5cbe285",
+    "main_unique_vs_appui_at_observation": 4,
+    "appui_unique_vs_main_at_observation": 19
+  },
+  "director_context": [
+    "A separate Website Sol is concurrently working on the website/public-site portion of Rylascoo/Ensemble-Website.",
+    "APPUI-01 remains the active Windows 11 ARM64 app visual-design stream.",
+    "Concurrent website progress is not an APPUI defect and must not be merged, overwritten, reverted, or reinterpreted merely to make refs look synchronized."
+  ],
+  "stream_ownership": {
+    "appui_stream": {
+      "scope": "Windows 11 ARM64 app visual prototype, app-facing design continuity, and related Design evidence.",
+      "current_branch_hint": "design/phase-c-completion-audit-2026-09-13",
+      "owner_role": "Design Sol / APPUI fresh-chat successor"
+    },
+    "website_stream": {
+      "scope": "public website, site/**, Cloudflare/publication integrity, and website-specific continuity.",
+      "owner_role": "concurrent Website Sol",
+      "recovery": "Fresh-resolve main and live site/* refs; do not assume this record names Website Sol current branch after creation."
+    }
+  },
+  "coordination_law": [
+    "One writer per worktree/branch. Do not edit the Website Sol worktree or branch from APPUI work.",
+    "Before any merge/rebase/cherry-pick touching concurrent website history, fetch/prune and compare exact refs and unique commits.",
+    "Do not force-rebase, reset, delete, or overwrite a branch with unique commits.",
+    "APPUI may read current website/main authority when relevant, but website-only movement does not block app-screen design.",
+    "If a shared continuity file conflicts, reconcile as a factual union of both streams; do not silently choose one stream over the other.",
+    "Fresh chats must re-resolve refs because either stream may advance after this checkpoint."
+  ],
+  "appui_exact_next_action": "Create substantial Windows 11 desktop APPUI-01 screen compositions for Production/Scene overview, live Stage workspace, selected Character/state inspector, and Performance/causal-history adjacency; iterate visually with the Director.",
+  "website_non_interference": "Do not take over website/publication work unless the Director explicitly asks or cross-stream reconciliation is required."
+}

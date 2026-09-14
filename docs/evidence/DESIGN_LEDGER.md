@@ -2622,3 +2622,15 @@ The active Design program is now `APPUI-01 - Windows 11 ARM64 Working App Visual
 **Next boundary:** create substantial Windows desktop screen compositions for Production/Scene overview, live Stage workspace, selected Character/state inspection and Performance/history adjacency; iterate from Director reaction and actual composition rather than returning to abstract convergence-first sequencing.
 
 **DIRECTOR SEQUENCING CORRECTION - ACTIVE.**
+
+## L-170 - APPUI-01 handoff records concurrent Website Sol stream
+
+**State:** APPUI-01 ACTIVE / WEBSITE SOL CONCURRENT / STREAMS SEPARATE / FRESH-REF RECONCILIATION REQUIRED
+
+`docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json` SHA-256 `0e520b51b80065a5fbd74288946b42edee87917b2cc8538ad847f937310d38a1` records the Director clarification that another Website Sol is concurrently working on website/publication scope in the same repository. At capture, APPUI branch `design/phase-c-completion-audit-2026-09-13` was `5ec8d6de728f588b861eccadbd8ff7019aa63fdc`, Website `main` was `0ebd9ce278847269208ddf43fc482e0b1ca7165d`, and Engineering `main` was `57ec145c09e701e5d62907ae75046f38b5cbe285`. The branch divergence is expected concurrent work, not a defect to erase.
+
+APPUI-01 remains the active Windows 11 ARM64 screen-first Design stream. Website/publication work remains with Website Sol. Each successor must fresh-resolve refs and preserve unique commits; no force-rebase/reset/delete/overwrite or convenience merge is authorized. Shared continuity conflicts, if any, must be reconciled as a factual union only when cross-stream integration is actually needed.
+
+**Next boundary:** continue APPUI-01 by constructing substantial Windows desktop app screens. Do not take over Website Sol work and do not block APPUI merely because website `main` advances concurrently.
+
+**DIRECTOR CONCURRENCY CLARIFICATION - ACTIVE.**
