@@ -2399,3 +2399,29 @@ No new product disclosure, app UI, Stage imagery, Character imagery, identity ge
 **Next boundary:** promote draft PR #65 to `main` using the exact reviewed source, then verify `www.kymaean.com` serves the promoted bytes before closing the serial branch lifecycle. Production must not be called complete until that live verification passes.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-155 - V2.1 production verification finds Cloudflare analytics injection; no-analytics integrity repair opens
+
+**State:** PR #65 PROMOTED / SOURCE LIFECYCLE CLOSED / PRODUCTION VERIFICATION BLOCKED / NO-ANALYTICS REPAIR ACTIVE
+
+PR #65 merged the clean hosted V2.1 candidate to `main@5d698484bfb8a8b65b4b9acc429cf3713a522f9b`. Exact source `fc397989bee4c67df5feeae6162548bab327cbaf` is preserved at `archive/site/placeholder-v2-1-atmospheric-finish-2026-09-14`; strict-ancestor and zero-unique proof passed before remote source-branch retirement.
+
+Live `www.kymaean.com` immediately served the promoted V2.1 marker and all five non-HTML public assets matched audited source. `index.html` differed only by an automatically injected Cloudflare Web Analytics `beacon.min.js` script before `</body>`. Because V2.1 explicitly forbids analytics, this is a deployment-boundary defect even though the rendered design remains approved.
+
+The narrow repair is source-controlled: `site/public/_headers` preserves Workers Static Assets' existing `public, max-age=0, must-revalidate` cache behavior and adds only `no-transform`, which Cloudflare documents as preventing automatic Web Analytics HTML injection. No visual source, identity geometry, public copy, DNS, mail, app, Stage, CLR, or final-brand authority changes.
+
+**Next boundary:** validate the `_headers` policy on the production-integrity branch, promote it only after repository and preview checks pass, then repeat exact live-byte and visual/accessibility verification. Production closure remains blocked until `www.kymaean.com` serves source-exact HTML without the beacon.
+
+## L-156 - V2.1 no-analytics integrity repair passes isolated Workers preview
+
+**State:** PR #66 REPAIR PREVIEW PASS / REPOSITORY CHECKS PASS / EXACT-HEAD PRODUCTION PROMOTION NEXT
+
+The source-controlled `_headers` repair on PR #66 head `39ccf73e93e78908bd2bc98eb3f11be13a72c98a` was validated through an isolated Cloudflare Workers temporary account after the normal GitHub integration did not surface a branch-preview URL. The deployment consumed seven Static Assets inputs while publishing only the six public assets, confirming `_headers` is interpreted as response-header configuration rather than exposed content.
+
+The temporary preview returned HTTP 200 and exactly `Cache-Control: public, max-age=0, must-revalidate, no-transform`; its HTML retained the canonical V2.1 marker and contained no `cloudflareinsights.com` or `beacon.min.js` injection. The local throwaway Wrangler config used only to enable `workers.dev` in the temporary account was deleted immediately afterward and never entered repository state.
+
+Both hosted repository workflows pass on the exact PR #66 head. No visual/public payload, identity geometry, copy, DNS, mail, app, Stage, CLR, or final-brand authority changes.
+
+**Next boundary:** promote PR #66 using an exact-head guard, then verify `www.kymaean.com` returns source-exact HTML without the analytics beacon and repeats the already-approved production responsive/accessibility invariants before declaring V2.1 complete.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN NON-PRODUCTION INTEGRITY REPAIR AUDIT.**
