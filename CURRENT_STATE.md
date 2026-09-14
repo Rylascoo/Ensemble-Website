@@ -2,19 +2,21 @@
 
 # Ensemble Website - Current State
 
-Updated: 2026-09-13
+Updated: 2026-09-14
 
 ## Authority
 Design: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
-## Repository / cross-project
-`main` is promoted Design authority; no active serial Design branch exists. APP-SYN-01 source `347afe2f3aaa4a772fe27dc471687e1ea9eff83c` is preserved at `archive/design/app-syn-01-whole-app-synthesis-2026-09-12`; its remote source branch was deleted after strict-ancestor / zero-unique proof (`source...main = 0 / 1`). Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` at `9308fb581c07d0b732cc488418a89c1c1ae4e750`. Fresh Engineering main is `65b73d4a6193ce6e2110dc35ac8e3c13ac21e539`; Q-E0C-01 remains active preactivation: fresh rate-limit/tier/capacity passes, exact Kymaean project/account association and UTC batch window remain pending, provider traffic is zero, and no Design/Stage/native-shell authority is created.
+## Repository
+`main` remains promoted authority. Active bounded website preview branch: `site/placeholder-v2-secrecy-first-2026-09-14`, draft PR #60. Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` at `9308fb581c07d0b732cc488418a89c1c1ae4e750`. APP-SYN-01 source remains archived at `archive/design/app-syn-01-whole-app-synthesis-2026-09-12`.
 
-## Phase C / frozen core app baseline
-`PKT-STAGE-CORE-02` remains the frozen core app visual baseline. Authenticated Drive master `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH` remains 1,431,659 bytes, 1672x941, SHA-256 `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`. CIR-S1 is zero-survivor; CONE-S1/STATE-S1/SEL-S1 failed exact Stage integration; PERF-S1 closed without subjective Stage result. All no-reroll/no-retune laws remain in force.
+## Frozen app boundary
+`PKT-STAGE-CORE-02` remains the frozen core app baseline; authenticated Drive master `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH`, 1,431,659 bytes, 1672x941, SHA-256 `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`. Closed-gate/no-reroll laws remain unchanged.
 
-## Active gate
-`APP-SYN-01 - Bounded App-Asset / Whole-App Packet Synthesis 01` is **DESIGN SOL VIEW FROZEN / DIRECTOR CLR CONTEXT DEFERRED UNTIL REPRESENTATIVE REAL ASSEMBLY**. Execution authority remains `docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_04.json` SHA-256 `7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c25339673`. Canonical ten-mode preflight passes; packet `PKT-APP-SYN-01-01` remains `DIRECTOR_ADJUDICATION_PENDING`. F2 remains Design Sol's non-authoritative preference; F1 remains materially valid. No CLR winner/final palette exists.
+`APP-SYN-01` remains **DESIGN SOL VIEW FROZEN / DIRECTOR CLR CONTEXT DEFERRED UNTIL REPRESENTATIVE REAL ASSEMBLY**. `PKT-APP-SYN-01-01` remains `DIRECTOR_ADJUDICATION_PENDING`; F2 is a non-authoritative Design Sol preference, F1 remains valid, and no CLR winner/final palette exists. The real-assembly trigger remains unsatisfied; no Stage-to-app-shell gate is activated.
+
+## Website placeholder V2
+Director-approved secrecy-first direction is recorded in `docs/evidence/WEBSITE_PLACEHOLDER_V2_SECRECY_FIRST_DIRECTION_01.md`. Public copy is limited to `KYMÆAN`, `Something is taking shape.`, and `In development`. The preview uses exact recovered-control Threshold K geometry from Drive `1uX_FPBVz7fY05vfZfbESPHROlKFwHF9p` and inherited O3 namework geometry from Drive `1dkGJQUOPeqCXFqJtKnNswlP3kducKe-I`; HTML/CSS atmosphere is deterministic and carries no product disclosure or final-brand authority.
 
 ## Exact next action / hard boundary
-`docs/evidence/APP_SYN_01_POST_CLOSEOUT_REAL_ASSEMBLY_READINESS_AUDIT_01.json` SHA-256 `abfdf380567d67aa7cb48fe3376c23a6300144476aff026fcc709b599296c866` confirms the real-assembly trigger is not satisfied. Hold CLR F2/F1 until representative real app assembly exists; no new serial Design gate or Stage-to-app-shell gate is activated. Preserve `PKT-STAGE-CORE-02`, closed-gate prohibitions, Observed Cues/pip/arc blocks, ODR-05/07/14/15/19/30, and Design/Engineering separation.
+Inspect the Cloudflare non-production preview for PR #60 across desktop/mobile plus reduced-motion/forced-colors/reflow concerns; correct defects recursively before any merge. Do not merge or replace `www.kymaean.com` until the preview audit is clean. This bounded WEB preview does not reopen or alter the parked APP-SYN-01 / Stage boundary.
