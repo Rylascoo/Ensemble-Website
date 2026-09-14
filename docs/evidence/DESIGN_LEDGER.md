@@ -2509,14 +2509,24 @@ CLR F2/F1 remains Director-deferred until representative real assembly; Stage an
 
 **State:** DUR-01 CLOSED / PASS_INTEGRATED_DURABILITY / POST-DUR PHASE-C REENTRY AUDIT NEXT
 
-`docs/evidence/DUR_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json` SHA-256 `a2badbe6d761ac35986ccd3dfdc84dc795261b02e698330d9c5aaf4612147d4b` freezes the repaired nine-mode matrix. Normal 1440/320, 200% text 1440/320, forced-colors 1440/320, reduced-motion 1440 and no-image 1440/320 all pass with zero unintended overflow; no images/background images/external resources are required; reduced-motion has zero remaining animation dependencies.
+`docs/evidence/DUR_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json` SHA-256 `2c845d354e13ee872a74cf4a82b1533f6168f94711baa4d88cdbad7b2a2de3e8` freezes the repaired nine-mode matrix. Normal 1440/320, 200% text 1440/320, forced-colors 1440/320, reduced-motion 1440 and no-image 1440/320 all pass with zero unintended overflow; no images/background images/external resources are required; reduced-motion has zero remaining animation dependencies.
 
 The deterministic carrier is `prototypes/dur-01/carrier.html` SHA-256 `88384760873d44198cf94f1ac242eeaa8d30027b61f9760073ad40a3bffde971` and the browser probe is `tools/dur01_browser_probe.mjs` SHA-256 `06b440e91ea57a8231518595f67fe0bbbe59160c32bf8192866e48300a9e918d`. Exact C0/O3 source hashes and path counts are preserved, narrow layouts omit O3 in favor of semantic-name fallback, CPS-B retains all frozen signatures, STA F2 selection remains distinct from focus, and APP↔WEB preserves C0/CPS-B identity facts without copied composition.
 
-`docs/evidence/DUR_01_DESIGN_SOL_INTEGRATED_DURABILITY_EVALUATION_01.json` SHA-256 `8240e96ba6be9cc5295bc3fa18566489ed612d3e52e9ab283947eee7be61d9d3` freezes `PASS_INTEGRATED_DURABILITY` across all twelve preregistered dimensions with no new usage restriction beyond the frozen reduction law. Packet `PKT-DUR-01-01` SHA-256 `c5851a420b71459f19d2fd5e53af47f0ae18b3d6b37a7b2c5e8858cf3b0e03f7` is `FROZEN_LOCAL_RESULT`; it does not promote any source packet to final authority.
+`docs/evidence/DUR_01_DESIGN_SOL_INTEGRATED_DURABILITY_EVALUATION_01.json` SHA-256 `84ffd1639b169cc32040e308e9e1cb459437fe2ff6bd506663d213aea1d87a4a` freezes `PASS_INTEGRATED_DURABILITY` across all twelve preregistered dimensions with no new usage restriction beyond the frozen reduction law. Packet `PKT-DUR-01-01` SHA-256 `a792c7508de8c3741b89cfba9face7d1ea78ff1608ff307c43d00db9bbaf330c` is `FROZEN_LOCAL_RESULT`; it does not promote any source packet to final authority.
 
 CLR remains deferred; Stage and Stage-to-shell remain unchanged; no final typeface/symbol/wordmark/Character artwork, Phase-D entry, product semantics, ODR resolution, native/runtime/provider or production authority is created. Representative real-app assembly remains untested.
 
 **Next boundary:** run a fresh Phase-C post-DUR reentry audit before activating any successor program or claiming Phase-C completion.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN DUR-01 IN-LANE CLOSURE.**
+
+## L-163 - DUR-01 hosted validation canonicalizes evidence hashes across platforms
+
+**State:** DUR-01 RESULT UNCHANGED / REPOSITORY-BYTE HASH CANONICALIZATION / LF POLICY PINNED
+
+The first hosted DUR-01 verifier run at `e8e72e6478034ef91123e85e0ba8f939d45d01b1` exposed a cross-platform evidence-hash defect: three new JSON SHA-256 values had been frozen from Windows working-tree bytes before Git line-ending normalization. Hosted Linux correctly hashed the committed repository bytes and rejected the mismatch. The visual carrier, browser diagnostics, frozen scoring criteria and `PASS_INTEGRATED_DURABILITY` result were not contradicted.
+
+The repaired canonical repository-byte SHA-256 values are: preflight `2c845d354e13ee872a74cf4a82b1533f6168f94711baa4d88cdbad7b2a2de3e8`, Design Sol evaluation `84ffd1639b169cc32040e308e9e1cb459437fe2ff6bd506663d213aea1d87a4a`, and packet `a792c7508de8c3741b89cfba9face7d1ea78ff1608ff307c43d00db9bbaf330c`. Exact LF rules are now pinned in `.gitattributes` for the five hashed DUR artifacts so Windows and Linux verify identical bytes.
+
+No design mechanism, result, usage law, CLR/Stage/Phase-D boundary or source-packet authority changed. This is a deterministic evidence-integrity repair only.

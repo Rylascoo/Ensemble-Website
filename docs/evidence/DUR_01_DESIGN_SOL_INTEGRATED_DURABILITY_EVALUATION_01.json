@@ -8,7 +8,7 @@
                              "method":  "docs/evidence/DUR_01_INTEGRATED_IDENTITY_DURABILITY_METHOD_01.json",
                              "method_sha256":  "7b82ddc895843f27e7ca8b0740b5108fa0b44f2a29507e129cf6aa14e9d8c308",
                              "preflight":  "docs/evidence/DUR_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json",
-                             "preflight_sha256":  "a2badbe6d761ac35986ccd3dfdc84dc795261b02e698330d9c5aaf4612147d4b",
+                             "preflight_sha256":  "2c845d354e13ee872a74cf4a82b1533f6168f94711baa4d88cdbad7b2a2de3e8",
                              "carrier_sha256":  "88384760873d44198cf94f1ac242eeaa8d30027b61f9760073ad40a3bffde971",
                              "scoring_after_clean_preflight_only":  true
                          },

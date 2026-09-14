@@ -7,7 +7,7 @@ Generated file; do not hand-maintain.
 Generation command: `python3 tools/generate_docs_index.py`
 
 Total Markdown documents: 287
-Total text records: 102
+Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
@@ -312,17 +312,8 @@ Text records are listed for corpus visibility only. Presence here does not infer
 ## UNCLASSIFIED (0)
 
 
-## TEXT RECORDS — INVENTORY ONLY (102)
+## TEXT RECORDS — INVENTORY ONLY (93)
 
-- `.tmp/dur-01-run3/profile-1-normal-1440/EADPData Component/4.0.4.24/data.txt`
-- `.tmp/dur-01-run3/profile-1-normal-1440/Edge Notifications/0.0.0.46/arbitration_metadata.txt`
-- `.tmp/dur-01-run3/profile-1-normal-1440/ZxcvbnData/3.2.0.0/english_wikipedia.txt`
-- `.tmp/dur-01-run3/profile-1-normal-1440/ZxcvbnData/3.2.0.0/female_names.txt`
-- `.tmp/dur-01-run3/profile-1-normal-1440/ZxcvbnData/3.2.0.0/male_names.txt`
-- `.tmp/dur-01-run3/profile-1-normal-1440/ZxcvbnData/3.2.0.0/passwords.txt`
-- `.tmp/dur-01-run3/profile-1-normal-1440/ZxcvbnData/3.2.0.0/surnames.txt`
-- `.tmp/dur-01-run3/profile-1-normal-1440/ZxcvbnData/3.2.0.0/test.txt`
-- `.tmp/dur-01-run3/profile-1-normal-1440/ZxcvbnData/3.2.0.0/us_tv_and_film.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
 - `docs/evidence/D_R1_ASTRA_PHASE_2_MECHANICAL_IMPLEMENTATION_TASK_01.txt`
