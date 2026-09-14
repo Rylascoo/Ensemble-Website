@@ -2544,3 +2544,18 @@ The audit also clarifies C0 provenance without changing any symbol result. Histo
 **Next boundary:** construct the neutral exact-C0 E06/E12/E18 carrier and complete mechanical/accessibility preflight before Design Sol scoring.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+## L-165 - APPICON-01 closes with E06 as the sole design-master envelope survivor
+
+**State:** APPICON-01 CLOSED / E06 SINGLE SURVIVOR / DESIGN-MASTER ENVELOPE ONLY / POST-APPICON REENTRY AUDIT NEXT
+
+`docs/evidence/APPICON_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json` SHA-256 `bec35eccabc14429ec4e15eb5e912c9b2a993a2d765e4a7d3148e56f650ec1ea` freezes the valid four-case matrix: normal and forced-colors at 1200/320. All 36 icon instances per mode are square, centered, currentColor-only, exact three-path C0 with canonical LF SHA `72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305` and path-semantic SHA `95304d003e63ab2272501da3451c1bca3deb84d206468d7e35264575d2bfe30d`; zero unintended overflow, clipping, images, background images, external resources, animation or transition dependency is present. The first two browser attempts are explicitly infrastructure-invalid because local HTTP serving reset before carrier navigation; the valid probe is self-contained `file://` navigation.
+
+Carrier `prototypes/appicon-01/carrier.html` SHA-256 `0a5a4fcbdd4927830f32aba54e8bd9d1a5512d4d74c592d717bc81258fb933f1` and browser probe `tools/appicon01_browser_probe.mjs` SHA-256 `22af9f2365a7df6141cf9997bdbef446d5202ec83691eade9c7a34ad8735d46a` preserve the frozen E06/E12/E18-only variable. No C0 anatomy, color, material, Stage, Character art, product semantics or platform mask entered the comparison.
+
+`docs/evidence/APPICON_01_DESIGN_SOL_ENVELOPE_EVALUATION_01.json` SHA-256 `960d5266aec673010b28a306582d669a3ea7047f414d7bc65567167e634a565d` freezes the no-retune result. E06 is `ENVELOPE_SURVIVES` and ranks first/sole survivor: at 16px rendered C0 remains about 9.12×12.63px with all three paths visible and ample field breathing. E12 is `TARGETED_REFINEMENT_REQUIRED`: exact mechanics survive but 12% inset underfills the required 16px role at about 7.88×10.91px. E18 is `REJECTED`: 18% inset reduces the 16px mark to about 6.64×9.19px and creates undersized-glyph pressure. Packet `PKT-APPICON-01-01` SHA-256 `9e0782c3e13642c3239e421e5079847da122022f0244400b2f31ddea1f15add0` is `FROZEN_LOCAL_RESULT`.
+
+Because only E06 clears the frozen all-scale promotion floor, the method's multiple-survivor Director gate is not triggered. E06 becomes the current Phase-C app-icon **design-master deployment envelope** around exact immutable C0. This does not upgrade C0 to final symbol authority and creates no Store/package/MSIX/shipping/native-mask, trademark or implementation authority.
+
+**Next boundary:** run a fresh Phase-C post-APPICON reentry audit before activating another program or claiming Phase-C completion.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN FROZEN-CRITERIA SINGLE-SURVIVOR CLOSURE.**

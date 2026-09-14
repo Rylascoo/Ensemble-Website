@@ -157,6 +157,14 @@
       "status": "FROZEN_LOCAL_RESULT",
       "current_contribution": "PASS_INTEGRATED_DURABILITY across the frozen deterministic reduction/accessibility matrix; source packet authority remains bounded and representative real-app assembly remains untested.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-APPICON-01-01",
+      "path": "docs/evidence/packets/PKT_APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_01.json",
+      "axis": "primary app-icon design-master deployment envelope",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "E06 6% inset / 88% source-viewBox-height envelope is the sole APPICON-01 survivor around exact immutable C0; design-master evidence only, no Store/package/shipping authority.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -175,7 +183,8 @@
     "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance.",
     "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized.",
     "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence.",
-    "CPS-B is the Director-selected canonical Phase C Character-presence architecture, but representative real-app integration, final expressive depiction/artwork, production tokens and native implementation remain unresolved; CPS-01 selection alone does not authorize Phase D."
+    "CPS-B is the Director-selected canonical Phase C Character-presence architecture, but representative real-app integration, final expressive depiction/artwork, production tokens and native implementation remain unresolved; CPS-01 selection alone does not authorize Phase D.",
+    "APPICON-01 closes with E06 as the sole current app-icon design-master envelope around exact C0; production Store/package/native-mask implementation and final symbol authority remain unresolved."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -213,10 +222,16 @@
     "active_durability_packet": "PKT-DUR-01-01",
     "active_durability_packet_sha256": "a792c7508de8c3741b89cfba9face7d1ea78ff1608ff307c43d00db9bbaf330c",
     "active_appicon_program": "APPICON-01",
-    "active_appicon_status": "METHOD_FROZEN_PRE_CONSTRUCTION",
+    "active_appicon_status": "E06_SINGLE_SURVIVOR_CLOSED",
     "active_appicon_method": "docs/evidence/APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_METHOD_01.json",
     "active_appicon_method_sha256": "37bd7fff587779167a2062868430829f2fc660da7753214ea15a1f43b0c7712a",
-    "active_appicon_activation_audit_sha256": "305e4c7fff0ddd58cd0c43fb0da5a9c62f6535e231a5818d28e0246e0ab29447"
+    "active_appicon_activation_audit_sha256": "305e4c7fff0ddd58cd0c43fb0da5a9c62f6535e231a5818d28e0246e0ab29447",
+    "active_appicon_preflight": "docs/evidence/APPICON_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json",
+    "active_appicon_preflight_sha256": "bec35eccabc14429ec4e15eb5e912c9b2a993a2d765e4a7d3148e56f650ec1ea",
+    "active_appicon_evaluation": "docs/evidence/APPICON_01_DESIGN_SOL_ENVELOPE_EVALUATION_01.json",
+    "active_appicon_evaluation_sha256": "960d5266aec673010b28a306582d669a3ea7047f414d7bc65567167e634a565d",
+    "active_appicon_packet": "PKT-APPICON-01-01",
+    "active_appicon_packet_sha256": "9e0782c3e13642c3239e421e5079847da122022f0244400b2f31ddea1f15add0"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

@@ -3,26 +3,32 @@ name: APPICON-01 deterministic checkpoint
 on:
   push:
     paths:
+      - '.gitattributes'
       - 'CURRENT_STATE.md'
       - 'docs/HANDOFF_APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_2026_09_14.md'
-      - 'docs/HANDOFF_DUR_01_INTEGRATED_IDENTITY_DURABILITY_2026_09_14.md'
       - 'docs/evidence/APPICON_01_*'
+      - 'docs/evidence/packets/PKT_APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_01.json'
       - 'docs/evidence/PHASE_C_POST_DUR_01_REENTRY_AUDIT_08.json'
       - 'docs/evidence/DESIGN_LEDGER.md'
       - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
       - 'assets/brand/kymaean-threshold-k-working-candidate.svg'
+      - 'prototypes/appicon-01/carrier.html'
+      - 'tools/appicon01_browser_probe.mjs'
       - 'tools/verify_appicon01.py'
       - '.github/workflows/appicon01.yml'
   pull_request:
     paths:
+      - '.gitattributes'
       - 'CURRENT_STATE.md'
       - 'docs/HANDOFF_APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_2026_09_14.md'
-      - 'docs/HANDOFF_DUR_01_INTEGRATED_IDENTITY_DURABILITY_2026_09_14.md'
       - 'docs/evidence/APPICON_01_*'
+      - 'docs/evidence/packets/PKT_APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_01.json'
       - 'docs/evidence/PHASE_C_POST_DUR_01_REENTRY_AUDIT_08.json'
       - 'docs/evidence/DESIGN_LEDGER.md'
       - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
       - 'assets/brand/kymaean-threshold-k-working-candidate.svg'
+      - 'prototypes/appicon-01/carrier.html'
+      - 'tools/appicon01_browser_probe.mjs'
       - 'tools/verify_appicon01.py'
       - '.github/workflows/appicon01.yml'
 
@@ -36,5 +42,5 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
-      - name: Verify APPICON-01 method freeze
+      - name: Verify APPICON-01 closed checkpoint
         run: python3 tools/verify_appicon01.py

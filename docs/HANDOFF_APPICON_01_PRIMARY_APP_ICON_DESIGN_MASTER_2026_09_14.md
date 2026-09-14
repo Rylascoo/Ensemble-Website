@@ -2,14 +2,14 @@
 
 # Ensemble / Kymaean - APPICON-01 Fresh-Chat Handoff
 
-Status: `PHASE C ACTIVE / APPICON-01 METHOD FROZEN / PRE-CONSTRUCTION`
+Status: `PHASE C ACTIVE / APPICON-01 CLOSED E06 / POST-APPICON REENTRY AUDIT NEXT`
 
-Recover live authority through `AGENTS.md` and exact-ref `CURRENT_STATE.md`; this handoff is convenience only. Post-DUR audit: `docs/evidence/PHASE_C_POST_DUR_01_REENTRY_AUDIT_08.json` SHA-256 `305e4c7fff0ddd58cd0c43fb0da5a9c62f6535e231a5818d28e0246e0ab29447`. Frozen method: `docs/evidence/APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_METHOD_01.json` SHA-256 `37bd7fff587779167a2062868430829f2fc660da7753214ea15a1f43b0c7712a`.
+Recover live authority through `AGENTS.md` and exact-ref `CURRENT_STATE.md`; this handoff is convenience only. Post-DUR audit SHA `305e4c7fff0ddd58cd0c43fb0da5a9c62f6535e231a5818d28e0246e0ab29447`; frozen method SHA `37bd7fff587779167a2062868430829f2fc660da7753214ea15a1f43b0c7712a`.
 
-DUR-01 closed `PASS_INTEGRATED_DURABILITY`. CPS-B remains canonical Character-presence architecture. CLR F2/F1 remains Director-deferred until representative real assembly; Stage is unchanged.
+APPICON-01 closed with one lawful survivor: **E06 — 6% symmetric square-canvas inset / 88% source-viewBox height around exact immutable C0**. Preflight SHA `bec35eccabc14429ec4e15eb5e912c9b2a993a2d765e4a7d3148e56f650ec1ea`; Design Sol evaluation SHA `960d5266aec673010b28a306582d669a3ea7047f414d7bc65567167e634a565d`; packet `PKT-APPICON-01-01` SHA `9e0782c3e13642c3239e421e5079847da122022f0244400b2f31ddea1f15add0`; carrier SHA `0a5a4fcbdd4927830f32aba54e8bd9d1a5512d4d74c592d717bc81258fb933f1`; browser-probe SHA `22af9f2365a7df6141cf9997bdbef446d5202ec83691eade9c7a34ad8735d46a`.
 
-APPICON-01 is a derivative/master gate, not a symbol rerun. Exact C0 path geometry is immutable. Canonical LF/Git-blob SHA `72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305`; historical Windows CRLF raw SHA `303a1b0d5caaf6f1e25bfd20a525d280ff5097b6543d91e5b2f45a9fbef30d63`; path-semantic SHA `95304d003e63ab2272501da3451c1bca3deb84d206468d7e35264575d2bfe30d`. E06/E12/E18 vary only symmetric square-canvas inset.
+The valid matrix is normal/forced-colors at 1200/320 with zero overflow, zero image/external/motion dependency, exact three-path currentColor-only C0 fidelity, square centered canvases and no clipping. E12 is targeted-refinement-required because the required 16px role becomes too timid; E18 is rejected as materially over-inset. No post-result retuning occurred and no Director adjudication was needed because only E06 survived.
 
-Next: build one neutral currentColor-only carrier, run normal/forced-color preflight at 1200/320 and 16-128 icon sizes, repair carrier defects before scoring, then freeze Design Sol evaluation with no post-result retuning. Multiple survivors go to Director adjudication.
+C0 remains provisional as a primary symbol under its own authority. APPICON-01 creates a bounded Phase-C design-master deployment envelope only: no Store/package/MSIX/shipping/native-mask, trademark, CLR, Stage, Character-art, product-semantic, Phase-D or native/runtime authority.
 
-Hard boundaries: no C0-R4/SYM-03/new symbol anatomy; no color/material rescue; no final Store/package/MSIX/shipping asset or trademark claim; no Stage/Stage-to-shell change, Character-art generation, product semantics, Phase D, native/runtime/provider authority or Phase-C exit by APPICON-01 alone.
+Next: run a fresh Phase-C post-APPICON reentry audit before activating any successor program or claiming Phase-C completion.
