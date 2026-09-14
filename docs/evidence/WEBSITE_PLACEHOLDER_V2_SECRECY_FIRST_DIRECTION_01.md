@@ -2,7 +2,7 @@
 
 # Kymaean Website Placeholder V2 — Secrecy-First Direction 01
 
-Status: DIRECTOR-APPROVED CREATIVE DIRECTION / LOCAL PREFLIGHT PASS / CLOUDFLARE PREVIEW REVIEW NEXT / NOT FINAL BRAND FREEZE
+Status: DIRECTOR VISUAL REVIEW PASS / PRODUCTION PROMOTION AUTHORIZED / LIVE VERIFICATION NEXT / NOT FINAL BRAND FREEZE
 Date: 2026-09-14
 Workstream: WEB / SHARED BRAND
 
@@ -66,8 +66,6 @@ The intended hierarchy is:
 
 The production candidate uses exact inline SVG geometry for Threshold K and O3 rather than rasterized or generated logo text. The atmospheric field is deterministic HTML/CSS with no image payload, JavaScript, remote fonts, framework, WebGL, or external runtime dependency.
 
-The implementation remains preview-only until Director visual review of the Cloudflare branch preview is complete.
-
 ## Deterministic local preflight — 2026-09-14
 
 The current branch implementation was read back and exercised in headless Chromium before Cloudflare preview review.
@@ -90,9 +88,19 @@ Responsive/accessibility browser checks:
 
 The first preflight pass found two implementation defects before closure: vertical clipping risk from `overflow:hidden`, then narrow/200%-text horizontal overflow from viewport-based lockup sizing. Both were corrected and the complete preflight was rerun clean.
 
+## Cloudflare preview / Director visual review — 2026-09-14
+
+Cloudflare automatically built the non-production branch and exposed version `ef84149d` for `site/placeholder-v2-secrecy-first-2026-09-14`. The Director reviewed the deployed preview and agreed with Design Sol's PASS determination.
+
+The deployed composition preserves the intended hierarchy and secrecy boundary: Threshold K is the first compact visual event, KYMÆAN remains separate and quieter, the public phrase is sparse, and the atmospheric field does not disclose product concept or collapse into an explicit app/game/AI illustration. The large dark planes remain near the threshold of monumental architecture but are sufficiently subordinate in the reviewed deployment; no further reduction is justified before production promotion.
+
+**Director decision:** approve this exact reviewed placeholder direction for temporary public production use through PR #60.
+
+**APPROVED — DIRECTOR VISUAL REVIEW + CLEAN DESIGN SOL RECURSIVE AUDIT.**
+
 ## Next boundary
 
-Review the actual Cloudflare non-production deployment of draft PR #60 on desktop/mobile. Do not merge into `main` or replace the current public placeholder until that deployed visual review is clean.
+Merge PR #60 only at its exact reviewed head after this decision record is included, then verify the automatic Cloudflare production deployment and `https://www.kymaean.com` externally. Do not reinterpret a successful temporary-placeholder promotion as final brand, palette, typography, app, or APP-SYN-01 authority.
 
 ## Non-authority
 
