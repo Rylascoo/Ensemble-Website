@@ -2,7 +2,7 @@
 
 # Kymaean Website Placeholder V2.1 — Atmospheric Finish 01
 
-Status: DIRECTOR-OPENED BOUNDED WEBSITE REFINEMENT / SOURCE-GROUNDED ATMOSPHERIC REFINEMENT LOCALLY VALIDATED / CLOUDFLARE PREVIEW REFRESH NEXT / NOT FINAL BRAND FREEZE
+Status: HOSTED PREVIEW PASS / CLEAN RECURSIVE AUDIT / STANDING DESIGN APPROVAL EARNED / PRODUCTION PROMOTION NEXT / NOT FINAL BRAND FREEZE
 Date: 2026-09-14
 Workstream: WEB / SHARED BRAND
 PR: #65
@@ -73,8 +73,12 @@ Fresh review of the authenticated Drive visual corpus plus current `Ensemble-Pro
 
 Fresh CDP viewport checks pass at 390×844 and 320×640, including the 320×640 200% root-text approximation, with no horizontal overflow. Reduced motion computes decorative animations to `none`. Actual Edge high-contrast runtime confirms `forced-colors: active`, `.field` computes to `display:none`, system colors replace authored colors, and `scrollWidth == clientWidth`.
 
+## Hosted Cloudflare review
+
+The refreshed PR #65 branch preview serves the exact audited public-site candidate from commit `ef436349d89a0b6f15ef42a41b66890a3e6cb9a1`. All six deployable public assets match source. Hosted 1440×900, 390×844, 320×640/200%, reduced-motion, actual Edge forced-colors, fine-pointer identity invariance, and terminal long-dwell checks pass.
+
+The clean hosted recursive audit earns standing Design approval under repository law; no additional creative scope or product disclosure is created.
+
 ## Next boundary
 
-Review the actual Cloudflare non-production deployment of draft PR #65 on desktop and mobile, including the reveal sequence, long-dwell ambience, pointer response, and favicon. Correct any visible defect recursively before merge.
-
-Do not merge to `main`, replace the current production placeholder, expand disclosure, or claim final brand authority until that deployed review is clean.
+Promote draft PR #65 to `main` using the exact reviewed source, then verify `https://www.kymaean.com/` serves the promoted bytes before declaring production complete or closing the serial branch lifecycle.
