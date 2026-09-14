@@ -1,0 +1,48 @@
+KYMAEAN PLACEHOLDER — INITIAL PRODUCTION DEPLOYMENT RECORD
+
+Status: DIRECTOR-OBSERVED SUCCESS / REPOSITORY PROVENANCE RECORDED
+Date: 2026-09-14 UTC
+
+PURPOSE
+Record the first successful public deployment of the temporary Kymaean placeholder and the GitHub -> Cloudflare Workers publication path.
+
+DEPLOYED SOURCE
+Repository: Rylascoo/Ensemble-Website
+Production branch: main
+Exact deployed commit: 436e7367c9b328f94dd214ceb5e76aab4161571e
+Promoting PR: #57 — Add temporary Kymaean placeholder site and Cloudflare foundation
+Deployable root: site/
+Static asset root: site/public/
+
+CLOUDFLARE CONFIGURATION OBSERVED
+Worker project: kymaean-site
+Git repository: Rylascoo/Ensemble-Website
+Production branch: main
+Root/path: site/
+Build command: none
+Production deploy command: npx wrangler deploy
+Non-production deploy command: npx wrangler versions upload
+Builds for non-production branches: enabled
+Cloudflare Access protection: disabled for the public production site
+Production workers.dev route: disabled
+Production custom domain: www.kymaean.com
+Bare-domain behavior: kymaean.com reaches Cloudflare through proxied DNS and existing active Redirect Rules forward it to www.kymaean.com.
+
+SUCCESS EVIDENCE
+- Cloudflare setup returned `Success!` after the initial repository-connected deployment.
+- The Director then confirmed `www.kymaean.com` was serving the placeholder successfully.
+- The Director confirmed the bare-domain redirect behavior was working.
+- The custom-domain screen showed `www.kymaean.com` as Production in zone `kymaean.com`.
+
+EVIDENCE BOUNDARY
+The success and live-domain observations above are Director/browser supplied. The Design Sol web-fetch surface did not independently obtain a fresh indexed fetch of the newly deployed domain during this session, so this record does not claim independent external crawler verification.
+
+ROUTING / DNS BOUNDARY
+The website Worker owns `www.kymaean.com`. Mail-related Zoho MX/TXT/DKIM records remain outside website deployment scope and were not intentionally modified as part of this deployment. The prior root-domain Worker `delicate-violet-126c` was removed during routing cleanup; the root hostname is now intended only to redirect to the canonical `www` hostname.
+
+SUCCESSOR HARDENING
+A successor repository-only hardening change is prepared on `site/cloudflare-production-hardening-2026-09-14` to make the dashboard routing intent durable in `site/wrangler.jsonc`:
+- `workers_dev: false`
+- `preview_urls: true`
+
+That successor does not change the placeholder content or the production custom domain. Its merge is expected to exercise the already-proven automatic GitHub -> Cloudflare deployment path again.
