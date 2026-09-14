@@ -9,6 +9,7 @@ CONCORDANCE = ROOT / 'docs/evidence/IMG_01_DIRECTOR_PRIOR_CONCORDANCE_01.json'
 METHOD = ROOT / 'docs/evidence/CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_METHOD_01.json'
 PREFLIGHT = ROOT / 'docs/evidence/CPS_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json'
 EVALUATION = ROOT / 'docs/evidence/CPS_01_DESIGN_SOL_ARCHITECTURE_EVALUATION_01.json'
+DECISION = ROOT / 'docs/evidence/CPS_01_DIRECTOR_ARCHITECTURE_DECISION_01.json'
 PACKET = ROOT / 'docs/evidence/packets/PKT_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_01.json'
 REGISTRY = ROOT / 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
 CARRIER = ROOT / 'prototypes/cps-01/carrier.html'
@@ -22,10 +23,11 @@ EXPECTED = {
     METHOD: '3069f468a0fb98964758154f82e126d7a4296a529b78885c90818235527d6dc4',
     PREFLIGHT: '6cb91ac47baf957e15fe8fef6d8daa9cab5cadc9c97d22acf3fb4ee98b486275',
     EVALUATION: 'b85fd86efc65bd74d1def8c2e9445f343257801c04cd3510de02eea222e19137',
-    PACKET: 'e3c12d607e370dd4304421082d29719a9a39a72f2c0906facb27d18279b4069f',
+    DECISION: '02f14c5360b07ca6b5d04f80e16fb9877976eee0c4a0ec10f1d9a924f82413a8',
+    PACKET: 'a5809cc02bedff5eab6bcea2ade77c21ba507b95a3eddfb5238f1c38db032772',
     CARRIER: '28fb10f481345288b8dc1cb278caf60a804027b82a1a4fd7058ccdd9f04ea65e',
     PROBE: 'a351cd302afa27365206af1338c00e463efffaa1dba16c8bb1d48d036b6ec8b2',
-    HANDOFF: '465fa49ab1372a7b6415de5d91e218cc143c119f397903b49f25a43c36a1b623',
+    HANDOFF: '47be09f011bda45caffdcf49de25a5070806db500915557605b527dd29be4ac5',
 }
 
 def sha(path):
@@ -48,6 +50,7 @@ def main():
     method = load(METHOD)
     preflight = load(PREFLIGHT)
     evaluation = load(EVALUATION)
+    decision = load(DECISION)
     packet = load(PACKET)
     registry = load(REGISTRY)
     current = CURRENT.read_text(encoding='utf-8')
@@ -112,45 +115,58 @@ def main():
     if conclusion.get('director_choice_set') != ['CPS-B','CPS-C']:
         fail('Director choice set')
 
-    if packet.get('packet_id') != 'PKT-CPS-01-01' or packet.get('status') != 'DIRECTOR_ADJUDICATION_PENDING':
+    if decision.get('status') != 'DIRECTOR_SELECTED_CPS_B' or decision.get('director_input') != 'CPS-B':
+        fail('Director decision identity')
+    selected = decision.get('selected_architecture', {})
+    if selected.get('id') != 'CPS-B' or selected.get('authority') != 'CANONICAL_PHASE_C_CHARACTER_PRESENCE_ARCHITECTURE':
+        fail('selected CPS architecture')
+    effect = decision.get('authority_effect', {})
+    if effect.get('canonical_cps_incumbent_created') is not True:
+        fail('canonical incumbent effect')
+    if any(effect.get(k) is not False for k in ['cps_c_rejected','cps_a_reopened','new_renderer_generation_authorized','img01_result_changed','clr_selected','stage_changed','phase_d_authorized','runtime_native_production_authority_created']):
+        fail('Director decision non-authority boundary')
+    if packet.get('packet_id') != 'PKT-CPS-01-01' or packet.get('status') != 'PROVISIONAL_INCUMBENT':
         fail('packet identity/status')
     if packet.get('local_result', {}).get('survivors_or_closure') != ['CPS-B','CPS-C']:
-        fail('packet survivor set')
-    if packet.get('judgment', {}).get('resolution_mode') != 'DIRECTOR_ADJUDICATION_PENDING':
+        fail('packet survivor history')
+    if packet.get('judgment', {}).get('resolution_mode') != 'DIRECTOR_ADJUDICATED':
         fail('packet resolution mode')
     packet_rows = [x for x in registry.get('packets', []) if x.get('packet_id') == 'PKT-CPS-01-01']
-    if len(packet_rows) != 1 or packet_rows[0].get('status') != 'DIRECTOR_ADJUDICATION_PENDING':
+    if len(packet_rows) != 1 or packet_rows[0].get('status') != 'PROVISIONAL_INCUMBENT':
         fail('registry CPS packet')
 
     required_current = [
         'CPS-01 - Canonical Character Presence System',
-        'MECHANICAL PREFLIGHT PASS / DESIGN SOL VIEW FROZEN / DIRECTOR B-C ADJUDICATION PENDING',
-        EXPECTED[CARRIER], EXPECTED[PREFLIGHT], EXPECTED[EVALUATION], EXPECTED[PACKET],
-        'choose **CPS-B** or **CPS-C**',
+        'DIRECTOR ADJUDICATED / CPS-B SELECTED',
+        EXPECTED[DECISION], EXPECTED[PACKET],
+        'CPS-B Distributed Recognition Mesh is the canonical Phase C Character-presence architecture',
+        'Run a fresh Phase-C post-CPS reentry audit',
     ]
     for token in required_current:
         if token not in current:
             fail(f'CURRENT_STATE missing {token}')
-    if len(CURRENT.read_bytes()) > 4096:
-        fail('CURRENT_STATE exceeds 4096-byte continuity budget')
+    if len(CURRENT.read_bytes()) > 3072:
+        fail('CURRENT_STATE exceeds 3 KiB continuity budget')
 
-    if '## L-158 - CPS-01 deterministic carrier leaves B/C survivor choice pending Director adjudication' not in ledger:
-        fail('ledger L-158 missing')
-    for token in [EXPECTED[CARRIER], EXPECTED[PREFLIGHT], EXPECTED[EVALUATION], EXPECTED[PACKET]]:
+    if '## L-159 - CPS-01 deterministic carrier leaves B/C survivor choice pending Director adjudication' not in ledger:
+        fail('ledger L-159 missing')
+    if '## L-160 - Director selects CPS-B as canonical Character-presence architecture' not in ledger:
+        fail('ledger L-160 missing')
+    for token in [EXPECTED[CARRIER], EXPECTED[PREFLIGHT], EXPECTED[EVALUATION], EXPECTED[DECISION], EXPECTED[PACKET]]:
         if token not in ledger:
             fail(f'ledger missing checkpoint hash {token}')
 
     for token in [
-        'DIRECTOR B-C ADJUDICATION PENDING',
+        'CPS-01 DIRECTOR-SELECTED CPS-B',
         'CPS-B — Distributed Recognition Mesh',
-        'CPS-C — Context-Persistent Presence Scaffold',
-        EXPECTED[PREFLIGHT], EXPECTED[EVALUATION], EXPECTED[PACKET], EXPECTED[CARRIER],
+        'CPS-C',
+        EXPECTED[DECISION],
     ]:
         if token not in handoff:
             fail(f'handoff missing {token}')
 
     bad = []
-    for path in [CONCORDANCE,METHOD,PREFLIGHT,EVALUATION,PACKET,REGISTRY,HANDOFF,CURRENT,LEDGER,CARRIER,PROBE]:
+    for path in [CONCORDANCE,METHOD,PREFLIGHT,EVALUATION,DECISION,PACKET,REGISTRY,HANDOFF,CURRENT,LEDGER,CARRIER,PROBE]:
         text = path.read_text(encoding='utf-8')
         bad.extend((path.relative_to(ROOT).as_posix(), ord(c)) for c in text if ord(c) < 32 and c not in '\n\r\t')
     if bad:
@@ -158,7 +174,7 @@ def main():
 
     print('CPS_01_CHECKPOINT=PASS')
     print('SURVIVORS=CPS-B,CPS-C TARGETED_REFINEMENT=CPS-A')
-    print('DESIGN_SOL_RECOMMENDATION=CPS-B DIRECTOR_ADJUDICATION=PENDING')
+    print('DESIGN_SOL_RECOMMENDATION=CPS-B DIRECTOR_SELECTION=CPS-B')
     print('MATRIX=7_MODES OVERFLOW=0 IMAGES=0 EXTERNAL=0 MOTION_DEPENDENCIES=0')
     return 0
 

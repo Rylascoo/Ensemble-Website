@@ -3,7 +3,7 @@
   "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
   "packet_id": "PKT-CPS-01-01",
   "packet_class": "GATE_MECHANISM_PACKET",
-  "status": "DIRECTOR_ADJUDICATION_PENDING",
+  "status": "PROVISIONAL_INCUMBENT",
   "date": "2026-09-14",
   "gate_or_program": "CPS-01 — Canonical Character Presence System",
   "design_axis": "canonical Character identity/presence architecture beneath optional depiction",
@@ -34,14 +34,14 @@
     "Phase C exit by CPS-01 alone"
   ],
   "local_result": {
-    "summary": "Mechanical/accessibility preflight passes after neutral carrier repairs. Frozen-method Design Sol scoring leaves CPS-B and CPS-C as survivors; CPS-A requires targeted refinement. No canonical architecture is selected before Director adjudication.",
+    "summary": "Mechanical/accessibility preflight passes; frozen-method Design Sol scoring leaves CPS-B and CPS-C as survivors and CPS-A targeted-refinement-required. The Director selected CPS-B as the canonical Phase C Character-presence architecture.",
     "survivors_or_closure": [
       "CPS-B",
       "CPS-C"
     ],
-    "recommended_incumbent": "CPS-B — Design Sol recommendation pending Director adjudication",
+    "recommended_incumbent": "CPS-B — Director-selected canonical Phase C Character-presence architecture",
     "alternates": [
-      "CPS-C — lawful survivor with context-dependency restraint"
+      "CPS-C — lawful non-selected survivor preserved with context-dependency restraint"
     ],
     "rejections": [],
     "targeted_refinement_required": [
@@ -49,9 +49,9 @@
     ]
   },
   "judgment": {
-    "design_sol_view": "Rank CPS-B first, CPS-C second, CPS-A third. Promote neither B nor C to canonical authority until the Director makes the consequential identity choice.",
-    "director_view_or_delegation": "PENDING — genuine consequential identity/taste decision remains between two lawful survivors.",
-    "resolution_mode": "DIRECTOR_ADJUDICATION_PENDING"
+    "design_sol_view": "Frozen pre-Director ranking was CPS-B first, CPS-C second, CPS-A third.",
+    "director_view_or_delegation": "DIRECTOR SELECTED CPS-B.",
+    "resolution_mode": "DIRECTOR_ADJUDICATED"
   },
   "evidence": {
     "mechanical": [
@@ -64,12 +64,14 @@
     ],
     "accessibility": [
       "normal 1440/320, 200% text 1440/320, forced-colors 1440/320, reduced-motion 1440; all zero unintended overflow"
+    ],
+    "director_decision": [
+      "docs/evidence/CPS_01_DIRECTOR_ARCHITECTURE_DECISION_01.json",
+      "decision sha256:02f14c5360b07ca6b5d04f80e16fb9877976eee0c4a0ec10f1d9a924f82413a8"
     ]
   },
   "dependencies": {
-    "requires": [
-      "Director adjudication between CPS-B and CPS-C before any canonical CPS incumbent is recorded"
-    ],
+    "requires": [],
     "constrains": [
       "future Character identity/presence system",
       "later optional expressive depiction stress tests",
@@ -84,38 +86,38 @@
     ]
   },
   "known_integration_sensitivities": [
-    "CPS-B redundancy must remain sparse and must not become an inventory of decorative marks.",
-    "CPS-C context may shape composition but must never substitute for or mutate canonical identity.",
-    "CPS-A has not been rejected outright; it simply does not survive this consumed comparison and cannot be repaired inside the same gate after scoring.",
+    "CPS-B redundancy must remain sparse and truthful; it must not become an inventory of decorative marks.",
+    "CPS-C remains preserved as a lawful non-selected survivor, not a rejected architecture.",
+    "CPS-A remains targeted-refinement-required and cannot be repaired inside the consumed gate.",
     "Any representative real-app conflict is new integration evidence and must open a bounded successor/refinement gate rather than rewrite CPS-01 history."
   ],
   "explicit_non_authority": [
-    "No canonical Character architecture selected before Director adjudication.",
     "No final Character appearance, portrait system, generated artwork or renderer authorization.",
     "No CLR choice, Stage modification, Phase-D entry, native/runtime/production authority or ODR resolution."
   ],
   "lawful_reentry_triggers": [
-    "Director B/C adjudication",
     "new integration evidence after selection",
     "direct contradiction",
-    "changed governing contract"
+    "changed governing contract",
+    "explicit successor/refinement authorization"
   ],
   "canonical_artifacts": {
     "repository": [
       "prototypes/cps-01/carrier.html",
       "docs/evidence/CPS_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json",
-      "docs/evidence/CPS_01_DESIGN_SOL_ARCHITECTURE_EVALUATION_01.json"
+      "docs/evidence/CPS_01_DESIGN_SOL_ARCHITECTURE_EVALUATION_01.json",
+      "docs/evidence/CPS_01_DIRECTOR_ARCHITECTURE_DECISION_01.json"
     ],
     "drive_visual_masters": [],
     "director_review_surface": {
       "entry_point": "prototypes/cps-01/carrier.html",
-      "what_to_review": "Compare CPS-B Distributed Recognition Mesh against CPS-C Context-Persistent Presence Scaffold across the same ten roles; judge which should become the canonical Phase C Character-presence architecture.",
+      "what_to_review": "Historical comparison surface; Director adjudication is complete and CPS-B is selected.",
       "diagnostics_not_for_aesthetic_choice": "docs/evidence/CPS_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json"
     }
   },
   "synthesis_state": {
     "tested_with_packet_ids": [],
     "latest_composition_packet": null,
-    "whole_app_synthesis_status": "NOT_YET_TESTED_AS_CANONICAL_CPS_SELECTION_PENDING"
+    "whole_app_synthesis_status": "CANONICAL_CPS_B_SELECTED_NOT_YET_TESTED_IN_REPRESENTATIVE_REAL_APP_ASSEMBLY"
   }
 }

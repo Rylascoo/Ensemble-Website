@@ -2354,7 +2354,21 @@ Phase C roadmap exit still requires a Director-approved shared identity system b
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN NO-ACTION READINESS AUDIT.**
 
-## L-152 - Phase C completion audit corrects overbroad parking and activates IMG-01
+## L-152 - Website Placeholder V2 is promoted and live-verified without expanding product disclosure
+
+**State:** TEMPORARY PUBLIC PRODUCTION PROMOTED / DIRECTOR LIVE VERIFICATION PASS / FINAL BRAND AUTHORITY NOT CREATED
+
+The secrecy-first Placeholder V2 completed its bounded publication sequence. Deterministic local preflight passed after correcting vertical-clipping and 320px/200%-text reflow defects. Cloudflare non-production version `ef84149d` was then reviewed by the Director and passed the visual gate. PR #60 merged the exact approved website bytes plus continuity evidence to `main` at `544e7009e22524cde36c9a48500a0c629aa55b01`; the existing GitHub-to-Cloudflare integration deployed `main` automatically. The Director subsequently verified `www.kymaean.com` visually matches the approved preview.
+
+The recursive closeout audit also corrected the V2 direction document's noncanonical D-R1 header from `ACTIVE EVIDENCE` to canonical `ACTIVE LAW`; this changes repository classification only, not the approved visual result or authority scope.
+
+The public surface remains intentionally limited to `KYMÆAN`, `Something is taking shape.`, and `In development`. It uses the recovered-control Threshold K and inherited O3 geometry with deterministic HTML/CSS atmosphere and no product-concept disclosure. This temporary publication does not select a final palette, final type system, final Threshold K, final O3 wordmark, native-app implementation, or APP-SYN-01 CLR winner, and it does not reopen any parked Stage gate.
+
+**Next boundary:** keep Placeholder V2 stable while the app remains unfinished; close the merged website source-branch lifecycle under archive-tag/strict-ancestor/zero-unique law. Any later public expansion requires a new authorized website/brand gate.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT AND DIRECTOR LIVE VERIFICATION.**
+
+## L-153 - Phase C completion audit corrects overbroad parking and activates IMG-01
 
 **State:** PHASE C MATERIAL INCOMPLETE / IMG-01 ACTIVE / METHOD FROZEN / PRE-MATERIALIZATION / NO VISUAL RESULT
 
@@ -2369,7 +2383,7 @@ The same audit repairs one factual provenance typo in L-150: the archive ref is 
 **Next boundary:** freeze the IMG-01 Stage-0 evidence atlas/source manifest, then freeze all three art-direction families before visual materialization or subjective comparison. No CLR selection, Phase D entry, Stage change, closed-gate reopening, bespoke product-icon semantics, or WinUI/runtime authority is created.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PHASE C COMPLETION AUDIT / IMG-01 METHOD FREEZE.**
-## L-153 - IMG-01 Stage-0 evidence atlas and three family definitions are frozen
+## L-154 - IMG-01 Stage-0 evidence atlas and three family definitions are frozen
 
 **State:** IMG-01 ACTIVE / STAGE-0 FROZEN / THREE FAMILIES FROZEN / REFERENCE BOARD NEXT / NO NEW VISUAL GENERATION
 
@@ -2383,7 +2397,7 @@ No new generated visual has been consumed, no subjective family scoring has begu
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN IMG-01 STAGE-0 + FAMILY FREEZE.**
 
-## L-154 - IMG-01 mechanical preflight passes; Director prior exposure is quarantined before scoring
+## L-155 - IMG-01 mechanical preflight passes; Director prior exposure is quarantined before scoring
 
 **State:** IMG-01 MECHANICAL PREFLIGHT PASS / ALL THREE FAMILIES SURVIVE / DIRECTOR PRIOR EXPOSED PRE-SCORING / EXEMPLAR MATERIALIZATION NEXT / NO SUBJECTIVE RANKING
 
@@ -2397,7 +2411,7 @@ The Director prior is compatible with the frozen IMG-01 law but does not modify 
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN IMG-01 MECHANICAL PREFLIGHT / PRIOR-EXPOSURE QUARANTINE AUDIT.**
 
-## L-155 - IMG-01 sterile renderer packets are frozen for three isolated first outputs
+## L-156 - IMG-01 sterile renderer packets are frozen for three isolated first outputs
 
 **State:** IMG-01 PACKETS FROZEN / 3 EXTERNAL FIRST RENDERS AUTHORIZED / 0 RENDERS CONSUMED / NO SUBJECTIVE RANKING
 
@@ -2413,7 +2427,7 @@ The Director Character/Image prior was read after mechanical preflight and befor
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
 
-## L-156 - IMG-01 raw exemplar method-bound evaluation leaves F1 as sole current survivor
+## L-157 - IMG-01 raw exemplar method-bound evaluation leaves F1 as sole current survivor
 
 **State:** IMG-01 RAW EXEMPLARS PRESERVED / METHOD-BOUND VIEW FROZEN / F1 SURVIVES WITH USAGE RESTRAINT / F2 TARGETED REFINEMENT REQUIRED / F3 REJECTED / DIRECTOR-PRIOR CONCORDANCE NEXT
 
@@ -2427,7 +2441,7 @@ This evaluation did not use the Director qualitative prior as a criterion, promp
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN METHOD-BOUND IMG-01 EVALUATION.**
 
-## L-157 - IMG-01 prior concordance selects CPS-01 as the canonical Character-presence successor
+## L-158 - IMG-01 prior concordance selects CPS-01 as the canonical Character-presence successor
 
 **State:** IMG-01 METHOD HISTORY PRESERVED / F1 OPTIONAL EXPRESSIVE-DEPICTION EVIDENCE ONLY / F2 NOT RESCUED / F3 REJECTED / CPS-01 ACTIVE / DETERMINISTIC NON-RENDER METHOD FROZEN
 
@@ -2443,7 +2457,7 @@ No new renderer generation is authorized inside CPS-01. IMG-01 history is closed
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN IMG-01 PRIOR-CONCORDANCE / CPS-01 SUCCESSOR-METHOD AUDIT.**
 
-## L-158 - CPS-01 deterministic carrier leaves B/C survivor choice pending Director adjudication
+## L-159 - CPS-01 deterministic carrier leaves B/C survivor choice pending Director adjudication
 
 **State:** CPS-01 MECHANICAL PREFLIGHT PASS / DESIGN SOL VIEW FROZEN / CPS-B + CPS-C SURVIVE / CPS-A TARGETED REFINEMENT / DIRECTOR B-C ADJUDICATION PENDING
 
@@ -2459,3 +2473,18 @@ Concurrent public-site/Cloudflare work from then-live `main` was merged into the
 **Guardrail:** no CPS-A same-gate rescue, new renderer generation, IMG reroll, CLR selection, Stage modification, Phase-D entry, native/runtime/production authority or ODR resolution is created.
 
 **Next boundary:** Director adjudication between CPS-B and CPS-C only. After that decision, record the selected canonical presence architecture and continue only through the next repository-defined CPS successor step.
+
+
+## L-160 - Director selects CPS-B as canonical Character-presence architecture
+
+**State:** CPS-01 DIRECTOR ADJUDICATED / CPS-B CANONICAL PHASE C PRESENCE ARCHITECTURE / CPS-C LAWFUL NONSELECTED SURVIVOR / CPS-A TARGETED REFINEMENT REQUIRED
+
+The Director selected **CPS-B — Distributed Recognition Mesh** from the two frozen lawful survivors after Design Sol had independently frozen CPS-B first and CPS-C second. `docs/evidence/CPS_01_DIRECTOR_ARCHITECTURE_DECISION_01.json` SHA-256 `02f14c5360b07ca6b5d04f80e16fb9877976eee0c4a0ec10f1d9a924f82413a8` records the binding choice without rewriting the prior Design Sol evaluation.
+
+Packet `PKT-CPS-01-01` is updated to `PROVISIONAL_INCUMBENT` at SHA-256 `a5809cc02bedff5eab6bcea2ade77c21ba507b95a3eddfb5238f1c38db032772`. CPS-B now carries canonical Phase C Character identity/presence architecture law beneath optional depiction. Its redundancy must remain sparse and truthful; multiple cues are recovery support, not decorative inventory. CPS-C remains valid historical/non-selected survivor evidence rather than a rejection. CPS-A remains targeted-refinement-required with no same-gate rescue.
+
+IMG-01 history is unchanged, no new renderer generation is authorized, CLR remains deferred, Stage is unchanged, Phase C remains open, and no Phase-D/native/runtime/production authority is created.
+
+**Next boundary:** run a fresh Phase-C post-CPS reentry audit before activating DUR-01, any expressive-artwork successor, CLR, Stage-to-shell or Phase-D work.
+
+**DIRECTOR DECISION — CPS-B SELECTED.**

@@ -146,8 +146,8 @@
       "packet_id": "PKT-CPS-01-01",
       "path": "docs/evidence/packets/PKT_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_01.json",
       "axis": "canonical Character identity/presence architecture",
-      "status": "DIRECTOR_ADJUDICATION_PENDING",
-      "current_contribution": "CPS-B and CPS-C survive; Design Sol ranks CPS-B first; CPS-A requires targeted refinement; no canonical architecture selected",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Director-selected CPS-B Distributed Recognition Mesh is the canonical Phase C Character-presence architecture; CPS-C remains lawful non-selected evidence, CPS-A remains targeted-refinement-required; no production/runtime authority.",
       "production_authority": false
     }
   ],
@@ -167,7 +167,7 @@
     "PERF-S1 F2 Source-Aligned Header exact-incumbent Stage comparison closed with no subjective result after five technical construction failures and provenance-first recovery exhaustion. No technically valid challenger reached the nine Stage criteria; F2 neither passes nor fails Stage integration, gains no Stage authority, and receives no Method-06 same-gate recovery. PKT-STAGE-CORE-02 remains authoritative; any future F2 revisit requires a separately authorized gate plus materially new clean-plate/source provenance.",
     "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized.",
     "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence.",
-    "CPS-01 deterministic architecture scoring leaves CPS-B and CPS-C as lawful survivors; CPS-B is Design Sol's first-ranked recommendation, but canonical Character-presence architecture remains unresolved pending Director B/C adjudication."
+    "CPS-B is the Director-selected canonical Phase C Character-presence architecture, but representative real-app integration, final expressive depiction/artwork, production tokens and native implementation remain unresolved; CPS-01 selection alone does not authorize Phase D."
   ],
   "synthesis_policy": {
     "composition_packets_created": [

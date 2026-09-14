@@ -1,8 +1,8 @@
-<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
+<!-- D-R1-STATUS: ACTIVE LAW -->
 
 # Kymaean Website Placeholder V2 — Secrecy-First Direction 01
 
-Status: DIRECTOR VISUAL REVIEW PASS / PRODUCTION PROMOTION AUTHORIZED / LIVE VERIFICATION NEXT / NOT FINAL BRAND FREEZE
+Status: TEMPORARY PUBLIC PRODUCTION PROMOTED / DIRECTOR LIVE VERIFICATION PASS / NOT FINAL BRAND FREEZE
 Date: 2026-09-14
 Workstream: WEB / SHARED BRAND
 
@@ -100,8 +100,11 @@ The deployed composition preserves the intended hierarchy and secrecy boundary: 
 
 ## Next boundary
 
-Merge PR #60 only at its exact reviewed head after this decision record is included, then verify the automatic Cloudflare production deployment and `https://www.kymaean.com` externally. Do not reinterpret a successful temporary-placeholder promotion as final brand, palette, typography, app, or APP-SYN-01 authority.
+PR #60 merged the exact reviewed site and continuity record to `main` at `544e7009e22524cde36c9a48500a0c629aa55b01`. The existing GitHub-to-Cloudflare integration promoted `main` automatically, and the Director verified `https://www.kymaean.com` visually matches the approved preview. Keep the temporary placeholder stable while the app remains unfinished; do not reinterpret this publication as final brand, palette, typography, app, or APP-SYN-01 authority.
 
+## Production promotion / live verification - 2026-09-14
+
+PR #60 merged at `544e7009e22524cde36c9a48500a0c629aa55b01`. The GitHub-to-Cloudflare production path then deployed `main` automatically. The Director inspected `www.kymaean.com` after promotion and confirmed that it looks exactly like the approved Cloudflare preview. This closes the temporary-placeholder production gate without expanding its disclosure or brand authority.
 ## Non-authority
 
 This direction does not:

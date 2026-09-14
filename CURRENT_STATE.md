@@ -8,20 +8,15 @@ Updated: 2026-09-14
 Design: `Rylascoo/Ensemble-Website`; engineering/product: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap `AGENTS.md`; workflow `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; continuity `docs/DESIGN_CONTINUITY.md`; ledger `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository / concurrency
-Active serial branch: `design/phase-c-completion-audit-2026-09-13`. Reconciled `main` is `544e7009e22524cde36c9a48500a0c629aa55b01`, including merged placeholder-V2 PR #60. Preserve concurrent SYM-02 at `9308fb581c07d0b732cc488418a89c1c1ae4e750`. Fresh-resolve refs before writes.
+Active serial branch: `design/phase-c-completion-audit-2026-09-13`; reconciled promoted `main` is `37951c942a7fc4ffa3530800012ffb4a6f22b7f7`, including Placeholder V2 closeout and Threshold K favicon. Preserve concurrent SYM-02 `9308fb581c07d0b732cc488418a89c1c1ae4e750`. Fresh-resolve refs before writes.
 
-## Preserved Phase C law
-IMG-01 is unchanged: F1 remains optional expressive-depiction evidence with restraint; F2 remains targeted-refinement-required with no reroll rescue; F3 remains rejected. CLR F2/F1 remains deferred until representative real app assembly. `PKT-STAGE-CORE-02` remains exact Stage authority; Phase C remains open.
+## Website / preserved Phase C law
+Placeholder V2 is live-verified/closed; no active website publication branch. IMG-01 remains F1 optional expressive-depiction evidence with restraint / F2 targeted-refinement-required no-reroll / F3 rejected. CLR F2/F1 remains Director-deferred until representative real assembly. `PKT-STAGE-CORE-02` remains exact Stage authority. Phase C remains open.
 
-## Website placeholder V2
-PR #60 is merged into `main`; its Director-reviewed secrecy-first direction and deterministic preflight are preserved in `docs/evidence/WEBSITE_PLACEHOLDER_V2_SECRECY_FIRST_DIRECTION_01.md`. Any remaining deployment verification is separate and creates no final identity/palette/type authority or CPS/Stage change.
+## CPS-01
+`CPS-01 - Canonical Character Presence System` is **DIRECTOR ADJUDICATED / CPS-B SELECTED**. Decision `docs/evidence/CPS_01_DIRECTOR_ARCHITECTURE_DECISION_01.json` SHA `02f14c5360b07ca6b5d04f80e16fb9877976eee0c4a0ec10f1d9a924f82413a8`; updated packet `PKT-CPS-01-01` SHA `a5809cc02bedff5eab6bcea2ade77c21ba507b95a3eddfb5238f1c38db032772`. CPS-B Distributed Recognition Mesh is the canonical Phase C Character-presence architecture. Redundancy must stay sparse/truthful, never decorative inventory. CPS-C remains a lawful non-selected survivor; CPS-A remains targeted-refinement-required with no same-gate rescue. Frozen carrier/preflight/evaluation remain unchanged.
 
-## Active Design gate
-`CPS-01 - Canonical Character Presence System` is **MECHANICAL PREFLIGHT PASS / DESIGN SOL VIEW FROZEN / DIRECTOR B-C ADJUDICATION PENDING**. Carrier SHA `28fb10f481345288b8dc1cb278caf60a804027b82a1a4fd7058ccdd9f04ea65e`; preflight SHA `6cb91ac47baf957e15fe8fef6d8daa9cab5cadc9c97d22acf3fb4ee98b486275`; evaluation SHA `b85fd86efc65bd74d1def8c2e9445f343257801c04cd3510de02eea222e19137`; packet SHA `e3c12d607e370dd4304421082d29719a9a39a72f2c0906facb27d18279b4069f`.
-
-CPS-B Distributed Recognition Mesh and CPS-C Context-Persistent Presence Scaffold survive; Design Sol ranks B first. C survives only if context never substitutes for or mutates identity. CPS-A Nested Invariant Stack requires targeted refinement for structural MICRO/COMPACT emblem/avatar pressure; no same-gate rescue.
-
-## CPS exact next action / hard boundary
-Director adjudication only: choose **CPS-B** or **CPS-C** as the canonical Phase C Character-presence architecture. Do not tune candidates, generate Character artwork, reopen IMG-01, select CLR, modify Stage, enter Phase D, invent product semantics, resolve ODR questions, or claim native/runtime/production authority before recording that choice.
+## Exact next action / hard boundary
+Run a fresh Phase-C post-CPS reentry audit. Do not activate DUR-01, a renderer/artwork successor, CLR, Stage-to-shell or Phase D before that audit. No new Character art, Stage change, product-semantic invention, ODR resolution, or native/runtime/production authority is created by CPS-B selection.
 
 Fresh-chat handoff: `docs/HANDOFF_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_2026_09_13.md`.

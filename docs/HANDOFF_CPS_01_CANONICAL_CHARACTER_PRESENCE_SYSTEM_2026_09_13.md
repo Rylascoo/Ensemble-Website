@@ -4,7 +4,7 @@
 
 Date: 2026-09-13
 
-Status: `PHASE C ACTIVE / IMG-01 HISTORY FROZEN / CPS-01 MECHANICAL PREFLIGHT PASS / DESIGN SOL VIEW FROZEN / DIRECTOR B-C ADJUDICATION PENDING`
+Status: `PHASE C ACTIVE / CPS-01 DIRECTOR-SELECTED CPS-B / CONTINUITY CLOSEOUT + POST-CPS REENTRY AUDIT NEXT`
 
 ## Authority recovery
 
@@ -120,16 +120,11 @@ Do not feed those images into CPS-01 construction as visual style references. Th
 
 ## Exact next action
 
-The deterministic CPS-01 carrier, mechanical/accessibility preflight and Design Sol architecture scoring are complete and frozen. Read:
+CPS-B — Distributed Recognition Mesh is Director-selected as the canonical Phase C Character-presence architecture. Record and verify that selection without changing the frozen Design Sol evaluation, then run a fresh Phase-C post-CPS reentry audit before activating any successor renderer, DUR-01, CLR, Stage-to-shell or Phase-D work.
 
-- `docs/evidence/CPS_01_MECHANICAL_ACCESSIBILITY_PREFLIGHT_01.json` — SHA-256 `6cb91ac47baf957e15fe8fef6d8daa9cab5cadc9c97d22acf3fb4ee98b486275`;
-- `docs/evidence/CPS_01_DESIGN_SOL_ARCHITECTURE_EVALUATION_01.json` — SHA-256 `b85fd86efc65bd74d1def8c2e9445f343257801c04cd3510de02eea222e19137`;
-- `docs/evidence/packets/PKT_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_01.json` — SHA-256 `e3c12d607e370dd4304421082d29719a9a39a72f2c0906facb27d18279b4069f`;
-- human review surface `prototypes/cps-01/carrier.html` — SHA-256 `28fb10f481345288b8dc1cb278caf60a804027b82a1a4fd7058ccdd9f04ea65e`.
+Decision authority: `docs/evidence/CPS_01_DIRECTOR_ARCHITECTURE_DECISION_01.json` SHA-256 `02f14c5360b07ca6b5d04f80e16fb9877976eee0c4a0ec10f1d9a924f82413a8`; updated `PKT-CPS-01-01` SHA-256 `a5809cc02bedff5eab6bcea2ade77c21ba507b95a3eddfb5238f1c38db032772`.
 
-CPS-B and CPS-C are the only surviving architectures. Design Sol independently ranks CPS-B first. CPS-C remains lawful only with strict context-dependency restraint. CPS-A requires targeted refinement and may not be repaired inside this consumed comparison after result exposure.
-
-The next action is a genuine Director identity decision: choose **CPS-B — Distributed Recognition Mesh** or **CPS-C — Context-Persistent Presence Scaffold** as the canonical Phase C Character-presence architecture. Do not continue into artwork stress tests or successor materialization until that choice is recorded.
+Preserve CPS-C as a lawful non-selected survivor and CPS-A as targeted-refinement-required. CPS-B redundancy must remain sparse/truthful and must not become decorative identity inventory.
 
 ## Hard boundaries
 

@@ -13,7 +13,7 @@ Groups reflect only the first-line D-R1 machine header, never legacy body `Statu
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (47)
+## ACTIVE LAW (48)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -58,6 +58,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/LANE_B_WEBSITE_V0_SITE_SPINE_APPROVAL_01.md`
 - `docs/evidence/ODR_33_HERO_CAUSAL_OBSERVABILITY_DIRECTOR_APPROVAL_01.md`
 - `docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md`
+- `docs/evidence/WEBSITE_PLACEHOLDER_V2_SECRECY_FIRST_DIRECTION_01.md`
 - `docs/templates/HERO_METHOD_02_CONSTRUCTION_RECORD_TEMPLATE.md`
 - `docs/templates/HERO_METHOD_02_CONSTRUCTION_REVIEW_PACKAGE_TEMPLATE.md`
 - `docs/templates/HERO_METHOD_02_RESPONSIVE_SEMANTIC_ENVELOPE_TEMPLATE.md`
@@ -75,7 +76,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md`
 - `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
 
-## HISTORICAL EVIDENCE (230)
+## HISTORICAL EVIDENCE (229)
 
 - `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`
 - `docs/HANDOFF_V0_4_PRESENCE.md`
@@ -303,7 +304,6 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01_DIRECTOR_DECISION.md`
 - `docs/evidence/HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01_RECURSIVE_AUDIT.md`
 - `docs/evidence/R0_TO_DESIGN_SYNTHESIS_TRANSITION_APPROVAL.md`
-- `docs/evidence/WEBSITE_PLACEHOLDER_V2_SECRECY_FIRST_DIRECTION_01.md`
 - `docs/renderer/KYMAEAN_HERO_CANDIDATE_01_RENDERER_PACKET_H-A.md`
 - `docs/renderer/KYMAEAN_HERO_CANDIDATE_01_RENDERER_PACKET_H-B.md`
 - `docs/renderer/KYMAEAN_HERO_CANDIDATE_01_RENDERER_PACKET_H-C.md`
