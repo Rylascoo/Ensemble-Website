@@ -1,0 +1,100 @@
+{
+  "schema": "kymaean.appui-working-composition-pass.v1",
+  "status": "WORKING_DESIGN_EVIDENCE_DIRECTOR_REACTION_PENDING",
+  "date": "2026-09-14",
+  "program": "APPUI-01 — Windows 11 ARM64 Working App Visual Prototype",
+  "repository": "Rylascoo/Ensemble-Website",
+  "branch": "design/appui01-working-compositions-2026-09-14",
+  "baseline": "405c8d014300e8154f1cd5dc0e0c326d0498533a",
+  "concurrency": {
+    "website_main_observed": "0ebd9ce278847269208ddf43fc482e0b1ca7165d",
+    "appui_source_branch": "design/phase-c-completion-audit-2026-09-13",
+    "website_stream_merged_or_rebased": false,
+    "site_streams_modified": false
+  },
+  "purpose": "Materialize the first representative real Windows desktop assembly around the frozen Stage so hierarchy, navigation, Stage adjacency, Character presence, inspector behavior and causal-history placement can be judged as compositions rather than abstract gates.",
+  "governing_inputs": [
+    "CURRENT_STATE.md at baseline",
+    "docs/evidence/APP_UI_DIRECTOR_ITERATIVE_DESIGN_PIVOT_2026_09_14.json",
+    "docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json",
+    "docs/evidence/packets/PKT_STAGE_CORE_02.json",
+    "docs/evidence/packets/PKT_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_01.json",
+    "docs/evidence/packets/PKT_APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_01.json",
+    "docs/evidence/APP_SYN_01_DESIGN_SOL_WHOLE_SYSTEM_VIEW_01.json",
+    "docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md",
+    "docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md",
+    "docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md"
+  ],
+  "engineering_truth_observed": {
+    "repository": "Rylascoo/Ensemble-Project",
+    "main": "57ec145c09e701e5d62907ae75046f38b5cbe285",
+    "boundary": "E0-D blocked before execution; live execution/provider traffic not authorized. The compositions therefore make no E0-D, provider-runtime, WinUI-runtime, package, WACK or Store-readiness claim."
+  },
+  "frozen_stage_source": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "file_name": "Kymaean Core Stage Background Successor 01 — Frozen.png",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "use": "Exact pixel crops only inside the new shell compositions; no Stage geometry, scenery or Character-cone redesign."
+  },
+  "drive_archive": {
+    "folder_id": "1YxHR5B5AAeLBlWHbbLZmYVx27Qht2Ylo",
+    "folder_name": "17 APPUI-01 Windows Working Composition Pass 01",
+    "files": [
+      {
+        "role": "COMPOSITION_A_LIVE_STAGE_WORKSPACE",
+        "drive_file_id": "15GwAjdIiBYR5Dm8x809-J244CZfkqXLi",
+        "file_name": "APPUI-01 Composition A — Live Stage Workspace.png",
+        "dimensions": [1600, 1000],
+        "bytes": 742142,
+        "sha256": "509b0db2f6a20ff52aad3541485072083bbd0462318eb56e2b631fef783ab504"
+      },
+      {
+        "role": "COMPOSITION_B_PRODUCTION_OVERVIEW",
+        "drive_file_id": "19VS3DohkrULndXMdohjEC_1jH4BV6Wze",
+        "file_name": "APPUI-01 Composition B — Production Overview.png",
+        "dimensions": [1600, 1000],
+        "bytes": 289668,
+        "sha256": "fe2cb6b2b3d5a012f112f544825bc539dfe0f27d3318108e00ec25d17356fc8d"
+      }
+    ]
+  },
+  "working_direction": {
+    "shell": "Quiet low-chroma Windows desktop frame with compact durable-scope rail and persistent Production/Scene anchors; identity concentrated at title/scope rather than repeated as component ornament.",
+    "stage": "Frozen Stage remains the visual/semantic center and strongest chromatic field.",
+    "character": "Selected Character uses explicit name plus sparse CPS-B-inspired distributed recognition cues and semantic state/relationship text; no portrait dependency.",
+    "history": "Causal history is adjacent to present work: accepted event, changed condition and unresolved movement remain distinguishable without promoting History to a disconnected application mode.",
+    "state": "Persistent selection and keyboard-focus witness are intentionally separate non-color carriers in the working composition.",
+    "color": "Cool low-chroma supporting shell is provisional synthesis exploration only; CLR F2/F1 remains unselected and no final palette is claimed.",
+    "typography_material_motion": "Working composition choices only; no final typeface/material/motion authority is created."
+  },
+  "recursive_audit": {
+    "pass_1_findings": [
+      "Live Stage crop clipped inherited left-edge text.",
+      "Causal-history pane was vertically overpacked.",
+      "Navigation rail labels were visually awkward.",
+      "Production overview Stage preview was initially too reduced/letterboxed."
+    ],
+    "repairs": [
+      "Changed live Stage crop to contained exact-pixel source framing.",
+      "Reduced history density and increased action separation.",
+      "Shortened rail labels while preserving durable-scope meaning.",
+      "Changed overview preview to a larger exact Stage Character-field crop."
+    ],
+    "final_pass": "CLEAN_WITHIN_WORKING-PROTOTYPE_SCOPE",
+    "remaining_questions": [
+      "Director reaction to the overall shell-to-Stage depth relationship and density.",
+      "Whether the causal-history adjacency is the right prominence for the working experience.",
+      "Whether the provisional cool supporting shell feels meaningfully Kymaean or too conventional before further iteration."
+    ]
+  },
+  "explicit_non_authority": [
+    "No final APPUI selection or production design system.",
+    "No CLR winner, final typography, material, motion, Character artwork or final navigation labels.",
+    "No change to PKT-STAGE-CORE-02 pixels/geometry authority.",
+    "No WinUI/XAML implementation or Windows runtime accessibility validation.",
+    "No ARM64 performance, MSIX/package identity, WACK, Partner Center, Store certification or shipping authority.",
+    "No Director taste decision is inferred from creation of this pass."
+  ],
+  "next": "Present both compositions to the Director for reaction, then iterate the representative Windows desktop assembly. Do not reconcile or merge concurrent Website Sol history merely to continue APPUI."
+}
