@@ -221,11 +221,10 @@ def main():
         fail("renderer packet parity/prior audit")
     if pa.get("subjective_family_scoring_started") is not False or pa.get("new_visual_generation_consumed") is not False:
         fail("renderer packet pre-execution boundary")
-    for token in ("IMG-01", AUDIT.relative_to(ROOT).as_posix(), AUDIT_SHA, METHOD_SHA, FAMILIES_SHA,
-                  EXPOSURE_SHA, PACKETS.relative_to(ROOT).as_posix(), PACKETS_SHA,
-                  EVALUATION.relative_to(ROOT).as_posix(), EVALUATION_SHA,
-                  "RAW EXEMPLARS PRESERVED + METHOD-BOUND VIEW FROZEN", "F1 SOLE CURRENT SURVIVOR WITH USAGE RESTRAINT",
-                  "F2 TARGETED REFINEMENT REQUIRED", "F3 REJECTED", "DIRECTOR-PRIOR CONCORDANCE NEXT", "NO FINAL IDENTITY"):
+    for token in ("IMG-01", EVALUATION.relative_to(ROOT).as_posix(), EVALUATION_SHA,
+                  "F1 OPTIONAL EXPRESSIVE-DEPICTION EVIDENCE WITH USAGE RESTRAINT",
+                  "F2 TARGETED REFINEMENT REQUIRED", "F3 REJECTED",
+                  "CPS-01 - Canonical Character Presence System"):
         if token not in current:
             fail(f"CURRENT_STATE missing {token}")
     if "L-154 - IMG-01 mechanical preflight passes; Director prior exposure is quarantined before scoring" not in ledger:

@@ -2426,3 +2426,19 @@ This evaluation did not use the Director qualitative prior as a criterion, promp
 **Guardrail:** no renderer reroll/refinement, final Character/image identity, CLR selection, Stage change, Phase-C exit, app/site implementation or production/runtime authority is created by this result.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN METHOD-BOUND IMG-01 EVALUATION.**
+
+## L-157 - IMG-01 prior concordance selects CPS-01 as the canonical Character-presence successor
+
+**State:** IMG-01 METHOD HISTORY PRESERVED / F1 OPTIONAL EXPRESSIVE-DEPICTION EVIDENCE ONLY / F2 NOT RESCUED / F3 REJECTED / CPS-01 ACTIVE / DETERMINISTIC NON-RENDER METHOD FROZEN
+
+`docs/evidence/IMG_01_DIRECTOR_PRIOR_CONCORDANCE_01.json` freezes the separately quarantined Director-prior comparison at SHA-256 `1ddf51fa28ddea497b8dd1da353f26733c0cf1a7a857e02020e1322a9c06ce27`. It does not change the hosted-green method-bound IMG-01 result: IMG-F1 survives only with usage restraint; IMG-F2 remains targeted-refinement-required; IMG-F3 remains rejected.
+
+The concordance exposes a system-level conflict rather than a new image winner. IMG-F1 is useful as optional expressive depiction, but its finished figurative/editorial form cannot carry canonical identity because the Director prior requires identity to survive loss of portrait/face, crop, scale, color and depiction mode. IMG-F2's invariant-identity thesis aligns strongly with that unresolved requirement, but its consumed output failed to demonstrate the mechanism and may not be rescued through result-aware rerendering. IMG-F3's contextual field-response idea survives only as a subordinate law; its rejected spectacle surface does not reopen.
+
+`docs/evidence/CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_METHOD_01.json` freezes CPS-01 at SHA-256 `3069f468a0fb98964758154f82e126d7a4296a529b78885c90818235527d6dc4`. CPS-01 is a deterministic non-render system-architecture gate. It separates five layers: canonical identity/presence, authorized current state, authoritative history residue, relational context, and optional expressive depiction. It preregisters CPS-A Nested Invariant Stack, CPS-B Distributed Recognition Mesh, and CPS-C Context-Persistent Presence Scaffold, with controlled grayscale/value-first roles and a portrait-independent/accessibility/crop/cross-surface promotion floor.
+
+No new renderer generation is authorized inside CPS-01. IMG-01 history is closed against rerolls/retunes; CLR remains deferred; Stage remains unchanged; Phase C remains open; Phase D/runtime/production authority is not created.
+
+**Next boundary:** construct the deterministic CPS-A/B/C comparison carrier and complete mechanical/accessibility preflight before any architecture scoring or later artwork proposal.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN IMG-01 PRIOR-CONCORDANCE / CPS-01 SUCCESSOR-METHOD AUDIT.**
