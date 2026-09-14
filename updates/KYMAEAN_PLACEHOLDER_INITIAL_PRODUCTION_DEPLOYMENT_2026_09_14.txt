@@ -38,7 +38,7 @@ EVIDENCE BOUNDARY
 The success and live-domain observations above are Director/browser supplied. The Design Sol web-fetch surface did not independently obtain a fresh indexed fetch of the newly deployed domain during this session, so this record does not claim independent external crawler verification.
 
 ROUTING / DNS BOUNDARY
-The website Worker owns `www.kymaean.com`. Mail-related Zoho MX/TXT/DKIM records remain outside website deployment scope and were not intentionally modified as part of this deployment. The earlier temporary/legacy root Worker was removed during routing cleanup; the root hostname is now intended only to redirect to the canonical `www` hostname.
+The website Worker owns `www.kymaean.com`. Mail-related Zoho MX/TXT/DKIM records remain outside website deployment scope and were not intentionally modified as part of this deployment. The prior root-domain Worker `delicate-violet-126c` was removed during routing cleanup; the root hostname is now intended only to redirect to the canonical `www` hostname.
 
 SUCCESSOR HARDENING
 A successor repository-only hardening change is prepared on `site/cloudflare-production-hardening-2026-09-14` to make the dashboard routing intent durable in `site/wrangler.jsonc`:
