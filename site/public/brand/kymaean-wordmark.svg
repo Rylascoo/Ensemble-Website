@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 122" role="img" aria-labelledby="title">
+<title id="title">KYMÆAN — O3 Balanced Hierarchy temporary wordmark incumbent</title>
+<style>
+.v{fill:none;stroke:currentColor;stroke-width:5.9;stroke-linecap:round;stroke-linejoin:round}
+.d{fill:none;stroke:currentColor;stroke-width:5.35;stroke-linecap:round;stroke-linejoin:round}
+.h{fill:none;stroke:currentColor;stroke-width:4.55;stroke-linecap:round;stroke-linejoin:round}
+.fine{fill:none;stroke:currentColor;stroke-width:2.35;stroke-linecap:round;stroke-linejoin:round;opacity:.7}
+</style>
+<path class="v" d="M30 18L30 104"/><path class="d" d="M33 62L96 18"/><path class="d" d="M33 62L98 104"/>
+<path class="d" d="M118 18L156 62L194 18"/><path class="v" d="M156 62L156 104"/>
+<path class="v" d="M220 104L220 18"/><path class="d" d="M220 18L262 58L304 18"/><path class="v" d="M304 18L304 104"/>
+<path class="d" d="M338 104L376 18"/><path class="d" d="M376 18L400 104"/>
+<path class="h" d="M377 18L432 18"/><path class="h" d="M358 64L414 64"/><path class="h" d="M400 104L432 104"/><path class="fine" d="M414 64L436 64"/>
+<path class="d" d="M462 104L501 18L540 104"/><path class="h" d="M480 64L522 64"/>
+<path class="v" d="M570 104L570 18"/><path class="d" d="M570 18L648 104"/><path class="v" d="M648 104L648 18"/>
+</svg>
