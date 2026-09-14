@@ -2,7 +2,7 @@
 
 # Kymaean Website Placeholder V2 — Secrecy-First Direction 01
 
-Status: DIRECTOR-APPROVED CREATIVE DIRECTION / PREVIEW IMPLEMENTATION ACTIVE / NOT FINAL BRAND FREEZE
+Status: DIRECTOR-APPROVED CREATIVE DIRECTION / LOCAL PREFLIGHT PASS / CLOUDFLARE PREVIEW REVIEW NEXT / NOT FINAL BRAND FREEZE
 Date: 2026-09-14
 Workstream: WEB / SHARED BRAND
 
@@ -64,9 +64,35 @@ The intended hierarchy is:
 
 ## Implementation boundary
 
-The production candidate should use exact inline SVG geometry for Threshold K and O3 rather than rasterized or generated logo text. The atmospheric field may be deterministic HTML/CSS and should avoid unnecessary image payload, JavaScript, remote fonts, frameworks, WebGL, or external runtime dependencies.
+The production candidate uses exact inline SVG geometry for Threshold K and O3 rather than rasterized or generated logo text. The atmospheric field is deterministic HTML/CSS with no image payload, JavaScript, remote fonts, framework, WebGL, or external runtime dependency.
 
-The implementation remains preview-only until responsive/accessibility/source audit and Director visual review of the Cloudflare branch preview are complete.
+The implementation remains preview-only until Director visual review of the Cloudflare branch preview is complete.
+
+## Deterministic local preflight — 2026-09-14
+
+The current branch implementation was read back and exercised in headless Chromium before Cloudflare preview review.
+
+Source/provenance checks:
+
+- all three recovered-control Threshold K paths exactly match the authenticated Drive source;
+- all nineteen O3 wordmark paths exactly match the authenticated Drive source;
+- the deployable HTML contains no remote URL, script, image dependency, product explanation, or runtime/provider disclosure;
+- visible non-decorative text contrast against `#090b0c` is: Threshold K `#d8cdb9` 12.54:1; O3 `#ddd5c7` 13.54:1; tagline `#c6bfb4` 10.81:1; status `#8d887f` 5.60:1.
+
+Responsive/accessibility browser checks:
+
+- 1440×900: document width 1440 / scroll width 1440;
+- 390×844: document width 390 / scroll width 390;
+- 320×640: document width 320 / scroll width 320;
+- 320×640 with a 200% root-text-size approximation: document width 320 / scroll width 320; content remains readable and vertically available;
+- `prefers-reduced-motion: reduce`: decorative lockup/field animation computes to `none` while the complete static hierarchy remains present;
+- `forced-colors: active`: atmospheric field computes to `display:none`; Threshold K, O3, message and status remain present in system colors with no horizontal overflow.
+
+The first preflight pass found two implementation defects before closure: vertical clipping risk from `overflow:hidden`, then narrow/200%-text horizontal overflow from viewport-based lockup sizing. Both were corrected and the complete preflight was rerun clean.
+
+## Next boundary
+
+Review the actual Cloudflare non-production deployment of draft PR #60 on desktop/mobile. Do not merge into `main` or replace the current public placeholder until that deployed visual review is clean.
 
 ## Non-authority
 
