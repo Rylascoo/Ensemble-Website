@@ -387,3 +387,25 @@ body {
     transition: none !important;
   }
 }
+
+
+@media (forced-colors: active) {
+  .material-field {
+    display: none;
+  }
+
+  .threshold-mark,
+  .wordmark {
+    forced-color-adjust: none;
+    background: CanvasText;
+  }
+
+  .tagline,
+  .status {
+    color: CanvasText;
+  }
+
+  .rule {
+    background: CanvasText;
+  }
+}
