@@ -15,17 +15,22 @@
     root.style.setProperty('--shift-y', `${nextY.toFixed(2)}px`);
   };
 
+  const queuePaint = () => {
+    if (!frame) frame = requestAnimationFrame(paint);
+  };
+
   window.addEventListener('pointermove', (event) => {
     const nx = (event.clientX / window.innerWidth - 0.5) * 2;
     const ny = (event.clientY / window.innerHeight - 0.5) * 2;
-    nextX = nx * 8;
-    nextY = ny * 5;
-    if (!frame) frame = requestAnimationFrame(paint);
+    nextX = nx * 4;
+    nextY = ny * 3;
+    queuePaint();
   }, { passive: true });
 
-  document.documentElement.addEventListener('mouseleave', () => {
+  window.addEventListener('pointerout', (event) => {
+    if (event.relatedTarget !== null) return;
     nextX = 0;
     nextY = 0;
-    if (!frame) frame = requestAnimationFrame(paint);
-  });
+    queuePaint();
+  }, { passive: true });
 })();

@@ -2,7 +2,6 @@
   color-scheme: dark;
   --void: #080a0a;
   --field: #0c0e0e;
-  --field-soft: #111313;
   --ink: #e7e1d6;
   --muted: #a39d92;
   --stone: #d6c9ae;
@@ -83,7 +82,7 @@ body {
   background:
     radial-gradient(ellipse at 48% 46%, rgba(255, 255, 255, 0.016), transparent 44%),
     linear-gradient(90deg, rgba(0, 0, 0, 0.28), transparent 36% 68%, rgba(0, 0, 0, 0.22));
-  transform: translate3d(calc(var(--shift-x) * -0.18), calc(var(--shift-y) * -0.18), 0);
+  transform: translate3d(calc(0px - var(--shift-x)), calc(0px - var(--shift-y)), 0);
   transition: transform 1.1s cubic-bezier(.2,.7,.2,1);
 }
 
@@ -97,6 +96,7 @@ body {
     linear-gradient(145deg, #111313 0%, #0a0c0c 72%);
   box-shadow: inset 0 0 6rem rgba(0, 0, 0, 0.38);
   will-change: transform;
+  transition: transform 1.1s cubic-bezier(.2,.7,.2,1);
 }
 
 .plane-left {
@@ -106,7 +106,7 @@ body {
   width: 41%;
   clip-path: polygon(0 0, 92% 0, 66% 100%, 0 100%);
   opacity: 0.72;
-  transform: translate3d(calc(var(--shift-x) * -0.35), calc(var(--shift-y) * -0.18), 0);
+  transform: translate3d(calc(0px - var(--shift-x)), calc(0px - var(--shift-y)), 0);
 }
 
 .plane-right {
@@ -116,7 +116,7 @@ body {
   height: 122%;
   clip-path: polygon(35% 0, 100% 0, 100% 100%, 0 100%, 24% 54%);
   opacity: 0.62;
-  transform: translate3d(calc(var(--shift-x) * 0.28), calc(var(--shift-y) * 0.12), 0);
+  transform: translate3d(var(--shift-x), var(--shift-y), 0);
 }
 
 .plane-low {
@@ -126,7 +126,7 @@ body {
   height: 56%;
   clip-path: polygon(30% 0, 100% 18%, 100% 100%, 0 100%);
   opacity: 0.42;
-  transform: translate3d(calc(var(--shift-x) * 0.18), calc(var(--shift-y) * 0.08), 0);
+  transform: translate3d(var(--shift-x), var(--shift-y), 0);
 }
 
 .seam {
@@ -138,7 +138,8 @@ body {
   background: linear-gradient(to bottom, transparent, rgba(214, 201, 174, 0.08) 22%, rgba(168, 117, 69, 0.4) 52%, rgba(214, 201, 174, 0.09) 76%, transparent);
   opacity: 0.72;
   box-shadow: 0 0 1.9rem rgba(168, 117, 69, 0.12);
-  transform: translate3d(calc(var(--shift-x) * 0.1), calc(var(--shift-y) * 0.1), 0) rotate(7deg);
+  transform: translate3d(var(--shift-x), var(--shift-y), 0) rotate(7deg);
+  transition: transform 1.1s cubic-bezier(.2,.7,.2,1);
 }
 
 .grain {
