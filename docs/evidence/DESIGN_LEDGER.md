@@ -2399,3 +2399,15 @@ No new product disclosure, app UI, Stage imagery, Character imagery, identity ge
 **Next boundary:** promote draft PR #65 to `main` using the exact reviewed source, then verify `www.kymaean.com` serves the promoted bytes before closing the serial branch lifecycle. Production must not be called complete until that live verification passes.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-155 - V2.1 production verification finds Cloudflare analytics injection; no-analytics integrity repair opens
+
+**State:** PR #65 PROMOTED / SOURCE LIFECYCLE CLOSED / PRODUCTION VERIFICATION BLOCKED / NO-ANALYTICS REPAIR ACTIVE
+
+PR #65 merged the clean hosted V2.1 candidate to `main@5d698484bfb8a8b65b4b9acc429cf3713a522f9b`. Exact source `fc397989bee4c67df5feeae6162548bab327cbaf` is preserved at `archive/site/placeholder-v2-1-atmospheric-finish-2026-09-14`; strict-ancestor and zero-unique proof passed before remote source-branch retirement.
+
+Live `www.kymaean.com` immediately served the promoted V2.1 marker and all five non-HTML public assets matched audited source. `index.html` differed only by an automatically injected Cloudflare Web Analytics `beacon.min.js` script before `</body>`. Because V2.1 explicitly forbids analytics, this is a deployment-boundary defect even though the rendered design remains approved.
+
+The narrow repair is source-controlled: `site/public/_headers` preserves Workers Static Assets' existing `public, max-age=0, must-revalidate` cache behavior and adds only `no-transform`, which Cloudflare documents as preventing automatic Web Analytics HTML injection. No visual source, identity geometry, public copy, DNS, mail, app, Stage, CLR, or final-brand authority changes.
+
+**Next boundary:** validate the `_headers` policy on the production-integrity branch, promote it only after repository and preview checks pass, then repeat exact live-byte and visual/accessibility verification. Production closure remains blocked until `www.kymaean.com` serves source-exact HTML without the beacon.

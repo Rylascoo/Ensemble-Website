@@ -2,7 +2,7 @@
 
 # Kymaean Website Placeholder V2.1 — Atmospheric Finish 01
 
-Status: HOSTED PREVIEW PASS / CLEAN RECURSIVE AUDIT / STANDING DESIGN APPROVAL EARNED / PRODUCTION PROMOTION NEXT / NOT FINAL BRAND FREEZE
+Status: PR #65 PROMOTED / PRODUCTION VERIFICATION DEFECT FOUND / NO-ANALYTICS INTEGRITY REPAIR ACTIVE / NOT FINAL BRAND FREEZE
 Date: 2026-09-14
 Workstream: WEB / SHARED BRAND
 PR: #65
@@ -79,6 +79,14 @@ The refreshed PR #65 branch preview serves the exact audited public-site candida
 
 The clean hosted recursive audit earns standing Design approval under repository law; no additional creative scope or product disclosure is created.
 
+## Production promotion verification
+
+PR #65 merged as `main@5d698484bfb8a8b65b4b9acc429cf3713a522f9b`. Its exact source `fc397989bee4c67df5feeae6162548bab327cbaf` is archive-tagged and its remote branch retired after strict-ancestor/zero-unique proof.
+
+Live verification found all five non-HTML public assets exact, while `index.html` differed only by a Cloudflare-injected `static.cloudflareinsights.com/beacon.min.js` Web Analytics script immediately before `</body>`. That edge mutation contradicts this evidence's explicit no-analytics implementation boundary, so production closeout is blocked even though the visual candidate remains approved.
+
+The bounded repair adds `site/public/_headers` with `Cache-Control: public, max-age=0, must-revalidate, no-transform`. Cloudflare documents `no-transform` as preventing automatic Web Analytics injection, and Workers Static Assets supports `_headers` as source-controlled response-header configuration. No visual, identity, copy, runtime, DNS, mail, or product authority changes.
+
 ## Next boundary
 
-Promote draft PR #65 to `main` using the exact reviewed source, then verify `https://www.kymaean.com/` serves the promoted bytes before declaring production complete or closing the serial branch lifecycle.
+Validate the `_headers` response in a non-production deployment, promote the exact repair, then verify `https://www.kymaean.com/` serves source-exact HTML without the analytics beacon and still passes the approved responsive/accessibility behavior. Do not declare V2.1 production complete before that live check is clean.
