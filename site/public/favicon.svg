@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220">
-  <rect width="220" height="220" rx="36" fill="#090b0c"/>
-  <g transform="translate(25.5 0)" fill="#d8cdb9">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 16 153 188" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .threshold-k { fill: #d8cdb9; }
+    @media (prefers-color-scheme: light) {
+      .threshold-k { fill: #171918; }
+    }
+  </style>
+  <g class="threshold-k">
     <path d="M18 46L66 18L66 54C66 74 58 86 43 95L18 107Z"/>
     <path d="M18 117L43 132C58 141 66 153 66 173L66 202L18 174Z"/>
     <path d="M151 24L93 59C76 69 69 84 69 104L69 118C69 139 79 153 98 164L151 199L151 183C151 172 144 162 133 155L106 139C90 130 83 121 83 110C83 99 88 92 98 84L140 57C147 52 151 43 151 32Z"/>
