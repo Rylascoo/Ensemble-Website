@@ -2695,3 +2695,17 @@ The audit corrected a second risk: E0 orchestration terms such as `CandidatePerf
 **Next boundary:** build the Stage Interface Envelope + task-dependent Phase 1 layout map using current architecture and recovered UI-layout inspiration. Do not create new Stage visual language until Phase 1 exit criteria pass and Engineering product-runtime architecture has been fresh-reconciled.
 
 **DIRECTOR THREE-PHASE SEQUENCING + CLEAN RECURSIVE AUDIT - ACTIVE.**
+
+## L-175 - Phase 1 Stage Interface Envelope and layout map becomes active structural law
+
+**State:** PHASE 1 STRUCTURAL MAP ACTIVE / NO NEW STAGE VISUAL AUTHORITY / NEXT = WIREFRAME MAP
+
+`docs/KYMAEAN_APPUI_PHASE_1_STAGE_INTERFACE_ENVELOPE_AND_LAYOUT_MAP_01.md` converts the Director-approved three-phase program into the concrete Phase-1 structural map. It defines four interface layers—application shell, live-workspace frame, Stage field and transient/deep task surfaces—and explicitly separates what must exist inside the theatrical field from what belongs adjacent to it.
+
+The map preserves `PKT-STAGE-CORE-02` as the dark Stage baseline without treating its five-Character composition as a product-wide cardinality law. It reserves UI capacity for persistent Character identity, current action/silence/refusal, Director attention/opportunity, relationship salience, Presentation Perspective, current/history distinction, provisional/effective meaning, creator-authority intervention and truthful capability failure while keeping unresolved Phase-D controls open.
+
+Recovered UI explorations are used only for layout principles: quiet durable scope, dominant task surface, asymmetric adjacent inspection, task-dependent density and progressive disclosure. Historical `Studio / Stage / Archive` navigation is not restored.
+
+**Next boundary:** create a structural grayscale/wireframe map before another polished composition, then exercise the Production/resume, Production-shaping/current-possibility, Live Stage, selected-Character, deep causal/history, Character-bounded, functional-state and adaptive-layout sequence defined by the active Phase-1 map.
+
+**PHASE 1 STRUCTURAL MAP - ACTIVE.**
