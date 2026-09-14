@@ -2,7 +2,7 @@
 
 # Kymaean Website Placeholder V2.1 — Atmospheric Finish 01
 
-Status: PR #65 PROMOTED / NO-ANALYTICS INTEGRITY REPAIR PREVIEW PASS / PR #66 PROMOTION NEXT / NOT FINAL BRAND FREEZE
+Status: LIVE PRODUCTION VERIFIED / NO-ANALYTICS INTEGRITY PASS / SOURCE LIFECYCLES CLOSED / TEMPORARY PLACEHOLDER STABLE / NOT FINAL BRAND FREEZE
 Date: 2026-09-14
 Workstream: WEB / SHARED BRAND
 PR: #65
@@ -93,6 +93,14 @@ Because the normal GitHub integration did not surface a PR #66 branch-preview UR
 
 Both repository workflows also pass on PR #66 head `39ccf73e93e78908bd2bc98eb3f11be13a72c98a`. This closes the non-production repair gate without changing the approved visual candidate.
 
+## Live production closure
+
+PR #66 merged with an exact-head guard as `main@0ebd9ce278847269208ddf43fc482e0b1ca7165d`. After edge propagation, live `https://www.kymaean.com/` returns `Cache-Control: public, max-age=0, must-revalidate, no-transform`, contains no Cloudflare Web Analytics beacon, and all six public assets match the audited repository source.
+
+Live production revalidation passes at 1440×900, 390×844, and 320×640 with the 200% root-text approximation; reduced motion exposes no decorative animations; actual Edge forced-colors removes the atmospheric field and uses system colors without overflow; fine-pointer response moves only the field to 2.80px × 2.20px while the 168×168 Threshold K rectangle remains pixel-identical; finite long-dwell settle/trace animations terminate cleanly.
+
+Exact repair source `5d042108f95ad794b518cf282f0c0c6c8474bfe7` is preserved at `archive/site/placeholder-v2-1-production-integrity-2026-09-14`, and its remote branch is retired after strict-ancestor/zero-unique proof. This is a Website Sol publication/deployment closure only; it does not adjudicate or alter Design Sol app, UI, identity-system, Stage, CLR, or final-brand work.
+
 ## Next boundary
 
-Promote PR #66 with an exact-head guard, then verify `https://www.kymaean.com/` serves source-exact HTML without the analytics beacon and still passes the approved responsive/accessibility behavior. Do not declare V2.1 production complete before that live check is clean.
+Keep the temporary V2.1 placeholder stable while the app remains unfinished. Any later website expansion or production-surface change requires a new authorized website/publication gate; broader app/brand design remains outside this closeout.

@@ -2425,3 +2425,19 @@ Both hosted repository workflows pass on the exact PR #66 head. No visual/public
 **Next boundary:** promote PR #66 using an exact-head guard, then verify `www.kymaean.com` returns source-exact HTML without the analytics beacon and repeats the already-approved production responsive/accessibility invariants before declaring V2.1 complete.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN NON-PRODUCTION INTEGRITY REPAIR AUDIT.**
+
+## L-157 - Website Placeholder V2.1 is live-verified in production; Website Sol publication closure complete
+
+**State:** LIVE PRODUCTION VERIFIED / NO-ANALYTICS INTEGRITY PASS / SOURCE LIFECYCLES CLOSED / NO ACTIVE WEBSITE PUBLICATION GATE
+
+PR #66 merged the bounded no-analytics repair to `main@0ebd9ce278847269208ddf43fc482e0b1ca7165d`. After Cloudflare edge propagation, `https://www.kymaean.com/` returns `Cache-Control: public, max-age=0, must-revalidate, no-transform`, contains no Web Analytics beacon, and all six public assets match the audited repository source exactly.
+
+Live production revalidation passes at 1440×900, 390×844, and 320×640 with the 200% root-text approximation. Reduced motion exposes no decorative animations. Actual Edge forced-colors removes the atmospheric field and substitutes system colors without horizontal overflow. Fine-pointer response moves only the field to 2.80px × 2.20px while the 168×168 Threshold K rectangle remains pixel-identical. Finite long-dwell settle/trace animations terminate cleanly.
+
+Exact integrity-repair source `5d042108f95ad794b518cf282f0c0c6c8474bfe7` is preserved at `archive/site/placeholder-v2-1-production-integrity-2026-09-14`; its remote source branch is retired after strict-ancestor/zero-unique proof. Earlier V2.1 source `fc397989bee4c67df5feeae6162548bab327cbaf` remains preserved at its archive tag.
+
+This is a Website Sol website-publication/deployment closure only. It does not adjudicate, modify, or supersede Design Sol app/UI/identity-system/Stage/CLR/final-brand work, including concurrent `design/*` branches.
+
+**Next boundary:** keep the temporary V2.1 placeholder stable while the app remains unfinished. Any later website expansion or production-surface change requires a new authorized website/publication gate.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN LIVE PRODUCTION WEBSITE CLOSEOUT.**
