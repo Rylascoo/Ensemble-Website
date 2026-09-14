@@ -6,7 +6,7 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 285
+Total Markdown documents: 286
 Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
@@ -75,7 +75,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md`
 - `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
 
-## HISTORICAL EVIDENCE (229)
+## HISTORICAL EVIDENCE (230)
 
 - `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`
 - `docs/HANDOFF_V0_4_PRESENCE.md`
@@ -303,6 +303,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01_DIRECTOR_DECISION.md`
 - `docs/evidence/HERO_THREE_ROUND_EXPERIMENTAL_EXHAUSTION_REVIEW_01_RECURSIVE_AUDIT.md`
 - `docs/evidence/R0_TO_DESIGN_SYNTHESIS_TRANSITION_APPROVAL.md`
+- `docs/evidence/WEBSITE_PLACEHOLDER_V2_SECRECY_FIRST_DIRECTION_01.md`
 - `docs/renderer/KYMAEAN_HERO_CANDIDATE_01_RENDERER_PACKET_H-A.md`
 - `docs/renderer/KYMAEAN_HERO_CANDIDATE_01_RENDERER_PACKET_H-B.md`
 - `docs/renderer/KYMAEAN_HERO_CANDIDATE_01_RENDERER_PACKET_H-C.md`
