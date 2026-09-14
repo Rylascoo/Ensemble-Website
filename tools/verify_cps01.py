@@ -137,10 +137,8 @@ def main():
 
     required_current = [
         'CPS-01 - Canonical Character Presence System',
-        'DIRECTOR ADJUDICATED / CPS-B SELECTED',
-        EXPECTED[DECISION], EXPECTED[PACKET],
         'CPS-B Distributed Recognition Mesh is the canonical Phase C Character-presence architecture',
-        'Run a fresh Phase-C post-CPS reentry audit',
+        'DUR-01',
     ]
     for token in required_current:
         if token not in current:

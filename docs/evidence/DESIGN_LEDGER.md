@@ -2488,3 +2488,19 @@ IMG-01 history is unchanged, no new renderer generation is authorized, CLR remai
 **Next boundary:** run a fresh Phase-C post-CPS reentry audit before activating DUR-01, any expressive-artwork successor, CLR, Stage-to-shell or Phase-D work.
 
 **DIRECTOR DECISION — CPS-B SELECTED.**
+
+## L-161 - Post-CPS reentry activates DUR-01 integrated identity durability
+
+**State:** CPS-B CANONICAL / DUR-01 ACTIVE / METHOD FROZEN PRE-CONSTRUCTION / NO RENDERER GENERATION
+
+`docs/evidence/PHASE_C_POST_CPS_01_REENTRY_AUDIT_07.json` SHA-256 `7623092491bdc705351cc74d856ab15b61be04a71ae0d72ef3f5e27c956080f3` re-audits Phase C after the Director selected CPS-B. It repairs one deterministic continuity defect: the packet registry's CPS row already recorded CPS-B while its lower synthesis-policy field still said B/C adjudication pending. The repair changes no design result.
+
+The earlier Phase-C completion audit had classified `DUR-01 — Integrated Identity Durability` as `DEFER_NEXT` until the Character/image-direction envelope existed. IMG-01 plus CPS-01 now satisfy that prerequisite at the principle/system level without claiming final artwork: IMG-F1 is optional expressive-depiction evidence only, IMG-F2 remains targeted-refinement-required, IMG-F3 remains rejected, and CPS-B Distributed Recognition Mesh is the canonical Phase C Character-presence architecture. Final expressive artwork remains unresolved and subordinate to CPS-B.
+
+`docs/evidence/DUR_01_INTEGRATED_IDENTITY_DURABILITY_METHOD_01.json` SHA-256 `7b82ddc895843f27e7ca8b0740b5108fa0b44f2a29507e129cf6aa14e9d8c308` freezes DUR-01 before construction. It is deterministic/non-render and tests the current C0/O3/TYP-02/MAT-01/STA-01/MOT/CPS-B packet set under micro scale, narrow reflow, 200% text, monochrome, forced colors, no-image, reduced-motion/static fallback, selection-vs-focus separation and APP↔WEB translation. Provisional packets remain provisional; O3 may be omitted below its lawful compact role rather than forced into an unsafe micro deployment.
+
+CLR F2/F1 remains Director-deferred until representative real assembly; Stage and Stage-to-shell remain untouched; no new Character artwork, Phase-D entry, product semantics, ODR resolution, native/runtime/production authority or final shared identity is created.
+
+**Next boundary:** construct one neutral deterministic DUR-01 carrier from the frozen method, run and repair the full mechanical/accessibility matrix, then evaluate durability only after preflight is clean.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

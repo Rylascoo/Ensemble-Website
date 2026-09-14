@@ -179,7 +179,7 @@
     ],
     "next_synthesis_trigger": "Hold CLR F2/F1 adjudication and do not activate the Stage-to-app-shell follow-on gate from APP-SYN-01 alone. Resume contextual CLR choice only when representative real app assembly provides meaningful shell/navigation/Stage-adjacency/identity/control context.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_SEL_S1_F4_REENTRY_AUDIT_06.json",
+    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_CPS_01_REENTRY_AUDIT_07.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
@@ -192,8 +192,12 @@
     "active_whole_app_synthesis_design_sol_view": "docs/evidence/APP_SYN_01_DESIGN_SOL_WHOLE_SYSTEM_VIEW_01.json",
     "active_whole_app_synthesis_design_sol_view_sha256": "9d9bf2c84806d0666eedc3a984169277f1a8c9e6dfc4cf5fae9d47ee155820a0",
     "active_character_presence_program": "CPS-01",
-    "active_character_presence_status": "DIRECTOR_ADJUDICATION_PENDING_B_VS_C",
-    "active_character_presence_packet": "PKT-CPS-01-01"
+    "active_character_presence_status": "DIRECTOR_SELECTED_CPS_B",
+    "active_character_presence_packet": "PKT-CPS-01-01",
+    "active_durability_program": "DUR-01",
+    "active_durability_status": "METHOD_FROZEN_PRE_CONSTRUCTION",
+    "active_durability_method": "docs/evidence/DUR_01_INTEGRATED_IDENTITY_DURABILITY_METHOD_01.json",
+    "active_durability_method_sha256": "7b82ddc895843f27e7ca8b0740b5108fa0b44f2a29507e129cf6aa14e9d8c308"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

@@ -1,0 +1,38 @@
+name: DUR-01 deterministic checkpoint
+
+on:
+  push:
+    paths:
+      - 'CURRENT_STATE.md'
+      - 'docs/HANDOFF_DUR_01_INTEGRATED_IDENTITY_DURABILITY_2026_09_14.md'
+      - 'docs/evidence/DUR_01_*'
+      - 'docs/evidence/PHASE_C_POST_CPS_01_REENTRY_AUDIT_07.json'
+      - 'docs/evidence/DESIGN_LEDGER.md'
+      - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
+      - 'prototypes/dur-01/**'
+      - 'tools/verify_dur01.py'
+      - '.github/workflows/dur01.yml'
+  pull_request:
+    paths:
+      - 'CURRENT_STATE.md'
+      - 'docs/HANDOFF_DUR_01_INTEGRATED_IDENTITY_DURABILITY_2026_09_14.md'
+      - 'docs/evidence/DUR_01_*'
+      - 'docs/evidence/PHASE_C_POST_CPS_01_REENTRY_AUDIT_07.json'
+      - 'docs/evidence/DESIGN_LEDGER.md'
+      - 'docs/evidence/DESIGN_PACKET_REGISTRY_01.json'
+      - 'prototypes/dur-01/**'
+      - 'tools/verify_dur01.py'
+      - '.github/workflows/dur01.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Verify DUR-01 checkpoint
+        run: python3 tools/verify_dur01.py
