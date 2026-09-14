@@ -6,14 +6,14 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 284
-Total text records: 92
+Total Markdown documents: 285
+Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (46)
+## ACTIVE LAW (47)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -57,6 +57,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/LANE_B_WEBSITE_V0_SITE_SPINE_APPROVAL_01.md`
 - `docs/evidence/ODR_33_HERO_CAUSAL_OBSERVABILITY_DIRECTOR_APPROVAL_01.md`
 - `docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md`
+- `docs/evidence/WEBSITE_PLACEHOLDER_V2_SECRECY_FIRST_DIRECTION_01.md`
 - `docs/templates/HERO_METHOD_02_CONSTRUCTION_RECORD_TEMPLATE.md`
 - `docs/templates/HERO_METHOD_02_CONSTRUCTION_REVIEW_PACKAGE_TEMPLATE.md`
 - `docs/templates/HERO_METHOD_02_RESPONSIVE_SEMANTIC_ENVELOPE_TEMPLATE.md`
@@ -309,7 +310,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 ## UNCLASSIFIED (0)
 
 
-## TEXT RECORDS — INVENTORY ONLY (92)
+## TEXT RECORDS — INVENTORY ONLY (93)
 
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
@@ -402,4 +403,5 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/renderer/VFD_01_P4_TRANSFER_STERILE_PACKET_01.txt`
 - `intelligence/README.txt`
 - `site/README.txt`
+- `updates/KYMAEAN_PLACEHOLDER_INITIAL_PRODUCTION_DEPLOYMENT_2026_09_14.txt`
 - `updates/README.txt`
