@@ -2681,3 +2681,17 @@ The recursive audit found two deterministic composition defects: the Production 
 No final CLR, typography, material, motion, navigation-label, WinUI/XAML, runtime accessibility, ARM64 performance, packaging or Store authority is created. Secondary ornament remains deliberately deferred under the Director sequencing law.
 
 **Next boundary:** Director reaction to shell clarity, navigation, Stage dominance, causal-history adjacency and Light/Dark parity. If structurally accepted, continue functional-state coverage and Stage/live-production visual iteration before opening secondary app ornament.
+
+## L-174 - Director fixes three sequential APPUI phases and inserts Stage Interface Envelope before layout freeze
+
+**State:** THREE-PHASE PROGRAM ACTIVE / PHASE 1 UI-LAYOUT ONLY / STAGE ENVELOPE FIRST / STAGE VISUAL WORK DEFERRED TO PHASE 2
+
+`docs/evidence/APPUI_01_THREE_PHASE_PROGRAM_AND_STAGE_INTERFACE_ENVELOPE_AUDIT_2026_09_14.json` records the Director's newer sequencing decision and recursive audit. The active sequence is now: **(1) application UI architecture/layout, (2) Stage/live-production experience, (3) Kymaean design-language integration**. This supersedes only the earlier wording that Stage rendering proceeds in parallel with UI-layout work; Light/Dark parity, invariant dark Stage, repository separation and deferred secondary ornament remain active.
+
+Phase 1 begins with a **Stage Interface Envelope** so the surrounding layout cannot omit required live-production capacity. The envelope reserves semantic relationships without inventing final Stage controls. It separates app shell, live-workspace frame, Stage field and transient/deep task surfaces, and classifies requirements as current Design baseline, product-semantic must-represent, UX/Phase-D-open, or internal E0 detail not intended as default UI.
+
+The audit corrected a second risk: E0 orchestration terms such as `CandidatePerformance`, Integrity/Interpreter/State-Authority machinery and `E0Take Accepted/Rejected/Alternate` must not become product controls merely because Engineering implements them. Engineering's active ship plan still assigns final Scene lifecycle, consequence review, Presentation Perspective, minimum Stage semantics and Another Take/branch/rehearsal decisions to post-E0 Phase D.
+
+**Next boundary:** build the Stage Interface Envelope + task-dependent Phase 1 layout map using current architecture and recovered UI-layout inspiration. Do not create new Stage visual language until Phase 1 exit criteria pass and Engineering product-runtime architecture has been fresh-reconciled.
+
+**DIRECTOR THREE-PHASE SEQUENCING + CLEAN RECURSIVE AUDIT - ACTIVE.**
