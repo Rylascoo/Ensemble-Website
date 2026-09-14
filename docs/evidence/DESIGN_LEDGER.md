@@ -2608,3 +2608,17 @@ No new product disclosure, app UI, Stage imagery, Character imagery, identity ge
 **Next boundary:** promote draft PR #65 to `main` using the exact reviewed source, then verify `www.kymaean.com` serves the promoted bytes before closing the serial branch lifecycle. Production must not be called complete until that live verification passes.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION ΓÇö CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-169 - Director pivots Phase C from human-art gating to iterative Windows app-screen design
+
+**State:** CHARART-01 TERMINATED / NO MASTER ADOPTED / APPUI-01 ACTIVE / WINDOWS 11 ARM64 SCREEN-FIRST
+
+`docs/evidence/APP_UI_DIRECTOR_ITERATIVE_DESIGN_PIVOT_2026_09_14.json` SHA-256 `4b21d11345aed8a049f95ae1b40115a3b9650fef32a554d7789765d61a34b9c3` records the Director sequencing correction. The current product-design target is a Microsoft Windows 11 desktop app on ARM64 intended for Microsoft Store distribution. This is Design target context only; native implementation, packaging, WACK/Store certification, Partner Center and shipping remain Engineering/outside-lane authority.
+
+CHARART-01 returned one valid first output (SHA-256 `4b793a5bf265d932e581d5b34fd05fa9ed132c3b6d0b2623a26a3c7b3363d6ba`, 3,129,723 bytes, 1672x941), consuming its single valid attempt. Before Drive preservation, crop diagnostics, scoring or master promotion, the Director explicitly redirected Design away from human artwork. The output therefore receives no Design Sol score and no expressive-master authority. CHARART-01 is terminal unless explicitly reopened.
+
+The active Design program is now `APPUI-01 - Windows 11 ARM64 Working App Visual Prototype`. It is intentionally iterative rather than a frozen-candidate gate. Existing Stage/CPS/DUR/APPICON and provisional type/material/state/motion/color evidence are working guardrails; unresolved final choices do not block screen construction. Historical app architecture/shell/task-first documents are inputs, not gates to replay.
+
+**Next boundary:** create substantial Windows desktop screen compositions for Production/Scene overview, live Stage workspace, selected Character/state inspection and Performance/history adjacency; iterate from Director reaction and actual composition rather than returning to abstract convergence-first sequencing.
+
+**DIRECTOR SEQUENCING CORRECTION - ACTIVE.**

@@ -1,6 +1,8 @@
-<!-- D-R1-STATUS: ACTIVE LAW -->
+<!-- D-R1-STATUS: SUPERSEDED -->
 
 # Ensemble / Kymaean - CHARART-01 Fresh-Chat Handoff
+
+Superseded by `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_2026_09_14.md` after the Director terminated artwork-first sequencing and activated screen-first Windows app design. Historical CHARART method/evidence remains preserved.
 
 Status: `PHASE C ACTIVE / CHARART-01 METHOD FROZEN PRE-RENDER / EXTERNAL ISOLATED RENDER NEXT`
 Date: 2026-09-14

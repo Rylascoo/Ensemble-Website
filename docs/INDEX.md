@@ -6,7 +6,7 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 290
+Total Markdown documents: 291
 Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
@@ -21,8 +21,8 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/DESIGN_CONTINUITY.md`
 - `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`
 - `docs/HANDOFF_APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_2026_09_14.md`
+- `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_2026_09_14.md`
 - `docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md`
-- `docs/HANDOFF_CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_2026_09_14.md`
 - `docs/HANDOFF_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_2026_09_13.md`
 - `docs/INDEX.md`
 - `docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md`
@@ -67,8 +67,9 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/templates/HERO_METHOD_02_RESPONSIVE_SEMANTIC_ENVELOPE_TEMPLATE.md`
 - `docs/templates/HERO_METHOD_02_TWO_PERSON_NECESSITY_MATRIX_TEMPLATE.md`
 
-## SUPERSEDED (9)
+## SUPERSEDED (10)
 
+- `docs/HANDOFF_CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_2026_09_14.md`
 - `docs/HANDOFF_R0_CROSS_SURFACE_ROBUSTNESS_VALIDATION.md`
 - `docs/HANDOFF_R0_RENDERER_CARTOGRAPHY.md`
 - `docs/HANDOFF_R0_RENDERER_ISOLATION_CROSS_BRANCH_SYNTHESIS.md`

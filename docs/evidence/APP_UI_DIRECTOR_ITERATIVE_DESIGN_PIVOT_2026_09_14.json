@@ -1,0 +1,78 @@
+{
+  "schema": "kymaean.app-ui-director-iterative-design-pivot.v1",
+  "status": "DIRECTOR_SEQUENCING_CORRECTION_ACTIVE",
+  "date": "2026-09-14",
+  "authority": {
+    "website_active_head_before_change": "7c14e7d60ad70c0545324e0c6bf35bb288f4fab6",
+    "website_main": "5d698484bfb8a8b65b4b9acc429cf3713a522f9b",
+    "project_main": "57ec145c09e701e5d62907ae75046f38b5cbe285"
+  },
+  "platform_target": {
+    "surface": "native desktop application",
+    "os": "Microsoft Windows 11",
+    "architecture": "ARM64",
+    "distribution_intent": "Microsoft Store",
+    "authority_boundary": "Design target only; packaging, MSIX, WACK, Partner Center, certification, runtime and shipping authority remain Engineering/outside-lane."
+  },
+  "director_decision": [
+    "Stop treating human artwork completion as a prerequisite to app visual design.",
+    "Human artwork is not required for the current app UI direction.",
+    "Move now into concrete app-screen design and refine the visual system through iterative compositions and Director reaction.",
+    "Previously earned design law remains useful guardrails but must not prevent screen construction merely because final identity/color/type/artwork decisions remain open."
+  ],
+  "charart_disposition": {
+    "program": "CHARART-01",
+    "status": "DIRECTOR_TERMINATED_AFTER_VALID_FIRST_OUTPUT_NO_MASTER_ADOPTED",
+    "attempt_consumed": true,
+    "returned_output": {
+      "sha256": "4b793a5bf265d932e581d5b34fd05fa9ed132c3b6d0b2623a26a3c7b3363d6ba",
+      "bytes": 3129723,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "source": "Director-provided chat attachment",
+      "drive_preservation_completed": false
+    },
+    "mechanical_or_subjective_scoring_performed": false,
+    "master_authority_created": false,
+    "reason": "Director explicitly redirected Design away from human artwork and into app-screen design before CHARART post-render scoring/promotion.",
+    "reentry": "Do not resume human artwork unless a later Director instruction explicitly reopens it."
+  },
+  "active_work": {
+    "id": "APPUI-01",
+    "name": "Windows 11 ARM64 Working App Visual Prototype",
+    "mode": "ITERATIVE_SCREEN_FIRST",
+    "frozen_method": false,
+    "goal": "Build visually coherent real app screens now, learn from composition/use, and refine the visual system as the product surface becomes concrete.",
+    "first_surface_set": [
+      "Production / Scene overview",
+      "Live Stage workspace",
+      "Selected Character / state inspector",
+      "Performance / causal-history strip"
+    ],
+    "human_artwork_dependency": false,
+    "historical_inputs_not_gates": [
+      "docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md",
+      "docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md",
+      "docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md",
+      "docs/evidence/APP_SYN_01_DESIGN_SOL_WHOLE_SYSTEM_VIEW_01.json"
+    ]
+  },
+  "working_design_law": [
+    "PKT-STAGE-CORE-02 remains exact Stage authority; APPUI-01 may frame/adjacent-compose around it but may not silently redesign its geometry/scenery.",
+    "CPS-B remains canonical Character-presence architecture, but portraits/human artwork are optional and not required for APPUI-01.",
+    "APPICON-01 E06 remains the current app-icon design-master envelope around exact C0; this creates no Store/package authority.",
+    "DUR-01 PASS remains evidence that the current bounded identity mechanisms survive reduction/accessibility stress.",
+    "CLR F2/F1 remains unselected. APPUI-01 may explore provisional color inside mockups without promoting a palette winner.",
+    "Provisional type/material/state/motion mechanisms may be used, simplified, or challenged in working screens; prototype use does not silently convert them to final authority.",
+    "Product semantics must come from current Product/Engineering authority or be labeled synthetic; APPUI-01 must not invent engine authority merely to fill a screen."
+  ],
+  "explicit_non_authority": [
+    "No final WinUI/XAML control selection or native implementation claim.",
+    "No Windows accessibility/runtime validation claim.",
+    "No Microsoft Store certification, MSIX/package, WACK, Partner Center or shipping claim.",
+    "No final palette, typeface, symbol, wordmark, material system or Character artwork is created by this sequencing correction.",
+    "No Phase-D or Engineering/runtime authority is created."
+  ]
+}
