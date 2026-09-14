@@ -2,7 +2,7 @@
 
 # Kymaean Visual Design Workflow Authority 01
 
-Updated: 2026-09-10
+Updated: 2026-09-14
 
 ## Director approval
 
@@ -50,11 +50,19 @@ Design Sol normally:
 
 The model name may change over time; the accountable role does not.
 
+### Design Relay — delegated Design deputy
+
+Design Relay is a persistent delegated deputy context, never a second Design Sol. Its canonical admission and lease law lives in the Project parallel-agent amendment; this Website document applies that law inside the Design lane.
+
+A Relay may execute one bounded lease against an exact Website/Drive baseline, normally in one isolated worktree/workstream. It may analyze, materialize, test, or prepare candidate changes inside the lease, but it may not independently alter Design authority state, `CURRENT_STATE.md`, Design Ledger results, frozen criteria, renderer/scoring budgets, central queue status, or final aesthetic/product-taste disposition.
+
+Relay output is evidence/candidate work. Design Sol race-checks the baseline, recursively audits the result, and alone adopts or rejects it under existing Design authority. Repository-visible refs/PRs/Issues may transport progress; hidden Relay chat state is never project memory.
+
 ### Codex — execution environment / agent surface
 
 Codex is not automatically scarce and is not synonymous with Astra.
 
-Once the canonical Project Administrator/execution protocol is established, Codex may be a normal execution surface for tightly bounded work that benefits materially from a local checkout, worktree, browser/CDP access, tests, scripts, or other mechanical tooling. Appropriate examples include:
+Under the canonical Project Administrator/execution protocol, Codex may be a normal execution surface for tightly bounded work that benefits materially from a local checkout, worktree, browser/CDP access, tests, scripts, or other mechanical tooling. Appropriate examples include:
 
 - deterministic browser-packet materialization;
 - responsive/forced-colors/accessibility preflight that can be established mechanically;
@@ -65,7 +73,7 @@ Once the canonical Project Administrator/execution protocol is established, Code
 
 Codex execution must begin from an exact work-package contract and return evidence. It must not silently redesign the method it was asked to materialize.
 
-Until the canonical Administrator/execution protocol is actually promoted, Design Sol remains self-sufficient and must not invent automated Codex routing that does not exist.
+Design Sol remains self-sufficient and must not infer autonomous routing, retries, merges, or next-task pickup beyond the explicitly commissioned Project/Administrator surfaces.
 
 ### GPT-6 Astra — scarce Codex specialist
 
@@ -117,9 +125,9 @@ Model names, effort controls, and plan limits are volatile execution metadata. V
 
 Engineering Sol and Design Sol may consult each other without transferring authority.
 
-Design may ask Engineering for current implementation/runtime/semantic truth. Engineering may ask Design for visual, interaction, accessibility, or identity requirements. The canonical cross-project queue remains sequencing authority; a future dispatch surface transports questions/results but does not become a second backlog.
+Design may ask Engineering for current implementation/runtime/semantic truth. Engineering may ask Design for visual, interaction, accessibility, or identity requirements. The canonical cross-project queue remains sequencing authority; the commissioned dispatch surface transports questions/results but does not become a second backlog.
 
-A future Project Administrator may route these packets and collect replies. It may not adjudicate a conflict between Design and Engineering on its own. Where the lanes disagree, each owning Sol states the relevant authority/evidence and the consequential unresolved question is escalated to the correct authority surface or Director.
+The canonical Project Administrator may route these packets and collect replies. It may not adjudicate a conflict between Design and Engineering on its own. Where the lanes disagree, each owning Sol states the relevant authority/evidence and the consequential unresolved question is escalated to the correct authority surface or Director.
 
 Never mutate an active Engineering forensic/validation boundary merely to keep Design continuity tidy. If safe cross-repository mutation is not authorized, emit a bounded reconciliation/dispatch request instead.
 
@@ -268,7 +276,8 @@ Fresh chats must inherit:
 - executor/reviewer evidence being subordinate to Design Sol authority;
 - Codex and Astra being distinct concepts;
 - model/effort recommendations being supplied in complete dispatch packets;
-- the future Administrator being a dispatcher rather than a project authority.
+- Design Relay being a delegated deputy rather than a second Design authority;
+- the Administrator being a dispatcher rather than a project authority.
 
 Do not revert to historical personality-prompt dependence, handoff-as-authority, redundant approval requests, external-reviewer ceremony, or the old assumption that every Codex task consumes Astra.
 
@@ -278,4 +287,4 @@ Engineering remains a coherence/truth input, not aesthetic authority.
 
 The Director has delegated normal website/brand/design gate progression to clean recursive audit and direct Director + Design Sol adjudication for irreducible design judgment.
 
-The intended operating system is disciplined and economical: Design Sol manages the lane and interprets evidence; Codex may execute bounded mechanics; Astra is reserved for exceptional capability needs; independent reviewers are used when independence has real value; a future Project Administrator routes rather than rules; the Director supplies binding product meaning/taste where evidence cannot decide; and GitHub/Drive, not chat history, preserve continuity.
+The intended operating system is disciplined and economical: Design Sol manages the lane and interprets evidence; Codex may execute bounded mechanics; Astra is reserved for exceptional capability needs; independent reviewers are used when independence has real value; the Project Administrator routes rather than rules; the Director supplies binding product meaning/taste where evidence cannot decide; and GitHub/Drive, not chat history, preserve continuity.

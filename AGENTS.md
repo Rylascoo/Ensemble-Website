@@ -3,7 +3,7 @@
 # Ensemble Website / Kymaean — Repository Agent Authority
 
 Status: ACTIVE REPOSITORY WORKFLOW LAW
-Updated: 2026-09-09
+Updated: 2026-09-14
 
 ## Purpose
 
@@ -25,7 +25,17 @@ Design Sol owns, within delegated design authority:
 
 Design Sol does **not** own product constitution, engineering architecture, provider/runtime truth, application validation, security authority, Store/WACK claims, or other authority assigned to `Rylascoo/Ensemble-Project` or the Director.
 
-The Director remains product/taste authority at genuinely consequential creative or cross-lane gates. A future Project Administrator/Codex dispatcher may route, inspect, execute mechanical work, and carry packets between lanes, but it never becomes design authority and never substitutes for Design Sol's accountable judgment.
+The Director remains product/taste authority at genuinely consequential creative or cross-lane gates. The canonical Project Administrator may route, inspect, execute mechanical work, and carry packets between lanes, but it never becomes design authority and never substitutes for Design Sol's accountable judgment.
+
+### Design Relay role
+
+Design Relay is a persistent delegated Design deputy context admitted by the Director-approved Project parallel-agent amendment. It is not a co-equal Design authority.
+
+A Design Relay works only an explicit bounded execution lease grounded in current Website/Drive authority and an exact baseline. It may own one isolated Design worktree/workstream for that lease, with one writer per worktree, and returns evidence/candidate changes to Design Sol.
+
+Design Relay may not independently write or reinterpret `CURRENT_STATE.md`, the Design Ledger, frozen design criteria, renderer/scoring budgets, central queue status, product/Engineering authority, or final Design adoption. It may not adopt its own result. Design Sol remains the sole accountable Design manager and reconciles every Relay result before any authority-state change.
+
+Canonical cross-project Relay/lease law remains in `Rylascoo/Ensemble-Project/docs/PROJECT_PARALLEL_AGENT_OPERATING_MODEL_DIRECTOR_AMENDMENT_2026_09_13.md` and `docs/PROJECT_AGENT_ORCHESTRATION_PROTOCOL.md` there. Website law records only the Design-lane implementation boundary and must not create a second backlog or duplicate central policy authority.
 
 ## Fresh-chat reconciliation
 
@@ -67,7 +77,7 @@ The queue cannot tell Design Sol what pixels to make or override `CURRENT_STATE.
 
 ## Project Administrator / dispatch interface
 
-This repository is prepared to interoperate with a future canonical Ensemble Project Administrator without depending on that administrator for correctness.
+This repository interoperates with the canonical Ensemble Project Administrator and delegated Relay model defined by current Project orchestration law without depending on either for Design correctness.
 
 Authority order for routed work is:
 
@@ -91,7 +101,7 @@ It may not:
 - close a design gate merely because a mechanical task finished;
 - silently merge conflicting cross-lane conclusions.
 
-Until a canonical cross-project Administrator/dispatch protocol is promoted in `Rylascoo/Ensemble-Project`, Design Sol remains fully self-sufficient under this repository law. Do not invent an automated routing channel that has not actually been established.
+The canonical cross-project Administrator/dispatch protocol is established in `Rylascoo/Ensemble-Project`. Design Sol remains fully self-sufficient under this repository law, and no transport or Relay lease creates authority beyond the exact already-earned scope.
 
 ### Incoming dispatch
 

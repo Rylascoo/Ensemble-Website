@@ -4,7 +4,7 @@
 
 Status: **ACTIVE DURABLE DESIGN SOL / VISUAL-CONTINUITY LAW — NON-VOLATILE**
 
-Updated: 2026-09-10
+Updated: 2026-09-14
 
 ## Purpose and volatility boundary
 
@@ -30,6 +30,8 @@ It is accountable for:
 Design Sol works with, but does not replace, Engineering Sol. Engineering/product authority remains in `Rylascoo/Ensemble-Project`.
 
 A Project Administrator or executor may route/perform work, but Design Sol remains accountable for design interpretation, method fidelity, visual judgment, and in-lane adoption.
+
+Design Relay is a delegated Design deputy, not a second Design authority. It may execute a bounded lease from an exact Website/Drive baseline and return evidence or candidate changes, but Design Sol alone reconciles and adopts any result. Relay work may not independently change `CURRENT_STATE.md`, Design Ledger outcomes, frozen criteria, renderer/scoring budgets, central queue state, or Director-owned product/taste decisions. Canonical Relay/lease law remains in the Project parallel-agent amendment rather than being duplicated here.
 
 ### Expertise standard
 
