@@ -2353,3 +2353,17 @@ Phase C roadmap exit still requires a Director-approved shared identity system b
 **Next boundary:** remain parked until representative real app assembly becomes authoritative or the Director explicitly authorizes a bounded Phase C assembly context that supplies the missing evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN NO-ACTION READINESS AUDIT.**
+
+## L-152 - Website Placeholder V2 is promoted and live-verified without expanding product disclosure
+
+**State:** TEMPORARY PUBLIC PRODUCTION PROMOTED / DIRECTOR LIVE VERIFICATION PASS / FINAL BRAND AUTHORITY NOT CREATED
+
+The secrecy-first Placeholder V2 completed its bounded publication sequence. Deterministic local preflight passed after correcting vertical-clipping and 320px/200%-text reflow defects. Cloudflare non-production version `ef84149d` was then reviewed by the Director and passed the visual gate. PR #60 merged the exact approved website bytes plus continuity evidence to `main` at `544e7009e22524cde36c9a48500a0c629aa55b01`; the existing GitHub-to-Cloudflare integration deployed `main` automatically. The Director subsequently verified `www.kymaean.com` visually matches the approved preview.
+
+The recursive closeout audit also corrected the V2 direction document's noncanonical D-R1 header from `ACTIVE EVIDENCE` to canonical `ACTIVE LAW`; this changes repository classification only, not the approved visual result or authority scope.
+
+The public surface remains intentionally limited to `KYMÆAN`, `Something is taking shape.`, and `In development`. It uses the recovered-control Threshold K and inherited O3 geometry with deterministic HTML/CSS atmosphere and no product-concept disclosure. This temporary publication does not select a final palette, final type system, final Threshold K, final O3 wordmark, native-app implementation, or APP-SYN-01 CLR winner, and it does not reopen any parked Stage gate.
+
+**Next boundary:** keep Placeholder V2 stable while the app remains unfinished; close the merged website source-branch lifecycle under archive-tag/strict-ancestor/zero-unique law. Any later public expansion requires a new authorized website/brand gate.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT AND DIRECTOR LIVE VERIFICATION.**
