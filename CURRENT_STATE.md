@@ -8,7 +8,7 @@ Updated: 2026-09-14
 Design: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Repository
-`main` is promoted Design/website authority. PR #60 merged the reviewed secrecy-first placeholder V2; PR #61 closed its production/live-verification continuity. The merged source heads are preserved under `archive/site/placeholder-v2-secrecy-first-2026-09-14` at `0b5084acbf077090933b397db19bb6dd537bf94b` and `archive/site/placeholder-v2-production-closeout-2026-09-14` at `59ad10c371ed7befd21d080417c10986809cdc8b`; both remote source branches were deleted after strict-ancestor/zero-unique proof. Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` at `9308fb581c07d0b732cc488418a89c1c1ae4e750`. APP-SYN-01 source remains archived at `archive/design/app-syn-01-whole-app-synthesis-2026-09-12`.
+`main` is promoted Design/website authority. PR #60 merged the reviewed secrecy-first placeholder V2; PR #61 closed its production/live-verification continuity; PR #62 added the first exact-geometry Threshold K favicon. Active bounded website preview branch: `site/threshold-k-favicon-optical-refinement-2026-09-14`, draft PR #64, opened after Director live-browser review found the favicon optically too small/soft at true tab scale. Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` at `9308fb581c07d0b732cc488418a89c1c1ae4e750`. APP-SYN-01 source remains archived at `archive/design/app-syn-01-whole-app-synthesis-2026-09-12`.
 
 ## Frozen app boundary
 `PKT-STAGE-CORE-02` remains the frozen core app baseline; authenticated Drive master `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH`, 1,431,659 bytes, 1672x941, SHA-256 `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`. Closed-gate/no-reroll laws remain unchanged.
@@ -20,5 +20,8 @@ The secrecy-first direction and preflight/review/promotion evidence are recorded
 
 Director review passed Cloudflare non-production version `ef84149d`. PR #60 merged at `544e7009e22524cde36c9a48500a0c629aa55b01`, and the Director subsequently verified `www.kymaean.com` visually matches the approved preview. Temporary public production promotion is complete.
 
+## Favicon optical refinement
+PR #64 preserves the exact three recovered-control Threshold K paths and changes only favicon-scale presentation: removes the dark rounded tile, tightens SVG framing, adapts fill to light/dark browser chrome, and versions the favicon URL as `?v=2` to defeat stale browser favicon caching. No page composition, wordmark, copy, product disclosure, palette adjudication, app/Stage gate, or runtime behavior changes.
+
 ## Exact next action / hard boundary
-Keep the temporary placeholder stable while the app remains unfinished. No active website publication branch remains. Do not expand product disclosure or treat this publication as final palette/type/identity authority unless the Director explicitly opens a later website/brand gate. The parked APP-SYN-01 / Stage boundary remains unchanged.
+Inspect the Cloudflare non-production deployment for PR #64 at real browser-tab size. Merge only if the revised favicon reads materially closer to the website Threshold K without shape ambiguity. Otherwise retain current production and refine framing only; do not redraw Threshold K or create a new micro-mark without a separately authorized identity gate. The parked APP-SYN-01 / Stage boundary remains unchanged.
