@@ -2530,3 +2530,17 @@ The first hosted DUR-01 verifier run at `e8e72e6478034ef91123e85e0ba8f939d45d01b
 The repaired canonical repository-byte SHA-256 values are: preflight `2c845d354e13ee872a74cf4a82b1533f6168f94711baa4d88cdbad7b2a2de3e8`, Design Sol evaluation `84ffd1639b169cc32040e308e9e1cb459437fe2ff6bd506663d213aea1d87a4a`, and packet `a792c7508de8c3741b89cfba9face7d1ea78ff1608ff307c43d00db9bbaf330c`. Exact LF rules are now pinned in `.gitattributes` for the five hashed DUR artifacts so Windows and Linux verify identical bytes.
 
 No design mechanism, result, usage law, CLR/Stage/Phase-D boundary or source-packet authority changed. This is a deterministic evidence-integrity repair only.
+
+## L-164 - Post-DUR reentry activates APPICON-01 design-master convergence
+
+**State:** DUR-01 PASS PRESERVED / APPICON-01 ACTIVE / METHOD FROZEN PRE-CONSTRUCTION / EXACT C0 IMMUTABLE
+
+`docs/evidence/PHASE_C_POST_DUR_01_REENTRY_AUDIT_08.json` SHA-256 `305e4c7fff0ddd58cd0c43fb0da5a9c62f6535e231a5818d28e0246e0ab29447` re-audits the remaining Phase C requirements after DUR-01 closed `PASS_INTEGRATED_DURABILITY`. It selects APPICON-01 because the earlier app-icon deferral was priority-only, not dependency-blocked: IMG/CPS/DUR have now closed the higher-leverage identity-principle/durability prerequisites, while the visual-asset roadmap explicitly permits app-icon design masters before executable UI. CLR and Stage-to-shell remain held by representative real-app assembly; bespoke domain iconography remains product-vocabulary dependent; public voice remains deferred.
+
+The audit also clarifies C0 provenance without changing any symbol result. Historical raw SHA `303a1b0d5caaf6f1e25bfd20a525d280ff5097b6543d91e5b2f45a9fbef30d63` is the Windows CRLF working-tree byte hash. The tracked canonical LF/Git blob hashes `72cdd4c35928e1fb0bc279b680b9b7a698707dc1564ee800a84840fe61356305`, and the normalized three-path semantic hash is `95304d003e63ab2272501da3451c1bca3deb84d206468d7e35264575d2bfe30d`. Existing symbol-era verifiers already use LF-normalized bytes; SYM-01/SYM-02 history and exact C0 geometry remain unchanged.
+
+`docs/evidence/APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_METHOD_01.json` SHA-256 `37bd7fff587779167a2062868430829f2fc660da7753214ea15a1f43b0c7712a` freezes APPICON-01 before construction. E06/E12/E18 vary only symmetric square-canvas inset around the exact C0 paths. Color, material, wordmark/type coupling, new symbol anatomy, Store/package/shipping implementation and trademark authority are excluded. If multiple lawful envelopes survive, the consequential app-icon composition choice returns to the Director.
+
+**Next boundary:** construct the neutral exact-C0 E06/E12/E18 carrier and complete mechanical/accessibility preflight before Design Sol scoring.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

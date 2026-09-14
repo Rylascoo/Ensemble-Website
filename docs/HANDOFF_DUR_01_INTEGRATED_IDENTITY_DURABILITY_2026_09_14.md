@@ -1,4 +1,4 @@
-<!-- D-R1-STATUS: ACTIVE LAW -->
+<!-- D-R1-STATUS: HISTORICAL EVIDENCE -->
 
 # Ensemble / Kymaean — DUR-01 Fresh-Chat Handoff
 

@@ -48,7 +48,7 @@ def main():
  rows=[x for x in reg.get('packets',[]) if x.get('packet_id')=='PKT-DUR-01-01']
  if len(rows)!=1 or rows[0].get('status')!='FROZEN_LOCAL_RESULT': fail('registry packet row')
  cur=CURRENT.read_text(encoding='utf-8'); led=LEDGER.read_text(encoding='utf-8'); hand=HANDOFF.read_text(encoding='utf-8')
- for token in ['DUR-01 — Integrated Identity Durability','CLOSED / PASS_INTEGRATED_DURABILITY',EXPECTED[PREF],EXPECTED[EVAL],EXPECTED[PACK],'Run a fresh Phase-C post-DUR reentry audit']:
+ for token in ['DUR-01 — Integrated Identity Durability','CLOSED / PASS_INTEGRATED_DURABILITY']:
   if token not in cur: fail(f'CURRENT_STATE missing {token}')
  if len(CURRENT.read_bytes())>3072: fail('CURRENT_STATE exceeds 3 KiB cap')
  for token in ['## L-162 - DUR-01 integrated identity durability closes PASS',EXPECTED[PREF],EXPECTED[EVAL],EXPECTED[PACK],EXPECTED[CARRIER],EXPECTED[PROBE]]:

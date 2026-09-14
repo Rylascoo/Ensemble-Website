@@ -187,7 +187,7 @@
     ],
     "next_synthesis_trigger": "Hold CLR F2/F1 adjudication and do not activate the Stage-to-app-shell follow-on gate from APP-SYN-01 alone. Resume contextual CLR choice only when representative real app assembly provides meaningful shell/navigation/Stage-adjacency/identity/control context.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_CPS_01_REENTRY_AUDIT_07.json",
+    "latest_reentry_audit": "docs/evidence/PHASE_C_POST_DUR_01_REENTRY_AUDIT_08.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
@@ -211,7 +211,12 @@
     "active_durability_evaluation": "docs/evidence/DUR_01_DESIGN_SOL_INTEGRATED_DURABILITY_EVALUATION_01.json",
     "active_durability_evaluation_sha256": "84ffd1639b169cc32040e308e9e1cb459437fe2ff6bd506663d213aea1d87a4a",
     "active_durability_packet": "PKT-DUR-01-01",
-    "active_durability_packet_sha256": "a792c7508de8c3741b89cfba9face7d1ea78ff1608ff307c43d00db9bbaf330c"
+    "active_durability_packet_sha256": "a792c7508de8c3741b89cfba9face7d1ea78ff1608ff307c43d00db9bbaf330c",
+    "active_appicon_program": "APPICON-01",
+    "active_appicon_status": "METHOD_FROZEN_PRE_CONSTRUCTION",
+    "active_appicon_method": "docs/evidence/APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_METHOD_01.json",
+    "active_appicon_method_sha256": "37bd7fff587779167a2062868430829f2fc660da7753214ea15a1f43b0c7712a",
+    "active_appicon_activation_audit_sha256": "305e4c7fff0ddd58cd0c43fb0da5a9c62f6535e231a5818d28e0246e0ab29447"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }
