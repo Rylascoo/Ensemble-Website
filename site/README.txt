@@ -1,7 +1,7 @@
 ENSEMBLE WEBSITE / KYMAEAN — PUBLICATION SOURCE BOUNDARY
 
-Status: ACTIVE PUBLICATION ROOT / TEMPORARY PLACEHOLDER CANDIDATE PRESENT / NOT YET DEPLOYED
-Updated: 2026-09-13
+Status: ACTIVE PUBLICATION ROOT / TEMPORARY PLACEHOLDER DEPLOYED AT WWW.KYMAEAN.COM
+Updated: 2026-09-14
 
 PURPOSE
 `site/` is the single deployable/public website data-plane boundary in `Rylascoo/Ensemble-Website`.
@@ -16,27 +16,32 @@ CURRENT LAW
 - No historical prototype is copied, moved, renamed or promoted into `site/` merely to populate this directory.
 
 TEMPORARY PLACEHOLDER BOUNDARY
-The `site/placeholder-foundation-2026-09-13` workstream introduces a deliberately small framework-free placeholder candidate so the Director can establish and understand the GitHub -> Cloudflare Workers deployment flow before the final website is designed or the native app is complete.
+The temporary framework-free placeholder is the currently deployed public source at `https://www.kymaean.com`. It exists so the Director can establish and understand the GitHub -> Cloudflare Workers deployment flow before the final website is designed or the native app is complete.
 
 This placeholder is not final website design authority. It must not be treated as selection of final hero artwork, symbol, wordmark, typography, exact production palette, information architecture, or launch claims.
 
 CLOUDFLARE WORKERS BUILDS CONTRACT
 For the temporary placeholder and future deployable website source:
 
-1. Connect Cloudflare Workers Builds to the authoritative repository branch `main` after the applicable site source is merged.
-2. Set the Worker root directory to `site/`.
-3. Restrict build watch inclusion to `site/**` when that setting is available.
-4. Keep `wrangler.jsonc` or any successor public-site Wrangler configuration inside `site/`, never at repository root.
-5. Keep the site project self-contained. Production source/configuration must not reach outside the subtree for `../docs`, `../prototypes`, `../assets`, `../intelligence`, `../updates` or `../tools` dependencies.
-6. Treat preview/non-production branch deployments as review evidence; production remains `main` unless later explicit deployment authority changes it.
+1. Cloudflare Workers Builds is connected to the authoritative repository branch `main`.
+2. Worker project name is `kymaean-site`.
+3. Worker root directory is `site/`.
+4. Production deploy command is `npx wrangler deploy`.
+5. Non-production branch deploy command is `npx wrangler versions upload`.
+6. `workers_dev` remains disabled for the production Worker; preview URLs may remain explicitly enabled for non-production review.
+7. Keep `wrangler.jsonc` or any successor public-site Wrangler configuration inside `site/`, never at repository root.
+8. Keep the site project self-contained. Production source/configuration must not reach outside the subtree for `../docs`, `../prototypes`, `../assets`, `../intelligence`, `../updates` or `../tools` dependencies.
+9. Treat preview/non-production branch deployments as review evidence; production remains `main` unless later explicit deployment authority changes it.
 
 BRANCH MODEL
 A permanent branch named `site` is not the deployment boundary and is not current authority. New website work starts from current `main` on a scoped branch such as `site/<work-package>`, then merges back to `main` after recursive audit and required validation. Cloudflare isolation comes from the `site/` root directory and watch paths.
 
 DEPLOYMENT GUARD
-The temporary placeholder candidate may become the first intentionally deployed public source after review and merge. Its deployment authorizes only a temporary informational holding page and the GitHub -> Cloudflare flow; it does not authorize final website implementation or broader brand convergence.
+The temporary informational holding page is intentionally deployed. That deployment authorizes only the placeholder and the GitHub -> Cloudflare publication flow; it does not authorize final website implementation or broader brand convergence.
+
+Production hostname routing is currently managed in Cloudflare: `www.kymaean.com` is the Worker custom domain and the bare `kymaean.com` is handled by Cloudflare DNS/Redirect Rules. Do not alter mail-related MX/TXT/DKIM records as part of website deployment work.
 
 Do not point production Cloudflare at repository root or `prototypes/`.
 
 WEBSITE UPDATE FLOW
-Non-executable planning/change/release records belong in `updates/`. The implementation itself belongs here in `site/`. After production source is deployed, every website release should be traceable from an `updates/` record to the exact `site/` commit deployed.
+Non-executable planning/change/release records belong in `updates/`. The implementation itself belongs here in `site/`. Every website release should be traceable from an `updates/` record to the exact `site/` commit deployed.
