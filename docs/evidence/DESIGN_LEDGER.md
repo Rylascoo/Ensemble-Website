@@ -2396,3 +2396,19 @@ The Director prior is compatible with the frozen IMG-01 law but does not modify 
 **Next boundary:** materialize exactly one bounded raw exemplar for IMG-F1, IMG-F2 and IMG-F3, preserve each before evaluation, then evaluate against the frozen promotion floor. No CLR selection, Stage change, Phase-D entry, product-semantic invention, closed-gate reopening or runtime authority is created.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN IMG-01 MECHANICAL PREFLIGHT / PRIOR-EXPOSURE QUARANTINE AUDIT.**
+
+## L-155 - IMG-01 sterile renderer packets are frozen for three isolated first outputs
+
+**State:** IMG-01 PACKETS FROZEN / 3 EXTERNAL FIRST RENDERS AUTHORIZED / 0 RENDERS CONSUMED / NO SUBJECTIVE RANKING
+
+`docs/evidence/IMG_01_EXEMPLAR_RENDERER_PACKETS_01.json` freezes the external materialization packet set at SHA-256 `7b861b38acec500013c62ed2284d3c7eb0e0db42b3254483590a98a302cd5b33` after the hosted-green mechanical preflight/quarantine checkpoint `5290bec290636319e586baedf1c5e2ea845d84dd`.
+
+The packet set contains exactly three renderer-visible prompts, one each for `IMG-F1`, `IMG-F2`, and `IMG-F3`. All three preserve the same controlled semantic facts: exactly three specific adults A/B/C; A/B strongest current relational focus; C still present/relevant; one completed prior human action has changed the current shared condition; aftermath only; no private motive/belief/knowledge/emotion/hidden-state claim; sparse subordinate world; no prescribed brand palette; no Stage-copy shorthand; one uninterrupted artwork only. Family prompts differ only by their frozen representation logic and already-preregistered failure avoidance.
+
+Renderer isolation is mandatory: one fresh regular non-project image-generation chat per packet, exactly one untouched first output, no competing packet, prior family output, historical image, reference board, Director prior, project/brand naming, or later correction chain visible to that renderer. Preserve each raw first output before critique. No family-specific refinement or synthesis begins until all three raw outputs exist and are provenance-pinned.
+
+The Director Character/Image prior was read after mechanical preflight and before subjective scoring. Its exposure remains quarantined by `IMG_01_DIRECTOR_PRIOR_EXPOSURE_AND_EVALUATION_QUARANTINE_01.json`; it was not used to alter the frozen IMG-01 method/families or renderer-visible prompts. Later evaluation must first use the original IMG-01 promotion floor/hard failures, with Director-prior concordance recorded separately rather than presented as blind evidence.
+
+**Guardrail:** these packets authorize only the three isolated first renders. They do not authorize refinement, rerolls, cross-family reference use, family selection, CLR choice, Stage modification, Phase-C exit, production assets, app/site implementation or runtime authority.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

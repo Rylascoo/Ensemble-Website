@@ -1,0 +1,87 @@
+{
+  "schema": "kymaean.img-01.exemplar-renderer-packets.v1",
+  "status": "FROZEN_EXTERNAL_ISOLATED_EXECUTION_READY_NO_RENDER_RESULT",
+  "date": "2026-09-13",
+  "program": "IMG-01",
+  "authority": {
+    "mechanical_preflight_commit": "5290bec290636319e586baedf1c5e2ea845d84dd",
+    "method_sha256": "2d7cbdc5471b0c97f156d9bf1928eba0f12ba821ac954dce4d1c3877a1c8be13",
+    "stage0_sha256": "c3ddc1fa9c5ade158edbf8f82f1b6c8afa086eda4e62441f9fc25e11146f7283",
+    "families_sha256": "13513408875a6f4f6ba8be8e5aaead83bf616d38cb821f36291e82d2f79e8207",
+    "preflight_sha256": "3dc93454fe9caa2962e87c193dfac68e9db197bdf6925fa79f48dd2ee702d575",
+    "prior_exposure_sha256": "be4b7063c8c76174e90898d7c32073af7341a338218c94b0906364f2a543743a"
+  },
+  "execution_protocol": {
+    "renderer_context": "One fresh regular non-project image-generation chat per packet.",
+    "images_per_context": 1,
+    "packet_visibility": "Each renderer sees only its own renderer_visible_prompt; do not show competing packets, historical images, the reference board, Director prior, or generated outputs from another family.",
+    "order": ["IMG-F1", "IMG-F2", "IMG-F3"],
+    "refinement": "None before all three raw outputs are preserved and independently evaluated.",
+    "return_contract": "Return one uninterrupted artwork only; no explanation, design board, UI mockup, labels, logo or caption inside the image.",
+    "raw_preservation": "Preserve the first unrefined output byte-for-byte before critique or any later iteration.",
+    "drive_destination_folder_id": "1FdfoCY4pjsTRs3AuCUczDrHbq3rj-p40"
+  },
+  "shared_parity_contract": {
+    "format": "One uninterrupted wide artwork; no application chrome, design board, explanatory text, logos, captions or labels.",
+    "people": "Exactly three distinct specific adults, A, B and C, in one shared sparse temporally non-specific world.",
+    "relationship": "A and B carry the strongest current relational focus; C remains visibly present, specific and relevant rather than becoming background decoration.",
+    "changed_present": "Before the depicted moment, one completed human action changed the shared present. The act itself is over. The current arrangement must make the changed condition perceptible without narrating private motive, belief, knowledge, emotion or hidden state.",
+    "causal_restraint": "Show aftermath/current consequence only. Do not use arrows, nodes, diagrams, beams, portals, magic, symbolic machinery, badges, meters or explanatory causal graphics.",
+    "identity": "Each person must remain distinguishable without relying only on color, lighting, costume tint or one face.",
+    "world": "Keep scenery sparse and subordinate. Do not invent occupations, historical period, cultural lore, genre narrative, branded technology or a conventional domestic/workplace task as the explanation.",
+    "stage_noncopy": "Do not use cone lineups, spotlights, black-box theater, floor-name treatment or recognizable Stage composition.",
+    "palette": "No prescribed brand palette. Keep value hierarchy intelligible independent of hue.",
+    "output": "Return only the artwork."
+  },
+  "packets": [
+    {
+      "id": "IMG-F1",
+      "family": "Authored Figurative Ensemble",
+      "renderer_visible_prompt": "Create one uninterrupted wide artwork containing exactly three distinct, specific adults in one shared sparse, temporally non-specific world. A and B carry the strongest current relational focus; C remains visibly present, specific and relevant. Before this depicted moment, one completed human action changed the shared present; the act is over, and the current arrangement should make that changed condition perceptible without explaining private motive, belief, knowledge, emotion or hidden state. Use deliberately authored stylized human figures as the strongest visual hierarchy: clearly human bodies, faces or partial figures, expressive enough to feel specific but not photorealistic and not dependent on micro-expression. Give each person persistent non-color identity cues through silhouette, proportion, contour, recurring form structure and individually coherent detail. Let relationship emerge from ensemble blocking, orientation, overlap, crop and negative space rather than diagrams or connectors. Keep the environment sparse, quiet and subordinate to the people. Do not turn the result into cinematic concept art, fashion/editorial portraiture, profile-avatar imagery, a fixed headshot system, a game-character lineup or a dramatic psychology illustration. Do not prescribe or depend on a brand palette; value, form and structure must carry the image. No UI, text, labels, logos, design-board framing, arrows, nodes, beams, portals, magical effects, cone lineups, spotlights or recognizable theater-stage composition. Return only the uninterrupted artwork."
+    },
+    {
+      "id": "IMG-F2",
+      "family": "Transforming Human Invariants",
+      "renderer_visible_prompt": "Create one uninterrupted wide artwork containing exactly three distinct, specific adults in one shared sparse, temporally non-specific world. A and B carry the strongest current relational focus; C remains visibly present, specific and relevant. Before this depicted moment, one completed human action changed the shared present; the act is over, and the current arrangement should make that changed condition perceptible without explaining private motive, belief, knowledge, emotion or hidden state. Build each person from a coherent set of repeatable human-form invariants that can survive partial visibility, crop, scale, orientation and changing representation depth. The figures may be reduced, incomplete, silhouetted or shown through concise figurative fragments, but they must remain unmistakably human and individually specific. Distinguish each person through recurring contour, proportion, body/hair geometry, internal rhythm or other persistent non-color structural cues; stylistic sameness alone is not enough. Let the shared field be organized asymmetrically by the people and negative space, without graph nodes, connectors, quantified-distance language or avatar circles. Keep material depth planar or shallow; transformation should come from completeness, crop, scale and orientation rather than effects. Do not let abstraction collapse the adults into icons, tokens, mascots, data nodes or generic technology symbols. Do not prescribe or depend on a brand palette; value, form and structure must carry the image. No UI, text, labels, logos, design-board framing, arrows, beams, portals, magical effects, cone lineups, spotlights or recognizable theater-stage composition. Return only the uninterrupted artwork."
+    },
+    {
+      "id": "IMG-F3",
+      "family": "Grounded Residual Presence",
+      "renderer_visible_prompt": "Create one uninterrupted wide artwork containing exactly three distinct, specific adults in one shared sparse, temporally non-specific world. A and B carry the strongest current relational focus; C remains visibly present, specific and relevant. Before this depicted moment, one completed human action changed the shared present; the act is over, and the current arrangement should make that changed condition perceptible without explaining private motive, belief, knowledge, emotion or hidden state. Keep an explicit, specific human anchor for each adult while allowing the shared field to visibly register presence and consequence through grounded contact, occlusion, displacement, compression, pressure, residue, altered negative space or changed available space. The environmental response may occupy substantial area, but every change must remain attributable to specific people and must never replace them. Use concise human silhouettes, contours, partial figures or relief-like presence with persistent non-color identity cues. Make the changed world feel physical and consequential rather than magical: weight, contact, obstruction, deformation and spatial reorganization instead of glow, energy, portals, beams, aura, mystical traces or one giant symbolic prop. Keep any material depth localized; avoid global spectacle, glass-like effects, decorative texture carpets, archive/paper metaphors or cinematic fantasy scenery. Do not prescribe or depend on a brand palette; value, contact and geometry must carry the image. No UI, text, labels, logos, design-board framing, arrows, nodes, cone lineups, spotlights or recognizable theater-stage composition. Return only the uninterrupted artwork."
+    }
+  ],
+  "prompt_audit": {
+    "shared_facts_identical": true,
+    "family_count": 3,
+    "one_image_per_fresh_context": true,
+    "historical_images_visible_to_renderer": false,
+    "reference_board_visible_to_renderer": false,
+    "director_prior_visible_to_renderer": false,
+    "competing_family_prompt_visible_to_renderer": false,
+    "brand_or_project_name_in_renderer_visible_prompts": false,
+    "palette_selection_created": false,
+    "occupations_or_narrative_lore_seeded": false,
+    "result_aware_retuning_occurred": false,
+    "subjective_family_scoring_started": false,
+    "new_visual_generation_consumed": false,
+    "family_specific_delta": "Only the frozen IMG-F1 / IMG-F2 / IMG-F3 representation logic and its already-preregistered failure avoidance differ across prompts.",
+    "director_prior_disposition": "The Director prior was read after mechanical preflight and before subjective scoring. It is quarantined from these renderer-visible prompts and from retroactive pass/fail criteria by IMG_01_DIRECTOR_PRIOR_EXPOSURE_AND_EVALUATION_QUARANTINE_01.json."
+  },
+  "post_render_contract": {
+    "first_action": "Preserve each untouched first output before critique or iteration.",
+    "comparison_start": "Only after all three first outputs exist and are provenance-pinned.",
+    "evaluation_authority": "Evaluate first against the frozen IMG-01 method promotion floor and hard failures; record Director-prior concordance separately afterward.",
+    "refinement": "No family-specific refinement, correction chain, synthesis or winner selection before the three first-output comparison is frozen.",
+    "authority_limit": "Rendered exemplars are evidence only; they do not select CLR, alter Stage, exit Phase C, create production assets or authorize implementation."
+  },
+  "recursive_audit": {
+    "status": "CLEAN_RENDERER_PACKET_FREEZE_PRE_EXECUTION",
+    "semantic_parity_preserved": true,
+    "family_divergence_preserved": true,
+    "prompt_seed_minimized": true,
+    "director_prior_contamination_quarantined": true,
+    "renderer_isolation_preserved": true,
+    "no_render_result_created": true,
+    "approval": "APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT."
+  }
+}
