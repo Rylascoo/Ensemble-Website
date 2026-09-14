@@ -2,7 +2,7 @@
 
 # Kymaean Website Placeholder V2.1 — Atmospheric Finish 01
 
-Status: PR #65 PROMOTED / PRODUCTION VERIFICATION DEFECT FOUND / NO-ANALYTICS INTEGRITY REPAIR ACTIVE / NOT FINAL BRAND FREEZE
+Status: PR #65 PROMOTED / NO-ANALYTICS INTEGRITY REPAIR PREVIEW PASS / PR #66 PROMOTION NEXT / NOT FINAL BRAND FREEZE
 Date: 2026-09-14
 Workstream: WEB / SHARED BRAND
 PR: #65
@@ -87,6 +87,12 @@ Live verification found all five non-HTML public assets exact, while `index.html
 
 The bounded repair adds `site/public/_headers` with `Cache-Control: public, max-age=0, must-revalidate, no-transform`. Cloudflare documents `no-transform` as preventing automatic Web Analytics injection, and Workers Static Assets supports `_headers` as source-controlled response-header configuration. No visual, identity, copy, runtime, DNS, mail, or product authority changes.
 
+## Production-integrity preview validation
+
+Because the normal GitHub integration did not surface a PR #66 branch-preview URL, the exact repair was deployed to an isolated temporary Workers account using the same Static Assets source. The temporary preview returned HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, preserved the canonical V2.1 HTML marker, contained no `cloudflareinsights.com` / `beacon.min.js` injection, and exposed the same source HTML length as the audited candidate. The temporary deployment cannot alter the real Kymaean Worker and its local throwaway Wrangler config was removed immediately after validation.
+
+Both repository workflows also pass on PR #66 head `39ccf73e93e78908bd2bc98eb3f11be13a72c98a`. This closes the non-production repair gate without changing the approved visual candidate.
+
 ## Next boundary
 
-Validate the `_headers` response in a non-production deployment, promote the exact repair, then verify `https://www.kymaean.com/` serves source-exact HTML without the analytics beacon and still passes the approved responsive/accessibility behavior. Do not declare V2.1 production complete before that live check is clean.
+Promote PR #66 with an exact-head guard, then verify `https://www.kymaean.com/` serves source-exact HTML without the analytics beacon and still passes the approved responsive/accessibility behavior. Do not declare V2.1 production complete before that live check is clean.
