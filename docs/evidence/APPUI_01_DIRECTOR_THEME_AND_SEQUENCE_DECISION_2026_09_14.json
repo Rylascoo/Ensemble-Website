@@ -1,7 +1,7 @@
 {
   "schema": "kymaean.appui-director-sequencing-decision.v1",
   "status": "DIRECTOR_DECISION_ACTIVE",
-  "date": "2026-09-15",
+  "date": "2026-09-14",
   "program": "APPUI-01 - Windows 11 ARM64 Working App Visual Prototype",
   "decision": {
     "theme_model": "LIGHT_AND_DARK_COEQUAL",

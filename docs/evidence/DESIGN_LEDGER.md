@@ -2655,7 +2655,7 @@ Concurrency remained isolated. APPUI work is on `design/appui01-working-composit
 
 **State:** ACTIVE DIRECTOR SEQUENCING LAW / LIGHT + DARK CO-EQUAL / DARK STAGE INVARIANT / DECORATION DEFERRED
 
-`docs/evidence/APPUI_01_DIRECTOR_THEME_AND_SEQUENCE_DECISION_2026_09_15.json` records the Director reaction after Working Composition Pass 01. APPUI now targets one semantic Windows interface system with co-equal Light and Dark application themes; neither theme is a secondary adaptation. The Stage remains dark in both themes and `PKT-STAGE-CORE-02` remains unchanged.
+`docs/evidence/APPUI_01_DIRECTOR_THEME_AND_SEQUENCE_DECISION_2026_09_14.json` records the Director reaction after Working Composition Pass 01. APPUI now targets one semantic Windows interface system with co-equal Light and Dark application themes; neither theme is a secondary adaptation. The Stage remains dark in both themes and `PKT-STAGE-CORE-02` remains unchanged.
 
 The active design sequence is explicit. First, complete and polish the functional UI architecture: durable scopes/navigation, information hierarchy, Stage adjacency, inspectors, causal history, commands, responsive behavior, semantic theme tokens, theme-aware functional iconography, typography/spacing, accessibility witnesses and functional empty/loading/error/unavailable states. Second, continue Stage/live-production rendering as the major visual program and the only separate visual-design program justified before the UI framework is sufficiently resolved. Third, after both the APPUI framework and Stage/live-production visual system are sufficiently stable, add secondary Kymaean ornament, expanded brand expression, decorative motion and other nonessential visual layers inside the proven interface framework.
 
@@ -2664,3 +2664,20 @@ This sequencing does not move Design work into `Rylascoo/Ensemble-Project`. Desi
 **Next boundary:** construct APPUI Pass 02 as paired Light/Dark representative Windows screens using the same semantic layout/component system and the same dark Stage. Recursively audit hierarchy, clarity, accessibility/state distinction, theme parity and implementation usefulness before expanding ornamental visual language.
 
 **DIRECTOR THEME + SEQUENCING DECISION - ACTIVE.**
+
+
+## L-173 - APPUI Pass 02 establishes one functional shell across co-equal Light and Dark themes
+
+**State:** WORKING PASS PRESERVED / DUAL-THEME PARITY PASS / DARK STAGE INVARIANT / DIRECTOR REACTION NEXT
+
+`docs/evidence/APPUI_01_WORKING_COMPOSITION_PASS_02_2026_09_14.json` records the first implementation-facing dual-theme architecture pass after the Director fixed APPUI sequencing. Authenticated Drive folder `1Z44xikOG1gyaV1kxoiN5MHvMAI5wg8n6` preserves matched Light/Dark Live Stage and Production Overview screens plus a four-view review board.
+
+The shell is one semantic system rather than two designs. Both themes use the same Production/Scene/Perspective/Posture anchors, working durable navigation, Stage placement, selected-Character inspection, creator commands and causal-history relationships. `PKT-STAGE-CORE-02` remains unchanged and the Live Stage viewport is pixel-identical across Light and Dark. The Stage therefore remains the dark theatrical/performance chamber even inside the light shell.
+
+Pass 02 corrects an architectural inconsistency in Pass 01: causal History is no longer a permanent top-level navigation destination. It is adjacent to the current Production and reachable through causal meaning, consistent with the accepted shell/navigation grammar. Working `Production / People / World` labels are composition aids only and do not freeze final product terminology.
+
+The recursive audit found two deterministic composition defects: the Production Overview resume row overlapped its Stage preview, and light-theme tertiary text measured 3.65:1 against the primary surface. The overlap was removed and the light tertiary token was repaired to 4.76:1. Final audited small-text semantic pairs are at least 4.5:1; Light/Dark Stage identity checks pass.
+
+No final CLR, typography, material, motion, navigation-label, WinUI/XAML, runtime accessibility, ARM64 performance, packaging or Store authority is created. Secondary ornament remains deliberately deferred under the Director sequencing law.
+
+**Next boundary:** Director reaction to shell clarity, navigation, Stage dominance, causal-history adjacency and Light/Dark parity. If structurally accepted, continue functional-state coverage and Stage/live-production visual iteration before opening secondary app ornament.

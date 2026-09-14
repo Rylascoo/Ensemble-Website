@@ -1,0 +1,83 @@
+{
+  "schema": "kymaean.appui-working-composition-pass.v2",
+  "status": "WORKING_DESIGN_EVIDENCE_DIRECTOR_REACTION_PENDING",
+  "date": "2026-09-14",
+  "program": "APPUI-01 - Windows 11 ARM64 Working App Visual Prototype",
+  "repository": "Rylascoo/Ensemble-Website",
+  "branch": "design/appui01-working-compositions-2026-09-14",
+  "baseline": "905daea1bb5cab00d3e5f1bd6de724e6d9f91b75",
+  "purpose": "Test a clean implementation-facing app architecture in co-equal Light and Dark themes while keeping the Stage dark and dominant in both.",
+  "governing_inputs": [
+    "docs/evidence/APPUI_01_DIRECTOR_THEME_AND_SEQUENCE_DECISION_2026_09_14.json",
+    "docs/evidence/APPUI_01_WORKING_COMPOSITION_PASS_01_2026_09_14.json",
+    "docs/evidence/packets/PKT_STAGE_CORE_02.json",
+    "docs/evidence/packets/PKT_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_01.json",
+    "docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md",
+    "docs/KYMAEAN_APP_SHELL_NAVIGATION_GRAMMAR_PROPOSAL_01.md",
+    "docs/KYMAEAN_APP_TASK_FIRST_LOW_FIDELITY_INTERACTION_PROTOTYPE_01.md"
+  ],
+  "architecture": {
+    "theme_model": "ONE_SEMANTIC_SYSTEM_LIGHT_AND_DARK_COEQUAL",
+    "stage_behavior": "DARK_IN_BOTH_THEMES",
+    "durable_navigation": ["Production", "People", "World"],
+    "history_behavior": "Causal history is adjacent to present Production context, not promoted to a permanent top-level mode.",
+    "live_workspace": "Persistent Production/Scene/Perspective/Posture anchors + dark Stage + selected-Character inspector + Stage-external commands + adjacent causal history.",
+    "overview": "Current Scene + current conditions + resume action + causal continuum showing how accepted events produced the present condition."
+  },
+  "stage_reuse": {
+    "authority_packet": "PKT-STAGE-CORE-02",
+    "authority_master_drive_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "authority_master_sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "pass02_live_viewport_sha256": "9546e5c9689acef4ebe2aff25ab5ad6177e70382e49e9694ae6de5e682086429",
+    "pass02_live_viewport_dimensions": [955, 382],
+    "light_dark_live_stage_pixel_identical": true,
+    "light_dark_overview_stage_preview_identical": true,
+    "note": "Pass 02 reuses the preserved Pass 01 Stage viewport derived from the frozen Stage master; no Stage geometry, carrier, Character-cone or live-production art redesign is made. The overview uses one shared proportional preview for both themes."
+  },
+  "drive_archive": {
+    "folder_id": "1Z44xikOG1gyaV1kxoiN5MHvMAI5wg8n6",
+    "folder_name": "18 APPUI-01 Windows Working Composition Pass 02 — Dual Theme Architecture",
+    "files": [
+      {"role": "LIVE_STAGE_LIGHT", "id": "1i1FWsrQSy23scUsG2lu5il1XbSihllhZ", "sha256": "05e5f02be65e55b6890016ff2d25650f3878dce147052bcd0048b6d62ce687b4", "dimensions": [1600, 1000]},
+      {"role": "LIVE_STAGE_DARK", "id": "1hWhGQG6nBE3QOoTnuFND7Xt1OY3Ln2VM", "sha256": "2bcbecd01fd8ed8ee5d6decb92da7effc0c40e903df0317fa828f50086860d7c", "dimensions": [1600, 1000]},
+      {"role": "PRODUCTION_OVERVIEW_LIGHT", "id": "1pJRgcktiiv0UnnaJUPBCWiB_m1qqU54r", "sha256": "e9d276f69254e1c58af7e45f307254b24570f1954af839cacf65b1fe4fb28705", "dimensions": [1600, 1000]},
+      {"role": "PRODUCTION_OVERVIEW_DARK", "id": "1PnugUi55u8quXJqGjvgavj_XI3K6W2Sc", "sha256": "db6477ecac97a90acc799c19dc3e1b0b4f86226800e97bd1f5960a164ca249b9", "dimensions": [1600, 1000]},
+      {"role": "DUAL_THEME_REVIEW_BOARD", "id": "19PooBkWcGK9DYHt9kcVjTbbU8yQYGtzA", "sha256": "430f1d4e7a18c4a2d1a734ee60fc1d6c520b2272d2cc0458af8cf667c9fba7f5", "dimensions": [1600, 1000]}
+    ]
+  },
+  "theme_tokens": {
+    "status": "PROVISIONAL_IMPLEMENTATION_FACING_WORKING_VALUES_NOT_FINAL_CLR_AUTHORITY",
+    "light_min_audited_small_text_contrast": 4.66,
+    "dark_min_audited_small_text_contrast": 4.99,
+    "selection_and_focus": "Persistent selection and keyboard focus use separate non-color witnesses.",
+    "identity": "Character identity remains name/signature/text redundant; no color-only or portrait-only dependency."
+  },
+  "recursive_audit": {
+    "pass_1_findings": [
+      "Production Overview resume controls overlapped the Stage preview.",
+      "Light-theme tertiary text token measured 3.65:1 on the primary surface, below the 4.5:1 small-text floor.",
+      "Pass 01 permanent History navigation conflicted with the accepted shell rule that causal history is a semantic adjacent transition rather than a default top-level app mode."
+    ],
+    "repairs": [
+      "Separated the Stage preview and resume controls into non-overlapping regions.",
+      "Darkened the light-theme tertiary semantic text token to 4.76:1 on white.",
+      "Removed History from durable navigation and represented causality adjacent to current Production state."
+    ],
+    "final_checks": {
+      "live_stage_light_dark_pixel_identical": true,
+      "overview_stage_preview_light_dark_identical": true,
+      "all_audited_small_text_pairs_at_least_4_5": true,
+      "static_visual_layout_review": "PASS",
+      "final_result": "CLEAN_WITHIN_STATIC_WORKING_COMPOSITION_SCOPE"
+    }
+  },
+  "explicit_non_authority": [
+    "No final APPUI selection or production design system.",
+    "No final CLR family, exact palette, typography, material or motion authority.",
+    "No Stage successor or change to PKT-STAGE-CORE-02.",
+    "No final navigation labels or product ontology are frozen by working labels in these screens.",
+    "No WinUI/XAML implementation, runtime accessibility, ARM64 performance, MSIX/package, WACK, Partner Center, Store certification or shipping authority.",
+    "No secondary ornamental Kymaean visual language is opened by this pass."
+  ],
+  "next": "Present Pass 02 for Director reaction. Continue polishing the functional UI architecture and Stage/live-production rendering before opening secondary app ornament or expanded decorative visual systems."
+}
