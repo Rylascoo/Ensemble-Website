@@ -2957,3 +2957,17 @@ Project queue `Q-DESIGN-02` remains blocked specifically for transcript-dependen
 **Next boundary:** open `APPUI-01-P2-STAGE-SHELL-01` as a static Stage-to-shell adjacency/live-workspace composition study. Keep the Phase-1 shell fixed and do not consume transcript-dependent motion authority or invent Product/Phase-D controls.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-191 - Phase-2 Stage-to-Shell adjacency closes the first bounded live-workspace composition
+
+**State:** PHASE-2 STAGE/SHELL COMPOSITION PASS / STAGE PRIMARY / SHELL FROZEN / STATIC ONLY / CURRENT-PERFORMANCE + CAUSAL-CONTEXT NEXT
+
+`docs/evidence/APPUI_01_PHASE_2_STAGE_SHELL_ADJACENCY_LIVE_WORKSPACE_COMPOSITION_01.json` closes `APPUI-01-P2-STAGE-SHELL-01`. The deterministic carrier `prototypes/appui-01/phase2-stage-shell-adjacency-live-workspace-composition-01.html` keeps the frozen dark Stage dominant inside the frozen Phase-1 shell while resolving Watch-versus-Inspect density, contextual inspector adjacency, Light/Dark semantic parity, responsive collapse and exact Stage-origin return.
+
+Focus, creator selection, current opportunity, Character agency and infrastructure remain distinct. Creator-authority surfaces remain outside Character cones. Five Characters are a composition witness, not a cardinality law. Transcript/recent-history placement and ontology, timer/Pause, Observed Cues/provenance, intervention effects, Take/rehearsal/consequence, provider/model/cost and Performer assignment remain unresolved; `Q-DESIGN-02` transcript-dependent motion remains blocked.
+
+Recursive audit found and repaired two defects before closure: ten internal cone name/state overflow witnesses, then double-encoded UTF-8 punctuation/identity text exposed by the first visual render. The final carrier reruns clean at 1600/1024/390/320 plus 320 forced-colors with zero overflow, images or external resources. Drive preserves PNG `1t-vg977NDjYOe9hie3bzDFDC9T9qvdjG` and HTML `1Iif2nPRDnKtbZIctqYpg788nUl2U6YWw` in Phase-2 folder `14-C5PrxDjO_X2a1j3Ip7oLN5QYXzDj2p`.
+
+**Next boundary:** detail current performance plus immediate causal context as a static Stage-adjacent composition without hardening transcript ontology, cadence or motion.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
