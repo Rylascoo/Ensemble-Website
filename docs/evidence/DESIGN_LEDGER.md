@@ -2777,3 +2777,24 @@ The recursive visual/semantic audit found two issues before closure: `recent con
 **Next boundary:** detail Production Shaping / Current Possibility inside the same frozen shell, preserving situation-first navigation and following meaningful elements into contextual/deep inspection rather than restoring ontology-first People/World/Scenes navigation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+
+## L-180 - Production Shaping / Current Possibility closes detailed functional study inside frozen Phase 1
+
+**State:** SHAPING/CURRENT-POSSIBILITY FUNCTIONAL DETAIL PASS / SITUATION-FIRST LAW PRESERVED / CONTEXTUAL+DEEP INSPECTION DETAIL NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_PRODUCTION_SHAPING_CURRENT_POSSIBILITY_FUNCTIONAL_STUDY_01.json` records the second focused section study requested after the Phase-1 architecture freeze. The deterministic carrier `prototypes/appui-01/production-shaping-current-possibility-functional-study-01.html` keeps the current Scene/current situation as the primary creative frame and treats People Here, Relationships in Motion, Pressures Now, Open Questions and World Context as orientation to that situation rather than ontology-first top-level navigation.
+
+The approved interaction hierarchy is now explicit: orient in the current situation -> follow a meaningful person/relationship/pressure/question/world condition -> open contextual inspection -> enter deep inspection/edit only when deliberately followed -> return to the same semantic origin. Whole-Production Character access and causal/history depth remain reachable without silently changing current Scene membership or current/historical status.
+
+Selection grammar is explicit: keyboard focus may move without selecting; selection is an inspection/navigation state and does not imply Director opportunity, relationship salience or Character agency. Provisional work remains distinct from effective creator-authorized change. “Current possibility” is bounded as the creator's working frame and does not imply predictive or generated next-action authority.
+
+Light/Dark preserve one hierarchy and disclosure model. Wide layouts may show situation orientation + primary work + adjacent inspector; medium layouts condense/overlay secondary capacity; narrow layouts become sequential primary surfaces with semantic Back/Close return. Edge CDP preflight passes at 1600, 1024, 390 and 320 CSS-pixel widths plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources.
+
+Authenticated Drive folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc` preserves review PNG `1wEjq3kp145m4LiTKhfCFbXKuPnfsMKAW` and exact HTML `1yalGCvjgGd_v85W-x-5tqq8wtrb5bpK6`.
+
+The recursive audit found two semantic omissions before closure: focus independence was stated but not demonstrated, and `current possibility` could be misread as predictive/generated recommendation authority. Both were repaired and the full wide/narrow/forced-colors audit reran clean. No global-shell redraw, ontology-first navigation, Stage successor, final visual language, Product-gated control, WinUI/runtime or Store authority is created.
+
+**Next boundary:** detail the selected-entity contextual inspector and deep-inspection surface family inside the frozen shell, preserving semantic origin, disclosure, current/history and provisional/effective distinctions, exact return/focus behavior, and responsive adjacency/overlay/sequential transitions.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
