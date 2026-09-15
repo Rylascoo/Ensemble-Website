@@ -1,0 +1,85 @@
+{
+  "schema": "kymaean.appui-phase3-clr01-home-contextual-reentry.v1",
+  "status": "CONTEXTUAL_REENTRY_BOTH_SURVIVE_DIRECTOR_TASTE_GATE",
+  "date": "2026-09-15",
+  "program": "APPUI-01 Phase 3 - Kymaean Visual-Language Integration",
+  "repository": "Rylascoo/Ensemble-Website",
+  "authority": {
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "pre_gate_ref": "d8fefcd07b361dc93deb735995f5654d9f387ada",
+    "representative_home_evidence": "docs/evidence/APPUI_01_PHASE_3_PRODUCTION_HOME_VISUAL_LANGUAGE_INTEGRATION_01.json",
+    "clr_method": "docs/evidence/CLR_01_CROSS_SURFACE_COLOR_LOGIC_INDEPENDENCE_METHOD_AND_MATRIX_01.json",
+    "clr_design_sol_view": "docs/evidence/CLR_01_DESIGN_SOL_INDEPENDENT_VIEW_02.json",
+    "clr_director_deferral": "docs/evidence/CLR_01_DIRECTOR_DEFERRAL_TO_APP_ASSET_CONVERGENCE_01.json",
+    "fresh_engineering_ref": "40409d0d438afe4631c07e41d38fa1179d358664",
+    "website_main": "4bb91292171e0d503d3a4e058ee421436221a793"
+  },
+  "question": "When the preserved CLR-01 F1 and F2 APP color-role values are applied without retuning to the accepted representative Production Home assembly, does contextual evidence falsify either family or do both remain materially valid and require Director taste adjudication?",
+  "fixed_scaffold": [
+    "Frozen Production Home / Resume information architecture and hierarchy",
+    "MAT-01 F1 Subtractive Channel topology",
+    "TYP-02 F1 Ratio Ladder with system-ui carrier",
+    "STA-01 F2 Ring + Edge Witness with focus independent from selection",
+    "Dark Stage/Scene preview semantics unchanged",
+    "No motion, runtime semantics, native implementation or Product-gated controls"
+  ],
+  "frozen_candidates": {
+    "F1": {"name":"Split Temperature","field":"#F7F5F2","primary":"#191B24","secondary":"#565B67","accent":"#9A4D2E","boundary":"#8A8178","soft_surface":"#EEE8E2"},
+    "F2": {"name":"Monochrome + Intruder","field":"#F4F3F7","primary":"#221B2D","secondary":"#5C5565","accent":"#006F73","boundary":"#7D7486","soft_surface":"#EAE8EF"}
+  },
+  "carrier_and_evidence": {
+    "html": "prototypes/appui-01/phase3-clr01-home-contextual-reentry-comparison-01.html",
+    "html_sha256": "ebe807604abe9158525a9dd91fb06672cad9334c5757417d73cabf3fa3e7d022",
+    "probe": "tools/appui_phase3_clr01_home_reentry_matrix_probe.mjs",
+    "probe_sha256": "1b6ca71e3ffc4ab06e0249c6aa891acb4af7c1abce85fd3dc2af901f9b771b80",
+    "accepted_home_html_sha256": "ce0c37b18c8598974bd92423193e7b0076495c09154284301596d9eb55cabfc9",
+    "wide_png_sha256": "13cc376053a0855bb8f6d514419042de1dfa207e399f5f37327db9cea657094f",
+    "narrow_png_sha256": "bbc9aadbfaddd8ce03d1f5bb74bc59642eb1c8e28711c1ec87357a7d1983e390",
+    "drive_folder_id": "1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE",
+    "drive_html_id": "17E5hkh3Py3LAkG1A7eSZDttBr_5KxDkv",
+    "drive_png_id": "15NBd8qRbiYmr965_eh-ZBu9WlLXC8-XC"
+  },
+  "browser_matrix": [
+    {"mode":"normal","width":1600,"apps":3,"material_fields":3,"overflow":false,"internal_overflow":0},
+    {"mode":"normal","width":1024,"apps":3,"material_fields":3,"overflow":false,"internal_overflow":0},
+    {"mode":"normal","width":390,"apps":3,"material_fields":3,"overflow":false,"internal_overflow":0},
+    {"mode":"normal","width":320,"apps":3,"material_fields":3,"overflow":false,"internal_overflow":0},
+    {"mode":"forced-colors","width":320,"apps":3,"material_fields":3,"overflow":false,"internal_overflow":0,"forced_colors_active":true},
+    {"mode":"text-200-percent","width":320,"apps":3,"material_fields":3,"overflow":false,"internal_overflow":0},
+    {"mode":"text-spacing","width":320,"apps":3,"material_fields":3,"overflow":false,"internal_overflow":0}
+  ],
+  "contrast_checks": {
+    "F1": {"primary_on_field":15.772,"secondary_on_field":6.249,"accent_on_field":5.553,"accent_on_dark_rail":3.025,"accent_on_light_button":5.561},
+    "F2": {"primary_on_field":15.055,"secondary_on_field":6.461,"accent_on_field":5.398,"accent_on_dark_rail":3.065,"accent_on_light_button":5.487}
+  },
+  "invalidated_predecessors": [
+    "The first repeated-setDocumentContent probe failed to rematerialize inline-script-built candidate assemblies on later viewport cases; those later-case diagnostics were invalid and excluded.",
+    "The first static rebuild removed mojibake but only approximated the representative Home scaffold and omitted the literal MAT-01 F1 subtractive-channel carrier; that comparison was invalidated before family judgment."
+  ],
+  "recursive_audit": {
+    "utf8_and_source_integrity": "PASS - zero replacement characters in final carrier",
+    "representative_scaffold_fidelity": "PASS - three complete app blocks and three literal MAT subtractive fields derived from the accepted Home carrier",
+    "selection_focus_independence": "PASS - STA F2 selected edge witness and independent keyboard focus remain structural in both families",
+    "stage_dominance": "PASS - dark Stage/Scene preview remains invariant and visually dominant where already required",
+    "status_color_drift": "PASS - neither accent becomes success/warning/capability/Character/opportunity meaning",
+    "accessibility_and_reflow": "PASS - all seven browser cases clean; required text/non-text contrast floors met",
+    "dark_theme_scope": "PASS - no dark CLR translation invented because frozen CLR-01 did not define dark tokens"
+  },
+  "contextual_result": {
+    "F1": "SURVIVES - retains calmer split-temperature character; prior editorial/heritage genericity reservation remains",
+    "F2": "SURVIVES - retains more distinctive sparse intruder logic; prior creative-tool violet/teal familiarity reservation remains",
+    "objective_falsification": "NONE",
+    "design_sol_prior_view": "F2 remained the stronger provisional candidate before Director input; F1 remained secondary with genericity reservation",
+    "director_selection": "NOT YET MADE",
+    "disposition": "BOTH SURVIVE / DIRECTOR TASTE GATE"
+  },
+  "non_authority": [
+    "No final palette or production color tokens",
+    "No semantic status-color system",
+    "No invented dark-theme CLR translation",
+    "No app/site theme implementation",
+    "No architecture, MAT/TYP/STA, Stage, motion or runtime-semantic change",
+    "No Phase-3 convergence or final identity claim"
+  ],
+  "next_boundary": "Present the exact surviving F1/F2 contextual comparison to the Director for taste adjudication. Do not retune either family before that decision."
+}

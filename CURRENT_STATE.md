@@ -16,14 +16,14 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 **Static Stage/live-production coverage is CLOSED PASS.** Eight bounded studies cover the presently authorized static-safe framework. This is not full Phase-2 completion: transcript-dependent motion remains blocked; intervention, consequence/Take, timer/Pause, Observed Cues/provenance, provider/model/cost and Performer mechanics remain Product-defined/open.
 
 ## Product / Engineering boundary
-Fresh Engineering `main@cfa0ec95aa3ea588269135b3160ce008f523fd27` remains E0-D active; E0-E behavioral evidence is unavailable and `Q-DESIGN-02` remains BLOCKED. No Phase-D Product semantics invalidate the static shell/Stage envelope.
+Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D active; E0-E behavioral evidence is unavailable and `Q-DESIGN-02` remains BLOCKED. No Phase-D Product semantics invalidate the static shell/Stage envelope.
 
 ## Phase 3
-**Bounded static visual-language integration is ACTIVE.** Production Home / Resume now passes its first color-independent integration using MAT-01 F1 Subtractive Channel + TYP-02 F1 Ratio Ladder + STA-01 F2 Ring + Edge Witness inside the frozen Home architecture. Evidence: `docs/evidence/APPUI_01_PHASE_3_PRODUCTION_HOME_VISUAL_LANGUAGE_INTEGRATION_01.json`.
+**Bounded static visual-language integration is ACTIVE.** Production Home / Resume passes the color-independent MAT-01 F1 + TYP-02 F1 + STA-01 F2 integration at `d8fefcd07b361dc93deb735995f5654d9f387ada`.
 
-The integration passes 1600/1024/390/320, forced-colors 320, 200% text at 320 and text-spacing stress at 320 after one responsive repair. Light/Dark retain identical hierarchy and semantics. Stage remains unchanged. CLR-01 is still unselected and unretuned.
+CLR-01 contextual reentry is now mechanically and visually clean against that exact representative Home scaffold. Frozen F1 Split Temperature and F2 Monochrome + Intruder both survive 1600/1024/390/320, forced-colors, 200% text and text-spacing stress with zero overflow and preserved structural selection/focus. Neither family is objectively falsified. Evidence: `docs/evidence/APPUI_01_PHASE_3_CLR01_HOME_CONTEXTUAL_REENTRY_01.json`.
 
-Drive archive: `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE`; PNG `1Az20g5UGS2gs-oOAYBIAbWbvHr1cGho9`; HTML `1J23xjCddfQOgYiGY4NTat-rCWs8BmSJv`.
+Drive archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE` preserves comparison PNG `15NBd8qRbiYmr965_eh-ZBu9WlLXC8-XC` and exact HTML `17E5hkh3Py3LAkG1A7eSZDttBr_5KxDkv`.
 
 ## Next
-Reopen the preserved **CLR-01 F2 vs F1 contextual decision** against this representative Home/Resume assembly without retuning either frozen family. Any color selection must preserve accessibility, Light/Dark semantic parity, focus != selection, MAT/TYP/STA mechanisms, and must not become status semantics or reopen information architecture.
+**Director CLR taste gate.** Choose between surviving F1 and F2 using the exact contextual comparison. Do not retune either family before selection. Dark-theme CLR translation, production tokens, semantic status colors, implementation and Phase-3 convergence remain successor work.

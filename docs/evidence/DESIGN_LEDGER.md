@@ -3132,3 +3132,23 @@ No final material system, typeface, palette, component skin, motion system, nati
 **Next boundary:** reopen preserved CLR-01 F2 versus F1 against this representative Home/Resume app assembly without retuning either family.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-202 - CLR-01 contextual app reentry leaves F1 and F2 both viable; Director taste gate opens
+
+**State:** PHASE-3 CLR CONTEXTUAL REENTRY PASS / F1 SURVIVES / F2 SURVIVES / DIRECTOR SELECTION REQUIRED / NO PRODUCTION COLOR AUTHORITY
+
+`docs/evidence/APPUI_01_PHASE_3_CLR01_HOME_CONTEXTUAL_REENTRY_01.json` reopens the preserved CLR-01 deferral exactly at the app-asset convergence boundary named by L-057. Frozen F1 Split Temperature and F2 Monochrome + Intruder APP role values were applied without retuning to the accepted Phase-3 Production Home scaffold carrying MAT-01 F1 Subtractive Channel, TYP-02 F1 Ratio Ladder and STA-01 F2 Ring + Edge Witness.
+
+Two predecessor comparisons were invalidated before judgment: one browser loop failed to rematerialize inline-script-built candidates at later viewports, and one static rebuild omitted the literal MAT subtractive-channel carrier. The final comparison derives from the accepted Home carrier itself and preserves three complete app blocks, three literal MAT fields, structural selection/focus, unchanged dark Stage preview and identical Home hierarchy.
+
+Final Edge CDP passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow. F1 and F2 both meet the relevant text/non-text contrast floors, including accent reinforcement against the dark selected-navigation rail. Neither creates status-color semantics or displaces Stage/content hierarchy.
+
+Context therefore does not objectively falsify either family. The prior Design Sol view remains preserved rather than rewritten: F2 was the stronger provisional candidate for distinctiveness; F1 remained viable with an editorial/heritage genericity reservation. F2 retains its own creative-tool violet/teal familiarity reservation. No Director preference is yet recorded.
+
+Drive Phase-3 archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE` preserves exact comparison HTML `17E5hkh3Py3LAkG1A7eSZDttBr_5KxDkv` and PNG `15NBd8qRbiYmr965_eh-ZBu9WlLXC8-XC`.
+
+Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D active; E0-E remains unavailable and `Q-DESIGN-02` remains blocked. No new Product semantics alter this color gate.
+
+**Next boundary:** direct Director taste adjudication between the two surviving frozen families. Do not retune before selection. Dark-theme translation, production tokens, semantic status colors, theme implementation and Phase-3 convergence remain successor work.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN CONTEXTUAL REENTRY AUDIT / DIRECTOR TASTE GATE OPEN.**
