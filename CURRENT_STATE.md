@@ -9,16 +9,16 @@ Updated: 2026-09-15
 ## Active stream
 APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`. Concurrent Website publication remains separate; last reconciled Website `main` is `4bb91292171e0d503d3a4e058ee421436221a793`. Do not merge/rebase/reset either stream for visual continuity.
 
-## Frozen architecture
-**Phase 1 application UI architecture/layout is FROZEN PASS.** Wireframe 01R remains the global baseline. Home is resume/current-situation first; Shaping is situation-first; meaningful elements lead into contextual/deep inspection. Light/Dark are co-equal and Stage remains dark in both. The Phase-1 interaction/freeze evidence remains binding.
+## Phase 1
+**Application UI architecture/layout is FROZEN PASS and detailed-section coverage is CLOSED CLEAN.** Wireframe 01R remains the global shell baseline; all already-authorized non-Stage section families have PASS detail. Phase 1 is not reopened by Phase 2.
 
-## Detailed section closeout
-`docs/evidence/APPUI_01_PHASE_1_DETAILED_SECTION_COVERAGE_CLOSEOUT_AUDIT_2026_09_15.json` finds **no remaining already-authorized non-Stage Phase-1 detail gap**. PASS detail exists for Home/Resume; Shaping; Contextual+Deep Inspection; Whole-Production Character Management; Causal+History; Truth/Knowledge/Disclosure; Persistence/Recovery; Production Lifecycle Utilities; Character-Bounded Workspace; and Empty/Unavailable/Transitional Workspaces.
+## Phase 2 entry
+`docs/evidence/APPUI_01_PHASE_2_ENTRY_GATE_ENGINEERING_RECONCILIATION_2026_09_15.json` opens **BOUNDED Phase 2 Stage/live-production work**. Fresh Engineering `main@60b85fbcb36e265e3910444714143d944ffef841` remains pre-Phase-D: E0-D is blocked and live execution is unauthorized. No new Scene/Take/consequence/Perspective/provider/Performer product-runtime semantics are promoted.
 
-Cross-cutting interaction/state, theme parity, adaptive layout, focus/selection/return grammar, current/history, provisional/effective and infrastructure/fiction boundaries are covered. Live Stage detail is not a Phase-1 gap: it is the explicit Phase-2 boundary. Creator intervention and unresolved Perspective/Take/consequence/transcript/timer/provider/Performer mechanics remain Stage- or Product/Phase-D-gated.
+Project queue `Q-DESIGN-02` remains BLOCKED specifically for transcript-dependent Stage motion/integration pending required E0-A vs E0-E evidence. Static/non-transcript Stage-to-shell adjacency, Watch-posture hierarchy, Stage framing and contextual inspection composition may proceed using already-authoritative meanings only.
 
-## Product boundary
-Last required Engineering reconciliation remains `36b9c4c2644d6d47c957e7910d0c609e260b5432`; no Phase-D semantics were promoted at Phase-1 freeze. Do not infer current Engineering state from that historical checkpoint.
+## Stage anchor
+`PKT-STAGE-CORE-02` remains the frozen Stage visual anchor: Drive `1uSzrNEAHs72BdswbOhMfMaK92eFROCfH`, SHA-256 `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`. Preserve cone carrier/geometry, floor-name hinge, explicit names, state separation/listening presence, creator actions outside cones, dark shared Stage and causal-field background. Historical Studio/Stage/Archive shell topology and provisional rail/cues/pips/transcript/timer semantics are not re-promoted.
 
 ## Next
-**Fresh-resolve `Rylascoo/Ensemble-Project` now and evaluate the Phase-2 entry gate.** If Engineering remains pre-Phase-D, Phase 2 may explore only already-authoritative Stage/live-production meanings and must keep unresolved controls provisional. Phase 3 visual-language integration remains later.
+Open **APPUI-01-P2-STAGE-SHELL-01 — Stage-to-Shell Adjacency and Live Workspace Composition 01**. Keep the Phase-1 shell fixed; resolve the static Stage/live-workspace relationship first. Do not consume transcript-dependent motion authority, harden Observed Cues/right-rail semantics, or invent Product/Phase-D controls. Phase 3 visual-language integration remains later.

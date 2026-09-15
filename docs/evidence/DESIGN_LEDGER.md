@@ -2943,3 +2943,17 @@ Live Stage detail is explicitly classified as the next-phase boundary rather tha
 **Next boundary:** fresh-resolve `Rylascoo/Ensemble-Project` and evaluate the Phase-2 entry gate. If Engineering remains pre-Phase-D, Stage/live-production exploration may use only already-authoritative meanings and must leave unresolved controls provisional.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-190 - Phase-2 entry gate opens bounded Stage/live-production work after fresh Engineering reconciliation
+
+**State:** PHASE-2 BOUNDED ENTRY OPEN / STATIC STAGE-TO-SHELL WORK ALLOWED / Q-DESIGN-02 TRANSCRIPT-DEPENDENT MOTION STILL BLOCKED / PHASE-1 SHELL FROZEN
+
+`docs/evidence/APPUI_01_PHASE_2_ENTRY_GATE_ENGINEERING_RECONCILIATION_2026_09_15.json` performs the required fresh Project reconciliation at exact `Ensemble-Project main@60b85fbcb36e265e3910444714143d944ffef841`. Engineering remains pre-Phase-D: E0-D is blocked, live execution is unauthorized, and no previously open Scene/Take/consequence/Perspective/provider/Performer semantics have been promoted.
+
+Project queue `Q-DESIGN-02` remains blocked specifically for transcript-dependent Stage motion/integration requiring the designated E0-A versus E0-E behavioral evidence. That block does not prohibit static/non-transcript Stage-to-shell adjacency, Watch-posture hierarchy, Stage framing, selected-entity contextual inspection adjacency or responsive composition using already-authoritative meanings.
+
+`PKT-STAGE-CORE-02` remains the frozen Stage anchor. Phase-2 composition must preserve its cone carrier/geometry, floor-name hinge, explicit Character names, state separation/listening presence, creator-action boundary, dark shared Stage and context-agnostic causal-field background. The later APPUI Phase-1 shell controls current application information architecture; historical Studio/Stage/Archive topology and provisional right-rail/Observed-Cues/pips/transcript/timer depictions in the old raster are not re-promoted.
+
+**Next boundary:** open `APPUI-01-P2-STAGE-SHELL-01` as a static Stage-to-shell adjacency/live-workspace composition study. Keep the Phase-1 shell fixed and do not consume transcript-dependent motion authority or invent Product/Phase-D controls.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
