@@ -3081,3 +3081,20 @@ Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero overflow/imag
 **Next boundary:** resolve the final static-safe performance-modality gap with an affirmative nonverbal-action/refusal witness, then rerun Phase-2 static closeout.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+## L-199 - Nonverbal action / refusal closes the final static performance-modality gap
+
+**State:** PHASE-2 NONVERBAL ACTION/REFUSAL PASS / PERFORMANCE MODALITY != TRANSCRIPT DEPENDENCY / STATIC CLOSEOUT AUDIT NEXT
+
+`docs/evidence/APPUI_01_PHASE_2_NONVERBAL_ACTION_REFUSAL_COMPOSITION_01.json` closes `APPUI-01-P2-PERFMOD-01`. The carrier `prototypes/appui-01/phase2-nonverbal-action-refusal-composition-01.html` holds the Missing Raft Stage context constant while Wren alone changes across Listening control, Nonverbal Action and Refusal.
+
+Nonverbal action remains Character-legible performance without quoted speech/chat-bubble dependence. Refusal remains explicit Character agency rather than missing output, technical failure, incapacity or inferred emotion/motive. Marlowe speaking and Iona current opportunity remain constant, preserving performance modality != selection/opportunity.
+
+Recursive audit repaired two inherited presentation defects before closure: refusal initially retained a `technical` caption class from the source study, and its state lacked the same performed-state emphasis as nonverbal action. Both were corrected; stale silence/system explanatory sections were also replaced with action/refusal-specific guards.
+
+Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero overflow/images/external resources; wide and narrow review are clean. Drive preserves PNG `1e2Ckkj5wLi_dwHZiI8Sm8UJ6-SY5Lo4g` and HTML `1ZLsLP2yMX1NmN-72ySRE8D3iY7sGPCc4`.
+
+No action ontology, motive/emotion inference, timing/cadence, causal effect, Take/acceptance, transcript/provenance placement, Stage motion or Phase-D Product control is promoted. `Q-DESIGN-02` remains blocked.
+
+**Next boundary:** rerun consolidated Phase-2 static closeout across all eight accepted bounded studies, then fresh-reconcile Engineering before any Phase-3 entry decision.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
