@@ -2582,3 +2582,19 @@ This is a secondary-public-surface consistency repair, not a reopening of the St
 **Next boundary:** commit/push the exact repair + continuity, require exact-head repository workflows and hosted verification, then merge PR #68 with an exact-head guard; after merge, verify `www.kymaean.com` source bytes, no-analytics headers, responsive/accessibility invariants and close the serial branch lifecycle.
 
 **APPROVED — DIRECTOR V2.2 PRODUCTION DECISION + CLEAN PRE-MERGE DEFECT ISOLATION.**
+
+## L-167 - V2.2 repaired social card passes exact hosted production preflight
+
+**State:** EXACT HOSTED PRODUCTION PREFLIGHT PASS / DIRECTOR-APPROVED V2.2 CANDIDATE / EXACT-HEAD MERGE NEXT / PRODUCTION V2.1 UNCHANGED
+
+Repair payload `e588dc01bf2ce37bc8d65ed53b4ad06fbbf4290f` passes exact-head `Repository publication boundaries` run #808 and `Document status structure` run #590. The PR #68 branch preview serves all nine public assets byte-for-byte equal to the exact Git blobs at that payload.
+
+The preview remains HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, `X-Robots-Tag: noindex`, and no Cloudflare analytics injection. Hosted HTML references `social-card.jpg?v=3` and no longer references `v=2`. The corrected 1200x630 card is exactly 96,077 bytes / SHA-256 `9050332a0cd7a22f85b7d2abd21509589c3b0f4c58099450929cfc5ccf6ea301`, matching Git byte-for-byte and visually carrying the current three-presence Stage, integrated Threshold-K-as-K lockup and `Coming Soon` hierarchy.
+
+Compared with the already Director-approved responsive page payload `85f40392225349442ac992aac4b4cfe9cc00eb8a`, the only `site/public` changes are `index.html` social-image cache metadata and `social-card.jpg`; styles, atmosphere, modes, motion, favicon/touch icon and frozen Stage bytes remain exact. The previously completed responsive/accessibility browser audit therefore remains applicable to unchanged page rendering while the stale secondary public asset defect is closed.
+
+Production remains V2.1 until merge and live verification. No Stage, app/UI, shared-brand authority, palette, product disclosure or final-brand decision is changed by this repair.
+
+**Next boundary:** push this continuity-only head, require exact-head repository workflows, mark PR #68 ready and merge with the exact head guard; then verify `www.kymaean.com` source bytes, headers/no-analytics behavior and responsive/accessibility invariants before production closure and serial-branch archive/delete.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED PRODUCTION PREFLIGHT.**
