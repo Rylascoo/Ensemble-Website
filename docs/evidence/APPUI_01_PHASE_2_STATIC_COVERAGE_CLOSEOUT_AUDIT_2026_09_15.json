@@ -1,0 +1,85 @@
+{
+  "schema": "kymaean.appui-phase2-static-coverage-closeout-audit.v1",
+  "status": "STATIC_COVERAGE_CLOSED_PASS_PHASE3_STATIC_ENTRY_OPEN",
+  "date": "2026-09-15",
+  "program": "APPUI-01 Phase 2 - Stage and Live Production Experience",
+  "repository": "Rylascoo/Ensemble-Website",
+  "authority": {
+    "design_ref_before_closeout": "51d06a7ac5cf243b41c16c60dc6f9e2cfd788288",
+    "website_main": "4bb91292171e0d503d3a4e058ee421436221a793",
+    "three_phase_program": "docs/evidence/APPUI_01_THREE_PHASE_PROGRAM_AND_STAGE_INTERFACE_ENVELOPE_AUDIT_2026_09_14.json",
+    "phase2_entry_gate": "docs/evidence/APPUI_01_PHASE_2_ENTRY_GATE_ENGINEERING_RECONCILIATION_2026_09_15.json",
+    "historical_gap_audit": "docs/evidence/APPUI_01_PHASE_2_STATIC_COVERAGE_AUDIT_2026_09_15.json",
+    "stage_envelope": "docs/KYMAEAN_APPUI_PHASE_1_STAGE_INTERFACE_ENVELOPE_AND_LAYOUT_MAP_01.md",
+    "visual_crosswalk": "docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_CROSSWALK_01.md",
+    "stage_anchor": "PKT-STAGE-CORE-02",
+    "fresh_engineering_ref": "cfa0ec95aa3ea588269135b3160ce008f523fd27"
+  },
+  "scope": {
+    "claim": "All presently authorized static-safe Stage/live-production presentation requirements have direct bounded evidence or inherited frozen architecture support sufficient to treat the static framework as stable for bounded Phase-3 visual-language integration.",
+    "does_not_claim": "Phase 2 is fully complete, runtime semantics are finalized, transcript-dependent motion is unblocked, or Product-gated controls are resolved."
+  },
+  "accepted_static_studies": [
+    "APPUI_01_PHASE_2_STAGE_SHELL_ADJACENCY_LIVE_WORKSPACE_COMPOSITION_01.json",
+    "APPUI_01_PHASE_2_CURRENT_PERFORMANCE_IMMEDIATE_CAUSAL_CONTEXT_COMPOSITION_01.json",
+    "APPUI_01_PHASE_2_SELECTED_CHARACTER_STAGE_STATE_INSPECTION_COMPOSITION_01.json",
+    "APPUI_01_PHASE_2_PRESENT_CHARACTER_DENSITY_STRESS_COMPOSITION_01.json",
+    "APPUI_01_PHASE_2_STAGE_EXCEPTION_RECOVERY_PRESENTATION_COMPOSITION_01.json",
+    "APPUI_01_PHASE_2_SILENCE_LISTENING_SYSTEM_NONRESPONSE_COMPOSITION_01.json",
+    "APPUI_01_PHASE_2_RELATIONSHIP_SALIENCE_COMPOSITION_01.json",
+    "APPUI_01_PHASE_2_NONVERBAL_ACTION_REFUSAL_COMPOSITION_01.json"
+  ],  "coverage_matrix": [
+    {"requirement":"Character presence and persistent identity","status":"COVERED","evidence":"selected-state and density studies"},
+    {"requirement":"creator focus/selection distinct from Director opportunity and performance state","status":"COVERED","evidence":"selected-state inspection study"},
+    {"requirement":"current performed moment without transcript dominance","status":"COVERED","evidence":"current-performance/immediate-causal-context study"},
+    {"requirement":"current versus historical causal support","status":"COVERED","evidence":"current-performance/immediate-causal-context study"},
+    {"requirement":"listening, performed silence and system non-response remain distinct","status":"COVERED","evidence":"silence/listening/system-nonresponse study"},
+    {"requirement":"material relationship salience distinct from selection/opportunity/obligation","status":"COVERED","evidence":"relationship-salience study"},
+    {"requirement":"nonverbal action and refusal remain Character-legible without dialogue-bubble dependence","status":"COVERED","evidence":"nonverbal-action/refusal study"},
+    {"requirement":"creator inspection remains UI rather than fictional agency","status":"COVERED","evidence":"selected-state inspection plus frozen Phase-1 inspector grammar"},
+    {"requirement":"responsive Stage framing and 2-5 design-stress capacity","status":"COVERED","evidence":"Stage-shell and present-Character density studies"},
+    {"requirement":"capability/unavailable/recovery truth remains outside fiction","status":"COVERED","evidence":"Stage exception/recovery study"}
+  ],
+  "held_or_unresolved": [
+    {"area":"transcript-dependent Stage motion/state transitions","status":"BLOCKED_Q_DESIGN_02","reason":"real E0-A versus E0-E behavioral evidence remains unavailable"},
+    {"area":"intervention response/effect semantics","status":"PRODUCT_DEFINED_OPEN","reason":"creator intervention taxonomy and effects are not promoted Product law"},
+    {"area":"consequence emergence / Take acceptance mechanics","status":"PRODUCT_DEFINED_OPEN","reason":"acceptance and consequence semantics remain unresolved"},
+    {"area":"timer/Pause and live temporal controls","status":"PRODUCT_DEFINED_OPEN","reason":"runtime behavior is not yet authoritative"},
+    {"area":"Observed Cues/provenance placement","status":"PRODUCT_DEFINED_OPEN","reason":"observation/provenance model remains open"},
+    {"area":"provider/model/cost and Performer assignment","status":"PRODUCT_DEFINED_OPEN","reason":"infrastructure/provider and Performer mechanics remain outside frozen Stage presentation law"}
+  ],  "engineering_reconciliation": {
+    "main": "cfa0ec95aa3ea588269135b3160ce008f523fd27",
+    "checkpoint": "E0-D active; P01 Slot 1 authorized with protected rebind/window/capacity gates pending; provider traffic zero",
+    "phase_d_product_semantics_promoted": false,
+    "e0e_behavioral_evidence_available": false,
+    "q_design_02": "BLOCKED",
+    "effect_on_design": "Engineering progress does not invalidate the frozen shell/static Stage envelope and does not unlock transcript-dependent Stage motion or Product-gated controls."
+  },
+  "recursive_audit": {
+    "result": "CLEAN_NO_REMAINING_STATIC_SAFE_GAP",
+    "historical_gap_resolution": {
+      "relationship_salience": "RESOLVED by APPUI_01_PHASE_2_RELATIONSHIP_SALIENCE_COMPOSITION_01.json",
+      "performance_modality": "RESOLVED by APPUI_01_PHASE_2_NONVERBAL_ACTION_REFUSAL_COMPOSITION_01.json"
+    },
+    "phase2_static_framework_sufficiently_stable": true,
+    "phase2_fully_complete": false,
+    "phase3_static_entry_supported": true
+  },
+  "phase3_entry_boundary": {
+    "open": [
+      "material/surface language inside the proven shell and Stage hierarchy",
+      "identity accents that do not alter Product semantics or Character identity",
+      "static hierarchy/refinement of typography, dividers, borders, depth, trace and contextual surfaces",
+      "static icon-family exploration only where control meaning is already frozen",
+      "Light/Dark parity while preserving the invariant dark Stage"
+    ],
+    "held": [
+      "transcript-dependent Stage motion or cadence",
+      "micro-interactions that encode unresolved runtime state",
+      "styling that presupposes unresolved intervention/Take/timer/provenance/provider/Performer controls",
+      "information-architecture changes made for decoration"
+    ]
+  },
+  "disposition": "CLOSE_PHASE2_STATIC_COVERAGE_PASS_OPEN_BOUNDED_PHASE3_STATIC_VISUAL_LANGUAGE",
+  "next": "Begin one bounded Phase-3 static visual-language integration study on accepted APPUI structure while preserving all Phase-1/2 semantic separations and blocked dynamic/Product-gated areas."
+}
