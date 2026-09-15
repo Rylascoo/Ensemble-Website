@@ -2817,3 +2817,19 @@ Authenticated Drive folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc` preserves review 
 **Next boundary:** detail whole-Production Character management inside the frozen shell, including off-Scene reach/edit/return, no implicit Scene-membership mutation, persistent Character identity and Character-versus-Performer separation without creating a permanent People silo.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-182 - Whole-Production Character Management closes Production-scope Character detail
+
+**State:** WHOLE-PRODUCTION CHARACTER MANAGEMENT FUNCTIONAL DETAIL PASS / SCENE CONTEXT PRESERVED / CHARACTER != PERFORMER / CAUSAL-HISTORY DETAIL NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_FUNCTIONAL_STUDY_01.json` closes the next section study inside frozen Phase 1. The carrier `prototypes/appui-01/whole-production-character-management-functional-study-01.html` demonstrates deliberate Production-scope access to persistent Characters without promoting People to a permanent top-level silo.
+
+The resolved grammar keeps Production-management selection separate from current-Scene selection: Mira may be selected and edited off-Scene while Scene 12 retains Julian as its stored Scene-context selection. Opening, selecting, editing or creating a persistent Character never silently changes Scene membership. Close/Back returns to the preserved Scene origin and focus target; effective persistent edits remain effective.
+
+Character identity remains durable and separate from Performer/provider machinery. Technical capability changes cannot replace, erase or fictionalize the Character; creator-authored persistent edits cannot masquerade as Character action, memory, refusal or performance. Creation capacity is reserved without freezing Scene participation, casting, lifecycle, duplicate/merge/delete/archive semantics.
+
+Edge CDP preflight passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources. The recursive audit found one semantic wording defect: `Persistent cast` could imply casting/Performer mechanics, so both theme specimens were repaired to `Persistent Characters` and the full audit reran clean. Drive preserves PNG `1LdnZkS-O6Sx-XwSa7wSLfgB1QotTzAon` and HTML `1Kok52iuOKfNqqUwgYXjiKcfVz-KVROLt`.
+
+**Next boundary:** detail causal/history inspection from meaningful current material into adjacent cause and deeper history, preserving explicit historical status and exact current return without restoring Archive/History as a permanent application mode.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
