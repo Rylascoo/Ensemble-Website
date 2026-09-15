@@ -13,19 +13,17 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 **Application UI architecture/layout is FROZEN PASS and detailed-section coverage is CLOSED CLEAN.** Wireframe 01R remains the global shell baseline; Phase 2 does not reopen it.
 
 ## Phase 2
-Five bounded static studies are **PASS**: Stage-to-Shell Adjacency; Current Performance + Immediate Causal Context; Selected Character + Stage State Inspection; Present-Character Density Stress; and Stage Exception + Recovery Presentation. Latest evidence: `docs/evidence/APPUI_01_PHASE_2_STAGE_EXCEPTION_RECOVERY_PRESENTATION_COMPOSITION_01.json`.
+Six bounded static studies are **PASS**: Stage-to-Shell Adjacency; Current Performance + Immediate Causal Context; Selected Character + Stage State Inspection; Present-Character Density Stress; Stage Exception + Recovery; and Silence / Listening / System Non-Response. Latest evidence: `docs/evidence/APPUI_01_PHASE_2_SILENCE_LISTENING_SYSTEM_NONRESPONSE_COMPOSITION_01.json`.
 
-Current law: Stage stays dominant inside the frozen shell; current performance outranks historical support; focus != selection != current opportunity != speaking/listening; creator inspection is UI, not fiction; names remain primary Character identity; 2–5 is visual-capacity evidence only; infrastructure truth stays outside fiction.
+Current law: Stage stays dominant; current performance outranks historical support; focus != selection != opportunity != speaking/listening/silence; creator inspection is UI, not fiction; names remain primary identity; 2–5 is visual-capacity evidence only; infrastructure truth stays outside fiction. Listening is visible presence; performed silence is valid Character agency; technical non-response cannot impersonate either.
 
-Stage exception law: healthy infrastructure stays quiet. Capability unavailable preserves existing Stage/Character state while application truth is explained outside fiction. Persistence in progress != fictional delay; failure != corruption; recovery != Take/rewind/replay/Undo. Exact return restores prior task/context/focus when safe.
-
-Latest carrier: `prototypes/appui-01/phase2-stage-exception-recovery-presentation-composition-01.html`, SHA-256 `b4f63aae1944c40aae006c5dd63bccc4119ba207d3acf7349b8ec87a34291da5`. Edge CDP passes 1600/1024/390/320 plus forced-colors with zero overflow/images/external resources and clean UTF-8. Drive PNG `1Sf9aCY6USkjt3mi-MtqycMKg4pKbDnjw`; HTML `1S_atpBn50GWwAAL3_36_zGD0ee9EzQJf`.
+Latest carrier: `prototypes/appui-01/phase2-silence-listening-system-nonresponse-composition-01.html`, SHA-256 `b036be43dbe6ca94fbeaeeec82834b39a47742f87b129c706c8c281b153b1d53`. Edge CDP passes 1600/1024/390/320 plus forced-colors with zero overflow/images/external resources. Drive PNG `1xup_FF0NlzAs8MDg9W6XEI7nVb9YZz_N`; HTML `1vsKeRJ6-jByeSge5pBBNWH-k5QbbPoWf`.
 
 ## Product / Engineering boundary
-Fresh Engineering `main@60b85fbcb36e265e3910444714143d944ffef841` remains pre-Phase-D. `Q-DESIGN-02` remains BLOCKED for transcript-dependent Stage motion/integration. Transcript ontology/motion, timer/Pause, Observed Cues/provenance, intervention effects, Take/consequence, provider/model/cost, Performer assignment and ODR-30 cardinality remain unresolved.
+Fresh Engineering `main@e8b702a5b37d208d7caeeb6ffeb5a6beacf24f85` has E0-D active with P01 Slot 1 activation integrated, but no Phase-D Product semantics or E0-E behavioral evidence are promoted. `Q-DESIGN-02` remains BLOCKED for transcript-dependent Stage motion/integration. Transcript ontology/motion, timer/Pause, Observed Cues/provenance, intervention effects, Take/consequence, provider/model/cost, Performer assignment and ODR-30 cardinality remain unresolved.
 
 ## Stage anchor
 `PKT-STAGE-CORE-02` remains authoritative; no Phase-2 study replaces its carrier or promotes unresolved raster mechanics.
 
 ## Next
-Run a consolidated **Phase-2 static-coverage audit** against entry-gate/Stage authority and the five completed studies. If no material static gap remains, fresh-reconcile Engineering and hold transcript-dependent work behind `Q-DESIGN-02` rather than inventing semantics. Phase 3 visual-language integration remains later.
+Run a consolidated **Phase-2 static-coverage closeout audit** against the three-phase program, entry gate, Stage authority and all six static studies. If current static-safe coverage is complete, record the hold boundary for blocked transcript-dependent/Product-gated work and determine whether Phase-3 entry is sufficiently supported without reopening architecture.

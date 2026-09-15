@@ -3035,3 +3035,21 @@ No retry/fallback, autosave/durability, provider recovery, Scene restart, Take/b
 **Next boundary:** run a consolidated Phase-2 static-coverage audit against the entry gate, Stage authority and all five completed bounded studies. If no material static gap remains, fresh-reconcile Engineering and hold transcript-dependent work rather than inventing semantics.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-196 - Silence / Listening / System Non-Response closes static absence-of-speech distinction
+
+**State:** PHASE-2 SILENCE/LISTENING/NON-RESPONSE PASS / FICTIONAL SILENCE != LISTENING != TECHNICAL NON-RESPONSE / STATIC CLOSEOUT AUDIT NEXT
+
+`docs/evidence/APPUI_01_PHASE_2_SILENCE_LISTENING_SYSTEM_NONRESPONSE_COMPOSITION_01.json` closes `APPUI-01-P2-SILENCE-01`. The carrier `prototypes/appui-01/phase2-silence-listening-system-nonresponse-composition-01.html` proves that absence of current speech is not one meaning.
+
+Listening remains visible presence without current speaking. Performed silence remains valid Character-legible performance/agency and must not read as missing output. Technical non-response stays outside fiction and may not create or overwrite Character silence, refusal, indecision, dramatic tension, causal history or accepted Production truth.
+
+The recursive audit repaired one comparison defect before closure: the first performed-silence specimen also changed Marlowe from Speaking to Listening, weakening isolation of Wren's state. The final comparison holds the surrounding Stage state constant and changes only Wren between Listening and performed Silence; the technical non-response specimen retains fictional Stage state unchanged.
+
+Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero overflow/images/external resources; wide and narrow visual review are clean. Drive preserves PNG `1xup_FF0NlzAs8MDg9W6XEI7nVb9YZz_N` and HTML `1vsKeRJ6-jByeSge5pBBNWH-k5QbbPoWf`.
+
+No timing/cadence, motive/emotion/refusal inference, provider retry/fallback, transcript/provenance placement or Stage-motion authority is created. `Q-DESIGN-02` remains blocked. Fresh Engineering is `e8b702a5b37d208d7caeeb6ffeb5a6beacf24f85`; E0-D activation progress does not promote Phase-D Product semantics or E0-E behavioral evidence.
+
+**Next boundary:** run the consolidated Phase-2 static-coverage closeout audit and determine the supported Phase-3 entry/hold boundary.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
