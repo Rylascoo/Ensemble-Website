@@ -13,10 +13,10 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 **Application UI architecture/layout is FROZEN PASS and detailed-section coverage is CLOSED CLEAN.** Wireframe 01R remains the shell baseline; Phase 2 does not reopen it.
 
 ## Phase 2
-Six bounded static studies are PASS. The consolidated static-coverage audit is **NOT YET CLOSEABLE** because two authoritative static-safe gaps remain: **relationship salience** and **nonverbal action/refusal representation**. Evidence: `docs/evidence/APPUI_01_PHASE_2_STATIC_COVERAGE_AUDIT_2026_09_15.json`.
+Seven bounded static studies are PASS. Relationship salience now has a direct Stage witness and remains distinct from creator selection, Director opportunity, obligation, relationship score/type and permanent graph. Latest evidence: `docs/evidence/APPUI_01_PHASE_2_RELATIONSHIP_SALIENCE_COMPOSITION_01.json`.
 
-Current law: Stage stays dominant; current performance outranks historical support; focus != selection != opportunity != performance state; creator inspection is UI, not fiction; names remain primary identity; 2–5 is visual-capacity evidence only; infrastructure truth stays outside fiction.
-Listening, performed silence, and application-level failure remain distinct meanings. The two remaining static-safe gaps are relationship salience and broader performance-modality representation; exact visual mechanics remain open.
+Current law: Stage stays dominant; current performance outranks historical support; focus != selection != opportunity != performance state != relationship salience; creator inspection is UI, not fiction; names remain primary identity; infrastructure truth stays outside fiction. Relationship treatment geometry remains provisional.
+The static-coverage audit is still **NOT YET CLOSEABLE** because one static-safe gap remains: nonverbal action/refusal representation without transcript-first UI or invented motive/timing semantics.
 
 ## Product / Engineering boundary
 Fresh Engineering `main@e8b702a5b37d208d7caeeb6ffeb5a6beacf24f85` has E0-D active with P01 Slot 1 activation integrated, but no Phase-D Product semantics or E0-E behavioral evidence are promoted. `Q-DESIGN-02` remains BLOCKED. Product-gated Stage controls and transcript-dependent motion remain unresolved.
@@ -25,4 +25,4 @@ Fresh Engineering `main@e8b702a5b37d208d7caeeb6ffeb5a6beacf24f85` has E0-D activ
 `PKT-STAGE-CORE-02` remains authoritative; no Phase-2 study replaces its carrier or promotes unresolved raster mechanics.
 
 ## Next
-Detail **relationship salience** first, preserving independence from selection, opportunity and agency. Then detail the remaining performance-modality gap. Rerun the Phase-2 static closeout audit only after both are clean.
+Detail the final static-safe **nonverbal action / refusal** performance-modality witness. If clean, rerun the Phase-2 static closeout audit and determine the supported Phase-3 entry/hold boundary from evidence.

@@ -3067,3 +3067,17 @@ Intervention effects, consequence/Take mechanics, transcript-dependent Stage mot
 **Next boundary:** resolve relationship salience first, then the remaining performance-modality gap, then rerun static closeout.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN GAP-FINDING AUDIT.**
+
+## L-198 - Relationship salience closes its remaining static Stage-capacity gap
+
+**State:** PHASE-2 RELATIONSHIP SALIENCE PASS / RELATIONSHIP != SELECTION != OPPORTUNITY / PERFORMANCE-MODALITY GAP REMAINS
+
+`docs/evidence/APPUI_01_PHASE_2_RELATIONSHIP_SALIENCE_COMPOSITION_01.json` closes `APPUI-01-P2-REL-01`. The carrier `prototypes/appui-01/phase2-relationship-salience-composition-01.html` isolates one materially relevant relationship while holding Scene context, Character identity, speaking/listening, creator selection and current opportunity constant.
+
+Marlowe remains creator-selected, Iona remains current opportunity, and Dr. Voss + Wren alone become the relationship-salience witness. The temporary compositional/shared-floor treatment demonstrates presentation capacity only; it does not freeze a graph, arc, pip, score, relationship type, strength, reciprocity, permanence, obligation or emotional diagnosis.
+
+Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero overflow/images/external resources; wide and narrow review are clean. Drive preserves PNG `1ML4SiNuYv4tEStFlEL6hBQEYTlk2Lq3l` and HTML `1u0ZsjDj6hys7RJGC2vP7UYQjrJW_EmxC`.
+
+**Next boundary:** resolve the final static-safe performance-modality gap with an affirmative nonverbal-action/refusal witness, then rerun Phase-2 static closeout.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
