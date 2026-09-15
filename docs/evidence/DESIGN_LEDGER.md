@@ -3200,3 +3200,19 @@ Drive Phase-3 archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE` preserves exact HTML `
 **Next boundary:** direct Director adjudication among D1/D2/D3 only. Production palette/tokens, semantic status colors, native implementation and Phase-3 convergence remain successor work.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRE-ADJUDICATION AUDIT.**
+
+## L-206 - D3 Ink Aubergine becomes provisional dark incumbent for continued Phase-3 evaluation
+
+**State:** F2 LIGHT SELECTED / D3 DARK PROVISIONAL INCUMBENT / REPRESENTATIVE-SECTION EVALUATION REQUIRED / NO PRODUCTION TOKEN AUTHORITY
+
+After the clean F2 Light/Dark comparison closed at `30d6d4df3d781a73746b523064ba8bfda44551f7`, the Director agreed with Design Sol's frozen preference for **D3 — Ink Aubergine** but explicitly asked to keep D3 in mind and evaluate it as work proceeds rather than freeze it now.
+
+`docs/evidence/APPUI_01_PHASE_3_F2_D3_PROVISIONAL_DARK_INCUMBENT_01.json` records that boundary. D3 therefore becomes the exact working Dark counterpart to selected Light F2 for subsequent representative app-section integration. Its frozen comparison values may not be retuned before new evidence exists.
+
+This is a provisional incumbent, not final palette convergence. New representative-section evidence may retain or falsify D3 if it becomes too warm, too violet, too generic, competes with the Stage, weakens semantic parity, or otherwise fails the existing Phase-3 constraints.
+
+**Next boundary:** integrate selected Light F2 + exact provisional D3 into the already-approved Production Shaping / Current Possibility architecture without reopening its situation-first hierarchy or Product-gated controls.
+
+**Guardrail:** no production color tokens, semantic status-color system, native theme implementation, Stage redesign, Product-semantic invention or Phase-3 convergence is created by this preference.
+
+**APPROVED — DIRECTOR PROVISIONAL D3 PREFERENCE + CLEAN DESIGN-SOL RECONCILIATION.**

@@ -16,16 +16,16 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 **Static Stage/live-production coverage is CLOSED PASS.** Dynamic/transcript-dependent and Product-gated Stage work remains held/open under existing law.
 
 ## Product / Engineering boundary
-Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D active; E0-E behavioral evidence is unavailable and `Q-DESIGN-02` remains BLOCKED. No Phase-D Product semantics invalidate the static shell/Stage envelope.
+Last reconciled Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D active; E0-E behavioral evidence is unavailable and `Q-DESIGN-02` remains BLOCKED. No Phase-D Product semantics invalidate the static shell/Stage envelope.
 
 ## Phase 3
-CLR-01 **F2 — Monochrome + Intruder** is Director-selected as the color-logic direction. The F2 Light/Dark successor method froze D1 Deep Violet Neutral, D2 Graphite Violet and D3 Ink Aubergine before exposure.
+CLR-01 **F2 — Monochrome + Intruder** is Director-selected as the color-logic direction. The Light reference remains frozen at its selected F2 values.
 
-The exact four-way comparison now passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow. Light and all three dark candidates preserve four app blocks, four MAT fields, structural selection/focus, identical Home hierarchy and invariant dark Stage. Evidence: `docs/evidence/APPUI_01_PHASE_3_F2_LIGHT_DARK_TRANSLATION_COMPARISON_01.json`.
+The F2 Light/Dark translation comparison passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow. D1/D2/D3 all survive mechanically. Design Sol view is frozen as **D3 > D2 > D1**.
 
-Design Sol view is frozen before Director input: **D3 > D2 > D1**, with D3 preferred for preserving F2 mystery and slight warmth while avoiding D1's creative-tool familiarity and D2's generic graphite tendency. No candidate was retuned after exposure.
+Director preference is now **D3 — Ink Aubergine as a provisional dark incumbent, not a final freeze**. Carry exact D3 values forward unchanged and evaluate them on additional accepted sections; later integration evidence may retain or falsify D3. Evidence: `docs/evidence/APPUI_01_PHASE_3_F2_D3_PROVISIONAL_DARK_INCUMBENT_01.json`.
 
-Drive Phase-3 archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE` preserves exact HTML `1yO_G1UmcaVTKE-jp5l1S-zlPF7SVrudK` and comparison PNG `1OZLiqpnfuvfB__S8fPPEra3o2gTTdapi`.
+Drive Phase-3 archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE` preserves the four-way comparison HTML `1yO_G1UmcaVTKE-jp5l1S-zlPF7SVrudK` and PNG `1OZLiqpnfuvfB__S8fPPEra3o2gTTdapi`.
 
 ## Next
-**Director dark-translation adjudication among D1/D2/D3.** Design Sol recommends D3. Do not retune before selection. Production palette/tokens, semantic status colors, native implementation and Phase-3 convergence remain successor work.
+Apply selected Light F2 + exact provisional D3 Dark to the already-approved **Production Shaping / Current Possibility** architecture as the next bounded representative integration. Do not reopen its situation-first hierarchy, retune D3 before evidence, invent Product-gated controls, or promote production tokens yet.

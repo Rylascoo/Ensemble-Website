@@ -1,0 +1,23 @@
+{
+  "schema": "kymaean.appui-phase3-f2-d3-provisional-dark-incumbent.v1",
+  "status": "DIRECTOR_PROVISIONAL_PREFERENCE_D3_EVALUATE_IN_SUCCESSOR_SECTIONS",
+  "date": "2026-09-15",
+  "program": "APPUI-01 Phase 3 - Kymaean Visual-Language Integration",
+  "repository": "Rylascoo/Ensemble-Website",
+  "authority": {
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "comparison_ref": "30d6d4df3d781a73746b523064ba8bfda44551f7",
+    "parent_selection": "docs/evidence/APPUI_01_PHASE_3_CLR01_DIRECTOR_F2_SELECTION_01.json",
+    "translation_method": "docs/evidence/APPUI_01_PHASE_3_F2_LIGHT_DARK_TRANSLATION_METHOD_01.json",
+    "comparison_evidence": "docs/evidence/APPUI_01_PHASE_3_F2_LIGHT_DARK_TRANSLATION_COMPARISON_01.json"
+  },
+  "director_input": "D3 is preferred, but keep D3 in mind and evaluate it as the design proceeds rather than freezing it now.",
+  "disposition": {
+    "selected_light_family": "F2 Monochrome + Intruder",
+    "working_dark_incumbent": "D3 Ink Aubergine",
+    "dark_status": "PROVISIONAL_INCUMBENT_NOT_FINAL_FREEZE",
+    "design_sol_preference_preserved": "D3 > D2 > D1",
+    "retune_before_successor_evidence": false
+  },
+  "successor_rule": "Carry exact D3 values unchanged into representative accepted app sections. D3 may be retained, falsified or reopened only from new integration evidence; preference alone does not create production tokens."
+}
