@@ -1,0 +1,37 @@
+{
+  "schema": "kymaean.appui-phase1-wireframe-baseline.v1",
+  "status": "DIRECTOR_APPROVED_STRUCTURAL_BASELINE",
+  "date": "2026-09-14",
+  "program": "APPUI-01 - Phase 1 Application UI Architecture and Layout",
+  "source_map": "docs/KYMAEAN_APPUI_PHASE_1_STAGE_INTERFACE_ENVELOPE_AND_LAYOUT_MAP_01.md",
+  "baseline_name": "Wireframe 01R - Revised Structural Baseline",
+  "scope": "STRUCTURAL_UI_ARCHITECTURE_ONLY",
+  "visual_master": {
+    "drive_folder_id": "1ey0VRqE0zuKoZ4xpGrJ_nawZUnxqw8os",
+    "drive_file_id": "1M7zKHMZYpsRv9W_Spu95E_jj8fZC8TtS",
+    "file_name": "APPUI-01 Phase 1 Wireframe 01R — Structural Baseline.png",
+    "sha256": "512176d2dda5309e8fb5ec4bdfb9de67b2c8b5e2fc0b5b29a7ef25636590178c",
+    "dimensions": [1536, 1024]
+  },
+  "approved_structural_rules": [
+    "One coherent application architecture may reorganize by task.",
+    "The Stage remains a distinct dark dominant performance field and its visual successor is deferred to Phase 2.",
+    "Durable navigation may recede by task and must sacrifice space before the primary task does.",
+    "Inspectors are contextual capacity relationships, not permanently visible right-edge requirements.",
+    "Supporting performance information is available on demand rather than permanently consuming Stage area.",
+    "Causal inspection supports both quick adjacent depth and expanded deep investigation without becoming a permanent global History mode.",
+    "Character-bounded perspective is the same Production under changed disclosure, not a separate application mode.",
+    "Wide, medium and narrow layouts preserve semantic relationships while collapsing secondary UI before the primary task.",
+    "The current frozen five-presence Stage placeholder is a baseline witness, not a product cast-cardinality law.",
+    "Functional state language such as provisional/effective remains placeholder terminology until product authority freezes final UX vocabulary."
+  ],
+  "explicit_non_authority": [
+    "The left icon rail is schematic and does not freeze final navigation placement, labels or iconography.",
+    "The right-side inspector examples show adjacency capacity only; they do not freeze right-edge placement.",
+    "The internal Production-shaping panel arrangement is not approved and remains the next focused design problem.",
+    "No final typography, palette, material, icon, motion, Stage lighting, Character art, transcript placement, timer/Pause, provider/cost, Take, branching or rehearsal UX is selected.",
+    "No WinUI/XAML/runtime/package/Store implementation authority is created."
+  ],
+  "director_reaction": "Approved the revised structural direction and agreed to freeze the global grammar subject to the explicit non-authority caveats.",
+  "next": "Stop reopening the global shell. Produce focused detailed Phase-1 studies for Production Home / Resume and Production Shaping / Current Possibility, using recovered UI-layout lineage without allowing the shaping workspace to become a generic dashboard or ontology-shaped grid."
+}
