@@ -2598,3 +2598,23 @@ Production remains V2.1 until merge and live verification. No Stage, app/UI, sha
 **Next boundary:** push this continuity-only head, require exact-head repository workflows, mark PR #68 ready and merge with the exact head guard; then verify `www.kymaean.com` source bytes, headers/no-analytics behavior and responsive/accessibility invariants before production closure and serial-branch archive/delete.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED PRODUCTION PREFLIGHT.**
+
+## L-168 - V2.2 production promotion closes cleanly; three-shape responsive visual standard is established
+
+**State:** V2.2 LIVE / PRODUCTION VERIFICATION PASS / SOURCE BRANCH CLOSED / RESPONSIVE REGRESSION LAW ACTIVE
+
+PR #68 merged to `main` as `e5aea65a315dd9331092e75213d7825f1d2cf25a` after Director approval, exact hosted preflight, and correction of the stale social card. `www.kymaean.com` then passed direct production verification: all nine public assets matched exact `main` Git blobs; `Cache-Control` remained `public, max-age=0, must-revalidate, no-transform`; no analytics beacon was present; and main push workflows passed (`Repository publication boundaries` #812, `Document status structure` #594).
+
+Live browser/CDP verification passed 1440x900, 1024x768, 768x1024, 430x932, 390x844 and 320x640 with zero horizontal overflow. At 320x640, 200% root text remained contained, reduced motion exposed zero running animations, and actual forced colors hid the Stage while preserving the identity.
+
+The Director then supplied three live-production browser-shape references and approved them as the durable responsive interpretation target: wide 2048x1199, mini-wide 1235x647, and portrait / “phone-screen shaped” 1227x1422. The resulting Website Sol authority is `docs/KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md`.
+
+The governing rule is **preserve relationships before preserving objects**. Wide and mini-wide views retain the full Stage expression; portrait is a curated crop of the same frozen Stage world. The identity → `Coming Soon` → doorway relationship follows the doorway axis, Threshold K remains integrated as the visible `K`, amber/neutral/blue retain left/center/right order, and narrow cropping may sacrifice outer architecture before sacrificing the central relationship. No breakpoint-specific replacement artwork is authorized.
+
+Serial branch lifecycle is closed under repository law. `site/placeholder-v2-2-precision-2026-09-14` was a strict ancestor of `main` with zero unique commits, archived at lightweight tag `archive/site/placeholder-v2-2-precision-2026-09-14` resolving to `93ba0516db6899f64fe3be06ac11a04934357074`, and then deleted remotely. Temporary local CDP audit debris was also removed.
+
+This closure does not reopen Stage artwork, app/UI authority, shared-brand authority, palette, product disclosure, interaction, cast-size, or final-brand selection.
+
+**Next boundary:** hold V2.2 stable. Any future Website Sol visual/CSS publication must start from current `main` and pass the three-shape responsive standard plus repository, publication, and accessibility verification before promotion.
+
+**APPROVED — DIRECTOR RESPONSIVE STANDARD + CLEAN V2.2 PRODUCTION CLOSEOUT.**
