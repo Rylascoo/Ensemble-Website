@@ -2550,3 +2550,19 @@ Local Edge/CDP verification passes 1440x900, 1024x768, 768x1024, 430x932, 390x84
 No background pixels, social card, favicon, product disclosure, app/UI asset, or production surface change in this pass. This remains a Website Sol responsive lockup treatment and creates no shared-brand or app Stage authority.
 
 **Next boundary:** commit/push the exact responsive precision successor to draft PR #68, verify Cloudflare-hosted bytes and responsive/accessibility invariants, then present the exact hosted pixels for Director judgment. Keep `main` and `www.kymaean.com` on V2.1 until that review resolves.
+
+## L-165 - V2.2 unified responsive composition passes exact hosted verification
+
+**State:** EXACT HOSTED RESPONSIVE PASS / PUBLIC BYTES MATCH / DIRECTOR VISUAL REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+Responsive payload commit `85f40392225349442ac992aac4b4cfe9cc00eb8a` is live on the PR #68 branch preview. It preserves the frozen three-presence Stage image and exact integrated Threshold-K-as-K identity while applying the Director-aligned responsive composition from L-164.
+
+All nine hosted public assets match the exact Git blobs byte-for-byte. The branch preview returns HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, preserves `X-Robots-Tag: noindex`, contains the integrated `wordmark-mark`, contains no standalone `threshold-k`, and contains no Cloudflare analytics injection.
+
+Hosted Edge/CDP review passes 1440x900, 1024x768, 768x1024, 430x932, 390x844, and 320x640 with zero horizontal overflow. The hosted Stage asset reports intrinsic 1672x941 geometry. Portrait tablet and phone views preserve amber, neutral, and blue presence territories while the complete lockup tracks the frozen doorway axis. At 320x640, 200% root text remains unclipped, reduced motion exposes zero running animations, and actual forced-colors hides the scene while preserving system-colored `KYMÆAN` and `Coming Soon`.
+
+Exact-head GitHub Actions pass: `Repository publication boundaries` run #802 and `Document status structure` run #584. No background pixels, social card, favicon, app/UI asset, product disclosure, or production surface changed in this pass.
+
+**Next boundary:** present the exact hosted responsive composition for Director judgment. Keep PR #68 draft, keep `main` and `www.kymaean.com` on V2.1, and keep the social card unchanged until that review resolves.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RESPONSIVE AUDIT.**
