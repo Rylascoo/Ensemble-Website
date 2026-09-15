@@ -3019,3 +3019,19 @@ Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero overflow, ima
 **Next boundary:** detail Stage-specific unavailable/interrupted/recovery presentation as a static live-workspace exception study, reusing frozen Phase-1 infrastructure-versus-fiction law without inventing runtime behavior.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-195 - Stage Exception + Recovery Presentation closes static infrastructure-versus-fiction handling
+
+**State:** PHASE-2 STAGE EXCEPTION/RECOVERY PASS / INFRASTRUCTURE != FICTION / RECOVERY != REWIND / STATIC COVERAGE AUDIT NEXT
+
+`docs/evidence/APPUI_01_PHASE_2_STAGE_EXCEPTION_RECOVERY_PRESENTATION_COMPOSITION_01.json` closes `APPUI-01-P2-EXCEPTION-01`. The carrier `prototypes/appui-01/phase2-stage-exception-recovery-presentation-composition-01.html` applies frozen Phase-1 exception/recovery law directly to the live Stage workspace.
+
+Healthy infrastructure stays quiet. When capability is unavailable before fiction, the existing Stage context and speaking/listening/current-opportunity states remain unchanged while application truth is surfaced outside the fiction. Persistence in progress is not fictional delay; persistence failure is distinct from integrity concern; read-only/recovery-needed state may constrain creator action without rewriting Character agency or Production history. Return restores prior task/context/focus when safe and is not a Take, rewind, replay or Undo.
+
+Recursive audit repaired two defects before closure: an initial `Prior current state` label invented unauthorized Stage-state vocabulary, then the corrective rewrite introduced UTF-8 mojibake. The final carrier restores the existing Stage states and exact Unicode, with zero mojibake/replacement characters. Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero overflow, images or external resources. Drive preserves PNG `1Sf9aCY6USkjt3mi-MtqycMKg4pKbDnjw` and HTML `1S_atpBn50GWwAAL3_36_zGD0ee9EzQJf`.
+
+No retry/fallback, autosave/durability, provider recovery, Scene restart, Take/branch/rehearsal, transcript motion or runtime mechanics are promoted. `Q-DESIGN-02` remains blocked.
+
+**Next boundary:** run a consolidated Phase-2 static-coverage audit against the entry gate, Stage authority and all five completed bounded studies. If no material static gap remains, fresh-reconcile Engineering and hold transcript-dependent work rather than inventing semantics.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
