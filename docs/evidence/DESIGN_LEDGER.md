@@ -2566,3 +2566,19 @@ Exact-head GitHub Actions pass: `Repository publication boundaries` run #802 and
 **Next boundary:** present the exact hosted responsive composition for Director judgment. Keep PR #68 draft, keep `main` and `www.kymaean.com` on V2.1, and keep the social card unchanged until that review resolves.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RESPONSIVE AUDIT.**
+
+## L-166 - Director approves V2.2 production promotion; stale social card is corrected before merge
+
+**State:** DIRECTOR PRODUCTION APPROVAL / PRE-MERGE CONSISTENCY REPAIR / HOSTED REVALIDATION REQUIRED / PRODUCTION V2.1 UNCHANGED
+
+The Director explicitly approved the exact unified responsive V2.2 website after the hosted L-165 review. That approval covers the three-presence Stage, integrated Threshold-K-as-K wordmark, `Coming Soon`, doorway-axis alignment and unified wide/portrait composition. Production promotion is therefore authorized once the exact approved system passes the guarded publication sequence.
+
+The pre-merge recursive audit found one real publication defect before promotion: PR #68 still contained the earlier V2.2 `site/public/social-card.jpg`, showing the two-presence Stage and a redundant standalone Threshold K above a separate KYMÆAN wordmark. Merging that asset would publish identity/background evidence already superseded by the Director-approved page.
+
+The social card is therefore repaired deterministically without changing approved page pixels. The replacement is rendered from the exact current `stage-v2-2.webp` plus the exact current integrated website SVG geometry and `Coming Soon` hierarchy at the existing 1200x630 Open Graph size. JPEG SHA-256 is `9050332a0cd7a22f85b7d2abd21509589c3b0f4c58099450929cfc5ccf6ea301`, 96,077 bytes. `og:image` / `twitter:image` cache bust advances from `v=2` to `v=3`; titles, descriptions and alt text are unchanged.
+
+This is a secondary-public-surface consistency repair, not a reopening of the Stage, identity, responsive system, app/UI authority, palette, product disclosure or final-brand selection. Production remains V2.1 until the repaired exact head passes repository checks and Cloudflare byte/visual verification.
+
+**Next boundary:** commit/push the exact repair + continuity, require exact-head repository workflows and hosted verification, then merge PR #68 with an exact-head guard; after merge, verify `www.kymaean.com` source bytes, no-analytics headers, responsive/accessibility invariants and close the serial branch lifecycle.
+
+**APPROVED — DIRECTOR V2.2 PRODUCTION DECISION + CLEAN PRE-MERGE DEFECT ISOLATION.**
