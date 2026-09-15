@@ -2727,3 +2727,17 @@ The local intake path contained 60 files / 26 unique images while the Drive conn
 **Next boundary:** stop layout redraws and test interaction/state behavior against the repaired Phase-1 coverage map.
 
 **PHASE 1 COMPONENT COVERAGE - CLEAN AFTER REPAIR.**
+
+## L-177 - Phase 1 design-development archive and fresh-chat handoff preserved
+
+**State:** DRIVE ARCHIVE VERIFIED / FRESH-CHAT HANDOFF ACTIVE / INTERACTION TESTING NEXT
+
+Authenticated Drive folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc`, titled `20 APPUI-01 Phase 1 Design Development — Fresh Chat Handoff 2026-09-14`, now preserves ten chronological Phase-1 UI boards plus `APPUI-01 Phase 1 — Design Synthesis and Review Notes.md` and `FRESH CHAT HANDOFF — APPUI Phase 1 Interaction State Testing.md`. Direct Drive readback verified exactly 12 children.
+
+`docs/evidence/APPUI_01_PHASE_1_DRIVE_ARCHIVE_AND_FRESH_CHAT_HANDOFF_2026_09_14.json` records the exact Drive IDs and the authority boundary: the board sequence preserves design lineage and review reasoning, while repository law remains authoritative and intermediate boards do not become equal final UI authority.
+
+`docs/HANDOFF_APPUI_PHASE_1_INTERACTION_STATE_TESTING_2026_09_14.md` is the current fresh-chat recovery packet. It preserves the three-phase program, Wireframe 01R global baseline, accepted resume-first Home and situation-first Shaping directions, four required component families, Product/Engineering gates and the minimum interaction/state stress-test suite.
+
+**Next boundary:** do not redraw the layout. Stress-test select/follow/edit/return, causal-history depth, off-Scene Character access, persistence/recovery exceptions, unavailable capability and responsive focus restoration. Fresh-reconcile Engineering before Phase-1 freeze and Phase-2 Stage work.
+
+**PHASE 1 ARCHIVE + HANDOFF - PRESERVED.**

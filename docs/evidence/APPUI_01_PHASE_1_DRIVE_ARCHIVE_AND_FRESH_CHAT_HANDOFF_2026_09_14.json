@@ -1,0 +1,52 @@
+{
+  "schema": "kymaean.appui-phase1-drive-archive-handoff.v1",
+  "status": "PHASE_1_ARCHIVE_AND_HANDOFF_PRESERVED",
+  "date": "2026-09-14",
+  "repository": "Rylascoo/Ensemble-Website",
+  "program": "APPUI-01",
+  "drive_archive": {
+    "folder_id": "1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc",
+    "title": "20 APPUI-01 Phase 1 Design Development — Fresh Chat Handoff 2026-09-14",
+    "parent_id": "1MJrfMi1EZ_Wk3-IqC_BMMz1GTYpsrMnz",
+    "verified_direct_children": 12,
+    "boards": [
+      {"index": 0, "id": "16W986Jgxcz0h68DLYyDULeYeD0fonCDi", "title": "00 Phase 1 — Structural Wireframe Map.png"},
+      {"index": 1, "id": "1yehbYVYV81r4e2ty_nJRpOKp4W6X-YyH", "title": "01 Phase 1 — Functional Workspace Storyboard.png"},
+      {"index": 2, "id": "1TCtFs34ZF9Mf-nIDp5ICBi0HFEOTS4X8", "title": "02 Phase 1 — Structural Baseline Repair.png"},
+      {"index": 3, "id": "1rEWpAs8AUkvRAH9Dwjvd77IzTDAoVYhU", "title": "03 Phase 1 — Wireframe 01R Revised Structural Baseline.png"},
+      {"index": 4, "id": "1_Qji-ZT-wlvjmRSn41AFCd4a-x753s8z", "title": "04 Phase 1 — Structural Baseline Restatement.png"},
+      {"index": 5, "id": "1RdfBoL2QY_7jaixdoHxE8DldiuOCBrUL", "title": "05 Phase 1 — Home and Shaping Concept Comparison.png"},
+      {"index": 6, "id": "14_4_3VrZqPNEjdURpmPFN3bB0nNnH9Kb", "title": "06 Phase 1 — Synthesized Home and Shaping Workspaces.png"},
+      {"index": 7, "id": "1hKia3sfqQ1OF2QTUY--GoMpIRnm3a7qW", "title": "07 Phase 1 — Refined Home and Shaping Workspaces.png"},
+      {"index": 8, "id": "18_LrvHY7kxetYoSVruy_4E-yhz4ean1X", "title": "08 Phase 1 — Final Structural Home and Shaping Workspaces.png"},
+      {"index": 9, "id": "1QtH7M6Ivuz4KGupv-DOvFHVnXOUiVGL7", "title": "09 Phase 1 — Component and Route Map.png"}
+    ],
+    "synthesis": {
+      "id": "19XR1w2n-tI9tZOAYf01JUE8nG3pALXBC",
+      "title": "APPUI-01 Phase 1 — Design Synthesis and Review Notes.md"
+    },
+    "fresh_chat_handoff_copy": {
+      "id": "1R2CJYQbky-B4lmGGi2cvQIMl6V79mEK2",
+      "title": "FRESH CHAT HANDOFF — APPUI Phase 1 Interaction State Testing.md"
+    }
+  },
+  "repository_handoff": "docs/HANDOFF_APPUI_PHASE_1_INTERACTION_STATE_TESTING_2026_09_14.md",
+  "authority_rule": "Drive boards preserve design lineage and review reasoning. Repository law remains authoritative; intermediate boards are not equal final UI authority.",
+  "accepted_boundary": {
+    "global_shell": "Wireframe 01R structural baseline; do not reopen without a demonstrated functional defect.",
+    "production_home": "resume/current-situation first; other Productions subordinate; exact imagery and labels provisional.",
+    "production_shaping": "situation-first; follow meaning into contextual/deep inspection rather than category-first database navigation.",
+    "component_coverage": "whole-Production Character management, truth/knowledge/disclosure inspection, persistence/recovery status and Production-level utilities all have reserved homes.",
+    "next": "interaction/state stress testing; stop layout redraws."
+  },
+  "interaction_test_minimum": [
+    "Character select -> inspector -> deep inspection/edit -> return/focus restoration",
+    "unresolved question -> adjacent cause -> expanded history -> return to visibly current Scene",
+    "whole-Production Character access -> off-Scene edit -> return without changing current Scene semantics",
+    "persistence/recovery exception -> truthful recovery flow -> prior task restored",
+    "unavailable provider/capability -> blocked action -> explanation/alternative/return without fictional behavior",
+    "wide/medium/narrow adaptation -> overlay/sequential inspection -> same semantic target and focus restored"
+  ],
+  "phase2_gate": "CLOSED until Phase 1 exit criteria pass and Engineering/Product authority is fresh-reconciled.",
+  "separate_continuity_issue": "Recovered historical intake cloud preservation remains independently unresolved; the new Phase-1 archive preserves this chat's generated boards and reasoning but does not prove all older intake binaries are synced."
+}

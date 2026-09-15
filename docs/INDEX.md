@@ -6,14 +6,14 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 293
+Total Markdown documents: 294
 Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (52)
+## ACTIVE LAW (53)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -22,6 +22,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/DESIGN_CONTINUITY_PHASE_RECONCILIATION_2026_09_04.md`
 - `docs/HANDOFF_APPICON_01_PRIMARY_APP_ICON_DESIGN_MASTER_2026_09_14.md`
 - `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md`
+- `docs/HANDOFF_APPUI_PHASE_1_INTERACTION_STATE_TESTING_2026_09_14.md`
 - `docs/HANDOFF_CANDIDATE_06_STAGES_01_05_RECURSIVE_AUDIT_2026_09_07.md`
 - `docs/HANDOFF_CPS_01_CANONICAL_CHARACTER_PRESENCE_SYSTEM_2026_09_13.md`
 - `docs/INDEX.md`
