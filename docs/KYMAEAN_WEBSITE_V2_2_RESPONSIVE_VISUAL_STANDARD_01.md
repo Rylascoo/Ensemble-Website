@@ -33,6 +33,8 @@ The same composition is compressed rather than redesigned. All three presences, 
 ### Portrait / phone-screen shaped — 1227 × 1422 reference
 A curated vertical crop of the same world. The center presence and doorway become primary. Amber and blue may partially leave frame but must remain visibly implied at opposite edges. The Stage rim must not overpower the identity/threshold sequence.
 
+Tall computer-browser portrait windows must not fall back to the full-height `cover` crop, because that can over-zoom the 16:9 Stage and collapse the side-presence relationship. The V2.2 implementation therefore keeps the established phone crop through 599 CSS px and, from 600 CSS px upward in portrait orientation, widens continuously with `width: calc(200vw - 240px)`. The lockup follows the same frozen doorway coordinate with `left: calc(56.125% - 7.35px)`, making the 599/600 transition continuous while revealing progressively more Stage context on wider portrait browser windows.
+
 ## Regression rule
 Any future website visual/CSS/publication change must be checked against all three reference shapes before production promotion. A pass requires no horizontal overflow, contained identity, preserved doorway-axis hierarchy, preserved left/center/right presence logic, and no breakpoint-specific replacement artwork.
 

@@ -2618,3 +2618,31 @@ This closure does not reopen Stage artwork, app/UI authority, shared-brand autho
 **Next boundary:** hold V2.2 stable. Any future Website Sol visual/CSS publication must start from current `main` and pass the three-shape responsive standard plus repository, publication, and accessibility verification before promotion.
 
 **APPROVED — DIRECTOR RESPONSIVE STANDARD + CLEAN V2.2 PRODUCTION CLOSEOUT.**
+
+## L-169 - Tall computer-browser portrait crop is corrected without reopening the Stage
+
+**State:** DIRECTOR-EVIDENCED RESPONSIVE DEFECT / CONTINUOUS PORTRAIT-CROP SUCCESSOR / LOCAL RECURSIVE AUDIT PASS / HOSTED VERIFICATION NEXT
+
+After V2.2 production promotion, the Director supplied a live computer screenshot at a tall portrait browser shape. The page was source-correct, but the evidence exposed a real responsive gap: the prior portrait rule ended at 900 CSS px, so wider portrait browser windows fell back to the desktop full-height `object-fit: cover` behavior. On a roughly 1138x1354 portrait viewport that renders the 16:9 Stage at about 2.11 viewport widths, pushing most of the amber and blue presence territories offscreen and weakening the newly frozen three-shape relationship law.
+
+The correction does not alter the Stage asset, identity geometry, visible copy, wide/landscape composition, social card, motion, accessibility, or product disclosure. Phones through 599 CSS px retain the accepted 160vw crop and 54.9% lockup axis. From 600 CSS px upward in portrait orientation the Stage width is `calc(200vw - 240px)` and the lockup axis is `calc(56.125% - 7.35px)`. Both equations resolve to the existing 160vw / 54.9% treatment at 600px, eliminating breakpoint jump while progressively restoring context as a portrait browser becomes wider. The lockup equation is derived from the frozen doorway coordinate, so the name continues to follow the doorway rather than generic viewport center.
+
+Local Edge/CDP audit passes 2048x1199, 1235x647, 1227x1422, 1138x1354, 768x1024, 600x900, 599x900, 390x844 and 320x640 with zero horizontal overflow and contained identity. Visual inspection confirms the Director-observed tall-browser shape now preserves materially more amber/blue context while retaining the central threshold hierarchy. The 599/600 pair is visually and geometrically continuous. At 320x640, 200% root text remains contained, reduced motion exposes zero running animations, and forced colors hides the Stage while retaining the identity.
+
+**Next boundary:** commit/push this exact candidate, require exact-head repository workflows and Cloudflare hosted byte/visual verification, then promote under standing clean-recursive-audit authority if hosted evidence remains clean.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN LOCAL RECURSIVE AUDIT.**
+
+## L-170 - Tall-browser portrait successor passes exact hosted verification
+
+**State:** EXACT HOSTED PASS / RESPONSIVE DEFECT CLOSED / PRODUCTION PROMOTION NEXT
+
+Candidate payload `363e9a743f6742db8bae09e261ba122dd0523629` passes exact-head GitHub Actions `Repository publication boundaries` #824 and `Document status structure` #606. The Cloudflare PR #71 branch preview serves all nine public assets byte-for-byte equal to the exact Git blobs. Response policy remains `Cache-Control: public, max-age=0, must-revalidate, no-transform` with `X-Robots-Tag: noindex`, and hosted HTML contains no analytics beacon.
+
+Hosted Edge/CDP repeats the local matrix at 2048x1199, 1235x647, 1227x1422, 1138x1354, 768x1024, 600x900, 599x900, 390x844 and 320x640. All cases have zero horizontal overflow and contained identity; the frozen Stage reports intrinsic 1672x941. Hosted visual inspection of 1227x1422 and 1138x1354 confirms materially more amber/blue Stage context than the prior full-height-cover fallback while preserving the identity -> center presence -> doorway -> shared Stage relationship. The 599/600 transition is visually and geometrically continuous.
+
+At 320x640, 200% root text remains contained, reduced motion exposes zero running animations, and forced colors hides the Stage while retaining the identity. No Stage pixels, identity paths, copy, wide/landscape behavior, social assets, motion law, product disclosure, app/UI authority or final-brand authority changed.
+
+**Next boundary:** merge PR #71 with an exact-head guard, require exact-main workflows, verify live production source bytes/headers and the same responsive/accessibility matrix, then archive/delete the source branch under strict-ancestor/zero-unique law.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
