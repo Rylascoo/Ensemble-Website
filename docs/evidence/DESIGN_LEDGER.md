@@ -2475,3 +2475,17 @@ The social card was also visually reviewed: deterministic identity, `Coming Soon
 **Next boundary:** present the exact hosted preview to the Director for the consequential website-taste/promotion decision. Keep PR #68 draft and `www.kymaean.com` on V2.1 until that review resolves.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-160 - V2.2 background reopens after hosted review and converges on Stage-view synthesis
+
+**State:** DIRECTOR-CONVERGED BACKGROUND COMPARISON / NON-PRODUCTION PREVIEW UPDATE AUTHORIZED / PRODUCTION V2.1 UNCHANGED
+
+After reviewing the first hosted V2.2 candidate, the Director explicitly reopened only the background artwork and continued the Stage-view exploration. The resulting selected comparison master is `Kymaean_Website_Sol_V2_2_Stage_View_Synthesis_Freeze_Candidate_2026-09-15.png` (Drive id `1CY4pdkFC7fPkODvK7JKC4W0x4LR8dOtX`; SHA-256 `60cb7134aa35523ba20a0654dd77d95a0127cc7716e565483082ee50aad7893a`).
+
+The image is intentionally text-free. It preserves a dark circular shared Stage, three quiet amber/neutral/blue presence volumes, localized irregular floor response, restrained wing/footlight grammar, and a small subordinate threshold. This is a website interpretation of Stage/presence intuition only; it does not freeze app cast size, Character color semantics, app geometry, interaction/state, or any Design Sol app/UI rule.
+
+For the website comparison, only `site/public/stage-v2-2.webp` and its intrinsic dimensions/cache-bust references change. The new 1672x941 WebP derivative is 74,740 bytes with SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. Existing deterministic Threshold K/KYMÆAN/`Coming Soon` layers remain separate and unchanged so this preview isolates the background decision. The existing social card is deliberately not promoted to this background until hosted visual review resolves the comparison.
+
+Local browser proof at 1440x900 and 390x844 shows zero horizontal overflow. Desktop preserves the full three-presence Stage and subordinate threshold; mobile retains all three light territories in the lower art-directed field while identity remains isolated in negative space above.
+
+**Next boundary:** push this exact background-only comparison to draft PR #68, verify the hosted Cloudflare branch preview against committed bytes plus responsive/reduced-motion/forced-colors invariants, then present the hosted pixels to the Director. Production `www.kymaean.com` remains V2.1.
