@@ -3246,3 +3246,17 @@ Drive Phase-3 archive preserves exact HTML `1W3K8ZZ_nnMtSe-y5TIKrefTY-7R_cyHb` a
 **Next boundary:** evaluate the same exact Light F2 + provisional D3 pair on the accepted Contextual + Deep Inspection Surface Family. D3 remains provisional until broader representative evidence justifies final freeze.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-209 - Inspection F2 + provisional D3 integration method freezes before exposure
+
+**State:** PHASE-3 INSPECTION INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_INSPECTION_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the exact accepted Contextual + Deep Inspection Surface Family carrier. Selected Light F2 and exact provisional D3 Dark remain fixed inputs together with MAT-01 F1, TYP-02 F1 and STA-01 F2; no post-exposure color retune is permitted.
+
+The study must preserve contextual relevance, deep-task continuity, semantic origin, exact return, focus/selection independence, current/historical and provisional/effective distinctions, Character/Performer separation, infrastructure/fiction separation, and disclosure boundaries without allowing color or darkness to become state meaning.
+
+Both contextual and deep-inspection surfaces must be represented in Light and D3. D3 fails locally if aubergine depth collapses the inspection layers, makes historical/provisional/disabled meaning appear color-coded, spreads teal into semantic status, or weakens exact semantic return and focus restoration.
+
+**Next boundary:** materialize the exact inspection carrier in selected Light F2 + provisional D3, run the full seven-condition matrix, and recursively audit state honesty and disclosure/return integrity before preservation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
