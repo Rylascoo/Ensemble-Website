@@ -2758,3 +2758,22 @@ All Phase-1 exit criteria are therefore satisfied under current authority and Ph
 **Next boundary:** before any Phase-2 Stage/live-production successor is materialized, fresh-resolve Engineering again; if relevant Product semantics remain unchanged, open Phase 2 from `PKT-STAGE-CORE-02` without reopening the frozen Phase-1 shell.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PHASE-1 INTERACTION/STATE FREEZE.**
+
+
+## L-179 - Production Home / Resume closes detailed functional study inside frozen Phase 1
+
+**State:** HOME/RESUME FUNCTIONAL DETAIL PASS / FROZEN SHELL PRESERVED / PRODUCTION SHAPING DETAIL NEXT / NO PHASE-2 STAGE CHANGE
+
+After the Director asked to work through the already-completed application-architecture sections before moving on, Design Sol selected Production Home / Resume as the first detail target because it is the re-entry anchor for the rest of the application and can be resolved without touching Product-open Stage/Scene mechanics.
+
+`docs/evidence/APPUI_01_PRODUCTION_HOME_RESUME_FUNCTIONAL_STUDY_01.json` records the study. The deterministic carrier `prototypes/appui-01/production-home-resume-functional-study-01.html` preserves Wireframe 01R and the accepted resume-first/current-situation-first direction while making the section implementation-usefully explicit: current Production + concise current situation dominate; `Resume current work` is the strongest action; Current Scene / what matters now / recent relevant movement provide supporting re-entry context; other Production browse/create remains subordinate. Production cover/scenic imagery is deliberately absent because Phase 1 never established it as required.
+
+The study also carries four truthful Home state witnesses: healthy current Production, no active Scene, persistence/recovery exception and unavailable capability. Healthy persistence stays quiet; infrastructure failure never becomes fictional behavior; no-active-Scene presentation explicitly leaves exact next-Scene creation Product-defined. Light/Dark preserve one hierarchy, and responsive order remains current Production -> resume -> current Scene -> what matters -> recent movement -> other Productions.
+
+Edge CDP mechanical preflight passes at 1600, 1024, 390 and 320 CSS-pixel widths plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources. Authenticated Drive folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc` preserves review PNG `1gYGWwhGi9LcO7k3oaVPi19vLIRK0K2ip` and exact HTML `12Zf4xjDyglwtA36rOYK6ABHWgzrr4ljq`.
+
+The recursive visual/semantic audit found two issues before closure: `recent consequential movement` overclaimed causal/effective meaning for mixed re-entry material, and one no-active-Scene helper sentence sounded too close to a frozen Scene-creation command. Both were corrected and the full audit rerun clean. No global-shell redraw, Stage visual successor, final visual language, Product-gated control, WinUI/runtime or Store authority is created.
+
+**Next boundary:** detail Production Shaping / Current Possibility inside the same frozen shell, preserving situation-first navigation and following meaningful elements into contextual/deep inspection rather than restoring ontology-first People/World/Scenes navigation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

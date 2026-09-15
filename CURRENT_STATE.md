@@ -9,18 +9,20 @@ Updated: 2026-09-14
 ## Active stream
 APPUI work remains isolated on `design/appui01-working-compositions-2026-09-14`. Concurrent Website publication work remains separate; last reconciled Website `main` is `4bb91292171e0d503d3a4e058ee421436221a793`. Do not merge/rebase/reset either stream merely for visual continuity.
 
-## APPUI checkpoint
-**Phase 1 — application UI architecture/layout is FROZEN PASS.** Wireframe 01R remains the global structural baseline. Production Home is resume/current-situation first; Production Shaping is situation-first; contextual/deep inspection follows meaningful elements rather than ontology-first navigation. Light/Dark remain co-equal semantic presentations and the Stage remains dark in both.
+## Frozen architecture
+**Phase 1 application UI architecture/layout is FROZEN PASS.** Wireframe 01R remains the global structural baseline. Home is resume/current-situation first; Shaping is situation-first; meaningful elements lead into contextual/deep inspection. Light/Dark are co-equal semantic presentations and the Stage stays dark in both.
 
-`docs/evidence/APPUI_01_PHASE_1_INTERACTION_STATE_STRESS_TEST_AND_FREEZE_2026_09_14.json` closes the remaining interaction/state gate. Six BEFORE → USER ACTION → TRANSIENT → RESULT → RETURN/FOCUS flows pass: Character deep inspection/edit; unresolved-question causal history; off-Scene Character management; persistence/recovery; unavailable capability; and wide/medium/narrow adaptation. Focus ≠ selection, Back ≠ Undo, current ≠ historical, provisional ≠ effective, creator action ≠ Character agency, Character ≠ Performer, and infrastructure ≠ fiction remain explicit.
+`docs/evidence/APPUI_01_PHASE_1_INTERACTION_STATE_STRESS_TEST_AND_FREEZE_2026_09_14.json` preserves the six required behavior flows and responsive/state grammar. The global shell is not reopened by later section detailing.
 
-The deterministic carrier is `prototypes/appui-01/phase1-interaction-state-stress-test-01.html`. Drive folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc` preserves the review PNG `1RqyYMw9FbGA1DPZbcQveSm3---VXn_da` and exact HTML `1spFb-xRUyFrZViYuopdbph_Ls7mwccVo`.
+## Current section-detail sequence
+Director requested working through already-completed app-architecture sections before moving on. `docs/evidence/APPUI_01_PRODUCTION_HOME_RESUME_FUNCTIONAL_STUDY_01.json` now closes **Production Home / Resume functional detail PASS**.
 
-## Engineering reconciliation
-Fresh post-materialization Engineering `main` is still `36b9c4c2644d6d47c957e7910d0c609e260b5432`, the same semantic ref used when the Phase-1 envelope was created. E0-D remains blocked and no post-E0 Phase-D Scene/Take/Perspective/consequence semantics have been promoted. No envelope repair is required.
+Home hierarchy is: current Production + concise current situation -> Resume current work -> Current Scene / what matters now / recent relevant movement -> subordinate other-Production browse/create. Healthy persistence stays quiet; recovery/capability exceptions stay outside fiction; no-active-Scene presentation leaves exact next-Scene creation Product-defined. Production cover/scenic imagery is not required.
 
-## Non-authority
-Phase 1 does not freeze final labels, exact controls, typography/palette/material/motion, Stage visual successor, transcript/timer/Pause, Scene lifecycle, consequence review, Perspective switching, Take/Rehearsal/branching, provider/model/cost, Performer assignment, portable Production, manuscript/export, specialized maps, WinUI/XAML/runtime/package or Store behavior.
+Deterministic carrier: `prototypes/appui-01/production-home-resume-functional-study-01.html`. Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero images and zero external resources. Drive review: PNG `1gYGWwhGi9LcO7k3oaVPi19vLIRK0K2ip`; HTML `12Zf4xjDyglwtA36rOYK6ABHWgzrr4ljq`.
+
+## Product boundary
+Last required Engineering reconciliation remains `36b9c4c2644d6d47c957e7910d0c609e260b5432`; no Phase-D semantics were promoted at the Phase-1 freeze. Section detailing must not invent final Scene lifecycle, consequence review, Perspective switching, Take/Rehearsal/branching, timer/Pause, transcript/Observed Cues, provider/model/cost, Performer assignment, portable Production, manuscript/export, WinUI/runtime/package or Store behavior.
 
 ## Next
-Before materializing any Phase-2 Stage/live-production successor, fresh-resolve Engineering again. If relevant Product semantics remain unchanged, open Phase 2 from `PKT-STAGE-CORE-02`, preserving the frozen Phase-1 shell and all still-open Product gates. Phase 3 Kymaean visual-language integration remains later.
+Detail **Production Shaping / Current Possibility** inside the frozen shell. Preserve situation-first orientation; do not restore ontology-first People/World/Scenes navigation. After completed architecture sections are detailed, fresh-resolve Engineering before any Phase-2 Stage/live-production successor. Phase 3 visual-language integration remains later.
