@@ -2457,3 +2457,41 @@ Local deterministic browser review passes 1440×900, 390×844, 320×640, a 160×
 This entry authorizes non-production source materialization, push, and hosted Cloudflare branch-preview verification only. `main` and `www.kymaean.com` remain V2.1 until the committed branch bytes pass hosted recursive browser/accessibility review and the Director reviews the resulting preview. It creates no app Stage layout, cast-size, selectable-color semantic, final palette/typeface, final product-concept, or Design Sol app/UI authority.
 
 **Next boundary:** commit/push the exact V2.2 precision candidate, verify the Cloudflare branch preview against committed bytes and desktop/mobile/accessibility invariants, then present the hosted preview to the Director. Do not promote production before that review.
+
+## L-159 - Website Placeholder V2.2 exact hosted preview passes recursive review
+
+**State:** EXACT HOSTED PREVIEW PASS / CLEAN RECURSIVE AUDIT / DIRECTOR REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+Exact V2.2 payload commit `451ea4854e5b5baae773c5c70e5c0f692aa115aa` passed both hosted repository workflows and Cloudflare Workers build `bb4f7442-82cd-4c8b-99f7-3e775eec2505` (Version `63984782-24e5-45b8-8ddc-81ff15157a0b`). The stable branch preview alias is `https://site-placeholder-v2-2-precision-2026-09-14-kymaean-site.wirylasc.workers.dev/`.
+
+All nine public assets were downloaded from that preview and compared against the exact Git commit bytes. Every asset matched byte-for-byte, including the 97,422-byte frozen-master Stage derivative and 91,705-byte social card. The preview returns `Cache-Control: public, max-age=0, must-revalidate, no-transform`, contains no Cloudflare analytics beacon, preserves `Coming Soon`, and contains neither `Something is taking shape.` nor `In development`.
+
+Hosted Edge/CDP review passes desktop 1440×900, mobile 390×844 and 320×640, 160×320 stress proxy, and 320×640 with a 200% root-text approximation. All have zero horizontal overflow and retain the 1536×1024 Stage asset. Reduced-motion computes zero active animations. Actual forced-colors hides the scene and immediately exposes system-colored Threshold K, KYMÆAN and `Coming Soon` with no overflow. The desktop, mobile, reduced-motion, forced-colors and 200% screenshots were visually reviewed and no material defect or worthwhile in-scope correction remained.
+
+The social card was also visually reviewed: deterministic identity, `Coming Soon`, threshold and Stage remain coherent at 1200×630 without adding product disclosure. This hosted pass changes no app/UI/Stage authority and does not authorize production promotion by itself.
+
+**Next boundary:** present the exact hosted preview to the Director for the consequential website-taste/promotion decision. Keep PR #68 draft and `www.kymaean.com` on V2.1 until that review resolves.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-159 - Website Placeholder V2.2 exact hosted preview passes recursive verification
+
+**State:** EXACT COMMIT PREVIEW PASS / HOSTED RESPONSIVE + ACCESSIBILITY PASS / DIRECTOR VISUAL REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+Draft PR #68 carries the V2.2 public payload frozen at commit `451ea4854e5b5baae773c5c70e5c0f692aa115aa`. Cloudflare Workers reported a successful deployment for that exact commit. Immutable review URL: `https://63984782-kymaean-site.wirylasc.workers.dev/`; mutable branch review URL: `https://site-placeholder-v2-2-precision-2026-09-14-kymaean-site.wirylasc.workers.dev/`.
+
+Hosted byte verification fetched every deployable public asset with identity encoding and compared it against the exact Git commit blobs. `index.html`, `styles.css`, `atmosphere.css`, `modes.css`, `motion.js`, `favicon.svg`, `apple-touch-icon.png`, `social-card.jpg`, and `stage-v2-2.webp` are byte-for-byte identical. The preview returns `Cache-Control: public, max-age=0, must-revalidate, no-transform`, remains `X-Robots-Tag: noindex`, and contains no analytics injection.
+
+Hosted Edge/CDP review passes desktop 1440x900 and mobile 390x844 with `scrollWidth == clientWidth`; the separately art-directed mobile crop preserves both presence territories and the threshold. A 320x640 viewport with root text set to 32px preserves the full identity/status without horizontal overflow. Reduced-motion mode exposes zero active animations.
+
+Actual Edge `--force-high-contrast` verification reports `forced-colors: active`, hides `.scene`, substitutes system colors, exposes no delayed identity animation, and preserves zero horizontal overflow at 390px. The forced-colors screenshot shows Threshold K, KYMÆAN, and `Coming Soon` immediately legible with no decorative scene dependency.
+
+Exact-head GitHub Actions pass on `451ea4854e5b5baae773c5c70e5c0f692aa115aa`: `Repository publication boundaries` run #776 / `34937638214` and `Document status structure` run #559 / `34937638304` both conclude `success`.
+
+Recursive visual review of the hosted desktop, mobile, 200%-proxy and forced-colors captures finds no material defect inside the V2.2 precision objective. The deterministic social card also preserves the approved identity hierarchy and frozen Stage relationship without extra disclosure.
+
+This hosted pass earns Website Sol's in-lane approval for the non-production review gate only. It does not authorize production, alter app/UI/Stage/CLR authority, or promote any final palette/type/brand claim.
+
+**Next boundary:** present the exact hosted preview to the Director for visual review. Keep `main` and `www.kymaean.com` on V2.1 unless the Director explicitly opens the production-promotion gate.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
