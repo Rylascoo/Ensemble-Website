@@ -8,17 +8,17 @@ Updated: 2026-09-15
 Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Production
-Website Placeholder V2.2 is live on `www.kymaean.com`. PR #68 merged as `e5aea65a315dd9331092e75213d7825f1d2cf25a`. The approved responsive page payload is `85f40392225349442ac992aac4b4cfe9cc00eb8a`; social-card repair payload is `e588dc01bf2ce37bc8d65ed53b4ad06fbbf4290f`.
+Website Placeholder V2.2 is live on `www.kymaean.com`; current production `main` baseline is `b80ec78cb63a82f8c6949ba49596179708e986d7`. The frozen Stage, integrated Threshold-K-as-K lockup, `Coming Soon`, corrected social card, accessibility behavior and no-analytics boundary remain unchanged.
 
-Post-merge production verification passed: all nine public assets matched exact `main` Git blobs; `Cache-Control` retained `public, max-age=0, must-revalidate, no-transform`; no analytics beacon was present; 1440x900, 1024x768, 768x1024, 430x932, 390x844 and 320x640 had zero horizontal overflow; 320x640 also passed 200% text, reduced motion with zero running animations, and forced colors with the Stage hidden and identity retained. Main push workflows passed: publication boundaries #812 and document structure #594.
+## Active Website Sol refinement
+Director-supplied live evidence exposed one responsive defect in tall computer-browser portrait windows: widths above the old 900px portrait breakpoint fell back to full-height `cover`, over-zooming the 16:9 Stage and suppressing amber/blue context. The authorized successor is branch `site/v2-2-tall-browser-crop-2026-09-15` from exact production main.
 
-## Responsive visual law
-`docs/KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md` is the Website Sol regression authority. Director reference shapes are wide 2048x1199, mini-wide 1235x647, and portrait/phone-screen-shaped 1227x1422. Governing principle: preserve relationships before preserving objects; narrow views are curated crops of the same frozen Stage world.
+The candidate changes only `site/public/modes.css`: phones through 599 CSS px retain the existing 160vw / 54.9% treatment; portrait widths from 600px upward use continuous Stage width `calc(200vw - 240px)` and doorway-axis lockup `calc(56.125% - 7.35px)`. The rule is mathematically continuous at 599/600 and leaves landscape/wide rendering unchanged.
+
+## Local recursive audit
+Exact reference checks pass at 2048x1199 wide, 1235x647 mini-wide, 1227x1422 portrait, the Director-observed 1138x1354 tall-browser shape, 768x1024, 600x900, 599x900, 390x844 and 320x640: zero horizontal overflow, contained identity, exact 1672x941 Stage source, preserved left/center/right presence logic and doorway-axis relationship. 320x640 also passes 200% text, reduced motion with zero running animations, and forced colors with the Stage hidden and identity retained.
 
 ## Frozen cross-lane boundary
-`PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. Website V2.2 creates no app UI, cast-size, state, palette, color-semantic, interaction, or final-brand authority.
+`PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. This website crop correction creates no app UI, cast-size, state, palette, color-semantic, interaction, or final-brand authority.
 
-## Branch lifecycle
-Source branch `site/placeholder-v2-2-precision-2026-09-14` had zero commits unique from `main`, was archived at tag `archive/site/placeholder-v2-2-precision-2026-09-14` -> `93ba0516db6899f64fe3be06ac11a04934357074`, then deleted remotely. Temporary local CDP audit debris was removed.
-
-**Exact next action:** hold the live V2.2 website stable. Any future Website Sol visual or CSS change starts from current `main`, preserves the frozen cross-lane boundary, and must pass the three-shape responsive visual standard plus repository/publication/accessibility checks before production promotion.
+**Exact next action:** commit/push the candidate with L-169 continuity, require exact-head repository workflows and Cloudflare hosted visual/byte verification, then promote under standing clean-recursive-audit authority only if the hosted pass remains clean; verify production afterward.

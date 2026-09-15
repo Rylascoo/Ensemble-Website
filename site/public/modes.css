@@ -33,6 +33,28 @@
   }
 }
 
+@media (min-width: 600px) and (orientation: portrait) {
+  .brand-lockup {
+    left: calc(56.125% - 7.35px);
+  }
+
+  .scene-art {
+    inset: auto auto 0 50%;
+    width: calc(200vw - 240px);
+    max-width: none;
+    height: auto;
+    transform: translateX(-50%);
+    object-fit: contain;
+    object-position: center;
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 100%);
+    mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 100%);
+  }
+
+  .scene::after {
+    background: linear-gradient(to bottom, rgba(9,11,12,0.12), transparent 45%);
+  }
+}
+
 @media (max-height: 560px) and (orientation: landscape) {
   .brand-lockup {
     top: max(1rem, env(safe-area-inset-top));
