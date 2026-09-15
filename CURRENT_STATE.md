@@ -2,19 +2,19 @@
 
 # Ensemble Website - Current State
 
-Updated: 2026-09-14
+Updated: 2026-09-15
 
 ## Authority
-Design: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
+Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
-## Repository
-`main@0ebd9ce278847269208ddf43fc482e0b1ca7165d` is promoted website authority after PR #66. V2.1 source `fc397989bee4c67df5feeae6162548bab327cbaf` is archived at `archive/site/placeholder-v2-1-atmospheric-finish-2026-09-14`; integrity-repair source `5d042108f95ad794b518cf282f0c0c6c8474bfe7` is archived at `archive/site/placeholder-v2-1-production-integrity-2026-09-14`. Both remote source branches are retired after strict-ancestor/zero-unique proof. Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` at `9308fb581c07d0b732cc488418a89c1c1ae4e750`. No active serial website publication gate exists; any surviving production-closeout ref is administrative lifecycle debt only.
+## Repository / production
+Production authority remains `main@4bb91292171e0d503d3a4e058ee421436221a793` after V2.1 closeout PR #67. `www.kymaean.com` remains the source-exact, analytics-free V2.1 production surface. Website Sol's only active implementation lane is `site/placeholder-v2-2-precision-2026-09-14`, based exactly on that main; its first commit `1d78caa5d7c613a7f12883f9886e285bd957ec4d` is the behavior-preserving presentation-layer split. Concurrent `design/*` work remains Design Sol-owned and must not be modified by Website Sol.
 
-## Frozen app boundary
-`PKT-STAGE-CORE-02` remains the frozen app visual baseline. `APP-SYN-01` remains **DESIGN SOL VIEW FROZEN / DIRECTOR CLR CONTEXT DEFERRED UNTIL REPRESENTATIVE REAL ASSEMBLY**; F2 is a non-authoritative preference, F1 remains valid, and no CLR winner/final palette or Stage-to-app-shell gate exists. V2.1 does not alter this boundary.
+## Frozen cross-lane boundary
+`PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. V2.2 borrows only high-level Stage/presence intuition for the public placeholder; it creates no app UI, cast-size, state, palette, color-semantic, or final-brand authority.
 
-## Website Placeholder V2.1
-`https://www.kymaean.com/` now serves the approved secrecy-first V2.1 placeholder. Public language remains exactly `KYMÆAN`, `Something is taking shape.`, and `In development`; Threshold K and O3/KYMÆAN geometry remain inherited evidence. The field uses the approved softer pressure/trace atmosphere, one-way settling, fine-pointer response with fixed identity, reduced-motion/forced-colors fallbacks, tighter favicon framing, safe-area treatment, Apple touch icon, social card, canonical URL and social metadata. No product concept or final palette/type/identity authority is created.
+## Website Placeholder V2.2 precision gate
+The Director opened and visually converged a bounded non-production V2.2 website gate. Visual master is the Drive file `Kymaean_Website_Sol_V2_2_FROZEN_Background_Master_Two_Cone_2026-09-14.png`, SHA-256 `018eb32dae88955353907efa24b48856cda9af6597534ace88e930507c01c90e`. Exact repository Threshold K and KYMÆAN geometry are deterministic layers; renderer-drawn identity is prohibited. Candidate visible copy is only `KYMÆAN` + `Coming Soon`. Desktop uses the full two-presence Stage; mobile is art-directed to preserve both amber/blue territories and keep the threshold subordinate.
 
-## Production verification / next boundary
-PR #65 promoted the visual candidate; PR #66 added source-controlled `Cache-Control: public, max-age=0, must-revalidate, no-transform` after live verification found Cloudflare Web Analytics injection. Live production now returns `no-transform`, contains no beacon, and all six public assets match audited source. 1440×900, 390×844, 320×640/200%, reduced motion, actual forced colors, fine-pointer identity invariance and terminal long-dwell checks pass. Design Ledger L-157 records closure. **Exact next action:** keep V2.1 stable while the app remains unfinished. Any later public expansion or final-brand claim requires a new authorized website/brand gate.
+## Validation / next boundary
+Local deterministic browser evidence passes desktop 1440×900, mobile 390×844 and 320×640, a 160×320 proxy for 200% zoom, reduced motion, forced colors after disabling delayed identity animation there, and zero horizontal overflow. The Stage WebP is a 97,422-byte derivative of the frozen master (`aef0cb0c4bf705fdc07f29de9543ea5ef3da33785e8a209e2c5d61848e9660e8`). **Exact next action:** commit/push the source-exact non-production candidate, obtain and verify its Cloudflare branch preview, then present that hosted preview to the Director. Production must remain V2.1 until a clean hosted recursive audit plus Director review opens promotion authority.

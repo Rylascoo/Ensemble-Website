@@ -3,7 +3,7 @@
 # Kymaean Design Ledger
 
 Status: ACTIVE DURABLE CLOSURE / RE-DERIVATION LEDGER
-Updated: 2026-09-11
+Updated: 2026-09-15
 
 ## Purpose
 
@@ -2441,3 +2441,19 @@ This is a Website Sol website-publication/deployment closure only. It does not a
 **Next boundary:** keep the temporary V2.1 placeholder stable while the app remains unfinished. Any later website expansion or production-surface change requires a new authorized website/publication gate.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN LIVE PRODUCTION WEBSITE CLOSEOUT.**
+
+## L-158 - Website Placeholder V2.2 converges to a non-production precision implementation candidate
+
+**State:** DIRECTOR-ENDORSED VISUAL DIRECTION / NON-PRODUCTION IMPLEMENTATION + HOSTED REVIEW AUTHORIZED / PRODUCTION V2.1 UNCHANGED
+
+Director-guided Website Sol exploration closed the broad V2.2 visual-definition phase. The public placeholder visual master is the frozen Drive file `Kymaean_Website_Sol_V2_2_FROZEN_Background_Master_Two_Cone_2026-09-14.png` (Drive id `1z1P5CQBu4L_EsY9i2jC-HK1SFn6y-wYV`; SHA-256 `018eb32dae88955353907efa24b48856cda9af6597534ace88e930507c01c90e`). It preserves the blackened-timber circular Stage, restrained warm rim/footlight logic, dark wing/canopy grammar, distant atmospheric threshold, faint consequence trace, and asymmetric amber/cool-blue presence territories.
+
+The accepted public hierarchy is exact repository Threshold K + exact repository KYMÆAN geometry + `Coming Soon` only. No tagline, decorative rule, slogan, URL/footer philosophy, people, product disclosure, literal app UI, explicit Character-state semantics, or renderer-drawn identity survives into the precision candidate. Desktop keeps the two-presence Stage as the full visual field with a quieter centered identity hierarchy. Mobile is separately art-directed: large negative space carries identity above the same frozen Stage while both amber/blue territories remain legible and the threshold stays subordinate rather than becoming a portrait-cover hero.
+
+`site/placeholder-v2-2-precision-2026-09-14` is the sole Website Sol implementation lane. Its first commit `1d78caa5d7c613a7f12883f9886e285bd957ec4d` isolated identity, atmosphere, and mode CSS without changing V2.1 behavior. The V2.2 materialization uses a 97,422-byte WebP derivative of the frozen master (SHA-256 `aef0cb0c4bf705fdc07f29de9543ea5ef3da33785e8a209e2c5d61848e9660e8`) plus deterministic exact identity/copy layers and a matching deterministic social card.
+
+Local deterministic browser review passes 1440×900, 390×844, 320×640, a 160×320 proxy for 200% zoom, zero horizontal overflow, reduced-motion suppression, and forced-colors removal of the scene with system-colored identity. Recursive review found and corrected two implementation defects before adoption: an accidental mobile bottom void was removed by anchoring the art field to the viewport bottom, and forced-colors delayed identity visibility was eliminated by disabling identity animations in forced-colors mode.
+
+This entry authorizes non-production source materialization, push, and hosted Cloudflare branch-preview verification only. `main` and `www.kymaean.com` remain V2.1 until the committed branch bytes pass hosted recursive browser/accessibility review and the Director reviews the resulting preview. It creates no app Stage layout, cast-size, selectable-color semantic, final palette/typeface, final product-concept, or Design Sol app/UI authority.
+
+**Next boundary:** commit/push the exact V2.2 precision candidate, verify the Cloudflare branch preview against committed bytes and desktop/mobile/accessibility invariants, then present the hosted preview to the Director. Do not promote production before that review.

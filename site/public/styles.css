@@ -1,16 +1,8 @@
 :root {
   color-scheme: dark;
   --void: #090b0c;
-  --void-soft: #0d1011;
-  --surface: #121516;
-  --surface-2: #171918;
   --ink: #ddd5c7;
   --muted: #8d887f;
-  --signal: #9a6c44;
-  --field-x: 0px;
-  --field-y: 0px;
-  --light-x: 58%;
-  --light-y: 42%;
 }
 
 * {
@@ -70,39 +62,42 @@ body {
 .stage {
   position: relative;
   z-index: 2;
-  display: grid;
-  place-items: center;
   min-height: 100svh;
-  padding-top: max(clamp(1.25rem, 5vw, 4.5rem), env(safe-area-inset-top));
-  padding-right: max(clamp(1.25rem, 5vw, 4.5rem), env(safe-area-inset-right));
-  padding-bottom: max(clamp(1.25rem, 5vw, 4.5rem), env(safe-area-inset-bottom));
-  padding-left: max(clamp(1.25rem, 5vw, 4.5rem), env(safe-area-inset-left));
+  padding-top: max(1rem, env(safe-area-inset-top));
+  padding-right: max(1rem, env(safe-area-inset-right));
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  padding-left: max(1rem, env(safe-area-inset-left));
 }
 
 .brand-lockup {
+  position: absolute;
+  top: max(8svh, calc(env(safe-area-inset-top) + 1.25rem));
+  left: 50%;
   display: flex;
+  width: min(92vw, 24rem);
+  transform: translateX(-50%);
   flex-direction: column;
   align-items: center;
-  width: min(100%, 42rem);
   text-align: center;
 }
 
 .threshold-k {
-  width: clamp(7.3rem, 12vw, 10.5rem);
-  max-width: 48%;
+  width: clamp(4.4rem, 4.95vw, 4.8rem);
+  max-width: 32%;
   height: auto;
-  margin-bottom: clamp(1.2rem, 2.7vh, 2rem);
+  margin-bottom: 1rem;
   fill: #d8cdb9;
-  filter: drop-shadow(0 0 1.2rem rgba(154,108,68,0.045));
-  animation: reveal-mark 1450ms cubic-bezier(.2,.65,.2,1) 220ms both;
+  filter: drop-shadow(0 0 1.1rem rgba(154, 108, 68, 0.035));
+  animation: reveal-mark 1100ms cubic-bezier(.2,.65,.2,1) 120ms both;
 }
 
 .wordmark {
   display: block;
-  width: min(92%, 31rem);
+  width: min(22.8vw, 21.9rem);
+  min-width: 18rem;
   height: auto;
   color: var(--ink);
-  animation: reveal-wordmark 1150ms cubic-bezier(.2,.65,.2,1) 950ms both;
+  animation: reveal-wordmark 950ms cubic-bezier(.2,.65,.2,1) 520ms both;
 }
 
 .wordmark .v,
@@ -120,35 +115,15 @@ body {
 .wordmark .h { stroke-width: 4.55; }
 .wordmark .fine { stroke-width: 2.35; opacity: 0.7; }
 
-.tagline {
-  max-width: 100%;
-  margin: clamp(1.4rem, 3vh, 2.1rem) 0 0;
-  color: #c6bfb4;
-  font-family: Georgia, Cambria, "Times New Roman", serif;
-  font-size: clamp(1rem, 1.55vw, 1.24rem);
-  font-weight: 400;
-  letter-spacing: 0.075em;
-  animation: reveal-copy 900ms ease-out 1580ms both;
-}
-
-.rule {
-  width: 3rem;
-  max-width: 24%;
-  height: 1px;
-  margin-top: clamp(1.5rem, 3vh, 2.25rem);
-  background: rgba(154,108,68,0.46);
-  animation: reveal-copy 800ms ease-out 1940ms both;
-}
-
 .status {
-  max-width: 100%;
-  margin: 1.15rem 0 0;
+  margin: 1.35rem 0 0;
   color: var(--muted);
-  font-size: 0.66rem;
+  font-size: 0.69rem;
   font-weight: 500;
-  letter-spacing: 0.26em;
+  letter-spacing: 0.34em;
+  line-height: 1.4;
   text-transform: uppercase;
-  animation: reveal-copy 800ms ease-out 2100ms both;
+  animation: reveal-copy 700ms ease-out 900ms both;
 }
 
 :focus-visible {
@@ -164,7 +139,7 @@ body {
 @keyframes reveal-wordmark {
   from {
     opacity: 0;
-    transform: translateY(3px);
+    transform: translateY(2px);
   }
   to {
     opacity: 1;
