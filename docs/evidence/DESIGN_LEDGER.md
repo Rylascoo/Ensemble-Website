@@ -3,7 +3,7 @@
 # Kymaean Design Ledger
 
 Status: ACTIVE DURABLE CLOSURE / RE-DERIVATION LEDGER
-Updated: 2026-09-11
+Updated: 2026-09-15
 
 ## Purpose
 
@@ -2441,3 +2441,160 @@ This is a Website Sol website-publication/deployment closure only. It does not a
 **Next boundary:** keep the temporary V2.1 placeholder stable while the app remains unfinished. Any later website expansion or production-surface change requires a new authorized website/publication gate.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN LIVE PRODUCTION WEBSITE CLOSEOUT.**
+
+## L-158 - Website Placeholder V2.2 converges to a non-production precision implementation candidate
+
+**State:** DIRECTOR-ENDORSED VISUAL DIRECTION / NON-PRODUCTION IMPLEMENTATION + HOSTED REVIEW AUTHORIZED / PRODUCTION V2.1 UNCHANGED
+
+Director-guided Website Sol exploration closed the broad V2.2 visual-definition phase. The public placeholder visual master is the frozen Drive file `Kymaean_Website_Sol_V2_2_FROZEN_Background_Master_Two_Cone_2026-09-14.png` (Drive id `1z1P5CQBu4L_EsY9i2jC-HK1SFn6y-wYV`; SHA-256 `018eb32dae88955353907efa24b48856cda9af6597534ace88e930507c01c90e`). It preserves the blackened-timber circular Stage, restrained warm rim/footlight logic, dark wing/canopy grammar, distant atmospheric threshold, faint consequence trace, and asymmetric amber/cool-blue presence territories.
+
+The accepted public hierarchy is exact repository Threshold K + exact repository KYMÆAN geometry + `Coming Soon` only. No tagline, decorative rule, slogan, URL/footer philosophy, people, product disclosure, literal app UI, explicit Character-state semantics, or renderer-drawn identity survives into the precision candidate. Desktop keeps the two-presence Stage as the full visual field with a quieter centered identity hierarchy. Mobile is separately art-directed: large negative space carries identity above the same frozen Stage while both amber/blue territories remain legible and the threshold stays subordinate rather than becoming a portrait-cover hero.
+
+`site/placeholder-v2-2-precision-2026-09-14` is the sole Website Sol implementation lane. Its first commit `1d78caa5d7c613a7f12883f9886e285bd957ec4d` isolated identity, atmosphere, and mode CSS without changing V2.1 behavior. The V2.2 materialization uses a 97,422-byte WebP derivative of the frozen master (SHA-256 `aef0cb0c4bf705fdc07f29de9543ea5ef3da33785e8a209e2c5d61848e9660e8`) plus deterministic exact identity/copy layers and a matching deterministic social card.
+
+Local deterministic browser review passes 1440×900, 390×844, 320×640, a 160×320 proxy for 200% zoom, zero horizontal overflow, reduced-motion suppression, and forced-colors removal of the scene with system-colored identity. Recursive review found and corrected two implementation defects before adoption: an accidental mobile bottom void was removed by anchoring the art field to the viewport bottom, and forced-colors delayed identity visibility was eliminated by disabling identity animations in forced-colors mode.
+
+This entry authorizes non-production source materialization, push, and hosted Cloudflare branch-preview verification only. `main` and `www.kymaean.com` remain V2.1 until the committed branch bytes pass hosted recursive browser/accessibility review and the Director reviews the resulting preview. It creates no app Stage layout, cast-size, selectable-color semantic, final palette/typeface, final product-concept, or Design Sol app/UI authority.
+
+**Next boundary:** commit/push the exact V2.2 precision candidate, verify the Cloudflare branch preview against committed bytes and desktop/mobile/accessibility invariants, then present the hosted preview to the Director. Do not promote production before that review.
+
+## L-159 - Website Placeholder V2.2 exact hosted preview passes recursive review
+
+**State:** EXACT HOSTED PREVIEW PASS / CLEAN RECURSIVE AUDIT / DIRECTOR REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+**Continuity correction:** branch commit `b85cb51889bcafbe5770ab0b6f398ab57b6686fe` briefly contained a duplicate `L-159` from overlapping continuity writes. This successor consolidates both records into this single canonical entry without changing the hosted result, reviewed pixels, or authority boundary.
+
+Exact V2.2 payload commit `451ea4854e5b5baae773c5c70e5c0f692aa115aa` passed both hosted repository workflows and Cloudflare Workers build `bb4f7442-82cd-4c8b-99f7-3e775eec2505` (Version `63984782-24e5-45b8-8ddc-81ff15157a0b`). The stable branch preview alias is `https://site-placeholder-v2-2-precision-2026-09-14-kymaean-site.wirylasc.workers.dev/`. Immutable commit preview: `https://63984782-kymaean-site.wirylasc.workers.dev/`. Exact-head GitHub Actions also pass on the payload commit: `Repository publication boundaries` run #776 / `34937638214` and `Document status structure` run #559 / `34937638304`.
+
+All nine public assets were downloaded from that preview and compared against the exact Git commit bytes. Every asset matched byte-for-byte, including the 97,422-byte frozen-master Stage derivative and 91,705-byte social card. The preview returns `Cache-Control: public, max-age=0, must-revalidate, no-transform`, preserves `X-Robots-Tag: noindex`, contains no Cloudflare analytics beacon, preserves `Coming Soon`, and contains neither `Something is taking shape.` nor `In development`.
+
+Hosted Edge/CDP review passes desktop 1440×900, mobile 390×844 and 320×640, 160×320 stress proxy, and 320×640 with a 200% root-text approximation. All have zero horizontal overflow and retain the 1536×1024 Stage asset. Reduced-motion computes zero active animations. Actual forced-colors hides the scene and immediately exposes system-colored Threshold K, KYMÆAN and `Coming Soon` with no overflow. The desktop, mobile, reduced-motion, forced-colors and 200% screenshots were visually reviewed and no material defect or worthwhile in-scope correction remained.
+
+The social card was also visually reviewed: deterministic identity, `Coming Soon`, threshold and Stage remain coherent at 1200×630 without adding product disclosure. This hosted pass changes no app/UI/Stage authority and does not authorize production promotion by itself.
+
+**Next boundary:** present the exact hosted preview to the Director for the consequential website-taste/promotion decision. Keep PR #68 draft and `www.kymaean.com` on V2.1 until that review resolves.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-160 - V2.2 background reopens after hosted review and converges on Stage-view synthesis
+
+**State:** DIRECTOR-CONVERGED BACKGROUND COMPARISON / NON-PRODUCTION PREVIEW UPDATE AUTHORIZED / PRODUCTION V2.1 UNCHANGED
+
+After reviewing the first hosted V2.2 candidate, the Director explicitly reopened only the background artwork and continued the Stage-view exploration. The resulting selected comparison master is `Kymaean_Website_Sol_V2_2_Stage_View_Synthesis_Freeze_Candidate_2026-09-15.png` (Drive id `1CY4pdkFC7fPkODvK7JKC4W0x4LR8dOtX`; SHA-256 `60cb7134aa35523ba20a0654dd77d95a0127cc7716e565483082ee50aad7893a`).
+
+The image is intentionally text-free. It preserves a dark circular shared Stage, three quiet amber/neutral/blue presence volumes, localized irregular floor response, restrained wing/footlight grammar, and a small subordinate threshold. This is a website interpretation of Stage/presence intuition only; it does not freeze app cast size, Character color semantics, app geometry, interaction/state, or any Design Sol app/UI rule.
+
+For the website comparison, only `site/public/stage-v2-2.webp` and its intrinsic dimensions/cache-bust references change. The new 1672x941 WebP derivative is 74,740 bytes with SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. Existing deterministic Threshold K/KYMÆAN/`Coming Soon` layers remain separate and unchanged so this preview isolates the background decision. The existing social card is deliberately not promoted to this background until hosted visual review resolves the comparison.
+
+Local browser proof at 1440x900 and 390x844 shows zero horizontal overflow. Desktop preserves the full three-presence Stage and subordinate threshold; mobile retains all three light territories in the lower art-directed field while identity remains isolated in negative space above.
+
+**Next boundary:** push this exact background-only comparison to draft PR #68, verify the hosted Cloudflare branch preview against committed bytes plus responsive/reduced-motion/forced-colors invariants, then present the hosted pixels to the Director. Production `www.kymaean.com` remains V2.1.
+
+## L-161 - V2.2 three-presence Stage-view background passes exact hosted comparison verification
+
+**State:** HOSTED BACKGROUND COMPARISON PASS / EXACT PUBLIC BYTES / DIRECTOR VISUAL REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+Director-guided Website Sol exploration replaced only the V2.2 background artwork for comparison. The preserved Drive master is `Kymaean_Website_Sol_V2_2_Stage_View_Synthesis_Freeze_Candidate_2026-09-15.png` (Drive id `1CY4pdkFC7fPkODvK7JKC4W0x4LR8dOtX`, SHA-256 `60cb7134aa35523ba20a0654dd77d95a0127cc7716e565483082ee50aad7893a`). The deployed derivative at payload commit `37950ed694ed04a7284c51d52a8a80be509e1f47` is `site/public/stage-v2-2.webp`, 1672x941, 74,740 bytes, SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
+
+The stable PR #68 branch preview serves all nine public assets byte-for-byte equal to the exact Git blobs for payload commit `37950ed694ed04a7284c51d52a8a80be509e1f47`. The response remains HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, `X-Robots-Tag: noindex`, `Coming Soon`, the `stage-v2-2.webp?v=2` marker, and no Cloudflare analytics beacon.
+
+Hosted Edge/CDP review passes 1440x900, 390x844, 320x640, a 320x640 200% root-text proxy, reduced motion, and actual Edge forced-colors. All cases have zero horizontal overflow. Regular animations terminate; reduced motion exposes zero running animations; forced-colors hides the scene and preserves immediate system-colored Threshold K, KYMÆAN and `Coming Soon`. Desktop/mobile screenshots were visually reviewed with no material rendering defect in the background comparison. Exact payload workflows `Repository publication boundaries` run #789 and `Document status structure` run #571 both pass.
+
+This hosted pass freezes no production promotion and no identity/social-card successor. The deterministic identity/copy layers were intentionally left unchanged so the Director can judge the Stage-view background without conflating a second design variable. `main` and `www.kymaean.com` remain V2.1.
+
+**Next boundary:** Director visual review of the hosted three-presence Stage comparison. If accepted, resolve the separately known identity composition question before any production-promotion decision; do not silently treat the current standalone Threshold K + wordmark arrangement as newly approved by this background test.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-162 - V2.2 website identity comp integrates exact Threshold K into the name
+
+**State:** DIRECTOR-AUTHORIZED WEBSITE IDENTITY REFINEMENT / LOCAL RECURSIVE AUDIT PASS / HOSTED PREVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+After accepting the hosted three-presence Stage background direction, the Director agreed to resolve the separately identified identity-composition defect: the page should not show Threshold K once as a standalone mark and then show a second line-drawn K inside `KYMÆAN`.
+
+The website-only candidate removes the redundant standalone mark and places the unchanged exact Threshold K path geometry into the K position of the deterministic wordmark using a uniform transform only. Its fill is the same `currentColor` as the remaining letters. The existing O3-derived `YMÆAN` vector paths, resolved `Æ`, accessible text identity, and `Coming Soon` copy remain unchanged. Obsolete standalone-mark CSS is removed and the integrated lockup is resized/repositioned as one unit.
+
+This does not rewrite shared-brand authority: Threshold K geometry itself is unchanged, and the active historical O3 wordmark approval remains evidence for the underlying letter construction. The integration is a website composition treatment under the Director's current V2.2 direction, not a claim that the logo/wordmark master or final brand system has been reselected.
+
+Local Edge/CDP review passes 1440x900, 390x844, 320x640 and 160x320 with zero horizontal overflow. A 320x640 200% root-text proxy remains unclipped; reduced-motion exposes zero running animations; actual Edge forced-colors hides the scene and preserves the integrated mark/name plus `Coming Soon` in system colors. Desktop/mobile pixels retain all three Stage presences and the subordinate threshold. No background art, social card, favicon, app/UI asset, product disclosure, or production surface is changed by this identity comparison.
+
+**Next boundary:** commit/push the exact website identity candidate to draft PR #68, verify the hosted branch bytes and the same responsive/accessibility invariants, then present the hosted page for Director visual judgment. Keep `main` and `www.kymaean.com` on V2.1.
+## L-163 - V2.2 integrated Threshold-K lockup passes exact hosted verification
+
+**State:** HOSTED IDENTITY COMPOSITION PASS / EXACT PUBLIC BYTES / DIRECTOR VISUAL REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+The website-specific identity candidate from payload commit `dca5d8041675ef50ba716dbfd8c1233b6c3f2638` is live on the PR #68 branch preview. It removes the redundant standalone Threshold K and uses the unchanged exact Threshold K path geometry as the visible `K` inside `KYMÆAN`; the O3-derived `YMÆAN` geometry and `Coming Soon` remain unchanged. No background, social-card, favicon, app/UI, or production asset changed in this pass.
+
+All nine hosted public assets match the exact Git blobs for payload commit `dca5d8041675ef50ba716dbfd8c1233b6c3f2638` byte-for-byte. The preview remains HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, `X-Robots-Tag: noindex`, and no Cloudflare analytics injection. Hosted HTML contains the integrated `wordmark-mark` and no standalone `threshold-k` element.
+
+Hosted Edge/CDP review passes desktop 1440x900, mobile 390x844, 320x640 at 200% root text, reduced motion, and actual forced-colors with zero horizontal overflow. Reduced motion exposes zero running animations. Forced-colors hides the Stage scene and preserves the integrated KYMÆAN identity plus `Coming Soon` in system colors. Desktop/mobile/200%-text/forced-colors pixels were visually reviewed without a material rendering defect.
+
+Exact-head GitHub Actions pass on the payload commit: `Repository publication boundaries` run #795 and `Document status structure` run #577. This pass establishes a clean non-production hosted comparison only; it does not redefine shared-brand authority or authorize production promotion.
+
+**Next boundary:** Director visual review of the hosted integrated-lockup composition. Keep `main` and `www.kymaean.com` on V2.1 and keep the existing social card unchanged until that review resolves.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-164 - V2.2 responsive composition unifies doorway-axis identity across wide and portrait views
+
+**State:** DIRECTOR-ALIGNED RESPONSIVE PRECISION PASS / LOCAL RECURSIVE AUDIT PASS / HOSTED PREVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+After reviewing the integrated Threshold-K lockup, the Director asked to center the identity above the doorway and develop one unified visual system for wide website screens and phone-shaped views. The resulting website-only precision successor preserves the exact frozen Stage artwork, exact Threshold K paths, O3-derived `YMÆAN`, and `Coming Soon`; only responsive composition and optical scale are refined.
+
+The full `KYMÆAN` lockup now follows the frozen threshold axis rather than raw viewport center. Wide layouts use `left: 53.4%`; portrait layouts use `left: 54.9%`, compensating for the centered crop of the same frozen image. Desktop wordmark scale increases to `min(32vw, 30.5rem)` with modestly stronger O3-derived strokes. Portrait views use a quieter `58vw` wordmark, a close `Coming Soon` interval, and the prior `160vw` Stage crop so all three amber / neutral / blue presence territories remain legible rather than allowing narrow-device zoom to remove the cool presence.
+
+The portrait rule is extended through 900px width so 768x1024 tablet views inherit the same composition grammar instead of falling into a desktop-cover crop that suppresses the outer presences. Landscape behavior remains under the existing bounded landscape override.
+
+Local Edge/CDP verification passes 1440x900, 1024x768, 768x1024, 430x932, 390x844, 360x800, and 320x640 with zero horizontal overflow. Visual inspection confirms the lockup tracks the doorway axis and all three presence territories survive in phone and tablet portraits. At 320x640, 200% root text remains unclipped, reduced motion exposes zero running animations, and actual forced-colors hides the scene while preserving system-colored `KYMÆAN` plus `Coming Soon`.
+
+No background pixels, social card, favicon, product disclosure, app/UI asset, or production surface change in this pass. This remains a Website Sol responsive lockup treatment and creates no shared-brand or app Stage authority.
+
+**Next boundary:** commit/push the exact responsive precision successor to draft PR #68, verify Cloudflare-hosted bytes and responsive/accessibility invariants, then present the exact hosted pixels for Director judgment. Keep `main` and `www.kymaean.com` on V2.1 until that review resolves.
+
+## L-165 - V2.2 unified responsive composition passes exact hosted verification
+
+**State:** EXACT HOSTED RESPONSIVE PASS / PUBLIC BYTES MATCH / DIRECTOR VISUAL REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+Responsive payload commit `85f40392225349442ac992aac4b4cfe9cc00eb8a` is live on the PR #68 branch preview. It preserves the frozen three-presence Stage image and exact integrated Threshold-K-as-K identity while applying the Director-aligned responsive composition from L-164.
+
+All nine hosted public assets match the exact Git blobs byte-for-byte. The branch preview returns HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, preserves `X-Robots-Tag: noindex`, contains the integrated `wordmark-mark`, contains no standalone `threshold-k`, and contains no Cloudflare analytics injection.
+
+Hosted Edge/CDP review passes 1440x900, 1024x768, 768x1024, 430x932, 390x844, and 320x640 with zero horizontal overflow. The hosted Stage asset reports intrinsic 1672x941 geometry. Portrait tablet and phone views preserve amber, neutral, and blue presence territories while the complete lockup tracks the frozen doorway axis. At 320x640, 200% root text remains unclipped, reduced motion exposes zero running animations, and actual forced-colors hides the scene while preserving system-colored `KYMÆAN` and `Coming Soon`.
+
+Exact-head GitHub Actions pass: `Repository publication boundaries` run #802 and `Document status structure` run #584. No background pixels, social card, favicon, app/UI asset, product disclosure, or production surface changed in this pass.
+
+**Next boundary:** present the exact hosted responsive composition for Director judgment. Keep PR #68 draft, keep `main` and `www.kymaean.com` on V2.1, and keep the social card unchanged until that review resolves.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RESPONSIVE AUDIT.**
+
+## L-166 - Director approves V2.2 production promotion; stale social card is corrected before merge
+
+**State:** DIRECTOR PRODUCTION APPROVAL / PRE-MERGE CONSISTENCY REPAIR / HOSTED REVALIDATION REQUIRED / PRODUCTION V2.1 UNCHANGED
+
+The Director explicitly approved the exact unified responsive V2.2 website after the hosted L-165 review. That approval covers the three-presence Stage, integrated Threshold-K-as-K wordmark, `Coming Soon`, doorway-axis alignment and unified wide/portrait composition. Production promotion is therefore authorized once the exact approved system passes the guarded publication sequence.
+
+The pre-merge recursive audit found one real publication defect before promotion: PR #68 still contained the earlier V2.2 `site/public/social-card.jpg`, showing the two-presence Stage and a redundant standalone Threshold K above a separate KYMÆAN wordmark. Merging that asset would publish identity/background evidence already superseded by the Director-approved page.
+
+The social card is therefore repaired deterministically without changing approved page pixels. The replacement is rendered from the exact current `stage-v2-2.webp` plus the exact current integrated website SVG geometry and `Coming Soon` hierarchy at the existing 1200x630 Open Graph size. JPEG SHA-256 is `9050332a0cd7a22f85b7d2abd21509589c3b0f4c58099450929cfc5ccf6ea301`, 96,077 bytes. `og:image` / `twitter:image` cache bust advances from `v=2` to `v=3`; titles, descriptions and alt text are unchanged.
+
+This is a secondary-public-surface consistency repair, not a reopening of the Stage, identity, responsive system, app/UI authority, palette, product disclosure or final-brand selection. Production remains V2.1 until the repaired exact head passes repository checks and Cloudflare byte/visual verification.
+
+**Next boundary:** commit/push the exact repair + continuity, require exact-head repository workflows and hosted verification, then merge PR #68 with an exact-head guard; after merge, verify `www.kymaean.com` source bytes, no-analytics headers, responsive/accessibility invariants and close the serial branch lifecycle.
+
+**APPROVED — DIRECTOR V2.2 PRODUCTION DECISION + CLEAN PRE-MERGE DEFECT ISOLATION.**
+
+## L-167 - V2.2 repaired social card passes exact hosted production preflight
+
+**State:** EXACT HOSTED PRODUCTION PREFLIGHT PASS / DIRECTOR-APPROVED V2.2 CANDIDATE / EXACT-HEAD MERGE NEXT / PRODUCTION V2.1 UNCHANGED
+
+Repair payload `e588dc01bf2ce37bc8d65ed53b4ad06fbbf4290f` passes exact-head `Repository publication boundaries` run #808 and `Document status structure` run #590. The PR #68 branch preview serves all nine public assets byte-for-byte equal to the exact Git blobs at that payload.
+
+The preview remains HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, `X-Robots-Tag: noindex`, and no Cloudflare analytics injection. Hosted HTML references `social-card.jpg?v=3` and no longer references `v=2`. The corrected 1200x630 card is exactly 96,077 bytes / SHA-256 `9050332a0cd7a22f85b7d2abd21509589c3b0f4c58099450929cfc5ccf6ea301`, matching Git byte-for-byte and visually carrying the current three-presence Stage, integrated Threshold-K-as-K lockup and `Coming Soon` hierarchy.
+
+Compared with the already Director-approved responsive page payload `85f40392225349442ac992aac4b4cfe9cc00eb8a`, the only `site/public` changes are `index.html` social-image cache metadata and `social-card.jpg`; styles, atmosphere, modes, motion, favicon/touch icon and frozen Stage bytes remain exact. The previously completed responsive/accessibility browser audit therefore remains applicable to unchanged page rendering while the stale secondary public asset defect is closed.
+
+Production remains V2.1 until merge and live verification. No Stage, app/UI, shared-brand authority, palette, product disclosure or final-brand decision is changed by this repair.
+
+**Next boundary:** push this continuity-only head, require exact-head repository workflows, mark PR #68 ready and merge with the exact head guard; then verify `www.kymaean.com` source bytes, headers/no-analytics behavior and responsive/accessibility invariants before production closure and serial-branch archive/delete.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED PRODUCTION PREFLIGHT.**

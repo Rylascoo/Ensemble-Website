@@ -1,0 +1,92 @@
+@media (max-width: 900px) and (orientation: portrait) {
+  .brand-lockup {
+    top: max(29.5svh, calc(env(safe-area-inset-top) + 1rem));
+    left: 54.9%;
+    width: min(90vw, 24rem);
+  }
+
+  .wordmark {
+    width: min(58vw, 22rem);
+    min-width: 0;
+  }
+
+  .status {
+    margin-top: clamp(1.05rem, 2.1svh, 1.35rem);
+    font-size: clamp(0.62rem, 2.1vw, 0.72rem);
+    letter-spacing: 0.38em;
+  }
+
+  .scene-art {
+    inset: auto auto 0 50%;
+    width: 160vw;
+    max-width: none;
+    height: auto;
+    transform: translateX(-50%);
+    object-fit: contain;
+    object-position: center;
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 100%);
+    mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 100%);
+  }
+
+  .scene::after {
+    background: linear-gradient(to bottom, rgba(9,11,12,0.12), transparent 45%);
+  }
+}
+
+@media (max-height: 560px) and (orientation: landscape) {
+  .brand-lockup {
+    top: max(1rem, env(safe-area-inset-top));
+  }
+
+  .wordmark {
+    width: min(30vw, 18rem);
+    min-width: 0;
+  }
+
+  .status {
+    margin-top: 0.7rem;
+  }
+}
+
+@media (prefers-contrast: more) {
+  .scene-art {
+    opacity: 0.72;
+  }
+
+  .wordmark,
+  .status {
+    filter: none;
+  }
+}
+
+@media (forced-colors: active) {
+  body,
+  html {
+    background: Canvas;
+    color: CanvasText;
+  }
+
+  .scene {
+    display: none;
+  }
+
+  .wordmark,
+  .status {
+    color: CanvasText;
+  }
+
+  .wordmark,
+  .status {
+    animation: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}

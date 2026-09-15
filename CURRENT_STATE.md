@@ -2,19 +2,23 @@
 
 # Ensemble Website - Current State
 
-Updated: 2026-09-14
+Updated: 2026-09-15
 
 ## Authority
-Design: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
+Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
-## Repository
-`main@0ebd9ce278847269208ddf43fc482e0b1ca7165d` is promoted website authority after PR #66. V2.1 source `fc397989bee4c67df5feeae6162548bab327cbaf` is archived at `archive/site/placeholder-v2-1-atmospheric-finish-2026-09-14`; integrity-repair source `5d042108f95ad794b518cf282f0c0c6c8474bfe7` is archived at `archive/site/placeholder-v2-1-production-integrity-2026-09-14`. Both remote source branches are retired after strict-ancestor/zero-unique proof. Preserve concurrent `design/sym02-threshold-k-shape-refinement-2026-09-11` at `9308fb581c07d0b732cc488418a89c1c1ae4e750`. No active serial website publication gate exists; any surviving production-closeout ref is administrative lifecycle debt only.
+## Repository / production
+Production remains `main@4bb91292171e0d503d3a4e058ee421436221a793`; `www.kymaean.com` remains source-exact analytics-free V2.1. Website Sol's active publication lane is draft PR #68, `site/placeholder-v2-2-precision-2026-09-14`; concurrent `design/*` work remains Design Sol-owned and untouched.
 
-## Frozen app boundary
-`PKT-STAGE-CORE-02` remains the frozen app visual baseline. `APP-SYN-01` remains **DESIGN SOL VIEW FROZEN / DIRECTOR CLR CONTEXT DEFERRED UNTIL REPRESENTATIVE REAL ASSEMBLY**; F2 is a non-authoritative preference, F1 remains valid, and no CLR winner/final palette or Stage-to-app-shell gate exists. V2.1 does not alter this boundary.
+## Frozen cross-lane boundary
+`PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. Website V2.2 interprets high-level Stage/presence intuition only; it creates no app UI, cast-size, state, palette, color-semantic, interaction, or final-brand authority.
 
-## Website Placeholder V2.1
-`https://www.kymaean.com/` now serves the approved secrecy-first V2.1 placeholder. Public language remains exactly `KYMÆAN`, `Something is taking shape.`, and `In development`; Threshold K and O3/KYMÆAN geometry remain inherited evidence. The field uses the approved softer pressure/trace atmosphere, one-way settling, fine-pointer response with fixed identity, reduced-motion/forced-colors fallbacks, tighter favicon framing, safe-area treatment, Apple touch icon, social card, canonical URL and social metadata. No product concept or final palette/type/identity authority is created.
+## V2.2 Director production approval
+The Director explicitly approved the unified responsive V2.2 composition after exact hosted verification. The approved page payload remains `85f40392225349442ac992aac4b4cfe9cc00eb8a`: frozen three-presence Stage, exact Threshold K integrated as `K` in `KYMÆAN`, O3-derived `YMÆAN`, `Coming Soon`, doorway-axis alignment, and unified wide/portrait behavior.
 
-## Production verification / next boundary
-PR #65 promoted the visual candidate; PR #66 added source-controlled `Cache-Control: public, max-age=0, must-revalidate, no-transform` after live verification found Cloudflare Web Analytics injection. Live production now returns `no-transform`, contains no beacon, and all six public assets match audited source. 1440×900, 390×844, 320×640/200%, reduced motion, actual forced colors, fine-pointer identity invariance and terminal long-dwell checks pass. Design Ledger L-157 records closure. **Exact next action:** keep V2.1 stable while the app remains unfinished. Any later public expansion or final-brand claim requires a new authorized website/brand gate.
+## V2.2 production candidate hosted preflight
+The Director-approved page remains exact to responsive payload `85f40392225349442ac992aac4b4cfe9cc00eb8a`; the only public changes since that payload are social metadata cache-bust and the corrected social card. Repair payload `e588dc01bf2ce37bc8d65ed53b4ad06fbbf4290f` passes exact-head workflows `Repository publication boundaries` #808 and `Document status structure` #590.
+
+The PR #68 branch preview serves all nine public assets byte-for-byte equal to the exact Git blobs at the repair payload. It returns `Cache-Control: public, max-age=0, must-revalidate, no-transform`, `X-Robots-Tag: noindex`, contains no analytics beacon, and references `social-card.jpg?v=3`. The 1200x630 card is 96,077 bytes / SHA-256 `9050332a0cd7a22f85b7d2abd21509589c3b0f4c58099450929cfc5ccf6ea301` and visually carries the current three-presence Stage + integrated lockup. Production remains V2.1 pending merge.
+
+**Exact next action:** commit/push this hosted-pass continuity only, require exact-head repository workflows, mark PR #68 ready, and merge with an exact-head guard. Then verify production source bytes, no-analytics headers, responsive/accessibility invariants and close the serial branch under archive-tag/strict-ancestor/zero-unique law.

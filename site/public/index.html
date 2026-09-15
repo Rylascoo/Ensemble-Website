@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="description" content="Kymaean. Something is taking shape.">
+  <meta name="description" content="Kymaean. Coming Soon.">
   <meta name="theme-color" content="#090b0c">
   <meta name="color-scheme" content="dark">
   <meta name="format-detection" content="telephone=no">
@@ -11,52 +11,53 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Kymaean">
   <meta property="og:title" content="Kymaean">
-  <meta property="og:description" content="Something is taking shape.">
+  <meta property="og:description" content="Coming Soon.">
   <meta property="og:url" content="https://www.kymaean.com/">
-  <meta property="og:image" content="https://www.kymaean.com/social-card.jpg?v=1">
+  <meta property="og:image" content="https://www.kymaean.com/social-card.jpg?v=3">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Kymaean — Something is taking shape.">
+  <meta property="og:image:alt" content="Kymaean — Coming Soon.">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Kymaean">
-  <meta name="twitter:description" content="Something is taking shape.">
-  <meta name="twitter:image" content="https://www.kymaean.com/social-card.jpg?v=1">
-  <meta name="twitter:image:alt" content="Kymaean — Something is taking shape.">
+  <meta name="twitter:description" content="Coming Soon.">
+  <meta name="twitter:image" content="https://www.kymaean.com/social-card.jpg?v=3">
+  <meta name="twitter:image:alt" content="Kymaean — Coming Soon.">
 
-  <title>Kymaean — Something is taking shape.</title>
+  <title>Kymaean — Coming Soon.</title>
   <link rel="canonical" href="https://www.kymaean.com/">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg?v=2">
   <link rel="shortcut icon" href="/favicon.svg?v=2">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=1">
+  <link rel="preload" href="/stage-v2-2.webp?v=2" as="image" type="image/webp" fetchpriority="high">
   <link rel="stylesheet" href="/styles.css">
-  <script src="/motion.js" defer></script>
+  <link rel="stylesheet" href="/atmosphere.css">
+  <link rel="stylesheet" href="/modes.css">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
 
-  <div class="field" aria-hidden="true">
-    <span class="plane plane-a"></span>
-    <span class="plane plane-b"></span>
-    <span class="plane plane-c"></span>
-    <span class="plane plane-d"></span>
-    <span class="signal"></span>
+  <div class="scene" aria-hidden="true">
+    <img
+      class="scene-art"
+      src="/stage-v2-2.webp?v=2"
+      width="1672"
+      height="941"
+      alt=""
+      decoding="async"
+      fetchpriority="high">
   </div>
 
   <main id="main" class="stage">
-    <section class="brand-lockup" aria-labelledby="brand-name brand-line">
+    <section class="brand-lockup" aria-labelledby="brand-name launch-status">
       <h1 id="brand-name" class="sr-only">Kymaean</h1>
 
-      <svg class="threshold-k" viewBox="0 0 220 220" aria-hidden="true" focusable="false">
-        <path d="M18 46L66 18L66 54C66 74 58 86 43 95L18 107Z"/>
-        <path d="M18 117L43 132C58 141 66 153 66 173L66 202L18 174Z"/>
-        <path d="M151 24L93 59C76 69 69 84 69 104L69 118C69 139 79 153 98 164L151 199L151 183C151 172 144 162 133 155L106 139C90 130 83 121 83 110C83 99 88 92 98 84L140 57C147 52 151 43 151 32Z"/>
-      </svg>
-
       <svg class="wordmark" viewBox="0 0 690 122" aria-hidden="true" focusable="false">
-        <path d="M30 18 L30 104" class="v"/>
-        <path d="M33 62 L96 18" class="d"/>
-        <path d="M33 62 L98 104" class="d"/>
+        <g class="wordmark-mark" transform="translate(24 9) scale(.47)">
+          <path d="M18 46L66 18L66 54C66 74 58 86 43 95L18 107Z"/>
+          <path d="M18 117L43 132C58 141 66 153 66 173L66 202L18 174Z"/>
+          <path d="M151 24L93 59C76 69 69 84 69 104L69 118C69 139 79 153 98 164L151 199L151 183C151 172 144 162 133 155L106 139C90 130 83 121 83 110C83 99 88 92 98 84L140 57C147 52 151 43 151 32Z"/>
+        </g>
         <path d="M118 18 L156 62 L194 18" class="d"/>
         <path d="M156 62 L156 104" class="v"/>
         <path d="M220 104 L220 18" class="v"/>
@@ -75,9 +76,7 @@
         <path d="M648 104 L648 18" class="v"/>
       </svg>
 
-      <p id="brand-line" class="tagline">Something is taking shape.</p>
-      <span class="rule" aria-hidden="true"></span>
-      <p class="status">In development</p>
+      <p id="launch-status" class="status">Coming Soon</p>
     </section>
   </main>
 </body>
