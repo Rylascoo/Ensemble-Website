@@ -2971,3 +2971,19 @@ Recursive audit found and repaired two defects before closure: ten internal cone
 **Next boundary:** detail current performance plus immediate causal context as a static Stage-adjacent composition without hardening transcript ontology, cadence or motion.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-192 - Current Performance + Immediate Causal Context closes static Stage-adjacent hierarchy
+
+**State:** PHASE-2 CURRENT-PERFORMANCE/CAUSAL-CONTEXT PASS / CURRENT DOMINANT / HISTORY EXPLICITLY HISTORICAL / TRANSCRIPT-MOTION STILL BLOCKED / SELECTED-CHARACTER + STAGE-STATE NEXT
+
+`docs/evidence/APPUI_01_PHASE_2_CURRENT_PERFORMANCE_IMMEDIATE_CAUSAL_CONTEXT_COMPOSITION_01.json` closes `APPUI-01-P2-PERF-CTX-01`. The deterministic carrier `prototypes/appui-01/phase2-current-performance-immediate-causal-context-composition-01.html` establishes one dominant current performed moment with only a small amount of immediately relevant prior material adjacent for causal comprehension.
+
+Historical material remains explicitly historical at every depth. The flow current performance -> adjacent cause -> deeper causal history -> exact return changes disclosure depth without replaying, reverting or rewriting Production truth. Current unresolved questions may point toward historical cause while remaining current.
+
+Transcript density/ontology, Beat/Turn terminology, transcript-dependent motion, timer/Pause, Take/consequence acceptance and Observed Cues/provenance remain unresolved. `Q-DESIGN-02` remains blocked; no cadence or motion authority is consumed.
+
+Recursive audit repaired one cross-study fixture contradiction before closure: Mira had been placed in `The White Current / Scene 12` despite the frozen Character-management study defining Mira as off-Scene relative to Scene 12. The Stage witness now uses Keir; Mira's persistent identity and off-Scene status remain unchanged. Final Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero overflow. Drive preserves PNG `1LzPvrkTpQ_vVgBsFcZTxTU-RdAaKoEQH` and HTML `1nb5VT6DfCg7hgDqCkdzYI0dn4UC9vdaA`.
+
+**Next boundary:** detail selected Character + Stage state inspection as a static Stage-specific handoff while preserving creator selection != current opportunity != speaking/listening and avoiding unresolved pips, redundant identity symbols, motion or Product-gated controls.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
