@@ -1,0 +1,56 @@
+{
+  "schema": "kymaean.appui-phase3-f2-light-dark-translation-method.v1",
+  "status": "METHOD_FROZEN_PRE_EXPOSURE",
+  "date": "2026-09-15",
+  "parent_selection": "docs/evidence/APPUI_01_PHASE_3_CLR01_DIRECTOR_F2_SELECTION_01.json",
+  "question": "Which bounded dark translation, if any, preserves selected CLR-01 F2 Monochrome + Intruder across co-equal Light/Dark while keeping Stage authority, semantic parity and sparse accent discipline intact?",
+  "fixed_light_reference": {
+    "field":"#F4F3F7","primary":"#221B2D","secondary":"#5C5565","accent":"#006F73","boundary":"#7D7486","soft_surface":"#EAE8EF"
+  },
+  "dark_candidates": {
+    "D1": {"name":"Deep Violet Neutral","field":"#17151C","primary":"#F2EFF5","secondary":"#B9B3C0","accent":"#2FA4A6","boundary":"#716B79","soft_surface":"#211E27"},
+    "D2": {"name":"Graphite Violet","field":"#191A1F","primary":"#F1F0F3","secondary":"#B6B4BC","accent":"#26989B","boundary":"#747681","soft_surface":"#23242A"},
+    "D3": {"name":"Ink Aubergine","field":"#19141D","primary":"#F4F0F5","secondary":"#BEB4C0","accent":"#249A9C","boundary":"#756A79","soft_surface":"#261F29"}
+  },
+  "candidate_intent": {
+    "D1":"Preserve the strongest violet-neutral continuity with the selected Light family.",
+    "D2":"Test a more neutral graphite translation while retaining violet structure and the same teal intruder role.",
+    "D3":"Test a slightly warmer aubergine-dark translation without borrowing F1's split-temperature logic."
+  },
+  "frozen_scaffold": [
+    "Exact accepted Production Home / Resume architecture",
+    "MAT-01 F1 Subtractive Channel geometry",
+    "TYP-02 F1 Ratio Ladder",
+    "STA-01 F2 Ring + Edge Witness",
+    "Invariant dark Stage/Scene preview",
+    "Identical content, state and hierarchy across Light/Dark candidates"
+  ],
+  "mechanical_floors": [
+    "Normal text contrast >= 4.5:1 on its role surface.",
+    "Required boundary/state reinforcement contrast >= 3:1 where it carries visible structure.",
+    "1600/1024/390/320 with zero document/internal horizontal overflow.",
+    "320 forced-colors preserves comprehension and focus/selection distinction.",
+    "320 at 200% text and text-spacing stress remains readable without semantic loss."
+  ],
+  "semantic_floors": [
+    "Light and Dark communicate identical Product meaning and control/state availability.",
+    "Stage remains dark and visually dominant in both themes.",
+    "Accent never becomes success/warning/capability/Character/opportunity semantics.",
+    "Focus remains structurally independent from selection.",
+    "Current/historical, provisional/effective and creator/Character distinctions remain non-color-dependent.",
+    "Teal intruder remains scarce; decorative spread is a failure."
+  ],
+  "visual_falsification": [
+    "Reject a candidate that reads as generic violet/teal creative software more strongly than as the selected F2 mechanism.",
+    "Reject a candidate whose shell competes emotionally with the Stage.",
+    "Reject a candidate that loses F2 family continuity with the frozen Light reference.",
+    "Reject a candidate that uses darkness to imply unavailable/disabled/historical state absent from the Light version."
+  ],
+  "execution_law": [
+    "Freeze candidate values before visual exposure.",
+    "No candidate retune after first complete render; mechanical repairs may only restore the frozen method without changing role colors.",
+    "Zero survivors is valid and returns to a successor-method decision rather than evidence-aware rescue.",
+    "A survivor remains a Phase-3 translation reference only until a later production-token gate."
+  ],
+  "next_gate": "Materialize the selected Light F2 reference plus D1/D2/D3 on the exact Home scaffold, run the full mechanical/accessibility matrix, freeze Design Sol's visual view, then request Director adjudication only among mechanically surviving dark translations."
+}

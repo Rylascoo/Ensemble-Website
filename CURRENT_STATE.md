@@ -10,20 +10,20 @@ Updated: 2026-09-15
 APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; concurrent Website publication remains separate. Last reconciled Website `main` is `4bb91292171e0d503d3a4e058ee421436221a793`. Do not merge/rebase/reset either stream for visual continuity.
 
 ## Phase 1
-**Application UI architecture/layout is FROZEN PASS and detailed-section coverage is CLOSED CLEAN.** Wireframe 01R remains the shell baseline; later phases do not reopen it without demonstrated functional defect.
+**Application UI architecture/layout is FROZEN PASS and detailed-section coverage is CLOSED CLEAN.** Wireframe 01R remains the shell baseline.
 
 ## Phase 2
-**Static Stage/live-production coverage is CLOSED PASS.** Eight bounded studies cover the presently authorized static-safe framework. Dynamic/transcript-dependent and Product-gated Stage work remains held/open under its existing law.
+**Static Stage/live-production coverage is CLOSED PASS.** Dynamic/transcript-dependent and Product-gated Stage work remains held/open under existing law.
 
 ## Product / Engineering boundary
 Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D active; E0-E behavioral evidence is unavailable and `Q-DESIGN-02` remains BLOCKED. No Phase-D Product semantics invalidate the static shell/Stage envelope.
 
 ## Phase 3
-**Bounded static visual-language integration is ACTIVE.** Production Home / Resume passes MAT-01 F1 + TYP-02 F1 + STA-01 F2 integration. CLR-01 contextual reentry proved frozen F1 and F2 both mechanically/semantically viable on the exact representative Home scaffold.
+**Bounded static visual-language integration is ACTIVE.** CLR-01 F2 — Monochrome + Intruder is Director-selected as the color-logic direction in `docs/evidence/APPUI_01_PHASE_3_CLR01_DIRECTOR_F2_SELECTION_01.json`. The frozen F2 APP values remain reference inputs, not production tokens.
 
-The Director has now selected **CLR-01 F2 — Monochrome + Intruder** as the Phase-3 color-logic direction, consistent with the previously frozen Design Sol preference. Evidence: `docs/evidence/APPUI_01_PHASE_3_CLR01_DIRECTOR_F2_SELECTION_01.json`.
+The successor F2 Light/Dark translation method is now frozen pre-exposure in `docs/evidence/APPUI_01_PHASE_3_F2_LIGHT_DARK_TRANSLATION_METHOD_01.json`. Light remains the exact selected F2 reference. Three dark translations D1/D2/D3 are frozen before rendering; no post-exposure color retune is permitted.
 
-F2 reference APP values remain the frozen experiment values (`#F4F3F7`, `#221B2D`, `#5C5565`, `#006F73`, `#7D7486`, `#EAE8EF`). They are successor-study inputs, not production tokens. Generated comparison artworks were atmospheric Director witnesses only; their invented UI/image details are not adopted architecture.
+The translation must preserve MAT F1 + TYP F1 + STA F2, identical semantics/hierarchy, invariant dark Stage authority, sparse teal-intruder discipline, focus != selection, non-color-dependent state meaning, forced-colors comprehension and accessibility.
 
 ## Next
-Open the bounded **F2 Light/Dark translation** successor on the accepted Home scaffold. Preserve identical semantics/hierarchy across themes, dark Stage authority, sparse intruder-accent use, focus != selection, non-color-dependent state meaning, forced-colors comprehension and accessibility. Do not claim final palette/production tokens until that successor passes recursive audit.
+Materialize the exact Light reference plus frozen D1/D2/D3 on the accepted Home scaffold, run 1600/1024/390/320 + forced-colors + 200% text + text-spacing stress, freeze Design Sol's view, then bring only mechanically surviving dark translations to the Director. No production palette/token claim yet.

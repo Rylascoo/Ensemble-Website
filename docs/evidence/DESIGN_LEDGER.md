@@ -3170,3 +3170,18 @@ Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D a
 **Next boundary:** bounded F2 Light/Dark translation on the accepted Home scaffold. Preserve Light/Dark semantic parity, the invariant dark Stage, sparse accent discipline, focus != selection, non-color-dependent state meaning, accessibility and forced-colors comprehension. Production palette/tokens remain unclaimed until that successor passes.
 
 **APPROVED — DIRECTOR F2 SELECTION + CLEAN DESIGN-SOL RECONCILIATION.**
+## L-204 - F2 Light/Dark translation method freezes three dark candidates before exposure
+
+**State:** PHASE-3 F2 LIGHT-DARK TRANSLATION METHOD FROZEN / D1-D3 PRE-EXPOSURE / NO PRODUCTION COLOR TOKEN AUTHORITY
+
+`docs/evidence/APPUI_01_PHASE_3_F2_LIGHT_DARK_TRANSLATION_METHOD_01.json` opens the bounded successor to Director-selected CLR-01 F2. The exact selected Light reference remains unchanged; only dark-theme translation is under test.
+
+Three materially different dark candidates are frozen before visual exposure: D1 Deep Violet Neutral, D2 Graphite Violet and D3 Ink Aubergine. Each preserves F2's role topology and sparse teal-intruder concept while varying the dark field/structural translation. Preliminary mechanical contrast checks passed the frozen text/non-text floors before rendering.
+
+The accepted Production Home scaffold, MAT-01 F1 Subtractive Channel, TYP-02 F1 Ratio Ladder, STA-01 F2 Ring + Edge Witness and invariant dark Stage are fixed comparison inputs. Candidate colors may not be retuned after first complete render; only mechanical repairs that restore the frozen method without changing role colors are eligible.
+
+A dark candidate fails if it becomes generic violet/teal creative software, competes emotionally with the Stage, loses F2 continuity with Light, fabricates semantic status through darkness/color, or violates accessibility/forced-colors/responsive stress.
+
+**Next boundary:** materialize Light + D1/D2/D3 on the exact Home scaffold, run the full seven-condition matrix, freeze Design Sol's visual view, then request Director adjudication only among surviving dark translations. Zero survivors remains valid.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
