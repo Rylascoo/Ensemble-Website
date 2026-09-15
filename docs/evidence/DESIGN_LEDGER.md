@@ -2897,3 +2897,19 @@ Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal ov
 **Next boundary:** detail the Character-bounded workspace inside the frozen shell: same Production and persistent Character identity, materially changed disclosure, creator-only information removed/inaccessible as required, permitted current context/observable cues primary, and exact return to the prior creator context.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-187 - Character-Bounded Workspace closes bounded-workspace functional detail
+
+**State:** CHARACTER-BOUNDED WORKSPACE FUNCTIONAL DETAIL PASS / SAME PRODUCTION + CHARACTER / DISCLOSURE MATERIALLY BOUNDED / EMPTY-UNAVAILABLE-TRANSITIONAL STATES NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_CHARACTER_BOUNDED_WORKSPACE_FUNCTIONAL_STUDY_01.json` closes the Character-bounded section inside frozen Phase 1. The carrier `prototypes/appui-01/character-bounded-workspace-functional-study-01.html` keeps the same Production and persistent Character while materially changing the represented information position.
+
+Creator-only material is absent/inaccessible rather than merely dimmed, teased, counted or summarized. Permitted current context and observable cues become primary. Selection and keyboard focus remain UI interaction witnesses rather than Character action or fictional salience. Provider/model/cost, diagnostics and recovery remain creator/application infrastructure and do not leak into Character perception by default.
+
+Character agency capacity is limited to the already-authorized action, speech and silence witnesses; final performance input grammar remains Product-defined. Close/Back restores the prior creator semantic origin and focus when still valid, does not transfer hidden knowledge, and is not Undo.
+
+The recursive audit repaired two semantic overreaches before closure: an unapproved `waiting` agency witness was removed, and `selection != Character attention` was broadened to the already-authorized `selection != fictional salience` distinction. Final Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources. Drive preserves PNG `1NfKPgXOfeBrfF6gEzC6dCG_DqEQ9MSoH` and HTML `10XAgIK3rTHyPqdS7Di2v2FsJUmFQGqMD`.
+
+**Next boundary:** detail empty, unavailable, loading and transitional workspace states without inventing Product-gated Scene/lifecycle/provider semantics or letting infrastructure failures become fiction.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
