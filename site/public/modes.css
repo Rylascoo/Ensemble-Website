@@ -4,14 +4,8 @@
     width: min(90vw, 24rem);
   }
 
-  .threshold-k {
-    width: clamp(3.4rem, 9.6vw, 4.2rem);
-    max-width: 28%;
-    margin-bottom: 0.95rem;
-  }
-
   .wordmark {
-    width: min(49.6vw, 20rem);
+    width: min(60vw, 22rem);
     min-width: 0;
   }
 
@@ -43,11 +37,6 @@
     top: max(1rem, env(safe-area-inset-top));
   }
 
-  .threshold-k {
-    width: clamp(3.2rem, 11vh, 4rem);
-    margin-bottom: 0.55rem;
-  }
-
   .wordmark {
     width: min(30vw, 18rem);
     min-width: 0;
@@ -63,7 +52,6 @@
     opacity: 0.72;
   }
 
-  .threshold-k,
   .wordmark,
   .status {
     filter: none;
@@ -81,17 +69,11 @@
     display: none;
   }
 
-  .threshold-k {
-    fill: CanvasText;
-    filter: none;
-  }
-
   .wordmark,
   .status {
     color: CanvasText;
   }
 
-  .threshold-k,
   .wordmark,
   .status {
     animation: none;

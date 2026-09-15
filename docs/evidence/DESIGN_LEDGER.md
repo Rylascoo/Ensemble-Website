@@ -2505,3 +2505,17 @@ This hosted pass freezes no production promotion and no identity/social-card suc
 **Next boundary:** Director visual review of the hosted three-presence Stage comparison. If accepted, resolve the separately known identity composition question before any production-promotion decision; do not silently treat the current standalone Threshold K + wordmark arrangement as newly approved by this background test.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-162 - V2.2 website identity comp integrates exact Threshold K into the name
+
+**State:** DIRECTOR-AUTHORIZED WEBSITE IDENTITY REFINEMENT / LOCAL RECURSIVE AUDIT PASS / HOSTED PREVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+After accepting the hosted three-presence Stage background direction, the Director agreed to resolve the separately identified identity-composition defect: the page should not show Threshold K once as a standalone mark and then show a second line-drawn K inside `KYMÆAN`.
+
+The website-only candidate removes the redundant standalone mark and places the unchanged exact Threshold K path geometry into the K position of the deterministic wordmark using a uniform transform only. Its fill is the same `currentColor` as the remaining letters. The existing O3-derived `YMÆAN` vector paths, resolved `Æ`, accessible text identity, and `Coming Soon` copy remain unchanged. Obsolete standalone-mark CSS is removed and the integrated lockup is resized/repositioned as one unit.
+
+This does not rewrite shared-brand authority: Threshold K geometry itself is unchanged, and the active historical O3 wordmark approval remains evidence for the underlying letter construction. The integration is a website composition treatment under the Director's current V2.2 direction, not a claim that the logo/wordmark master or final brand system has been reselected.
+
+Local Edge/CDP review passes 1440x900, 390x844, 320x640 and 160x320 with zero horizontal overflow. A 320x640 200% root-text proxy remains unclipped; reduced-motion exposes zero running animations; actual Edge forced-colors hides the scene and preserves the integrated mark/name plus `Coming Soon` in system colors. Desktop/mobile pixels retain all three Stage presences and the subordinate threshold. No background art, social card, favicon, app/UI asset, product disclosure, or production surface is changed by this identity comparison.
+
+**Next boundary:** commit/push the exact website identity candidate to draft PR #68, verify the hosted branch bytes and the same responsive/accessibility invariants, then present the hosted page for Director visual judgment. Keep `main` and `www.kymaean.com` on V2.1.

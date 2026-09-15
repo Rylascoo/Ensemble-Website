@@ -71,33 +71,27 @@ body {
 
 .brand-lockup {
   position: absolute;
-  top: max(8svh, calc(env(safe-area-inset-top) + 1.25rem));
+  top: max(12svh, calc(env(safe-area-inset-top) + 1.25rem));
   left: 50%;
   display: flex;
-  width: min(92vw, 24rem);
+  width: min(92vw, 28rem);
   transform: translateX(-50%);
   flex-direction: column;
   align-items: center;
   text-align: center;
 }
 
-.threshold-k {
-  width: clamp(4.4rem, 4.95vw, 4.8rem);
-  max-width: 32%;
-  height: auto;
-  margin-bottom: 1rem;
-  fill: #d8cdb9;
-  filter: drop-shadow(0 0 1.1rem rgba(154, 108, 68, 0.035));
-  animation: reveal-mark 1100ms cubic-bezier(.2,.65,.2,1) 120ms both;
-}
-
 .wordmark {
   display: block;
-  width: min(22.8vw, 21.9rem);
-  min-width: 18rem;
+  width: min(26.5vw, 25.5rem);
+  min-width: 19rem;
   height: auto;
   color: var(--ink);
-  animation: reveal-wordmark 950ms cubic-bezier(.2,.65,.2,1) 520ms both;
+  animation: reveal-wordmark 950ms cubic-bezier(.2,.65,.2,1) 180ms both;
+}
+
+.wordmark .wordmark-mark {
+  fill: currentColor;
 }
 
 .wordmark .v,
@@ -129,11 +123,6 @@ body {
 :focus-visible {
   outline: 2px solid currentColor;
   outline-offset: 4px;
-}
-
-@keyframes reveal-mark {
-  from { opacity: 0; }
-  to { opacity: 1; }
 }
 
 @keyframes reveal-wordmark {
