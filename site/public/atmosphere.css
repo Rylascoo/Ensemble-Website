@@ -1,0 +1,153 @@
+.field {
+  position: fixed;
+  inset: -6vmax;
+  overflow: hidden;
+  pointer-events: none;
+  transform: translate3d(var(--field-x), var(--field-y), 0);
+  transition: transform 900ms cubic-bezier(.2,.65,.2,1);
+  background:
+    radial-gradient(ellipse at var(--light-x) var(--light-y), rgba(218, 208, 190, 0.043) 0%, rgba(218, 208, 190, 0.011) 17%, transparent 38%),
+    linear-gradient(166deg, transparent 0 42%, rgba(226,218,202,0.007) 48%, transparent 54%),
+    linear-gradient(18deg, transparent 0 61%, rgba(154,108,68,0.009) 65%, transparent 69%),
+    radial-gradient(ellipse at 18% 24%, rgba(255,255,255,0.014) 0%, transparent 37%),
+    radial-gradient(ellipse at 78% 79%, rgba(154,108,68,0.014) 0%, transparent 30%),
+    linear-gradient(148deg, #0c0e0f 0%, #090b0c 48%, #07090a 100%);
+  animation: field-awaken 1800ms ease-out both;
+}
+
+.field::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  opacity: 0.14;
+  background-image:
+    repeating-linear-gradient(171deg, transparent 0 23px, rgba(255,255,255,0.006) 24px, transparent 25px 49px),
+    repeating-radial-gradient(circle at 17% 29%, rgba(255,255,255,0.020) 0 0.45px, transparent 0.55px 3.4px),
+    repeating-radial-gradient(circle at 73% 61%, rgba(255,255,255,0.012) 0 0.45px, transparent 0.55px 4.8px);
+  background-size: auto, 17px 19px, 29px 31px;
+  mix-blend-mode: soft-light;
+  animation: grain-drift 72s linear infinite alternate;
+}
+
+.field::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 50% 48%, transparent 16%, rgba(0,0,0,0.18) 57%, rgba(0,0,0,0.68) 100%),
+    linear-gradient(90deg, rgba(0,0,0,0.26), transparent 18% 82%, rgba(0,0,0,0.28));
+}
+
+.plane,
+.signal {
+  position: absolute;
+  display: block;
+}
+
+.plane {
+  border: 0;
+  opacity: 0.46;
+  background:
+    radial-gradient(ellipse at 46% 35%, rgba(255,255,255,0.020), transparent 46%),
+    linear-gradient(160deg, rgba(25,28,28,0.64), rgba(10,12,13,0.90));
+  box-shadow:
+    inset 0 1px rgba(255,255,255,0.010),
+    0 0 10rem rgba(0,0,0,0.20);
+  filter: blur(0.48px);
+  animation: material-settle 48s cubic-bezier(.2,.65,.2,1) 1.5s both;
+}
+
+.plane::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(122deg, rgba(255,255,255,0.014), transparent 31% 69%, rgba(0,0,0,0.08));
+  opacity: 0.7;
+}
+
+.plane-a {
+  width: 56vw;
+  height: 138vh;
+  left: -32vw;
+  top: -18vh;
+  border-radius: 41% 59% 37% 63% / 16% 31% 69% 84%;
+  transform: rotate(6deg);
+}
+
+.plane-b {
+  width: 44vw;
+  height: 132vh;
+  right: -30vw;
+  top: -14vh;
+  border-radius: 66% 34% 43% 57% / 24% 17% 83% 76%;
+  transform: rotate(-5deg);
+  opacity: 0.38;
+  animation-duration: 57s;
+}
+
+.plane-c {
+  width: 104vw;
+  height: 51vh;
+  right: -35vw;
+  bottom: -31vh;
+  border-radius: 61% 39% 16% 84% / 58% 25% 75% 42%;
+  transform: rotate(-7deg);
+  opacity: 0.32;
+  background:
+    radial-gradient(ellipse at 40% 10%, rgba(255,255,255,0.015), transparent 48%),
+    linear-gradient(176deg, rgba(18,20,20,0.80), rgba(8,10,11,0.96));
+  animation-duration: 63s;
+}
+
+.plane-d {
+  width: 38vw;
+  height: 82vh;
+  left: 5vw;
+  bottom: -54vh;
+  border-radius: 39% 61% 53% 47% / 21% 42% 58% 79%;
+  transform: rotate(9deg);
+  opacity: 0.24;
+  animation-duration: 54s;
+}
+
+.signal {
+  width: 31vw;
+  height: 88vh;
+  top: 6vh;
+  right: 8vw;
+  opacity: 0.10;
+  background:
+    linear-gradient(101deg, transparent 0 47.8%, rgba(154,108,68,0.045) 49.1%, rgba(154,108,68,0.18) 49.9%, rgba(154,108,68,0.045) 50.8%, transparent 52.2%),
+    radial-gradient(ellipse at 50% 52%, rgba(154,108,68,0.025), transparent 64%);
+  filter: blur(0.35px);
+  transform: rotate(2.5deg);
+  transform-origin: center;
+  animation: trace-settle 52s cubic-bezier(.2,.65,.2,1) 2.4s both;
+}
+
+@keyframes field-awaken {
+  from { opacity: 0.74; }
+  to { opacity: 1; }
+}
+
+@keyframes material-settle {
+  from { translate: 0 0; }
+  to { translate: 0.18vw -0.12vh; }
+}
+
+@keyframes grain-drift {
+  from { transform: translate3d(-0.2%, -0.12%, 0); }
+  to { transform: translate3d(0.2%, 0.12%, 0); }
+}
+
+@keyframes trace-settle {
+  from {
+    opacity: 0.035;
+    translate: 0.12vw 0.08vh;
+  }
+  to {
+    opacity: 0.10;
+    translate: 0 0;
+  }
+}
