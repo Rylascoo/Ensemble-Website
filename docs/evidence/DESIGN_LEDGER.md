@@ -2987,3 +2987,19 @@ Recursive audit repaired one cross-study fixture contradiction before closure: M
 **Next boundary:** detail selected Character + Stage state inspection as a static Stage-specific handoff while preserving creator selection != current opportunity != speaking/listening and avoiding unresolved pips, redundant identity symbols, motion or Product-gated controls.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-193 - Selected Character + Stage State Inspection closes static state/inspection hierarchy
+
+**State:** PHASE-2 SELECTED-CHARACTER/STAGE-STATE PASS / FOCUS != SELECTION != OPPORTUNITY != SPEAKING-LISTENING / INSPECTION CONTEXTUAL / 2–5 DENSITY STRESS NEXT
+
+`docs/evidence/APPUI_01_PHASE_2_SELECTED_CHARACTER_STAGE_STATE_INSPECTION_COMPOSITION_01.json` closes `APPUI-01-P2-SELSTATE-01`. The carrier `prototypes/appui-01/phase2-selected-character-stage-state-inspection-composition-01.html` keeps the frozen cone/name/floor carrier while resolving how keyboard focus, creator selection, speaking/listening, current opportunity and contextual/deep inspection coexist without one state impersonating another.
+
+Creator selection establishes an inspection target only. Current opportunity remains separate Stage/Director-facing meaning; speaking/listening remain Stage state; inspection changes disclosure/focus rather than Character identity, fictional agency or Production truth. Human-readable names remain the explicit identity anchor; no new pips, redundant identity symbol or portrait dependency is invented.
+
+Recursive audit repaired three defects before closure: Character label children causing internal overflow; UTF-8 mojibake introduced during the geometry repair write path; and cross-fixture contamination that mixed `The White Current / The Tides Remember` with the Missing Raft Character set. The final witness uses the frozen Stage anchor’s `Gilligan’s Isle / The Missing Raft` context and reruns clean at 1600/1024/390/320 plus 320 forced-colors. Drive preserves PNG `13yLbVvVYFiVA_Vl3ThL6UFIGY6Lf1CK3` and HTML `1IQ7OJDtSJM4A4fDHLu4WAB8HtWGKPyhD`.
+
+Transcript-dependent motion remains blocked; opportunity algorithm, pips/redundant cue vocabulary, intervention/Take mechanics and provider/Performer semantics remain open.
+
+**Next boundary:** static 2–5 present-Character Stage composition/density stress using the frozen carrier as a design witness only; do not infer active-Scene cardinality law or reopen ODR-30.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
