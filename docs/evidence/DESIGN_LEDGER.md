@@ -2534,3 +2534,19 @@ Exact-head GitHub Actions pass on the payload commit: `Repository publication bo
 **Next boundary:** Director visual review of the hosted integrated-lockup composition. Keep `main` and `www.kymaean.com` on V2.1 and keep the existing social card unchanged until that review resolves.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-164 - V2.2 responsive composition unifies doorway-axis identity across wide and portrait views
+
+**State:** DIRECTOR-ALIGNED RESPONSIVE PRECISION PASS / LOCAL RECURSIVE AUDIT PASS / HOSTED PREVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+After reviewing the integrated Threshold-K lockup, the Director asked to center the identity above the doorway and develop one unified visual system for wide website screens and phone-shaped views. The resulting website-only precision successor preserves the exact frozen Stage artwork, exact Threshold K paths, O3-derived `YMÆAN`, and `Coming Soon`; only responsive composition and optical scale are refined.
+
+The full `KYMÆAN` lockup now follows the frozen threshold axis rather than raw viewport center. Wide layouts use `left: 53.4%`; portrait layouts use `left: 54.9%`, compensating for the centered crop of the same frozen image. Desktop wordmark scale increases to `min(32vw, 30.5rem)` with modestly stronger O3-derived strokes. Portrait views use a quieter `58vw` wordmark, a close `Coming Soon` interval, and the prior `160vw` Stage crop so all three amber / neutral / blue presence territories remain legible rather than allowing narrow-device zoom to remove the cool presence.
+
+The portrait rule is extended through 900px width so 768x1024 tablet views inherit the same composition grammar instead of falling into a desktop-cover crop that suppresses the outer presences. Landscape behavior remains under the existing bounded landscape override.
+
+Local Edge/CDP verification passes 1440x900, 1024x768, 768x1024, 430x932, 390x844, 360x800, and 320x640 with zero horizontal overflow. Visual inspection confirms the lockup tracks the doorway axis and all three presence territories survive in phone and tablet portraits. At 320x640, 200% root text remains unclipped, reduced motion exposes zero running animations, and actual forced-colors hides the scene while preserving system-colored `KYMÆAN` plus `Coming Soon`.
+
+No background pixels, social card, favicon, product disclosure, app/UI asset, or production surface change in this pass. This remains a Website Sol responsive lockup treatment and creates no shared-brand or app Stage authority.
+
+**Next boundary:** commit/push the exact responsive precision successor to draft PR #68, verify Cloudflare-hosted bytes and responsive/accessibility invariants, then present the exact hosted pixels for Director judgment. Keep `main` and `www.kymaean.com` on V2.1 until that review resolves.

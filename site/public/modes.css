@@ -1,16 +1,17 @@
-@media (max-width: 720px) {
+@media (max-width: 900px) and (orientation: portrait) {
   .brand-lockup {
-    top: max(9.5svh, calc(env(safe-area-inset-top) + 1rem));
+    top: max(29.5svh, calc(env(safe-area-inset-top) + 1rem));
+    left: 54.9%;
     width: min(90vw, 24rem);
   }
 
   .wordmark {
-    width: min(60vw, 22rem);
+    width: min(58vw, 22rem);
     min-width: 0;
   }
 
   .status {
-    margin-top: clamp(4.5rem, 9.2svh, 6rem);
+    margin-top: clamp(1.05rem, 2.1svh, 1.35rem);
     font-size: clamp(0.62rem, 2.1vw, 0.72rem);
     letter-spacing: 0.38em;
   }
