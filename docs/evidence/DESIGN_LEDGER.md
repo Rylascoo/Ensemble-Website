@@ -3114,3 +3114,21 @@ The three-phase program therefore permits bounded Phase-3 **static** visual-lang
 **Next boundary:** begin one bounded Phase-3 static visual-language integration study and recursively audit it before any convergence/final-style claim.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN STATIC CLOSEOUT AUDIT.**
+
+## L-201 - Phase-3 Production Home visual-language integration closes first representative app assembly PASS
+
+**State:** PHASE-3 HOME STATIC INTEGRATION PASS / MAT F1 + TYP F1 + STA F2 COMPOSE CLEANLY / CLR-01 CONTEXTUAL REENTRY NEXT
+
+`docs/evidence/APPUI_01_PHASE_3_PRODUCTION_HOME_VISUAL_LANGUAGE_INTEGRATION_01.json` closes the first bounded Phase-3 static integration on the frozen Production Home / Resume architecture.
+
+The study composes MAT-01 F1 Subtractive Channel, TYP-02 F1 Ratio Ladder and STA-01 F2 Ring + Edge Witness in neutral Light/Dark. MAT F1 remains one continuous field rather than a card stack or decorative symbol; TYP F1 strengthens hierarchy while system-ui remains the carrier; STA F2 keeps durable selection independent from keyboard focus. CLR-01 remains unselected and unretuned.
+
+The first accessibility matrix exposed 12 internal overflow witnesses at 320px / 200% text. The carrier was repaired without changing hierarchy or survivor mechanisms: narrow navigation controls may grow with enlarged text, Other Productions heading content may wrap, and material-field internals retain minimum-width protection. Final 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 all pass with zero overflow.
+
+Wide and narrow visual review are clean. Drive preserves PNG `1Az20g5UGS2gs-oOAYBIAbWbvHr1cGho9` and exact HTML `1J23xjCddfQOgYiGY4NTat-rCWs8BmSJv` in Phase-3 archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE`.
+
+No final material system, typeface, palette, component skin, motion system, native implementation, Stage successor or Phase-3 convergence claim is created.
+
+**Next boundary:** reopen preserved CLR-01 F2 versus F1 against this representative Home/Resume app assembly without retuning either family.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

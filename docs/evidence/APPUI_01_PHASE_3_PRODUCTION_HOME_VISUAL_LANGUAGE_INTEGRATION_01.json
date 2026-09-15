@@ -1,0 +1,79 @@
+{
+  "schema": "kymaean.appui-phase3-production-home-visual-language-integration.v1",
+  "status": "PHASE_3_STATIC_INTEGRATION_PASS",
+  "date": "2026-09-15",
+  "program": "APPUI-01 Phase 3 - Kymaean Visual-Language Integration",
+  "repository": "Rylascoo/Ensemble-Website",
+  "authority": {
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "pre_study_ref": "cd56acbbb6e83bf736e3912dfd79294ee612937b",
+    "phase2_closeout": "docs/evidence/APPUI_01_PHASE_2_STATIC_COVERAGE_CLOSEOUT_AUDIT_2026_09_15.json",
+    "home_architecture": "docs/evidence/APPUI_01_PRODUCTION_HOME_RESUME_FUNCTIONAL_STUDY_01.json",
+    "material_survivor": "MAT-01 F1 - Subtractive Channel",
+    "typography_survivor": "TYP-02 F1 - Ratio Ladder",
+    "state_survivor": "STA-01 F2 - Ring + Edge Witness",
+    "clr_boundary": "docs/evidence/CLR_01_DIRECTOR_DEFERRAL_TO_APP_ASSET_CONVERGENCE_01.json",
+    "engineering_ref": "cfa0ec95aa3ea588269135b3160ce008f523fd27"
+  },
+  "question": "Can the frozen Production Home / Resume architecture carry MAT F1 + TYP F1 + STA F2 as one restrained, color-independent Kymaean app language without reopening information architecture, selecting CLR-01, changing Stage semantics, or introducing motion/runtime authority?",
+  "artifact": {
+    "repository_path": "prototypes/appui-01/phase3-production-home-visual-language-integration-01.html",
+    "html_sha256": "ce0c37b18c8598974bd92423193e7b0076495c09154284301596d9eb55cabfc9",
+    "browser_probe_path": "tools/appui_phase3_home_visual_language_matrix_probe.mjs",
+    "browser_probe_sha256": "402f6e4a301bb2697acac36f4a35bdf5ac5994a7c8e976b5dcbc4049a42de951",
+    "drive_folder_id": "1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE",
+    "drive_png_id": "1Az20g5UGS2gs-oOAYBIAbWbvHr1cGho9",
+    "drive_html_id": "1J23xjCddfQOgYiGY4NTat-rCWs8BmSJv",
+    "drive_png_sha256": "518d2f42bba5122ec7f60f1c940180001d0c582505923b6e896e8855c5606c3b"
+  },  "design_result": {
+    "material": "MAT F1 becomes one continuous Home field with restrained edge-open top/right subtractive channels; it does not create a new card stack, icon, direction or Product state.",
+    "typography": "TYP F1 Ratio Ladder strengthens role hierarchy while system-ui remains the carrier and content remains primary.",
+    "state": "STA F2 marks durable Home selection with an edge witness while keyboard focus remains a separate outer ring on Resume.",
+    "light_dark_parity": "PASS - hierarchy, commands, semantic distinctions and material topology are unchanged between neutral Light and Dark presentations.",
+    "clr01": "NOT_SELECTED - all integration color remains neutral grayscale so preserved CLR F2/F1 evidence can be judged later in a representative app context.",
+    "stage": "UNCHANGED - Stage/Scene preview remains dark and no Stage successor or motion authority is created."
+  },
+  "mechanical_preflight": {
+    "environment": "Microsoft Edge Chromium via one deterministic CDP matrix session",
+    "cases": [
+      {"mode":"normal","width":1600,"horizontal_overflow":false,"overflow_elements":0},
+      {"mode":"normal","width":1024,"horizontal_overflow":false,"overflow_elements":0},
+      {"mode":"normal","width":390,"horizontal_overflow":false,"overflow_elements":0},
+      {"mode":"normal","width":320,"horizontal_overflow":false,"overflow_elements":0},
+      {"mode":"forced_colors","width":320,"forced_colors_active":true,"horizontal_overflow":false,"overflow_elements":0},
+      {"mode":"text_200_percent","width":320,"horizontal_overflow":false,"overflow_elements":0},
+      {"mode":"text_spacing_stress","width":320,"horizontal_overflow":false,"overflow_elements":0}
+    ],
+    "app_specimens": 2,
+    "material_fields": 2,
+    "selected_edge_witnesses": 2,
+    "focus_witnesses": 2,
+    "images": 0,
+    "external_resources": 0,
+    "result": "PASS"
+  },  "recursive_audit": {
+    "first_matrix_defect": "At 320px with 200% text, 12 internal overflow witnesses appeared even though the document itself did not horizontally scroll.",
+    "repair": "Allowed narrow navigation controls to grow with enlarged text, allowed Other Productions heading content to wrap, and added minimum-width protection to the continuous material field without changing hierarchy or the three survivor mechanisms.",
+    "post_repair_matrix": "CLEAN_ALL_SEVEN_CASES",
+    "wide_visual_review": "CLEAN",
+    "narrow_visual_review": "CLEAN",
+    "mat_f1_became_decorative_or_card_like": false,
+    "typ_f1_competed_with_content": false,
+    "focus_collapsed_into_selection": false,
+    "clr01_selected_or_retuned": false,
+    "information_architecture_reopened": false,
+    "motion_or_runtime_semantics_added": false,
+    "result": "CLEAN"
+  },
+  "non_authority": [
+    "No final material system, production component skin or retirement of Mineral Theater.",
+    "No final typeface, typography token or wordmark change.",
+    "No final palette, theme or semantic status-color system; CLR-01 remains deferred pending explicit reentry.",
+    "No exact native-control geometry, WinUI/XAML implementation or package/runtime authority.",
+    "No transcript-dependent motion, cadence, micro-interaction timing or Product-gated Stage control semantics.",
+    "No Phase-3 convergence/final-style declaration from one representative section."
+  ],
+  "conclusion": "PRODUCTION_HOME_PHASE_3_COLOR_INDEPENDENT_VISUAL_LANGUAGE_INTEGRATION_PASS",
+  "next": "Use this representative Home/Resume app assembly to reopen the preserved CLR-01 F2 versus F1 contextual decision without retuning either frozen family, then test any selected color logic against accessibility, Light/Dark parity and the proven visual-language mechanisms before broader propagation.",
+  "approval": "APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT"
+}
