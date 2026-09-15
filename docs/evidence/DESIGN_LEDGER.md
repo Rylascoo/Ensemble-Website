@@ -2881,3 +2881,19 @@ The first browser pass exposed narrow overflow from the no-wrap header stamp; th
 **Next boundary:** detail Production lifecycle utilities as deliberate application/Production-scope capacity without freezing portable format, provider/cost policy, diagnostics commands or other Product/Phase-D mechanics.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-186 - Production Lifecycle Utilities closes secondary-scope utility detail
+
+**State:** PRODUCTION-LIFECYCLE-UTILITIES FUNCTIONAL DETAIL PASS / CREATIVE WORK PRIMARY / INFRASTRUCTURE SECONDARY / CHARACTER-BOUNDED WORKSPACE NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_PRODUCTION_LIFECYCLE_UTILITIES_FUNCTIONAL_STUDY_01.json` closes the final explicit cross-workspace component family from the Phase-1 coverage audit. The carrier `prototypes/appui-01/production-lifecycle-utilities-functional-study-01.html` gives settings, portable Production handling, provider configuration, diagnostics and recovery utilities a deliberate application/Production-scope route without promoting them to permanent creative navigation.
+
+Opening/selecting/closing utility surfaces is navigation only. Provisional configuration remains distinct from an effective Product-authorized change; provider/capability failure remains infrastructure rather than Character refusal or fictional failure; portability navigation cannot silently import, export, overwrite, merge or replace a Production. Back/Close restores the retained creative origin/focus when still valid and is not Undo.
+
+Exact utility labels, portable format, provider/model/cost policy, authentication, assignment, confirmation, diagnostics, repair, fallback and destructive-action semantics remain Product-defined. Provider machinery remains distinct from Character identity and Performer assignment. Diagnostics remain outside Stage meaning and causal history.
+
+Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources. Wide and narrow visual/semantic review found no additional correction after the carrier reached final form. Drive preserves PNG `1VUpWvKOSMy1qAPGoH4ou4szm9SOl8a6Z` and HTML `147DEBZmaQIxhkYI5cYfjTwrMWEVdCTog`.
+
+**Next boundary:** detail the Character-bounded workspace inside the frozen shell: same Production and persistent Character identity, materially changed disclosure, creator-only information removed/inaccessible as required, permitted current context/observable cues primary, and exact return to the prior creator context.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
