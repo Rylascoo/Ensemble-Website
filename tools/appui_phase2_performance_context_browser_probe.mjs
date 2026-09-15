@@ -21,4 +21,3 @@ try{
  if(screenshotPath && screenshotPath !== '-'){const layout=await send('Page.getLayoutMetrics');const cs=layout.cssContentSize||layout.contentSize;const shot=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:true,clip:{x:0,y:0,width:Math.ceil(cs.width),height:Math.ceil(cs.height),scale:1}});fs.writeFileSync(screenshotPath,Buffer.from(shot.data,'base64'))}
  try{ws.send(JSON.stringify({id:++id,method:'Browser.close'}));await sleep(120)}catch{}ws.close();
 }finally{if(cp.exitCode===null)cp.kill('SIGTERM');await Promise.race([new Promise(r=>cp.once('exit',r)),sleep(1500)])}
-
