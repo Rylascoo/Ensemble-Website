@@ -2913,3 +2913,19 @@ The recursive audit repaired two semantic overreaches before closure: an unappro
 **Next boundary:** detail empty, unavailable, loading and transitional workspace states without inventing Product-gated Scene/lifecycle/provider semantics or letting infrastructure failures become fiction.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-188 - Empty / Unavailable / Transitional Workspaces closes frozen-shell exceptional-state detail
+
+**State:** EMPTY/UNAVAILABLE/TRANSITIONAL FUNCTIONAL DETAIL PASS / ONE SHELL SURVIVES ABSENCE AND BLOCKED STATES / CONSOLIDATED PHASE-1 DETAIL AUDIT NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_EMPTY_UNAVAILABLE_TRANSITIONAL_WORKSPACE_FUNCTIONAL_STUDY_01.json` closes the frozen Phase-1 exceptional-state family. The carrier `prototypes/appui-01/empty-unavailable-transitional-workspace-functional-study-01.html` demonstrates that no active Scene, no selection, loading/transitional work, unavailable capability, failed/cancelled attempts and provisional/non-effective material fit the same application shell without information-architecture redesign.
+
+State distinctions remain explicit: empty != error; loading != fictional delay; unavailable capability != Character refusal; failed/cancelled technical attempt != narrative event; provisional != current/effective. No active Scene remains a valid Production state without inventing Create/Start/Resume Scene, Take, branch or rehearsal controls.
+
+Provider/runtime/recovery state remains infrastructure outside fiction. A transient operation retains semantic origin and focus-return target where possible; failure or cancellation cannot fabricate Character behavior, causal history or accepted consequence. Back/Close returns to retained context when valid and is not Undo.
+
+Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources. Wide and narrow visual/semantic review found no correction after the carrier reached first complete form. Drive preserves PNG `1iqEIlSe2h2o5mGtmK6wwplznpg_gwOf3` and HTML `1kLzzjZY7xfsyoCgnK3SjoamPoSS8ELRy`.
+
+**Next boundary:** run a consolidated Phase-1 detailed-section coverage audit against the frozen map and all section studies; only after that audit and a fresh Engineering reconciliation may Phase-2 Stage/live-production entry be evaluated.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
