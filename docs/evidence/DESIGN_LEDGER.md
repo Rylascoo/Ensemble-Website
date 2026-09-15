@@ -2519,3 +2519,18 @@ This does not rewrite shared-brand authority: Threshold K geometry itself is unc
 Local Edge/CDP review passes 1440x900, 390x844, 320x640 and 160x320 with zero horizontal overflow. A 320x640 200% root-text proxy remains unclipped; reduced-motion exposes zero running animations; actual Edge forced-colors hides the scene and preserves the integrated mark/name plus `Coming Soon` in system colors. Desktop/mobile pixels retain all three Stage presences and the subordinate threshold. No background art, social card, favicon, app/UI asset, product disclosure, or production surface is changed by this identity comparison.
 
 **Next boundary:** commit/push the exact website identity candidate to draft PR #68, verify the hosted branch bytes and the same responsive/accessibility invariants, then present the hosted page for Director visual judgment. Keep `main` and `www.kymaean.com` on V2.1.
+## L-163 - V2.2 integrated Threshold-K lockup passes exact hosted verification
+
+**State:** HOSTED IDENTITY COMPOSITION PASS / EXACT PUBLIC BYTES / DIRECTOR VISUAL REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+The website-specific identity candidate from payload commit `dca5d8041675ef50ba716dbfd8c1233b6c3f2638` is live on the PR #68 branch preview. It removes the redundant standalone Threshold K and uses the unchanged exact Threshold K path geometry as the visible `K` inside `KYMÆAN`; the O3-derived `YMÆAN` geometry and `Coming Soon` remain unchanged. No background, social-card, favicon, app/UI, or production asset changed in this pass.
+
+All nine hosted public assets match the exact Git blobs for payload commit `dca5d8041675ef50ba716dbfd8c1233b6c3f2638` byte-for-byte. The preview remains HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, `X-Robots-Tag: noindex`, and no Cloudflare analytics injection. Hosted HTML contains the integrated `wordmark-mark` and no standalone `threshold-k` element.
+
+Hosted Edge/CDP review passes desktop 1440x900, mobile 390x844, 320x640 at 200% root text, reduced motion, and actual forced-colors with zero horizontal overflow. Reduced motion exposes zero running animations. Forced-colors hides the Stage scene and preserves the integrated KYMÆAN identity plus `Coming Soon` in system colors. Desktop/mobile/200%-text/forced-colors pixels were visually reviewed without a material rendering defect.
+
+Exact-head GitHub Actions pass on the payload commit: `Repository publication boundaries` run #795 and `Document status structure` run #577. This pass establishes a clean non-production hosted comparison only; it does not redefine shared-brand authority or authorize production promotion.
+
+**Next boundary:** Director visual review of the hosted integrated-lockup composition. Keep `main` and `www.kymaean.com` on V2.1 and keep the existing social card unchanged until that review resolves.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**

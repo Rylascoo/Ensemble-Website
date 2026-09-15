@@ -13,12 +13,12 @@ Production remains `main@4bb91292171e0d503d3a4e058ee421436221a793`; `www.kymaean
 ## Frozen cross-lane boundary
 `PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. Website V2.2 interprets high-level Stage/presence intuition only; it creates no app UI, cast-size, state, palette, color-semantic, interaction, or final-brand authority.
 
-## Website Placeholder V2.2 active comparison
-The Director accepted the hosted three-presence Stage background direction and authorized the separate website identity-composition refinement. Background master remains `Kymaean_Website_Sol_V2_2_Stage_View_Synthesis_Freeze_Candidate_2026-09-15.png`, Drive id `1CY4pdkFC7fPkODvK7JKC4W0x4LR8dOtX`, SHA-256 `60cb7134aa35523ba20a0654dd77d95a0127cc7716e565483082ee50aad7893a`; deployed derivative remains 1672x941 / 74,740 bytes / SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
+## Website Placeholder V2.2 hosted composition
+The Director accepted the three-presence Stage background direction and authorized the website identity refinement. Background master remains `Kymaean_Website_Sol_V2_2_Stage_View_Synthesis_Freeze_Candidate_2026-09-15.png`, Drive id `1CY4pdkFC7fPkODvK7JKC4W0x4LR8dOtX`, SHA-256 `60cb7134aa35523ba20a0654dd77d95a0127cc7716e565483082ee50aad7893a`; deployed derivative remains 1672x941 / 74,740 bytes / SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
 
-The current identity candidate removes the redundant standalone Threshold K and uses the unchanged exact Threshold K geometry as the visible `K` in `KYMÆAN`, uniformly scaled only. The approved O3-derived `YMÆAN` vector geometry and `Coming Soon` remain unchanged. This is a website-specific lockup treatment and does not supersede shared-brand mark/wordmark authority.
+Payload commit `dca5d8041675ef50ba716dbfd8c1233b6c3f2638` removes the redundant standalone Threshold K and uses the unchanged exact Threshold K geometry as the visible `K` in `KYMÆAN`, uniformly scaled only. The O3-derived `YMÆAN` vector geometry and `Coming Soon` remain unchanged. This is a website-specific lockup treatment and does not supersede shared-brand mark/wordmark authority.
 
-## Local verification / next boundary
-Local Edge/CDP review passes 1440x900, 390x844, 320x640, 160x320 stress, 320x640 at 200% root text, reduced motion, and actual forced-colors with zero horizontal overflow. Forced-colors hides the scene and preserves system-colored integrated identity; reduced motion has zero running animations. Social card remains deliberately unchanged for isolation.
+## Hosted verification / next boundary
+The PR #68 branch preview serves all nine public assets byte-for-byte equal to commit `dca5d8041675ef50ba716dbfd8c1233b6c3f2638`; response policy remains `public, max-age=0, must-revalidate, no-transform`, `X-Robots-Tag: noindex`, and no analytics beacon is present. Hosted Edge/CDP review passes 1440x900, 390x844, 320x640 at 200% root text, reduced motion, and actual forced-colors with zero horizontal overflow; forced-colors hides the scene and preserves system-colored integrated identity. Exact-head workflows `Repository publication boundaries` #795 and `Document status structure` #577 pass.
 
-**Exact next action:** commit/push this identity-only comparison, verify PR #68 hosted bytes plus responsive/accessibility invariants, then present the hosted composition to the Director. Production V2.1 remains unchanged.
+**Exact next action:** Director visual review of this hosted integrated-lockup composition. Keep production V2.1 unchanged; do not promote or update the social card until that review resolves.
