@@ -3216,3 +3216,17 @@ This is a provisional incumbent, not final palette convergence. New representati
 **Guardrail:** no production color tokens, semantic status-color system, native theme implementation, Stage redesign, Product-semantic invention or Phase-3 convergence is created by this preference.
 
 **APPROVED — DIRECTOR PROVISIONAL D3 PREFERENCE + CLEAN DESIGN-SOL RECONCILIATION.**
+
+## L-207 - Shaping F2 + provisional D3 integration method freezes before exposure
+
+**State:** PHASE-3 SHAPING INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_SHAPING_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the exact accepted Production Shaping / Current Possibility functional carrier. Selected Light F2 and exact provisional D3 Dark are fixed inputs together with MAT-01 F1, TYP-02 F1 and STA-01 F2; no color retune is permitted after first complete render.
+
+The study may clarify presentation only. Situation-first hierarchy, current-possibility meaning, contextual-inspection depth, selection/focus independence, current/history and provisional/effective distinctions, responsive return semantics and Product-open controls remain unchanged.
+
+D3 may fail locally if the denser Shaping workspace becomes muddy, over-violet, generic, too emotionally competitive, or dependent on teal/color for meaning. A local PASS does not finalize D3; continued representative-section evidence remains required.
+
+**Next boundary:** materialize the exact Shaping carrier, run the seven-condition responsive/accessibility matrix, and recursively audit visual plus semantic integrity before any preservation or closeout.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
