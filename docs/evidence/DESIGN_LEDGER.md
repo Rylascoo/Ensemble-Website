@@ -2849,3 +2849,19 @@ Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal ov
 **Next boundary:** detail truth / knowledge / disclosure inspection while preserving creator-global versus Character-bounded visibility, provenance/source capacity and uncertainty without freezing a final epistemic data model.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-184 - Truth / Knowledge / Disclosure Inspection closes bounded-disclosure detail
+
+**State:** TRUTH/KNOWLEDGE/DISCLOSURE FUNCTIONAL DETAIL PASS / BOUNDED DISCLOSURE PRESERVED / EPISTEMIC TAXONOMY UNFROZEN / PERSISTENCE-RECOVERY DETAIL NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_TRUTH_KNOWLEDGE_DISCLOSURE_INSPECTION_FUNCTIONAL_STUDY_01.json` closes the next section study. The deterministic carrier `prototypes/appui-01/truth-knowledge-disclosure-inspection-functional-study-01.html` proves creator-global and Character-bounded inspection can share one application grammar without leaking creator-global material into bounded views.
+
+Disclosure changes visibility, not persistent Character identity or underlying Product-supported Production state. Bounded views do not enumerate, count, summarize, hint or placeholder hidden material by default. Unknown != false; withheld/private != absent; claim != fact; memory != objective history; historical status and truth status remain independently represented.
+
+Fact/support, claim/report, belief/suspicion, memory, private/withheld material, provenance and uncertainty are capacity witnesses only. They do not freeze an exhaustive epistemic taxonomy, storage model, truth authority, confidence system or inference policy. Close/Back restores the exact prior semantic origin and focus without implying knowledge transfer or Production mutation.
+
+Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources. Recursive audit found one storage-model implication in the phrase `creator-global truth store`; it was replaced with `underlying Product-supported Production state` and all checks reran clean. Drive preserves PNG `1VGMSLv-Gcebsm6ZvCqyKX479Rfq1aBFD` and HTML `1UVfsxic9OeUb0C0yPi2e57BWdE3m8CRx`.
+
+**Next boundary:** detail persistence/recovery status while keeping healthy persistence quiet, infrastructure exceptions outside fiction, and exact task/context/focus restoration explicit.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
