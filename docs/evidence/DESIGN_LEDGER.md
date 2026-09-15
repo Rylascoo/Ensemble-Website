@@ -2646,3 +2646,21 @@ At 320x640, 200% root text remains contained, reduced motion exposes zero runnin
 **Next boundary:** merge PR #71 with an exact-head guard, require exact-main workflows, verify live production source bytes/headers and the same responsive/accessibility matrix, then archive/delete the source branch under strict-ancestor/zero-unique law.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
+
+## L-171 - Tall-browser portrait correction is live and production-verified
+
+**State:** PRODUCTION LIVE / EXACT-MAIN + EXACT-PUBLIC-BYTES PASS / SOURCE BRANCH CLOSED / V2.2 HOLD
+
+PR #71 merged with exact-head guard at `cc556130f6a8e485d8db25c3c1fccd59ee6d76da` into production main `b33c242c4b21322df9e04a70a40adffe2df4b777`. Main push workflows passed: `Repository publication boundaries` #827 and `Document status structure` #609.
+
+Direct production verification found all nine public assets byte-for-byte equal to the exact `main` Git blobs. `www.kymaean.com` returned HTTP 200 and `Cache-Control: public, max-age=0, must-revalidate, no-transform`; no analytics beacon was present. Live `modes.css` contains the exact continuous portrait formulas `calc(200vw - 240px)` and `calc(56.125% - 7.35px)`.
+
+Live Edge/CDP passed 2048x1199, 1235x647, 1227x1422, 1138x1354, 768x1024, 390x844 and 320x640 with zero horizontal overflow and contained identity. The Stage remained exact 1672x941. At 320x640, 200% root text remained contained; reduced motion exposed zero running animations; forced colors hid the Stage while retaining the identity.
+
+The source branch was then proven a strict ancestor of main with zero unique commits, archived at `archive/site/v2-2-tall-browser-crop-2026-09-15` -> `cc556130f6a8e485d8db25c3c1fccd59ee6d76da`, and deleted remotely.
+
+No Stage pixels, identity geometry, copy, wide/landscape composition, social assets, motion law, app/UI authority, palette, product disclosure or final-brand authority changed.
+
+**Next boundary:** hold V2.2 stable. Future Website Sol visual/CSS changes must begin from current main and pass the responsive visual standard plus repository, publication and accessibility verification before promotion.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRODUCTION RECURSIVE AUDIT.**
