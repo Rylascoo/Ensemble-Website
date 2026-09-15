@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>APPUI-01 Phase 1 — Interaction & State Stress Test 01</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f2f2ef;
+    --paper: #fbfbf8;
+    --ink: #161716;
+    --muted: #5d615e;
+    --rule: #b7bbb7;
+    --soft: #e6e7e3;
+    --soft2: #d8dad6;
+    --stage: #111212;
+    --stage2: #202221;
+    --stageInk: #f2f3ef;
+    --focus: #161716;
+  }
+  * { box-sizing: border-box; }
+  html { font-size: 16px; }
+  html, body { margin: 0; min-width: 0; }
+  body {
+    font-family: "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.35;
+  }
+  main { max-width: 1580px; margin: 0 auto; padding: 38px 36px 54px; }
+  .eyebrow { font-size: 12px; letter-spacing: .13em; text-transform: uppercase; font-weight: 700; }
+  h1 { margin: 8px 0 8px; font-size: clamp(30px, 3vw, 49px); line-height: 1.02; font-weight: 650; letter-spacing: -.035em; }
+  .sub { max-width: 1000px; color: var(--muted); font-size: 15px; }
+  .statusbar {
+    margin-top: 22px; display: flex; flex-wrap: wrap; gap: 8px 22px;
+    padding: 11px 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+    font-size: 12px; font-weight: 600; letter-spacing: .025em;
+  }
+  .statusbar span::before { content: "•"; margin-right: 8px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 7px; margin: 20px 0 8px; }
+  .tag { display: inline-flex; align-items: center; min-height: 24px; border: 1px solid #7b807c; padding: 3px 7px; border-radius: 2px; font-size: 10px; line-height: 1; font-weight: 750; letter-spacing: .055em; text-transform: uppercase; background: var(--paper); color: var(--ink); }
+  .tag.focus { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .tag.historical { border-style: dashed; }
+  .tag.provisional { border-style: dotted; }
+  .tag.creator { border-width: 2px; }
+  .tag.character { border-radius: 999px; }
+  .section-note { margin: 7px 0 26px; color: var(--muted); font-size: 12px; }
+
+  .strip { margin: 0 0 30px; padding-top: 17px; border-top: 2px solid var(--ink); }
+  .strip-head { display: grid; grid-template-columns: 42px minmax(0,1fr) auto; gap: 12px; align-items: baseline; margin-bottom: 12px; }
+  .strip-no { font-size: 26px; font-weight: 300; font-variant-numeric: tabular-nums; }
+  .strip h2 { margin: 0; font-size: 19px; font-weight: 650; letter-spacing: -.012em; }
+  .verdict { font-size: 10px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; border: 1px solid var(--ink); padding: 4px 7px; }
+  .flow {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0,1fr));
+    gap: 8px;
+    align-items: stretch;
+  }
+  .state { min-width: 0; background: var(--paper); border: 1px solid var(--rule); min-height: 196px; padding: 13px 13px 14px; position: relative; }
+  .state::after { content: "→"; position: absolute; right: -10px; top: 50%; transform: translateY(-50%); z-index: 2; width: 18px; text-align: center; color: var(--muted); background: var(--bg); font-size: 14px; }
+  .state:last-child::after { display: none; }
+  .kicker { font-size: 10px; letter-spacing: .105em; text-transform: uppercase; font-weight: 800; color: var(--muted); margin-bottom: 9px; }
+  .state h3 { margin: 0 0 8px; font-size: 14px; line-height: 1.2; }
+  .state p { margin: 7px 0 0; font-size: 12px; color: #353835; }
+  .state ul { margin: 8px 0 0 16px; padding: 0; font-size: 11.5px; color: #353835; }
+  .state li + li { margin-top: 4px; }
+  .minirow { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .fixture { padding: 8px; margin-top: 9px; background: var(--soft); border-left: 3px solid #5b605c; font-size: 11px; }
+  .stage { margin-top: 9px; background: var(--stage); color: var(--stageInk); min-height: 64px; padding: 10px; border: 1px solid #000; display: grid; gap: 7px; }
+  .stage .person { display: flex; justify-content: space-between; gap: 8px; padding: 6px 7px; border: 1px solid #777; font-size: 10.5px; }
+  .stage .person[aria-selected="true"] { outline: 2px solid #fff; outline-offset: 2px; }
+  .stage .focusmark { border-bottom: 2px solid #fff; }
+  .warn { margin-top: 9px; border: 2px solid var(--ink); padding: 8px; font-size: 11px; font-weight: 650; background: var(--paper); }
+  .good { margin-top: 9px; border: 1px solid #7e827f; padding: 8px; font-size: 11px; background: var(--soft); }
+  .responsive-demo { display: grid; grid-template-columns: 1.45fr 1fr .68fr; gap: 6px; margin-top: 10px; align-items: end; }
+  .frame { background: var(--soft); border: 1px solid #767b77; min-height: 88px; padding: 6px; font-size: 9px; }
+  .frame.medium { min-height: 102px; }
+  .frame.narrow { min-height: 122px; }
+  .frame .primary { background: var(--stage2); color: #fff; padding: 6px; margin-bottom: 4px; min-height: 32px; }
+  .frame .inspect { border: 1px solid #666; padding: 5px; background: var(--paper); color: var(--ink); }
+  .frame .mode { font-weight: 800; text-transform: uppercase; letter-spacing: .08em; margin-bottom: 4px; }
+
+  .invariants { margin-top: 38px; border-top: 4px solid var(--ink); padding-top: 18px; }
+  .invariants h2 { font-size: 19px; margin: 0 0 12px; }
+  .invgrid { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: 8px; }
+  .inv { min-height: 82px; padding: 10px; background: var(--paper); border: 1px solid var(--rule); }
+  .inv b { display: block; font-size: 12px; margin-bottom: 4px; }
+  .inv span { color: var(--muted); font-size: 11px; }
+  .audit { margin-top: 24px; background: var(--ink); color: #f4f4f1; padding: 15px 16px; display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: center; }
+  .audit strong { font-size: 13px; }
+  .audit p { margin: 3px 0 0; font-size: 11px; color: #d8dad6; }
+  footer { margin-top: 15px; color: var(--muted); font-size: 10.5px; }
+  #audit-data { display:none; }
+
+  @media (max-width: 1000px) {
+    main { padding: 28px 22px 40px; }
+    .flow { grid-template-columns: 1fr 1fr; }
+    .state { min-height: 178px; }
+    .state::after { display: none; }
+    .state:last-child { grid-column: 1 / -1; }
+    .invgrid { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 620px) {
+    main { padding: 22px 14px 34px; }
+    .flow { grid-template-columns: 1fr; }
+    .state:last-child { grid-column: auto; }
+    .strip-head { grid-template-columns: 34px 1fr; }
+    .verdict { grid-column: 2; width: fit-content; }
+    .invgrid { grid-template-columns: 1fr; }
+    .responsive-demo { grid-template-columns: 1fr; }
+    .frame, .frame.medium, .frame.narrow { min-height: 72px; }
+    .audit { grid-template-columns: 1fr; }
+  }
+  @media (forced-colors: active) {
+    :root { --bg: Canvas; --paper: Canvas; --ink: CanvasText; --muted: CanvasText; --rule: CanvasText; --soft: Canvas; --soft2: Canvas; --stage: Canvas; --stage2: Canvas; --stageInk: CanvasText; --focus: Highlight; }
+    .stage, .state, .inv, .fixture, .good, .warn, .frame { forced-color-adjust: auto; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <div class="eyebrow">KYMÆAN · APPUI-01 · PHASE 1</div>
+  <h1>Interaction &amp; State Stress Test — 01</h1>
+  <div class="sub">Six behavior strips test whether the accepted application geometry survives real navigation, inspection, failure, recovery and responsive transitions. This board tests semantics and focus restoration only; it does not freeze final copy, commands, WinUI controls, Stage visuals, provider policy or Phase-D workflows.</div>
+  <div class="statusbar"><span>Wireframe 01R geometry retained</span><span>Global shell not reopened</span><span>Dark Stage invariant retained</span><span>Illustrative fixture content only</span></div>
+
+  <div class="legend" aria-label="State legend">
+    <span class="tag">Selected</span><span class="tag focus">Keyboard focus</span><span class="tag historical">Historical</span><span class="tag provisional">Provisional</span><span class="tag creator">Creator action</span><span class="tag character">Character state</span>
+  </div>
+  <p class="section-note">Badges deliberately use outline/shape/text differences rather than color. Exact badge words are test vocabulary, not final product labels.</p>
+
+  <section class="strip" data-flow="character-inspection">
+    <div class="strip-head"><div class="strip-no">01</div><h2>Character → contextual inspection → deep edit → exact return</h2><div class="verdict">PASS CONDITION</div></div>
+    <div class="flow">
+      <article class="state"><div class="kicker">Before</div><h3>Current situation remains primary</h3><div class="fixture">Production: <b>The White Current</b><br>Scene 12: <b>The Tides Remember</b></div><div class="minirow"><span class="tag">Selected · Julian</span><span class="tag focus">Focus · Julian trigger</span></div><p>Selection is an editing/navigation state only. It does not imply Director attention, social salience or Character agency.</p></article>
+      <article class="state"><div class="kicker">User action</div><h3>Open contextual inspector</h3><p>The creator follows Julian from the current situation into the nearby inspector, then chooses deeper inspection.</p><div class="minirow"><span class="tag creator">Creator navigation</span></div><p>No Production truth changes merely because a surface opens.</p></article>
+      <article class="state"><div class="kicker">Transient state</div><h3>Deep Character surface</h3><p>Same Character, same Production, more inspection depth. An edit may exist as non-effective work until the product-defined commit boundary occurs.</p><div class="minirow"><span class="tag provisional">Provisional</span><span class="tag character">Character · Julian</span></div><p>Performer assignment, if shown at all, is secondary and cannot replace Character identity.</p></article>
+      <article class="state"><div class="kicker">Result</div><h3>Edit becomes effective only through creator authority</h3><div class="minirow"><span class="tag">Effective</span><span class="tag creator">Creator-authored change</span></div><p>The edit affects persistent Character material only to the extent Product authority permits. It is not a fictional Stage action and does not manufacture a Character performance.</p></article>
+      <article class="state"><div class="kicker">Return / focus</div><h3>Origin is restored exactly</h3><div class="minirow"><span class="tag">Selected · Julian</span><span class="tag focus">Focus restored · Julian trigger</span></div><p>Close/Back returns to the prior current-situation surface. <b>Back is navigation, not Undo.</b> The effective edit remains effective.</p></article>
+    </div>
+  </section>
+
+  <section class="strip" data-flow="causal-history">
+    <div class="strip-head"><div class="strip-no">02</div><h2>Unresolved question → adjacent cause → expanded history → visibly current return</h2><div class="verdict">PASS CONDITION</div></div>
+    <div class="flow">
+      <article class="state"><div class="kicker">Before</div><h3>Question is part of the current situation</h3><div class="fixture"><b>Open question</b><br>What shifted between Julian and Elara?</div><div class="minirow"><span class="tag">Current · Scene 12</span><span class="tag focus">Focus · question</span></div></article>
+      <article class="state"><div class="kicker">User action</div><h3>Follow “why?” into cause</h3><p>An adjacent causal explanation opens without replacing the current Scene context.</p><div class="minirow"><span class="tag creator">Inspect cause</span><span class="tag">Current retained</span></div></article>
+      <article class="state"><div class="kicker">Transient state</div><h3>Adjacent history is explicitly historical</h3><div class="minirow"><span class="tag historical">Historical · prior event</span><span class="tag">Current · Scene 12</span></div><p>Current and historical witnesses coexist. Inspection cannot masquerade as current state or silently mutate it.</p></article>
+      <article class="state"><div class="kicker">Result</div><h3>Expanded causal path gains room</h3><p>Deep history can temporarily become the primary task, but the inspected event is still marked historical and the Production/current Scene identity remains recoverable.</p><div class="minirow"><span class="tag historical">Historical context</span></div></article>
+      <article class="state"><div class="kicker">Return / focus</div><h3>Return lands on the same current question</h3><div class="minirow"><span class="tag">Current · Scene 12</span><span class="tag focus">Focus restored · question</span></div><p>Back/Close does not revert, replay or rewrite history. Undo—if Product later defines it—is a different creator mutation operation.</p></article>
+    </div>
+  </section>
+
+  <section class="strip" data-flow="offscene-character">
+    <div class="strip-head"><div class="strip-no">03</div><h2>Whole-Production Character access → off-Scene edit → current Scene preserved</h2><div class="verdict">PASS CONDITION</div></div>
+    <div class="flow">
+      <article class="state"><div class="kicker">Before</div><h3>Capture the origin state</h3><div class="fixture">Current Scene: <b>12</b><br>Selected here: <b>Julian</b></div><div class="minirow"><span class="tag">Scene selection · Julian</span><span class="tag focus">Focus · Character access</span></div></article>
+      <article class="state"><div class="kicker">User action</div><h3>Open whole-Production Characters</h3><p>Persistent Characters beyond the current Scene become reachable without turning “People” into a permanent top-level silo.</p><div class="minirow"><span class="tag creator">Production-level access</span></div></article>
+      <article class="state"><div class="kicker">Transient state</div><h3>Edit Mira, who is not in Scene 12</h3><div class="minirow"><span class="tag character">Character · Mira</span><span class="tag">Off-Scene</span><span class="tag provisional">Edit in progress</span></div><p>Off-Scene status is explicit. Selecting Mira here does not add Mira to the Scene roster or replace the Scene’s prior selection.</p></article>
+      <article class="state"><div class="kicker">Result</div><h3>Persistent Character material updates</h3><p>The Character record may change through creator authority; the current Scene and its roster/selection semantics do not change implicitly.</p><div class="minirow"><span class="tag">Scene 12 unchanged</span><span class="tag">Character identity stable</span></div></article>
+      <article class="state"><div class="kicker">Return / focus</div><h3>Scene context resumes intact</h3><div class="minirow"><span class="tag">Selected · Julian</span><span class="tag focus">Focus restored · Character access</span></div><p>Mira’s edit persists; Scene 12 remains current. Character identity remains Mira even if a Performer assignment later changes.</p></article>
+    </div>
+  </section>
+
+  <section class="strip" data-flow="persistence-recovery">
+    <div class="strip-head"><div class="strip-no">04</div><h2>Persistence / recovery exception → truthful repair → prior task restored</h2><div class="verdict">PASS CONDITION</div></div>
+    <div class="flow">
+      <article class="state"><div class="kicker">Before</div><h3>Healthy persistence stays quiet</h3><p>The creator is shaping the current situation. Normal persistence is not permanent chrome and does not compete with the task.</p><div class="minirow"><span class="tag">Current task · Shaping</span></div></article>
+      <article class="state"><div class="kicker">System event</div><h3>An infrastructure exception occurs</h3><div class="warn">Recovery required · editing temporarily constrained</div><p>The status appears in application/workspace semantics, outside Character presence and outside fictional Stage meaning.</p></article>
+      <article class="state"><div class="kicker">Transient state</div><h3>Explain what is safe and what is not</h3><ul><li>Current work state is named truthfully.</li><li>Read-only/recovery state is explicit if applicable.</li><li>No Character reacts to the technical failure.</li></ul><div class="minirow"><span class="tag creator">Recovery action</span></div></article>
+      <article class="state"><div class="kicker">Result</div><h3>Recovery either succeeds or stays visibly unresolved</h3><div class="good">No accepted performance, Character action or causal history is invented to explain the infrastructure state.</div></article>
+      <article class="state"><div class="kicker">Return / focus</div><h3>Prior task target is restored</h3><div class="minirow"><span class="tag">Same semantic target</span><span class="tag focus">Focus restored · prior control</span></div><p>Healthy status becomes quiet again. A still-unresolved failure remains visible without taking over fictional meaning.</p></article>
+    </div>
+  </section>
+
+  <section class="strip" data-flow="capability-unavailable">
+    <div class="strip-head"><div class="strip-no">05</div><h2>Unavailable capability → blocked creator request → no fictional failure behavior</h2><div class="verdict">PASS CONDITION</div></div>
+    <div class="flow">
+      <article class="state"><div class="kicker">Before</div><h3>Character identity is intact</h3><div class="stage" aria-label="Illustrative dark Stage"><div class="person"><span>Julian</span><span class="focusmark">current identity</span></div><div class="person"><span>Elara</span><span>present</span></div></div><p>Provider/Performer machinery is secondary to persistent Character identity.</p></article>
+      <article class="state"><div class="kicker">User action</div><h3>Request an action needing an unavailable capability</h3><div class="minirow"><span class="tag creator">Creator request</span></div><p>The system checks capability before representing a fictional response.</p></article>
+      <article class="state"><div class="kicker">Transient state</div><h3>Block before fiction is created</h3><div class="warn">Action unavailable · technical explanation available</div><div class="minirow"><span class="tag provisional">No effective performance</span></div><p>A timeout/refusal/unavailable provider is not rendered as Character silence, refusal, emotion or agency.</p></article>
+      <article class="state"><div class="kicker">Result</div><h3>Offer truthful alternatives without freezing provider UX</h3><ul><li>Return to the current task.</li><li>Use another available capability/Performer only if later Product policy permits it.</li><li>Open diagnostics/details outside Stage.</li></ul><p>No provider/cost control is frozen here.</p></article>
+      <article class="state"><div class="kicker">Return / focus</div><h3>Stage/history remain unchanged</h3><div class="minirow"><span class="tag">Character · Julian unchanged</span><span class="tag focus">Focus restored · blocked action</span></div><p>No technical failure enters Production history or becomes fictional behavior.</p></article>
+    </div>
+  </section>
+
+  <section class="strip" data-flow="responsive">
+    <div class="strip-head"><div class="strip-no">06</div><h2>Wide → medium → narrow adaptation → same semantic target survives</h2><div class="verdict">PASS CONDITION</div></div>
+    <div class="flow">
+      <article class="state"><div class="kicker">Before · Wide</div><h3>Primary task + adjacent inspector</h3><div class="responsive-demo"><div class="frame"><div class="mode">Wide</div><div class="primary">Current task<br><b>Julian selected</b></div><div class="inspect">Inspector adjacent</div></div><div class="frame medium"><div class="mode">Medium</div><div class="primary">Primary stays dominant</div></div><div class="frame narrow"><div class="mode">Narrow</div><div class="primary">One surface at a time</div></div></div></article>
+      <article class="state"><div class="kicker">User action</div><h3>Window narrows while Julian remains selected</h3><div class="minirow"><span class="tag">Selection · Julian</span><span class="tag focus">Focus may move</span></div><p>Exact spatial position is not part of identity or selection semantics.</p></article>
+      <article class="state"><div class="kicker">Transient state</div><h3>Inspector changes presentation, not meaning</h3><ul><li>Wide: adjacent.</li><li>Medium: overlay/collapsed substitution.</li><li>Narrow: sequential primary surface.</li></ul><p>Secondary UI gives up space before the primary task does.</p></article>
+      <article class="state"><div class="kicker">Result</div><h3>Same target, same disclosure, same state meaning</h3><div class="minirow"><span class="tag">Selected · Julian</span><span class="tag">Light/Dark semantic parity</span></div><p>No essential meaning depends on simultaneous columns, color, portrait recognition, hover or animation.</p></article>
+      <article class="state"><div class="kicker">Return / focus</div><h3>Close/Back restores the originating trigger</h3><div class="minirow"><span class="tag">Selection · Julian</span><span class="tag focus">Focus restored · origin</span></div><p>Layout adaptation cannot mutate Production truth. Focus restoration is defined by semantic origin, not pixel coordinates.</p></article>
+    </div>
+  </section>
+
+  <section class="invariants">
+    <h2>Cross-cutting invariants under stress</h2>
+    <div class="invgrid">
+      <div class="inv"><b>Focus ≠ Selection</b><span>Keyboard traversal may move focus without changing the selected Character/entity.</span></div>
+      <div class="inv"><b>Selection ≠ Opportunity</b><span>UI selection cannot masquerade as fictional Director attention or obligation to act.</span></div>
+      <div class="inv"><b>Back ≠ Undo</b><span>Navigation closes surfaces; it does not reverse effective Production changes.</span></div>
+      <div class="inv"><b>Historical ≠ Current</b><span>Causal inspection is always marked as history while the current Scene remains recoverable.</span></div>
+      <div class="inv"><b>Provisional ≠ Effective</b><span>Non-effective work must not look committed; exact final terminology remains Product-open.</span></div>
+      <div class="inv"><b>Creator action ≠ Character agency</b><span>Edits, recovery and intervention live outside Character fictional carriers.</span></div>
+      <div class="inv"><b>Character ≠ Performer</b><span>Recasting or provider availability cannot erase persistent Character identity.</span></div>
+      <div class="inv"><b>Infrastructure ≠ Fiction</b><span>Provider/persistence failures never become fictional silence, refusal, action or causal history.</span></div>
+    </div>
+  </section>
+
+  <div class="audit"><div><strong>Phase-1 behavior gate represented: 6 / 6 required flows</strong><p>Pass means each flow can complete and return without IA redesign, semantic conflation, fictionalized infrastructure state or lost focus/selection origin.</p></div><div class="verdict">NO NEW STAGE VISUAL AUTHORITY</div></div>
+  <footer>Illustrative fixture names and labels are non-authoritative test content. Exact Scene lifecycle, consequence review, Presentation Perspective switching, Take/Rehearsal/branching, transcript, timer/Pause, provider/cost, Performer assignment and portable Production workflows remain gated by Product/Engineering authority.</footer>
+  <pre id="audit-data" aria-hidden="true"></pre>
+</main>
+<script>
+(function(){
+  const flowCount = document.querySelectorAll('.strip').length;
+  const stateCounts = [...document.querySelectorAll('.strip')].map(s => s.querySelectorAll('.state').length);
+  const report = {
+    title: document.title,
+    viewport: { w: innerWidth, h: innerHeight },
+    page: { scrollWidth: document.documentElement.scrollWidth, clientWidth: document.documentElement.clientWidth, scrollHeight: document.documentElement.scrollHeight },
+    noHorizontalOverflow: document.documentElement.scrollWidth <= document.documentElement.clientWidth,
+    flowCount,
+    stateCounts,
+    everyFlowHasFiveStates: stateCounts.every(n => n === 5),
+    invariantCount: document.querySelectorAll('.inv').length,
+    darkStageWitnessCount: document.querySelectorAll('.stage').length,
+    externalResources: [...document.querySelectorAll('link[src],link[href],script[src],img[src]')].filter(el => el.getAttribute('href') || el.getAttribute('src')).length
+  };
+  document.getElementById('audit-data').textContent = JSON.stringify(report);
+  document.documentElement.dataset.audit = report.noHorizontalOverflow && report.flowCount===6 && report.everyFlowHasFiveStates && report.invariantCount===8 && report.externalResources===0 ? 'PASS' : 'FAIL';
+})();
+</script>
+</body>
+</html>

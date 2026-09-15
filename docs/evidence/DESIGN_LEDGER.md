@@ -2741,3 +2741,20 @@ Authenticated Drive folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc`, titled `20 APPUI
 **Next boundary:** do not redraw the layout. Stress-test select/follow/edit/return, causal-history depth, off-Scene Character access, persistence/recovery exceptions, unavailable capability and responsive focus restoration. Fresh-reconcile Engineering before Phase-1 freeze and Phase-2 Stage work.
 
 **PHASE 1 ARCHIVE + HANDOFF - PRESERVED.**
+
+
+## L-178 - APPUI Phase 1 interaction/state stress test closes the layout program PASS
+
+**State:** APPUI PHASE 1 FROZEN PASS / SIX REQUIRED FLOWS PASS / PHASE 2 STILL REQUIRES FRESH ENGINEERING RECONCILIATION
+
+`docs/evidence/APPUI_01_PHASE_1_INTERACTION_STATE_STRESS_TEST_AND_FREEZE_2026_09_14.json` closes the remaining Phase-1 behavior gate against the Director-approved Wireframe 01R geometry and repaired component-coverage map. The deterministic carrier `prototypes/appui-01/phase1-interaction-state-stress-test-01.html` materializes exactly six horizontal BEFORE → USER ACTION → TRANSIENT STATE → RESULT → RETURN/FOCUS strips: Character contextual/deep edit; unresolved-question causal history; whole-Production off-Scene Character edit; persistence/recovery exception; unavailable capability; and wide/medium/narrow adaptation.
+
+The cross-cutting audit explicitly preserves focus versus selection, selection versus Director opportunity, Back/Close versus Undo, current versus historical, provisional/non-effective versus effective, creator action versus Character agency, Character identity versus Performer assignment, and infrastructure failure versus fiction. No strip requires a new navigation silo, fixed right inspector, Stage redesign, E0-internal vocabulary or a Phase-D-owned final control. Chromium deterministic preflight passes at 1600, 1024, 390 and 320 CSS-pixel widths plus 320 forced-colors with zero horizontal overflow.
+
+Authenticated Drive folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc` now preserves review PNG `1RqyYMw9FbGA1DPZbcQveSm3---VXn_da` and exact HTML `1spFb-xRUyFrZViYuopdbph_Ls7mwccVo`. Fresh post-materialization Engineering reconciliation remains `main@36b9c4c2644d6d47c957e7910d0c609e260b5432`, exactly the Product-semantic ref used when the Phase-1 envelope was created; E0-D is still blocked and no post-E0 Phase-D Scene/Take/Perspective/consequence semantics invalidate the envelope.
+
+All Phase-1 exit criteria are therefore satisfied under current authority and Phase 1 is frozen PASS. This creates no new Stage visual successor, final app styling, WinUI/runtime/accessibility-device or Product-control authority. Exact unresolved Scene lifecycle, consequence review, Perspective switching, Take/Rehearsal/branching, transcript/timer/Pause, provider/model/cost, Performer assignment, portable Production and related workflows remain open.
+
+**Next boundary:** before any Phase-2 Stage/live-production successor is materialized, fresh-resolve Engineering again; if relevant Product semantics remain unchanged, open Phase 2 from `PKT-STAGE-CORE-02` without reopening the frozen Phase-1 shell.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PHASE-1 INTERACTION/STATE FREEZE.**
