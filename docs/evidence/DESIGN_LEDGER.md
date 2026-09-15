@@ -2798,3 +2798,22 @@ The recursive audit found two semantic omissions before closure: focus independe
 **Next boundary:** detail the selected-entity contextual inspector and deep-inspection surface family inside the frozen shell, preserving semantic origin, disclosure, current/history and provisional/effective distinctions, exact return/focus behavior, and responsive adjacency/overlay/sequential transitions.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+
+## L-181 - Contextual + Deep Inspection closes shared surface-family functional study
+
+**State:** CONTEXTUAL/DEEP INSPECTION FUNCTIONAL DETAIL PASS / SHARED GRAMMAR FROZEN INSIDE PHASE-1 ARCHITECTURE / WHOLE-PRODUCTION CHARACTER MANAGEMENT NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_CONTEXTUAL_DEEP_INSPECTION_SURFACE_FAMILY_FUNCTIONAL_STUDY_01.json` establishes one reusable inspection grammar for meaningful entities reached from Home, Shaping and later Stage-adjacent work. Contextual inspection answers what matters about the selected entity here; deep inspection gives that same entity enough room for broader understanding or creator-authorized shaping while retaining its semantic origin and exact return path.
+
+The study uses Character, relationship, pressure/condition, open-question and world-context witnesses to prove shared surface capacity without freezing an exhaustive Product taxonomy. Character detail also demonstrates current relevance, persistent Character material, knowledge/disclosure capacity where Product authority supports it, and causal/history context without conflating Character identity with Performer/provider assignment.
+
+State grammar is explicit across the family: focus != selection; selection != fictional attention/agency; provisional != effective; current != historical; Character != Performer; infrastructure != fiction; Character-bounded disclosure remains bounded. Back/Close restores semantic origin and focus and does not undo effective creator changes. Exact field schemas, edit/commit/undo semantics and Product-open workflows remain unfrozen.
+
+Wide layout may use an adjacent inspector; medium may overlay/collapse/substitute it; narrow becomes sequential. The first browser pass exposed four internal overflow witnesses caused by decorative flow arrows, which were repaired. Visual audit also found the Light/Dark specimens had unequal widths despite theme co-equality; the comparison was corrected to 1:1. Final Edge CDP preflight passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources.
+
+Authenticated Drive folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc` preserves review PNG `1j_xovGQtqHPHhnSUcdlTwadcB11Gnhxh` and exact HTML `1Kf6pkqQkREWuT2UrftcO88bAbcLzEYHW`. No permanent right-edge inspector law, new app mode, Stage successor, final visual language, Product taxonomy, WinUI/runtime or Store authority is created.
+
+**Next boundary:** detail whole-Production Character management inside the frozen shell, including off-Scene reach/edit/return, no implicit Scene-membership mutation, persistent Character identity and Character-versus-Performer separation without creating a permanent People silo.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
