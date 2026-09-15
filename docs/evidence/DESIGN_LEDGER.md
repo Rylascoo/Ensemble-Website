@@ -3152,3 +3152,21 @@ Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D a
 **Next boundary:** direct Director taste adjudication between the two surviving frozen families. Do not retune before selection. Dark-theme translation, production tokens, semantic status colors, theme implementation and Phase-3 convergence remain successor work.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN CONTEXTUAL REENTRY AUDIT / DIRECTOR TASTE GATE OPEN.**
+
+## L-203 - Director selects CLR-01 F2 Monochrome + Intruder for Phase-3 color logic
+
+**State:** CLR-01 F2 DIRECTOR-SELECTED / LIGHT-DARK TRANSLATION NEXT / NO PRODUCTION COLOR TOKEN AUTHORITY
+
+After L-202 established that both frozen F1 and F2 survived representative Home-context falsification, the Director reviewed complete visual artworks representing both options and agreed with Design Sol's previously frozen preference for **F2 — Monochrome + Intruder**.
+
+`docs/evidence/APPUI_01_PHASE_3_CLR01_DIRECTOR_F2_SELECTION_01.json` records the selection. The frozen F2 APP role values remain the exact reference input: field `#F4F3F7`, primary `#221B2D`, secondary `#5C5565`, accent `#006F73`, boundary `#7D7486`, soft surface `#EAE8EF`. No post-selection retune occurred.
+
+The decision preserves F2's intended strength and its risk. The sparse teal interruption may reinforce a quieter, stranger and more distinct Kymaean shell while the dark Stage remains the emotional center; the known creative-tool violet/teal familiarity risk remains a guardrail against saturation, decorative spread or color becoming state semantics.
+
+The complete generated artworks are atmospheric Director witnesses only. Their invented imagery, icons, component details and information density are not UI architecture authority and are not adopted implementation.
+
+Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D active with E0-E unavailable and `Q-DESIGN-02` blocked. Website publication `main@4bb91292171e0d503d3a4e058ee421436221a793` remains separate.
+
+**Next boundary:** bounded F2 Light/Dark translation on the accepted Home scaffold. Preserve Light/Dark semantic parity, the invariant dark Stage, sparse accent discipline, focus != selection, non-color-dependent state meaning, accessibility and forced-colors comprehension. Production palette/tokens remain unclaimed until that successor passes.
+
+**APPROVED — DIRECTOR F2 SELECTION + CLEAN DESIGN-SOL RECONCILIATION.**

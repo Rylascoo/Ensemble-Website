@@ -13,17 +13,17 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 **Application UI architecture/layout is FROZEN PASS and detailed-section coverage is CLOSED CLEAN.** Wireframe 01R remains the shell baseline; later phases do not reopen it without demonstrated functional defect.
 
 ## Phase 2
-**Static Stage/live-production coverage is CLOSED PASS.** Eight bounded studies cover the presently authorized static-safe framework. This is not full Phase-2 completion: transcript-dependent motion remains blocked; intervention, consequence/Take, timer/Pause, Observed Cues/provenance, provider/model/cost and Performer mechanics remain Product-defined/open.
+**Static Stage/live-production coverage is CLOSED PASS.** Eight bounded studies cover the presently authorized static-safe framework. Dynamic/transcript-dependent and Product-gated Stage work remains held/open under its existing law.
 
 ## Product / Engineering boundary
 Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D active; E0-E behavioral evidence is unavailable and `Q-DESIGN-02` remains BLOCKED. No Phase-D Product semantics invalidate the static shell/Stage envelope.
 
 ## Phase 3
-**Bounded static visual-language integration is ACTIVE.** Production Home / Resume passes the color-independent MAT-01 F1 + TYP-02 F1 + STA-01 F2 integration at `d8fefcd07b361dc93deb735995f5654d9f387ada`.
+**Bounded static visual-language integration is ACTIVE.** Production Home / Resume passes MAT-01 F1 + TYP-02 F1 + STA-01 F2 integration. CLR-01 contextual reentry proved frozen F1 and F2 both mechanically/semantically viable on the exact representative Home scaffold.
 
-CLR-01 contextual reentry is now mechanically and visually clean against that exact representative Home scaffold. Frozen F1 Split Temperature and F2 Monochrome + Intruder both survive 1600/1024/390/320, forced-colors, 200% text and text-spacing stress with zero overflow and preserved structural selection/focus. Neither family is objectively falsified. Evidence: `docs/evidence/APPUI_01_PHASE_3_CLR01_HOME_CONTEXTUAL_REENTRY_01.json`.
+The Director has now selected **CLR-01 F2 — Monochrome + Intruder** as the Phase-3 color-logic direction, consistent with the previously frozen Design Sol preference. Evidence: `docs/evidence/APPUI_01_PHASE_3_CLR01_DIRECTOR_F2_SELECTION_01.json`.
 
-Drive archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE` preserves comparison PNG `15NBd8qRbiYmr965_eh-ZBu9WlLXC8-XC` and exact HTML `17E5hkh3Py3LAkG1A7eSZDttBr_5KxDkv`.
+F2 reference APP values remain the frozen experiment values (`#F4F3F7`, `#221B2D`, `#5C5565`, `#006F73`, `#7D7486`, `#EAE8EF`). They are successor-study inputs, not production tokens. Generated comparison artworks were atmospheric Director witnesses only; their invented UI/image details are not adopted architecture.
 
 ## Next
-**Director CLR taste gate.** Choose between surviving F1 and F2 using the exact contextual comparison. Do not retune either family before selection. Dark-theme CLR translation, production tokens, semantic status colors, implementation and Phase-3 convergence remain successor work.
+Open the bounded **F2 Light/Dark translation** successor on the accepted Home scaffold. Preserve identical semantics/hierarchy across themes, dark Stage authority, sparse intruder-accent use, focus != selection, non-color-dependent state meaning, forced-colors comprehension and accessibility. Do not claim final palette/production tokens until that successor passes recursive audit.
