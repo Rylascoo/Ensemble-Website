@@ -3260,3 +3260,21 @@ Both contextual and deep-inspection surfaces must be represented in Light and D3
 **Next boundary:** materialize the exact inspection carrier in selected Light F2 + provisional D3, run the full seven-condition matrix, and recursively audit state honesty and disclosure/return integrity before preservation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+
+## L-210 - Contextual + Deep Inspection passes F2 Light + provisional D3 Dark integration
+
+**State:** PHASE-3 INSPECTION INTEGRATION PASS / D3 SURVIVES THIRD REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_CONTEXTUAL_DEEP_INSPECTION_F2_D3_INTEGRATION_01.json` closes the representative integration on the accepted inspection surface family. Contextual and deep surfaces are both shown in selected Light F2 and exact provisional D3; semantic origin, disclosure, state distinctions and exact return remain unchanged.
+
+The seven-condition matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow. Two contextual app specimens and two deep-theme specimens remain present in every case. Light/D3 role contrasts clear the frozen floors.
+
+Selection uses the sparse edge witness while keyboard focus is shown independently on a different target. Historical and provisional meaning remain dashed/dotted plus textual rather than color-coded. Deep inspection preserves current-Scene origin and Back/Close return without implying Undo or changing effective creator-authorized state.
+
+The first complete visual/semantic render was clean; no F2 or D3 color value was retuned after exposure. Drive Phase-3 archive preserves exact HTML `1aHkDWGgJJwGCNaA0HDsQQ0rsKjJUKwW2` and PNG `1YU6E7UIRSI58zhuY7FIMfvBSy1s13g0Y`.
+
+D3 survives this third representative section but remains provisional. No production token system, semantic status colors, Product edit semantics, native implementation, Stage successor or Phase-3 convergence authority is created.
+
+**Next boundary:** evaluate the same exact Light F2 + provisional D3 pair on Whole-Production Character Management, preserving off-Scene explicitness, membership non-implication and Character-versus-Performer identity.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
