@@ -2833,3 +2833,19 @@ Edge CDP preflight passes 1600/1024/390/320 plus 320 forced-colors with zero hor
 **Next boundary:** detail causal/history inspection from meaningful current material into adjacent cause and deeper history, preserving explicit historical status and exact current return without restoring Archive/History as a permanent application mode.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-183 - Causal + History Inspection closes temporal/causal detail inside frozen Phase 1
+
+**State:** CAUSAL/HISTORY FUNCTIONAL DETAIL PASS / CURRENT ORIGIN PRESERVED / HISTORY STAYS HISTORICAL / TRUTH-KNOWLEDGE-DISCLOSURE DETAIL NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_CAUSAL_HISTORY_INSPECTION_FUNCTIONAL_STUDY_01.json` closes the next section study. The deterministic carrier `prototypes/appui-01/causal-history-inspection-functional-study-01.html` proves that a meaningful current question can open adjacent historical cause and then deeper historical investigation without creating a permanent Archive/History application mode.
+
+Current versus historical status remains explicit at every depth: selecting or expanding a prior witness never promotes it into current Scene state. The current Production/Scene/question remains the semantic origin and exact return target; Close/Back restores that origin and focus without replay, rollback, undo or current-state rewrite. Causal relevance may be explained without freezing an exhaustive causal graph, inference model, score or generated-explanation authority.
+
+Disclosure/provenance capacity remains bounded: private/Character-bounded knowledge, claims, beliefs, memories, uncertainty and provenance do not become creator-global merely because history is inspected. Exact consequence-review, branching, rollback and epistemic data schemas remain Product-open.
+
+Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources. The recursive audit corrected one semantic conflation: `current truth` was changed to `current-state material` so truth status and temporal status remain distinct. Drive preserves PNG `1jCrYGnuqzfzRsE1WwVvGanSgzsPFjbF9` and HTML `1C2D2_6GbAMoc9BOyqNeqJyuqHj9QGfEY`.
+
+**Next boundary:** detail truth / knowledge / disclosure inspection while preserving creator-global versus Character-bounded visibility, provenance/source capacity and uncertainty without freezing a final epistemic data model.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
