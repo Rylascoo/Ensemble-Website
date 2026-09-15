@@ -2865,3 +2865,19 @@ Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal ov
 **Next boundary:** detail persistence/recovery status while keeping healthy persistence quiet, infrastructure exceptions outside fiction, and exact task/context/focus restoration explicit.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-185 - Persistence / Recovery Status closes infrastructure-status detail
+
+**State:** PERSISTENCE/RECOVERY FUNCTIONAL DETAIL PASS / HEALTHY STATE QUIET / INFRASTRUCTURE != FICTION / PRODUCTION-LIFECYCLE-UTILITIES NEXT / NO PHASE-2 STAGE CHANGE
+
+`docs/evidence/APPUI_01_PERSISTENCE_RECOVERY_STATUS_FUNCTIONAL_STUDY_01.json` closes the next section study. The carrier `prototypes/appui-01/persistence-recovery-status-functional-study-01.html` keeps healthy persistence quiet and gives saving/recovery/read-only/failure/integrity exceptions a truthful application-status home only when they matter.
+
+Infrastructure state never becomes Character behavior, Stage action or causal Production history. Recovery preserves the prior task, semantic origin and focus when safe; it does not imply fictional rewind, another Take, branch, rehearsal or consequence reversal. Back/Close/dismissal cannot silently discard work, repair corruption, confirm durability or mutate Production truth.
+
+The state grammar now distinguishes healthy/quiet, persistence-in-progress, read-only, recovery-available/needed, persistence failure, and corruption/integrity concern. Persistence failure != corruption. Exact autosave/save-point, durability, transactionality, local/cloud, repair, conflict, fallback and lost-work semantics remain Product-defined.
+
+The first browser pass exposed narrow overflow from the no-wrap header stamp; that was repaired. Recursive audit then found corruption and persistence failure had been combined into one witness; they were separated and the full audit reran clean. Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero horizontal overflow, zero overflow elements, zero images and zero external resources. Drive preserves PNG `1sCVbbYSIpQvT2g9jf14ENPuqWqDhM18m` and HTML `1XgKhJ-aDo5TtIWGwAgNmVZqJM2QkqVnm`.
+
+**Next boundary:** detail Production lifecycle utilities as deliberate application/Production-scope capacity without freezing portable format, provider/cost policy, diagnostics commands or other Product/Phase-D mechanics.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
