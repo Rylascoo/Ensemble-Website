@@ -3185,3 +3185,18 @@ A dark candidate fails if it becomes generic violet/teal creative software, comp
 **Next boundary:** materialize Light + D1/D2/D3 on the exact Home scaffold, run the full seven-condition matrix, freeze Design Sol's visual view, then request Director adjudication only among surviving dark translations. Zero survivors remains valid.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+## L-205 - F2 Light/Dark translation comparison passes; D1-D3 all survive for Director adjudication
+
+**State:** PHASE-3 F2 LIGHT-DARK COMPARISON PASS / D1-D3 SURVIVE / DESIGN SOL PREFERS D3 / DIRECTOR SELECTION REQUIRED
+
+`docs/evidence/APPUI_01_PHASE_3_F2_LIGHT_DARK_TRANSLATION_COMPARISON_01.json` closes the pre-adjudication comparison opened by L-204. The exact selected Light F2 reference remains unchanged; D1 Deep Violet Neutral, D2 Graphite Violet and D3 Ink Aubergine were applied without retuning to the accepted Production Home scaffold.
+
+The full Edge CDP matrix passes 1600/1024/390/320, 320 forced-colors, 320 at 200% text and 320 text-spacing stress with zero document/internal overflow. Every case preserves four app blocks, four literal MAT subtractive fields, four selection witnesses and four focus witnesses. Light plus D1/D2/D3 all pass the frozen text/non-text contrast floors.
+
+Design Sol's view was frozen before Director input as **D3 > D2 > D1**. D3 best preserves F2 continuity, slight warmth, mystery and Stage subordination while avoiding D1's strongest violet/teal creative-tool familiarity and D2's generic graphite tendency. No post-exposure candidate retune occurred.
+
+Drive Phase-3 archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE` preserves exact HTML `1yO_G1UmcaVTKE-jp5l1S-zlPF7SVrudK` and PNG `1OZLiqpnfuvfB__S8fPPEra3o2gTTdapi`.
+
+**Next boundary:** direct Director adjudication among D1/D2/D3 only. Production palette/tokens, semantic status colors, native implementation and Phase-3 convergence remain successor work.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRE-ADJUDICATION AUDIT.**

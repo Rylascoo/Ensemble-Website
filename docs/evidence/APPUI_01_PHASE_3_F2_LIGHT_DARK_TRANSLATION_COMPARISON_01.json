@@ -1,0 +1,59 @@
+{
+  "schema": "kymaean.appui-phase3-f2-light-dark-translation-comparison.v1",
+  "status": "MECHANICAL_PASS_DESIGN_SOL_VIEW_FROZEN_DIRECTOR_ADJUDICATION_PENDING",
+  "date": "2026-09-15",
+  "program": "APPUI-01 Phase 3 - Kymaean Visual-Language Integration",
+  "method": "docs/evidence/APPUI_01_PHASE_3_F2_LIGHT_DARK_TRANSLATION_METHOD_01.json",
+  "parent_selection": "docs/evidence/APPUI_01_PHASE_3_CLR01_DIRECTOR_F2_SELECTION_01.json",
+  "carrier": {
+    "path": "prototypes/appui-01/phase3-f2-light-dark-translation-comparison-01.html",
+    "sha256": "c555ba9b91bb2ee8cc2591c6bc7e6a7ef4759594e07f30fc0daaff12522f5083",
+    "probe": "tools/appui_phase3_f2_light_dark_translation_matrix_probe.mjs"
+  },
+  "drive": {
+    "archive_folder_id": "1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE",
+    "html_id": "1yO_G1UmcaVTKE-jp5l1S-zlPF7SVrudK",
+    "png_id": "1OZLiqpnfuvfB__S8fPPEra3o2gTTdapi",
+    "png_sha256": "6b8b6e76cd61e4d3ea9a016e14f1159812bcf958a8bab4946aaf1f01c3af9072"
+  },
+  "matrix": {
+    "cases": ["1600","1024","390","320","320_forced_colors","320_text_200_percent","320_text_spacing"],
+    "result": "PASS_ZERO_OVERFLOW",
+    "invariants_each_case": {"app_blocks":4,"material_fields":4,"selected_witnesses":4,"focus_witnesses":4},
+    "forced_colors_active_when_required": true
+  },
+  "contrast": {
+    "LIGHT": {"primary_field":15.055,"secondary_field":6.461,"boundary_field":4.032,"boundary_soft":3.667,"accent_field":5.398,"accent_rail":3.065},
+    "D1": {"primary_field":15.891,"secondary_field":8.852,"boundary_field":3.517,"boundary_soft":3.189,"accent_field":6.016,"accent_rail":6.078},
+    "D2": {"primary_field":15.302,"secondary_field":8.474,"boundary_field":3.847,"boundary_soft":3.427,"accent_field":5.002,"accent_rail":5.264},
+    "D3": {"primary_field":16.072,"secondary_field":9.04,"boundary_field":3.532,"boundary_soft":3.124,"accent_field":5.329,"accent_rail":5.378}
+  },
+  "mechanical_disposition": {
+    "LIGHT":"PASS_REFERENCE",
+    "D1":"PASS",
+    "D2":"PASS",
+    "D3":"PASS"
+  },
+  "design_sol_view": {
+    "frozen_before_director_input": true,
+    "ranking": ["D3","D2","D1"],
+    "preferred_candidate": "D3",
+    "D3": "Best balance of F2 continuity, slight warmth, mystery and Stage subordination; avoids both cold tool-like violet and generic graphite.",
+    "D2": "Mechanically excellent and restrained, but loses some F2 character and trends toward a generic graphite dark theme.",
+    "D1": "Strongest literal violet continuity, but most exposed to the known violet/teal creative-software familiarity risk."
+  },
+  "recursive_audit": {
+    "stage_authority": "PASS - Stage/Scene preview remains invariant dark and visually primary.",
+    "semantic_parity": "PASS - content, hierarchy, state availability and structural witnesses are identical across themes.",
+    "accent_scarcity": "PASS - teal is confined to existing selection/focus reinforcement and is not status meaning.",
+    "mat_typ_sta_integrity": "PASS - exact accepted Home scaffold and mechanisms are unchanged.",
+    "post_exposure_retune": "NONE"
+  },
+  "non_authority": [
+    "No dark candidate is selected by this evidence alone.",
+    "No production palette or theme tokens are frozen.",
+    "No semantic status-color system is created.",
+    "No native implementation, Stage successor, motion or Phase-3 convergence authority is created."
+  ],
+  "next_boundary": "Director adjudication among mechanically surviving D1/D2/D3. Design Sol recommends D3. No candidate values may be retuned before the Director decision."
+}
