@@ -3278,3 +3278,17 @@ D3 survives this third representative section but remains provisional. No produc
 **Next boundary:** evaluate the same exact Light F2 + provisional D3 pair on Whole-Production Character Management, preserving off-Scene explicitness, membership non-implication and Character-versus-Performer identity.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-211 - Whole-Production Character Management F2 + provisional D3 method freezes before exposure
+
+**State:** PHASE-3 CHARACTER-MANAGEMENT INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_CHARACTER_MANAGEMENT_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the exact accepted Whole-Production Character Management carrier. Selected Light F2 and exact provisional D3 Dark remain fixed inputs with MAT-01 F1, TYP-02 F1 and STA-01 F2; no post-exposure color retune is allowed.
+
+The study must preserve local management selection versus stored Scene selection, explicit off-Scene state, Scene-membership non-implication, persistent Character identity, Character-versus-Performer separation, creator edit versus fictional action, and exact return/focus restoration.
+
+D3 fails locally if off-Scene looks disabled/archival/unavailable, if teal spreads into membership/capability/edit status, or if aubergine depth blurs the separate selection/focus/scope meanings.
+
+**Next boundary:** materialize the exact functional carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit scope/identity honesty before preservation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
