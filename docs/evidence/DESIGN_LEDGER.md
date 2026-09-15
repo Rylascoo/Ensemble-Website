@@ -3053,3 +3053,17 @@ No timing/cadence, motive/emotion/refusal inference, provider retry/fallback, tr
 **Next boundary:** run the consolidated Phase-2 static-coverage closeout audit and determine the supported Phase-3 entry/hold boundary.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-197 - Phase-2 static coverage audit finds two remaining bounded gaps
+
+**State:** PHASE-2 STATIC COVERAGE NOT YET CLOSED / RELATIONSHIP SALIENCE GAP / PERFORMANCE-MODALITY GAP
+
+`docs/evidence/APPUI_01_PHASE_2_STATIC_COVERAGE_AUDIT_2026_09_15.json` maps the six accepted static Phase-2 studies against the three-phase program, Stage envelope and fresh Engineering boundary.
+
+The audit finds two material static-safe gaps: materially relevant relationship salience has no direct Phase-2 presentation witness yet, and the broader performance grammar still lacks an affirmative nonverbal-action/refusal witness. These are design-presentation gaps, not Product-runtime gaps.
+
+Intervention effects, consequence/Take mechanics, transcript-dependent Stage motion, timer/Pause, Observed Cues/provenance, provider/model/cost and Performer assignment remain blocked or Product-defined and are not counted as missing static design work. Fresh Engineering `e8b702a5b37d208d7caeeb6ffeb5a6beacf24f85` does not unlock `Q-DESIGN-02`.
+
+**Next boundary:** resolve relationship salience first, then the remaining performance-modality gap, then rerun static closeout.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN GAP-FINDING AUDIT.**
