@@ -2709,3 +2709,21 @@ Recovered UI explorations are used only for layout principles: quiet durable sco
 **Next boundary:** create a structural grayscale/wireframe map before another polished composition, then exercise the Production/resume, Production-shaping/current-possibility, Live Stage, selected-Character, deep causal/history, Character-bounded, functional-state and adaptive-layout sequence defined by the active Phase-1 map.
 
 **PHASE 1 STRUCTURAL MAP - ACTIVE.**
+
+## L-176 - Phase 1 component coverage closes structural omissions before interaction testing
+
+**State:** COMPONENT COVERAGE AUDITED / FOUR REQUIRED HOMES ADDED / INTERACTION TESTING NEXT
+
+`docs/evidence/APPUI_01_PHASE_1_COMPONENT_COVERAGE_AUDIT_2026_09_14.json` reconciles current Product/Engineering architecture, active Design structure and the recovered UI artwork lineage before interaction testing. The audit confirms the core APPUI architecture is covered but found four cross-workspace families that required explicit Phase-1 homes: whole-Production Character management; truth/knowledge/disclosure inspection; persistence/recovery status; and Production-level utilities such as settings, portable import/export, provider configuration, diagnostics and recovery.
+
+`docs/KYMAEAN_APPUI_PHASE_1_STAGE_INTERFACE_ENVELOPE_AND_LAYOUT_MAP_01.md` now reserves those homes without inventing Phase-D controls. Exact Scene lifecycle, consequence review, Presentation Perspective switching, Another Take/Rehearsal/branching, timer/Pause, transcript/Observed Cues placement, provider/cost policy and portable Production workflow remain product-open.
+
+The recovered lineage is absorbed as meaning and layout evidence rather than copied literally: dossier depth, relationship/knowledge/truth inspection, Stage tension/opportunity, consequence review, Character-bounded disclosure and quiet persistence/status all survive; historical `Studio / Stage / Archive`, portrait dependency, transcript-dominant Stage, fixed inspector placement and ontology-dashboard navigation do not become authority.
+
+Director-accepted workspace direction is also preserved: Production Home is resume/current-situation first; Production Shaping is situation-first; users follow meaningful elements into contextual or deep inspection instead of entering through category-first database navigation.
+
+The local intake path contained 60 files / 26 unique images while the Drive connector direct listing returned 6. This is recorded as a separate binary-preservation continuity issue rather than silently treated as resolved.
+
+**Next boundary:** stop layout redraws and test interaction/state behavior against the repaired Phase-1 coverage map.
+
+**PHASE 1 COMPONENT COVERAGE - CLEAN AFTER REPAIR.**

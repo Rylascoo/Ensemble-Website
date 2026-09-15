@@ -11,18 +11,20 @@ Design: `Rylascoo/Ensemble-Website`; Engineering/Product: `Rylascoo/Ensemble-Pro
 Windows 11 ARM64 / Store target. CPS-B, DUR-01, APPICON-01 E06 and `PKT-STAGE-CORE-02` remain authoritative. Stage stays dark in both app themes; Light/Dark are co-equal. CHARART-01 remains terminated/no master. CLR remains unselected; Phase C remains open.
 
 ## Three-phase sequence
-1. **UI architecture & layout.** Complete task-dependent Production/live/deep-inspection/Character-bounded layouts, adaptive behavior, accessibility and functional states. No new Stage visual design.
+1. **UI architecture & layout.** Finish interaction/state coverage against the accepted structural grammar. No new Stage visual design.
 2. **Stage & live-production experience.** After Phase 1 passes and Engineering is fresh-reconciled, design live Character presence/attention/relationship/action/silence/intervention/consequence/motion behavior.
-3. **Kymaean design-language integration.** Only after layout and Stage stabilize, integrate secondary material/identity/trace/motion/ornament inside the proven framework.
+3. **Kymaean design-language integration.** Only after layout and Stage stabilize, integrate secondary material/identity/trace/motion/ornament.
 
 ## Phase 1 structural authority
-`docs/KYMAEAN_APPUI_PHASE_1_STAGE_INTERFACE_ENVELOPE_AND_LAYOUT_MAP_01.md` remains active. `docs/evidence/APPUI_01_PHASE_1_WIREFRAME_01R_STRUCTURAL_BASELINE_2026_09_14.json` records Director-approved **Wireframe 01R** as the structural baseline. Drive master: folder `1ey0VRqE0zuKoZ4xpGrJ_nawZUnxqw8os`, file `1M7zKHMZYpsRv9W_Spu95E_jj8fZC8TtS`.
+`docs/KYMAEAN_APPUI_PHASE_1_STAGE_INTERFACE_ENVELOPE_AND_LAYOUT_MAP_01.md` is active. Wireframe 01R remains the global structural baseline; Drive master folder `1ey0VRqE0zuKoZ4xpGrJ_nawZUnxqw8os`, file `1M7zKHMZYpsRv9W_Spu95E_jj8fZC8TtS`.
 
-Wireframe 01R freezes the global grammar only: one task-adaptive shell; dark dominant Stage; navigation may recede; inspectors are contextual and not right-edge requirements; causal inspection may be adjacent or expanded; Character-bounded perspective changes disclosure within the same Production; secondary UI collapses before the primary task. Its icon rail, exact inspector placement, internal Production-shaping arrangement and placeholder state vocabulary remain non-authority.
+`docs/evidence/APPUI_01_PHASE_1_COMPONENT_COVERAGE_AUDIT_2026_09_14.json` records the component-completeness audit. Phase 1 now reserves coherent homes for whole-Production Character management, truth/knowledge/disclosure inspection, persistence/recovery status, and Production-level utilities. Phase-D-owned Scene/Take/Rehearsal/branching/provider/cost/portable-format controls remain provisional.
 
-Recovered Drive intake `17gL7K_OnO9JEdYKDnd_lv-NkB-ehmocM` remains inspiration only.
+Director-accepted: Home is resume/current-situation first; Shaping is situation-first; follow meaning into contextual/deep inspection, never a category-first database shell. Exact labels/commands, imagery, icon rail and inspector placement remain open.
+
+Recovered Drive intake `17gL7K_OnO9JEdYKDnd_lv-NkB-ehmocM` remains inspiration only. Local intake audit found 60 files / 26 unique images while the Drive connector direct listing returned 6; binary cloud-preservation continuity therefore remains a separate verification item.
 
 ## Next
-Stop reopening the global shell. Produce focused detailed Phase-1 studies for **Production Home / Resume** and **Production Shaping / Current Possibility**. Use recovered asymmetric hierarchy, adjacent inspection and progressive disclosure without reviving `Studio / Stage / Archive`, a generic dashboard, or an ontology-shaped grid. Then audit those workspaces before returning to Live Stage detail.
+Stop redrawing layout. Begin Phase-1 interaction/state tests: select/follow/edit/return flows, whole-Production Character access, truth/knowledge inspection, persistence/recovery exceptions, causal inspection, unavailable capability, focus restoration and responsive behavior. Fresh-read Engineering at Phase-1 freeze and before Phase-2 control hardening.
 
-Fresh-read Engineering at Phase-1 freeze and before Phase-2 control hardening. Fresh-chat handoff: `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md`; this state supersedes stale checkpoint values there.
+Fresh-chat handoff: `docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md`; this state supersedes stale checkpoint values there.

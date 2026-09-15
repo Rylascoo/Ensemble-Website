@@ -224,6 +224,17 @@ The same shell must remain coherent when there is no active Scene, no Character 
 
 These states are Phase-1 architecture tests, not decorative illustration opportunities.
 
+### 7.7 Component-coverage requirements
+
+The Phase-1 layout family must also reserve coherent homes for four cross-workspace component families confirmed by the component-coverage audit. These are capacity requirements, not final control designs.
+
+- **Whole-Production Character management.** The creator must be able to reach, create, edit and inspect persistent Characters beyond the current Scene without forcing `People` into a mandatory permanent top-level silo. Participation/cast controls remain product-open.
+- **Truth / knowledge / disclosure inspection.** Deep inspection must be able to represent authoritative fact, claim, belief, suspicion, memory, withheld/private information and provenance where Product authority supports those distinctions. Character-bounded views must enforce permitted disclosure. Recovered `Claims & Truth` / `Who Knows What` layouts are inspiration only.
+- **Persistence / recovery status.** Healthy persistence should remain quiet, while saving, recovery, corruption, read-only or persistence failure must have a truthful semantic witness and a path to explanation. Persistence state must never be fictionalized as Character behavior.
+- **Production lifecycle utilities.** The shell or Production scope must reserve a route for settings, portable import/export, provider configuration, diagnostics and recovery utilities. Exact portable format, provider/cost policy and utility commands remain Product/Phase-D dependent.
+
+Recovered artwork also demonstrates manuscript/transcript, session/relationship map, Takes, performer assignment and provider controls. Phase 1 reserves capacity only where current Product semantics require it; these historical controls do not become authority by repetition.
+
 ## 8. Spatial hierarchy rules
 
 Recovered UI explorations may inform composition, but not restore obsolete navigation or product semantics.
@@ -340,6 +351,7 @@ Phase 1 is complete only when all are true:
 - selected entity, attention/opportunity, Perspective, capability and current/history status remain distinguishable;
 - empty, loading, unavailable, historical and provisional/effective states do not require information-architecture redesign;
 - recovered UI-layout inspiration improves hierarchy and density without reviving obsolete product modes;
+- whole-Production Character management, truth/knowledge/disclosure inspection, persistence/recovery status and Production-level utilities each have a coherent route without freezing unresolved Product controls;
 - accessibility/state grammar survives without color, portrait or animation dependence;
 - a fresh read of `Ensemble-Project` finds no promoted product-runtime semantic that invalidates the envelope.
 
