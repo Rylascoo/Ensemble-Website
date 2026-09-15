@@ -2489,3 +2489,19 @@ For the website comparison, only `site/public/stage-v2-2.webp` and its intrinsic
 Local browser proof at 1440x900 and 390x844 shows zero horizontal overflow. Desktop preserves the full three-presence Stage and subordinate threshold; mobile retains all three light territories in the lower art-directed field while identity remains isolated in negative space above.
 
 **Next boundary:** push this exact background-only comparison to draft PR #68, verify the hosted Cloudflare branch preview against committed bytes plus responsive/reduced-motion/forced-colors invariants, then present the hosted pixels to the Director. Production `www.kymaean.com` remains V2.1.
+
+## L-161 - V2.2 three-presence Stage-view background passes exact hosted comparison verification
+
+**State:** HOSTED BACKGROUND COMPARISON PASS / EXACT PUBLIC BYTES / DIRECTOR VISUAL REVIEW NEXT / PRODUCTION V2.1 UNCHANGED
+
+Director-guided Website Sol exploration replaced only the V2.2 background artwork for comparison. The preserved Drive master is `Kymaean_Website_Sol_V2_2_Stage_View_Synthesis_Freeze_Candidate_2026-09-15.png` (Drive id `1CY4pdkFC7fPkODvK7JKC4W0x4LR8dOtX`, SHA-256 `60cb7134aa35523ba20a0654dd77d95a0127cc7716e565483082ee50aad7893a`). The deployed derivative at payload commit `37950ed694ed04a7284c51d52a8a80be509e1f47` is `site/public/stage-v2-2.webp`, 1672x941, 74,740 bytes, SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
+
+The stable PR #68 branch preview serves all nine public assets byte-for-byte equal to the exact Git blobs for payload commit `37950ed694ed04a7284c51d52a8a80be509e1f47`. The response remains HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`, `X-Robots-Tag: noindex`, `Coming Soon`, the `stage-v2-2.webp?v=2` marker, and no Cloudflare analytics beacon.
+
+Hosted Edge/CDP review passes 1440x900, 390x844, 320x640, a 320x640 200% root-text proxy, reduced motion, and actual Edge forced-colors. All cases have zero horizontal overflow. Regular animations terminate; reduced motion exposes zero running animations; forced-colors hides the scene and preserves immediate system-colored Threshold K, KYMÆAN and `Coming Soon`. Desktop/mobile screenshots were visually reviewed with no material rendering defect in the background comparison. Exact payload workflows `Repository publication boundaries` run #789 and `Document status structure` run #571 both pass.
+
+This hosted pass freezes no production promotion and no identity/social-card successor. The deterministic identity/copy layers were intentionally left unchanged so the Director can judge the Stage-view background without conflating a second design variable. `main` and `www.kymaean.com` remain V2.1.
+
+**Next boundary:** Director visual review of the hosted three-presence Stage comparison. If accepted, resolve the separately known identity composition question before any production-promotion decision; do not silently treat the current standalone Threshold K + wordmark arrangement as newly approved by this background test.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**
