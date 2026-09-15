@@ -3230,3 +3230,19 @@ D3 may fail locally if the denser Shaping workspace becomes muddy, over-violet, 
 **Next boundary:** materialize the exact Shaping carrier, run the seven-condition responsive/accessibility matrix, and recursively audit visual plus semantic integrity before any preservation or closeout.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+
+## L-208 - Production Shaping passes F2 Light + provisional D3 Dark representative integration
+
+**State:** PHASE-3 SHAPING INTEGRATION PASS / D3 SURVIVES SECOND REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_PRODUCTION_SHAPING_F2_D3_INTEGRATION_01.json` closes the representative integration on the already-approved Production Shaping / Current Possibility architecture. The exact accepted functional carrier was used; situation-first hierarchy, contextual-inspection depth, current/historical and provisional/effective distinctions, and Product-open boundaries remain unchanged.
+
+Selected Light F2 and exact provisional D3 Dark compose cleanly with MAT-01 F1, TYP-02 F1 and STA-01 F2. The seven-condition matrix passes at 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow. D3 remains legible in the denser workspace without becoming muddy, generic graphite, or more salient than current situation/inspection hierarchy.
+
+Recursive review corrected two non-color defects before closeout: narrow header geometry overflow, and an unauthorized teal rail witness that could have fabricated navigation selection. The latter was removed so teal remains confined to the already-authorized selected relationship edge while keyboard focus remains a separate structural ring. No F2/D3 role value changed after exposure.
+
+Drive Phase-3 archive preserves exact HTML `1W3K8ZZ_nnMtSe-y5TIKrefTY-7R_cyHb` and PNG `1wiY8CDk99tTwDnRd5S0SDU8bLHkV8mdF`.
+
+**Next boundary:** evaluate the same exact Light F2 + provisional D3 pair on the accepted Contextual + Deep Inspection Surface Family. D3 remains provisional until broader representative evidence justifies final freeze.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
