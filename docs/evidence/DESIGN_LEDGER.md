@@ -3003,3 +3003,19 @@ Transcript-dependent motion remains blocked; opportunity algorithm, pips/redunda
 **Next boundary:** static 2–5 present-Character Stage composition/density stress using the frozen carrier as a design witness only; do not infer active-Scene cardinality law or reopen ODR-30.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-194 - Present-Character density stress closes static 2–5 carrier-capacity study
+
+**State:** PHASE-2 DENSITY STRESS PASS / 2–5 VISUAL CAPACITY ONLY / ODR-30 OPEN / STAGE EXCEPTION STATES NEXT
+
+`docs/evidence/APPUI_01_PHASE_2_PRESENT_CHARACTER_DENSITY_STRESS_COMPOSITION_01.json` closes `APPUI-01-P2-DENSITY-01`. The carrier `prototypes/appui-01/phase2-present-character-density-stress-composition-01.html` stress-tests the frozen cone/name/floor Stage carrier at 2, 3, 4 and 5 present-Character composition witnesses.
+
+Sparse two-Character layout retains theatrical negative space without inflating Characters into portrait/avatar monuments. Three/four-character layouts preserve relational spacing and independently readable states. The incumbent five-character witness remains legible without collapsing into cards/dashboard rows. Names remain primary explicit identity; listening remains visible; speaking, creator selection and current opportunity remain separate meanings.
+
+This PASS is visual-capacity evidence only. It does not establish active-Scene minimum/maximum, membership, scheduling, entry/exit, addition/removal, runtime reflow or counts outside the tested range. ODR-30 remains open; `PKT-STAGE-CORE-02` remains authoritative. `Q-DESIGN-02` transcript-dependent Stage motion remains blocked.
+
+Edge CDP passes 1600/1024/390/320 plus 320 forced-colors with zero overflow, images or external resources; wide and narrow review are clean. Exact carrier SHA-256 is `86a3e6339866c200a11a8020253f4289ecdc9d3d4443db9adfc74b75441b3612`; PNG SHA-256 is `5aea6f52a42ef078fdb687d55c41eac97fb621c9c882d4202bc4e9b5f079a1be`.
+
+**Next boundary:** detail Stage-specific unavailable/interrupted/recovery presentation as a static live-workspace exception study, reusing frozen Phase-1 infrastructure-versus-fiction law without inventing runtime behavior.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
