@@ -2632,3 +2632,17 @@ Local Edge/CDP audit passes 2048x1199, 1235x647, 1227x1422, 1138x1354, 768x1024,
 **Next boundary:** commit/push this exact candidate, require exact-head repository workflows and Cloudflare hosted byte/visual verification, then promote under standing clean-recursive-audit authority if hosted evidence remains clean.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN LOCAL RECURSIVE AUDIT.**
+
+## L-170 - Tall-browser portrait successor passes exact hosted verification
+
+**State:** EXACT HOSTED PASS / RESPONSIVE DEFECT CLOSED / PRODUCTION PROMOTION NEXT
+
+Candidate payload `363e9a743f6742db8bae09e261ba122dd0523629` passes exact-head GitHub Actions `Repository publication boundaries` #824 and `Document status structure` #606. The Cloudflare PR #71 branch preview serves all nine public assets byte-for-byte equal to the exact Git blobs. Response policy remains `Cache-Control: public, max-age=0, must-revalidate, no-transform` with `X-Robots-Tag: noindex`, and hosted HTML contains no analytics beacon.
+
+Hosted Edge/CDP repeats the local matrix at 2048x1199, 1235x647, 1227x1422, 1138x1354, 768x1024, 600x900, 599x900, 390x844 and 320x640. All cases have zero horizontal overflow and contained identity; the frozen Stage reports intrinsic 1672x941. Hosted visual inspection of 1227x1422 and 1138x1354 confirms materially more amber/blue Stage context than the prior full-height-cover fallback while preserving the identity -> center presence -> doorway -> shared Stage relationship. The 599/600 transition is visually and geometrically continuous.
+
+At 320x640, 200% root text remains contained, reduced motion exposes zero running animations, and forced colors hides the Stage while retaining the identity. No Stage pixels, identity paths, copy, wide/landscape behavior, social assets, motion law, product disclosure, app/UI authority or final-brand authority changed.
+
+**Next boundary:** merge PR #71 with an exact-head guard, require exact-main workflows, verify live production source bytes/headers and the same responsive/accessibility matrix, then archive/delete the source branch under strict-ancestor/zero-unique law.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN HOSTED RECURSIVE AUDIT.**

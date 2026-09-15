@@ -15,10 +15,12 @@ Director-supplied live evidence exposed one responsive defect in tall computer-b
 
 The candidate changes only `site/public/modes.css`: phones through 599 CSS px retain the existing 160vw / 54.9% treatment; portrait widths from 600px upward use continuous Stage width `calc(200vw - 240px)` and doorway-axis lockup `calc(56.125% - 7.35px)`. The rule is mathematically continuous at 599/600 and leaves landscape/wide rendering unchanged.
 
-## Local recursive audit
-Exact reference checks pass at 2048x1199 wide, 1235x647 mini-wide, 1227x1422 portrait, the Director-observed 1138x1354 tall-browser shape, 768x1024, 600x900, 599x900, 390x844 and 320x640: zero horizontal overflow, contained identity, exact 1672x941 Stage source, preserved left/center/right presence logic and doorway-axis relationship. 320x640 also passes 200% text, reduced motion with zero running animations, and forced colors with the Stage hidden and identity retained.
+## Hosted recursive audit
+Candidate payload `363e9a743f6742db8bae09e261ba122dd0523629` passes exact-head publication boundaries #824 and document structure #606. Cloudflare branch preview serves all nine public assets byte-for-byte equal to the exact Git blobs, retains `Cache-Control: public, max-age=0, must-revalidate, no-transform` and `X-Robots-Tag: noindex`, and contains no analytics beacon.
+
+Hosted Edge/CDP passes 2048x1199 wide, 1235x647 mini-wide, 1227x1422 portrait, the Director-observed 1138x1354 tall-browser shape, 768x1024, 600x900, 599x900, 390x844 and 320x640 with zero horizontal overflow, contained identity, exact 1672x941 Stage source, preserved left/center/right presence logic and doorway-axis relationship. The 599/600 boundary is continuous. 320x640 also passes 200% text, reduced motion with zero running animations, and forced colors with the Stage hidden and identity retained.
 
 ## Frozen cross-lane boundary
 `PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. This website crop correction creates no app UI, cast-size, state, palette, color-semantic, interaction, or final-brand authority.
 
-**Exact next action:** commit/push the candidate with L-169 continuity, require exact-head repository workflows and Cloudflare hosted visual/byte verification, then promote under standing clean-recursive-audit authority only if the hosted pass remains clean; verify production afterward.
+**Exact next action:** merge PR #71 with exact-head guard under standing clean-recursive-audit authority, then verify exact-main workflows, production bytes/headers, the three reference shapes plus the Director-observed tall-browser shape, accessibility invariants, and close the serial branch lifecycle.
