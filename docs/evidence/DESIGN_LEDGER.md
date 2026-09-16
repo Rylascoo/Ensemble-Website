@@ -3438,3 +3438,17 @@ D3 survives this eighth representative section but remains provisional. No produ
 **Next boundary:** evaluate selected Light F2 + exact provisional D3 on the accepted Character-bounded Workspace, preserving persistent identity and materially changed disclosure without leaking creator-only material or making bounded knowledge look less real.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-221 - Character-bounded Workspace F2 + provisional D3 integration method freezes before exposure
+
+**State:** PHASE-3 CHARACTER-BOUNDED-WORKSPACE INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_CHARACTER_BOUNDED_WORKSPACE_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the exact accepted Character-bounded Workspace carrier. Selected Light F2 and exact provisional D3 remain fixed inputs; no post-exposure color retune is allowed.
+
+The study removes the original functional board's Light=creator-global / Dark=bounded confound by requiring four matched specimens: creator-global Light, creator-global D3, Julian-bounded Light and Julian-bounded D3. Theme may not stand in for disclosure.
+
+D3 fails locally if darkness implies bounded/private/secret/less-real information, if Light implies greater truth or global authority, if teal becomes epistemic/disclosure authority, or if bounded specimens advertise inaccessible creator-only material through counts, placeholders, redactions or summaries.
+
+**Next boundary:** materialize the four matched specimens, run the seven-condition responsive/accessibility matrix, and recursively audit disclosure honesty before preservation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**

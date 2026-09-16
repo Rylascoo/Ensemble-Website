@@ -1,0 +1,48 @@
+{
+  "schema": "kymaean.appui-phase3-character-bounded-workspace-f2-d3-integration-method.v1",
+  "status": "PHASE_3_CHARACTER_BOUNDED_WORKSPACE_INTEGRATION_METHOD_FROZEN_PRE_EXPOSURE",
+  "date": "2026-09-15",
+  "program": "APPUI-01 Phase 3 - Kymaean Visual-Language Integration",
+  "authority": {
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "pre_exposure_ref": "6924d0c4095f4cdf02f0f8747e3c7f43e78d86a3",
+    "website_main_reconciled": "10434eb5eb79793055d002e8742b288fb5268e12",
+    "engineering_main_reconciled": "46c5d7fc8597b33012e2f083fd42113a47b83e77",
+    "functional_parent": "docs/evidence/APPUI_01_CHARACTER_BOUNDED_WORKSPACE_FUNCTIONAL_STUDY_01.json"
+  },
+  "fixed_inputs": {
+    "light_f2": {"field":"#F4F3F7","primary":"#221B2D","secondary":"#5C5565","accent":"#006F73","boundary":"#7D7486","soft_surface":"#EAE8EF"},
+    "dark_d3": {"field":"#19141D","primary":"#F4F0F5","secondary":"#BEB4C0","accent":"#249A9C","boundary":"#756A79","soft_surface":"#261F29"},
+    "material": "MAT-01 F1 Subtractive Channel",
+    "typography": "TYP-02 F1 Ratio Ladder",
+    "state": "STA-01 F2 only where an already-authorized UI state requires it"
+  },
+  "comparison": "Four matched specimens: creator-global Light, creator-global D3, Julian-bounded Light, Julian-bounded D3. Theme may not stand in for disclosure.",  "must_preserve": [
+    "same Production and persistent Character identity across creator-global and bounded contexts",
+    "creator-only information absent/inaccessible in bounded representation rather than dimmed, teased, counted or summarized",
+    "permitted current context and observable cues become primary in bounded representation",
+    "disclosure != identity",
+    "creator selection/focus != fictional salience",
+    "creator command != Character agency",
+    "unknown != withheld != absent",
+    "provider/model/cost/capability/diagnostics/recovery remain creator/application infrastructure by default",
+    "Close/Back restores the prior creator semantic origin and focus without transferring hidden knowledge"
+  ],
+  "falsification": [
+    "D3 darkness itself implies bounded/private/secret/less-real information.",
+    "Light brightness itself implies creator-global authority, greater truth or more complete reality.",
+    "Teal/accent becomes shorthand for known, remembered, permitted, hidden, withheld or disclosure authority.",
+    "Creator-only material is visually teased in bounded specimens through counts, placeholders, redactions or summaries.",
+    "Theme or material treatment substitutes for materially different represented information.",
+    "D3 weakens persistent Character identity, permitted current context, agency boundary or exact return."
+  ],
+  "test_matrix": ["1600", "1024", "390", "320", "320_forced_colors", "320_text_200_percent", "320_text_spacing"],
+  "no_retune_after_exposure": true,  "non_authority": [
+    "No final Presentation Perspective selector, entry/exit label, timing or confirmation semantics are frozen.",
+    "No final knowledge schema, inference policy or knowledge-transfer semantics are frozen.",
+    "No performance input grammar, Take a Seat command, performer/provider assignment or Stage visual successor is created.",
+    "No production token freeze, native implementation or Phase-3 convergence authority is created.",
+    "D3 remains provisional even if this local study passes."
+  ],
+  "next": "Materialize the exact accepted Character-bounded Workspace in the four matched Light/D3 creator-global/bounded specimens, run the frozen seven-condition matrix, and audit disclosure honesty before preservation."
+}
