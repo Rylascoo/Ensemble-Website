@@ -1,0 +1,43 @@
+name: Temporary Website PERSON Closeout
+
+on:
+  push:
+    branches:
+      - site/v2-2-mascot-person-state-closeout-2026-09-16
+
+permissions:
+  contents: write
+
+jobs:
+  closeout:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: site/v2-2-mascot-person-state-closeout-2026-09-16
+          fetch-depth: 0
+      - name: Append L-191 exactly once
+        shell: bash
+        run: |
+          set -euo pipefail
+          if ! grep -q '^## L-191 ' docs/evidence/DESIGN_LEDGER.md; then
+            printf '%s' 'CgojIyBMLTE5MSAtIFdlYnNpdGUgUEVSU09OLXN0YXRlIHN0dWR5IHNlbGVjdHMgZmF2b3JpdGUtcGFyaXR5IEJlbGx3ZWF0aGVyIHNjYWxlCgoqKlN0YXRlOioqIE5PTi1QUk9EVUNUSU9OIERFVEVSTUlOSVNUSUMgUEVSU09OIFNUVURZIENPTVBMRVRFIC8gUDIgU0VMRUNURUQgLyBQMSBMT1dFUi1CT1VORCBDT05UUk9MIC8gUDMgUkVKRUNURUQgQVMgUE9TVEVSLURPTUlOQU5UIC8gV09STEQgU1RVRFkgTkVYVCAvIFBST0RVQ1RJT04gVU5DSEFOR0VECgpUaGUgRGlyZWN0b3ItYXV0aG9yaXplZCBQRVJTT04tc3RhdGUgZW5jb3VudGVyIHdhcyBtYXRlcmlhbGl6ZWQgZnJvbSB0aGUgZmF2b3JpdGUgbWlkZGxlLWltYWdlIC8gVGhyZXNob2xkIFByZXNlbmNlIGdyYW1tYXIgd2hpbGUgcHJlc2VydmluZyB0aGUgZnJvemVuIFYyLjIgU3RhZ2UgYW5kIGN1cnJlbnQgS1lNw4ZBTiBzeXN0ZW0gaWRlbnRpdHkuIFRoZSBhcHByb3ZlZCBCZWxsd2VhdGhlciBmb3JtYWwtZ293biB0dXJuYXJvdW5kIHN1cHBsaWVkIHRoZSB0aHJlZS1xdWFydGVyLWJhY2sgcG9zZSBmYW1pbHk7IGEgZGV0ZXJtaW5pc3RpYyBleHRyYWN0ZWQgY2FycmllciB3YXMgdXNlZCBvbmx5IGZvciBwbGFjZW1lbnQgZXZpZGVuY2UgYW5kIGRvZXMgbm90IHJlcGxhY2UgZm91bmRhdGlvbmFsIG1hc2NvdCBhdXRob3JpdHkuCgpUaHJlZSB3aWRlIHNjYWxlIHJlZ2ltZXMgd2VyZSBjb21wYXJlZCBhdCAyMDQ4eDExOTkuIFAxIGF0IDY0c3ZoIHJlbWFpbnMgdmFsaWQgYnV0IHJlYWRzIGNsb3NlciB0byBQUkVTRU5DRSB0aGFuIFBFUlNPTi4gUDIgYXQgNzlzdmgvcmlnaHQgOC41dncgY3JlYXRlcyB0aGUgaW50ZW5kZWQgaHVtYW4tc2NhbGUgcmVjb2duaXRpb24gd2hpbGUga2VlcGluZyBLWU3DhkFOIGZpcnN0LiBQMyBhdCA5NnN2aC9lZGdlIGNyb3AgbWFrZXMgQmVsbHdlYXRoZXIgdGhlIGRvbWluYW50IGVkaXRvcmlhbCBzdWJqZWN0IGFuZCBjcm9zc2VzIHRoZSBjdXJyZW50IG1hc2NvdC1wb3N0ZXIgYm91bmRhcnkuCgpQMiB3YXMgdGhlbiBhdWRpdGVkIGF0IDEyMzV4NjQ3IGFuZCAxMTM4eDEzNTQuIFRoZSBmaXJzdCB0YWxsIHBhc3MgZXhwb3NlZCBhbiB+MTFweCByaWdodC1lZGdlIHNwaWxsOyB0aGUgaW5zZXQgd2FzIGNvcnJlY3RlZCBhbmQgdGhlIGF1ZGl0IHJlcGVhdGVkLiBGaW5hbCB3aWRlLCBtaW5pLXdpZGUgYW5kIHRhbGwgcGFzc2VzIGhhdmUgbm8gYnJhbmQtbG9ja3VwIG92ZXJsYXAgYW5kIHplcm8gaG9yaXpvbnRhbCBvdmVyZmxvdy4gQ29udHJvbGxlZCBib3R0b20gY3JvcCBpcyBpbnRlbnRpb25hbC4KCkNhbm9uaWNhbCBEcml2ZSBldmlkZW5jZTogYDA0IERldGVybWluaXN0aWMgUEVSU09OLVN0YXRlIEVuY291bnRlciDigJQgMjAyNi0wOS0xNmAgKGAxQzhMc2RCb2l2czNvUXlXVVhsQWhxUHF5N3RIVDZocFRgKSwgaW5jbHVkaW5nIHdpZGUgY29tcGFyaXNvbiBgMXR1dm1ld3ltTWY2X0JMaEw5aDByc2dOQVpnV2ZvWmZJYCwgcmVzcG9uc2l2ZSBhdWRpdCBgMVBRRmhQQW4zYlhyYzM5dUN5ODlFMWJZa1lHQTFtTFNaYCwgYW5kIHN5bnRoZXNpcyBgMTVhU1FralVyMHBjejRsTTRwZjNTUHBrUGY0VVlTRjYxTnBLUGY4bkkwTlVgLgoKVGhlIG5hcnJhdGl2ZSBwcm9ncmVzc2lvbiByZW1haW5zIGBQTEFDRSAtPiBQUkVTRU5DRSAtPiBQRVJTT04gLT4gV09STERgOiBBNC9BMyByZXRhaW4gdGhlIFBSRVNFTkNFIGdyYW1tYXI7IFAyIG5vdyBkZWZpbmVzIHRoZSBsYXRlciBQRVJTT04tc3RhdGUgc2NhbGUvY3JvcCBlbnZlbG9wZS4gVGhlIGV4YWN0IG5leHQgV2Vic2l0ZSBTb2wgZGVzaWduIHF1ZXN0aW9uIGlzIFdPUkxEIOKAlCB0aGUgbWluaW11bSBzb2NpYWwvZW52aXJvbm1lbnRhbCBldmlkZW5jZSBuZWVkZWQgdG8gcHJvdmUgYSBsYXJnZXIgaW5oYWJpdGVkIHdvcmxkIHdpdGhvdXQgcHJvZHVjdCBleHBsYW5hdGlvbiBvciB1bml2ZXJzYWxpemluZyBCZWxsd2VhdGhlcidzIDE5MjBzIFByb2R1Y3Rpb24uCgpObyBgc2l0ZS9wdWJsaWMvKipgIGJ5dGVzLCBwcm9kdWN0aW9uIFN0YWdlLCBwcm9kdWN0aW9uIGlkZW50aXR5LCBhY2Nlc3NpYmlsaXR5IGJlaGF2aW9yLCBhcHAgVUksIHByb2R1Y3Qgc2VtYW50aWNzLCB1bml2ZXJzYWwgQ2hhcmFjdGVyLWZhY2UgbGF3IG9yIEJlbGx3ZWF0aGVyIGF1dGhvcml0eSBjaGFuZ2VkLgoKKipBUFBST1ZFRCBCWSBTVEFORElORyBESVJFQ1RPUiBERUxFR0FUSU9OIOKAlCBDTEVBTiBSRUNVUlNJVkUgQVVESVQuKioK' | base64 -d >> docs/evidence/DESIGN_LEDGER.md
+          fi
+      - name: Validate closeout
+        run: |
+          python3 tools/validate_document_status.py
+          python3 tools/validate_repository_boundaries.py
+          python3 tools/generate_docs_index.py --check
+          git diff --check
+      - name: Commit ledger continuity
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/evidence/DESIGN_LEDGER.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'website: close PERSON-state study continuity'
+            git push origin HEAD:refs/heads/site/v2-2-mascot-person-state-closeout-2026-09-16
+          fi
