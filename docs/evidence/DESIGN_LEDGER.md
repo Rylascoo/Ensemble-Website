@@ -3035,3 +3035,22 @@ The next Website Sol creative question is the non-production PERSON-state encoun
 No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
 
 **DIRECTOR SIGNAL PRESERVED — A4 DELAYED REVEAL IS THE PREFERRED OPENING GRAMMAR; A3 IS THE STATIC CONTROL; PRODUCTION REMAINS FROZEN.**
+
+
+## L-191 - Website PERSON-state study selects favorite-parity Bellweather scale
+
+**State:** NON-PRODUCTION DETERMINISTIC PERSON STUDY COMPLETE / P2 SELECTED / P1 LOWER-BOUND CONTROL / P3 REJECTED AS POSTER-DOMINANT / WORLD STUDY NEXT / PRODUCTION UNCHANGED
+
+The Director-authorized PERSON-state encounter was materialized from the favorite middle-image / Threshold Presence grammar while preserving the frozen V2.2 Stage and current KYMÆAN system identity. The approved Bellweather formal-gown turnaround supplied the three-quarter-back pose family; a deterministic extracted carrier was used only for placement evidence and does not replace foundational mascot authority.
+
+Three wide scale regimes were compared at 2048x1199. P1 at 64svh remains valid but reads closer to PRESENCE than PERSON. P2 at 79svh/right 8.5vw creates the intended human-scale recognition while keeping KYMÆAN first. P3 at 96svh/edge crop makes Bellweather the dominant editorial subject and crosses the current mascot-poster boundary.
+
+P2 was then audited at 1235x647 and 1138x1354. The first tall pass exposed an ~11px right-edge spill; the inset was corrected and the audit repeated. Final wide, mini-wide and tall passes have no brand-lockup overlap and zero horizontal overflow. Controlled bottom crop is intentional.
+
+Canonical Drive evidence: `04 Deterministic PERSON-State Encounter — 2026-09-16` (`1C8LsdBoivs3oQyWUXlAhqPqy7tHT6hpT`), including wide comparison `1tuvmewymMf6_BLhL9h0rsgNAZgWfoZfI`, responsive audit `1PQFhPAn3bXrc39uCy89E1bYkYGA1mLSZ`, and synthesis `15aSQkjUr0pcz4lM4pf3SPpkPf4UYSF61NpKPf8nI0NU`.
+
+The narrative progression remains `PLACE -> PRESENCE -> PERSON -> WORLD`: A4/A3 retain the PRESENCE grammar; P2 now defines the later PERSON-state scale/crop envelope. The exact next Website Sol design question is WORLD — the minimum social/environmental evidence needed to prove a larger inhabited world without product explanation or universalizing Bellweather's 1920s Production.
+
+No `site/public/**` bytes, production Stage, production identity, accessibility behavior, app UI, product semantics, universal Character-face law or Bellweather authority changed.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
