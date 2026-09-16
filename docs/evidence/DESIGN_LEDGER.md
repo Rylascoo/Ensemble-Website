@@ -3071,3 +3071,22 @@ Drive evidence: broad-social concept board `1RZQz8PMZ2d8OBzwyXM2fEn2i9QUe7LVm`; 
 **Exact next action:** deterministic non-production W0/W1/W2 reconstruction against the exact frozen V2.2 Stage/current KYMÆAN lockup and selected P2 Bellweather envelope, across wide, mini-wide and tall. W0 is PERSON control; W1 is trace without another visible person; W2 is one distant independent adult. No production promotion is authorized by this closure.
 
 No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
+
+
+## L-193 — Deterministic WORLD-state study selects trace-before-visible-life sequence
+
+**State:** NON-PRODUCTION DETERMINISTIC WORLD STUDY COMPLETE / W1 TRACE SELECTED AS DEFAULT WORLD TRANSITION / W2 DISTANT INDEPENDENT LIFE SELECTED AS LATER CONFIRMATION / TEMPORAL CHOREOGRAPHY NEXT / PRODUCTION UNCHANGED
+
+Website Sol completed the exact W0/W1/W2 reconstruction required by L-192. W0 uses byte-identical copies of the selected P2 PERSON controls at wide 2048×1199, mini-wide 1235×647 and tall 1138×1354. The frozen Stage, current KYMÆAN lockup and P2 Bellweather carrier remain constant; WORLD evidence is isolated to a separate deterministic overlay layer.
+
+W1 introduces one subdued environmental trace with no second visible person. W2 introduces one materially smaller, distant independent adult whose trajectory is unrelated to Bellweather or the viewer. Recursive audit corrected an initially graphic/prop-like W1, an initially icon-like W2, and an over-hidden W1 placement. The final variants remain fully contained and do not intersect the current identity lockup in any target viewport.
+
+Result: W1 is the preferred mystery-preserving WORLD transition; W2 is the preferred explicit confirmation that another independent life exists. W3/multiple-person relationship remains an upper-bound later-story state, not the default. The broader crowded social execution remains rejected as too literal and too likely to make Bellweather's 1920s Production read as universal KYMÆAN identity.
+
+Narrative grammar remains `PLACE -> PRESENCE -> PERSON -> TRACE -> OTHER LIFE -> RELATIONSHIP`. The decisive WORLD distinction is not “more people”; it is evidence that lives continue beyond Bellweather.
+
+Canonical Drive evidence: folder `05 Deterministic WORLD-State Minimal Evidence — 2026-09-16` (`12C0A1OPXmaYziSseaBJRowEKVtYhg8Aj`); synthesis document `1qHkDHhDnFcYeKoS5lUjdGNdGMlUpO5y-lV48ztgoyI0`; deterministic prototype source `175t7gwqHmBuMtz0caXp9cPCjJymYzmvA`.
+
+**Exact next action:** build one isolated non-production temporal choreography prototype using the already selected carriers in sequence: A4 delayed PRESENCE -> P2 PERSON -> W1 TRACE -> W2 OTHER LIFE. Test transition timing, Bellweather persistence/absence and whether each state feels discovered rather than presented. Stop before production promotion.
+
+No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
