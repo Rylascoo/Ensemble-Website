@@ -17,7 +17,7 @@ The Director reopened Website Sol for a non-production Bellweather integration s
 
 Current synthesis: opening-state study should use Distant Presence scale discipline with Departing/Crossing behavior; the Director-favorite closer near-front Threshold Presence is reserved as a later/second-state human encounter. Intended progression: `PLACE -> PRESENCE -> PERSON -> WORLD`.
 
-Bellweather foundational visual authority remains L-187 / `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md`. L-189 / `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md` additionally freezes four Human Bellweather Image 5 morning/private variations while preserving the foundational and formal families. Mascot refinement may continue in parallel; this website study must preserve integration grammar without silently replacing those mascot authorities.
+Bellweather foundational visual authority remains L-187 / `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md`; L-189 / `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md` freezes four Human Image 5 morning/private variations. Post-L189 expression/pose/fitted-wardrobe work is archived in Drive folder `1VFHIB-5z-rKi8bHP1JYVNKnSJaJ5D4qv` with manifest `1hsGOgflIgs1xnvB9en_ceAJofRwzmta9`; it is active non-frozen exploration and preserves the foundational/formal authorities. Mascot refinement may continue in parallel; the website study must preserve integration grammar without silently replacing mascot authority.
 
 ## Frozen boundary
 No production bytes, Stage repaint, generated typography, new logo, added ornamental frame, Bellweather-specific universal UI language, app UI, product disclosure, Threshold K path redesign or universal Character-face requirement is authorized.
