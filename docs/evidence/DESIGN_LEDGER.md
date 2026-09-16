@@ -2664,3 +2664,19 @@ No Stage pixels, identity geometry, copy, wide/landscape composition, social ass
 **Next boundary:** hold V2.2 stable. Future Website Sol visual/CSS changes must begin from current main and pass the responsive visual standard plus repository, publication and accessibility verification before promotion.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRODUCTION RECURSIVE AUDIT.**
+
+## L-172 - Website identity alignment reopens from doorway-axis to viewport-center
+
+**State:** DIRECTOR REOPENING / LETTERING REFINEMENT ACTIVE / PRODUCTION V2.2 UNCHANGED
+
+After live V2.2 responsive closeout, the Director reviewed the wide and tall production compositions and reopened only the website identity treatment. The Stage world, three-presence order, doorway, native architectural framing, responsive crop system and production publication remain accepted. Generated studies that altered Stage architecture or replaced the historical Threshold K / O3 lettering are rejected as implementation references.
+
+The Director's new alignment decision is explicit: the visible `KYMÆAN` + `COMING SOON` lockup should be centered to the **user viewport**, not to the doorway axis. The existing doorway-axis rule remains historical/current-production behavior until a successor is reviewed and promoted; it is not the target for the next identity candidate.
+
+The exact historical Threshold K geometry remains unchanged. O3 remains the deterministic `YMÆAN` starting point, but the current integrated lettering is not considered finished. Ad-hoc per-letter translations from the exploratory optical-spacing pass are rejected. Additional drawn viewport framing is also rejected because the frozen Stage's own wings, upper arcs, edge catches and rim already supply the frame.
+
+The next bounded comparison is deterministic and non-production: **A — O3 reset**, **B — geometry-preserving optical spacing**, **C — B plus minimal optical stroke hierarchy**. Each must be viewport-centered and evaluated simultaneously at wide 2048x1199, mini-wide 1235x647 and the Director-observed tall-browser shape near 1138x1354. Vertical rhythm may lower the lockup modestly and tighten the `Coming Soon` relationship, but must be judged independently from horizontal centering.
+
+**Guardrail:** no Stage regeneration/repaint, generated replacement typography, Threshold K redesign, added viewport frame overlay, app/UI authority, palette reopening, product disclosure or production deployment before the comparison is selected and recursively audited.
+
+**Next boundary:** build the exact A/B/C comparison from current `main`; production `www.kymaean.com` remains unchanged.

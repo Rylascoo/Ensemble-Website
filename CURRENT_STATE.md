@@ -8,22 +8,20 @@ Updated: 2026-09-15
 Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Production
-Website Placeholder V2.2 is live on `www.kymaean.com`; production main is `b33c242c4b21322df9e04a70a40adffe2df4b777` after PR #71. The frozen Stage, integrated Threshold-K-as-K lockup, `Coming Soon`, corrected social card, motion behavior, accessibility behavior and no-analytics boundary remain unchanged.
+Website Placeholder V2.2 is live on `www.kymaean.com`. Repository `main` is `842f7f631ef9a5ca87ce9342217910c6036cab1b`; the public site bytes remain the verified PR #71 tall-browser correction payload. Frozen Stage artwork, three-presence order, `Coming Soon`, social card, accessibility behavior and no-analytics boundary remain unchanged.
 
-Tall computer-browser portrait behavior is corrected: phones through 599 CSS px retain the accepted 160vw / 54.9% crop; portrait widths from 600px upward use continuous Stage width `calc(200vw - 240px)` and doorway-axis lockup `calc(56.125% - 7.35px)`. Wide/landscape rendering remains unchanged.
+The live responsive crop law is still `docs/KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md`, including the continuous tall-browser portrait correction. Production remains stable while identity refinement is explored off-production.
 
-## Production verification
-Exact-main workflows pass: publication boundaries #827 and document structure #609. All nine live public assets match exact `main` Git blobs; production returns HTTP 200 with `Cache-Control: public, max-age=0, must-revalidate, no-transform`; no analytics beacon is present.
+## Active Website Sol identity refinement
+Director reopened only the website lockup treatment after reviewing live wide/tall screenshots. The Stage itself and its native architectural framing are sufficient; do **not** add a viewport-drawn frame overlay and do not regenerate or repaint the Stage.
 
-Live Edge/CDP passes 2048x1199, 1235x647, 1227x1422, the Director-observed 1138x1354 tall-browser shape, 768x1024, 390x844 and 320x640 with zero horizontal overflow, contained identity and exact 1672x941 Stage source. At 320x640, 200% text remains contained, reduced motion has zero running animations, and forced colors hides the Stage while retaining identity.
+Latest Director decision: the `KYMÆAN` + `COMING SOON` lockup should be centered to the **user viewport (50%)**, not to the doorway axis. This successor decision intentionally differs from the current production alignment and must be implemented only in a reviewed successor candidate.
 
-## Responsive visual law
-`docs/KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md` remains Website Sol regression authority. Governing principle: preserve relationships before preserving objects; portrait views are curated crops of the same frozen Stage world.
+Lettering remains unresolved. Preserve the exact historical Threshold K geometry and use O3 `YMÆAN` as the deterministic starting point. Reject generated replacement typography and ad-hoc per-letter drift. Next comparison is: A = O3 reset; B = geometry-preserving optical spacing; C = B plus minimal optical stroke-hierarchy refinement. Compare all three simultaneously at wide 2048x1199, mini-wide 1235x647 and tall-browser ~1138x1354.
+
+Vertical-rhythm direction survives: lower the identity modestly relative to the earlier live state and keep `COMING SOON` more closely associated with the wordmark, but judge vertical placement independently from horizontal centering.
 
 ## Frozen cross-lane boundary
-`PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. Website V2.2 creates no app UI, cast-size, state, palette, color-semantic, interaction, or final-brand authority.
+`PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. This website refinement creates no app UI, cast-size, state, palette, color-semantic, interaction, shared-brand-final, or product authority.
 
-## Branch lifecycle
-PR #71 source branch `site/v2-2-tall-browser-crop-2026-09-15` was a strict ancestor of main with zero unique commits, archived at tag `archive/site/v2-2-tall-browser-crop-2026-09-15` -> `cc556130f6a8e485d8db25c3c1fccd59ee6d76da`, then deleted remotely.
-
-**Exact next action:** hold the live V2.2 website stable. Any later Website Sol visual/CSS change starts from current `main` and must pass the responsive visual standard plus repository/publication/accessibility checks before production promotion.
+**Exact next action:** from current `main`, build the deterministic A/B/C viewport-centered lettering comparison over the exact frozen Stage, with no extra framing and no production change; recursively audit the three reference shapes before selecting any candidate.
