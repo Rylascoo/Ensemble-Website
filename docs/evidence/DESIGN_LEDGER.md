@@ -2916,3 +2916,23 @@ Production `www.kymaean.com` remains unchanged until the exact candidate passes 
 **Next boundary:** commit/push this exact candidate plus continuity, require exact-head repository workflows and exact Cloudflare preview byte/header/no-analytics/browser verification, then promote only if the hosted recursive audit remains clean.
 
 **DIRECTOR SIGNAL PRESERVED — B 1.03× CONFIRMED; LOCAL PRODUCTION CANDIDATE PASS.**
+
+## L-184 - Director-confirmed Threshold K parity candidate passes exact hosted audit
+
+**State:** EXACT HOSTED PASS / DIRECTOR-CONFIRMED B / PRODUCTION UNCHANGED / GUARDED MERGE NEXT
+
+Candidate head `0a8513d80ed4cfb348f71a24e4a8f9d119b27ad6` passed exact-head `Repository publication boundaries` run #924 and `Document status structure` run #702. Cloudflare Workers build `d5ddc24f-40f3-48fb-a98d-ebd9eaec6283` succeeded and exposed exact commit preview `https://4b9d1fc5-kymaean-site.wirylasc.workers.dev`.
+
+All nine hosted public assets match the exact Git blobs byte-for-byte. The frozen Stage remains SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`; V5 social card remains 92,344 bytes / SHA-256 `36faecf3022c269f40eb10364f26c0f40b350eedd4d27f1ec92b08de0b5b04a6`. Hosted responses preserve `Cache-Control: public, max-age=0, must-revalidate, no-transform`, preview `X-Robots-Tag: noindex`, and no analytics injection.
+
+Hosted Edge/CDP passes the nine-shape responsive matrix from 2048×1199 through 320×640, plus 200% text, reduced motion and forced colors. Exact viewport centering, Stage dimensions and containment all hold.
+
+Visual inspection remains clean: wide stays restrained, mini-wide shows the clearest apparent-size parity gain, tall preserves quiet viewport ownership, and portrait/mobile remain uncrowded. No additional scale, K path, spacing, hierarchy, Stage/crop, copy or generative refinement is justified.
+
+Canonical hosted audit: `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_HOSTED_AUDIT_01.md`.
+
+Production remains unchanged until the continuity-only hosted-audit head is validated and PR #85 is promoted with an exact-head guard.
+
+**Next boundary:** commit/push hosted-audit continuity, require exact-head repository checks and Cloudflare deployment readback for the continuity head, then mark PR #85 ready and merge only if no contrary signal appears.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN EXACT HOSTED RECURSIVE AUDIT.**
