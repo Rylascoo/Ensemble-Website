@@ -6,7 +6,7 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 292
+Total Markdown documents: 294
 Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
@@ -81,8 +81,9 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md`
 - `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
 
-## HISTORICAL EVIDENCE (230)
+## HISTORICAL EVIDENCE (232)
 
+- `docs/BELLWEATHER_MASCOT_DESIGN_FRESH_CHAT_HANDOFF_2026_09_16.md`
 - `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`
 - `docs/HANDOFF_V0_4_PRESENCE.md`
 - `docs/HANDOFF_V0_5B_SURFACE_BLIND_DIVERGENCE.md`
@@ -248,6 +249,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`
 - `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
 - `docs/evidence/BELLWEATHER_FORMAL_GOWN_TURNAROUND_01.md`
+- `docs/evidence/BELLWEATHER_MOTION_AND_MASCOT_VISION_STUDIES_01.md`
 - `docs/evidence/HERO_ARTWORK_BRIEF_01_ARCHIVE_INDEX.md`
 - `docs/evidence/HERO_ARTWORK_BRIEF_01_RECURSIVE_AUDIT.md`
 - `docs/evidence/HERO_ARTWORK_BRIEF_01_SOURCE_SYNTHESIS.md`
