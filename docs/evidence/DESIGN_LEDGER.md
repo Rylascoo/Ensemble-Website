@@ -3783,3 +3783,27 @@ No consequence review, replay, rollback, branching, exhaustive causal graph/infe
 **Next boundary:** open `APPUI-COMP-07` for truth / knowledge / disclosure inspection inside the COMP shell, preserving source/provenance and creator-global versus Character-bounded disclosure without freezing a final epistemic data model.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-241 - APPUI-COMP-07 closes creator-global to Character-bounded disclosure as nested real-shell task depth
+
+**State:** REAL TRUTH/KNOWLEDGE/DISCLOSURE PASS / PKT-COMP-07-01 ACTIVE / PERSISTENCE-RECOVERY INTEGRATION NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_TRUTH_KNOWLEDGE_DISCLOSURE_INTEGRATION_METHOD_01.json` froze the bounded successor after COMP-06. The carrier `prototypes/appui-01/component-system-truth-knowledge-disclosure-integration-01.html` derives its second-ledger Fact, Claim, Private/withheld and Provenance witnesses from the accepted disclosure studies and keeps the Scene-12 ledger question as the real-shell semantic origin.
+
+Creator-global inspection now opens as exclusive task depth without changing durable navigation. Claim is the selected epistemic witness while Provenance can carry independent keyboard focus, proving accent/selection is not truth or source authority. The optional Julian-bounded subview preserves the same persistent Character while exposing only source-authorized Julian-visible claim material.
+
+The strongest disclosure invariant is mechanically enforced: the bounded view contains zero visible creator-global-only records, zero private-record label/content leaks and zero hidden-count/redaction/placeholder witnesses. Its generic boundary law explains non-leakage without enumerating or hinting specific hidden material. Back restores the creator-global bounded-view trigger focus with Claim selection intact; creator-global Back/Close restores the current ledger question and disclosure trigger focus without knowledge transfer or Production mutation.
+
+The first seven-case matrix found 18 repeated 320px / 200%-text overflow witnesses from law-card intrinsic width and small disclosure-workspace containment expansion across current/global/bounded states. Repairs added min/max-width containment and overflow wrapping only. No disclosure semantics, epistemic witness meaning, color role or frozen visual mechanism changed.
+
+The final seven-case matrix passes current, creator-global and Julian-bounded states at 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero page/internal overflow, zero missing button names, zero undersized icon-only controls, independent solid 2px focus with 2px offset, contextual disclosure availability, exact nested return and zero external resources/images.
+
+Visual review remains clean: Fact/Claim/Private/Provenance use labels/structure rather than hue; darkness does not imply secrecy/boundedness/uncertainty; Light does not imply greater truth/global authority; Claim selection stays sparse; Julian-bounded material remains equally real while exposing less information; and no permanent Knowledge/Truth destination appears.
+
+Final race reconciliation records Website `main@8b375780cdbdcb6e21940b6cf5db7c4badf21b19` and Engineering `main@3d7a5419afd1c502ce6aaba8f3ca906b48d6a868`. Engineering advanced only through E0-D P02 Slot-1 terminal evidence and queue continuity; Website still explicitly freezes app UI. Neither changes disclosure Product semantics, so the streams remain deliberately unmerged.
+
+No final epistemic taxonomy, field schema, storage model, truth authority, confidence semantics, inference policy, knowledge-transfer/discovery/forgetting/deception/contradiction-resolution semantics, Stage successor, production token or native WinUI/XAML authority is created.
+
+**Next boundary:** open `APPUI-COMP-08` for persistence / recovery status inside the COMP shell. Healthy persistence must remain quiet; interruption/recovery must remain truthful application state outside fiction; the prior task, semantic origin and focus must restore exactly without inventing Character behavior.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
