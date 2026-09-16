@@ -7,21 +7,17 @@ Updated: 2026-09-16
 `Rylascoo/Ensemble-Website` is Design/UI/website authority; `Rylascoo/Ensemble-Project` is read-only Product/Engineering input. Recover live refs and `AGENTS.md` first.
 
 ## Active APPUI stream
-APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; Website publication remains separate. Website `main@e0e6cf26441745547f0e09cc2c27ea6ba8059a2b` opens a non-production Bellweather website integration study while explicitly freezing app UI; foundational Bellweather authority remains a separate future integration input.
+APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; concurrent Website publication/mascot work remains separate on `main`. Do not convenience-merge/rebase either stream.
 
-Phase-1 architecture/layout remains FROZEN PASS; Phase-2 static Stage coverage remains CLOSED PASS. Light F2, Dark D3, MAT F1, TYP F1, STA F2 and the invariant dark Stage remain frozen.
+Phase-1 architecture/layout is FROZEN PASS; Phase-2 static Stage coverage is CLOSED PASS. Selected Light F2, Dark D3, MAT F1, TYP F1, STA F2, FICON F1 and invariant dark Stage remain unchanged.
 
-## APPUI-COMP-01 - CLOSED PASS
-Director instruction to continue unfinished app-interface design lawfully re-entered APP VISUAL through the separate component-system boundary. `docs/KYMAEAN_APPUI_COMPONENT_SYSTEM_FOUNDATION_01.md` and `PKT-COMP-01-01` establish the Product-independent foundational control grammar.
+## APPUI-COMP-02 - CLOSED PASS
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_SHELL_INTEGRATION_RESULT_01.json` and `PKT-COMP-02-01` close the first real application-shell integration above COMP-01. Current Production/current situation and Resume dominate; Home / Productions / Settings stay thin; Other Productions remain quiet rows; Production switching is transient; Light/Dark preserve one meaning. Seven-case responsive/accessibility browser preflight passes.
 
-Primary actions use monochrome hierarchy rather than teal; selection may receive teal only with an independent STA structural witness; focus remains separate; functional control boundaries/transient elevation are allowed without becoming card/tile identity; pending/read-only/unavailable/invalid remain explicit and hue-independent. Seven-case responsive/accessibility preflight passes.
+No Scene lifecycle, Take/Rehearsal/branching, Perspective switching, provider/model/cost, Performer assignment, bespoke domain icons, Bellweather placement, final fonts, motion/Stage successor, production tokens or native WinUI/XAML authority is created.
 
-FICON F1 Native Quiet Carrier remains the conventional platform-verb basis. No bespoke domain icons, final font files, production tokens, native WinUI/XAML, shipping authority or Stage successor is created.
-
-## Product / queue boundary
-Engineering `main@e007ed2838c892f2d7734dcf6ac87b6b00022684` remains E0-D PREWINDOW HOLD. P02 Slot 1 may launch only inside `2026-09-17T14:30:00Z..23:30:00Z`; P02 Slot 2/P03 remain unauthorized and E0-E blocked. No new Product semantics alter APPUI.
-
-Central `Q-DESIGN-19` remains stale historical CLR-01 queue state; reconciliation is deferred while Engineering is in the sensitive E0-D boundary.
+## Cross-lane truth
+Website `main@cc312f3fd974f3c564aba0d210f64b75e195b0b2` explicitly freezes app UI while its Bellweather website study proceeds. Engineering `main@e007ed2838c892f2d7734dcf6ac87b6b00022684` adds no new Phase-D Product semantics that alter APPUI.
 
 ## Next
-Open `APPUI-COMP-02`: apply the component foundation to the actual application shell, durable scope/navigation, command regions and Production/resume workspace. Do not invent unresolved Scene/Take/Rehearsal/provider/Performer semantics or retune F2/D3/MAT/TYP/STA/FICON/Stage.
+Continue real APPUI interface design from the COMP-02 shell reference into the next bounded unresolved workspace/detail question. Preserve COMP-01/02 and all Product-gated Stage semantics unless new authority creates a named successor.

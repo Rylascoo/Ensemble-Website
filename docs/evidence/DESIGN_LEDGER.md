@@ -3675,10 +3675,31 @@ Wide/narrow visual masters are preserved in Drive as `1Gd6Qi26vut0uV_z6OvWjD0XAn
 
 Authority created: primary action remains monochrome rather than teal; selection may receive teal reinforcement only with independent structure; focus remains independent; functional control boundaries/transient elevation are allowed without becoming card/tile identity; invalid/unavailable/read-only/pending states remain explicit and hue-independent.
 
-Final race reconciliation records Website `main@e0e6cf26441745547f0e09cc2c27ea6ba8059a2b`: Bellweather remains foundational app-brand visual authority while a non-production website mascot-integration study opens; exact Website law explicitly freezes app UI, so COMP-01 is not contradicted. Engineering `main@e007ed2838c892f2d7734dcf6ac87b6b00022684` adds no APPUI Product semantics.`r`n`r`nNo Scene/Take/Rehearsal/provider/Performer semantics, Stage successor, bespoke domain icons, final font files, production tokens, native WinUI/XAML, shipping/package or Store authority is created.
+Final race reconciliation records Website `main@e0e6cf26441745547f0e09cc2c27ea6ba8059a2b`: Bellweather remains foundational app-brand visual authority while a non-production website mascot-integration study opens; exact Website law explicitly freezes app UI, so COMP-01 is not contradicted. Engineering `main@e007ed2838c892f2d7734dcf6ac87b6b00022684` adds no APPUI Product semantics.
+
+No Scene/Take/Rehearsal/provider/Performer semantics, Stage successor, bespoke domain icons, final font files, production tokens, native WinUI/XAML, shipping/package or Store authority is created.
 
 The central Project queue still carries stale historical `Q-DESIGN-19 / CLR-01` state. Engineering remains in E0-D prewindow hold, so Design does not mutate the Engineering repository merely for synchronization; queue reconciliation remains deferred to the next objectively safe maintenance boundary.
 
 **Next boundary:** `APPUI-COMP-02` applies the foundation to the actual application shell, durable scope/navigation, command regions and Production/resume workspace without inventing unresolved Product controls.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+
+## L-236 - APPUI-COMP-02 closes first real application-shell integration cleanly
+
+**State:** REAL APP SHELL INTEGRATION PASS / PKT-COMP-02-01 ACTIVE / PRODUCT-GATED SEMANTICS STILL OPEN
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_SHELL_INTEGRATION_METHOD_01.json` froze the bounded carrier question before construction. `prototypes/appui-01/component-system-shell-integration-01.html` integrates the accepted Production/Home resume hierarchy with APPUI-COMP-01, selected Light F2 / Dark D3, MAT F1, TYP F1, STA F2, FICON F1 and an invariant dark Stage witness.
+
+The final seven-case browser matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero page-level horizontal overflow, zero missing button accessible names, zero undersized icon-only controls, solid 2px focus with 2px offset, a contained Production switcher and zero external resources. Narrow/switcher repairs were geometry-only; no frozen visual mechanism was retuned.
+
+Visual falsification also passes: the current Production/current situation and Resume target dominate; durable Home / Productions / Settings navigation recedes; current meaning stays one authored field rather than a card grid; Other Productions remain quiet rows; the dark Scene witness remains invariant; and Production switching reads as transient scope change rather than permanent library takeover.
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_SHELL_INTEGRATION_RESULT_01.json` records the closeout and `PKT-COMP-02-01` packetizes the result. Fresh race reconciliation records Website `main@cc312f3fd974f3c564aba0d210f64b75e195b0b2` and Engineering `main@e007ed2838c892f2d7734dcf6ac87b6b00022684`; neither invalidates APPUI-COMP-02. The preserved APPUI branch and concurrent Website main remain deliberately unmerged because both contain substantial unique history.
+
+No Scene lifecycle, Take/Rehearsal/branching, Perspective switching, provider/model/cost, Performer assignment, bespoke domain icons, Bellweather placement, final fonts, motion/Stage successor, production tokens, native WinUI/XAML, shipping/package or Store authority is created.
+
+**Next boundary:** continue real APPUI interface design from this shell reference into the next bounded unresolved workspace/detail question. Do not reopen COMP-01/02 or Product-gated Stage semantics without a lawful successor trigger.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
