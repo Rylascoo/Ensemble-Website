@@ -3388,3 +3388,21 @@ D3 fails locally if darkness itself implies severity/corruption/danger, if teal 
 **Next boundary:** materialize the exact functional carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit infrastructure-versus-fiction honesty before preservation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+
+## L-218 - Persistence / Recovery passes F2 Light + provisional D3 Dark integration
+
+**State:** PHASE-3 PERSISTENCE/RECOVERY INTEGRATION PASS / D3 SURVIVES SEVENTH REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_PERSISTENCE_RECOVERY_F2_D3_INTEGRATION_01.json` closes the representative integration on the accepted persistence/recovery architecture. Matched Light F2 and exact provisional D3 healthy states stay equally quiet, while matched exception states remain equally explicit application infrastructure outside fiction.
+
+The first temporary carrier was rejected before visual judgment because its builder was encoding-corrupt. The accepted source was rebuilt through an ASCII/HTML-entity-safe transform. The seven-condition matrix then exposed one 320px/200%-text grid defect in both exception specimens; `min-width:0`/wrapping protection repaired it without changing any color or semantic rule, and the complete matrix reran with zero overflow.
+
+Teal/accent has zero actual usages in the accepted carrier. Read-only therefore cannot become Character refusal through color, failure cannot become corruption through color, recovery does not resemble fictional rewind, and darkness itself does not add warning/severity semantics. Both themes preserve retained task context and the same dashed infrastructure explanation.
+
+No F2 or D3 value changed after exposure. Drive Phase-3 archive preserves exact HTML `17BdnZADMpXtjVhMudVlsqLl5WP6SRoUa` and PNG `1bVyaxUXxTevX65YWUApcbnB0859_FM4c`.
+
+D3 survives this seventh representative section but remains provisional. No production token system, semantic status-color system, storage/recovery implementation, native implementation, Stage successor or Phase-3 convergence authority is created.
+
+**Next boundary:** evaluate selected Light F2 + exact provisional D3 on Production Lifecycle Utilities, keeping application/Production-scope machinery secondary to ordinary creative work and avoiding invented Product/Phase-D commands.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
