@@ -3867,3 +3867,23 @@ No final Perspective selector, Take a Seat command, entry/exit timing, performan
 **Next boundary:** open `APPUI-COMP-11` for empty, unavailable, loading and transitional workspace states inside the COMP shell without inventing Product-gated lifecycle/provider semantics or allowing infrastructure failure to become fiction.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-245 - APPUI-COMP-11 closes empty, unavailable and transitional workspace-state truth inside the real shell
+
+**State:** REAL EMPTY / UNAVAILABLE / TRANSITIONAL PASS / PKT-COMP-11-01 ACTIVE / COMPONENT COVERAGE-CONVERGENCE AUDIT NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_EMPTY_UNAVAILABLE_TRANSITIONAL_INTEGRATION_METHOD_01.json` froze the successor after COMP-10. The carrier `prototypes/appui-01/component-system-empty-unavailable-transitional-integration-01.html` keeps one real COMP shell and exercises five source-defined state families through a deterministic test-only hook: valid empty/no-active-Scene, loading/transitional, capability unavailable, failed/cancelled and provisional/non-effective.
+
+No user-facing lifecycle/provider mechanics were invented. State surfaces contain only Back/Close navigation; there are zero exact Create Scene, Start Scene, Resume Scene, Take, Branch, Rehearsal, Retry, Fallback or Recover buttons and zero state-surface form controls. Loading remains application state rather than fictional delay; unavailable remains infrastructure rather than Character refusal; failed/cancelled creates no accepted Production mutation or narrative consequence; provisional remains explicitly non-effective.
+
+The first matrix aggregate exposed a probe-only focus-modality defect: programmatic focus was sampled without a preceding keyboard input, so `:focus-visible` correctly did not render even though state semantics, visibility, overflow and return checks passed. The probe was repaired to send a real Tab modality witness before each state; unchanged carrier bytes then passed the focus invariant in all seven cases.
+
+Recursive visual audit then found one real semantic defect: No active Scene still sat beneath a stale Current situation breadcrumb/current-possibility frame. The empty-state shell was repaired to `Production / Current Production`, Current possibility is hidden, return copy was generalized to retained context, and the normal current-situation frame restores for non-empty states and on return. A final probe invariant now prevents that contradiction from recurring.
+
+The final seven-case matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 across all five states with zero overflow, zero missing button names, zero undersized icon controls, correct 2px/2px keyboard focus, Light/Dark parity, state-specific semantic assertions and exact Back/Close return where the prior context remains valid.
+
+No Scene lifecycle, retry/fallback/recovery workflow, loading duration, progress algorithm, provider/model/cost policy, cancellation/failure policy, semantic status-color system, Stage successor, production-token freeze or native WinUI/XAML authority is created.
+
+**Next boundary:** run a consolidated APPUI component-integration coverage/convergence audit across `PKT-COMP-01-01` through `PKT-COMP-11-01` before authorizing any new component gate. Do not invent `APPUI-COMP-12` by sequence alone.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

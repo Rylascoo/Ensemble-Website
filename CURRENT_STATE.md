@@ -11,15 +11,15 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 
 Phase-1 architecture/layout is FROZEN PASS; Phase-2 static Stage coverage is CLOSED PASS. Selected Light F2, Dark D3, MAT F1, TYP F1, STA F2, FICON F1 and invariant dark Stage remain unchanged.
 
-## APPUI-COMP-10 - CLOSED PASS
-`docs/evidence/APPUI_01_COMPONENT_SYSTEM_CHARACTER_BOUNDED_WORKSPACE_INTEGRATION_RESULT_01.json` and `PKT-COMP-10-01` validate the full Character-bounded workspace inside the real COMP shell. The White Current and one persistent Julian remain identical across creator-global and bounded states while represented information is materially reduced rather than cosmetically restyled. Bounded work contains only permitted current observation, Character-linked context, one observable relationship cue and agency capacity; creator-only causal/private material plus provider/capability/diagnostic/recovery infrastructure are absent rather than dimmed, redacted, counted or summarized.
+## APPUI-COMP-11 - CLOSED PASS
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_EMPTY_UNAVAILABLE_TRANSITIONAL_INTEGRATION_RESULT_01.json` and `PKT-COMP-11-01` validate five real-shell workspace-state families: valid empty/no-active-Scene, loading/transitional, capability unavailable, failed/cancelled and provisional/non-effective. One shell preserves state truth without Product-dependent lifecycle/provider controls or fictionalizing infrastructure.
 
-The first attempted transform is excluded as invalid evidence because a local script re-encoding corrupted inserted text and prevented several semantic replacements. After an ASCII-only/HTML-entity rebuild, the first valid seven-case matrix passes with zero overflow, zero missing button names, zero undersized icon controls, hidden-material nonleakage, Light/Dark parity, independent bounded focus versus selection and exact Back/Close restoration of Julian selection and trigger focus.
+Final seven-case origin/state/return matrix passes with zero overflow, zero missing button names, zero undersized icon controls, correct keyboard focus, Light/Dark parity, zero forbidden lifecycle/retry/fallback/recover buttons and exact return where prior context remains valid. Recursive audit corrected a probe keyboard-modality defect and a real empty-state contradiction: No active Scene now uses `Production / Current Production`, hides Current possibility and cannot coexist with a Current situation shell claim.
 
-No final Perspective selector, Take a Seat command, entry/exit timing, performance input grammar, knowledge schema, inference/transfer/forgetting semantics, provider/Performer assignment, Stage successor, production-token freeze or native WinUI/XAML authority is created.
+No Scene lifecycle, retry/fallback/recovery workflow, loading duration, progress algorithm, provider/model/cost policy, cancellation/failure policy, semantic status-color system, Stage successor, production-token freeze or native WinUI/XAML authority is created.
 
 ## Cross-lane truth
-Website `main@94fd60f3a51485f052c25d753459a45240d845d4` advances non-production WORLD mascot evidence only and remains app-UI-frozen. Engineering `main@3d7a5419afd1c502ce6aaba8f3ca906b48d6a868` advances E0-D evidence only and adds no Product semantics that alter APPUI. Streams remain deliberately unmerged.
+Website `main@94fd60f3a51485f052c25d753459a45240d845d4` advances non-production WORLD mascot evidence only and remains app-UI-frozen. Engineering `main@526893a0f518b52bceddb311514de12ec826b9b3` advances E0-D P02 Slot-2 execution authorization/evidence only and adds no Product/UI semantics that alter APPUI. Streams remain deliberately unmerged.
 
 ## Next
-Open `APPUI-COMP-11` for empty, unavailable, loading and transitional workspace states inside the COMP shell without inventing Product-gated lifecycle/provider semantics or allowing infrastructure failure to become fiction.
+Run a consolidated APPUI component-integration coverage/convergence audit across `PKT-COMP-01-01` through `PKT-COMP-11-01` before authorizing any new component gate. Identify only already-authorized unresolved interface families; do not invent `APPUI-COMP-12` by sequence alone.
