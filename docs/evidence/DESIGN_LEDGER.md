@@ -2841,3 +2841,25 @@ Canonical Drive continuity is also updated in `Bellweather Mascot / Signature Ch
 **Next boundary:** the youngest-clearly-adult Bellweather study may render as a separate successor exploration. Hold the verified website production stable unless separately reopened.
 
 **DIRECTOR SIGNAL PRESERVED — FOUR STUDIES APPROVED; YOUNGEST-CLEARLY-ADULT IDENTITY TEST AUTHORIZED.**
+
+## L-180 - Bellweather formal-gown turnaround is approved; specific-design exploration opens
+
+**State:** DIRECTOR-APPROVED TURNAROUND REFERENCE / DRIVE ARCHIVED / SPECIFIC-DESIGN SUCCESSOR AUTHORIZED / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
+
+The Director approved the all-sides Bellweather formal-gown turnaround and requested durable preservation before further mascot-specific design exploration. The approved image is archived in canonical Drive under `07 Formal Gown Turnaround & Specific Design Exploration — 2026-09-16` (`1cxruhHbISefZ5pWTwZJ-4AN37fSsaQBB`) / `01 Approved Turnaround Reference` (`1NifJhpyCL876PqPqKOD06bny50EhS9fU`) as `Bellweather Mascot — Formal Gown Turnaround — Approved Reference — 2026-09-16.png` (Drive `1vw22muIpQA03tw50zFd8dZNg4918rNVf`). Successor renders belong separately under `02 Specific Design Exploration` (`1XML0N8RcV2H9j8qvWZYtAxhcHDnz6Iej`) until individually approved.
+
+The turnaround confirms recognizable continuity across front, three-quarter front, left profile, back, right profile and three-quarter back. It establishes a useful Bellweather formal-presentation family: black sheer evening construction, warm-metal geometric beadwork, long dark gloves, open/low back, period evening shoes, and optional pearls/hair ornament.
+
+The generated sheet is not deterministic garment-construction authority. Exact bead paths, seams, slit height, clutch, jewelry, hair ornament, shoe detail and accessory placement vary between views and remain non-frozen. The fitted/high-slit treatment may be challenged by a later historically stricter 1927 formal variant without overwriting the approved reference.
+
+Formal costume supports recognition but does not define Bellweather. Deep identity remains separable from gown and accessories and continues to rest primarily in facial construction, eye/brow relationship, brunette hair mass with loose framing strands, posture, and restrained observant presence. This is consistent with L-177/L-179 identity persistence and does not make one costume or hairstyle mandatory mascot anatomy.
+
+**Authorized successor exploration:** motion and garment behavior (walking, sitting, turning, stairs, dance, reach), controlled hairstyle variation, accessory-on/off identity tests, expression/posture range, shoes/gloves/jewelry detail, close human-realism studies, and a historically stricter late-1920s formal variant. Preserve the same clearly adult Bellweather identity. Generated props, typography, brand marks, color and incidental objects remain non-authoritative unless separately frozen.
+
+Canonical repository evidence: `docs/evidence/BELLWEATHER_FORMAL_GOWN_TURNAROUND_01.md`. Drive continuity was updated in `Bellweather Mascot / Signature Character — Frozen Master & Exploration Synthesis`, `Kymaean Character & Image Direction — Pre-Candidate Director Intuition Synthesis 01`, `Kymaean Visual Continuity Constitution`, and `Kymaean Visual Exploration Registry & Critique Ledger`.
+
+This decision changes no live website bytes, Stage, website identity geometry, app UI, `PKT-STAGE-CORE-02`, `APP-SYN-01`, product/runtime semantics, or engineering authority.
+
+**Next boundary:** render the specific-design successor as separate exploration evidence; hold verified website production stable unless separately reopened.
+
+**DIRECTOR SIGNAL PRESERVED — FORMAL TURNAROUND APPROVED; SPECIFIC-DESIGN EXPLORATION AUTHORIZED.**

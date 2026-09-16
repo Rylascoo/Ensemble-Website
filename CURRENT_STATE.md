@@ -2,7 +2,7 @@
 
 # Ensemble Website - Current State
 
-Updated: 2026-09-15
+Updated: 2026-09-16
 
 ## Authority
 Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
@@ -20,7 +20,7 @@ Production closeout is L-178. The promoted source branch was archived at `archiv
 Future Director preference: when website lettering is later reopened, study more equal **apparent size across `KYMÆAN`**, especially Threshold K relative to `YMÆAN`, using current production as control. This is not an active production change or Threshold K redesign authorization.
 
 ## Parallel visual evidence
-Bellweather concept-master continuity is L-173; L-177 freezes Full Render Mascot Set 01 and promotes Bellweather to Kymaean mascot / brand ambassador. L-179 archives four approved website-narrative / human-realism studies in Drive and authorizes a youngest-clearly-adult identity study. None creates website/app implementation authority.
+Bellweather concept-master continuity is L-173; L-177 freezes Full Render Mascot Set 01 and promotes Bellweather to Kymaean mascot / brand ambassador. L-179 archives website-narrative/human-realism studies; L-180 approves the formal-gown turnaround and opens specific-design exploration. None creates website/app implementation authority.
 
 ## Frozen cross-lane boundary
 `PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. No app UI, palette, product disclosure, Stage repaint, added frame, generated typography, or universal Character-face requirement is authorized.
