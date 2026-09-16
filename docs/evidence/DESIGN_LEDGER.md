@@ -3658,3 +3658,27 @@ Light F2, Dark D3, MAT F1, TYP F1, STA F2, invariant dark Stage and the accessib
 **Next boundary:** hold APPUI Phase-3 static work at the closed static-system/FICON boundary. Re-enter only on material new integration/Product evidence, an explicitly authorized separate asset gate, a native implementation constraint, or another lawful successor trigger.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-235 - APPUI-COMP-01 foundational control grammar closes cleanly and reopens real app-interface design
+
+**State:** APP VISUAL COMPONENT SYSTEM FOUNDATION PASS / FOUNDATIONAL CONTROL GRAMMAR 01 ACTIVE / REAL SHELL INTEGRATION NEXT
+
+The Director explicitly instructed Design Sol to continue the unfinished application UI after confirming that the existing architecture and Stage baseline were not a complete interface. That instruction lawfully re-enters APP VISUAL through the separately scoped component/asset boundary preserved by L-234; it does not reopen any failed or frozen Phase-3 visual choice.
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_FOUNDATION_METHOD_01.json` freezes the Product-independent scope. `prototypes/appui-01/component-system-foundation-01.html` materializes action hierarchy, text/data entry, checkbox/radio/switch choices, selectable/focusable rows, disclosure, menus/dialogs and explicit hue-independent feedback in selected Light F2 and Dark D3.
+
+Final carrier SHA-256 is `ee2d3aebc79ee4af94a8295c43cf8b1b3bf3b82818fcd776b3c6e661d904cf50`; probe SHA-256 is `fbddff6e3a4b38fc1b2121633418ff65f136430ad5b4afd01ccf0c0bf7013703`. The seven-case matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero layout overflow, zero missing button names, zero undersized icon buttons/text inputs, and a solid 2px focus ring with 2px offset in every case.
+
+The first responsive pass exposed real narrow/200%-text min-width and switch-shrink defects. Repairs were geometry-only: containment, nonshrinking switch track, narrow notice stacking and overflow wrapping. The carrier was then rerun cleanly; F2/D3, MAT F1, TYP F1, STA F2, FICON F1 and Stage authority were not retuned.
+
+Wide/narrow visual masters are preserved in Drive as `1Gd6Qi26vut0uV_z6OvWjD0XAnhg41s8h` / `19JqxKwhU986sxQvrofowHix6X_WFzt6G`; exact HTML is `1lhA7UwZlDHtBThAgj-YSoLBDAtchfpHM`. `docs/KYMAEAN_APPUI_COMPONENT_SYSTEM_FOUNDATION_01.md` now carries the reusable control law and `PKT-COMP-01-01` packetizes the result.
+
+Authority created: primary action remains monochrome rather than teal; selection may receive teal reinforcement only with independent structure; focus remains independent; functional control boundaries/transient elevation are allowed without becoming card/tile identity; invalid/unavailable/read-only/pending states remain explicit and hue-independent.
+
+Final race reconciliation records Website `main@e0e6cf26441745547f0e09cc2c27ea6ba8059a2b`: Bellweather remains foundational app-brand visual authority while a non-production website mascot-integration study opens; exact Website law explicitly freezes app UI, so COMP-01 is not contradicted. Engineering `main@e007ed2838c892f2d7734dcf6ac87b6b00022684` adds no APPUI Product semantics.`r`n`r`nNo Scene/Take/Rehearsal/provider/Performer semantics, Stage successor, bespoke domain icons, final font files, production tokens, native WinUI/XAML, shipping/package or Store authority is created.
+
+The central Project queue still carries stale historical `Q-DESIGN-19 / CLR-01` state. Engineering remains in E0-D prewindow hold, so Design does not mutate the Engineering repository merely for synchronization; queue reconciliation remains deferred to the next objectively safe maintenance boundary.
+
+**Next boundary:** `APPUI-COMP-02` applies the foundation to the actual application shell, durable scope/navigation, command regions and Production/resume workspace without inventing unresolved Product controls.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

@@ -4,26 +4,24 @@
 Updated: 2026-09-16
 
 ## Authority
-`Rylascoo/Ensemble-Website` is Design/UI/website authority. `Rylascoo/Ensemble-Project` is read-only Product/Engineering input. Recover live refs and `AGENTS.md` before using this file.
+`Rylascoo/Ensemble-Website` is Design/UI/website authority; `Rylascoo/Ensemble-Project` is read-only Product/Engineering input. Recover live refs and `AGENTS.md` first.
 
-## Active stream
-APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; Website publication remains separate. Website `main@2ea43f7c811438218f2553d9e92a4d3ee1466c0c` closes Threshold K apparent-size parity website production only; no app/APPUI authority.
+## Active APPUI stream
+APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; Website publication remains separate. Website `main@e0e6cf26441745547f0e09cc2c27ea6ba8059a2b` opens a non-production Bellweather website integration study while explicitly freezing app UI; foundational Bellweather authority remains a separate future integration input.
 
-## Frozen architecture and static visual system
-**Phase 1 architecture/layout is FROZEN PASS. Phase 2 static Stage/live-production coverage is CLOSED PASS.** Dynamic/transcript-dependent and Product-gated Stage work remains held/open.
+Phase-1 architecture/layout remains FROZEN PASS; Phase-2 static Stage coverage remains CLOSED PASS. Light F2, Dark D3, MAT F1, TYP F1, STA F2 and the invariant dark Stage remain frozen.
 
-Light **F2 - Monochrome + Intruder** and Dark **D3 - Ink Aubergine** remain selected APP VISUAL directions with MAT-01 F1, TYP-02 F1 and STA-01 F2 where architecture requires them. The Stage remains invariant dark. Canonical authority: `docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md`.
+## APPUI-COMP-01 - CLOSED PASS
+Director instruction to continue unfinished app-interface design lawfully re-entered APP VISUAL through the separate component-system boundary. `docs/KYMAEAN_APPUI_COMPONENT_SYSTEM_FOUNDATION_01.md` and `PKT-COMP-01-01` establish the Product-independent foundational control grammar.
 
-## Product / Engineering boundary
-Engineering `main@fcd13ce3460c58ed17cfce012683a523ff381bc2` is E0-D PREWINDOW HOLD; P02 Slot 1 is live-authorized only for its frozen window, P02 Slot 2/P03 unauthorized, E0-E blocked. No new Product semantics alter APPUI.
+Primary actions use monochrome hierarchy rather than teal; selection may receive teal only with an independent STA structural witness; focus remains separate; functional control boundaries/transient elevation are allowed without becoming card/tile identity; pending/read-only/unavailable/invalid remain explicit and hue-independent. Seven-case responsive/accessibility preflight passes.
 
-## APPUI-FICON-01 - CLOSED
-Exact carrier/probe SHA-256 remain `f2340fb793b029cebda1c79919b4b3851388ebe1156d92ffbc09549d15e66d56` / `6d5547cb690c9e0b7e78b59529827ff51367d9180d0eceb5d071a30b0511a572`. Subjective falsification of the exact archived wide+narrow evidence closes with **F1 Native Quiet Carrier as the sole survivor**. CNEG is ineligible; F2 fails persistent widget/control chrome; F3 fails by reducing MAT topology to decorative icon-hook anatomy. No post-exposure retune or replacement occurred.
+FICON F1 Native Quiet Carrier remains the conventional platform-verb basis. No bespoke domain icons, final font files, production tokens, native WinUI/XAML, shipping authority or Stage successor is created.
 
-Result: `docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_RESULT_01.json`. Packet: `PKT-FICON-01-01`. This creates no bespoke domain glyphs, production icon assets/tokens, native WinUI/XAML, Store/shipping, Stage, website-palette or shared-brand-final authority.
+## Product / queue boundary
+Engineering `main@e007ed2838c892f2d7734dcf6ac87b6b00022684` remains E0-D PREWINDOW HOLD. P02 Slot 1 may launch only inside `2026-09-17T14:30:00Z..23:30:00Z`; P02 Slot 2/P03 remain unauthorized and E0-E blocked. No new Product semantics alter APPUI.
 
-## Post-FICON boundary
-`docs/evidence/APPUI_01_PHASE_3_POST_FICON_REMAINING_STATIC_AXES_AUDIT_01.json` activates **no additional Phase-3 static-safe gate**. Bespoke domain icons remain Product-vocabulary blocked; motion remains held while E0-E is blocked; Stage successor remains held; production assets/tokens and native handoff remain later-gated; website/shared-brand finalization is separate. Final typeface/font assets remain an explicitly open separately scoped asset/shared-system question, not an implicit FICON successor.
+Central `Q-DESIGN-19` remains stale historical CLR-01 queue state; reconciliation is deferred while Engineering is in the sensitive E0-D boundary.
 
 ## Next
-Hold Phase-3 static APPUI at this closed boundary. Re-enter only for material new integration/Product evidence, an explicitly authorized separate asset gate, a real native-implementation constraint, or another lawful successor trigger. Do not reopen CNEG/F2/F3 or silently retune F2 Light, D3 Dark, MAT F1, TYP F1, STA F2 or the invariant dark Stage.
+Open `APPUI-COMP-02`: apply the component foundation to the actual application shell, durable scope/navigation, command regions and Production/resume workspace. Do not invent unresolved Scene/Take/Rehearsal/provider/Performer semantics or retune F2/D3/MAT/TYP/STA/FICON/Stage.

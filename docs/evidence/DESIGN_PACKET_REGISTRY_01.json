@@ -173,6 +173,14 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "F1 Native Quiet Carrier is the sole APPUI-FICON-01 survivor for conventional Windows/Fluent verbs; treatment evidence only, not final icon assets/native implementation/domain iconography.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-COMP-01-01",
+      "path": "docs/evidence/packets/PKT_COMP_01_COMPONENT_SYSTEM_FOUNDATION_01.json",
+      "axis": "APP VISUAL foundational Product-independent component and interaction grammar",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Foundational Control Grammar 01 defines the current design-reference action/input/choice/row/disclosure/transient/feedback grammar above F2/D3 + MAT/TYP/STA + FICON F1; no production/native/Product-gated authority.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -193,7 +201,8 @@
     "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence.",
     "CPS-B remains the Director-selected canonical Phase C Character-presence architecture. Human artwork is not required for current APPUI-01 screen design; CHARART-01 is Director-terminated after one valid output with no master adoption.",
     "APPICON-01 closes with E06 as the sole current app-icon design-master envelope around exact C0; production Store/package/native-mask implementation and final symbol authority remain unresolved.",
-    "APPUI-FICON-01 closes with F1 Native Quiet Carrier as the sole conventional platform-verb treatment survivor. Bespoke domain icons, final shipping icon assets/native mapping, production tokens and Product-gated symbol vocabulary remain unresolved/outside this packet."
+    "APPUI-FICON-01 closes with F1 Native Quiet Carrier as the sole conventional platform-verb treatment survivor. Bespoke domain icons, final shipping icon assets/native mapping, production tokens and Product-gated symbol vocabulary remain unresolved/outside this packet.",
+    "APPUI-COMP-01 closes Foundational Control Grammar 01 as the current Product-independent component-system reference; real shell/workspace integration, Product-gated controls, production tokens and native implementation remain unresolved."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -261,7 +270,10 @@
     "active_app_ui_handoff": "docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md",
     "active_app_ui_concurrent_website_coordination": "docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json",
     "active_app_ui_concurrent_website_coordination_sha256": "0e520b51b80065a5fbd74288946b42edee87917b2cc8538ad847f937310d38a1",
-    "active_app_ui_concurrency_status": "APPUI_AND_WEBSITE_SOL_SEPARATE_LIVE_STREAMS"
+    "active_app_ui_concurrency_status": "APPUI_AND_WEBSITE_SOL_SEPARATE_LIVE_STREAMS",
+    "active_app_component_program": "APPUI-COMP-01",
+    "active_app_component_status": "FOUNDATION_PASS_SHELL_INTEGRATION_NEXT",
+    "active_app_component_packet": "PKT-COMP-01-01"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }
