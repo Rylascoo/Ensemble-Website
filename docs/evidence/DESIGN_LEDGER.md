@@ -3703,3 +3703,23 @@ No Scene lifecycle, Take/Rehearsal/branching, Perspective switching, provider/mo
 **Next boundary:** continue real APPUI interface design from this shell reference into the next bounded unresolved workspace/detail question. Do not reopen COMP-01/02 or Product-gated Stage semantics without a lawful successor trigger.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-237 - APPUI-COMP-03 promotes situation-first Production Shaping into the real application shell
+
+**State:** REAL SHAPING WORKSPACE PASS / PKT-COMP-03-01 ACTIVE / CONTEXTUAL+DEEP INSPECTION INTEGRATION NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_SHAPING_WORKSPACE_INTEGRATION_METHOD_01.json` froze the next bounded real-interface question after COMP-02. The carrier `prototypes/appui-01/component-system-shaping-workspace-integration-01.html` composes the accepted Production Shaping / Current Possibility hierarchy with COMP-02 shell behavior, COMP-01 controls, selected Light F2 / Dark D3, MAT F1, TYP F1, STA F2 and FICON F1.
+
+The workspace preserves situation-before-ontology: current situation and meaningful elements dominate; People Here, Relationships in Motion, Pressures Now, Open Questions and World Context remain orientation/follow cues rather than permanent database navigation. Shaping stays current-Production depth under thin Home / Productions / Settings navigation. Selected meaning updates contextual inspection; keyboard focus can independently target a different meaningful element without moving selection.
+
+The first recursive pass found two real defects: board-heading overflow at 200% text and narrow ordering that placed secondary orientation before the current situation. Both were geometry/order repairs only. A final evidence-quality correction moved screenshot capture before activation so the human review artifact visibly preserves selected relationship versus independently focused pressure while activation remains machine-tested afterward.
+
+The final seven-case matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero page/internal overflow, zero missing button names, zero undersized icon-only controls, solid 2px focus with 2px offset, exact selection count, successful inspector update and zero external resources/images.
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_SHAPING_WORKSPACE_INTEGRATION_RESULT_01.json` records the closeout and `PKT-COMP-03-01` packetizes the result. Fresh reconciliation records Website `main@fdf4f87b939c54358125e36aa2b81f070fdd1e6f` and Engineering `main@2bfb0c1c3e8cb79acafe72d6fb80692bc818a407`; Engineering remains pre-Phase-D with E0-E blocked and supplies no invalidating APPUI Product semantics. Concurrent Website and APPUI histories remain deliberately unmerged.
+
+No Scene lifecycle, Take/Rehearsal/branching, Perspective, provider/model/cost, Performer assignment, predictive next-action, bespoke domain icon, Bellweather placement, final font, motion/Stage successor, production-token or native WinUI/XAML authority is created.
+
+**Next boundary:** open `APPUI-COMP-04` for selected-entity contextual + deep inspection integration inside the COMP shell, preserving semantic origin/return, current/history and provisional/effective distinctions without creating Product taxonomy or Stage controls.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
