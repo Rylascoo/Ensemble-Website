@@ -21,11 +21,11 @@ Fresh Engineering `main@399024b54b8c2c66525d081e816740f055f26f6a` remains E0-D a
 ## Phase 3
 CLR-01 **F2 — Monochrome + Intruder** is Director-selected as the Light color-logic direction. **D3 — Ink Aubergine** remains the exact provisional Dark incumbent, explicitly not a final freeze.
 
-Production Home / Resume, Production Shaping / Current Possibility, Contextual + Deep Inspection, Whole-Production Character Management, and Causal / History Inspection now pass representative Light F2 + exact D3 integration while MAT F1, TYP F1 and STA F2 remain intact.
+Production Home / Resume, Production Shaping / Current Possibility, Contextual + Deep Inspection, Whole-Production Character Management, Causal / History Inspection, and Truth / Knowledge / Disclosure Inspection now pass representative Light F2 + exact D3 integration while MAT F1, TYP F1 and STA F2 remain intact.
 
-Causal/history evidence: `docs/evidence/APPUI_01_PHASE_3_CAUSAL_HISTORY_F2_D3_INTEGRATION_01.json`. All seven responsive/accessibility cases pass with zero overflow after one narrow 200%-text appbar repair. Current question, adjacent history, deeper history, selected/focused historical material, provenance/disclosure and exact current return remain explicitly non-color-dependent. Drive preserves HTML `11NhWLHrBmZlR2TkBibOceNjV8og2Uklu` and PNG `18lTiVYAukoWYKRViWiscHwRFqGNd6Djg` in archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE`.
+Disclosure evidence: `docs/evidence/APPUI_01_PHASE_3_TRUTH_KNOWLEDGE_DISCLOSURE_F2_D3_INTEGRATION_01.json`. All seven responsive/accessibility cases pass with zero overflow after one 200%-text wrapping repair and one probe-selector correction. Creator-global versus Character-bounded disclosure, claim versus fact, private/withheld versus absent, memory versus objective history, selection versus focus, identity and exact return remain explicit and non-color-dependent. Drive preserves HTML `1Xtu9NX_Mte_DGQJsu9deYlVOiNGvXXoL` and PNG `1L0YV4vxApOLtFpi3UVC67nyExHHTdqIV` in archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE`.
 
-D3 therefore survives a fifth representative section but remains provisional; do not retune or freeze it from preference alone.
+D3 therefore survives a sixth representative section but remains provisional; do not retune or freeze it from preference alone.
 
 ## Next
-Apply selected Light F2 + exact provisional D3 to the accepted **Truth / Knowledge / Disclosure Inspection** architecture. Preserve fact/claim/belief/memory/private-knowledge/source/provenance and creator-global versus Character-bounded disclosure distinctions without allowing color to encode epistemic status. No production token freeze yet.
+Apply selected Light F2 + exact provisional D3 to the accepted **Persistence / Recovery Status** architecture. Preserve healthy persistence as quiet, infrastructure exception outside fiction, recovery without fictional rewind, corruption/integrity distinction, and exact prior-task/focus restoration. No production token freeze yet.

@@ -3356,3 +3356,21 @@ D3 fails locally if darkness or teal becomes shorthand for truth, secrecy, priva
 **Next boundary:** materialize the exact functional carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit epistemic/disclosure honesty before preservation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+
+## L-216 - Truth / Knowledge / Disclosure passes F2 Light + provisional D3 Dark integration
+
+**State:** PHASE-3 TRUTH/KNOWLEDGE/DISCLOSURE INTEGRATION PASS / D3 SURVIVES SIXTH REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_TRUTH_KNOWLEDGE_DISCLOSURE_F2_D3_INTEGRATION_01.json` closes the representative integration on the accepted disclosure architecture. Selected Light F2 and exact provisional D3 preserve creator-global versus Character-bounded disclosure, epistemic witness distinctions, hidden-material non-leakage, stable Character identity and exact semantic return.
+
+The seven-condition matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow after one wrapping repair. The first generated probe also retained stale Causal/History selectors; those diagnostics were rejected, corrected to disclosure-specific counts and the complete matrix was rerun cleanly.
+
+The selected-edge witness is deliberately placed on the **Claim**, not the Fact, while Provenance carries independent keyboard focus. Teal therefore cannot function as truth authority; private/withheld remains dashed/labeled, bounded disclosure remains equally real in Light and D3, and no theme brightness implies stronger truth, secrecy, uncertainty or knownness.
+
+No F2 or D3 color value changed after exposure. Drive Phase-3 archive preserves exact HTML `1Xtu9NX_Mte_DGQJsu9deYlVOiNGvXXoL` and PNG `1L0YV4vxApOLtFpi3UVC67nyExHHTdqIV`.
+
+D3 survives this sixth representative section but remains provisional. No production token system, semantic epistemic colors, final truth/knowledge taxonomy, storage/inference policy, native implementation, Stage successor or Phase-3 convergence authority is created.
+
+**Next boundary:** evaluate selected Light F2 + exact provisional D3 on Persistence / Recovery Status, preserving healthy quiet persistence, truthful infrastructure exception and exact non-fictional recovery.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
