@@ -3324,3 +3324,21 @@ D3 fails locally if darkness itself becomes the cue for history, if Light appear
 **Next boundary:** materialize the exact functional carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit temporal-state honesty before preservation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+
+## L-214 - Causal / History passes F2 Light + provisional D3 Dark integration
+
+**State:** PHASE-3 CAUSAL/HISTORY INTEGRATION PASS / D3 SURVIVES FIFTH REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_CAUSAL_HISTORY_F2_D3_INTEGRATION_01.json` closes the representative integration on the accepted Causal / History Inspection architecture. Selected Light F2 and exact provisional D3 preserve current-versus-historical distinction, causal adjacency, deeper historical investigation, provenance/disclosure capacity and exact semantic return.
+
+The seven-condition matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow after one responsive repair. At 320px / 200% text, the appbar initially caused 11 overflow witnesses; narrow appbar wrapping was corrected without changing color roles or temporal semantics.
+
+D3 does not make darkness itself mean historical/past/inactive/archive, and Light does not become more current or authoritative by brightness. Historical state remains explicit through dashed structure and labels in both themes; selected/focused historical material remains historical. Current-question origin and exact Close/Back return remain intact.
+
+No F2 or D3 color value changed after exposure. Drive Phase-3 archive preserves exact HTML `11NhWLHrBmZlR2TkBibOceNjV8og2Uklu` and PNG `18lTiVYAukoWYKRViWiscHwRFqGNd6Djg`.
+
+D3 survives this fifth representative section but remains provisional. No production token system, semantic status colors, causal-model/replay/rollback/consequence semantics, native implementation, Stage successor or Phase-3 convergence authority is created.
+
+**Next boundary:** evaluate selected Light F2 + exact provisional D3 on Truth / Knowledge / Disclosure Inspection, preserving epistemic/disclosure distinctions without allowing color to encode fact/claim/belief/private/known status.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
