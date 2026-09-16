@@ -3548,3 +3548,19 @@ No production token API, final typeface, icon family, Stage successor/motion, na
 **Next boundary:** create and validate one compact static app-visual reference carrier from the canonical specification, then audit it against the ten accepted section carriers.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN CONSOLIDATION AUDIT.**
+
+## L-228 - Static APP VISUAL reference carrier closes cleanly
+
+**State:** PHASE-3 STATIC APP VISUAL SYSTEM REFERENCE PASS / DRIVE-PRESERVED / NO PRODUCTION TOKEN FREEZE
+
+`docs/evidence/APPUI_01_PHASE_3_STATIC_APP_VISUAL_SYSTEM_REFERENCE_01.json` closes the compact reference carrier derived from `docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md`.
+
+The carrier materializes selected Light F2 + Dark D3, MAT-01 F1 Subtractive Channel, TYP-02 F1 Ratio Ladder, STA-01 F2 Ring + Edge Witness, non-color semantic witnesses and identical invariant dark Stage adjacency without pretending to be a product screen.
+
+All seven responsive/accessibility cases pass with zero overflow: 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320. Contrast floors pass, focus remains independent from selection, and current/historical/provisional/infrastructure meaning remains structural rather than color-dependent.
+
+Drive Phase-3 archive preserves exact HTML `1Tr64MOk6gyvZ8OQ6J6STIca2rXA6hP76` and PNG `10i7nkdNVVDkuZb6Uke3Iw0Kk5JTRUMZt`. No production token API, native component system, Stage successor/motion, shipping asset, website palette or shared-brand-final authority is created.
+
+**Next boundary:** audit remaining Phase-3 static APP VISUAL axes against the canonical system and current Product gates; open only the strongest unresolved axis that remains design-safe.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN REFERENCE-CARRIER AUDIT.**
