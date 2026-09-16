@@ -2863,3 +2863,17 @@ This decision changes no live website bytes, Stage, website identity geometry, a
 **Next boundary:** render the specific-design successor as separate exploration evidence; hold verified website production stable unless separately reopened.
 
 **DIRECTOR SIGNAL PRESERVED — FORMAL TURNAROUND APPROVED; SPECIFIC-DESIGN EXPLORATION AUTHORIZED.**
+
+## L-181 - Bellweather motion and mascot-vision studies are accepted and archived
+
+**State:** ACCEPTED EXPLORATION / NINE DRIVE ASSETS ARCHIVED / HUMAN-PERSISTENT-ICONIC FRAMEWORK / FRESH-CHAT HANDOFF REFRESHED / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
+
+The Director agreed with the motion/position and mascot-vision interpretation and requested durable Drive/GitHub preservation for fresh-chat continuity. Nine successor images are archived under Drive `02 Specific Design Exploration` (`1XML0N8RcV2H9j8qvWZYtAxhcHDnz6Iej`): five motion/position studies in `03 Motion & Position Studies — Accepted Exploration — 2026-09-16` (`1u1Ki9bLqRQZtEZsqp0LpjV8qB6Oq-YnE`) and four mascot-vision studies in `04 Mascot Vision Studies — Accepted Exploration — 2026-09-16` (`1257HZ5Nh2qV4uKpQCMMScKRYJdRsX1p1`). Exact asset IDs and interpretation are preserved in `docs/evidence/BELLWEATHER_MOTION_AND_MASCOT_VISION_STUDIES_01.md`.
+
+The studies establish that Bellweather identity survives walking, stairs, sitting, turning, backward glance, dance and world-scale composition. The useful successor framework is **Human Bellweather / Persistent Bellweather / Iconic Bellweather**. Deep identity remains facial construction, eye/brow relationship, brunette hair mass and loose framing strands, posture and restrained observational presence; hair ornament, pearls, gloves, clutch, exact bead geometry, slit, lighting, props and companions remain variable presentation.
+
+The next design exploration should remove/vary ornament and pearls, test gloves on/off and late-night loosened styling, broaden genuine emotional range, and use repeated locations/relationships where consequence is legible without captions. `docs/BELLWEATHER_MASCOT_DESIGN_FRESH_CHAT_HANDOFF_2026_09_16.md` records the recovery path.
+
+No live website bytes, Stage art, identity geometry, app UI, product semantics, or universal Character-representation law changed.
+
+**DIRECTOR SIGNAL PRESERVED — MOTION/VISION STUDIES ACCEPTED; NEXT SUCCESSOR BOUNDARY RECORDED.**
