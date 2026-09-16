@@ -3741,3 +3741,23 @@ Final contextual and exclusive-deep states pass 1600/1024/390/320, forced-colors
 **Next boundary:** open `APPUI-COMP-05` for whole-Production Character management inside the COMP shell. Preserve explicit off-Scene state, Scene-membership non-implication, persistent Character identity and Character-versus-Performer separation without creating a permanent People silo.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-239 - APPUI-COMP-05 closes whole-Production Character management as temporary Production-scope depth
+
+**State:** REAL WHOLE-PRODUCTION CHARACTER MANAGEMENT PASS / PKT-COMP-05-01 ACTIVE / CAUSAL-HISTORY INTEGRATION NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_INTEGRATION_METHOD_01.json` froze the bounded successor after COMP-04. The carrier `prototypes/appui-01/component-system-whole-production-character-management-integration-01.html` keeps the durable COMP shell and situation-first Shaping origin while opening persistent Character management as a deliberate current-Production task rather than permanent People navigation.
+
+The strongest invariant is now real-shell interaction evidence: Mira is initially selected in Production management while explicitly Off-Scene relative to Scene 12; Julian remains the stored Scene-12 selection; Niko can receive independent keyboard focus without moving Mira selection; selecting Niko updates only local management detail while the Scene anchor still names Julian. Opening, selecting, inspecting or provisionally shaping a persistent Character never implies Scene add/remove/participation.
+
+The first valid matrix found eight 320px / 200%-text internal overflow witnesses in the management surface and a probe defect that checked `:focus-visible` without first establishing keyboard modality. Geometry containment/overflow wrapping and probe modality were repaired only. Recursive visual review then caught stale COMP-03 / COMP-02 provenance labels; labels were corrected without changing semantic architecture or frozen visual roles.
+
+The final seven-case matrix passes context and management states at 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero page/internal overflow, zero missing button names, zero undersized icon-only controls, solid 2px focus with 2px offset, two-theme management activation with zero visible Shaping surfaces, preserved stored Scene selection, successful local-selection update, exact Back/Close focus restoration and zero external resources/images.
+
+Off-Scene remains fully active persistent-Character context rather than disabled/archive/unavailable styling. Character identity remains independent from Performer/provider assignment. Creator shaping capacity is explicitly creator-authority work rather than fictional Character action/performance. Light F2 and Dark D3 preserve one scope/membership meaning.
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_INTEGRATION_RESULT_01.json` records closure and `PKT-COMP-05-01` packetizes it. No Scene participation controls, casting/Performer/provider mechanics, Character lifecycle/duplicate/merge/delete/archive semantics, final Character schema, Product commit/save/undo contract, Bellweather placement, Stage successor, production tokens or native WinUI/XAML authority is created.
+
+**Next boundary:** open `APPUI-COMP-06` for causal/history inspection inside the COMP shell, preserving current-versus-historical distinction, semantic origin and exact return without creating a permanent Archive/History mode.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
