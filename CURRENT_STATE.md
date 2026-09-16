@@ -18,7 +18,7 @@ L-182 compares intact Threshold K presentation scale `1.00× / 1.03× / 1.05×`;
 L-184 records exact hosted pass for candidate head `0a8513d80ed4cfb348f71a24e4a8f9d119b27ad6`: all nine preview assets match Git blobs, headers/no-analytics pass, and the full hosted browser matrix passes. Candidate V5 social card is SHA-256 `36faecf3022c269f40eb10364f26c0f40b350eedd4d27f1ec92b08de0b5b04a6`. Production is unchanged.
 
 ## Parallel visual evidence
-Bellweather continuity remains L-173/L-177; L-179 archives website-narrative/human-realism studies; L-180 approves the formal-gown turnaround; L-181 archives nine motion/vision studies and records the Human/Persistent/Iconic framework. None creates website/app implementation authority.
+Bellweather continuity remains L-173/L-177; L-179 archives website-narrative/human-realism studies; L-180 approves the formal-gown turnaround; L-181 archives nine motion/vision studies and records the Human/Persistent/Iconic framework; L-185 archives the vision-synthesis/natural-expression family, preserves the restrained-expression target, and opens front-facing identity stress tests. None creates website/app implementation authority.
 
 ## Frozen cross-lane boundary
 `PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. No app UI, palette, product disclosure, Stage repaint, added frame, generated typography, Threshold K path redesign or universal Character-face requirement is authorized.
