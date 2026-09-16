@@ -2787,3 +2787,23 @@ This decision changes no live website pixels, Stage artwork, website identity ge
 **Next boundary:** no mascot implementation action is authorized by this freeze. Preserve the frozen set and use it as visual lineage/brand reference; active website work remains post-PR #75 production verification and source-branch closeout.
 
 **DIRECTOR DECISION — BELLWEATHER IS THE KYMAEAN MASCOT / BRAND AMBASSADOR; FULL RENDER SET 01 FROZEN; LEAD FAVORITES 1/3/5/6.**
+
+## L-178 - Viewport-centered website successor closes in production; future apparent-size parity question recorded
+
+**State:** PRODUCTION VERIFIED / SOURCE BRANCH ARCHIVED / CURRENT TREATMENT ACCEPTED / FUTURE SIZE-PARITY STUDY RECORDED
+
+PR #75 promoted the selected B website identity successor at merge `4a847ddd942598bba6e8e8a6febd4e9ce9f3c65d`. Production `www.kymaean.com` now matches the current-main public payload byte-for-byte across all nine served assets. The full live responsive/accessibility matrix passes, the frozen Stage and V4 social hashes remain exact, and no analytics injection is present.
+
+Current `main@e5f6f66fa78b5e44745515a20ced368a6df52e25` differs from the PR #75 merge only through Bellweather mascot continuity outside `site/public/**`; therefore current production remains exact to current-main public bytes.
+
+The promoted source branch `site/v2-2-viewport-lettering-successor-2026-09-15` resolved to `6f94c806bc57ecf548b249dbb885f29ca2ff5ada`, was a strict ancestor of current main with zero unique commits, was archived at tag `archive/site/v2-2-viewport-lettering-successor-2026-09-15`, and was deleted remotely only after exact tag readback.
+
+The Director additionally records a **future** website-lettering preference: the complete `KYMÆAN` treatment should eventually be explored for more equal **apparent letter size**, especially the Threshold K relative to `YMÆAN`. This does not reopen the accepted production treatment today and does not authorize Threshold K path redesign.
+
+When that question is activated, first run a deterministic non-production size-parity comparison from the current production lockup, testing intact-group uniform presentation scale/placement before any path edit. Judge optical cap-height, visual mass and baseline equality at wide, mini-wide and tall shapes while preserving the Stage, 50% viewport centering, B spacing logic, `COMING SOON` relationship, responsive/accessibility/publication behavior and no-analytics boundary unless separately reopened.
+
+Canonical production closeout: `docs/evidence/WEBSITE_V2_2_VIEWPORT_CENTERED_SUCCESSOR_PRODUCTION_CLOSEOUT_01.md`.
+
+**Next boundary:** hold the verified production treatment stable. The apparent-size parity question is preserved for a later bounded website-lettering pass and is not itself a deployment instruction.
+
+**DIRECTOR PREFERENCE PRESERVED / CLEAN PRODUCTION CLOSEOUT.**
