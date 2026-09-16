@@ -3452,3 +3452,19 @@ D3 fails locally if darkness implies bounded/private/secret/less-real informatio
 **Next boundary:** materialize the four matched specimens, run the seven-condition responsive/accessibility matrix, and recursively audit disclosure honesty before preservation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+
+## L-222 - Character-bounded Workspace passes F2 Light + provisional D3 Dark integration
+
+**State:** PHASE-3 CHARACTER-BOUNDED-WORKSPACE INTEGRATION PASS / D3 SURVIVES NINTH REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_CHARACTER_BOUNDED_WORKSPACE_F2_D3_INTEGRATION_01.json` closes the representative integration on the accepted Character-bounded architecture. Four matched specimens remove theme/disclosure confounding: creator-global Light/D3 carry identical global information, while Julian-bounded Light/D3 carry identical bounded information.
+
+All seven responsive/accessibility cases pass with zero overflow. Teal has zero actual usages, so neither accent nor theme can become privacy, secrecy, truth, completeness or disclosure authority. Creator-only material remains absent rather than dimmed, teased, counted, redacted or summarized; Julian remains the same persistent Character; creator interaction remains distinct from Character agency; infrastructure does not leak into bounded perception.
+
+No F2 or D3 value changed after exposure. Drive Phase-3 archive preserves exact HTML `1fM6DOrpJ3FUx-wXwTyizVBWZBxUK0eCJ` and PNG `1f-0BVNiVODW38uBJfBUWvdELBGYkaIWp`.
+
+D3 survives this ninth representative section but remains provisional. No final Perspective control, knowledge schema, disclosure-color semantics, production token freeze, native implementation, Stage successor or Phase-3 convergence authority is created.
+
+**Next boundary:** evaluate selected Light F2 + exact provisional D3 on Empty / Unavailable / Transitional Workspace states without allowing theme or accent to impersonate lifecycle, provider, loading or fictional semantics.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
