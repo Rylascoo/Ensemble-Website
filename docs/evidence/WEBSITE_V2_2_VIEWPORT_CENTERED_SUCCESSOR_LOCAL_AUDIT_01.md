@@ -9,7 +9,7 @@ Branch: `site/v2-2-viewport-lettering-successor-2026-09-15`
 
 ## Candidate
 
-The selected B lettering direction from L-173 is materialized only on this successor branch. The candidate preserves the exact historical Threshold K paths, exact O3 `YMÆAN` path geometry and original O3 stroke hierarchy, with only intact glyph-group translations `Æ -3`, `A -3`, `N -4` SVG user units.
+The selected B lettering direction from L-174 is materialized only on this successor branch. The candidate preserves the exact historical Threshold K paths, exact O3 `YMÆAN` path geometry and original O3 stroke hierarchy, with only intact glyph-group translations `Æ -3`, `A -3`, `N -4` SVG user units.
 
 The complete visible lockup uses `left: 50%` at every audited shape. Wide/tall placement moves from 12svh to 14.5svh; phone/tablet portrait vertical placement remains at the accepted V2.2 value because the Director's new evidence reopened horizontal centering and the required wide/mini-wide/tall vertical rhythm, not the established phone crop rhythm. `COMING SOON` spacing is tightened without copy change.
 
@@ -34,8 +34,10 @@ No added frame, generated typography, Stage repaint, visible copy, analytics, ap
 
 Three candidate-closeout defects were found and corrected. First, the responsive visual standard still described doorway-axis identity alignment; the successor branch now states viewport-centered identity while preserving the existing Stage crop equations and relationship-first responsive law. Second, `social-card.jpg` still carried the superseded doorway-axis/heavier identity treatment. It was regenerated deterministically from the exact 1200x630 successor page composition and the existing frozen Stage, then `og:image` / `twitter:image` cache bust advanced from `v=3` to `v=4`. The repaired JPEG is 92,205 bytes, SHA-256 `900838f5ddbdd0867c7c1f6ef6d2e4349e2766ae5ca1425a73ee1d1e3c739d1b`. Third, the deterministic comparison harness still carried experimental portrait-only top values outside the three adjudicated reference shapes; those were synchronized to the production-shaped candidate portrait rhythm so future mobile inspection cannot misread stale exploratory geometry. The original wide/mini-wide/tall A/B/C result is unchanged.
 
-After both corrections, the full local Edge/CDP matrix and geometry/publication checks were repeated. Exact Threshold K coordinate tokens and exact O3 `YMÆAN` path tokens match their canonical repository assets; Stage bytes remain unchanged; `social-card.jpg?v=4` appears exactly in both social metadata declarations. No material visual, responsive, accessibility, authority or publication-boundary defect remains in local evidence.
+Before the hosted gate, fresh remote reconciliation found concurrent PR #74 had merged to `main@fd7785c423030a596d209b2b01e05468f17e1d9f`. That merge changed no `site/public/**` bytes but added the Bellweather continuity record as Design Ledger L-173, colliding with this branch's provisional ledger numbering. The Bellweather L-173 and durable continuity law were preserved intact; the website comparison/local-audit entries were renumbered to L-174/L-175 and current state retains both independent workstreams. Candidate pixels and the selected website mechanism did not change.
 
-**Next boundary:** regenerate/validate repository documentation, commit and push the exact candidate, require exact-head repository workflows plus Cloudflare hosted byte/visual verification before any production promotion.
+After all three candidate corrections, the full local Edge/CDP matrix and geometry/publication checks were repeated. Exact Threshold K coordinate tokens and exact O3 `YMÆAN` path tokens match their canonical repository assets; Stage bytes remain unchanged; `social-card.jpg?v=4` appears exactly in both social metadata declarations. No material visual, responsive, accessibility, authority or publication-boundary defect remains in local evidence.
+
+**Next boundary:** complete the current-main reconciliation commit and push the exact updated PR #75 head, then require exact-head repository workflows plus Cloudflare hosted byte/visual verification before any production promotion.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN LOCAL RECURSIVE AUDIT.**

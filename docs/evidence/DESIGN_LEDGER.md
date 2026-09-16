@@ -2680,7 +2680,28 @@ The next bounded comparison is deterministic and non-production: **A — O3 rese
 **Guardrail:** no Stage regeneration/repaint, generated replacement typography, Threshold K redesign, added viewport frame overlay, app/UI authority, palette reopening, product disclosure or production deployment before the comparison is selected and recursively audited.
 
 **Next boundary:** build the exact A/B/C comparison from current `main`; production `www.kymaean.com` remains unchanged.
-## L-173 - Viewport-centered deterministic lettering comparison selects B optical spacing
+
+## L-173 - Bellweather signature-character master is frozen; successor identity stress test remains separate
+
+**State:** DIRECTOR VISUAL FREEZE / MASTER PRESERVED / SUCCESSOR STRESS TEST AUTHORIZED / NO CURRENT_STATE CHANGE / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
+
+The Director explicitly approved the current Bellweather mascot/signature-character concept as the frozen master and requested preservation of the full chat-image exploration before successor work. Canonical Drive residency is `Ensemble Project / 03 Visual Identity & Artwork / Kymaean / 23 Mascot & Signature Character Exploration — Bellweather Master — 2026-09-15` (folder ID `1Pp-GdC975XPZZyCOzfuRbMvhymFKTicH`). The exact master is `02 Frozen Master — Bellweather Mascot / MASTER — Bellweather Mascot Look Development — Frozen Director Concept — 2026-09-15.png`, Drive file ID `1nhpQQMbNVHhclBgr3jYRLe-T_x29Poun`. Source size is **2,288,369 bytes** and source SHA-256 is `5c95d69f883174e9b56e81b239f73eb99712665887e1f19026c0422579eb73a7`; Drive metadata readback matches the source byte size. A post-upload re-download hash is not claimed.
+
+The chronological chat-render exploration is preserved separately under `01 Chat Renders — Exploration Sequence`, including early portrait work, high-school mascot development, persistent-people/causality/environment studies, infinite-worlds studies, the Bellweather app-design board, and the cancelled/incomplete infinite-worlds attempt explicitly labeled as non-approved provenance. The frozen master is not duplicated into that historical sequence, preventing ambiguity over canonical master identity.
+
+The Bellweather woman is now treated as the signature Character of **The Bellweather Production**, not as a universal literal face inserted into every Kymaean world. The high-school mascot belongs to its own Production, and other Productions may develop their own persistent Characters. Cross-Production cohesion comes from Kymaean's grammar of identity persistence, relationship, bounded perspective, history, consequence and changed possibility rather than one repeated heroine.
+
+The frozen master establishes a strong Bellweather evening reference but does **not** freeze the exact gown, pearls, gloves, jeweled hair ornament, shoes, evening makeup, Room 217 key, one glamour-lighting setup, or one exact hairstyle arrangement as deep identity. The Room 217 key and comparable letters/registers/photographs/period artifacts should gain meaning through authoritative Production history rather than becoming permanent mascot accessories or automatic truth carriers.
+
+**Authorized successor question:** create a separate Bellweather Character Identity Stress Test derived from the frozen master. Test the same woman across materially different contexts and levels of formality—daytime hotel, private room, arrival/travel, late-night lived-in continuation, and a later historically changed moment—while removing or varying jewelry, ornament, color, facial detail, clothing, crop, scale and props. Test recognition among other Bellweather Characters and broaden expression toward controlled irritation, genuine amusement, suspicion, embarrassment, exhaustion, concentrated listening, guarded politeness and private relief without theatrical diagnostic shorthand. The successor may challenge what actually carries identity, but it may not overwrite or silently revise the frozen master.
+
+This decision changes no live website pixels, active website-lettering refinement, `PKT-STAGE-CORE-02`, `APP-SYN-01`, current Stage law, CLR adjudication, app implementation, final shared-brand identity, product/runtime semantics, or engineering authority. `CURRENT_STATE.md` is refreshed only to record this parallel visual evidence and restore mechanical currency; its active Website Sol lettering next action continues independently.
+
+Canonical Drive synthesis: `Bellweather Mascot / Signature Character — Frozen Master & Exploration Synthesis` (Google Doc ID `1TyYaWeaLGA5nZRMAF7SAeXhzlAvUY2Z3AJQIxM2_3NI`). The earlier `Kymaean Character & Image Direction — Pre-Candidate Director Intuition Synthesis 01` has a Bellweather freeze addendum preserving the same boundary.
+
+**DIRECTOR DECISION — BELLWEATHER MASTER CONCEPT FROZEN; SUCCESSOR IDENTITY STRESS TEST AUTHORIZED.**
+
+## L-174 - Viewport-centered deterministic lettering comparison selects B optical spacing
 
 **State:** DIRECTOR + DESIGN SOL CONVERGENCE / B SELECTED / PRODUCTION V2.2 UNCHANGED / SUCCESSOR MATERIALIZATION NEXT
 
@@ -2700,11 +2721,11 @@ Canonical evidence: `docs/evidence/WEBSITE_V2_2_VIEWPORT_CENTERED_LETTERING_COMP
 
 **APPROVED — CONVERGENT DIRECTOR + DESIGN SOL DETERMINISTIC SELECTION / PRODUCTION UNCHANGED.**
 
-## L-174 - Viewport-centered successor passes local production-shaped recursive audit
+## L-175 - Viewport-centered successor passes local production-shaped recursive audit
 
 **State:** LOCAL CANDIDATE PASS / HOSTED VERIFICATION NEXT / PRODUCTION V2.2 UNCHANGED
 
-Selected B from L-173 is now materialized on `site/v2-2-viewport-lettering-successor-2026-09-15`. The production-shaped candidate preserves exact historical Threshold K paths, exact O3 `YMÆAN` geometry and original O3 stroke hierarchy, with only the approved intact group translations `Æ -3`, `A -3`, `N -4`.
+Selected B from L-174 is now materialized on `site/v2-2-viewport-lettering-successor-2026-09-15`. The production-shaped candidate preserves exact historical Threshold K paths, exact O3 `YMÆAN` geometry and original O3 stroke hierarchy, with only the approved intact group translations `Æ -3`, `A -3`, `N -4`.
 
 The visible lockup is `left: 50%` at every audited shape. Wide/tall placement moves modestly lower to 14.5svh and `COMING SOON` is tightened; established phone/tablet portrait vertical placement remains unchanged. Stage artwork and responsive crop equations remain byte/geometry-identical; Stage SHA-256 is still `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
 
@@ -2712,10 +2733,12 @@ Local Edge/CDP passed 2048x1199, 1235x647, 1138x1354, 1227x1422, 768x1024, 600x9
 
 Visual inspection confirms the new viewport center reads intentionally independent from the doorway at wide, mini-wide and tall shapes while preserving the accepted Stage balance. B remains sufficient; C's hierarchy change is not reopened.
 
-The recursive audit found and corrected two closeout defects. `KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md` still described doorway-axis identity alignment, so the candidate branch now states viewport-centered identity while preserving relationship-first crop behavior. The 1200x630 social card also still carried the superseded doorway-axis/heavier identity treatment; it was regenerated deterministically from the exact successor page composition, yielding 92,205 bytes / SHA-256 `900838f5ddbdd0867c7c1f6ef6d2e4349e2766ae5ca1425a73ee1d1e3c739d1b`, and social-image cache metadata advances from `v=3` to `v=4` without changing title, description or alt semantics. The deterministic comparison harness also had stale exploratory portrait-only top values outside the three adjudicated shapes; it is synchronized to the production-shaped candidate portrait rhythm without changing the wide/mini-wide/tall A/B/C result.
+The recursive audit found and corrected three candidate-closeout defects. `KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md` still described doorway-axis identity alignment, so the candidate branch now states viewport-centered identity while preserving relationship-first crop behavior. The 1200x630 social card also still carried the superseded doorway-axis/heavier identity treatment; it was regenerated deterministically from the exact successor page composition, yielding 92,205 bytes / SHA-256 `900838f5ddbdd0867c7c1f6ef6d2e4349e2766ae5ca1425a73ee1d1e3c739d1b`, and social-image cache metadata advances from `v=3` to `v=4` without changing title, description or alt semantics. The deterministic comparison harness also had stale exploratory portrait-only top values outside the three adjudicated shapes; it is synchronized to the production-shaped candidate portrait rhythm without changing the wide/mini-wide/tall A/B/C result.
+
+Before the hosted gate, fresh remote reconciliation found concurrent PR #74 had merged to `main@fd7785c423030a596d209b2b01e05468f17e1d9f`. That merge changed no `site/public/**` bytes but added the Bellweather continuity record as Design Ledger L-173, colliding with this branch's provisional ledger numbering. The Bellweather L-173 and durable continuity law were preserved intact; the website comparison/local-audit entries were renumbered to L-174/L-175 and current state retains both independent workstreams. Candidate pixels and the selected website mechanism did not change.
 
 Canonical local audit: `docs/evidence/WEBSITE_V2_2_VIEWPORT_CENTERED_SUCCESSOR_LOCAL_AUDIT_01.md`.
 
-**Next boundary:** regenerate/validate docs, commit/push the exact candidate, require exact-head repository workflows and exact hosted Cloudflare byte/visual verification before production promotion.
+**Next boundary:** complete the current-main reconciliation commit and push the exact updated PR #75 head, then require exact-head repository workflows and exact hosted Cloudflare byte/visual verification before production promotion.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN LOCAL RECURSIVE AUDIT.**
