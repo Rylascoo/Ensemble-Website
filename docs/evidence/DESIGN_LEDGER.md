@@ -3406,3 +3406,17 @@ D3 survives this seventh representative section but remains provisional. No prod
 **Next boundary:** evaluate selected Light F2 + exact provisional D3 on Production Lifecycle Utilities, keeping application/Production-scope machinery secondary to ordinary creative work and avoiding invented Product/Phase-D commands.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-219 - Production Lifecycle Utilities F2 + provisional D3 integration method freezes before exposure
+
+**State:** PHASE-3 PRODUCTION-LIFECYCLE-UTILITIES INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_PRODUCTION_LIFECYCLE_UTILITIES_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the exact accepted Production Lifecycle Utilities carrier. Selected Light F2 and exact provisional D3 remain fixed inputs with MAT-01 F1, TYP-02 F1 and STA-01 F2 only where existing UI state actually requires it; no post-exposure color retune is allowed.
+
+The study must preserve utilities as deliberate secondary application/Production scope, navigation-versus-effective mutation, provisional-versus-effective configuration, provider machinery versus Character identity, portability navigation versus import/export mutation, diagnostics outside fiction and exact return to retained creative origin.
+
+D3 fails locally if darkness makes infrastructure feel privileged or more severe, if teal becomes configuration/provider/recovery/status semantics, or if the visual system reframes KYMÆAN as an administration dashboard rather than current-situation-first creative work.
+
+**Next boundary:** materialize the exact accepted utility carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit secondary-scope hierarchy before preservation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**

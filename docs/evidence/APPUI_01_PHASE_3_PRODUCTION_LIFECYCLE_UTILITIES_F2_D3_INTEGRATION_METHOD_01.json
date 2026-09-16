@@ -1,0 +1,50 @@
+{
+  "schema": "kymaean.appui-phase3-production-lifecycle-utilities-f2-d3-integration-method.v1",
+  "status": "PHASE_3_PRODUCTION_LIFECYCLE_UTILITIES_INTEGRATION_METHOD_FROZEN_PRE_EXPOSURE",
+  "date": "2026-09-15",
+  "program": "APPUI-01 Phase 3 - Kymaean Visual-Language Integration",
+  "authority": {
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "pre_exposure_ref": "bc516315b2713cef11d9f0f821fc4ccfe0828140",
+    "website_main_reconciled": "842f7f631ef9a5ca87ce9342217910c6036cab1b",
+    "engineering_main_reconciled": "46c5d7fc8597b33012e2f083fd42113a47b83e77",
+    "functional_parent": "docs/evidence/APPUI_01_PRODUCTION_LIFECYCLE_UTILITIES_FUNCTIONAL_STUDY_01.json"
+  },
+  "fixed_inputs": {
+    "light_f2": {"field":"#F4F3F7","primary":"#221B2D","secondary":"#5C5565","accent":"#006F73","boundary":"#7D7486","soft_surface":"#EAE8EF"},
+    "dark_d3": {"field":"#19141D","primary":"#F4F0F5","secondary":"#BEB4C0","accent":"#249A9C","boundary":"#756A79","soft_surface":"#261F29"},
+    "material": "MAT-01 F1 Subtractive Channel",
+    "typography": "TYP-02 F1 Ratio Ladder",
+    "state": "STA-01 F2 Ring + Edge Witness only where existing UI state requires it"
+  },
+  "study_question": "Can selected Light F2 and exact provisional D3 carry Production Lifecycle Utilities while keeping infrastructure deliberately secondary to ordinary creative work and preserving navigation-versus-effect boundaries?",
+  "must_preserve": [
+    "utilities remain deliberate application/Production secondary scope rather than a permanent creative home",
+    "opening a utility surface != Production/provider mutation",
+    "provisional configuration != effective configuration",
+    "provider/capability unavailable != Character refusal or fictional failure",
+    "portable Production navigation != import/export/overwrite/merge mutation",
+    "diagnostics and recovery stay outside fiction",
+    "provider machinery != Character identity or Performer assignment",
+    "Close/Back restores retained creative origin when valid and != Undo"
+  ],
+  "falsification": [
+    "D3 makes utilities feel like a privileged admin/control center or visually outrank the originating creative task.",
+    "Darkness itself implies technical severity, provider authority, configuration effectiveness or diagnostic importance.",
+    "Teal/accent implies applied settings, provider health, portability success, recovery success or severity.",
+    "Utility families become permanent navigation equal to Home/Shaping/current situation.",
+    "Visual treatment suggests literal Product-dependent commands or a frozen portable/provider/recovery workflow.",
+    "D3 muddies retained creative origin or navigation-versus-mutation boundaries."
+  ],
+  "test_matrix": ["1600", "1024", "390", "320", "320_forced_colors", "320_text_200_percent", "320_text_spacing"],
+  "no_retune_after_exposure": true,
+  "non_authority": [
+    "No final utility labels, menu placement, dialogs, commands or confirmation behavior are created.",
+    "No portable Production format, merge/overwrite compatibility behavior or destinations are frozen.",
+    "No provider/model/cost policy, authentication, assignment, availability or Performer semantics are created.",
+    "No diagnostic, repair, fallback, recovery or destructive-action semantics are frozen.",
+    "No Production token freeze, semantic infrastructure colors, native implementation, Stage successor or Phase-3 convergence authority is created.",
+    "D3 remains provisional even if this local study passes."
+  ],
+  "next": "Materialize the exact accepted Production Lifecycle Utilities carrier in selected Light F2 plus exact provisional D3, run the frozen seven-condition matrix, and audit secondary-scope hierarchy and navigation-versus-effect honesty before preservation."
+}
