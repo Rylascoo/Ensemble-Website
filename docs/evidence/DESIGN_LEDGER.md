@@ -2683,7 +2683,7 @@ The next bounded comparison is deterministic and non-production: **A — O3 rese
 
 ## L-173 - Bellweather signature-character master is frozen; successor identity stress test remains separate
 
-**State:** DIRECTOR VISUAL FREEZE / MASTER PRESERVED / SUCCESSOR STRESS TEST AUTHORIZED / NO CURRENT_STATE CHANGE / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
+**State:** DIRECTOR VISUAL FREEZE / MASTER PRESERVED / SUCCESSOR STRESS TEST AUTHORIZED / CURRENT_STATE REFRESH ONLY / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
 
 The Director explicitly approved the current Bellweather mascot/signature-character concept as the frozen master and requested preservation of the full chat-image exploration before successor work. Canonical Drive residency is `Ensemble Project / 03 Visual Identity & Artwork / Kymaean / 23 Mascot & Signature Character Exploration — Bellweather Master — 2026-09-15` (folder ID `1Pp-GdC975XPZZyCOzfuRbMvhymFKTicH`). The exact master is `02 Frozen Master — Bellweather Mascot / MASTER — Bellweather Mascot Look Development — Frozen Director Concept — 2026-09-15.png`, Drive file ID `1nhpQQMbNVHhclBgr3jYRLe-T_x29Poun`. Source size is **2,288,369 bytes** and source SHA-256 is `5c95d69f883174e9b56e81b239f73eb99712665887e1f19026c0422579eb73a7`; Drive metadata readback matches the source byte size. A post-upload re-download hash is not claimed.
 
