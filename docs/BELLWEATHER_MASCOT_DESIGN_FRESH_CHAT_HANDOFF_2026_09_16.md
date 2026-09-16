@@ -27,7 +27,7 @@ Canonical Drive folder: `09 Human Bellweather — Image 5 Morning Variations —
 Fresh Bellweather work should read `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md` after the foundational front-facing evidence. Treat the Human/private family as frozen variation territory: natural daylight, cream/white morning layers, relaxed body language and restrained facial variation, with exact garment/prop microdetails remaining variable.
 
 ## Post-L189 chat archive and active exploration addendum
-Post-L189 chat-generated Bellweather studies are archived in Drive folder `10 Chat Image Archive — Bellweather Human & Wardrobe Exploration — 2026-09-16` (`1VFHIB-5z-rKi8bHP1JYVNKnSJaJ5D4qv`), with archive manifest `1hsGOgflIgs1xnvB9en_ceAJofRwzmta9`. Earlier chat imagery remains in canonical folders 01–09.
+Post-L189 chat-generated Bellweather studies are archived in Drive folder `10 Chat Image Archive — Bellweather Human & Wardrobe Exploration — 2026-09-16` (`1VFHIB-5z-rKi8bHP1JYVNKnSJaJ5D4qv`), with archive manifest `1h1dtll7kZudYNbmzUG6BXT9nKL5vDzff`. Earlier chat imagery remains in canonical folders 01–09.
 
 This newer material is **active non-frozen exploration**. It does not replace L-187, L-189, or the approved formal family. Controlled expression vocabulary: Neutral/Present, Quiet Amusement, Tired, Concerned, Skeptical, Relieved. Primary pose functions: Chin Lower = connection; Three-Quarter = interaction; Over-the-Shoulder = transition, with forward lean, upright frontal, reflection, seated comfort, standing readiness and profile consideration as supporting states.
 
