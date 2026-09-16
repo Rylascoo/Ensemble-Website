@@ -2807,3 +2807,37 @@ Canonical production closeout: `docs/evidence/WEBSITE_V2_2_VIEWPORT_CENTERED_SUC
 **Next boundary:** hold the verified production treatment stable. The apparent-size parity question is preserved for a later bounded website-lettering pass and is not itself a deployment instruction.
 
 **DIRECTOR PREFERENCE PRESERVED / CLEAN PRODUCTION CLOSEOUT.**
+
+## L-179 - Bellweather website-narrative and human-realism studies are archived; youngest-adult identity test is authorized
+
+**State:** DIRECTOR-APPROVED EXPLORATION FAMILY / FOUR RAW STUDIES ARCHIVED / YOUNGEST-CLEARLY-ADULT STUDY AUTHORIZED / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
+
+The Director explicitly approved all four successor studies ("I love all of these images") and requested durable Drive/GitHub categorization before the next age-range exploration. These studies supplement, and do not overwrite, the L-173 concept master or L-177 Frozen Full Render Mascot Set 01.
+
+Canonical Drive root: `Ensemble Project / 03 Visual Identity & Artwork / Kymaean / 23 Mascot & Signature Character Exploration — Bellweather Master — 2026-09-15 / 06 Website Narrative & Human Realism Studies — 2026-09-16` (folder `1vtQtpZVLZFT2XLG_ZO7tdWPn6wcmJNhb`).
+
+Environmental / website studies live in folder `1Bbzi5bT5DzL35a3me2eIiW0yZ3SVFYkR`:
+1. `01 — Bellweather Ballroom Ensemble — Website Hero Study.png` — Drive `1Qfw37BPoiDB4Dwr7b9FvO1S2595HlTGm` — 3,871,573 bytes.
+2. `02 — Bellweather Red Coat Threshold — Website Narrative Study.png` — Drive `1B0CrwHek_Z2R47TYm-gKG4fHN3wb7ulr` — 3,776,771 bytes.
+
+Human-realism / upper-body studies live in folder `1MnJFhRlXAeINodn8OuoHpoaQ4mPsz86-`:
+3. `03 — Bellweather Formal Front Portrait — Human Realism Study.png` — Drive `19Y-w1NJbWUQzVkqLZZI0XkiJRNNMHHT7` — 2,933,503 bytes.
+4. `04 — Bellweather Private Desk Portrait — Human Realism Study.png` — Drive `1KPsnvbAuOkU3vxdt9FJkoUnnXnShix8D` — 3,019,480 bytes.
+
+Design judgment from this family:
+- the Ballroom Ensemble is the strongest current **world-scale** website study because Bellweather reads as one persistent person inside an active social field rather than an isolated icon;
+- the Red Coat Threshold is the strongest later-history / threshold environmental study; red remains contextual presentation and carries no consequence/state semantics;
+- the Formal Front Portrait is the clearest direct human-recognition / upper-body realism control so far;
+- the Private Desk Portrait is the strongest private/ordinary continuity control and the best current age-range reference because spectacle is reduced while the same person remains legible.
+
+Together the studies establish useful exploration axes: **world-scale / human-scale; public / private; performance / ordinary life; same person / changed circumstances**. Direct gaze remains portrayal only and does not establish knowledge, intent, honesty, availability, or viewer relationship. Period glamour, generated props, incidental background relations, typography and color do not acquire product/brand semantics by appearing in a successful render.
+
+**Authorized next exploration:** test the youngest **clearly adult** interpretation of the same Bellweather mascot while preserving persistent identity and adult agency. Youth is one presentation/circumstance variable, not brand meaning or a shortcut to desirability. Avoid childlike, school-coded, or sexualized cues; preserve natural human realism, the established facial/eye-brow/hair/posture identity carriers, relational context, bounded perspective, history-to-come and anticipation.
+
+This decision changes no live website bytes, V2.2/V2.3 production treatment, Stage, app UI, `PKT-STAGE-CORE-02`, `APP-SYN-01`, product/runtime semantics, or universal Character-representation law. The four studies are approved exploration evidence, not automatic production website assets.
+
+Canonical Drive continuity is also updated in `Bellweather Mascot / Signature Character — Frozen Master & Exploration Synthesis`, `Kymaean Character & Image Direction — Pre-Candidate Director Intuition Synthesis 01`, and `Kymaean Visual Exploration Registry & Critique Ledger`.
+
+**Next boundary:** the youngest-clearly-adult Bellweather study may render as a separate successor exploration. Hold the verified website production stable unless separately reopened.
+
+**DIRECTOR SIGNAL PRESERVED — FOUR STUDIES APPROVED; YOUNGEST-CLEARLY-ADULT IDENTITY TEST AUTHORIZED.**
