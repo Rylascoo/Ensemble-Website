@@ -2863,3 +2863,21 @@ This decision changes no live website bytes, Stage, website identity geometry, a
 **Next boundary:** render the specific-design successor as separate exploration evidence; hold verified website production stable unless separately reopened.
 
 **DIRECTOR SIGNAL PRESERVED — FORMAL TURNAROUND APPROVED; SPECIFIC-DESIGN EXPLORATION AUTHORIZED.**
+
+## L-181 - Website apparent-size parity study prefers a 1.03× Threshold K presentation scale
+
+**State:** NON-PRODUCTION DETERMINISTIC STUDY / B 1.03× PREFERRED / DIRECTOR CONFIRMATION NEXT / PRODUCTION UNCHANGED
+
+The Director's L-178 future website-lettering preference is activated as a bounded deterministic study. Current production is retained as control and the exact historical Threshold K paths remain untouched.
+
+Three intact-group presentation scales were compared over the exact frozen V2.2 Stage and current B optical-spacing lockup at 2048×1199, 1235×647 and 1138×1354: A = current `1.00×`; B = `1.03×`; C = `1.05×`. B and C keep the K bottom and horizontal center anchored to the current K, so only apparent scale changes.
+
+Measured control K is already about 1.6% taller than Y mathematically but materially narrower. The question is therefore optical presence rather than literal cap height. B raises K rendered height to about 4.6% above Y and gives it sufficient apparent parity without changing its drawing; C reaches about 6.7% above Y and begins to lead through size.
+
+Visual inspection across all three browser shapes prefers B. A remains valid but slightly emblem-like beside `YMÆAN`; B joins the wordmark more convincingly while preserving Threshold K identity and baseline stability; C becomes perceptibly over-tall. No finer scale bracket is materially justified before Director review.
+
+Canonical study: `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_STUDY_01.md`. Prototype: `prototypes/website-v2-2-letter-size-parity-study/index.html`.
+
+No `site/public/**`, social card, favicon, app/UI, Stage, publication, analytics or shared-brand authority changes.
+
+**Next boundary:** Director confirms or rejects B `1.03×`; only after confirmation may Website Sol build a production-shaped candidate and re-run the full local/hosted production gate.
