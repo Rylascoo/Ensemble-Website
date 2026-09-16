@@ -1,0 +1,40 @@
+name: Temporary WORLD L192 Closeout
+
+on:
+  push:
+    branches:
+      - site/v2-2-world-minimal-evidence-closeout-2026-09-16
+    paths:
+      - .github/workflows/tmp-world-l192-closeout.yml
+
+permissions:
+  contents: write
+
+jobs:
+  append-ledger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: site/v2-2-world-minimal-evidence-closeout-2026-09-16
+      - name: Append L-192 exactly once
+        env:
+          LEDGER_ENTRY_B64: "CgojIyBMLTE5MiAtIFdlYnNpdGUgV09STEQtc3RhdGUgY29uY2VwdCBzdHVkeSBzZWxlY3RzIHRyYWNlLWJlZm9yZS1wb3B1bGF0aW9uIGdyYW1tYXIKCioqU3RhdGU6KiogTk9OLVBST0RVQ1RJT04gV09STEQgQ09OQ0VQVCBST1VORCBDT01QTEVEVEUgLyBXMSBUUkFDRSArIFcyIERJU1RBTlQgTElGRTogU1VSVklWRSAvIFczIFVQUEVSLUJPVU5EIFNUT1JZIFNUQVRFIC8gREVURVJNSU5JU1RJQyBXMC1XMS1XMiBTVFVEWSBORVhUIC8gUFJPRFVDVElPTiBVTkNIQU5HRUQKCldlYnNpdGUgU29sIHRlc3RlZCB0aGUgZmlyc3QgV09STEQtc3RhdGUgZXhwYW5zaW9uIGFmdGVyIHRoZSBzZWxlY3RlZCBQRVJTT04gY2Fycmllci4gVHdvIGNvbmNlcHQgYm9hcmRzIHdlcmUgdXNlZCBvbmx5IGFzIGRlc2lnbiBwcm9iZXMsIG5vdCBwcm9kdWN0aW9uIHN1cmZhY2VzOiBhIGJyb2FkIHNvY2lhbCB3b3JsZCBhbmQgYSByZXN0cmFpbmVkIFcwLVczIG1pbmltYWwtZXZpZGVuY2UgY29tcGFyaXNvbi4gVGhlIGJyb2FkIGNyb3dkZWQgZXhlY3V0aW9uIHByb3ZlZCB0aGUgbGFyZ2VyLXdvcmxkIHByaW5jaXBsZSBidXQgb3Zlci1leHBsYWluZWQgdGhlIHNjZW5lLCBwdXNoZWQgQmVsbHdlYXRoZXIncyAxOTIwcyBQcm9kdWN0aW9uIHRvd2FyZCB1bml2ZXJzYWwgS1lNw4ZBTiBpZGVudGl0eSwgYW5kIHJlYWQgdG9vIHN0cm9uZ2x5IGFzIGx1eHVyeS9ob3RlbCBjYW1wYWlnbiBpbWFnZXJ5LgoKVGhlIHN1cnZpdmluZyBXT1JMRCBncmFtbWFyIGlzICoqdHJhY2UgYmVmb3JlIHBvcHVsYXRpb24qKi4gVzEgc2hvd3MgZXZpZGVuY2Ugb2YgYW5vdGhlciBsaWZlIHdpdGhvdXQgcmVxdWlyaW5nIGFub3RoZXIgdmlzaWJsZSBwZXJzb247IFcyIGludHJvZHVjZXMgb25lIGRpc3RhbnQgaW5kZXBlbmRlbnQgYWR1bHQgd2hvc2Ugb3duIHRyYWplY3RvcnkgcHJvdmVzIEJlbGx3ZWF0aGVyIGlzIG5vdCB0aGUgb25seSBsaWZlIGluIHRoZSB3b3JsZC4gVzMsIHdpdGggbXVsdGlwbGUgdmlzaWJsZSBwZW9wbGUvcmVsYXRpb25zaGlwIGltcGxpY2F0aW9uLCByZW1haW5zIHVzZWZ1bCBhcyBhbiB1cHBlci1ib3VuZCBsYXRlci1zdG9yeSBzdGF0ZSBidXQgaXMgbm90IHRoZSBkZWZhdWx0IFdPUkxEIGNhcnJpZXIuCgpUaGUgbmFycmF0aXZlIHNlcXVlbmNlIGlzIHRoZXJlZm9yZSByZWZpbmVkIGZyb20gYFBMQUNFIC0+IFBSRVNFTkNFIC0+IFBFUlNPTiAtPiBXT1JMRGAgdG8gYFBMQUNFIC0+IFBSRVNFTkNFIC0+IFBFUlNPTiAtPiBUUkFDRSAtPiBPVEhFUiBMSUZFIC0+IFJFTEFUSU9OU0hJUGAuIFRoaXMgaXMgaW50ZXJuYWwgd2Vic2l0ZSBjaG9yZW9ncmFwaHksIG5vdCBwdWJsaWMgY29weSBvciBwcm9kdWN0IGRpc2Nsb3N1cmUuCgpEcml2ZSBldmlkZW5jZTogYnJvYWQtc29jaWFsIGNvbmNlcHQgYm9hcmQgYDFSWlF6OFBNWjJkOE9Cend5WE0yZkVuMmk5UVVlN0xWbWA7IG1pbmltYWwtZXZpZGVuY2UgVzAtVzMgYm9hcmQgYDFvNXpaN2V Pbk hFcEZZRWNEWlBYamd3aUFjX1Z1VGpzUW A7IGJvdGggYXJjaGl2ZWQgdW5kZXIgYDA0IE1hc2NvdCBJbnRlZ3JhdGlvbiBFeHBsb3JhdGlvbiDigJQgMjAyNi0wOS0xNmAuIFRoZSBnZW5lcmF0ZWQgYXJjaGl0ZWN0dXJlLCB0eXBvZ3JhcGh5LCBjb3B5LCBwb3J0YWwgdHJlYXRtZW50LCBjcm93ZCBzdHlsaW5nIGFuZCBleGFjdCBwcm9wcyBhcmUgbm9uLWF1dGhvcml0YXRpdmUuCgoqKkV4YWN0IG5leHQgYWN0aW9uOioqIGRldGVybWluaXN0aWMgbm9uLXByb2R1Y3Rpb24gVzAvVzEvVzIgcmVjb25zdHJ1Y3Rpb24gYWdhaW5zdCB0aGUgZXhhY3QgZnJvemVuIFYyLjIgU3RhZ2UvY3VycmVudCBLWU3DhUFOIGxvY2t1cCBhbmQgc2VsZWN0ZWQgUDIgQmVsbHdlYXRoZXIgZW52ZWxvcGUsIGFjcm9zcyB3aWRlLCBtaW5pLXdpZGUgYW5kIHRhbGwuIFcwIGlzIFBFUlNPTiBjb250cm9sOyBXMSBpcyB0cmFjZSB3aXRob3V0IGFub3RoZXIgdmlzaWJsZSBwZXJzb247IFcyIGlzIG9uZSBkaXN0YW50IGluZGVwZW5kZW50IGFkdWx0LiBObyBwcm9kdWN0aW9uIHByb21vdGlvbiBpcyBhdXRob3JpemVkIGJ5IHRoaXMgY2xvc3VyZS4KCk5vIGBzaXRlL3B1YmxpYy8qKmAsIHByb2R1Y3Rpb24gU3RhZ2UsIHByb2R1Y3Rpb24gbGV0dGVyaW5nLCBhcHAgVUksIHByb2R1Y3Qgc2VtYW50aWNzLCB1bml2ZXJzYWwgQ2hhcmFjdGVyIHJlcHJlc2VudGF0aW9uIG9yIEJlbGx3ZWF0aGVyLXNwZWNpZmljIHVuaXZlcnNhbCBVSSBsYXcgY2hhbmdlZC4K"
+        run: |
+          if ! grep -q '^## L-192 ' docs/evidence/DESIGN_LEDGER.md; then
+            printf '%s' "$LEDGER_ENTRY_B64" | base64 -d >> docs/evidence/DESIGN_LEDGER.md
+          fi
+      - name: Validate repository guards
+        run: |
+          python tools/validate_document_status.py
+          python tools/validate_repository_boundaries.py
+          python tools/generate_docs_index.py --check
+      - name: Commit ledger append
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if ! git diff --quiet; then
+            git add docs/evidence/DESIGN_LEDGER.md
+            git commit -m 'Website: record WORLD minimal-evidence concept result'
+            git push
+          fi
