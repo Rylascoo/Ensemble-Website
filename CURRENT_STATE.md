@@ -13,7 +13,7 @@ Website Placeholder V2.2 remains live and verified on `www.kymaean.com`; current
 ## Website Sol mascot-integration program
 L-188 opens Bellweather website exploration. L-190 closes A1-A4 PRESENCE placement: A4 delayed reveal is the preferred opening grammar and A3 is its static carrier. L-191 closes the PERSON-state study: P2 is selected; P1 is the lower-bound control; P3 is poster-dominant.
 
-L-192 closes the first WORLD-state concept round. Two non-production concept boards are archived in Drive under `04 Mascot Integration Exploration — 2026-09-16`: broad-social board `1RZQz8PMZ2d8OBzwyXM2fEn2i9QUe7LVm` and minimal-evidence W0-W3 board `1o5zZ7eOnHEpFYEcDZPXjgwiAc_VuTjsQ`. The broad crowd execution is rejected as too literal / luxury-campaign-like. The surviving WORLD grammar is **trace before population**: W1 evidence of another life without showing the person, then W2 one distant independent person. W3 relationship is an upper-bound later-story state, not the default.
+L-192 closes the first WORLD-state concept round. Two non-production concept boards are archived in Drive under `04 Mascot Integration Exploration — 2026-09-16`: broad-social board `1RZQz8PMZ2d8OBzwyXM2fEn2i9QUe7LVm` and minimal-evidence W0-W3 board `1o5zZ7eOnHEpFYEcDZPXjgwiAc_VuTjsQ`. The broad crowd execution is rejected as too literal / luxury-campaign-like. The surviving WORLD grammar is **trace before population**: W1 evidence of another life without showing the person, then W2 one distant independent person. W3 relationship is an upper-bound later-story state, not the default. The deterministic W0/W1/W2 reconstruction has not yet been materialized.
 
 Narrative progression is now `PLACE -> PRESENCE -> PERSON -> TRACE -> OTHER LIFE -> RELATIONSHIP`.
 
