@@ -3342,3 +3342,17 @@ D3 survives this fifth representative section but remains provisional. No produc
 **Next boundary:** evaluate selected Light F2 + exact provisional D3 on Truth / Knowledge / Disclosure Inspection, preserving epistemic/disclosure distinctions without allowing color to encode fact/claim/belief/private/known status.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-215 - Truth / Knowledge / Disclosure F2 + provisional D3 integration method freezes before exposure
+
+**State:** PHASE-3 TRUTH/KNOWLEDGE/DISCLOSURE INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_TRUTH_KNOWLEDGE_DISCLOSURE_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the exact accepted Truth / Knowledge / Disclosure Inspection carrier. Selected Light F2 and exact provisional D3 Dark remain fixed inputs with MAT-01 F1, TYP-02 F1 and STA-01 F2; no post-exposure color retune is allowed.
+
+The study must preserve creator-global versus Character-bounded disclosure, unknown-versus-false, withheld/private-versus-absent, claim-versus-fact, memory-versus-objective-history, truth-versus-temporal status, stable Character identity and exact semantic return. Bounded views may not leak out-of-bound material through counts, placeholders, summaries or visual hints by default.
+
+D3 fails locally if darkness or teal becomes shorthand for truth, secrecy, privacy, uncertainty, confidence, knownness or disclosure authority, if Light appears more globally true by brightness, or if bounded material reads as less real rather than differently disclosed.
+
+**Next boundary:** materialize the exact functional carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit epistemic/disclosure honesty before preservation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
