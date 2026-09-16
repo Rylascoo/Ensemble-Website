@@ -3018,3 +3018,20 @@ Canonical repository evidence: `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATI
 No `site/public/**`, Stage art, app UI layout/behavior, product semantics, universal Character-face law or website-production authority changed.
 
 **DIRECTOR SIGNAL PRESERVED — IMAGE 5 MORNING/PRIVATE FAMILY FROZEN AS CORE BELLWEATHER VARIATIONS.**
+
+
+## L-190 - Website Bellweather A1-A4 placement study selects A4 opening grammar
+
+**State:** NON-PRODUCTION DETERMINISTIC STUDY COMPLETE / A3 STATIC CONTROL / A4 DELAYED REVEAL PREFERRED / A2 DEFERRED FOR POSE EVIDENCE / PRODUCTION UNCHANGED
+
+The Director-authorized A1-A4 Bellweather placement study was executed against the exact frozen Stage and current production `KYMÆAN / COMING SOON` lockup at 2048x1199, 1235x647 and 1138x1354. The inspected matrix produced zero horizontal overflow and zero Bellweather/brand-lockup overlap.
+
+A1 remains a valid restrained control but is slightly too peripheral on wide. A2 retains the desired departing/crossing behavioral hypothesis, but the current front-facing carrier cannot honestly prove that behavior and must not be promoted as motion evidence. A3 is the strongest static placement. A4 was refined to use A3 placement with delayed-reveal behavior and is the preferred opening-state concept: preserve the current empty Stage first, then allow Bellweather to become discoverable in the A3 location.
+
+The derived transparent Bellweather carrier is placement evidence only and does not replace L-187 foundational authority, L-189 Human/private authority or later mascot refinements. Canonical study evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_PLACEMENT_STUDY_01.md`.
+
+The next Website Sol creative question is the non-production PERSON-state encounter derived from the Director-favorite closer middle-image composition, preserving `PLACE -> PRESENCE -> PERSON -> WORLD` and the exact Stage/system-level identity.
+
+No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
+
+**DIRECTOR SIGNAL PRESERVED — A4 DELAYED REVEAL IS THE PREFERRED OPENING GRAMMAR; A3 IS THE STATIC CONTROL; PRODUCTION REMAINS FROZEN.**

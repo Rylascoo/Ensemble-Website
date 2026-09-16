@@ -10,16 +10,18 @@ Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 ## Production
 Website Placeholder V2.2 with the apparent-size parity identity successor remains live and verified on `www.kymaean.com`. PR #85 promoted exact head `1d89c3e5f3c9ef1133bcde11b66e63592a88b0ac` as `main@137636fe57c36235d2f8f45c87e96b5bd12e0768`.
 
-All nine live public assets remain the verified baseline. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`; V5 social card: `36faecf3022c269f40eb10364f26c0f40b350eedd4d27f1ec92b08de0b5b04a6`. Current identity preserves exact historical Threshold K paths at `1.03×`, exact O3 `YMÆAN`, B spacing `Æ -3`, `A -3`, `N -4`, viewport centering, top `14.5svh`, tighter `COMING SOON`, and retained portrait rhythm.
+All nine live public assets remain the verified baseline. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`; V5 social card: `36faecf3022c269f40eb10364f26c0f40b350eedd4d27f1ec92b08de0b5b04a6`. Current identity preserves exact historical Threshold K paths at `1.03×`, exact O3 `YMÆAN`, B spacing `Æ -3`, `A -3`, `N -4`, viewport centering and retained portrait rhythm.
 
 ## Active Website Sol exploration
-The Director reopened Website Sol for a non-production Bellweather integration study and strongly favors the closer middle-image treatment from the second chat render. L-188 and `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_EXPLORATION_01.md` preserve the two archived chat renders, current synthesis, and boundaries. Canonical Drive packet: `04 Mascot Integration Exploration — 2026-09-16` (`1dZ68H6KpRqSql0fIlv4wIqgu9yduQELp`).
+Bellweather integration remains non-production. L-188 preserves the opening thesis; L-190 and `docs/evidence/WEBSITE_V2_2_MASCOT_PLACEMENT_STUDY_01.md` record the completed A1-A4 deterministic study. Canonical Drive packet: `04 Mascot Integration Exploration — 2026-09-16` (`1dZ68H6KpRqSql0fIlv4wIqgu9yduQELp`).
 
-Current synthesis: opening-state study should use Distant Presence scale discipline with Departing/Crossing behavior; the Director-favorite closer near-front Threshold Presence is reserved as a later/second-state human encounter. Intended progression: `PLACE -> PRESENCE -> PERSON -> WORLD`.
+Result: A3 is the strongest static placement. A4, using A3 placement plus delayed reveal, is the preferred opening-state concept. A1 remains a restrained control but is slightly peripheral on wide. A2 remains unresolved because the current front-facing carrier cannot honestly prove departing/crossing behavior. Wide 2048x1199, mini-wide 1235x647 and tall 1138x1354 showed zero horizontal overflow and zero Bellweather/brand-lockup overlap.
 
-Bellweather authority remains L-187 / `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md` and L-189 / `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md`. Post-L189 expression/pose/fitted-wardrobe work is active non-frozen exploration archived in Drive `1VFHIB-5z-rKi8bHP1JYVNKnSJaJ5D4qv`; it does not replace foundational/formal authority. Mascot refinement may continue in parallel without changing website integration grammar.
+The Director-favorite closer middle-image treatment is reserved for the next PERSON-state encounter. Intended progression remains `PLACE -> PRESENCE -> PERSON -> WORLD`.
+
+Bellweather authority remains L-187 / `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md` and L-189 / `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md`. Parallel mascot refinement does not change website integration grammar.
 
 ## Frozen boundary
-No production bytes, Stage repaint, generated typography, new logo, added ornamental frame, Bellweather-specific universal UI language, app UI, product disclosure, Threshold K path redesign or universal Character-face requirement is authorized.
+No production bytes, Stage repaint, generated typography, new logo, ornamental frame, Bellweather-specific universal UI language, app UI, product disclosure, Threshold K path redesign or universal Character-face requirement is authorized.
 
-**Exact next action:** build deterministic non-production A1 distant standing, A2 distant departing/crossing, A3 partially occluded threshold and A4 delayed-reveal hero comparisons against the exact current Stage/lockup; then recursively audit responsive hierarchy before any hosted or production candidate.
+**Exact next action:** integrate the A1-A4 continuity closeout after exact-head validation, then build a deterministic non-production PERSON-state encounter study from the Director-favorite closer middle-image composition while preserving the exact Stage, system identity and production boundaries.
