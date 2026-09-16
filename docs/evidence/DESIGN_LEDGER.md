@@ -3054,3 +3054,20 @@ The narrative progression remains `PLACE -> PRESENCE -> PERSON -> WORLD`: A4/A3 
 No `site/public/**` bytes, production Stage, production identity, accessibility behavior, app UI, product semantics, universal Character-face law or Bellweather authority changed.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+
+## L-192 - Website WORLD-state concept study selects trace-before-population grammar
+
+**State:** NON-PRODUCTION WORLD CONCEPT ROUND COMPLETE / W1 TRACE + W2 DISTANT LIFE SURVIVE / W3 UPPER-BOUND STORY STATE / DETERMINISTIC W0-W1-W2 STUDY NEXT / PRODUCTION UNCHANGED
+
+Website Sol tested the first WORLD-state expansion after the selected PERSON carrier. Two concept boards were used only as design probes, not production surfaces: a broad social world and a restrained W0-W3 minimal-evidence comparison. The broad crowded execution proved the larger-world principle but over-explained the scene, pushed Bellweather's 1920s Production toward universal KYMÆAN identity, and read too strongly as luxury/hotel campaign imagery.
+
+The surviving WORLD grammar is **trace before population**. W1 shows evidence of another life without requiring another visible person; W2 introduces one distant independent adult whose own trajectory proves Bellweather is not the only life in the world. W3, with multiple visible people/relationship implication, remains useful as an upper-bound later-story state but is not the default WORLD carrier.
+
+The narrative sequence is therefore refined from `PLACE -> PRESENCE -> PERSON -> WORLD` to `PLACE -> PRESENCE -> PERSON -> TRACE -> OTHER LIFE -> RELATIONSHIP`. This is internal website choreography, not public copy or product disclosure.
+
+Drive evidence: broad-social concept board `1RZQz8PMZ2d8OBzwyXM2fEn2i9QUe7LVm`; minimal-evidence W0-W3 board `1o5zZ7eOnHEpFYEcDZPXjgwiAc_VuTjsQ`; both archived under `04 Mascot Integration Exploration — 2026-09-16`. The generated architecture, typography, copy, portal treatment, crowd styling and exact props are non-authoritative.
+
+**Exact next action:** deterministic non-production W0/W1/W2 reconstruction against the exact frozen V2.2 Stage/current KYMÆAN lockup and selected P2 Bellweather envelope, across wide, mini-wide and tall. W0 is PERSON control; W1 is trace without another visible person; W2 is one distant independent adult. No production promotion is authorized by this closure.
+
+No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.

@@ -11,15 +11,13 @@ Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 Website Placeholder V2.2 remains live and verified on `www.kymaean.com`; current production was promoted by PR #85. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. Current identity preserves exact historical Threshold K paths at `1.03×`, exact O3 `YMÆAN`, B spacing `Æ -3`, `A -3`, `N -4`, viewport centering and retained portrait rhythm. Production remains unchanged by mascot studies.
 
 ## Website Sol mascot-integration program
-L-188 opens Bellweather website exploration. L-190 closes A1-A4 PRESENCE placement: A4 delayed reveal is the preferred opening grammar and A3 is its static carrier; A1 is the restrained control; A2 remains pose-limited.
+L-188 opens Bellweather website exploration. L-190 closes A1-A4 PRESENCE placement: A4 delayed reveal is the preferred opening grammar and A3 is its static carrier. L-191 closes the PERSON-state study: P2 is selected; P1 is the lower-bound control; P3 is poster-dominant.
 
-The deterministic PERSON-state study is complete under L-191. Drive folder `04 Deterministic PERSON-State Encounter — 2026-09-16` (`1C8LsdBoivs3oQyWUXlAhqPqy7tHT6hpT`) preserves the exact comparison and responsive evidence; synthesis document `15aSQkjUr0pcz4lM4pf3SPpkPf4UYSF61NpKPf8nI0NU` records the clean recursive audit.
+L-192 closes the first WORLD-state concept round. Two non-production concept boards are archived in Drive under `04 Mascot Integration Exploration — 2026-09-16`: broad-social board `1RZQz8PMZ2d8OBzwyXM2fEn2i9QUe7LVm` and minimal-evidence W0-W3 board `1o5zZ7eOnHEpFYEcDZPXjgwiAc_VuTjsQ`. The broad crowd execution is rejected as too literal / luxury-campaign-like. The surviving WORLD grammar is **trace before population**: W1 evidence of another life without showing the person, then W2 one distant independent person. W3 relationship is an upper-bound later-story state, not the default. The deterministic W0/W1/W2 reconstruction has not yet been materialized.
 
-Result: P2 is the selected non-production PERSON carrier. On wide it uses the Director-favorite three-quarter-back relationship at 79svh/right 8.5vw with controlled bottom crop; portrait reduces to 53svh/right 1vw. P1 is too close to PRESENCE; P3 becomes editorial/mascot-poster dominant. Wide 2048x1199, mini-wide 1235x647 and tall 1138x1354 show no brand-lockup overlap and zero horizontal overflow after the tall inset correction. The derived cutout is placement evidence only; Bellweather authority remains L-187/L-189 and approved turnaround references.
-
-Narrative progression remains `PLACE -> PRESENCE -> PERSON -> WORLD`.
+Narrative progression is now `PLACE -> PRESENCE -> PERSON -> TRACE -> OTHER LIFE -> RELATIONSHIP`.
 
 ## Frozen boundary
-No `site/public/**` bytes, Stage repaint, generated typography, new logo, ornamental frame, Bellweather-specific universal UI language, app UI, product disclosure, Threshold K path redesign or universal Character-face requirement is authorized.
+No `site/public/**` bytes, Stage repaint, generated typography, new logo, ornamental frame, Bellweather-specific universal UI language, app UI, product disclosure, Threshold K path redesign or universal Character-face requirement is authorized. Concept-board architecture, copy and generated typography remain non-authoritative.
 
-**Exact next action:** build a deterministic non-production WORLD-state study: the smallest social/environmental evidence that proves a larger inhabited world without explaining the product or turning Bellweather's 1920s Production into universal KYMÆAN language.
+**Exact next action:** materialize a deterministic non-production W0/W1/W2 WORLD study against the exact frozen Stage/current KYMÆAN identity and selected P2 Bellweather envelope. W0 = PERSON control; W1 = trace of another life with no second visible person; W2 = one distant independent adult. Test wide, mini-wide and tall. Stop before production promotion.
