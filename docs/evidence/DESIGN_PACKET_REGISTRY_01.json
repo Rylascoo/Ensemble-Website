@@ -229,6 +229,14 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "Validates current-question -> creator-global truth/knowledge inspection -> Julian-bounded disclosure -> exact nested return with hidden-material non-leakage and structural epistemic state.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-COMP-08-01",
+      "path": "docs/evidence/packets/PKT_COMP_08_PERSISTENCE_RECOVERY_INTEGRATION_01.json",
+      "axis": "APP VISUAL real persistence/recovery infrastructure-status flow",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Validates healthy-quiet persistence, truthful non-fictional infrastructure exception, unresolved Close state and exact external-recovery task/focus return.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -256,7 +264,8 @@
     "APPUI-COMP-04 closes the real contextual-to-deep inspection flow above COMP-03; whole-Production Character management is the next real-interface boundary while Product edit semantics, Stage controls, native implementation and production tokens remain unresolved.",
     "APPUI-COMP-05 closes the real whole-Production Character-management flow above COMP-04; causal/history inspection is the next real-interface boundary while Scene participation/casting/lifecycle, native implementation and production tokens remain unresolved.",
     "APPUI-COMP-06 closes the real causal/history inspection flow above COMP-05; truth/knowledge/disclosure inspection is the next real-interface boundary while epistemic schema, consequence/rollback mechanics, native implementation and production tokens remain unresolved.",
-    "APPUI-COMP-07 closes real truth/knowledge/disclosure integration above COMP-06; persistence/recovery status is the next real-interface boundary while final epistemic schema, native implementation and production tokens remain unresolved."
+    "APPUI-COMP-07 closes real truth/knowledge/disclosure integration above COMP-06; persistence/recovery status is the next real-interface boundary while final epistemic schema, native implementation and production tokens remain unresolved.",
+    "APPUI-COMP-08 closes real persistence/recovery integration above COMP-07; Production lifecycle utilities are the next real-interface boundary while storage/recovery implementation, native implementation and production tokens remain unresolved."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -325,9 +334,9 @@
     "active_app_ui_concurrent_website_coordination": "docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json",
     "active_app_ui_concurrent_website_coordination_sha256": "0e520b51b80065a5fbd74288946b42edee87917b2cc8538ad847f937310d38a1",
     "active_app_ui_concurrency_status": "APPUI_AND_WEBSITE_SOL_SEPARATE_LIVE_STREAMS",
-    "active_app_component_program": "APPUI-COMP-07",
-    "active_app_component_status": "REAL_TRUTH_KNOWLEDGE_DISCLOSURE_PASS_PERSISTENCE_RECOVERY_NEXT",
-    "active_app_component_packet": "PKT-COMP-07-01"
+    "active_app_component_program": "APPUI-COMP-08",
+    "active_app_component_status": "REAL_PERSISTENCE_RECOVERY_PASS_PRODUCTION_LIFECYCLE_UTILITIES_NEXT",
+    "active_app_component_packet": "PKT-COMP-08-01"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

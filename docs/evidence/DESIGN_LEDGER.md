@@ -3807,3 +3807,23 @@ No final epistemic taxonomy, field schema, storage model, truth authority, confi
 **Next boundary:** open `APPUI-COMP-08` for persistence / recovery status inside the COMP shell. Healthy persistence must remain quiet; interruption/recovery must remain truthful application state outside fiction; the prior task, semantic origin and focus must restore exactly without inventing Character behavior.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-242 - APPUI-COMP-08 closes persistence/recovery infrastructure status without contaminating fiction
+
+**State:** REAL PERSISTENCE/RECOVERY PASS / PKT-COMP-08-01 ACTIVE / PRODUCTION LIFECYCLE UTILITIES NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_PERSISTENCE_RECOVERY_INTEGRATION_METHOD_01.json` froze the bounded successor after COMP-07. The carrier `prototypes/appui-01/component-system-persistence-recovery-integration-01.html` uses the accepted source witness `Deep Character inspection · Julian · persistent material` as the retained creative task and exposes persistence state only through a deterministic test-state hook, not a user-facing recovery command.
+
+Healthy persistence is now genuinely quiet: the final healthy application contains ordinary Julian deep-inspection work only, with zero persistence-status witnesses and no in-app persistence/infrastructure explanatory copy. The injected exception is explicitly `Application status · infrastructure`, names the retained task, states that the latest persistence operation could not be confirmed, denies invented Character action/silence/refusal/memory/consequence, and keeps persistence failure distinct from corruption/integrity concern.
+
+Closing the explanation restores focus to the retained persistent-material task while a compact unresolved witness remains visible and explicitly says Close did not recover, repair, confirm durability, discard work or mutate Production truth. Only the test-only external state transition to recovered removes status and returns the application to the same quiet prior task/focus; no save/retry/repair/recover Product command is created.
+
+The first mechanical matrix was clean at all seven conditions. Recursive visual audit then found two semantic quiet-state leaks: an in-app healthy-state explanatory note, followed by persistence-specific phrases inside ordinary Character task cards. Both were removed without altering the exception grammar or frozen visual roles. The final matrix reran clean at 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 across healthy, exception, unresolved and recovered states with zero overflow, zero missing button names and zero undersized icon controls.
+
+Visual review confirms Light F2 and Dark D3 carry identical infrastructure meaning; darkness adds no severity/corruption/danger semantics, accent carries no save/recovery/safety meaning, and narrow order preserves retained task -> infrastructure explanation -> task return. No fictional rewind, Take, branch, rehearsal, consequence reversal or causal Production-history mutation appears.
+
+No autosave/save-point/durability/transactionality/local-cloud/backup architecture, retry/repair/conflict/fallback/data-loss/recovery algorithm, read-only policy, integrity validation, severity/status color system, Stage successor, production token or native WinUI/XAML authority is created.
+
+**Next boundary:** open `APPUI-COMP-09` for Production lifecycle utilities: reserve deliberate application/Production-scope routes for Settings, portable import/export, provider configuration, diagnostics and recovery utilities without freezing Product/Phase-D commands or allowing infrastructure machinery to dominate ordinary creative work.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
