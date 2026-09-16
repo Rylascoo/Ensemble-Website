@@ -3827,3 +3827,23 @@ No autosave/save-point/durability/transactionality/local-cloud/backup architectu
 **Next boundary:** open `APPUI-COMP-09` for Production lifecycle utilities: reserve deliberate application/Production-scope routes for Settings, portable import/export, provider configuration, diagnostics and recovery utilities without freezing Product/Phase-D commands or allowing infrastructure machinery to dominate ordinary creative work.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-243 - APPUI-COMP-09 closes Production lifecycle utilities through the existing secondary Settings route
+
+**State:** REAL PRODUCTION LIFECYCLE UTILITIES PASS / PKT-COMP-09-01 ACTIVE / CHARACTER-BOUNDED WORKSPACE NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_PRODUCTION_LIFECYCLE_UTILITIES_INTEGRATION_METHOD_01.json` froze the bounded successor after COMP-08. The carrier `prototypes/appui-01/component-system-production-lifecycle-utilities-integration-01.html` uses the already-durable Settings destination rather than inventing a new Utilities/Admin top-level mode. It exposes exactly five source-defined capacities: Settings, Portable Production, Provider configuration, Diagnostics and Recovery utilities.
+
+The White Current / Scene 12 creative context remains visible and retained above utility depth. Opening Settings hides Shaping temporarily and names the creative return origin; utility-family selection changes descriptive capacity/detail only. Settings capacity remains selected while Portable Production can receive independent keyboard focus. Back/Close restore the original Julian ↔ Elara meaningful-element selection and pre-utility creative focus.
+
+Hard Product-authority guards pass: the utility surface has no form controls and zero buttons exactly labeled Import, Export, Apply, Save, Connect, Repair or Recover. Provider machinery is explicitly separate from Character identity/Performer assignment; unavailable capability is technical state rather than Character refusal; Portable Production navigation denies import/export/overwrite/merge mutation; diagnostics stay outside Stage/causal history; opening Recovery utilities repairs nothing by itself.
+
+The first matrix found only three repeated 320px / 200%-text overflow witnesses in the outer board header/lede caused by slash-delimited application/Production copy. A board-only wrapping repair fixed them without changing utility hierarchy, commands, selection grammar or visual roles. The complete seven-case origin/utility/return matrix then passed with zero overflow, zero missing button names, zero undersized icon controls and exact focus return.
+
+Visual review is clean at wide and narrow widths: utility depth remains subordinate to the retained Production context, Settings remains the existing secondary route, no privileged admin/control-center visual hierarchy appears, and Light/Dark carry identical navigation-versus-effect meaning without infrastructure status colors.
+
+No final utility labels, dialogs, commands, portable format, merge/overwrite rules, provider/model/cost/authentication policy, assignment/availability behavior, diagnostics/repair/recovery semantics, Production token freeze, Stage successor or native WinUI/XAML authority is created.
+
+**Next boundary:** open `APPUI-COMP-10` for the full Character-bounded workspace inside the COMP shell, preserving the same Production and persistent Character identity under materially reduced disclosure, excluding creator-only infrastructure/material and restoring exact prior creator context on return.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

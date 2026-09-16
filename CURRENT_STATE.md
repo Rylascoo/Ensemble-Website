@@ -11,13 +11,15 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 
 Phase-1 architecture/layout is FROZEN PASS; Phase-2 static Stage coverage is CLOSED PASS. Selected Light F2, Dark D3, MAT F1, TYP F1, STA F2, FICON F1 and invariant dark Stage remain unchanged.
 
-## APPUI-COMP-08 - CLOSED PASS
-`docs/evidence/APPUI_01_COMPONENT_SYSTEM_PERSISTENCE_RECOVERY_INTEGRATION_RESULT_01.json` and `PKT-COMP-08-01` validate quiet healthy persistence and truthful infrastructure exception/recovery presentation in the real COMP shell. Healthy deep Character work shows no persistence status or explanatory chrome. An injected exception names the retained Julian task and remains infrastructure outside fiction; Close explanation restores task focus while status stays explicitly unresolved. Only externally simulated recovery resolution removes status and restores exact quiet task/focus. Seven-case healthy/exception/unresolved/recovered browser preflight passes.
+## APPUI-COMP-09 - CLOSED PASS
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_PRODUCTION_LIFECYCLE_UTILITIES_INTEGRATION_RESULT_01.json` and `PKT-COMP-09-01` validate Production lifecycle utilities through the existing secondary Settings route. Exactly five source-defined capacities are reachable: Settings, Portable Production, Provider configuration, Diagnostics and Recovery utilities. Utility depth remains subordinate to retained creative context; opening/selecting/closing is navigation only unless Product authority later defines an effect boundary. Portable Production can receive independent keyboard focus while Settings remains selected; Back/Close restore the exact pre-utility meaningful-element focus.
 
-No autosave/save-point/storage architecture, retry/repair/recovery algorithm, read-only/integrity policy, fictional rewind/Take/branch/consequence semantics, status-color system, Bellweather placement, Stage successor, production tokens or native WinUI/XAML authority is created.
+The seven-case origin/utility/return matrix passes after one board-only 200%-text wrap repair, with zero overflow, zero missing button names, zero undersized icon controls, no Product-effect form controls and zero literal Import/Export/Apply/Save/Connect/Repair/Recover command buttons.
+
+No final utility labels, dialogs, commands, portable format, merge/overwrite rules, provider/model/cost/authentication policy, Performer assignment/availability behavior, diagnostics/repair/recovery semantics, Production token freeze, Stage successor or native WinUI/XAML authority is created.
 
 ## Cross-lane truth
 Website `main@8b375780cdbdcb6e21940b6cf5db7c4badf21b19` remains a separate app-UI-frozen stream. Engineering `main@3d7a5419afd1c502ce6aaba8f3ca906b48d6a868` advances E0-D evidence only and adds no Product semantics that alter APPUI. Streams remain deliberately unmerged.
 
 ## Next
-Open `APPUI-COMP-09`: integrate Production lifecycle utilities as deliberate application/Production-scope routes for Settings, portable import/export, provider configuration, diagnostics and recovery utilities without freezing Product/Phase-D commands or letting infrastructure machinery dominate ordinary creative work.
+Open `APPUI-COMP-10` for the full Character-bounded workspace inside the COMP shell, preserving the same Production and persistent Character identity under materially reduced disclosure, excluding creator-only infrastructure/material and restoring exact prior creator context on return.
