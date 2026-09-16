@@ -3420,3 +3420,21 @@ D3 fails locally if darkness makes infrastructure feel privileged or more severe
 **Next boundary:** materialize the exact accepted utility carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit secondary-scope hierarchy before preservation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+
+## L-220 - Production Lifecycle Utilities passes F2 Light + provisional D3 Dark integration
+
+**State:** PHASE-3 PRODUCTION-LIFECYCLE-UTILITIES INTEGRATION PASS / D3 SURVIVES EIGHTH REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_PRODUCTION_LIFECYCLE_UTILITIES_F2_D3_INTEGRATION_01.json` closes representative integration on the accepted utility architecture. Selected Light F2 and exact provisional D3 preserve utilities as deliberate secondary application/Production scope while ordinary creative work remains current-situation-first.
+
+The seven-condition matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow and invariant 2 app specimens / 2 workspaces / 5 utility capacities / 4 state witnesses / 4 boundary rules.
+
+Teal has zero actual usages in the accepted carrier. Provisional versus effective configuration, provider machinery versus Character identity, portability navigation versus mutation, diagnostics outside fiction and exact return therefore remain structural/textual rather than color-coded. Wide/narrow audit found no administration-dashboard drift and no D3-induced infrastructure privilege.
+
+No F2 or D3 value changed after exposure. Drive Phase-3 archive preserves exact HTML `1ujA-DFPvVcDX_DJJ7H4GOWgNW5TdeW4H` and PNG `1Gpa2sYVtW4XVXsElvAAIMAyvG6LrAJAu`.
+
+D3 survives this eighth representative section but remains provisional. No production token system, provider/model/cost authority, portable format, diagnostic command set, native implementation, Stage successor or Phase-3 convergence authority is created.
+
+**Next boundary:** evaluate selected Light F2 + exact provisional D3 on the accepted Character-bounded Workspace, preserving persistent identity and materially changed disclosure without leaking creator-only material or making bounded knowledge look less real.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
