@@ -66,9 +66,8 @@ def main():
  if sp.get('active_appicon_program')!='APPICON-01' or sp.get('active_appicon_status')!='E06_SINGLE_SURVIVOR_CLOSED': fail('registry appicon state')
  for k,want in [('active_appicon_method_sha256',H['METHOD']),('active_appicon_activation_audit_sha256',H['AUD']),('active_appicon_preflight_sha256',H['PREF']),('active_appicon_evaluation_sha256',H['EVAL']),('active_appicon_packet_sha256',H['PACK'])]:
   if sp.get(k)!=want: fail(f'registry linkage {k}')
- cur=P['CUR'].read_text(encoding='utf-8'); led=P['LED'].read_text(encoding='utf-8'); hand=P['HAND'].read_text(encoding='utf-8')
- for token in ['APPICON-01 - Primary App Icon Design-Master Convergence','CLOSED / E06 SINGLE SURVIVOR']:
-  if token not in cur: fail(f'CURRENT_STATE missing {token}')
+ led=P['LED'].read_text(encoding='utf-8'); hand=P['HAND'].read_text(encoding='utf-8')
+ # Historical checkpoint identity lives in evidence/ledger/handoff, not volatile CURRENT_STATE.
  if len(P['CUR'].read_bytes())>3072: fail('CURRENT_STATE exceeds 3 KiB')
  for token in ['## L-165 - APPICON-01 closes with E06 as the sole design-master envelope survivor',H['PREF'],H['EVAL'],H['PACK'],H['CARRIER'],H['PROBE']]:
   if token not in led: fail(f'ledger missing {token}')

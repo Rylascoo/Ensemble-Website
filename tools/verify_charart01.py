@@ -69,9 +69,8 @@ def main():
  checks={'latest_reentry_audit_sha256':H['AUD'],'active_charart_program':'CHARART-01','active_charart_status':'DIRECTOR_TERMINATED_AFTER_VALID_OUTPUT_NO_MASTER_ADOPTED','active_charart_method_sha256':H['METHOD'],'active_charart_renderer_packet_sha256':H['RENDER'],'active_charart_drive_folder_id':DRIVE,'active_charart_director_gate':'CLOSED_NO_MASTER','active_charart_output_sha256':'4b793a5bf265d932e581d5b34fd05fa9ed132c3b6d0b2623a26a3c7b3363d6ba','latest_director_sequencing_correction_sha256':H['PIV'],'active_app_ui_program':'APPUI-01','active_app_ui_status':'ITERATIVE_WINDOWS11_ARM64_SCREEN_FIRST','active_app_ui_handoff':'docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md','active_app_ui_concurrent_website_coordination':'docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json','active_app_ui_concurrent_website_coordination_sha256':H['COORD'],'active_app_ui_concurrency_status':'APPUI_AND_WEBSITE_SOL_SEPARATE_LIVE_STREAMS'}
  for k,w in checks.items():
   if sp.get(k)!=w: fail(f'registry {k}')
- cur=P['CUR'].read_text(encoding='utf-8'); led=P['LED'].read_text(encoding='utf-8'); hand=P['HAND'].read_text(encoding='utf-8')
- for token in ['APPUI-01 - Windows 11 ARM64 Working App Visual Prototype','Microsoft Windows 11 desktop on ARM64','DIRECTOR-TERMINATED / NO MASTER ADOPTED / NO SCORING',H['PIV'],H['COORD'],'concurrent Website Sol']:
-  if token not in cur: fail(f'CURRENT_STATE missing {token}')
+ led=P['LED'].read_text(encoding='utf-8'); hand=P['HAND'].read_text(encoding='utf-8')
+ # Historical checkpoint identity lives in evidence/ledger/handoff, not volatile CURRENT_STATE.
  if len(P['CUR'].read_bytes())>3072: fail('CURRENT_STATE exceeds 3 KiB')
  for token in ['## L-166 - Post-APPICON reentry activates CHARART-01',H['AUD'],H['METHOD'],H['RENDER'],DRIVE,'## L-169 - Director pivots Phase C from human-art gating to iterative Windows app-screen design',H['PIV'],'APPUI-01','## L-170 - APPUI-01 handoff records concurrent Website Sol stream',H['COORD']]:
   if token not in led: fail(f'ledger missing {token}')

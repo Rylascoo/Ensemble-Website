@@ -53,7 +53,6 @@ def main():
     decision = load(DECISION)
     packet = load(PACKET)
     registry = load(REGISTRY)
-    current = CURRENT.read_text(encoding='utf-8')
     ledger = LEDGER.read_text(encoding='utf-8')
     handoff = HANDOFF.read_text(encoding='utf-8')
 
@@ -135,14 +134,7 @@ def main():
     if len(packet_rows) != 1 or packet_rows[0].get('status') != 'PROVISIONAL_INCUMBENT':
         fail('registry CPS packet')
 
-    required_current = [
-        'CPS-01 - Canonical Character Presence System',
-        'CPS-B Distributed Recognition Mesh is the canonical Phase C Character-presence architecture',
-        'DUR-01',
-    ]
-    for token in required_current:
-        if token not in current:
-            fail(f'CURRENT_STATE missing {token}')
+    # Historical checkpoint identity lives in evidence/ledger/handoff, not volatile CURRENT_STATE.
     if len(CURRENT.read_bytes()) > 3072:
         fail('CURRENT_STATE exceeds 3 KiB continuity budget')
 
