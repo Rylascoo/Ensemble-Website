@@ -3310,3 +3310,17 @@ D3 survives this fourth representative section but remains provisional. No produ
 **Next boundary:** evaluate selected Light F2 + exact provisional D3 on Causal / History Inspection, preserving current-versus-historical distinction, causal adjacency and exact semantic return without allowing darkness to become history.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-213 - Causal / History F2 + provisional D3 integration method freezes before exposure
+
+**State:** PHASE-3 CAUSAL/HISTORY INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_CAUSAL_HISTORY_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the exact accepted Causal / History Inspection carrier. Selected Light F2 and exact provisional D3 Dark remain fixed inputs with MAT-01 F1, TYP-02 F1 and STA-01 F2; no post-exposure color retune is allowed.
+
+The study must preserve current-versus-historical distinction at every depth, causal adjacency before deeper history, current-question origin, bounded disclosure/provenance and exact return. Back/Close remains navigation rather than Undo/replay/rollback; no permanent History mode is created.
+
+D3 fails locally if darkness itself becomes the cue for history, if Light appears more current/authoritative by brightness, or if teal spreads into temporal, causal, truth or provenance meaning.
+
+**Next boundary:** materialize the exact functional carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit temporal-state honesty before preservation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
