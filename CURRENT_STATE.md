@@ -18,11 +18,11 @@ Fresh Engineering `main@46c5d7fc8597b33012e2f083fd42113a47b83e77` remains E0-D a
 ## Phase 3
 CLR-01 **F2 — Monochrome + Intruder** is Director-selected for Light. **D3 — Ink Aubergine** remains the exact provisional Dark incumbent, explicitly not a final freeze.
 
-Representative Light F2 + exact D3 integration passes: Home/Resume; Shaping/Current Possibility; Contextual + Deep Inspection; Whole-Production Character Management; Causal/History; Truth/Knowledge/Disclosure; Persistence/Recovery; Production Lifecycle Utilities; and Character-bounded Workspace. MAT F1, TYP F1 and STA F2 remain intact where authoritative state requires them.
+Representative Light F2 + exact D3 integration now passes **all ten accepted Phase-1 detailed architecture sections**: Home/Resume; Shaping/Current Possibility; Contextual + Deep Inspection; Whole-Production Character Management; Causal/History; Truth/Knowledge/Disclosure; Persistence/Recovery; Production Lifecycle Utilities; Character-bounded Workspace; Empty/Unavailable/Transitional Workspace.
 
-Character-bounded evidence: `docs/evidence/APPUI_01_PHASE_3_CHARACTER_BOUNDED_WORKSPACE_F2_D3_INTEGRATION_01.json`. Four matched creator-global/bounded Light+D3 specimens pass all seven responsive/accessibility cases with zero overflow and zero accent usage. Theme remains independent from disclosure; creator-only material is absent rather than cosmetically hidden. Drive preserves HTML `1fM6DOrpJ3FUx-wXwTyizVBWZBxUK0eCJ` and PNG `1f-0BVNiVODW38uBJfBUWvdELBGYkaIWp`.
+Latest evidence: `docs/evidence/APPUI_01_PHASE_3_EMPTY_UNAVAILABLE_TRANSITIONAL_F2_D3_INTEGRATION_01.json`. All seven responsive/accessibility cases pass with zero overflow; five state families remain identical across matched Light/D3 witnesses; teal has zero usage. Drive preserves HTML `1eajq3rI090h9SbhDm7bUolixOSru2Fyz` and PNG `1_W_8BxgmHDLJYJiDHnd81dfofuuZwu0Q`.
 
-D3 survives a ninth representative section but remains provisional; no production Dark token freeze or convergence authority is created.
+D3 survives a tenth representative section but remains provisional. No production Dark token freeze or Phase-3 convergence authority exists yet.
 
 ## Next
-Evaluate selected Light F2 + exact provisional D3 on the accepted **Empty / Unavailable / Transitional Workspace** architecture. Preserve empty != unavailable != loading/transition; technical unavailability must not become fictional refusal/failure; theme/accent must not encode lifecycle or provider state. No D3 freeze yet.
+Run a consolidated Phase-3 representative-section convergence audit across all ten accepted detailed functional sections. Fresh-reconcile Website and Engineering first; decide from the aggregate evidence whether D3 may advance beyond provisional incumbent. Do not retune or freeze D3 before that audit.

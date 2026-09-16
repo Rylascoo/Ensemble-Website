@@ -3482,3 +3482,19 @@ D3 fails locally if darkness itself reads as failure/unavailability/deletion/fic
 **Next boundary:** materialize the matched Light/D3 state grammar, run the seven-condition responsive/accessibility matrix, and recursively audit application-truth versus fiction boundaries before preservation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - PRE-EXPOSURE METHOD FREEZE.**
+
+## L-224 - Empty / Unavailable / Transitional passes F2 Light + provisional D3 Dark integration
+
+**State:** PHASE-3 EMPTY/UNAVAILABLE/TRANSITIONAL INTEGRATION PASS / D3 SURVIVES TENTH REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_EMPTY_UNAVAILABLE_TRANSITIONAL_F2_D3_INTEGRATION_01.json` closes the representative integration on the accepted state-truth architecture. The study preserves the matched empty-state app pair and adds matched Light/D3 witnesses for all five resolved state families: empty, loading/transitional, capability unavailable, failed/cancelled and provisional/non-effective.
+
+All seven responsive/accessibility cases pass with zero overflow. Teal has zero actual usages. D3 darkness does not become loading/error/failure/unavailability/deletion/severity or fictional consequence; Light does not become more current/effective/healthy merely by brightness. Technical failure and loading remain outside fiction, and provisional state remains label/structure-driven.
+
+The pre-exposure method record initially contained a chunk-boundary JSON brace defect; it was mechanically repaired and fully validated at `3851c62102adc32ab0130d6d75467db6b0259a54` before any visual exposure. No F2 or D3 value changed after exposure. Drive preserves exact HTML `1eajq3rI090h9SbhDm7bUolixOSru2Fyz` and PNG `1_W_8BxgmHDLJYJiDHnd81dfofuuZwu0Q`.
+
+D3 survives the tenth accepted Phase-1 detailed architecture section but remains provisional. No lifecycle/provider semantic color system, production token freeze, native implementation, Stage successor or Phase-3 convergence authority is created.
+
+**Next boundary:** run the consolidated Phase-3 representative-section convergence audit across all ten accepted detailed functional sections before deciding whether D3 may advance beyond provisional incumbent.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
