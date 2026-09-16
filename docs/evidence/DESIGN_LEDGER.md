@@ -3564,3 +3564,17 @@ Drive Phase-3 archive preserves exact HTML `1Tr64MOk6gyvZ8OQ6J6STIca2rXA6hP76` a
 **Next boundary:** audit remaining Phase-3 static APP VISUAL axes against the canonical system and current Product gates; open only the strongest unresolved axis that remains design-safe.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN REFERENCE-CARRIER AUDIT.**
+
+## L-229 - Remaining Phase-3 static-axis audit activates functional platform-icon treatment
+
+**State:** PHASE-3 REMAINING STATIC AXES AUDITED / APPUI-FICON-01 METHOD FROZEN PRE-EXPOSURE / BESPOKE DOMAIN ICONS STILL BLOCKED
+
+`docs/evidence/APPUI_01_PHASE_3_REMAINING_STATIC_AXES_AUDIT_01.json` finds the strongest remaining static-safe APP VISUAL gap is conventional functional icon treatment. Existing law already requires standard Windows/Fluent symbols for clear platform verbs and separately blocks decorative/speculative bespoke domain iconography.
+
+`docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_METHOD_01.json` freezes CNEG/F1/F2/F3 treatment candidates before exposure. All candidates use the same conventional Back/Close/Search/Settings/More/Disclosure/Play/Pause meanings; only carrier treatment changes.
+
+The program may not reuse Threshold K/app-icon geometry as UI icon anatomy, invent Product-gated domain symbols, spread teal into default icon color, or use motion as a differentiator. F2 Light/D3 Dark, MAT/TYP/STA, focus semantics and accessibility floors remain fixed.
+
+**Next boundary:** materialize the frozen icon-treatment matrix and complete mechanical/accessibility preflight before subjective review.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN STATIC-AXIS AUDIT / PRE-EXPOSURE METHOD FREEZE.**
