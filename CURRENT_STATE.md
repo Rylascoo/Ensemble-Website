@@ -11,15 +11,18 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 
 Phase-1 architecture/layout is FROZEN PASS; Phase-2 static Stage coverage is CLOSED PASS. Selected Light F2, Dark D3, MAT F1, TYP F1, STA F2, FICON F1 and invariant dark Stage remain unchanged.
 
-## APPUI-COMP-11 - CLOSED PASS
-`docs/evidence/APPUI_01_COMPONENT_SYSTEM_EMPTY_UNAVAILABLE_TRANSITIONAL_INTEGRATION_RESULT_01.json` and `PKT-COMP-11-01` validate five real-shell workspace-state families: valid empty/no-active-Scene, loading/transitional, capability unavailable, failed/cancelled and provisional/non-effective. One shell preserves state truth without Product-dependent lifecycle/provider controls or fictionalizing infrastructure.
+## APPUI component integration - CLOSED COVERAGE COMPLETE
+`docs/evidence/APPUI_01_COMPONENT_INTEGRATION_COVERAGE_CONVERGENCE_AUDIT_01.json` reconciles `PKT-COMP-01-01` through `PKT-COMP-11-01`. All 11 current component packets are present and every already-authorized non-Stage Phase-1 family is integrated in the real shell. Cross-cutting focus/selection, exact return, temporal/effect distinctions, agency/disclosure/infrastructure boundaries, Light/Dark parity and responsive/accessibility evidence remain covered.
 
-Final seven-case origin/state/return matrix passes with zero overflow, zero missing button names, zero undersized icon controls, correct keyboard focus, Light/Dark parity, zero forbidden lifecycle/retry/fallback/recover buttons and exact return where prior context remains valid. Recursive audit corrected a probe keyboard-modality defect and a real empty-state contradiction: No active Scene now uses `Production / Current Production`, hides Current possibility and cannot coexist with a Current situation shell claim.
+No `APPUI-COMP-12` is authorized. Remaining interface questions are explicitly Product/Stage/Phase-D gated, held pending E0/Product evidence, require separate asset/native-handoff authorization, or belong to website/shared-brand work. Sequential numbering is not authority.
 
-No Scene lifecycle, retry/fallback/recovery workflow, loading duration, progress algorithm, provider/model/cost policy, cancellation/failure policy, semantic status-color system, Stage successor, production-token freeze or native WinUI/XAML authority is created.
+## APP-SYN re-entry status
+The old CLR portion of the APP-SYN real-assembly trigger is resolved: Light F2 and Dark D3 are selected static APP VISUAL directions. The remaining Stage-to-shell/shared-surface follow-on is still PARKED. COMP-01..11 provide real shell/navigation/identity/control context but all 11 carriers are image-free and contain no exact frozen Stage raster/hash or `stage-core` source. COMP-02's dark Stage witness is a proxy, not exact Stage authority.
+
+Re-enter only when an explicitly authorized representative assembly places exact `PKT-STAGE-CORE-02` Stage authority beside the real shell/navigation/identity/control system, or when stronger Director/native/Product authority creates an equivalent lawful trigger. Do not synthesize a surrogate exact-Stage assembly from component evidence alone.
 
 ## Cross-lane truth
 Website `main@94fd60f3a51485f052c25d753459a45240d845d4` advances non-production WORLD mascot evidence only and remains app-UI-frozen. Engineering `main@526893a0f518b52bceddb311514de12ec826b9b3` advances E0-D P02 Slot-2 execution authorization/evidence only and adds no Product/UI semantics that alter APPUI. Streams remain deliberately unmerged.
 
 ## Next
-Run a consolidated APPUI component-integration coverage/convergence audit across `PKT-COMP-01-01` through `PKT-COMP-11-01` before authorizing any new component gate. Identify only already-authorized unresolved interface families; do not invent `APPUI-COMP-12` by sequence alone.
+HOLD APPUI component expansion. Wait for a lawful re-entry trigger from current authority. Do not invent COMP-12, reopen closed Stage gates, freeze Product mechanics, or promote design-reference carriers into production/native authority.
