@@ -2937,7 +2937,6 @@ Production remains unchanged until the continuity-only hosted-audit head is vali
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN EXACT HOSTED RECURSIVE AUDIT.**
 
-
 ## L-185 - Bellweather vision synthesis and natural-expression rule are accepted; front-facing identity stress test opens
 
 **State:** ACCEPTED EXPLORATION / FIVE DRIVE ASSETS ARCHIVED / RESTRAINED-EXPRESSION TARGET / FRONT-FACING SUCCESSOR AUTHORIZED / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
@@ -2951,3 +2950,23 @@ The successor study is explicitly front-facing: direct frontal face, shoulders-s
 No live website bytes, Stage art, website identity geometry, app UI, product semantics, or universal Character-representation law changed.
 
 **DIRECTOR SIGNAL PRESERVED — NATURAL EXPRESSION TARGET ACCEPTED; FRONT-FACING SPECIFIC-DESIGN STUDY AUTHORIZED.**
+
+## L-186 - Threshold K apparent-size parity successor closes cleanly in production
+
+**State:** PRODUCTION VERIFIED / 1.03× THRESHOLD K SUCCESSOR LIVE / SOURCE BRANCH ARCHIVED / HOLD STABLE
+
+PR #85 merged exact head `1d89c3e5f3c9ef1133bcde11b66e63592a88b0ac` as `main@137636fe57c36235d2f8f45c87e96b5bd12e0768`. Exact-main `Document status structure` run #705 and `Repository publication boundaries` run #927 passed; Cloudflare production build `57af4b4c-519b-46e5-a67c-c3c14eaba077` completed as version `40d3e8d7-413c-4d46-a201-86fe0a9b13a5`.
+
+All nine assets served by `www.kymaean.com` match the exact merge Git blobs byte-for-byte. The frozen Stage remains SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`; production social card V5 is 92,344 bytes / SHA-256 `36faecf3022c269f40eb10364f26c0f40b350eedd4d27f1ec92b08de0b5b04a6`. Production keeps `Cache-Control: public, max-age=0, must-revalidate, no-transform`, does not carry preview noindex, and has no analytics injection.
+
+Live Edge/CDP passes the nine-shape responsive matrix from 2048×1199 through 320×640 plus 200% text, reduced motion and forced colors. Exact viewport centering, containment and frozen Stage dimensions all hold.
+
+Visual inspection remains clean: wide stays restrained, mini-wide gains the clearest K/`YMÆAN` parity improvement, tall preserves quiet viewport ownership and doorway separation, and portrait/mobile remain uncrowded. No further scale, K path, spacing, hierarchy, Stage/crop, copy or generative refinement is justified.
+
+Canonical production closeout: `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_PRODUCTION_CLOSEOUT_01.md`.
+
+The candidate source branch was archived at `archive/site/v2-2-letter-size-parity-candidate-2026-09-16` -> `1d89c3e5f3c9ef1133bcde11b66e63592a88b0ac` after strict-ancestor/zero-unique proof and then deleted remotely.
+
+**Next boundary:** hold verified website production stable until a new explicit Director objective or objective production defect reopens the lane.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRODUCTION CLOSEOUT.**
