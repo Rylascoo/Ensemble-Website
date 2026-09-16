@@ -21,11 +21,11 @@ Fresh Engineering `main@40409d0d438afe4631c07e41d38fa1179d358664` remains E0-D a
 ## Phase 3
 CLR-01 **F2 — Monochrome + Intruder** is Director-selected as the Light color-logic direction. **D3 — Ink Aubergine** remains the exact provisional Dark incumbent, explicitly not a final freeze.
 
-Production Home / Resume, Production Shaping / Current Possibility, and Contextual + Deep Inspection now all pass representative integration with selected Light F2 + exact D3 Dark while MAT F1, TYP F1 and STA F2 remain intact.
+Production Home / Resume, Production Shaping / Current Possibility, Contextual + Deep Inspection, and Whole-Production Character Management now pass representative Light F2 + exact D3 integration while MAT F1, TYP F1 and STA F2 remain intact.
 
-Inspection evidence: `docs/evidence/APPUI_01_PHASE_3_CONTEXTUAL_DEEP_INSPECTION_F2_D3_INTEGRATION_01.json`. The seven-case matrix passes with zero overflow; current/historical, provisional/effective, selection/focus, Character/Performer, infrastructure/fiction, disclosure and exact-return semantics remain structurally non-color-dependent. Drive preserves HTML `1aHkDWGgJJwGCNaA0HDsQQ0rsKjJUKwW2` and PNG `1YU6E7UIRSI58zhuY7FIMfvBSy1s13g0Y` in archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE`.
+Character-management evidence: `docs/evidence/APPUI_01_PHASE_3_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_F2_D3_INTEGRATION_01.json`. All seven responsive/accessibility cases pass with zero overflow after a narrow 200%-text geometry repair. Mira local management selection, Julian stored Scene selection, Niko keyboard focus, Off-Scene state, Character identity and Character/Performer separation remain explicit and non-color-dependent. Drive preserves HTML `1lU8vUMM5tirGla9_oPm86S-Qs_PtRzkK` and PNG `1Y5tXJphc5_0lzKl-qQIBAWqV6lTRXohe` in archive `1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE`.
 
-D3 therefore survives a third representative section but remains provisional; do not retune or freeze it from preference alone.
+D3 therefore survives a fourth representative section but remains provisional; do not retune or freeze it from preference alone.
 
 ## Next
-Apply selected Light F2 + exact provisional D3 to the already-approved **Whole-Production Character Management** architecture, preserving off-Scene explicitness, Scene-membership non-implication, persistent Character identity, Character != Performer, and exact return/focus restoration. No production token freeze yet.
+Apply selected Light F2 + exact provisional D3 to the accepted **Causal / History Inspection** architecture. Preserve current != historical, causal adjacency before deeper history, no permanent History mode, and exact semantic return. Darkness must not itself mean history. No production token freeze yet.

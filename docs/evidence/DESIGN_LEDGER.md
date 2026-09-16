@@ -3292,3 +3292,21 @@ D3 fails locally if off-Scene looks disabled/archival/unavailable, if teal sprea
 **Next boundary:** materialize the exact functional carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit scope/identity honesty before preservation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
+
+## L-212 - Whole-Production Character Management passes F2 Light + provisional D3 Dark integration
+
+**State:** PHASE-3 CHARACTER-MANAGEMENT INTEGRATION PASS / D3 SURVIVES FOURTH REPRESENTATIVE SECTION / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_F2_D3_INTEGRATION_01.json` closes the representative integration on the accepted Production-scope Character-management architecture. Selected Light F2 and exact provisional D3 preserve local management selection, stored Scene selection, off-Scene explicitness, persistent Character identity, Character-versus-Performer separation and exact return semantics.
+
+The seven-condition matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero overflow after one responsive repair. At 320px / 200% text, Character/status rows initially produced eight internal overflow witnesses; narrow rows were changed to stack content and status vertically without changing color roles or semantics.
+
+Mira remains the local Production-management selection through the sparse selected-edge witness, Julian remains the stored Scene-12 selection through explicit text, and Niko carries an independent keyboard-focus ring. D3 does not make off-Scene Characters read as disabled, archival or unavailable. Teal is not used for Scene membership, capability, edit status or Performer meaning.
+
+No F2 or D3 color value changed after exposure. Drive Phase-3 archive preserves exact HTML `1lU8vUMM5tirGla9_oPm86S-Qs_PtRzkK` and PNG `1Y5tXJphc5_0lzKl-qQIBAWqV6lTRXohe`.
+
+D3 survives this fourth representative section but remains provisional. No production token system, semantic status colors, Scene participation/casting semantics, native implementation, Stage successor or Phase-3 convergence authority is created.
+
+**Next boundary:** evaluate selected Light F2 + exact provisional D3 on Causal / History Inspection, preserving current-versus-historical distinction, causal adjacency and exact semantic return without allowing darkness to become history.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
