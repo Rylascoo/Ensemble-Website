@@ -22,24 +22,7 @@ jobs:
         run: |
           set -euo pipefail
           if ! grep -q '^## L-190 ' docs/evidence/DESIGN_LEDGER.md; then
-            cat >> docs/evidence/DESIGN_LEDGER.md <<'EOF'
-
-## L-190 - Website Bellweather A1-A4 placement study selects A4 opening grammar
-
-**State:** NON-PRODUCTION DETERMINISTIC STUDY COMPLETE / A3 STATIC CONTROL / A4 DELAYED REVEAL PREFERRED / A2 DEFERRED FOR POSE EVIDENCE / PRODUCTION UNCHANGED
-
-The Director-authorized A1-A4 Bellweather placement study was executed against the exact frozen Stage and current production `KYMÆAN / COMING SOON` lockup at 2048x1199, 1235x647 and 1138x1354. The inspected matrix produced zero horizontal overflow and zero Bellweather/brand-lockup overlap.
-
-A1 remains a valid restrained control but is slightly too peripheral on wide. A2 retains the desired departing/crossing behavioral hypothesis, but the current front-facing carrier cannot honestly prove that behavior and must not be promoted as motion evidence. A3 is the strongest static placement. A4 was refined to use A3 placement with delayed-reveal behavior and is the preferred opening-state concept: preserve the current empty Stage first, then allow Bellweather to become discoverable in the A3 location.
-
-The derived transparent Bellweather carrier is placement evidence only and does not replace L-187 foundational authority, L-189 Human/private authority or later mascot refinements. Canonical study evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_PLACEMENT_STUDY_01.md`.
-
-The next Website Sol creative question is the non-production PERSON-state encounter derived from the Director-favorite closer middle-image composition, preserving `PLACE -> PRESENCE -> PERSON -> WORLD` and the exact Stage/system-level identity.
-
-No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
-
-**DIRECTOR SIGNAL PRESERVED — A4 DELAYED REVEAL IS THE PREFERRED OPENING GRAMMAR; A3 IS THE STATIC CONTROL; PRODUCTION REMAINS FROZEN.**
-EOF
+            printf '%s' 'CgojIyBMLTE5MCAtIFdlYnNpdGUgQmVsbHdlYXRoZXIgQTEtQTQgcGxhY2VtZW50IHN0dWR5IHNlbGVjdHMgQTQgb3BlbmluZyBncmFtbWFyCgoqKlN0YXRlOioqIE5PTi1QUk9EVUNUSU9OIERFVEVSTUlOSVNUSUMgU1RVRFkgQ09NUExFVEUgLyBBMyBTVEFUSUMgQ09OVFJPTCAvIEE0IERFTEFZRUQgUkVWRUFMIFBSRUZFUlJFRCAvIEEyIERFRkVSUkVEIEZPUiBQT1NFIEVWSURFTkNFIC8gUFJPRFVDVElPTiBVTkNIQU5HRUQKClRoZSBEaXJlY3Rvci1hdXRob3JpemVkIEExLUE0IEJlbGx3ZWF0aGVyIHBsYWNlbWVudCBzdHVkeSB3YXMgZXhlY3V0ZWQgYWdhaW5zdCB0aGUgZXhhY3QgZnJvemVuIFN0YWdlIGFuZCBjdXJyZW50IHByb2R1Y3Rpb24gYEtZTcOGQU4gLyBDT01JTkcgU09PTmAgbG9ja3VwIGF0IDIwNDh4MTE5OSwgMTIzNXg2NDcgYW5kIDExMzh4MTM1NC4gVGhlIGluc3BlY3RlZCBtYXRyaXggcHJvZHVjZWQgemVybyBob3Jpem9udGFsIG92ZXJmbG93IGFuZCB6ZXJvIEJlbGx3ZWF0aGVyL2JyYW5kLWxvY2t1cCBvdmVybGFwLgoKQTEgcmVtYWlucyBhIHZhbGlkIHJlc3RyYWluZWQgY29udHJvbCBidXQgaXMgc2xpZ2h0bHkgdG9vIHBlcmlwaGVyYWwgb24gd2lkZS4gQTIgcmV0YWlucyB0aGUgZGVzaXJlZCBkZXBhcnRpbmcvY3Jvc3NpbmcgYmVoYXZpb3JhbCBoeXBvdGhlc2lzLCBidXQgdGhlIGN1cnJlbnQgZnJvbnQtZmFjaW5nIGNhcnJpZXIgY2Fubm90IGhvbmVzdGx5IHByb3ZlIHRoYXQgYmVoYXZpb3IgYW5kIG11c3Qgbm90IGJlIHByb21vdGVkIGFzIG1vdGlvbiBldmlkZW5jZS4gQTMgaXMgdGhlIHN0cm9uZ2VzdCBzdGF0aWMgcGxhY2VtZW50LiBBNCB3YXMgcmVmaW5lZCB0byB1c2UgQTMgcGxhY2VtZW50IHdpdGggZGVsYXllZC1yZXZlYWwgYmVoYXZpb3IgYW5kIGlzIHRoZSBwcmVmZXJyZWQgb3BlbmluZy1zdGF0ZSBjb25jZXB0OiBwcmVzZXJ2ZSB0aGUgY3VycmVudCBlbXB0eSBTdGFnZSBmaXJzdCwgdGhlbiBhbGxvdyBCZWxsd2VhdGhlciB0byBiZWNvbWUgZGlzY292ZXJhYmxlIGluIHRoZSBBMyBsb2NhdGlvbi4KClRoZSBkZXJpdmVkIHRyYW5zcGFyZW50IEJlbGx3ZWF0aGVyIGNhcnJpZXIgaXMgcGxhY2VtZW50IGV2aWRlbmNlIG9ubHkgYW5kIGRvZXMgbm90IHJlcGxhY2UgTC0xODcgZm91bmRhdGlvbmFsIGF1dGhvcml0eSwgTC0xODkgSHVtYW4vcHJpdmF0ZSBhdXRob3JpdHkgb3IgbGF0ZXIgbWFzY290IHJlZmluZW1lbnRzLiBDYW5vbmljYWwgc3R1ZHkgZXZpZGVuY2U6IGBkb2NzL2V2aWRlbmNlL1dFQlNJVEVfVjJfMl9NQVNDT1RfUExBQ0VNRU5UX1NUVURZXzAxLm1kYC4KClRoZSBuZXh0IFdlYnNpdGUgU29sIGNyZWF0aXZlIHF1ZXN0aW9uIGlzIHRoZSBub24tcHJvZHVjdGlvbiBQRVJTT04tc3RhdGUgZW5jb3VudGVyIGRlcml2ZWQgZnJvbSB0aGUgRGlyZWN0b3ItZmF2b3JpdGUgY2xvc2VyIG1pZGRsZS1pbWFnZSBjb21wb3NpdGlvbiwgcHJlc2VydmluZyBgUExBQ0UgLT4gUFJFU0VOQ0UgLT4gUEVSU09OIC0+IFdPUkxEYCBhbmQgdGhlIGV4YWN0IFN0YWdlL3N5c3RlbS1sZXZlbCBpZGVudGl0eS4KCk5vIGBzaXRlL3B1YmxpYy8qKmAsIHByb2R1Y3Rpb24gU3RhZ2UsIHByb2R1Y3Rpb24gbGV0dGVyaW5nLCBhcHAgVUksIHByb2R1Y3Qgc2VtYW50aWNzLCB1bml2ZXJzYWwgQ2hhcmFjdGVyIHJlcHJlc2VudGF0aW9uIG9yIEJlbGx3ZWF0aGVyLXNwZWNpZmljIHVuaXZlcnNhbCBVSSBsYXcgY2hhbmdlZC4KCioqRElSRUNUT1IgU0lHTkFMIFBSRVNFUlZFRCDigJQgQTQgREVMQVlFRCBSRVZFQUwgSVMgVEhFIFBSRUZFUlJFRCBPUEVOSU5HIEdSQU1NQVI7IEEzIElTIFRIRSBTVEFUSUMgQ09OVFJPTDsgUFJPRFVDVElPTiBSRU1BSU5TIEZST1pFTi4qKgo=' | base64 -d >> docs/evidence/DESIGN_LEDGER.md
           fi
       - name: Regenerate canonical document index
         run: python3 tools/generate_docs_index.py
