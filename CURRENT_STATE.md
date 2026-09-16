@@ -18,7 +18,7 @@ Current accepted treatment preserves the exact historical Threshold K paths but 
 L-182 records the deterministic scale study, L-183 the Director-confirmed local production-shaped pass, L-184 the exact hosted pass, and L-186 the verified production closeout. The source candidate branch is archived at `archive/site/v2-2-letter-size-parity-candidate-2026-09-16` -> `1d89c3e5f3c9ef1133bcde11b66e63592a88b0ac` and deleted remotely.
 
 ## Parallel visual evidence
-Bellweather continuity remains L-173/L-177; L-179 archives website-narrative/human-realism studies; L-180 approves the formal-gown turnaround; L-181 archives nine motion/vision studies and records the Human/Persistent/Iconic framework; L-185 archives the vision-synthesis/natural-expression family, preserves the restrained-expression target, and opens front-facing identity stress tests. None creates website/app implementation authority.
+Bellweather continuity remains L-173/L-177; L-181 establishes Human/Persistent/Iconic Bellweather; L-185 preserves the restrained-expression target; L-187 promotes the four-image front-facing set to foundational Kymaean app-brand mascot visual authority. This does not itself authorize app UI or website implementation changes.
 
 ## Frozen cross-lane boundary
 `PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. No app UI, palette, product disclosure, Stage repaint, added frame, generated typography, Threshold K path redesign or universal Character-face requirement is authorized.
