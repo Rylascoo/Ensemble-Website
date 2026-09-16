@@ -1,0 +1,138 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-FICON-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-16",
+  "gate_or_program": "APPUI-FICON-01 - Functional Platform Icon Treatment",
+  "design_axis": "conventional functional platform icon carrier treatment",
+  "bounded_question": "How should conventional Windows/Fluent software verbs sit inside the selected static APP VISUAL system without redrawing platform meaning, spreading accent color, or turning MAT/STA mechanisms into decorative icon chrome?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "e71c2979c4c75ad970a28cda39dd580d17c1db96",
+    "current_state_at_close": "CURRENT_STATE.md",
+    "governing_method_or_contract": [
+      "docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_METHOD_01.json",
+      "docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_PREFLIGHT_01.json",
+      "docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md"
+    ],
+    "drive_sources_if_material": [
+      "1u2GZToJSR8qHG6lqaRkDKV0MYTP0WExT",
+      "1knLLfqLAlmTSbWuJQ4wnsi8Hnh3EIxqN"
+    ]
+  },
+  "controlled_inputs": [
+    "Frozen conventional meanings: Back, Close, Search, Settings, More, Navigation disclosure, Play, Pause",
+    "Same Segoe Fluent Icons/Segoe MDL2 fallback glyph meanings in CNEG/F1/F2/F3",
+    "Selected Light F2 and Dark D3 roles",
+    "MAT F1, TYP F1 and STA F2 constraints",
+    "Exact frozen wide and narrow normal-color evidence"
+  ],
+  "excluded_variables": [
+    "Bespoke/domain glyph invention",
+    "Threshold K/app-icon/wordmark geometry",
+    "Motion",
+    "Product-gated semantics",
+    "Native WinUI implementation",
+    "Production token or shipping asset selection",
+    "Website/shared-brand-final iconography"
+  ],
+  "local_result": {
+    "summary": "Exactly one eligible treatment survives frozen subjective falsification: F1 Native Quiet Carrier.",
+    "survivors_or_closure": [
+      "F1 - Native Quiet Carrier"
+    ],
+    "recommended_incumbent": "F1 - Native Quiet Carrier",
+    "alternates": [],
+    "rejections": [
+      "CNEG - ineligible and tile/widget chrome",
+      "F2 - persistent boundary chrome becomes a repetitive control/widget matrix",
+      "F3 - MAT subtractive topology becomes decorative per-icon hook anatomy"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "F1 is the only treatment that keeps familiar platform verbs visually quiet and semantically native while preserving independent focus/selection structure, sparse accent use and Light/Dark parity.",
+    "director_view_or_delegation": "Director explicitly delegated execution of the frozen subjective falsification and subsequent closure to Design Sol; no independent Director score was requested or fabricated.",
+    "resolution_mode": "DIRECTOR_AUTHORIZED_DESIGN_SOL"
+  },
+  "evidence": {
+    "mechanical": [
+      "docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_PREFLIGHT_01.json",
+      "carrier SHA-256 f2340fb793b029cebda1c79919b4b3851388ebe1156d92ffbc09549d15e66d56",
+      "probe SHA-256 6d5547cb690c9e0b7e78b59529827ff51367d9180d0eceb5d071a30b0511a572"
+    ],
+    "visual": [
+      "Drive wide PNG 1u2GZToJSR8qHG6lqaRkDKV0MYTP0WExT / SHA-256 84008364b10a103a139516a241f42baf3c3bd84366f9ffb096381b775461b44b",
+      "Drive narrow PNG 1knLLfqLAlmTSbWuJQ4wnsi8Hnh3EIxqN / SHA-256 5cdf48de0eba64cd8c2262f824f230e1c18b06f2e33d931f7cb3a89c69fa1969",
+      "docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_RESULT_01.json"
+    ],
+    "accessibility": [
+      "Seven-case preflight passed: 1600/1024/390/320, forced-colors 320, 200% text 320, text-spacing stress 320",
+      "Focus-visible remains a structural 2px ring independent of icon color",
+      "Selection remains structurally witnessed rather than color-only"
+    ],
+    "invalid_or_superseded_attempts": []
+  },
+  "dependencies": {
+    "requires": [
+      "Light F2 / Dark D3 static APP VISUAL system",
+      "MAT F1 Subtractive Channel",
+      "TYP F1 Ratio Ladder",
+      "STA F2 Ring + Edge Witness"
+    ],
+    "constrains": [
+      "Conventional platform verbs in later APP VISUAL composition should default to F1 quiet-carrier treatment unless an explicit successor gate supersedes this packet."
+    ],
+    "must_not_be_confused_with": [
+      "Final icon family or production asset package",
+      "Bespoke Kymaean domain iconography",
+      "Primary symbol/app icon",
+      "Product semantics",
+      "Native implementation authority"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "Dense toolbars must preserve F1's quiet at-rest hierarchy rather than adding persistent boxes by convenience.",
+    "Selection accent may reinforce a structural witness but teal must not become default icon or status color.",
+    "Labeled controls may still use architecture-required control boundaries; F1 does not mean borderless controls everywhere."
+  ],
+  "explicit_non_authority": [
+    "No production token API, final shipping icon assets, WinUI/XAML mapping, package or Store authority.",
+    "No bespoke domain glyphs or Product-gated symbol vocabulary.",
+    "No Threshold K/app-icon/wordmark geometry inside interface icons.",
+    "No Stage, website palette or shared-brand-final authority."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_RESULT_01.json",
+      "prototypes/appui-01/phase3-functional-platform-icon-treatment-01.html",
+      "docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_METHOD_01.json",
+      "docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_PREFLIGHT_01.json"
+    ],
+    "drive_visual_masters": [
+      "1u2GZToJSR8qHG6lqaRkDKV0MYTP0WExT",
+      "1knLLfqLAlmTSbWuJQ4wnsi8Hnh3EIxqN"
+    ],
+    "director_review_surface": {
+      "entry_point": "Drive wide + narrow APPUI-FICON-01 frozen matrix PNGs",
+      "what_to_review": "CNEG/F1/F2/F3 carrier treatment across selected Light F2 and Dark D3 at wide and narrow layouts",
+      "diagnostics_not_for_aesthetic_choice": [
+        "mechanical matrix JSON",
+        "DOM/probe output"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED_AS_PRODUCTION_COMPONENT_SYSTEM"
+  }
+}

@@ -7,22 +7,23 @@ Updated: 2026-09-16
 `Rylascoo/Ensemble-Website` is Design/UI/website authority. `Rylascoo/Ensemble-Project` is read-only Product/Engineering input. Recover live refs and `AGENTS.md` before using this file.
 
 ## Active stream
-APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; concurrent Website publication remains separate. Last reconciled Website `main` is `19780dd80a59ec87d7a6586e3dda99bbf0318f67`. That production/mascot stream creates no app UI, palette, Product disclosure, Stage repaint, or shared-brand-final authority.
+APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; concurrent Website publication remains separate. Fresh Website `main` is `6f21480936293b3ef617d3bb880c7195ef20b40f`; it creates no APPUI authority.
 
 ## Frozen architecture and static visual system
 **Phase 1 architecture/layout is FROZEN PASS. Phase 2 static Stage/live-production coverage is CLOSED PASS.** Dynamic/transcript-dependent and Product-gated Stage work remains held/open.
 
-Light **F2 - Monochrome + Intruder** and Dark **D3 - Ink Aubergine** are Director-selected static APP VISUAL directions. Canonical authority is `docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md`, with MAT-01 F1, TYP-02 F1 and STA-01 F2 where architecture requires them. Compact reference evidence is CLOSED PASS at `docs/evidence/APPUI_01_PHASE_3_STATIC_APP_VISUAL_SYSTEM_REFERENCE_01.json`.
+Light **F2 - Monochrome + Intruder** and Dark **D3 - Ink Aubergine** remain selected APP VISUAL directions with MAT-01 F1, TYP-02 F1 and STA-01 F2 where architecture requires them. The Stage remains invariant dark. Canonical authority: `docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md`.
 
 ## Product / Engineering boundary
-Fresh Engineering `main@4d717a5a4d16c410efd443c2eb392c97c3eb2efc` remains E0-D ACTIVE/HOLD. The Slot-2 terminal-finalization defect is repaired and native-validated; P02/P03 await Director disposition; E0-E remains blocked. No Phase-D Product semantics invalidate the frozen shell/Stage envelope or current Phase-3 work.
+Fresh Engineering `main@ab6a140d8b6b1c6073e54a68fc6593a07930a2e9` remains E0-D ACTIVE/HOLD; P02/P03 remain gated and E0-E remains blocked. No new Product semantics invalidate the frozen APPUI shell/Stage envelope or static system.
 
-## APPUI-FICON-01
-Functional Platform Icon Treatment method is frozen at `33ee8dce8ad417eba20f8b9e712e7781da8d626c`. Exact CNEG/F1/F2/F3 carrier is materialized and mechanically passes all seven responsive/accessibility cases; **subjective falsification is pending and no family result exists**.
+## APPUI-FICON-01 - CLOSED
+Exact carrier/probe SHA-256 remain `f2340fb793b029cebda1c79919b4b3851388ebe1156d92ffbc09549d15e66d56` / `6d5547cb690c9e0b7e78b59529827ff51367d9180d0eceb5d071a30b0511a572`. Subjective falsification of the exact archived wide+narrow evidence closes with **F1 Native Quiet Carrier as the sole survivor**. CNEG is ineligible; F2 fails persistent widget/control chrome; F3 fails by reducing MAT topology to decorative icon-hook anatomy. No post-exposure retune or replacement occurred.
 
-Preflight checkpoint: `28872396135cda0f9ca8a7e477ec21dba966b227`. Carrier SHA-256: `f2340fb793b029cebda1c79919b4b3851388ebe1156d92ffbc09549d15e66d56`. Drive evidence: HTML `1tanWqSq-98tZ3atJ75-BX5B-9_fTBC5c`; wide PNG `1u2GZToJSR8qHG6lqaRkDKV0MYTP0WExT`; narrow PNG `1knLLfqLAlmTSbWuJQ4wnsi8Hnh3EIxqN`.
+Result: `docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_RESULT_01.json`. Packet: `PKT-FICON-01-01`. This creates no bespoke domain glyphs, production icon assets/tokens, native WinUI/XAML, Store/shipping, Stage, website-palette or shared-brand-final authority.
 
-Fresh-chat continuity: `docs/evidence/APPUI_01_FRESH_CHAT_HANDOFF_2026_09_16.md`; Drive mirror `1X4o7M2YYXwYPhJJVKoILGB0MX-1GeVrq`.
+## Post-FICON boundary
+`docs/evidence/APPUI_01_PHASE_3_POST_FICON_REMAINING_STATIC_AXES_AUDIT_01.json` activates **no additional Phase-3 static-safe gate**. Bespoke domain icons remain Product-vocabulary blocked; motion remains held while E0-E is blocked; Stage successor remains held; production assets/tokens and native handoff remain later-gated; website/shared-brand finalization is separate. Final typeface/font assets remain an explicitly open separately scoped asset/shared-system question, not an implicit FICON successor.
 
 ## Next
-Fresh chat must recover live refs first, verify the frozen hashes, then perform subjective falsification on the exact wide+narrow APPUI-FICON-01 evidence. Do not rebuild or retune candidates before adjudication. CNEG cannot survive; maximum one survivor; zero survivors is lawful. Bespoke domain icons remain blocked.
+Hold Phase-3 static APPUI at this closed boundary. Re-enter only for material new integration/Product evidence, an explicitly authorized separate asset gate, a real native-implementation constraint, or another lawful successor trigger. Do not reopen CNEG/F2/F3 or silently retune F2 Light, D3 Dark, MAT F1, TYP F1, STA F2 or the invariant dark Stage.

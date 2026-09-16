@@ -3624,3 +3624,37 @@ APPUI-FICON-01 remains exactly at the L-230 boundary. Method/preflight/carrier/p
 **Next boundary:** successor Design Sol fresh-resolves live authority, verifies the frozen APPUI-FICON-01 hashes, then performs subjective falsification only on the exact archived normal-color wide+narrow evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN CONTINUITY REFRESH.**
+
+## L-233 - APPUI-FICON-01 closes with F1 Native Quiet Carrier as sole survivor
+
+**State:** PHASE-3 FUNCTIONAL PLATFORM ICON TREATMENT CLOSED / F1 SOLE SURVIVOR / NO PRODUCTION ICON AUTHORITY
+
+`docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_RESULT_01.json` closes the frozen APPUI-FICON-01 method after exact-byte verification and subjective falsification of the archived normal-color wide+narrow evidence.
+
+The live carrier and probe verify at the frozen SHA-256 identities `f2340fb793b029cebda1c79919b4b3851388ebe1156d92ffbc09549d15e66d56` and `6d5547cb690c9e0b7e78b59529827ff51367d9180d0eceb5d071a30b0511a572`. The archived wide/narrow PNGs also match their preflight hashes exactly.
+
+CNEG is ineligible and also exhibits the frozen tile/widget failure. F2 fails because persistent boundary boxes turn routine verbs into a repetitive control/widget matrix. F3 fails because the repeated material hook reduces MAT-01 subtractive topology to decorative per-icon badge anatomy. **F1 Native Quiet Carrier is the sole survivor**: familiar Fluent verbs remain visually quiet, focus stays an independent structural ring, selection remains separately witnessed, teal does not become default/status color, no Threshold K/app-icon anatomy appears, and Light/Dark remain one system.
+
+The Director explicitly delegated this frozen subjective adjudication to Design Sol; resolution mode is `DIRECTOR_AUTHORIZED_DESIGN_SOL`. No independent Director score or blinded-review claim is fabricated.
+
+The bounded result is packetized as `PKT-FICON-01-01` at `docs/evidence/packets/PKT_FICON_01_FUNCTIONAL_PLATFORM_ICON_TREATMENT_01.json` and registered in `docs/evidence/DESIGN_PACKET_REGISTRY_01.json`. It creates no bespoke domain glyphs, production icon assets/tokens, native WinUI/XAML mapping, shipping/Store authority, Stage successor, website palette or shared-brand-final iconography.
+
+**Next boundary:** fresh-audit remaining static APP VISUAL gaps without reopening or retuning CNEG/F2/F3.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-234 - Post-FICON static-axis audit activates no additional gate
+
+**State:** PHASE-3 POST-FICON REENTRY AUDIT CLEAN / NO ADDITIONAL STATIC-SAFE GATE ACTIVATED / APPUI STATIC WORK HELD AT CURRENT BOUNDARY
+
+`docs/evidence/APPUI_01_PHASE_3_POST_FICON_REMAINING_STATIC_AXES_AUDIT_01.json` rechecks the remaining static APP VISUAL surface against live Website and Engineering truth after FICON closure.
+
+Conventional platform-icon treatment is closed at F1. Bespoke domain iconography remains Product-vocabulary blocked; transcript-dependent motion remains held while E0-E is blocked; the invariant dark Stage has no earned successor; production assets/tokens and design-to-native handoff remain later-gated; native runtime/package validation remains outside Design authority; and website/shared-brand finalization remains a separate workstream. Final typeface/font files remain an explicitly open but separately scoped asset/shared-system question rather than an implicit FICON successor.
+
+Fresh Engineering `main@ab6a140d8b6b1c6073e54a68fc6593a07930a2e9` remains E0-D ACTIVE/HOLD with E0-E blocked; concurrent Website `main@6f21480936293b3ef617d3bb880c7195ef20b40f` creates no APP VISUAL authority. Neither supplies a lawful reason to open another Phase-3 static gate.
+
+Light F2, Dark D3, MAT F1, TYP F1, STA F2, invariant dark Stage and the accessibility/cross-lane laws remain unchanged.
+
+**Next boundary:** hold APPUI Phase-3 static work at the closed static-system/FICON boundary. Re-enter only on material new integration/Product evidence, an explicitly authorized separate asset gate, a native implementation constraint, or another lawful successor trigger.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

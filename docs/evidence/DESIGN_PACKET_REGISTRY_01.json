@@ -1,7 +1,7 @@
 {
   "schema": "kymaean.design-packet-registry.v1",
   "status": "ACTIVE",
-  "date": "2026-09-11",
+  "date": "2026-09-16",
   "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
   "template": "docs/evidence/DESIGN_PACKET_TEMPLATE_01.json",
   "purpose": "Provide one retrievable map of bounded current/provisional/closed visual-gate packets for later composition and whole-app synthesis without turning the registry itself into design authority.",
@@ -165,6 +165,14 @@
       "status": "FROZEN_LOCAL_RESULT",
       "current_contribution": "E06 6% inset / 88% source-viewBox-height envelope is the sole APPICON-01 survivor around exact immutable C0; design-master evidence only, no Store/package/shipping authority.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-FICON-01-01",
+      "path": "docs/evidence/packets/PKT_FICON_01_FUNCTIONAL_PLATFORM_ICON_TREATMENT_01.json",
+      "axis": "APP VISUAL conventional functional platform icon carrier treatment",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "F1 Native Quiet Carrier is the sole APPUI-FICON-01 survivor for conventional Windows/Fluent verbs; treatment evidence only, not final icon assets/native implementation/domain iconography.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -184,7 +192,8 @@
     "SEL-S1 F4 Shallow Ground Arc fails exact-incumbent Stage integration: the 106-pixel witness improves selection legibility but crowns/groups unresolved pips and reads as an ornamental brace/underline. PKT-STAGE-CORE-02 remains authoritative; no F4b/reroll/retune is authorized.",
     "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence.",
     "CPS-B remains the Director-selected canonical Phase C Character-presence architecture. Human artwork is not required for current APPUI-01 screen design; CHARART-01 is Director-terminated after one valid output with no master adoption.",
-    "APPICON-01 closes with E06 as the sole current app-icon design-master envelope around exact C0; production Store/package/native-mask implementation and final symbol authority remain unresolved."
+    "APPICON-01 closes with E06 as the sole current app-icon design-master envelope around exact C0; production Store/package/native-mask implementation and final symbol authority remain unresolved.",
+    "APPUI-FICON-01 closes with F1 Native Quiet Carrier as the sole conventional platform-verb treatment survivor. Bespoke domain icons, final shipping icon assets/native mapping, production tokens and Product-gated symbol vocabulary remain unresolved/outside this packet."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
