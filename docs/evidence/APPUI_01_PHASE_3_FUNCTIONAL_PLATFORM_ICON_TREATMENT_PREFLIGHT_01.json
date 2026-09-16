@@ -1,0 +1,72 @@
+{
+  "schema": "kymaean.appui-phase3-functional-platform-icon-treatment-preflight.v1",
+  "status": "MECHANICAL_PREFLIGHT_PASS_SUBJECTIVE_REVIEW_PENDING",
+  "date": "2026-09-15",
+  "program_id": "APPUI-FICON-01",
+  "repository": "Rylascoo/Ensemble-Website",
+  "authority": {
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "method_checkpoint": "33ee8dce8ad417eba20f8b9e712e7781da8d626c",
+    "method": "docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_METHOD_01.json",
+    "canonical_static_system": "docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md",
+    "website_main_reconciled": "c82754fa1418e471f12dfac67fd403a143a7a2a7",
+    "engineering_main_reconciled": "bd32532133b4dbc66d2ffd1a7f77c3d0a2fd38dd"
+  },
+  "carrier": {
+    "path": "prototypes/appui-01/phase3-functional-platform-icon-treatment-01.html",
+    "sha256": "f2340fb793b029cebda1c79919b4b3851388ebe1156d92ffbc09549d15e66d56",
+    "probe": "tools/appui_phase3_functional_platform_icon_treatment_matrix_probe.mjs",
+    "probe_sha256": "6d5547cb690c9e0b7e78b59529827ff51367d9180d0eceb5d071a30b0511a572",
+    "matrix_sha256": "408fa07e7bc655d2b3aafcac922e7d07e6e02a80a7e6884e9be535cdd7e5a663"
+  },
+  "drive_archive": {
+    "folder_id": "1E6n1eOK_HYTF-fAiw7AbBYlvtNvn3HDE",
+    "html_id": "1tanWqSq-98tZ3atJ75-BX5B-9_fTBC5c",
+    "wide_png_id": "1u2GZToJSR8qHG6lqaRkDKV0MYTP0WExT",
+    "narrow_png_id": "1knLLfqLAlmTSbWuJQ4wnsi8Hnh3EIxqN"
+  },  "matrix": {
+    "cases": [
+      "normal-1600",
+      "normal-1024",
+      "normal-390",
+      "normal-320",
+      "forced-colors-320",
+      "text-200-percent-320",
+      "text-spacing-stress-320"
+    ],
+    "all_cases_pass": true,
+    "theme_count_each": 2,
+    "family_count_each": 8,
+    "icon_button_count_each": 70,
+    "missing_accessible_names_each": 0,
+    "undersized_icon_buttons_each": 0,
+    "fluent_font_available_each": true,
+    "mdl2_fallback_available_each": true,
+    "focus_outline_each": "solid 2px",
+    "selected_witnesses_each": 2,
+    "focus_witnesses_each": 2,
+    "external_resources_each": 0,
+    "overflow_elements_each": 0
+  },
+  "review_images": {
+    "wide_sha256": "84008364b10a103a139516a241f42baf3c3bd84366f9ffb096381b775461b44b",
+    "narrow_sha256": "5cdf48de0eba64cd8c2262f824f230e1c18b06f2e33d931f7cb3a89c69fa1969"
+  },  "construction_note": {
+    "responsive_geometry_repair_after_initial_render": true,
+    "repair_scope": "Layout-only: earlier matrix width stacking and long-law wrapping; no candidate carrier treatment, glyph meaning, color role, or candidate identity changed.",
+    "candidate_retune_after_exposure": false
+  },
+  "subjective_review": {
+    "status": "PENDING_FRESH_CHAT_REVIEW",
+    "binding_rule": "Review the exact frozen carrier and archived wide/narrow renders. Do not alter CNEG/F1/F2/F3 before adjudication.",
+    "eligible_outcomes": "Apply frozen subjective falsification; CNEG cannot survive; maximum one survivor; zero survivors remains lawful."
+  },
+  "non_authority": [
+    "No bespoke domain icon family is created.",
+    "No Product-gated Scene/Take/Perspective/provider/Performer symbol is created.",
+    "No production icon assets, token API, WinUI implementation, shipping package, or Store authority is created.",
+    "No Threshold K/app-icon geometry is promoted into UI icon anatomy.",
+    "No APPUI-FICON-01 family result is selected by this preflight."
+  ],
+  "next": "Fresh chat must first recover live repository authority, verify the carrier/probe hashes and Drive IDs, then perform subjective falsification on the frozen normal-color wide and narrow evidence. Do not rebuild or retune the candidates before review."
+}

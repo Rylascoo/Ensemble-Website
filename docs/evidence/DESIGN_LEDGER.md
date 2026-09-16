@@ -3578,3 +3578,21 @@ The program may not reuse Threshold K/app-icon geometry as UI icon anatomy, inve
 **Next boundary:** materialize the frozen icon-treatment matrix and complete mechanical/accessibility preflight before subjective review.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN STATIC-AXIS AUDIT / PRE-EXPOSURE METHOD FREEZE.**
+
+## L-230 - APPUI-FICON-01 mechanical preflight passes; subjective review reserved for fresh chat
+
+**State:** PHASE-3 FUNCTIONAL PLATFORM ICON TREATMENT / MECHANICAL PREFLIGHT PASS / SUBJECTIVE FALSIFICATION PENDING / NO FAMILY RESULT
+
+`docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_PREFLIGHT_01.json` freezes the exact rendered carrier and browser diagnostics after the method checkpoint `33ee8dce8ad417eba20f8b9e712e7781da8d626c`.
+
+The exact carrier uses the same conventional Windows/Fluent Back, Close, Search, Settings, More, Disclosure, Play and Pause meanings across CNEG/F1/F2/F3 in selected Light F2 and Dark D3. Seven responsive/accessibility cases pass with zero overflow, zero missing accessible names, zero undersized icon buttons, local Fluent/MDL2 font availability, structural 2px focus, no external resources, and intact focus/selection witnesses.
+
+A bounded responsive geometry repair after initial render changed only board stacking/wrapping; no candidate carrier treatment, glyph meaning, color role or family identity changed. Candidate bytes are now frozen at SHA-256 `f2340fb793b029cebda1c79919b4b3851388ebe1156d92ffbc09549d15e66d56`.
+
+Drive Phase-3 archive preserves exact HTML `1tanWqSq-98tZ3atJ75-BX5B-9_fTBC5c`, wide PNG `1u2GZToJSR8qHG6lqaRkDKV0MYTP0WExT`, and narrow PNG `1knLLfqLAlmTSbWuJQ4wnsi8Hnh3EIxqN`.
+
+No subjective family result is recorded. CNEG remains ineligible; maximum one survivor and zero survivors remain lawful. Bespoke domain icons, production icon assets, Product-gated symbols, native implementation and shipping authority remain blocked/uncreated.
+
+**Next boundary:** fresh-chat Design Sol must recover live authority and perform subjective falsification on these exact frozen wide/narrow artifacts before any candidate mutation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN MECHANICAL PREFLIGHT / SUBJECTIVE REVIEW RESERVED.**
