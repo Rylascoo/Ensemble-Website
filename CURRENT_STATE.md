@@ -8,9 +8,9 @@ Updated: 2026-09-15
 Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Production
-Website Placeholder V2.2 with the viewport-centered identity successor is live and verified on `www.kymaean.com`. PR #75 merged at `4a847ddd942598bba6e8e8a6febd4e9ce9f3c65d`; current `main@e5f6f66fa78b5e44745515a20ced368a6df52e25` adds Bellweather continuity only and has no `site/public/**` difference from that merge.
+Website Placeholder V2.2 with the viewport-centered identity successor is live and verified on `www.kymaean.com`. PR #75 promoted the public payload; later Bellweather and production-closeout continuity changed no `site/public/**` bytes.
 
-All nine live public assets match current-main Git blobs byte-for-byte. Frozen Stage SHA-256 remains `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`; V4 social card SHA-256 remains `900838f5ddbdd0867c7c1f6ef6d2e4349e2766ae5ca1425a73ee1d1e3c739d1b`. Full live responsive/accessibility matrix passes; no analytics injection is present.
+All nine live public assets match repository public bytes byte-for-byte. Frozen Stage SHA-256 remains `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`; V4 social card SHA-256 remains `900838f5ddbdd0867c7c1f6ef6d2e4349e2766ae5ca1425a73ee1d1e3c739d1b`. Full live responsive/accessibility matrix passes; no analytics injection is present.
 
 ## Website identity
 Current accepted treatment is B optical spacing: exact historical Threshold K paths, exact O3 `YMÆAN` paths/hierarchy, intact group translations `Æ -3`, `A -3`, `N -4`, complete lockup at viewport `left: 50%`, wide/tall top 14.5svh, tighter `COMING SOON`, retained portrait rhythm.
@@ -25,4 +25,4 @@ Bellweather concept-master continuity is L-173; L-177 freezes the six-image Full
 ## Frozen cross-lane boundary
 `PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. No app UI, palette, product disclosure, Stage repaint, added frame, generated typography, or universal Character-face requirement is authorized.
 
-**Exact next action:** integrate this production-closeout continuity, then hold production stable. Any later letter-size work begins as a deterministic non-production study preserving the current Stage, centering, spacing, responsive/accessibility/publication behavior and no-analytics boundary unless separately reopened.
+**Exact next action:** hold production stable. Any later letter-size work begins as a deterministic non-production study preserving the current Stage, centering, spacing, responsive/accessibility/publication behavior and no-analytics boundary unless separately reopened.
