@@ -8,7 +8,7 @@ Updated: 2026-09-15
 Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Production
-Website Placeholder V2.2 remains live on `www.kymaean.com`; this successor is not merged or deployed. Current `main@fd7785c423030a596d209b2b01e05468f17e1d9f` adds Bellweather continuity only and changes no public-site bytes. Frozen Stage, live copy/social assets, accessibility/motion behavior and no-analytics boundary remain unchanged.
+Website Placeholder V2.2 remains live on `www.kymaean.com`; this successor is not merged or deployed. Current `main@d7c23477cc12cef581ac241f2fbd9153d3c0ee98` contains Bellweather continuity plus its ledger-state correction only and changes no public-site bytes. Frozen Stage, live copy/social assets, accessibility/motion behavior and no-analytics boundary remain unchanged.
 
 Responsive Stage crop law remains `docs/KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md`; only the superseded doorway-axis identity clause is changed by this successor.
 
