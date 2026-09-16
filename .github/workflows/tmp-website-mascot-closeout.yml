@@ -1,0 +1,62 @@
+name: Temporary Website Mascot Closeout Generator
+
+on:
+  push:
+    branches:
+      - site/v2-2-mascot-placement-study-closeout-2026-09-16
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: site/v2-2-mascot-placement-study-closeout-2026-09-16
+          fetch-depth: 0
+      - name: Append L-190 exactly once
+        shell: bash
+        run: |
+          set -euo pipefail
+          if ! grep -q '^## L-190 ' docs/evidence/DESIGN_LEDGER.md; then
+            cat >> docs/evidence/DESIGN_LEDGER.md <<'EOF'
+
+## L-190 - Website Bellweather A1-A4 placement study selects A4 opening grammar
+
+**State:** NON-PRODUCTION DETERMINISTIC STUDY COMPLETE / A3 STATIC CONTROL / A4 DELAYED REVEAL PREFERRED / A2 DEFERRED FOR POSE EVIDENCE / PRODUCTION UNCHANGED
+
+The Director-authorized A1-A4 Bellweather placement study was executed against the exact frozen Stage and current production `KYMÆAN / COMING SOON` lockup at 2048x1199, 1235x647 and 1138x1354. The inspected matrix produced zero horizontal overflow and zero Bellweather/brand-lockup overlap.
+
+A1 remains a valid restrained control but is slightly too peripheral on wide. A2 retains the desired departing/crossing behavioral hypothesis, but the current front-facing carrier cannot honestly prove that behavior and must not be promoted as motion evidence. A3 is the strongest static placement. A4 was refined to use A3 placement with delayed-reveal behavior and is the preferred opening-state concept: preserve the current empty Stage first, then allow Bellweather to become discoverable in the A3 location.
+
+The derived transparent Bellweather carrier is placement evidence only and does not replace L-187 foundational authority, L-189 Human/private authority or later mascot refinements. Canonical study evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_PLACEMENT_STUDY_01.md`.
+
+The next Website Sol creative question is the non-production PERSON-state encounter derived from the Director-favorite closer middle-image composition, preserving `PLACE -> PRESENCE -> PERSON -> WORLD` and the exact Stage/system-level identity.
+
+No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
+
+**DIRECTOR SIGNAL PRESERVED — A4 DELAYED REVEAL IS THE PREFERRED OPENING GRAMMAR; A3 IS THE STATIC CONTROL; PRODUCTION REMAINS FROZEN.**
+EOF
+          fi
+      - name: Regenerate canonical document index
+        run: python3 tools/generate_docs_index.py
+      - name: Validate generated closeout
+        run: |
+          python3 tools/validate_document_status.py
+          python3 tools/validate_repository_boundaries.py
+          python3 tools/generate_docs_index.py --check
+          git diff --check
+      - name: Commit generated continuity
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/INDEX.md docs/evidence/DESIGN_LEDGER.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'website: close Bellweather placement study continuity'
+            git push origin HEAD:refs/heads/site/v2-2-mascot-placement-study-closeout-2026-09-16
+          fi
