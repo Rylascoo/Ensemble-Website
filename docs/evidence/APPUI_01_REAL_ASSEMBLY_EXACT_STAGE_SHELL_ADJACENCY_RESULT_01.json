@@ -1,0 +1,89 @@
+{
+  "schema": "kymaean.appui-real-assembly-exact-stage-shell-adjacency-result.v1",
+  "status": "MECHANICAL_PASS_INTEGRATION_HOLD_EMBEDDED_LEGACY_STAGE_CHROME_CONFLICT",
+  "date": "2026-09-16",
+  "program_id": "APPUI-01-REAL-ASSEMBLY-STAGE-SHELL-01",
+  "method": "docs/evidence/APPUI_01_REAL_ASSEMBLY_EXACT_STAGE_SHELL_ADJACENCY_METHOD_01.json",
+  "authority": {
+    "design_repository": "Rylascoo/Ensemble-Website",
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "pre_exposure_head": "c32ff3270a079c680f27dd8ed759f686522cebfc",
+    "engineering_main_reconciled": "526893a0f518b52bceddb311514de12ec826b9b3",
+    "director_authorization": "approved",
+    "website_main_pre_exposure": "94fd60f3a51485f052c25d753459a45240d845d4",
+    "website_main_close_reconciled": "e483f0af35166534fff1455f68e287cc9190d91a",
+    "close_reconciliation_effect": "Website main advances deterministic non-production WORLD mascot evidence only and explicitly authorizes no app UI or Stage repaint; no contradiction."
+  },
+  "exact_stage": {
+    "packet": "PKT-STAGE-CORE-02",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "bytes": 1431659,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "verification": "PASS_EXACT_DRIVE_MASTER_BEFORE_RUNTIME_MATERIALIZATION"
+  },
+  "artifacts": {
+    "method_sha256": "914ff8a7d978adca722ecb987f04caf85a5745ec78b6033f5a3fcf2f17405aa1",
+    "template": "prototypes/appui-01/real-assembly-exact-stage-shell-adjacency-01.template.html",
+    "template_sha256": "142468172dd7206c53a81e206f006322ba0650c4a87180be732cc4e88b355ad2",
+    "materializer": "tools/materialize_appui_real_assembly_stage_shell.py",
+    "materializer_sha256": "66201cacc78871fadf3918b77b4854526bf5797accd3399d9c8658a991abfec2",
+    "probe": "tools/appui_real_assembly_stage_shell_matrix_probe.mjs",
+    "probe_sha256": "f7da5926e177b752cc906ade03043126bdd72b68094861844e3ff46763218c96"
+  },
+  "mechanical_result": {
+    "cases": [
+      "normal-1600",
+      "normal-1024",
+      "normal-390",
+      "normal-320",
+      "forced-colors-320",
+      "text-200-percent-320",
+      "text-spacing-stress-320"
+    ],
+    "matrix_sha256": "fbdb68ac7c0f81b0a1f54a476a156c707447a4920e1ef28cce09d072fc2be991",
+    "result": "PASS_ZERO_OVERFLOW_ALL_SEVEN_CASES",
+    "stage_count_each_case": 2,
+    "stage_intrinsic_dimensions": "PASS_1672x941_BOTH_THEMES",
+    "stage_data_identity": "PASS_IDENTICAL_DATA_URI_BOTH_THEMES_FROM_ONE_VERIFIED_SOURCE",
+    "stage_rendered_aspect_ratio": "PASS_NO_CROP_OR_DISTORTION",
+    "missing_button_names": 0,
+    "undersized_icon_buttons": 0,
+    "missing_stage_alt": 0,
+    "keyboard_focus": "PASS_SOLID_2PX_WITH_2PX_OFFSET",
+    "external_resources": 0
+  },
+  "recursive_audit": {
+    "first_exposure": "Stage integrity passed but narrow board-header/horizontal-nav geometry overflowed and focus sampling hit browser-default focus.",
+    "mechanical_repair": "Changed review header to block flow, narrow durable navigation to vertical stacking, and probe focus sampling to an explicit keyboard witness. Stage bytes, shell hierarchy and selected visual roles remained unchanged.",
+    "second_matrix": "CLEAN_ALL_SEVEN_CASES",
+    "substantive_finding": "The exact frozen Stage raster visibly contains inherited Scene/Stage/Archive-style chrome plus a provisional right-side rail. Inside the completed shell these read as nested duplicate navigation/inspection surfaces.",
+    "authority_conflict": "Phase-2 Stage authority explicitly states the raster governs frozen Stage meanings but does not re-promote historical shell labels or provisional rail/control semantics. The real assembly therefore exposes a presentation conflict between exact full-raster use and current shell authority.",
+    "in_gate_repair_available": false,
+    "reason_no_repair": "The frozen method forbids crop, mask, overlay, repaint, filter, recolor or retouch. Hiding inherited chrome after exposure would violate the method and silently change Stage presentation authority."
+  },
+  "visual_evidence": {
+    "drive_folder": "03 Visual Identity & Artwork / Kymaean / 04 Lane A — Product UI Reintegration — Active / 19 APPUI-01 Exact Stage + Completed Shell Adjacency 01",
+    "wide_png_sha256": "5f82f7b4bebe1fbb12c89f12366a1a9d9ad9f7d3a2a82287d11040c9661ab76b",
+    "narrow_png_sha256": "16d2cac00f2ddf9433e55c76dd3b591ed093e03e74f32d1bdd787602aa7686f8",
+    "runtime_manifest_sha256": "5d6464ac5294bae37b60bd18fafcd70fcfceb23f10143c4b949eb694221bbf01"
+  },
+  "disposition": {
+    "mechanical": "PASS",
+    "integration": "HOLD",
+    "component_program": "REMAINS_CLOSED_11_OF_11",
+    "stage_authority": "UNCHANGED_PKT_STAGE_CORE_02",
+    "new_design_authority": "NONE",
+    "new_integration_evidence": "Exact full-raster use inside the completed shell exposes embedded legacy-chrome duplication that must be resolved by a separately bounded Stage-presentation successor, not by post-exposure repair."
+  },
+  "non_authority": [
+    "No crop/extraction successor is activated by this result.",
+    "No Stage pixels or frozen Stage meanings are superseded.",
+    "No historical Stage-raster shell labels or right-rail semantics become current app authority.",
+    "No Product, transcript, motion, provider/Performer, production-token or native implementation authority is created."
+  ],
+  "recommended_next_boundary": "If explicitly authorized, open a Stage-presentation successor that tests an authority-declared exact-pixel Stage-field extraction/crop or replacement presentation asset against the completed shell while preserving frozen Stage field/Character/state meanings. Working Composition Pass 01 provides precedent for exact-pixel Stage crops, but this result does not activate that successor automatically.",
+  "conclusion": "MECHANICAL_PASS_INTEGRATION_HOLD_EMBEDDED_LEGACY_STAGE_CHROME_CONFLICT"
+}

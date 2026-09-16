@@ -1,0 +1,85 @@
+{
+  "schema": "kymaean.appui-real-assembly-exact-stage-shell-adjacency-method.v1",
+  "status": "FROZEN_PRE_EXPOSURE",
+  "date": "2026-09-16",
+  "program_id": "APPUI-01-REAL-ASSEMBLY-STAGE-SHELL-01",
+  "name": "Representative Real Assembly - Exact Stage + Completed Shell Adjacency 01",
+  "authorization": {
+    "director_statement": "approved",
+    "authorization_effect": "Activate the previously parked representative exact-Stage + real-shell adjacency follow-on only.",
+    "component_program_reopened": false
+  },
+  "authority": {
+    "design_repository": "Rylascoo/Ensemble-Website",
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "pre_exposure_head": "c32ff3270a079c680f27dd8ed759f686522cebfc",
+    "website_main_reconciled": "94fd60f3a51485f052c25d753459a45240d845d4",
+    "engineering_main_reconciled": "526893a0f518b52bceddb311514de12ec826b9b3",
+    "component_convergence": "docs/evidence/APPUI_01_COMPONENT_INTEGRATION_COVERAGE_CONVERGENCE_AUDIT_01.json",
+    "phase2_stage_shell_law": "docs/evidence/APPUI_01_PHASE_2_STAGE_SHELL_ADJACENCY_LIVE_WORKSPACE_COMPOSITION_01.json",
+    "static_visual_system": "docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md"
+  },
+  "exact_stage_input": {
+    "packet": "PKT-STAGE-CORE-02",
+    "drive_file_id": "1uSzrNEAHs72BdswbOhMfMaK92eFROCfH",
+    "synced_source": "03 Visual Identity & Artwork / Kymaean / 04 Lane A — Product UI Reintegration — Active / 12 Core Stage Background Successor 01 — Frozen / Kymaean Core Stage Background Successor 01 — Frozen.png",
+    "sha256": "7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0",
+    "bytes": 1431659,
+    "dimensions": [1672, 941],
+    "runtime_residency": "Authenticated disposable input only; do not commit Stage PNG or embedded Stage bytes to GitHub."
+  },
+  "fixed_shell_inputs": [
+    "PKT-COMP-02-01 thin durable shell and Production-switching grammar",
+    "PKT-COMP-03-01 situation-first current-Production hierarchy",
+    "PKT-COMP-04-01 contextual inspection and exact return law",
+    "PKT-COMP-11-01 workspace-state truth boundaries",
+    "Light F2 / Dark D3 / MAT F1 / TYP F1 / STA F2 / FICON F1"
+  ],
+  "bounded_question": "Does the exact frozen Stage remain dominant and coherent when placed inside the completed real shell/navigation/identity/control system, without reopening Stage pixels, inventing Product mechanics or turning shell surfaces into competing theatrical scenery?",
+  "must_preserve": [
+    "exact Stage bytes, intrinsic aspect ratio and frozen Stage meanings",
+    "Stage is identical in Light and Dark shell presentations",
+    "Home / Productions / Settings remain thin durable application navigation",
+    "current Production and Scene identity remain outside Stage fiction",
+    "selected-entity contextual inspection remains creator UI state rather than Character attention",
+    "creator controls and infrastructure remain outside Character cones"
+  ],
+  "composition_contract": {
+    "stage_treatment": "Exact raster only; scale proportionally with object-fit contain; no crop, overlay, filter, recolor, retouch, blur, gradient, mask or transform.",
+    "shell_relationship": "Stage is the dominant live-work surface; shell, inspector and contextual support recede and do not imitate Stage atmosphere.",
+    "responsive_relationship": "Wide may use Stage + adjacent inspector; narrow sequences Scene identity -> exact Stage -> inspector/support while preserving Stage origin.",
+    "theme_relationship": "Light F2 and Dark D3 alter shell presentation only; Stage pixels are identical."
+  },
+  "falsification": [
+    "Any Stage byte/hash mismatch, crop, filter, recolor, overlay or altered aspect ratio.",
+    "Shell or inspector competes with Stage as an equal theatrical/hero surface.",
+    "Dark shell presentation makes Stage meaning, state, opportunity or severity differ from Light.",
+    "A creator selection/focus witness is visually read as Character attention, agency or current opportunity.",
+    "Narrow layout loses Scene/Production origin or requires simultaneous columns for essential meaning.",
+    "Any Product-gated Scene/Take/Perspective/provider/Performer/retry/recovery command is invented.",
+    "Any provisional Stage rail, Observed Cues, pip, arc, transcript, timer or Pause semantics are hardened."
+  ],
+  "test_matrix": [
+    "normal-1600", "normal-1024", "normal-390", "normal-320",
+    "forced-colors-320", "text-200-percent-320", "text-spacing-stress-320"
+  ],
+  "review_order": [
+    "mechanical Stage integrity and responsive/accessibility matrix",
+    "wide Light/Dark Stage-dominance and surface-depth review",
+    "narrow semantic-order review",
+    "recursive authority audit before any packetization"
+  ],
+  "non_authority": [
+    "No Stage successor, Stage repaint, cone redesign or replacement of PKT-STAGE-CORE-02.",
+    "No transcript-dependent motion, timer/Pause, Observed Cues, pip or arc semantics.",
+    "No Product-gated Scene, Take, Perspective, provider/model/cost or Performer mechanics.",
+    "No production token package, final typeface asset, native WinUI/XAML, ARM64 runtime or Store authority.",
+    "No website/shared-brand finalization and no reopening of APPUI-COMP-01..11."
+  ],
+  "exposure_law": {
+    "pre_exposure_method_frozen": true,
+    "stage_pixels_mutable": false,
+    "post_exposure_repairs": "Mechanical geometry/accessibility repairs may occur only if Stage bytes and selected visual-role values remain unchanged; substantive hierarchy changes require a recorded recursive-audit finding."
+  },
+  "next": "Materialize the exact Stage into the completed shell through a hash-verifying runtime materializer, run the seven-case matrix, review wide/narrow visual hierarchy, then record PASS/HOLD/FAIL without silently broadening authority."
+}

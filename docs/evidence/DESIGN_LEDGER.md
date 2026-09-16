@@ -3904,3 +3904,20 @@ Therefore the component set advances but does not satisfy the remaining represen
 **Next boundary:** HOLD component expansion. Re-enter only through a lawful trigger recorded by current authority; do not invent COMP-12, reopen closed Stage gates, freeze Product mechanics, or promote design-reference carriers into native/production authority.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+## L-247 - Exact Stage + completed-shell representative assembly exposes a Stage-presentation authority conflict
+
+**State:** MECHANICAL PASS / INTEGRATION HOLD / EXACT STAGE PRESERVED / STAGE-PRESENTATION SUCCESSOR NOT ACTIVATED
+
+Director approval activated the bounded `APPUI-01-REAL-ASSEMBLY-STAGE-SHELL-01` follow-on after the component program closed at COMP-11. `docs/evidence/APPUI_01_REAL_ASSEMBLY_EXACT_STAGE_SHELL_ADJACENCY_METHOD_01.json` froze the exact full-raster contract before exposure: exact `PKT-STAGE-CORE-02` Drive bytes only, completed COMP shell context, Light F2/Dark D3 shell parity, no crop/mask/overlay/repaint/filter/recolor and no Product/Stage semantic invention.
+
+The authenticated Stage input verifies at SHA-256 `7f3b3a815d71d1aa47350e69824f14f92a5dd399cf0c68bf16074827ead6b3c0`, 1,431,659 bytes and 1672×941. A repository materializer embeds those bytes only into disposable runtime evidence; Stage pixels are not committed to GitHub. The final seven-case matrix passes 1600/1024/390/320, forced colors 320, 200% text 320 and text-spacing stress 320 with zero overflow, identical Stage data in Light/Dark, preserved aspect ratio, zero external resources, zero unnamed buttons, zero undersized icon buttons and 2px/2px keyboard focus.
+
+The first exposure found only mechanical board-header/narrow-navigation overflow plus a probe focus-sampling defect. Those were repaired without changing Stage bytes, shell hierarchy or selected APP VISUAL roles; the second matrix is clean.
+
+The consequential recursive-audit finding is visual/authority-level: the exact frozen raster itself contains inherited Scene/Stage/Archive-style chrome and a provisional right rail. Inside the completed real shell, those historical raster elements read as nested duplicate navigation/inspection. Phase-2 authority explicitly preserves the raster for frozen Stage meanings while denying blanket authority to its historical shell labels and provisional rail/control semantics.
+
+Because this gate froze full-raster no-crop/no-mask presentation, there is no lawful in-gate repair. Hiding those elements after exposure would violate the method and silently rewrite Stage presentation authority. The result is therefore `MECHANICAL_PASS_INTEGRATION_HOLD_EMBEDDED_LEGACY_STAGE_CHROME_CONFLICT`, not a Stage or shell failure and not new Stage authority.
+
+Wide/narrow screenshots, matrix and runtime manifest are preserved in synced Drive under `04 Lane A — Product UI Reintegration — Active / 19 APPUI-01 Exact Stage + Completed Shell Adjacency 01`.
+
+**Next boundary:** only with explicit authorization, open a separately bounded Stage-presentation successor that tests an authority-declared exact-pixel Stage-field extraction/crop or replacement presentation asset against the completed shell while preserving frozen Stage field/Character/state meanings. Working Composition Pass 01 provides precedent for exact-pixel Stage crops; this HOLD does not activate that successor automatically.

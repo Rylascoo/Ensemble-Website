@@ -302,14 +302,14 @@
     "whole_app_synthesis_packets_created": [
       "PKT-APP-SYN-01-01"
     ],
-    "next_synthesis_trigger": "Light F2 and Dark D3 are already selected. APP-SYN-01 Stage-to-shell follow-on remains parked until an explicitly authorized representative assembly places exact PKT-STAGE-CORE-02 Stage authority beside the real shell/navigation/identity/control system, or a stronger Director/native/Product trigger authorizes that bounded assembly. COMP-01..11 alone do not satisfy the exact-Stage adjacency prerequisite.",
+    "next_synthesis_trigger": "Exact Stage + completed-shell representative assembly is now mechanically proven but integration-held because the full frozen Stage raster contains inherited historical shell chrome/provisional rail that duplicates current shell authority. Re-enter only through explicit authorization of a bounded Stage-presentation successor (for example an authority-declared exact-pixel Stage-field extraction/crop or replacement presentation asset) or stronger changed authority; do not crop/mask/repaint under the closed real-assembly gate.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
     "active_whole_app_synthesis_method": "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json",
-    "active_whole_app_synthesis_status": "CLR_RESOLVED_REAL_SHELL_COMPONENT_SET_COMPLETE_STAGE_ADJACENCY_TRIGGER_UNMET",
+    "active_whole_app_synthesis_status": "EXACT_STAGE_REAL_SHELL_ASSEMBLY_HOLD_EMBEDDED_LEGACY_CHROME_CONFLICT",
     "active_whole_app_synthesis_manifest": "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_04.json",
     "active_whole_app_synthesis_manifest_sha256": "7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c25339673",
     "active_whole_app_synthesis_preflight": "docs/evidence/APP_SYN_01_BROWSER_PREFLIGHT_01.json",
@@ -355,7 +355,7 @@
     "latest_director_sequencing_correction": "docs/evidence/APP_UI_DIRECTOR_ITERATIVE_DESIGN_PIVOT_2026_09_14.json",
     "latest_director_sequencing_correction_sha256": "4b21d11345aed8a049f95ae1b40115a3b9650fef32a554d7789765d61a34b9c3",
     "active_app_ui_program": "APPUI-01",
-    "active_app_ui_status": "ITERATIVE_WINDOWS11_ARM64_SCREEN_FIRST",
+    "active_app_ui_status": "REAL_ASSEMBLY_HOLD_STAGE_PRESENTATION_SUCCESSOR_REQUIRES_EXPLICIT_AUTHORIZATION",
     "active_app_ui_platform": "Microsoft Windows 11 desktop / ARM64 / Microsoft Store distribution intent",
     "active_app_ui_handoff": "docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md",
     "active_app_ui_concurrent_website_coordination": "docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json",
@@ -365,7 +365,11 @@
     "active_app_component_status": "CLOSED_COVERAGE_COMPLETE_NO_COMP12",
     "active_app_component_packet": "PKT-COMP-11-01",
     "latest_app_component_coverage_audit": "docs/evidence/APPUI_01_COMPONENT_INTEGRATION_COVERAGE_CONVERGENCE_AUDIT_01.json",
-    "latest_app_component_coverage_audit_sha256": "6dcd58911a4457813433ed2e194d89a9696d6c0f175c610e7453529186cae1d3"
+    "latest_app_component_coverage_audit_sha256": "6dcd58911a4457813433ed2e194d89a9696d6c0f175c610e7453529186cae1d3",
+    "latest_real_assembly_method": "docs/evidence/APPUI_01_REAL_ASSEMBLY_EXACT_STAGE_SHELL_ADJACENCY_METHOD_01.json",
+    "latest_real_assembly_method_sha256": "914ff8a7d978adca722ecb987f04caf85a5745ec78b6033f5a3fcf2f17405aa1",
+    "latest_real_assembly_result": "docs/evidence/APPUI_01_REAL_ASSEMBLY_EXACT_STAGE_SHELL_ADJACENCY_RESULT_01.json",
+    "latest_real_assembly_result_sha256": "5732e050372f02db418b18af25ef8092034b4824d1da743a6619c2336fc14b97"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }
