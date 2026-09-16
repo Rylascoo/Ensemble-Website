@@ -18,3 +18,10 @@ Natural expression is foundational: prefer closed-mouth, softly asymmetrical, or
 Hold the four-image foundational set intact. Any successor frontal study should tighten facial geometry or vary restrained emotion one variable at a time against the primary face control. Do not silently replace the foundational set.
 
 Preserve verified website production, Stage, app/UI/product authority boundaries, and the rule that Bellweather is not a universal literal face for every user-created Character or Production.
+
+## Post-handoff addendum — Human Bellweather Image 5 freeze
+L-189 freezes the current four-image Image 5 / morning-private family as core mascot variations without replacing the L-187 foundational controls or L-180 formal family.
+
+Canonical Drive folder: `09 Human Bellweather — Image 5 Morning Variations — Frozen Mascot Variations — 2026-09-16` (`17pMSAhYVjz1yG4ggG7N_saWjlPVrNYUY`). Exact assets: seated direct gaze `1ADtyUG-srVEM29Q05NCSoTmqMogZOAU9`; window poise `1sWpoIRUMMKPzCIXARqmTJIPWwFrF7kcn`; quiet amusement at breakfast `1sczTEtCDJdqQ6Y0dsgIxk1ml1wLMz3V_`; upright white shirt & knit `192txup6d6QxqAmkBC5robnfmURQQfrBU`.
+
+Fresh Bellweather work should read `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md` after the foundational front-facing evidence. Treat the Human/private family as frozen variation territory: natural daylight, cream/white morning layers, relaxed body language and restrained facial variation, with exact garment/prop microdetails remaining variable.
