@@ -18,8 +18,7 @@
     "state": "STA-01 F2 only where authoritative interaction state requires it"
   },
   "study_question": "Can Light F2 and exact provisional D3 preserve the same empty, loading/transitional, unavailable, failed/cancelled and provisional/non-effective meanings without theme or accent becoming lifecycle/provider/error/fiction semantics?",
-  "comparison": "Keep the accepted matched empty-state app pair and render every resolved state family as a matched Light F2 + D3 witness pair."
-},
+  "comparison": "Keep the accepted matched empty-state app pair and render every resolved state family as a matched Light F2 + D3 witness pair.",
   "must_preserve": [
     "empty / none selected is a valid state; empty != error or deletion",
     "loading / transitional is application state; loading != fictional delay",
