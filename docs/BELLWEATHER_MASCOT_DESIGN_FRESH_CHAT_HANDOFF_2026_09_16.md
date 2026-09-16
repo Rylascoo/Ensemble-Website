@@ -25,3 +25,12 @@ L-189 freezes the current four-image Image 5 / morning-private family as core ma
 Canonical Drive folder: `09 Human Bellweather — Image 5 Morning Variations — Frozen Mascot Variations — 2026-09-16` (`17pMSAhYVjz1yG4ggG7N_saWjlPVrNYUY`). Exact assets: seated direct gaze `1ADtyUG-srVEM29Q05NCSoTmqMogZOAU9`; window poise `1sWpoIRUMMKPzCIXARqmTJIPWwFrF7kcn`; quiet amusement at breakfast `1sczTEtCDJdqQ6Y0dsgIxk1ml1wLMz3V_`; upright white shirt & knit `192txup6d6QxqAmkBC5robnfmURQQfrBU`.
 
 Fresh Bellweather work should read `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md` after the foundational front-facing evidence. Treat the Human/private family as frozen variation territory: natural daylight, cream/white morning layers, relaxed body language and restrained facial variation, with exact garment/prop microdetails remaining variable.
+
+## Post-L189 chat archive and active exploration addendum
+Post-L189 chat-generated Bellweather studies are archived in Drive folder `10 Chat Image Archive — Bellweather Human & Wardrobe Exploration — 2026-09-16` (`1VFHIB-5z-rKi8bHP1JYVNKnSJaJ5D4qv`), with archive manifest `1hsGOgflIgs1xnvB9en_ceAJofRwzmta9`. Earlier chat imagery remains in canonical folders 01–09.
+
+This newer material is **active non-frozen exploration**. It does not replace L-187, L-189, or the approved formal family. Controlled expression vocabulary: Neutral/Present, Quiet Amusement, Tired, Concerned, Skeptical, Relieved. Primary pose functions: Chin Lower = connection; Three-Quarter = interaction; Over-the-Shoulder = transition, with forward lean, upright frontal, reflection, seated comfort, standing readiness and profile consideration as supporting states.
+
+Wardrobe branches now include Human/private, intellectual/work, public/travel, fitted public-social, fitted intellectual/work, fitted evening/public-social and Iconic formal. The Director especially favors recent fitted concepts derived from studies 1/5/7: asymmetric cream/brown fitted dress, fitted cream/brown public-social dress, and dark fitted evening treatment. They are favored directions, not frozen exact garments.
+
+**Next mascot-design boundary:** controlled full-size outfit diversity using the strongest Bellweather facial control, emphasizing fitted intellectual/work and fitted public/evening variants while preserving personhood, agency and narrative function. Do not silently freeze a successor; preserve the separate Website Sol mascot-integration study and all production/app/UI boundaries.
