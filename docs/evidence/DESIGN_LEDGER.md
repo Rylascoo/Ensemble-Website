@@ -3374,3 +3374,17 @@ D3 survives this sixth representative section but remains provisional. No produc
 **Next boundary:** evaluate selected Light F2 + exact provisional D3 on Persistence / Recovery Status, preserving healthy quiet persistence, truthful infrastructure exception and exact non-fictional recovery.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-217 - Persistence / Recovery F2 + provisional D3 integration method freezes before exposure
+
+**State:** PHASE-3 PERSISTENCE/RECOVERY INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_PERSISTENCE_RECOVERY_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the exact accepted Persistence / Recovery Status carrier. Selected Light F2 and exact provisional D3 Dark remain fixed inputs with MAT-01 F1, TYP-02 F1 and STA-01 F2; no post-exposure color retune is allowed.
+
+The study must preserve healthy persistence as quiet, persistence-in-progress as application state, read-only versus Character refusal, persistence failure versus integrity concern, infrastructure exception outside fiction, recovery versus fictional rewind, and exact prior-task/focus restoration.
+
+D3 fails locally if darkness itself implies severity/corruption/danger, if teal becomes saved/healthy/success/warning semantics, or if the exception/recovery surface visually contaminates Production fiction or hides the retained creator task.
+
+**Next boundary:** materialize the exact functional carrier in Light F2 + provisional D3, run the seven-condition responsive/accessibility matrix, and recursively audit infrastructure-versus-fiction honesty before preservation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — PRE-EXPOSURE METHOD FREEZE.**
