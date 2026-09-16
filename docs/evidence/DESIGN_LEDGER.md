@@ -3723,3 +3723,21 @@ No Scene lifecycle, Take/Rehearsal/branching, Perspective, provider/model/cost, 
 **Next boundary:** open `APPUI-COMP-04` for selected-entity contextual + deep inspection integration inside the COMP shell, preserving semantic origin/return, current/history and provisional/effective distinctions without creating Product taxonomy or Stage controls.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-238 - APPUI-COMP-04 closes contextual-to-deep inspection as one continuous real-shell task flow
+
+**State:** REAL CONTEXTUAL+DEEP INSPECTION PASS / PKT-COMP-04-01 ACTIVE / WHOLE-PRODUCTION CHARACTER MANAGEMENT NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_CONTEXTUAL_DEEP_INSPECTION_INTEGRATION_METHOD_01.json` froze the next bounded question after COMP-03. The carrier `prototypes/appui-01/component-system-contextual-deep-inspection-integration-01.html` composes the accepted inspection surface-family grammar with the real Shaping origin, durable COMP shell, COMP-01 controls and selected F2/D3 + MAT/TYP/STA/FICON system.
+
+The selected `Julian ↔ Elara` relationship moves from the situation-first Shaping workspace into contextual inspection and then deliberate deep inspection without changing identity or becoming a permanent application mode. The deep surface names `The White Current / Current situation / Julian ↔ Elara` as origin. Back and Close return to that origin, preserve relationship selection and restore focus to the deep-inspection trigger; neither operation implies Undo.
+
+The first complete deep-state visual audit exposed a real carrier defect: authored `.shaping{display:grid}` overrode the HTML `hidden` attribute, so contextual Shaping remained visible beneath deep inspection. The correction added explicit `.shaping[hidden]{display:none}` behavior and a mechanical invariant requiring zero visible Shaping surfaces while deep inspection is open. The full matrix was rerun after correction without semantic or frozen-role retune.
+
+Final contextual and exclusive-deep states pass 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero internal/page overflow, zero missing button names, zero undersized icon-only controls, independent 2px focus/2px offset, two-theme deep activation, exact focus return, preserved selection and zero external resources/images. Historical context remains dashed/labeled; provisional shaping capacity remains dotted/labeled and explicitly non-effective.
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_CONTEXTUAL_DEEP_INSPECTION_INTEGRATION_RESULT_01.json` records closure and `PKT-COMP-04-01` packetizes it. No Product entity taxonomy, commit/save/validation/undo, Scene/Take/Rehearsal/consequence/Perspective/provider/Performer semantics, Stage successor, production tokens or native implementation authority is created.
+
+**Next boundary:** open `APPUI-COMP-05` for whole-Production Character management inside the COMP shell. Preserve explicit off-Scene state, Scene-membership non-implication, persistent Character identity and Character-versus-Performer separation without creating a permanent People silo.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

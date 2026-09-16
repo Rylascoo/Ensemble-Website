@@ -11,13 +11,13 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 
 Phase-1 architecture/layout is FROZEN PASS; Phase-2 static Stage coverage is CLOSED PASS. Selected Light F2, Dark D3, MAT F1, TYP F1, STA F2, FICON F1 and invariant dark Stage remain unchanged.
 
-## APPUI-COMP-03 - CLOSED PASS
-`docs/evidence/APPUI_01_COMPONENT_SYSTEM_SHAPING_WORKSPACE_INTEGRATION_RESULT_01.json` and `PKT-COMP-03-01` promote accepted Production Shaping / Current Possibility into the real COMP shell. Current situation + meaningful elements dominate; orientation and contextual inspection remain subordinate; Home / Productions / Settings stay thin; selection and keyboard focus remain independent. Seven-case responsive/accessibility browser preflight passes.
+## APPUI-COMP-04 - CLOSED PASS
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_CONTEXTUAL_DEEP_INSPECTION_INTEGRATION_RESULT_01.json` and `PKT-COMP-04-01` validate the real contextual -> deep inspection task flow above COMP-03. The same selected relationship preserves named Production/current-situation origin; deep inspection is exclusive rather than a second simultaneous mode; Back/Close restore trigger focus and are not Undo. Current/history and provisional/effective remain structural and hue-independent. Seven-case contextual+deep browser preflight passes.
 
-No Scene lifecycle, Take/Rehearsal/branching, Perspective switching, provider/model/cost, Performer assignment, predictive next-action authority, bespoke domain icons, Bellweather placement, final fonts, motion/Stage successor, production tokens or native WinUI/XAML authority is created.
+No Product entity taxonomy, commit/save/validation/undo, Scene/Take/Rehearsal/consequence/Perspective/provider/Performer semantics, Bellweather placement, Stage successor, production tokens or native WinUI/XAML authority is created.
 
 ## Cross-lane truth
-Website `main@fdf4f87b939c54358125e36aa2b81f070fdd1e6f` remains a separate concurrent stream. Engineering `main@2bfb0c1c3e8cb79acafe72d6fb80692bc818a407` remains pre-Phase-D with E0-E blocked and adds no new Product semantics that alter APPUI.
+Website `main@fdf4f87b939c54358125e36aa2b81f070fdd1e6f` remains a separate app-UI-frozen stream. Engineering `main@2bfb0c1c3e8cb79acafe72d6fb80692bc818a407` remains pre-Phase-D with E0-E blocked and adds no new Product semantics that alter APPUI.
 
 ## Next
-Open `APPUI-COMP-04`: integrate the accepted selected-entity contextual + deep-inspection surface family into the COMP shell. Preserve semantic origin/return, current/history and provisional/effective distinctions; do not create Product taxonomy or Product-gated Stage controls.
+Open `APPUI-COMP-05`: integrate whole-Production Character management inside the COMP shell. Preserve explicit off-Scene state, Scene-membership non-implication, persistent Character identity and Character-versus-Performer separation; do not create a permanent People silo or Product-gated Stage controls.
