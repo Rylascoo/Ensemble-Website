@@ -6,7 +6,7 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 296
+Total Markdown documents: 297
 Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
@@ -84,7 +84,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/KYMAEAN_PRODUCT_EXPERIENCE_MODEL_DECISION_PROPOSAL_01.md`
 - `docs/RENDERER_CARTOGRAPHY_PROTOCOL.md`
 
-## HISTORICAL EVIDENCE (231)
+## HISTORICAL EVIDENCE (232)
 
 - `docs/HANDOFF_DUR_01_INTEGRATED_IDENTITY_DURABILITY_2026_09_14.md`
 - `docs/HANDOFF_R0_TO_APP_WEBSITE_DESIGN_SYNTHESIS_01.md`
@@ -252,6 +252,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/R0_VISUAL_RESEARCH_FINAL_SYNTHESIS_01.md`
 - `docs/RENDERER_ISOLATION_CHECKPOINT_RI_AL.md`
 - `docs/evidence/APPUI_01_FRESH_CHAT_HANDOFF_2026_09_15.md`
+- `docs/evidence/APPUI_01_FRESH_CHAT_HANDOFF_2026_09_16.md`
 - `docs/evidence/HERO_ARTWORK_BRIEF_01_ARCHIVE_INDEX.md`
 - `docs/evidence/HERO_ARTWORK_BRIEF_01_RECURSIVE_AUDIT.md`
 - `docs/evidence/HERO_ARTWORK_BRIEF_01_SOURCE_SYNTHESIS.md`

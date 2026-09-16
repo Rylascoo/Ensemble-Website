@@ -3610,3 +3610,17 @@ No APPUI-FICON-01 family winner, bespoke domain icon, production token, native i
 **Next boundary:** successor Design Sol fresh-resolves repository authority, verifies the frozen bytes, then performs subjective falsification on the exact archived normal-color wide and narrow APPUI-FICON-01 evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN CONTINUITY HANDOFF.**
+
+## L-232 - 2026-09-16 fresh-chat continuity refresh preserves APPUI-FICON-01 subjective-review boundary
+
+**State:** FRESH-CHAT HANDOFF REFRESH / CROSS-LANE REFS UPDATED / APPUI-FICON-01 SUBJECTIVE REVIEW STILL NEXT
+
+`docs/evidence/APPUI_01_FRESH_CHAT_HANDOFF_2026_09_16.md` supersedes the 9/15 handoff only as the newest continuity pointer; the older handoff remains historical evidence.
+
+Final reconciliation before handoff records Website `main@19780dd80a59ec87d7a6586e3dda99bbf0318f67` and Engineering `main@4d717a5a4d16c410efd443c2eb392c97c3eb2efc`. Neither changes APPUI visual authority: Website remains a concurrent production/mascot lane, while Engineering remains E0-D ACTIVE/HOLD with E0-E blocked and no new Phase-D Product semantics.
+
+APPUI-FICON-01 remains exactly at the L-230 boundary. Method/preflight/carrier/probe/Drive artifacts are unchanged; no subjective family result, candidate retune, bespoke domain icon, Product semantic, production token, native implementation, Stage change, website palette or shared-brand-final authority is created.
+
+**Next boundary:** successor Design Sol fresh-resolves live authority, verifies the frozen APPUI-FICON-01 hashes, then performs subjective falsification only on the exact archived normal-color wide+narrow evidence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN CONTINUITY REFRESH.**
