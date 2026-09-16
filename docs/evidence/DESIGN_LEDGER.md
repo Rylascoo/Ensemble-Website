@@ -3468,3 +3468,17 @@ D3 survives this ninth representative section but remains provisional. No final 
 **Next boundary:** evaluate selected Light F2 + exact provisional D3 on Empty / Unavailable / Transitional Workspace states without allowing theme or accent to impersonate lifecycle, provider, loading or fictional semantics.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-223 - Empty / Unavailable / Transitional F2 + provisional D3 integration method freezes before exposure
+
+**State:** PHASE-3 EMPTY/UNAVAILABLE/TRANSITIONAL INTEGRATION METHOD FROZEN / PRE-EXPOSURE / D3 STILL PROVISIONAL
+
+`docs/evidence/APPUI_01_PHASE_3_EMPTY_UNAVAILABLE_TRANSITIONAL_F2_D3_INTEGRATION_METHOD_01.json` freezes the next representative-section test against the accepted state-truth carrier. Selected Light F2 and exact provisional D3 remain fixed inputs; no post-exposure color retune is allowed.
+
+The study keeps the matched empty-state app pair and requires matched Light/D3 witnesses for all five resolved state families: empty, loading/transitional, capability unavailable, failed/cancelled, and provisional/non-effective. Theme may not become lifecycle, provider, error, severity, progress, effective-state or fictional meaning.
+
+D3 fails locally if darkness itself reads as failure/unavailability/deletion/fictional consequence, if Light reads as more current/effective merely by brightness, or if teal becomes provider/success/recovery/progress semantics.
+
+**Next boundary:** materialize the matched Light/D3 state grammar, run the seven-condition responsive/accessibility matrix, and recursively audit application-truth versus fiction boundaries before preservation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - PRE-EXPOSURE METHOD FREEZE.**
