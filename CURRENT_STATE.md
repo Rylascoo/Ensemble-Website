@@ -13,7 +13,7 @@ Website Placeholder V2.2 remains live and verified on `www.kymaean.com`; current
 ## Website Sol mascot-integration program
 L-188 opens Bellweather website exploration. L-190 closes A1-A4 PRESENCE placement: A4 delayed reveal is the preferred opening grammar and A3 is its static carrier; A1 is the restrained control; A2 remains pose-limited.
 
-The deterministic PERSON-state study is complete under L-191. Drive folder `04 Deterministic PERSON-State Encounter — 2026-09-16` (`1C8LsdBoivs3oQyWUXlAhqPqy7tHT6hpT`) preserves the exact comparison and responsive evidence.
+The deterministic PERSON-state study is complete under L-191. Drive folder `04 Deterministic PERSON-State Encounter — 2026-09-16` (`1C8LsdBoivs3oQyWUXlAhqPqy7tHT6hpT`) preserves the exact comparison and responsive evidence; synthesis document `15aSQkjUr0pcz4lM4pf3SPpkPf4UYSF61NpKPf8nI0NU` records the clean recursive audit.
 
 Result: P2 is the selected non-production PERSON carrier. On wide it uses the Director-favorite three-quarter-back relationship at 79svh/right 8.5vw with controlled bottom crop; portrait reduces to 53svh/right 1vw. P1 is too close to PRESENCE; P3 becomes editorial/mascot-poster dominant. Wide 2048x1199, mini-wide 1235x647 and tall 1138x1354 show no brand-lockup overlap and zero horizontal overflow after the tall inset correction. The derived cutout is placement evidence only; Bellweather authority remains L-187/L-189 and approved turnaround references.
 
