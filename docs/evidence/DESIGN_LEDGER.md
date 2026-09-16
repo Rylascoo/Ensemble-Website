@@ -2760,3 +2760,30 @@ Canonical hosted audit: `docs/evidence/WEBSITE_V2_2_VIEWPORT_CENTERED_SUCCESSOR_
 **Next boundary:** commit/push hosted-evidence continuity, require exact-head workflows and Cloudflare readback for that continuity head, then mark PR #75 ready and merge with an exact-head guard if no contrary signal appears; verify production immediately after merge.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN EXACT HOSTED RECURSIVE AUDIT.**
+
+## L-177 - Bellweather full-render set is frozen as the Kymaean mascot / brand ambassador
+
+**State:** DIRECTOR MASCOT PROMOTION / SIX-IMAGE FULL-RENDER SET FROZEN / FAVORITES 1-3-5-6 / DRIVE + REGISTRY RECONCILED / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
+
+The Director explicitly promoted the Bellweather woman from Production-specific signature Character to the approved **Kymaean mascot / brand ambassador** and instructed that all six full-render images be frozen as the mascot. The earlier L-173 concept master remains canonical lineage evidence and is not overwritten. This decision supersedes only L-173's role-label limitation: Bellweather is now the project mascot, while still not becoming a mandatory literal Character inside every user Production or a universal face/costume template for user-created Characters.
+
+The predecessor Character Identity Stress Test board is archived in canonical Drive folder `04 Successor Identity Stress Test — 2026-09-15` (`1ymxF5pSug2hnormz9T_dWNFwkJaKoyIs`) as `Bellweather Character Identity Stress Test — Successor Board — 2026-09-15.png`, Drive file `1JY-Y5wsSpdS7cwcivV7_wZFeR-fIJsyj`, 2,434,903 bytes, source SHA-256 `65811e3068f76ecb87d384cf26e4dd9fe7926092803121175a781a055d2ef983`.
+
+The canonical frozen mascot render set is `Ensemble Project / 03 Visual Identity & Artwork / Kymaean / 23 Mascot & Signature Character Exploration — Bellweather Master — 2026-09-15 / 05 Frozen Full Render Mascot Set — 2026-09-15` (folder `1AtIshuUypkSNOvvgFNwDApkre_ArZFa6`). All six images are frozen mascot assets; Director favorites 1, 3, 5 and 6 are the lead visual references:
+
+1. **FAVORITE — Ballroom Formal Evening** — Drive `1NVEYwRF_drTB3z8_CtSfBWTmIhCSTsE0` — 2,284,882 bytes — SHA-256 `0fbce755e594b131bf0b330e3b88aa8f7e602cd0258e8f4e7b3bbadc870b4baa`.
+2. **Daytime Hotel** — Drive `1nFPxQ7q6LyO6Nt6S33uX1sgj_07MIUfX` — 2,325,612 bytes — SHA-256 `199fc6f8bf01871c1fe3ab25e133420809a489d5df64e19bc4081fef6410c726`.
+3. **FAVORITE — Private Room Letter** — Drive `1DtE9sXnDGZC1rb-Qowmb8syTLucsXF_i` — 2,093,011 bytes — SHA-256 `ad540b60c9d489a67d20f2bd4d0380eaccfa4c3cc8a92bc40fa33bc1517c3e18`.
+4. **Arrival / Travel** — Drive `1w-Cwo3fUFidsqDfqdIuZFs29sTrc8qXz` — 2,316,490 bytes — SHA-256 `b10cd8aff3eda1253877f431818c6a7153bb8647fe614b48114f8c297804fd53`.
+5. **FAVORITE — Late Night Lounge** — Drive `1zmi_Lf9ZNcj0vj0fQ1-UafGXGh9PE0YH` — 2,107,716 bytes — SHA-256 `50c4b67ff7b36a1dfba68887057ddf0aee1d1aae1257e6272b11513d524cd11c`.
+6. **FAVORITE — Later in Production / Red Coat** — Drive `1nNF5vwePx9l4p2gReoaomf7yX6wu-P57` — 2,063,474 bytes — SHA-256 `107583656df94a7e51d91f6c81ff6811665a8384a80b5543f04abe8c5f75ae3f`.
+
+The approved set establishes that mascot identity survives formal evening, daytime, private, travel, late-night and later-history contexts. Strong recurring carriers are the recognizable facial construction, eye/brow relationship, hair mass with face-framing strands, posture, and controlled/observant presence. The black-and-metallic ballroom look is the iconic formal reference but not the only canonical mascot condition. Clothing, pearls, gloves, jeweled ornament, hats, luggage, letters, Room 217 artifacts, exact makeup, exact hair arrangement and lighting remain contextual presentation rather than deep identity. The red coat is not a semantic code for consequence or Character change.
+
+Drive continuity was reconciled in the same closure: `Bellweather Mascot / Signature Character — Frozen Master & Exploration Synthesis`, `Kymaean Character & Image Direction — Pre-Candidate Director Intuition Synthesis 01`, `Kymaean Visual Continuity Constitution`, and `Kymaean Visual Exploration Registry & Critique Ledger` now record the promotion, six-image freeze, lead favorites, asset IDs and interpretation boundary.
+
+This decision changes no live website pixels, Stage artwork, website identity geometry, app UI, `PKT-STAGE-CORE-02`, `APP-SYN-01`, product/runtime semantics, engineering authority, or universal Character-representation law. Future successor imagery may improve 1927 historical specificity, ordinary-life range, relationship continuity and ensemble causality while preserving every frozen mascot image unchanged.
+
+**Next boundary:** no mascot implementation action is authorized by this freeze. Preserve the frozen set and use it as visual lineage/brand reference; active website work remains post-PR #75 production verification and source-branch closeout.
+
+**DIRECTOR DECISION — BELLWEATHER IS THE KYMAEAN MASCOT / BRAND AMBASSADOR; FULL RENDER SET 01 FROZEN; LEAD FAVORITES 1/3/5/6.**
