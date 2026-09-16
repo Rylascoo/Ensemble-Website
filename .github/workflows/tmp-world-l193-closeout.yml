@@ -1,0 +1,40 @@
+name: Temporary WORLD L193 Closeout
+
+on:
+  push:
+    branches:
+      - site/v2-2-world-deterministic-closeout-2026-09-16
+    paths:
+      - .github/workflows/tmp-world-l193-closeout.yml
+
+permissions:
+  contents: write
+
+jobs:
+  append-ledger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: site/v2-2-world-deterministic-closeout-2026-09-16
+      - name: Append L-193 exactly once
+        env:
+          LEDGER_ENTRY_B64: "CgojIyBMLTE5MyDigJQgRGV0ZXJtaW5pc3RpYyBXT1JMRC1zdGF0ZSBzdHVkeSBzZWxlY3RzIHRyYWNlLWJlZm9yZS12aXNpYmxlLWxpZmUgc2VxdWVuY2UKCioqU3RhdGU6KiogTk9OLVBST0RVQ1RJT04gREVURVJNSU5JU1RJQyBXT1JMRCBTVFVEWSBDT01QTEVURSAvIFcxIFRSQUNFIFNFTEVDVEVEIEFTIERFRkFVTFQgV09STEQgVFJBTlNJVElPTiAvIFcyIERJU1RBTlQgSU5ERVBFTkRFTlQgTElGRSBTRUxFQ1RFRCBBUyBMQVRFUiBDT05GSVJNQVRJT04gLyBURU1QT1JBTCBDSE9SRU9HUkFQSFkgTkVYVCAvIFBST0RVQ1RJT04gVU5DSEFOR0VECgpXZWJzaXRlIFNvbCBjb21wbGV0ZWQgdGhlIGV4YWN0IFcwL1cxL1cyIHJlY29uc3RydWN0aW9uIHJlcXVpcmVkIGJ5IEwtMTkyLiBXMCB1c2VzIGJ5dGUtaWRlbnRpY2FsIGNvcGllcyBvZiB0aGUgc2VsZWN0ZWQgUDIgUEVSU09OIGNvbnRyb2xzIGF0IHdpZGUgMjA0OMOXMTE5OSwgbWluaS13aWRlIDEyMzXDlzY0NyBhbmQgdGFsbCAxMTM4w5cxMzU0LiBUaGUgZnJvemVuIFN0YWdlLCBjdXJyZW50IEtZTcOGQU4gbG9ja3VwIGFuZCBQMiBCZWxsd2VhdGhlciBjYXJyaWVyIHJlbWFpbiBjb25zdGFudDsgV09STEQgZXZpZGVuY2UgaXMgaXNvbGF0ZWQgdG8gYSBzZXBhcmF0ZSBkZXRlcm1pbmlzdGljIG92ZXJsYXkgbGF5ZXIuCgpXMSBpbnRyb2R1Y2VzIG9uZSBzdWJkdWVkIGVudmlyb25tZW50YWwgdHJhY2Ugd2l0aCBubyBzZWNvbmQgdmlzaWJsZSBwZXJzb24uIFcyIGludHJvZHVjZXMgb25lIG1hdGVyaWFsbHkgc21hbGxlciwgZGlzdGFudCBpbmRlcGVuZGVudCBhZHVsdCB3aG9zZSB0cmFqZWN0b3J5IGlzIHVucmVsYXRlZCB0byBCZWxsd2VhdGhlciBvciB0aGUgdmlld2VyLiBSZWN1cnNpdmUgYXVkaXQgY29ycmVjdGVkIGFuIGluaXRpYWxseSBncmFwaGljL3Byb3AtbGlrZSBXMSwgYW4gaW5pdGlhbGx5IGljb24tbGlrZSBXMiwgYW5kIGFuIG92ZXItaGlkZGVuIFcxIHBsYWNlbWVudC4gVGhlIGZpbmFsIHZhcmlhbnRzIHJlbWFpbiBmdWxseSBjb250YWluZWQgYW5kIGRvIG5vdCBpbnRlcnNlY3QgdGhlIGN1cnJlbnQgaWRlbnRpdHkgbG9ja3VwIGluIGFueSB0YXJnZXQgdmlld3BvcnQuCgpSZXN1bHQ6IFcxIGlzIHRoZSBwcmVmZXJyZWQgbXlzdGVyeS1wcmVzZXJ2aW5nIFdPUkxEIHRyYW5zaXRpb247IFcyIGlzIHRoZSBwcmVmZXJyZWQgZXhwbGljaXQgY29uZmlybWF0aW9uIHRoYXQgYW5vdGhlciBpbmRlcGVuZGVudCBsaWZlIGV4aXN0cy4gVzMvbXVsdGlwbGUtcGVyc29uIHJlbGF0aW9uc2hpcCByZW1haW5zIGFuIHVwcGVyLWJvdW5kIGxhdGVyLXN0b3J5IHN0YXRlLCBub3QgdGhlIGRlZmF1bHQuIFRoZSBicm9hZGVyIGNyb3dkZWQgc29jaWFsIGV4ZWN1dGlvbiByZW1haW5zIHJlamVjdGVkIGFzIHRvbyBsaXRlcmFsIGFuZCB0b28gbGlrZWx5IHRvIG1ha2UgQmVsbHdlYXRoZXIncyAxOTIwcyBQcm9kdWN0aW9uIHJlYWQgYXMgdW5pdmVyc2FsIEtZTcOGQU4gaWRlbnRpdHkuCgpOYXJyYXRpdmUgZ3JhbW1hciByZW1haW5zIGBQTEFDRSAtPiBQUkVTRU5DRSAtPiBQRVJTT04gLT4gVFJBQ0UgLT4gT1RIRVIgTElGRSAtPiBSRUxBVElPTlNISVBgLiBUaGUgZGVjaXNpdmUgV09STEQgZGlzdGluY3Rpb24gaXMgbm90IOKAnG1vcmUgcGVvcGxl4oCdOyBpdCBpcyBldmlkZW5jZSB0aGF0IGxpdmVzIGNvbnRpbnVlIGJleW9uZCBCZWxsd2VhdGhlci4KCkNhbm9uaWNhbCBEcml2ZSBldmlkZW5jZTogZm9sZGVyIGAwNSBEZXRlcm1pbmlzdGljIFdPUkxELVN0YXRlIE1pbmltYWwgRXZpZGVuY2Ug4oCUIDIwMjYtMDktMTZgIChgMTJDMEExT1BYbWFZemlTc2VhQkpSb3dFS1Z0WWhnOEFqYCk7IHN5bnRoZXNpcyBkb2N1bWVudCBgMXFIa0RIaERuRmNZZUtvUzVsVWpkR05kR01sVXBPNXktbFY0OHp0Z295STBgOyBkZXRlcm1pbmlzdGljIHByb3RvdHlwZSBzb3VyY2UgYDE3NXQ3Z3dxSG1CdU10ejBjYVhwOWNQQ2pKeW1Zem12QWAuCgoqKkV4YWN0IG5leHQgYWN0aW9uOioqIGJ1aWxkIG9uZSBpc29sYXRlZCBub24tcHJvZHVjdGlvbiB0ZW1wb3JhbCBjaG9yZW9ncmFwaHkgcHJvdG90eXBlIHVzaW5nIHRoZSBhbHJlYWR5IHNlbGVjdGVkIGNhcnJpZXJzIGluIHNlcXVlbmNlOiBBNCBkZWxheWVkIFBSRVNFTkNFIC0+IFAyIFBFUlNPTiAtPiBXMSBUUkFDRSAtPiBXMiBPVEhFUiBMSUZFLiBUZXN0IHRyYW5zaXRpb24gdGltaW5nLCBCZWxsd2VhdGhlciBwZXJzaXN0ZW5jZS9hYnNlbmNlIGFuZCB3aGV0aGVyIGVhY2ggc3RhdGUgZmVlbHMgZGlzY292ZXJlZCByYXRoZXIgdGhhbiBwcmVzZW50ZWQuIFN0b3AgYmVmb3JlIHByb2R1Y3Rpb24gcHJvbW90aW9uLgoKTm8gYHNpdGUvcHVibGljLyoqYCwgcHJvZHVjdGlvbiBTdGFnZSwgcHJvZHVjdGlvbiBsZXR0ZXJpbmcsIGFwcCBVSSwgcHJvZHVjdCBzZW1hbnRpY3MsIHVuaXZlcnNhbCBDaGFyYWN0ZXIgcmVwcmVzZW50YXRpb24gb3IgQmVsbHdlYXRoZXItc3BlY2lmaWMgdW5pdmVyc2FsIFVJIGxhdyBjaGFuZ2VkLgo="
+        run: |
+          if ! grep -q '^## L-193 ' docs/evidence/DESIGN_LEDGER.md; then
+            printf '%s' "$LEDGER_ENTRY_B64" | base64 -d >> docs/evidence/DESIGN_LEDGER.md
+          fi
+      - name: Validate repository guards
+        run: |
+          python tools/validate_document_status.py
+          python tools/validate_repository_boundaries.py
+          python tools/generate_docs_index.py --check
+      - name: Commit ledger append
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if ! git diff --quiet; then
+            git add docs/evidence/DESIGN_LEDGER.md
+            git commit -m 'Website: record deterministic WORLD-state result'
+            git push
+          fi
