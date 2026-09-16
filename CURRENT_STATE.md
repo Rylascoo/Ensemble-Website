@@ -7,7 +7,7 @@ Updated: 2026-09-16
 `Rylascoo/Ensemble-Website` is Design/UI/website authority. `Rylascoo/Ensemble-Project` is read-only Product/Engineering input. Recover live refs and `AGENTS.md` before using this file.
 
 ## Active stream
-APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; Website publication remains separate. Website `main@882ec317659024c977799ad56fe643950478520b` adds Bellweather evidence only; no app/APPUI authority.
+APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; Website publication remains separate. Website `main@2ea43f7c811438218f2553d9e92a4d3ee1466c0c` closes Threshold K apparent-size parity website production only; no app/APPUI authority.
 
 ## Frozen architecture and static visual system
 **Phase 1 architecture/layout is FROZEN PASS. Phase 2 static Stage/live-production coverage is CLOSED PASS.** Dynamic/transcript-dependent and Product-gated Stage work remains held/open.
