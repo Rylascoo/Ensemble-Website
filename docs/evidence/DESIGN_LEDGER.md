@@ -2936,3 +2936,18 @@ Production remains unchanged until the continuity-only hosted-audit head is vali
 **Next boundary:** commit/push hosted-audit continuity, require exact-head repository checks and Cloudflare deployment readback for the continuity head, then mark PR #85 ready and merge only if no contrary signal appears.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN EXACT HOSTED RECURSIVE AUDIT.**
+
+
+## L-185 - Bellweather vision synthesis and natural-expression rule are accepted; front-facing identity stress test opens
+
+**State:** ACCEPTED EXPLORATION / FIVE DRIVE ASSETS ARCHIVED / RESTRAINED-EXPRESSION TARGET / FRONT-FACING SUCCESSOR AUTHORIZED / NO APP OR WEBSITE IMPLEMENTATION AUTHORITY
+
+The Director accepted the mascot-vision synthesis and natural-expression direction and requested durable Drive/GitHub preservation before further specific-design exploration. Drive root `05 Mascot Vision Synthesis & Natural Expression — Accepted Exploration — 2026-09-16` (`1P5b2ivv6G8v53vSMxrCQqe40Wf7aLO7_`) contains the vision synthesis board `18lekq4cZRkxtK6M6N97bppkfi5a3LhI-` and natural-expression studies `1--HVmIqYimiMYIqiGHUBfqNFvahaI7FK`, `1TPfOCsMOUbJ76kviePlbuLict69KQztg`, `1NQOzr9Vs5y8xGMTH_lnUhO2yR9DVmIdK`, and `1bAHdA8Znp0GjnxlUVvKRJhFMVdlR8Ook`. Exact residency and interpretation are in `docs/evidence/BELLWEATHER_VISION_SYNTHESIS_AND_NATURAL_EXPRESSION_01.md`.
+
+The accepted Bellweather expression target is restrained but legible: prefer closed-mouth, softly asymmetrical, or subtly parted-lip expressions. Broad visible-teeth smiles currently read less natural and are not the target. Emotion should be carried primarily through eyes, brows, gaze, posture, and fine mouth tension. This is mascot-specific direction, not universal Character-expression law.
+
+The successor study is explicitly front-facing: direct frontal face, shoulders-square upper body, seated frontal, standing frontal, and restrained 10–20 degree head turns while tightening facial geometry and reducing dependence on jeweled ornament, pearls and gloves. Preserve clearly adult identity and the frozen mascot masters.
+
+No live website bytes, Stage art, website identity geometry, app UI, product semantics, or universal Character-representation law changed.
+
+**DIRECTOR SIGNAL PRESERVED — NATURAL EXPRESSION TARGET ACCEPTED; FRONT-FACING SPECIFIC-DESIGN STUDY AUTHORIZED.**
