@@ -2877,3 +2877,62 @@ The next design exploration should remove/vary ornament and pearls, test gloves 
 No live website bytes, Stage art, identity geometry, app UI, product semantics, or universal Character-representation law changed.
 
 **DIRECTOR SIGNAL PRESERVED — MOTION/VISION STUDIES ACCEPTED; NEXT SUCCESSOR BOUNDARY RECORDED.**
+
+## L-182 - Website apparent-size parity study prefers a 1.03× Threshold K presentation scale
+
+**State:** NON-PRODUCTION DETERMINISTIC STUDY / B 1.03× PREFERRED / DIRECTOR CONFIRMATION NEXT / PRODUCTION UNCHANGED
+
+The Director's L-178 future website-lettering preference is activated as a bounded deterministic study. Current production is retained as control and the exact historical Threshold K paths remain untouched.
+
+Three intact-group presentation scales were compared over the exact frozen V2.2 Stage and current B optical-spacing lockup at 2048×1199, 1235×647 and 1138×1354: A = current `1.00×`; B = `1.03×`; C = `1.05×`. B and C keep the K bottom and horizontal center anchored to the current K, so only apparent scale changes.
+
+Measured control K is already about 1.6% taller than Y mathematically but materially narrower. The question is therefore optical presence rather than literal cap height. B raises K rendered height to about 4.6% above Y and gives it sufficient apparent parity without changing its drawing; C reaches about 6.7% above Y and begins to lead through size.
+
+Visual inspection across all three browser shapes prefers B. A remains valid but slightly emblem-like beside `YMÆAN`; B joins the wordmark more convincingly while preserving Threshold K identity and baseline stability; C becomes perceptibly over-tall. No finer scale bracket is materially justified before Director review.
+
+Canonical study: `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_STUDY_01.md`. Prototype: `prototypes/website-v2-2-letter-size-parity-study/index.html`.
+
+No `site/public/**`, social card, favicon, app/UI, Stage, publication, analytics or shared-brand authority changes.
+
+**Next boundary:** Director confirms or rejects B `1.03×`; only after confirmation may Website Sol build a production-shaped candidate and re-run the full local/hosted production gate.
+## L-183 - Director confirms 1.03× Threshold K parity; production-shaped candidate passes local audit
+
+**State:** DIRECTOR CONFIRMED / LOCAL PRODUCTION-SHAPED PASS / HOSTED PREVIEW NEXT / PRODUCTION UNCHANGED
+
+The Director confirmed L-182 candidate B: preserve the exact historical Threshold K paths but present the intact K group at `1.03×`, bottom anchored and horizontally center anchored to the previous production K.
+
+Website Sol materialized the exact SVG transform `translate(22.92783 8.89104) scale(.43054)` while preserving O3 `YMÆAN`, B optical spacing (`Æ -3`, `A -3`, `N -4`), viewport centering, vertical rhythm, frozen Stage, responsive crop law, copy, accessibility and no-analytics behavior.
+
+The social card is regenerated deterministically from the same candidate at 1200×630 so the secondary public surface does not lag the accepted identity. V5 is 92,344 bytes / SHA-256 `36faecf3022c269f40eb10364f26c0f40b350eedd4d27f1ec92b08de0b5b04a6`; social-image cache metadata advances from `v=4` to `v=5`. Frozen Stage bytes remain unchanged at SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
+
+Dedicated local Edge/CDP passes 2048×1199, 1235×647, 1138×1354, 1227×1422, 768×1024, 600×900, 599×900, 390×844 and 320×640 with zero horizontal overflow, exact 50% viewport centering and contained identity/status. The 320×640 200% text proxy, reduced motion and forced colors also pass.
+
+Visual review confirms the +3% K correction survives the production-shaped page: wide remains restrained, mini-wide gains the clearest parity improvement, tall preserves quiet viewport ownership and portrait/mobile remains uncrowded. No further scale, path, spacing, hierarchy, Stage/crop or generative refinement is justified locally.
+
+Canonical local audit: `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_LOCAL_AUDIT_01.md`.
+
+Production `www.kymaean.com` remains unchanged until the exact candidate passes hosted verification and guarded promotion.
+
+**Next boundary:** commit/push this exact candidate plus continuity, require exact-head repository workflows and exact Cloudflare preview byte/header/no-analytics/browser verification, then promote only if the hosted recursive audit remains clean.
+
+**DIRECTOR SIGNAL PRESERVED — B 1.03× CONFIRMED; LOCAL PRODUCTION CANDIDATE PASS.**
+
+## L-184 - Director-confirmed Threshold K parity candidate passes exact hosted audit
+
+**State:** EXACT HOSTED PASS / DIRECTOR-CONFIRMED B / PRODUCTION UNCHANGED / GUARDED MERGE NEXT
+
+Candidate head `0a8513d80ed4cfb348f71a24e4a8f9d119b27ad6` passed exact-head `Repository publication boundaries` run #924 and `Document status structure` run #702. Cloudflare Workers build `d5ddc24f-40f3-48fb-a98d-ebd9eaec6283` succeeded and exposed exact commit preview `https://4b9d1fc5-kymaean-site.wirylasc.workers.dev`.
+
+All nine hosted public assets match the exact Git blobs byte-for-byte. The frozen Stage remains SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`; V5 social card remains 92,344 bytes / SHA-256 `36faecf3022c269f40eb10364f26c0f40b350eedd4d27f1ec92b08de0b5b04a6`. Hosted responses preserve `Cache-Control: public, max-age=0, must-revalidate, no-transform`, preview `X-Robots-Tag: noindex`, and no analytics injection.
+
+Hosted Edge/CDP passes the nine-shape responsive matrix from 2048×1199 through 320×640, plus 200% text, reduced motion and forced colors. Exact viewport centering, Stage dimensions and containment all hold.
+
+Visual inspection remains clean: wide stays restrained, mini-wide shows the clearest apparent-size parity gain, tall preserves quiet viewport ownership, and portrait/mobile remain uncrowded. No additional scale, K path, spacing, hierarchy, Stage/crop, copy or generative refinement is justified.
+
+Canonical hosted audit: `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_HOSTED_AUDIT_01.md`.
+
+Production remains unchanged until the continuity-only hosted-audit head is validated and PR #85 is promoted with an exact-head guard.
+
+**Next boundary:** commit/push hosted-audit continuity, require exact-head repository checks and Cloudflare deployment readback for the continuity head, then mark PR #85 ready and merge only if no contrary signal appears.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN EXACT HOSTED RECURSIVE AUDIT.**
