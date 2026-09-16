@@ -3761,3 +3761,25 @@ Off-Scene remains fully active persistent-Character context rather than disabled
 **Next boundary:** open `APPUI-COMP-06` for causal/history inspection inside the COMP shell, preserving current-versus-historical distinction, semantic origin and exact return without creating a permanent Archive/History mode.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-240 - APPUI-COMP-06 closes causal/history inspection as contextual task depth from current meaning
+
+**State:** REAL CAUSAL/HISTORY INSPECTION PASS / PKT-COMP-06-01 ACTIVE / TRUTH-KNOWLEDGE-DISCLOSURE INTEGRATION NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_CAUSAL_HISTORY_INSPECTION_INTEGRATION_METHOD_01.json` froze the bounded successor after COMP-05. The carrier `prototypes/appui-01/component-system-causal-history-inspection-integration-01.html` derives its Scene-12 second-ledger question and Scene-10 promise witness from the accepted causal/history studies rather than inventing new temporal or Product semantics.
+
+The real-shell flow preserves one current unresolved question as semantic origin, exposes an adjacent prior witness as explicitly Historical, permits independent keyboard focus on that historical witness without moving current-question selection, and opens exclusive deeper causal-history depth only from that bounded current question. Every prior witness remains dashed/labeled Historical; the current question remains explicitly Current.
+
+The first matrix found only a 320px / 200%-text footnote overflow caused by a slash-delimited non-authority phrase. Overflow wrapping was added to that footnote only. No causal meaning, disclosure boundary, color role, selection grammar or frozen visual mechanism changed. The complete matrix then reran cleanly.
+
+Final current and deep-history states pass 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero page/internal overflow, zero missing button names, zero undersized icon-only controls, independent solid 2px focus with 2px offset, contextual history availability, two-theme exclusive deep activation, four explicit deep historical witnesses, two explicit current cards, exact Back/Close focus return and preserved current-question selection.
+
+The visual audit remains clean: current meaning is primary; darkness never means history; dashed structure/text carries historical status; narrow order remains current question -> historical cause -> deeper history; and Home / Productions / Settings stay the only durable navigation. No permanent Archive/History destination is created.
+
+Final race reconciliation records Website `main@8b375780cdbdcb6e21940b6cf5db7c4badf21b19`, whose only new integration is Website Sol's Bellweather PERSON-state closeout and whose live `CURRENT_STATE.md` explicitly freezes app UI. Engineering remains `main@2bfb0c1c3e8cb79acafe72d6fb80692bc818a407`. Neither contradicts COMP-06; the concurrent streams remain deliberately unmerged.
+
+No consequence review, replay, rollback, branching, exhaustive causal graph/inference engine, final epistemic/provenance schema, Stage successor, production token or native WinUI/XAML authority is created.
+
+**Next boundary:** open `APPUI-COMP-07` for truth / knowledge / disclosure inspection inside the COMP shell, preserving source/provenance and creator-global versus Character-bounded disclosure without freezing a final epistemic data model.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

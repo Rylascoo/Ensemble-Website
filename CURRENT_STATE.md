@@ -11,13 +11,13 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 
 Phase-1 architecture/layout is FROZEN PASS; Phase-2 static Stage coverage is CLOSED PASS. Selected Light F2, Dark D3, MAT F1, TYP F1, STA F2, FICON F1 and invariant dark Stage remain unchanged.
 
-## APPUI-COMP-05 - CLOSED PASS
-`docs/evidence/APPUI_01_COMPONENT_SYSTEM_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_INTEGRATION_RESULT_01.json` and `PKT-COMP-05-01` validate whole-Production persistent Character management as temporary Production-scope depth above COMP-04. Mira may be locally selected while explicitly Off-Scene; Julian remains the stored Scene-12 selection; Niko may receive independent keyboard focus; selecting another persistent Character updates management detail without mutating Scene membership. Back/Close restore the current-situation management trigger and are not Undo. Seven-case context+management browser preflight passes.
+## APPUI-COMP-06 - CLOSED PASS
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_CAUSAL_HISTORY_INSPECTION_INTEGRATION_RESULT_01.json` and `PKT-COMP-06-01` validate current-question -> adjacent historical cause -> exclusive deep-history -> exact return inside the real COMP shell. Scene 12 and the second-ledger question remain current origin; the Scene-10 promise witness and deeper causes remain structurally/labeled Historical. Historical focus is independent from current selection. Back/Close restores trigger focus and is not Undo/replay/rollback. Seven-case current+deep browser preflight passes.
 
-No Scene add/remove/participation, casting/Performer/provider mechanics, Character lifecycle/duplicate/merge/delete/archive semantics, final Character schema, Product commit/save/undo contract, Bellweather placement, Stage successor, production tokens or native WinUI/XAML authority is created.
+No permanent Archive/History mode, consequence/replay/rollback/branching mechanics, exhaustive causal model, final epistemic/provenance schema, Bellweather placement, Stage successor, production tokens or native WinUI/XAML authority is created.
 
 ## Cross-lane truth
-Website `main@fdf4f87b939c54358125e36aa2b81f070fdd1e6f` remains a separate app-UI-frozen stream. Engineering `main@2bfb0c1c3e8cb79acafe72d6fb80692bc818a407` adds no Product semantics that alter this Character-management boundary.
+Website `main@8b375780cdbdcb6e21940b6cf5db7c4badf21b19` contains Website Sol's Bellweather PERSON-state closeout and explicitly freezes app UI. Engineering `main@2bfb0c1c3e8cb79acafe72d6fb80692bc818a407` adds no new Product semantics that alter APPUI. Streams remain deliberately unmerged.
 
 ## Next
-Open `APPUI-COMP-06`: integrate causal/history inspection inside the COMP shell. Preserve explicit current-versus-historical status, semantic origin, bounded disclosure and exact return; do not create a permanent Archive/History mode or Product-gated consequence/rollback mechanics.
+Open `APPUI-COMP-07`: integrate truth / knowledge / disclosure inspection inside the COMP shell. Preserve source/provenance and creator-global versus Character-bounded disclosure; do not freeze a final epistemic data model or use color to encode truth/disclosure state.
