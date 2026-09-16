@@ -8,7 +8,7 @@ Updated: 2026-09-15
 Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Production
-Website Placeholder V2.2 is live on `www.kymaean.com`. Repository `main` is `842f7f631ef9a5ca87ce9342217910c6036cab1b`; the public site bytes remain the verified PR #71 tall-browser correction payload. Frozen Stage artwork, three-presence order, `Coming Soon`, social card, accessibility behavior and no-analytics boundary remain unchanged.
+Website Placeholder V2.2 is live on `www.kymaean.com`. Repository `main` is `10434eb5eb79793055d002e8742b288fb5268e12`; the public site bytes remain the verified PR #71 tall-browser correction payload. Frozen Stage artwork, three-presence order, `Coming Soon`, social card, accessibility behavior and no-analytics boundary remain unchanged.
 
 The live responsive crop law is still `docs/KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md`, including the continuous tall-browser portrait correction. Production remains stable while identity refinement is explored off-production.
 
@@ -20,6 +20,9 @@ Latest Director decision: the `KYMÆAN` + `COMING SOON` lockup should be centere
 Lettering remains unresolved. Preserve the exact historical Threshold K geometry and use O3 `YMÆAN` as the deterministic starting point. Reject generated replacement typography and ad-hoc per-letter drift. Next comparison is: A = O3 reset; B = geometry-preserving optical spacing; C = B plus minimal optical stroke-hierarchy refinement. Compare all three simultaneously at wide 2048x1199, mini-wide 1235x647 and tall-browser ~1138x1354.
 
 Vertical-rhythm direction survives: lower the identity modestly relative to the earlier live state and keep `COMING SOON` more closely associated with the wordmark, but judge vertical placement independently from horizontal centering.
+
+## Parallel visual evidence
+Director froze the Bellweather signature-Character master in Drive (`1nhpQQMbNVHhclBgr3jYRLe-T_x29Poun`); L-173 authorizes a separate identity stress test. It creates no implementation authority and does not replace the website-lettering next action.
 
 ## Frozen cross-lane boundary
 `PKT-STAGE-CORE-02` and `APP-SYN-01` remain untouched. This website refinement creates no app UI, cast-size, state, palette, color-semantic, interaction, shared-brand-final, or product authority.
