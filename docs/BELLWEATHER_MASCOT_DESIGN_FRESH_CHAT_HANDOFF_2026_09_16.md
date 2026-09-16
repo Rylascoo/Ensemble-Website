@@ -2,19 +2,19 @@
 
 # Bellweather Mascot Design — Fresh Chat Handoff — 2026-09-16
 
-Recover live `Rylascoo/Ensemble-Website` authority first. Read `AGENTS.md`, exact-ref `CURRENT_STATE.md`, `docs/evidence/DESIGN_LEDGER.md`, `docs/evidence/BELLWEATHER_FORMAL_GOWN_TURNAROUND_01.md`, `docs/evidence/BELLWEATHER_MOTION_AND_MASCOT_VISION_STUDIES_01.md`, and `docs/evidence/BELLWEATHER_VISION_SYNTHESIS_AND_NATURAL_EXPRESSION_01.md`. Do not use this handoff to override newer repository truth.
+Recover live `Rylascoo/Ensemble-Website` authority first. Read `AGENTS.md`, exact-ref `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, `docs/evidence/DESIGN_LEDGER.md`, and `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md`. Read older Bellweather evidence only as needed for lineage. Do not use this handoff to override newer repository truth.
 
 ## Durable visual state
-Bellweather remains the Kymaean mascot / brand ambassador under L-177. Frozen Full Render Mascot Set 01 remains intact; Director lead favorites remain 1/3/5/6. The approved formal-gown turnaround remains L-180 / Drive `1vw22muIpQA03tw50zFd8dZNg4918rNVf`.
+Bellweather remains the Kymaean mascot / brand ambassador under L-177. Frozen Full Render Mascot Set 01 and the approved formal-gown turnaround remain lineage authority. L-181 established Human / Persistent / Iconic Bellweather; L-185 preserved the natural-expression target.
 
-L-181 archives the motion/vision family and establishes **Human / Persistent / Iconic Bellweather**. L-185 adds the accepted mascot-vision synthesis plus natural-expression studies under Drive root `1P5b2ivv6G8v53vSMxrCQqe40Wf7aLO7_`; exact assets are in `BELLWEATHER_VISION_SYNTHESIS_AND_NATURAL_EXPRESSION_01.md`.
+L-187 promotes the refined front-facing set to the **foundational mascot reference for Kymaean app design branding**. Canonical Drive folder: `08 Foundational Mascot — Front-Facing Brand Reference — 2026-09-16` (`12NdR56obx71FGIcFhq9LXRl40HOhpTP0`). Exact assets: face `1np0tvFGk9qNp-QEGL9GCirqQJjtoK4QQ`, seated human/private `1R5YLPa0BG3gQkdMZ-4c_571HzT84WOan`, full-body silhouette/formal `1nDt7EdFHeq35DcavAlUopAQI47rf8WMx`, world/narrative `1fbbuzkTeWaDCW0XNWkwP_iqFMqt0TVAa`.
 
 ## Current design interpretation
-Bellweather is one persistent adult person, not a fashion mannequin. Deep identity precedes costume: facial construction, eye/brow relationship, brunette hair mass and loose framing strands, posture and observant presence. Ornament, pearls, gloves, clutch, exact bead geometry, slit, props and generated typography remain presentation variables.
+Bellweather is one clearly adult persistent human first and an iconic formal mascot second. Deep identity is facial construction, eye/brow relationship, freckles/natural skin, brunette hair mass and loose framing strands, posture, and restrained direct presence.
 
-Bellweather’s current target expression language is restrained but legible. Prefer closed-mouth, softly asymmetrical or subtly parted-lip expressions. Broad visible-teeth smiles currently read less natural and are not the target. Carry emotion through gaze, brows, posture and fine mouth tension.
+Natural expression is foundational: prefer closed-mouth, softly asymmetrical, or subtly parted-lip expressions. Broad visible-teeth smiles are not the current target. Formal black/warm-metal presentation is iconic but contextual; exact garment microgeometry, ornaments, pearls, gloves, clutch, props and generated typography are not mascot anatomy.
 
-## Exact next visual action
-Concentrate on front-facing and near-front identity stress tests: direct frontal face, shoulders-square upper body, seated frontal, standing frontal, and 10–20 degree head turns across restrained emotional states. Tighten facial geometry between images and reduce accessory dependence.
+## Exact next visual boundary
+Hold the four-image foundational set intact. Any successor frontal study should tighten facial geometry or vary restrained emotion one variable at a time against the primary face control. Do not silently replace the foundational set.
 
-Preserve clearly adult identity, frozen mascot masters, verified website production, Stage, app/UI/product boundaries and deterministic brand geometry.
+Preserve verified website production, Stage, app/UI/product authority boundaries, and the rule that Bellweather is not a universal literal face for every user-created Character or Production.

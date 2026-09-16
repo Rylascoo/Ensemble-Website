@@ -382,3 +382,17 @@ This file deliberately contains **no current design phase or next task**.
 When the project advances, update `CURRENT_STATE.md`, the central queue, Design Ledger, roadmap/evidence as required. Do not edit this constitution merely to keep pace with routine phase movement.
 
 Change this document only when a genuinely durable Design Sol role, visual-law, asset-authority, validation-boundary, or collaboration principle changes.
+
+## 18. Foundational Bellweather mascot continuity
+
+Bellweather is the foundational Kymaean mascot / brand-ambassador visual for app design branding. Canonical authority is `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md` plus its exact Drive assets.
+
+Future Bellweather work must preserve one clearly adult persistent human identity before costume: facial construction, eye/brow relationship, freckles/natural skin texture, brunette hair mass with loose framing strands, posture, and restrained direct presence.
+
+The primary frontal portrait is the face/identity control. The seated image is the human/private-state control. The full-body frontal image is the silhouette/formal control. The world-scale frontal image is the narrative/context control.
+
+Natural expression is part of Bellweather continuity: prefer closed-mouth, softly asymmetrical, or subtly parted-lip expressions; broad visible-teeth smiles are not the current target. Emotion should be carried principally by gaze, brows, posture, and fine mouth tension.
+
+The black sheer / warm-metal formal family is iconic presentation, not universal mascot anatomy. Generated bead microgeometry, slit placement, ornament, pearls, gloves, clutch, jewelry, props, typography and environments remain variable unless separately frozen.
+
+Mascot authority does not create universal Character-face law, app UI semantics, app implementation authority, or website-production authority.

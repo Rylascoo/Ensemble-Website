@@ -2970,3 +2970,19 @@ The candidate source branch was archived at `archive/site/v2-2-letter-size-parit
 **Next boundary:** hold verified website production stable until a new explicit Director objective or objective production defect reopens the lane.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN PRODUCTION CLOSEOUT.**
+
+## L-187 - Bellweather front-facing set is promoted to foundational Kymaean app-brand mascot authority
+
+**State:** FOUNDATIONAL MASCOT PROMOTED / FOUR EXACT DRIVE ASSETS FROZEN / APP-BRAND VISUAL AUTHORITY / NO APP UI OR WEBSITE IMPLEMENTATION AUTHORITY
+
+The Director explicitly promoted the refined front-facing Bellweather set to the foundational mascot reference for Kymaean app design branding. Canonical Drive folder `08 Foundational Mascot — Front-Facing Brand Reference — 2026-09-16` (`12NdR56obx71FGIcFhq9LXRl40HOhpTP0`) contains four frozen references: primary frontal face `1np0tvFGk9qNp-QEGL9GCirqQJjtoK4QQ`, seated human/private control `1R5YLPa0BG3gQkdMZ-4c_571HzT84WOan`, full-body frontal silhouette/formal control `1nDt7EdFHeq35DcavAlUopAQI47rf8WMx`, and front-facing world/narrative control `1fbbuzkTeWaDCW0XNWkwP_iqFMqt0TVAa`.
+
+Foundational identity precedes costume: facial construction, eye/brow relationship, freckles/natural skin texture, brunette hair mass and loose framing strands, posture, and restrained direct presence. Natural expression is part of the mascot direction: prefer closed-mouth, softly asymmetrical, or subtly parted-lip expressions; broad visible-teeth smiles are not the current target.
+
+The exact images are foundational mascot visual authority, but generated bead microgeometry, slit placement, hair ornament, pearls, gloves, clutch, jewelry, props, typography and environmental details remain presentation variables unless separately frozen. Bellweather does not become the universal literal face of every user-created Character or Production.
+
+Canonical repository evidence: `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md`. `docs/DESIGN_CONTINUITY.md` and the Bellweather fresh-chat handoff carry the durable recovery rule.
+
+No live website bytes, Stage art, app UI layout/behavior, product semantics, or universal Character-representation law changed.
+
+**DIRECTOR SIGNAL PRESERVED — BELLWEATHER FRONT-FACING SET PROMOTED TO FOUNDATIONAL APP-BRAND MASCOT AUTHORITY.**
