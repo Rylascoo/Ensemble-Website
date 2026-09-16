@@ -2895,3 +2895,24 @@ Canonical study: `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_STUDY_01.md`. 
 No `site/public/**`, social card, favicon, app/UI, Stage, publication, analytics or shared-brand authority changes.
 
 **Next boundary:** Director confirms or rejects B `1.03×`; only after confirmation may Website Sol build a production-shaped candidate and re-run the full local/hosted production gate.
+## L-183 - Director confirms 1.03× Threshold K parity; production-shaped candidate passes local audit
+
+**State:** DIRECTOR CONFIRMED / LOCAL PRODUCTION-SHAPED PASS / HOSTED PREVIEW NEXT / PRODUCTION UNCHANGED
+
+The Director confirmed L-182 candidate B: preserve the exact historical Threshold K paths but present the intact K group at `1.03×`, bottom anchored and horizontally center anchored to the previous production K.
+
+Website Sol materialized the exact SVG transform `translate(22.92783 8.89104) scale(.43054)` while preserving O3 `YMÆAN`, B optical spacing (`Æ -3`, `A -3`, `N -4`), viewport centering, vertical rhythm, frozen Stage, responsive crop law, copy, accessibility and no-analytics behavior.
+
+The social card is regenerated deterministically from the same candidate at 1200×630 so the secondary public surface does not lag the accepted identity. V5 is 92,344 bytes / SHA-256 `36faecf3022c269f40eb10364f26c0f40b350eedd4d27f1ec92b08de0b5b04a6`; social-image cache metadata advances from `v=4` to `v=5`. Frozen Stage bytes remain unchanged at SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
+
+Dedicated local Edge/CDP passes 2048×1199, 1235×647, 1138×1354, 1227×1422, 768×1024, 600×900, 599×900, 390×844 and 320×640 with zero horizontal overflow, exact 50% viewport centering and contained identity/status. The 320×640 200% text proxy, reduced motion and forced colors also pass.
+
+Visual review confirms the +3% K correction survives the production-shaped page: wide remains restrained, mini-wide gains the clearest parity improvement, tall preserves quiet viewport ownership and portrait/mobile remains uncrowded. No further scale, path, spacing, hierarchy, Stage/crop or generative refinement is justified locally.
+
+Canonical local audit: `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_LOCAL_AUDIT_01.md`.
+
+Production `www.kymaean.com` remains unchanged until the exact candidate passes hosted verification and guarded promotion.
+
+**Next boundary:** commit/push this exact candidate plus continuity, require exact-head repository workflows and exact Cloudflare preview byte/header/no-analytics/browser verification, then promote only if the hosted recursive audit remains clean.
+
+**DIRECTOR SIGNAL PRESERVED — B 1.03× CONFIRMED; LOCAL PRODUCTION CANDIDATE PASS.**

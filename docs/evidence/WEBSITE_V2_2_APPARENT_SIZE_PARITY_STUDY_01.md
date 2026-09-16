@@ -2,7 +2,7 @@
 
 # Kymaean Website V2.2 — Apparent-Size Parity Study 01
 
-Status: NON-PRODUCTION DETERMINISTIC STUDY / B +3% THRESHOLD K SCALE PREFERRED / DIRECTOR CONFIRMATION NEXT
+Status: DIRECTOR CONFIRMED / B +3% THRESHOLD K SCALE SELECTED / PRODUCTION CANDIDATE AUDIT ACTIVE
 Date: 2026-09-16
 Baseline: `main@19780dd80a59ec87d7a6586e3dda99bbf0318f67`
 
@@ -45,4 +45,4 @@ No further scale bracket is materially justified before Director review: the con
 
 Production remains unchanged. No deployment, social-card revision, favicon change or shared-brand/app implementation is authorized by this study.
 
-**Next boundary:** Director confirms or rejects B `1.03×`. If confirmed, materialize the exact presentation transform in a production-shaped candidate and run the full responsive/accessibility/publication/hosted gate before any production promotion.
+**Director decision:** B `1.03×` is confirmed. Materialize that exact intact-group presentation transform in the production-shaped candidate and require the full responsive/accessibility/publication/hosted gate before any production promotion.
