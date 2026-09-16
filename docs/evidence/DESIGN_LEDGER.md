@@ -2986,3 +2986,19 @@ Canonical repository evidence: `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FAC
 No live website bytes, Stage art, app UI layout/behavior, product semantics, or universal Character-representation law changed.
 
 **DIRECTOR SIGNAL PRESERVED — BELLWEATHER FRONT-FACING SET PROMOTED TO FOUNDATIONAL APP-BRAND MASCOT AUTHORITY.**
+
+## L-188 - Website mascot-integration exploration opens from Bellweather foundational authority
+
+**State:** DIRECTOR-OPENED WEBSITE EXPLORATION / TWO CHAT RENDERS ARCHIVED / A1–A4 DETERMINISTIC STUDY NEXT / PRODUCTION UNCHANGED
+
+The Director explicitly reopened Website Sol to explore adding Bellweather to the current KYMÆAN website and strongly favored the closer middle-image treatment in the second exploration render. Two Website Sol chat-render boards and the full interpretation/next-study synthesis are archived in Drive under `04 Mascot Integration Exploration — 2026-09-16` (`1dZ68H6KpRqSql0fIlv4wIqgu9yduQELp`).
+
+The current synthesis is: use Distant Presence scale discipline with Departing Presence behavior for the opening-state study, while preserving the Director-favorite closer Threshold Presence / near-front encounter as a later or second-state emotional hinge. The intended progression is `PLACE -> PRESENCE -> PERSON -> WORLD`.
+
+Bellweather should function as quiet proof of life rather than as a spokesperson or centered mascot poster. The Kymaean identity remains the stable system; Bellweather belongs to the inhabited world and should not overlap the wordmark.
+
+Canonical evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_EXPLORATION_01.md`. Next: deterministic non-production A1 distant standing, A2 distant departing/crossing, A3 partially occluded threshold, and A4 delayed reveal against the exact frozen Stage/current production lockup.
+
+No `site/public/**` bytes, production Stage, current lettering, app UI, product semantics, or universal Character representation changed.
+
+**DIRECTOR SIGNAL PRESERVED — WEBSITE SOL REOPENED FOR BELLWEATHER INTEGRATION EXPLORATION; LIVE PRODUCTION REMAINS FROZEN.**
