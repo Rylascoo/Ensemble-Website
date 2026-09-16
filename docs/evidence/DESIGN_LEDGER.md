@@ -3530,3 +3530,21 @@ This selection is app-visual direction only. It does not freeze production token
 **Next boundary:** consolidate F2 Light + D3 Dark with MAT-01 F1, TYP-02 F1 and STA-01 F2 into a reusable app-visual design-role/component specification across the proven architecture, without converting design evidence into implementation authority.
 
 **DIRECTOR SELECTED / CLEAN AGGREGATE EVIDENCE.**
+
+## L-227 - Static APP VISUAL system consolidates selected Phase-3 mechanisms
+
+**State:** PHASE-3 STATIC APP VISUAL SYSTEM CONSOLIDATION PASS / ACTIVE DESIGN AUTHORITY / NO PRODUCTION TOKEN FREEZE
+
+`docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md` consolidates the selected app theme pair and the surviving supporting mechanisms into one reusable APP VISUAL design reference. Evidence is recorded in `docs/evidence/APPUI_01_PHASE_3_STATIC_APP_VISUAL_SYSTEM_CONSOLIDATION_01.json`.
+
+Selected theme direction is Light F2 Monochrome + Intruder plus Dark D3 Ink Aubergine. Byte-level reconciliation confirms the exact Light and Dark role values appear unchanged in all ten convergence carriers.
+
+Supporting app-visual mechanisms are MAT-01 F1 Subtractive Channel, TYP-02 F1 Ratio Ladder and STA-01 F2 Ring + Edge Witness where the architecture requires them. They are mechanisms, not mandatory decoration on every component.
+
+The new authority explicitly preserves theme parity, sparse accent use, focus != selection, non-color semantic state, invariant dark Stage, responsive/large-text/forced-colors design constraints and all prior Product/Engineering boundaries.
+
+No production token API, final typeface, icon family, Stage successor/motion, native WinUI/runtime, shipping asset, website palette or shared-brand-final authority is created.
+
+**Next boundary:** create and validate one compact static app-visual reference carrier from the canonical specification, then audit it against the ten accepted section carriers.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN CONSOLIDATION AUDIT.**
