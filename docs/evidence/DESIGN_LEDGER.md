@@ -2680,3 +2680,42 @@ The next bounded comparison is deterministic and non-production: **A — O3 rese
 **Guardrail:** no Stage regeneration/repaint, generated replacement typography, Threshold K redesign, added viewport frame overlay, app/UI authority, palette reopening, product disclosure or production deployment before the comparison is selected and recursively audited.
 
 **Next boundary:** build the exact A/B/C comparison from current `main`; production `www.kymaean.com` remains unchanged.
+## L-173 - Viewport-centered deterministic lettering comparison selects B optical spacing
+
+**State:** DIRECTOR + DESIGN SOL CONVERGENCE / B SELECTED / PRODUCTION V2.2 UNCHANGED / SUCCESSOR MATERIALIZATION NEXT
+
+Starting from `main@10434eb5eb79793055d002e8742b288fb5268e12`, Website Sol completed the L-172 deterministic A/B/C comparison over the exact frozen V2.2 Stage. No `site/public/**` byte changed. The Stage source remained `site/public/stage-v2-2.webp`, SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
+
+All three candidates preserve the exact historical Threshold K geometry and exact O3 `YMÆAN` path geometry. A restores original O3 spacing/hierarchy. B changes spacing only through intact glyph-group translations (`Æ -3`, `A -3`, `N -4` SVG user units). C adds only the smallest historical reduction-only hierarchy test, changing vertical strokes from `5.9` to `5.45`.
+
+Exact local Edge captures were inspected at 2048x1199, 1235x647 and 1138x1354, plus lettering-scale crops. A leaves the `M–Æ` and final `A–N` intervals slightly loose. B removes that pressure without changing glyph shape or hierarchy. C adds no material compositional benefit and slightly weakens structural parity with Threshold K at close inspection.
+
+The complete lockup is viewport-centered at 50% in all candidates. The shared vertical treatment keeps the identity modestly lower and `COMING SOON` materially closer, so horizontal spacing was adjudicated independently from vertical rhythm.
+
+Director and Design Sol therefore converge on **B — optical spacing**. C is rejected; no additional generative typography, per-letter vertical drift, added frame, Stage repaint, copy, app/UI, palette, shared-brand-final or product-scope change is authorized.
+
+Canonical evidence: `docs/evidence/WEBSITE_V2_2_VIEWPORT_CENTERED_LETTERING_COMPARISON_01.md` and `prototypes/website-v2-2-viewport-lettering-successor/index.html`.
+
+**Next boundary:** materialize B as a production-shaped successor candidate while live V2.2 remains unchanged, then run full responsive/accessibility/publication regression before any production promotion.
+
+**APPROVED — CONVERGENT DIRECTOR + DESIGN SOL DETERMINISTIC SELECTION / PRODUCTION UNCHANGED.**
+
+## L-174 - Viewport-centered successor passes local production-shaped recursive audit
+
+**State:** LOCAL CANDIDATE PASS / HOSTED VERIFICATION NEXT / PRODUCTION V2.2 UNCHANGED
+
+Selected B from L-173 is now materialized on `site/v2-2-viewport-lettering-successor-2026-09-15`. The production-shaped candidate preserves exact historical Threshold K paths, exact O3 `YMÆAN` geometry and original O3 stroke hierarchy, with only the approved intact group translations `Æ -3`, `A -3`, `N -4`.
+
+The visible lockup is `left: 50%` at every audited shape. Wide/tall placement moves modestly lower to 14.5svh and `COMING SOON` is tightened; established phone/tablet portrait vertical placement remains unchanged. Stage artwork and responsive crop equations remain byte/geometry-identical; Stage SHA-256 is still `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`.
+
+Local Edge/CDP passed 2048x1199, 1235x647, 1138x1354, 1227x1422, 768x1024, 600x900, 599x900, 390x844 and 320x640 with zero horizontal overflow, contained identity, exact viewport centering and the expected 1672x941 Stage. At 320x640, 200% root text remained contained; reduced motion exposed zero animations; forced colors hid the Stage while retaining the identity.
+
+Visual inspection confirms the new viewport center reads intentionally independent from the doorway at wide, mini-wide and tall shapes while preserving the accepted Stage balance. B remains sufficient; C's hierarchy change is not reopened.
+
+The recursive audit found and corrected two closeout defects. `KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md` still described doorway-axis identity alignment, so the candidate branch now states viewport-centered identity while preserving relationship-first crop behavior. The 1200x630 social card also still carried the superseded doorway-axis/heavier identity treatment; it was regenerated deterministically from the exact successor page composition, yielding 92,205 bytes / SHA-256 `900838f5ddbdd0867c7c1f6ef6d2e4349e2766ae5ca1425a73ee1d1e3c739d1b`, and social-image cache metadata advances from `v=3` to `v=4` without changing title, description or alt semantics. The deterministic comparison harness also had stale exploratory portrait-only top values outside the three adjudicated shapes; it is synchronized to the production-shaped candidate portrait rhythm without changing the wide/mini-wide/tall A/B/C result.
+
+Canonical local audit: `docs/evidence/WEBSITE_V2_2_VIEWPORT_CENTERED_SUCCESSOR_LOCAL_AUDIT_01.md`.
+
+**Next boundary:** regenerate/validate docs, commit/push the exact candidate, require exact-head repository workflows and exact hosted Cloudflare byte/visual verification before production promotion.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN LOCAL RECURSIVE AUDIT.**

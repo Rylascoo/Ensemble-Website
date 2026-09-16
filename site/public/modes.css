@@ -1,7 +1,7 @@
 @media (max-width: 900px) and (orientation: portrait) {
   .brand-lockup {
     top: max(29.5svh, calc(env(safe-area-inset-top) + 1rem));
-    left: 54.9%;
+    left: 50%;
     width: min(90vw, 24rem);
   }
 
@@ -11,7 +11,7 @@
   }
 
   .status {
-    margin-top: clamp(1.05rem, 2.1svh, 1.35rem);
+    margin-top: clamp(0.8rem, 1.5svh, 0.95rem);
     font-size: clamp(0.62rem, 2.1vw, 0.72rem);
     letter-spacing: 0.38em;
   }
@@ -35,7 +35,7 @@
 
 @media (min-width: 600px) and (orientation: portrait) {
   .brand-lockup {
-    left: calc(56.125% - 7.35px);
+    left: 50%;
   }
 
   .scene-art {

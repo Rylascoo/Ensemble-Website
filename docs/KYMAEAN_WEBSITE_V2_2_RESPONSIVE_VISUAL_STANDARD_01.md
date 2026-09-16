@@ -14,8 +14,8 @@ The Director established three practical composition references from live produc
 **Preserve relationships before preserving objects.** Narrower views are curated crops of the same Stage world, not alternate artwork or independently redesigned posters.
 
 ## Invariants
-- `KYMÆAN` → `COMING SOON` → doorway remains one coherent vertical relationship.
-- The complete identity follows the doorway axis rather than generic viewport center.
+- `KYMÆAN` → `COMING SOON` remains one coherent identity lockup; the doorway remains a subordinate environmental threshold rather than a lockup alignment target.
+- The complete visible identity is centered to the user viewport at 50%, independently of the doorway axis; the identity → COMING SOON → doorway relationship remains visually coherent without sharing one horizontal axis.
 - Threshold K remains integrated as the visible `K`; no redundant standalone logo is added above it.
 - The frozen Stage artwork is not regenerated or recomposed by breakpoint.
 - Amber / neutral / blue retain left / center / right order.
@@ -33,10 +33,10 @@ The same composition is compressed rather than redesigned. All three presences, 
 ### Portrait / phone-screen shaped — 1227 × 1422 reference
 A curated vertical crop of the same world. The center presence and doorway become primary. Amber and blue may partially leave frame but must remain visibly implied at opposite edges. The Stage rim must not overpower the identity/threshold sequence.
 
-Tall computer-browser portrait windows must not fall back to the full-height `cover` crop, because that can over-zoom the 16:9 Stage and collapse the side-presence relationship. The V2.2 implementation therefore keeps the established phone crop through 599 CSS px and, from 600 CSS px upward in portrait orientation, widens continuously with `width: calc(200vw - 240px)`. The lockup follows the same frozen doorway coordinate with `left: calc(56.125% - 7.35px)`, making the 599/600 transition continuous while revealing progressively more Stage context on wider portrait browser windows.
+Tall computer-browser portrait windows must not fall back to the full-height `cover` crop, because that can over-zoom the 16:9 Stage and collapse the side-presence relationship. The V2.2 implementation therefore keeps the established phone crop through 599 CSS px and, from 600 CSS px upward in portrait orientation, widens continuously with `width: calc(200vw - 240px)`. The Stage crop remains continuous at 599/600 while the lockup is independently fixed at `left: 50%`, revealing progressively more Stage context on wider portrait browser windows without pulling the identity toward the doorway.
 
 ## Regression rule
-Any future website visual/CSS/publication change must be checked against all three reference shapes before production promotion. A pass requires no horizontal overflow, contained identity, preserved doorway-axis hierarchy, preserved left/center/right presence logic, and no breakpoint-specific replacement artwork.
+Any future website visual/CSS/publication change must be checked against all three reference shapes before production promotion. A pass requires no horizontal overflow, contained viewport-centered identity, preserved identity → center presence → doorway hierarchy, preserved left/center/right presence logic, and no breakpoint-specific replacement artwork.
 
 When narrow cropping forces a choice, preserve the identity → center presence → doorway → shared Stage relationship before preserving outer architecture or the full extents of the side presence volumes.
 
