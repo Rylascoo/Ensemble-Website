@@ -1,0 +1,77 @@
+{
+  "status": "SUPPORTING CONTINUITY SNAPSHOT — NOT PROJECT AUTHORITY",
+  "created_utc": "2026-09-16T02:35:00Z",
+  "repository": "Rylascoo/Ensemble-Website",
+  "baseline_main_sha": "d991c5ec90f646d9a0545e2362412523199589d9",
+  "production_site_changed_by_this_snapshot": false,
+  "site_public_bytes_changed_by_this_snapshot": false,
+  "drive": {
+    "successor_folder": {
+      "id": "1olU_rqDdwCHKdL29dduZaV2YBN_zegz9",
+      "title": "03 Lettering & Viewport-Center Successor — 2026-09-15",
+      "url": "https://drive.google.com/drive/folders/1olU_rqDdwCHKdL29dduZaV2YBN_zegz9"
+    },
+    "selected_reference_folder": {
+      "id": "1klhaPLxRnOk2rxcrSeSkYm9x-Hzk2_AO",
+      "url": "https://drive.google.com/drive/folders/1klhaPLxRnOk2rxcrSeSkYm9x-Hzk2_AO"
+    },
+    "deterministic_studies_folder": {
+      "id": "1Lk6MWtyil4Iif6meerMZ_TmZoImsE5ct",
+      "url": "https://drive.google.com/drive/folders/1Lk6MWtyil4Iif6meerMZ_TmZoImsE5ct"
+    },
+    "generative_rejected_folder": {
+      "id": "1KH0SYl3EwdDPcGn3foxwaf4Vho6A308k",
+      "url": "https://drive.google.com/drive/folders/1KH0SYl3EwdDPcGn3foxwaf4Vho6A308k"
+    },
+    "notes_handoff_folder": {
+      "id": "119rOg8-yPaztJCu0C432L72mjIJh-m5V",
+      "url": "https://drive.google.com/drive/folders/119rOg8-yPaztJCu0C432L72mjIJh-m5V"
+    },
+    "best_overall_render": {
+      "id": "17Aj09kEBjPETjruVpb0UL9Guhd-MjVs0",
+      "file_name": "Kymaean_Best_Overall_Render_Handoff_2026-09-15.png",
+      "url": "https://drive.google.com/file/d/17Aj09kEBjPETjruVpb0UL9Guhd-MjVs0/view?usp=drivesdk"
+    },
+    "visual_synthesis_doc": {
+      "id": "13Ggw333ytMENMKEFBntc4Wx3t5SrCxKIU8Td_hvUHUU",
+      "url": "https://docs.google.com/document/d/13Ggw333ytMENMKEFBntc4Wx3t5SrCxKIU8Td_hvUHUU/edit?usp=drivesdk"
+    },
+    "fresh_chat_handoff_doc": {
+      "id": "1rC4Jyaqh5GUBTMObxxZS5MVKj_nv97mABDEtdvaZCpE",
+      "url": "https://docs.google.com/document/d/1rC4Jyaqh5GUBTMObxxZS5MVKj_nv97mABDEtdvaZCpE/edit?usp=drivesdk"
+    },
+    "image_index_doc": {
+      "id": "1YdVcbafb5mo3P6Bo5NtZihNNcEKEcofzg5Lss8DI97Y",
+      "url": "https://docs.google.com/document/d/1YdVcbafb5mo3P6Bo5NtZihNNcEKEcofzg5Lss8DI97Y/edit?usp=drivesdk"
+    },
+    "exploration_archive_zip": {
+      "id": "1jUYVpx3qdoQWvRhj3q060I7JKavkufCQ",
+      "url": "https://drive.google.com/file/d/1jUYVpx3qdoQWvRhj3q060I7JKavkufCQ/view?usp=drivesdk",
+      "contents_note": "34-file archive of selected references, deterministic studies, generative exploration, and handoff documents. Generative contents are evidence only and rejected as production source."
+    }
+  },
+  "director_boundary": {
+    "horizontal_alignment": "Center complete KYMÆAN + COMING SOON lockup to the user viewport at 50%, not the doorway axis.",
+    "stage": "Preserve frozen V2.2 Stage, doorway, three-presence relationship, native framing, and responsive crop behavior.",
+    "threshold_k": "Preserve exact historical Threshold K geometry and integrate it as the visible K.",
+    "wordmark_starting_point": "Use O3 YMÆAN deterministic geometry as the starting point.",
+    "rejected": [
+      "generated replacement typography",
+      "conventional/generated K replacements",
+      "added viewport-frame overlay",
+      "ad-hoc per-letter drift from the rejected optical-spacing pass",
+      "Stage regeneration without new contradictory evidence"
+    ],
+    "next_comparison": [
+      "A — O3 reset",
+      "B — geometry-preserving optical spacing",
+      "C — B plus minimal optical stroke hierarchy"
+    ],
+    "required_views": [
+      "2048x1199 wide",
+      "1235x647 mini-wide",
+      "approximately 1138x1354 tall computer browser"
+    ]
+  },
+  "recovery_rule": "Live repository authority wins over this snapshot. Fresh-resolve refs, read AGENTS.md through EOF, then exact-ref CURRENT_STATE.md before using this manifest or Drive materials."
+}
