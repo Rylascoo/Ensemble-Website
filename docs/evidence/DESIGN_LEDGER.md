@@ -3002,3 +3002,19 @@ Canonical evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_EXPLORATION_0
 No `site/public/**` bytes, production Stage, current lettering, app UI, product semantics, or universal Character representation changed.
 
 **DIRECTOR SIGNAL PRESERVED — WEBSITE SOL REOPENED FOR BELLWEATHER INTEGRATION EXPLORATION; LIVE PRODUCTION REMAINS FROZEN.**
+
+## L-189 - Bellweather Image 5 morning/private family is frozen as core mascot variation authority
+
+**State:** DIRECTOR-FROZEN VARIATION FAMILY / FOUR EXACT DRIVE ASSETS / HUMAN BELLWEATHER CORE / FOUNDATIONAL AND FORMAL AUTHORITIES PRESERVED / NO IMPLEMENTATION AUTHORITY
+
+The Director explicitly froze the latest four Image 5 / morning-private Bellweather renders as mascot variations going forward. Canonical Drive folder `09 Human Bellweather — Image 5 Morning Variations — Frozen Mascot Variations — 2026-09-16` (`17pMSAhYVjz1yG4ggG7N_saWjlPVrNYUY`) contains exact uploads `1ADtyUG-srVEM29Q05NCSoTmqMogZOAU9`, `1sWpoIRUMMKPzCIXARqmTJIPWwFrF7kcn`, `1sczTEtCDJdqQ6Y0dsgIxk1ml1wLMz3V_`, and `192txup6d6QxqAmkBC5robnfmURQQfrBU`. Drive readback byte sizes match the source PNGs exactly.
+
+The family freezes Human Bellweather variation territory: natural daylight, cream/white morning layers, relaxed private-state body language, restrained facial variation and the same clearly adult persistent identity. Exact knit weave, shirt opening, bedding, breakfast props, hotel dressing and generated incidental text remain presentation variables.
+
+L-187 foundational front-facing controls remain primary face/silhouette/world authority; L-180 formal-gown authority remains intact. This result adds a core Human/private family and does not silently replace either.
+
+Canonical repository evidence: `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md`.
+
+No `site/public/**`, Stage art, app UI layout/behavior, product semantics, universal Character-face law or website-production authority changed.
+
+**DIRECTOR SIGNAL PRESERVED — IMAGE 5 MORNING/PRIVATE FAMILY FROZEN AS CORE BELLWEATHER VARIATIONS.**

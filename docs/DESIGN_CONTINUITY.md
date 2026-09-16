@@ -396,3 +396,15 @@ Natural expression is part of Bellweather continuity: prefer closed-mouth, softl
 The black sheer / warm-metal formal family is iconic presentation, not universal mascot anatomy. Generated bead microgeometry, slit placement, ornament, pearls, gloves, clutch, jewelry, props, typography and environments remain variable unless separately frozen.
 
 Mascot authority does not create universal Character-face law, app UI semantics, app implementation authority, or website-production authority.
+
+## 19. Frozen Human Bellweather morning variation family
+
+The Bellweather mascot system includes a frozen Human/private presentation family in addition to the L-187 foundational front-facing controls and the approved formal black/warm-metal family.
+
+Canonical authority is `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md` plus Drive folder `17pMSAhYVjz1yG4ggG7N_saWjlPVrNYUY` and its four exact frozen PNGs.
+
+This family permits cream/white morning layers, relaxed seated or upright private-state poses, natural daylight and restrained facial variation while preserving one clearly adult persistent Bellweather identity.
+
+These variations do not replace the primary face/silhouette/world controls. Generated garment microgeometry, hotel dressing, breakfast props and incidental scene text remain presentation variables unless separately frozen.
+
+This authority creates no universal Character-face requirement, app semantics, app implementation authority, Stage change or website-production authority.
