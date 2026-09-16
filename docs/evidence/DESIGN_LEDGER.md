@@ -3847,3 +3847,23 @@ No final utility labels, dialogs, commands, portable format, merge/overwrite rul
 **Next boundary:** open `APPUI-COMP-10` for the full Character-bounded workspace inside the COMP shell, preserving the same Production and persistent Character identity under materially reduced disclosure, excluding creator-only infrastructure/material and restoring exact prior creator context on return.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-244 - APPUI-COMP-10 closes the full Character-bounded workspace as materially reduced disclosure inside the real shell
+
+**State:** REAL CHARACTER-BOUNDED WORKSPACE PASS / PKT-COMP-10-01 ACTIVE / EMPTY+UNAVAILABLE+TRANSITIONAL NEXT
+
+`docs/evidence/APPUI_01_COMPONENT_SYSTEM_CHARACTER_BOUNDED_WORKSPACE_INTEGRATION_METHOD_01.json` froze the bounded successor after COMP-09. The carrier `prototypes/appui-01/component-system-character-bounded-workspace-integration-01.html` keeps The White Current and one persistent Julian identical while transitioning from creator-global current context into a materially reduced Julian-bounded information position.
+
+The bounded workspace contains permitted current observation, Julian-linked remembered context, one observable relationship cue and agency capacity only. Creator-only causal/private material, provider/capability/diagnostic/recovery infrastructure, hidden-item counts, placeholders, redactions and summaries do not appear. The transition is therefore real information subtraction rather than theme, tint, disabled rows or cosmetic Perspective styling.
+
+The first attempted materialization is excluded from design evidence: a PowerShell rewrite re-encoded non-ASCII literals in the transform script, corrupted inserted text and prevented several semantic replacements, leaving stale COMP-09/relationship copy. The carrier was rebuilt from ASCII-only source plus HTML entities, verified at zero replacement/mojibake markers and zero stale COMP-09 tokens, and only then exposed to the frozen matrix.
+
+The first valid seven-case matrix passes 1600/1024/390/320, forced-colors 320, 200% text 320 and text-spacing stress 320 with zero page/internal overflow, zero missing button names and zero undersized icon-only controls. The bounded affordance disappears for non-Julian selection and restores for Julian; Observable now remains selected while Known/remembered receives independent 2px focus with 2px offset; Light F2 and Dark D3 contain identical bounded information; Back and Close restore Julian selection and exact trigger focus.
+
+Visual review is clean at wide and narrow widths. The bounded state reads as the same Production and same persistent Character under materially different information availability rather than a second reality or secret/darker theme. UI focus/selection remains creator interaction state rather than Julian attention or intention, and no hidden creator knowledge is transferred on return.
+
+No final Perspective selector, Take a Seat command, entry/exit timing, performance input grammar, knowledge schema, inference/transfer/forgetting semantics, provider/Performer assignment, Stage successor, production token or native WinUI/XAML authority is created.
+
+**Next boundary:** open `APPUI-COMP-11` for empty, unavailable, loading and transitional workspace states inside the COMP shell without inventing Product-gated lifecycle/provider semantics or allowing infrastructure failure to become fiction.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
