@@ -71,8 +71,8 @@ body {
 
 .brand-lockup {
   position: absolute;
-  top: max(12svh, calc(env(safe-area-inset-top) + 1.25rem));
-  left: 53.4%;
+  top: max(14.5svh, calc(env(safe-area-inset-top) + 1.25rem));
+  left: 50%;
   display: flex;
   width: min(94vw, 34rem);
   transform: translateX(-50%);
@@ -104,13 +104,13 @@ body {
   stroke-linejoin: round;
 }
 
-.wordmark .v { stroke-width: 6.5; }
-.wordmark .d { stroke-width: 5.9; }
-.wordmark .h { stroke-width: 5.05; }
-.wordmark .fine { stroke-width: 2.5; opacity: 0.72; }
+.wordmark .v { stroke-width: 5.9; }
+.wordmark .d { stroke-width: 5.35; }
+.wordmark .h { stroke-width: 4.55; }
+.wordmark .fine { stroke-width: 2.35; opacity: 0.7; }
 
 .status {
-  margin: 1.35rem 0 0;
+  margin: 0.72rem 0 0;
   color: var(--muted);
   font-size: 0.69rem;
   font-weight: 500;
