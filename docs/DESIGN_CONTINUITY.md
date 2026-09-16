@@ -165,11 +165,13 @@ It is not a public tagline and does not select a visual style. Durable implicati
 
 A strong Character may become a recognizable signature of one Production without becoming Kymaean's universal literal face. Different Productions may own independent persistent people; reusing one heroine across unrelated worlds is not the source of Kymaean cohesion. Cohesion remains the shared grammar of persistence, relationship, perspective, history, consequence, restraint, and possibility.
 
-When the Director freezes a visual master for a Production-specific Character, preserve that exact master as immutable lineage evidence. Successor stress tests, alternate contexts, clothing, ages, crops, scales, expression studies, or historically changed states are separate artifacts and must not overwrite the frozen master.
+By explicit Director decision, a signature Character may also become the **Kymaean mascot / brand ambassador**. Mascot authority is public/brand representation, not a rule that the same person must literally inhabit every Production or that other Characters inherit the mascot's face, costume, palette, period, props, or environment.
+
+When the Director freezes a visual master for a Production-specific Character or mascot, preserve that exact master as immutable lineage evidence. Successor stress tests, alternate contexts, clothing, ages, crops, scales, expression studies, or historically changed states are separate artifacts and must not overwrite the frozen master.
 
 Deep Character identity must not silently collapse into the current outfit, jewelry, makeup, incidental hairstyle arrangement, glamour treatment, or a narratively meaningful prop. Objects such as keys, letters, registers, photographs, and other artifacts remain presentation/context/history unless stronger Character authority explicitly establishes them as durable identity. A Production may richly own its world and depiction language while Kymaean's application grammar continues to own navigation, hierarchy, disclosure, accessibility, current-versus-historical distinction, persistence/recovery, and truthful state semantics.
 
-The Director-frozen Bellweather signature-character master recorded in Design Ledger L-173 and canonical Drive provenance is evidence of this rule. It is not final universal Character-representation law, a shared-brand face requirement, or app/website implementation authority.
+The Director-frozen Bellweather concept master recorded in Design Ledger L-173 remains canonical lineage evidence. Design Ledger L-177 records the later explicit promotion of the Bellweather woman to Kymaean mascot / brand ambassador and freezes the six-image Full Render Mascot Set 01, with images 1/3/5/6 as Director lead favorites. That mascot promotion still does not create universal Character-representation law, require the mascot inside every Production, or create app/website implementation authority.
 
 ## 7. Program and method discipline
 
