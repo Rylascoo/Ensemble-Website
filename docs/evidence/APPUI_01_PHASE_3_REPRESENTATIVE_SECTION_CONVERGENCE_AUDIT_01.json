@@ -1,0 +1,74 @@
+{
+  "schema": "kymaean.appui-phase3-representative-section-convergence-audit.v1",
+  "status": "PHASE_3_REPRESENTATIVE_SECTION_CONVERGENCE_PASS_D3_SELECTION_ELIGIBLE_DIRECTOR_GATE",
+  "date": "2026-09-15",
+  "program": "APPUI-01 Phase 3 - Kymaean Visual-Language Integration",
+  "repository": "Rylascoo/Ensemble-Website",
+  "authority": {
+    "design_branch": "design/appui01-working-compositions-2026-09-14",
+    "design_head_before_audit": "70a18ef9f5fc2e557e8bf5c6f4a9bb84894d1f2c",
+    "website_main_reconciled": "10434eb5eb79793055d002e8742b288fb5268e12",
+    "engineering_main_reconciled": "46c5d7fc8597b33012e2f083fd42113a47b83e77",
+    "phase3_law": "docs/evidence/APPUI_01_THREE_PHASE_PROGRAM_AND_STAGE_INTERFACE_ENVELOPE_AUDIT_2026_09_14.json",
+    "cross_product_roadmap": "docs/KYMAEAN_CROSS_PRODUCT_VISUAL_WEBSITE_LAUNCH_ROADMAP_01.md"
+  },
+  "selected_light": "CLR-01 F2 - Monochrome + Intruder",
+  "dark_candidate_under_audit": {
+    "name": "D3 - Ink Aubergine",
+    "field": "#19141D",
+    "primary": "#F4F0F5",
+    "secondary": "#BEB4C0",
+    "accent": "#249A9C",
+    "boundary": "#756A79",
+    "soft_surface": "#261F29"
+  },
+  "director_instruction": "Keep D3 in mind but evaluate it as the design proceeds; do not freeze it merely from the initial comparison.",
+  "representative_sections": [
+    {"section":"Production Home / Resume","evidence":"APPUI_01_PHASE_3_F2_LIGHT_DARK_TRANSLATION_COMPARISON_01.json","result":"D3_PASS"},
+    {"section":"Production Shaping / Current Possibility","evidence":"APPUI_01_PHASE_3_PRODUCTION_SHAPING_F2_D3_INTEGRATION_01.json","result":"PASS"},
+    {"section":"Contextual + Deep Inspection","evidence":"APPUI_01_PHASE_3_CONTEXTUAL_DEEP_INSPECTION_F2_D3_INTEGRATION_01.json","result":"PASS"},
+    {"section":"Whole-Production Character Management","evidence":"APPUI_01_PHASE_3_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_F2_D3_INTEGRATION_01.json","result":"PASS"},
+    {"section":"Causal / History Inspection","evidence":"APPUI_01_PHASE_3_CAUSAL_HISTORY_F2_D3_INTEGRATION_01.json","result":"PASS"},
+    {"section":"Truth / Knowledge / Disclosure","evidence":"APPUI_01_PHASE_3_TRUTH_KNOWLEDGE_DISCLOSURE_F2_D3_INTEGRATION_01.json","result":"PASS"},
+    {"section":"Persistence / Recovery Status","evidence":"APPUI_01_PHASE_3_PERSISTENCE_RECOVERY_F2_D3_INTEGRATION_01.json","result":"PASS"},
+    {"section":"Production Lifecycle Utilities","evidence":"APPUI_01_PHASE_3_PRODUCTION_LIFECYCLE_UTILITIES_F2_D3_INTEGRATION_01.json","result":"PASS"},
+    {"section":"Character-bounded Workspace","evidence":"APPUI_01_PHASE_3_CHARACTER_BOUNDED_WORKSPACE_F2_D3_INTEGRATION_01.json","result":"PASS"},
+    {"section":"Empty / Unavailable / Transitional Workspace","evidence":"APPUI_01_PHASE_3_EMPTY_UNAVAILABLE_TRANSITIONAL_F2_D3_INTEGRATION_01.json","result":"PASS"}
+  ],
+  "aggregate_checks": {
+    "accepted_phase1_detailed_sections_covered": "10/10",
+    "exact_frozen_d3_role_values_present_in_final_carriers": "10/10",
+    "post_exposure_d3_role_retunes": 0,
+    "semantic_color_collapses": 0,
+    "final_section_results": "10/10 PASS",
+    "responsive_accessibility_disposition": "Every representative study completed its required wide/narrow/forced-colors/large-text or equivalent frozen matrix with final PASS; local defects were repaired without changing D3 role values.",
+    "stage_authority": "UNCHANGED - Stage remains invariant dark and separate from app-theme translation.",
+    "engineering_resync": "PASS - Engineering remains E0-D with E0-E blocked; no new Phase-D Product semantics invalidate the representative set."
+  },
+  "convergence_disposition": {
+    "evidence_result": "PASS",
+    "d3_status": "QUALIFIED_FOR_DIRECTOR_SELECTION_AS_STATIC_APP_DARK_DIRECTION",
+    "reason": "D3 preserved exact frozen role values and semantic parity across all ten accepted detailed architecture sections without post-exposure color rescue or a surviving falsifier.",
+    "director_gate_required": true,
+    "recommended_director_action": "Promote D3 from provisional incumbent to selected static APP VISUAL Dark direction while keeping production-token, Stage-motion, native-runtime and shared-brand final authority open."
+  },
+  "remaining_non_authority": [
+    "No production palette/token package is frozen by this audit.",
+    "No semantic status-color system is created.",
+    "No transcript-dependent Stage motion or micro-interaction authority is created while Q-DESIGN-02/E0-E evidence remains unavailable.",
+    "No native WinUI/XAML, ARM64 runtime, Store, implementation accessibility or shipping-asset authority is created.",
+    "No website palette or shared-brand-final authority is created; APP VISUAL and SHARED BRAND remain distinct workstreams.",
+    "No Product-gated Scene/Take/Perspective/provider/Performer semantics are promoted."
+  ],
+  "recursive_audit": {
+    "authority_scope": "CLEAN",
+    "section_census": "CLEAN_10_OF_10",
+    "exact_d3_value_scan": "PASS_10_OF_10",
+    "semantic_falsification_scan": "CLEAN",
+    "accessibility_responsive_evidence": "CLEAN",
+    "engineering_reconciliation": "CLEAN_NO_INVALIDATING_PHASE_D_SEMANTICS",
+    "cross_surface_scope": "CLEAN_APP_VISUAL_ONLY",
+    "result": "PASS_D3_SELECTION_ELIGIBLE_DIRECTOR_GATE"
+  },
+  "next": "Director decides whether to promote D3 Ink Aubergine from provisional incumbent to selected static APP VISUAL Dark direction. Do not freeze production tokens or broader cross-surface palette authority at this gate."
+}

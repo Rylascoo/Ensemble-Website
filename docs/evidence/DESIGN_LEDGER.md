@@ -3498,3 +3498,19 @@ D3 survives the tenth accepted Phase-1 detailed architecture section but remains
 **Next boundary:** run the consolidated Phase-3 representative-section convergence audit across all ten accepted detailed functional sections before deciding whether D3 may advance beyond provisional incumbent.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-225 - Phase 3 representative-section convergence audit qualifies D3 for Director selection
+
+**State:** PHASE-3 REPRESENTATIVE-SECTION CONVERGENCE PASS / D3 SELECTION-ELIGIBLE / DIRECTOR GATE / NO TOKEN FREEZE
+
+`docs/evidence/APPUI_01_PHASE_3_REPRESENTATIVE_SECTION_CONVERGENCE_AUDIT_01.json` audits the complete representative Phase-3 app set after all ten accepted Phase-1 detailed architecture sections received selected Light F2 + exact provisional D3 treatment.
+
+The exact frozen D3 Ink Aubergine role values are present in all ten final carriers. All ten representative sections pass their semantic falsification target and final responsive/accessibility evidence. No post-exposure D3 role-value retune occurred; recorded local corrections are carrier/probe/responsive mechanics only and do not alter palette meaning.
+
+Fresh Engineering remains E0-D with E0-E blocked and no new Phase-D Product semantics. The broader cross-product roadmap keeps APP VISUAL distinct from SHARED BRAND and implementation/shipping authority.
+
+**Disposition:** D3 is now qualified for Director selection as the static APP VISUAL Dark direction. It remains provisional until that explicit Director choice. This audit does not freeze production palette tokens, semantic status colors, Stage motion, native WinUI/runtime behavior, shipping assets, website palette or shared-brand-final authority.
+
+**Next boundary:** Director decides whether to promote D3 from provisional incumbent to selected static APP VISUAL Dark direction. If selected, record that decision before any successor consolidation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN AGGREGATE AUDIT / DIRECTOR SELECTION RESERVED.**
