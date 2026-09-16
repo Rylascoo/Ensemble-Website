@@ -3514,3 +3514,19 @@ Fresh Engineering remains E0-D with E0-E blocked and no new Phase-D Product sema
 **Next boundary:** Director decides whether to promote D3 from provisional incumbent to selected static APP VISUAL Dark direction. If selected, record that decision before any successor consolidation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN AGGREGATE AUDIT / DIRECTOR SELECTION RESERVED.**
+
+## L-226 - Director selects D3 Ink Aubergine as the static APP VISUAL Dark direction
+
+**State:** PHASE-3 STATIC APP DARK DIRECTION SELECTED / D3 INK AUBERGINE / NO PRODUCTION TOKEN FREEZE
+
+`docs/evidence/APPUI_01_PHASE_3_DIRECTOR_D3_STATIC_APP_DARK_SELECTION_01.json` records the Director selection after the aggregate convergence audit qualified D3 across all ten accepted detailed architecture sections. The selection advances D3 from provisional incumbent to selected static APP VISUAL Dark direction.
+
+The exact frozen D3 role values remain unchanged: field `#19141D`, primary `#F4F0F5`, secondary `#BEB4C0`, accent `#249A9C`, boundary `#756A79`, soft surface `#261F29`. Selected Light remains CLR-01 F2 Monochrome + Intruder.
+
+Fresh Engineering `main@bd32532133b4dbc66d2ffd1a7f77c3d0a2fd38dd` is E0-D active/on hold with E0-E blocked and creates no invalidating Phase-D Product semantics.
+
+This selection is app-visual direction only. It does not freeze production tokens, semantic status colors, Stage color/motion, native WinUI/runtime behavior, shipping assets, website palette, shared-brand-final color authority or Product-gated controls.
+
+**Next boundary:** consolidate F2 Light + D3 Dark with MAT-01 F1, TYP-02 F1 and STA-01 F2 into a reusable app-visual design-role/component specification across the proven architecture, without converting design evidence into implementation authority.
+
+**DIRECTOR SELECTED / CLEAN AGGREGATE EVIDENCE.**

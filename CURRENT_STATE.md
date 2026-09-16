@@ -13,17 +13,16 @@ APPUI remains isolated on `design/appui01-working-compositions-2026-09-14`; conc
 **Phase 1 application UI architecture/layout is FROZEN PASS and detailed-section coverage is CLOSED CLEAN. Phase 2 static Stage/live-production coverage is CLOSED PASS.** Dynamic/transcript-dependent and Product-gated Stage work remains held/open.
 
 ## Product / Engineering boundary
-Fresh Engineering `main@46c5d7fc8597b33012e2f083fd42113a47b83e77` remains E0-D active with E0-E blocked. No Phase-D Product semantics invalidate the frozen shell/Stage envelope or Phase-3 representative set.
+Fresh Engineering `main@bd32532133b4dbc66d2ffd1a7f77c3d0a2fd38dd` remains E0-D active/on hold after both P01 slots were consumed; E0-E remains blocked. No Phase-D Product semantics invalidate the frozen shell/Stage envelope or Phase-3 representative set.
 
 ## Phase 3
-CLR-01 **F2 — Monochrome + Intruder** is Director-selected for Light. **D3 — Ink Aubergine** remains provisional pending the current convergence gate.
+CLR-01 **F2 — Monochrome + Intruder** is Director-selected for Light. After the 10/10 representative-section convergence audit, **D3 — Ink Aubergine is Director-selected as the static APP VISUAL Dark direction**.
 
-Selected Light F2 + exact D3 has now passed **all ten accepted Phase-1 detailed architecture sections**: Home/Resume; Shaping/Current Possibility; Contextual + Deep Inspection; Whole-Production Character Management; Causal/History; Truth/Knowledge/Disclosure; Persistence/Recovery; Production Lifecycle Utilities; Character-bounded Workspace; Empty/Unavailable/Transitional Workspace.
+Selected Light F2 + selected Dark D3 therefore form the static app theme-direction pair. Exact D3 reference roles remain `#19141D / #F4F0F5 / #BEB4C0 / #249A9C / #756A79 / #261F29` for field / primary / secondary / accent / boundary / soft surface.
 
-Aggregate evidence: `docs/evidence/APPUI_01_PHASE_3_REPRESENTATIVE_SECTION_CONVERGENCE_AUDIT_01.json`. Exact frozen D3 role values are present in all 10 final carriers; no post-exposure D3 role retune or surviving semantic falsifier exists. Accessibility/responsive evidence is clean after bounded non-color repairs.
+Selection evidence: `docs/evidence/APPUI_01_PHASE_3_DIRECTOR_D3_STATIC_APP_DARK_SELECTION_01.json`. Aggregate evidence remains `docs/evidence/APPUI_01_PHASE_3_REPRESENTATIVE_SECTION_CONVERGENCE_AUDIT_01.json`.
 
-## Current gate
-Aggregate audit result: **PASS — D3 QUALIFIED FOR DIRECTOR SELECTION AS STATIC APP VISUAL DARK DIRECTION.** This does not freeze production tokens, semantic status colors, Stage motion, native implementation/shipping assets, website palette or shared-brand-final authority.
+This selection does **not** freeze production tokens, semantic status colors, Stage color/motion, native WinUI/runtime behavior, shipping assets, website palette or shared-brand-final authority.
 
 ## Next
-Director decides whether to promote D3 from provisional incumbent to selected static APP VISUAL Dark direction. If selected, record that decision first; then continue Phase-3 app visual-system consolidation without expanding Product or cross-surface authority.
+Consolidate the selected static app visual language across the proven architecture: F2 Light + D3 Dark, MAT-01 F1, TYP-02 F1 and STA-01 F2 where authoritative. Produce a reusable app-visual design-role/component specification without converting design evidence into production-token or implementation authority.
