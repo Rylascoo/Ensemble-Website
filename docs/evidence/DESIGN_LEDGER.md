@@ -3596,3 +3596,17 @@ No subjective family result is recorded. CNEG remains ineligible; maximum one su
 **Next boundary:** fresh-chat Design Sol must recover live authority and perform subjective falsification on these exact frozen wide/narrow artifacts before any candidate mutation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN MECHANICAL PREFLIGHT / SUBJECTIVE REVIEW RESERVED.**
+
+## L-231 - Fresh-chat continuity freezes APPUI-FICON-01 at subjective-review boundary
+
+**State:** FRESH-CHAT HANDOFF / LIVE AUTHORITY RECOVERY REQUIRED / APPUI-FICON-01 SUBJECTIVE REVIEW NEXT
+
+`docs/evidence/APPUI_01_FRESH_CHAT_HANDOFF_2026_09_15.md` records the complete recovery order and the exact APPUI-FICON-01 handoff boundary after mechanical preflight closure at `28872396135cda0f9ca8a7e477ec21dba966b227`.
+
+The handoff preserves the selected static APP VISUAL system, current Website/Engineering cross-lane refs, frozen icon-treatment method, exact carrier/probe hashes, mechanical matrix result, Drive artifact IDs, and the rule that no CNEG/F1/F2/F3 mutation may occur before subjective falsification.
+
+No APPUI-FICON-01 family winner, bespoke domain icon, production token, native implementation, Product semantic, Stage change, website palette or shared-brand-final authority is created by the handoff.
+
+**Next boundary:** successor Design Sol fresh-resolves repository authority, verifies the frozen bytes, then performs subjective falsification on the exact archived normal-color wide and narrow APPUI-FICON-01 evidence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN CONTINUITY HANDOFF.**
