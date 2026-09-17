@@ -6,14 +6,14 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 308
+Total Markdown documents: 309
 Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (66)
+## ACTIVE LAW (67)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -71,6 +71,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_EXPLORATION_01.md`
 - `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_PRODUCTION_VERIFICATION_01.md`
 - `docs/evidence/WEBSITE_V2_2_MASCOT_PLACEMENT_STUDY_01.md`
+- `docs/evidence/WEBSITE_V2_2_NARRATIVE_CADENCE_REFINEMENT_HOSTED_AUDIT_01.md`
 - `docs/evidence/WEBSITE_V2_2_NARRATIVE_CADENCE_REFINEMENT_LOCAL_AUDIT_01.md`
 - `docs/evidence/WEBSITE_V2_2_TEMPORAL_INTERACTION_ACCESSIBILITY_STUDY_01.md`
 - `docs/evidence/WEBSITE_V2_2_VIEWPORT_CENTERED_LETTERING_COMPARISON_01.md`

@@ -1,0 +1,941 @@
+{
+  "source": "https://fee28157-kymaean-site.wirylasc.workers.dev",
+  "viewports": [
+    {
+      "width": 2048,
+      "height": 1199,
+      "overflowX": 0,
+      "brandCenter": 1024,
+      "viewportCenter": 1024,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.55,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.79,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.16,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.136,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    },
+    {
+      "width": 1235,
+      "height": 647,
+      "overflowX": 0,
+      "brandCenter": 617.5,
+      "viewportCenter": 617.5,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.54,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.79,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.165,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.146,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    },
+    {
+      "width": 1138,
+      "height": 1354,
+      "overflowX": 0,
+      "brandCenter": 569,
+      "viewportCenter": 569,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.55,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.79,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.16,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.135,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    },
+    {
+      "width": 1227,
+      "height": 1422,
+      "overflowX": 0,
+      "brandCenter": 613.5,
+      "viewportCenter": 613.5,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.55,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.79,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.16,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.135,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflowX": 0,
+      "brandCenter": 384,
+      "viewportCenter": 384,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.39,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.53,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.12,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.116,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    },
+    {
+      "width": 600,
+      "height": 900,
+      "overflowX": 0,
+      "brandCenter": 300,
+      "viewportCenter": 300,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.39,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.53,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.12,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.116,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    },
+    {
+      "width": 599,
+      "height": 900,
+      "overflowX": 0,
+      "brandCenter": 299.5,
+      "viewportCenter": 299.5,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.39,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.53,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.12,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.116,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflowX": 0,
+      "brandCenter": 195,
+      "viewportCenter": 195,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.39,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.53,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.12,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.115,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    },
+    {
+      "width": 320,
+      "height": 640,
+      "overflowX": 0,
+      "brandCenter": 160,
+      "viewportCenter": 160,
+      "wordmarkContained": true,
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "presenceNatural": [
+        625,
+        1278
+      ],
+      "personNatural": [
+        318,
+        745
+      ],
+      "state": "place",
+      "geometry": {
+        "presence": {
+          "heightRatio": 0.39,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "person": {
+          "heightRatio": 0.53,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "trace": {
+          "heightRatio": 0.12,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        },
+        "life": {
+          "heightRatio": 0.115,
+          "withinX": true,
+          "withinY": true,
+          "overlapsBrand": false
+        }
+      }
+    }
+  ],
+  "interaction": {
+    "initial": {
+      "state": "place",
+      "renderState": "place",
+      "transitioning": false,
+      "index": 0,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "timing": {
+      "fadeOutMs": 280,
+      "emptyHoldMs": 300,
+      "revealDelayMs": 580
+    },
+    "keyboardPresence": {
+      "state": "presence",
+      "renderState": "presence",
+      "transitioning": false,
+      "index": 1,
+      "reducedMotion": false,
+      "activeTag": "MAIN",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0.92",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "wheelPersonDuringEmpty": {
+      "state": "person",
+      "renderState": "empty",
+      "transitioning": true,
+      "index": 2,
+      "reducedMotion": false,
+      "activeTag": "MAIN",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "wheelPersonRevealed": {
+      "state": "person",
+      "renderState": "person",
+      "transitioning": false,
+      "index": 2,
+      "reducedMotion": false,
+      "activeTag": "MAIN",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0.68292",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "keyboardReverseDuringEmpty": {
+      "state": "presence",
+      "renderState": "empty",
+      "transitioning": true,
+      "index": 1,
+      "reducedMotion": false,
+      "activeTag": "MAIN",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "keyboardReverseRevealed": {
+      "state": "presence",
+      "renderState": "presence",
+      "transitioning": false,
+      "index": 1,
+      "reducedMotion": false,
+      "activeTag": "MAIN",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0.838982",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "wheelBurstSingleStep": {
+      "state": "presence",
+      "renderState": "presence",
+      "transitioning": false,
+      "index": 1,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "wheelSecondGesture": {
+      "state": "person",
+      "renderState": "empty",
+      "transitioning": true,
+      "index": 2,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0.916952",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "wheelSecondGestureRevealed": {
+      "state": "person",
+      "renderState": "person",
+      "transitioning": false,
+      "index": 2,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0.751255",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "wheelChapterSequence": [
+      {
+        "state": "presence",
+        "renderState": "presence",
+        "transitioning": false,
+        "index": 1,
+        "reducedMotion": false,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0.92",
+          "person": "0",
+          "trace": "0",
+          "life": "0"
+        }
+      },
+      {
+        "state": "person",
+        "renderState": "person",
+        "transitioning": false,
+        "index": 2,
+        "reducedMotion": false,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0",
+          "person": "0.96",
+          "trace": "0",
+          "life": "0"
+        }
+      },
+      {
+        "state": "trace",
+        "renderState": "trace",
+        "transitioning": false,
+        "index": 3,
+        "reducedMotion": false,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0",
+          "person": "0",
+          "trace": "1",
+          "life": "0"
+        }
+      },
+      {
+        "state": "life",
+        "renderState": "life",
+        "transitioning": false,
+        "index": 4,
+        "reducedMotion": false,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0",
+          "person": "0",
+          "trace": "0",
+          "life": "0.68"
+        }
+      }
+    ],
+    "wheelReverseSequence": [
+      {
+        "state": "trace",
+        "renderState": "trace",
+        "transitioning": false,
+        "index": 3,
+        "reducedMotion": false,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0",
+          "person": "0",
+          "trace": "1",
+          "life": "0"
+        }
+      },
+      {
+        "state": "person",
+        "renderState": "person",
+        "transitioning": false,
+        "index": 2,
+        "reducedMotion": false,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0",
+          "person": "0.96",
+          "trace": "0",
+          "life": "0"
+        }
+      },
+      {
+        "state": "presence",
+        "renderState": "presence",
+        "transitioning": false,
+        "index": 1,
+        "reducedMotion": false,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0.92",
+          "person": "0",
+          "trace": "0",
+          "life": "0"
+        }
+      },
+      {
+        "state": "place",
+        "renderState": "place",
+        "transitioning": false,
+        "index": 0,
+        "reducedMotion": false,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0",
+          "person": "0",
+          "trace": "0",
+          "life": "0"
+        }
+      }
+    ],
+    "touch": {
+      "state": "presence",
+      "renderState": "presence",
+      "transitioning": false,
+      "index": 1,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "rapidForwardStart": {
+      "state": "life",
+      "renderState": "empty",
+      "transitioning": true,
+      "index": 4,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "rapidForwardSettled": {
+      "state": "life",
+      "renderState": "life",
+      "transitioning": false,
+      "index": 4,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0.532076"
+      }
+    },
+    "rapidReverseStart": {
+      "state": "presence",
+      "renderState": "empty",
+      "transitioning": true,
+      "index": 1,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0.532076"
+      }
+    },
+    "rapidReverseSettled": {
+      "state": "presence",
+      "renderState": "presence",
+      "transitioning": false,
+      "index": 1,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0.719738",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "focusAfterRetarget": {
+      "activeId": "main",
+      "state": "presence",
+      "renderState": "empty"
+    },
+    "automaticEmptyProof": {
+      "state": "person",
+      "renderState": "empty",
+      "transitioning": true,
+      "index": 2,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "automaticRevealProof": {
+      "state": "person",
+      "renderState": "person",
+      "transitioning": false,
+      "index": 2,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0.751013",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "interruptedEmptyRetarget": {
+      "state": "life",
+      "renderState": "empty",
+      "transitioning": true,
+      "index": 4,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    },
+    "interruptedRetargetSettled": {
+      "state": "life",
+      "renderState": "life",
+      "transitioning": false,
+      "index": 4,
+      "reducedMotion": false,
+      "activeTag": "BODY",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0.637514"
+      }
+    },
+    "endKey": {
+      "state": "life",
+      "renderState": "life",
+      "transitioning": false,
+      "index": 4,
+      "reducedMotion": false,
+      "activeTag": "MAIN",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0.68"
+      }
+    },
+    "homeKey": {
+      "state": "place",
+      "renderState": "place",
+      "transitioning": false,
+      "index": 0,
+      "reducedMotion": false,
+      "activeTag": "MAIN",
+      "overflowX": 0,
+      "visible": {
+        "presence": "0",
+        "person": "0",
+        "trace": "0",
+        "life": "0"
+      }
+    }
+  },
+  "reducedMotion": {
+    "initial": {
+      "snapshot": {
+        "state": "place",
+        "renderState": "place",
+        "transitioning": false,
+        "index": 0,
+        "reducedMotion": true,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0",
+          "person": "0",
+          "trace": "0",
+          "life": "0"
+        }
+      },
+      "animations": 0
+    },
+    "sequence": {
+      "states": [
+        "presence",
+        "person",
+        "trace",
+        "life"
+      ],
+      "snapshot": {
+        "state": "life",
+        "renderState": "life",
+        "transitioning": false,
+        "index": 4,
+        "reducedMotion": true,
+        "activeTag": "BODY",
+        "overflowX": 0,
+        "visible": {
+          "presence": "0",
+          "person": "0",
+          "trace": "0",
+          "life": "0.68"
+        }
+      },
+      "animations": 0
+    }
+  },
+  "accessibility": {
+    "text200": {
+      "overflowX": 0,
+      "wordmarkContained": true
+    },
+    "focus": {
+      "activeId": "main",
+      "matchesFocus": true,
+      "matchesFocusVisible": true,
+      "boxShadow": "rgba(221, 213, 199, 0.72) 0px 0px 0px 2px inset"
+    },
+    "forcedColors": {
+      "matches": true,
+      "sceneDisplay": "none",
+      "presenceDisplay": "none",
+      "wordmarkDisplay": "block",
+      "statusDisplay": "block"
+    }
+  },
+  "assets": {
+    "stage": [
+      1672,
+      941
+    ],
+    "presence": [
+      625,
+      1278
+    ],
+    "person": [
+      318,
+      745
+    ]
+  }
+}
