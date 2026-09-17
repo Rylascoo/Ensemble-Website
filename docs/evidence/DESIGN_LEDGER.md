@@ -4065,3 +4065,19 @@ Final browser evidence covers 24 cases: all three states at 1600/1180/680/390/32
 This branch also ports only the already-proven shared CHARART registry/verifier integrity repair from `d03b086145e7764cc59c31ae9d434e79da76e061`; no Home-study artifact or Home-review ledger entry is imported and no Character authority changes.
 
 **Next boundary:** preserve FIRSTUSE-01 as a review candidate. Returning-user Home Options A/B remain separately deferred. Q-DESIGN-20 remains event-driven and takes priority immediately when Engineering publishes the required stable native checkpoint/evidence.
+
+## L-261 - APPUI-FIRSTUSE-01 interaction/accessibility closeout promotes carrier 02 as the review surface
+
+**State:** INTERACTION + ACCESSIBILITY CLOSEOUT PASS / CARRIER 02 REVIEW SURFACE / NOT ADOPTED / Q-DESIGN-20 UNCHANGED
+
+Director continuation within the already-open FIRSTUSE scope closes the remaining browser interaction question without reopening the visual concept. Carrier 01 is preserved as predecessor evidence; `prototypes/appui-01/first-use-entry-experience-02.html` becomes the current FIRSTUSE review surface.
+
+Carrier 02 adds deterministic focus continuity: Begin Production moves focus into Production name; Tab proceeds name -> optional situation -> Create; Create moves focus to Shape current situation; Back and Return to Home restore focus to Begin a Production in the initiating theme surface. Light/Dark field values remain synchronized. The illustrative dead Import Production control was removed because import behavior is outside this study and should not masquerade as an implemented interaction.
+
+The unchanged 24-case responsive/stress matrix passes with zero page/internal overflow, duplicate IDs, broken labels or external resources. A separate 14-check CDP interaction probe passes keyboard activation, forward/return focus, form order, Light/Dark parity, forced-colors focus visibility, reduced-motion behavior and 320px keyboard entry. Two probe defects were corrected and rerun from clean state before closeout; neither required carrier redesign.
+
+`docs/evidence/APPUI_FIRSTUSE_01_INTERACTION_ACCESSIBILITY_CLOSEOUT_02_2026_09_17.json` records exact evidence hashes and the browser-only validation boundary. Durable machine outputs are preserved as `APPUI_FIRSTUSE_01_BROWSER_MATRIX_02_2026_09_17.json` and `APPUI_FIRSTUSE_01_INTERACTION_PROBE_02_2026_09_17.json`. No WinUI/native accessibility claim, final Production creation/import schema, returning-user Home selection, Bellweather placement, Stage/provider/Performer semantics, Website work or Engineering mutation is created.
+
+**Next boundary:** preserve FIRSTUSE carrier 02 for later visual review. Q-DESIGN-20 remains event-driven and takes immediate priority when Engineering publishes the required stable native checkpoint/evidence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

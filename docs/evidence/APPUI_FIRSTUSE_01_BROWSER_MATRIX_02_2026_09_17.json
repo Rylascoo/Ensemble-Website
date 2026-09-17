@@ -1,0 +1,410 @@
+[
+  {
+    "mode": "normal",
+    "state": "entry",
+    "forcedColors": false,
+    "viewport": {
+      "width": 1600,
+      "scrollWidth": 1600,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "begin",
+    "forcedColors": false,
+    "viewport": {
+      "width": 1600,
+      "scrollWidth": 1600,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "handoff",
+    "forcedColors": false,
+    "viewport": {
+      "width": 1600,
+      "scrollWidth": 1600,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "entry",
+    "forcedColors": false,
+    "viewport": {
+      "width": 1180,
+      "scrollWidth": 1180,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "begin",
+    "forcedColors": false,
+    "viewport": {
+      "width": 1180,
+      "scrollWidth": 1180,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "handoff",
+    "forcedColors": false,
+    "viewport": {
+      "width": 1180,
+      "scrollWidth": 1180,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "entry",
+    "forcedColors": false,
+    "viewport": {
+      "width": 680,
+      "scrollWidth": 680,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "begin",
+    "forcedColors": false,
+    "viewport": {
+      "width": 680,
+      "scrollWidth": 680,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "handoff",
+    "forcedColors": false,
+    "viewport": {
+      "width": 680,
+      "scrollWidth": 680,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "entry",
+    "forcedColors": false,
+    "viewport": {
+      "width": 390,
+      "scrollWidth": 390,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "begin",
+    "forcedColors": false,
+    "viewport": {
+      "width": 390,
+      "scrollWidth": 390,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "handoff",
+    "forcedColors": false,
+    "viewport": {
+      "width": 390,
+      "scrollWidth": 390,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "entry",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 320,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "begin",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 320,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "normal",
+    "state": "handoff",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 320,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "forced",
+    "state": "entry",
+    "forcedColors": true,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 320,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "forced",
+    "state": "begin",
+    "forcedColors": true,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 320,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "forced",
+    "state": "handoff",
+    "forcedColors": true,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 320,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "text200",
+    "state": "entry",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 305,
+      "scrollHeight": 5558
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "text200",
+    "state": "begin",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 305,
+      "scrollHeight": 6299
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "text200",
+    "state": "handoff",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 305,
+      "scrollHeight": 5919
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "spacing",
+    "state": "entry",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 320,
+      "scrollHeight": 2600
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "spacing",
+    "state": "begin",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 305,
+      "scrollHeight": 2860
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  },
+  {
+    "mode": "spacing",
+    "state": "handoff",
+    "forcedColors": false,
+    "viewport": {
+      "width": 320,
+      "scrollWidth": 305,
+      "scrollHeight": 2634
+    },
+    "overflowElements": [],
+    "appCount": 2,
+    "activePanels": 2,
+    "selectedHome": 2,
+    "duplicateIds": [],
+    "brokenLabels": 0,
+    "externalResources": 0
+  }
+]

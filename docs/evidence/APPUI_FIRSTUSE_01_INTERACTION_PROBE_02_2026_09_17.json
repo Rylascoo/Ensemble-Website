@@ -1,0 +1,76 @@
+{
+  "checks": [
+    {
+      "name": "enter_to_begin_focus_name",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "name_tab_to_situation",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "situation_tab_to_create",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "light_dark_values_sync",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "create_to_handoff_focus_shape",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "handoff_title_sync",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "return_home_focus_begin",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "back_focus_begin",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "dark_enter_focus_name",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "forced_colors_active",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "forced_focus_visible",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "reduced_motion_active",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "reduced_motion_zero",
+      "value": true,
+      "pass": true
+    },
+    {
+      "name": "narrow_enter_focus_name",
+      "value": true,
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "failed": []
+}
