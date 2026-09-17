@@ -4029,3 +4029,19 @@ Director continuation authorizes this recheck but cannot substitute for the miss
 **Next boundary:** HOLD until Phase D freezes product-runtime contracts, P2 exposes a real native shell/resource/localization constraint, E0 evidence releases a blocked axis, or another named trigger in Audit 04 materially changes.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN PREREQUISITE AUDIT.**
+
+## L-255 - Q-PROD-01 Director amendment opens the first APPUI Design-to-native implementation handoff
+
+**State:** APPUI-NATIVE-HANDOFF-01 READY FOR ENGINEERING CONSUMPTION / Q-PROD-01 ACTIVE / NATIVE SURFACE NOT YET MATERIALIZED
+
+Engineering `main@933edb017c29389f573bb1d86202676fef64fa63` materially changes the governing contract through `KYMAEAN_PRODUCT_BUILD_AHEAD_OF_DEFERRED_E0_VALIDATION_DIRECTOR_AMENDMENT_2026_09_17.md`: real product construction, native ARM64 shell work and UI/design implementation convergence may proceed now while E0-D/E/F/G remain deferred validation obligations. This supersedes the timing conclusion of L-254 / Audit 05 without making that earlier exact-ref audit erroneous.
+
+`docs/evidence/APPUI_01_Q_PROD_01_DESIGN_TO_NATIVE_REENTRY_AUDIT_06.json` reopens the implementation lane and resolves the apparent Studio/Stage/Archive conflict. Engineering owns those as product-semantic spaces; current Design law explicitly rejects the recovered Studio/Stage/Archive permanent top-level navigation topology. `PKT-COMP-02-01` instead validates quiet Home/Productions/Settings durable navigation, while Production-shaping/current-possibility, Live Stage and causal/history/deep inspection provide the corresponding task-dependent semantic workspaces. Native routing must therefore keep semantic destinations independent from visible permanent navigation labels.
+
+`docs/KYMAEAN_APPUI_NATIVE_IMPLEMENTATION_HANDOFF_01.md` plus `docs/evidence/APPUI_01_NATIVE_IMPLEMENTATION_REFERENCE_MAP_01.json` translate current APPUI authority into the Q-PROD-01 shell scaffold: Light F2/Dark D3 roles, MAT F1, TYP F1 + Source Sans 3 design reference, STA F2, FICON F1 + the eight Segoe Fluent mappings, invariant dark Stage with S1 presentation reference, shell/task hierarchy, placeholder law and native review-return evidence. These are provisional implementation inputs, not final production tokens, shipping font/Stage assets, WinUI control-class choices or native validation claims.
+
+`PKT-APPUI-NATIVE-HANDOFF-01` is ready for Engineering consumption. `APPUI_01_Q_PROD_01_ENGINEERING_DISPATCH_01.json` requests exact ARM64 shell evidence, same-state Light/Dark captures, route/state mapping, keyboard/focus return, high-contrast/minimum-window observations and any real native contradiction. The Q-PROD-01 worktree exists at `C:/Users/Wiryl/Sol Dev/Ensemble-Project-Worktrees/q-prod-01-vertical-slice-2026-09-17` at the same Engineering baseline and contains no native UI files at handoff activation.
+
+**Next boundary:** Engineering consumes the packet and materializes the first native shell scaffold. Design Sol re-enters on that exact native evidence or a material Product/native constraint; do not continue speculative tokenization or redesign in advance of implementation evidence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
