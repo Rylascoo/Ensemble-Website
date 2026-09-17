@@ -275,7 +275,7 @@
     "C0 Threshold K remains the provisional primary-symbol incumbent after SYM-02 closed with zero refinement/independent-concept survivors; no final symbol authority exists",
     "F1 Ratio Ladder is the provisional composition-supported role grammar from TYP-02, but final typeface/font implementation remains unresolved; system-ui is measurement-only",
     "O3 Balanced Hierarchy is the Director-approved temporary W0 wordmark incumbent for integration, but final wordmark/master geometry, device rendering and trademark clearance remain unresolved",
-    "final color mechanism/palette remains unresolved; CLR-01 is intentionally parked until app-asset / whole-app synthesis convergence, with Design Sol F2/F1 evidence preserved and no Director family selection",
+    "APP Light F2 / Dark D3 static theme direction is resolved by later real-app evidence; shared-brand/website final palette and production color tokens remain separate unresolved authority.",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
     "F1 Subtractive Channel is composition-compatible with exact C0, STA F2 and MOT F1A/CS2 on CMP-01 neutral carriers, but Mineral Theater/CLR/type/real-product synthesis remains untested; no final material system exists",
@@ -383,7 +383,13 @@
     "latest_stage_presentation_result": "docs/evidence/APPUI_01_STAGE_PRESENTATION_SUCCESSOR_RESULT_01.json",
     "latest_stage_presentation_result_sha256": "7c179b07b508316476cd552318ce8c72a0b31701875976f20f90614f9ca7db04",
     "active_stage_presentation_packet": "PKT-APPUI-STAGE-PRESENTATION-01",
-    "active_stage_presentation_packet_sha256": "c5ba4e853aef976d53274ea366612c3aa0b12dab8fa958a37ea506dba04fb157"
+    "active_stage_presentation_packet_sha256": "c5ba4e853aef976d53274ea366612c3aa0b12dab8fa958a37ea506dba04fb157",
+    "active_typography_asset_program": "TYP-ASSET-01",
+    "active_typography_asset_status": "PRE_EXPOSURE_METHOD_AND_SOURCES_FROZEN",
+    "active_typography_asset_reentry": "docs/evidence/APPUI_01_POST_STAGE_PRESENTATION_VISUAL_SYSTEM_REENTRY_AUDIT_02.json",
+    "active_typography_asset_method": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_METHOD_01.json",
+    "active_typography_asset_source_manifest": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_SOURCE_MANIFEST_01.json",
+    "project_queue_reconciliation_debt": "Q-DESIGN-19 is stale relative to later Website color authority; defer Project mutation while E0-D is active."
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

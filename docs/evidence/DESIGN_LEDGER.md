@@ -3938,3 +3938,15 @@ Evidence is preserved in synced Drive under `04 Lane A — Product UI Reintegrat
 **Next boundary:** HOLD further Stage presentation refinement. Re-enter only for a new lawful Director/Product/native/implementation trigger or separately authorized visual-system program; do not invent another extraction tweak or COMP-12.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-249 - Post-S1 re-entry selects final typeface/font asset convergence as the next independent visual-system gate
+
+**State:** TYP-ASSET-01 ACTIVE / PRE-EXPOSURE METHOD + SOURCES FROZEN / NO CANDIDATE REVIEW YET
+
+Director continuation at the post-S1 hold satisfies the explicit re-entry trigger preserved by `APPUI_01_PHASE_3_POST_FICON_REMAINING_STATIC_AXES_AUDIT_01.json`: final typeface/font asset selection was `OPEN_NOT_ACTIVATED_BY_THIS_AUDIT` and required a separately authorized asset/shared-system gate. The new re-entry audit rejects COMP-12, S2 Stage extraction, motion, Product-vocabulary icons and native handoff as current successors and selects `TYP-ASSET-01`.
+
+The frozen method inherits TYP-02 F1 Ratio Ladder unchanged and changes one variable only: font family. System UI / Segoe UI is the measurement control; four self-hostable SIL OFL 1.1 challengers are Inter, Source Sans 3, Instrument Sans and Atkinson Hyperlegible Next. Exact candidate/font-license hashes, variable axes and Æ/æ coverage are frozen before exposure. App and Website comparison surfaces must use identical content/layout/role values across candidates, and no post-exposure family-specific tracking, size, weight or width rescue is permitted.
+
+The Project execution queue still lists historical `Q-DESIGN-19` CLR work as ACTIVE, but later Website authority already selected Light F2/Dark D3. Because Engineering is inside active E0-D execution authority, Design Sol records this as queue-reconciliation debt rather than mutating Project merely for Design synchronization.
+
+**Next boundary:** materialize and preflight the frozen APP+WEB carrier, then apply the preregistered visual falsifiers. Multiple materially valid survivors require Director taste; one survivor may advance under standing delegation; zero survivors close the gate.

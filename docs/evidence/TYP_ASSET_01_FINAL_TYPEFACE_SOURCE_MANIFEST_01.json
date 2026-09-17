@@ -1,0 +1,92 @@
+{
+  "schema": "kymaean.typ-asset-source-manifest.v1",
+  "status": "FROZEN_PRE_EXPOSURE_SOURCES",
+  "date": "2026-09-16",
+  "program": "TYP-ASSET-01",
+  "control": {
+    "id": "C0_SYSTEM_UI",
+    "css": "system-ui, \"Segoe UI Variable\", \"Segoe UI\", sans-serif",
+    "purpose": "measurement/control only; no cross-surface redistribution authority"
+  },
+  "candidates": [
+    {
+      "id": "F1_INTER",
+      "family": "Inter",
+      "font_file": "inter.ttf",
+      "font_sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "font_bytes": 876576,
+      "license": "SIL OFL 1.1",
+      "license_sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "axes": {
+        "opsz": [
+          14,
+          32
+        ],
+        "wght": [
+          100,
+          900
+        ]
+      },
+      "AE": true
+    },
+    {
+      "id": "F2_SOURCE_SANS_3",
+      "family": "Source Sans 3",
+      "font_file": "sourcesans3.ttf",
+      "font_sha256": "042fe2cc0b933e328410d7acbd0aa6a1873dca5aef81875f4bc214b08825c7b9",
+      "font_bytes": 646340,
+      "license": "SIL OFL 1.1",
+      "license_sha256": "09746787287a289323b0ec3cff4d1a4a801331b82b7207c1e186f5d26619a392",
+      "axes": {
+        "wght": [
+          200,
+          900
+        ]
+      },
+      "AE": true
+    },
+    {
+      "id": "F3_INSTRUMENT_SANS",
+      "family": "Instrument Sans",
+      "font_file": "instrumentsans.ttf",
+      "font_sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1",
+      "font_bytes": 194336,
+      "license": "SIL OFL 1.1",
+      "license_sha256": "9e27a72ed30eb49a08678f6a5d6ed98ec7ba5368f541637ee0683ec9134ef966",
+      "axes": {
+        "wdth": [
+          75,
+          100
+        ],
+        "wght": [
+          400,
+          700
+        ]
+      },
+      "AE": true
+    },
+    {
+      "id": "F4_ATKINSON_HYPERLEGIBLE_NEXT",
+      "family": "Atkinson Hyperlegible Next",
+      "font_file": "atkinsonnext.ttf",
+      "font_sha256": "5a455d1cfa099b601ab70751bb9673e8fe1854dc4500c80e1a220d0d75e31745",
+      "font_bytes": 114552,
+      "license": "SIL OFL 1.1",
+      "license_sha256": "aca6a428580965d2297d1b718042dd427c2a9443ece3b0d02d758e161e0c4030",
+      "axes": {
+        "wght": [
+          200,
+          800
+        ]
+      },
+      "AE": true
+    }
+  ],
+  "source_policy": "Downloaded from the Google Fonts repository distribution on 2026-09-16; candidate bytes are identified by SHA-256. Candidate font binaries/licenses remain research evidence and are not committed as production assets by this gate.",
+  "required_coverage": [
+    "U+00C6 Æ",
+    "U+00E6 æ",
+    "Latin app/website fixture content"
+  ],
+  "admissibility": "PASS_ALL_FOUR_CHALLENGERS"
+}

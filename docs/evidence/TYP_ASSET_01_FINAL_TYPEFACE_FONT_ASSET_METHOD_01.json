@@ -1,0 +1,75 @@
+{
+  "schema": "kymaean.typ-asset-method.v1",
+  "status": "FROZEN_PRE_EXPOSURE_METHOD",
+  "date": "2026-09-16",
+  "program": "TYP-ASSET-01",
+  "question": "Which single self-hostable font family, if any, best realizes TYP-02 F1 Ratio Ladder across the completed Kymaean app shell and current Website text context while remaining subordinate to O3/C0/Stage and preserving reflow/accessibility?",
+  "authority": {
+    "reentry_audit": "docs/evidence/APPUI_01_POST_STAGE_PRESENTATION_VISUAL_SYSTEM_REENTRY_AUDIT_02.json",
+    "typography_packet": "docs/evidence/packets/PKT_TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHY_01.json",
+    "static_app_system": "docs/KYMAEAN_APPUI_PHASE_3_STATIC_APP_VISUAL_SYSTEM_01.md",
+    "source_manifest": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_SOURCE_MANIFEST_01.json",
+    "app_baseline": "89ab1757b18fc9779681dcd719a5cc5501aa0526",
+    "website_main": "e483f0af35166534fff1455f68e287cc9190d91a"
+  },
+  "controlled_inputs": [
+    "TYP-02 F1 Ratio Ladder role order eyebrow < state/support <= body < heading",
+    "completed COMP shell roles and Light F2/Dark D3 static app system",
+    "current Website V2.2 supporting-copy context; O3 wordmark/Threshold K geometry remains unchanged",
+    "one identical content packet per candidate",
+    "same font sizes, weights, line-heights, tracking, layout and color roles for every candidate"
+  ],
+  "candidates": [
+    "C0_SYSTEM_UI control only",
+    "F1_INTER",
+    "F2_SOURCE_SANS_3",
+    "F3_INSTRUMENT_SANS",
+    "F4_ATKINSON_HYPERLEGIBLE_NEXT"
+  ],
+  "candidate_application": {
+    "heading": "650 1.5rem/1.15",
+    "body": "400 1rem/1.5",
+    "support": "400 .875rem/1.45",
+    "state": "600 .85rem/1.3 uppercase",
+    "eyebrow": "600 .75rem/1.3 uppercase",
+    "font_optical_sizing": "auto for all candidates; ignored when unsupported",
+    "width_axis": "default 100 only; no candidate-specific condensation"
+  },
+  "comparison_surfaces": [
+    "real-shell-derived APP surface with navigation, current task, inspector/support, state labels, buttons and Æ fallback sample",
+    "current-production-derived WEB surface with preserved Threshold K/O3 identity treatment and candidate applied only to supporting text"
+  ],
+  "matrix": [
+    "1600",
+    "1024",
+    "390",
+    "320",
+    "320_forced_colors",
+    "320_text_200_percent",
+    "320_text_spacing"
+  ],
+  "mechanical_falsifiers": [
+    "font fails to load or computed candidate family does not apply",
+    "required Æ/æ glyph missing",
+    "horizontal page/internal overflow in any matrix case",
+    "unnamed button or undersized icon control introduced by carrier",
+    "TYP F1 hierarchy collapses mechanically under 200% text or spacing stress",
+    "candidate requires per-family tracking/size/weight rescue"
+  ],
+  "visual_falsifiers": [
+    "typography becomes the primary identity carrier or competes with O3/C0/Stage",
+    "app reads generic SaaS/dashboard/AI-tech rather than quiet authored creative software",
+    "website drifts into luxury-serif/fashion/editorial shorthand or generic startup typography",
+    "state/support labels become instrumentation-heavy or headings become shouty",
+    "body text loses calm readability or dense/narrow app copy becomes tiring",
+    "family-specific metrics materially flatten the F1 Ratio Ladder",
+    "candidate feels conspicuously accessibility-specialized rather than naturally legible"
+  ],
+  "selection_law": "No candidate-specific retune after exposure. Reject any mechanically failed candidate. Apply recursive visual falsification to survivors. If exactly one materially survives, Design Sol may promote it under standing delegation. If two or more remain materially valid and the difference is taste rather than falsification, stop for Director choice. Zero survivors closes without selection.",
+  "non_authority": [
+    "No wordmark/O3 or Threshold K redesign.",
+    "No color/material/state/Stage/component/layout change except uniform responsive containment repair required by the common carrier.",
+    "No production font packaging, native WinUI/XAML mapping, Store claim, website deployment, trademark or final identity authority.",
+    "No Product semantics, motion, Stage interaction or COMP-12."
+  ]
+}
