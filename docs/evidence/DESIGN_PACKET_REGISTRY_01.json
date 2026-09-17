@@ -326,9 +326,9 @@
     "whole_app_synthesis_packets_created": [
       "PKT-APP-SYN-01-01"
     ],
-    "next_synthesis_trigger": "No static-safe successor is currently earned. Re-enter only through a lawful Product/native/implementation/E0/localization/shared-brand trigger or an explicitly scoped successor whose prerequisites are already satisfied.",
+    "next_synthesis_trigger": "Phase D product-runtime architecture or a real P2 native shell/resource/localization constraint; otherwise only another named Product/E0/shared-brand trigger may re-enter Design.",
     "no_silent_gap_filling": true,
-    "latest_reentry_audit": "docs/evidence/APPUI_01_POST_STATIC_ASSET_REENTRY_AUDIT_04.json",
+    "latest_reentry_audit": "docs/evidence/APPUI_01_NATIVE_HANDOFF_PREREQUISITE_AUDIT_05.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
@@ -364,7 +364,7 @@
     "active_appicon_evaluation_sha256": "960d5266aec673010b28a306582d669a3ea7047f414d7bc65567167e634a565d",
     "active_appicon_packet": "PKT-APPICON-01-01",
     "active_appicon_packet_sha256": "9e0782c3e13642c3239e421e5079847da122022f0244400b2f31ddea1f15add0",
-    "latest_reentry_audit_sha256": "97bb7e637f86d9357bc78de7546c9f4eeea5db60045c9cbb1e81e75949a2e336",
+    "latest_reentry_audit_sha256": "d405f17b388d3eb8df3d1fdc97e9e411334d47cf979fa413d5b44f55992a64f2",
     "active_charart_program": "CHARART-01",
     "active_charart_status": "DIRECTOR_TERMINATED_AFTER_VALID_OUTPUT_NO_MASTER_ADOPTED",
     "active_charart_method": "docs/evidence/CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_METHOD_01.json",
@@ -424,7 +424,9 @@
     "active_platform_icon_asset_result_sha256": "938366152baec8e547519410b95fa6a04af03b3545e3c18a93029e6417365983",
     "active_platform_icon_asset_packet_sha256": "8efd5f5056f6db7cde51bbe054b0c328e7d4f9251f31651aa41e79a2d341b1c7",
     "active_platform_icon_asset_carrier_sha256": "185b1fdde804a0778b5f1413c208400a5d044225495bc641277da24f6899b9a9",
-    "active_platform_icon_asset_probe_sha256": "6c833b92344ebe66bb114d13d9d8cd93f40ab63036a7ffbd3886d3e4f8835dc9"
+    "active_platform_icon_asset_probe_sha256": "6c833b92344ebe66bb114d13d9d8cd93f40ab63036a7ffbd3886d3e4f8835dc9",
+    "native_handoff_prerequisite_status": "BLOCKED_PHASE_D_NOT_FROZEN_NO_NATIVE_UI_SURFACE",
+    "native_handoff_prerequisite_audit": "docs/evidence/APPUI_01_NATIVE_HANDOFF_PREREQUISITE_AUDIT_05.json"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

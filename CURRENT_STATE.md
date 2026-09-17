@@ -12,16 +12,19 @@ Design remains isolated on `design/appui01-working-compositions-2026-09-14`; con
 ## Static APP VISUAL asset references
 TYP-ASSET-01 is CLOSED with Source Sans 3 as the current design-reference supporting family above unchanged TYP-02 F1 Ratio Ladder. APPUI-FICON-ASSET-01 is CLOSED PASS: `PKT-FICON-ASSET-01-01` maps the eight already-authorized conventional verbs to the Windows system-backed Segoe Fluent Icons path under unchanged FICON-01 F1 Native Quiet Carrier.
 
-The frozen conventional mappings are Back E72B, Close E711, Search E721, Settings E713, More E712, Navigation disclosure E76C, Play E768 and Pause E769. 20px is the primary design-reference size; 16px/24px are validated scale references. No font/SVG binary is committed or shipped by Design.
+The eight frozen conventional mappings and 16/20/24 scale references are carried by `PKT-FICON-ASSET-01-01`; no font/SVG binary is committed or shipped by Design.
 
 ## Boundaries
-Bespoke/Product-domain icons remain blocked on stable Product vocabulary. Production icon/font packaging, token APIs, localization/fallback policy, native WinUI/XAML mapping validation, ARM64 runtime behavior and Store assets remain separately gated. Motion remains held behind its own evidence trigger. No COMP-12 or S2 Stage extraction is authorized.
+Domain icons, production packaging/tokens, localization/native mapping, runtime/Store behavior and motion remain separately gated. No COMP-12 or S2 is authorized.
 
 ## Cross-lane truth
 Website `main@e483f0af35166534fff1455f68e287cc9190d91a` remains separate. Engineering `main@e01e4eb8de0a04e91c1e8ccd4f11595ab25e1a7f` advances only to E0-D P03 Slot-1 Director-authorized/prewindow activation with provider traffic zero; P03 Slot 2 remains unauthorized. No Product/UI/icon semantics are created. Project `Q-DESIGN-19` remains known stale queue debt; do not mutate Project during the active E0-D boundary merely for Design synchronization.
 
 ## Post-static-asset convergence
-`docs/evidence/APPUI_01_POST_STATIC_ASSET_REENTRY_AUDIT_04.json` finds no additional static-safe gate. Bespoke/domain icons remain Product-vocabulary blocked; motion remains E0-E/behavioral-evidence held; Stage material has no successor evidence; production-token/design-to-native work requires a separate native/implementation trigger rather than sequencing.
+Audit 04 finds no additional static-safe gate; production/native work requires an implementation trigger rather than sequencing.
+
+## Native handoff prerequisite
+`APPUI_01_NATIVE_HANDOFF_PREREQUISITE_AUDIT_05.json` confirms the implementation trigger is not yet satisfied. Engineering has no XAML/`.resw`/app manifest surface; only E0 Core/Harness projects exist. The authoritative roadmap requires Phase D product-runtime architecture before P2 native WinUI baseline and P4 UI/design implementation convergence.
 
 ## Next
-HOLD Design. Re-enter only through a lawful Product/native/implementation/E0/localization/shared-brand trigger or an explicitly scoped successor whose prerequisites are satisfied. Do not invent COMP-12, S2, domain glyphs or production tokens by sequence alone.
+HOLD Design until Phase D/P2 exposes real Application/native resource/layout/localization constraints, E0 evidence releases a blocked axis, or another named lawful trigger changes authority. Do not invent production tokens, native mappings, COMP-12, S2 or domain glyphs by sequence alone.
