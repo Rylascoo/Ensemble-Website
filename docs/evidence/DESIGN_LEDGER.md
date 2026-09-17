@@ -3950,3 +3950,21 @@ The frozen method inherits TYP-02 F1 Ratio Ladder unchanged and changes one vari
 The Project execution queue still lists historical `Q-DESIGN-19` CLR work as ACTIVE, but later Website authority already selected Light F2/Dark D3. Because Engineering is inside active E0-D execution authority, Design Sol records this as queue-reconciliation debt rather than mutating Project merely for Design synchronization.
 
 **Next boundary:** materialize and preflight the frozen APP+WEB carrier, then apply the preregistered visual falsifiers. Multiple materially valid survivors require Director taste; one survivor may advance under standing delegation; zero survivors close the gate.
+
+## L-250 - TYP-ASSET-01 selects Source Sans 3 as the sole design-reference typeface survivor
+
+**State:** SOURCE SANS 3 PROVISIONAL INCUMBENT / PKT-TYP-ASSET-01-01 ACTIVE / PRODUCTION FONT HANDOFF NOT AUTHORIZED
+
+The preregistered five-family comparison closed without candidate retuning. The first browser exposure is excluded from design evidence because the shared carrier overflowed even under the system control at 1024 and under text/spacing stress. Four common-only repairs restored the frozen comparison: generic board-heading wrapping, outer comparison stacking at <=1200px, vertical narrow navigation, and a 120px mid-width navigation column. Font bytes and the frozen F1 role values did not change.
+
+The final matrix contains 35 of 35 clean candidate/case cells across 1600/1024/390/320, forced colors, 200% text and text-spacing stress. Every challenger loads; overflow, unnamed controls and external resources are zero; keyboard focus remains 2px with 2px offset.
+
+Visual falsification leaves one material survivor. **Source Sans 3** preserves the F1 Ratio Ladder with calm humanist body texture, restrained state/support labels and stable Light/Dark behavior while remaining quiet beside exact O3/Threshold K on the Website context. Inter fails as generic system/SaaS; Instrument Sans becomes too overtly contemporary/editorial; Atkinson Hyperlegible Next reads as conspicuously accessibility-specialized. The system UI/Segoe control remains ineligible as measurement/platform control.
+
+`PKT-TYP-ASSET-01-01` therefore becomes the current design-reference typeface packet. This selects no production font package, subsetting/fallback/localization policy, native WinUI/XAML tokens, Website deployment, Store/runtime result or final shared identity.
+
+Final race reconciliation records Website `main@e483f0af35166534fff1455f68e287cc9190d91a` and Engineering `main@2c5afea71b3f3a03413e80f014f2ddeaa7ae1bd8`. Engineering advanced only through E0-D P02 Slot-2 terminal evidence: P02 is fully consumed/noncontributing and P03 remains separately unauthorized. No Product/UI/typography semantics change the TYP-ASSET-01 result; concurrent Website and APPUI streams remain deliberately unmerged.
+
+**Next boundary:** HOLD typography refinement until production typography/native implementation evidence, localization/coverage contradiction, changed shared-brand authority or an explicitly authorized successor. Project `Q-DESIGN-19` remains known stale queue debt and is not mutated during active E0-D.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

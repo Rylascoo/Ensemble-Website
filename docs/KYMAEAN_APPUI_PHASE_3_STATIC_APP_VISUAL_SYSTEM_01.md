@@ -64,9 +64,9 @@ Required properties:
 - channel amplitude may compress responsively, but the underlying topology remains legible;
 - material geometry never carries selection, focus, loading, success, warning, causality, Character identity, Stage state, or navigation direction;
 - bounded semantic panels may exist when content requires grouping, but repeated bordered rectangles must not become the visual identity mechanism.
-## 5. TYP-02 F1 - Ratio Ladder
+## 5. TYP-02 F1 - Ratio Ladder + TYP-ASSET-01 Source Sans 3
 
-Typography remains a subordinate hierarchy mechanism. System UI / Segoe UI remains the current measurement carrier; no final typeface is selected here.
+Typography remains a subordinate hierarchy mechanism. TYP-ASSET-01 selects **Source Sans 3** as the current design-reference supporting typeface above the unchanged F1 Ratio Ladder. System UI / Segoe UI remains historical measurement/control evidence rather than the selected family. This selection does not create production font packaging, native typography tokens, Website deployment or runtime authority.
 
 The durable role order is:
 
@@ -161,7 +161,7 @@ This static app visual system does not select or freeze:
 
 - a final production token package or naming API;
 - a final shipping palette beyond the selected static design direction;
-- final typeface files, font metrics or typography implementation tokens;
+- production font packaging/subsetting, fallback/localization coverage policy, native font mapping, font metrics or typography implementation tokens;
 - final icon family or icon asset package;
 - motion, transitions or transcript-dependent micro-interactions;
 - Stage color/material successor authority;
@@ -171,10 +171,10 @@ This static app visual system does not select or freeze:
 
 ## 12. Change law
 
-F2 Light, D3 Dark, MAT F1, TYP F1 and STA F2 may not be silently retuned in successor APP VISUAL work. A materially different role value or mechanism requires a named successor with evidence and explicit supersession.
+F2 Light, D3 Dark, MAT F1, TYP F1, Source Sans 3 and STA F2 may not be silently retuned or replaced in successor APP VISUAL work. A materially different role value or mechanism requires a named successor with evidence and explicit supersession.
 
 A responsive repair that preserves the selected mechanism and semantics is not a visual-system change. A color, topology, role hierarchy or state-carrier change is.
 
 ## 13. Next boundary
 
-Create and validate a compact static app-visual reference carrier from this specification, then audit it against the ten accepted section carriers. The carrier is a design reference only; it must not become a production-token package or substitute for real application-state authority.
+The static app visual system now includes the Source Sans 3 design-reference typeface selected by TYP-ASSET-01. Hold further typography refinement until a separately authorized production typography/native handoff, localization/coverage contradiction, changed shared-brand contract or named successor gate. This document remains design authority only and must not be treated as a production-token or native implementation package.

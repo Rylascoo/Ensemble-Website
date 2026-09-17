@@ -1,0 +1,126 @@
+{
+  "schema": "kymaean.typ-asset-result.v1",
+  "status": "PASS_SOURCE_SANS_3_SOLE_SURVIVOR",
+  "date": "2026-09-16",
+  "program": "TYP-ASSET-01",
+  "method": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_METHOD_01.json",
+  "method_sha256": "b5a083174f9713e9908b09f46ae48215c407dc3fda52955493d9db7065228bbe",
+  "source_manifest": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_SOURCE_MANIFEST_01.json",
+  "source_manifest_sha256": "c911f555af5798fc04d0769fb594049db420a8215b135beef1edb2c4e7ec6602",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "branch": "design/appui01-working-compositions-2026-09-14",
+    "pre_exposure_freeze_commit": "6b5cc9c59e541609692aa559f079ac9a39625114",
+    "website_main_reconciled": "e483f0af35166534fff1455f68e287cc9190d91a",
+    "engineering_main_reconciled": "2c5afea71b3f3a03413e80f014f2ddeaa7ae1bd8",
+    "director_trigger": "continue at post-S1 visual-system hold",
+    "close_reconciliation_effect": "Engineering advanced through E0-D P02 Slot-2 terminal evidence only: P02 is fully consumed/noncontributing and P03 remains separately unauthorized. No Product/UI/typography semantics alter TYP-ASSET-01."
+  },
+  "selected": {
+    "id": "F2_SOURCE_SANS_3",
+    "family": "Source Sans 3",
+    "font_sha256": "042fe2cc0b933e328410d7acbd0aa6a1873dca5aef81875f4bc214b08825c7b9",
+    "font_bytes": 646340,
+    "license": "SIL OFL 1.1",
+    "license_sha256": "09746787287a289323b0ec3cff4d1a4a801331b82b7207c1e186f5d26619a392",
+    "axes": {
+      "wght": [
+        200,
+        900
+      ]
+    },
+    "glyph_coverage": [
+      "U+00C6 Æ",
+      "U+00E6 æ"
+    ],
+    "role_grammar": "TYP-02 F1 Ratio Ladder unchanged"
+  },
+  "control": {
+    "id": "C0_SYSTEM_UI",
+    "disposition": "INELIGIBLE_CONTROL_ONLY",
+    "finding": "Mechanically clean after shared-carrier repair but remains measurement/platform control, not a self-hosted final design-reference asset."
+  },
+  "rejections": [
+    {
+      "id": "F1_INTER",
+      "disposition": "FAIL_VISUAL_GENERIC_SAAS_SYSTEM",
+      "finding": "Mechanically clean but remains too close to generic system/SaaS UI; does not add enough authored humanist character to justify replacing the control."
+    },
+    {
+      "id": "F3_INSTRUMENT_SANS",
+      "disposition": "FAIL_VISUAL_OVERASSERTIVE_EDITORIAL_STARTUP",
+      "finding": "Mechanically clean but its contemporary/rounded editorial voice becomes too conspicuous in headings and dark UI and competes more with O3/C0 than the frozen subordinate-typography law allows."
+    },
+    {
+      "id": "F4_ATKINSON_HYPERLEGIBLE_NEXT",
+      "disposition": "FAIL_VISUAL_ACCESSIBILITY_SPECIALIZED_VOICE",
+      "finding": "Mechanically clean and highly legible, but its differentiated forms read as conspicuously accessibility-specialized rather than naturally integrated Kymaean supporting typography."
+    }
+  ],
+  "visual_judgment": "Source Sans 3 is the sole material survivor: calm humanist body texture, clear F1 Ratio Ladder, restrained state/support labels, stable Light/Dark behavior, and quiet Website supporting copy that leaves exact O3/Threshold K identity dominant.",
+  "execution": {
+    "template": "prototypes/typ-asset-01/final-typeface-app-web.template.html",
+    "template_sha256": "9b534237ed68a43b687eff83c48be8a096823527c65953d0608b78ff9380ffa1",
+    "materializer": "tools/materialize_typ_asset_01.py",
+    "materializer_sha256": "5928b9280a70860ff2f10e8d18b5d9da777f633a7d9ae8cdfbef7cb672596476",
+    "probe": "tools/typ_asset_01_matrix_probe.mjs",
+    "probe_sha256": "dea1650c2907159cbc59499421cac0cbb0fd6c13ffc32666e5867fabe68686c6",
+    "runtime_manifest_sha256": "e30a82f657cac7af8eb34b37397ec6b36fade6b55ca7e502b6f50a0e5a576ffe"
+  },
+  "invalid_first_exposure": {
+    "status": "EXCLUDED_COMMON_CARRIER_DEFECT",
+    "finding": "The first comparison pass produced overflow even for the system control at 1024 and under text/spacing stress, so no candidate result was taken.",
+    "shared_repairs": [
+      "board review heading receives generic overflow wrapping",
+      "outer comparison grid stacks at <=1200px",
+      "narrow navigation stacks vertically",
+      "mid-width common navigation column widened to 120px"
+    ],
+    "candidate_specific_changes": 0,
+    "typographic_value_changes": 0
+  },
+  "final_mechanical": {
+    "candidate_case_cells": 35,
+    "all_pass": true,
+    "cases": [
+      "normal-1600",
+      "normal-1024",
+      "normal-390",
+      "normal-320",
+      "forced-colors-320",
+      "text-200-percent-320",
+      "text-spacing-stress-320"
+    ],
+    "invariants": [
+      "font load PASS for all challengers",
+      "zero page/internal overflow",
+      "zero unnamed buttons",
+      "solid 2px keyboard focus with 2px offset",
+      "zero external resources"
+    ],
+    "matrix_sha256": {
+      "C0_SYSTEM_UI": "f8cbcceca60e5b82d22da73528171e9bed3c439cc28127ac0fb066d9b62440b0",
+      "F1_INTER": "df34efd7ae4c62dcadd7f598a0f5f70940269d0e4dd96629e8d5808a29afa9a1",
+      "F2_SOURCE_SANS_3": "3a355663085c394066389f38ecadf9a765ab572d978391ef6f2df5c8a8cc48dc",
+      "F3_INSTRUMENT_SANS": "0f431da9d4b50da82d76baadf7fbd05c80bff1bba49edd880e2ddfc032981e51",
+      "F4_ATKINSON_HYPERLEGIBLE_NEXT": "cd788078b6e606f36425faa913a9d2c9c94da205b65adba506510d1a4a96f50d"
+    }
+  },
+  "drive_evidence": {
+    "folder": "03 Visual Identity & Artwork / Kymaean / 04 Lane A - Product UI Reintegration - Active / 21 TYP-ASSET-01 Final Typeface Font Asset Convergence 01",
+    "wide_contact_sha256": "7a0622122a1912e8eeee91b5afc5b703d5fed117767f46535d1936513c66faca",
+    "narrow_contact_sha256": "9569c83110ff08b232321253f43a2134dcdb69d32e861991494df2669375da84",
+    "selected_wide_sha256": "f3beabd6f6937e376a94aebf1936463d5c6af40e8249be3f98aecb64b412b59f",
+    "selected_narrow_sha256": "0c313092b3d9f1544873daec8b8b93b50ef1665ab6bb1222e1a57da1c764eeec",
+    "font_binaries_archived": false
+  },
+  "authority_created": "Source Sans 3 becomes the current design-reference typeface asset for the APP visual/shared-system typography layer while TYP-02 F1 Ratio Ladder remains the governing role grammar.",
+  "non_authority": [
+    "No font binary is committed as a production asset.",
+    "No production subsetting/packaging/fallback/localization policy or native WinUI/XAML typography tokens are created.",
+    "No Website deployment/change is authorized by this gate.",
+    "No O3/Threshold K geometry, color, material, Stage, motion, Product semantics or component architecture changes.",
+    "No trademark, Store, runtime or shipping authority."
+  ],
+  "conclusion": "PASS_SOURCE_SANS_3_SOLE_SURVIVOR_DESIGN_REFERENCE_TYPEFACE_SELECTED"
+}

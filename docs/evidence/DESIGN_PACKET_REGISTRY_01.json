@@ -27,15 +27,15 @@
       "path": "docs/evidence/packets/PKT_TYP_01_STRONG_INDEPENDENCE_CLOSURE_01.json",
       "axis": "typography/editorial identity independence",
       "status": "CLOSED_ZERO_SURVIVORS",
-      "current_contribution": "No incumbent; preserve typography as an unresolved whole-system gap",
+      "current_contribution": "Historical strong-independence closure with zero survivors; later TYP-02 F1 Ratio Ladder and TYP-ASSET-01 Source Sans 3 resolve the current role-grammar/typeface design-reference path without rewriting TYP-01.",
       "production_authority": false
     },
     {
       "packet_id": "PKT-CLR-01-01",
       "path": "docs/evidence/packets/PKT_CLR_01_COLOR_LOGIC_GATE_01.json",
       "axis": "cross-surface color-role logic",
-      "status": "PAUSED",
-      "current_contribution": "Director intentionally deferred selection until app-asset / whole-app synthesis convergence; Design Sol's frozen F2 recommendation and F1 alternate remain preserved as local evidence, with no Director family selection",
+      "status": "CONVERGENCE_EVIDENCE_CONSUMED",
+      "current_contribution": "Historical F2/F1 color-logic evidence consumed by later real-app convergence; Light F2 is selected for the APP static theme, while shared-brand/Website final palette and production color tokens remain separate authority.",
       "production_authority": false
     },
     {
@@ -91,7 +91,7 @@
       "path": "docs/evidence/packets/PKT_TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHY_01.json",
       "axis": "composition-supported typography / role grammar / reflow",
       "status": "PROVISIONAL_INCUMBENT",
-      "current_contribution": "F1 Ratio Ladder provisional role grammar; system-ui remains measurement-only and final typeface remains unresolved",
+      "current_contribution": "F1 Ratio Ladder remains the governing role grammar; Source Sans 3 is now selected separately by PKT-TYP-ASSET-01-01 as the design-reference supporting family.",
       "production_authority": false
     },
     {
@@ -269,18 +269,26 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "S1 Stepped Field Extraction is the current shell-facing static Stage presentation reference derived from exact PKT-STAGE-CORE-02 pixels; source Stage authority remains unchanged.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-TYP-ASSET-01-01",
+      "path": "docs/evidence/packets/PKT_TYP_ASSET_01_FINAL_TYPEFACE_01.json",
+      "axis": "APP/shared-system final typeface / font asset convergence above TYP-02 F1",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Source Sans 3 is the current design-reference supporting typeface; production font packaging/native tokens remain separately gated.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
     "C0 Threshold K remains the provisional primary-symbol incumbent after SYM-02 closed with zero refinement/independent-concept survivors; no final symbol authority exists",
-    "F1 Ratio Ladder is the provisional composition-supported role grammar from TYP-02, but final typeface/font implementation remains unresolved; system-ui is measurement-only",
+    "F1 Ratio Ladder remains the selected composition-supported role grammar and Source Sans 3 is now the design-reference supporting family from TYP-ASSET-01; production font packaging/subsetting/fallback/localization/native typography tokens remain unresolved.",
     "O3 Balanced Hierarchy is the Director-approved temporary W0 wordmark incumbent for integration, but final wordmark/master geometry, device rendering and trademark clearance remain unresolved",
     "APP Light F2 / Dark D3 static theme direction is resolved by later real-app evidence; shared-brand/website final palette and production color tokens remain separate unresolved authority.",
     "final hero/static visual-world selection remains unresolved and static causal-mechanism research is paused",
     "provisional F1A/CS2 motion research is not production-tokenized or app/site implemented",
     "F1 Subtractive Channel is composition-compatible with exact C0, STA F2 and MOT F1A/CS2 on CMP-01 neutral carriers, but Mineral Theater/CLR/type/real-product synthesis remains untested; no final material system exists",
     "this registry does not imply that symbol, wordmark, material, iconography, spacing/density, control-state or other axes are final merely because historical, temporary or provisional bounded evidence exists",
-    "Phase-B convergence is resolved and PKT-STAGE-CORE-02 is the current frozen Stage visual baseline with the first context-agnostic causal-field background; final shared identity, palette, typeface, motion tokens, rail provenance, exact background production tokens and implementation authority remain unresolved.",
+    "Phase-B convergence is resolved; PKT-STAGE-CORE-02 remains the frozen Stage source baseline, S1 is the shell-facing Stage presentation, and Source Sans 3 is the design-reference supporting typeface. Final shared identity, shared-brand/website palette, production typography/motion tokens, rail provenance, exact background production tokens and implementation authority remain unresolved.",
     "CIR-S1 Stage redundant-identity cue vocabulary closed with zero survivors; the exact non-color redundant Character identity cue remains unresolved and no F5/reroll/retune is authorized under the closed method",
     "CONE-S1 F2 Balanced Atmospheric Taper failed the frozen full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F2b/reroll/retune is authorized in the closed gate",
     "STATE-S1 F4 Balanced Dual-Channel Ladder failed the frozen exact-incumbent full-Stage integration promotion floor; PKT-STAGE-CORE-02 remains the frozen Stage baseline and no F4b/reroll/retune is authorized in the closed gate.",
@@ -310,7 +318,7 @@
     "whole_app_synthesis_packets_created": [
       "PKT-APP-SYN-01-01"
     ],
-    "next_synthesis_trigger": "Stage presentation is no longer the active gap: S1 is the current provisional shell-facing static presentation above unchanged PKT-STAGE-CORE-02. Re-enter only for a new Director/Product/native/implementation trigger or separately authorized visual-system work; do not invent another Stage extraction tweak.",
+    "next_synthesis_trigger": "Stage presentation and design-reference typeface are now resolved at the static-design level. Re-enter Design only through a new Director/Product/native/implementation/localization trigger or separately authorized visual-system program; do not invent COMP-12, S2 Stage extraction or typeface retuning by sequence.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
@@ -385,11 +393,17 @@
     "active_stage_presentation_packet": "PKT-APPUI-STAGE-PRESENTATION-01",
     "active_stage_presentation_packet_sha256": "c5ba4e853aef976d53274ea366612c3aa0b12dab8fa958a37ea506dba04fb157",
     "active_typography_asset_program": "TYP-ASSET-01",
-    "active_typography_asset_status": "PRE_EXPOSURE_METHOD_AND_SOURCES_FROZEN",
+    "active_typography_asset_status": "SOURCE_SANS_3_PROVISIONAL_INCUMBENT_CLOSED",
     "active_typography_asset_reentry": "docs/evidence/APPUI_01_POST_STAGE_PRESENTATION_VISUAL_SYSTEM_REENTRY_AUDIT_02.json",
     "active_typography_asset_method": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_METHOD_01.json",
     "active_typography_asset_source_manifest": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_SOURCE_MANIFEST_01.json",
-    "project_queue_reconciliation_debt": "Q-DESIGN-19 is stale relative to later Website color authority; defer Project mutation while E0-D is active."
+    "project_queue_reconciliation_debt": "Q-DESIGN-19 is stale relative to later Website color authority; defer Project mutation while E0-D is active.",
+    "active_typography_asset_result": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_RESULT_01.json",
+    "active_typography_asset_packet": "PKT-TYP-ASSET-01-01",
+    "active_typeface_result": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_RESULT_01.json",
+    "active_typeface_result_sha256": "5d8204048e86ab8ecc04fbf7361f67b21151658df7333f34efe64f8b7208d290",
+    "active_typeface_packet": "PKT-TYP-ASSET-01-01",
+    "active_typeface_packet_sha256": "54293eaef21f41757e6445534e35a8a0186447f7c89dc96193b4ea5db4890c74"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

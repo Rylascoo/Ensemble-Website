@@ -1,0 +1,100 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-TYP-ASSET-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-16",
+  "gate_or_program": "TYP-ASSET-01 — Final Typeface / Font Asset Convergence",
+  "design_axis": "APP/shared-system supporting typeface asset above TYP-02 F1 Ratio Ladder",
+  "bounded_question": "Source Sans 3 is the sole material survivor: calm humanist body texture, clear F1 Ratio Ladder, restrained state/support labels, stable Light/Dark behavior, and quiet Website supporting copy that leaves exact O3/Threshold K identity dominant.",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "method": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_METHOD_01.json",
+    "result": "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_RESULT_01.json",
+    "pre_exposure_commit": "6b5cc9c59e541609692aa559f079ac9a39625114"
+  },
+  "local_result": {
+    "summary": "Source Sans 3 is the sole material survivor; Inter, Instrument Sans and Atkinson Hyperlegible Next fail preregistered visual falsifiers after all candidates pass the same final mechanical matrix.",
+    "recommended_incumbent": "Source Sans 3",
+    "survivors_or_closure": [
+      "F2_SOURCE_SANS_3 — Source Sans 3"
+    ],
+    "rejections": [
+      "F1_INTER",
+      "F3_INSTRUMENT_SANS",
+      "F4_ATKINSON_HYPERLEGIBLE_NEXT"
+    ],
+    "control": "C0_SYSTEM_UI ineligible control only"
+  },
+  "current_contribution": "Selects Source Sans 3 as the current design-reference supporting typeface asset while preserving TYP-02 F1 Ratio Ladder and keeping O3/C0/Stage visually primary.",
+  "production_authority": false,
+  "selected_asset": {
+    "id": "F2_SOURCE_SANS_3",
+    "family": "Source Sans 3",
+    "font_sha256": "042fe2cc0b933e328410d7acbd0aa6a1873dca5aef81875f4bc214b08825c7b9",
+    "font_bytes": 646340,
+    "license": "SIL OFL 1.1",
+    "license_sha256": "09746787287a289323b0ec3cff4d1a4a801331b82b7207c1e186f5d26619a392",
+    "axes": {
+      "wght": [
+        200,
+        900
+      ]
+    },
+    "glyph_coverage": [
+      "U+00C6 Æ",
+      "U+00E6 æ"
+    ],
+    "role_grammar": "TYP-02 F1 Ratio Ladder unchanged"
+  },
+  "evidence": {
+    "mechanical": [
+      "35/35 final candidate-case cells pass",
+      "Source Sans 3 matrix SHA-256 3a355663085c394066389f38ecadf9a765ab572d978391ef6f2df5c8a8cc48dc"
+    ],
+    "visual": [
+      "wide/narrow five-family contact sheets",
+      "selected Source Sans 3 wide/narrow APP+WEB review"
+    ],
+    "invalid_or_superseded_attempts": [
+      "first exposure excluded for common carrier overflow; no candidate judgment taken"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "PKT-TYP-02-01 F1 Ratio Ladder",
+      "Light F2 / Dark D3 static app system",
+      "current O3/C0 identity geometry"
+    ],
+    "constrains": [
+      "Future app/shared-system typography should use Source Sans 3 as the design-reference family unless a named successor finds contrary evidence.",
+      "Production font packaging/native mapping remains separately gated."
+    ],
+    "must_not_be_confused_with": [
+      "production font asset package",
+      "native typography tokens",
+      "website deployment",
+      "final identity convergence"
+    ]
+  },
+  "canonical_artifacts": {
+    "repository": [
+      "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_METHOD_01.json",
+      "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_SOURCE_MANIFEST_01.json",
+      "docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_RESULT_01.json",
+      "prototypes/typ-asset-01/final-typeface-app-web.template.html",
+      "tools/materialize_typ_asset_01.py",
+      "tools/typ_asset_01_matrix_probe.mjs"
+    ],
+    "drive_evidence_folder": "03 Visual Identity & Artwork / Kymaean / 04 Lane A - Product UI Reintegration - Active / 21 TYP-ASSET-01 Final Typeface Font Asset Convergence 01"
+  },
+  "explicit_non_authority": [
+    "No font binary is committed as a production asset.",
+    "No production subsetting/packaging/fallback/localization policy or native WinUI/XAML typography tokens are created.",
+    "No Website deployment/change is authorized by this gate.",
+    "No O3/Threshold K geometry, color, material, Stage, motion, Product semantics or component architecture changes.",
+    "No trademark, Store, runtime or shipping authority."
+  ],
+  "next_boundary": "Hold further typography refinement. Re-enter only for production typography handoff/native implementation evidence, localization/coverage contradiction, changed shared-brand contract, or explicit successor."
+}
