@@ -3968,3 +3968,15 @@ Final race reconciliation records Website `main@e483f0af35166534fff1455f68e287cc
 **Next boundary:** HOLD typography refinement until production typography/native implementation evidence, localization/coverage contradiction, changed shared-brand authority or an explicitly authorized successor. Project `Q-DESIGN-19` remains known stale queue debt and is not mutated during active E0-D.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-251 - Post-typeface re-entry activates conventional platform-icon source/mapping finalization
+
+**State:** APPUI-FICON-ASSET-01 ACTIVE / PRE-EXPOSURE METHOD + SOURCE MAPPING FROZEN / NO GLYPH REVIEW YET
+
+TYP-ASSET-01 closed the final typeface design-reference gap with Source Sans 3, so the prior post-FICON remaining-axis audit was reread instead of extending typography by sequence. The only remaining static-safe APP VISUAL asset gate already reserved for explicit later activation is the final conventional platform-icon asset/specification package. Director continuation activates that bounded successor.
+
+FICON-01 F1 Native Quiet Carrier remains unchanged. The source package freezes exactly eight already-tested meanings—Back, Close, Search, Settings, More, Navigation disclosure, Play and Pause—onto current Windows system icon primitives. Seven use `SymbolIcon` enum mappings; disclosure preserves the existing ChevronRight `E76C` via `FontIcon` / `SymbolThemeFontFamily`. No custom SVG/font binary, domain vocabulary, accent semantics or Threshold K derivation is permitted.
+
+Current Microsoft Windows guidance is used only as implementation-context evidence: Segoe Fluent Icons is the recommended Windows 11 symbol font, `SymbolThemeFontFamily` is the native theme resource path, and 16/20/24 are supported crisp reference sizes. Project semantics remain governed by repository authority, not external documentation.
+
+**Next boundary:** materialize the exact frozen mapping in one Light/Dark reference carrier and run the seven-case matrix before any mapping judgment. No glyph substitution or family-specific rescue after exposure.
