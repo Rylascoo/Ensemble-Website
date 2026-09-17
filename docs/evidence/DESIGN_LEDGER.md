@@ -3181,3 +3181,15 @@ Canonical evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_CANDIDATE_HOS
 **Exact next action:** stop for Director review of the hosted candidate. Do not mark PR #102 ready, merge, publish, or alter production before an explicit Director promotion decision.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-199 — Director authorizes PR #102 production promotion
+
+**State:** DIRECTOR PROMOTION AUTHORIZED / PR #102 MAY ENTER FINAL MERGE + PUBLICATION GATE / LIVE VERIFICATION REQUIRED
+
+At the L-198 hosted-review stop, the Director instructed Website Sol to continue. In the immediate review-gate context, this is the explicit promotion decision required by L-198: PR #102 may be marked ready and promoted only after its current exact head is revalidated against fresh `main` and all repository/Cloudflare gates remain clean.
+
+This authorization does not waive validation, permit unrelated changes, alter the Bellweather app boundary, or approve a different candidate. It applies only to the already-hosted PR #102 candidate whose public tree passed L-198.
+
+**Exact next action:** regenerate/check continuity, require exact-head GitHub + Cloudflare success, fresh-resolve `main`, mark PR #102 ready, merge only with the expected exact head, then require exact-main CI/Cloudflare plus live `www.kymaean.com` byte/header/no-analytics/browser verification before declaring production complete.
+
+**DIRECTOR PROMOTION DECISION — PR #102 AUTHORIZED TO ENTER FINAL PRODUCTION GATE.**
