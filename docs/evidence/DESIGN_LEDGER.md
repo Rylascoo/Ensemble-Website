@@ -3132,3 +3132,16 @@ No `site/public/**`, production Stage, production lettering, app UI, product sem
 **Next boundary:** stop before production promotion. A consequential Director decision is required before Website Sol may build a production mascot-integration candidate and run the full hosted/publication verification sequence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+
+## L-196 — Director confines any future Bellweather app consideration to Home/entry only
+
+**State:** DIRECTOR BOUNDARY / WEBSITE-FOCUSED BELLWEATHER / HOME-ONLY FUTURE APP ELIGIBILITY / NO APP STUDY OPENED / APPUI + WEBSITE PRODUCTION UNCHANGED
+
+The Director clarified the cross-surface Bellweather boundary after reviewing whether the mascot should enter the native app. Bellweather remains a website-focused mascot / brand-ambassador program and is not authorized as an app-wide assistant, navigation device, status system, Character template, Stage participant or decorative layer across functional UI.
+
+If a future app-specific Bellweather study is explicitly opened, the only eligible app surface is the Home/entry experience — whatever final product label that threshold surface carries; the current APPUI design reference calls it **Home**. Productions, Stage, Settings, global navigation/chrome, functional task surfaces and functional empty states remain excluded unless a later Director decision explicitly changes this boundary.
+
+This decision does **not** open an app Bellweather study, authorize any asset placement or implementation, alter product semantics, change the APPUI native handoff/Q-DESIGN-20 evidence trigger, or authorize Website production promotion. It narrows future eligibility while preserving the current website-only implementation posture.
+
+**DIRECTOR BOUNDARY PRESERVED — BELLWEATHER MAY ONLY BE CONSIDERED FOR THE APP HOME/ENTRY SURFACE, AND ONLY AFTER A SEPARATE EXPLICIT OPENING.**

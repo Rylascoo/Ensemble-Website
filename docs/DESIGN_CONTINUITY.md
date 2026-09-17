@@ -385,7 +385,7 @@ Change this document only when a genuinely durable Design Sol role, visual-law, 
 
 ## 18. Foundational Bellweather mascot continuity
 
-Bellweather is the foundational Kymaean mascot / brand-ambassador visual for app design branding. Canonical authority is `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md` plus its exact Drive assets.
+Bellweather is the foundational Kymaean mascot / brand-ambassador visual. Canonical authority is `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md` plus its exact Drive assets.
 
 Future Bellweather work must preserve one clearly adult persistent human identity before costume: facial construction, eye/brow relationship, freckles/natural skin texture, brunette hair mass with loose framing strands, posture, and restrained direct presence.
 
@@ -396,6 +396,8 @@ Natural expression is part of Bellweather continuity: prefer closed-mouth, softl
 The black sheer / warm-metal formal family is iconic presentation, not universal mascot anatomy. Generated bead microgeometry, slit placement, ornament, pearls, gloves, clutch, jewelry, props, typography and environments remain variable unless separately frozen.
 
 Mascot authority does not create universal Character-face law, app UI semantics, app implementation authority, or website-production authority.
+
+By Director decision, Bellweather remains website-focused and is not part of the functional app UI. If a future app-specific Bellweather study is explicitly opened, the only eligible app surface is the Home/entry experience (whatever final product label that surface carries; currently design-referenced as Home). Productions, Stage, Settings, global navigation/chrome, and functional task or empty-state surfaces remain excluded unless a later Director decision changes this boundary. This rule does not itself open an app study or authorize placement, implementation, or product semantics.
 
 ## 19. Frozen Human Bellweather morning variation family
 
