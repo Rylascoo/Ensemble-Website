@@ -7,18 +7,20 @@ Updated: 2026-09-17
 ## Authority
 Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; durable role: `docs/DESIGN_CONTINUITY.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
-## Director rollback
-L-203 records the Director decision to undo the Bellweather production website update and return to concept-first website work. Draft PR #104 is closed unmerged; its branch-local L-201/L-202 never became `main` authority.
+## Production
+L-204 closes the Director-ordered Bellweather production rollback. PR #105 restored `site/public/**` exactly to the pre-Bellweather V2.2 tree at `538fa349e046041e2759748d54fda176ac6a9749`; production merge is `741ced7e8171292cfb824ee37859cd4a1e0d189c`. Cloudflare production version `63506ecd-394b-472b-8559-1d2032f949e9` passed.
 
-The exact rollback target is the pre-Bellweather V2.2 `site/public/**` tree at `538fa349e046041e2759748d54fda176ac6a9749`, parent of PR #102's production merge. The rollback changes only the six public paths introduced/modified by PR #102 and preserves the frozen Stage and all other V2.2 production assets.
+Live `https://www.kymaean.com/` matches all nine served V2.2 baseline assets byte-for-byte. Bellweather production assets are absent. Frozen Stage SHA-256 remains `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`; no analytics injection is detected.
+
+## Concept reset
+The prior Bellweather/PERSON/WORLD/temporal studies remain preserved evidence but do not mandate the next website expression. Closed PR #104 remains historical evidence only and must not be revived as production authority.
+
+Website Sol is authorized to develop one isolated non-production homepage concept proposal covering homepage intent, atmosphere, narrative reveal, Bellweather's role if any, hierarchy, mystery and interaction grammar. No new production candidate is authorized before Director review of that proposal.
 
 ## Cross-surface boundary
-L-196 remains unchanged: Bellweather is website-focused. A future app-specific study requires separate explicit opening and remains limited to Home/entry; Productions, Stage, Settings, global chrome and functional task/empty-state surfaces remain excluded.
+L-196 remains unchanged: Bellweather is website-focused; any future app-specific study requires separate explicit opening and is limited to Home/entry.
 
 ## Publication maintenance
-The pre-existing apex redirect quirk remains separate maintenance debt and is not part of this rollback.
+The pre-existing apex redirect double-slash quirk remains separate maintenance debt.
 
-## Frozen boundary
-Do not build another production mascot integration from prior studies by default. Prior Bellweather/PERSON/WORLD/temporal work remains evidence, not a mandated implementation. After restoration, the website returns to a fresh non-production concept study covering homepage intent, Bellweather's role if any, visual hierarchy, mystery and interaction grammar.
-
-**Exact next action:** complete exact-head/Cloudflare validation of the rollback, fresh-check `main`, merge if clean, verify the live site exactly matches the restored V2.2 public tree, then begin one isolated concept proposal and stop for Director review before any production candidate.
+**Exact next action:** develop the non-production homepage concept proposal from current repository/Drive authority and stop for Director review before any production-shaped implementation.
