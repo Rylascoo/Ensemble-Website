@@ -1,6 +1,6 @@
 {
   "schema": "kymaean.appui-home-threshold-reentry-study.v1",
-  "status": "DIRECTOR_REVIEW_CANDIDATE_NOT_ADOPTED",
+  "status": "DIRECTOR_REVIEW_OPTION_A_DEFERRED_NO_SELECTION",
   "date": "2026-09-17",
   "program": "APPUI-HOME-THRESHOLD-REENTRY-01",
   "authority": {
@@ -193,12 +193,14 @@
       "authority_effect": "NONE: CHARART remains Director-terminated, attempt consumed, no master adopted; APPUI Home candidate and native handoff semantics are unchanged."
     }
   },
-  "design_sol_view": "The successor materially improves Home as a re-entry threshold and reduces dashboard character while preserving the accepted APPUI system. Because this is a consequential composition/taste change, it is presented to the Director before adoption.",
+  "design_sol_view": "Option A is the quieter threshold-led successor: Production identity and Resume lead; Stage is a bounded aperture; Other Productions remain visible as subdued rows. No preference is frozen while the two-option review is deferred.",
   "non_authority": [
     "No Bellweather app integration is opened.",
     "No Product navigation/Scene/Take/Perspective/provider/Performer semantics change.",
     "No native WinUI/XAML or Q-DESIGN-20 convergence claim.",
     "No final production token, font, Stage package or motion authority."
   ],
-  "next": "Director visual reaction: adopt, revise, or reject the Home Threshold / Resume successor. Native handoff remains active and independent."
+  "next": "Review Option A against Option B later. Until a Director selection, the prior accepted Home remains authoritative and neither successor may merge as adopted Home.",
+  "review_set": "APPUI-HOME-REENTRY-TWO-OPTION-REVIEW-01",
+  "option": "A_THRESHOLD_REENTRY"
 }

@@ -4075,3 +4075,17 @@ The repair separates historical from volatile identity. `DESIGN_PACKET_REGISTRY_
 `verify_charart01.py` passes after the repair. CHARART-01 remains Director-terminated after one consumed valid output with no master adopted; no artwork program, asset, scoring, prompt, renderer budget or Character authority is reopened. APPUI-HOME-THRESHOLD-REENTRY-01 and `PKT-APPUI-NATIVE-HANDOFF-01` are unchanged.
 
 **Next boundary:** unchanged - Candidate 01 remains review-only pending Director visual disposition; native convergence remains separately event-driven.
+
+## L-258 - Home re-entry study expands to two co-equal review options; Director review deferred
+
+**State:** TWO OPTIONS PRESERVED / REVIEW DEFERRED / NO HOME SUCCESSOR ADOPTED
+
+Director instruction opens a second Home option and defers judgment until later review. `APPUI-HOME-REENTRY-TWO-OPTION-REVIEW-01` therefore preserves the prior Threshold Re-entry candidate as Option A and adds a mechanically clean Scene Horizon candidate as Option B.
+
+Option A keeps Production/Resume as a threshold with a bounded dark Scene aperture, asymmetric current-situation flow and quiet Production rows. Option B keeps Production/Resume semantically primary while expanding the current Scene into a wide visual horizon, treating Alliance / World / Question as continuing threads and collapsing Other Productions into a quiet switcher strip.
+
+Both options preserve Home / Productions / Settings, Light F2 / Dark D3, MAT F1, TYP F1 + Source Sans 3, STA F2, invariant dark Stage/S1 and existing Product meaning. Neither option places Bellweather or creates Bellweather-specific UI language. Q-DESIGN-20 native convergence remains separately triggered.
+
+Option B passes the same eight-case browser matrix used for Option A: 1600 / 1180 / 680 / 390 / 320, forced colors, 200% text and text-spacing stress, with zero page/internal overflow and Light/Dark structural parity.
+
+**Next boundary:** hold both review carriers unchanged until explicit Director side-by-side review. The prior accepted Home remains authoritative; no review option is adopted or merged by sequence alone.

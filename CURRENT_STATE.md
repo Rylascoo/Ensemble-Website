@@ -11,10 +11,10 @@ Updated: 2026-09-17
 
 Engineering `main@84d0450c5f42f0340c58cdd89eee33daccc6c9e4` keeps Q-PROD-01 ACTIVE. Q-DESIGN-20 native convergence still requires a stable Engineering ref plus the review-return evidence in `docs/KYMAEAN_APPUI_NATIVE_IMPLEMENTATION_HANDOFF_01.md`.
 
-## Home threshold re-entry
-By new Director opening, APPUI-HOME-THRESHOLD-REENTRY-01 may re-evaluate the accepted steady-state Home composition without reopening Product semantics or the static visual system. Website `main@538fa349e046041e2759748d54fda176ac6a9749` preserves the cross-surface Bellweather boundary: no app placement is authorized; any separately opened future Bellweather app study is Home/entry-only.
+## Home re-entry two-option review set
+By Director opening, APPUI Home may be compositionally re-evaluated without reopening Product semantics or the static visual system. Website `main@538fa349e046041e2759748d54fda176ac6a9749` preserves the cross-surface Bellweather boundary: no app placement is authorized; any separately opened future Bellweather app study remains Home/entry-only.
 
-`docs/evidence/APPUI_01_HOME_THRESHOLD_REENTRY_STUDY_01.json` records a mechanically clean Light/Dark successor candidate. It keeps Resume first, reduces the dark Stage to a Scene aperture, makes current-situation flow more asymmetric, and turns Other Productions into quiet rows. Bellweather is not placed.
+`APPUI-HOME-REENTRY-TWO-OPTION-REVIEW-01` now preserves two co-equal mechanically clean successors for later review. Option A (`home-threshold-reentry-study-01.html`) is Production/Resume-threshold-led with a bounded Scene aperture and quiet Production rows. Option B (`home-scene-horizon-study-01.html`) keeps Production/Resume semantically primary while making the current Scene a wider visual horizon and compressing other Productions into a quiet switcher strip. Bellweather is placed in neither option.
 
 ## Next
-Director visual reaction on `prototypes/appui-01/home-threshold-reentry-study-01.html`: adopt, revise, or reject. Until adoption, the prior accepted Home remains authoritative. Native handoff and Engineering work continue independently.
+Director review is explicitly deferred. Preserve both options unchanged for later side-by-side comparison. Until explicit selection, the prior accepted Home remains authoritative; native handoff and Engineering work continue independently.
