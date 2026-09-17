@@ -3162,3 +3162,22 @@ Canonical local evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_CANDIDA
 **Exact next action:** commit/push the isolated candidate and continuity, require exact-head repository checks, verify the Cloudflare commit preview byte/header/no-analytics/browser behavior and visual hierarchy, then stop for Director review of the hosted candidate. Do not merge/publish to production before that review.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+
+## L-198 — Website mascot integration candidate passes exact hosted review gate
+
+**State:** EXACT HOSTED CANDIDATE PASS / PR #102 DRAFT / DIRECTOR REVIEW REQUIRED / PRODUCTION UNCHANGED
+
+Website Sol verified the L-197 production candidate at exact head `287e8e15fdc6613ba87e056b628adb0c869992c5` through GitHub and Cloudflare. All exact-head checks completed successfully. Cloudflare version `a0edd4fd-fed4-41a9-bfeb-b545d8366d57` serves commit preview `https://a0edd4fd-kymaean-site.wirylasc.workers.dev`.
+
+All eleven hosted public assets match their exact Git blobs byte-for-byte. Root headers preserve `Cache-Control: public, max-age=0, must-revalidate, no-transform` and `X-Robots-Tag: noindex`; hosted HTML contains no detected analytics injection. The frozen Stage remains unchanged.
+
+Direct hosted Edge/CDP repeats the nine-viewport matrix with zero overflow, viewport-centered identity, no carrier/brand overlap, deterministic visitor-driven progression, focus retention, rapid retarget correctness, 200% text containment, reduced-motion parity with zero running animations, and browser forced-colors fallback.
+
+Hosted visual review confirms PERSON remains an encountered human-scale presence, TRACE remains environmental evidence, and OTHER LIFE remains distant/peripheral rather than a second mascot. No contrary hosted signal requires another design correction.
+
+Canonical evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_CANDIDATE_HOSTED_AUDIT_01.md` and `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_CANDIDATE_HOSTED_BROWSER_EVIDENCE_01.json`.
+
+**Exact next action:** stop for Director review of the hosted candidate. Do not mark PR #102 ready, merge, publish, or alter production before an explicit Director promotion decision.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
