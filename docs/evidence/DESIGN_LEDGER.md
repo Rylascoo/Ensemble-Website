@@ -4089,3 +4089,15 @@ Both options preserve Home / Productions / Settings, Light F2 / Dark D3, MAT F1,
 Option B passes the same eight-case browser matrix used for Option A: 1600 / 1180 / 680 / 390 / 320, forced colors, 200% text and text-spacing stress, with zero page/internal overflow and Light/Dark structural parity.
 
 **Next boundary:** hold both review carriers unchanged until explicit Director side-by-side review. The prior accepted Home remains authoritative; no review option is adopted or merged by sequence alone.
+
+## L-259 - Neutral two-option Home review board materialized; selection remains deferred
+
+**State:** REVIEW CARRIER COMPLETE / OPTIONS UNCHANGED / NO RANKING / NO SELECTION
+
+`prototypes/appui-01/home-two-option-review-board-01.html` places Option A Threshold Re-entry and Option B Scene Horizon in one neutral comparison carrier for later Director review. The board adds no third concept, scoring, preference, Bellweather placement, Product-semantic change or native-convergence claim.
+
+The carrier preserves each option's own source file and labels only their differing premises: threshold/aperture versus Scene horizon. Shared Home / Productions / Settings, F2/D3, MAT F1, TYP F1 + Source Sans 3, STA F2, invariant dark Stage/S1 and Bellweather exclusion are shown as common ground rather than comparison criteria.
+
+Wide render is clean. Same-origin narrow measurement at 390px proves zero parent overflow and zero internal overflow for both 349px embedded option viewports. The prior accepted Home remains authoritative.
+
+**Next boundary:** preserve the two options and review board unchanged until the Director explicitly reopens Home review. Native convergence remains independently event-driven.

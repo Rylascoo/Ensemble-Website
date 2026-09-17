@@ -14,7 +14,7 @@ Engineering `main@84d0450c5f42f0340c58cdd89eee33daccc6c9e4` keeps Q-PROD-01 ACTI
 ## Home re-entry two-option review set
 By Director opening, APPUI Home may be compositionally re-evaluated without reopening Product semantics or the static visual system. Website `main@538fa349e046041e2759748d54fda176ac6a9749` preserves the cross-surface Bellweather boundary: no app placement is authorized; any separately opened future Bellweather app study remains Home/entry-only.
 
-`APPUI-HOME-REENTRY-TWO-OPTION-REVIEW-01` now preserves two co-equal mechanically clean successors for later review. Option A (`home-threshold-reentry-study-01.html`) is Production/Resume-threshold-led with a bounded Scene aperture and quiet Production rows. Option B (`home-scene-horizon-study-01.html`) keeps Production/Resume semantically primary while making the current Scene a wider visual horizon and compressing other Productions into a quiet switcher strip. Bellweather is placed in neither option.
+`APPUI-HOME-REENTRY-TWO-OPTION-REVIEW-01` preserves two co-equal mechanically clean successors plus `home-two-option-review-board-01.html` as a neutral later-review carrier. Option A is Production/Resume-threshold-led with a bounded Scene aperture and quiet Production rows. Option B keeps Production/Resume primary while making the current Scene a wider visual horizon and compressing other Productions into a quiet switcher strip. Bellweather is placed in neither option.
 
 ## Next
 Director review is explicitly deferred. Preserve both options unchanged for later side-by-side comparison. Until explicit selection, the prior accepted Home remains authoritative; native handoff and Engineering work continue independently.
