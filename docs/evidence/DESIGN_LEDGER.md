@@ -3113,3 +3113,22 @@ Canonical Drive evidence: folder `06 Temporal Choreography Study — 2026-09-16`
 **Exact next action:** build one isolated production-shaped interaction/accessibility prototype from the selected temporal grammar. Define deterministic transition-state implementation, keyboard/touch/wheel behavior, reduced-motion behavior and fallback semantics while preserving the current production opening and secrecy posture. Stop before production promotion; promotion requires an explicit Director decision.
 
 No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
+
+
+## L-195 — Website temporal interaction/accessibility prototype closes cleanly
+
+**State:** NON-PRODUCTION PRODUCTION-SHAPED STUDY COMPLETE / INTERACTION + ACCESSIBILITY BROWSER PASS / PRODUCTION UNCHANGED / DIRECTOR PROMOTION DECISION REQUIRED
+
+Website Sol materialized the L-194 selected choreography as one isolated production-shaped browser prototype with the exact frozen Stage and current identity hierarchy. The deterministic state machine is `PLACE -> PRESENCE -> empty -> PERSON -> empty -> TRACE -> empty -> OTHER LIFE`; Bellweather disappears after PERSON and TRACE does not accumulate into OTHER LIFE.
+
+The prototype supports wheel, touch/swipe and keyboard progression, reverse navigation, Home/End, focus retention, rapid retarget/interruption and reduced-motion equivalence. Edge/CDP passes 2048×1199, 1235×647, 1138×1354, 1227×1422, 768×1024, 600×900, 599×900, 390×844 and 320×640 with zero horizontal overflow, viewport-centered identity and no carrier/brand overlap. At 320×640 the 200% root-text proxy remains contained; browser forced-colors preserves KYMÆAN / COMING SOON while hiding nonessential scene imagery.
+
+Recursive audit found and corrected two real defects before closure. First, the preserved probe accidentally inherited reduced-motion emulation into the ordinary interaction suite; the probe now resets to `no-preference` and tests reduced motion separately. Second, interrupted empty-state retargets could update logical state before the requested carrier was visibly restored; the corrected state transition snaps directly to the requested single carrier and the rerun confirms no ghosted duplicate Bellweather.
+
+Canonical evidence: `docs/evidence/WEBSITE_V2_2_TEMPORAL_INTERACTION_ACCESSIBILITY_STUDY_01.md` and `docs/evidence/WEBSITE_V2_2_TEMPORAL_INTERACTION_ACCESSIBILITY_BROWSER_EVIDENCE_01.json`.
+
+No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
+
+**Next boundary:** stop before production promotion. A consequential Director decision is required before Website Sol may build a production mascot-integration candidate and run the full hosted/publication verification sequence.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
