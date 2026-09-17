@@ -19,7 +19,10 @@ Canonical temporal evidence: Drive folder `1YSzzIgQ4KxEPTzHL4UYg52Grh5pFj3BC`; s
 
 Narrative grammar remains `PLACE -> PRESENCE -> PERSON -> TRACE -> OTHER LIFE -> RELATIONSHIP`; empty Stage intervals are now meaningful temporal beats between selected carriers.
 
+## Interaction/accessibility closeout
+L-195 closes the non-production interaction/accessibility prototype after clean wheel/touch/keyboard, reverse/retarget, focus, reduced-motion, responsive, 200% text and browser forced-colors checks. Evidence: `docs/evidence/WEBSITE_V2_2_TEMPORAL_INTERACTION_ACCESSIBILITY_STUDY_01.md`.
+
 ## Frozen boundary
 No `site/public/**` bytes, Stage repaint, generated typography, new logo, ornamental frame, Bellweather-specific universal UI language, app UI, product disclosure, Threshold K path redesign or universal Character-face requirement is authorized.
 
-**Exact next action:** build one isolated production-shaped interaction/accessibility prototype from the selected temporal grammar. Define deterministic transition-state implementation, keyboard/touch/wheel behavior, reduced-motion behavior and fallback semantics while preserving the current production opening and secrecy posture. Stop before production promotion; promotion requires an explicit Director decision.
+**Exact next action:** hold production unchanged. A consequential Director decision is required before Website Sol may build any production mascot-integration candidate or enter the hosted/publication gate.
