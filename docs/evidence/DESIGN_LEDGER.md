@@ -4062,3 +4062,16 @@ The first recursive audit found responsive defects at 1180 comparison width, nar
 Concurrent Website `main@538fa349e046041e2759748d54fda176ac6a9749` is reconciled as external same-repository stream truth: Bellweather remains website-focused; no app placement is authorized; Home/entry is only eligibility for any separately opened future app study. Candidate 01 contains no Bellweather asset or Bellweather-specific UI language.
 
 **Next boundary:** Director visual disposition of Candidate 01: adopt, revise or reject. Until that decision, the previously accepted Home remains authoritative and `PKT-APPUI-NATIVE-HANDOFF-01` / Q-DESIGN-20 remain unchanged.
+
+
+## L-257 - Inherited CHARART checkpoint verifier drift repaired without reopening Character artwork
+
+**State:** CI INTEGRITY REPAIR / HISTORICAL CHARART IDENTITY PRESERVED / MOVING APPUI RE-ENTRY POINTER REPAIRED / NO DESIGN-AUTHORITY CHANGE
+
+The first hosted push of APPUI-HOME-THRESHOLD-REENTRY-01 exposed a pre-existing checkpoint defect from the APPUI baseline. `tools/verify_charart01.py` still required the registry's moving `latest_reentry_audit_sha256` to equal the historical CHARART activation audit hash and still froze `active_app_ui_status` to the 2026-09-14 screen-first state. Later APPUI work had correctly advanced the latest re-entry pointer through native-handoff Audit 06, so the historical verifier and current registry had become semantically incompatible.
+
+The repair separates historical from volatile identity. `DESIGN_PACKET_REGISTRY_01.json` now carries explicit `active_charart_activation_audit` / `_sha256` fields pinned to `PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json`, while the current `latest_reentry_audit` remains `APPUI_01_Q_PROD_01_DESIGN_TO_NATIVE_REENTRY_AUDIT_06.json` with its actual normalized SHA-256. The verifier checks both contracts independently and requires only that live `active_app_ui_status` remain a non-empty registry field rather than freezing a later APPUI program to an obsolete status.
+
+`verify_charart01.py` passes after the repair. CHARART-01 remains Director-terminated after one consumed valid output with no master adopted; no artwork program, asset, scoring, prompt, renderer budget or Character authority is reopened. APPUI-HOME-THRESHOLD-REENTRY-01 and `PKT-APPUI-NATIVE-HANDOFF-01` are unchanged.
+
+**Next boundary:** unchanged - Candidate 01 remains review-only pending Director visual disposition; native convergence remains separately event-driven.

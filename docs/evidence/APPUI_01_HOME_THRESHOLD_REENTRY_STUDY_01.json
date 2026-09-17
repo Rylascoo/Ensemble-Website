@@ -185,7 +185,13 @@
     "text_200_percent": "PASS",
     "text_spacing": "PASS",
     "light_dark_semantic_parity": "PASS",
-    "bellweather_placement": "NONE"
+    "bellweather_placement": "NONE",
+    "hosted_gate_repair": {
+      "discovery": "The review push exposed an inherited CHARART-01 checkpoint verifier defect already present in the APPUI baseline: it treated the registry latest_reentry_audit_sha256 as the immutable CHARART activation hash even though that registry field had advanced with later APPUI re-entry audits.",
+      "registry_repair": "Added explicit active_charart_activation_audit + active_charart_activation_audit_sha256 historical fields and corrected latest_reentry_audit_sha256 to the actual current Audit-06 bytes.",
+      "verifier_repair": "verify_charart01.py now verifies the immutable CHARART activation separately, verifies the moving latest APPUI re-entry path/hash self-consistently, and no longer freezes the live active_app_ui_status to its 2026-09-14 value.",
+      "authority_effect": "NONE: CHARART remains Director-terminated, attempt consumed, no master adopted; APPUI Home candidate and native handoff semantics are unchanged."
+    }
   },
   "design_sol_view": "The successor materially improves Home as a re-entry threshold and reduces dashboard character while preserving the accepted APPUI system. Because this is a consequential composition/taste change, it is presented to the Director before adoption.",
   "non_authority": [
