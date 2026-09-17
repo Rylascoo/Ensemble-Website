@@ -4045,3 +4045,20 @@ Engineering `main@933edb017c29389f573bb1d86202676fef64fa63` materially changes t
 **Next boundary:** Engineering consumes the packet and materializes the first native shell scaffold. Design Sol re-enters on that exact native evidence or a material Product/native constraint; do not continue speculative tokenization or redesign in advance of implementation evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+
+## L-256 - Director opens bounded Home threshold re-entry study; Candidate 01 awaits visual disposition
+
+**State:** DIRECTOR-OPENED HOME COMPOSITION SUCCESSOR / REVIEW CANDIDATE / NOT ADOPTED / NATIVE HANDOFF UNCHANGED / NO BELLWEATHER PLACEMENT
+
+The Director explicitly agreed to re-enter the existing APPUI Home composition and audit it as the actual Kymaean entry experience. This is a bounded changed-governing-contract exception to the L-255 instruction against speculative continuation; it does not reopen the completed static visual system or native convergence by sequence alone.
+
+The audit preserves the accepted Home semantics and identifies composition pressure in the incumbent carrier: the full-width dark resume block reads too much like a Stage surrogate/dashboard; the separate numeric re-entry column over-instruments supporting context; three equal context columns flatten hierarchy; and four equal Production cells read more tile-like than the component-system row grammar prefers.
+
+`docs/evidence/APPUI_01_HOME_THRESHOLD_REENTRY_STUDY_01.json` and `prototypes/appui-01/home-threshold-reentry-study-01.html` materialize one bounded successor in exact Light F2 / Dark D3. Current Production and situation move onto the authored field as the threshold content; Stage becomes a smaller invariant-dark Scene aperture; orientation counts become quiet inline support; What matters now dominates recent movement; and Other Productions become subordinate rows. Home / Productions / Settings, MAT F1, TYP F1 + Source Sans 3 reference, STA F2, Stage authority and all Product-semantic boundaries remain unchanged.
+
+The first recursive audit found responsive defects at 1180 comparison width, narrow 200% text, and the New Production row, then found a UTF-8 byte regression introduced during repair. All were corrected without changing the composition. The final eight-case browser matrix passes 1600/1180/680/390/320, forced colors, 200% text and text-spacing stress with zero page or internal overflow.
+
+Concurrent Website `main@538fa349e046041e2759748d54fda176ac6a9749` is reconciled as external same-repository stream truth: Bellweather remains website-focused; no app placement is authorized; Home/entry is only eligibility for any separately opened future app study. Candidate 01 contains no Bellweather asset or Bellweather-specific UI language.
+
+**Next boundary:** Director visual disposition of Candidate 01: adopt, revise or reject. Until that decision, the previously accepted Home remains authoritative and `PKT-APPUI-NATIVE-HANDOFF-01` / Q-DESIGN-20 remain unchanged.
