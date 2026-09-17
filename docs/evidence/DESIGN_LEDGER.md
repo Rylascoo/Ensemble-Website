@@ -3224,3 +3224,17 @@ The production rollback does not erase the Bellweather studies or prohibit her f
 **Exact next action:** restore the exact pre-Bellweather V2.2 public tree, pass exact-head/Cloudflare/live verification, then begin a fresh isolated concept study. Stop for Director review of the concept proposal before any new production candidate is built.
 
 **DIRECTOR DECISION — ROLLBACK AUTHORIZED; CONCEPT-FIRST RESET REQUIRED.**
+
+
+## L-204 — Bellweather production rollback verified live; concept-first website program opens
+
+**State:** PRE-BELLWEATHER V2.2 RESTORED LIVE / PR #105 COMPLETE / BELLWEATHER PRODUCTION IMPLEMENTATION CLOSED / NON-PRODUCTION CONCEPT PROPOSAL NEXT
+
+PR #105 restored production `site/public/**` exactly to `538fa349e046041e2759748d54fda176ac6a9749`, the pre-Bellweather V2.2 tree. Exact-main GitHub validation passed; Cloudflare production version `63506ecd-394b-472b-8559-1d2032f949e9` passed.
+
+Direct live verification confirms all nine served V2.2 assets match their exact baseline Git blobs, both Bellweather production assets are absent, the frozen Stage hash is unchanged, expected cache/no-transform behavior remains, and no analytics injection is detected.
+The rollback does not erase Bellweather research; it closes the current production expression. The next website answer must be re-derived from intent rather than inherited from the previously validated implementation.
+
+**Exact next action:** develop one isolated non-production homepage concept proposal from current repository/Drive authority. Explore the intended reveal, atmosphere, narrative hierarchy, Bellweather's role if any, and interaction grammar. Stop for Director review of the proposal before building another production-shaped candidate.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — LIVE ROLLBACK VERIFIED CLEAN.**
