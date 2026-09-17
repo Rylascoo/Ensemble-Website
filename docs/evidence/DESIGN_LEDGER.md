@@ -3090,3 +3090,26 @@ Canonical Drive evidence: folder `05 Deterministic WORLD-State Minimal Evidence 
 **Exact next action:** build one isolated non-production temporal choreography prototype using the already selected carriers in sequence: A4 delayed PRESENCE -> P2 PERSON -> W1 TRACE -> W2 OTHER LIFE. Test transition timing, Bellweather persistence/absence and whether each state feels discovered rather than presented. Stop before production promotion.
 
 No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
+
+
+## L-194 — Website temporal choreography selects absence-after-recognition and non-accumulating world evidence
+
+**State:** NON-PRODUCTION TEMPORAL CHOREOGRAPHY COMPLETE / ABSENCE PATH SELECTED / EMPTY-STAGE INTERVALS SELECTED / PRODUCTION-SHAPED ACCESSIBILITY STUDY NEXT / PRODUCTION UNCHANGED
+
+Website Sol compared two temporal paths using only already-selected carriers: A4 delayed PRESENCE using A3 static placement, P2 PERSON, W1 TRACE and W2 OTHER LIFE. In the rejected persistence control, Bellweather remains visible after PERSON while TRACE and OTHER LIFE are added. In the selected absence path, Bellweather disappears after PERSON before later world evidence appears.
+
+The absence path is materially stronger. Keeping Bellweather visible during TRACE and OTHER LIFE makes the new evidence read as decoration around the mascot. Removing her restores Stage/world authority, makes W1 consequential rather than decorative, and lets W2 prove that life continues independently of Bellweather.
+
+Recursive audit found a second temporal defect: W1 TRACE must not accumulate into W2 OTHER LIFE. Retaining the trace beside the distant adult, especially in tall/portrait treatment, prematurely implies a specific relationship. The selected choreography therefore lets W1 recede before W2 appears.
+
+Selected sequence: `PLACE -> PRESENCE -> empty interval -> PERSON -> empty interval -> TRACE -> empty interval -> OTHER LIFE`. A3 recedes before P2 arrives so two Bellweather carriers do not ghost together. Bellweather disappears before W1. W1 recedes before W2. Empty Stage intervals are intentional narrative beats rather than dead time.
+
+Primary interaction is visitor-driven discovery through wheel, keyboard or touch progression. Autoplay exists only for timing audition. Prototype timing values are study defaults, not production law.
+
+The selected absence path was audited at wide 2048×1199, mini-wide 1235×647 and tall 1138×1354. The temporal law survives all three, with tall providing the clearest evidence against W1/W2 accumulation.
+
+Canonical Drive evidence: folder `06 Temporal Choreography Study — 2026-09-16` (`1YSzzIgQ4KxEPTzHL4UYg52Grh5pFj3BC`); synthesis `1KH5eyO5dA7_fxYgTRJbR3PMXze-cLhS7pGHA-FBCzjo`; timing audition `1HCeFExtzb0SJM-Hu6H1kzaNU6XjtltM7`; selected wide contact `1anpm3YVpD5OH14caumo4oMm4m-dzAja_`; mini-wide `16gTXHxcvbbqbMS79GibEw2EUxvcddlWp`; tall `1XCrspiqV_ptITIK7KdhDRXjZWqGY0yX6`; rejected persistence control `1DxFBanHMP-aJzEf-pWK1_Swbhwzen2vh`; interactive source `1SwwidQwkaciOlboLSJ4jXQJQxBoGlrun`.
+
+**Exact next action:** build one isolated production-shaped interaction/accessibility prototype from the selected temporal grammar. Define deterministic transition-state implementation, keyboard/touch/wheel behavior, reduced-motion behavior and fallback semantics while preserving the current production opening and secrecy posture. Stop before production promotion; promotion requires an explicit Director decision.
+
+No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.
