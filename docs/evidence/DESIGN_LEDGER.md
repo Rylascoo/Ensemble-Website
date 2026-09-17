@@ -3193,3 +3193,20 @@ This authorization does not waive validation, permit unrelated changes, alter th
 **Exact next action:** regenerate/check continuity, require exact-head GitHub + Cloudflare success, fresh-resolve `main`, mark PR #102 ready, merge only with the expected exact head, then require exact-main CI/Cloudflare plus live `www.kymaean.com` byte/header/no-analytics/browser verification before declaring production complete.
 
 **DIRECTOR PROMOTION DECISION — PR #102 AUTHORIZED TO ENTER FINAL PRODUCTION GATE.**
+
+
+## L-200 — Bellweather website integration verified live in production
+
+**State:** PRODUCTION LIVE / EXACT-MAIN + LIVE BROWSER PASS / PR #102 COMPLETE
+
+PR #102 squash-merged at `main@d51d43e89bddc7178a4d3fd366f9e8a54ead2753` after the L-199 Director promotion decision. The merged tree is byte-identical to the approved PR head tree. Exact-main repository validation passed and Cloudflare production version `677c6a98-34d3-48c4-bf5a-3534007b3442` completed successfully.
+
+Live `https://www.kymaean.com/` verification confirms all eleven public assets match the merged Git blobs byte-for-byte, the frozen Stage hash remains unchanged, no analytics injection is present, and the expected cache/no-transform behavior remains intact. Direct live Edge/CDP repeats the nine-viewport, interaction, focus, rapid-retarget, reduced-motion, 200% text and forced-colors gates cleanly.
+
+Canonical production evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_PRODUCTION_VERIFICATION_01.md` and `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_PRODUCTION_BROWSER_EVIDENCE_01.json`.
+
+The pre-existing apex redirect double-slash quirk remains separate maintenance debt and is not a PR #102 regression.
+
+**Exact next action:** hold the now-live production experience stable. Any further website design change begins as a new bounded program; publication maintenance may separately correct the apex redirect quirk without altering the verified visual experience.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
