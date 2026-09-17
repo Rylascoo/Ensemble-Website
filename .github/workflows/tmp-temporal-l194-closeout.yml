@@ -1,0 +1,57 @@
+name: Temporary Temporal L194 Closeout
+
+on:
+  push:
+    branches:
+      - site/v2-2-temporal-choreography-closeout-2026-09-16
+
+permissions:
+  contents: write
+
+jobs:
+  append-ledger:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Append L-194 exactly once
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('docs/evidence/DESIGN_LEDGER.md')
+          text = p.read_text(encoding='utf-8')
+          if '## L-194 ' in text or '## L-194 —' in text:
+              raise SystemExit('L-194 already exists')
+          entry = '''## L-194 — Website temporal choreography selects absence-after-recognition and non-accumulating world evidence
+
+**State:** NON-PRODUCTION TEMPORAL CHOREOGRAPHY COMPLETE / ABSENCE PATH SELECTED / EMPTY-STAGE INTERVALS SELECTED / PRODUCTION-SHAPED ACCESSIBILITY STUDY NEXT / PRODUCTION UNCHANGED
+
+Website Sol compared two temporal paths using only already-selected carriers: A4 delayed PRESENCE using A3 static placement, P2 PERSON, W1 TRACE and W2 OTHER LIFE. In the rejected persistence control, Bellweather remains visible after PERSON while TRACE and OTHER LIFE are added. In the selected absence path, Bellweather disappears after PERSON before later world evidence appears.
+
+The absence path is materially stronger. Keeping Bellweather visible during TRACE and OTHER LIFE makes the new evidence read as decoration around the mascot. Removing her restores Stage/world authority, makes W1 consequential rather than decorative, and lets W2 prove that life continues independently of Bellweather.
+
+Recursive audit found a second temporal defect: W1 TRACE must not accumulate into W2 OTHER LIFE. Retaining the trace beside the distant adult, especially in tall/portrait treatment, prematurely implies a specific relationship. The selected choreography therefore lets W1 recede before W2 appears.
+
+Selected sequence: `PLACE -> PRESENCE -> empty interval -> PERSON -> empty interval -> TRACE -> empty interval -> OTHER LIFE`. A3 recedes before P2 arrives so two Bellweather carriers do not ghost together. Bellweather disappears before W1. W1 recedes before W2. Empty Stage intervals are intentional narrative beats rather than dead time.
+
+Primary interaction is visitor-driven discovery through wheel, keyboard or touch progression. Autoplay exists only for timing audition. Prototype timing values are study defaults, not production law.
+
+The selected absence path was audited at wide 2048×1199, mini-wide 1235×647 and tall 1138×1354. The temporal law survives all three, with tall providing the clearest evidence against W1/W2 accumulation.
+
+Canonical Drive evidence: folder `06 Temporal Choreography Study — 2026-09-16` (`1YSzzIgQ4KxEPTzHL4UYg52Grh5pFj3BC`); synthesis `1KH5eyO5dA7_fxYgTRJbR3PMXze-cLhS7pGHA-FBCzjo`; timing audition `1HCeFExtzb0SJM-Hu6H1kzaNU6XjtltM7`; selected wide contact `1anpm3YVpD5OH14caumo4oMm4m-dzAja_`; mini-wide `16gTXHxcvbbqbMS79GibEw2EUxvcddlWp`; tall `1XCrspiqV_ptITIK7KdhDRXjZWqGY0yX6`; rejected persistence control `1DxFBanHMP-aJzEf-pWK1_Swbhwzen2vh`; interactive source `1SwwidQwkaciOlboLSJ4jXQJQxBoGlrun`.
+
+**Exact next action:** build one isolated production-shaped interaction/accessibility prototype from the selected temporal grammar. Define deterministic transition-state implementation, keyboard/touch/wheel behavior, reduced-motion behavior and fallback semantics while preserving the current production opening and secrecy posture. Stop before production promotion; promotion requires an explicit Director decision.
+
+No `site/public/**`, production Stage, production lettering, app UI, product semantics, universal Character representation or Bellweather-specific universal UI law changed.'''
+          p.write_text(text.rstrip() + '\n\n' + entry + '\n', encoding='utf-8')
+          PY
+      - name: Commit and push ledger append
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/evidence/DESIGN_LEDGER.md
+          git diff --cached --quiet && exit 0
+          git commit -m 'Website: append temporal choreography ledger entry'
+          git push origin HEAD:site/v2-2-temporal-choreography-closeout-2026-09-16
