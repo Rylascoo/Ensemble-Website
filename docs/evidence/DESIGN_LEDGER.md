@@ -3921,3 +3921,20 @@ Because this gate froze full-raster no-crop/no-mask presentation, there is no la
 Wide/narrow screenshots, matrix and runtime manifest are preserved in synced Drive under `04 Lane A — Product UI Reintegration — Active / 19 APPUI-01 Exact Stage + Completed Shell Adjacency 01`.
 
 **Next boundary:** only with explicit authorization, open a separately bounded Stage-presentation successor that tests an authority-declared exact-pixel Stage-field extraction/crop or replacement presentation asset against the completed shell while preserving frozen Stage field/Character/state meanings. Working Composition Pass 01 provides precedent for exact-pixel Stage crops; this HOLD does not activate that successor automatically.
+## L-248 - Stage presentation successor resolves full-raster shell conflict with S1 exact-pixel extraction
+
+**State:** S1 PROVISIONAL INCUMBENT / FULL-RASTER HOLD RESOLVED / PKT-STAGE-CORE-02 UNCHANGED
+
+Director continuation activated the separately bounded `APPUI-01-STAGE-PRESENTATION-SUCCESSOR-01` after L-247 proved that literal full-raster `PKT-STAGE-CORE-02` duplicates historical shell chrome inside the completed APPUI shell. `docs/evidence/APPUI_01_STAGE_PRESENTATION_SUCCESSOR_METHOD_01.json` froze two pixel-preserving candidates before exposure.
+
+Both candidates pass the identical seven-case responsive/accessibility shell matrix. `R1_RECT_FIELD_CONTROL` is rejected on visual falsification because the inherited `00:27:14` / Live Performance fragment survives as an orphaned active-control strip. `S1_STEPPED_FIELD_EXTRACTION` is the sole survivor: source rectangle `[200,185,1235,555]`, 1035×370, with one preregistered transparent 115×65 upper-left authority notch. Every retained RGB pixel exactly equals the corresponding frozen-master pixel; no resize, interpolation, filter, recolor, repaint or inpainting occurs.
+
+Recursive audit found no recoverable background-only intermediate or deterministic construction source, confirmed the coordinates/mask were frozen before review, and reran S1 deterministically with byte-identical candidate/runtime/matrix hashes. Wide/narrow Light/Dark review keeps all five cone/floor/name/state units complete, retains Stage dominance, and removes duplicate shell chrome without making the notch read as missing geometry.
+
+`PKT-APPUI-STAGE-PRESENTATION-01` therefore becomes the current provisional **shell-facing static Stage presentation reference**. It does not replace `PKT-STAGE-CORE-02`, which remains the frozen Stage semantic/pixel source authority. No Product command, Stage interaction mechanic, production token, native WinUI/XAML, runtime, Store or shipping authority is created.
+
+Evidence is preserved in synced Drive under `04 Lane A — Product UI Reintegration — Active / 20 APPUI-01 Stage Presentation Successor 01`; repository runtime/binary evidence remains outside Git.
+
+**Next boundary:** HOLD further Stage presentation refinement. Re-enter only for a new lawful Director/Product/native/implementation trigger or separately authorized visual-system program; do not invent another extraction tweak or COMP-12.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

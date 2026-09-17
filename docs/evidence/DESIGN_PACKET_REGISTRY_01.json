@@ -138,8 +138,8 @@
       "packet_id": "PKT-APP-SYN-01-01",
       "path": "docs/evidence/packets/PKT_APP_SYN_01_WHOLE_APP_SYNTHESIS_01.json",
       "axis": "whole-app / cross-packet system coherence and CLR contextual reentry",
-      "status": "DIRECTOR_ADJUDICATION_PENDING",
-      "current_contribution": "Current packet set is compatible with usage restraint; Stage-to-app-shell translation gap remains; CLR F2/F1 both survive and await Director contextual choice.",
+      "status": "CONVERGENCE_EVIDENCE_CONSUMED",
+      "current_contribution": "Historical synthetic whole-app synthesis evidence. Later real-app evidence selected Light F2 / Dark D3, COMP-01..11 completed the shell, and PKT-APPUI-STAGE-PRESENTATION-01 S1 now resolves the shell-facing Stage presentation boundary; the original packet remains non-production historical synthesis evidence.",
       "production_authority": false
     },
     {
@@ -261,6 +261,14 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "Validates five workspace-state families in one real shell with empty-valid, infrastructure-versus-fiction, failed-no-effect, provisional/non-effective and exact-return distinctions without Product-dependent commands.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-APPUI-STAGE-PRESENTATION-01",
+      "path": "docs/evidence/packets/PKT_APPUI_STAGE_PRESENTATION_01.json",
+      "axis": "APP VISUAL Stage presentation / exact-pixel shell-facing extraction",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "S1 Stepped Field Extraction is the current shell-facing static Stage presentation reference derived from exact PKT-STAGE-CORE-02 pixels; source Stage authority remains unchanged.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -292,7 +300,7 @@
     "APPUI-COMP-08 closes real persistence/recovery integration above COMP-07; Production lifecycle utilities are the next real-interface boundary while storage/recovery implementation, native implementation and production tokens remain unresolved.",
     "APPUI-COMP-09 closes real Production lifecycle-utilities integration above COMP-08; the full Character-bounded workspace is the next real-interface boundary while Product-dependent utility commands, native implementation and production tokens remain unresolved.",
     "APPUI-COMP-10 closes the full Character-bounded workspace above COMP-09; empty/unavailable/loading/transitional workspace states are the next real-interface boundary while final Perspective/performance mechanics, native implementation and production tokens remain unresolved.",
-    "APPUI-COMP-01 through APPUI-COMP-11 now form the complete current non-Stage component-integration evidence set. The convergence audit authorizes no COMP-12; remaining interface questions are Product/Stage/native/asset gated or separate workstreams. APP-SYN Stage-to-shell reentry remains parked because no COMP carrier contains the exact frozen Stage."
+    "APPUI-COMP-01 through APPUI-COMP-11 remain the complete non-Stage component-integration set; no COMP-12 is authorized. The exact Stage-to-shell reentry is now resolved at presentation level by PKT-APPUI-STAGE-PRESENTATION-01 S1, while PKT-STAGE-CORE-02 remains the unchanged Stage source authority."
   ],
   "synthesis_policy": {
     "composition_packets_created": [
@@ -302,14 +310,14 @@
     "whole_app_synthesis_packets_created": [
       "PKT-APP-SYN-01-01"
     ],
-    "next_synthesis_trigger": "Exact Stage + completed-shell representative assembly is now mechanically proven but integration-held because the full frozen Stage raster contains inherited historical shell chrome/provisional rail that duplicates current shell authority. Re-enter only through explicit authorization of a bounded Stage-presentation successor (for example an authority-declared exact-pixel Stage-field extraction/crop or replacement presentation asset) or stronger changed authority; do not crop/mask/repaint under the closed real-assembly gate.",
+    "next_synthesis_trigger": "Stage presentation is no longer the active gap: S1 is the current provisional shell-facing static presentation above unchanged PKT-STAGE-CORE-02. Re-enter only for a new Director/Product/native/implementation trigger or separately authorized visual-system work; do not invent another Stage extraction tweak.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
     "latest_convergence_audit": "docs/evidence/SEL_S1_F4_INCUMBENT_STAGE_COMPARISON_RESULT_01.json",
     "active_whole_app_synthesis_program": "APP-SYN-01",
     "active_whole_app_synthesis_method": "docs/evidence/APP_SYN_01_WHOLE_APP_PACKET_SYNTHESIS_METHOD_01.json",
-    "active_whole_app_synthesis_status": "EXACT_STAGE_REAL_SHELL_ASSEMBLY_HOLD_EMBEDDED_LEGACY_CHROME_CONFLICT",
+    "active_whole_app_synthesis_status": "STAGE_PRESENTATION_SUCCESSOR_S1_PROVISIONAL_INCUMBENT_FULL_RASTER_HOLD_RESOLVED",
     "active_whole_app_synthesis_manifest": "docs/evidence/APP_SYN_01_EXECUTION_DEFAULTS_AND_SOURCE_MANIFEST_04.json",
     "active_whole_app_synthesis_manifest_sha256": "7d6f1b782df7bcd9b5d299edb64a0eea375072473f0fcf7f0da7f88c25339673",
     "active_whole_app_synthesis_preflight": "docs/evidence/APP_SYN_01_BROWSER_PREFLIGHT_01.json",
@@ -355,7 +363,7 @@
     "latest_director_sequencing_correction": "docs/evidence/APP_UI_DIRECTOR_ITERATIVE_DESIGN_PIVOT_2026_09_14.json",
     "latest_director_sequencing_correction_sha256": "4b21d11345aed8a049f95ae1b40115a3b9650fef32a554d7789765d61a34b9c3",
     "active_app_ui_program": "APPUI-01",
-    "active_app_ui_status": "REAL_ASSEMBLY_HOLD_STAGE_PRESENTATION_SUCCESSOR_REQUIRES_EXPLICIT_AUTHORIZATION",
+    "active_app_ui_status": "STAGE_PRESENTATION_S1_PROVISIONAL_INCUMBENT_APPUI_COMPONENT_COVERAGE_CLOSED",
     "active_app_ui_platform": "Microsoft Windows 11 desktop / ARM64 / Microsoft Store distribution intent",
     "active_app_ui_handoff": "docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md",
     "active_app_ui_concurrent_website_coordination": "docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json",
@@ -369,7 +377,13 @@
     "latest_real_assembly_method": "docs/evidence/APPUI_01_REAL_ASSEMBLY_EXACT_STAGE_SHELL_ADJACENCY_METHOD_01.json",
     "latest_real_assembly_method_sha256": "914ff8a7d978adca722ecb987f04caf85a5745ec78b6033f5a3fcf2f17405aa1",
     "latest_real_assembly_result": "docs/evidence/APPUI_01_REAL_ASSEMBLY_EXACT_STAGE_SHELL_ADJACENCY_RESULT_01.json",
-    "latest_real_assembly_result_sha256": "5732e050372f02db418b18af25ef8092034b4824d1da743a6619c2336fc14b97"
+    "latest_real_assembly_result_sha256": "5732e050372f02db418b18af25ef8092034b4824d1da743a6619c2336fc14b97",
+    "latest_stage_presentation_method": "docs/evidence/APPUI_01_STAGE_PRESENTATION_SUCCESSOR_METHOD_01.json",
+    "latest_stage_presentation_method_sha256": "ce6d074c3b8df82e7f59d820ab77a3823d1ab76af026977ac8cd4eedb9b7c712",
+    "latest_stage_presentation_result": "docs/evidence/APPUI_01_STAGE_PRESENTATION_SUCCESSOR_RESULT_01.json",
+    "latest_stage_presentation_result_sha256": "7c179b07b508316476cd552318ce8c72a0b31701875976f20f90614f9ca7db04",
+    "active_stage_presentation_packet": "PKT-APPUI-STAGE-PRESENTATION-01",
+    "active_stage_presentation_packet_sha256": "c5ba4e853aef976d53274ea366612c3aa0b12dab8fa958a37ea506dba04fb157"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }
