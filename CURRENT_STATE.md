@@ -23,5 +23,3 @@ Narrative grammar remains `PLACE -> PRESENCE -> PERSON -> TRACE -> OTHER LIFE ->
 No `site/public/**` bytes, Stage repaint, generated typography, new logo, ornamental frame, Bellweather-specific universal UI language, app UI, product disclosure, Threshold K path redesign or universal Character-face requirement is authorized.
 
 **Exact next action:** build one isolated production-shaped interaction/accessibility prototype from the selected temporal grammar. Define deterministic transition-state implementation, keyboard/touch/wheel behavior, reduced-motion behavior and fallback semantics while preserving the current production opening and secrecy posture. Stop before production promotion; promotion requires an explicit Director decision.
-
-<!-- temporary L-194 helper trigger; remove before PR -->
