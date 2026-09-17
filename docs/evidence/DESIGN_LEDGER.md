@@ -3210,3 +3210,20 @@ The pre-existing apex redirect double-slash quirk remains separate maintenance d
 **Exact next action:** hold the now-live production experience stable. Any further website design change begins as a new bounded program; publication maintenance may separately correct the apex redirect quirk without altering the verified visual experience.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-201 — Director-authorized narrative cadence refinement closes local audit cleanly
+
+**State:** ISOLATED PRODUCTION CANDIDATE / FIVE USER-CONTROLLED CHAPTERS / AUTOMATIC EMPTY-STAGE TRANSITIONS / LOCAL BROWSER PASS / HOSTED REVIEW NEXT / PRODUCTION UNCHANGED
+
+After reviewing the live Bellweather sequence, the Director agreed that explicit empty-Stage navigation positions made every other wheel gesture feel unresponsive. Website Sol opened one bounded refinement preserving the narrative meaning of absence while removing empty Stage from the visitor-controlled state list.
+
+The candidate changes the visitor order from eight navigation positions to five semantic chapters: `PLACE -> PRESENCE -> PERSON -> TRACE -> OTHER LIFE`. PLACE -> PRESENCE responds directly. Later transitions fade the current carrier out, hold the exact Stage empty, then reveal the requested next chapter. Bellweather still disappears after PERSON and TRACE still recedes before OTHER LIFE.
+
+The local candidate uses a 280 ms fade-out plus 300 ms fully empty hold; reduced-motion moves directly through the same five semantic states with zero running animations. Rapid retargeting preserves one transition window and resolves directly to the final requested carrier rather than flashing intermediate content.
+Deterministic Edge/CDP passes the nine-viewport matrix, one-wheel-per-chapter forward and reverse sequences, automatic-empty proof with all narrative carriers at opacity zero, touch/swipe, keyboard, Home/End, focus retention, wheel burst locking, rapid retargeting, 200% text containment and forced-colors fallback. Static scene/identity/carrier geometry remains unchanged and the frozen Stage hash remains exact.
+
+Canonical evidence: `docs/evidence/WEBSITE_V2_2_NARRATIVE_CADENCE_REFINEMENT_LOCAL_AUDIT_01.md` and `docs/evidence/WEBSITE_V2_2_NARRATIVE_CADENCE_REFINEMENT_BROWSER_EVIDENCE_01.json`.
+
+**Exact next action:** commit/push the isolated candidate, require exact-head GitHub/Cloudflare success, directly verify hosted bytes/headers/no-analytics/browser cadence, then stop for Director review. Do not merge or alter live production before that hosted review.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

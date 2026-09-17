@@ -1,15 +1,16 @@
 (() => {
-  const order = ['place', 'presence', 'empty1', 'person', 'empty2', 'trace', 'empty3', 'life'];
+  const order = ['place', 'presence', 'person', 'trace', 'life'];
   const spoken = {
     place: 'Kymaean. Coming Soon.',
     presence: 'The scene has changed.',
-    empty1: 'The scene has cleared.',
     person: 'The scene has changed.',
-    empty2: 'The scene has cleared.',
     trace: 'The scene has changed.',
-    empty3: 'The scene has cleared.',
     life: 'The scene has changed.'
   };
+
+  const FADE_OUT_MS = 280;
+  const EMPTY_HOLD_MS = 300;
+  const REVEAL_DELAY_MS = FADE_OUT_MS + EMPTY_HOLD_MS;
 
   const stage = document.getElementById('main');
   const live = document.getElementById('state-live');
@@ -17,33 +18,72 @@
 
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   let index = 0;
+  let rendered = 'place';
+  let transitionTimer = 0;
+  let transitionStarted = 0;
+  let transitionToken = 0;
   let touchY = null;
   let wheelSum = 0;
   let wheelTimer = 0;
   let wheelLocked = false;
-  let lastChange = 0;
+
+  const cancelReveal = () => {
+    window.clearTimeout(transitionTimer);
+    transitionTimer = 0;
+    transitionToken += 1;
+  };
+
+  const render = (target, source, announce = true) => {
+    rendered = target;
+    document.body.dataset.state = target;
+    document.body.dataset.input = source;
+    document.body.classList.remove('transitioning');
+    transitionStarted = 0;
+    if (announce) live.textContent = spoken[target];
+    return target;
+  };
+
+  const scheduleReveal = (target, source, delay) => {
+    const token = ++transitionToken;
+    window.clearTimeout(transitionTimer);
+    transitionTimer = window.setTimeout(() => {
+      if (token !== transitionToken) return;
+      transitionTimer = 0;
+      render(target, source, true);
+    }, delay);
+  };
 
   const setState = (next, source = 'api') => {
-    const previous = order[index];
     const clamped = Math.max(0, Math.min(order.length - 1, next));
-    if (clamped === index && source !== 'load') return order[index];
-    const now = performance.now();
+    const target = order[clamped];
+    const sameTarget = clamped === index;
+    if (sameTarget && source !== 'load' && !transitionTimer) return target;
     index = clamped;
-    const target = order[index];
-    const rapidRetarget = previous !== 'place' && lastChange > 0 && (now - lastChange) < 540;
+    document.body.dataset.input = source;
 
-    if (rapidRetarget && !reducedMotion.matches) {
-      document.body.classList.add('snap');
-      document.body.dataset.state = target;
-      void document.body.offsetWidth;
-      document.body.classList.remove('snap');
-    } else {
-      document.body.dataset.state = target;
+    if (source === 'load' || reducedMotion.matches || target === 'place') {
+      cancelReveal();
+      return render(target, source, true);
     }
 
-    document.body.dataset.input = source;
-    live.textContent = spoken[target];
-    lastChange = now;
+    if (rendered === 'place' && !transitionTimer) {
+      cancelReveal();
+      return render(target, source, true);
+    }
+
+    if (rendered !== 'empty') {
+      cancelReveal();
+      transitionStarted = performance.now();
+      rendered = 'empty';
+      document.body.classList.add('transitioning');
+      document.body.dataset.state = 'empty';
+      scheduleReveal(target, source, REVEAL_DELAY_MS);
+      return target;
+    }
+
+    const elapsed = performance.now() - transitionStarted;
+    const remaining = Math.max(80, REVEAL_DELAY_MS - elapsed);
+    scheduleReveal(target, source, remaining);
     return target;
   };
 
@@ -57,8 +97,7 @@
       event.preventDefault();
       setState(0, 'keyboard');
       return;
-    }
-    else if (event.key === 'End') {
+    } else if (event.key === 'End') {
       event.preventDefault();
       setState(order.length - 1, 'keyboard');
       return;
@@ -101,22 +140,34 @@
     if (Math.abs(deltaY) >= 28) step(deltaY > 0 ? 1 : -1, 'touch');
   };
 
+  const onReducedMotionChange = () => {
+    if (!reducedMotion.matches || rendered !== 'empty') return;
+    cancelReveal();
+    render(order[index], 'reduced-motion', true);
+  };
+
   stage.addEventListener('keydown', onKey);
   stage.addEventListener('touchstart', onTouchStart, { passive: true });
   stage.addEventListener('touchend', onTouchEnd, { passive: true });
   stage.addEventListener('pointerdown', () => stage.focus({ preventScroll: true }), { passive: true });
   window.addEventListener('wheel', onWheel, { passive: true });
+  reducedMotion.addEventListener?.('change', onReducedMotionChange);
 
   window.__KYM_TEMPORAL__ = {
     order,
     get index() { return index; },
     get state() { return order[index]; },
+    get renderState() { return rendered; },
+    get transitioning() { return rendered === 'empty'; },
     get reducedMotion() { return reducedMotion.matches; },
+    get timing() { return { fadeOutMs: FADE_OUT_MS, emptyHoldMs: EMPTY_HOLD_MS, revealDelayMs: REVEAL_DELAY_MS }; },
     advance: () => step(1, 'api'),
     reverse: () => step(-1, 'api'),
     set: (next) => setState(next, 'api'),
     snapshot: () => ({
       state: order[index],
+      renderState: rendered,
+      transitioning: rendered === 'empty',
       index,
       reducedMotion: reducedMotion.matches,
       activeTag: document.activeElement?.tagName,
