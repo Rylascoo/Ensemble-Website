@@ -3210,3 +3210,17 @@ The pre-existing apex redirect double-slash quirk remains separate maintenance d
 **Exact next action:** hold the now-live production experience stable. Any further website design change begins as a new bounded program; publication maintenance may separately correct the apex redirect quirk without altering the verified visual experience.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+
+## L-203 — Director orders Bellweather production rollback and concept-first reset
+
+**State:** DIRECTOR ROLLBACK / RESTORE PRE-BELLWEATHER V2.2 / PR #104 CLOSED UNMERGED / CONCEPT-FIRST WEBSITE STUDY NEXT
+
+After reviewing the live Bellweather integration and the cadence-refinement preview, the Director ordered the latest Bellweather website update undone and requested that Website Sol return to concept development before proposing another public update.
+
+PR #104 is closed unmerged. Its branch-local L-201/L-202 records remain historical evidence only and never became `main` authority. The rollback target is the exact `site/public/**` tree from `538fa349e046041e2759748d54fda176ac6a9749`, immediately before PR #102 introduced Bellweather into production.
+The production rollback does not erase the Bellweather studies or prohibit her future use. It removes the current implementation from production and reclassifies the next website step as a fresh non-production concept study. No prior placement, temporal-state or interaction treatment is presumed to be the answer merely because it was previously validated.
+
+**Exact next action:** restore the exact pre-Bellweather V2.2 public tree, pass exact-head/Cloudflare/live verification, then begin a fresh isolated concept study. Stop for Director review of the concept proposal before any new production candidate is built.
+
+**DIRECTOR DECISION — ROLLBACK AUTHORIZED; CONCEPT-FIRST RESET REQUIRED.**
