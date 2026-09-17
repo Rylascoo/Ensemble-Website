@@ -171,7 +171,7 @@
       "path": "docs/evidence/packets/PKT_FICON_01_FUNCTIONAL_PLATFORM_ICON_TREATMENT_01.json",
       "axis": "APP VISUAL conventional functional platform icon carrier treatment",
       "status": "PROVISIONAL_INCUMBENT",
-      "current_contribution": "F1 Native Quiet Carrier is the sole APPUI-FICON-01 survivor for conventional Windows/Fluent verbs; treatment evidence only, not final icon assets/native implementation/domain iconography.",
+      "current_contribution": "F1 Native Quiet Carrier remains the conventional platform-verb treatment incumbent; PKT-FICON-ASSET-01-01 separately closes the system-backed source/mapping design-reference package. Bespoke/domain and native production icon work remain outside both packets.",
       "production_authority": false
     },
     {
@@ -277,6 +277,14 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "Source Sans 3 is the current design-reference supporting typeface; production font packaging/native tokens remain separately gated.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-FICON-ASSET-01-01",
+      "path": "docs/evidence/packets/PKT_APPUI_FINAL_PLATFORM_ICON_ASSET_01.json",
+      "axis": "APP VISUAL conventional platform icon source/mapping package",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "System-backed Segoe Fluent Icons mapping for the eight frozen conventional verbs under F1 Native Quiet Carrier; design-reference only.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
@@ -297,7 +305,7 @@
     "Post-SEL-S1-F4 Audit 06 found zero eligible isolated Stage variables. APP-SYN-01 is now activated with method preregistered but no new synthesis visual/result; closed Stage gates remain closed and any later targeted refinement must be earned by synthesis evidence.",
     "CPS-B remains the Director-selected canonical Phase C Character-presence architecture. Human artwork is not required for current APPUI-01 screen design; CHARART-01 is Director-terminated after one valid output with no master adoption.",
     "APPICON-01 closes with E06 as the sole current app-icon design-master envelope around exact C0; production Store/package/native-mask implementation and final symbol authority remain unresolved.",
-    "APPUI-FICON-01 closes with F1 Native Quiet Carrier as the sole conventional platform-verb treatment survivor. Bespoke domain icons, final shipping icon assets/native mapping, production tokens and Product-gated symbol vocabulary remain unresolved/outside this packet.",
+    "APPUI-FICON-01 F1 Native Quiet Carrier and PKT-FICON-ASSET-01-01 now close the conventional platform-verb treatment + system-backed source/mapping design-reference path. Bespoke Product/domain icons, production icon tokens/binaries and native implementation validation remain unresolved/outside these packets.",
     "APPUI-COMP-01 closes Foundational Control Grammar 01 as the current Product-independent component-system reference; real shell/workspace integration, Product-gated controls, production tokens and native implementation remain unresolved.",
     "APPUI-COMP-02 closes the first real application-shell/Production-resume integration above COMP-01; later workspace/detail design remains open while Product-gated Stage semantics, native implementation and production tokens remain unresolved.",
     "APPUI-COMP-03 closes the real situation-first Production Shaping workspace integration above COMP-02; contextual/deep inspection integration remains the next real-interface boundary while Product-gated Stage semantics, native implementation and production tokens remain unresolved.",
@@ -318,7 +326,7 @@
     "whole_app_synthesis_packets_created": [
       "PKT-APP-SYN-01-01"
     ],
-    "next_synthesis_trigger": "Stage presentation and design-reference typeface are now resolved at the static-design level. Re-enter Design only through a new Director/Product/native/implementation/localization trigger or separately authorized visual-system program; do not invent COMP-12, S2 Stage extraction or typeface retuning by sequence.",
+    "next_synthesis_trigger": "Stage presentation, design-reference typeface and conventional platform-icon source/mapping are resolved at the static-design level. Run the post-static-asset re-entry audit; re-enter further only through a lawful Director/Product/native/implementation/evidence trigger.",
     "no_silent_gap_filling": true,
     "latest_reentry_audit": "docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json",
     "core_app_baseline_packet": "PKT-STAGE-CORE-02",
@@ -405,11 +413,18 @@
     "active_typeface_packet": "PKT-TYP-ASSET-01-01",
     "active_typeface_packet_sha256": "54293eaef21f41757e6445534e35a8a0186447f7c89dc96193b4ea5db4890c74",
     "active_platform_icon_asset_program": "APPUI-FICON-ASSET-01",
-    "active_platform_icon_asset_status": "PRE_EXPOSURE_METHOD_SOURCE_MAPPING_FROZEN",
+    "active_platform_icon_asset_status": "SYSTEM_BACKED_EIGHT_MAPPING_PASS_CLOSED",
     "active_platform_icon_asset_method": "docs/evidence/APPUI_01_FINAL_PLATFORM_ICON_ASSET_SPEC_METHOD_01.json",
     "active_platform_icon_asset_method_sha256": "725f4ceeec2fc1c7e41f40d9124c4a12a5e64ff8f5881a9d4e194f498b3b63f7",
     "active_platform_icon_source_mapping": "docs/evidence/APPUI_01_FINAL_PLATFORM_ICON_SOURCE_MAPPING_01.json",
-    "active_platform_icon_source_mapping_sha256": "f5e3286a6004567d8f6442f7898fa80c365a1e0f19f0c74eb5d259286b889e3c"
+    "active_platform_icon_source_mapping_sha256": "f5e3286a6004567d8f6442f7898fa80c365a1e0f19f0c74eb5d259286b889e3c",
+    "active_platform_icon_asset_mapping": "docs/evidence/APPUI_01_FINAL_PLATFORM_ICON_SOURCE_MAPPING_01.json",
+    "active_platform_icon_asset_result": "docs/evidence/APPUI_01_FINAL_PLATFORM_ICON_ASSET_SPEC_RESULT_01.json",
+    "active_platform_icon_asset_packet": "PKT-FICON-ASSET-01-01",
+    "active_platform_icon_asset_result_sha256": "938366152baec8e547519410b95fa6a04af03b3545e3c18a93029e6417365983",
+    "active_platform_icon_asset_packet_sha256": "8efd5f5056f6db7cde51bbe054b0c328e7d4f9251f31651aa41e79a2d341b1c7",
+    "active_platform_icon_asset_carrier_sha256": "185b1fdde804a0778b5f1413c208400a5d044225495bc641277da24f6899b9a9",
+    "active_platform_icon_asset_probe_sha256": "6c833b92344ebe66bb114d13d9d8cd93f40ab63036a7ffbd3886d3e4f8835dc9"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

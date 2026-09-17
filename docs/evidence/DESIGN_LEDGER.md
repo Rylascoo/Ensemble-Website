@@ -3980,3 +3980,23 @@ FICON-01 F1 Native Quiet Carrier remains unchanged. The source package freezes e
 Current Microsoft Windows guidance is used only as implementation-context evidence: Segoe Fluent Icons is the recommended Windows 11 symbol font, `SymbolThemeFontFamily` is the native theme resource path, and 16/20/24 are supported crisp reference sizes. Project semantics remain governed by repository authority, not external documentation.
 
 **Next boundary:** materialize the exact frozen mapping in one Light/Dark reference carrier and run the seven-case matrix before any mapping judgment. No glyph substitution or family-specific rescue after exposure.
+
+## L-252 - APPUI-FICON-ASSET-01 closes conventional platform-icon source/mapping finalization
+
+**State:** SYSTEM-BACKED MAPPING PASS / PKT-FICON-ASSET-01-01 ACTIVE / BESPOKE + NATIVE PRODUCTION ICON WORK STILL GATED
+
+The pre-exposure method and exact eight-verb mapping were frozen at `f2dc82470cbf610d9129d9eabb872e07b2f8b511`. SurfSeven resolves `Segoe Fluent Icons` Version 1.54 from `C:/Windows/Fonts/SegoeIcons.ttf`; local SHA-256 `af496bd8ed18e8b45ea9c914bb3319204ab4fac450e0f4d3aab62bac6c02e5e9` contains all eight frozen codepoints. That local hash is validation evidence only and is not a shipping pin or bundled asset.
+
+The deterministic carrier renders Back E72B, Close E711, Search E721, Settings E713, More E712, Navigation disclosure E76C, Play E768 and Pause E769 in Light F2 and Dark D3 at 16/20/24 under unchanged FICON-01 F1 Native Quiet Carrier. The first valid seven-case exposure passed unchanged; no common repair or glyph substitution was required. A confirmation rerun produced byte-identical matrix and wide/narrow screenshots.
+
+Final matrix: 48 scale/mapping cells, zero mapping errors, zero glyph clipping, zero page/internal overflow, zero missing accessible names, zero undersized icon controls, system font resolved in every case, solid 2px focus with 2px offset and zero external resources across 1600/1024/390/320, forced colors, 200% text and text-spacing stress. Visual falsification is also PASS: every verb remains recognizable at all three sizes, 20px is the strongest primary reference, Light/Dark meaning is identical, selection/focus stay structural and the controls remain native/quiet rather than becoming a bespoke Kymaean icon family.
+
+`PKT-FICON-ASSET-01-01` therefore closes the conventional platform-icon design-reference source/mapping gap. Evidence is preserved in synced Drive under `04 Lane A - Product UI Reintegration - Active / 22 APPUI-FICON-ASSET-01 Conventional Platform Icon Asset Specification 01`. No font/SVG binary is archived or committed.
+
+No bespoke/domain icon family, Product-gated symbol vocabulary, production icon token API/package, native WinUI/XAML implementation validation, ARM64 runtime/Store authority, Stage/motion/type/color redesign or Product-semantic change is created.
+
+Final race reconciliation records Website `main@e483f0af35166534fff1455f68e287cc9190d91a` and Engineering `main@e01e4eb8de0a04e91c1e8ccd4f11595ab25e1a7f`. Engineering advanced only through E0-D P03 Slot-1 authorization/activation: prewindow, namespace unconsumed and provider traffic zero; P03 Slot 2 remains unauthorized. This creates no APP VISUAL contradiction.
+
+**Next boundary:** run a consolidated post-static-asset re-entry audit. Do not open a new static gate merely because another number is available.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**

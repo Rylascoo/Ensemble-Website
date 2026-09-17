@@ -139,6 +139,11 @@ Persistent identity remains textual/structural. Selection uses STA F2; keyboard 
 ### Infrastructure and recovery surfaces
 Technical conditions remain application-side. D3 does not add warning drama; teal is not a health/recovery color. Healthy persistence should remain quiet.
 
+### Conventional platform icons
+For the eight already-authorized conventional Windows verbs, `PKT-FICON-ASSET-01-01` is the current design-reference source/mapping package under FICON-01 F1 Native Quiet Carrier. Use the system-backed Segoe Fluent Icons / `SymbolThemeFontFamily` path rather than custom Kymaean replacements: Back `E72B`, Close `E711`, Search `E721`, Settings `E713`, More `E712`, Navigation disclosure `E76C`, Play `E768`, Pause `E769`. `20px` is the primary design-reference size; `16px` and `24px` are validated scale references.
+
+This mapping does not authorize bespoke/domain glyphs, production icon binaries/tokens, or native WinUI/XAML implementation claims. Focus and selection remain independent structural states; icon hue never becomes semantic status.
+
 ### Stage adjacency
 The surrounding shell may use Light F2 or Dark D3; the Stage remains invariant dark and visually primary when live-production work is the task.
 ## 10. Responsive and accessibility invariants
@@ -162,7 +167,7 @@ This static app visual system does not select or freeze:
 - a final production token package or naming API;
 - a final shipping palette beyond the selected static design direction;
 - production font packaging/subsetting, fallback/localization coverage policy, native font mapping, font metrics or typography implementation tokens;
-- final icon family or icon asset package;
+- bespoke/Product-domain iconography, production icon binaries/token API, or native icon implementation beyond the validated conventional system-backed mapping;
 - motion, transitions or transcript-dependent micro-interactions;
 - Stage color/material successor authority;
 - Product-gated Scene, Take, Perspective, provider/model/cost or Performer controls;
