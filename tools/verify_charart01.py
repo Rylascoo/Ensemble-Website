@@ -66,9 +66,17 @@ def main():
   if iso.get(k) is not False: fail(f'isolation {k}')
  if 'fresh regular non-project image-generation chat' not in iso.get('execution_context',''): fail('execution isolation context')
  sp=reg.get('synthesis_policy',{})
- checks={'latest_reentry_audit_sha256':H['AUD'],'active_charart_program':'CHARART-01','active_charart_status':'DIRECTOR_TERMINATED_AFTER_VALID_OUTPUT_NO_MASTER_ADOPTED','active_charart_method_sha256':H['METHOD'],'active_charart_renderer_packet_sha256':H['RENDER'],'active_charart_drive_folder_id':DRIVE,'active_charart_director_gate':'CLOSED_NO_MASTER','active_charart_output_sha256':'4b793a5bf265d932e581d5b34fd05fa9ed132c3b6d0b2623a26a3c7b3363d6ba','latest_director_sequencing_correction_sha256':H['PIV'],'active_app_ui_program':'APPUI-01','active_app_ui_status':'ITERATIVE_WINDOWS11_ARM64_SCREEN_FIRST','active_app_ui_handoff':'docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md','active_app_ui_concurrent_website_coordination':'docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json','active_app_ui_concurrent_website_coordination_sha256':H['COORD'],'active_app_ui_concurrency_status':'APPUI_AND_WEBSITE_SOL_SEPARATE_LIVE_STREAMS'}
+ # CHARART activation identity is historical and immutable; APPUI's latest re-entry audit is intentionally moving.
+ checks={'active_charart_activation_audit':'docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json','active_charart_activation_audit_sha256':H['AUD'],'active_charart_program':'CHARART-01','active_charart_status':'DIRECTOR_TERMINATED_AFTER_VALID_OUTPUT_NO_MASTER_ADOPTED','active_charart_method_sha256':H['METHOD'],'active_charart_renderer_packet_sha256':H['RENDER'],'active_charart_drive_folder_id':DRIVE,'active_charart_director_gate':'CLOSED_NO_MASTER','active_charart_output_sha256':'4b793a5bf265d932e581d5b34fd05fa9ed132c3b6d0b2623a26a3c7b3363d6ba','latest_director_sequencing_correction_sha256':H['PIV'],'active_app_ui_program':'APPUI-01','active_app_ui_handoff':'docs/HANDOFF_APPUI_01_WINDOWS11_ARM64_WORKING_APP_DESIGN_CONCURRENT_WEBSITE_2026_09_14.md','active_app_ui_concurrent_website_coordination':'docs/evidence/APPUI_01_CONCURRENT_WEBSITE_SOL_COORDINATION_2026_09_14.json','active_app_ui_concurrent_website_coordination_sha256':H['COORD'],'active_app_ui_concurrency_status':'APPUI_AND_WEBSITE_SOL_SEPARATE_LIVE_STREAMS'}
  for k,w in checks.items():
   if sp.get(k)!=w: fail(f'registry {k}')
+ latest=sp.get('latest_reentry_audit')
+ if not isinstance(latest,str) or not latest: fail('registry latest_reentry_audit')
+ latest_path=R/latest
+ if not latest_path.is_file(): fail('registry latest_reentry_audit missing')
+ if sp.get('latest_reentry_audit_sha256')!=sha(latest_path): fail('registry latest_reentry_audit_sha256')
+ # active_app_ui_status is a live APPUI continuity field and must not be frozen by the historical CHARART checkpoint.
+ if not isinstance(sp.get('active_app_ui_status'),str) or not sp.get('active_app_ui_status'): fail('registry active_app_ui_status')
  led=P['LED'].read_text(encoding='utf-8'); hand=P['HAND'].read_text(encoding='utf-8')
  # Historical checkpoint identity lives in evidence/ledger/handoff, not volatile CURRENT_STATE.
  if len(P['CUR'].read_bytes())>3072: fail('CURRENT_STATE exceeds 3 KiB')

@@ -372,7 +372,7 @@
     "active_appicon_evaluation_sha256": "960d5266aec673010b28a306582d669a3ea7047f414d7bc65567167e634a565d",
     "active_appicon_packet": "PKT-APPICON-01-01",
     "active_appicon_packet_sha256": "9e0782c3e13642c3239e421e5079847da122022f0244400b2f31ddea1f15add0",
-    "latest_reentry_audit_sha256": "396bdae331f267e544e0740741bae3849c333b17f20b90e32f37563170bb6143",
+    "latest_reentry_audit_sha256": "698b7fcf0dc9643986cb6df87311fff0595c2be76fcbb54ff2308675cdf4ad01",
     "active_charart_program": "CHARART-01",
     "active_charart_status": "DIRECTOR_TERMINATED_AFTER_VALID_OUTPUT_NO_MASTER_ADOPTED",
     "active_charart_method": "docs/evidence/CHARART_01_EXPRESSIVE_CHARACTER_ARTWORK_MASTER_METHOD_01.json",
@@ -444,7 +444,9 @@
     "active_native_handoff_packet": "PKT-APPUI-NATIVE-HANDOFF-01",
     "active_native_handoff_packet_sha256": "0704a07cc494f2e086645f085c25c04cc0eb1c1390e67fde0985ed68a8acd7bb",
     "active_q_prod_01_dispatch": "docs/evidence/APPUI_01_Q_PROD_01_ENGINEERING_DISPATCH_01.json",
-    "active_q_prod_01_dispatch_sha256": "a2c96f8c2a7444f49582c0bf53562d26c472c04935e44bf54379c43e5baa901f"
+    "active_q_prod_01_dispatch_sha256": "a2c96f8c2a7444f49582c0bf53562d26c472c04935e44bf54379c43e5baa901f",
+    "active_charart_activation_audit": "docs/evidence/PHASE_C_POST_APPICON_01_REENTRY_AUDIT_09.json",
+    "active_charart_activation_audit_sha256": "fe16dba8eb40664533de5af833f94f1fefc1ba5ef94b4c9bdee9e98524808ab0"
   },
   "authority_limit": "This registry is a continuity/index surface. Each packet and its governing source evidence controls its own result. CURRENT_STATE.md controls the live gate. Phase-C entry authority comes from the Director freeze recorded in current state and governing evidence; the registry itself creates no final identity, production token or implementation authority."
 }

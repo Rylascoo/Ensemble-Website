@@ -4045,3 +4045,25 @@ Engineering `main@933edb017c29389f573bb1d86202676fef64fa63` materially changes t
 **Next boundary:** Engineering consumes the packet and materializes the first native shell scaffold. Design Sol re-enters on that exact native evidence or a material Product/native constraint; do not continue speculative tokenization or redesign in advance of implementation evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-262 - Q-DESIGN-20 native convergence accepts architecture and returns five bounded implementation corrections
+
+**State:** NATIVE ARCHITECTURE ACCEPTED / EXISTING DESIGN LAW SUFFICIENT / ENGINEERING CORRECTION RETURN PENDING / NO NEW DESIGN SUCCESSOR
+
+Numbering note: L-256 through L-259 are reserved by the separate unmerged Home A/B review stream; L-260 through L-261 are reserved by the separate unmerged FIRSTUSE-01 stream. This native-convergence branch intentionally advances to L-262 to avoid duplicate ledger IDs while those review branches remain isolated.
+
+Project `main@2c165539fcfb4541d90e177ac09a9800fc0169e8` durably contains machine-tested native source `34a3745e12c42247fe4e1663697bf55452f9d505`. Cross-lane drift review proves `Kymaean.Windows`, `Kymaean.Application`, `Kymaean.Infrastructure.Demo` and application-test sources are unchanged. New Project work adds separate persistence infrastructure plus solution registration and does not alter the reviewed native UI evidence.
+
+The native shell passes the architectural handoff: Home / Productions / Settings remain durable routes; Production shaping / Live Stage / History remain semantic destinations; current Production/current situation dominate; F2/D3 resource values match exactly; Stage remains dark in ordinary Light/Dark; Back is non-causal navigation with proven focus return; Productions uses quiet row structure; and final minimum track is 720x520.
+
+`APPUI_01_Q_DESIGN_20_NATIVE_CONVERGENCE_AUDIT_07.json` finds five evidence-earned corrections already covered by existing Design authority: NC-01 preserve Current Opportunity semantics instead of labeling `OpportunityCharacterId` as generic `Current focus`; NC-02 remove implementation/debug/evidence vocabulary from creator UI; NC-03 make STA F2 structural edge witness primary over generic selected fill; NC-04 restore MAT F1 edge-open subtractive field topology; NC-05 consume the frozen Segoe Fluent Back E72B mapping through FICON F1.
+
+System font, simple invariant-dark Stage and package/titlebar artwork remain explicit scaffold placeholders rather than Design failures. S1 remains the static shell-facing Stage reference; no shipping Stage/native asset pipeline is created. Exact-final High Contrast recapture remains blocked by the remote safety layer; the preceding UI-identical native observation and current system-color resource strategy support bounded review without claiming final-package High Contrast validation or bypassing safety.
+
+`APPUI_01_Q_DESIGN_20_ENGINEERING_RETURN_01.json` requests only NC-01..NC-05 plus post-correction Light/Dark, focus-return and 720x520 evidence. No COMP-12, visual-system successor, Home selection, FIRSTUSE adoption, Stage semantic successor, bespoke icon family or Website work is opened.
+
+Branch integrity also ports only the already-proven CHARART registry/verifier repair from `d03b086145e7764cc59c31ae9d434e79da76e061` and regenerates the canonical docs index; no Home/FIRSTUSE artifact or Character authority is imported.
+
+**Next boundary:** Engineering applies the bounded return and provides an exact native checkpoint. Design performs a short acceptance pass; no speculative APPUI work is opened while that return is pending.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN BOUNDED NATIVE CONVERGENCE AUDIT.**
