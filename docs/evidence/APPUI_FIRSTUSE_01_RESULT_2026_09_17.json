@@ -1,0 +1,38 @@
+{
+  "id": "APPUI-FIRSTUSE-01-RESULT",
+  "status": "PASS_REVIEW_CANDIDATE_NOT_ADOPTED",
+  "date": "2026-09-17",
+  "authority_base": "design/appui01-working-compositions-2026-09-14@0225f9527420d41b2c04a3bc50a30ecf2130d3c9",
+  "engineering_snapshot": "Rylascoo/Ensemble-Project main@dfc641e22f26a81ad1a40cad37626aa41923eb2d",
+  "carrier": "prototypes/appui-01/first-use-entry-experience-01.html",
+  "states": ["zero-Production Home", "Begin Production", "Production-shaping handoff"],
+  "matrix": {
+    "cases": 24,
+    "viewports": [1600, 1180, 680, 390, 320],
+    "stress": ["forced-colors at 320", "200% text at 320", "text spacing at 320"],
+    "page_or_internal_overflow_cases": 0,
+    "duplicate_id_cases": 0,
+    "broken_label_cases": 0,
+    "bad_structure_cases": 0,
+    "theme_surfaces_per_case": 2,
+    "active_panels_per_case": 2,
+    "external_resources": 0
+  },
+  "recursive_audit_corrections": [
+    "repaired 1180 split-layout compression and 200% text intrinsic-width overflow",
+    "reduced editorial/splash-like hierarchy and converted setup to a task-first single working column",
+    "removed internal design-guard language from user-facing handoff UI",
+    "removed unnecessary provider-heavy first-use copy while preserving provider independence as design law",
+    "made cloned Light/Dark form IDs unique and synchronized name/situation values"
+  ],
+  "result": "PASS - first use begins real creative work with a minimal Production entry, preserves F2/D3 + MAT/TYP/STA/FICON law, and hands off to established situation-first shaping without becoming a marketing splash, setup wizard, dashboard or Stage surrogate.",
+  "non_authority": "No final creation schema, persistence implementation, Stage/Scene/Take/Perspective/provider/Performer semantics, returning-user Home selection, Bellweather placement, production token or native WinUI authority is created.",
+  "ci_integrity_dependency": "Ports only the previously proven two-file CHARART registry/verifier repair from d03b086145e7764cc59c31ae9d434e79da76e061; no Home candidate or Character authority change is imported.",
+  "next_boundary": "Preserve as a review candidate. Returning-user Home remains governed separately; Q-DESIGN-20 native convergence remains event-driven on stable Engineering evidence.",
+  "sha256": {
+    "method": "580684d4836c53227906c0466d28522410307b9a3fc814fba43716991ffc6333",
+    "carrier": "75b2a08bbf1224a2e6e6bc8cfe9ae2b461aedbf9e4d87da10fc0a03cffca259d",
+    "probe": "d66f30e4599363975f193d99662a48e7bbb59b560db228dd0efb989fb4f0112a",
+    "matrix": "6326e563c119e8f8ea7538f2ac6a3379052387707d8b6d6d0c4bb52ef5175532"
+  }
+}

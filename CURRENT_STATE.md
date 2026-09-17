@@ -1,23 +1,23 @@
 <!-- D-R1-STATUS: ACTIVE LAW -->
 # Ensemble Website Current State
 
-Updated: 2026-09-16
+Updated: 2026-09-17
 
 ## Authority
-`Rylascoo/Ensemble-Website` owns Design/UI; `Rylascoo/Ensemble-Project` owns Product/Engineering. Recover live refs and `AGENTS.md` first. APPUI work remains isolated on `design/appui01-working-compositions-2026-09-14`; Website publication remains separate on `main`.
+`Rylascoo/Ensemble-Website` owns Design/UI; `Rylascoo/Ensemble-Project` owns Product/Engineering. Recover live refs and `AGENTS.md` first. APPUI authority remains rooted in `design/appui01-working-compositions-2026-09-14`; Website publication on `main` is a separate worker/lane and is not part of this work package.
 
-## Q-PROD-01 native handoff
-Engineering `main@933edb017c29389f573bb1d86202676fef64fa63` activates Q-PROD-01 under the Director product-build-ahead amendment: provisional product construction, native ARM64 shell work and UI/design implementation convergence may proceed now while remaining E0 work is deferred. This supersedes the L-254/Audit-05 timing hold without rewriting its historical result.
+## Native handoff
+Engineering `main@dfc641e22f26a81ad1a40cad37626aa41923eb2d` keeps Q-PROD-01 ACTIVE under the product-build-ahead amendment. `PKT-APPUI-NATIVE-HANDOFF-01` remains READY FOR ENGINEERING CONSUMPTION through `docs/KYMAEAN_APPUI_NATIVE_IMPLEMENTATION_HANDOFF_01.md` and `docs/evidence/APPUI_01_NATIVE_IMPLEMENTATION_REFERENCE_MAP_01.json`. Q-DESIGN-20 still waits for a stable exact Engineering ref plus native ARM64 review-return evidence.
 
-`PKT-APPUI-NATIVE-HANDOFF-01` is READY FOR ENGINEERING CONSUMPTION. Active contract: `docs/KYMAEAN_APPUI_NATIVE_IMPLEMENTATION_HANDOFF_01.md`; machine map: `docs/evidence/APPUI_01_NATIVE_IMPLEMENTATION_REFERENCE_MAP_01.json`; dispatch: `docs/evidence/APPUI_01_Q_PROD_01_ENGINEERING_DISPATCH_01.json`.
+## APPUI-FIRSTUSE-01
+Director continuation opened one independent first-use/entry study while native convergence waits. `prototypes/appui-01/first-use-entry-experience-01.html` carries three states: zero-Production Home -> Begin Production -> Production-shaping handoff, in exact Light F2 / Dark D3 with MAT F1, TYP F1 + Source Sans 3 reference, STA F2 and existing shell navigation.
+
+The candidate passes 24 browser cases across 1600/1180/680/390/320, forced colors, 200% text and text-spacing stress with zero page/internal overflow, duplicate IDs, broken labels or external resources. Recursive audit removed splash-like hierarchy, internal design-law copy and unnecessary provider-heavy first-use language. Evidence: `docs/evidence/APPUI_FIRSTUSE_01_RESULT_2026_09_17.json`.
+
+This is a review candidate, not adopted authority. It does not select a final creation schema, redesign returning-user Home, place Bellweather, create Stage/Scene/Take/Perspective/provider/Performer semantics, or create native/production authority. The separate Home Option A/B review branch remains deferred and unchanged.
 
 ## Implementation law
-Studio / Stage / Archive remain Product-semantic spaces, not automatically permanent navigation labels. Current Design authority preserves quiet Home / Productions / Settings durable shell routes, with Studio meaning expressed through Production-shaping/current-possibility, Stage through Live Stage, and Archive through causal/history/deep inspection. Native routing must separate semantic destination from visible global-nav placement.
-
-The handoff carries Light F2/Dark D3, MAT F1, TYP F1 + Source Sans 3 reference, STA F2, FICON F1 + eight system mappings, invariant dark Stage/S1 presentation, focus/selection and responsive/accessibility semantics. These are provisional implementation inputs, not final production tokens or shipping asset packages.
-
-## Boundaries
-No final Product navigation taxonomy, Scene/Take/Rehearsal/branching/Perspective/provider/Performer semantics, production font/Stage package, WinUI control-class choice, native validation, WACK/Store claim or final architecture is created. Deferred E0 evidence may still change provisional product code. Website `main@e483f0af35166534fff1455f68e287cc9190d91a` remains separate.
+Studio / Stage / Archive remain Product-semantic spaces, not automatically permanent navigation labels. Quiet Home / Productions / Settings remain the durable shell routes. The invariant dark Stage/S1 and all existing focus/selection, responsive and accessibility semantics remain unchanged.
 
 ## Next
-Engineering Q-PROD-01 materializes the first native shell scaffold. Design Sol re-enters on exact native ARM64 shell evidence or a material native/Product contradiction and performs implementation convergence; do not speculate beyond the handoff before that evidence exists.
+Preserve FIRSTUSE-01 for later visual review. Do not touch Website production or Engineering WIP. When Engineering publishes the stable native checkpoint required by Q-DESIGN-20, native implementation convergence becomes the immediate Design priority.

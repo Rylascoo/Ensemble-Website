@@ -4045,3 +4045,23 @@ Engineering `main@933edb017c29389f573bb1d86202676fef64fa63` materially changes t
 **Next boundary:** Engineering consumes the packet and materializes the first native shell scaffold. Design Sol re-enters on that exact native evidence or a material Product/native constraint; do not continue speculative tokenization or redesign in advance of implementation evidence.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-260 - APPUI-FIRSTUSE-01 materializes a bounded zero-Production entry candidate
+
+**State:** FIRST-USE / ZERO-PRODUCTION ENTRY PASS / REVIEW CANDIDATE / NOT ADOPTED / NATIVE HANDOFF UNCHANGED
+
+Numbering note: L-256 through L-259 are reserved by the separate unmerged `design/appui-home-threshold-reentry-2026-09-17@4c73d02c6a1c85d860024a9e2d55b3ef490906b3` Home-review stream. This independent branch intentionally advances to L-260 to avoid duplicate ledger IDs while both review streams remain isolated.
+
+Director continuation explicitly opened `APPUI-FIRSTUSE-01` as independent APPUI work while Q-DESIGN-20 waits for stable native Engineering evidence. The study does not reopen the completed static visual system by sequence alone; it asks only how Kymaean behaves when no Production exists yet and how that state hands off into the established situation-first shaping system.
+
+`docs/evidence/APPUI_FIRSTUSE_01_METHOD_2026_09_17.json` freezes the scope. `prototypes/appui-01/first-use-entry-experience-01.html` materializes three states in co-equal Light F2 / Dark D3: zero-Production Home, Begin Production, and Production-shaping handoff. Home / Productions / Settings, MAT F1, TYP F1 + Source Sans 3 reference, STA F2 and existing shell/navigation law remain unchanged. Bellweather is not placed.
+
+The first recursive audit rejected the initial carrier's compressed 1180 layout, 200% text intrinsic-width overflow, splash-like editorial hierarchy, internal design-guard copy exposed as user UI, unnecessary provider-heavy first-use copy and duplicate Light/Dark form IDs. All were corrected without changing Product semantics.
+
+Final browser evidence covers 24 cases: all three states at 1600/1180/680/390/320 plus forced colors, 200% text and text-spacing stress at 320. Every case has zero page/internal horizontal overflow, exactly two theme surfaces, exactly two active state panels, two Home selection witnesses, zero duplicate IDs, zero broken labels and zero external resources. Visual review confirms the final entry reads as beginning real creative work rather than a marketing splash or setup wizard.
+
+`docs/evidence/APPUI_FIRSTUSE_01_RESULT_2026_09_17.json` records the exact carrier/method/probe/matrix hashes and closeout. No final Production creation schema, persistence implementation, returning-user Home successor, Stage/Scene/Take/Perspective/provider/Performer semantics, production token, native WinUI authority or Website work is created.
+
+This branch also ports only the already-proven shared CHARART registry/verifier integrity repair from `d03b086145e7764cc59c31ae9d434e79da76e061`; no Home-study artifact or Home-review ledger entry is imported and no Character authority changes.
+
+**Next boundary:** preserve FIRSTUSE-01 as a review candidate. Returning-user Home Options A/B remain separately deferred. Q-DESIGN-20 remains event-driven and takes priority immediately when Engineering publishes the required stable native checkpoint/evidence.

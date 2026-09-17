@@ -1,0 +1,31 @@
+{
+  "id": "APPUI-FIRSTUSE-01",
+  "status": "ACTIVE_BOUNDED_DESIGN_STUDY",
+  "date": "2026-09-17",
+  "authority_base": "Rylascoo/Ensemble-Website design/appui01-working-compositions-2026-09-14@0225f9527420d41b2c04a3bc50a30ecf2130d3c9",
+  "engineering_snapshot": "Rylascoo/Ensemble-Project main@dfc641e22f26a81ad1a40cad37626aa41923eb2d",
+  "director_opening": "Director continuation explicitly opens the first-use/entry experience as independent APPUI work while Q-DESIGN-20 waits for stable native evidence.",
+  "bounded_question": "When no Production exists, can Kymaean provide a quiet application-level entry that begins a Production, communicates the minimum product idea through action rather than marketing, and hands off into the established Production-shaping system without inventing Stage or provider semantics?",
+  "states": [
+    "zero-Production Home / first entry",
+    "bounded Begin Production state",
+    "post-create handoff into Production shaping"
+  ],
+  "inherited_law": [
+    "Home / Productions / Settings remain the durable shell routes.",
+    "Light F2 / Dark D3, MAT F1, TYP F1 + Source Sans 3 reference, STA F2 and FICON F1 remain unchanged.",
+    "Provider setup is not a prerequisite for local Production ownership or entry.",
+    "Application-level explanation may exist here; active Stage remains free of product-thesis narration.",
+    "Situation-first shaping remains the next creative depth after Production creation.",
+    "Bellweather is not placed by this study; any future Home-only Bellweather exploration remains separate."
+  ],
+  "prohibited_scope": [
+    "returning-user Home redesign or selection among preserved Home review options",
+    "Stage redesign, Scene/Take/Rehearsal/branching/Perspective semantics",
+    "provider/model/cost or Performer setup",
+    "final Production creation schema or persistence implementation",
+    "website work, Bellweather placement, production tokens, native WinUI claims"
+  ],
+  "test_matrix": ["1600", "1180", "680", "390", "320", "forced-colors", "200%-text", "text-spacing"],
+  "success": "One continuous-field first-use experience remains understandable and actionable in all three states without becoming a marketing splash, setup wizard, card dashboard or Stage surrogate."
+}
