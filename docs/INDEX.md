@@ -7,7 +7,7 @@ Generated file; do not hand-maintain.
 Generation command: `python3 tools/generate_docs_index.py`
 
 Total Markdown documents: 300
-Total text records: 98
+Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
@@ -325,7 +325,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 ## UNCLASSIFIED (0)
 
 
-## TEXT RECORDS — INVENTORY ONLY (98)
+## TEXT RECORDS — INVENTORY ONLY (93)
 
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
@@ -418,10 +418,5 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/renderer/VFD_01_P4_TRANSFER_STERILE_PACKET_01.txt`
 - `intelligence/README.txt`
 - `site/README.txt`
-- `tmp/stage-presentation-successor-01/final/materialize-output.txt`
-- `tmp/typ-asset-01/sources/atkinsonnext-OFL.txt`
-- `tmp/typ-asset-01/sources/instrumentsans-OFL.txt`
-- `tmp/typ-asset-01/sources/inter-OFL.txt`
-- `tmp/typ-asset-01/sources/sourcesans3-OFL.txt`
 - `updates/KYMAEAN_PLACEHOLDER_INITIAL_PRODUCTION_DEPLOYMENT_2026_09_14.txt`
 - `updates/README.txt`
