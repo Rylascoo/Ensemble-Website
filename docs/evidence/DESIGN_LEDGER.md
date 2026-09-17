@@ -3145,3 +3145,20 @@ If a future app-specific Bellweather study is explicitly opened, the only eligib
 This decision does **not** open an app Bellweather study, authorize any asset placement or implementation, alter product semantics, change the APPUI native handoff/Q-DESIGN-20 evidence trigger, or authorize Website production promotion. It narrows future eligibility while preserving the current website-only implementation posture.
 
 **DIRECTOR BOUNDARY PRESERVED — BELLWEATHER MAY ONLY BE CONSIDERED FOR THE APP HOME/ENTRY SURFACE, AND ONLY AFTER A SEPARATE EXPLICIT OPENING.**
+
+## L-197 — Director-authorized website mascot production candidate closes local audit cleanly
+
+**State:** ISOLATED PRODUCTION CANDIDATE / LOCAL BROWSER + VISUAL AUDIT PASS / HOSTED PREVIEW NEXT / PRODUCTION UNCHANGED
+
+The Director authorized Website Sol to build the first isolated production mascot-integration candidate for hosted review, without authorizing live publication. The branch was reconciled forward to `main@538fa349e046041e2759748d54fda176ac6a9749`; the intervening L-196 change is documentation-only and further confines any future app Bellweather consideration to Home/entry, so it does not conflict with this website candidate.
+
+The candidate preserves the exact frozen V2.2 Stage, current Threshold K / O3 `YMÆAN` identity, `COMING SOON`, metadata/secrecy posture and no-analytics rule while implementing the selected visitor-driven sequence `PLACE -> PRESENCE -> empty -> PERSON -> empty -> TRACE -> empty -> OTHER LIFE`. Bellweather disappears after PERSON and TRACE recedes before OTHER LIFE.
+
+Recursive audit corrected two material integration defects before closure: rapid retargets could leave a fading prior carrier in a logical empty state, and the first OTHER LIFE treatment read as a foreground stick-figure icon. Retargeting now snaps rapid semantic changes cleanly; OTHER LIFE is materially smaller, darker and deeper in the Stage. The full Edge/CDP matrix passes zero overflow, viewport-centered identity, no carrier/brand overlap, deterministic wheel/touch/keyboard behavior, focus retention, rapid retargeting, 200% text containment, reduced-motion parity with zero running animations, and browser forced-colors fallback.
+The selected Bellweather carriers were converted to lossless WebP only; decoded visible RGB and alpha remain exact to their selected PNG sources. Combined Bellweather transfer size falls from 1,963,277 bytes to 716,768 bytes without changing visible carrier pixels.
+
+Canonical local evidence: `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_CANDIDATE_LOCAL_AUDIT_01.md` and `docs/evidence/WEBSITE_V2_2_MASCOT_INTEGRATION_CANDIDATE_BROWSER_EVIDENCE_01.json`.
+
+**Exact next action:** commit/push the isolated candidate and continuity, require exact-head repository checks, verify the Cloudflare commit preview byte/header/no-analytics/browser behavior and visual hierarchy, then stop for Director review of the hosted candidate. Do not merge/publish to production before that review.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
