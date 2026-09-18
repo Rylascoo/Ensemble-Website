@@ -10,14 +10,16 @@ Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 ## Production
 L-204 remains production authority: pre-Bellweather V2.2 is live and `site/public/**` remains the exact baseline from `538fa349e046041e2759748d54fda176ac6a9749`. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. No new production candidate is authorized.
 
-## Homepage convergence
-L-208 freezes static spatial hierarchy at Concealed Production exact-Stage Study 03. L-209 freezes the non-production motion architecture at **A-prime - Quiet Recognition**.
+## Homepage design state
+L-208 Study 03 remains accepted exact-Stage static evidence. L-209 A-prime Quiet Recognition remains accepted motion architecture: Bellweather already moving, brief recognition without body pause, continued passage, physical architectural masking, then Stage recovery.
 
-Accepted sequence: `empty Stage -> Bellweather already moving -> brief recognition without body pause -> threshold approach -> practical black masking removes her from view -> faint consequence settles -> empty Stage regains authority`.
+L-210 records Director-ordered vision recovery after fresh-chat continuity became too narrow. A 495-image synced-Drive sweep recovered/sorted the loose project material without intentional deletion. The wider Drive lineage - Homepage Reset, Late Arrival, Impossible Depth, Concealed Production, corporeal refinement and later Stage studies - is again active inspiration for **non-production Stage refinement**.
 
-Stage/camera stay fixed. Latent muted plum-violet/mineral-teal Character-light evidence pre-exists Bellweather and remains non-reactive. No portal activation, particles, slideshow states, hero presentation or stronger threshold response.
+V2.2 remains production baseline; Study 03/A-prime remain earned evidence. They are not the creative endpoint of Stage rendering.
 
-A-prime behavior is authoritative for the next study; the schematic Bellweather carrier is not. Exact timing/refinement evidence: `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_MOTION_CHOREOGRAPHY_01.md` and `prototypes/website-concealed-production-motion-choreography-01/`.
+Canonical Bellweather remains the primary mascot identity. **Bellweather Alternate** is separately frozen as a non-production alternate visual interpretation/research lens, not a replacement or semantic state. Successor Stage studies may use either version when that choice makes a distinct environmental question easier to test.
+
+Current rendering rule: no baked-in typography/copy. Preserve world-before-character hierarchy, deep negative space, practical/physical occlusion and discovered-not-presented behavior; avoid portal/activation VFX, literal latent-figure decoration and hero-poster framing.
 
 ## Cross-surface boundary
 L-196 unchanged: Bellweather remains website-focused; any future app-specific study requires separate explicit opening and is limited to Home/entry.
@@ -25,4 +27,4 @@ L-196 unchanged: Bellweather remains website-focused; any future app-specific st
 ## Publication maintenance
 The pre-existing apex redirect double-slash quirk remains separate maintenance debt.
 
-**Exact next action:** create one isolated non-production real-Bellweather translation study constrained by Study 03 + A-prime. Preserve choreography; test authoritative Bellweather gait, posture, garment/hair response, environmental scale and quiet recognition. Stop for review before any production-shaped candidate or `site/public/**` change.
+**Exact next action:** create a small non-production Stage-refinement series from the latest recovered Drive concepts. Each image must test a distinct Stage/environment question. Alternate canonical Bellweather and Bellweather Alternate only when comparison is informative. Preserve A-prime as behavioral reference rather than requiring exact current Stage geometry. Stop for Director synthesis before any production-shaped candidate or `site/public/**` change.

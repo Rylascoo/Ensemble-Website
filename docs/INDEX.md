@@ -6,14 +6,14 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 315
+Total Markdown documents: 317
 Total text records: 94
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (73)
+## ACTIVE LAW (75)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -44,6 +44,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/RENDERER_CARTOGRAPHY_PHASE_RECONCILIATION_2026_09_06.md`
 - `docs/RENDERER_ISOLATION_PROTOCOL.md`
 - `docs/VISUAL_ARCHIVE_PROTOCOL.md`
+- `docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md`
 - `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md`
 - `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md`
 - `docs/evidence/DESIGN_LEDGER.md`
@@ -67,6 +68,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_REFINEMENT_02.md`
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_SYNTHESIS_01.md`
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEPT_RESET_CONCEALED_PRODUCTION_DOORWAY_01.md`
+- `docs/evidence/WEBSITE_HOMEPAGE_VISION_RECOVERY_AND_STAGE_REFINEMENT_01.md`
 - `docs/evidence/WEBSITE_PLACEHOLDER_V2_1_ATMOSPHERIC_FINISH_01.md`
 - `docs/evidence/WEBSITE_PLACEHOLDER_V2_SECRECY_FIRST_DIRECTION_01.md`
 - `docs/evidence/WEBSITE_SOL_FRESH_CHAT_HANDOFF_CONCEALED_PRODUCTION_2026_09_17.md`
