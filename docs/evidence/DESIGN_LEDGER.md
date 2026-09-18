@@ -3357,3 +3357,20 @@ Canonical repository evidence: `docs/evidence/BELLWEATHER_MEDIATE_VISUAL_FREEZE_
 **Exact next action:** continue the L-210 non-production Stage-refinement series. Each image must test a distinct Stage/environment question; select canonical Bellweather, Alternate or Mediate only when that interpretation makes the question more informative. No baked-in copy and no `site/public/**` change.
 
 **DIRECTOR FREEZE - BELLWEATHER MEDIATE PRESERVED; CANONICAL BELLWEATHER REMAINS PRIMARY; PRODUCTION UNCHANGED.**
+
+
+## L-212 - Placeholder foundation refinement reopened before Phase 2 transition
+
+**State:** NON-PRODUCTION PLACEHOLDER FOUNDATION REFINEMENT / PHASE 2 FUTURE INSPIRATION PRESERVED / PRODUCTION UNCHANGED
+
+The Director explicitly separated the current website-design program into two horizons. Recent Bellweather/causal-architecture/deeper-world work remains liked and is preserved as **Phase 2 future website inspiration**, but the Director does not want the temporary placeholder to jump directly into that architectural language.
+
+Immediate work returns to the current V2.2 placeholder lineage and its archived iterations. The governing foundation is the broad circular dark reflective Stage, warm stage-rim/footlight logic, abstract wings/canopy, atmospheric threshold, amber/cool presence territories, restrained consequence trace and large clean identity field. The intent is to refine this foundation first, then later move through transition images toward the richer Phase 2 world.
+
+The successor visual balance is current-placeholder restraint first and developing language second. New studies may selectively test deeper black materiality/reflection, quieter asymmetric continuation, reduced violet/teal environmental evidence, physical trace/consequence and foreground masking, but must remain recognizably descended from V2.2 rather than becoming a new palace, portal or finished environment. No baked-in typography/copy during this background phase.
+
+Drive Phase 2 preservation: `26 Website Phase 2 Future Inspiration - 2026-09-18` (`1jvkaW662LgGDqypSMQumZDP0nSURyPBd`). Current placeholder exploration: `27 Website Placeholder Foundation Refinement - 2026-09-18` (`1g6domLXTUlJJgtbtC3ampdmKkZUxJ8Yq`). Canonical repository evidence: `docs/evidence/WEBSITE_PLACEHOLDER_FOUNDATION_REFINEMENT_REENTRY_01.md`.
+
+**Exact next action:** continue non-production V2.2-descended placeholder-foundation studies and compare them directly against the frozen two-cone master/current live website. Do not advance Phase 2 transition architecture or change `site/public/**` until the placeholder foundation has been refined and Director-synthesized.
+
+**DIRECTOR REENTRY - PLACEHOLDER FOUNDATION FIRST; PHASE 2 PRESERVED FOR LATER; PRODUCTION UNCHANGED.**
