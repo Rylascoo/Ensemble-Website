@@ -141,6 +141,14 @@
       "status": "DIRECTOR_ADJUDICATION_PENDING",
       "current_contribution": "Current packet set is compatible with usage restraint; Stage-to-app-shell translation gap remains; CLR F2/F1 both survive and await Director contextual choice.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-WEB-DOOR-01-01",
+      "path": "docs/evidence/packets/PKT_WEB_DOOR_01_CONCEALED_PRODUCTION_01.json",
+      "axis": "website threshold / concealed-production spatial metaphor",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Stable center arch with layered black stage masking and two restrained differently colored waiting cones as latent cast/presence cues; non-production concept only.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
