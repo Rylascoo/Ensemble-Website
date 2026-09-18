@@ -3263,4 +3263,18 @@ The render is mechanism evidence only. Generated copy, furniture/props, invented
 
 **Exact next action:** stop for Director review of Synthesis 01. Any refinement requires the smallest successor visual question; do not silently reroll or begin motion/production work.
 
-**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT REQUIRED BEFORE MERGE.**
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-207 — Concealed Production doorway reaches Director-reviewed near-target and transfers to fresh-chat continuation
+
+**State:** NON-PRODUCTION NEAR-TARGET CONCEPT / EXACT-STAGE TRANSLATION NEXT / PRODUCTION UNCHANGED
+
+After L-206, the Director reviewed and approved successive refinements of the Concealed Production doorway. The sequence replaced formal tied-back curtains with layered working-stage blacks, preserved Bellweather in motion at environmental scale, differentiated the concealed waiting lights from the visible amber/blue Stage, and then deepened/obscured the hidden pair toward a muted plum-violet + mineral teal treatment with greater asymmetry.
+
+The current near-target mechanism is therefore: stable center arch; practical layered black masking; no portal/impossible-space activation; two partially concealed additional Character-light presences using colors distinct from the active Stage; Bellweather moving through the Stage rather than posing. The hidden colors remain exploratory concept evidence, not final palette tokens. Generated image pixels, curtain geometry, Bellweather details and invented architecture are not production masters.
+
+Canonical repository evidence: `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_REFINEMENT_02.md`; fresh-chat recovery: `docs/evidence/WEBSITE_SOL_FRESH_CHAT_HANDOFF_CONCEALED_PRODUCTION_2026_09_17.md`; packet `PKT-WEB-DOOR-01-01`. Canonical Drive refinement lineage: document `1cVUw0n4sATFxfpMhRJyn4Rr6HMekKIzwoULASRkMJwc`.
+
+**Exact next action:** in the successor Website Sol chat, fresh-recover live authority and create one isolated non-production exact-Stage translation study of this near-target mechanism. Preserve the actual frozen Stage and authoritative Bellweather hierarchy; do not begin motion prototyping or any production-shaped candidate before Director review of that translation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

@@ -6,14 +6,14 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 311
+Total Markdown documents: 313
 Total text records: 93
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (69)
+## ACTIVE LAW (71)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -62,10 +62,12 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/SYM_SYMBOL_EXPLORATION_FRAMEWORK_01.md`
 - `docs/evidence/WEBSITE_BELLWEATHER_PRODUCTION_ROLLBACK_01.md`
 - `docs/evidence/WEBSITE_BELLWEATHER_PRODUCTION_ROLLBACK_LIVE_VERIFICATION_01.md`
+- `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_REFINEMENT_02.md`
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_SYNTHESIS_01.md`
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEPT_RESET_CONCEALED_PRODUCTION_DOORWAY_01.md`
 - `docs/evidence/WEBSITE_PLACEHOLDER_V2_1_ATMOSPHERIC_FINISH_01.md`
 - `docs/evidence/WEBSITE_PLACEHOLDER_V2_SECRECY_FIRST_DIRECTION_01.md`
+- `docs/evidence/WEBSITE_SOL_FRESH_CHAT_HANDOFF_CONCEALED_PRODUCTION_2026_09_17.md`
 - `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_HOSTED_AUDIT_01.md`
 - `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_LOCAL_AUDIT_01.md`
 - `docs/evidence/WEBSITE_V2_2_APPARENT_SIZE_PARITY_PRODUCTION_CLOSEOUT_01.md`
