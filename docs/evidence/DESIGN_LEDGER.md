@@ -3315,3 +3315,26 @@ Canonical evidence: `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_MOTION_
 **Exact next action:** create one isolated non-production real-Bellweather translation study constrained by Study 03 + A-prime. Preserve the choreography exactly while testing authoritative Bellweather gait, posture, garment/hair response, environmental scale and quiet recognition. Stop for review before any production-shaped candidate or `site/public/**` change.
 
 **DIRECTOR + DESIGN SOL MOTION CONVERGENCE - A-PRIME QUIET RECOGNITION ACCEPTED; PRODUCTION UNCHANGED.**
+
+
+## L-210 - Website vision recovery reopens Stage refinement and freezes Bellweather Alternate
+
+**State:** NON-PRODUCTION VISION RECOVERY / STAGE REFINEMENT REOPENED / BELLWEATHER ALTERNATE FROZEN / PRODUCTION UNCHANGED
+
+The Director identified that the post-L-209 fresh-chat continuation had become too literal about the latest repository gate and no longer felt like a faithful continuation of the previous website-design work preserved in Drive. Website Sol therefore performed a corrective whole-corpus recovery before further visual work.
+
+The synced `Ensemble Project` corpus contained 495 images at recovery time. Ninety-four loose project-root images and sixty direct loose `00 Unreviewed` images were classified into preserved Stage/Bellweather/history/identity/reference/duplicate buckets. The already-structured nested Website Sol exploration archive remained in place. No image was intentionally deleted; exact duplicates were isolated as provenance rather than destroyed.
+
+The recovery confirms that L-208 and L-209 remain valid **earned branch findings** but were being overextended. V2.2 remains the production baseline; Study 03 remains successful exact-Stage static evidence; A-prime remains the accepted motion architecture. The broader non-production creative lineage in Drive - Homepage Reset, Late Arrival, Impossible Depth, Concealed Production, corporeal threshold refinement and later Stage explorations - remains active material for successor Stage rendering. Study 03/A-prime do not globally freeze future exploratory Stage appearance.
+
+The recurring recovered thesis is Stage-as-place, monumental negative space, restrained practical illumination, Character discovered inside a world already in progress, and occlusion/absence as active storytelling. Generated portal activation, literal latent Character decoration, hero-reveal/mascot-poster framing and attractive but unearned invented architecture remain controlled failure modes.
+
+The Director also explicitly froze the contemporary compact short-black-dress interpretation as **Bellweather Alternate**. Canonical Bellweather remains the primary persistent mascot identity. Bellweather Alternate is a separate non-production research lens whose fast small-scale legibility can help stress-test Stage authority; it is not a replacement, product semantic, or universal Character style.
+
+Future Stage refinement may use canonical Bellweather or Bellweather Alternate when the choice helps answer a distinct visual question. Each render must seek a specific discovery rather than producing interchangeable variations. During this phase, renders must not bake in typography/copy; text treatment is deferred until environmental/Character visual language converges.
+
+Canonical repository evidence: `docs/evidence/WEBSITE_HOMEPAGE_VISION_RECOVERY_AND_STAGE_REFINEMENT_01.md` and `docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md`. Current Drive continuity: `Website Sol - Vision Recovery & Stage Refinement Continuity - 2026-09-18`, document `1nZxQPTPq8FLNcaX17syEcxsd5IMSgPBKPEXYJHs-c8I`; the Bellweather master synthesis `1TyYaWeaLGA5nZRMAF7SAeXhzlAvUY2Z3AJQIxM2_3NI` now also carries the Alternate freeze.
+
+**Exact next action:** create a small non-production Stage-refinement series from the latest recovered Drive concepts. Every image must test a distinct Stage/environment question. Use canonical Bellweather and Bellweather Alternate deliberately; preserve A-prime as behavioral reference, not as a requirement to reproduce exact current Stage geometry. Stop for Director synthesis before production-shaped work.
+
+**DIRECTOR-ORDERED VISION RECOVERY COMPLETE - STAGE REFINEMENT REOPENED; BELLWEATHER ALTERNATE PRESERVED; PRODUCTION UNCHANGED.**
