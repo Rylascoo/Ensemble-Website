@@ -3238,3 +3238,17 @@ The rollback does not erase Bellweather research; it closes the current producti
 **Exact next action:** develop one isolated non-production homepage concept proposal from current repository/Drive authority. Explore the intended reveal, atmosphere, narrative hierarchy, Bellweather's role if any, and interaction grammar. Stop for Director review of the proposal before building another production-shaped candidate.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — LIVE ROLLBACK VERIFIED CLEAN.**
+
+## L-205 — Homepage concept reset selects Concealed Production as provisional doorway mechanism
+
+**State:** NON-PRODUCTION CONCEPT / PROVISIONAL DOORWAY INCUMBENT / DIRECTOR + DESIGN SOL CONVERGENCE / PRODUCTION UNCHANGED
+
+Following L-204’s rollback and concept-first reset, the homepage concept has converged on a Late Arrival / fixed-Stage / one-continuous-passage narrative rather than the prior state-machine implementation. The Director then proposed a grounded center-doorway treatment based on real stage masking: layered near-black curtains concealing a rear-stage production zone with two softly echoed differently colored cones of light implying latent cast/character possibilities.
+
+Design Sol accepts **Concealed Production** as the current provisional doorway mechanism. The outer arch remains stable; mystery comes from withheld physical stage space, material black depth, reflected light and latent waiting-cone presence rather than portal activation. The Director’s “gently corporeal” criterion is adopted. Overt magical energy, particles, fantasy gateway behavior, literal backstage machinery and bright recursive tunnel treatment are outside the current direction.
+
+The earlier Impossible Depth / recursive corridor family is preserved as a valid upper-bound comparator, not erased or rewritten. Canonical repository evidence is `docs/evidence/WEBSITE_HOMEPAGE_CONCEPT_RESET_CONCEALED_PRODUCTION_DOORWAY_01.md` and packet `PKT-WEB-DOOR-01-01`. Canonical Drive synthesis is document `1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0`; generated concept imagery is archived under Drive folder `1OOT7r1S8Li84Jp2iifD5qWRUdwMNLNJT`.
+
+**Exact next action:** create one focused non-production synthesis image of the Concealed Production direction, archive it, and stop for Director review before any motion prototype or production-shaped implementation.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

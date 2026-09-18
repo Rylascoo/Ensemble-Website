@@ -1,0 +1,137 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-WEB-DOOR-01-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "PROVISIONAL_INCUMBENT",
+  "date": "2026-09-17",
+  "gate_or_program": "Website homepage concept reset / doorway family exploration",
+  "design_axis": "website threshold / concealed-production spatial metaphor",
+  "bounded_question": "What center-doorway mechanism can imply a larger production and latent cast while remaining gently corporeal rather than magical or portal-like?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "f7875a20446057d2f80f926c10b95c3f92ee12a9",
+    "current_state_at_close": "CURRENT_STATE.md at baseline plus L-205 candidate continuity",
+    "governing_method_or_contract": [
+      "AGENTS.md",
+      "docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md",
+      "docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md",
+      "docs/evidence/WEBSITE_HOMEPAGE_CONCEPT_RESET_CONCEALED_PRODUCTION_DOORWAY_01.md"
+    ],
+    "drive_sources_if_material": [
+      "1Kz-iGxjPql09Hfn3C4ATpRMq2G-e7MnygZCsve4Ylt8",
+      "1UTV-NT2L5kD16P_uLq8lOl4LTCGYGLfbNFAFyfeUtuE",
+      "1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0",
+      "1OOT7r1S8Li84Jp2iifD5qWRUdwMNLNJT"
+    ]
+  },
+  "controlled_inputs": [
+    "Director concept: real stage masking / black curtain logic behind the center arch",
+    "Director concept: two softly echoed differently colored waiting cones as latent character/presence cues",
+    "Late Arrival / fixed Stage / single continuous Bellweather passage concept",
+    "preserved explicit Impossible Depth family as an upper-bound comparator"
+  ],
+  "excluded_variables": [
+    "site/public production implementation",
+    "app UI or app-wide Bellweather use",
+    "final palette authority",
+    "final Bellweather asset authority",
+    "literal backstage machinery or production exposition",
+    "portal VFX, particles, magical energy or sudden activation"
+  ],
+  "local_result": {
+    "summary": "Concealed Production survives as the current provisional doorway mechanism: a stable outer arch, layered near-black stage masking and two restrained colored waiting cones imply withheld production/cast possibility without portal-like transformation.",
+    "survivors_or_closure": [
+      "Concealed Production / layered black masking",
+      "two peripheral waiting-cone presences",
+      "stable outer arch",
+      "gently corporeal physical-material treatment"
+    ],
+    "recommended_incumbent": "Concealed Production",
+    "alternates": [
+      "Impossible Depth / corridor that should not fit — preserved upper bound"
+    ],
+    "rejections": [
+      "abrupt magical portal activation",
+      "bright recursive tunnel as default",
+      "literal backstage exposition",
+      "active spotlight competition with Stage/Bellweather"
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "Concealed Production is currently the more brand-intelligent successor because it connects threshold mystery to production/cast possibility while reducing supernatural affect.",
+    "director_view_or_delegation": "Director proposed the stage-curtain / rear-stage masking metaphor, two differently colored waiting cones, and requested preservation of the prior doorway before exploring this direction; Director agreed to continue.",
+    "resolution_mode": "CONVERGENT_DIRECTOR_DESIGN_SOL"
+  },
+  "evidence": {
+    "mechanical": [
+      "production site remains the exact pre-Bellweather V2.2 public tree at the baseline authority",
+      "Drive concept and image archive surfaces were created/read back before repository packetization"
+    ],
+    "visual": [
+      "Drive doc 1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0",
+      "Drive archive doc 1XsWpfXrHvlDjDceJ7lpWlzoX4Vgkdc5Pr_1rgN4C_ik"
+    ],
+    "accessibility": [],
+    "invalid_or_superseded_attempts": [
+      "explicit recursive/impossible-depth portal-like treatments are preserved evidence but are not the current provisional incumbent"
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "pre-Bellweather V2.2 production remains stable",
+      "homepage concept reset remains non-production"
+    ],
+    "constrains": [
+      "future doorway visuals should preserve stable outer architecture and avoid magical activation",
+      "next image study should test masking depth and waiting-cone restraint before motion work"
+    ],
+    "must_not_be_confused_with": [
+      "production approval",
+      "final website design",
+      "final shared-brand palette",
+      "app-wide mascot authority"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "too much curtain detail can become literal theater/set design",
+    "waiting cones can become active spotlight competitors if too bright",
+    "flat black loses material depth",
+    "too much symmetry can become decorative rather than inhabited",
+    "Bellweather must remain encountered rather than staged as a mascot poster"
+  ],
+  "explicit_non_authority": [
+    "No site/public changes are authorized.",
+    "Generated images are concept evidence, not production pixel masters.",
+    "Generated typography and invented architecture carry no brand authority.",
+    "No motion timing or scroll mapping is frozen by this packet."
+  ],
+  "lawful_reentry_triggers": [
+    "new synthesis image contradicts the mechanism",
+    "Director changes the doorway metaphor",
+    "new integration evidence",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "docs/evidence/WEBSITE_HOMEPAGE_CONCEPT_RESET_CONCEALED_PRODUCTION_DOORWAY_01.md",
+      "docs/evidence/packets/PKT_WEB_DOOR_01_CONCEALED_PRODUCTION_01.json"
+    ],
+    "drive_visual_masters": [
+      "1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0",
+      "1OOT7r1S8Li84Jp2iifD5qWRUdwMNLNJT"
+    ],
+    "director_review_surface": {
+      "entry_point": "Drive doc 1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0 and the next single synthesis image",
+      "what_to_review": "Whether Concealed Production feels physically grounded, mysterious and production-connected without becoming literal theater or magical portal imagery.",
+      "diagnostics_not_for_aesthetic_choice": []
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_YET_TESTED"
+  }
+}
