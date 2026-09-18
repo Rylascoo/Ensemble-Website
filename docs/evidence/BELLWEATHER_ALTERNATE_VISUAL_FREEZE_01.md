@@ -8,7 +8,7 @@ Production authority: NONE
 
 ## Director decision
 
-During the 2026-09-18 website Stage exploration, a compact contemporary Bellweather interpretation emerged: brunette, youthful-adult in presentation, short black dress, dark over-knee/leg styling, compact silhouette and direct small-scale readability. The Director explicitly asked to **freeze this version as ?Bellweather Alternate.?**
+During the 2026-09-18 website Stage exploration, a compact contemporary Bellweather interpretation emerged: brunette, youthful-adult in presentation, short black dress, dark over-knee/leg styling, compact silhouette and direct small-scale readability. The Director explicitly asked to **freeze this version as "Bellweather Alternate."**
 
 This decision preserves the interpretation. It does not replace canonical Bellweather, change the frozen Bellweather master, create universal mascot anatomy, or authorize app/website production use.
 
@@ -69,8 +69,8 @@ During the active Stage-refinement phase:
 
 ## Drive record
 
-The Bellweather master synthesis document `1TyYaWeaLGA5nZRMAF7SAeXhzlAvUY2Z3AJQIxM2_3NI` carries the Drive-side Alternate freeze. Current website vision recovery is document `1nZxQPTPq8FLNcaX17syEcxsd5IMSgPBKPEXYJHs-c8I`.
+The Bellweather master synthesis document `1TyYaWeaLGA5nZRMAF7SAeXhzlAvUY2Z3AJQIxM2_3NI` carries the Drive-side Alternate freeze. Current website vision recovery is document `1nZxQPTPq8FLNcaX17syEcxsd5IMSgPBKPEXYJHs-c8I`. Central three-interpretation recovery index: Drive folder `1IoGZs8YHn3H-CmrIQbft6z4jb6pwUAjT`, document `1rBP8xSl0kRHqDIhwvVwhQpJGScOkzmNncKnf3UzcKEU`.
 
-The corresponding loose current-chat imagery was sorted into the synced Drive recovery bucket `03 Visual Identity & Artwork / Kymaean / 25 Website Stage Vision Recovery - 2026-09-18 / 03 Bellweather Alternate - Stage Studies`.
+The corresponding loose current-chat imagery is preserved in `03 Visual Identity & Artwork / Kymaean / 25 Website Stage Vision Recovery — 2026-09-18 / 03 Bellweather Alternate — Stage Studies`, Drive folder `1F7zjq5xDSYlfLFZJWxjbaanAJ3mZzDQ4`. The two preserved Alternate PNGs are `1_DSb1pUeW7Ei3rF1MNfK_MF9bD_JJadY` and `1y7da2Hk7djW-Yh7Bbx9qSvn3LMi1lX4m`.
 
 **BELLWEATHER ALTERNATE FROZEN AS A SEPARATE NON-PRODUCTION VISUAL INTERPRETATION; CANONICAL BELLWEATHER REMAINS PRIMARY.**

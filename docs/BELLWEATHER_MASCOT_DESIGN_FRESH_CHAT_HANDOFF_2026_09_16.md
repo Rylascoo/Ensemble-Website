@@ -34,3 +34,14 @@ This newer material is **active non-frozen exploration**. It does not replace L-
 Wardrobe branches now include Human/private, intellectual/work, public/travel, fitted public-social, fitted intellectual/work, fitted evening/public-social and Iconic formal. The Director especially favors recent fitted concepts derived from studies 1/5/7: asymmetric cream/brown fitted dress, fitted cream/brown public-social dress, and dark fitted evening treatment. They are favored directions, not frozen exact garments.
 
 **Next mascot-design boundary:** controlled full-size outfit diversity using the strongest Bellweather facial control, emphasizing fitted intellectual/work and fitted public/evening variants while preserving personhood, agency and narrative function. Do not silently freeze a successor; preserve the separate Website Sol mascot-integration study and all production/app/UI boundaries.
+
+
+## 2026-09-18 three-interpretation reconciliation
+
+Live continuity now distinguishes **Canonical Bellweather / Bellweather Alternate / Bellweather Mediate**. Canonical Bellweather remains the primary persistent mascot identity. Alternate is the L-210 compact contemporary non-production Stage-research lens. Mediate is the L-211 long-gown intermediate non-production Stage-research lens.
+
+Human/Image-5, formal/iconic, fitted public/social, fitted intellectual/work, fitted evening, travel/public, pose and expression families remain presentations/explorations of Canonical Bellweather rather than additional mascot identities.
+
+Central Drive recovery index: folder `1IoGZs8YHn3H-CmrIQbft6z4jb6pwUAjT`; document `1rBP8xSl0kRHqDIhwvVwhQpJGScOkzmNncKnf3UzcKEU`. The Canonical master tree contains 88 preserved PNGs; Alternate Stage studies are in Drive folder `1F7zjq5xDSYlfLFZJWxjbaanAJ3mZzDQ4`; Mediate freeze authority is Drive document `14QPq6sTGxkucCHzUiMh5_qGPrTp9FBjE3NqQYpX-fB4`.
+
+The earlier "Exact next visual boundary" in this historical handoff is no longer current authority. Fresh chats must recover live `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, and the Design Ledger first.

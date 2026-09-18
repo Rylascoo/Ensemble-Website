@@ -4,7 +4,7 @@
 
 Status: **ACTIVE DURABLE DESIGN SOL / VISUAL-CONTINUITY LAW — NON-VOLATILE**
 
-Updated: 2026-09-15
+Updated: 2026-09-18
 
 ## Purpose and volatility boundary
 
@@ -410,3 +410,16 @@ This family permits cream/white morning layers, relaxed seated or upright privat
 These variations do not replace the primary face/silhouette/world controls. Generated garment microgeometry, hotel dressing, breakfast props and incidental scene text remain presentation variables unless separately frozen.
 
 This authority creates no universal Character-face requirement, app semantics, app implementation authority, Stage change or website-production authority.
+
+
+## 20. Bellweather three-interpretation recovery index
+
+Bellweather currently has **three separately named preserved visual interpretations**, while retaining one primary mascot identity:
+
+- **Canonical Bellweather** remains the primary persistent Kymaean mascot / brand-ambassador identity. Human/private, Image-5 morning, formal/iconic, fitted public/social, fitted intellectual/work, fitted evening, travel/public, pose and expression families remain Canonical presentation/exploration territory unless later explicit authority changes that status.
+- **Bellweather Alternate** is the L-210 compact contemporary short-black-dress non-production Stage-research interpretation. It exists to stress-test small-scale recognition and Stage hierarchy; it must not silently replace or contaminate Canonical identity.
+- **Bellweather Mediate** is the L-211 long-gown three-quarter/back non-production Stage-research interpretation positioned between Canonical formality/history and Alternate immediacy. It remains a research lens, not a product state or replacement mascot.
+
+These are not three competing finalists, product states, Character classes, or universal Kymaean styles. Canonical remains primary.
+
+Central Drive recovery index: folder `1IoGZs8YHn3H-CmrIQbft6z4jb6pwUAjT`, document `1rBP8xSl0kRHqDIhwvVwhQpJGScOkzmNncKnf3UzcKEU`. The index maps the 88-image Canonical Bellweather master corpus, the recovered Alternate Stage-study assets, and the Mediate freeze/source lineage while preserving one canonical home per authoritative artifact.

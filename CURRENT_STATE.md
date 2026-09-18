@@ -11,7 +11,7 @@ Website/design authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 L-204 remains production authority: pre-Bellweather V2.2 is live and `site/public/**` remains the exact baseline from `538fa349e046041e2759748d54fda176ac6a9749`. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. No new production candidate is authorized.
 
 ## Homepage design state
-L-208 Study 03 and L-209 A-prime remain earned static/motion evidence. L-210 restored wider Drive vision context. L-211 preserves Bellweather Mediate as a non-production research lens.
+L-208 Study 03 and L-209 A-prime remain earned static/motion evidence. L-210 preserves Bellweather Alternate and L-211 Bellweather Mediate; Canonical/Alternate/Mediate recovery is indexed in Drive folder `1IoGZs8YHn3H-CmrIQbft6z4jb6pwUAjT`.
 
 L-212 now separates two website horizons. Recent Bellweather/causal-architecture/deeper-world imagery is preserved as **Phase 2 future website inspiration**, not the immediate placeholder target. Immediate work returns to the V2.2 placeholder family and refines that visual foundation before any transition imagery advances.
 

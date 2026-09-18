@@ -71,6 +71,6 @@ Current Stage-refinement rule remains no baked-in typography/copy.
 
 Canonical visual freeze: `Bellweather Mediate - Visual Freeze 01 - 2026-09-18`, Drive document `14QPq6sTGxkucCHzUiMh5_qGPrTp9FBjE3NqQYpX-fB4`, which contains the preserved freeze image and interpretation.
 
-The Bellweather Master Synthesis `1TyYaWeaLGA5nZRMAF7SAeXhzlAvUY2Z3AJQIxM2_3NI` and current website continuity `1nZxQPTPq8FLNcaX17syEcxsd5IMSgPBKPEXYJHs-c8I` also record the Mediate distinction.
+The Bellweather Master Synthesis `1TyYaWeaLGA5nZRMAF7SAeXhzlAvUY2Z3AJQIxM2_3NI` and current website continuity `1nZxQPTPq8FLNcaX17syEcxsd5IMSgPBKPEXYJHs-c8I` also record the Mediate distinction. Central three-interpretation recovery index: Drive folder `1IoGZs8YHn3H-CmrIQbft6z4jb6pwUAjT`, document `1rBP8xSl0kRHqDIhwvVwhQpJGScOkzmNncKnf3UzcKEU`. Preserved Phase-2 Mediate study image: Drive file `1dUPPWT5XDAwJu4J8aIsDCR7DO5vJqgLe`.
 
 **BELLWEATHER MEDIATE FROZEN AS A SEPARATE NON-PRODUCTION STAGE-RESEARCH LENS; CANONICAL BELLWEATHER REMAINS PRIMARY; PRODUCTION UNCHANGED.**
