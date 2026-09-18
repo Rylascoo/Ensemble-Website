@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Concealed Production — Motion Choreography 01 — A′ Quiet Recognition</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,sans-serif;background:#0a0a0b;color:#d8d8da}
+*{box-sizing:border-box} body{margin:0;min-height:100vh;display:grid;place-items:center;background:#080809}
+main{width:min(96vw,1220px);padding:22px 0 28px}
+.notice{margin:0 0 10px;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:#8f9095}
+.stage{position:relative;width:100%;aspect-ratio:1672/941;overflow:hidden;background:#020203;box-shadow:0 20px 70px #000}
+.stage>img,.stage>svg{position:absolute;inset:0;width:100%;height:100%;display:block}
+.stage>img{object-fit:contain}.stage>svg{pointer-events:none}
+.controls{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:12px 2px 0}
+button{appearance:none;border:1px solid #33343a;background:#111216;color:#dedee1;padding:8px 12px;border-radius:3px;font:inherit}
+button:focus-visible,input:focus-visible{outline:2px solid #d0d0d2;outline-offset:3px}
+input[type=range]{width:100%}.readout{font-variant-numeric:tabular-nums;font-size:12px;color:#9b9ca1;min-width:52px;text-align:right}
+.note{margin:10px 2px 0;font-size:12px;line-height:1.45;color:#777980;max-width:88ch}
+</style>
+</head>
+<body>
+<main>
+<p class="notice">Non-production motion choreography 01 · A′ Quiet Recognition · diagnostic controls only</p>
+<div class="stage" id="stage">
+<img id="stage-image" src="../../site/public/stage-v2-2.webp" alt="">
+<svg id="motion-layer" viewBox="0 0 1672 941" aria-hidden="true">
+<defs>
+<clipPath id="opening"><path d="M690 720V300A170 170 0 0 1 1030 300V720Z"/></clipPath>
+<filter id="soft"><feGaussianBlur stdDeviation="30"/></filter>
+<filter id="figure-soft"><feGaussianBlur stdDeviation=".55"/></filter>
+<filter id="contact-soft"><feGaussianBlur stdDeviation="10"/></filter>
+<filter id="reflection-soft"><feGaussianBlur stdDeviation="18"/></filter>
+<radialGradient id="plum"><stop offset="0" stop-color="#6a496f" stop-opacity=".31"/><stop offset="1" stop-color="#6a496f" stop-opacity="0"/></radialGradient>
+<radialGradient id="teal"><stop offset="0" stop-color="#416e6b" stop-opacity=".30"/><stop offset="1" stop-color="#416e6b" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#opening)">
+<rect x="690" y="120" width="340" height="600" fill="#020304" opacity=".56"/>
+<path d="M713 304 784 260 806 720 697 720Z" fill="#08090a" opacity=".68"/>
+<path d="M796 258 860 240 865 720 819 720Z" fill="#0d0d0f" opacity=".48"/>
+<path d="M950 260 1015 300 1028 720 940 720Z" fill="#0a0b0c" opacity=".55"/>
+<ellipse id="plum-spill" cx="798" cy="582" rx="76" ry="178" fill="url(#plum)" filter="url(#soft)"/>
+<ellipse id="teal-spill" cx="969" cy="590" rx="72" ry="174" fill="url(#teal)" filter="url(#soft)"/>
+<path d="M694 264 757 222 785 720 690 720Z" fill="#050507"/>
+<path d="M743 222 823 194 835 720 779 720Z" fill="#08080a"/>
+<path d="M780 207 799 201 808 720 797 720Z" fill="#111012" opacity=".62"/>
+<path d="M1027 274 981 233 959 720 1030 720Z" fill="#050607"/>
+<path d="M996 239 962 219 944 720 977 720Z" fill="#0a0a0c" opacity=".91"/>
+<path d="M720 184 1004 170 987 222 747 232Z" fill="#060608" opacity=".95"/>
+<path d="M817 266 822 264 829 689 824 690Z" fill="#58425f" opacity=".13"/>
+<path d="M953 290 958 292 951 685 946 685Z" fill="#395e5c" opacity=".12"/>
+<ellipse id="passage-reflection" cx="1016" cy="706" rx="38" ry="8" fill="#9a704e" opacity="0" filter="url(#reflection-soft)"/>
+<ellipse id="passage-shadow" cx="1016" cy="715" rx="34" ry="7" fill="#000" opacity="0" filter="url(#contact-soft)"/>
+<g id="bellweather" filter="url(#figure-soft)" opacity=".58">
+<g id="body">
+<g id="head"><ellipse cx="-9" cy="-184" rx="11" ry="11" fill="#222020"/><path d="M-3-164 8-163 9-149-5-149Z" fill="#222020"/></g>
+<path d="M-10-151 16-148 25-87-3-82-20-104Z" fill="#222020"/>
+</g>
+<g id="arm-left"><path d="M-12-138-23-129-43-96-36-90-7-115Z" fill="#222020"/></g>
+<g id="arm-right"><path d="M12-136 21-126 42-107 36-100 7-115Z" fill="#222020"/></g>
+<g id="leg-right"><path d="M1-85 13-82 31-15 19-12-1-67Z" fill="#222020"/><ellipse cx="30" cy="-12" rx="13" ry="6" fill="#191818"/></g>
+<g id="leg-left"><path d="M-5-84 5-82-17-17-31-14-16-75Z" fill="#222020"/><ellipse cx="-28" cy="-14" rx="13" ry="6" fill="#191818"/></g>
+</g>
+<path id="deep-occluder" d="M869 242 941 252 935 720 872 720Z" fill="#050607"/>
+<path d="M921 248 903 242 898 720 918 720Z" fill="#09090b"/>
+<path d="M907 246 902 244 902 720 908 720Z" fill="#121214" opacity=".54"/>
+<path d="M1011 247 983 230 971 720 1028 720Z" fill="#060608"/>
+<path d="M990 236 981 232 977 720 986 720Z" fill="#0f0f11" opacity=".55"/>
+</g>
+</svg>
+</div>
+<div class="controls">
+<button id="play" type="button">Play once</button>
+<input id="scrub" type="range" min="0" max="1000" value="0" aria-label="Motion study progress">
+<span class="readout" id="readout">0.000</span>
+</div>
+<p class="note">Study only: fixed camera and Stage; constant latent-light evidence; one continuous Bellweather passage with a brief quiet recognition beat and no body pause. The control bar is diagnostic and is not a website UI proposal.</p>
+</main>
+<script src="motion.js"></script>
+</body>
+</html>

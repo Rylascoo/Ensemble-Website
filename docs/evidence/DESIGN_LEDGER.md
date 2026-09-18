@@ -3297,3 +3297,21 @@ Study 03 remains non-production evidence. Its Bellweather silhouette is a trajec
 **Exact next action:** one isolated non-production motion choreography prototype constrained by Study 03, testing continuous Bellweather passage/occlusion, Stage-first hierarchy, quiet pre-existing latent Character-light evidence and backstage-depth survival. Stop for Director review before any production-shaped website candidate or publication.
 
 **DIRECTOR + DESIGN SOL STATIC CONVERGENCE — STUDY 03 ACCEPTED; PRODUCTION UNCHANGED.**
+
+## L-209 - Concealed Production A-prime Quiet Recognition closes motion architecture
+
+**State:** NON-PRODUCTION MOTION ARCHITECTURE CONVERGENCE / A-PRIME DIRECTOR-ACCEPTED / REAL BELLWEATHER TRANSLATION NEXT / PRODUCTION UNCHANGED
+
+L-208 authorized one isolated motion choreography prototype constrained by exact-Stage Study 03. Website Sol built Motion Choreography 01 as one continuous 6.8-second Bellweather passage on the fixed Stage with practical working-black occlusion, pre-existing non-reactive plum-violet/mineral-teal latent evidence, and no portal/particle/camera activation.
+
+The Director reviewed an A/B/C motion comparison and agreed with Design Sol's recommendation to refine A toward the less-presentational B. The resulting **A-prime - Quiet Recognition** removes the local recognition slowdown, shortens the recognition window by 13.04%, reduces maximum head turn from 3.2 degrees to 2.55 degrees and reduces recognition-specific body lean from 0.9 degrees to 0.35 degrees. Bellweather now briefly notices the visitor without changing course. Working blacks physically take her from view and the empty Stage regains authority afterward.
+
+Recursive audit confirms monotonic visible travel with no recognition plateau, fixed Stage/camera, constant latent-light evidence, no horizontal overflow across wide/tall/mobile diagnostics, physical rather than opacity-based disappearance, and zero `site/public/**` mutation.
+
+The Director explicitly agreed that A-prime is the correct motion direction and then agreed that the underlying motion architecture is converged. The schematic Bellweather remains a motion carrier only; gait, posture, garment/hair response and facial recognition have not yet been proven on the authoritative Bellweather treatment.
+
+Canonical evidence: `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_MOTION_CHOREOGRAPHY_01.md` and `prototypes/website-concealed-production-motion-choreography-01/`. Director-review branch head at convergence: `679cfa1989da0373848a2a3e837741940ca9f8a0`.
+
+**Exact next action:** create one isolated non-production real-Bellweather translation study constrained by Study 03 + A-prime. Preserve the choreography exactly while testing authoritative Bellweather gait, posture, garment/hair response, environmental scale and quiet recognition. Stop for review before any production-shaped candidate or `site/public/**` change.
+
+**DIRECTOR + DESIGN SOL MOTION CONVERGENCE - A-PRIME QUIET RECOGNITION ACCEPTED; PRODUCTION UNCHANGED.**

@@ -6,14 +6,14 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 314
-Total text records: 93
+Total Markdown documents: 315
+Total text records: 94
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (72)
+## ACTIVE LAW (73)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -63,6 +63,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/WEBSITE_BELLWEATHER_PRODUCTION_ROLLBACK_01.md`
 - `docs/evidence/WEBSITE_BELLWEATHER_PRODUCTION_ROLLBACK_LIVE_VERIFICATION_01.md`
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_EXACT_STAGE_TRANSLATION_03.md`
+- `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_MOTION_CHOREOGRAPHY_01.md`
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_REFINEMENT_02.md`
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_SYNTHESIS_01.md`
 - `docs/evidence/WEBSITE_HOMEPAGE_CONCEPT_RESET_CONCEALED_PRODUCTION_DOORWAY_01.md`
@@ -339,7 +340,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 ## UNCLASSIFIED (0)
 
 
-## TEXT RECORDS — INVENTORY ONLY (93)
+## TEXT RECORDS — INVENTORY ONLY (94)
 
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_ARTIFACT_MANIFEST_01.txt`
 - `docs/evidence/D_R1_ASTRA_MECHANICAL_CENSUS_TASK_01.txt`
@@ -431,6 +432,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/renderer/VFD_01_P4_PRIMARY_STERILE_PACKET_01.txt`
 - `docs/evidence/renderer/VFD_01_P4_TRANSFER_STERILE_PACKET_01.txt`
 - `intelligence/README.txt`
+- `prototypes/website-concealed-production-motion-choreography-01/motion-review-notes.txt`
 - `site/README.txt`
 - `updates/KYMAEAN_PLACEHOLDER_INITIAL_PRODUCTION_DEPLOYMENT_2026_09_14.txt`
 - `updates/README.txt`
