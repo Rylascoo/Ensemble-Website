@@ -1,45 +1,31 @@
 {
   "study": "Concealed Production Motion Choreography 01",
-  "status": "NON_PRODUCTION_DIRECTOR_REVIEW",
+  "variant": "A-prime Quiet Recognition",
+  "status": "NON_PRODUCTION_DIRECTOR_REVIEW_REFINED",
   "authority_main": "fa7db59b25602d7d8e71f0d31755b7e1ea05a955",
+  "director_decision": "Director reviewed the A/B/C option board and approved refinement of A toward B: A-prime Quiet Recognition.",
   "source_stage_sha256": "c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3",
-  "source_stage_dimensions": [
-    1672,
-    941
-  ],
   "source_stage_expected_sha256": "c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3",
   "motion_duration_ms": 6800,
   "motion_window": [
     0.13,
     0.87
   ],
-  "wide_rest_to_settled_changed_pixels": 112,
-  "wide_rest_to_settled_mean_abs_rgb": 0.00014497602319616372,
+  "refinement_delta": {
+    "body_travel": "Removed the local recognition slowdown; visible passage is constant-speed through normalized travel 0.08..0.92 with easing only at hidden endpoints.",
+    "travel_monotonic": true,
+    "visible_linear_step_uniform": true,
+    "recognition_gaussian_sigma_before": 0.115,
+    "recognition_gaussian_sigma_after": 0.1,
+    "recognition_fwhm_reduction_percent": 13.04,
+    "head_turn_max_degrees_before": 3.2,
+    "head_turn_max_degrees_after": 2.55,
+    "head_turn_amplitude_reduction_percent": 20.31,
+    "body_recognition_lean_before_degrees": 0.9,
+    "body_recognition_lean_after_degrees": 0.35
+  },
   "viewport_diagnostics": {
     "wide": {
-      "requestedViewport": [
-        1600,
-        1000
-      ],
-      "stageNatural": [
-        1672,
-        941
-      ],
-      "stageRect": {
-        "x": 190,
-        "y": 118.796875,
-        "width": 1220,
-        "height": 686.609375
-      },
-      "motionWindow": [
-        0.13,
-        0.87
-      ],
-      "durationMs": 6800,
-      "horizontalOverflow": false,
-      "latentLightComputedOpacityConstant": true
-    },
-    "mini": {
       "requestedViewport": [
         1000,
         700
@@ -60,7 +46,8 @@
       ],
       "durationMs": 6800,
       "horizontalOverflow": false,
-      "latentLightComputedOpacityConstant": true
+      "latentLightComputedOpacityConstant": true,
+      "variant": "A-prime Quiet Recognition"
     },
     "tall": {
       "requestedViewport": [
@@ -73,7 +60,7 @@
       ],
       "stageRect": {
         "x": 15.359375,
-        "y": 266.640625,
+        "y": 257.953125,
         "width": 737.265625,
         "height": 414.921875
       },
@@ -83,7 +70,8 @@
       ],
       "durationMs": 6800,
       "horizontalOverflow": false,
-      "latentLightComputedOpacityConstant": true
+      "latentLightComputedOpacityConstant": true,
+      "variant": "A-prime Quiet Recognition"
     },
     "mobile": {
       "requestedViewport": [
@@ -96,7 +84,7 @@
       ],
       "stageRect": {
         "x": 7.796875,
-        "y": 278.0625,
+        "y": 269.359375,
         "width": 374.390625,
         "height": 210.703125
       },
@@ -106,30 +94,41 @@
       ],
       "durationMs": 6800,
       "horizontalOverflow": false,
-      "latentLightComputedOpacityConstant": true
+      "latentLightComputedOpacityConstant": true,
+      "variant": "A-prime Quiet Recognition"
     }
   },
   "drive_scan_applied": [
-    "Historical inspiration / original concept foundation O0-A/O0-B and V0: shared Stage and consequence over decorative effect.",
-    "Website V2.2 Stage doctrine: Stage remains primary; threshold stays mysterious; no fantasy portal or concert-lighting affect.",
-    "Bellweather accepted motion studies: gala stroll and doorway glance support restrained forward motion plus a brief observational turn.",
-    "Bellweather mascot vision/natural-expression studies: recognition should come from posture, gaze and subtle head/eye behavior rather than a promotional pose.",
-    "Website mascot integration studies: environmental scale, discovered after KYMAEAN/Stage, departing/crossing behavior stronger than standing presentation.",
-    "Temporal choreography studies: Bellweather absence restores Stage authority; consequence should linger after the person is gone.",
-    "Homepage reset / Late Arrival: one continuous encounter, not a slideshow or numbered state machine.",
-    "Current Concealed Production refinement: stable arch, practical black masking, indirect muted plum-violet/mineral-teal latent presence, no magical activation."
+    "Original concept and V0 studies: shared Stage and consequence over decorative effect.",
+    "V2.2 Stage doctrine: Stage remains primary and threshold remains mysterious rather than portal-like.",
+    "Bellweather accepted motion studies: gala stroll and doorway glance support forward motion plus restrained observational recognition.",
+    "Mascot vision / natural expression: recognition should come from posture and gaze rather than a promotional pose.",
+    "Website mascot integration: environmental scale, discovered after the Stage, crossing/departing stronger than standing presentation.",
+    "Temporal choreography: Bellweather absence restores Stage authority and consequence can linger after the person is gone.",
+    "Late Arrival reset: one continuous encounter, not a slideshow or numbered state machine.",
+    "Concealed Production refinement: practical black masking and pre-existing indirect plum-violet/mineral-teal latent presence; no magical activation."
   ],
   "prototype_reading": [
     "Bellweather begins outside the visible doorway clip in the right/blue territory.",
-    "She crosses inward at environmental scale with only a restrained mid-course head turn.",
-    "Scale remains comparatively stable through recognition, then recedes near the threshold.",
-    "Existing black masking physically occludes the exit; no fade-to-portal transition is used.",
-    "Plum/teal latent light remains present throughout and does not animate in response to Bellweather.",
-    "A soft contact shadow and faint threshold reflection are the only consequential environmental responses; both settle away.",
-    "The Stage/camera never move."
+    "She crosses inward at environmental scale with continuous body travel and no recognition pause.",
+    "Recognition is a brief, reduced head turn while forward travel continues.",
+    "Scale stays comparatively stable through recognition, then recedes near the threshold.",
+    "Existing working-black masking physically occludes the exit; no fade or portal transition is used.",
+    "Plum/teal latent light is already present and does not animate in response to Bellweather.",
+    "A soft contact shadow and faint threshold reflection are the only environmental consequences; both settle away.",
+    "The Stage and camera never move."
+  ],
+  "review_assets": [
+    "motion-choreography-01.gif",
+    "motion-choreography-01-contact-sheet.png",
+    "motion-choreography-01-recognition.png",
+    "motion-options-decision-board.png",
+    "motion-diagnostics-wide.json",
+    "motion-diagnostics-tall.json",
+    "motion-diagnostics-mobile.json"
   ],
   "not_present": [
-    "autoplay loop as product behavior",
+    "production autoplay policy",
     "camera move",
     "zoom",
     "portal activation",

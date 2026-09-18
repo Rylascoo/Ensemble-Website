@@ -1,26 +1,27 @@
-CONCEALED PRODUCTION ? MOTION CHOREOGRAPHY 01 ? DIRECTOR REVIEW
+CONCEALED PRODUCTION ? MOTION CHOREOGRAPHY 01 ? A? QUIET RECOGNITION
 
 STATUS
-NON-PRODUCTION REVIEW CANDIDATE. No site/public/** mutation. No production-shaped candidate or publication authorization.
+NON-PRODUCTION REFINED DIRECTOR-REVIEW CANDIDATE. No site/public/** mutation. No production-shaped candidate or publication authorization.
 
 AUTHORITY
 Built from Ensemble-Website main fa7db59b25602d7d8e71f0d31755b7e1ea05a955 / L-208, constrained by exact-Stage Study 03. Frozen Stage SHA-256 remains c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3.
 
-DRIVE INSPIRATION SCAN
-Before finalizing choreography, Website Sol searched the project Drive corpus across historical concept/UI artwork, V0 visual-world studies, Bellweather chat-render archives, the accepted Bellweather motion/position family, mascot-vision and natural-expression studies, website mascot integration, prior temporal choreography, V2.2 Stage doctrine, homepage reset and Concealed Production refinement lineage. The prototype uses the surviving lessons rather than copying any one historical image.
+DIRECTOR DECISION
+The Director reviewed the A/B/C visual option board and approved refinement of A toward B: A? ? Quiet Recognition. The requested change was specifically less presentation: recognition about 10?15% shorter and subtler, less head rotation, no perceptible body pause, physical masking for disappearance, and Stage authority restored afterward.
+
+A? IMPLEMENTATION
+The local slowdown around recognition has been removed. Bellweather now travels at uniform visible speed, with easing only at hidden motion endpoints. Recognition width is reduced by 13.04% (Gaussian sigma 0.115 ? 0.10), maximum head turn is reduced from 3.2? to 2.55?, and the recognition-specific body lean is reduced from 0.9? to 0.35?. She remains committed to the threshold while the recognition beat happens.
 
 SURVIVING MOTION IDEA
-The Stage exists first. Bellweather enters from the right/blue territory as a person already on her way somewhere. She is noticed rather than introduced. A small mid-course head turn creates recognition without stopping the scene for a portrait. She then recedes only as she reaches the concealed threshold and disappears behind practical working blacks. A faint floor response settles after her; the latent plum/teal presences were already there and remain quiet.
-
-WHAT WAS DELIBERATELY REJECTED
-No state-machine slideshow; no hero-cutout entrance; no camera push; no dramatic pause; no animated spotlight response; no portal activation; no particles; no secondary figure; no prop-based explanation; no universalized 1920s decorative shell.
+The Stage exists first. Bellweather enters from the right/blue territory as a person already on her way somewhere. We notice her; she very briefly notices us without changing course; working blacks take her from view; the Stage remains. The latent plum/teal presences were there before her and remain quiet after her.
 
 REVIEW ASSETS
-motion-choreography-01.gif ? full 6.8 s timing audition.
-motion-choreography-01-contact-sheet.png ? key wide frames.
-motion-choreography-01-recognition.png ? recognition hinge.
+motion-choreography-01.gif ? full 6.8 s A? timing audition.
+motion-choreography-01-contact-sheet.png ? key A? wide frames.
+motion-choreography-01-recognition.png ? approach / A? recognition / continuation triptych.
+motion-options-decision-board.png ? A/B/C decision surface that led to A?.
 motion-diagnostics-{wide,tall,mobile}.json ? responsive diagnostics.
-motion-audit.json ? constraints/provenance/audit summary.
+motion-audit.json ? constraints/provenance/refinement audit.
 
-DIRECTOR REVIEW QUESTION
-Does this feel like one quiet, already-in-progress human passage through the existing KYM?AN Stage ? with Bellweather discovered briefly and the Stage regaining authority ? or does any beat still feel staged/presentational enough to require one more motion refinement?
+REVIEW QUESTION
+Does A? now preserve enough human recognition to make Bellweather memorable while still feeling like a quiet event caught in progress rather than a character presentation?

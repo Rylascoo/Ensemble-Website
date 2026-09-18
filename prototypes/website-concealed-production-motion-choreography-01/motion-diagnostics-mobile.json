@@ -11,7 +11,7 @@
   ],
   "stageRect": {
     "x": 7.796875,
-    "y": 278.0625,
+    "y": 269.359375,
     "width": 374.390625,
     "height": 210.703125
   },
@@ -28,6 +28,7 @@
   ],
   "keySamples": [
     {
+      "variant": "A-prime Quiet Recognition",
       "progress": 0,
       "durationMs": 6800,
       "motionWindow": [
@@ -42,7 +43,7 @@
       "tealOpacity": "1",
       "stageRect": {
         "x": 7.796875,
-        "y": 278.0625,
+        "y": 269.359375,
         "width": 374.390625,
         "height": 210.703125
       },
@@ -57,13 +58,14 @@
       "horizontalOverflow": false
     },
     {
+      "variant": "A-prime Quiet Recognition",
       "progress": 0.14583333333333334,
       "durationMs": 6800,
       "motionWindow": [
         0.13,
         0.87
       ],
-      "figureTransform": "translate(1079.319 723.859) rotate(0.008) scale(0.9996)",
+      "figureTransform": "translate(1077.517 723.489) rotate(0.029) scale(0.9985)",
       "headTransform": "rotate(-0.000 -9 -176)",
       "shadowOpacity": "0.0000",
       "reflectionOpacity": "0.0000",
@@ -71,7 +73,7 @@
       "tealOpacity": "1",
       "stageRect": {
         "x": 7.796875,
-        "y": 278.0625,
+        "y": 269.359375,
         "width": 374.390625,
         "height": 210.703125
       },
@@ -86,21 +88,22 @@
       "horizontalOverflow": false
     },
     {
+      "variant": "A-prime Quiet Recognition",
       "progress": 0.2916666666666667,
       "durationMs": 6800,
       "motionWindow": [
         0.13,
         0.87
       ],
-      "figureTransform": "translate(1037.631 721.037) rotate(0.441) scale(0.9737)",
-      "headTransform": "rotate(-0.018 -9 -176)",
+      "figureTransform": "translate(1041.550 721.023) rotate(0.411) scale(0.9762)",
+      "headTransform": "rotate(-0.005 -9 -176)",
       "shadowOpacity": "0.2300",
       "reflectionOpacity": "0.0000",
       "plumOpacity": "1",
       "tealOpacity": "1",
       "stageRect": {
         "x": 7.796875,
-        "y": 278.0625,
+        "y": 269.359375,
         "width": 374.390625,
         "height": 210.703125
       },
@@ -115,21 +118,22 @@
       "horizontalOverflow": false
     },
     {
+      "variant": "A-prime Quiet Recognition",
       "progress": 0.5,
       "durationMs": 6800,
       "motionWindow": [
         0.13,
         0.87
       ],
-      "figureTransform": "translate(996.693 715.186) rotate(-0.225) scale(0.9484)",
-      "headTransform": "rotate(-3.105 -9 -176)",
+      "figureTransform": "translate(992.000 714.811) rotate(0.330) scale(0.9455)",
+      "headTransform": "rotate(-2.331 -9 -176)",
       "shadowOpacity": "0.2300",
       "reflectionOpacity": "0.0377",
       "plumOpacity": "1",
       "tealOpacity": "1",
       "stageRect": {
         "x": 7.796875,
-        "y": 278.0625,
+        "y": 269.359375,
         "width": 374.390625,
         "height": 210.703125
       },
@@ -144,21 +148,22 @@
       "horizontalOverflow": false
     },
     {
+      "variant": "A-prime Quiet Recognition",
       "progress": 0.7083333333333334,
       "durationMs": 6800,
       "motionWindow": [
         0.13,
         0.87
       ],
-      "figureTransform": "translate(948.794 712.545) rotate(0.465) scale(0.8270)",
-      "headTransform": "rotate(-0.003 -9 -176)",
+      "figureTransform": "translate(942.450 711.246) rotate(0.412) scale(0.8062)",
+      "headTransform": "rotate(-0.000 -9 -176)",
       "shadowOpacity": "0.2300",
       "reflectionOpacity": "0.1050",
       "plumOpacity": "1",
       "tealOpacity": "1",
       "stageRect": {
         "x": 7.796875,
-        "y": 278.0625,
+        "y": 269.359375,
         "width": 374.390625,
         "height": 210.703125
       },
@@ -173,13 +178,14 @@
       "horizontalOverflow": false
     },
     {
+      "variant": "A-prime Quiet Recognition",
       "progress": 0.8541666666666666,
       "durationMs": 6800,
       "motionWindow": [
         0.13,
         0.87
       ],
-      "figureTransform": "translate(904.635 708.732) rotate(0.007) scale(0.6821)",
+      "figureTransform": "translate(906.483 708.710) rotate(0.029) scale(0.6882)",
       "headTransform": "rotate(-0.000 -9 -176)",
       "shadowOpacity": "0.0000",
       "reflectionOpacity": "0.1050",
@@ -187,7 +193,7 @@
       "tealOpacity": "1",
       "stageRect": {
         "x": 7.796875,
-        "y": 278.0625,
+        "y": 269.359375,
         "width": 374.390625,
         "height": 210.703125
       },
@@ -202,6 +208,7 @@
       "horizontalOverflow": false
     },
     {
+      "variant": "A-prime Quiet Recognition",
       "progress": 1,
       "durationMs": 6800,
       "motionWindow": [
@@ -216,7 +223,7 @@
       "tealOpacity": "1",
       "stageRect": {
         "x": 7.796875,
-        "y": 278.0625,
+        "y": 269.359375,
         "width": 374.390625,
         "height": 210.703125
       },
