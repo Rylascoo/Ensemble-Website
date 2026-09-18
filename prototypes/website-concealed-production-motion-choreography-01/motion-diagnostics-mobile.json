@@ -1,0 +1,234 @@
+{
+  "pageUrl": "http://127.0.0.1:8766/prototypes/website-concealed-production-motion-choreography-01/index.html",
+  "frameCount": 49,
+  "requestedViewport": [
+    390,
+    844
+  ],
+  "stageNatural": [
+    1672,
+    941
+  ],
+  "stageRect": {
+    "x": 7.796875,
+    "y": 278.0625,
+    "width": 374.390625,
+    "height": 210.703125
+  },
+  "motionWindow": [
+    0.13,
+    0.87
+  ],
+  "durationMs": 6800,
+  "horizontalOverflow": false,
+  "latentLightComputedOpacityConstant": true,
+  "latentOpacity": [
+    "1",
+    "1"
+  ],
+  "keySamples": [
+    {
+      "progress": 0,
+      "durationMs": 6800,
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "figureTransform": "translate(1080.000 724.000) rotate(-0.000) scale(1.0000)",
+      "headTransform": "rotate(-0.000 -9 -176)",
+      "shadowOpacity": "0.0000",
+      "reflectionOpacity": "0.0000",
+      "plumOpacity": "1",
+      "tealOpacity": "1",
+      "stageRect": {
+        "x": 7.796875,
+        "y": 278.0625,
+        "width": 374.390625,
+        "height": 210.703125
+      },
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "progress": 0.14583333333333334,
+      "durationMs": 6800,
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "figureTransform": "translate(1079.319 723.859) rotate(0.008) scale(0.9996)",
+      "headTransform": "rotate(-0.000 -9 -176)",
+      "shadowOpacity": "0.0000",
+      "reflectionOpacity": "0.0000",
+      "plumOpacity": "1",
+      "tealOpacity": "1",
+      "stageRect": {
+        "x": 7.796875,
+        "y": 278.0625,
+        "width": 374.390625,
+        "height": 210.703125
+      },
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "progress": 0.2916666666666667,
+      "durationMs": 6800,
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "figureTransform": "translate(1037.631 721.037) rotate(0.441) scale(0.9737)",
+      "headTransform": "rotate(-0.018 -9 -176)",
+      "shadowOpacity": "0.2300",
+      "reflectionOpacity": "0.0000",
+      "plumOpacity": "1",
+      "tealOpacity": "1",
+      "stageRect": {
+        "x": 7.796875,
+        "y": 278.0625,
+        "width": 374.390625,
+        "height": 210.703125
+      },
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "progress": 0.5,
+      "durationMs": 6800,
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "figureTransform": "translate(996.693 715.186) rotate(-0.225) scale(0.9484)",
+      "headTransform": "rotate(-3.105 -9 -176)",
+      "shadowOpacity": "0.2300",
+      "reflectionOpacity": "0.0377",
+      "plumOpacity": "1",
+      "tealOpacity": "1",
+      "stageRect": {
+        "x": 7.796875,
+        "y": 278.0625,
+        "width": 374.390625,
+        "height": 210.703125
+      },
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "progress": 0.7083333333333334,
+      "durationMs": 6800,
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "figureTransform": "translate(948.794 712.545) rotate(0.465) scale(0.8270)",
+      "headTransform": "rotate(-0.003 -9 -176)",
+      "shadowOpacity": "0.2300",
+      "reflectionOpacity": "0.1050",
+      "plumOpacity": "1",
+      "tealOpacity": "1",
+      "stageRect": {
+        "x": 7.796875,
+        "y": 278.0625,
+        "width": 374.390625,
+        "height": 210.703125
+      },
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "progress": 0.8541666666666666,
+      "durationMs": 6800,
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "figureTransform": "translate(904.635 708.732) rotate(0.007) scale(0.6821)",
+      "headTransform": "rotate(-0.000 -9 -176)",
+      "shadowOpacity": "0.0000",
+      "reflectionOpacity": "0.1050",
+      "plumOpacity": "1",
+      "tealOpacity": "1",
+      "stageRect": {
+        "x": 7.796875,
+        "y": 278.0625,
+        "width": 374.390625,
+        "height": 210.703125
+      },
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "progress": 1,
+      "durationMs": 6800,
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "figureTransform": "translate(904.000 708.735) rotate(-0.000) scale(0.6800)",
+      "headTransform": "rotate(-0.000 -9 -176)",
+      "shadowOpacity": "0.0000",
+      "reflectionOpacity": "0.0000",
+      "plumOpacity": "1",
+      "tealOpacity": "1",
+      "stageRect": {
+        "x": 7.796875,
+        "y": 278.0625,
+        "width": 374.390625,
+        "height": 210.703125
+      },
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "viewport": [
+        390,
+        844
+      ],
+      "horizontalOverflow": false
+    }
+  ]
+}

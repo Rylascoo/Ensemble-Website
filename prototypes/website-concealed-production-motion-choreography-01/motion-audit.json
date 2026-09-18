@@ -1,0 +1,145 @@
+{
+  "study": "Concealed Production Motion Choreography 01",
+  "status": "NON_PRODUCTION_DIRECTOR_REVIEW",
+  "authority_main": "fa7db59b25602d7d8e71f0d31755b7e1ea05a955",
+  "source_stage_sha256": "c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3",
+  "source_stage_dimensions": [
+    1672,
+    941
+  ],
+  "source_stage_expected_sha256": "c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3",
+  "motion_duration_ms": 6800,
+  "motion_window": [
+    0.13,
+    0.87
+  ],
+  "wide_rest_to_settled_changed_pixels": 112,
+  "wide_rest_to_settled_mean_abs_rgb": 0.00014497602319616372,
+  "viewport_diagnostics": {
+    "wide": {
+      "requestedViewport": [
+        1600,
+        1000
+      ],
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "stageRect": {
+        "x": 190,
+        "y": 118.796875,
+        "width": 1220,
+        "height": 686.609375
+      },
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "durationMs": 6800,
+      "horizontalOverflow": false,
+      "latentLightComputedOpacityConstant": true
+    },
+    "mini": {
+      "requestedViewport": [
+        1000,
+        700
+      ],
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "stageRect": {
+        "x": 12.5,
+        "y": 48,
+        "width": 960,
+        "height": 540.28125
+      },
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "durationMs": 6800,
+      "horizontalOverflow": false,
+      "latentLightComputedOpacityConstant": true
+    },
+    "tall": {
+      "requestedViewport": [
+        768,
+        1024
+      ],
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "stageRect": {
+        "x": 15.359375,
+        "y": 266.640625,
+        "width": 737.265625,
+        "height": 414.921875
+      },
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "durationMs": 6800,
+      "horizontalOverflow": false,
+      "latentLightComputedOpacityConstant": true
+    },
+    "mobile": {
+      "requestedViewport": [
+        390,
+        844
+      ],
+      "stageNatural": [
+        1672,
+        941
+      ],
+      "stageRect": {
+        "x": 7.796875,
+        "y": 278.0625,
+        "width": 374.390625,
+        "height": 210.703125
+      },
+      "motionWindow": [
+        0.13,
+        0.87
+      ],
+      "durationMs": 6800,
+      "horizontalOverflow": false,
+      "latentLightComputedOpacityConstant": true
+    }
+  },
+  "drive_scan_applied": [
+    "Historical inspiration / original concept foundation O0-A/O0-B and V0: shared Stage and consequence over decorative effect.",
+    "Website V2.2 Stage doctrine: Stage remains primary; threshold stays mysterious; no fantasy portal or concert-lighting affect.",
+    "Bellweather accepted motion studies: gala stroll and doorway glance support restrained forward motion plus a brief observational turn.",
+    "Bellweather mascot vision/natural-expression studies: recognition should come from posture, gaze and subtle head/eye behavior rather than a promotional pose.",
+    "Website mascot integration studies: environmental scale, discovered after KYMAEAN/Stage, departing/crossing behavior stronger than standing presentation.",
+    "Temporal choreography studies: Bellweather absence restores Stage authority; consequence should linger after the person is gone.",
+    "Homepage reset / Late Arrival: one continuous encounter, not a slideshow or numbered state machine.",
+    "Current Concealed Production refinement: stable arch, practical black masking, indirect muted plum-violet/mineral-teal latent presence, no magical activation."
+  ],
+  "prototype_reading": [
+    "Bellweather begins outside the visible doorway clip in the right/blue territory.",
+    "She crosses inward at environmental scale with only a restrained mid-course head turn.",
+    "Scale remains comparatively stable through recognition, then recedes near the threshold.",
+    "Existing black masking physically occludes the exit; no fade-to-portal transition is used.",
+    "Plum/teal latent light remains present throughout and does not animate in response to Bellweather.",
+    "A soft contact shadow and faint threshold reflection are the only consequential environmental responses; both settle away.",
+    "The Stage/camera never move."
+  ],
+  "not_present": [
+    "autoplay loop as product behavior",
+    "camera move",
+    "zoom",
+    "portal activation",
+    "particles",
+    "light-beam animation",
+    "slideshow states",
+    "second human figure",
+    "marketing copy",
+    "furniture",
+    "props",
+    "production implementation"
+  ]
+}
