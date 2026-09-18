@@ -6,14 +6,14 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 317
+Total Markdown documents: 318
 Total text records: 94
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (75)
+## ACTIVE LAW (76)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -47,6 +47,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md`
 - `docs/evidence/BELLWEATHER_FOUNDATIONAL_FRONT_FACING_MASCOT_01.md`
 - `docs/evidence/BELLWEATHER_IMAGE5_MORNING_VARIATION_FREEZE_01.md`
+- `docs/evidence/BELLWEATHER_MEDIATE_VISUAL_FREEZE_01.md`
 - `docs/evidence/DESIGN_LEDGER.md`
 - `docs/evidence/HERO_CANDIDATE_06_METHOD_02_D9_MECHANISM_GEOMETRY_INVESTIGATION_01_RECURSIVE_AUDIT.md`
 - `docs/evidence/HERO_INTEGRATION_HARNESS_01_NARROW_CORRECTION_COMPLETION.md`
