@@ -70,7 +70,8 @@
     ],
     "visual": [
       "Drive doc 1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0",
-      "Drive archive doc 1XsWpfXrHvlDjDceJ7lpWlzoX4Vgkdc5Pr_1rgN4C_ik"
+      "Drive archive doc 1XsWpfXrHvlDjDceJ7lpWlzoX4Vgkdc5Pr_1rgN4C_ik",
+      "Drive Synthesis 01 review artifact 1yhiwW-Pv-LL3cChbJEhsqm6u_zbSuuW0vG9pSJUVURQ"
     ],
     "accessibility": [],
     "invalid_or_superseded_attempts": [
@@ -117,15 +118,17 @@
   "canonical_artifacts": {
     "repository": [
       "docs/evidence/WEBSITE_HOMEPAGE_CONCEPT_RESET_CONCEALED_PRODUCTION_DOORWAY_01.md",
-      "docs/evidence/packets/PKT_WEB_DOOR_01_CONCEALED_PRODUCTION_01.json"
+      "docs/evidence/packets/PKT_WEB_DOOR_01_CONCEALED_PRODUCTION_01.json",
+      "docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_SYNTHESIS_01.md"
     ],
     "drive_visual_masters": [
       "1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0",
-      "1OOT7r1S8Li84Jp2iifD5qWRUdwMNLNJT"
+      "1OOT7r1S8Li84Jp2iifD5qWRUdwMNLNJT",
+      "1yhiwW-Pv-LL3cChbJEhsqm6u_zbSuuW0vG9pSJUVURQ"
     ],
     "director_review_surface": {
-      "entry_point": "Drive doc 1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0 and the next single synthesis image",
-      "what_to_review": "Whether Concealed Production feels physically grounded, mysterious and production-connected without becoming literal theater or magical portal imagery.",
+      "entry_point": "Drive Synthesis 01 document 1yhiwW-Pv-LL3cChbJEhsqm6u_zbSuuW0vG9pSJUVURQ",
+      "what_to_review": "Judge the Concealed Production doorway vibe: stable arch, black masking depth and two latent waiting cones. Ignore generated copy, props, woman styling and invented architecture.",
       "diagnostics_not_for_aesthetic_choice": []
     }
   },

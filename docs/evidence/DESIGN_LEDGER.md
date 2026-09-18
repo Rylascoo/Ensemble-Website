@@ -3252,3 +3252,15 @@ The earlier Impossible Depth / recursive corridor family is preserved as a valid
 **Exact next action:** create one focused non-production synthesis image of the Concealed Production direction, archive it, and stop for Director review before any motion prototype or production-shaped implementation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-206 — Concealed Production Synthesis 01 reaches Director review
+
+**State:** NON-PRODUCTION SINGLE-IMAGE SYNTHESIS / DOORWAY MECHANISM PROVED / DIRECTOR REVIEW REQUIRED / PRODUCTION UNCHANGED
+
+L-205 authorized one focused synthesis image for the provisional Concealed Production doorway mechanism. Synthesis 01 is archived in Drive document `1yhiwW-Pv-LL3cChbJEhsqm6u_zbSuuW0vG9pSJUVURQ` and demonstrates the stable center arch, layered black masking and two restrained waiting-cone presences without recursive portal geometry.
+
+The render is mechanism evidence only. Generated copy, furniture/props, invented architecture, pale-gown woman styling and editorial composition are explicitly non-authoritative and must not migrate into production. Canonical repository evidence: `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_SYNTHESIS_01.md`.
+
+**Exact next action:** stop for Director review of Synthesis 01. Any refinement requires the smallest successor visual question; do not silently reroll or begin motion/production work.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT REQUIRED BEFORE MERGE.**
