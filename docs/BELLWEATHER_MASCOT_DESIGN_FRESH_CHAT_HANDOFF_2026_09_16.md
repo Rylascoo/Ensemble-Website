@@ -45,3 +45,14 @@ Human/Image-5, formal/iconic, fitted public/social, fitted intellectual/work, fi
 Central Drive recovery index: folder `1IoGZs8YHn3H-CmrIQbft6z4jb6pwUAjT`; document `1rBP8xSl0kRHqDIhwvVwhQpJGScOkzmNncKnf3UzcKEU`. The Canonical master tree contains 88 preserved PNGs; Alternate Stage studies are in Drive folder `1F7zjq5xDSYlfLFZJWxjbaanAJ3mZzDQ4`; Mediate freeze authority is Drive document `14QPq6sTGxkucCHzUiMh5_qGPrTp9FBjE3NqQYpX-fB4`.
 
 The earlier "Exact next visual boundary" in this historical handoff is no longer current authority. Fresh chats must recover live `CURRENT_STATE.md`, `docs/DESIGN_CONTINUITY.md`, and the Design Ledger first.
+
+
+## 2026-09-18 browser-reset / current-chat image recovery
+
+A post-browser-reset audit found **245 direct loose PNGs** in Drive `00 Unreviewed — Drop New Material Here` after the earlier recovery sweep had left that location clean. All 245 are now preserved under reviewed recovery folder `2026-09-18 Browser Reset — Current Chat Image Recovery` (`1CanWPNc0PQS9S8ksBuIV7vjYnlUgs07C`).
+
+SHA-256 reconciliation against the successfully hashed non-intake project corpus classified **140** files as having no exact match in that accessible corpus and **105** as exact reintroduced copies already preserved elsewhere. The 140 are in `01 Unique Current-Chat / Reset Images — Preserved` (`12wsK0xgeNR03eAYXuHImAHKekQbm4vtk`); the 105 exact copies are in `02 Exact Reintroduced Copies — Preserved Provenance` (`1MzjKLXh8oIQHNmaER1jzvaIBUmRgz98z`). Audit summary: `1csWo2Dtm2IeDCSMAGOnxWYnlCu8ANv96`. Exact manifest: `1g7OXWqAW9Y8dzyc93YiKCI5OgKPeJv-a`.
+
+The local/Drive readback after organization reports **zero direct loose PNGs** remaining in `00 Unreviewed`. Known post-L189 chat outputs including the Art-Deco lobby, Parisian salon, candlelit satin-lounge, and warm-library portraits remain independently verified inside the 40-image canonical chat archive `1VFHIB-5z-rKi8bHP1JYVNKnSJaJ5D4qv`.
+
+This was recovery/provenance maintenance only. It does not promote recovered files to Canonical Bellweather, Alternate, Mediate, Stage-master, app/UI, product-semantic, or website-production authority.
