@@ -3338,3 +3338,22 @@ Canonical repository evidence: `docs/evidence/WEBSITE_HOMEPAGE_VISION_RECOVERY_A
 **Exact next action:** create a small non-production Stage-refinement series from the latest recovered Drive concepts. Every image must test a distinct Stage/environment question. Use canonical Bellweather and Bellweather Alternate deliberately; preserve A-prime as behavioral reference, not as a requirement to reproduce exact current Stage geometry. Stop for Director synthesis before production-shaped work.
 
 **DIRECTOR-ORDERED VISION RECOVERY COMPLETE - STAGE REFINEMENT REOPENED; BELLWEATHER ALTERNATE PRESERVED; PRODUCTION UNCHANGED.**
+
+
+## L-211 - Bellweather Mediate frozen as third Stage-research lens
+
+**State:** NON-PRODUCTION CHARACTER-INTERPRETATION FREEZE / BELLWEATHER MEDIATE PRESERVED / PRODUCTION UNCHANGED
+
+During the reopened L-210 Stage-refinement program, the Director reviewed a new environmental-scale Bellweather rendering and explicitly froze that interpretation as **Bellweather Mediate**. Mediate is neither a replacement for canonical Bellweather nor a product-semantic state. It is a third research lens between canonical Bellweather and Bellweather Alternate.
+
+The interpretation carries canonical strengths - long black formal silhouette, restrained adult presence, brunette updo, three-quarter/back recognition, glove/open-back line and visible gown inertia - while reading more immediately at environmental scale. That combination makes it useful for Stage studies that need history/formality without sacrificing human legibility.
+
+The same render surfaced useful but non-authoritative Stage hypotheses: a broad circular chamber, concentric floor geometry, reflective black consequence, warm structural light, quieter plum/teal atmosphere and deep central architectural absence. Exact generated architecture/material/light pixels remain exploratory. Controlled risks are figure dominance, central-arch portal drift, generic black/gold luxury or fantasy spectacle, excessive symmetry and a glance stronger than A-prime Quiet Recognition.
+
+Canonical Bellweather remains primary identity. Bellweather Alternate remains the compact contemporary stress-test lens. Bellweather Mediate is the middle research lens. These three are not product states and should not be mechanically rendered in parallel; choose the version that makes the bounded Stage question most diagnostic.
+
+Canonical repository evidence: `docs/evidence/BELLWEATHER_MEDIATE_VISUAL_FREEZE_01.md`. Drive freeze: `Bellweather Mediate - Visual Freeze 01 - 2026-09-18`, document `14QPq6sTGxkucCHzUiMh5_qGPrTp9FBjE3NqQYpX-fB4`.
+
+**Exact next action:** continue the L-210 non-production Stage-refinement series. Each image must test a distinct Stage/environment question; select canonical Bellweather, Alternate or Mediate only when that interpretation makes the question more informative. No baked-in copy and no `site/public/**` change.
+
+**DIRECTOR FREEZE - BELLWEATHER MEDIATE PRESERVED; CANONICAL BELLWEATHER REMAINS PRIMARY; PRODUCTION UNCHANGED.**
