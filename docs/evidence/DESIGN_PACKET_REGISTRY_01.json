@@ -1,7 +1,7 @@
 {
   "schema": "kymaean.design-packet-registry.v1",
   "status": "ACTIVE",
-  "date": "2026-09-11",
+  "date": "2026-09-18",
   "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
   "template": "docs/evidence/DESIGN_PACKET_TEMPLATE_01.json",
   "purpose": "Provide one retrievable map of bounded current/provisional/closed visual-gate packets for later composition and whole-app synthesis without turning the registry itself into design authority.",
@@ -147,7 +147,7 @@
       "path": "docs/evidence/packets/PKT_WEB_DOOR_01_CONCEALED_PRODUCTION_01.json",
       "axis": "website threshold / concealed-production spatial metaphor",
       "status": "PROVISIONAL_INCUMBENT",
-      "current_contribution": "Director-reviewed near-target Concealed Production doorway: stable arch, layered working-stage blacks, Bellweather in motion, and two partially concealed additional Character-light presences distinct from visible amber/blue Stage lighting; non-production concept only.",
+      "current_contribution": "Director-reviewed Study 03 exact-Stage static convergence for Concealed Production: frozen Stage hierarchy, asymmetric layered working blacks, Bellweather encountered mid-passage, and indirect subordinate plum-violet/mineral-teal latent Character-light evidence; motion and production remain unauthorized.",
       "production_authority": false
     }
   ],

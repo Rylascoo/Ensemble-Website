@@ -3278,3 +3278,22 @@ Canonical repository evidence: `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCT
 **Exact next action:** in the successor Website Sol chat, fresh-recover live authority and create one isolated non-production exact-Stage translation study of this near-target mechanism. Preserve the actual frozen Stage and authoritative Bellweather hierarchy; do not begin motion prototyping or any production-shaped candidate before Director review of that translation.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+
+## L-208 — Concealed Production exact-Stage Study 03 closes static convergence
+
+**State:** NON-PRODUCTION EXACT-STAGE STATIC CONVERGENCE / STUDY 03 DIRECTOR-ACCEPTED / MOTION STUDY NEXT / PRODUCTION UNCHANGED
+
+L-207 required one exact-Stage translation before motion or any production-shaped implementation. Website Sol completed three deterministic refinements against the exact frozen V2.2 Stage (SHA-256 `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`) while keeping every changed decoded pixel inside the inset center-doorway clip.
+
+Study 01 proved the mechanism could survive on the real Stage but left Bellweather too graphic, hidden colors too beam-like, masking too orderly and the interior too void-like. Study 02 corrected those defects toward indirect latent-color spill, asymmetric working blacks and black-on-black backstage depth. Study 03 resolved the remaining static issues with stronger overlap/perspective hierarchy, slightly more discoverable but still indirect muted plum-violet/mineral-teal evidence, a quieter mid-stride Bellweather carrier and partial occlusion by middle/foreground masking.
+
+The Director agreed with the Study 02 critique/refinement plan and then explicitly agreed that Study 03 is the static convergence point. The accepted hierarchy is `real Stage first -> working backstage threshold second -> Bellweather / latent Character possibility discovered afterward`. Further static iteration is not justified absent a specific contrary signal.
+
+Final Study 03 SHA-256 is `388b22666f150ce81b2afcc2f4960281401f55044273099efb98fdae0e3381d3`. Canonical repository evidence is `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_EXACT_STAGE_TRANSLATION_03.md` with reproducible visual/provenance artifacts under `prototypes/website-concealed-production-exact-stage-translation-03/`.
+
+Study 03 remains non-production evidence. Its Bellweather silhouette is a trajectory/hierarchy carrier only; exact masking geometry and hidden-color values are not production masters/tokens. `site/public/**` remains the L-204 pre-Bellweather V2.2 baseline.
+
+**Exact next action:** one isolated non-production motion choreography prototype constrained by Study 03, testing continuous Bellweather passage/occlusion, Stage-first hierarchy, quiet pre-existing latent Character-light evidence and backstage-depth survival. Stop for Director review before any production-shaped website candidate or publication.
+
+**DIRECTOR + DESIGN SOL STATIC CONVERGENCE — STUDY 03 ACCEPTED; PRODUCTION UNCHANGED.**
