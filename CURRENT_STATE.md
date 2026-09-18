@@ -10,28 +10,19 @@ Design/website authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 ## Production
 L-204 remains production authority: pre-Bellweather V2.2 is live and `site/public/**` remains the exact baseline from `538fa349e046041e2759748d54fda176ac6a9749`. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. No new production candidate is authorized.
 
-## Homepage static convergence
-L-208 closes the non-production exact-Stage translation gate on Study 03.
+## Homepage convergence
+L-208 freezes static spatial hierarchy at Concealed Production exact-Stage Study 03. L-209 freezes the non-production motion architecture at **A-prime - Quiet Recognition**.
 
-Surviving narrative: Late Arrival / fixed Stage / one continuous Bellweather passage. Stage remains the first read; Bellweather is human-scale, moving, partially occluded and discovered rather than presented.
+Accepted sequence: `empty Stage -> Bellweather already moving -> brief recognition without body pause -> threshold approach -> practical black masking removes her from view -> faint consequence settles -> empty Stage regains authority`.
 
-Doorway: **Concealed Production** — stable architectural arch, asymmetric layered working-stage black masking, black-on-black backstage depth, and two partially hidden latent Character-light presences. Current exploratory latent colors remain muted plum-violet + mineral teal and are expressed as indirect spill/reflection rather than visible beams. No portal activation, recursive corridor, particles or magical energy.
+Stage/camera stay fixed. Latent muted plum-violet/mineral-teal Character-light evidence pre-exists Bellweather and remains non-reactive. No portal activation, particles, slideshow states, hero presentation or stronger threshold response.
 
-Study 03 is static evidence only. Its Bellweather silhouette, exact masking geometry and hidden-color values are not production masters/tokens.
-
-Canonical recovery:
-- `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_EXACT_STAGE_TRANSLATION_03.md`
-- `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_REFINEMENT_02.md`
-- `docs/evidence/packets/PKT_WEB_DOOR_01_CONCEALED_PRODUCTION_01.json`
-- `prototypes/website-concealed-production-exact-stage-translation-03/`
-- Drive near-target refinement sequence `1cVUw0n4sATFxfpMhRJyn4Rr6HMekKIzwoULASRkMJwc`
-
-Study 03 SHA-256: `388b22666f150ce81b2afcc2f4960281401f55044273099efb98fdae0e3381d3`; deterministic audit reports zero changed decoded source pixels outside the inset doorway clip.
+A-prime behavior is authoritative for the next study; the schematic Bellweather carrier is not. Exact timing/refinement evidence: `docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_MOTION_CHOREOGRAPHY_01.md` and `prototypes/website-concealed-production-motion-choreography-01/`.
 
 ## Cross-surface boundary
-L-196 remains unchanged: Bellweather is website-focused; any future app-specific study requires separate explicit opening and is limited to Home/entry.
+L-196 unchanged: Bellweather remains website-focused; any future app-specific study requires separate explicit opening and is limited to Home/entry.
 
 ## Publication maintenance
 The pre-existing apex redirect double-slash quirk remains separate maintenance debt.
 
-**Exact next action:** build one isolated non-production motion choreography prototype constrained by Study 03. Test Bellweather's continuous passage/occlusion, Stage-first hierarchy, quiet pre-existing latent Character-light evidence and backstage-depth survival. Keep it outside `site/public/**`; stop for Director review before any production-shaped candidate or publication.
+**Exact next action:** create one isolated non-production real-Bellweather translation study constrained by Study 03 + A-prime. Preserve choreography; test authoritative Bellweather gait, posture, garment/hair response, environmental scale and quiet recognition. Stop for review before any production-shaped candidate or `site/public/**` change.

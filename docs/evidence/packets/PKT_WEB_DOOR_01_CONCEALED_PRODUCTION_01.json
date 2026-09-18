@@ -11,7 +11,7 @@
   "authority": {
     "repository": "Rylascoo/Ensemble-Website",
     "baseline_commit": "bd842011cac0d54b3f89866e0250524982f1a918",
-    "current_state_at_close": "CURRENT_STATE.md advanced through L-208 exact-Stage static convergence",
+    "current_state_at_close": "CURRENT_STATE.md advanced through L-209 A-prime Quiet Recognition motion convergence",
     "governing_method_or_contract": [
       "AGENTS.md",
       "docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md",
@@ -40,15 +40,18 @@
     "portal VFX, particles, magical energy or sudden activation"
   ],
   "local_result": {
-    "summary": "Concealed Production remains the provisional website doorway incumbent and now has a Director-reviewed exact-Stage static translation: frozen V2.2 Stage first, asymmetric working-stage black masking, Bellweather encountered mid-passage, and two subordinate latent Character-light presences expressed as indirect muted plum-violet/mineral-teal spill.",
+    "summary": "Concealed Production remains the provisional website doorway incumbent with Director-accepted exact-Stage Study 03 static hierarchy and A-prime Quiet Recognition motion architecture. The frozen Stage remains primary; Bellweather is encountered in continuous passage, briefly recognizes the visitor without pausing, then is physically occluded by practical working blacks while pre-existing latent Character-light evidence remains quiet.",
     "survivors_or_closure": [
       "Concealed Production / layered working-stage black masking",
       "stable outer arch and frozen Stage hierarchy",
       "indirect rather than beam-like latent Character-light evidence",
       "Bellweather at environmental scale, moving and partially occluded",
-      "Study 03 exact-Stage static translation as the accepted static convergence point"
+      "Study 03 exact-Stage static translation as the accepted static convergence point",
+      "A-prime Quiet Recognition as the accepted motion architecture",
+      "continuous visible Bellweather travel with no recognition slowdown",
+      "physical working-black occlusion followed by empty-Stage recovery"
     ],
-    "recommended_incumbent": "Concealed Production — Study 03 exact-Stage static translation",
+    "recommended_incumbent": "Concealed Production - Study 03 exact-Stage static hierarchy + A-prime Quiet Recognition motion architecture",
     "alternates": [
       "Impossible Depth / corridor that should not fit — preserved upper bound"
     ],
@@ -60,8 +63,8 @@
     ]
   },
   "judgment": {
-    "design_sol_view": "Study 03 resolves the remaining static translation defects without changing the concept: Stage authority wins first read, practical black masking establishes backstage depth, Bellweather is discovered in passage, and latent Character colors remain subordinate.",
-    "director_view_or_delegation": "The Director agreed with the Study 02 critique/refinement plan, reviewed the resulting Study 03 direction, and explicitly agreed to treat Study 03 as the static convergence point.",
+    "design_sol_view": "Study 03 static hierarchy plus A-prime Quiet Recognition now form the converged non-production homepage spatial/motion architecture: Stage authority first, practical black depth second, Bellweather discovered in uninterrupted passage with only a brief human acknowledgment, and latent Character evidence remaining subordinate and non-reactive.",
+    "director_view_or_delegation": "The Director accepted Study 03 static convergence, reviewed the A/B/C motion decision surface, agreed to refine A toward B as A-prime Quiet Recognition, and then agreed that the resulting motion architecture is converged.",
     "resolution_mode": "CONVERGENT_DIRECTOR_DESIGN_SOL"
   },
   "evidence": {
@@ -97,7 +100,10 @@
       "Study 03 exact-Stage static hierarchy is the fixed visual reference for the next motion choreography study",
       "motion must preserve Stage-first hierarchy and Bellweather-as-passage rather than hero presentation",
       "latent Character-light evidence must pre-exist Bellweather motion and must not behave like activation VFX",
-      "black masking must retain practical backstage depth during movement"
+      "black masking must retain practical backstage depth during movement",
+      "A-prime motion must remain fixed during the successor real-Bellweather translation study",
+      "the next study may change Bellweather visual carrier behavior details such as gait/garment/hair response only insofar as A-prime timing/trajectory/recognition architecture remains intact",
+      "no production-shaped candidate before real-Bellweather translation review"
     ],
     "must_not_be_confused_with": [
       "production approval",
@@ -121,7 +127,10 @@
     "No motion timing or scroll mapping is frozen by this packet.",
     "Study 03 does not authorize motion timing/tokens.",
     "Study 03 does not authorize a production-shaped website candidate or site/public changes.",
-    "The Bellweather silhouette in Study 03 is a trajectory/hierarchy carrier, not a mascot master."
+    "The Bellweather silhouette in Study 03 is a trajectory/hierarchy carrier, not a mascot master.",
+    "A-prime does not authorize a final Bellweather visual master.",
+    "A-prime does not authorize production timing/tokens or autoplay policy.",
+    "Real Bellweather translation remains a separate non-production review gate."
   ],
   "lawful_reentry_triggers": [
     "new synthesis image contradicts the mechanism",
@@ -139,7 +148,9 @@
       "docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_REFINEMENT_02.md",
       "docs/evidence/WEBSITE_SOL_FRESH_CHAT_HANDOFF_CONCEALED_PRODUCTION_2026_09_17.md",
       "docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_EXACT_STAGE_TRANSLATION_03.md",
-      "prototypes/website-concealed-production-exact-stage-translation-03/"
+      "prototypes/website-concealed-production-exact-stage-translation-03/",
+      "docs/evidence/WEBSITE_HOMEPAGE_CONCEALED_PRODUCTION_MOTION_CHOREOGRAPHY_01.md",
+      "prototypes/website-concealed-production-motion-choreography-01/"
     ],
     "drive_visual_masters": [
       "1Q7FJ36j0xCgYLmNBKN5_7fSovGNDfLWYQp9zk4d7MO0",
@@ -148,11 +159,13 @@
       "1cVUw0n4sATFxfpMhRJyn4Rr6HMekKIzwoULASRkMJwc"
     ],
     "director_review_surface": {
-      "entry_point": "prototypes/website-concealed-production-exact-stage-translation-03/exact-stage-translation-review-03.png",
-      "what_to_review": "Accepted Study 03 exact-Stage static hierarchy: real frozen Stage first; practical asymmetric working blacks second; Bellweather and latent Character-light evidence discovered afterward.",
+      "entry_point": "prototypes/website-concealed-production-motion-choreography-01/motion-choreography-01.gif",
+      "what_to_review": "Director-accepted A-prime Quiet Recognition: uninterrupted Bellweather passage, reduced recognition while continuing, physical occlusion, then Stage recovery.",
       "diagnostics_not_for_aesthetic_choice": [
-        "prototypes/website-concealed-production-exact-stage-translation-03/exact-stage-translation-study-03.json",
-        "Study 03 SHA-256 388b22666f150ce81b2afcc2f4960281401f55044273099efb98fdae0e3381d3"
+        "prototypes/website-concealed-production-motion-choreography-01/motion-audit.json",
+        "prototypes/website-concealed-production-motion-choreography-01/motion-diagnostics-wide.json",
+        "prototypes/website-concealed-production-motion-choreography-01/motion-diagnostics-tall.json",
+        "prototypes/website-concealed-production-motion-choreography-01/motion-diagnostics-mobile.json"
       ]
     }
   },
