@@ -34,5 +34,11 @@
       "CENTER_TO_IDENTITY_RETURN"
     ],
     "preferred_first_stress_test": "T3_PERSPECTIVE_TO_CONSEQUENCE"
+  },
+  "concurrent_mascot_lane": {
+    "pr148": "CLOSED_UNMERGED_SUPERSEDED",
+    "pr149": "OPEN_BELLE_INDEPENDENT_IDENTITY_FOUNDATION",
+    "integrated": false,
+    "effect_on_world_spine": "NONE_MASCOT_NEUTRAL"
   }
 }
