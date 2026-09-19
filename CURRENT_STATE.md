@@ -1,20 +1,26 @@
 <!-- D-R1-STATUS: ACTIVE LAW -->
 # Ensemble Website Current State
 
-Updated: 2026-09-17
+Updated: 2026-09-18
 
 ## Authority
-`Rylascoo/Ensemble-Website` owns Design/UI; `Rylascoo/Ensemble-Project` owns Product/Engineering. Recover live refs and `AGENTS.md` first. APPUI authority is rooted in `design/appui01-working-compositions-2026-09-14`; Website publication on `main` is a separate worker/lane.
+`Rylascoo/Ensemble-Website` owns Design/UI; `Rylascoo/Ensemble-Project` owns Product/Engineering. APPUI authority remains this branch; Website publication on `main` is a separate lane.
 
-## Q-DESIGN-20 native convergence
-Project `main@2c165539fcfb4541d90e177ac09a9800fc0169e8` durably contains Q-PROD-01 machine-tested source `34a3745e12c42247fe4e1663697bf55452f9d505`. Later persistence work adds separate infrastructure and solution registration but does not change the reviewed native UI/Application/demo/test sources. Native ARM64 launch, same-state Light/Dark, keyboard focus return and 720x520 minimum-track evidence are valid. Exact-final High Contrast recapture remains unavailable because the remote safety layer blocked the OS toggle; the preceding UI-identical checkpoint passed and the limitation is carried without bypass.
+## Q-DESIGN-20 post-composition reconciliation
+The original native convergence at L-262 accepted the architecture and returned NC-01..NC-05. Engineering implemented and native-validated those corrections at `248435944815a34e4caac761ed308ed3b07e325b`.
 
-`docs/evidence/APPUI_01_Q_DESIGN_20_NATIVE_CONVERGENCE_AUDIT_07.json` accepts the native architecture and requires five bounded Engineering corrections under existing Design law: preserve Current Opportunity rather than generic `Current focus`; remove implementation/debug vocabulary from creator UI; make STA F2 edge witness primary over generic NavigationView selected fill; translate MAT F1 Subtractive Channel into native field geometry; and consume Segoe Fluent Back `E72B` through FICON F1.
+Fresh exact-main reconciliation against Project `2137e8c9db1a9c7817a3cda872e43c6cf72cdc3d` found later Windows composition changed the presentation surface. Product truth now legitimately exposes `ApplicationScope.CurrentProduction`, but its own validation explicitly does not establish final navigation labels or visual design.
 
-No new Design successor is needed. Return packet: `docs/evidence/APPUI_01_Q_DESIGN_20_ENGINEERING_RETURN_01.json`.
+`docs/evidence/APPUI_01_Q_DESIGN_20_POST_COMPOSITION_RECONCILIATION_01.json` therefore keeps Q-DESIGN-20 open and defines one bounded presentation-only successor, `APPUI-QDESIGN20-R2`:
+- keep Home / Productions / Settings as durable visible shell routes; Current Production remains an earned Product scope but becomes contextual content rather than a fourth permanent nav item;
+- restore MAT F1 edge-open subtractive field channels;
+- remove storage/implementation phrasing from ordinary creator copy;
+- restore the native quiet E72B Back carrier for the contextual Production view without inventing a general Product navigation-history contract.
 
-## Preserved implementation law
-Home / Productions / Settings remain durable shell routes. Studio / Stage / Archive remain semantic spaces expressed through Production shaping / Live Stage / History/deep inspection. Light F2 / Dark D3, MAT F1, TYP F1 + Source Sans 3 reference, STA F2, FICON F1 and invariant-dark Stage/S1 remain unchanged. System font and simple dark Stage are still explicit scaffold placeholders while production packaging is unresolved.
+NC-03 remains intact. Opportunity UI is currently absent, so NC-01 is not violated; richer Production-internal state remains unearned.
+
+## Preserved boundaries
+Light F2 / Dark D3, STA F2, invariant-dark Stage/S1 placeholder law, Source Sans 3 placeholder law and High Contrast limitation remain unchanged. Home A/B, FIRSTUSE-01 and Bellweather app placement remain separate/unselected. `DESIGN_ARCHITECTURE_READY = NOT READY`.
 
 ## Next
-Engineering applies NC-01..NC-05 and returns exact native evidence. Design then performs a short acceptance pass. Do not reopen Home A/B, FIRSTUSE-01, Website work or speculative APPUI screens while that return is pending.
+Do not mutate Engineering from Design. Engineer #2 may complete the active Application/Product architecture audit. After its exact integration boundary, route APPUI-QDESIGN20-R2 to a newly leased Engineer #3 Windows consumer pass if still applicable. Design Sol may continue unrelated Website-main placeholder work in parallel.

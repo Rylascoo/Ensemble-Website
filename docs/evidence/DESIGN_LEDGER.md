@@ -4067,3 +4067,19 @@ Branch integrity also ports only the already-proven CHARART registry/verifier re
 **Next boundary:** Engineering applies the bounded return and provides an exact native checkpoint. Design performs a short acceptance pass; no speculative APPUI work is opened while that return is pending.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN BOUNDED NATIVE CONVERGENCE AUDIT.**
+
+## L-263 - Q-DESIGN-20 post-composition reconciliation opens one bounded presentation-only return
+
+**State:** DESIGN ACCEPTANCE PENDING / LATER WINDOWS COMPOSITION DRIFT RECONCILED / APPUI-QDESIGN20-R2 OPEN / NO NEW PRODUCT SEMANTICS
+
+Fresh recovery found that Engineering had moved materially beyond the exact Q-DESIGN-20 correction checkpoint. The five NC-01..NC-05 corrections were implemented and native-validated at Project source `248435944815a34e4caac761ed308ed3b07e325b`, but later Windows runtime/composition work at exact native source `ac8122c24d81731671802b57220d3c631e8c9975` rewrote the current presentation surface before Design's short acceptance pass.
+
+At current Project `main@2137e8c9db1a9c7817a3cda872e43c6cf72cdc3d`, Product authority truthfully establishes `ApplicationScope` Home / ProductionLibrary / CurrentProduction / Settings while explicitly disclaiming final navigation-label and visual-design authority. Current Windows `MainPage.xaml` preserves transparent NavigationView selected fills but no longer carries MAT F1 subtractive channels; it exposes Current Production as a persistent fourth NavigationView item; the prior quiet E72B Back carrier is absent; and ordinary copy again exposes storage-oriented phrases such as `persisted Production` and `local app data`. Current Opportunity UI is absent, which is correct given the narrower earned presentation boundary and does not violate NC-01.
+
+`docs/evidence/APPUI_01_Q_DESIGN_20_POST_COMPOSITION_RECONCILIATION_01.json` opens the smallest lawful successor, `APPUI-QDESIGN20-R2`, limited to presentation reconciliation: preserve the integrated Product scopes while keeping Home / Productions / Settings as the durable visible shell routes; render Current Production contextually; restore MAT F1 field channels; remove backend/storage wording from ordinary creator copy; and restore the frozen native E72B Back carrier for the contextual Production view without inventing general Product navigation-history semantics.
+
+No richer Studio/Stage/Archive content, opportunity UI, provider/Performer semantics, Home selection, FIRSTUSE adoption, Bellweather app placement, font/Stage packaging authority or High Contrast validation is created. `DESIGN_ARCHITECTURE_READY` remains NOT READY.
+
+Central Q-DESIGN-20 remains ACTIVE / Design acceptance pending. Design does not mutate the Project queue while Engineer #2 holds the active Application/Product architecture audit lease. After that exact integration boundary, the bounded Windows presentation return may be routed to Engineer #3 under a new explicit consumer lease if still applicable.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN POST-COMPOSITION RECONCILIATION AUDIT.**
