@@ -193,6 +193,10 @@
     {
       "ledger": "L-230",
       "correction": "Replaced stale no-mask-geometry clause with Boundary 01 preflight status earned at L-229; no geometry or original evidence changed."
+    },
+    {
+      "ledger": "L-237",
+      "correction": "Forensic recovery did not recover the exact alleged REF17_L232_DOORWAY_SUCCESSOR_STUDY_01 evidence set or establish a durable creation event. The prior zero-outside-Boundary claim is not a technical PASS, controlled-composite result, adoption, or promotion. L-232 remains authorized and Reference 17 / Boundary 01 remain unchanged."
     }
   ],
   "latest_director_synthesis": {
@@ -217,5 +221,13 @@
     "boundary01_retained": true,
     "next_attempt_authorized": true,
     "production_authority": false
+  },
+  "forensic_status": {
+    "alleged_study_id": "REF17_L232_DOORWAY_SUCCESSOR_STUDY_01",
+    "status": "UNVERIFIED_NO_DURABLE_EVIDENCE_RECOVERED",
+    "technical_pass": false,
+    "adopted": false,
+    "reference17_advanced": false,
+    "next_authorized_operation": "Execute one L-232 bounded successor from the original verified Reference-17 crop under unchanged Boundary 01."
   }
 }
