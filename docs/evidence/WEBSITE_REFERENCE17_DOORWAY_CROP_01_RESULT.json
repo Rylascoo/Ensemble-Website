@@ -1,0 +1,89 @@
+{
+  "schema": "kymaean.reference17.crop-result-index.v1",
+  "date": "2026-09-19",
+  "baseline": "8ef903c2ef783ee8503d6310e6b1b5c70557bd6a",
+  "experiment": "REF17-CROP-01",
+  "status": "REJECTED_RAW_CROP_NO_COMPOSITE",
+  "full_result_drive": {
+    "id": "1m_IkrIGibos7t0VZFxuxuGEM9Z9E3NPK",
+    "sha256": "e9f60cb1401fba448bff38f896bc748acf17f7e6575a50c968803701454fb844",
+    "role": "Expanded report; repository JSON is a compact index, not its byte-identical duplicate"
+  },
+  "preflight_drive": {
+    "id": "1jgyqrwbgQvxK3aiFNBV77lpUV68_VSN3",
+    "sha256": "11da94ba47a58905cdbcfa40f41a87c31a9e990dc7ebf64e4371ce9dda9d6569"
+  },
+  "source": {
+    "drive_id": "1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit",
+    "sha256": "8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44",
+    "unchanged": true
+  },
+  "crop": {
+    "box_xyxy_exclusive": [
+      701,
+      150,
+      959,
+      533
+    ],
+    "dimensions": [
+      258,
+      383
+    ],
+    "rgba_pixels_verified_equal": 98814,
+    "delivery_drive_id": "1LD4IiS8AKglVpA1aTH1mfxvDcVaxZL6R"
+  },
+  "mask": {
+    "drive_id": "1yTsFqpc9BC8TBom_n5MN7Nt_AaypY0eO",
+    "source_drive_png_sha256": "8d7c2862398b1a372e7a2a691071c440b98091f7764ff73820e3d1643b989b52",
+    "repository_png_sha256": "a08b6e77d277910b7d1bc1ede6523178215b9fdc9523b493c34a94989f1a642d",
+    "decoded_l_sha256": "df4800ffab910dbb526f9c90de8d48d06278cdb479119cf9035ca17f66663124",
+    "encoding_note": "Repository mask is re-encoded by the local Pillow version; decoded mask bytes exactly match the Drive mask. Do not conflate encoding hashes with pixel equality.",
+    "nonzero_pixels": 39975,
+    "boundary_review_drive_id": "160MWRflz1w7oYgOZcNLZ54dRtDZ9-nZ5",
+    "sentinel_outside_pixels_equal": 1533377,
+    "actual_edited_result_test": false
+  },
+  "execution": {
+    "tool": "Adobe.image_instruct_edit",
+    "request_id": "659ec515-259e-4f91-9dd8-6f26fe047d7b",
+    "crop_only": true,
+    "budget": 1,
+    "consumed": 1,
+    "retries": 0
+  },
+  "raw_result": {
+    "dimensions": [
+      768,
+      1152
+    ],
+    "mode": "RGB",
+    "bytes": 592929,
+    "sha256": "2b233b1fa01abe910964a174bb2d05bf986f5b75b375c953aa49cef49e3b7f52",
+    "classification": "Untrusted raw proposal; not a pixel-locked edit"
+  },
+  "judgment": {
+    "authority": "Design Sol rejection under standing delegation; no Director result selection claimed",
+    "failure": "Horizontal wrapping bands obstruct the opening instead of creating a discoverable route between folds; teal/plum remain relatively presented.",
+    "no_rescue": "No resize, mask widening, composite, retry or post-result retune",
+    "scope": "Failure of this realization, not global falsification of concealment"
+  },
+  "artifacts": {
+    "review": "prototypes/website-reference17-doorway-crop-01/index.html",
+    "png_sha256": {
+      "source-adobe-crop.png": "eeeb79757c1630ecf0b58bed2df3aa6270d8a1843d363d71aece2e1249021d29",
+      "raw-adobe-crop01.png": "2b233b1fa01abe910964a174bb2d05bf986f5b75b375c953aa49cef49e3b7f52",
+      "interior-mask-01.png": "a08b6e77d277910b7d1bc1ede6523178215b9fdc9523b493c34a94989f1a642d"
+    },
+    "raw_original_encoding_drive_copies": "PENDING; exact Adobe input/output PNGs preserved in this repository and on SurfSeven"
+  },
+  "next": "Hold Reference 17; review failure before a separately bounded hanging-curtain successor with a continuous irregular passage. No default reroll.",
+  "boundaries": {
+    "production_tree": "360f96172d9b50df893c7ff728aa064bcd6a746a",
+    "site_public_changed": false,
+    "app_mascot_engineering_changed": false,
+    "triggercmd_used": false,
+    "full_scene_generated": false,
+    "full_size_composite": false,
+    "later_composite_requires_actual_outside_mask_rgba_equality": true
+  }
+}
