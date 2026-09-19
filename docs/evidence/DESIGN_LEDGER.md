@@ -3410,3 +3410,26 @@ Drive sequence: `1u5QKd01A4ccUfxivHb2R2t-MHVDwvJal`; synthesis `1VfHbUQKWWeil_i1
 **Exact next action:** continue only a small non-production precision round from this foundation: naturalize amber/blue cone behavior and off-center pools; refine the human-scale symbolic threshold; reinterpret teal-left/plum-right as indirect concealed evidence; keep wings in working black. Stop for Director synthesis before any production-shaped candidate or `site/public/**` change.
 
 **DIRECTOR-APPROVED FOUNDATION DIRECTION RECORDED; PRODUCTION UNCHANGED.**
+
+
+## L-215 - Bellweather Alternate Before identity-recovery anchor preserved
+
+**State:** NON-PRODUCTION ALTERNATE IDENTITY RECOVERY / DIRECTOR LINEAGE CLARIFICATION / FAVORED ANCHOR PRESERVED / NO FULL-RENDER FREEZE / PRODUCTION UNCHANGED
+
+After L-210 named and froze a compact short-black-dress Bellweather Alternate Stage appearance, and after L-211/L-213 developed Bellweather Mediate, the Director returned to the original `01 Chat Renders — Exploration Sequence` and clarified the intended relationship among the three Bellweather interpretations.
+
+The Director's intended conceptual progression with respect to Kymaean is now:
+
+1. **Bellweather Alternate — BEFORE / POSSIBILITY.** This is the pre-canonical Exploration Sequence representation: exploratory, relational, outward-looking and world-responsive, with possibility still open around her.
+2. **Bellweather Mediate — BETWEEN / TRANSFORMATION.** This is the crossing/threshold interpretation.
+3. **Canonical Bellweather — AFTER / PERSISTENCE.** This is the integrated persistent mascot identity and remains primary authority.
+
+This clarification does not invalidate L-210. Instead, it narrows L-210 correctly: the compact short-black-dress images are later Stage-context expressions of Alternate and useful Stage-research evidence, but they are not the origin or sole definition of the Alternate identity. “Before / Between / After” is conceptual visual continuity, not product-state semantics, age hierarchy, Character class or universal lifecycle.
+
+Across several new recovery boards, the Director identified one image as the stronger identity expression and explicitly preferred returning to it rather than allowing continued generation to drift the exploration. That selected image is now preserved as **Bellweather Alternate — Before Identity Anchor 01 — 2026-09-18.png** in Drive folder `12 Bellweather Alternate — Before Identity Recovery — 2026-09-18` (`1mBurjtNa4VszIqTV1TeLAuzqCPc0vrEv`), exact file `1B0tc57qQyPT3_awy_5vT9ESacYFpcr9Y`, SHA-256 `fb39dc795c8a9f0329a0d61e52406d7e6caf619091432077a705d30ed5010066`. Matching recovery/handoff text: `1XhfDMzaKP_Uzv4LZMKLIlfdMANFH7Frz`.
+
+The favored anchor is **not a full-render-set freeze and not exact anatomy authority**. Its value is conceptual identity: longer/freer chestnut-brunette hair, softer outward-looking curiosity, clearly adult future presentation, relational/ensemble context, world-responsive wardrobe, practical personal objects, and the recurring orientation toward “what is out there / what happens next?” Generated text, props, architecture and garment microdetails remain non-authoritative.
+
+**Mascot next boundary:** if Alternate work resumes, recover live authority, the original Exploration Sequence and the selected anchor first. Refine one identity variable at a time, prioritize clearly adult face/age continuity plus longer/freer hair and outward-looking curiosity, and avoid another broad multi-world marketing-board expansion until the Alternate face/identity grammar is stable. Stop for Director review before any Alternate full-render-set freeze.
+
+**DIRECTOR LINEAGE CLARIFICATION RECORDED — ALTERNATE = BEFORE/POSSIBILITY; MEDIATE = BETWEEN/TRANSFORMATION; CANONICAL = AFTER/PERSISTENCE; FAVORED ALTERNATE IDENTITY ANCHOR PRESERVED; PRODUCTION UNCHANGED.**
