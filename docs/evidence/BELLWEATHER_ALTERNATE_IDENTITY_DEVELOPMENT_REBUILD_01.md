@@ -154,6 +154,8 @@ Alternate may temporarily inhabit formal/historical/future conditions when the w
 
 ## Distinct marketing identity definition — ALT-MKT-01
 
+Drive mirror: `Bellweather Alternate — Distinct Marketing Identity Definition 01` — `1fj3LTNs8hcOy3mmwBfXk-ses2AfZvgsTDABfAk4VLZE` in rebuild folder `1x2sMChQRpMeywn-kSE9oZqkvMpJD7Qkr`.
+
 This definition is a **Director-approved design refinement after ALT-ID-01 diagnostic comparison**, not a replacement for the original Exploration Sequence ancestry. It exists because the first clean ALT-ID-01 control still converged too closely with Canonical and Mediate in its underlying polished-beauty grammar.
 
 The next Alternate control must answer two questions simultaneously:
