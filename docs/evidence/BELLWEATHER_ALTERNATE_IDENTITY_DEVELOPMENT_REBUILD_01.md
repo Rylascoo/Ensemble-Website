@@ -152,6 +152,177 @@ Avoid defaulting to Canonical’s integrated formality, black/warm-metal iconic 
 
 Alternate may temporarily inhabit formal/historical/future conditions when the world warrants them, but should still feel like the explorer **inside** the world rather than the finished embodiment of it.
 
+## Distinct marketing identity definition — ALT-MKT-01
+
+This definition is a **Director-approved design refinement after ALT-ID-01 diagnostic comparison**, not a replacement for the original Exploration Sequence ancestry. It exists because the first clean ALT-ID-01 control still converged too closely with Canonical and Mediate in its underlying polished-beauty grammar.
+
+The next Alternate control must answer two questions simultaneously:
+
+1. **Is this unquestionably the adult continuation of the woman established in the Exploration Sequence / favored Before anchor?**
+2. **Is she immediately legible as Bellweather Alternate rather than a casual Canonical or softened Mediate, even in neutral marketing conditions with no world, prop or costume doing the work?**
+
+### Core marketing role
+
+Bellweather Alternate is the **human invitation into limitless possibility**. She is the mascot interpretation that makes the website visitor feel that unfamiliar worlds, stories, relationships and consequences remain ahead rather than already integrated.
+
+She is **not** the app narrator, tutorial guide, user avatar, Director, operator or product-state indicator. Marketing should encounter her as a specific person whose curiosity makes the unknown feel enterable without mechanically explaining the app.
+
+### Three-mascot separation matrix
+
+| Axis | Bellweather Alternate | Bellweather Mediate | Canonical Bellweather |
+| --- | --- | --- | --- |
+| conceptual emphasis | BEFORE / POSSIBILITY / NOVICE EXPLORER | BETWEEN / TRANSFORMATION | AFTER / PERSISTENCE / INTEGRATED MASTERY |
+| relationship to experience | experience can still surprise, teach and destabilize assumptions | accumulated experience is visibly transforming her | experience/history are integrated without erasing identity |
+| gaze | outward-searching; attention pulled beyond current certainty | threshold-aware; restrained knowing acknowledgment | grounded, deliberate, self-possessed observation |
+| posture | kinetic asymmetry; forward/turning orientation; rarely ceremonially settled | poised transitional verticality; crossing/passage tension | composed, grounded, intentionally resolved presence |
+| hair | longer/freer chestnut-brunette mass; irregular, airy, world-responsive; never dependent on a designed updo | sculptural braided/twisted transformed evening hair with deliberate loose strands | iconic brunette mass / face-framing strands with more resolved presentation options |
+| silhouette | open/broken/variable; identity carried by person + motion rather than one garment | long draped transformation silhouette | durable long-form/iconic and historically integrated silhouettes available |
+| styling logic | radically world-adaptive; current world may reshape surface presentation | authored transformation language | presentation may vary, but accumulated identity feels integrated and intentional |
+| emotional signature | curiosity, uncertainty, fascination, skepticism, delight, caution, determination; incomplete knowledge remains visible | restrained knowing transition | controlled, observant, historically grounded confidence |
+| marketing function | invitation to possibility and exploration | embodiment of change / becoming | trust, persistence, accumulated history and primary mascot authority |
+
+### Face direction
+
+Alternate's face must recover the **favored Before anchor / Exploration Sequence family** rather than inherit the more sculpted Canonical/Mediate beauty treatment.
+
+Direction, not frozen anatomy:
+
+- softer oval-to-heart lower-face construction;
+- somewhat fuller natural cheek volume rather than pronounced editorial cheekbone sculpture;
+- gentler jaw transition;
+- naturally open eye relationship with searching attention;
+- visible small asymmetries retained rather than beauty-perfect symmetry;
+- natural freckles and skin texture remain strong identity evidence;
+- clearly adult maturity without hardening the face into formal authority;
+- restrained lips/expression; no permanent smile, pout or broad astonishment.
+
+Failure condition: if a neutral crop could plausibly be mistaken for a casual Canonical portrait or an untransformed Mediate portrait, the face gate fails even if the image is attractive.
+
+### Hair direction
+
+Hair is a major Alternate carrier but must not become a luxury-style substitute for identity.
+
+Required direction:
+
+- long chestnut-brunette hair;
+- more air between layers and broken strands than the first ALT-ID-01 diagnostic;
+- irregular natural movement and tonal variation;
+- capable of being wind-, weather-, travel- or activity-affected;
+- no mandatory half-up, braid, ceremonial structure or sculptural resolved arrangement;
+- no requirement for extreme volume or a glamorous "signature mane";
+- future worlds may alter practical arrangement, but the freer underlying hair family must remain recoverable.
+
+### Posture / movement signature
+
+Alternate should read as **oriented toward what is next** before any setting explains why.
+
+Useful identity-level tendencies:
+
+- weight slightly off-center rather than perfectly squared;
+- shoulders/head may orient toward a new stimulus independently of the torso;
+- small forward vector, turning vector or active readiness;
+- arms/hands should feel available for action rather than arranged ceremonially;
+- stillness may occur, but should feel observational or provisional rather than resolved presentation.
+
+This is not a mandatory pose. It is a statistical body-language distinction across a family.
+
+### Silhouette identity
+
+Alternate must remain recognizable without Canonical's iconic formal silhouette or Mediate's draped transformation silhouette.
+
+The preferred silhouette principle is **kinetic asymmetry**:
+
+- freer hair contributes moving/broken contour;
+- stance and shoulder line avoid perfect bilateral ceremony;
+- clothing may vary radically, so silhouette cannot depend on one coat, scarf, skirt, bag or boot shape;
+- negative space around limbs and torso should support active human orientation rather than statuesque display.
+
+### Styling / material logic
+
+Alternate has **no permanent explorer uniform**.
+
+Explicitly non-authoritative:
+
+- olive/brown layers;
+- burgundy scarf;
+- backpack;
+- camera;
+- compass/pendant;
+- map/notebook/ticket;
+- boots;
+- earth palette;
+- golden-hour light.
+
+Her presentation should be **world-responsive**. A future, polar, historical, domestic, formal, scientific, fantasy or ordinary world may require completely different clothing and materials. The marketing identity must survive those changes.
+
+Default neutral controls should therefore use visually quiet, non-iconic clothing and no jewelry/props.
+
+### Emotional signature
+
+Alternate's signature is not "wonder" alone. It is **open intelligence before mastery**.
+
+The family must eventually support:
+
+- genuine wonder;
+- skeptical assessment;
+- uncertainty without helplessness;
+- quiet amusement;
+- concern;
+- determination;
+- frustration or misreading;
+- fatigue/recovery;
+- recognition after learning something new.
+
+Curiosity should remain recoverable across these states through gaze, orientation and responsiveness rather than a permanent expression.
+
+### Website marketing grammar
+
+For marketing imagery, Alternate should usually be **inside a world rather than posed in front of one**, but the world must not be necessary for recognizing her.
+
+Strong marketing uses may show:
+
+- arrival before understanding;
+- active investigation;
+- social/cultural encounter;
+- experimentation or participation;
+- consequences of an imperfect assumption;
+- recovery/reflection;
+- renewed orientation toward another possibility.
+
+The world may be spectacular when the story warrants it. The failure is not spectacle itself; the failure is when scenery replaces the person, or when Alternate only admires worlds without participating in them.
+
+### Neutral-thumbnail distinction test
+
+Before ALT-ID-01 can close, a neutral control with no props, world or iconic wardrobe should remain distinguishable from Canonical and Mediate by **face softness/open attention + freer hair + kinetic asymmetry**, not by labels or context.
+
+A later blinded/side-by-side comparison should ask:
+
+- does Alternate feel more open/searching than Canonical without reading younger or lesser?;
+- does she feel less ceremonially transformed/resolved than Mediate?;
+- is she a specific persistent adult person rather than generic "adventurer heroine" casting?;
+- does recognition survive removal of every explorer cliché?
+
+### ALT-ID-01B construction boundary
+
+The next image-generation attempt, when executed, should be narrower than the prior diagnostic:
+
+- **five views only:** front, three-quarter, profile-adjacent, back, turning/over-shoulder;
+- same clearly adult woman in every view;
+- neutral or near-neutral expression only;
+- same simple non-iconic top;
+- neutral background and soft even light;
+- no text in the artwork;
+- no jewelry;
+- no explorer props;
+- no environment;
+- no expression row or detail crops;
+- no braid/half-up resolved hairstyle;
+- no golden-hour/editorial glamour treatment.
+
+Primary comparison sources: original Exploration Sequence, favored Before anchor, L-231 only as later physical-presence evidence, and Canonical/Mediate controls as **negative convergence checks**.
+
+ALT-ID-01B should not be promoted merely because it is clean. It passes only if it recovers the original woman **and** creates sufficient marketing-level separation from the other two mascots.
+
 ## Fixed development program before final freeze
 
 No final Bellweather Alternate freeze is permitted until these gates are completed and reconciled.
