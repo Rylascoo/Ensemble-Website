@@ -3806,3 +3806,30 @@ This event records existence and provenance only. Crop 04 is UNEVALUATED and una
 Reference 17, Boundary 01, Bellweather L-236 and site/public/** remain unchanged.
 
 **RAW CROP 04 PRESERVED — REVIEW THIS EXACT CANDIDATE BEFORE ANY FURTHER GENERATION OR COMPOSITE.**
+
+## L-241 - Crop 04 full-scene diagnostic technical pass; Director visual review pending
+
+**State:** NO NEW GENERATION / FIXED REGISTRATION / BOUNDARY-01 OUTSIDE RGBA EXACT / PIXEL-CONTROLLED DIAGNOSTIC ONLY / UNADOPTED / REFERENCE 17 UNCHANGED / PRODUCTION UNCHANGED
+
+The Director authorized a no-generation full-scene context test after Crop 04 earned continuation at crop scale. The mapping was preregistered before compositing. Frozen inputs: Reference 17 SHA-256 $refSha; Crop 04 raw SHA-256 $c4Sha; unchanged Boundary 01 with 39975 supported pixels; registration [701,150,959,533).
+
+The 768 x 1152 Crop 04 raw output was deterministically mapped to 258 x 383 by trimming 6 pixels from top and bottom, retaining full width, then using System.Drawing HighQualityBicubic resize. Reference 17 remained the full-scene base. RGB replacement occurred only where Boundary 01 equals 255; Reference-17 alpha was preserved.
+
+Independent reload-and-compare after PNG save passed:
+- outside Boundary 01 changed decoded RGBA pixels: **0**
+- outside Boundary 01 maximum absolute RGBA difference: **0**
+- Boundary 01 support: **39975**
+- inside Boundary 01 changed pixels: **38108**
+- total changed pixels: **38108**
+
+The result therefore qualifies as a **pixel-controlled diagnostic composite**. That classification describes mechanics only; it is not adopted artwork, not a production candidate, and does not advance Reference 17.
+
+Artifacts:
+- prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png
+- prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_REGISTERED_CROP_258x383.png
+- prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIFF_HEATMAP.png
+- docs/evidence/WEBSITE_REFERENCE17_CROP04_FULL_SCENE_DIAGNOSTIC_RESULT_01.json
+
+Concurrent Bellweather authority and site/public/** remain unchanged.
+
+**TECHNICAL GATE PASSED — NEXT GATE IS DIRECTOR + DESIGN SOL FULL-SCENE VISUAL DISPOSITION; NO NEW GENERATION OR PROMOTION BEFORE REVIEW.**
