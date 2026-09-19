@@ -4119,3 +4119,27 @@ The matching Drive master is `Kymaean Alpha Stage Interaction & Spatial Grammar 
 **Next boundary:** use L-264 + L-265 as the static Alpha falsification baseline. Do not open timing/motion/transcript/runtime semantics until their separate Product/evidence prerequisites exist. Q-DESIGN-20 / APPUI-QDESIGN20-R2 sequencing remains unchanged.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-266 - Alpha Stage information and disclosure architecture freezes depth and return without inventing Product modes
+
+**State:** STATIC DISCLOSURE ARCHITECTURE ACTIVE / SITUATION-FIRST DEPTH / EXACT SEMANTIC RETURN / NO NEW PRODUCT SEMANTICS
+
+After L-264 and L-265, the next bounded static problem was the information architecture around the Stage: how a creator re-enters work, watches the current task, follows a meaningful target into context, deepens into Character/history/task detail, handles application exceptions, and returns without turning those capacities into permanent Stage chrome or new Product modes.
+
+Fresh reconciliation against the Phase-1 synthesis, Production Home/Resume study, Interaction/State Stress Test, Empty/Unavailable/Transitional study, Whole-Production Character Management, Phase-2 Stage-to-Shell, Current Performance + Immediate Causal Context, Selected Character Inspection, Stage Exception/Recovery, plus L-264/L-265 produced one stable presentation-depth sequence:
+
+`current situation -> meaningful target -> contextual reveal -> deep task surface when needed -> exact semantic return`.
+
+`docs/evidence/APPUI_ALPHA_STAGE_INFORMATION_DISCLOSURE_ARCHITECTURE_01.json` records the compact Design shorthand D0/D1/D2/D3/R solely as presentation depth: D0 re-entry/orientation, D1 current task/Stage, D2 contextual reveal, D3 deep task surface, R exact semantic return. These labels are not Product modes, runtime states or required visible copy.
+
+Home remains resume-first/current-situation-first rather than library-first. The live Stage/current task remains dominant. Focus stays independent from selection; selection establishes a contextual origin without creating fictional salience or opportunity. Contextual inspection is invoked and subordinate. Deep Character inspection, expanded causal history and whole-Production Character work may temporarily gain primary space while preserving current Production/Scene origin, selected identity and focus-return semantics. History stays historical; off-Scene Character work does not add a Character to the current Scene.
+
+No-active-Scene, loading, unavailable, recovery, cancelled/failed and provisional/non-effective conditions remain truthful application states rather than fictional behavior. Wide/medium/narrow layouts may translate adjacency into overlay/substitution/sequential disclosure without changing meaning. White and Black preserve the same disclosure order, commands, status distinctions and return behavior.
+
+Permanent Character/history/relationship/diagnostics/metadata rails are not justified around the Stage merely because those capacities exist. Exact Scene lifecycle, Take/Rehearsal/branching/consequence review, transcript ontology/cadence, timer/Pause, opportunity scheduling, provider/model/cost/fallback, Performer mechanics, portable Production workflow, edit-effect boundaries and native WinUI behavior remain open.
+
+The matching Drive master is `Kymaean Alpha Stage Information & Disclosure Architecture 01` in `26 Alpha Foundational UI & Stage Constitution — 2026-09-18`.
+
+**Next boundary:** L-264 through L-266 now form the static Alpha app/Stage baseline. Further Design work may refine individual static surfaces/components against this baseline, but runtime/timing/Scene/Take/provider semantics remain separately gated. Q-DESIGN-20 / APPUI-QDESIGN20-R2 sequencing remains unchanged.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
