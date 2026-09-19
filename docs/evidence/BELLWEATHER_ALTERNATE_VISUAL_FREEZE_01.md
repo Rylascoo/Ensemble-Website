@@ -140,3 +140,10 @@ Portrait and L-225 family-board controls keep their separate face/identity funct
 Director rule, `no text ever`: future generated Bellweather artwork must contain no baked-in text, slogans, captions, labels, logos or readable signage/prop lettering. This governs imagery, not documentation, filenames, existing website typography or app UI. Historical text-bearing predecessors remain preserved as non-selected evidence, not reusable typography authority.
 
 Canonical remains primary; Mediate remains separate. No `site/public/**`, app UI, runtime/product semantics or universal Character-style change is authorized. Hold the exact selected narrative reference; no default reroll, world-board expansion or production adaptation follows.
+
+
+## 2026-09-19 - Chat archive and fresh-chat recovery
+
+Current Drive handoff: `1x7fH8KDHX2oV3fTiN1ccsK1uwavwHWBldpY99ql2Ao0`; chronological 24-original image manifest: `1jrVqWCUY0Xk9Rl31y4BbAA84JxbqFBlp`; paste-ready prompt: `10LDxuFHwAAw2VPpuKkc8c0-MKzr1sylf`. All 24 raw Drive image readbacks match the chat originals by SHA-256. Original binaries, the L-225 family-board freeze and L-226 narrative selection remain unchanged. The master synthesis, three-interpretation index and family synthesis have current recovery addenda; older next-task text remains historical.
+
+L-227 and `docs/evidence/BELLWEATHER_ALTERNATE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json` record an explicit L-223/L-224 intermediate-pose attribution correction without rewriting selection history. The family freeze is one composite PNG, not six standalone high-resolution masters. The last proposed existing-reference Canonical/Mediate/Alternate comparison remains a recommendation, not a completed or adopted result. No new generation or production adaptation follows from this handoff.
