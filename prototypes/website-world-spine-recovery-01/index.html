@@ -194,6 +194,54 @@ body::before{
   display:grid;grid-template-columns:1fr 1fr;gap:40px;
   margin-top:36px
 }
+.scar-bridge{
+  min-height:86svh;
+  position:relative;
+  overflow:hidden;
+  background:var(--void);
+}
+.bridge-art{
+  position:absolute;inset:0;
+  width:100%;height:100%;
+  object-fit:cover;object-position:50% 49%;
+  filter:saturate(.62) brightness(.36);
+}
+.bridge-veil{position:absolute;inset:0;background:rgba(8,12,15,.58)}
+.bridge-lime{
+  position:absolute;top:0;bottom:0;
+  background:var(--limestone);
+  opacity:.97;
+}
+.bridge-lime.left{
+  right:38%;width:62%;
+  transform-origin:right;
+  transform:scaleX(.28);
+}
+.bridge-lime.right{
+  left:64%;width:36%;
+  transform-origin:left;
+  transform:scaleX(.5);
+}
+.bridge-scar{
+  position:absolute;top:-2%;bottom:-2%;left:62%;
+  width:clamp(12px,1.8vw,28px);
+  transform:skewX(-6deg);
+  background:linear-gradient(90deg,transparent,rgba(169,103,67,.12),rgba(169,103,67,.44),rgba(169,103,67,.08),transparent);
+}
+.bridge-copy{
+  position:absolute;left:7vw;right:7vw;bottom:7vw;
+  display:flex;justify-content:space-between;gap:30px;align-items:end;
+  z-index:3;
+}
+.bridge-copy strong{
+  max-width:680px;
+  font:400 clamp(28px,4vw,58px)/1.03 Georgia,"Times New Roman",serif;
+  letter-spacing:-.025em;
+}
+.bridge-copy span{
+  max-width:340px;color:rgba(236,233,224,.58);
+  font-size:11px;line-height:1.55;
+}
 .material{
   background:var(--limestone);color:var(--limestone-ink);
   min-height:100svh;
@@ -275,9 +323,36 @@ body::before{
     animation-timeline:view();
     animation-range:entry 5% cover 34%;
   }
+  .bridge-lime.left{
+    animation:bridgeLeft linear both;
+    animation-timeline:view();
+    animation-range:entry 0% cover 78%;
+  }
+  .bridge-lime.right{
+    animation:bridgeRight linear both;
+    animation-timeline:view();
+    animation-range:entry 0% cover 78%;
+  }
+  .bridge-scar{
+    animation:bridgeScar linear both;
+    animation-timeline:view();
+    animation-range:entry 0% cover 55%;
+  }
   @keyframes rise{
     from{opacity:.18;transform:translateY(26px)}
     to{opacity:1;transform:none}
+  }
+  @keyframes bridgeLeft{
+    from{transform:scaleX(.02)}
+    to{transform:scaleX(1)}
+  }
+  @keyframes bridgeRight{
+    from{transform:scaleX(.02)}
+    to{transform:scaleX(1)}
+  }
+  @keyframes bridgeScar{
+    from{opacity:.18;transform:skewX(-6deg) scaleY(.15);transform-origin:top}
+    to{opacity:1;transform:skewX(-6deg) scaleY(1)}
   }
 }
 @media(max-width:820px){
@@ -292,6 +367,10 @@ body::before{
     mask-image:linear-gradient(to bottom,transparent 0%,#000 12%,#000 100%)
   }
   .place-grid,.perspective-caption,.return-grid{grid-template-columns:1fr}
+  .bridge-copy{flex-direction:column;align-items:flex-start}
+  .bridge-scar{left:56%}
+  .bridge-lime.left{right:42%;width:58%}
+  .bridge-lime.right{left:58%;width:42%}
   .window-row{grid-template-columns:1fr;background:none;border:0;gap:14px}
   .window{min-height:36vh;border:1px solid var(--line)}
   .after{left:42%;width:54vw}
@@ -305,7 +384,7 @@ body::before{
   *,*::before,*::after{animation:none!important;transition:none!important}
 }
 @media(forced-colors:active){
-  .hero-art,.window img,.scar{display:none}
+  .hero-art,.window img,.scar,.bridge-art,.bridge-veil,.bridge-lime,.bridge-scar{display:none}
   .hero,.section,.material,.proximity,.return,.window,.center-scene{background:Canvas;color:CanvasText}
   .eyebrow,.lede,.note,.window-label,.before,.prox,.source-strip,.hero-sub{color:CanvasText}
   .window-row,.window,.scar-field,.proximity-field,.center-scene,.source-strip{border-color:CanvasText}
@@ -361,6 +440,18 @@ body::before{
         <p class="lede reveal">The old Bounded Chorus idea survives here as composition rather than product exposition: different views remain visibly parts of the same authoritative environment.</p>
         <p class="note reveal">Research-language only. No current product behavior or knowledge model is asserted by these crops.</p>
       </div>
+    </div>
+  </section>
+
+  <section class="scar-bridge" aria-label="Perspective becomes consequence research transition">
+    <img class="bridge-art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt="">
+    <div class="bridge-veil"></div>
+    <div class="bridge-lime left"></div>
+    <div class="bridge-lime right"></div>
+    <div class="bridge-scar"></div>
+    <div class="bridge-copy">
+      <strong>A division acquires weight. The material after it is no longer neutral.</strong>
+      <span>Scar Bloom research incumbent: the outgoing perspective boundary becomes the origin of the limestone consequence field.</span>
     </div>
   </section>
 
