@@ -3739,3 +3739,20 @@ No image generation, `site/public/**`, app UI/runtime/product-semantic, Canonica
 
 **DIRECTOR REOPENING RECORDED — BELLWEATHER ALTERNATE RETURNS TO FULL IDENTITY DEVELOPMENT; FINAL FREEZE DEFERRED UNTIL CANONICAL/MEDIATE-EQUIVALENT EVIDENCE EXISTS.**
 
+
+
+## L-237 - Reference-17 Study-01 forensic correction; L-232 execution lane reactivated
+
+**State:** FORENSIC CORRECTION LANDED / ALLEGED STUDY-01 UNVERIFIED / L-232 REMAINS AUTHORITY / REFERENCE-17 LANE REACTIVATED BY DIRECTOR / BELLWEATHER L-236 PRESERVED PAUSED / NO RENDER CONSUMED / PRODUCTION UNCHANGED
+
+A later conversational / Deep-Research result described an alleged `REF17_L232_DOORWAY_SUCCESSOR_STUDY_01` execution and reported zero decoded-RGBA changes outside Boundary 01. Subsequent forensic recovery did not recover the exact five-file evidence set and established no durable creation/persistence event.
+
+**The exact Study-01 artifact set was not found in currently accessible project/session surfaces, and no durable creation event was established. This does not prove that no transient/session-local artifact ever existed.**
+
+Accordingly, that alleged execution is not verified evidence. Its reported zero-outside-Boundary result is not a technical PASS, is not evidence of a controlled composite, is not an adopted design, and does not advance or replace Reference 17. Future sessions must not infer that L-232 was executed merely because a prior chat asserted a Study-01 result.
+
+This correction does not revoke L-232. Reference 17 remains the foundational full-scene source; Boundary 01 remains fixed at its established support; Crop 01 remains rejected; Crop 02 remains directional-only and unadopted. The Director has resumed the independent Reference-17 placeholder-successor lane and authorized continuation of the already-earned L-232 operation: one bounded doorway successor from the original verified Reference-17 crop using plain full-length working-black curtains at two depths, one irregular off-center vertical passage, a narrow deeper mineral-teal glimpse, and a softer, more obstructed smoky-plum trace.
+
+Bellweather Alternate L-236 remains fully preserved as the mascot lane's active identity-development program, but that lane is paused for this Reference-17 execution; no Bellweather authority is changed or merged. `site/public/**`, app UI/runtime/product semantics, Engineering authority and production artwork remain unchanged. No image generation was consumed by this continuity correction.
+
+**DIRECTOR CONTINUATION RECORDED — REFERENCE-17 L-232 MAY EXECUTE ONCE UNDER EXISTING BOUNDARY-01 CONTROLS; THE UNVERIFIED STUDY-01 CLAIM CARRIES NO AUTHORITY.**
