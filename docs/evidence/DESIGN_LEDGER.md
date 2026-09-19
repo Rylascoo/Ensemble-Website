@@ -3833,3 +3833,33 @@ Artifacts:
 Concurrent Bellweather authority and site/public/** remain unchanged.
 
 **TECHNICAL GATE PASSED — NEXT GATE IS DIRECTOR + DESIGN SOL FULL-SCENE VISUAL DISPOSITION; NO NEW GENERATION OR PROMOTION BEFORE REVIEW.**
+
+
+## L-242 - Crop 04 full-scene context pass; doorway-generation subprogram closed
+
+**State:** DIRECTOR DISPOSITION / FULL-SCENE CONTEXT PASS / CROP 04 SELECTED MECHANISM / NO MORE DOORWAY GENERATION / PIXELS NOT PRODUCTION-ADOPTED / REFERENCE 17 RETAINED / PRODUCTION UNCHANGED
+
+The Director agreed with Design Sol's full-scene review of the exact L-241 pixel-controlled diagnostic.
+
+At the 1672 x 941 Reference-17 composition scale, the Crop-04 doorway no longer competes with the Stage. The amber/blue outer lighting and raised circular Stage remain the dominant visual structure; the central passage reads as a subtler discovered route. Mineral-teal reads as deeper spatial information rather than doorway signage, while smoky-plum is sufficiently subordinate. The remaining slight impression that one foreground curtain is swept aside from another does not justify further generation; another render now carries greater risk of losing earned gains than of solving a material website-design problem.
+
+**Director disposition:** FULL-SCENE CONTEXT PASS. Crop 04 is retained as the **selected Reference-17 doorway-successor mechanism**. The doorway-generation subprogram is closed. No Crop 05 or default reroll is authorized.
+
+This is not a production adoption. The Crop-04 raw output and its pixel-controlled diagnostic remain evidence/candidate material only. Reference 17 remains the authoritative original full scene. `site/public/**` remains unchanged. Any decision to turn the selected mechanism into a public placeholder successor requires a separate explicit Director adoption/publication gate.
+
+### L-241 prose correction
+
+L-241's human-readable ledger entry accidentally preserved literal placeholders `$refSha` and `$c4Sha` in one sentence. This did not affect the actual files, preregistration, machine-readable result, hashes, verification, or technical classification. The intended values are:
+
+- Reference 17 SHA-256: `8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44`
+- Crop 04 raw SHA-256: `95bddeee8cf271022108a5ecab2014d6b67bd81a2635d28039a38b1ff6e78656`
+
+The L-241 technical result remains unchanged: Boundary 01 support 39,975; outside-mask changed decoded RGBA pixels 0; outside-mask maximum absolute RGBA difference 0.
+
+### Tooling continuity
+
+This disposition is being recorded without Remote Desktop Commander. Going forward, Website Sol's default design workflow is GitHub authority/continuity + Google Drive visual archive + Adobe visual production. Remote Desktop Commander is a fallback only when a task genuinely depends on local Windows filesystem/runtime/browser evidence and no connected alternative can provide it.
+
+Concurrent Bellweather authority remains intact and separate. App/Engineering semantics are unchanged.
+
+**DOORWAY GENERATION CLOSED — CONTINUE WEBSITE DESIGN FROM THE SELECTED CROP-04 FULL-SCENE MECHANISM; NO PUBLICATION WITHOUT A LATER EXPLICIT DIRECTOR GATE.**
