@@ -3833,3 +3833,16 @@ Artifacts:
 Concurrent Bellweather authority and site/public/** remain unchanged.
 
 **TECHNICAL GATE PASSED — NEXT GATE IS DIRECTOR + DESIGN SOL FULL-SCENE VISUAL DISPOSITION; NO NEW GENERATION OR PROMOTION BEFORE REVIEW.**
+
+## L-242 - Bellweather Exploration source mascot interpretation
+
+**State:** DIRECTOR-OPENED SEPARATE SOURCE INTERPRETATION / WORKING NAME / NO RENDER YET / PRODUCTION UNCHANGED
+
+The original Drive `01 Chat Renders — Exploration Sequence` Bellweather is now preserved as a separate non-production mascot interpretation under the working name **Bellweather Exploration**. This version prioritizes the source concept over deterministic anatomy: curiosity, persistent people, relationship, learning, travel, creating/planning, unfamiliar worlds, before/event/consequence and the question **“what is out there / what happens next?”**
+
+Bellweather Exploration may vary facial microdetails, hair, wardrobe, era, genre, environment and lighting within a recognizable clearly-adult brunette/chestnut Bellweather family. Canonical remains primary; Mediate remains separately frozen; Alternate remains under its structured identity rebuild. These are visual/marketing interpretations, not product states.
+
+Drive folder: `1XVJ42_jJ-MIS135UWeH6J-OspVt6fTWw`; continuity document: `162rt08o7f9HyrsBF3zxQe_no_e-jlZYG18IY3U3Sukc`; repository evidence: `docs/evidence/BELLWEATHER_EXPLORATION_SOURCE_MASCOT_01.json`. No-text artwork law remains active.
+
+**Next action:** create one captionless synthesis family directly from the original Exploration Sequence. No site/public, app semantics, or production authority changes follow.
+
