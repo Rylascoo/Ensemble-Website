@@ -3562,3 +3562,18 @@ The Director's `no text ever` instruction is preserved for future generated Bell
 Detailed selection: `docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md`. Registered packet: `docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_NARRATIVE_01.json`. Central queue was read at Project `c8da0c1f42a40d7e3f492e0e76b343d648c69bd6`; no Bellweather/mascot queue item or changed engineering prerequisite was found, so no cross-lane write is needed.
 
 **DIRECTOR SELECTION RECORDED - DEFINING NARRATIVE REFERENCE ONLY; PRODUCTION UNCHANGED.**
+
+
+## L-227 - Bellweather Alternate chat-asset and Drive handoff closeout
+
+**State:** ARCHIVE VERIFIED / DRIVE RECOVERY UPDATED / NO NEW RENDER OR SELECTION / PRODUCTION UNCHANGED
+
+The Director requested chat-image archival reconciliation and Google Drive document updates for a fresh chat. All 24 distinct visible chat-output PNGs already existed in their canonical Drive folders. Twenty-four fresh raw Drive readbacks match their respective chat originals by SHA-256; zero are missing and no original was re-uploaded or replaced. This is not an account-wide transcript export; panels in a board and repeated deliveries are not additional originals.
+
+Current START HERE document: Drive `1x7fH8KDHX2oV3fTiN1ccsK1uwavwHWBldpY99ql2Ao0`; exact chronological image manifest: `1jrVqWCUY0Xk9Rl31y4BbAA84JxbqFBlp` (SHA-256 `9fb4f14dea1d5b26789f2dcf0be83128badf0255484d1624576342de1c21f9c2`, raw readback identical); paste-ready prompt: `10LDxuFHwAAw2VPpuKkc8c0-MKzr1sylf`. Master synthesis, central three-interpretation index and Alternate family-freeze synthesis now point to the current L-225/L-226 recovery boundary. Historical bodies and historical handoff texts are preserved. Archive record: `docs/evidence/BELLWEATHER_ALTERNATE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json`.
+
+**Explicit factual archive correction:** Prior L-223/L-224 prose misattributes the intermediate relational pose correction. Archived output 18 (09 Full Render Family Exploration 01; Drive 1OqzWKcN1uiClRDIHc9-yLovdlS55Cqrv) has relational hands down; output 19 (10 Full Render Family Exploration 02; 1vTi-qqH5qjqQULrpPjTU7t3kn476Y1Fp) reintroduces hand supporting the face; output 20 (frozen board 19NthkPz-5HlO0zhGFp7zYbC8RgwXTV3s) removes it. Earlier entries remain historical, with this explicit factual attribution correction. L-225 and L-226 selection outcomes and all original pixels are unchanged.
+
+L-225 remains one frozen six-function composite, not six independent high-resolution masters. L-226 remains the separately selected narrative reference. The latest existing-reference three-interpretation comparison and flexible-emphasis discussion are preserved as Design Sol recommendations, not fabricated Director selection or completed comparison. No new imagery, world-board expansion, app/UI/product semantics, production adaptation or L-214 Stage work is authorized by this housekeeping. No-text artwork law, Canonical primacy and Mediate separation remain unchanged.
+
+**ARCHIVE CLOSEOUT RECORDED - 24/24 ORIGINAL HASH MATCHES; SELECTIONS AND PRODUCTION UNCHANGED.**

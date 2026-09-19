@@ -2,7 +2,7 @@
 
 # Ensemble Website - Current State
 
-Updated: 2026-09-18
+Updated: 2026-09-19
 
 ## Authority
 Website/design authority: `Rylascoo/Ensemble-Website`; engineering/product truth: `Rylascoo/Ensemble-Project/CURRENT_STATE.md`. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
@@ -11,7 +11,7 @@ Website/design authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 L-204 remains production authority: pre-Bellweather V2.2 is live; `site/public/**` remains the exact baseline from `538fa349e046041e2759748d54fda176ac6a9749`. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. No new production candidate is authorized.
 
 ## Homepage design state
-L-208/L-209 static-motion evidence remains earned. L-210/L-211 preserve Alternate/Mediate; L-213 freezes Mediate Full Render Set 01. L-215 restores Alternate to the Exploration Sequence BEFORE/POSSIBILITY lineage; L-225 now freezes Alternate Full Render Mascot Set 01 at family-board level. L-226 selects Alternate's defining narrative reference; hold without reroll, separate from portrait/family controls. Canonical remains primary; production is unchanged.
+L-208/L-209 static-motion evidence remains earned. L-213 freezes Mediate; L-215 preserves Alternate BEFORE/POSSIBILITY ancestry. L-225 freezes Alternate at family-board level; L-226 holds its defining narrative reference without reroll. L-227 records verified chat-asset/Drive handoff closeout; recovery: `docs/evidence/BELLWEATHER_ALTERNATE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json`. Canonical remains primary.
 
 L-212 separated current placeholder work from Phase 2 future inspiration. L-214 now synthesizes the current mascot-free foundational Stage direction: broad dark circular Stage; sparse under-stage practicals; working-black side wings; physically plausible unequal amber-left/cobalt-right visible light fields with off-center soft floor pools; distant human-scale symbolic threshold; heavy black curtains; mineral-teal hidden evidence inner-left and smoky-plum inner-right.
 
