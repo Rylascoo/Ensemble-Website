@@ -174,7 +174,8 @@
     "attempts_consumed": 1,
     "reference17_retained": true,
     "actual_composite": false,
-    "no_default_reroll": true
+    "no_default_reroll": true,
+    "next": "L-232 Director synthesis authorizes one bounded original-crop successor using full-length two-depth curtains; no full-scene reroll or production promotion."
   },
   "crop_gate_history": [
     {
@@ -193,5 +194,28 @@
       "ledger": "L-230",
       "correction": "Replaced stale no-mask-geometry clause with Boundary 01 preflight status earned at L-229; no geometry or original evidence changed."
     }
-  ]
+  ],
+  "latest_director_synthesis": {
+    "ledger": "L-232",
+    "purpose": "Foundational successor to the temporary website placeholder until the app is finished; not a final app depiction.",
+    "director_preference": "Curtain-based continuation; Crop 02 mechanism is directionally stronger but its pixels remain unadopted.",
+    "next_construction": [
+      "plain full-length working-black curtains",
+      "two distinct depths",
+      "one irregular off-center vertical passage",
+      "narrow deeper mineral-teal glimpse",
+      "much softer more obstructed smoky-plum trace"
+    ],
+    "do_not_carry_forward": [
+      "shortened/scalloped hems",
+      "horizontal bands",
+      "ornate/gothic arch drift",
+      "colored jambs",
+      "paired lower light pools"
+    ],
+    "reference17_retained": true,
+    "boundary01_retained": true,
+    "next_attempt_authorized": true,
+    "production_authority": false
+  }
 }
