@@ -1,0 +1,64 @@
+{
+  "schema": "kymaean.reference17.crop04-prepublication-presentation-package.v1",
+  "date": "2026-09-19",
+  "status": "PRE_GATE_NON_PRODUCTION_NOT_ADOPTED_NOT_PUBLISHED",
+  "baseline": "470eb0fc6b60bde20489fc22dd0cc2aca806a9b6",
+  "visual_master": {
+    "path": "prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "538be8b4c09aecbddccc36f52959ca1a9190bd57d4415151f48c0af40f74da33",
+    "git_blob": "beea3539f285d14299fbee0f74ad0d33028e0dc8",
+    "repository_bytes": 2364961,
+    "deployment_ready": false
+  },
+  "current_public": {
+    "hero": {
+      "path": "site/public/stage-v2-2.webp",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "git_blob": "d694143b57cc259e0d4b95c783363f2555b0fbb0",
+      "bytes": 74740
+    },
+    "social_card": {
+      "path": "site/public/social-card.jpg",
+      "declared_dimensions": [
+        1200,
+        630
+      ],
+      "git_blob": "6d19fdbf20482c4c80fba36bdf85496fc9190505",
+      "bytes": 92344
+    }
+  },
+  "proposed_presentation": {
+    "desktop": {
+      "change": false,
+      "object_fit": "cover",
+      "object_position": "50% 49%"
+    },
+    "portrait": {
+      "image_width_vw": 148,
+      "top_mask_opaque_at_percent": 12,
+      "brand_lockup_top_svh": 25.5,
+      "remove_min_width_600_progressive_zoom": true
+    }
+  },
+  "performance_gate": {
+    "hero_max_bytes_without_explicit_justification": 149480,
+    "rationale": "2x current 74740-byte production hero"
+  },
+  "social_card": {
+    "replace_in_first_publication": false,
+    "requires_separate_1200x630_crop_proof": true
+  },
+  "publication_authority": false,
+  "site_public_changed": false,
+  "ledger_changed": false,
+  "current_state_changed": false,
+  "concurrent_pr147_changed": false,
+  "concurrent_pr148_changed": false
+}
