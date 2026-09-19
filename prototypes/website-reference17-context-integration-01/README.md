@@ -65,6 +65,16 @@ Reason for testing:
 - retain large calm identity space above;
 - change responsive presentation rather than artwork.
 
+Portrait-tablet check:
+- current `min-width: 600px` portrait rule is `calc(200vw - 240px)`;
+- at 768px viewport width that equals 1296px = **168.75vw**;
+- rendered image height is about 729.36px;
+- horizontally visible source width is about **990.81 source pixels**;
+- centered crop removes about 340.59 source pixels from each side;
+- the 148vw option still exposes about **1,129.73 source pixels**;
+- therefore it preserves about **138.92 additional source pixels** across a 768px portrait tablet versus current treatment;
+- constant 148vw also preserves approximately the same source fraction across phone and tablet, avoiding progressive zoom toward the threshold.
+
 These values are research variables, not frozen production tokens.
 
 ## Recovered inspiration pressure
@@ -109,3 +119,48 @@ Phase-2 material must not be imported literally into this temporary-placeholder 
 - this file — source, geometry and non-authority record.
 
 No `CURRENT_STATE.md`, Design Ledger, packet, `site/public/**`, mascot, app or Engineering mutation is part of this research branch.
+
+
+## Research visual disposition — 2026-09-19
+
+This disposition is research-only and does not create a Design Ledger event or publication authority.
+
+### Desktop
+
+**PASS under current framing.**
+
+Reference 17 is already essentially 16:9, so the current desktop `cover` treatment preserves almost the entire composition. The whole-Stage hierarchy remains intact: broad circular ground first, amber/blue lateral territories second, distant threshold third. The already-recorded Crop-04 full-scene PASS therefore carries cleanly into current desktop presentation without a framing correction.
+
+### Phone portrait
+
+**Current 160vw treatment: PASS WITH RESERVATION.**
+
+It remains usable, but the crop trims enough lateral field that the central threshold gains relative prominence. That works against the strongest recovered lineage, where the doorway should be discovered inside a larger Stage condition rather than become the main subject.
+
+**148vw / 12% fade / 25.5% lockup treatment: PREFERRED RESEARCH INCUMBENT.**
+
+It restores more amber/blue Stage context, makes the doorway recede, preserves the raised Stage read, and retains a large quiet identity field. This is a presentation improvement, not an artwork edit.
+
+### Portrait tablet
+
+**Current `calc(200vw - 240px)` treatment: REJECT AS A LONG-TERM COMPOSITION RULE.**
+
+Because the percentage width increases as portrait viewport width increases, tablet portrait crops progressively more of the artwork than phone portrait. At 768px it reaches 168.75vw and exposes only about 991 of 1672 source pixels horizontally. That is the wrong directional behavior for this composition because it enlarges the threshold while removing the lateral Stage/light relationship.
+
+**Constant 148vw treatment: PREFERRED RESEARCH INCUMBENT.**
+
+It preserves approximately the same source fraction across portrait sizes and maintains the Stage/threshold hierarchy more consistently.
+
+### Lineage check
+
+The preferred treatment agrees with the strongest immediate predecessors:
+- Current Website Restraint Synthesis: broad Stage and restrained central threshold;
+- Human-Scale Threshold Study B: threshold remains subordinate to the shared Stage;
+- Reimagined Current Website Stage: useful breadth, but stronger side architecture demonstrates why excess edge structure should not be imported;
+- Placeholder Foundation Study 01/02: useful negative-space and reflection pressure, but their monumental architectural framing remains intentionally excluded from the current placeholder.
+
+### Research conclusion
+
+**Keep current desktop framing. Replace progressive portrait zoom as the leading research direction with a stable, less-magnified portrait composition centered near 148vw.**
+
+Do not implement this in `site/public/**` yet. A later explicit publication/adoption gate must decide whether the selected Crop-04 mechanism becomes the public placeholder successor and, if so, whether the 148vw portrait treatment becomes part of that implementation.
