@@ -4099,3 +4099,23 @@ The matching Drive master is `Kymaean Alpha Foundational UI + Stage Constitution
 **Next boundary:** use this constitution as the falsification baseline for all further Alpha app/UI and Stage work. Runtime-dependent behavior still requires integrated exact-main Engineering truth. Q-DESIGN-20 / APPUI-QDESIGN20-R2 sequencing remains otherwise unchanged.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-265 - Alpha Stage interaction and spatial grammar consolidates selected cone authority without freezing motion
+
+**State:** STATIC STAGE GRAMMAR ACTIVE / CONE PRESENCE + FLOOR-NAME INTERACTION HINGE / EXACT GEOMETRY + TIMING OPEN / NO NEW PRODUCT SEMANTICS
+
+The Alpha foundation opened one bounded static follow-on: define what belongs on the Stage, where creator interaction feedback may appear, how simultaneous meanings remain separable, and how Stage-adjacent information enters/exits without deciding any Product/runtime behavior Engineering has not earned.
+
+Fresh source reconciliation against `KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md`, `KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md`, the Phase-2 Stage composition lineage, the native implementation handoff and L-264 found the selected Stage law still coherent: Characters are volumes of light on a dark floor using cone geometry; the cone is presence rather than a button; the visible interaction hinge is the floor/name relationship; semantic hit targets may be larger without exposing rectangular UI bounds.
+
+`docs/evidence/APPUI_ALPHA_STAGE_INTERACTION_SPATIAL_GRAMMAR_01.json` therefore freezes only static interaction/spatial grammar. Stage field owns Character presence/current fictional performance/listening plus materially supported opportunity and relationship salience. Workspace frame owns Scene/Production anchors, creator commands and truthful application status. Contextual inspection is invoked rather than permanent; causal/history/deep/technical material remains transient/deep and outside fictional carrier semantics.
+
+The grammar preserves orthogonal meanings across one shared field: keyboard focus != creator selection; selection != opportunity; performance != selection; listening != performed silence; silence != refusal; refusal != technical failure; relationship salience != type/score/obligation/permanent graph. White and Black surround the same invariant-dark Stage. Responsive adaptation preserves Stage/current performance first and may sequence or overlay secondary context.
+
+Exact camera/perspective, Character coordinates, cone/floor geometry, final colors/textures/name typography, transcript placement, motion, timing, turn cadence, Product opportunity/Take/Scene/branch/provider rules and native realization remain explicitly open. No scenic-image-first Stage, required portrait identity, full-cone selection cards, equal-tile ensemble grid, transcript replacement of the ensemble, permanent graph/history rail/inspector, color-only state, or infrastructure-as-fiction may advance under this grammar.
+
+The matching Drive master is `Kymaean Alpha Stage Interaction & Spatial Grammar 01` in `26 Alpha Foundational UI & Stage Constitution — 2026-09-18`.
+
+**Next boundary:** use L-264 + L-265 as the static Alpha falsification baseline. Do not open timing/motion/transcript/runtime semantics until their separate Product/evidence prerequisites exist. Q-DESIGN-20 / APPUI-QDESIGN20-R2 sequencing remains unchanged.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
