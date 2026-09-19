@@ -3593,3 +3593,21 @@ Latest Drive session checkpoint: archive `1QMKQFqJy5yQbyP5I_Mt8OQn-sacqtTga`; ha
 L-225/L-226/L-227 mascot work, app branches, Phase 2 and L-204 production remain unchanged. Project queue was consulted at `9971acd06cabc7e5965b6f4c1a5d65168958ca4c`; no placeholder queue transition or engineering prerequisite changes. TRIGGERcmd remains deferred. Evidence: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_ONLY_RECONCILIATION_01.md`; packet `PKT-WEB-REF17-DOOR-01`.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-229 - Verified doorway crop and Boundary 01; Crop 01 rejected for blocking passage
+
+**State:** NON-PRODUCTION PREFLIGHT COMPLETE / ONE CROP-ONLY ATTEMPT CONSUMED / RAW RESULT REJECTED / NO COMPOSITE / REFERENCE 17 AND PRODUCTION UNCHANGED
+
+L-228 landed via PR #126 at `8ef903c2ef783ee8503d6310e6b1b5c70557bd6a`; head document #931/boundary #1198 and main document #932/boundary #1199 passed. Its producer was archive-tagged before branch deletion. All prior ledger, mascot/app work and production remain preserved.
+
+Adobe extracted [701,150,959,533), 258 x 383. All 98,814 RGBA pixels equal the original region. Original crop: 87,981 bytes; SHA-256 `eeeb79757c1630ecf0b58bed2df3aa6270d8a1843d363d71aece2e1249021d29`. A separately labeled pixel-identical delivery encoding, inset mask and outline are in Drive `1LD4IiS8AKglVpA1aTH1mfxvDcVaxZL6R`, `1yTsFqpc9BC8TBom_n5MN7Nt_AaypY0eO` and `160MWRflz1w7oYgOZcNLZ54dRtDZ9-nZ5`; all three raw readbacks equal their local files. Boundary 01 permits 39,975 inset pixels excluding frame/floor. An in-memory sentinel left 1,533,377 outside-mask pixels identical; this is preflight only. The repository mask is separately encoded with identical decoded L bytes; its two encoding hashes are distinguished in the result index.
+
+Pre-render scope, one-attempt budget, prompt and mask were archived/read back in Drive `1jgyqrwbgQvxK3aiFNBV77lpUV68_VSN3`. Adobe received the crop only, never the full scene. The one raw RGB output is 768 x 1152, 592,929 bytes, SHA-256 `2b233b1fa01abe910964a174bb2d05bf986f5b75b375c953aa49cef49e3b7f52`.
+
+Design Sol rejects the realization: horizontal wrapping bands block the passage rather than producing a discoverable route between folds; teal/plum remain relatively presented. The editor changed resolution/aspect ratio and the raw output is not pixel locked. No resize, mask widening, composite, retry or post-result rescue occurred. This is a carrier-specific failure, not global falsification. No Director result selection is claimed.
+
+Exact Adobe input/output PNGs and a decoded-identical mask are preserved in `prototypes/website-reference17-doorway-crop-01/`; review `index.html`. Original-encoding input/output Drive binary copies remain pending. Result index: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_01_RESULT.json`; expanded Drive record `1m_IkrIGibos7t0VZFxuxuGEM9Z9E3NPK`. The Drive delivery crop has identical pixels but different PNG encoding; do not claim original-byte parity.
+
+**Next:** hold Reference 17 and review this failure. Any successor must be separately bounded around hanging, staggered curtains and a continuous irregular passage, not wrapping bands. No automatic reroll of consumed Crop 01. A later actual composite must prove exact outside-mask RGBA equality. Publication, mascot, app, product and TRIGGERcmd boundaries are unchanged.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

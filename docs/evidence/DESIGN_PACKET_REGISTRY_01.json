@@ -163,7 +163,7 @@
       "path": "docs/evidence/packets/PKT_WEB_REFERENCE17_DOORWAY_01.json",
       "axis": "non-production mascot-free website placeholder",
       "status": "PROVISIONAL_INCUMBENT",
-      "current_contribution": "Retain Reference 17; four prior whole-scene failures closed; doorway-only concealment study next. Earlier exact-V2.2/Bellweather packet remains separate.",
+      "current_contribution": "Reference 17 retained; verified crop and inset-mask preflight; one crop-only proposal rejected for bands blocking passage. No composite or default reroll.",
       "production_authority": false
     }
   ],
