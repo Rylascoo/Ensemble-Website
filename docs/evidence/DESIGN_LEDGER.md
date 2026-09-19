@@ -3391,3 +3391,22 @@ This freeze is interpretation-specific. Canonical Bellweather remains the primar
 **Mascot next boundary:** preserve Mediate unless new contrary evidence appears; if continuing mascot development, refine Bellweather Alternate toward its own conceptually distinct identity-stress-test/full-render family rather than rerolling Mediate by default.
 
 **DIRECTOR FREEZE — BELLWEATHER MEDIATE FULL RENDER MASCOT SET 01 APPROVED; CANONICAL BELLWEATHER REMAINS PRIMARY; PRODUCTION UNCHANGED.**
+
+
+## L-214 - Placeholder foundational Stage arch/light direction synthesized
+
+**State:** NON-PRODUCTION VISUAL-FOUNDATION SYNTHESIS / DIRECTOR-APPROVED DIRECTION / PRODUCTION UNCHANGED
+
+The Director reviewed the L-212 placeholder-foundation sequence against the current live/V2.2 Stage and approved a more specific foundational visual thesis rather than advancing to Phase 2 architecture. The current target is mascot-free and remains recognizably descended from V2.2.
+
+The accepted hierarchy is `Stage -> visible amber/blue territories -> distant symbolic threshold -> curtains -> almost-hidden teal/plum evidence`. The Stage remains broad, circular, dark and materially grounded with sparse under-stage practicals and large negative space. Side metallic objects are rejected; side treatment becomes working-black masking/wing mass. Amber-left and cobalt/blue-right remain the two visible Stage territories but must behave as physically plausible, unequal, slightly off-axis theatrical light fields with soft elliptical floor pools.
+
+The threshold remains human-scale and distant. It must not read as a fantasy portal or ornamental centerpiece. Its arch should be mostly dark and incompletely revealed by broken warm edge catches. Curtains are retained as the visibility-control mechanism. Inner mineral-teal (left) and smoky-plum (right) are no longer mini spotlights; they are indirect hidden light leaks / atmospheric evidence at different depths, with teal generally narrower/cleaner/more distant and plum softer/broader/more obscured. Hidden colors must not wash across the main Stage.
+
+This image language is a brand/concept metaphor only and does not create new app runtime/product semantics. Background exploration remains typography-free; exact identity is separately composited. Phase 2 Bellweather/causal-architecture/impossible-depth imagery remains preserved for later website evolution.
+
+Drive sequence: `1u5QKd01A4ccUfxivHb2R2t-MHVDwvJal`; synthesis `1VfHbUQKWWeil_i1IvinG-MdcI9D_rlvzO0fsm9OWaFc`; fresh-chat handoff `1bjhm7vBXsO72gO-WVawBmZF4qMswqRyDKxXYbZwy8y0`. Canonical repository evidence: `docs/evidence/WEBSITE_PLACEHOLDER_FOUNDATIONAL_STAGE_ARCH_LIGHT_SYNTHESIS_01.md`.
+
+**Exact next action:** continue only a small non-production precision round from this foundation: naturalize amber/blue cone behavior and off-center pools; refine the human-scale symbolic threshold; reinterpret teal-left/plum-right as indirect concealed evidence; keep wings in working black. Stop for Director synthesis before any production-shaped candidate or `site/public/**` change.
+
+**DIRECTOR-APPROVED FOUNDATION DIRECTION RECORDED; PRODUCTION UNCHANGED.**
