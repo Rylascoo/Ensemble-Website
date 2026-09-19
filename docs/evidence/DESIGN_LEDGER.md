@@ -3577,3 +3577,19 @@ Current START HERE document: Drive `1x7fH8KDHX2oV3fTiN1ccsK1uwavwHWBldpY99ql2Ao0
 L-225 remains one frozen six-function composite, not six independent high-resolution masters. L-226 remains the separately selected narrative reference. The latest existing-reference three-interpretation comparison and flexible-emphasis discussion are preserved as Design Sol recommendations, not fabricated Director selection or completed comparison. No new imagery, world-board expansion, app/UI/product semantics, production adaptation or L-214 Stage work is authorized by this housekeeping. No-text artwork law, Canonical primacy and Mediate separation remain unchanged.
 
 **ARCHIVE CLOSEOUT RECORDED - 24/24 ORIGINAL HASH MATCHES; SELECTIONS AND PRODUCTION UNCHANGED.**
+
+## L-228 - Reference 17 retained; four whole-scene failures closed; doorway-only study next
+
+**State:** DIRECTOR-AGREED EXECUTION CORRECTION / NON-PRODUCTION ANCHOR RETAINED / FOUR PRIOR GENERATIONS ACCOUNTED / PRODUCTION UNCHANGED
+
+Issue #125 and its two recovery comments are integrated into source continuity. The four prior full-scene outputs (auditorium/ornament, floor-ring platform loss, exposed doorway/equipment, closed curtain/colored jambs) remain comparison/failure evidence; none replaces Reference 17. This is not a concept reset or another render. L-214 and all earlier ledger entries remain historical evidence; its broader precision scope is now narrowed to the doorway interior only.
+
+Reference 17 remains canonical Drive `1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit`, 1672 x 941, 2,206,127-byte RGBA PNG, SHA-256 `8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44`. Raw bytes and visual identity were verified; this is not the published V2.2 background. Preserve the camera, raised Stage, outer amber/blue lighting, floor, wings, front lights and threshold placement/size.
+
+Latest Drive session checkpoint: archive `1QMKQFqJy5yQbyP5I_Mt8OQn-sacqtTga`; handoff `1Y_TOdGwu6kPIaiCT8x3tZk1o_pTu_G4T`; notes `1XEV5PRgvONa1AN9RZ2dDc8HVQrI0nIQ4`; manifest `1N9yuex-iF6VIgYy1upTKScJwI73HIRNv`; raw-verification record `17AJ4lxT2Qg06jQi2gBBTtBaLrcLpeHrg`. Older native handoff/synthesis remain earlier context, not updated checkpoints. Seven prior PNGs remain preserved without claiming fresh hash parity for all seven.
+
+**Next:** after hosted validation/integration of this closure, isolate the actual doorway crop and derive its mask. Test overlapping black folds and an irregular open gap, deeper narrow teal and softer obstructed plum; preserve passage rather than a closed curtain or colored jambs. No whole-scene reroll, mascot/people, text/logo, steps, bright sill, fixtures or portal. Crop/mask geometry is not yet frozen. Adobe upload/preview is not masked-edit proof; any later composite requires exact decoded-pixel equality outside its permitted region.
+
+L-225/L-226/L-227 mascot work, app branches, Phase 2 and L-204 production remain unchanged. Project queue was consulted at `9971acd06cabc7e5965b6f4c1a5d65168958ca4c`; no placeholder queue transition or engineering prerequisite changes. TRIGGERcmd remains deferred. Evidence: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_ONLY_RECONCILIATION_01.md`; packet `PKT-WEB-REF17-DOOR-01`.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**

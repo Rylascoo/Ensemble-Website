@@ -13,16 +13,16 @@ L-204 remains production authority: pre-Bellweather V2.2 is live; `site/public/*
 ## Homepage design state
 L-208/L-209 static-motion evidence remains earned. L-213 freezes Mediate; L-215 preserves Alternate BEFORE/POSSIBILITY ancestry. L-225 freezes Alternate at family-board level; L-226 holds its defining narrative reference without reroll. L-227 records verified chat-asset/Drive handoff closeout; recovery: `docs/evidence/BELLWEATHER_ALTERNATE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json`. Canonical remains primary.
 
-L-212 separated current placeholder work from Phase 2 future inspiration. L-214 now synthesizes the current mascot-free foundational Stage direction: broad dark circular Stage; sparse under-stage practicals; working-black side wings; physically plausible unequal amber-left/cobalt-right visible light fields with off-center soft floor pools; distant human-scale symbolic threshold; heavy black curtains; mineral-teal hidden evidence inner-left and smoky-plum inner-right.
+L-212/L-214 preserve the mascot-free placeholder foundation; Phase 2 remains deferred. L-228 integrates the later Director decisions from issue #125: four whole-scene generations closed as comparison/failure evidence, none adopted. Reference 17 remains the preferred non-production anchor, not the live background.
 
-Threshold law: no fantasy portal. Arch is mostly dark and incompletely revealed by broken warm edge catches. Teal/plum are indirect concealed light leaks / atmosphere at different depths, not mini spotlights; teal generally narrower/cleaner/more distant, plum softer/broader/more obscured. Hidden colors do not wash across the main Stage. Background remains typography-free; exact identity is separate.
+Reference 17: Drive `1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit`; 1672 x 941 RGBA PNG; SHA-256 `8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44`. Raw original verified. Preserve camera, raised Stage, outer amber/blue lighting, floor, wings, front lights and threshold placement/size.
 
-Drive current sequence: `1u5QKd01A4ccUfxivHb2R2t-MHVDwvJal`; synthesis `1VfHbUQKWWeil_i1IvinG-MdcI9D_rlvzO0fsm9OWaFc`; fresh-chat handoff `1bjhm7vBXsO72gO-WVawBmZF4qMswqRyDKxXYbZwy8y0`. Phase 2 archive remains `1jvkaW662LgGDqypSMQumZDP0nSURyPBd`.
+Active evidence: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_ONLY_RECONCILIATION_01.md`; packet `PKT-WEB-REF17-DOOR-01`. Drive session archive `1QMKQFqJy5yQbyP5I_Mt8OQn-sacqtTga` holds the latest checkpoint; older native handoff/synthesis remain earlier context.
 
 ## Cross-surface boundary
-Brand/concept metaphor here does not create new app runtime semantics. Current Engineering reports `DESIGN_ARCHITECTURE_READY = NOT READY`; existing Design-authorized visual work may proceed, but new runtime-dependent Design meaning requires integrated Engineering truth.
+Website metaphor creates no app semantics. Product/runtime status remains governed by current Project authority. This explicit Website continuation does not resume paused app, mascot or Engineering work; their records/branches remain preserved.
 
 ## Maintenance
 The apex redirect double-slash quirk remains separate debt.
 
-**Exact next action:** continue only a small non-production precision round from L-214: naturalize outer cones/off-center pools, refine the human-scale symbolic threshold, and deepen indirect teal/plum concealment. Keep side wings black and stop for Director synthesis before any production-shaped candidate or `site/public/**` change.
+**Exact next action:** after this continuity closure passes hosted validation/integration, isolate the verified Reference 17 doorway crop and derive its edit mask from the actual pixels. Explore overlapping black folds, an irregular open gap, deeper narrow teal and softer obstructed plum only if tool scope is enforceable. No whole-scene reroll, mascot, people, text/logo, new steps, bright sill, fixtures, colored jambs or portal. A later composite requires exact decoded-pixel equality outside the permitted region. Stop before production-shaped work or publication.
