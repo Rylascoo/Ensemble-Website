@@ -3713,3 +3713,29 @@ Packet: `docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_SCENARIO_ARCHITECTURE_0
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT. INTERRUPTED INTENTION IS THE FROZEN NEXT ALTERNATE ROLE-STUDY MECHANISM; RENDERING REMAINS A SEPARATE LATER ACTION.**
 
+## L-236 - Bellweather Alternate full identity development reopened after whole-Drive mascot audit
+
+**State:** DIRECTOR-REOPENED FULL IDENTITY DEVELOPMENT / WHOLE-DRIVE IMAGE CENSUS COMPLETE / L-235 SUPERSEDED AS ACTIVE DIRECTION / L-231-L225-L226 PRESERVED AS HISTORICAL CONTROLS / NO NEW RENDER / PRODUCTION UNCHANGED
+
+The Director determined that Bellweather Alternate had not received identity development equivalent in rigor to Canonical Bellweather and Bellweather Mediate and directed a full Google Drive image-asset review before any eventual final freeze.
+
+A complete accessible Drive image metadata census found **962 image assets**; a broad mascot/character/world/identity filter surfaced **221 relevant images** for deeper lineage review. The Bellweather master recovery index separately records **88 curated Canonical PNGs**. The audit then reviewed the governing synthesis/index documents and representative pixels from Canonical, Mediate and Alternate development branches. This is a full metadata/search census plus deep identity-branch review, not a claim that all 962 images were individually pixel-inspected at full resolution.
+
+The audit confirms that Canonical earned maturity through a frozen master, successor identity stress test, six standalone full renders, human-realism/narrative studies, approved turnaround, motion/position studies, natural-expression controls, four front-facing foundational references, frozen morning/private variations and broad wardrobe/state exploration. Mediate earned a coherent threshold/passage/transformation grammar and a separately frozen six-image standalone full-render family.
+
+Alternate contains valuable ancestry and many explorations, but its development mixed identity, app metaphor, situation, relationship, environment, wardrobe and role before deep identity was fully established. L-225 is one composite family board rather than six standalone masters. No equivalent Alternate turnaround, dedicated motion set, natural-expression control family or front-facing face/seated/full-body/world quartet exists. L-231 therefore remains a strong website-facing image but is insufficient by itself to prove a fully developed mascot identity.
+
+The Director further clarified Alternate's conceptual role: **BEFORE / POSSIBILITY / NOVICE EXPLORER** — a clearly adult persistent woman exploring radically different worlds, stories, cultures, relationships and consequences before she has integrated mastery of adaptation. Mediate remains **BETWEEN / TRANSFORMATION**. Canonical remains **AFTER / PERSISTENCE / INTEGRATED MASTERY**. This is mascot/brand conceptual progression inspired by the app concept, not literal runtime/product-state semantics. “Novice / naive” means not-yet-mastered, never childish, unintelligent or inferior.
+
+The original Exploration Sequence is again load-bearing ancestry: learning, travel, creating/planning, exploring other worlds, persistent people, before-event-consequence and the recurring question **“What is out there / what happens next?”** Recent ruins/orbital/historical-bazaar studies successfully restored breadth but also exposed a new accidental uniform risk: olive/brown layers, burgundy scarf, backpack/tools and golden light must not harden into Alternate identity.
+
+A new controlled program is now active: `docs/evidence/BELLWEATHER_ALTERNATE_IDENTITY_DEVELOPMENT_REBUILD_01.md`. It freezes the development order before further rendering: ALT-ID-01 face/age/hair -> ALT-ID-02 full-body/silhouette/posture -> ALT-ID-03 expression/behavior -> ALT-ID-04 prop/wardrobe independence -> ALT-ID-05 world adaptation -> ALT-ID-06 turnaround/motion -> ALT-ID-07 six standalone high-resolution full-render masters -> ALT-ID-08 narrative/website-role master and final reconciliation.
+
+**L-235 Interrupted Intention is superseded as the active Alternate direction.** Preserve it as useful diagnostic evidence of an over-narrow correction. L-234's warning against scenery replacing personhood remains useful. L-225, L-226 and L-231 remain preserved historical/frozen evidence and are not overwritten.
+
+**Exact next mascot action:** ALT-ID-01 only — establish face/age/hair continuity from the recovered ancestry and current controls before any further world/role expansion. No final Alternate freeze is permitted until the entire development program and final recursive audit pass.
+
+No image generation, `site/public/**`, app UI/runtime/product-semantic, Canonical, Mediate, production artwork or Reference-17/Stage change occurred in this audit.
+
+**DIRECTOR REOPENING RECORDED — BELLWEATHER ALTERNATE RETURNS TO FULL IDENTITY DEVELOPMENT; FINAL FREEZE DEFERRED UNTIL CANONICAL/MEDIATE-EQUIVALENT EVIDENCE EXISTS.**
+
