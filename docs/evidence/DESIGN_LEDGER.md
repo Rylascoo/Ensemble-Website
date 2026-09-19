@@ -3627,3 +3627,18 @@ Raw PNG: 768 x 1152 RGB; 655,384 bytes; SHA-256 `66bd4f12f3915a5988731053fea6814
 **Next:** Director synthesis before another render. A proposed later construction uses two ordinary full-length panels at different depths with one off-center vertical gap, not shortened hems. This is not a commissioned new attempt. Hold Reference 17 and Boundary 01; any later composite must pass actual exact outside-mask RGBA equality.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.** Result closure only; no visual adoption or production authority.
+
+
+## L-231 - Foundational placeholder successor synthesis selects the curtain mechanism for one bounded continuation
+
+**State:** DIRECTOR SYNTHESIS / PLACEHOLDER-SUCCESSOR PURPOSE CLARIFIED / CURTAIN MECHANISM CONTINUES / REFERENCE 17 RETAINED / PRODUCTION UNCHANGED
+
+After L-230, the Director clarified the purpose of the current website-artwork program: define the **foundational successor to the temporary placeholder website image until the app is finished**. This is not a final app depiction, not a Phase-2 world build, and not a product-semantic claim.
+
+The Director prefers the second, more curtain-forward direction and agreed with Design Sol's synthesis that concealment should become simpler rather than more theatrical: Reference 17 remains the full-scene foundation; the doorway uses plain full-length working-black curtains at different depths; one irregular off-center vertical passage remains discoverable; mineral teal becomes a narrow deeper glimpse; smoky plum becomes a softer, more obstructed trace. Shortened/scalloped hems, horizontal bands, ornate/gothic threshold drift, colored jambs and paired lower light pools are not carried forward.
+
+Crop 02 remains unadopted pixels. A later chat-only comparison image helped clarify the mechanism but is diagnostic discussion, not a canonical asset, controlled edit, or replacement reference. No full-size composite, publication candidate or `site/public/**` mutation is authorized by this synthesis.
+
+**Exact next action:** one bounded doorway-only successor study from the original verified Reference 17 crop and unchanged Boundary 01 using the simplified two-depth, full-length curtain construction. Any later full-size composite still requires exact decoded-pixel equality outside Boundary 01.
+
+**DIRECTOR SYNTHESIS RECORDED - FOUNDATIONAL PLACEHOLDER SUCCESSOR PURPOSE CLARIFIED; CURTAIN MECHANISM CONTINUES; REFERENCE 17 AND PRODUCTION UNCHANGED.**
