@@ -56,3 +56,12 @@ SHA-256 reconciliation against the successfully hashed non-intake project corpus
 The local/Drive readback after organization reports **zero direct loose PNGs** remaining in `00 Unreviewed`. Known post-L189 chat outputs including the Art-Deco lobby, Parisian salon, candlelit satin-lounge, and warm-library portraits remain independently verified inside the 40-image canonical chat archive `1VFHIB-5z-rKi8bHP1JYVNKnSJaJ5D4qv`.
 
 This was recovery/provenance maintenance only. It does not promote recovered files to Canonical Bellweather, Alternate, Mediate, Stage-master, app/UI, product-semantic, or website-production authority.
+
+
+## 2026-09-18 — Bellweather Mediate Full Render Mascot Set 01
+
+Director approval now freezes Bellweather Mediate’s first six-image full render mascot family. Recover Drive folder `1WAAcRUgr5DVfJcza8s24LsGEq2DYkUeY` and manifest `1VVLwbrItuRvfQP5O3bfTGqFfzvsI2kl2` after live repository/Drive authority.
+
+Stable Mediate language: **threshold / passage / transformation**; ivory-champagne curtain-derived drapery; long folds with pooling/unfurling motion; sculptural braided/twisted evening updo; luminous warm makeup with freckles/natural skin retained; restrained adult expression; strong three-quarter/back recognition; and small rounded linked-threshold warm-metal shoulder fasteners. The smaller rounded fasteners supersede the earlier oversized pointed-brooch exploration.
+
+Canonical Bellweather remains primary. Mediate is now frozen at full-render-set level; Bellweather Alternate remains the next logical mascot lane if the Director continues three-interpretation development. Do not silently reroll Mediate, generalize its gown/hair/makeup into universal Character law, or infer website/app production authority from this freeze.

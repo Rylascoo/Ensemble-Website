@@ -3374,3 +3374,20 @@ Drive Phase 2 preservation: `26 Website Phase 2 Future Inspiration - 2026-09-18`
 **Exact next action:** continue non-production V2.2-descended placeholder-foundation studies and compare them directly against the frozen two-cone master/current live website. Do not advance Phase 2 transition architecture or change `site/public/**` until the placeholder foundation has been refined and Director-synthesized.
 
 **DIRECTOR REENTRY - PLACEHOLDER FOUNDATION FIRST; PHASE 2 PRESERVED FOR LATER; PRODUCTION UNCHANGED.**
+
+
+## L-213 - Bellweather Mediate Full Render Mascot Set 01 frozen
+
+**State:** MEDIATE FULL-RENDER IDENTITY CONVERGENCE / SIX-IMAGE SET DIRECTOR-FROZEN / CANONICAL BELLWEATHER REMAINS PRIMARY / PRODUCTION UNCHANGED
+
+After L-211 established Bellweather Mediate as the third preserved Bellweather research lens, the Director authorized a focused identity-stress-test refinement before any full render family. Successive studies converged Mediate away from a generic pale evening gown toward a distinct **threshold / passage / transformation** identity.
+
+The Director explicitly approved the refined ivory-champagne gown and “different night out” transformation, including the curtain-derived drapery concept, sculptural braided/twisted evening updo, luminous warm makeup with freckles/natural skin retained, strong three-quarter/back recognition and restrained adult presence. The earlier oversized pointed-brooch experiment was rejected as too large/pointed. The approved full-render set instead uses smaller rounded warm-metal linked-threshold/opening fasteners; exact clasp microgeometry remains subordinate to the family identity.
+
+The resulting six-image **Bellweather Mediate — Full Render Mascot Set 01** is frozen in Drive folder `1WAAcRUgr5DVfJcza8s24LsGEq2DYkUeY`, with exact manifest `1VVLwbrItuRvfQP5O3bfTGqFfzvsI2kl2`. Exact assets are `1xzwmXTx6ygJlgkMOSE-c4ufoAUPHve2m`, `18WfcezIrYwqOXnQ4PzzQg8fKayfJNAcE`, `1CY45K8Pp0m_ZlH2zLdb1qiD9uzaoHq8Y`, `1jffFksGRgTbvwgX5Dtx9zcw2gRY28FaX`, `1TSy3IYrAHfMyUiTVKFwQwNKVCArxv9ec` and `14kDJr17IEHs9WzRfLWa6idUO81uqBPlg`.
+
+This freeze is interpretation-specific. Canonical Bellweather remains the primary persistent mascot identity. Bellweather Alternate remains a distinct non-production interpretation and has not yet earned a corresponding full-render-set freeze. No `site/public/**`, product semantics, app UI, Stage production master or universal Character representation law changes.
+
+**Mascot next boundary:** preserve Mediate unless new contrary evidence appears; if continuing mascot development, refine Bellweather Alternate toward its own conceptually distinct identity-stress-test/full-render family rather than rerolling Mediate by default.
+
+**DIRECTOR FREEZE — BELLWEATHER MEDIATE FULL RENDER MASCOT SET 01 APPROVED; CANONICAL BELLWEATHER REMAINS PRIMARY; PRODUCTION UNCHANGED.**
