@@ -167,3 +167,18 @@ The ancestry / family / website-identity / narrative reference jobs remain separ
 Current role-refinement archive: Drive folder `1TiDuObTZjgpQwIthAB9tAKQhXDb000WR`; START HERE handoff `1nSZYQ6NiCejyKCstAJNhvqH1rRniwEwiLZ-c_zMMnsQ`; repository archive record `docs/evidence/BELLWEATHER_ALTERNATE_WEBSITE_ROLE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json`.
 
 L-231 remains the exact website identity master. The later possible-worlds study `1meuxpRrY7QTtOjJr4OFnZDDWPhDzRVmU` is unselected exploration and must be reviewed before additional generation. Preserve the four reference roles, Canonical primacy, Mediate separation, website-only mascot boundary and no-text artwork rule. Do not resume the separate Stage lane merely because global CURRENT_STATE names it.
+
+## Post-Freeze Possible-Worlds Study 01 role review — Director-confirmed
+
+The post-freeze study at Drive `1meuxpRrY7QTtOjJr4OFnZDDWPhDzRVmU` (SHA-256 `253e444261043613165b786d8c9c287c1eaa3ff11313ca1926a598897ebc08ce`) has been reviewed against the exact L-231 Website Identity Master, original Exploration Sequence / favored Before anchor, L-225 family board, L-226 defining narrative reference and the Canonical / Mediate distinction.
+
+It remains **unselected diagnostic evidence**. The image proves that Alternate can survive a larger cinematic environment while retaining her recognizable adult identity, freer hair, grounded asymmetry, practical styling and selective attention. It also exposes the failure boundary: monumental transit/destination imagery can make the environment itself carry the idea of possibility, shifting Alternate toward a protagonist-about-to-depart reading rather than preserving unresolved human agency.
+
+The sharpened website-role rule is:
+
+> **Alternate is the person encountering possibility, not the symbol of passage.**
+
+A later role study, if separately authorized, should therefore test **branching human response**: one specific persistent person, one specific circumstance, and at least two materially different believable next responses. One world per image remains preferred. The environment may be ordinary or extraordinary, but destination spectacle, threshold symbolism or broad-world variety must not substitute for the human uncertainty.
+
+L-231 remains unchanged as website-facing physical identity master. L-225 remains family/behavior authority; L-226 remains narrative/world-relationship authority; Canonical remains primary; Mediate remains separately frozen. No new image generation, production promotion, `site/public/**` change or app/product-semantic authority follows from this review.
+
