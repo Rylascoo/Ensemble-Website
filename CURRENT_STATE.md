@@ -11,7 +11,7 @@ Website/design authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 L-204 remains production authority: pre-Bellweather V2.2 is live; `site/public/**` remains the exact baseline from `538fa349e046041e2759748d54fda176ac6a9749`. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. No new production candidate is authorized.
 
 ## Homepage design state
-L-213 freezes Mediate. Alternate controls: L-215 ancestry, L-225 family, L-226 narrative, L-231 website master `1MOXHyUMLFbfUW_ejqGvUE1gtwpWdHfc5`. L-234 leaves Study 01 diagnostic/unselected and sets branching human response, not world spectacle, as the next role boundary. Canonical remains primary; jobs stay separate. Handoff: `1nSZYQ6NiCejyKCstAJNhvqH1rRniwEwiLZ-c_zMMnsQ`.
+L-213 freezes Mediate. Alternate controls: L-215 ancestry, L-225 family, L-226 narrative, L-231 website master `1MOXHyUMLFbfUW_ejqGvUE1gtwpWdHfc5`. L-234 keeps Study 01 diagnostic; L-235 freezes **Interrupted Intention** as the next role-study mechanism (`PKT-BELLWEATHER-ALTERNATE-SCENARIO-01`) with no render. Canonical remains primary; jobs stay separate. Handoff: `1nSZYQ6NiCejyKCstAJNhvqH1rRniwEwiLZ-c_zMMnsQ`.
 
 L-212/L-214 preserve the mascot-free foundation; Phase 2 stays deferred. L-228 retained Reference 17 over four whole-scene failures. L-229 rejected horizontal bands. L-230 kept Crop 02 only as partial hanging-curtain evidence. L-232 records Director synthesis: this program defines the foundational placeholder successor until the app is finished, not a final app depiction; the curtain-based mechanism is the preferred continuation, while Crop 02 itself remains unadopted.
 
