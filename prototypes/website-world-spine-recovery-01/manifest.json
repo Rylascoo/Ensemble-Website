@@ -21,5 +21,18 @@
     "path": "prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png",
     "adoption_implied": false
   },
-  "next": "Director + Design Sol review of world-spine grammar. If retained, study transitions between states without production mutation."
+  "next": "Stress-test T3 Perspective→Consequence in isolation. Do not broaden product semantics, mascot scope, or production surface.",
+  "transition_grammar": {
+    "status": "MATERIALIZED_RESEARCH",
+    "path": "prototypes/website-world-spine-recovery-01/TRANSITION_GRAMMAR_01.md",
+    "lab": "prototypes/website-world-spine-recovery-01/transitions.html",
+    "carriers": [
+      "STAGE_HORIZON",
+      "SHARED_FIELD_OCCLUSION",
+      "DIVISION_TO_CAUSAL_SCAR",
+      "SCAR_TO_SPATIAL_AXIS",
+      "CENTER_TO_IDENTITY_RETURN"
+    ],
+    "preferred_first_stress_test": "T3_PERSPECTIVE_TO_CONSEQUENCE"
+  }
 }
