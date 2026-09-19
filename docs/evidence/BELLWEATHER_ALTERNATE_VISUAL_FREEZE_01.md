@@ -147,3 +147,16 @@ Canonical remains primary; Mediate remains separate. No `site/public/**`, app UI
 Current Drive handoff: `1x7fH8KDHX2oV3fTiN1ccsK1uwavwHWBldpY99ql2Ao0`; chronological 24-original image manifest: `1jrVqWCUY0Xk9Rl31y4BbAA84JxbqFBlp`; paste-ready prompt: `10LDxuFHwAAw2VPpuKkc8c0-MKzr1sylf`. All 24 raw Drive image readbacks match the chat originals by SHA-256. Original binaries, the L-225 family-board freeze and L-226 narrative selection remain unchanged. The master synthesis, three-interpretation index and family synthesis have current recovery addenda; older next-task text remains historical.
 
 L-227 and `docs/evidence/BELLWEATHER_ALTERNATE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json` record an explicit L-223/L-224 intermediate-pose attribution correction without rewriting selection history. The family freeze is one composite PNG, not six standalone high-resolution masters. The last proposed existing-reference Canonical/Mediate/Alternate comparison remains a recommendation, not a completed or adopted result. No new generation or production adaptation follows from this handoff.
+
+
+## Website Identity Master 01 — Director freeze — 2026-09-19
+
+After renewed comparison with the original Exploration Sequence and the distinct refined Canonical/Mediate interpretations, the Director selected the latest wide station render as **Bellweather Alternate — Website Identity Master 01**.
+
+Canonical Drive folder: `1SKzExCS_GjQNNspvlWqRqqFubTaK3YCj`. Exact PNG: `1MOXHyUMLFbfUW_ejqGvUE1gtwpWdHfc5`; 1672 x 941 RGB; 2,019,301 bytes; SHA-256 `31edf25c68a1480fccc20dcfe1192559702ccebd3fce46a768aeea13ed59869c`. Raw Drive readback matches the source bytes and hash.
+
+The freeze establishes Alternate's website-facing physical presence: long freer chestnut-brunette hair, natural freckles/skin, grounded asymmetry, selective attention, human immediacy and unresolved directional possibility. It does **not** freeze the station, train, wet pavement, backpack, scarf, exact outfit, footwear, lighting or crop as deep identity.
+
+The ancestry / family / website-identity / narrative reference jobs remain separate. This master does not replace L-225 or L-226 and does not change Canonical primacy or Mediate's separate freeze.
+
+**Next boundary:** refine Alternate's website role within Kymaean's concept from this exact identity. Explore BEFORE / POSSIBILITY as human encounter and open direction; do not turn her into an app operator, narrator, product-semantic state, tutorial guide or functional app-UI element. No baked-in text, production promotion or site/public change follows from this freeze.

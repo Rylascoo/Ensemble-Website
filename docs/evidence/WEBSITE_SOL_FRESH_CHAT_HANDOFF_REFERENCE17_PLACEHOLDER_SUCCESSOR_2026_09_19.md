@@ -66,6 +66,6 @@ TRIGGERcmd remains deferred. Conserve Remote Desktop Commander. Adobe upload/edi
 
 ## Exact next action
 
-After fresh recovery and confirmation that no concurrent Website authority superseded L-231, execute **one bounded doorway-only successor study** using the simplified full-length two-depth curtain construction above. Evaluate the returned pixels before any further generation. Keep Reference 17 and production unchanged unless a later explicitly authorized gate advances them.
+After fresh recovery and confirmation that no concurrent Website authority superseded L-232, execute **one bounded doorway-only successor study** using the simplified full-length two-depth curtain construction above. Evaluate the returned pixels before any further generation. Keep Reference 17 and production unchanged unless a later explicitly authorized gate advances them.
 
 Website Sol can continue this bounded placeholder-successor lane independently; no Engineering or mascot handoff is required.

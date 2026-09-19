@@ -163,7 +163,15 @@
       "path": "docs/evidence/packets/PKT_WEB_REFERENCE17_DOORWAY_01.json",
       "axis": "non-production mascot-free website placeholder",
       "status": "PROVISIONAL_INCUMBENT",
-      "current_contribution": "Reference 17 retained. Crop 01 rejected; Crop 02 preserves only directional hanging-curtain evidence. L-231 Director synthesis clarifies the program as the foundational placeholder successor and authorizes one simplified two-depth full-length-curtain successor study; no production authority.",
+      "current_contribution": "Reference 17 retained. Crop 01 rejected; Crop 02 preserves only directional hanging-curtain evidence. L-232 Director synthesis clarifies the program as the foundational placeholder successor and authorizes one simplified two-depth full-length-curtain successor study; no production authority.",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-BELLWEATHER-ALTERNATE-WEB-IDENTITY-01",
+      "path": "docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_WEBSITE_IDENTITY_01.json",
+      "axis": "mascot / website identity",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "Bellweather Alternate Website Identity Master 01; distinct BEFORE / POSSIBILITY physical-presence reference",
       "production_authority": false
     }
   ],
