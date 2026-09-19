@@ -3433,3 +3433,18 @@ The favored anchor is **not a full-render-set freeze and not exact anatomy autho
 **Mascot next boundary:** if Alternate work resumes, recover live authority, the original Exploration Sequence and the selected anchor first. Refine one identity variable at a time, prioritize clearly adult face/age continuity plus longer/freer hair and outward-looking curiosity, and avoid another broad multi-world marketing-board expansion until the Alternate face/identity grammar is stable. Stop for Director review before any Alternate full-render-set freeze.
 
 **DIRECTOR LINEAGE CLARIFICATION RECORDED — ALTERNATE = BEFORE/POSSIBILITY; MEDIATE = BETWEEN/TRANSFORMATION; CANONICAL = AFTER/PERSISTENCE; FAVORED ALTERNATE IDENTITY ANCHOR PRESERVED; PRODUCTION UNCHANGED.**
+
+
+## L-216 - Bellweather Alternate identity stress test 01 preserved as diagnostic evidence
+
+**State:** NON-PRODUCTION ALTERNATE IDENTITY MICRO-TEST / CONTROL CONSTRUCTION FAILED / NO FREEZE / DIRECTOR SYNTHESIS PENDING / PRODUCTION UNCHANGED
+
+Following L-215, Design Sol recovered the favored BEFORE / POSSIBILITY anchor plus the complete original Exploration Sequence and executed one small identity stress test intended to isolate facial continuity and the longer/freer chestnut-brunette hair treatment.
+
+Exact generated evidence is preserved in Drive as `Bellweather Alternate — Identity Stress Test 01 — 2026-09-18.png` (`1QA2JBXmCAtIf8_uvEwFpzf-nnKOn0qsE`) under recovery folder `1mBurjtNa4VszIqTV1TeLAuzqCPc0vrEv`. Canonical round evidence: `docs/evidence/BELLWEATHER_ALTERNATE_IDENTITY_STRESS_TEST_01_2026_09_18.md`.
+
+The render preserved strong face recoverability, long/freer chestnut hair and soft outward curiosity, but failed the intended controlled-test construction by re-expanding into a marketing-board format with changing wardrobe/props/framing and source-context contamination. Adult-presentation continuity therefore remains unresolved rather than silently declared established.
+
+**Exact next mascot boundary:** stop for Director synthesis. If Alternate work continues, run one corrected micro-test with one clearly adult everyday wardrobe, one neutral repeated environment, one lighting/camera family and one stable longer/freer hair treatment across 3–4 angles; vary only head angle/gaze enough to test identity recovery. No full-render-set freeze, website production, `site/public/**`, app UI or product-semantic change is authorized.
+
+**ROUND PRESERVED AS DIAGNOSTIC EVIDENCE — CONTROL CONSTRUCTION FAILED; NO FREEZE; PRODUCTION UNCHANGED.**
