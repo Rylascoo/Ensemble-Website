@@ -167,3 +167,13 @@ Recovery direction:
 Does this **world-spine grammar** feel like the correct structural successor to the old Site Spine while remaining compatible with the newer Reference-17 placeholder and the recovered broader visual lineage?
 
 If yes, the next useful work is not another full-page redesign. It is a bounded exploration of the **transition grammar between these five world states**—how Stage darkness, perspective, limestone consequence, spatial participation and identity return transform into one another without feeling like separate sections.
+
+
+## Concurrent mascot boundary update — 2026-09-19
+
+Live Website concurrency changed during this study:
+- PR #148 (provisional Bellweather Exploration naming) is closed unmerged and explicitly superseded.
+- PR #149 is open and establishes **Belle** as an independent mascot identity foundation, not a Bellweather rename or fourth Bellweather interpretation.
+- PR #149 remains unmerged while hosted validators are unhealthy.
+
+This world-spine study remains deliberately mascot-neutral. It does not adopt Belle, Canonical Bellweather, Mediate, Alternate, or any mascot-placement semantics. Future mascot integration into the broader website must be a separate design gate.
