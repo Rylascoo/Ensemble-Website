@@ -95,3 +95,34 @@ The Director-favored non-production Alternate identity-recovery anchor is now pr
 The matching Drive handoff is `BELLWEATHER_ALTERNATE_BEFORE_IDENTITY_RECOVERY_HANDOFF_2026-09-18.txt` (`1XhfDMzaKP_Uzv4LZMKLIlfdMANFH7Frz`).
 
 Future Alternate refinement should return to the original Exploration Sequence plus this selected anchor, stabilize clearly adult face/age continuity and the longer/freer exploratory identity, and avoid drifting toward Canonical/Mediate face, hair, glamour, or garment language.
+
+
+## Full Render Mascot Set 01 — Director freeze
+
+The subsequent controlled identity/concept program established a complete Bellweather Alternate full-render family without replacing the original Exploration Sequence ancestry or the favored Before anchor.
+
+Canonical controlled archive:
+- Drive folder `13 Bellweather Alternate — Controlled Identity & Concept Stress Tests — 2026-09-18` — `1_y3v5_4010xNorKc8jwaN_Spbp3f8VIB`
+- Director freeze synthesis — `1_uxj50LtzdEJH56oOwfgAJzQltnKXhddp9nH5zlLaZk`
+- frozen family board — `19NthkPz-5HlO0zhGFp7zYbC8RgwXTV3s`
+- frozen board SHA-256 — `7b8ee91695b3e25fbac1a16f115e69d42c109fdef8abc7804a15f8d5f9ef6e2b`
+
+The frozen six functions are **Identity / Everyday / Relational / Skeptical / Discovery / Ready**.
+
+Stable Alternate identity grammar:
+- clearly adult recoverable Bellweather;
+- longer/freer chestnut-brunette hair with natural movement;
+- natural skin/freckles;
+- outwardly responsive attention;
+- relational/social embeddedness;
+- practical wardrobe adaptability rather than one costume;
+- behavioral continuity through listening, questioning, noticing, discovering, deciding and moving forward;
+- unresolved possibility remains open around her.
+
+Alternate's conceptual mechanism is **`circumstance -> attention -> response -> choice`**. This is visual/brand interpretation, not a product state or app runtime semantic.
+
+The exact composite board is immutable family-level visual evidence. Its generated typography, board layout, exact garments, bags, notebooks, jewelry, environments, background people and incidental lighting are non-authoritative presentation details. The freeze does not require hand-on-cheek posing, a half-smile, golden-hour light, one satchel, one cardigan, school-uniform styling or the later short-black-dress Stage appearance.
+
+Canonical Bellweather remains the primary mascot identity. Bellweather Mediate remains the separate Between/Transformation interpretation. No website production, `site/public/**`, app UI, runtime/product semantics or universal Character-style change is authorized.
+
+**BELLWEATHER ALTERNATE FULL RENDER MASCOT SET 01 — DIRECTOR-FROZEN AT FAMILY-BOARD LEVEL; PRODUCTION UNCHANGED.**
