@@ -3611,3 +3611,19 @@ Exact Adobe input/output PNGs and a decoded-identical mask are preserved in `pro
 **Next:** hold Reference 17 and review this failure. Any successor must be separately bounded around hanging, staggered curtains and a continuous irregular passage, not wrapping bands. No automatic reroll of consumed Crop 01. A later actual composite must prove exact outside-mask RGBA equality. Publication, mascot, app, product and TRIGGERcmd boundaries are unchanged.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.**
+
+## L-230 - Reference 17 Crop 02 improves hanging direction but remains unadopted
+
+**State:** ONE CROP-ONLY SUCCESSOR CONSUMED / PARTIAL LOCAL GAIN / REJECTED AS REPLACEMENT / NO COMPOSITE / PRODUCTION UNCHANGED
+
+The Director explicitly continued the bounded hanging-curtain successor after L-229. Preregistration was archived and raw-readback verified before generation in Drive `16rbhEAMh1I3oqvWpMXXr15_QML-2wzS6`, SHA-256 `2e2290524a2b38b6227d4070623c780a66099003ab1b72c188478623431d5c34`. Reference 17 and all 39,975 Boundary 01 pixels remain the same. Adobe received only the original 258 x 383 crop, not the full scene or failed Crop 01. One attempt with seed 19818 was consumed; no retry.
+
+Crop 02 removes horizontal wrapping bands and recovers long vertical folds with a dark opening at floor level. It does not convincingly establish passage between two panels staggered in depth: the opening reads beneath successively shortened pleats. Teal/plum remain paired lower color/pool regions rather than unequal glimpses behind masking at different depths. Repeated stepped/scalloped hems are a new diagnostic observation, not a retroactive failure rule. Design Sol rejects adoption under the unchanged concealment question while preserving the local hanging improvement. No Director selection of returned pixels is claimed.
+
+Raw PNG: 768 x 1152 RGB; 655,384 bytes; SHA-256 `66bd4f12f3915a5988731053fea6814f4744e67e16cdac5e58098fc9d51355a7`. The output is not pixel locked. No resize, warp, mask widening, adjustment, full-size composite or post-result rescue occurred. Result: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_02_RESULT.json`; review: `prototypes/website-reference17-doorway-crop-02/index.html`. Drive report: `1v7_yQcHstQIgH6y7sfB-TD2W-qfT1keb`. Exact original PNG encodings for the input/Crop 01/Crop 02 are secured in the repository; their Drive binary copies remain pending.
+
+**Explicit continuity correction:** the active packet still said no mask geometry was frozen despite L-229's Boundary 01 preflight. Correct that stale status only; no mask geometry, support or pixels changed. All earlier ledger bytes and other lanes remain preserved.
+
+**Next:** Director synthesis before another render. A proposed later construction uses two ordinary full-length panels at different depths with one off-center vertical gap, not shortened hems. This is not a commissioned new attempt. Hold Reference 17 and Boundary 01; any later composite must pass actual exact outside-mask RGBA equality.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.** Result closure only; no visual adoption or production authority.
