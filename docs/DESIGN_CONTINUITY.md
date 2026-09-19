@@ -464,3 +464,14 @@ This freeze does not alter Canonical Bellweather's primacy, does not merge Alter
 Alternate's defining narrative reference is governed by `docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md` and registered packet `PKT-BELLWEATHER-ALTERNATE-NARRATIVE-01`. Narrative composition does not replace the portrait or family identity controls. A visible interaction may invite interpretation without establishing a specific event, relationship or consequence.
 
 The Director requires no text in future generated Bellweather artwork: no baked-in words, slogans, captions, labels, logos or readable signage/prop lettering. Documentation and filenames are not artwork; this does not alter existing website typography or functional app UI. Preserve selected original pixels and non-selected predecessors; make no automatic reroll or production promotion from narrative selection.
+
+
+## 24. Bellweather Alternate Website Identity Master 01
+
+By Director decision on 2026-09-19, Bellweather Alternate now has a frozen website-facing identity master in Drive folder `1SKzExCS_GjQNNspvlWqRqqFubTaK3YCj`, exact PNG `1MOXHyUMLFbfUW_ejqGvUE1gtwpWdHfc5`, SHA-256 `31edf25c68a1480fccc20dcfe1192559702ccebd3fce46a768aeea13ed59869c`.
+
+This master refines **BEFORE / POSSIBILITY** without collapsing Alternate toward Canonical or Mediate. Preserve one clearly adult recoverable person, long freer chestnut-brunette hair, natural freckles/skin, grounded asymmetrical physical presence, selective attention and unresolved directional possibility. The image should feel encountered rather than presented and open to more than one possible next development.
+
+Reference jobs remain separate: the original Exploration Sequence is ancestry; L-225's composite board is family/behavior evidence; this exact image is the website identity master; L-226's wide ensemble scene remains the defining narrative/world-relationship reference. None replaces the others.
+
+Station architecture, train, wet pavement, backpack, scarf, exact garments, shoes, lighting and crop are contextual presentation variables. Do not convert them into an Alternate uniform or mandatory world. This freeze creates no app UI/runtime/product semantics, website-production promotion or universal Character style. Future website-role refinement should develop Alternate as a person near unresolved possibility, never as Kymaean's system narrator, app operator or tutorial assistant. The no-text artwork rule remains in force.

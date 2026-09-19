@@ -165,6 +165,14 @@
       "status": "PROVISIONAL_INCUMBENT",
       "current_contribution": "Reference 17 and Boundary 01 retained; Crop 01 bands rejected; Crop 02 hanging improves but passage/light depth remains unresolved. Neither adopted; no composite or automatic reroll.",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-BELLWEATHER-ALTERNATE-WEB-IDENTITY-01",
+      "path": "docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_WEBSITE_IDENTITY_01.json",
+      "axis": "mascot / website identity",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "Bellweather Alternate Website Identity Master 01; distinct BEFORE / POSSIBILITY physical-presence reference",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [

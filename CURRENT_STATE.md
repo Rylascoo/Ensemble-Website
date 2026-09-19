@@ -11,7 +11,7 @@ Website/design authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 L-204 remains production authority: pre-Bellweather V2.2 is live; `site/public/**` remains the exact baseline from `538fa349e046041e2759748d54fda176ac6a9749`. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. No new production candidate is authorized.
 
 ## Homepage design state
-L-208/L-209 static-motion evidence remains earned. L-213 freezes Mediate; L-215 preserves Alternate BEFORE/POSSIBILITY ancestry. L-225 freezes Alternate at family-board level; L-226 holds its defining narrative reference without reroll. L-227 records verified chat-asset/Drive handoff closeout; recovery: `docs/evidence/BELLWEATHER_ALTERNATE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json`. Canonical remains primary.
+L-208/L-209 remain earned. L-213 freezes Mediate; L-215 preserves Alternate ancestry; L-225 freezes its family board; L-226 its narrative reference. L-231 freezes Alternate Website Identity Master 01 at Drive `1MOXHyUMLFbfUW_ejqGvUE1gtwpWdHfc5`; these reference jobs remain separate and Canonical remains primary.
 
 L-212/L-214 preserve the mascot-free foundation. Phase 2 remains deferred. L-228 retained Reference 17 over four whole-scene failures. L-229 rejected horizontal bands. L-230 records Crop 02: vertical hang improves, but shortened hems and paired lower color pools leave concealed passage unresolved. Neither crop is adopted; no composite.
 
@@ -22,7 +22,7 @@ Result: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_02_RESULT.json`; review:
 Drive archive `1QMKQFqJy5yQbyP5I_Mt8OQn-sacqtTga` holds preregistration `16rbhEAMh1I3oqvWpMXXr15_QML-2wzS6` and result `1v7_yQcHstQIgH6y7sfB-TD2W-qfT1keb`. Exact Adobe input/Crop 01/Crop 02 PNGs are in repository evidence; original-encoding Drive copies remain pending. Older checkpoints stay historical.
 
 ## Cross-surface boundary
-Website metaphor creates no app semantics. Consult current Project authority for runtime truth. This continuation does not resume paused app, mascot or Engineering work.
+Website metaphor creates no app semantics. Bellweather work here is website-only identity research; it creates no app UI/runtime authority. Engineering truth remains in Project.
 
 ## Maintenance
 The apex redirect double-slash quirk remains separate debt. TRIGGERcmd stays deferred.

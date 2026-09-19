@@ -3627,3 +3627,22 @@ Raw PNG: 768 x 1152 RGB; 655,384 bytes; SHA-256 `66bd4f12f3915a5988731053fea6814
 **Next:** Director synthesis before another render. A proposed later construction uses two ordinary full-length panels at different depths with one off-center vertical gap, not shortened hems. This is not a commissioned new attempt. Hold Reference 17 and Boundary 01; any later composite must pass actual exact outside-mask RGBA equality.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.** Result closure only; no visual adoption or production authority.
+
+
+## L-231 - Bellweather Alternate Website Identity Master 01 frozen
+
+**State:** DIRECTOR-FROZEN WEBSITE IDENTITY MASTER / ROLE REFINEMENT OPEN / ANCESTRY-FAMILY-NARRATIVE CONTROLS PRESERVED / PRODUCTION UNCHANGED
+
+After returning to the original `01 Chat Renders — Exploration Sequence` and explicitly distinguishing Alternate from refined Canonical and Mediate, the Director selected the latest wide station render as the defining **Bellweather Alternate website identity master** and instructed further refinement of her role within Kymaean's concept.
+
+Exact frozen PNG: Drive `1MOXHyUMLFbfUW_ejqGvUE1gtwpWdHfc5` in folder `1SKzExCS_GjQNNspvlWqRqqFubTaK3YCj`; 1672 x 941 RGB; 2,019,301 bytes; SHA-256 `31edf25c68a1480fccc20dcfe1192559702ccebd3fce46a768aeea13ed59869c`. Fresh raw Drive readback matches the source bytes and hash.
+
+Reference roles remain distinct: the original Exploration Sequence is ancestry; L-225 remains family/behavior identity evidence; this image is the website-facing physical-presence identity master; L-226 remains the separate narrative/world-relationship reference. The new freeze does not overwrite any earlier frozen pixels.
+
+The website identity direction preserves long freer chestnut-brunette hair, natural freckles/skin, grounded asymmetrical presence, selective off-frame attention, lived-in practical styling and unresolved directional possibility. Exact station, city, train, wet pavement, jacket, top, trousers, scarf, backpack, shoes, lighting and crop are presentation variables, not mandatory mascot anatomy or a fixed costume.
+
+**Next mascot question:** refine how this exact Alternate identity expresses **BEFORE / POSSIBILITY** on the public website as a person near unresolved possibility—not as an app operator, narrator, tutorial guide or product-semantic state. Preserve Canonical primacy, Mediate separation, the no-text artwork rule and the website-only boundary. No `site/public/**`, app UI, runtime/product semantics or universal Character styling changed.
+
+Packet: `docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_WEBSITE_IDENTITY_01.json`.
+
+**DIRECTOR FREEZE — BELLWEATHER ALTERNATE WEBSITE IDENTITY MASTER 01 PRESERVED; ROLE REFINEMENT OPEN; PRODUCTION UNCHANGED.**
