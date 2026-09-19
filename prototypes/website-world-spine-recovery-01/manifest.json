@@ -21,7 +21,7 @@
     "path": "prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png",
     "adoption_implied": false
   },
-  "next": "Stress-test T3 Perspective→Consequence in isolation. Do not broaden product semantics, mascot scope, or production surface.",
+  "next": "Integrate Scar Bloom only into the world-spine prototype, then stop for Director review before expanding other transition mechanics.",
   "transition_grammar": {
     "status": "MATERIALIZED_RESEARCH",
     "path": "prototypes/website-world-spine-recovery-01/TRANSITION_GRAMMAR_01.md",
@@ -40,5 +40,14 @@
     "pr149": "OPEN_BELLE_INDEPENDENT_IDENTITY_FOUNDATION",
     "integrated": false,
     "effect_on_world_spine": "NONE_MASCOT_NEUTRAL"
+  },
+  "t3_stress_test": {
+    "status": "COMPLETE_RESEARCH",
+    "path": "prototypes/website-world-spine-recovery-01/T3_PERSPECTIVE_CONSEQUENCE_STRESS_TEST_01.md",
+    "lab": "prototypes/website-world-spine-recovery-01/t3-perspective-consequence.html",
+    "selected_research_incumbent": "SCAR_BLOOM",
+    "rejected_primary": "APERTURE_CONVERSION",
+    "secondary_only": "GROUND_RISE",
+    "production_authority": false
   }
 }
