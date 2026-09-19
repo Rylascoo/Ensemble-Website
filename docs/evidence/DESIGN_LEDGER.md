@@ -3792,3 +3792,17 @@ The Director authorizes **one** narrowly constrained Crop 04. It must start agai
 Reference 17, Boundary 01, Bellweather L-236 and `site/public/**` remain unchanged.
 
 **DIRECTOR REFINEMENT AUTHORIZED — ONE ORIGINAL-CROP CROP 04 ONLY; HOLD CROP-03 GAINS AND CHANGE DEPTH ASYMMETRY, GAP IRREGULARITY AND COLOR RESTRAINT ONLY.**
+
+## L-240 - Reference-17 Crop 04 raw result preserved; visual disposition pending
+
+**State:** ONE PREREGISTERED CROP 04 ATTEMPT EXECUTED / RAW OUTPUT DURABLE / UNEVALUATED / UNADOPTED / NO CONTROLLED COMPOSITE / NO REROLL AUTHORIZED / REFERENCE 17 UNCHANGED / PRODUCTION UNCHANGED
+
+Following the Director-agreed L-239 refinement, Crop 04 was preregistered from the original verified Reference-17 doorway crop pixels, not Crop 03 pixels. The same Boundary 01 and seed 19818 were retained. The only authorized changes were stronger near/far curtain-depth asymmetry, a less composed/more irregular off-center passage, and quieter color with smoky-plum especially subordinate.
+
+Exactly one Adobe edit completed. The exact returned PNG was preserved before visual disposition at prototypes/website-reference17-doorway-crop-04/REF17_CROP04_RAW_ADOBE.png, SHA-256 $sha, 524365 bytes, 768 x 1152 RGB. Request/source/Adobe Creative Cloud provenance is in docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_04_RAW_CAPTURE.json.
+
+This event records existence and provenance only. Crop 04 is UNEVALUATED and unadopted; it is not a controlled full-size edit and makes no outside-Boundary pixel-lock claim. No automatic reroll or post-result rescue is authorized. The next gate is visual disposition of this exact stored candidate against the five frozen Crop-04 criteria.
+
+Reference 17, Boundary 01, Bellweather L-236 and site/public/** remain unchanged.
+
+**RAW CROP 04 PRESERVED — REVIEW THIS EXACT CANDIDATE BEFORE ANY FURTHER GENERATION OR COMPOSITE.**
