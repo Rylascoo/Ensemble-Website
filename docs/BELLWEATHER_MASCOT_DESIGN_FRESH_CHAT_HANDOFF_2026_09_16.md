@@ -65,3 +65,18 @@ Director approval now freezes Bellweather Mediate’s first six-image full rende
 Stable Mediate language: **threshold / passage / transformation**; ivory-champagne curtain-derived drapery; long folds with pooling/unfurling motion; sculptural braided/twisted evening updo; luminous warm makeup with freckles/natural skin retained; restrained adult expression; strong three-quarter/back recognition; and small rounded linked-threshold warm-metal shoulder fasteners. The smaller rounded fasteners supersede the earlier oversized pointed-brooch exploration.
 
 Canonical Bellweather remains primary. Mediate is now frozen at full-render-set level; Bellweather Alternate remains the next logical mascot lane if the Director continues three-interpretation development. Do not silently reroll Mediate, generalize its gown/hair/makeup into universal Character law, or infer website/app production authority from this freeze.
+
+
+## 2026-09-18 — Bellweather Alternate Before identity-recovery checkpoint
+
+The current mascot-design thread should resume from the Director-favored Alternate identity anchor, not from later exploratory rerolls.
+
+Recover:
+- Drive folder `12 Bellweather Alternate — Before Identity Recovery — 2026-09-18` — `1mBurjtNa4VszIqTV1TeLAuzqCPc0vrEv`
+- favored image `Bellweather Alternate — Before Identity Anchor 01 — 2026-09-18.png` — `1B0tc57qQyPT3_awy_5vT9ESacYFpcr9Y`
+- exact handoff text — `1XhfDMzaKP_Uzv4LZMKLIlfdMANFH7Frz`
+- original ancestry `01 Chat Renders — Exploration Sequence` — `1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1`
+
+Director intent: **Alternate = Before / Possibility; Mediate = Between / Transformation; Canonical = After / Persistence.** Alternate is the original Exploration Sequence representation, not merely the later short-black-dress Stage appearance. The favored image is an identity anchor, not a full-render-set freeze.
+
+Next visual task: refine Alternate from this anchor one variable at a time, prioritizing clearly adult face/age continuity, longer/freer hair, outward-looking curiosity, relational/world-responsive presence and continuity with the original Exploration Sequence. Avoid new multi-world marketing boards until the Alternate face and identity grammar are stable.

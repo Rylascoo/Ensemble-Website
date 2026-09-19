@@ -11,7 +11,7 @@ Website/design authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 L-204 remains production authority: pre-Bellweather V2.2 is live; `site/public/**` remains the exact baseline from `538fa349e046041e2759748d54fda176ac6a9749`. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. No new production candidate is authorized.
 
 ## Homepage design state
-L-208/L-209 static-motion evidence remains earned. L-210/L-211 preserve Bellweather Alternate/Mediate; L-213 freezes Mediate Full Render Set 01 without changing canonical Bellweather or production.
+L-208/L-209 static-motion evidence remains earned. L-210/L-211 preserve Alternate/Mediate; L-213 freezes Mediate Full Render Set 01. L-215 clarifies Alternate as the Exploration Sequence BEFORE/POSSIBILITY identity and preserves a non-frozen Drive anchor; Canonical remains primary.
 
 L-212 separated current placeholder work from Phase 2 future inspiration. L-214 now synthesizes the current mascot-free foundational Stage direction: broad dark circular Stage; sparse under-stage practicals; working-black side wings; physically plausible unequal amber-left/cobalt-right visible light fields with off-center soft floor pools; distant human-scale symbolic threshold; heavy black curtains; mineral-teal hidden evidence inner-left and smoky-plum inner-right.
 

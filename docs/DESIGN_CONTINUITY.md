@@ -417,7 +417,7 @@ This authority creates no universal Character-face requirement, app semantics, a
 Bellweather currently has **three separately named preserved visual interpretations**, while retaining one primary mascot identity:
 
 - **Canonical Bellweather** remains the primary persistent Kymaean mascot / brand-ambassador identity. Human/private, Image-5 morning, formal/iconic, fitted public/social, fitted intellectual/work, fitted evening, travel/public, pose and expression families remain Canonical presentation/exploration territory unless later explicit authority changes that status.
-- **Bellweather Alternate** is the L-210 compact contemporary short-black-dress non-production Stage-research interpretation. It exists to stress-test small-scale recognition and Stage hierarchy; it must not silently replace or contaminate Canonical identity.
+- **Bellweather Alternate** is the pre-canonical Exploration Sequence representation, conceptually **BEFORE / POSSIBILITY**: outward-looking, relational, world-responsive, and exploratory. L-210 preserves a later compact short-black-dress Stage-context appearance of this identity; that one appearance must not be generalized into Alternate's complete wardrobe or lineage.
 - **Bellweather Mediate** is the L-211 long-gown three-quarter/back non-production Stage-research interpretation positioned between Canonical formality/history and Alternate immediacy. It remains a research lens, not a product state or replacement mascot.
 
 These are not three competing finalists, product states, Character classes, or universal Kymaean styles. Canonical remains primary.
@@ -432,3 +432,16 @@ By Director approval, Bellweather Mediate now has its first frozen six-image ful
 Preserve Mediate as the distinct **threshold / passage / transformation** Bellweather interpretation. Its stable language is ivory-champagne curtain-derived architectural drapery, long vertical folds and pooling/unfurling fabric, sculptural braided/twisted evening hair, luminous warm makeup with natural skin/freckles retained, restrained adult expression, strong three-quarter/back recognition, and small rounded linked-threshold warm-metal shoulder fasteners.
 
 The full-render freeze supersedes the earlier oversized pointed-brooch treatment as Mediate’s preferred hardware direction. It does not alter canonical Bellweather’s primacy, does not merge Mediate with Bellweather Alternate, and does not create universal Character/app/website styling law. Environment remains narrative support rather than mascot anatomy.
+
+
+## 22. Bellweather interpretation progression continuity
+
+Director intent clarifies the three named Bellweather interpretations as a conceptual progression with respect to Kymaean rather than three parallel wardrobe/personality variants:
+
+- **Alternate — BEFORE / POSSIBILITY:** the pre-canonical Exploration Sequence representation; possibility remains open around her. Preserve outward-looking curiosity, relational context, world-responsive presentation and longer/freer chestnut-brunette hair language.
+- **Mediate — BETWEEN / TRANSFORMATION:** the crossing/threshold interpretation already frozen at full-render-set level.
+- **Canonical — AFTER / PERSISTENCE:** the integrated persistent mascot identity and primary Bellweather authority.
+
+“Before / Between / After” is conceptual visual continuity only. It is not product-state semantics, not a hierarchy of human worth, and not a universal Character lifecycle.
+
+The later short-black-dress Alternate Stage studies remain valid Stage-context evidence but do not define Alternate's full identity lineage. Alternate's canonical historical ancestry is the original `01 Chat Renders — Exploration Sequence` (`1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1`). The current Director-favored, non-frozen identity-recovery anchor is Drive `1B0tc57qQyPT3_awy_5vT9ESacYFpcr9Y` in folder `1mBurjtNa4VszIqTV1TeLAuzqCPc0vrEv`, with handoff `1XhfDMzaKP_Uzv4LZMKLIlfdMANFH7Frz`.

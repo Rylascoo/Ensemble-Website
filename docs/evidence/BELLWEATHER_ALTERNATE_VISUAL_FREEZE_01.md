@@ -74,3 +74,24 @@ The Bellweather master synthesis document `1TyYaWeaLGA5nZRMAF7SAeXhzlAvUY2Z3AJQI
 The corresponding loose current-chat imagery is preserved in `03 Visual Identity & Artwork / Kymaean / 25 Website Stage Vision Recovery — 2026-09-18 / 03 Bellweather Alternate — Stage Studies`, Drive folder `1F7zjq5xDSYlfLFZJWxjbaanAJ3mZzDQ4`. The two preserved Alternate PNGs are `1_DSb1pUeW7Ei3rF1MNfK_MF9bD_JJadY` and `1y7da2Hk7djW-Yh7Bbx9qSvn3LMi1lX4m`.
 
 **BELLWEATHER ALTERNATE FROZEN AS A SEPARATE NON-PRODUCTION VISUAL INTERPRETATION; CANONICAL BELLWEATHER REMAINS PRIMARY.**
+
+
+## Lineage clarification — Director Before/Between/After model
+
+Later on 2026-09-18, after reviewing the original Bellweather exploration corpus and newer Canonical/Mediate development, the Director clarified what this frozen Stage appearance means in the larger Bellweather lineage.
+
+The compact short-black-dress Stage studies did **not originate the full Bellweather Alternate identity**. They are later Stage-context appearances of the pre-canonical Bellweather representation already established throughout Drive folder `01 Chat Renders — Exploration Sequence` (`1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1`). The Stage freeze remains valid as preservation of that appearance and as Stage-research evidence; it must not be generalized into the complete Alternate wardrobe or identity.
+
+The clarified three-interpretation conceptual progression is:
+
+- **Bellweather Alternate — BEFORE / POSSIBILITY:** the Exploration Sequence representation; possibility remains open, with outward-looking curiosity, relational/ensemble context, world-responsive presentation, and longer/freer hair language.
+- **Bellweather Mediate — BETWEEN / TRANSFORMATION:** the threshold/crossing interpretation.
+- **Canonical Bellweather — AFTER / PERSISTENCE:** the integrated persistent mascot identity and primary Bellweather authority.
+
+“Before / Between / After” is conceptual visual continuity with respect to the Kymaean idea. It is not product-state semantics and does not imply that Alternate is younger, lesser, or incomplete as a person.
+
+The Director-favored non-production Alternate identity-recovery anchor is now preserved in Drive folder `12 Bellweather Alternate — Before Identity Recovery — 2026-09-18` (`1mBurjtNa4VszIqTV1TeLAuzqCPc0vrEv`): `Bellweather Alternate — Before Identity Anchor 01 — 2026-09-18.png` (`1B0tc57qQyPT3_awy_5vT9ESacYFpcr9Y`, SHA-256 `fb39dc795c8a9f0329a0d61e52406d7e6caf619091432077a705d30ed5010066`). This image is an identity-direction anchor, **not** a full-render-set freeze or exact anatomy master.
+
+The matching Drive handoff is `BELLWEATHER_ALTERNATE_BEFORE_IDENTITY_RECOVERY_HANDOFF_2026-09-18.txt` (`1XhfDMzaKP_Uzv4LZMKLIlfdMANFH7Frz`).
+
+Future Alternate refinement should return to the original Exploration Sequence plus this selected anchor, stabilize clearly adult face/age continuity and the longer/freer exploratory identity, and avoid drifting toward Canonical/Mediate face, hair, glamour, or garment language.
