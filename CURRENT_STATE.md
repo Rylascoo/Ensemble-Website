@@ -20,7 +20,7 @@ The prior Q-DESIGN-20 reconciliation against Project `2137e8c9db1a9c7817a3cda872
 NC-03 remains intact. Opportunity UI is currently absent, so NC-01 is not violated; richer Production-internal state remains unearned.
 
 ## Alpha foundation / Stage grammar
-Alpha static authority now includes the foundational constitution, Stage spatial grammar, disclosure architecture, state-witness grammar, Character-anchor anatomy, and `APPUI_ALPHA_STAGE_ENSEMBLE_RESPONSIVE_COMPOSITION_LAW_01.json`. One White/Black app keeps an invariant-dark relational Stage; Characters remain cone presences with floor/name identity+interaction hinges. Responsive geometry yields secondary context before semantics and never defaults to cards/grids/carousels. Project `fc16200b63c5e86684c6e54342bea5b4d9103423` preserves `DESIGN_ARCHITECTURE_READY = NOT READY` while allowing existing Design-authorized work.
+L-264–L-269 are cross-audited by `APPUI_ALPHA_STATIC_CONFORMANCE_MATRIX_01.json`: one White/Black app, invariant-dark relational Stage, cone Character anchors with floor/name identity+interaction hinges, invoked disclosure, exact semantic return, non-color redundancy, and secondary-context-first responsive compression. Conditional Stage capacities must not be populated without Product truth. Project `c8da0c1f42a40d7e3f492e0e76b343d648c69bd6` keeps `DESIGN_ARCHITECTURE_READY = NOT READY`.
 
 ## Preserved boundaries
 Light F2 / Dark D3, STA F2, invariant-dark Stage/S1 placeholder law, Source Sans 3 placeholder law and High Contrast limitation remain unchanged. Home A/B, FIRSTUSE-01 and Bellweather app placement remain separate/unselected. `DESIGN_ARCHITECTURE_READY = NOT READY`.
