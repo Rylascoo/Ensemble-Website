@@ -1,0 +1,17 @@
+{
+  "schema": "kymaean.bellweather-exploration-source-mascot.v1",
+  "date": "2026-09-19",
+  "status": "DIRECTOR_OPENED_SEPARATE_SOURCE_MASCOT_INTERPRETATION",
+  "working_name": "Bellweather Exploration",
+  "source_drive_folder_id": "1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1",
+  "working_drive_folder_id": "1XVJ42_jJ-MIS135UWeH6J-OspVt6fTWw",
+  "continuity_document_id": "162rt08o7f9HyrsBF3zxQe_no_e-jlZYG18IY3U3Sukc",
+  "identity_priority": "concept continuity over deterministic anatomy",
+  "relation": {
+    "canonical": "unchanged",
+    "mediate": "unchanged",
+    "alternate": "unchanged"
+  },
+  "no_text_artwork": true,
+  "next_action": "Create one captionless synthesis family from the original Exploration Sequence."
+}
