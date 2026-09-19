@@ -100,16 +100,6 @@ a {
   letter-spacing: 0.18em;
 }
 
-.brand-mini-mark {
-  display: grid;
-  place-items: center;
-  width: 1.65rem;
-  aspect-ratio: 1;
-  border: 1px solid rgba(236, 233, 224, 0.28);
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.92rem;
-}
-
 .launch-chip {
   padding: 0.5rem 0.68rem;
   border: 1px solid rgba(236, 233, 224, 0.18);
@@ -885,7 +875,6 @@ a {
 
   .topbar,
   .launch-chip,
-  .brand-mini-mark,
   .character-lines span,
   .authority-scene,
   .authority-stage,
