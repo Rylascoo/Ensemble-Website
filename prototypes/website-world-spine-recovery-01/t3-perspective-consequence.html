@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KYMÆAN — T3 Perspective to Consequence Stress Test</title>
+<style>
+:root{color-scheme:dark;--v:#080c0f;--v2:#10171b;--l:#cfcbbc;--li:#1a1e1e;--tx:#ece9e0;--m:#9ea29d;--w:#a96743;--c:#5f8790;--line:rgba(236,233,224,.16)}
+*{box-sizing:border-box}
+html,body{margin:0;background:#06090b;color:var(--tx);font-family:Inter,system-ui,sans-serif}
+main{max-width:1500px;margin:auto;padding:clamp(20px,4vw,56px)}
+header{padding:4vw 0 5vw}
+.k{font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--m)}
+h1{font:400 clamp(40px,6vw,84px)/.96 Georgia,serif;letter-spacing:-.045em;margin:16px 0;max-width:1000px}
+header p{max-width:780px;color:var(--m);line-height:1.6}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.card{border:1px solid rgba(236,233,224,.14);background:var(--v);padding:12px}
+.card h2{font-size:14px;margin:2px 0 10px;font-weight:600}
+.card p{font-size:12px;color:var(--m);line-height:1.5}
+.stage{aspect-ratio:4/5;position:relative;overflow:hidden;background:var(--v2)}
+.art{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;filter:saturate(.65) brightness(.48);transform:scale(1.25)}
+.veil{position:absolute;inset:0;background:linear-gradient(rgba(8,12,15,.08),rgba(8,12,15,.65))}
+.cut{position:absolute;top:0;bottom:0;width:1px;background:rgba(236,233,224,.22)}
+.c1{left:34%}.c2{left:64%}
+.scar{position:absolute;top:-2%;bottom:-2%;left:62%;width:5%;transform:skewX(-4deg);background:linear-gradient(90deg,transparent,rgba(169,103,67,.12),rgba(169,103,67,.44),rgba(169,103,67,.08),transparent)}
+.lime-left,.lime-right{position:absolute;top:0;bottom:0;background:var(--l)}
+.a .lime-left{right:38%;width:64%;transform-origin:right;transform:scaleX(.48);opacity:.93}
+.a .lime-right{left:66%;width:36%;transform-origin:left;transform:scaleX(.65);opacity:.93}
+.a .scar{z-index:4}
+.b .panel{position:absolute;top:0;bottom:0;background:var(--l);opacity:.95}
+.b .p1{left:0;width:34%;opacity:0}.b .p2{left:34%;width:30%}.b .p3{left:64%;right:0;opacity:.22}
+.b .scar{left:62%;z-index:4}
+.c .ground{position:absolute;left:0;right:0;bottom:0;height:58%;background:var(--l);clip-path:polygon(0 52%,64% 0,100% 35%,100% 100%,0 100%)}
+.c .scar{left:62%;height:68%;bottom:auto}
+.label{position:absolute;left:14px;bottom:14px;padding:6px 8px;background:rgba(8,12,15,.74);font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:rgba(236,233,224,.72)}
+.sequence{margin-top:44px;border-top:1px solid rgba(236,233,224,.14);padding-top:30px}
+.frames{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:rgba(236,233,224,.12)}
+.frame{aspect-ratio:16/10;position:relative;overflow:hidden;background:var(--v)}
+.frame .art{transform:scale(1.08)}
+.frame:nth-child(2) .scar{width:2.5%}
+.frame:nth-child(3){background:var(--l)}
+.frame:nth-child(3) .art{opacity:.18}
+.frame:nth-child(3)::before{content:"";position:absolute;inset:0 38% 0 0;background:var(--l);z-index:2}
+.frame:nth-child(3) .scar{z-index:4}
+.frame:nth-child(4){background:var(--l)}
+.frame:nth-child(4) .art,.frame:nth-child(4) .veil,.frame:nth-child(4) .cut{display:none}
+.frame:nth-child(4) .scar{z-index:4;left:62%;width:3.2%}
+.num{position:absolute;left:10px;top:10px;z-index:6;font-size:9px;letter-spacing:.15em;text-transform:uppercase;color:var(--m)}
+.frame:nth-child(3) .num,.frame:nth-child(4) .num{color:rgba(26,30,30,.55)}
+.decision{margin-top:40px;padding:28px;border:1px solid rgba(236,233,224,.14);display:grid;grid-template-columns:.8fr 1.2fr;gap:40px}
+.decision strong{font:400 clamp(28px,4vw,52px)/1 Georgia,serif}
+.decision p{margin:0;color:var(--m);line-height:1.65}
+@media(max-width:900px){.grid{grid-template-columns:1fr}.stage{aspect-ratio:16/10}.frames{grid-template-columns:1fr 1fr}.decision{grid-template-columns:1fr}}
+@media(max-width:520px){main{padding:16px}.frames{grid-template-columns:1fr}.frame{aspect-ratio:4/3}}
+@media(forced-colors:active){.art,.veil,.scar,.ground,.panel,.lime-left,.lime-right{display:none}.card,.stage,.frame,.decision{background:Canvas;color:CanvasText;border-color:CanvasText}.card p,.decision p,.k{color:CanvasText}}
+</style>
+</head>
+<body>
+<main>
+<header>
+<div class="k">Non-production T3 mechanism comparison</div>
+<h1>Which physical change best makes perspective become consequence?</h1>
+<p>All three variants begin with one shared dark field divided into partial views. Only the transformation mechanism changes. No product state, mascot, or publication behavior is asserted.</p>
+</header>
+<div class="grid">
+<article class="card"><h2>A · Scar Bloom — recommended</h2><div class="stage a"><img class="art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""><div class="veil"></div><div class="cut c1"></div><div class="cut c2"></div><div class="lime-left"></div><div class="lime-right"></div><div class="scar"></div><div class="label">local event → material inheritance</div></div><p>The selected division acquires weight; limestone propagates from that exact disturbance.</p></article>
+<article class="card"><h2>B · Aperture Conversion — diagnostic reject</h2><div class="stage b"><img class="art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""><div class="veil"></div><div class="panel p1"></div><div class="panel p2"></div><div class="panel p3"></div><div class="cut c1"></div><div class="cut c2"></div><div class="scar"></div><div class="label">panel-by-panel conversion</div></div><p>Legible, but the three apertures become independent cards and weaken the shared-world reading.</p></article>
+<article class="card"><h2>C · Ground Rise — secondary</h2><div class="stage c"><img class="art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""><div class="veil"></div><div class="cut c1"></div><div class="cut c2"></div><div class="ground"></div><div class="scar"></div><div class="label">ground-contact propagation</div></div><p>Physical and grounded, but risks becoming a generic vertical page wipe.</p></article>
+</div>
+<section class="sequence">
+<div class="k">A · Scar Bloom · four-state read</div>
+<div class="frames">
+<div class="frame"><img class="art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""><div class="veil"></div><div class="cut c1"></div><div class="cut c2"></div><div class="num">01 · shared field</div></div>
+<div class="frame"><img class="art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""><div class="veil"></div><div class="cut c1"></div><div class="cut c2"></div><div class="scar"></div><div class="num">02 · division gains weight</div></div>
+<div class="frame"><img class="art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""><div class="veil"></div><div class="scar"></div><div class="num">03 · material propagates</div></div>
+<div class="frame"><div class="scar"></div><div class="num">04 · changed field persists</div></div>
+</div>
+</section>
+<section class="decision"><strong>Advance Scar Bloom.</strong><p>It is the only variant that preserves one shared field, a local causal origin, and a materially changed following surface without turning the transition into cards, UI, or a generic theme wipe. The next integration should place this mechanism between the existing Perspective and Consequence states of the world-spine prototype while leaving all other transitions abstract.</p></section>
+</main>
+</body>
+</html>
