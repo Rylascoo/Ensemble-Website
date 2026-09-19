@@ -3833,3 +3833,26 @@ Artifacts:
 Concurrent Bellweather authority and site/public/** remain unchanged.
 
 **TECHNICAL GATE PASSED — NEXT GATE IS DIRECTOR + DESIGN SOL FULL-SCENE VISUAL DISPOSITION; NO NEW GENERATION OR PROMOTION BEFORE REVIEW.**
+
+## L-242 - Bellweather Exploration source mascot interpretation opened from original Chat Renders lineage
+
+**State:** DIRECTOR-OPENED SEPARATE SOURCE-MASCOT INTERPRETATION / WORKING NAME BELLWEATHER EXPLORATION / CONCEPT CONTINUITY OVER DETERMINISTIC ANATOMY / NO RENDER YET / PRODUCTION UNCHANGED
+
+The Director explicitly separated the woman preserved in Drive `01 Chat Renders — Exploration Sequence` into her own Bellweather interpretation rather than continuing to force that source imagery to resolve into Canonical, Mediate or Alternate.
+
+Working name: **Bellweather Exploration**. Naming remains provisional.
+
+This interpretation preserves the original sequence's broad mascot concept: a clearly adult persistent human presence moving through learning, ordinary life, relationships, travel, creating/planning, unfamiliar worlds, radically different Productions, before/event/consequence and open possibility. Its recurring conceptual question remains **“what is out there / what happens next?”**
+
+Unlike Canonical, Mediate and the identity-rebuilt Alternate, Bellweather Exploration is intentionally allowed greater visual elasticity. Facial microgeometry, hair arrangement, wardrobe, time period, genre, environment, lighting and social role may vary within a recognizable adult brunette/chestnut Bellweather family. The success criterion is **concept continuity and human specificity**, not one deterministic face across every image.
+
+This is not a rollback of identity discipline elsewhere. Canonical remains the primary persistent mascot authority. Mediate remains the separately frozen transformation/passage interpretation. Alternate remains the adult novice-explorer / infinite-world possibility interpretation under structured identity rebuild. Bellweather Exploration preserves the **source interpretation itself**: the broad imaginative Bellweather from which those later lenses were developed.
+
+Drive working folder: `1XVJ42_jJ-MIS135UWeH6J-OspVt6fTWw`. Drive continuity document: `162rt08o7f9HyrsBF3zxQe_no_e-jlZYG18IY3U3Sukc`. Repository evidence: `docs/evidence/BELLWEATHER_EXPLORATION_SOURCE_MASCOT_01.md`.
+
+The Bellweather no-text artwork rule remains active. Historical text-bearing source boards remain provenance only.
+
+**Exact next action for this new lane:** create one captionless Bellweather Exploration synthesis image/family directly from the original Exploration Sequence, prioritizing the source concept over strict facial lock. No Canonical, Mediate, Alternate, app semantics, site/public or production authority changes follow.
+
+**DIRECTOR-OPENED SOURCE INTERPRETATION — BELLWEATHER EXPLORATION IS NOW A SEPARATE NON-PRODUCTION MASCOT VERSION; FIRST SYNTHESIS RENDER PENDING.**
+
