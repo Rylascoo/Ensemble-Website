@@ -3834,25 +3834,25 @@ Concurrent Bellweather authority and site/public/** remain unchanged.
 
 **TECHNICAL GATE PASSED — NEXT GATE IS DIRECTOR + DESIGN SOL FULL-SCENE VISUAL DISPOSITION; NO NEW GENERATION OR PROMOTION BEFORE REVIEW.**
 
-## L-242 - Bellweather Exploration source mascot interpretation opened from original Chat Renders lineage
+## L-242 - Belle independent source-derived mascot identity foundation selected
 
-**State:** DIRECTOR-OPENED SEPARATE SOURCE-MASCOT INTERPRETATION / WORKING NAME BELLWEATHER EXPLORATION / CONCEPT CONTINUITY OVER DETERMINISTIC ANATOMY / NO RENDER YET / PRODUCTION UNCHANGED
+**State:** DIRECTOR-SELECTED BELLE FOUNDATIONAL VISUAL ANCHOR / INDEPENDENT SOURCE-DERIVED MASCOT / NOT BELLWEATHER / FOUNDATION 01 RETAINED AS REJECTED DIAGNOSTIC / PRODUCTION UNCHANGED
 
-The Director explicitly separated the woman preserved in Drive `01 Chat Renders — Exploration Sequence` into her own Bellweather interpretation rather than continuing to force that source imagery to resolve into Canonical, Mediate or Alternate.
+The Director explicitly separated the mascot derived from Drive `01 Chat Renders — Exploration Sequence` from the Bellweather family and named the new mascot **Belle**. Belle is not Bellweather Alternate renamed, not a fourth Bellweather interpretation, and not part of Canonical / Mediate / Alternate's Before-Between-After conceptual taxonomy.
 
-Working name: **Bellweather Exploration**. Naming remains provisional.
+Primary ancestry remains the original Exploration Sequence folder `1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1`. That material contributes concept lineage: persistent human identity across changing circumstances, curiosity, relationships, learning, travel, planning/creation, radically different worlds, before/event/consequence, and the recurring orientation toward what exists beyond the current frame. It does not require Belle to inherit any later Bellweather anatomy, costume, taxonomy, role or freeze law.
 
-This interpretation preserves the original sequence's broad mascot concept: a clearly adult persistent human presence moving through learning, ordinary life, relationships, travel, creating/planning, unfamiliar worlds, radically different Productions, before/event/consequence and open possibility. Its recurring conceptual question remains **“what is out there / what happens next?”**
+The first Belle control, **Identity Foundation 01**, is preserved only as rejected diagnostic evidence because it drifted toward a polished generic adult spokesperson: shorter/styled hair, sharper editorial facial construction, composed portrait gaze and reduced source-person immediacy. Drive file `1wuqAxy9J1lzrdLu8Wnbulx4TE_SC3NqX`; 1491 x 1055 RGB; SHA-256 `7d48cbec18a76381fb40c2874a5080a87ccadc13e1731722d7a59052a11b0456`.
 
-Unlike Canonical, Mediate and the identity-rebuilt Alternate, Bellweather Exploration is intentionally allowed greater visual elasticity. Facial microgeometry, hair arrangement, wardrobe, time period, genre, environment, lighting and social role may vary within a recognizable adult brunette/chestnut Bellweather family. The success criterion is **concept continuity and human specificity**, not one deterministic face across every image.
+The corrected **Belle — Identity Foundation 02** is Director-selected as the accurate foundational representation of Belle. Drive file `15_l_Y-DMFNkHxCXQ4h6WIUyT7DUE4-Du` in independent Belle folder `1Jrb8qlcMCOQqSuIhj0bl62IplVKisQrO`; 1448 x 1086 RGB; 2,128,402 bytes; SHA-256 `df20980246591911c03c878900c53934b78a148ceacca03b4eb17be542636842`. Authenticated Drive readback is byte-identical to the selected source file.
 
-This is not a rollback of identity discipline elsewhere. Canonical remains the primary persistent mascot authority. Mediate remains the separately frozen transformation/passage interpretation. Alternate remains the adult novice-explorer / infinite-world possibility interpretation under structured identity rebuild. Bellweather Exploration preserves the **source interpretation itself**: the broad imaginative Bellweather from which those later lenses were developed.
+The selected identity recovers the strongest Exploration Sequence person-level carriers: longer loose chestnut-brown hair, softer oval-to-heart facial construction, fuller natural cheek volume, gentler jaw transition, open searching eyes, visible freckles/skin texture, restrained natural expression and a less-settled human gaze/body relationship. The neutral five-view control method is retained because it separates personhood from costume, prop and scenery.
 
-Drive working folder: `1XVJ42_jJ-MIS135UWeH6J-OspVt6fTWw`. Drive continuity document: `162rt08o7f9HyrsBF3zxQe_no_e-jlZYG18IY3U3Sukc`. Repository evidence: `docs/evidence/BELLWEATHER_EXPLORATION_SOURCE_MASCOT_01.md`.
+This selection freezes a **foundational visual anchor**, not a complete final mascot system. The exact cream top, dark trousers, board typography, background tone and control-sheet layout are not mascot anatomy. Bellweather Canonical, Mediate and Alternate authority is unchanged; no product/runtime/app semantic state is created.
 
-The Bellweather no-text artwork rule remains active. Historical text-bearing source boards remain provenance only.
+**Next Belle boundary:** prove this same Belle across full-body silhouette/posture, natural expression and ordinary movement before broad multi-world marketing expansion. Later world, wardrobe and narrative studies may vary radically, but must preserve the person established here rather than replacing identity with scenery or costume.
 
-**Exact next action for this new lane:** create one captionless Bellweather Exploration synthesis image/family directly from the original Exploration Sequence, prioritizing the source concept over strict facial lock. No Canonical, Mediate, Alternate, app semantics, site/public or production authority changes follow.
+The earlier unmerged provisional working-name branch that called the lane “Bellweather Exploration” is superseded before main adoption and creates no separate Bellweather authority.
 
-**DIRECTOR-OPENED SOURCE INTERPRETATION — BELLWEATHER EXPLORATION IS NOW A SEPARATE NON-PRODUCTION MASCOT VERSION; FIRST SYNTHESIS RENDER PENDING.**
+**DIRECTOR SELECTION RECORDED — BELLE IDENTITY FOUNDATION 02 IS THE FOUNDATIONAL VISUAL ANCHOR; BELLE IS INDEPENDENT FROM THE BELLWEATHER FAMILY; PRODUCTION UNCHANGED.**
 
