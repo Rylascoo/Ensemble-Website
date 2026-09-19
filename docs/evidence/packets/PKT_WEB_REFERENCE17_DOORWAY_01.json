@@ -167,15 +167,15 @@
     "whole_app_synthesis_status": "NOT_APPLICABLE_WEBSITE_ARTWORK_ONLY"
   },
   "latest_crop_gate": {
-    "ledger": "L-230",
-    "status": "REJECTED_AS_REPLACEMENT_PARTIAL_HANGING_MECHANISM_GAIN",
-    "result": "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_02_RESULT.json",
-    "drive_result_id": "1v7_yQcHstQIgH6y7sfB-TD2W-qfT1keb",
+    "ledger": "L-239",
+    "experiment": "REF17-CROP-03",
+    "status": "PARTIAL_RETAINED_MECHANISM_EVIDENCE_NOT_ADOPTED",
+    "result": "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_03_RESULT.json",
     "attempts_consumed": 1,
     "reference17_retained": true,
     "actual_composite": false,
     "no_default_reroll": true,
-    "next": "L-232 Director synthesis authorizes one bounded original-crop successor using full-length two-depth curtains; no full-scene reroll or production promotion."
+    "next": "One original-crop Crop 04 authorized: hold Crop-03 gains and change only depth asymmetry, passage irregularity and color restraint."
   },
   "crop_gate_history": [
     {
@@ -183,6 +183,16 @@
       "status": "REJECTED_RAW_CROP_NO_COMPOSITE",
       "result": "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_01_RESULT.json",
       "drive_result_id": "1m_IkrIGibos7t0VZFxuxuGEM9Z9E3NPK",
+      "attempts_consumed": 1,
+      "reference17_retained": true,
+      "actual_composite": false,
+      "no_default_reroll": true
+    },
+    {
+      "ledger": "L-239",
+      "experiment": "REF17-CROP-03",
+      "status": "PARTIAL_RETAINED_MECHANISM_EVIDENCE_NOT_ADOPTED",
+      "result": "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_03_RESULT.json",
       "attempts_consumed": 1,
       "reference17_retained": true,
       "actual_composite": false,

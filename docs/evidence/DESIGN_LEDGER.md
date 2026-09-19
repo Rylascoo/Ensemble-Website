@@ -3770,3 +3770,25 @@ This event records **existence and provenance only**. The raw crop is UNEVALUATE
 Bellweather L-236 remains separately preserved and paused. `site/public/**`, Reference 17, Boundary 01, app/product semantics and Engineering authority remain unchanged.
 
 **RAW RESULT PRESERVED — REVIEW THIS EXACT CANDIDATE BEFORE ANY FURTHER GENERATION OR COMPOSITE.**
+
+
+## L-239 - Reference-17 Crop 03 partial mechanism pass; one narrow Crop 04 authorized
+
+**State:** DIRECTOR + DESIGN SOL DISPOSITION / PARTIAL / RETAINED MECHANISM EVIDENCE / NOT ADOPTED / CROP 04 NARROW REFINEMENT AUTHORIZED / NO COMPOSITE / REFERENCE 17 UNCHANGED / PRODUCTION UNCHANGED
+
+The Director agreed with Design Sol's review of the exact L-238-preserved Crop 03 candidate. Crop 03 is the strongest doorway-mechanism evidence so far but does not pass adoption.
+
+At crop scale, Crop 03 materially improves on Crop 01 and Crop 02. Dark full-length hanging fabric dominates; the opening is primarily vertical; and the doorway more credibly suggests a concealed backstage passage rather than a designed portal or an opening beneath cut-to-shape pleats. These gains are retained.
+
+Three unresolved properties prevent adoption:
+1. **Depth asymmetry:** the nearer/farther curtain relationship is still not unmistakable enough.
+2. **Passage irregularity:** the opening remains somewhat composed around the gap rather than reading as an accidental human-scale route between natural curtain edges.
+3. **Color restraint:** mineral-teal and especially smoky-plum attract too much attention; the desired first read is black fabric and dark depth, with color only barely discovered behind obstruction.
+
+No compliant full-scene context diagnostic was created before this disposition, so no full-scene aesthetic or pixel-lock PASS is claimed. Crop 03 remains a raw 768 x 1152 RGB proposal, not a controlled full-size edit. It is preserved exactly at `prototypes/website-reference17-doorway-crop-03/REF17_CROP03_RAW_ADOBE.png`, SHA-256 `38fab11a110a7026c0b4a63134ec95014cac1a30b794f981d245a8ce16d6c3cb`.
+
+The Director authorizes **one** narrowly constrained Crop 04. It must start again from the original verified Reference-17 doorway crop, not Crop 03, so generated pixels do not cascade. Preserve the Crop-03 gains and change only the three unresolved properties above: stronger two-depth asymmetry, a less visually composed irregular off-center gap, and quieter color with plum especially subordinate. Keep seed 19818 to isolate construction changes unless a pre-generation tool constraint requires a separately recorded carrier-only amendment. One result closes the attempt; no automatic reroll or post-result rescue.
+
+Reference 17, Boundary 01, Bellweather L-236 and `site/public/**` remain unchanged.
+
+**DIRECTOR REFINEMENT AUTHORIZED — ONE ORIGINAL-CROP CROP 04 ONLY; HOLD CROP-03 GAINS AND CHANGE DEPTH ASYMMETRY, GAP IRREGULARITY AND COLOR RESTRAINT ONLY.**
