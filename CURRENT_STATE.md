@@ -20,7 +20,7 @@ Fresh exact-main reconciliation against Project `2137e8c9db1a9c7817a3cda872e43c6
 NC-03 remains intact. Opportunity UI is currently absent, so NC-01 is not violated; richer Production-internal state remains unearned.
 
 ## Alpha foundation / Stage grammar
-`APPUI_ALPHA_FOUNDATIONAL_UI_STAGE_CONSTITUTION_01.json` and `APPUI_ALPHA_STAGE_INTERACTION_SPATIAL_GRAMMAR_01.json` freeze one White/Black app, Home / Productions / Settings, contextual Current Production, invariant-dark Stage, cone presence with floor/name interaction hinge, and non-color state separation. Scenic/portrait dependence and new runtime semantics remain prohibited.
+`APPUI_ALPHA_FOUNDATIONAL_UI_STAGE_CONSTITUTION_01.json`, `APPUI_ALPHA_STAGE_INTERACTION_SPATIAL_GRAMMAR_01.json`, and `APPUI_ALPHA_STAGE_INFORMATION_DISCLOSURE_ARCHITECTURE_01.json` freeze one White/Black app, invariant-dark Stage, cone/floor-name interaction hinge, situation-first disclosure, contextual/deep task surfaces, and exact semantic return. Scenic/portrait dependence, permanent Stage-side dashboards, and new runtime semantics remain prohibited.
 
 ## Preserved boundaries
 Light F2 / Dark D3, STA F2, invariant-dark Stage/S1 placeholder law, Source Sans 3 placeholder law and High Contrast limitation remain unchanged. Home A/B, FIRSTUSE-01 and Bellweather app placement remain separate/unselected. `DESIGN_ARCHITECTURE_READY = NOT READY`.
