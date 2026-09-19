@@ -19,6 +19,9 @@ Fresh exact-main reconciliation against Project `2137e8c9db1a9c7817a3cda872e43c6
 
 NC-03 remains intact. Opportunity UI is currently absent, so NC-01 is not violated; richer Production-internal state remains unearned.
 
+## Alpha foundational UI / Stage constitution
+Director instruction plus clean source reconciliation establishes `docs/evidence/APPUI_ALPHA_FOUNDATIONAL_UI_STAGE_CONSTITUTION_01.json`: Alpha has two user-facing themes, **White** and **Black**, as presentation-only variants of one application. Home / Productions / Settings remain durable shell routes; Current Production remains contextual; the Stage remains invariant dark in both themes. Core comprehension may not depend on scenic imagery, portraits, or color-only meaning. No new Product/runtime semantics are created.
+
 ## Preserved boundaries
 Light F2 / Dark D3, STA F2, invariant-dark Stage/S1 placeholder law, Source Sans 3 placeholder law and High Contrast limitation remain unchanged. Home A/B, FIRSTUSE-01 and Bellweather app placement remain separate/unselected. `DESIGN_ARCHITECTURE_READY = NOT READY`.
 
