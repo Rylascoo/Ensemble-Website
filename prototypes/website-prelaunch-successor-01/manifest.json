@@ -1,0 +1,41 @@
+{
+  "schema": "kymaean.prelaunch-website-successor.v1",
+  "date": "2026-09-19",
+  "status": "PRODUCTION_SHAPED_DESIGN_CANDIDATE_NOT_PUBLISHED",
+  "mascot_integration": false,
+  "website_baseline": "470eb0fc6b60bde20489fc22dd0cc2aca806a9b6",
+  "product_truth_ref": "c20f1a31085af0f311f22083f9031430139b4ef2",
+  "source_blueprint": "ENSEMBLE_BLUEPRINT_0.1_FROZEN_FOR_E0",
+  "files": [
+    "index.html",
+    "styles.css",
+    "README.md",
+    "SOURCE_MAP.md",
+    "manifest.json"
+  ],
+  "uses_visual_carrier": {
+    "path": "prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png",
+    "production_adoption_implied": false
+  },
+  "public_claims": [
+    "LOCAL_FIRST_GENERATIVE_THEATER",
+    "PERSISTENT_CHARACTERS",
+    "CREATOR_ESTABLISHES_CONDITIONS",
+    "ACCEPTED_PERFORMANCE_BECOMES_CAUSAL_HISTORY",
+    "CREATOR_OWNS_PRODUCTION",
+    "LOCAL_SOVEREIGNTY",
+    "WINDOWS_11_ARM64_DEVELOPMENT_TARGET"
+  ],
+  "intentionally_excluded": [
+    "MASCOTS",
+    "FINAL_APP_UI",
+    "FINAL_CREATOR_POSTURES",
+    "FINAL_PERSPECTIVE_SWITCHING_UX",
+    "FINAL_PROVIDER_UX",
+    "FINAL_ARCHIVE_UX",
+    "DOWNLOAD_OR_SIGNUP_CTA"
+  ],
+  "site_public_changed": false,
+  "published": false,
+  "next": "Director visual review as the actual replacement for the current www.kymaean.com placeholder."
+}
