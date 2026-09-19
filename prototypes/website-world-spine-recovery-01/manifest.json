@@ -1,0 +1,25 @@
+{
+  "schema": "kymaean.website-world-spine-recovery.v1",
+  "date": "2026-09-19",
+  "status": "NON_PRODUCTION_DESIGN_RESEARCH",
+  "website_baseline": "470eb0fc6b60bde20489fc22dd0cc2aca806a9b6",
+  "engineering_truth_ref": "c20f1a31085af0f311f22083f9031430139b4ef2",
+  "design_architecture_ready": false,
+  "product_semantic_authority": false,
+  "mascot_integration": false,
+  "site_public_changed": false,
+  "current_state_changed": false,
+  "design_ledger_changed": false,
+  "recovered_grammar": [
+    "PLACE_CONTINUITY",
+    "PERSPECTIVE_ONE_WORLD",
+    "CONSEQUENCE_MATERIAL_SHIFT",
+    "PARTICIPATION_SPATIAL_RELATION",
+    "RETURN_IDENTITY"
+  ],
+  "visual_carrier": {
+    "path": "prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png",
+    "adoption_implied": false
+  },
+  "next": "Director + Design Sol review of world-spine grammar. If retained, study transitions between states without production mutation."
+}
