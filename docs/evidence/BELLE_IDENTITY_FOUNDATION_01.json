@@ -1,0 +1,59 @@
+{
+  "schema": "kymaean.belle.identity_foundation.v1",
+  "date": "2026-09-19",
+  "status": "DIRECTOR_SELECTED_FOUNDATIONAL_VISUAL_ANCHOR",
+  "name": "Belle",
+  "relationship_to_bellweather": "independent_source_derived_mascot_not_a_bellweather_variant_or_rename",
+  "source_ancestry": {
+    "title": "01 Chat Renders — Exploration Sequence",
+    "drive_folder_id": "1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1"
+  },
+  "drive_workspace": {
+    "title": "27 Belle — Independent Mascot Development — 2026-09-19",
+    "folder_id": "1Jrb8qlcMCOQqSuIhj0bl62IplVKisQrO"
+  },
+  "selected_foundation": {
+    "title": "Belle — Identity Foundation 02 — Director Selected — 2026-09-19.png",
+    "drive_file_id": "15_l_Y-DMFNkHxCXQ4h6WIUyT7DUE4-Du",
+    "width_px": 1448,
+    "height_px": 1086,
+    "mode": "RGB",
+    "size_bytes": 2128402,
+    "sha256": "df20980246591911c03c878900c53934b78a148ceacca03b4eb17be542636842",
+    "director_disposition": "accurate representation of the mascot design"
+  },
+  "rejected_diagnostic": {
+    "title": "Belle — Identity Foundation 01 — Rejected Diagnostic — 2026-09-19.png",
+    "drive_file_id": "1wuqAxy9J1lzrdLu8Wnbulx4TE_SC3NqX",
+    "width_px": 1491,
+    "height_px": 1055,
+    "mode": "RGB",
+    "sha256": "7d48cbec18a76381fb40c2874a5080a87ccadc13e1731722d7a59052a11b0456",
+    "reason": "drifted toward a polished generic adult spokesperson and away from the strongest Exploration Sequence person-level identity"
+  },
+  "foundational_identity_carriers": [
+    "longer loose chestnut-brown hair",
+    "softer oval-to-heart facial construction",
+    "fuller natural cheek volume",
+    "gentler jaw transition",
+    "open searching eye relationship",
+    "natural freckles and skin texture",
+    "restrained natural expression",
+    "less-settled responsive human presence"
+  ],
+  "non_identity_variables": [
+    "cream top",
+    "dark trousers",
+    "board typography",
+    "neutral background tone",
+    "control-sheet layout"
+  ],
+  "next_boundary": "prove the same Belle across full-body silhouette/posture, natural expression and ordinary movement before broad multi-world marketing expansion",
+  "authority_exclusions": [
+    "no change to Canonical Bellweather",
+    "no change to Bellweather Mediate",
+    "no change to Bellweather Alternate",
+    "no app/runtime/product semantic authority",
+    "no production website artwork promotion"
+  ]
+}
