@@ -37,5 +37,22 @@
   ],
   "site_public_changed": false,
   "published": false,
-  "next": "Director visual review as the actual replacement for the current www.kymaean.com placeholder."
+  "next": "Director visual review of Prelaunch Website Successor 01 as the actual mascot-free replacement for the current www.kymaean.com placeholder.",
+  "audit": {
+    "semantic_structure": "PASS",
+    "forced_colors": "PASS_STATIC",
+    "reduced_motion": "PASS_STATIC",
+    "static_contrast": {
+      "primary_on_void": 16.17,
+      "supporting_on_void": 7.58,
+      "stone_ink_on_stone": 10.35,
+      "stone_supporting_on_stone": 4.79
+    },
+    "visible_copy_words_approx": 233,
+    "forms": 0,
+    "buttons": 0,
+    "mascot_names_present": false,
+    "browser_capture": "NOT_ESTABLISHED_IN_CURRENT_CONTAINER",
+    "note": "Do not promote static audit into browser/device evidence."
+  }
 }
