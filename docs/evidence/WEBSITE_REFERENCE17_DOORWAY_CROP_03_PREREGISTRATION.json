@@ -1,0 +1,81 @@
+{
+  "schema": "kymaean.reference17.crop03-preregistration.v1",
+  "date": "2026-09-19",
+  "experiment": "REF17-CROP-03",
+  "status": "FROZEN_BEFORE_GENERATION",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline": "73a7c769d9347c1ee77efaa22e21e403b3118410",
+    "ledger": "L-237",
+    "predecessor": "L-232 Director synthesis; Crop 01 rejected; Crop 02 directional-only and unadopted",
+    "authorization": "Director resumed the independent Reference-17 placeholder-successor lane after L-237 forensic correction."
+  },
+  "bounded_question": "Can two ordinary full-length working-black curtain panels at clearly different depths form one irregular off-center vertical passage, while teal reads as a narrow deeper glimpse and plum as a softer more obstructed trace?",
+  "source": {
+    "drive_id": "1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit",
+    "full_scene_sha256": "8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44",
+    "full_scene_dimensions": [
+      1672,
+      941
+    ],
+    "crop_xyxy_exclusive": [
+      701,
+      150,
+      959,
+      533
+    ],
+    "input_dimensions": [
+      258,
+      383
+    ],
+    "input_sha256": "eeeb79757c1630ecf0b58bed2df3aa6270d8a1843d363d71aece2e1249021d29",
+    "input_repository_path": "prototypes/website-reference17-doorway-crop-01/source-adobe-crop.png",
+    "input_raw_url": "https://raw.githubusercontent.com/Rylascoo/Ensemble-Website/main/prototypes/website-reference17-doorway-crop-01/source-adobe-crop.png",
+    "input_pixels_vs_reference17_crop_different": 0
+  },
+  "boundary": {
+    "name": "Boundary 01 unchanged",
+    "crop_local_mask_repository_path": "prototypes/website-reference17-doorway-crop-01/interior-mask-01.png",
+    "decoded_l_sha256": "df4800ffab910dbb526f9c90de8d48d06278cdb479119cf9035ca17f66663124",
+    "nonzero_pixels": 39975,
+    "widening_allowed": false
+  },
+  "execution": {
+    "tool": "Adobe.image_instruct_edit",
+    "prompt": "Keep this original Reference-17 doorway crop, arch, warm edge catches, perspective and floor unchanged. Rework only the curtains and concealed light within the opening. Use two plain heavy working-black stage-curtain panels hanging naturally from above all the way to the floor in ordinary vertical pleats. Make them clearly occupy two different depths: one nearer panel overlaps farther into the opening while the second sits visibly farther back. Their uneven vertical edges must leave one narrow irregular off-center passage between them that reaches the floor; the route must read between full-length curtain edges, never beneath shortened, stepped, scalloped or cut-to-shape hems. Reveal only a thin deeper mineral-teal glimpse through the passage, with a much softer, more obstructed smoky-plum trace farther behind. Black fabric and dark depth dominate. No horizontal bands, swags, ribbons, tied-back presentation, colored jambs, paired lower color pools, beams, cones, bright sill, steps, fixtures, ornate/gothic architecture, people, mascot, text, logo or portal.",
+    "seed": 19818,
+    "n": 1,
+    "resolutionLevel": "1MP",
+    "promptReasoner": "quality",
+    "outputFileType": "png",
+    "attempt_budget": 1,
+    "retries": 0,
+    "input_is_original_crop_only": true,
+    "crop01_supplied": false,
+    "crop02_supplied": false,
+    "reason_for_seed": "Reuse Crop 02 seed to isolate the authorized construction change from stochastic seed variation."
+  },
+  "acceptance": [
+    "Both black curtain panels read as ordinary full-length hanging fabric reaching the floor; no shortened, stepped or scalloped hems.",
+    "Near/far depth difference between the two curtain panels is clearly legible.",
+    "One irregular off-center vertical passage reads between panel edges and reaches the floor.",
+    "Mineral-teal is a narrow deeper glimpse; smoky-plum is substantially softer and more obstructed, not a paired lower pool.",
+    "No horizontal bands, ornate/gothic arch drift, colored jambs, bright sill, steps, exposed fixtures, portal language, people, mascot, text or logo."
+  ],
+  "output_policy": {
+    "raw_output": "Untrusted crop-only proposal; never a pixel-locked edit by itself.",
+    "no_automatic_reroll": true,
+    "no_post_result_rescue": true,
+    "no_mask_widening": true,
+    "no_full_scene_generation": true,
+    "later_composite": "Only after a visually valid crop mechanism, fixed registration, and exact decoded-RGBA equality outside Boundary 01."
+  },
+  "preservation": {
+    "reference17_unchanged": true,
+    "boundary01_unchanged": true,
+    "site_public_changed": false,
+    "bellweather_changed": false,
+    "app_engineering_changed": false,
+    "production_authority": false
+  }
+}
