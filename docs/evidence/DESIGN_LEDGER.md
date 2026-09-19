@@ -4167,3 +4167,25 @@ Exact colors/textures, final state copy, redundant identity symbol, relationship
 **Next boundary:** L-264 through L-267 form the current static Alpha app/Stage baseline. Design may continue into a static Character-anchor/component anatomy specification or later native acceptance work, but must not open runtime/timing/state algorithms while Engineer #2 is still earning Product semantics.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-268 - Alpha Character anchor and component anatomy freezes the Stage carrier stack without pixelizing it
+
+**State:** STATIC CHARACTER-ANCHOR ANATOMY ACTIVE / CONE PRESENCE + FLOOR-NAME HINGE / CREATOR CHROME OUTSIDE FICTION / PIXEL GEOMETRY OPEN
+
+With Engineer #2 still working independently, Design continued only inside the static-safe Alpha lane. Fresh reconciliation against selected cone-carrier law, cone interaction law, Phase-2 present-Character density stress, Phase-3 static visual-system evidence, component-system interaction grammar and L-264 through L-267 found enough authority to freeze the conceptual anatomy of one present Character without choosing final dimensions or runtime behavior.
+
+`docs/evidence/APPUI_ALPHA_CHARACTER_ANCHOR_COMPONENT_ANATOMY_01.json` defines the Stage Character as a place in the shared room rather than a card. Its conceptual anatomy is: an invisible generous semantic target; cone presence; floor contact/pool; human-readable Character name; compact supported state witness; independent keyboard-focus witness; persistent creator-selection witness; contextual creator actions attached outside the fictional cone; and optional relationship/shared-field treatment owned by the ensemble rather than permanent Character metadata.
+
+The cone remains atmospheric presence, never a hard container. The floor/name region is the stable identity and interaction hinge. Character name remains the primary explicit identity channel and outranks color, portrait, motion, exact position, Performer/provider assignment or decorative symbolism. Focus and selection reuse the existing independent STA F2 responsibilities but remain localized to the floor/name target instead of enclosing the cone. Creator actions remain application chrome adjacent to the anchor or in contextual/deep disclosure, preventing creator authority from impersonating Character agency.
+
+Sparse ensembles preserve negative space and may not inflate anchors into portrait monuments, cards or metadata-heavy panels. Dense ensembles compress decoration before semantics: name, applicable state, floor/name hinge and local selection survive while the carrier does not degrade into boxed columns or equal dashboard tiles. The 2–5 Phase-2 density range remains design-stress evidence only and creates no Product minimum/maximum.
+
+Rejected drift includes portrait cards replacing the cone, full-cone selection containers, permanent badge/pip stacks, action buttons inside the light, color-only identity, floor pools used as scores/meters, generic highlights merging orthogonal states, relationship metadata permanently attached to every anchor, infrastructure/error styling on Character carriers and dense-layout fallback to dashboard tiles.
+
+The matching Drive master is `Kymaean Alpha Character Anchor & Component Anatomy 01` in `26 Alpha Foundational UI & Stage Constitution — 2026-09-18`.
+
+Exact cone/floor dimensions and material, final typography/wrapping, Character colors/textures, semantic target metrics, native focus/selection metrics, performance/opportunity modulation, relationship geometry, contextual-action placement/labels, motion/timing and native accessibility validation remain open. No Engineering mutation or Engineer #2 interruption occurred.
+
+**Next boundary:** L-264 through L-268 now form the static Alpha app/Stage foundation. Design may continue into static ensemble-layout/responsive composition law or later native acceptance evidence, but must not decide runtime/timing/state algorithms while Engineer #2 is still earning Product semantics.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
