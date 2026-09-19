@@ -1,7 +1,7 @@
 {
   "schema": "kymaean.design-packet-registry.v1",
   "status": "ACTIVE",
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
   "template": "docs/evidence/DESIGN_PACKET_TEMPLATE_01.json",
   "purpose": "Provide one retrievable map of bounded current/provisional/closed visual-gate packets for later composition and whole-app synthesis without turning the registry itself into design authority.",
@@ -97,7 +97,7 @@
     {
       "packet_id": "PKT-CMP-02-01",
       "path": "docs/evidence/packets/PKT_CMP_02_IDENTITY_STACK_COMPOSITION_01.json",
-      "axis": "identity stack / wordmark–typography hierarchy composition",
+      "axis": "identity stack / wordmark\u2013typography hierarchy composition",
       "status": "FROZEN_LOCAL_RESULT",
       "current_contribution": "PASS_COMPATIBLE_IDENTITY_STACK for exact C0 + O3 + TYP-02 F1 + MAT F1 + STA F2 across three bounded synthetic roles; compatibility evidence only",
       "production_authority": false
@@ -156,6 +156,14 @@
       "axis": "non-production Alternate defining narrative imagery",
       "status": "FROZEN_LOCAL_RESULT",
       "current_contribution": "Director-selected NR-04: attention within an already-active ensemble; portrait/family controls remain separate.",
+      "production_authority": false
+    },
+    {
+      "packet_id": "PKT-WEB-REF17-DOOR-01",
+      "path": "docs/evidence/packets/PKT_WEB_REFERENCE17_DOORWAY_01.json",
+      "axis": "non-production mascot-free website placeholder",
+      "status": "PROVISIONAL_INCUMBENT",
+      "current_contribution": "Retain Reference 17; four prior whole-scene failures closed; doorway-only concealment study next. Earlier exact-V2.2/Bellweather packet remains separate.",
       "production_authority": false
     }
   ],
