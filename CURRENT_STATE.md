@@ -20,7 +20,7 @@ Fresh exact-main reconciliation against Project `2137e8c9db1a9c7817a3cda872e43c6
 NC-03 remains intact. Opportunity UI is currently absent, so NC-01 is not violated; richer Production-internal state remains unearned.
 
 ## Alpha foundation / Stage grammar
-`APPUI_ALPHA_FOUNDATIONAL_UI_STAGE_CONSTITUTION_01.json`, `APPUI_ALPHA_STAGE_INTERACTION_SPATIAL_GRAMMAR_01.json`, `APPUI_ALPHA_STAGE_INFORMATION_DISCLOSURE_ARCHITECTURE_01.json`, and `APPUI_ALPHA_STAGE_STATE_WITNESS_REDUNDANCY_GRAMMAR_01.json` freeze one White/Black app, invariant-dark Stage, cone/floor-name interaction hinge, situation-first disclosure, exact semantic return, and non-color/non-motion state redundancy. Scenic/portrait dependence, permanent Stage-side dashboards, merged state glows, and new runtime semantics remain prohibited.
+Alpha static authority now includes the foundational constitution, Stage spatial grammar, disclosure architecture, state-witness grammar, and `APPUI_ALPHA_CHARACTER_ANCHOR_COMPONENT_ANATOMY_01.json`. One White/Black app keeps an invariant-dark Stage; Characters remain cone presences with floor/name identity+interaction hinges, exact semantic return, and non-color/non-motion redundancy. Creator chrome stays outside fiction; cards/portraits/merged state glows/new runtime semantics remain prohibited.
 
 ## Preserved boundaries
 Light F2 / Dark D3, STA F2, invariant-dark Stage/S1 placeholder law, Source Sans 3 placeholder law and High Contrast limitation remain unchanged. Home A/B, FIRSTUSE-01 and Bellweather app placement remain separate/unselected. `DESIGN_ARCHITECTURE_READY = NOT READY`.
