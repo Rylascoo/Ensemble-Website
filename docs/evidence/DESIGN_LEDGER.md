@@ -3695,3 +3695,21 @@ L-231 remains the exact website-facing physical identity master. L-225 and L-226
 
 **DIRECTOR-CONFIRMED ROLE REVIEW — STUDY 01 RETAINED AS DIAGNOSTIC EVIDENCE ONLY; BRANCHING HUMAN RESPONSE, NOT WORLD SPECTACLE, IS THE NEXT ALTERNATE ROLE BOUNDARY.**
 
+## L-235 - Bellweather Alternate scenario architecture selects Interrupted Intention
+
+**State:** DIRECTOR-AUTHORIZED DESIGN SOL SCENARIO CONSTRUCTION / INTERRUPTED INTENTION SELECTED / NO RENDER / L-231 MASTER UNCHANGED / PRODUCTION UNCHANGED
+
+Following the Director-confirmed L-234 role review, Design Sol constructed and recursively audited the next one-world circumstance mechanisms for Bellweather Alternate. The bounded question was how to make BEFORE / POSSIBILITY legible through Alternate's own unresolved human agency rather than destination spectacle, threshold symbolism, relationship repetition, creator metaphor or a narratively overloaded prop.
+
+**Selected mechanism: INTERRUPTED INTENTION.** Alternate is already engaged in an ordinary human activity when a low-stakes, socially legible circumstance changes what matters. The still should catch the instant after she notices and before she commits. Continuing, engaging, briefly assessing/steadying something, or redirecting must all remain credible; no response may be staged as the one morally or visually correct answer.
+
+The preferred first carrier is deliberately ordinary rather than spectacular: Alternate is off-center and mid-stride in a neighborhood public-space setting when a low stack of empty market baskets tips and one slides into her path while the nearby vendor is occupied gathering the others; another passerby simply routes around. Alternate has noticed but has not reached or committed. Exact market, basket material, background adults, wardrobe, weather, lighting and time of day remain presentation variables; this is a first role-test carrier, not identity or world authority.
+
+Three alternatives were not selected for the next test. Social Ambiguity can work but repeats L-226's interaction territory too closely. Found Object / Evidence shifts too much meaning into a prop and risks mystery shorthand. Environmental Fork / Destination is rejected for this role test because path/threshold/destination carries possibility externally and re-enters the Mediate / Possible-Worlds failure boundary.
+
+Carry forward: one world per image; exact L-231 recognizable person; one concrete circumstance already in progress; multiple believable human responses; background people with independent trajectories; no one waiting for Alternate to perform a role; no readable text; no emergency/danger; no portal/path-fork/train-departure spectacle; no hero framing. The scene must feel encountered rather than presented.
+
+Packet: `docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_SCENARIO_ARCHITECTURE_01.json` (`PKT-BELLWEATHER-ALTERNATE-SCENARIO-01`). No image generation was consumed. L-231, L-225, L-226, Canonical and Mediate remain unchanged. No `site/public/**`, app UI/runtime/product semantics, production artwork or Reference-17/Stage work changed.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT. INTERRUPTED INTENTION IS THE FROZEN NEXT ALTERNATE ROLE-STUDY MECHANISM; RENDERING REMAINS A SEPARATE LATER ACTION.**
+

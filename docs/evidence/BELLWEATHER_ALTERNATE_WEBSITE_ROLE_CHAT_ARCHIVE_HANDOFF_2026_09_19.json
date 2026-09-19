@@ -109,7 +109,7 @@
     "No automatic resumption of the separate Reference-17/Stage program.",
     "No-text artwork law remains active."
   ],
-  "proposed_next_discussion": "L-234 closes the required Study 01 review. Any later Alternate role exploration should test branching human response inside one concrete circumstance rather than broader-world spectacle; no image generation is implied by this archive update.",
+  "proposed_next_discussion": "L-235 closes scenario construction. Rendering is a separate later action. If Alternate role work continues, use PKT-BELLWEATHER-ALTERNATE-SCENARIO-01 and test Interrupted Intention without changing L-231 or reviving destination spectacle.",
   "post_handoff_review": {
     "ledger": "L-234",
     "director_signal": "AGREED_WITH_DESIGN_SOL_ROLE_REVIEW",
@@ -121,5 +121,31 @@
     "next_role_test": "One specific persistent person, one specific circumstance, and at least two materially different believable next human responses.",
     "no_new_render": true,
     "l231_identity_master_unchanged": true
+  },
+  "post_handoff_scenario_construction": {
+    "ledger": "L-235",
+    "packet": "PKT-BELLWEATHER-ALTERNATE-SCENARIO-01",
+    "packet_path": "docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_SCENARIO_ARCHITECTURE_01.json",
+    "mechanism": "INTERRUPTED_INTENTION",
+    "status": "FROZEN_LOCAL_RESULT_NO_RENDER",
+    "summary": "Alternate is already engaged in an ordinary human activity when a low-stakes circumstance interrupts her intention. The still should catch recognition before commitment while more than one materially different next human response remains believable.",
+    "preferred_first_carrier": "Ordinary neighborhood public-space setting: a low stack of empty market baskets tips and one slides into Alternate's path while the nearby vendor gathers the others and another passerby routes around; Alternate notices but has not acted.",
+    "constraints": [
+      "one world per image",
+      "exact L-231 recognizable person",
+      "specific circumstance already in progress",
+      "multiple believable next responses",
+      "background people with independent trajectories",
+      "no prescribed helper/hostess role",
+      "no emergency or danger",
+      "no destination spectacle or threshold symbolism",
+      "no readable text",
+      "no hero framing"
+    ],
+    "non_authority": [
+      "No image generation consumed.",
+      "The market/basket carrier is not a frozen world, prop, costume or brand motif.",
+      "No site/public, app semantics or production authority."
+    ]
   }
 }
