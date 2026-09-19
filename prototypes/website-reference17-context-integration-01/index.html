@@ -83,6 +83,28 @@ section>p{margin:0 0 18px;color:#969189;max-width:1050px;line-height:1.5}
 .rules li{padding:10px 0;border-top:1px solid var(--line);font-size:13px;line-height:1.45;color:#aaa59c}
 .rules strong{color:var(--ink);font-weight:600}
 footer{border-top:1px solid var(--line);padding-top:18px;color:var(--muted);font-size:12px;line-height:1.5}
+.tablet{aspect-ratio:3/4;max-width:576px;margin-inline:auto}
+.tablet.current .scene-art{
+  inset:auto auto 0 50%;
+  width:168.75%;height:auto;max-width:none;
+  transform:translateX(-50%);
+  object-fit:contain;object-position:center;
+  -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 18%,#000 100%);
+  mask-image:linear-gradient(to bottom,transparent 0%,#000 18%,#000 100%)
+}
+.tablet.evidence .scene-art{
+  inset:auto auto 0 50%;
+  width:148%;height:auto;max-width:none;
+  transform:translateX(-50%);
+  object-fit:contain;object-position:center;
+  -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 12%,#000 100%);
+  mask-image:linear-gradient(to bottom,transparent 0%,#000 12%,#000 100%)
+}
+.tablet .scene::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,rgba(9,11,12,.10),transparent 42%)}
+.tablet.current .brand-lockup{top:29.5%;width:90%}
+.tablet.evidence .brand-lockup{top:25.5%;width:90%}
+.tablet .wordmark{width:58%}
+.tablet .status{font-size:9px;letter-spacing:.38em}
 @media(max-width:900px){
   body{padding:16px}
   .grid,.grid.three{grid-template-columns:1fr}
@@ -164,6 +186,29 @@ footer{border-top:1px solid var(--line);padding-top:18px;color:var(--muted);font
         <div class="brand-lockup" data-lockup></div>
       </div>
       <div class="meta">148vw · fade reaches opacity by 12% · lockup 25.5% from top. Research option only; not a production recommendation yet.</div>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>04 · Portrait tablet — current zoom drift versus stable composition</h2>
+  <p>The live min-width 600px portrait rule uses <code>calc(200vw - 240px)</code>. At 768px viewport width that becomes 168.75vw, cropping more of the Stage than the phone rule. The evidence-led option keeps 148vw across portrait sizes so the same compositional relationship survives instead of progressively zooming toward the threshold.</p>
+  <div class="grid">
+    <article class="card">
+      <h3>768 × 1024 · current tablet treatment</h3>
+      <div class="viewport tablet current">
+        <div class="scene"><img class="scene-art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""></div>
+        <div class="brand-lockup" data-lockup></div>
+      </div>
+      <div class="meta">168.75vw equivalent · about 991 source pixels visible horizontally · current 18% fade and 29.5% lockup.</div>
+    </article>
+    <article class="card">
+      <h3>768 × 1024 · stable Stage/threshold treatment</h3>
+      <div class="viewport tablet evidence">
+        <div class="scene"><img class="scene-art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""></div>
+        <div class="brand-lockup" data-lockup></div>
+      </div>
+      <div class="meta">148vw · about 1,130 source pixels visible horizontally · preserves the same source fraction as the phone research option.</div>
     </article>
   </div>
 </section>
