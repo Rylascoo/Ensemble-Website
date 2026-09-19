@@ -15,11 +15,11 @@ L-208/L-209 static-motion evidence remains earned. L-213 freezes Mediate; L-215 
 
 L-212/L-214 preserve the mascot-free foundation; Phase 2 stays deferred. L-228 integrated issue #125 and retained Reference 17 over four whole-scene failures. L-229 records the verified crop, Boundary 01 preflight and one rejected crop-only edit: horizontal bands obstruct passage. Reference 17 stays preferred; no composite or production promotion.
 
-Reference 17: Drive `1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit`; 1672 x 941; SHA-256 `8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44`. Preserve camera, raised Stage, outer lighting, floor, wings, front lights and threshold.
+Reference 17: Drive `1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit`; 1672 x 941; SHA-256 `8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44`. Keep the full scene and threshold fixed.
 
-Result: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_01_RESULT.json`; review: `prototypes/website-reference17-doorway-crop-01/index.html`; packet `PKT-WEB-REF17-DOOR-01`. Crop [701,150,959,533) is 258 x 383; inset mask is 39,975 pixels. No actual edited-result pixel-equality test is claimed.
+Result: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_01_RESULT.json`; review: `prototypes/website-reference17-doorway-crop-01/index.html`; packet `PKT-WEB-REF17-DOOR-01`. Crop/mask preflight only; no actual composite exists.
 
-Drive archive `1QMKQFqJy5yQbyP5I_Mt8OQn-sacqtTga` holds verified crop/mask diagnostics and report `1m_IkrIGibos7t0VZFxuxuGEM9Z9E3NPK`. Original-encoding Adobe input/output PNGs are preserved in the review packet; exact Drive binary copies remain pending. Older native handoff/synthesis are earlier context.
+Drive archive `1QMKQFqJy5yQbyP5I_Mt8OQn-sacqtTga` holds verified crop/mask diagnostics and report `1m_IkrIGibos7t0VZFxuxuGEM9Z9E3NPK`. Exact Adobe input/output PNGs are in the review packet; original-encoding Drive copies remain pending. Older native handoff/synthesis are earlier context.
 
 ## Cross-surface boundary
 Website metaphor creates no app semantics. Consult current Project authority for runtime truth. This continuation does not resume paused app, mascot or Engineering work.
