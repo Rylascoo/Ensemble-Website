@@ -21,7 +21,7 @@
     "path": "prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png",
     "adoption_implied": false
   },
-  "next": "Integrate Scar Bloom only into the world-spine prototype, then stop for Director review before expanding other transition mechanics.",
+  "next": "Director + Design Sol review of the recovered world-spine grammar with integrated Scar Bloom. No further transition expansion before review.",
   "transition_grammar": {
     "status": "MATERIALIZED_RESEARCH",
     "path": "prototypes/website-world-spine-recovery-01/TRANSITION_GRAMMAR_01.md",
@@ -48,6 +48,12 @@
     "selected_research_incumbent": "SCAR_BLOOM",
     "rejected_primary": "APERTURE_CONVERSION",
     "secondary_only": "GROUND_RISE",
-    "production_authority": false
+    "production_authority": false,
+    "integration": "INTEGRATED_IN_WORLD_SPINE_RESEARCH_PROTOTYPE",
+    "accessibility_hardening": [
+      "DYNAMIC_DARK_TO_LIMESTONE_TEXT_CONTRAST",
+      "REDUCED_MOTION_FINAL_MATERIAL_STATE",
+      "FORCED_COLORS_CANVAS_FALLBACK"
+    ]
   }
 }
