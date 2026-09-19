@@ -445,3 +445,16 @@ Director intent clarifies the three named Bellweather interpretations as a conce
 “Before / Between / After” is conceptual visual continuity only. It is not product-state semantics, not a hierarchy of human worth, and not a universal Character lifecycle.
 
 The later short-black-dress Alternate Stage studies remain valid Stage-context evidence but do not define Alternate's full identity lineage. Alternate's canonical historical ancestry is the original `01 Chat Renders — Exploration Sequence` (`1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1`). The current Director-favored, non-frozen identity-recovery anchor is Drive `1B0tc57qQyPT3_awy_5vT9ESacYFpcr9Y` in folder `1mBurjtNa4VszIqTV1TeLAuzqCPc0vrEv`, with handoff `1XhfDMzaKP_Uzv4LZMKLIlfdMANFH7Frz`.
+
+
+## 23. Bellweather Alternate Full Render Mascot Set 01
+
+By Director + Design Sol synthesis, Bellweather Alternate now has a frozen full-render family at board level. Canonical Drive archive: `1_y3v5_4010xNorKc8jwaN_Spbp3f8VIB`; exact frozen board: `19NthkPz-5HlO0zhGFp7zYbC8RgwXTV3s`; Director-freeze synthesis: `1_uxj50LtzdEJH56oOwfgAJzQltnKXhddp9nH5zlLaZk`.
+
+Preserve Alternate as the distinct **BEFORE / POSSIBILITY** Bellweather interpretation whose identity is expressed principally through **response to unresolved circumstance** rather than one costume, one pose or symbolic transformation. Stable grammar: clearly adult recoverable person; longer/freer chestnut-brunette hair; natural freckles/skin; outwardly responsive attention; relational/social embeddedness; practical wardrobe adaptability; and behavioral continuity through listening, questioning, noticing, discovering, deciding and moving forward.
+
+The six frozen family functions are **Identity / Everyday / Relational / Skeptical / Discovery / Ready**. Transferable conceptual mechanism: `circumstance -> attention -> response -> choice`.
+
+Generated typography, exact board layout, garments, bags, notebooks, jewelry, environments, background people and incidental lighting remain presentation variables. Do not turn hand-on-cheek posing, a half-smile, golden-hour light, one satchel, one cardigan, school-uniform ancestry or the later short-black-dress Stage appearance into mandatory Alternate signatures.
+
+This freeze does not alter Canonical Bellweather's primacy, does not merge Alternate with Mediate, and creates no app UI, website production, runtime/product-semantic or universal Character-style authority.

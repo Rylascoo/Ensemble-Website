@@ -3433,3 +3433,116 @@ The favored anchor is **not a full-render-set freeze and not exact anatomy autho
 **Mascot next boundary:** if Alternate work resumes, recover live authority, the original Exploration Sequence and the selected anchor first. Refine one identity variable at a time, prioritize clearly adult face/age continuity plus longer/freer hair and outward-looking curiosity, and avoid another broad multi-world marketing-board expansion until the Alternate face/identity grammar is stable. Stop for Director review before any Alternate full-render-set freeze.
 
 **DIRECTOR LINEAGE CLARIFICATION RECORDED — ALTERNATE = BEFORE/POSSIBILITY; MEDIATE = BETWEEN/TRANSFORMATION; CANONICAL = AFTER/PERSISTENCE; FAVORED ALTERNATE IDENTITY ANCHOR PRESERVED; PRODUCTION UNCHANGED.**
+
+
+## L-216 - Bellweather Alternate identity stress test 01 preserved as diagnostic evidence
+
+**State:** NON-PRODUCTION ALTERNATE IDENTITY MICRO-TEST / CONTROL CONSTRUCTION FAILED / NO FREEZE / DIRECTOR SYNTHESIS PENDING / PRODUCTION UNCHANGED
+
+Following L-215, Design Sol recovered the favored BEFORE / POSSIBILITY anchor plus the complete original Exploration Sequence and executed one small identity stress test intended to isolate facial continuity and the longer/freer chestnut-brunette hair treatment.
+
+Exact generated evidence is preserved in Drive as `Bellweather Alternate — Identity Stress Test 01 — 2026-09-18.png` (`1QA2JBXmCAtIf8_uvEwFpzf-nnKOn0qsE`) under recovery folder `1mBurjtNa4VszIqTV1TeLAuzqCPc0vrEv`; the later full program and freeze are consolidated in `docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md`.
+
+The render preserved strong face recoverability, long/freer chestnut hair and soft outward curiosity, but failed the intended controlled-test construction by re-expanding into a marketing-board format with changing wardrobe/props/framing and source-context contamination. Adult-presentation continuity therefore remains unresolved rather than silently declared established.
+
+**Exact next mascot boundary:** stop for Director synthesis. If Alternate work continues, run one corrected micro-test with one clearly adult everyday wardrobe, one neutral repeated environment, one lighting/camera family and one stable longer/freer hair treatment across 3–4 angles; vary only head angle/gaze enough to test identity recovery. No full-render-set freeze, website production, `site/public/**`, app UI or product-semantic change is authorized.
+
+**ROUND PRESERVED AS DIAGNOSTIC EVIDENCE — CONTROL CONSTRUCTION FAILED; NO FREEZE; PRODUCTION UNCHANGED.**
+
+
+## L-217 - Bellweather Alternate identity control and first-render blend recovered the Before face/hair grammar
+
+**State:** NON-PRODUCTION CONTROLLED REFINEMENT / FACE-HAIR GRAMMAR RECOVERED / NO FREEZE / PRODUCTION UNCHANGED
+
+After L-216's contaminated board construction, the Director and Design Sol moved to tighter identity controls. Drive archive folder `1_y3v5_4010xNorKc8jwaN_Spbp3f8VIB` preserves `01 — Identity Control Sheet 02.png` (`1_-csFpuvwpN6pd1uUTwIZvI1UPF-V55I`), `02 — Visual Stress Test 01.png` (`1-LsY4J_v-i_k7nz2toH_OAb3J4mIKFCf`) and `03 — First-Render Blend Identity Board.png` (`1nPTR5no3jm51fWEtX6m7dICovC4z0NDu`).
+
+The controlled sheets established strong recoverability of the same face across front/three-quarter/profile-adjacent views and stabilized the longer/freer chestnut-brunette hair language. They also exposed two boundaries carried forward: Alternate needed unmistakably adult presentation, and repeated soft half-smile / hand-on-cheek portrait grammar could not become a mascot signature.
+
+**RESULT:** face/hair identity grammar materially recovered; no full-render freeze yet.
+
+## L-218 - Bellweather Alternate app-concept interpretation study established response-to-circumstance as the distinct mechanism
+
+**State:** NON-PRODUCTION CONCEPT INTERPRETATION / DISTINCT MECHANISM ESTABLISHED / NO APP SEMANTICS / PRODUCTION UNCHANGED
+
+Four concept studies were preserved in Drive folder `1_y3v5_4010xNorKc8jwaN_Spbp3f8VIB`: Invitation/Entry `1FaJc4HQ1zFHZIHV0dJax6abB3n_Zit9X`, Relational/Ensemble `1e_GSn_BbM-ba_pWjcJnXC-WsqC-LPp6n`, Consequence Awareness `1JbJTu3y4zDpQTJ2mb_alUcAReA9LmQO0`, and Possibility Planning `1TpzuIjWTrjdBATRY8MAKWQyPnUJbf5jM`.
+
+The strongest transferable finding was not a costume or setting. Alternate's app-concept relation became **response to unresolved circumstance**: she enters situations, attends to people, notices changed evidence, considers possibilities and chooses what to do next. Literal explanatory text/props in some renders were rejected as over-explicit scaffolding.
+
+**RESULT:** Alternate mechanism provisionally defined as `circumstance -> attention -> response -> choice`; this is brand/concept interpretation only, not runtime/product-state semantics.
+
+## L-219 - Situation stress test separated Alternate from Mediate threshold symbolism
+
+**State:** NON-PRODUCTION SITUATION GRAMMAR / ARRIVAL-RELATION-AFTERMATH SURVIVED / PRODUCTION UNCHANGED
+
+Drive evidence: Arrival `1pldEEO3K_8Uz772c_Th_-aIj2oj_BZ_i`; Relation `1ntlr85QEp-jIespbfM_7IzaTBTOD2sX4`; Aftermath `1IqkLowteQe3kLviukq3tQNopvrGouvoP`.
+
+The family remained recognizable when the environment carried the causal burden. Arrival worked as entering an already-active situation rather than a symbolic threshold; Relation made another person's attention materially important; Aftermath suggested noticing changed conditions without transformation spectacle.
+
+**RESULT:** Alternate is the person who encounters possibility, not the symbol of possibility.
+
+## L-220 - Environment-independence stress test preserved Alternate across ordinary public contexts
+
+**State:** NON-PRODUCTION ENVIRONMENT STRESS / IDENTITY SURVIVED / PRODUCTION UNCHANGED
+
+Drive evidence: Library `1iFtoiDpbTQ6mhxWgXwSrZklA6eRg1jKY`; Café `1WSryiXRnBidPVtSzHUctUaESo8kkj1ci`; Station `1T6atVfgMP-H9zm4grd3pJuqg_iMMq3MN`.
+
+Alternate remained recoverable across ordinary public life, quiet reflection and open travel possibility. The train-station image was especially diagnostic because movement/departure conveyed unresolved future possibility without importing Mediate's passage/threshold iconography.
+
+**RESULT:** environment is variable support; it is not Alternate anatomy.
+
+## L-221 - Wardrobe-independence stress test established behavioral identity over costume identity
+
+**State:** NON-PRODUCTION WARDROBE STRESS / COSTUME DEPENDENCE REJECTED / PRODUCTION UNCHANGED
+
+Drive boards: `07A — Wardrobe Independence Stress Test.png` (`1MNzQpleUhxJFNgYrsouSZWSElhc9isoj`) and `07B — Context Wardrobe Independence Triptych.png` (`1ZfmArdtXpxJZ5Aw3SzZ9NyZfYEHbv0x1`).
+
+Cream daytime, practical travel and more refined social presentations all retained the same person. The refined social lane also exposed the Canonical boundary: when styling itself becomes the event, Alternate begins drifting toward Canonical resolved/iconic presentation.
+
+**RESULT:** Alternate is deliberately the least costume-defined Bellweather interpretation. Garment, bag and accessory microdetails remain variable.
+
+## L-222 - Behavioral expression stress test established emotional range without identity loss
+
+**State:** NON-PRODUCTION BEHAVIORAL STRESS / RANGE SURVIVED / PRODUCTION UNCHANGED
+
+Drive board: `08 — Behavioral Expression Stress Test.png` (`10mQCoDPxHgdIs0UOmGF2y6F6Nwgf4LAI`).
+
+Listening, skepticism, discovery and readiness remained recognizably the same person. Skepticism materially improved personhood by proving Alternate need not remain perpetually soft/agreeable. Discovery required refinement away from youthful astonishment toward recognition/alert curiosity. Repeated hand-on-cheek posing was explicitly demoted from signature status.
+
+**RESULT:** behavioral identity is carried by attentive response, discernment, recognition and choice rather than one expression.
+
+## L-223 - Bellweather Alternate Full Render Family Exploration 01 assembled the six-function system
+
+**State:** NON-PRODUCTION FULL-RENDER FAMILY EXPLORATION / SIX FUNCTIONS COHERENT / NO FREEZE
+
+Drive board: `09 — Full Render Family Exploration 01.png` (`1OqzWKcN1uiClRDIHc9-yLovdlS55Cqrv`), SHA-256 `e1df9b9293b25ed2efe70946c20f0476cd8c2586a4054999652fead02a72e5cb`.
+
+The six functions were: Identity, Everyday, Relational, Skeptical, Discovery and Ready. The family was coherent but still carried three correctable defects: Relational repeated hand-on-cheek posing, Discovery remained too surprised/youthful, and several dark layers risked rebuilding a de facto costume.
+
+**RESULT:** family architecture accepted for one surgical refinement, not frozen.
+
+## L-224 - Bellweather Alternate Full Render Family Exploration 02 corrected pose, discovery and wardrobe dependence
+
+**State:** NON-PRODUCTION SURGICAL FAMILY REFINEMENT / FREEZE CANDIDATE EARNED / PRODUCTION UNCHANGED
+
+Drive board: `10 — Full Render Family Exploration 02.png` (`1vTi-qqH5qjqQULrpPjTU7t3kn476Y1Fp`), SHA-256 `e4ce2fcb51bdaa75bbe710b447e49d6811499a434b45f33c9b0a9a61f240b6f0`.
+
+The refinement removed the hand-on-cheek dependency from the Relational function, matured Discovery toward recognition rather than astonishment, and diversified wardrobe silhouettes while preserving face/hair/personhood. Director + Design Sol synthesis found the six-function family coherent enough to advance to one exact freeze-candidate board.
+
+**RESULT:** freeze candidate earned; no production authority created.
+
+## L-225 - Bellweather Alternate Full Render Mascot Set 01 frozen by Director + Design Sol synthesis
+
+**State:** ALTERNATE FULL-RENDER FAMILY DIRECTOR-FROZEN / BEFORE-POSSIBILITY GRAMMAR ESTABLISHED / CANONICAL REMAINS PRIMARY / PRODUCTION UNCHANGED
+
+The final freeze-candidate board is preserved in Drive as `Bellweather Alternate — Full Render Family 02 — Freeze Candidate Board — 2026-09-18.png` (`19NthkPz-5HlO0zhGFp7zYbC8RgwXTV3s`), SHA-256 `7b8ee91695b3e25fbac1a16f115e69d42c109fdef8abc7804a15f8d5f9ef6e2b`. Director-freeze synthesis: Drive doc `1_uxj50LtzdEJH56oOwfgAJzQltnKXhddp9nH5zlLaZk`. Controlled refinement archive: `1_y3v5_4010xNorKc8jwaN_Spbp3f8VIB`.
+
+The exact board freezes the six-function family as one immutable visual evidence surface: **Identity / Everyday / Relational / Skeptical / Discovery / Ready**. It also freezes the transferable Alternate grammar: clearly adult recoverable Bellweather; longer/freer chestnut-brunette hair; natural freckles/skin; outwardly responsive attention; relational/social embeddedness; practical wardrobe adaptability; and behavioral continuity through listening, questioning, noticing, discovering, deciding and moving forward.
+
+Alternate's distinct conceptual mechanism is now:
+`circumstance -> attention -> response -> choice`.
+
+This remains separate from Mediate's `threshold -> passage -> becoming` and Canonical's `change -> continuity -> accumulated identity`. Exact garments, bags, notebooks, transit/café/street settings, jewelry, generated typography, background people, lighting accidents and board layout remain variable presentation evidence.
+
+The freeze does **not** make Alternate primary, does not replace Canonical Bellweather, does not alter Mediate, and creates no website production, `site/public/**`, app UI, runtime/product-semantic or universal Character-style authority.
+
+**DIRECTOR + DESIGN SOL FREEZE — BELLWEATHER ALTERNATE FULL RENDER MASCOT SET 01 ESTABLISHED AT FAMILY-BOARD LEVEL; CANONICAL REMAINS PRIMARY; PRODUCTION UNCHANGED.**
