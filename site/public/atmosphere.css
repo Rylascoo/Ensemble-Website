@@ -15,7 +15,7 @@
   height: 100%;
   object-fit: cover;
   object-position: 50% 49%;
-  animation: reveal-scene 1250ms ease-out both;
+  animation: reveal-scene 1600ms ease-out both;
 }
 
 .scene::after {
@@ -23,11 +23,11 @@
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(to bottom, rgba(6,8,9,0.18) 0%, rgba(6,8,9,0.05) 22%, transparent 42%),
-    radial-gradient(ellipse at 50% 22%, rgba(0,0,0,0.06), transparent 44%);
+    linear-gradient(to bottom, rgba(6,8,9,0.10) 0%, rgba(6,8,9,0.02) 24%, transparent 45%, rgba(6,8,9,0.04) 82%, rgba(6,8,9,0.16) 100%),
+    radial-gradient(ellipse at 50% 20%, rgba(0,0,0,0.035), transparent 50%);
 }
 
 @keyframes reveal-scene {
-  from { opacity: 0.86; }
+  from { opacity: 0.78; }
   to { opacity: 1; }
 }
