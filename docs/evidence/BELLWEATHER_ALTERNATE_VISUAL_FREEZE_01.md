@@ -126,3 +126,17 @@ The exact composite board is immutable family-level visual evidence. Its generat
 Canonical Bellweather remains the primary mascot identity. Bellweather Mediate remains the separate Between/Transformation interpretation. No website production, `site/public/**`, app UI, runtime/product semantics or universal Character-style change is authorized.
 
 **BELLWEATHER ALTERNATE FULL RENDER MASCOT SET 01 — DIRECTOR-FROZEN AT FAMILY-BOARD LEVEL; PRODUCTION UNCHANGED.**
+
+## Defining Narrative Reference 01 - Director selection
+
+On 2026-09-18 the Director accepted Design Sol's recommendation to select the existing final wide scene as Alternate's defining narrative reference and stop regenerating the composition. This is a narrative-reference selection, not a replacement facial master, new full-render family freeze, or production approval.
+
+Exact selected original PNG: Drive `1PzLygPjWjJMXi3U58wNzPtgtI0fuUQQD`; SHA-256 `5ed87412e6b4e8336acc9ba755ef5063417e7ab42456f9e4fb20c890273fdd15`; 1672 x 941; 2,076,243 bytes. The Drive raw readback matches the source hash. Folder `128yqe1MDawUsTO5MAQSv3msZFP1uL5Rf` also preserves three non-selected predecessors. Manifest: `docs/evidence/BELLWEATHER_ALTERNATE_DEFINING_NARRATIVE_REFERENCE_01.json` (Drive mirror `11qFnmr3rhLZuCWMpLSJqNrLizuwBRNpq`). Registered packet: `docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_NARRATIVE_01.json`.
+
+Design reading: off-center Alternate notices a standing/seated interaction inside an already-active ensemble; her response remains open. Whether someone is leaving, arguing, changing seats, or sharing prior history is not established by the still. The meaningful uncertainty is preserved rather than turned into asserted causal history.
+
+Portrait and L-225 family-board controls keep their separate face/identity functions. The shared-space setting, clothing, bag, skyline and sunset remain contextual, not mandatory Alternate identity. Small-crop, mobile, text-overlay and motion use have not been validated.
+
+Director rule, `no text ever`: future generated Bellweather artwork must contain no baked-in text, slogans, captions, labels, logos or readable signage/prop lettering. This governs imagery, not documentation, filenames, existing website typography or app UI. Historical text-bearing predecessors remain preserved as non-selected evidence, not reusable typography authority.
+
+Canonical remains primary; Mediate remains separate. No `site/public/**`, app UI, runtime/product semantics or universal Character-style change is authorized. Hold the exact selected narrative reference; no default reroll, world-board expansion or production adaptation follows.

@@ -1,0 +1,139 @@
+{
+  "schema": "kymaean.design-gate-packet.v1",
+  "framework": "docs/evidence/DESIGN_PACKET_AND_SYNTHESIS_FRAMEWORK_01.json",
+  "packet_id": "PKT-BELLWEATHER-ALTERNATE-NARRATIVE-01",
+  "packet_class": "GATE_MECHANISM_PACKET",
+  "status": "FROZEN_LOCAL_RESULT",
+  "date": "2026-09-18",
+  "gate_or_program": "Bellweather Alternate defining narrative reference selection",
+  "design_axis": "non-production mascot narrative / ensemble attention",
+  "bounded_question": "Which existing scene best expresses Alternate noticing an unresolved human situation without replacing identity controls or publishing a website change?",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline_commit": "93f841ffb28c8b6bbaa2470dbeaabf2b1de22f3a",
+    "current_state_at_close": "CURRENT_STATE.md / Design Ledger L-226",
+    "governing_method_or_contract": [
+      "AGENTS.md",
+      "docs/DESIGN_CONTINUITY.md",
+      "docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md",
+      "docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md"
+    ],
+    "drive_sources_if_material": [
+      {
+        "before_identity_anchor_drive_id": "1B0tc57qQyPT3_awy_5vT9ESacYFpcr9Y",
+        "original_exploration_folder_drive_id": "1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1",
+        "family_control_drive_id": "19NthkPz-5HlO0zhGFp7zYbC8RgwXTV3s",
+        "family_control_role": "L-225 family-board freeze remains unchanged; this scene is not a face/anatomy replacement."
+      },
+      "128yqe1MDawUsTO5MAQSv3msZFP1uL5Rf"
+    ]
+  },
+  "controlled_inputs": [
+    "Four existing narrative studies, preserved as NR-01 through NR-04 in the manifest.",
+    "Director agreement to the immediately preceding recommendation to select NR-04; no new generation."
+  ],
+  "excluded_variables": [
+    "No alteration of existing PNG pixels.",
+    "No redefinition of facial anatomy, wardrobe identity, app behavior or website production."
+  ],
+  "local_result": {
+    "summary": "BEFORE / POSSIBILITY: one person notices an interaction within an already-active ensemble; what she does next remains open.",
+    "survivors_or_closure": [
+      "NR-04 selected; three predecessors retained as non-selected evidence."
+    ],
+    "recommended_incumbent": "1PzLygPjWjJMXi3U58wNzPtgtI0fuUQQD",
+    "alternates": [],
+    "rejections": [
+      "NR-01: Arrival/body-turn hypothesis useful; central portrait emphasis and no visible attention trigger.",
+      "NR-02: Wider ensemble, but explicit branding and slogans displaced visual storytelling.",
+      "NR-03: Removed prominent text; ribbon/pulled-back hair, central emphasis and weak attention trigger remained."
+    ]
+  },
+  "judgment": {
+    "design_sol_view": "Select NR-04 as the defining narrative reference, not an anatomy master. The standing figure and seated woman supply a plausible attention target. Departure, argument, relationship, prior history and consequence are not established by the still image.",
+    "director_view_or_delegation": "Select this existing image as Alternate’s defining narrative reference, retaining separate portrait and family identity controls; stop regenerating the composition. Director reply: i agree.",
+    "resolution_mode": "CONVERGENT_DIRECTOR_DESIGN_SOL"
+  },
+  "evidence": {
+    "mechanical": [
+      "Selected original and Drive raw readback SHA-256 match: 5ed87412e6b4e8336acc9ba755ef5063417e7ab42456f9e4fb20c890273fdd15",
+      "Original and readback: 1672 x 941 PNG, 2076243 bytes.",
+      "Four original PNG uploads verified by folder membership/size; predecessor SHA values derive from original local bytes."
+    ],
+    "visual": [
+      "docs/evidence/BELLWEATHER_ALTERNATE_DEFINING_NARRATIVE_REFERENCE_01.json"
+    ],
+    "accessibility": [
+      "Not tested for small crops, mobile reflow, overlays, motion or assistive technology."
+    ],
+    "invalid_or_superseded_attempts": [
+      "An earlier rate-limit response returned no image; it is not a rendered candidate."
+    ]
+  },
+  "dependencies": {
+    "requires": [
+      "L-215 Alternate lineage",
+      "L-225 unchanged family-board controls"
+    ],
+    "constrains": [
+      "Any later narrative derivative must retain the selected reference and obey the no-text rule."
+    ],
+    "must_not_be_confused_with": [
+      "L-214 mascot-free placeholder Stage work",
+      "Canonical Bellweather primary identity",
+      "Mediate interpretation",
+      "A production asset approval"
+    ]
+  },
+  "known_integration_sensitivities": [
+    "Dense wide scene; crop and text-overlay suitability remain untested.",
+    "The café/shared creative setting, backpack, clothing, skyline and sunset are contextual, not mandatory signatures.",
+    "The standing figure and seated woman supply a plausible attention target. Departure, argument, relationship, prior history and consequence are not established by the still image."
+  ],
+  "explicit_non_authority": [
+    "No website publication or site/public change.",
+    "No app UI, product semantics, runtime or universal Character-style authority.",
+    "Canonical remains the primary Bellweather; Mediate and the Alternate family controls remain separate.",
+    "The cafe/shared-space setting, backpack, clothing, lighting, skyline and pose are contextual, not mandatory mascot attributes.",
+    "No small-crop, mobile, overlay, animation or responsive-use validation is claimed."
+  ],
+  "lawful_reentry_triggers": [
+    "new integration evidence",
+    "direct contradiction",
+    "materially changed product/engineering truth",
+    "changed governing contract",
+    "explicit new/refinement program"
+  ],
+  "canonical_artifacts": {
+    "repository": [
+      "docs/evidence/BELLWEATHER_ALTERNATE_DEFINING_NARRATIVE_REFERENCE_01.json",
+      "docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_NARRATIVE_01.json",
+      "docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md"
+    ],
+    "drive_visual_masters": [
+      {
+        "drive_file_id": "1PzLygPjWjJMXi3U58wNzPtgtI0fuUQQD",
+        "sha256": "5ed87412e6b4e8336acc9ba755ef5063417e7ab42456f9e4fb20c890273fdd15",
+        "role": "selected narrative reference"
+      }
+    ],
+    "director_review_surface": {
+      "entry_point": "https://drive.google.com/file/d/1PzLygPjWjJMXi3U58wNzPtgtI0fuUQQD/view",
+      "what_to_review": "The exact selected NR-04 PNG, not an imagined improved version.",
+      "diagnostics_not_for_aesthetic_choice": [
+        "docs/evidence/BELLWEATHER_ALTERNATE_DEFINING_NARRATIVE_REFERENCE_01.json"
+      ]
+    }
+  },
+  "synthesis_state": {
+    "tested_with_packet_ids": [],
+    "latest_composition_packet": null,
+    "whole_app_synthesis_status": "NOT_APPLICABLE_NON_PRODUCTION_NARRATIVE_SELECTION"
+  },
+  "no_text_director_rule": {
+    "source": "i agree (no text ever)",
+    "scope": "Future generated Bellweather artwork: no baked-in text, slogans, captions, labels, logos or readable signage/prop lettering. Descriptive filenames and documentation are not artwork. This changes no existing site typography or app UI.",
+    "selected_image_observation": "No prominent explanatory typography observed at supplied resolution; not an OCR audit, publication clearance or certification that every incidental mark is absent."
+  },
+  "next_boundary": "Hold this exact narrative reference. No default reroll, broad-world expansion, new family freeze or production adaptation follows from selection."
+}

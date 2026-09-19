@@ -3546,3 +3546,19 @@ This remains separate from Mediate's `threshold -> passage -> becoming` and Cano
 The freeze does **not** make Alternate primary, does not replace Canonical Bellweather, does not alter Mediate, and creates no website production, `site/public/**`, app UI, runtime/product-semantic or universal Character-style authority.
 
 **DIRECTOR + DESIGN SOL FREEZE — BELLWEATHER ALTERNATE FULL RENDER MASCOT SET 01 ESTABLISHED AT FAMILY-BOARD LEVEL; CANONICAL REMAINS PRIMARY; PRODUCTION UNCHANGED.**
+
+## L-226 - Bellweather Alternate defining narrative reference selected
+
+**State:** DIRECTOR-SELECTED NON-PRODUCTION NARRATIVE REFERENCE / PORTRAIT AND FAMILY CONTROLS PRESERVED / NO NEW RENDER / PRODUCTION UNCHANGED
+
+The Director agreed to select the existing final wide scene as Alternate's defining narrative reference. It is preserved without pixel changes as Drive `1PzLygPjWjJMXi3U58wNzPtgtI0fuUQQD`, SHA-256 `5ed87412e6b4e8336acc9ba755ef5063417e7ab42456f9e4fb20c890273fdd15` (1672 x 941 PNG). Raw Drive readback equals the original. The four-output sequence, including three non-selected predecessors, is preserved under `128yqe1MDawUsTO5MAQSv3msZFP1uL5Rf`; manifest `docs/evidence/BELLWEATHER_ALTERNATE_DEFINING_NARRATIVE_REFERENCE_01.json` accounts for the exact originals. No image generation occurred during this selection closeout.
+
+Convergent Director + Design Sol judgment selects the scene for off-center human presence, restored loose hair, shared ensemble attention and a visible but unresolved standing/seated interaction. Departure, conflict, relationships, past events and consequences remain interpretations, not established facts. The image evokes possible participation; it does not prove runtime behavior or causal history.
+
+The Director's `no text ever` instruction is preserved for future generated Bellweather artwork: no baked-in text, slogans, captions, labels, logos or readable signage/prop lettering. This is not a deletion instruction for existing website typography or app UI. Narrative reference, L-225 family controls and facial controls retain different jobs. Canonical remains primary; Mediate remains separate.
+
+**Mascot boundary:** hold the exact selected reference, with no default reroll, broad-world expansion or production adaptation. The separate L-214 mascot-free placeholder program is unchanged. Production, `site/public/**`, app UI, product semantics and universal Character style are untouched.
+
+Detailed selection: `docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md`. Registered packet: `docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_NARRATIVE_01.json`. Central queue was read at Project `c8da0c1f42a40d7e3f492e0e76b343d648c69bd6`; no Bellweather/mascot queue item or changed engineering prerequisite was found, so no cross-lane write is needed.
+
+**DIRECTOR SELECTION RECORDED - DEFINING NARRATIVE REFERENCE ONLY; PRODUCTION UNCHANGED.**
