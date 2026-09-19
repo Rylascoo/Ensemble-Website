@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KYMÆAN — World Spine Transition Grammar 01</title>
+<style>
+:root{color-scheme:dark;--v:#080c0f;--v2:#10171b;--l:#cfcbbc;--li:#1a1e1e;--tx:#ece9e0;--m:#9ea29d;--w:#a96743;--c:#5f8790;--line:rgba(236,233,224,.16)}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--v);color:var(--tx);font-family:Inter,system-ui,sans-serif}
+header{min-height:46svh;display:grid;align-content:end;padding:7vw;border-bottom:1px solid var(--line)}
+small{letter-spacing:.18em;text-transform:uppercase;color:var(--m)}
+h1{font:400 clamp(44px,7vw,92px)/.95 Georgia,serif;letter-spacing:-.045em;max-width:1050px;margin:18px 0}
+header p{max-width:760px;color:var(--m);line-height:1.6}
+.t{min-height:100svh;position:relative;overflow:hidden;border-bottom:1px solid var(--line)}
+.label{position:absolute;left:5vw;top:5vw;z-index:5;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--m)}
+.caption{position:absolute;left:5vw;bottom:5vw;z-index:5;max-width:520px;font:400 clamp(25px,3vw,44px)/1.06 Georgia,serif}
+.t1{background:linear-gradient(var(--v),var(--v2))}
+.t1 .stage{position:absolute;inset:12% 6% 24%;border-radius:50%;border:1px solid rgba(236,233,224,.13);transform:perspective(650px) rotateX(66deg);box-shadow:inset 0 0 80px rgba(95,135,144,.04)}
+.t1 .horizon{position:absolute;left:0;right:0;top:61%;height:1px;background:linear-gradient(90deg,transparent,var(--w),transparent 42%,transparent 58%,var(--c),transparent)}
+.t2{background:var(--v)}
+.t2 .field{position:absolute;inset:13% 6% 19%;background:
+ radial-gradient(circle at 22% 50%,rgba(169,103,67,.18),transparent 28%),
+ radial-gradient(circle at 77% 46%,rgba(95,135,144,.2),transparent 28%),
+ linear-gradient(var(--v2),var(--v));}
+.t2 .cut{position:absolute;top:13%;bottom:19%;width:1px;background:rgba(236,233,224,.18)}
+.t2 .a{left:36%}.t2 .b{left:64%}
+.t2 .mask{position:absolute;top:13%;bottom:19%;width:7%;background:linear-gradient(90deg,transparent,var(--v),transparent);opacity:.72}
+.t2 .ma{left:32.5%}.t2 .mb{left:60.5%}
+.t3{background:var(--l);color:var(--li)}
+.t3 .label{color:rgba(26,30,30,.55)}
+.t3 .caption{max-width:620px}
+.t3 .oldline{position:absolute;top:0;left:49.4%;width:1px;height:28%;background:rgba(26,30,30,.18)}
+.t3 .scar{position:absolute;top:18%;bottom:-5%;left:48%;width:clamp(14px,2vw,30px);transform:skewX(-7deg);background:linear-gradient(90deg,transparent,rgba(169,103,67,.14),rgba(169,103,67,.46),rgba(169,103,67,.1),transparent)}
+.t3 .inherit{position:absolute;left:55%;top:32%;width:min(38vw,520px);font:400 clamp(30px,4vw,60px)/1.04 Georgia,serif}
+.t4{background:var(--v)}
+.t4 .axis{position:absolute;top:0;bottom:0;left:50%;width:1px;background:linear-gradient(rgba(169,103,67,.28),rgba(236,233,224,.12) 28%,rgba(236,233,224,.08) 80%,transparent)}
+.t4 .center{position:absolute;left:50%;top:51%;transform:translate(-50%,-50%);width:min(40vw,480px);aspect-ratio:1.55;border:1px solid rgba(236,233,224,.19);background:var(--v2)}
+.t4 i{position:absolute;width:7px;height:7px;border:1px solid rgba(236,233,224,.36);border-radius:50%}
+.t4 i:nth-of-type(1){left:14%;top:22%}.t4 i:nth-of-type(2){right:12%;top:30%}.t4 i:nth-of-type(3){left:18%;bottom:17%}.t4 i:nth-of-type(4){right:16%;bottom:13%}
+.t5{background:radial-gradient(circle at 50% 50%,rgba(236,233,224,.035),transparent 20%),var(--v)}
+.t5 .frame{position:absolute;left:50%;top:48%;transform:translate(-50%,-50%);width:min(38vw,460px);aspect-ratio:1.7;border:1px solid rgba(236,233,224,.1)}
+.t5 .mark{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-size:clamp(42px,8vw,110px);font-weight:200;letter-spacing:.18em;color:rgba(236,233,224,.84)}
+.note{padding:45px 7vw 90px;color:var(--m);font-size:12px;line-height:1.6}
+@supports(animation-timeline:view()){
+ .t1 .stage{animation:t1 linear both;animation-timeline:view();animation-range:entry 0% cover 80%}
+ @keyframes t1{from{opacity:1;scale:1}to{opacity:.05;scale:1.08}}
+ .t2 .mask{animation:open linear both;animation-timeline:view();animation-range:entry 10% cover 65%}
+ @keyframes open{from{width:0;opacity:0}to{width:7%;opacity:.72}}
+ .t3 .scar{animation:scar linear both;animation-timeline:view();animation-range:entry 0% cover 60%}
+ @keyframes scar{from{transform:skewX(-7deg) scaleY(.1);transform-origin:top;opacity:.1}to{transform:skewX(-7deg) scaleY(1);opacity:1}}
+ .t4 .center{animation:center linear both;animation-timeline:view();animation-range:entry 0% cover 60%}
+ @keyframes center{from{scale:.85;opacity:.2}to{scale:1;opacity:1}}
+ .t5 .frame{animation:return linear both;animation-timeline:view();animation-range:entry 0% cover 55%}
+ @keyframes return{from{scale:1.4;opacity:.3}to{scale:1;opacity:.1}}
+}
+@media(max-width:700px){
+ .caption{left:7vw;right:7vw;bottom:8vw}
+ .t3 .scar{left:42%}.t3 .oldline{left:43%}.t3 .inherit{left:50%;width:44vw}
+ .t4 .center{width:64vw}
+ .t5 .frame{width:68vw}
+}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media(forced-colors:active){
+ .t,.t3{background:Canvas;color:CanvasText}
+ .label,.note{color:CanvasText}
+ .stage,.horizon,.field,.mask,.scar{display:none}
+ .cut,.oldline,.axis,.center,.frame{border-color:CanvasText;background:Canvas}
+}
+</style>
+</head>
+<body>
+<header>
+<small>Non-production transition laboratory</small>
+<h1>One world should transform into the next state, not cut between sections.</h1>
+<p>Each transition inherits a visible carrier from the state before it. This page studies continuity mechanics only; it contains no current product semantics or publication authority.</p>
+</header>
+<section class="t t1"><div class="label">T1 · Stage → Place</div><div class="stage"></div><div class="horizon"></div><div class="caption">The image recedes. The horizon survives.</div></section>
+<section class="t t2"><div class="label">T2 · Place → Perspective</div><div class="field"></div><div class="cut a"></div><div class="cut b"></div><div class="mask ma"></div><div class="mask mb"></div><div class="caption">One field becomes partially available through multiple apertures.</div></section>
+<section class="t t3"><div class="label">T3 · Perspective → Consequence</div><div class="oldline"></div><div class="scar"></div><div class="inherit">A division acquires weight. The material after it is no longer neutral.</div><div class="caption">The strongest candidate transition.</div></section>
+<section class="t t4"><div class="label">T4 · Consequence → Participation</div><div class="axis"></div><div class="center"></div><i></i><i></i><i></i><i></i><div class="caption">The scar resolves into an axis around a shared scene.</div></section>
+<section class="t t5"><div class="label">T5 · Participation → Identity</div><div class="frame"></div><div class="mark">KYMÆAN</div><div class="caption">Peripheral evidence recedes. Identity returns without becoming louder.</div></section>
+<div class="note">Research order: stress-test T3 first. Reduced-motion users receive the same structural carriers statically. This laboratory is deliberately abstract and is not a production website candidate.</div>
+</body>
+</html>
