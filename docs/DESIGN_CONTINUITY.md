@@ -423,3 +423,12 @@ Bellweather currently has **three separately named preserved visual interpretati
 These are not three competing finalists, product states, Character classes, or universal Kymaean styles. Canonical remains primary.
 
 Central Drive recovery index: folder `1IoGZs8YHn3H-CmrIQbft6z4jb6pwUAjT`, document `1rBP8xSl0kRHqDIhwvVwhQpJGScOkzmNncKnf3UzcKEU`. The index maps the 88-image Canonical Bellweather master corpus, the recovered Alternate Stage-study assets, and the Mediate freeze/source lineage while preserving one canonical home per authoritative artifact.
+
+
+## 21. Bellweather Mediate Full Render Mascot Set 01
+
+By Director approval, Bellweather Mediate now has its first frozen six-image full render mascot set. Canonical Drive folder: `1WAAcRUgr5DVfJcza8s24LsGEq2DYkUeY`; exact manifest: `1VVLwbrItuRvfQP5O3bfTGqFfzvsI2kl2`.
+
+Preserve Mediate as the distinct **threshold / passage / transformation** Bellweather interpretation. Its stable language is ivory-champagne curtain-derived architectural drapery, long vertical folds and pooling/unfurling fabric, sculptural braided/twisted evening hair, luminous warm makeup with natural skin/freckles retained, restrained adult expression, strong three-quarter/back recognition, and small rounded linked-threshold warm-metal shoulder fasteners.
+
+The full-render freeze supersedes the earlier oversized pointed-brooch treatment as Mediate’s preferred hardware direction. It does not alter canonical Bellweather’s primacy, does not merge Mediate with Bellweather Alternate, and does not create universal Character/app/website styling law. Environment remains narrative support rather than mascot anatomy.
