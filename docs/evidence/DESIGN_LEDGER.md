@@ -4213,3 +4213,27 @@ Exact Character coordinates/spacing, Stage camera/perspective, arc geometry, con
 **Next boundary:** L-264 through L-269 form the current static Alpha app/Stage foundation. Design may continue into a static Stage-shell boundary/component-spec consolidation or an Alpha static-conformance matrix, but must not invent runtime semantics while Engineer #2 remains active.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-270 - Alpha static conformance matrix separates active Design law from conditional Product-dependent capacity
+
+**State:** STATIC ALPHA CONFORMANCE MATRIX ACTIVE / SIX-DOCUMENT CROSS-AUDIT CLEAN / CONDITIONAL CAPACITY != CURRENT PRODUCT TRUTH / NO NEW FEATURE SEMANTICS
+
+After L-264 through L-269 established the static Alpha app/Stage foundation, Design performed a recursive cross-document audit rather than opening another isolated visual rule. During the audit, Project main advanced through the Q-PROD-01 manager refresh/finalization sequence to `c8da0c1f42a40d7e3f492e0e76b343d648c69bd6`. Exact-main authority keeps Engineer #2 lease `ENG2-QPROD01-DESIGNARCH-02` ACTIVE, requires PR #226 rebase/republish/revalidation, and still states `DESIGN_ARCHITECTURE_READY = NOT READY`. Existing Design-authorized static work remains permitted; new runtime-dependent Design meaning remains gated.
+
+`docs/evidence/APPUI_ALPHA_STATIC_CONFORMANCE_MATRIX_01.json` cross-audits the six source laws and classifies every implementation-facing rule as ACTIVE STATIC LAW, CONDITIONAL DESIGN CAPACITY, ENGINEERING/PRODUCT GATED OR OPEN, or PROHIBITED DRIFT.
+
+The cross-audit found zero unresolved direct contradictions. Durable navigation remains Home / Productions / Settings while Current Production stays contextual and Studio/Stage/Archive remain semantic spaces only. Alpha theme names are White/Black while Light F2/Dark D3 remain visual-research lineage. Character anchor, state redundancy, disclosure, exact-return and responsive laws converge cleanly.
+
+The principal implementation-risk exposed by the audit is now explicit: **static Design capacity is not current Product truth**. Design has valid presentation law for current performance, listening/silence/refusal/nonverbal performance, Current Opportunity, relationship salience, deeper Character content, causal/history content and Character-bounded perspective, but those capacities may be populated only when integrated Product truth actually exposes the corresponding state/content. A Design-defined slot is not permission to invent runtime semantics merely to fill it.
+
+The matrix consolidates the current static implementation baseline: one White/Black application; Home/Productions/Settings shell; contextual Current Production; invariant-dark relational Stage; cone Character presence; floor/name identity+interaction hinge; independent focus and selection; structural/textual meaning before color/motion; invoked contextual/deep disclosure; current/historical/provisional/infrastructure separation; exact semantic return; 2–5 density as stress evidence only; and responsive compression that yields secondary context before semantic meaning.
+
+It also centralizes fail-closed routing. Static Design conflicts are repaired at the smallest responsible L-264–L-269 layer. Conditional capacities without Product truth wait for integrated Engineering authority. Density/responsive evidence beyond current proof opens a new bounded Design study. Native questions route to a future authorized Engineering consumer. Product semantic questions remain Product/Engineering/ODR authority. Motion/timing/transcript-dependent questions remain separately gated.
+
+The matching Drive master is `Kymaean Alpha Static Conformance Matrix 01` in `26 Alpha Foundational UI & Stage Constitution — 2026-09-18`.
+
+This matrix is a falsification/review instrument, not a seventh source of new feature semantics. It creates no Product/runtime meaning, native validation claim, final motion/transcript/state algorithm authority, or Engineering mutation.
+
+**Next boundary:** future static Alpha app/UI proposals should be checked against this matrix before becoming new Design authority. Design can next consolidate the Stage-to-shell component/spec boundary or wait for Engineer #2's integrated Application result to determine whether any currently conditional capacity becomes Product-earned. Do not pre-implement conditional capacities while `DESIGN_ARCHITECTURE_READY = NOT READY`.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
