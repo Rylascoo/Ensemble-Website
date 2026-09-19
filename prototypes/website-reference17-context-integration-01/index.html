@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Reference 17 / Crop 04 — Website Context Integration Study 01</title>
+<style>
+:root{
+  color-scheme:dark;
+  --void:#090b0c;
+  --ink:#ddd5c7;
+  --muted:#8d887f;
+  --panel:#111517;
+  --line:#293033;
+  --accent:#b7aa90;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:#07090a;color:var(--ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+body{padding:28px}
+main{max-width:1500px;margin:0 auto}
+header{display:grid;gap:10px;margin-bottom:28px}
+.kicker{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+h1{font-size:clamp(26px,4vw,46px);font-weight:500;letter-spacing:-.03em;margin:0}
+.intro{max-width:900px;color:#aaa59c;line-height:1.55;margin:0}
+.notice{border:1px solid #413a30;background:#14110d;padding:10px 12px;color:#c7baa3;font-size:13px;line-height:1.45}
+section{margin:34px 0 44px}
+section>h2{font-size:20px;font-weight:600;margin:0 0 6px}
+section>p{margin:0 0 18px;color:#969189;max-width:1050px;line-height:1.5}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:start}
+.grid.three{grid-template-columns:repeat(3,minmax(0,1fr))}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px}
+.card h3{font-size:14px;font-weight:600;margin:0 0 10px}
+.meta{font-size:12px;color:var(--muted);line-height:1.45;margin-top:9px}
+.viewport{position:relative;overflow:hidden;background:var(--void);border-radius:7px;isolation:isolate}
+.viewport.desktop{aspect-ratio:16/9}
+.viewport.phone{aspect-ratio:390/844;max-width:390px;margin-inline:auto}
+.scene{position:absolute;inset:0;overflow:hidden;background:var(--void)}
+.scene-art{position:absolute;display:block}
+.desktop .scene-art{inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 49%}
+.desktop .scene::after{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(to bottom,rgba(6,8,9,.18) 0%,rgba(6,8,9,.05) 22%,transparent 42%),
+             radial-gradient(ellipse at 50% 22%,rgba(0,0,0,.06),transparent 44%)
+}
+.phone.current .scene-art{
+  inset:auto auto 0 50%;
+  width:160%;height:auto;max-width:none;
+  transform:translateX(-50%);
+  object-fit:contain;object-position:center;
+  -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 18%,#000 100%);
+  mask-image:linear-gradient(to bottom,transparent 0%,#000 18%,#000 100%)
+}
+.phone.current .scene::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,rgba(9,11,12,.12),transparent 45%)}
+.phone.evidence .scene-art{
+  inset:auto auto 0 50%;
+  width:148%;height:auto;max-width:none;
+  transform:translateX(-50%);
+  object-fit:contain;object-position:center;
+  -webkit-mask-image:linear-gradient(to bottom,transparent 0%,#000 12%,#000 100%);
+  mask-image:linear-gradient(to bottom,transparent 0%,#000 12%,#000 100%)
+}
+.phone.evidence .scene::after{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(to bottom,rgba(9,11,12,.10),transparent 41%)
+}
+.brand-lockup{
+  position:absolute;z-index:2;left:50%;transform:translateX(-50%);
+  display:flex;flex-direction:column;align-items:center;text-align:center;color:var(--ink)
+}
+.desktop .brand-lockup{top:14.5%;width:min(94%,34rem)}
+.phone.current .brand-lockup{top:29.5%;width:90%}
+.phone.evidence .brand-lockup{top:25.5%;width:90%}
+.wordmark{display:block;width:72%;max-width:30.5rem;height:auto;color:inherit}
+.phone .wordmark{width:58%}
+.wordmark .wordmark-mark{fill:currentColor}
+.wordmark .v,.wordmark .d,.wordmark .h,.wordmark .fine{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round}
+.wordmark .v{stroke-width:5.9}.wordmark .d{stroke-width:5.35}.wordmark .h{stroke-width:4.55}.wordmark .fine{stroke-width:2.35;opacity:.7}
+.status{margin:.72rem 0 0;color:var(--muted);font-size:clamp(7px,.75vw,11px);font-weight:500;letter-spacing:.34em;line-height:1.4;text-transform:uppercase}
+.phone .status{font-size:8px;letter-spacing:.38em}
+.legend{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0 0}
+.pill{font-size:11px;border:1px solid var(--line);padding:5px 8px;border-radius:99px;color:#aaa59c}
+.rules{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 22px;padding:0;margin:16px 0 0;list-style:none}
+.rules li{padding:10px 0;border-top:1px solid var(--line);font-size:13px;line-height:1.45;color:#aaa59c}
+.rules strong{color:var(--ink);font-weight:600}
+footer{border-top:1px solid var(--line);padding-top:18px;color:var(--muted);font-size:12px;line-height:1.5}
+@media(max-width:900px){
+  body{padding:16px}
+  .grid,.grid.three{grid-template-columns:1fr}
+  .rules{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <div class="kicker">Non-production research surface · exact existing artwork only</div>
+  <h1>Reference 17 / Crop 04 — Website Context Integration Study 01</h1>
+  <p class="intro">Purpose: test the selected Crop-04 full-scene mechanism inside the actual KYMÆAN placeholder presentation logic without regenerating artwork, changing Reference 17, or touching site/public/**. The current V2.2 public background is retained below as a control.</p>
+  <div class="notice">No adoption or publication authority is implied by this page. The Crop-04 diagnostic remains a pixel-controlled design-evidence composite. The evidence-led portrait option changes presentation only; source pixels remain untouched.</div>
+</header>
+
+<section>
+  <h2>01 · Desktop — exact current framing logic</h2>
+  <p>Both panels use the public site's desktop behavior: full-viewport cover, centered at 50% / 49%, current top overlays, and the same identity placement. This isolates artwork/context rather than redesigning the page.</p>
+  <div class="grid">
+    <article class="card">
+      <h3>Control · live V2.2 artwork</h3>
+      <div class="viewport desktop">
+        <div class="scene"><img class="scene-art" src="../../site/public/stage-v2-2.webp" alt=""></div>
+        <div class="brand-lockup" data-lockup></div>
+      </div>
+      <div class="meta">Control source: site/public/stage-v2-2.webp · public desktop framing reproduced from current CSS.</div>
+    </article>
+    <article class="card">
+      <h3>Candidate context · selected Crop-04 diagnostic</h3>
+      <div class="viewport desktop">
+        <div class="scene"><img class="scene-art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""></div>
+        <div class="brand-lockup" data-lockup></div>
+      </div>
+      <div class="meta">Exact diagnostic source. No scaling beyond browser presentation; no pixel editing or generation.</div>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>02 · Portrait — exact current framing logic</h2>
+  <p>These panels reproduce the current portrait behavior: bottom-centered image, 160vw width, 18% top mask fade, and the wordmark at 29.5% of the viewport. This is the strictest test of whether the selected mechanism survives today's phone composition unchanged.</p>
+  <div class="grid">
+    <article class="card">
+      <h3>Control · current portrait treatment</h3>
+      <div class="viewport phone current">
+        <div class="scene"><img class="scene-art" src="../../site/public/stage-v2-2.webp" alt=""></div>
+        <div class="brand-lockup" data-lockup></div>
+      </div>
+      <div class="meta">390 × 844 study viewport · current CSS behavior reproduced proportionally.</div>
+    </article>
+    <article class="card">
+      <h3>Candidate · current portrait treatment</h3>
+      <div class="viewport phone current">
+        <div class="scene"><img class="scene-art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""></div>
+        <div class="brand-lockup" data-lockup></div>
+      </div>
+      <div class="meta">Same presentation rules as the control; only the artwork source changes.</div>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>03 · Portrait — evidence-led presentation alternative</h2>
+  <p>The left panel repeats the strict current crop. The right panel changes only responsive presentation: slightly less magnification, a shorter top fade, and modestly higher identity placement. The intent is to preserve more of the Stage/threshold relationship while retaining the large calm upper field established by the visual lineage.</p>
+  <div class="grid">
+    <article class="card">
+      <h3>Candidate · current portrait treatment</h3>
+      <div class="viewport phone current">
+        <div class="scene"><img class="scene-art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""></div>
+        <div class="brand-lockup" data-lockup></div>
+      </div>
+      <div class="meta">160vw · fade reaches opacity by 18% · lockup 29.5% from top.</div>
+    </article>
+    <article class="card">
+      <h3>Candidate · Stage/threshold-preserving treatment</h3>
+      <div class="viewport phone evidence">
+        <div class="scene"><img class="scene-art" src="../website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png" alt=""></div>
+        <div class="brand-lockup" data-lockup></div>
+      </div>
+      <div class="meta">148vw · fade reaches opacity by 12% · lockup 25.5% from top. Research option only; not a production recommendation yet.</div>
+    </article>
+  </div>
+</section>
+
+<section>
+  <h2>Frozen review questions</h2>
+  <ul class="rules">
+    <li><strong>Stage first.</strong> Does the raised circular Stage remain the dominant environmental read before the doorway?</li>
+    <li><strong>Identity space.</strong> Can the KYMÆAN lockup occupy its calm field without covering the artwork's important structure?</li>
+    <li><strong>Outer territories.</strong> Do amber and blue remain the principal visible light relationship rather than teal/plum?</li>
+    <li><strong>Doorway restraint.</strong> Is the passage discovered as deeper spatial information rather than advertised as a portal or sign?</li>
+    <li><strong>Negative space.</strong> Does darkness read as intentional unresolved space rather than missing content?</li>
+    <li><strong>Portrait survival.</strong> Does the phone treatment retain enough Stage + threshold context to preserve the core composition?</li>
+    <li><strong>Current-site continuity.</strong> Does the new mechanism feel descended from the existing placeholder rather than like a separate campaign image?</li>
+    <li><strong>No semantic inflation.</strong> Does the presentation remain website metaphor only, without implying app runtime/product mechanics?</li>
+  </ul>
+  <div class="legend">
+    <span class="pill">Reference 17 retained</span>
+    <span class="pill">Boundary 01 unchanged</span>
+    <span class="pill">Crop 04 selected mechanism</span>
+    <span class="pill">No new generation</span>
+    <span class="pill">No site/public mutation</span>
+  </div>
+</section>
+
+<footer>
+  Sources: current site/public presentation code at main@470eb0fc6b60bde20489fc22dd0cc2aca806a9b6; exact Crop-04 full-scene diagnostic; recovered Drive Stage/website lineage including Foundational Stage Language, Quiet Stage, Visual World Composition, Stage-Inspired Visual Physics, and Phase-2 inspiration as review pressure only.
+</footer>
+</main>
+
+<template id="lockup-template">
+  <svg class="wordmark" viewBox="0 0 690 122" aria-hidden="true" focusable="false">
+    <g class="wordmark-mark" transform="translate(22.92783 8.89104) scale(.43054)">
+      <path d="M65 15L54 21L52 23L47 25L45 27L40 29L38 31L33 33L31 35L26 37L24 39L21 40L19 42L10 47L10 116L23 109L28 105L31 104L49 92L55 86L61 77L61 75L63 72L64 65L65 64Z"/>
+      <path d="M10 126L10 192L16 196L19 197L21 199L24 200L26 202L29 203L31 205L41 210L43 212L48 214L55 219L65 224L65 179L64 178L63 171L60 164L55 158L55 157L50 152L22 133L19 132Z"/>
+      <path d="M160 22L88 64L77 74L71 84L68 94L67 140L71 158L84 175L161 221L161 201L156 188L148 180L100 152L89 140L84 127L85 111L94 95L102 88L148 62L156 54L161 42Z"/>
+    </g>
+    <path d="M118 18L156 62L194 18" class="d"/><path d="M156 62L156 104" class="v"/>
+    <path d="M220 104L220 18" class="v"/><path d="M220 18L262 58L304 18" class="d"/><path d="M304 18L304 104" class="v"/>
+    <g transform="translate(-3 0)"><path d="M338 104L376 18" class="d"/><path d="M376 18L400 104" class="d"/><path d="M377 18L432 18" class="h"/><path d="M358 64L414 64" class="h"/><path d="M400 104L432 104" class="h"/><path d="M414 64L436 64" class="fine"/></g>
+    <g transform="translate(-3 0)"><path d="M462 104L501 18L540 104" class="d"/><path d="M480 64L522 64" class="h"/></g>
+    <g transform="translate(-4 0)"><path d="M570 104L570 18" class="v"/><path d="M570 18L648 104" class="d"/><path d="M648 104L648 18" class="v"/></g>
+  </svg>
+  <p class="status">Coming Soon</p>
+</template>
+<script>
+const tpl=document.getElementById("lockup-template");
+document.querySelectorAll("[data-lockup]").forEach(el=>el.append(tpl.content.cloneNode(true)));
+</script>
+</body>
+</html>
