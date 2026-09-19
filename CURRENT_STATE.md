@@ -13,6 +13,8 @@ L-204 remains production authority: pre-Bellweather V2.2 is live; site/public/**
 ## Active website design lanes
 Concurrent Bellweather Alternate authority, including its distinct-marketing-identity refinement, remains preserved and separate.
 
+L-242 freezes **Belle** as an independent source-derived mascot, not a Bellweather variant or rename. Primary ancestry is Drive `01 Chat Renders — Exploration Sequence` (`1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1`). Exact Director-selected foundational visual anchor: Drive `15_l_Y-DMFNkHxCXQ4h6WIUyT7DUE4-Du`, SHA-256 `df20980246591911c03c878900c53934b78a148ceacca03b4eb17be542636842`. Canonical, Mediate and Alternate remain unchanged. Evidence: `docs/evidence/BELLE_IDENTITY_FOUNDATION_01.json`.
+
 Reference 17 remains fixed: Drive 1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit; 1672 x 941 RGBA; SHA-256 8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44. Boundary 01 remains exactly 39,975 pixels.
 
 L-239 retains Crop 03 as PARTIAL / not adopted. L-240 preserves exact Crop 04 raw output, SHA-256 95bddeee8cf271022108a5ecab2014d6b67bd81a2635d28039a38b1ff6e78656.

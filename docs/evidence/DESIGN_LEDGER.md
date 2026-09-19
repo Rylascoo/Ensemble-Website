@@ -3833,3 +3833,26 @@ Artifacts:
 Concurrent Bellweather authority and site/public/** remain unchanged.
 
 **TECHNICAL GATE PASSED — NEXT GATE IS DIRECTOR + DESIGN SOL FULL-SCENE VISUAL DISPOSITION; NO NEW GENERATION OR PROMOTION BEFORE REVIEW.**
+
+## L-242 - Belle independent source-derived mascot identity foundation selected
+
+**State:** DIRECTOR-SELECTED BELLE FOUNDATIONAL VISUAL ANCHOR / INDEPENDENT SOURCE-DERIVED MASCOT / NOT BELLWEATHER / FOUNDATION 01 RETAINED AS REJECTED DIAGNOSTIC / PRODUCTION UNCHANGED
+
+The Director explicitly separated the mascot derived from Drive `01 Chat Renders — Exploration Sequence` from the Bellweather family and named the new mascot **Belle**. Belle is not Bellweather Alternate renamed, not a fourth Bellweather interpretation, and not part of Canonical / Mediate / Alternate's Before-Between-After conceptual taxonomy.
+
+Primary ancestry remains the original Exploration Sequence folder `1lKHBQufQ2Fs4WxjbmzKfv5ydwlH5rHH1`. That material contributes concept lineage: persistent human identity across changing circumstances, curiosity, relationships, learning, travel, planning/creation, radically different worlds, before/event/consequence, and the recurring orientation toward what exists beyond the current frame. It does not require Belle to inherit any later Bellweather anatomy, costume, taxonomy, role or freeze law.
+
+The first Belle control, **Identity Foundation 01**, is preserved only as rejected diagnostic evidence because it drifted toward a polished generic adult spokesperson: shorter/styled hair, sharper editorial facial construction, composed portrait gaze and reduced source-person immediacy. Drive file `1wuqAxy9J1lzrdLu8Wnbulx4TE_SC3NqX`; 1491 x 1055 RGB; SHA-256 `7d48cbec18a76381fb40c2874a5080a87ccadc13e1731722d7a59052a11b0456`.
+
+The corrected **Belle — Identity Foundation 02** is Director-selected as the accurate foundational representation of Belle. Drive file `15_l_Y-DMFNkHxCXQ4h6WIUyT7DUE4-Du` in independent Belle folder `1Jrb8qlcMCOQqSuIhj0bl62IplVKisQrO`; 1448 x 1086 RGB; 2,128,402 bytes; SHA-256 `df20980246591911c03c878900c53934b78a148ceacca03b4eb17be542636842`. Authenticated Drive readback is byte-identical to the selected source file.
+
+The selected identity recovers the strongest Exploration Sequence person-level carriers: longer loose chestnut-brown hair, softer oval-to-heart facial construction, fuller natural cheek volume, gentler jaw transition, open searching eyes, visible freckles/skin texture, restrained natural expression and a less-settled human gaze/body relationship. The neutral five-view control method is retained because it separates personhood from costume, prop and scenery.
+
+This selection freezes a **foundational visual anchor**, not a complete final mascot system. The exact cream top, dark trousers, board typography, background tone and control-sheet layout are not mascot anatomy. Bellweather Canonical, Mediate and Alternate authority is unchanged; no product/runtime/app semantic state is created.
+
+**Next Belle boundary:** prove this same Belle across full-body silhouette/posture, natural expression and ordinary movement before broad multi-world marketing expansion. Later world, wardrobe and narrative studies may vary radically, but must preserve the person established here rather than replacing identity with scenery or costume.
+
+The earlier unmerged provisional working-name branch that called the lane “Bellweather Exploration” is superseded before main adoption and creates no separate Bellweather authority.
+
+**DIRECTOR SELECTION RECORDED — BELLE IDENTITY FOUNDATION 02 IS THE FOUNDATIONAL VISUAL ANCHOR; BELLE IS INDEPENDENT FROM THE BELLWEATHER FAMILY; PRODUCTION UNCHANGED.**
+
