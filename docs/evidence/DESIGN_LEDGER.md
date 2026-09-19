@@ -4083,3 +4083,19 @@ No richer Studio/Stage/Archive content, opportunity UI, provider/Performer seman
 Central Q-DESIGN-20 remains ACTIVE / Design acceptance pending. Design does not mutate the Project queue while Engineer #2 holds the active Application/Product architecture audit lease. After that exact integration boundary, the bounded Windows presentation return may be routed to Engineer #3 under a new explicit consumer lease if still applicable.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN POST-COMPOSITION RECONCILIATION AUDIT.**
+
+## L-264 - Alpha foundational UI and Stage constitution consolidates the app into one two-theme system
+
+**State:** ALPHA FOUNDATION ACTIVE / WHITE + BLACK PRESENTATION PARITY / INVARIANT-DARK STAGE / NO NEW PRODUCT SEMANTICS
+
+Director instruction required the app concept to remain foundational and unchanged by settings through Alpha, with only two user-facing themes: **White** and **Black**. A full Drive/source reconciliation against the recovered O0 lineage, APPUI Phase 1 architecture, all eight Phase 2 Stage studies, Phase 3 Light/Dark system, component system and Q-DESIGN-20 native-convergence boundary found no need for a new application architecture.
+
+`docs/evidence/APPUI_ALPHA_FOUNDATIONAL_UI_STAGE_CONSTITUTION_01.json` therefore consolidates current Design authority: Home / Productions / Settings remain the durable visible shell; Current Production remains contextual scope; Studio / Stage / Archive remain Product-semantic spaces rather than mandatory permanent tabs; the four-layer L0-L3 architecture remains intact; White and Black change presentation only; and the Stage remains the same invariant dark performance place in both themes.
+
+The Stage foundation remains social/spatial rather than scenic or portrait-driven. Explicit Character identity, non-color state witnesses, separation of focus/selection/opportunity/performance/relationship/infrastructure meanings, current-performance-first hierarchy, causal-context expansion and responsive semantic preservation all remain binding. Core comprehension may not depend on scenic imagery, portraits, cover art or color alone.
+
+The matching Drive master is `Kymaean Alpha Foundational UI + Stage Constitution 01` in folder `26 Alpha Foundational UI & Stage Constitution — 2026-09-18`. This closure creates no richer persisted Production semantics, Stage motion/timing/transcript successor, shipping token package, Home A/B selection, FIRSTUSE adoption or Bellweather app placement. `DESIGN_ARCHITECTURE_READY` remains NOT READY.
+
+**Next boundary:** use this constitution as the falsification baseline for all further Alpha app/UI and Stage work. Runtime-dependent behavior still requires integrated exact-main Engineering truth. Q-DESIGN-20 / APPUI-QDESIGN20-R2 sequencing remains otherwise unchanged.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
