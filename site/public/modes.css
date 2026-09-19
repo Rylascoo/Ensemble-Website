@@ -1,57 +1,35 @@
 @media (max-width: 900px) and (orientation: portrait) {
   .brand-lockup {
-    top: max(29.5svh, calc(env(safe-area-inset-top) + 1rem));
+    top: max(25.5svh, calc(env(safe-area-inset-top) + 1rem));
     left: 50%;
     width: min(90vw, 24rem);
   }
 
   .wordmark {
-    width: min(58vw, 22rem);
+    width: min(56vw, 21rem);
     min-width: 0;
   }
 
   .status {
-    margin-top: clamp(0.8rem, 1.5svh, 0.95rem);
-    font-size: clamp(0.62rem, 2.1vw, 0.72rem);
-    letter-spacing: 0.38em;
+    margin-top: clamp(0.82rem, 1.5svh, 1rem);
+    font-size: clamp(0.60rem, 2vw, 0.69rem);
+    letter-spacing: 0.42em;
   }
 
   .scene-art {
     inset: auto auto 0 50%;
-    width: 160vw;
+    width: 148vw;
     max-width: none;
     height: auto;
     transform: translateX(-50%);
     object-fit: contain;
     object-position: center;
-    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 100%);
-    mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 100%);
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 12%, #000 100%);
+    mask-image: linear-gradient(to bottom, transparent 0%, #000 12%, #000 100%);
   }
 
   .scene::after {
-    background: linear-gradient(to bottom, rgba(9,11,12,0.12), transparent 45%);
-  }
-}
-
-@media (min-width: 600px) and (orientation: portrait) {
-  .brand-lockup {
-    left: 50%;
-  }
-
-  .scene-art {
-    inset: auto auto 0 50%;
-    width: calc(200vw - 240px);
-    max-width: none;
-    height: auto;
-    transform: translateX(-50%);
-    object-fit: contain;
-    object-position: center;
-    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 100%);
-    mask-image: linear-gradient(to bottom, transparent 0%, #000 18%, #000 100%);
-  }
-
-  .scene::after {
-    background: linear-gradient(to bottom, rgba(9,11,12,0.12), transparent 45%);
+    background: linear-gradient(to bottom, rgba(9,11,12,0.10), transparent 41%);
   }
 }
 
@@ -61,12 +39,12 @@
   }
 
   .wordmark {
-    width: min(30vw, 18rem);
+    width: min(28vw, 17rem);
     min-width: 0;
   }
 
   .status {
-    margin-top: 0.7rem;
+    margin-top: 0.72rem;
   }
 }
 
@@ -95,10 +73,6 @@
   .wordmark,
   .status {
     color: CanvasText;
-  }
-
-  .wordmark,
-  .status {
     animation: none;
   }
 }
