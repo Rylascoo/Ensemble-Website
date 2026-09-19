@@ -3756,3 +3756,17 @@ This correction does not revoke L-232. Reference 17 remains the foundational ful
 Bellweather Alternate L-236 remains fully preserved as the mascot lane's active identity-development program, but that lane is paused for this Reference-17 execution; no Bellweather authority is changed or merged. `site/public/**`, app UI/runtime/product semantics, Engineering authority and production artwork remain unchanged. No image generation was consumed by this continuity correction.
 
 **DIRECTOR CONTINUATION RECORDED — REFERENCE-17 L-232 MAY EXECUTE ONCE UNDER EXISTING BOUNDARY-01 CONTROLS; THE UNVERIFIED STUDY-01 CLAIM CARRIES NO AUTHORITY.**
+
+## L-238 - Reference-17 Crop 03 raw result preserved; visual disposition pending
+
+**State:** ONE PREREGISTERED L-232 ATTEMPT EXECUTED / RAW OUTPUT DURABLE / UNEVALUATED / UNADOPTED / NO CONTROLLED COMPOSITE / NO REROLL AUTHORIZED / REFERENCE 17 UNCHANGED / PRODUCTION UNCHANGED
+
+After L-237 restored correct forensic continuity, the Director-authorized L-232 successor was preregistered as `REF17-CROP-03` before generation. The frozen contract used the original verified Reference-17 doorway crop pixels, unchanged Boundary 01, seed 19818, one attempt, no retries, and the simplified full-length two-depth working-black curtain mechanism. Because Adobe could not ingest the repository URL directly, a pre-generation carrier addendum recorded use of the existing Drive PNG already verified decoded-pixel-identical to that exact crop; no visual source pixel, crop coordinate, prompt, seed, acceptance gate or boundary changed.
+
+Exactly one Adobe edit completed. The exact returned PNG was preserved before visual disposition at `prototypes/website-reference17-doorway-crop-03/REF17_CROP03_RAW_ADOBE.png`, SHA-256 `38fab11a110a7026c0b4a63134ec95014cac1a30b794f981d245a8ce16d6c3cb`, 505107 bytes, 768 x 1152 RGB. Machine-readable request, source and Adobe Creative Cloud asset provenance is in `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_03_RAW_CAPTURE.json`.
+
+This event records **existence and provenance only**. The raw crop is UNEVALUATED and unadopted. It is not a controlled full-size edit, provides no outside-Boundary pixel-lock claim, and does not advance Reference 17. No automatic reroll or result-informed rescue is authorized. The next gate is visual disposition of this exact stored candidate against the five preregistered L-232 criteria, first at crop scale and then in full-scene context; only a visually valid mechanism could later justify a separate fixed-registration composite test.
+
+Bellweather L-236 remains separately preserved and paused. `site/public/**`, Reference 17, Boundary 01, app/product semantics and Engineering authority remain unchanged.
+
+**RAW RESULT PRESERVED — REVIEW THIS EXACT CANDIDATE BEFORE ANY FURTHER GENERATION OR COMPOSITE.**
