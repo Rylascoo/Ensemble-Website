@@ -1,8 +1,8 @@
 :root {
   color-scheme: dark;
   --void: #090b0c;
-  --ink: #ddd5c7;
-  --muted: #8d887f;
+  --ink: #e5ddcf;
+  --muted: #9a948a;
 }
 
 * {
@@ -71,10 +71,10 @@ body {
 
 .brand-lockup {
   position: absolute;
-  top: max(14.5svh, calc(env(safe-area-inset-top) + 1.25rem));
+  top: max(13.75svh, calc(env(safe-area-inset-top) + 1.25rem));
   left: 50%;
   display: flex;
-  width: min(94vw, 34rem);
+  width: min(92vw, 32rem);
   transform: translateX(-50%);
   flex-direction: column;
   align-items: center;
@@ -83,11 +83,11 @@ body {
 
 .wordmark {
   display: block;
-  width: min(32vw, 30.5rem);
-  min-width: 22rem;
+  width: min(30vw, 29rem);
+  min-width: 20rem;
   height: auto;
   color: var(--ink);
-  animation: reveal-wordmark 950ms cubic-bezier(.2,.65,.2,1) 180ms both;
+  animation: reveal-wordmark 1150ms cubic-bezier(.2,.65,.2,1) 220ms both;
 }
 
 .wordmark .wordmark-mark {
@@ -110,14 +110,14 @@ body {
 .wordmark .fine { stroke-width: 2.35; opacity: 0.7; }
 
 .status {
-  margin: 0.72rem 0 0;
+  margin: 0.86rem 0 0;
   color: var(--muted);
-  font-size: 0.69rem;
+  font-size: 0.66rem;
   font-weight: 500;
-  letter-spacing: 0.34em;
+  letter-spacing: 0.40em;
   line-height: 1.4;
   text-transform: uppercase;
-  animation: reveal-copy 700ms ease-out 900ms both;
+  animation: reveal-copy 760ms ease-out 1080ms both;
 }
 
 :focus-visible {
