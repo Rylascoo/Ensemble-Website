@@ -458,3 +458,9 @@ The six frozen family functions are **Identity / Everyday / Relational / Skeptic
 Generated typography, exact board layout, garments, bags, notebooks, jewelry, environments, background people and incidental lighting remain presentation variables. Do not turn hand-on-cheek posing, a half-smile, golden-hour light, one satchel, one cardigan, school-uniform ancestry or the later short-black-dress Stage appearance into mandatory Alternate signatures.
 
 This freeze does not alter Canonical Bellweather's primacy, does not merge Alternate with Mediate, and creates no app UI, website production, runtime/product-semantic or universal Character-style authority.
+
+### Narrative references and no-text artwork
+
+Alternate's defining narrative reference is governed by `docs/evidence/BELLWEATHER_ALTERNATE_VISUAL_FREEZE_01.md` and registered packet `PKT-BELLWEATHER-ALTERNATE-NARRATIVE-01`. Narrative composition does not replace the portrait or family identity controls. A visible interaction may invite interpretation without establishing a specific event, relationship or consequence.
+
+The Director requires no text in future generated Bellweather artwork: no baked-in words, slogans, captions, labels, logos or readable signage/prop lettering. Documentation and filenames are not artwork; this does not alter existing website typography or functional app UI. Preserve selected original pixels and non-selected predecessors; make no automatic reroll or production promotion from narrative selection.
