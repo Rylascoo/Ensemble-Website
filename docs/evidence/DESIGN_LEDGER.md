@@ -3661,3 +3661,18 @@ Crop 02 remains unadopted pixels. A later chat-only comparison image helped clar
 **Exact next action:** one bounded doorway-only successor study from the original verified Reference 17 crop and unchanged Boundary 01 using the simplified two-depth, full-length curtain construction. Any later full-size composite still requires exact decoded-pixel equality outside Boundary 01.
 
 **DIRECTOR SYNTHESIS RECORDED - FOUNDATIONAL PLACEHOLDER SUCCESSOR PURPOSE CLARIFIED; CURTAIN MECHANISM CONTINUES; REFERENCE 17 AND PRODUCTION UNCHANGED.**
+
+
+## L-233 - Bellweather Alternate website-role chat archive and fresh-chat handoff
+
+**State:** CURRENT-CHAT ASSET ARCHIVE VERIFIED / L-231 IDENTITY MASTER UNCHANGED / POST-FREEZE ROLE STUDY UNSELECTED / FRESH-CHAT RECOVERY READY / PRODUCTION UNCHANGED
+
+After L-231 froze Bellweather Alternate Website Identity Master 01, the Director asked to continue refining Alternate's website role and then prepare a fresh-chat handoff. The current chat's eight non-master image outputs are archived in Drive folder `1TiDuObTZjgpQwIthAB9tAKQhXDb000WR`; the frozen L-231 master remains separately canonical in Drive `1MOXHyUMLFbfUW_ejqGvUE1gtwpWdHfc5`. Fresh raw Drive readbacks of all eight archived PNGs match the source byte sizes and SHA-256 values recorded in `docs/evidence/BELLWEATHER_ALTERNATE_WEBSITE_ROLE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json`.
+
+The exploration established a corrective boundary: repeated café/relationship storyboards and creator-metaphor imagery were useful failure evidence but are not the website identity task. Alternate remains website-only mascot/brand research, distinct from Canonical and Mediate. The stable role thesis is **BEFORE / POSSIBILITY** as a specific persistent person in a specific circumstance with more than one believable next direction.
+
+The post-freeze image `1meuxpRrY7QTtOjJr4OFnZDDWPhDzRVmU` is preserved as **unselected exploration**. It does not supersede or modify L-231. Fresh-chat recovery must review that existing image against the frozen identity master, original Exploration Sequence, L-225 family board, L-226 narrative reference and Canonical/Mediate distinction before any further image generation.
+
+Current Drive handoff: `1nSZYQ6NiCejyKCstAJNhvqH1rRniwEwiLZ-c_zMMnsQ`. No-text artwork law remains active. No `site/public/**`, app UI, runtime/product semantics, production artwork or universal Character styling changed. The separate Reference-17/Stage lane remains concurrent and must not be resumed from this mascot handoff by default.
+
+**ARCHIVE CLOSEOUT RECORDED — L-231 MASTER UNCHANGED; LATEST POSSIBLE-WORLDS STUDY UNSELECTED; FRESH-CHAT ROLE-REFINEMENT RECOVERY READY.**
