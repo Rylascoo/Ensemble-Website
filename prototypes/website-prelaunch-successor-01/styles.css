@@ -840,6 +840,8 @@ a {
 @media (forced-colors: active) {
   html,
   body,
+  .hero,
+  .topbar,
   .section,
   .section-dark,
   .section-deep,
@@ -863,6 +865,10 @@ a {
     display: none;
   }
 
+  .wordmark,
+  .brand-mini,
+  .launch-chip,
+  .discover,
   .eyebrow,
   .lede,
   .quiet-copy,
