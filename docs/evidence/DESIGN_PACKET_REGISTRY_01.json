@@ -173,6 +173,14 @@
       "status": "FROZEN_LOCAL_RESULT",
       "current_contribution": "Bellweather Alternate Website Identity Master 01; distinct BEFORE / POSSIBILITY physical-presence reference",
       "production_authority": false
+    },
+    {
+      "packet_id": "PKT-BELLWEATHER-ALTERNATE-SCENARIO-01",
+      "path": "docs/evidence/packets/PKT_BELLWEATHER_ALTERNATE_SCENARIO_ARCHITECTURE_01.json",
+      "axis": "mascot / website role / circumstance mechanism",
+      "status": "FROZEN_LOCAL_RESULT",
+      "current_contribution": "Interrupted Intention selected as the next Alternate role-study mechanism: one ordinary ongoing intention is interrupted by a low-stakes circumstance while multiple human responses remain credible; no render or production authority.",
+      "production_authority": false
     }
   ],
   "known_whole_system_gaps": [
