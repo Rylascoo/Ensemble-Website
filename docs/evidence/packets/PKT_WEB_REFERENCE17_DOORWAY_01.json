@@ -89,14 +89,16 @@
     ],
     "visual": [
       "Actual Reference 17 inspected. Prior four-output judgments recovered from issue #125 and Drive notes; not newly rescored.",
-      "prototypes/website-reference17-doorway-crop-01/index.html: source crop, rejected raw Crop 01 and diagnostic mask."
+      "prototypes/website-reference17-doorway-crop-01/index.html: source crop, rejected raw Crop 01 and diagnostic mask.",
+      "prototypes/website-reference17-doorway-crop-02/index.html: vertical-hanging partial gain; not adopted."
     ],
     "accessibility": [
       "Not evaluated as a UI or published website candidate."
     ],
     "invalid_or_superseded_attempts": [
       "Four archived full-scene outputs are comparison/failure evidence, not masked edits.",
-      "REF17-CROP-01: bands obstruct passage; raw output is not pixel locked; no composite or retry."
+      "REF17-CROP-01: bands obstruct passage; raw output is not pixel locked; no composite or retry.",
+      "REF17-CROP-02: hanging direction improves; staggered passage and unequal concealed light depths unresolved. No composite or retry."
     ]
   },
   "dependencies": {
@@ -125,7 +127,7 @@
   "explicit_non_authority": [
     "No production-shaped candidate, publication or site/public mutation",
     "No mascot/app/product/Engineering change",
-    "No mask geometry frozen yet",
+    "Boundary 01 is prepared/preflighted, not a completed creative edit or composite",
     "No composite or pixel-preserving edit has yet been performed",
     "No new paid-tool setup or TRIGGERcmd activity"
   ],
@@ -142,7 +144,10 @@
       "docs/evidence/packets/PKT_WEB_REFERENCE17_DOORWAY_01.json",
       "docs/evidence/DESIGN_LEDGER.md",
       "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_01_RESULT.json",
-      "prototypes/website-reference17-doorway-crop-01/index.html"
+      "prototypes/website-reference17-doorway-crop-01/index.html",
+      "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_02_PREREGISTRATION.json",
+      "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_02_RESULT.json",
+      "prototypes/website-reference17-doorway-crop-02/index.html"
     ],
     "drive_visual_masters": [
       "1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit"
@@ -162,13 +167,31 @@
     "whole_app_synthesis_status": "NOT_APPLICABLE_WEBSITE_ARTWORK_ONLY"
   },
   "latest_crop_gate": {
-    "ledger": "L-229",
-    "status": "REJECTED_RAW_CROP_NO_COMPOSITE",
-    "result": "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_01_RESULT.json",
-    "drive_result_id": "1m_IkrIGibos7t0VZFxuxuGEM9Z9E3NPK",
+    "ledger": "L-230",
+    "status": "REJECTED_AS_REPLACEMENT_PARTIAL_HANGING_MECHANISM_GAIN",
+    "result": "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_02_RESULT.json",
+    "drive_result_id": "1v7_yQcHstQIgH6y7sfB-TD2W-qfT1keb",
     "attempts_consumed": 1,
     "reference17_retained": true,
     "actual_composite": false,
     "no_default_reroll": true
-  }
+  },
+  "crop_gate_history": [
+    {
+      "ledger": "L-229",
+      "status": "REJECTED_RAW_CROP_NO_COMPOSITE",
+      "result": "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_01_RESULT.json",
+      "drive_result_id": "1m_IkrIGibos7t0VZFxuxuGEM9Z9E3NPK",
+      "attempts_consumed": 1,
+      "reference17_retained": true,
+      "actual_composite": false,
+      "no_default_reroll": true
+    }
+  ],
+  "continuity_corrections": [
+    {
+      "ledger": "L-230",
+      "correction": "Replaced stale no-mask-geometry clause with Boundary 01 preflight status earned at L-229; no geometry or original evidence changed."
+    }
+  ]
 }

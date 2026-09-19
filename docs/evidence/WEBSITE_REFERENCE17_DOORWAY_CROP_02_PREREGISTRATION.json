@@ -1,0 +1,83 @@
+{
+  "schema": "kymaean.reference17.crop02-preregistration.v1",
+  "date": "2026-09-19",
+  "experiment": "REF17-CROP-02",
+  "status": "FROZEN_BEFORE_GENERATION",
+  "authority": {
+    "repository": "Rylascoo/Ensemble-Website",
+    "baseline": "31334197db7e751c62ff763d5513e9b780f1ec80",
+    "predecessor": "L-229; Crop 01 remains rejected, not reopened",
+    "director_authorization": "Explicit continue after the separately bounded hanging-curtain successor was proposed; ordinary design gates under standing clean-recursive-audit delegation."
+  },
+  "bounded_question": "Can freely hanging vertical panels, staggered in depth, conceal the doorway without blocking discoverable passage?",
+  "source": {
+    "drive_id": "1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit",
+    "sha256": "8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "crop_xyxy_exclusive": [
+      701,
+      150,
+      959,
+      533
+    ],
+    "input_dimensions": [
+      258,
+      383
+    ],
+    "input_sha256": "eeeb79757c1630ecf0b58bed2df3aa6270d8a1843d363d71aece2e1249021d29",
+    "input_repository_path": "prototypes/website-reference17-doorway-crop-01/source-adobe-crop.png",
+    "input_pixels_vs_source_different": 0
+  },
+  "boundary": {
+    "name": "Boundary 01 unchanged",
+    "crop_local_mask_drive_id": "1yTsFqpc9BC8TBom_n5MN7Nt_AaypY0eO",
+    "decoded_l_sha256": "df4800ffab910dbb526f9c90de8d48d06278cdb479119cf9035ca17f66663124",
+    "nonzero_pixels": 39975,
+    "widening_allowed": false
+  },
+  "execution": {
+    "tool": "Adobe.image_instruct_edit",
+    "prompt": "Keep this doorway crop, arch, warm edge catches, perspective and floor unchanged. Rework only the curtains and concealed light within the opening. Use two heavy working-black stage curtains hanging freely from above in long vertical pleats. The nearer left curtain hangs farther toward the center; the right curtain is farther back. Their loose vertical edges are staggered in depth, leaving a narrow irregular vertical opening that reaches the floor and suggests a person could pass between them into space out of sight. No fabric crosses or wraps horizontally across that route. Conceal most of the deeper room. Through one small interruption behind the left fold, reveal a thin, distant mineral-teal glimpse; behind the farther right fold, allow only a much softer, mostly obstructed smoky-plum trace. Colors are barely visible indirect atmosphere behind fabric, not bright beams, cones or colored curtain/jamb edges. Black fabric and dark spatial depth dominate. No tied-back presentation, horizontal bands, ribbons, swags, diagonal wrapping, flat closed curtain, new architecture, steps, bright sill, fixtures, people, mascot, text, logo or portal.",
+    "seed": 19818,
+    "n": 1,
+    "resolutionLevel": "1MP",
+    "promptReasoner": "quality",
+    "outputFileType": "png",
+    "attempt_budget": 1,
+    "retries": 0,
+    "input_is_original_crop_only": true,
+    "failed_crop01_supplied": false
+  },
+  "acceptance": [
+    "Curtains hang vertically under gravity rather than forming bands across the doorway.",
+    "A continuous irregular passage reaches the floor; not a sealed curtain wall.",
+    "Teal is narrower and deeper; plum softer and more obstructed, with no paired mini-spotlights or colored jambs.",
+    "No invented subjects, fixtures, steps, lettering, bright sill or portal."
+  ],
+  "output_policy": {
+    "raw_output": "Untrusted crop-only visual proposal, never a pixel-locked edit. Inspect and preserve it at its native returned size.",
+    "this_package": "Crop review only; no full-size composite, resizing, warping, mask change or post-result rescue.",
+    "later_composite": "Only after a valid crop mechanism and separately fixed registration; restore original decoded pixels outside Boundary 01 and verify every outside RGBA pixel before calling it controlled.",
+    "stop": "One returned result closes this attempt. Report failure or Director review; no automatic reroll."
+  },
+  "preflight": {
+    "source_and_mask_reverified": true,
+    "support_scope": "Only the existing doorway crop goes to generation. Full-scene file remains untouched.",
+    "recursive_audit": "APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.",
+    "not_claimed": [
+      "Native Windows/app validation",
+      "Adobe input-mask support",
+      "Actual full-size composite equality",
+      "Publication authority"
+    ]
+  },
+  "prohibitions": [
+    "site/public/** changes",
+    "mascot/app/Engineering mutation",
+    "TRIGGERcmd",
+    "whole-scene generation"
+  ]
+}

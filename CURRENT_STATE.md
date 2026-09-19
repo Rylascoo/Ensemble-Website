@@ -13,13 +13,13 @@ L-204 remains production authority: pre-Bellweather V2.2 is live; `site/public/*
 ## Homepage design state
 L-208/L-209 static-motion evidence remains earned. L-213 freezes Mediate; L-215 preserves Alternate BEFORE/POSSIBILITY ancestry. L-225 freezes Alternate at family-board level; L-226 holds its defining narrative reference without reroll. L-227 records verified chat-asset/Drive handoff closeout; recovery: `docs/evidence/BELLWEATHER_ALTERNATE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json`. Canonical remains primary.
 
-L-212/L-214 preserve the mascot-free foundation; Phase 2 stays deferred. L-228 integrated issue #125 and retained Reference 17 over four whole-scene failures. L-229 records the verified crop, Boundary 01 preflight and one rejected crop-only edit: horizontal bands obstruct passage. Reference 17 stays preferred; no composite or production promotion.
+L-212/L-214 preserve the mascot-free foundation. Phase 2 remains deferred. L-228 retained Reference 17 over four whole-scene failures. L-229 rejected horizontal bands. L-230 records Crop 02: vertical hang improves, but shortened hems and paired lower color pools leave concealed passage unresolved. Neither crop is adopted; no composite.
 
-Reference 17: Drive `1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit`; 1672 x 941; SHA-256 `8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44`. Keep the full scene and threshold fixed.
+Reference 17: Drive `1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit`; 1672 x 941; SHA-256 `8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44`. Keep the full scene, threshold and Boundary 01 fixed.
 
-Result: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_01_RESULT.json`; review: `prototypes/website-reference17-doorway-crop-01/index.html`; packet `PKT-WEB-REF17-DOOR-01`. Crop/mask preflight only; no actual composite exists.
+Result: `docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_02_RESULT.json`; review: `prototypes/website-reference17-doorway-crop-02/index.html`; packet `PKT-WEB-REF17-DOOR-01`.
 
-Drive archive `1QMKQFqJy5yQbyP5I_Mt8OQn-sacqtTga` holds verified crop/mask diagnostics and report `1m_IkrIGibos7t0VZFxuxuGEM9Z9E3NPK`. Exact Adobe input/output PNGs are in the review packet; original-encoding Drive copies remain pending. Older native handoff/synthesis are earlier context.
+Drive archive `1QMKQFqJy5yQbyP5I_Mt8OQn-sacqtTga` holds preregistration `16rbhEAMh1I3oqvWpMXXr15_QML-2wzS6` and result `1v7_yQcHstQIgH6y7sfB-TD2W-qfT1keb`. Exact Adobe input/Crop 01/Crop 02 PNGs are in repository evidence; original-encoding Drive copies remain pending. Older checkpoints stay historical.
 
 ## Cross-surface boundary
 Website metaphor creates no app semantics. Consult current Project authority for runtime truth. This continuation does not resume paused app, mascot or Engineering work.
@@ -27,4 +27,4 @@ Website metaphor creates no app semantics. Consult current Project authority for
 ## Maintenance
 The apex redirect double-slash quirk remains separate debt. TRIGGERcmd stays deferred.
 
-**Exact next action:** review Crop 01's passage failure, then define a separately bounded hanging-curtain successor if continued. Hold Reference 17 and the inset boundary; no default reroll or mask widening to rescue the result. No full-scene generation, people/mascot, text/logo, new steps, bright sill, fixtures, portal or site/public change. Any later composite must pass actual exact decoded-pixel equality outside its allowed region before being called controlled.
+**Exact next action:** Director synthesis of Crop 02 before another render. Proposed later construction: two full-length panels at different depths with one off-center vertical gap, not shortened hems; no new attempt is commissioned. Hold Reference 17 and Boundary 01. No full-scene generation, people/mascot, text/logo, new steps, bright sill, fixtures, portal or site/public change. A later composite requires actual exact decoded-pixel equality outside its allowed region.
