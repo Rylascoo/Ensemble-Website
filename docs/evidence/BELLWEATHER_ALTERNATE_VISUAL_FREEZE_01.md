@@ -160,3 +160,10 @@ The freeze establishes Alternate's website-facing physical presence: long freer 
 The ancestry / family / website-identity / narrative reference jobs remain separate. This master does not replace L-225 or L-226 and does not change Canonical primacy or Mediate's separate freeze.
 
 **Next boundary:** refine Alternate's website role within Kymaean's concept from this exact identity. Explore BEFORE / POSSIBILITY as human encounter and open direction; do not turn her into an app operator, narrator, product-semantic state, tutorial guide or functional app-UI element. No baked-in text, production promotion or site/public change follows from this freeze.
+
+
+## Website Role Refinement Fresh-Chat Handoff — 2026-09-19
+
+Current role-refinement archive: Drive folder `1TiDuObTZjgpQwIthAB9tAKQhXDb000WR`; START HERE handoff `1nSZYQ6NiCejyKCstAJNhvqH1rRniwEwiLZ-c_zMMnsQ`; repository archive record `docs/evidence/BELLWEATHER_ALTERNATE_WEBSITE_ROLE_CHAT_ARCHIVE_HANDOFF_2026_09_19.json`.
+
+L-231 remains the exact website identity master. The later possible-worlds study `1meuxpRrY7QTtOjJr4OFnZDDWPhDzRVmU` is unselected exploration and must be reviewed before additional generation. Preserve the four reference roles, Canonical primacy, Mediate separation, website-only mascot boundary and no-text artwork rule. Do not resume the separate Stage lane merely because global CURRENT_STATE names it.
