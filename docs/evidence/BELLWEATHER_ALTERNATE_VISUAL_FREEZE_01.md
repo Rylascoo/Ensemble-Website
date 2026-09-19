@@ -182,3 +182,15 @@ A later role study, if separately authorized, should therefore test **branching 
 
 L-231 remains unchanged as website-facing physical identity master. L-225 remains family/behavior authority; L-226 remains narrative/world-relationship authority; Canonical remains primary; Mediate remains separately frozen. No new image generation, production promotion, `site/public/**` change or app/product-semantic authority follows from this review.
 
+## Full identity-development reopening — L-236 — 2026-09-19
+
+The Director reopened Bellweather Alternate for full identity development after a whole-Drive mascot audit found that its prior evidence did not yet match the rigor used to establish Canonical Bellweather and Bellweather Mediate.
+
+L-225, L-226 and L-231 remain preserved exact historical/frozen evidence with their existing jobs. They are not deleted or rewritten. However, they are no longer sufficient to claim that Bellweather Alternate's complete mascot identity is fully developed: L-225 is one composite board rather than six standalone full-resolution masters; no comparable Alternate turnaround, dedicated motion/position family, natural-expression family or front-facing face/seated/full-body/world control quartet has yet been established.
+
+The active development method is `docs/evidence/BELLWEATHER_ALTERNATE_IDENTITY_DEVELOPMENT_REBUILD_01.md`. It returns to the original Exploration Sequence and favored Before anchor and defines Alternate as a clearly adult **novice explorer of infinite worlds and storylines**: exploratory, outward-looking, world-responsive and still learning how to inhabit radically different circumstances. Mediate remains transformation; Canonical remains integrated persistence/mastery. This is mascot/brand conceptual progression inspired by the app concept, not literal runtime/product-state semantics.
+
+L-235 Interrupted Intention is superseded as the active direction and preserved only as diagnostic evidence. The recent ruins/orbital/historical-bazaar studies restore useful breadth but are not frozen identity authority; their repeated brown/olive layers, burgundy scarf, backpack/tools and golden light are explicitly non-authoritative and must not become an Alternate uniform.
+
+**Current next action: ALT-ID-01 face / age / hair control only.** No new world/role expansion and no final Alternate freeze until the full rebuild program reaches its final gates and passes recursive audit.
+

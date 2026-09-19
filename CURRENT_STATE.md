@@ -11,7 +11,7 @@ Website/design authority: `Rylascoo/Ensemble-Website`; engineering/product truth
 L-204 remains production authority: pre-Bellweather V2.2 is live; `site/public/**` remains the exact baseline from `538fa349e046041e2759748d54fda176ac6a9749`. Frozen Stage SHA-256: `c3db042c590ad97bb44d39e9840a5d7259cd0352f2915dadb5a00df896e945c3`. No new production candidate is authorized.
 
 ## Homepage design state
-L-213 freezes Mediate. Alternate controls: L-215 ancestry, L-225 family, L-226 narrative, L-231 website master `1MOXHyUMLFbfUW_ejqGvUE1gtwpWdHfc5`. L-234 keeps Study 01 diagnostic; L-235 freezes **Interrupted Intention** as the next role-study mechanism (`PKT-BELLWEATHER-ALTERNATE-SCENARIO-01`) with no render. Canonical remains primary; jobs stay separate. Handoff: `1nSZYQ6NiCejyKCstAJNhvqH1rRniwEwiLZ-c_zMMnsQ`.
+L-213 freezes Mediate. Alternate controls L-215 ancestry / L-225 family / L-226 narrative / L-231 website master remain preserved, but L-236 reopens **Alternate identity development** after a 962-image Drive census and supersedes L-235 as active direction. Alternate = adult novice explorer / infinite-world possibility; Mediate = transformation; Canonical = integrated persistence. Method: `docs/evidence/BELLWEATHER_ALTERNATE_IDENTITY_DEVELOPMENT_REBUILD_01.md`.
 
 L-212/L-214 preserve the mascot-free foundation; Phase 2 stays deferred. L-228 retained Reference 17 over four whole-scene failures. L-229 rejected horizontal bands. L-230 kept Crop 02 only as partial hanging-curtain evidence. L-232 records Director synthesis: this program defines the foundational placeholder successor until the app is finished, not a final app depiction; the curtain-based mechanism is the preferred continuation, while Crop 02 itself remains unadopted.
 
@@ -25,4 +25,4 @@ Website metaphor creates no app semantics. Bellweather work here is website-only
 ## Maintenance
 The apex redirect double-slash quirk remains separate debt. TRIGGERcmd stays deferred.
 
-**Exact next action:** execute one bounded doorway-only successor from the original verified crop: plain full-length working-black curtains at two depths, one irregular off-center passage, narrow deeper teal glimpse, and much softer obstructed plum trace. No shortened hems, bands, ornate arch drift, full-scene generation, people/mascot, text/logo, steps, bright sill, fixtures, portal or `site/public/**` change. Any later composite must prove exact decoded-pixel equality outside Boundary 01.
+**Exact next action:** Bellweather Alternate **ALT-ID-01 face / age / hair control** only. Recover the original Exploration Sequence + favored Before anchor + L-231 control; prove one adult face across front / three-quarter / profile-adjacent / turning views with longer/freer chestnut-brunette hair and no costume/prop/world dependence. No final Alternate freeze or new world-role expansion until this gate is clean. Reference-17 doorway work remains preserved but not active.
