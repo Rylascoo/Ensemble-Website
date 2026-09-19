@@ -4143,3 +4143,27 @@ The matching Drive master is `Kymaean Alpha Stage Information & Disclosure Archi
 **Next boundary:** L-264 through L-266 now form the static Alpha app/Stage baseline. Further Design work may refine individual static surfaces/components against this baseline, but runtime/timing/Scene/Take/provider semantics remain separately gated. Q-DESIGN-20 / APPUI-QDESIGN20-R2 sequencing remains unchanged.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
+
+## L-267 - Alpha Stage state-witness grammar freezes non-color redundancy without creating new state semantics
+
+**State:** STATIC STATE-WITNESS GRAMMAR ACTIVE / STRUCTURE + TEXT BEFORE COLOR OR MOTION / ORTHOGONAL STATE COLLISION LAW / NO NEW PRODUCT SEMANTICS
+
+With Engineer #2 continuing independently, Design opened only the next static-safe Alpha unit. Fresh reconciliation against selected cone-carrier law, cone interaction law, Phase-2 density/silence/relationship/nonverbal-refusal studies, the Phase-3 static visual system and L-264 through L-266 found enough existing evidence to consolidate how Stage state must remain legible without color, portraits, imagery, exact spatial position or motion.
+
+`docs/evidence/APPUI_ALPHA_STAGE_STATE_WITNESS_REDUNDANCY_GRAMMAR_01.json` freezes the redundancy principle: every essential state requires at least one structural or textual witness that survives loss of color and motion. Decorative color, glow, texture and later motion may reinforce that witness but may never become its sole semantic carrier.
+
+The grammar separates seven conceptual witness responsibilities without inventing Product modes: identity; fictional presence/performance; current opportunity where Product truth exposes it; creator interaction; relationship salience; temporal/effect status; and application/infrastructure truth. Character name + stable programmatic identity remain primary. Listening, speaking/performance, performed silence, nonverbal action and refusal remain explicit fictional meanings. Current opportunity requires an independent non-color witness and stays separate from selection/focus/performance/salience.
+
+STA F2 remains the static reference for creator interaction: focus is an independent solid outer ring and selection is a persistent structural edge witness. On Stage, both concentrate at the floor/name interaction hinge rather than wrapping the full cone. Focus and selection may coexist or target different locations without merging. Accent may reinforce selection but cannot carry it alone.
+
+The static system’s solid/dashed/dotted + label vocabulary remains available for current/historical/provisional information status, not as automatic Character-performance styling. Infrastructure remains application-side and must not dim, silence, refuse, remove or otherwise mutate a Character to explain capability/persistence/runtime state. Relationship salience remains quiet grouping only and cannot imply type, score, strength, direction, permanence, emotion or obligation.
+
+Explicitly rejected drift includes color-only or motion-only state, portrait-only identity, full-cone selection cards, one generic glow for focus+selection+opportunity+speaking, dimmed listeners as absence, silence as blank output, refusal as system error, relationship scoring/graphs from proximity, technical state inside Character performance, and invented pip/icon vocabularies without a separate semantic need.
+
+The matching Drive master is `Kymaean Alpha Stage State Witness & Redundancy Grammar 01` in `26 Alpha Foundational UI & Stage Constitution — 2026-09-18`.
+
+Exact colors/textures, final state copy, redundant identity symbol, relationship geometry, motion/timing/cadence, state/opportunity/relationship algorithms, performance-modality iconography, native screen-reader behavior and forced-colors/high-contrast validation remain open. No Engineering mutation or Engineer #2 interruption occurred.
+
+**Next boundary:** L-264 through L-267 form the current static Alpha app/Stage baseline. Design may continue into a static Character-anchor/component anatomy specification or later native acceptance work, but must not open runtime/timing/state algorithms while Engineer #2 is still earning Product semantics.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION - CLEAN RECURSIVE AUDIT.**
