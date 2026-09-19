@@ -1,0 +1,45 @@
+{
+    "schema":  "kymaean.reference17.crop04-raw-capture.v1",
+    "date":  "2026-09-19",
+    "experiment":  "REF17-CROP-04",
+    "state":  "RAW_OUTPUT_PRESERVED_BEFORE_VISUAL_DISPOSITION",
+    "repository_baseline":  "f64613aef281b1267ea2a0790489c983609488bd",
+    "preregistration":  "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_04_PREREGISTRATION.json",
+    "source":  {
+                   "reference17_drive_id":  "1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit",
+                   "reference17_sha256":  "8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44",
+                   "carrier_drive_id":  "1LD4IiS8AKglVpA1aTH1mfxvDcVaxZL6R",
+                   "carrier_png_sha256":  "a3d43d4df462a884506789c37c1bc5d79e17faf9b06e06e1109c5865efa7b503",
+                   "crop_xyxy_exclusive":  [
+                                               701,
+                                               150,
+                                               959,
+                                               533
+                                           ],
+                   "crop03_pixels_supplied":  false
+               },
+    "adobe":  {
+                  "request_id":  "ed3e81a7-f7c3-4eff-9d36-63bc542cd03e",
+                  "output_url":  "https://photoshop-api.adobe.io/v2/short-url/urn:aaid:ps:US:30b5dd18-971e-49e6-a7d6-928866406162",
+                  "generation_asset_id":  "urn:aaid:sc:US:58397ae6-16e8-4aed-a605-70ae22853d9b",
+                  "generation_asset_name":  "Keep this original Reference-17  19818 wOl.ffgenimg",
+                  "generation_asset_size":  665861,
+                  "input_asset_id":  "urn:aaid:sc:US:e108779e-f513-4301-90ab-cbbbc336b3e5",
+                  "seed":  19818,
+                  "attempt":  1,
+                  "retries":  0
+              },
+    "raw_png":  {
+                    "repository_path":  "prototypes/website-reference17-doorway-crop-04/REF17_CROP04_RAW_ADOBE.png",
+                    "sha256":  "95bddeee8cf271022108a5ecab2014d6b67bd81a2635d28039a38b1ff6e78656",
+                    "bytes":  524365,
+                    "width":  768,
+                    "height":  1152,
+                    "pixel_format":  "Format24bppRgb"
+                },
+    "disposition":  "UNEVALUATED",
+    "adopted":  false,
+    "controlled_composite":  false,
+    "reference17_advanced":  false,
+    "site_public_changed":  false
+}
