@@ -4050,3 +4050,21 @@ Belle Identity Foundation 02 remains the person-level authority. The canonical f
 No `site/public/**` adoption, production-artwork promotion, Reference-17 change, Bellweather/Lou change, application-design authority change or app UI/runtime/product-semantic change is created.
 
 **DIRECTOR-CONFIRMED EXPLORATION MILESTONE RECORDED — FOUR DISTINCT COSTUME-LANGUAGE REFERENCES PRESERVED; NUMBERED COSTUME LIBRARY AND PRODUCTION REMAIN UNCHANGED.**
+
+## L-251 - Belle 04F Mended Memory micro-refinement advances current reference
+
+**State:** 04F CURRENT REFERENCE ADVANCED / PREDECESSOR PRESERVED / FOUR-STUDY FAMILY INTACT / NO COSTUME 06+ PROMOTION / PRODUCTION UNCHANGED
+
+After L-250 preserved the four-study costume-language family, the Director agreed with Design Sol's branch-specific micro-refinement of **04F — Mended Memory**. The prior reference was retained as predecessor evidence. The new 04F study reduces adventure-utility clutter and strengthens the intended Handmade / Repaired language through visible darning, patched panels, replaced cloth, reinforced seams and repeated human repair.
+
+New current 04F Drive reference: `1HQscdS03Vj596MKbiPhB_d6vW_FvywFL`, SHA-256 `bfdb6723d0a6547fa00a235543f0e621734c9e2b96314eff5ba218a76f9b9fc4`.
+
+Preserved predecessor 04F: `1vfZqbKJ0OExT4-an57dC3VW0XMb2CxU0`, SHA-256 `2bacfe6a3b8eb9a82bd36f02ce2c9899705dfc6a767c03fa1ae97308b7fa23e9`.
+
+Focused-family Manifest v2: `1D2sj_Z9si85_3_O5Qxo_uIjqOQ83_lIx`, SHA-256 `b1c0cf751550dfa17ba5c34502e8a43ad6bdf252f546c9ab7920d2d2a37ee02e`. The prior manifest `12-_y7oJPRCEz5-DywAMQnmPQ2G5MZeTc` remains preserved as the L-250 milestone record.
+
+The family grammar remains unchanged: 04F = accumulation/repair; 05H = subtraction/restraint; 06C = structure/planes/intersections; 06D = motion/drape/changing negative space. The deterministic four-way comparison from L-250 remains milestone evidence and is not falsely relabeled as an exact composite of the new 04F v2.
+
+Belle Identity Foundation 02 and Costumes 01–05 remain unchanged. No `site/public/**`, production, Reference-17, Bellweather, Lou, application-design or app UI/runtime/product-semantic authority changed.
+
+**DIRECTOR-CONFIRMED MICRO-REFINEMENT RECORDED — 04F CURRENT REFERENCE ADVANCED; FOUR-STUDY FAMILY AND ALL EXTERNAL BOUNDARIES PRESERVED.**
