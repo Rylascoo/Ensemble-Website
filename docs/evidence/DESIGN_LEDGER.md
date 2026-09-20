@@ -3915,3 +3915,23 @@ Google Drive current-state document `12bbwxkodA8DeAJYfDbWSXmyHgGp9AzPIeL_rZclTjs
 This is a focus simplification, not a deletion or historical rewrite. No `site/public/**`, production website artwork, Reference-17 work, Bellweather/Lou authority, app UI/runtime/product semantics, or application-design authority changed.
 
 **DIRECTOR SIMPLIFICATION RECORDED — BELLE DEVELOPMENT NOW FOCUSES ON COSTUME 01 AND COSTUME 02; TRANSITION REMAINS PRESERVED AS HISTORICAL BRIDGE EVIDENCE ONLY.**
+
+
+## L-246 - Belle Costume 02 exact source corrected to third-previous theatrical render
+
+**State:** DIRECTOR SOURCE CORRECTION / EXACT PRIOR RENDER SELECTED / COSTUME 01 UNCHANGED / IDENTITY FOUNDATION 02 UNCHANGED / TRANSITION HISTORICAL / PRODUCTION UNCHANGED
+
+The Director corrected Costume 02 source continuity after identifying that the desired theatrical costume was the exact right-side Costume 02 panel from the third-previous generated image `a_high_end_cinematic_character_design_concept_ar.png`, not either of the two later Costume-02 comparison reinterpretations.
+
+The selected exact pixels were cropped without regeneration and preserved in Google Drive:
+- Folder **04 Costume 02 Source Selection — 2026-09-20**: `1RwJa2EdWiOpt16zMOnq9qoxnHVysXqcD`
+- Exact selected Costume 02 source: `1wOkPsl5T46KaSATW30MfdlgeflrWe7Ny`
+- Source-selection manifest: `1QCHaTatBe0yUBRTSvlUPGBViQreHbX2n`
+
+This selected render is now the active Costume 02 source for further Belle theatrical-costume refinement. The two later Costume 02 variants remain comparison evidence only and may not silently supersede it. Belle Identity Foundation 02 remains person-level authority; Costume 01 remains unchanged; Transition remains historical bridge evidence only.
+
+Drive current-state document `12bbwxkodA8DeAJYfDbWSXmyHgGp9AzPIeL_rZclTjsA` records the same source correction.
+
+No `site/public/**`, production website artwork, app UI/runtime/product semantics, Bellweather/Lou authority, Reference-17 work, or application-design authority changed.
+
+**DIRECTOR SOURCE CORRECTION RECORDED — USE THE EXACT THIRD-PREVIOUS THEATRICAL RENDER AS BELLE COSTUME 02 SOURCE; LATER REINTERPRETATIONS ARE NON-AUTHORITATIVE COMPARISON EVIDENCE.**
