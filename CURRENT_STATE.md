@@ -24,7 +24,13 @@ Diagnostic: prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic
 ## Cross-surface boundary
 Website metaphor creates no app semantics. Engineering truth remains in Project.
 
+## Q-ADMIN-05 source freeze
+
+`ADMIN-Q05-SOURCE-FREEZE-01` freezes the 22 Project receiving-manifest bundles at exact Website source identities in `docs/Q_ADMIN_05_APP_DESIGN_SOURCE_FREEZE_2026_09_20.md`. Website-only data is excluded. Authority transfer has not executed; Website remains current app-design authority until Project receipt/validation and Website pointer closure. Website production authority and `site/public/**` are unchanged.
+
 ## Maintenance
 TRIGGERcmd stays deferred.
 
-**Exact next action:** Director + Design Sol review the exact full-scene diagnostic at website scale. Do not generate again, promote Crop 04, alter Reference 17/Boundary 01, or touch site/public/** before visual disposition.
+**Exact next Website action:** Director + Design Sol review the exact full-scene diagnostic at website scale. Do not generate again, promote Crop 04, alter Reference 17/Boundary 01, or touch site/public/** before visual disposition.
+
+**Exact next Q-ADMIN-05 action:** `ADMIN-Q05-TRANSFER-01` may materialize only the frozen non-Website bundle set in an authorized Project worktree; do not execute transfer from this package.
