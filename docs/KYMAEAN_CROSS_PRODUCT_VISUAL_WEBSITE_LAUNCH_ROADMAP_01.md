@@ -4,6 +4,8 @@
 
 Status: CANONICAL DESIGN-SEQUENCE ROADMAP / DIRECTOR-APPROVED DIRECTION / IMPLEMENTATION AND LAUNCH VALIDATION REMAIN GATED
 
+Transition note (2026-09-20): this roadmap remains Website/cross-surface lineage, but its application-design sequence is historical. Current application-design authority resides in `Rylascoo/Ensemble-Project/docs/design/app/**`; Website-specific launch and implementation authority remains here. See `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`.
+
 Date: 2026-09-04
 
 ## 0. Purpose

@@ -19,3 +19,5 @@ jobs:
         run: python3 tools/validate_repository_boundaries.py
       - name: Verify Q-ADMIN-05 recursive source closure
         run: python3 tools/validate_qadmin05_recursive_closure.py --self-test
+      - name: Verify Q-ADMIN-05 Website authority transition
+        run: python3 tools/validate_qadmin05_transition.py

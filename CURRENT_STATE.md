@@ -5,7 +5,7 @@
 Updated: 2026-09-20
 
 ## Authority
-Website/design authority: Rylascoo/Ensemble-Website; engineering/product truth: Rylascoo/Ensemble-Project/CURRENT_STATE.md. Bootstrap: AGENTS.md; workflow: docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md; ledger: docs/evidence/DESIGN_LEDGER.md.
+Website design/implementation authority: Rylascoo/Ensemble-Website. Application design authority: Rylascoo/Ensemble-Project/docs/design/app/. Shared visual masters: Google Drive Ensemble Project. Cross-surface governance: Ryladmin. Bootstrap: AGENTS.md; transition: docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md; workflow: docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md; ledger: docs/evidence/DESIGN_LEDGER.md.
 
 ## Production
 L-204 remains production authority: pre-Bellweather V2.2 is live; site/public/** remains unchanged. No new production candidate is authorized.
@@ -24,13 +24,13 @@ Diagnostic: prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic
 ## Cross-surface boundary
 Website metaphor creates no app semantics. Engineering truth remains in Project.
 
-## Q-ADMIN-05 source freeze
+## Q-ADMIN-05 Website handoff
 
-`ADMIN-Q05-SOURCE-FREEZE-01` is **FROZEN FOR TRANSFER - RECURSIVE AUTHORITY CLOSURE VERIFIED**. All 22 bundles close over 203 sealed source identities; unresolved authority references and full confirmation-pass discoveries are both zero. Freeze/oracle: `docs/Q_ADMIN_05_APP_DESIGN_SOURCE_FREEZE_2026_09_20.md`. Authority transfer is **NOT EXECUTED**; Website remains active app-design authority and Project receipt remains pending. Website production and `site/public/**` are unchanged.
+`ADMIN-Q05-WEBSITE-RELINQUISHMENT-01-20260920` is **APP DESIGN SOURCE RELINQUISHED / HISTORICAL PROVENANCE RETAINED** on the Website side. Project accepted the exact 22-bundle/203-identity source graph and 34 selected app-design decisions. Freeze/oracle remain intact. Home A/B remains `UNRESOLVED_APP_DESIGN_DECISION`; FIRSTUSE remains `EVIDENCE_PENDING_ADOPTION`. Q-ADMIN-05 is not globally closed. Website production and `site/public/**` are unchanged.
 
 ## Maintenance
 TRIGGERcmd stays deferred.
 
 **Exact next Website action:** Director + Design Sol review the exact full-scene diagnostic at website scale. Do not generate again, promote Crop 04, alter Reference 17/Boundary 01, or touch site/public/** before visual disposition.
 
-**Exact next Q-ADMIN-05 action:** retry `ADMIN-Q05-TRANSFER-01` in a separately authorized Project worktree; materialize only the frozen non-Website bundle set. Do not execute transfer from this Website package.
+**Exact next Q-ADMIN-05 action:** final Ryladmin Q-ADMIN-05 cross-repository authority-graph verification.

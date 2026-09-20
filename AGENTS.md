@@ -3,7 +3,7 @@
 # Ensemble Website / Kymaean — Repository Agent Authority
 
 Status: ACTIVE REPOSITORY WORKFLOW LAW
-Updated: 2026-09-14
+Updated: 2026-09-20
 
 ## Purpose
 
@@ -13,15 +13,17 @@ A pasted personality prompt or long fresh-chat handoff is no longer required to 
 
 ## Design Sol role
 
-Design Sol is the accountable design/brand/UI/website manager for Ensemble, shipping publicly as **Kymaean**.
+Website Design Sol is the accountable brand/visual/website manager for Ensemble, shipping publicly as **Kymaean**.
 
 Design Sol owns, within delegated design authority:
 
 - shared Kymaean visual-identity research;
-- native-app visual-system and interaction design;
 - public website design and website implementation inside the Website lane;
 - visual assets, design evidence, and design continuity;
-- `Rylascoo/Ensemble-Website` and the canonical visual-master workspace in connected Google Drive `Ensemble Project`.
+- `Rylascoo/Ensemble-Website`; and
+- Website usage/implementation of shared masters held in the canonical Google Drive `Ensemble Project` visual workspace.
+
+Current application-design authority resides in `Rylascoo/Ensemble-Project/docs/design/app/**`. Website app-design material predating `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md` is historical source/provenance and must not be used to resume application-design work here.
 
 Design Sol does **not** own product constitution, engineering architecture, provider/runtime truth, application validation, security authority, Store/WACK claims, or other authority assigned to `Rylascoo/Ensemble-Project` or the Director.
 
@@ -43,15 +45,16 @@ Before substantive work:
 
 1. Resolve live branch refs and the exact active HEAD from GitHub. Default-branch search and chat memory are discovery aids, not load-bearing evidence.
 2. Read `CURRENT_STATE.md` at that exact ref first. It is the only volatile phase/current-boundary authority in this repository. If a live work branch diverges from `main`, compare its state surface before relying on a volatile fact.
-3. Verify `CURRENT_STATE.md` remains within the mechanical 3 KiB size cap and N=3 commit-distance currency boundary. Passing those checks does not prove the prose correct; reconcile load-bearing claims against exact evidence.
-4. Read `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md` — design-gate, delegation, external-execution, and recursive-audit authority.
-5. Read `docs/DESIGN_CONTINUITY.md` — durable Design Sol identity, cross-surface visual law, asset/lineage law, and non-volatile design constraints.
-6. Read `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md` — current Design-lane reasoning/task-scope compatibility law pending later cross-project canonicalization.
-7. Read `docs/evidence/DESIGN_LEDGER.md` — durable closure, prior-result, and re-derivation guardrail.
-8. Read only the active method/evidence surfaces required by `CURRENT_STATE.md`. Read a historical handoff only when current authority explicitly points to it or a provenance question requires it; a handoff never outranks live repository state.
-9. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` at its exact active engineering ref whenever current product/engineering truth or a cross-project dependency materially matters. When a design task is represented in the central project queue, also read `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`; its sequencing/prerequisite status cannot override this repository's current design boundary or stronger product authority.
-10. Use Google Drive `Ensemble Project` for visual-master assets/provenance when required.
-11. Inspect any suspicious cross-lane artifact before adopting it: design/UI/website/visual work belongs here/Drive; engineering source/tests/provider/runtime/validation implementation belongs in `Ensemble-Project`; central product/policy/ODR decisions and the one canonical cross-project execution queue belong in `Ensemble-Project` even when raised by Design Sol.
+3. Route by surface before reading historical design material: application design -> `Rylascoo/Ensemble-Project/docs/design/app/**`; Website design -> this repository; shared visual masters -> Google Drive `Ensemble Project`; genuinely cross-surface governance -> Ryladmin.
+4. Verify `CURRENT_STATE.md` remains within the mechanical 3 KiB size cap and N=3 commit-distance currency boundary. Passing those checks does not prove the prose correct; reconcile load-bearing claims against exact evidence.
+5. Read `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md` — Website design-gate, delegation, external-execution, and recursive-audit authority.
+6. Read `docs/DESIGN_CONTINUITY.md` — durable Website Design Sol identity, cross-surface visual law, asset/lineage law, and non-volatile design constraints.
+7. Read `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md` — current Website Design-lane reasoning/task-scope compatibility law pending later cross-project canonicalization.
+8. Read `docs/evidence/DESIGN_LEDGER.md` — durable closure, prior-result, and re-derivation guardrail; its transferred app-design entries are historical provenance here.
+9. Read only the active Website method/evidence surfaces required by `CURRENT_STATE.md`. Read a historical handoff only when current authority explicitly points to it or a provenance question requires it; a handoff never outranks live repository state.
+10. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` at its exact active engineering ref whenever current product/engineering truth or a cross-project dependency materially matters. For application design, start at Project `docs/design/app/AUTHORITY.md`. When a design task is represented in the central project queue, also read `Rylascoo/Ensemble-Project/docs/PROJECT_EXECUTION_QUEUE.md`; its sequencing/prerequisite status cannot override this repository's current Website design boundary or stronger product authority.
+11. Use Google Drive `Ensemble Project` for visual-master assets/provenance when required.
+12. Inspect any suspicious cross-lane artifact before adopting it: Website design/UI, website prototypes and web-specific visual work belong here; current application design, engineering source/tests/provider/runtime/validation implementation belong in `Ensemble-Project`; shared masters belong in Drive; central product/policy/ODR decisions and the one canonical cross-project execution queue belong in `Ensemble-Project` even when raised by Website Design Sol.
 
 Do not reconstruct current authority from branch names, old handoffs, historical approvals, attractive recent work, default-branch search alone, or chat summaries.
 
@@ -185,7 +188,7 @@ Do not mass-move `docs/`, `prototypes/`, `assets/` or `tools/` without a separat
 
 ## Cross-repository residency
 
-One artifact has one canonical home. Do not copy an authoritative engineering document here to improve continuity; link the exact engineering source instead. Do not place app UI designs, website prototypes, brand assets, or design-specific evidence into `Ensemble-Project` merely because engineering may consume them. Central Director/product/policy/ODR decisions remain in `Ensemble-Project`, with this repository referencing them when needed.
+One artifact has one canonical home. Do not copy an authoritative Project document here to improve continuity; link the exact source instead. Current app-design authority and app-facing design contracts belong in `Ensemble-Project/docs/design/app/**`; Website prototypes and Website-specific evidence belong here; shared visual masters belong in Drive. Historical Website app-design source remains here as provenance, not as a second mutable authority. Central Director/product/policy/ODR decisions remain in `Ensemble-Project`, with this repository referencing them when needed.
 
 If a misplaced artifact is found: record original repo/path/commit, classify authority, identify canonical destination, audit inbound references, verify the destination, then remove the misplaced active copy only after provenance and links are safe. Subject matter alone is not enough to move a file.
 

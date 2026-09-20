@@ -5,6 +5,8 @@
 Status: **ACTIVE DESIGN-WORKFLOW PROTOCOL / SUBORDINATE TO PRODUCT AND DESIGN AUTHORITY**  
 Date: 2026-09-06
 
+Transition note (2026-09-20): use this protocol for engineering-informed Website design. App-facing design proposals now return to `Rylascoo/Ensemble-Project/docs/design/app/**`; Website-specific proposals return here, and shared masters remain in Drive. See `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`.
+
 ## Purpose
 
 The design lane may perform targeted fresh reads of `Rylascoo/Ensemble-Project` whenever current application architecture, semantics, state transitions, validation boundaries, or implementation direction can make Kymaean's visual identity and interaction design more intuitive.
@@ -19,7 +21,7 @@ For any engineering-informed visual decision:
 2. read only the roadmap, blueprint, source, tests, or evidence actually needed for the visual/interaction question;
 3. distinguish current implemented truth from approved-but-not-implemented architecture and from still-open product/UX ontology;
 4. cite or record the exact engineering source used when the translation becomes consequential;
-5. return the resulting visual proposal to `Rylascoo/Ensemble-Website` / Drive authority rather than modifying engineering authority from the design lane.
+5. return a Website-specific proposal to `Rylascoo/Ensemble-Website`, an app-facing design proposal to Project `docs/design/app/**`, and shared-master work to Drive; never use translation work to modify another lane's authority.
 
 ## Translation rule
 
