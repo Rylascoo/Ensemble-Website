@@ -3935,3 +3935,41 @@ Drive current-state document `12bbwxkodA8DeAJYfDbWSXmyHgGp9AzPIeL_rZclTjsA` reco
 No `site/public/**`, production website artwork, app UI/runtime/product semantics, Bellweather/Lou authority, Reference-17 work, or application-design authority changed.
 
 **DIRECTOR SOURCE CORRECTION RECORDED — USE THE EXACT THIRD-PREVIOUS THEATRICAL RENDER AS BELLE COSTUME 02 SOURCE; LATER REINTERPRETATIONS ARE NON-AUTHORITATIVE COMPARISON EVIDENCE.**
+
+
+## L-247 - Belle five-costume library cataloged; fresh-chat handoff prepared
+
+**State:** DIRECTOR CATALOG RESET / FIVE LIKED COSTUMES NUMBERED / EXACT SOURCE RENDERS PRESERVED / COSTUME 05 FUSION CANDIDATE ACTIVE / PRIOR TRANSITION HISTORICAL / FRESH CHAT READY / PRODUCTION UNCHANGED
+
+The Director replaced the ambiguous prior Costume-02 working labels with a five-costume Belle library. This catalog preserves the distinct liked directions rather than collapsing them into one theatrical source. Belle Identity Foundation 02 remains person-level identity authority.
+
+Canonical costume-library folder: **05 Belle Costume Library — Canonical Index & Fresh Chat Handoff — 2026-09-20**, Drive `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`.
+
+1. **Costume 01 — Japanese-Influenced Dark Collegiate** — primary everyday / early-college costume. Drive `14ctDLsher61xcSeTbvQvFF1nCqPbMZo7`.
+2. **Costume 02 — Dramatic Romantic Goth** — preserved early strong theatrical costume. Drive `1_B7IPHkahKS6n1170g-WWPk-ojERrCPW`.
+3. **Costume 03 — Scholar's Nocturne** — optional / situational theatrical branch; literary, cultivated and intimate. Drive `1wdMPODsswyfc735WkKamoP-nI-1L-JaX`.
+4. **Costume 04 — Grand Stage Nocturne** — optional / situational theatrical branch; larger, romantic and spectacle-forward. Drive `1N-ImbcNmy3jh3ONYhcEvOucv-G30xGcJ`.
+5. **Costume 05 — Refined Fusion** — current primary theatrical fusion candidate. Drive `1srm6rFRCd2QqiFtapQzLS5WDU1wpqpCC`.
+
+Exact-source catalog indexes were assembled without regenerating the costumes:
+- Page 1 `15gHf4zrJX-zfZwcltXaJEUWymNXO-GSU`
+- Page 2 `1B0qbb8tOUmXCd6FOIU8nnXJev2-YW3AN`
+- Manifest `1ioEylpOy-bV5gpwIXHrFvKgUqedjWcQd`
+- Preservation archive `17qouce2u0szZFBCloOevOaQVh4F_X8ey`
+
+Fresh-chat handoff: **START HERE — Belle Costume Library & Fresh Chat Handoff — 2026-09-20**, Drive `1M3HHtFyrr1UqHEaXfmD40NtWoBJR_DeV6jQxs49fF2E`.
+
+This catalog supersedes L-246's temporary interpretation that one exact theatrical crop was the sole active Costume 02 source. L-246 remains preserved as provenance of the correction sequence, but it may not be used to collapse Costumes 02, 03, 04 or 05 into one item. Transition-state experiments remain historical bridge evidence only.
+
+Current Belle design interpretation:
+- 01 = everyday collegiate Belle;
+- 02 = first strong theatrical discovery;
+- 03 = scholarly/tailored nocturne branch;
+- 04 = grand-stage/spectacle branch;
+- 05 = intentional fusion candidate.
+
+Exact next Belle action after fresh-chat recovery: inspect Costume 05 against the exact Costume 03 and Costume 04 masters and decide whether one final micro-refinement is needed. Keep any Belle neutral-identity revision as a separate later program; do not mix identity revision and costume refinement in one renderer pass.
+
+No `site/public/**`, production website artwork, Reference-17 work, Bellweather/Lou authority, application-design authority or app UI/runtime/product semantics changed.
+
+**DIRECTOR CATALOG RESET RECORDED — BELLE FIVE-COSTUME LIBRARY AND FRESH-CHAT RECOVERY ASSETS PRESERVED; COSTUME 05 REMAINS THE ACTIVE FUSION CANDIDATE.**
