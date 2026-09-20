@@ -3989,3 +3989,36 @@ Belle Identity Foundation 02 remains person-level authority. This Costume-05 fre
 No `site/public/**` adoption, production website artwork, Reference-17 change, Bellweather/Lou change, application-design change, or app UI/runtime/product semantics is created.
 
 **DIRECTOR FREEZE RECORDED — COSTUME 05 — REFINED FUSION IS FROZEN AT THE EXACT DRIVE MASTER ABOVE; COSTUMES 01–04 AND BELLE IDENTITY FOUNDATION 02 REMAIN UNCHANGED.**
+
+## L-249 - Belle theatrical-world and costume-language exploration archived; divergence favorites named
+
+**State:** EXPLORATION ARCHIVE + FRESH-CHAT HANDOFF / CHAT RENDERS PRESERVED / COSTUME-LANGUAGE DIVERGENCE RECORDED / WORKING FAVORITES NAMED / NO COSTUME-06+ PROMOTION / F02 + COSTUMES 01–05 UNCHANGED / PRODUCTION UNCHANGED
+
+After L-248 froze Costume 05, the Director opened a separate Belle theatrical-world exploration to test broader stage-storytelling and costume languages without reopening the five-costume library. Six world premises were explored across phased interpretation boards: Observatory / Night Scholar, Storm Theater, Glasshouse / Botanical Stage, Living Archive, Cartographer of Unfinished Worlds and Threshold Traveler.
+
+The exact-source Phase-3 comparison showed that the story premises were meaningfully different but the first eighteen studies repeatedly collapsed toward a shared dark-academic / neo-Victorian / romantic-theatrical grammar. The Director agreed this was a useful falsification rather than a reason to select winners. A subsequent Costume Language Divergence diagnostic crossed the six worlds with eight deliberately different design schools: Contemporary Theatrical Tailoring, Technical Utilitarian, Sculptural Architectural, Soft Draped Performance, Modern Academic Collegiate, Handmade / Repaired, Retro-Futurist Stage and Radical Minimalism.
+
+Current strongest design-language findings are **Sculptural Architectural**, **Soft Draped Performance**, **Handmade / Repaired** and **Radical Minimalism**. Technical Utilitarian remains a secondary lane only if steampunk shorthand is removed; Retro-Futurist Stage remains under-realized and is not selected.
+
+Working favorite names, explicitly **not** Belle costume numbers:
+- **Aster Vault** — Observatory × Sculptural Architectural
+- **Tempest Veil** — Storm × Soft Draped Performance
+- **Grafted Conservatory** — Glasshouse × Handmade / Repaired
+- **Mended Memory** — Living Archive × Handmade / Repaired
+
+Highest-excitement next explorations, also not costume numbers:
+- **Quiet Orbit** — Observatory × Radical Minimalism
+- **Edgewalker** — Cartographer × Radical Minimalism
+- **Passage Geometry** — Threshold × Sculptural Architectural
+- **Crosswind Passage** — Threshold × Soft Draped Performance
+
+Durable exploration principle: **do not force one costume method per story concept**. The stronger system is "same Belle + world premise + independent costume-design language"; a world may support multiple materially distinct costume interpretations while Belle remains the same person.
+
+Drive archive: **06 Belle — Theatrical World & Costume Language Exploration — 2026-09-20**, `17ckYbFfHeIuBTNno1ZMDXMTP3Uv03LY9`. The archive preserves individual concept studies, Phase 1/2 boards, the generative Phase-3 synthesis illustration, deterministic exact-source comparison, initial divergence matrix, refined favorites/next-explorations board, and manifest. Refined divergence board: `1F7wSkKR1pp-Sb3HJoxhzJcWtiw9GdWu7`. Manifest: `1WcYO-pJ_BViEgcAZ3rCDbJU_4YeATiwR`. Fresh-chat handoff: `1KvjyTiUSAZOhGVomG9SwfpBfdNh-MXuVv4VpuRpN6nE`.
+
+Exact next Belle exploration boundary: stop broad matrices and develop approximately 6–8 of the named world × design-school intersections as dedicated full-size character studies. Preserve meaningful differences in silhouette, material logic, era influence, practicality, theatricality and ornament density. Identity Foundation 02 remains the person-level control. Do not create Costume 06+ without a later explicit Director catalog decision and do not mix a neutral-identity revision into this exploration.
+
+No `site/public/**` adoption, production-artwork promotion, Reference-17 change, Bellweather/Lou change, application-design authority change or app UI/runtime/product-semantic change is created.
+
+**DIRECTOR EXPLORATION DECISIONS RECORDED — CHAT ARTWORK AND HANDOFF PRESERVED; NEXT WORK IS FULL-SIZE STUDY DEVELOPMENT OF THE NAMED DIVERGENCE INTERSECTIONS, NOT A NEW COSTUME CATALOG.**
+
