@@ -13,7 +13,7 @@ L-204 remains production authority: pre-Bellweather V2.2 is live; site/public/**
 ## Active website design lanes
 Concurrent Bellweather Alternate authority, including its distinct-marketing-identity refinement, remains preserved and separate.
 
-Belle: Identity Foundation 02 + Costume 01 preserved; active Costume 02 source is Drive `1wOkPsl5T46KaSATW30MfdlgeflrWe7Ny`; Transition historical only; no production/site adoption.
+Belle: five-costume library + fresh-chat handoff in Drive `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`; F02 identity; 01 everyday; 05 fusion candidate; 02–04 preserved; no production/site adoption.
 
 Reference 17 remains fixed: Drive 1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit; 1672 x 941 RGBA; SHA-256 8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44. Boundary 01 remains exactly 39,975 pixels.
 
