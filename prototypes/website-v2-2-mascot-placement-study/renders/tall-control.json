@@ -1,0 +1,28 @@
+{
+  "variant": "control",
+  "viewport": [
+    1138,
+    1354
+  ],
+  "scroll": [
+    1138,
+    1354
+  ],
+  "brand": {
+    "left": 297,
+    "right": 841,
+    "top": 196.328125,
+    "bottom": 287.671875,
+    "width": 544,
+    "height": 91.34375
+  },
+  "mascot": {
+    "left": 709.96875,
+    "right": 1024.203125,
+    "top": 893.65625,
+    "bottom": 1286.3125,
+    "width": 314.234375,
+    "height": 392.65625,
+    "opacity": "0"
+  }
+}
