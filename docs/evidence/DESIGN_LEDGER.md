@@ -3862,3 +3862,35 @@ The full Website ledger and all historical app-design documents, prototypes, too
 Home A/B remains `UNRESOLVED_APP_DESIGN_DECISION`. FIRSTUSE remains `EVIDENCE_PENDING_ADOPTION`. Shared creative/visual masters remain Google Drive-owned; app usage belongs to Project, web usage belongs to Website, and genuinely cross-surface governance belongs to Ryladmin. No production Website behavior changed. Final Q-ADMIN-05 closure remains a fresh Ryladmin cross-repository authority-graph verification.
 
 **APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT. WEBSITE SOURCE-SIDE HANDOFF COMPLETE; GLOBAL Q-ADMIN-05 CLOSURE NOT CLAIMED.**
+
+
+## L-244 - Belle independent mascot canonical three-state costume system frozen
+
+**State:** DIRECTOR-FROZEN BELLE IDENTITY + COSTUME SYSTEM / DRIVE MASTERS PRESERVED / 01-T-02 TRANSFORMATION GRAMMAR FROZEN / WEBSITE PRODUCTION UNCHANGED / APP SEMANTICS UNCHANGED
+
+The Director separated **Belle** from Bellweather and developed her as an independent adult early-college Kymaean marketing mascot derived from the original `01 Chat Renders — Exploration Sequence`. Belle remains a visual/marketing identity only; she is not an app operator, tutorial guide, product-state indicator, universal Character template, or Bellweather rename.
+
+The selected person-level authority remains **Belle — Identity Foundation 02**: long naturally irregular chestnut-brown hair, softer oval-to-heart facial construction, fuller natural cheeks, gentle jaw transition, open searching eyes, visible freckles/natural skin texture, restrained mouth/expression, subtle asymmetry, grounded adult early-college proportions and recognizable human warmth. Costume, props, scenery and renderer polish may not replace or redefine that identity.
+
+The Director froze a three-state costume architecture as a visual metaphor for persistent identity under changing circumstance:
+
+1. **01 — Dark Collegiate / Everyday World:** dark tailored blazer, white shirt, restrained burgundy bow, dark burgundy-accent plaid skirt, structured academic satchel, over-knee hosiery, loafers and restrained antique-brass details.
+2. **T — Transition / Between Worlds:** Costume 01 remains structurally dominant while ruffled ivory collar/cuffs, cameo, restrained burgundy/lace underlayer, richer antique-brass accents and lace-up boots emerge. The satchel remains. No full theatrical volume, maximal lace or complete Costume 02 silhouette is permitted.
+3. **02 — Dramatic Romantic Goth / Theatrical World:** the earlier approved layered black/burgundy Romantic Goth structure is the endpoint authority, with richer textile hierarchy, historical/literary character, cameo, boots and heightened theatrical presence. The satchel disappears.
+
+The durable transformation grammar is **same Belle, changing world**: 01 = familiar circumstance; T = familiar structure beginning to obey new visual rules; 02 = full theatrical transformation. Composite generators are presentation aids only and do not acquire authority to redesign Belle or either endpoint.
+
+Canonical shared masters are preserved in Google Drive folder **03 Canonical Belle Costume System — 2026-09-20**, ID `10TOo69qkRHNQCHybtHhEfDa9qIiGnFke`:
+- Identity master `1ouPrPbTqfGlrjlpEak-s7UbICa1OeQXD`
+- Costume 01 master `1akiX8wbbSIe5e3jDpTndT7EE0Kmlnbfj`
+- Transition master `1y16LIVmHmuqLi_Y68sFpwtCR4oehCMsg`
+- Costume 02 master `1ZsTPlUoFkKnUs1TlQGEOOfF754CjMHYX`
+- Assembled comparison `1X8tiny3y64eFjHCp3PDrYINTef578FrT`
+- Manifest `1nDIndmFg7KDLj1IgBw3P0qsYr5VzrEEd`
+- Preservation archive `1uej8MwhCbl0nQo9u0LInQ4ddUIP8PSli`
+
+Drive current-state document `12bbwxkodA8DeAJYfDbWSXmyHgGp9AzPIeL_rZclTjsA` was updated to record the same authority stack and preservation rule.
+
+No Belle costume or mascot asset is authorized for `site/public/**` by this freeze. No production website artwork, app UI/runtime/product semantics, Bellweather authority, Lou authority, Reference-17 work, or application-design authority changed.
+
+**DIRECTOR FREEZE RECORDED — BELLE IDENTITY AND 01-T-02 COSTUME SYSTEM PRESERVED AS SHARED DRIVE VISUAL MASTERS; FUTURE USE REQUIRES A SEPARATELY BOUNDED WEBSITE/MARKETING APPLICATION.**
