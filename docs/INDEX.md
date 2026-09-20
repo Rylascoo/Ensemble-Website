@@ -6,14 +6,14 @@ Generated file; do not hand-maintain.
 
 Generation command: `python3 tools/generate_docs_index.py`
 
-Total Markdown documents: 323
+Total Markdown documents: 324
 Total text records: 94
 
 Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.
 UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.
 Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.
 
-## ACTIVE LAW (80)
+## ACTIVE LAW (81)
 
 - `AGENTS.md`
 - `CURRENT_STATE.md`
@@ -41,6 +41,7 @@ Text records are listed for corpus visibility only. Presence here does not infer
 - `docs/KYMAEAN_WEBSITE_V2_2_RESPONSIVE_VISUAL_STANDARD_01.md`
 - `docs/PRIOR_CONVERGENCE_EVIDENCE.md`
 - `docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`
+- `docs/Q_ADMIN_05_APP_DESIGN_SOURCE_FREEZE_2026_09_20.md`
 - `docs/RENDERER_CARTOGRAPHY_PHASE_RECONCILIATION_2026_09_06.md`
 - `docs/RENDERER_ISOLATION_PROTOCOL.md`
 - `docs/VISUAL_ARCHIVE_PROTOCOL.md`
