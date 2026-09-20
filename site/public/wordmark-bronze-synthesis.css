@@ -1,0 +1,84 @@
+:root {
+  --threshold-bronze: #c8a56a;
+  --threshold-soft: #d9cbb3;
+  --threshold-soft-2: #d8c9ad;
+}
+
+/* One fixed hybrid geometry, three controlled material distributions. */
+
+.hybrid-letters .base,
+.hybrid-letters .core,
+.hybrid-letters .ae-shell,
+.hybrid-letters .ae-core {
+  shape-rendering: geometricPrecision;
+}
+
+/* S1 — Unified Bronze:
+   K + all hybrid letters = recovered Threshold bronze.
+   Æ chamber remains negative space only. */
+.variant-unified .wordmark {
+  color: var(--threshold-bronze);
+  width: min(31vw, 30rem);
+}
+.variant-unified .hybrid-letters .base,
+.variant-unified .hybrid-letters .core,
+.variant-unified .hybrid-letters .ae-shell {
+  fill: var(--threshold-bronze);
+}
+.variant-unified .hybrid-letters .ae-core {
+  fill: var(--threshold-bronze);
+}
+
+/* S2 — Bronze Spine:
+   K remains bronze.
+   Letter bodies are warm stone.
+   Structural cores carry bronze. */
+.variant-spine .wordmark {
+  color: var(--threshold-bronze);
+  width: min(31vw, 30rem);
+}
+.variant-spine .hybrid-letters .base,
+.variant-spine .hybrid-letters .ae-shell {
+  fill: var(--threshold-soft);
+}
+.variant-spine .hybrid-letters .core,
+.variant-spine .hybrid-letters .ae-core {
+  fill: var(--threshold-bronze);
+}
+
+/* S3 — Threshold Æ:
+   K and Æ alone carry bronze.
+   Y/M/A/N remain warm stone.
+   This follows the historical wordmark consequence most closely. */
+.variant-ae .wordmark {
+  color: var(--threshold-bronze);
+  width: min(31vw, 30rem);
+}
+.variant-ae .hybrid-letters .base,
+.variant-ae .hybrid-letters .core {
+  fill: var(--threshold-soft);
+}
+.variant-ae .hybrid-letters .ae-shell,
+.variant-ae .hybrid-letters .ae-core {
+  fill: var(--threshold-bronze);
+}
+
+@media (max-width: 900px) and (orientation: portrait) {
+  .variant-unified .wordmark,
+  .variant-spine .wordmark,
+  .variant-ae .wordmark {
+    width: min(59vw, 21.75rem);
+  }
+}
+
+@media (forced-colors: active) {
+  .variant-unified .wordmark,
+  .variant-spine .wordmark,
+  .variant-ae .wordmark,
+  .variant-unified .hybrid-letters *,
+  .variant-spine .hybrid-letters *,
+  .variant-ae .hybrid-letters * {
+    color: CanvasText;
+    fill: CanvasText;
+  }
+}
