@@ -1,0 +1,39 @@
+/* K-Derived Wordmark Study 02
+   Exact singular K geometry remains unchanged in all variants.
+   Coming Soon inherits the refined placeholder treatment without conceptual redesign. */
+
+.k-derived {
+  shape-rendering: geometricPrecision;
+}
+
+.variant-structural .wordmark {
+  width: min(30.5vw, 29.5rem);
+}
+
+.variant-chamber .wordmark {
+  width: min(31vw, 30rem);
+}
+
+.variant-faceted .wordmark {
+  width: min(31.5vw, 30.5rem);
+}
+
+.variant-faceted .facet.f1 { opacity: 1; }
+.variant-faceted .facet.f2 { opacity: 0.82; }
+.variant-faceted .facet.f3 { opacity: 0.64; }
+
+@media (max-width: 900px) and (orientation: portrait) {
+  .variant-structural .wordmark,
+  .variant-chamber .wordmark,
+  .variant-faceted .wordmark {
+    width: min(58vw, 21.5rem);
+  }
+}
+
+@media (forced-colors: active) {
+  .k-derived,
+  .k-derived .facet {
+    fill: CanvasText;
+    opacity: 1;
+  }
+}
