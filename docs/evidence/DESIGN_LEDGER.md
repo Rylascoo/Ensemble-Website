@@ -3894,3 +3894,24 @@ Drive current-state document `12bbwxkodA8DeAJYfDbWSXmyHgGp9AzPIeL_rZclTjsA` was 
 No Belle costume or mascot asset is authorized for `site/public/**` by this freeze. No production website artwork, app UI/runtime/product semantics, Bellweather authority, Lou authority, Reference-17 work, or application-design authority changed.
 
 **DIRECTOR FREEZE RECORDED — BELLE IDENTITY AND 01-T-02 COSTUME SYSTEM PRESERVED AS SHARED DRIVE VISUAL MASTERS; FUTURE USE REQUIRES A SEPARATELY BOUNDED WEBSITE/MARKETING APPLICATION.**
+
+
+## L-245 - Belle active costume focus simplified to two endpoint costumes
+
+**State:** DIRECTOR SIMPLIFICATION / COSTUME 01 + COSTUME 02 ACTIVE / TRANSITION RETAINED AS HISTORICAL BRIDGE STUDY / BELLE IDENTITY UNCHANGED / PRODUCTION UNCHANGED
+
+After reviewing the frozen 01-T-02 Belle costume system in marketing application, the Director determined that the intermediate Transition state creates avoidable renderer complexity and repeatedly increases the risk of face, body and costume drift. The active Belle costume program is therefore simplified to the two resolved endpoints.
+
+Active costume endpoints:
+1. **01 — Dark Collegiate / Everyday World** remains the primary everyday / adult early-college Belle costume.
+2. **02 — Dramatic Romantic Goth / Theatrical World** remains the primary heightened theatrical Belle costume.
+
+The prior Transition State is **not deleted**. It remains preserved in Drive as historical bridge-study evidence showing how the two endpoint concepts were related, but it is no longer an active costume target, required marketing state, or renderer-refinement obligation.
+
+Belle Identity Foundation 02 remains the immutable person-level authority. Future Belle website/marketing studies should compare, alternate, sequence or narratively contrast Costume 01 and Costume 02 directly unless the Director explicitly reopens an intermediate-state program.
+
+Google Drive current-state document `12bbwxkodA8DeAJYfDbWSXmyHgGp9AzPIeL_rZclTjsA` records the same simplification. The canonical folder `10TOo69qkRHNQCHybtHhEfDa9qIiGnFke` continues to preserve all masters and prior evidence.
+
+This is a focus simplification, not a deletion or historical rewrite. No `site/public/**`, production website artwork, Reference-17 work, Bellweather/Lou authority, app UI/runtime/product semantics, or application-design authority changed.
+
+**DIRECTOR SIMPLIFICATION RECORDED — BELLE DEVELOPMENT NOW FOCUSES ON COSTUME 01 AND COSTUME 02; TRANSITION REMAINS PRESERVED AS HISTORICAL BRIDGE EVIDENCE ONLY.**
