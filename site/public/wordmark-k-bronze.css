@@ -1,0 +1,64 @@
+/* K-Derived Bronze Study 03
+   Historical Threshold K material values recovered from Drive:
+   --threshold-bronze: #c8a56a
+   --threshold-soft:   #d8c9ad / #d9cbb3
+   Coming Soon intentionally inherits the refined placeholder unchanged. */
+
+:root {
+  --threshold-bronze: #c8a56a;
+  --threshold-soft: #d9cbb3;
+  --threshold-soft-2: #d8c9ad;
+}
+
+.variant-bronze-structural .wordmark {
+  color: var(--threshold-bronze);
+  width: min(31vw, 30rem);
+}
+.variant-bronze-structural .bronze-letters {
+  fill: currentColor;
+}
+
+.variant-stone-core .wordmark {
+  color: var(--threshold-bronze);
+  width: min(31vw, 30rem);
+}
+.variant-stone-core .stone-letters {
+  fill: var(--threshold-soft);
+}
+.variant-stone-core .stone-letters .bronze-core {
+  fill: var(--threshold-bronze);
+}
+
+.variant-chamber-bronze .wordmark {
+  color: var(--threshold-bronze);
+  width: min(31.5vw, 30.5rem);
+}
+.variant-chamber-bronze .chamber-shells {
+  fill: var(--threshold-bronze);
+}
+.variant-chamber-bronze .chamber-inlays {
+  fill: var(--threshold-soft);
+  opacity: 0.82;
+}
+
+@media (max-width: 900px) and (orientation: portrait) {
+  .variant-bronze-structural .wordmark,
+  .variant-stone-core .wordmark,
+  .variant-chamber-bronze .wordmark {
+    width: min(59vw, 21.75rem);
+  }
+}
+
+@media (forced-colors: active) {
+  .variant-bronze-structural .wordmark,
+  .variant-stone-core .wordmark,
+  .variant-chamber-bronze .wordmark,
+  .variant-stone-core .stone-letters,
+  .variant-stone-core .stone-letters .bronze-core,
+  .variant-chamber-bronze .chamber-shells,
+  .variant-chamber-bronze .chamber-inlays {
+    color: CanvasText;
+    fill: CanvasText;
+    opacity: 1;
+  }
+}
