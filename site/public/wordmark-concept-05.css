@@ -1,0 +1,44 @@
+:root{
+  --threshold-bronze:#c8a56a;
+  --threshold-stone:#d9cbb3;
+  --threshold-stone-soft:#d8c9ad;
+}
+.w05{shape-rendering:geometricPrecision}
+.w05 .bronze{fill:var(--threshold-bronze)}
+.w05 .stone{fill:var(--threshold-stone)}
+.w05 .void-cut,
+.w05 .void-slit{fill:#090b0c}
+
+.variant-assembled .wordmark,
+.variant-void .wordmark,
+.variant-interrupted .wordmark,
+.variant-threshold .wordmark{
+  color:var(--threshold-bronze);
+  width:min(31.5vw,30.5rem);
+}
+
+/* Interrupted inscription: gaps and hierarchy are the concept. */
+.interrupted .inscription{stroke-width:5.2}
+.interrupted .incision{stroke-width:2.6}
+.interrupted .stone-stroke{stroke:var(--threshold-stone)}
+.interrupted .bronze-stroke{stroke:var(--threshold-bronze)}
+
+@media(max-width:900px) and (orientation:portrait){
+  .variant-assembled .wordmark,
+  .variant-void .wordmark,
+  .variant-interrupted .wordmark,
+  .variant-threshold .wordmark{
+    width:min(60vw,22rem);
+  }
+}
+@media(forced-colors:active){
+  .w05 *,
+  .interrupted *{
+    fill:CanvasText;
+    stroke:CanvasText;
+  }
+  .w05 .void-cut,
+  .w05 .void-slit{
+    fill:Canvas;
+  }
+}
