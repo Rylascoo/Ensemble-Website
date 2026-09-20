@@ -17,3 +17,5 @@ jobs:
           fetch-depth: 0
       - name: Verify publication, continuity and residency boundaries
         run: python3 tools/validate_repository_boundaries.py
+      - name: Verify Q-ADMIN-05 recursive source closure
+        run: python3 tools/validate_qadmin05_recursive_closure.py --self-test
