@@ -3833,3 +3833,20 @@ Artifacts:
 Concurrent Bellweather authority and site/public/** remain unchanged.
 
 **TECHNICAL GATE PASSED — NEXT GATE IS DIRECTOR + DESIGN SOL FULL-SCENE VISUAL DISPOSITION; NO NEW GENERATION OR PROMOTION BEFORE REVIEW.**
+
+
+## L-242 - Lou name saved for the high-school Production mascot lineage
+
+**State:** DIRECTOR NAMING DECISION / DRIVE LINEAGE ARCHIVED / DISTINCT MASCOT IDENTITY / BELLWEATHER AND BELLE UNCHANGED / APP STAGE AND WEBSITE PRODUCTION UNCHANGED
+
+The Director named the recurring brunette high-school-themed mascot developed through the Kymaean exploration sequence **Lou**. This naming decision applies to that mascot lineage and is now the preferred durable name for it unless the Director explicitly changes it later.
+
+Lou is preserved as a **Production-specific signature mascot / brand character** whose current primary world is the high-school Production. Her design purpose is to demonstrate Kymaean through one recognizable persistent person whose relationships, knowledge, circumstances, history, consequences and future possibilities change over time. Lou is not a universal Character template, is not to be recast into every unrelated Production, and does not alter the native app Stage's separately governed abstract Character representation.
+
+A dedicated Drive archive was created at folder `1EmMmkRC6PguWyP8gAkNUWAaV_xejYpmy` (**28 Lou — High-School Production Mascot — 2026-09-19**). It contains selected lineage copies from the original `01 Chat Renders — Exploration Sequence`: the Brighter Tomorrow exploration, Threshold character sheet, Persistent People relational board, High-School causal-continuity board, School of Persistent People themed-environment board, and the two four-Production causality-context boards. The recovery/continuity document is Drive `1PXQNF10-VPpu9pRL1k4Sz4jraekMLBmGC4EwUo9NsE0` (**START HERE — Lou — Mascot Identity & Continuity — 2026-09-19**).
+
+Carry forward: Lou's recognizable brunette/freckled human identity, observant/curious/slightly mischievous presence, human-scale causal situations, recurring classmates/locations, and recognition through face/silhouette/hair-ribbon/posture/reduced-presence treatment. Exact school uniform, props, generated K marks, slogans, fantasy-academy scenery and any sexualized framing are not frozen identity.
+
+This decision does **not** rename, replace, merge or supersede Bellweather Canonical, Bellweather Mediate, Bellweather Alternate or Belle. It creates no `site/public/**` change, no production-artwork promotion, no app UI/runtime/product-semantic change, and no change to the separate Reference-17 lane. L-241 remains the active website current-state next gate.
+
+**DIRECTOR NAMING DECISION RECORDED — THIS MASCOT LINEAGE IS LOU; DISTINCT EXISTING MASCOT LINEAGES AND ACTIVE WEBSITE/APP AUTHORITY REMAIN UNCHANGED.**
