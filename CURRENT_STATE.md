@@ -2,7 +2,7 @@
 
 # Ensemble Website - Current State
 
-Updated: 2026-09-19
+Updated: 2026-09-20
 
 ## Authority
 Website/design authority: Rylascoo/Ensemble-Website; engineering/product truth: Rylascoo/Ensemble-Project/CURRENT_STATE.md. Bootstrap: AGENTS.md; workflow: docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md; ledger: docs/evidence/DESIGN_LEDGER.md.
@@ -26,11 +26,11 @@ Website metaphor creates no app semantics. Engineering truth remains in Project.
 
 ## Q-ADMIN-05 source freeze
 
-`ADMIN-Q05-SOURCE-FREEZE-01` freezes the 22 Project receiving-manifest bundles at exact Website source identities in `docs/Q_ADMIN_05_APP_DESIGN_SOURCE_FREEZE_2026_09_20.md`. Website-only data is excluded. Authority transfer has not executed; Website remains current app-design authority until Project receipt/validation and Website pointer closure. Website production authority and `site/public/**` are unchanged.
+`ADMIN-Q05-SOURCE-FREEZE-01` is corrected and **FROZEN FOR TRANSFER - DEPENDENCY COMPLETE**: all 22 Project receiving-manifest bundles resolve to exact source/dependency identities in `docs/Q_ADMIN_05_APP_DESIGN_SOURCE_FREEZE_2026_09_20.md`, with zero unresolved dependency identities. Authority transfer has not executed; Website remains current app-design authority until Project receipt/validation and Website pointer closure. Website production authority and `site/public/**` are unchanged.
 
 ## Maintenance
 TRIGGERcmd stays deferred.
 
 **Exact next Website action:** Director + Design Sol review the exact full-scene diagnostic at website scale. Do not generate again, promote Crop 04, alter Reference 17/Boundary 01, or touch site/public/** before visual disposition.
 
-**Exact next Q-ADMIN-05 action:** `ADMIN-Q05-TRANSFER-01` may materialize only the frozen non-Website bundle set in an authorized Project worktree; do not execute transfer from this package.
+**Exact next Q-ADMIN-05 action:** resume `ADMIN-Q05-TRANSFER-01` in a separately authorized Project worktree; materialize only the frozen non-Website bundle set. Do not execute transfer from this Website package.
