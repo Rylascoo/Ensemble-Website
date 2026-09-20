@@ -2,7 +2,7 @@
 
 # Q-ADMIN-05 App Design Source Freeze
 
-Status: **FROZEN FOR TRANSFER - DEPENDENCY COMPLETE / AUTHORITY TRANSFER NOT EXECUTED**
+Status: **FROZEN FOR TRANSFER - RECURSIVE AUTHORITY CLOSURE VERIFIED / AUTHORITY TRANSFER NOT EXECUTED**
 
 Package: `ADMIN-Q05-SOURCE-FREEZE-01`
 
@@ -19,13 +19,13 @@ Package: `ADMIN-Q05-SOURCE-FREEZE-01`
 
 This packet freezes source identity only. It does not copy material to Project, relinquish Website authority, modify Drive, choose Home A/B, adopt FIRSTUSE, change production Website behavior, or resume application design.
 
-## Dependency-completeness correction
+## First correction record - completeness claim superseded
 
 The first integrated revision was **source-classification complete** and verified all **98/98 recorded source identities**, but it was not dependency-complete. Project correctly stopped before materialization because the Stage presentation successor method had no identity record and C03 did not deterministically resolve its APPUI-era versus live-main `DESIGN_CONTINUITY.md` dependency.
 
 This correction also closes one same-class omission found by the required all-bundle revalidation: C03 explicitly names the engineering-informed translation law, so that current Website object is now recorded rather than left as unsealed context.
 
-Corrected counts and scope:
+First-correction recorded counts and scope (historical claims; not the final closure guarantee):
 
 - receiving-manifest bundles: **22**;
 - recorded source identities: **100** exact alias/path/blob/byte/SHA-256 records;
@@ -88,9 +88,9 @@ Classification: **`CURRENT_MAIN_DEPENDENCY_REQUIRED`**. The versions differ beca
 
 C03 uses the following exact current-main ranges: `AGENTS.md` Design Sol role, fresh-chat reconciliation, cross-project execution-queue, dispatch, residency, backend-boundary and authority/evidence clauses; `DESIGN_CONTINUITY.md` §§1-4, the app/cross-surface clauses of §§6-17, and only the app-exclusion/cross-surface clauses of §§18-23; the visual-workflow authority's accountable-role, cross-lane, external-work, validation-boundary and earned-approval clauses; and the engineering-informed translation protocol's §§Purpose through Guardrail. `DESIGN_CONTINUITY.md` §24 and all Website implementation/production clauses remain excluded.
 
-## Full 22-bundle dependency closure
+## First-correction 22-bundle identity coverage (historical)
 
-Every path named below resolves through its alias to an exact appendix blob/byte/SHA-256 record. “Direct dependencies” names semantic bundle edges or exact supporting object groups; it does not expand destination-side Project law into Website source bytes.
+These original rows preserve the failed completeness claim transparently. Their word "closed" established only the recorded identity set, not recursive closure. The final recursive oracle below supersedes that interpretation. Every path named below resolves through its alias to an exact appendix blob/byte/SHA-256 record. “Direct dependencies” names semantic bundle edges or exact supporting object groups; it does not expand destination-side Project law into Website source bytes.
 
 | ID | Exact source/section and identity set | Transfer form | Direct dependencies / closure result |
 |---|---|---|---|
@@ -154,9 +154,51 @@ After Project successfully receives, validates and accepts the frozen set, Websi
 
 ## Transfer gates and next task
 
-The source side is **FROZEN FOR TRANSFER - DEPENDENCY COMPLETE** at the aliases above. Authority transfer remains **NOT EXECUTED** and Website remains current app-design authority until destination acceptance plus source-pointer closure. Exact next task: resume `ADMIN-Q05-TRANSFER-01` — in a separately authorized Project worktree, materialize only these 22 classified bundles from the frozen identities, preserve the stated normalization/pointer limits, validate Project receipt, then return for Website relinquishment/pointer closure. No Website-only data may enter that task.
+The source side is **FROZEN FOR TRANSFER - RECURSIVE AUTHORITY CLOSURE VERIFIED**, subject to the final recursive oracle below, at the aliases above. Authority transfer remains **NOT EXECUTED** and Website remains current app-design authority until destination acceptance plus source-pointer closure. Exact next task: resume `ADMIN-Q05-TRANSFER-01` — in a separately authorized Project worktree, materialize only these 22 classified bundles from the frozen identities, preserve the stated normalization/pointer limits, validate Project receipt, then return for Website relinquishment/pointer closure. No Website-only data may enter that task.
 
-## Exact source identity appendix
+## Final recursive authority-dependency correction
+
+Correction baseline: Website `main@53dd20c8397209dfad6e5db6912c124dc82ae2b4`. Fresh remote resolution also confirmed A/F/H and Project `734f27878b0976ff5f63945070d059000d50c719` / Ryladmin `452c1730aaa68da1d03bc18ee080ca9eb41df337`. W remains the already sealed `cf28c80161bdf7157e8063ed27e56fc70dd438fc` source alias; this audit does not silently replace frozen bytes with correction-branch content.
+
+The first freeze established source classification. The first correction sealed missing identities (including the Stage successor method and deterministic C03 continuity choice). Project's independent destination audit then established that verifying an identity list is weaker than recursively closing its authority dependencies. The historical counts and "closed" rows above remain as evidence of those failed completeness claims.
+
+The final rule is a fixed point: inspect the frozen content of all 22 bundles, recursively inspect every newly sealed normative or supporting-method dependency, and continue until no authority reference is unresolved and a complete pass over every reachable object discovers zero new references. A historical, evidence-only, non-authoritative, Website-only, Ryladmin/shared, Drive-master or explicitly excluded reference must have an explicit source-located disposition and reason. Historical/evidence-only trees are not recursively imported. A sealed supporting method does not thereby become an independently adopted Project contract.
+
+The machine-readable [closure oracle](evidence/Q_ADMIN_05_RECURSIVE_AUTHORITY_CLOSURE_2026_09_20.json) is a subordinate evidence appendix to this freeze, not a second freeze document. It records each repository/ref/path/blob/byte/SHA-256 identity, applicable authority scope, semantic role, dependent bundles, and every inspected reference's source lines, target, classification and reason. It enumerates per-contract Alpha upstream closure, per-family component closure and each selected ledger entry's original line range, verbatim State and direct references. The [bounded validator](../tools/validate_qadmin05_recursive_closure.py) re-extracts references from exact Git objects, verifies every identity, checks reachability and rejects omitted/unknown edges or missing normative identities. Classification of meaning is the source-context audit recorded in the oracle; lexical extraction alone is not a claim to understand authority.
+
+Title-only Alpha source references were resolved as well as literal paths and packet IDs. All eight Phase-2 accepted composition records are sealed; their intermediate carriers are evidence-only. Phase-1 Design Synthesis and Review Notes remains Drive reference `19XR1w2n-tI9tZOAYf01JUE8nG3pALXBC`, folder `1E_sO0bP8IYcwxRLMpOK8HAiKO3DXXCKc`, recorded by the exact A Phase-1 archive manifest. No Drive crawl or master migration occurred. Source-era Project/current-state/lease statements are provenance or destination-owned constraints, never present execution authority.
+
+### Recursive result and count definitions
+
+- 22 bundles; unchanged forms: **5 whole / 2 selected section / 8 normalized / 4 pointer / 2 evidence-only / 1 do-not-transfer**.
+- **203 total sealed source identities = 100 preserved original identities + 103 added dependency identities**. Identity means one exact alias/path object, not a mention or a transfer bundle.
+- Sealed-object roles: **97 normative / 66 supporting-method / 40 required evidence**. A whole source identity does not expand a partial transfer scope or adopt historical alternatives embedded in it.
+- Explicit disposition counts, deduplicated by target within each disposition: **178 evidence-only; 30 historical; 9 Website-only; 4 Ryladmin cross-surface; 103 Drive reference; 15 excluded destination-owned Project references**. Different incoming edges can intentionally give one target different scoped roles; these categories are not a partition of sealed identities. Drive count includes master, duplicate and archive reference IDs, not 103 adopted masters.
+- **1,412 source-located reference edges**; bundle-only D03/D04 external dispositions are additionally explicit in the oracle.
+- Breadth-first new reference-target counts beyond the original identity set: **190, 160, 35, 0**; independent full confirmation over all **203** objects: **0** new references. Newly sealed-object counts by frontier pass: **64, 28, 11, 0**.
+- **Unresolved authority references = 0; final full-pass new references = 0. Alpha 7/7, component families 11/11, selected ledger decisions 34/34: closure verified.**
+
+### Three Stage authority repairs
+
+All three are at A (`33b8e13c4e71c8ceee1fdc3a646f291c9422a047`), repository `Rylascoo/Ensemble-Website`. Classification follows their decisions and governing clauses, not their filenames.
+
+- `docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md`: **NORMATIVE**. Blob `22f647cc5516cd65e8ac0c4ee157a3af1408a657`; **15687 bytes**; SHA-256 `b49c4893d04ad84aed7e839ae25acda227c24090ff509b8462b615beca77cc83`. Scope: Current background-successor closure, frozen Stage-carrier elements, provisional-element/ODR boundaries and fresh-chat governing references. Closed background-contract/predecessor blocks remain historical, not a reopened gate. Role: Current Stage baseline and limits; normative to Stage packet/successor, Alpha and their downstream consumers. Reachable from bundles: A02, A05, A06, A07, A08, A09, A10, A11, A12, A13, A14, C04.
+
+- `docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md`: **NORMATIVE**. Blob `56ed0efafe8235442e3001b1f08209fc1ae801f1`; **3162 bytes**; SHA-256 `c82f63526e0ef95006f269b8bdcd419b948d7838ed591efc7bcfab24898820e0`. Scope: Decision; Selected carrier contract; Geometry selection; Interaction continuation; Still open; Validation boundary. Role: Director-selected cone carrier, explicit identity and interaction separation; normative Alpha/Stage source. Reachable from bundles: A02, A05, A06, A07, A08, A09, A10, A11, A12, A13, A14, C04.
+
+- `docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md`: **NORMATIVE**. Blob `df768fe77180e42e5874cb41b7774f108dbd4c3e`; **6032 bytes**; SHA-256 `ba0cdb52fabef4d3bd7399ad340fc3a222f67ce93a5adbb854aefb4340d68fe2`. Scope: Director decision; Interaction thesis; State grammar; Interaction placement; Accessibility boundary; Timing boundary; Current design judgment. Prototype evidence remains evidence-only. Role: Qualitative interaction/state/accessibility law; timing remains unfrozen; normative Alpha/Stage source. Reachable from bundles: A02, A05, A06, A07, A08, A09, A10, A11, A12, A13, A14, C04.
+
+### C03, successor method and non-adoption controls
+
+C03 remains deterministic at the four W objects/ranges already stated above; exact current-main bytes still match. The APPUI-era continuity snapshot remains historical comparison only. The successor method remains blob `aa9b9fc575d5c9d1dd0412c76039b0f51c863be1`, 5,401 bytes, SHA-256 `ce6d074c3b8df82e7f59d820ab77a3823d1ab76af026977ac8cd4eedb9b7c712`, classified supporting method; its upstream Stage authority is now recursively sealed. Historical architecture crosswalks consumed by later accepted studies are supporting lineage, not newly adopted proposals.
+
+Home A/B remains `UNRESOLVED_APP_DESIGN_DECISION`; FIRSTUSE remains `EVIDENCE_PENDING_ADOPTION`. Stewardship remains app-specific -> Project; Website-specific -> Website; cross-surface principle -> Ryladmin; creative masters -> Drive. Website remains active app-design authority. Project receipt is pending. Authority transfer is **NOT EXECUTED**. No Stage/APPUI/Home/FIRSTUSE/Website redesign or production change is authorized or performed.
+
+This is a source-provenance correction, not a new design result, render round, adoption or reopening; no Design Ledger event is invented. Project queue still correctly says active governance / transfer not executed. The next separately authorized `ADMIN-Q05-TRANSFER-01` receipt must reference this correction and reconcile source-freeze progress in the existing Project queue; cross-project closure is not claimed here.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT.** Integration remains conditional on required local and hosted checks. Exact next Q-ADMIN-05 task after integration: retry `ADMIN-Q05-TRANSFER-01` in its separately authorized Project worktree. This correction does not execute it.
+
+## Original 100-source identity appendix
 
 Columns are alias, repository-relative path, Git blob SHA-1, byte size and SHA-256 of exact blob bytes. Each alias/path record appears once even when multiple bundles depend on it. The appendix contains no Website-only implementation or evidence path.
 
@@ -262,3 +304,113 @@ Columns are alias, repository-relative path, Git blob SHA-1, byte size and SHA-2
 | W | docs/KYMAEAN_ENGINEERING_INFORMED_VISUAL_TRANSLATION_PROTOCOL_01.md | a00fdfb1de355ac2c4d0fe3fd73a8990da10e8ee | 7045 | 1fc0dca8bb41ee12f4966c76d9ecedb50be6f4d784e8f4fa3305cfb5713efd96 |
 | W | docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md | be875e273109d235d4a6a8219521fe7f291da5a9 | 20054 | b5b4244fe645cb20bbc4d15daf5251add3c0c575ad885bfdc66386f3e00fd68b |
 | W | docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md | af5a79fe071059599587e094e4b54fd42365c15f | 18205 | e9b4d7c352588f42b01762991adf495d13656ede310e0b2f95a66ff53e03b9f2 |
+
+## Added 103 recursive dependency identities
+
+Exact authority scope, semantic role and all dependency edges are in the oracle. These identity seals do not alter the 22 transfer forms.
+
+| Alias | Path | Blob | Bytes | SHA-256 |
+|---|---|---|---:|---|
+| A | docs/KYMAEAN_APP_ARCHITECTURE_TO_VISUAL_REQUIREMENTS_CROSSWALK_01.md | 2ad0ddcf8dc91bf8e7c89e25949d42cf6abcc1ec | 21967 | 0af14a6e5e73a434d0196143c5cef5f4425372f887fc97f1b303f72d5448a54c |
+| A | docs/KYMAEAN_LANE_A_STAGE_CARRIER_SELECTION_01.md | 56ed0efafe8235442e3001b1f08209fc1ae801f1 | 3162 | c82f63526e0ef95006f269b8bdcd419b948d7838ed591efc7bcfab24898820e0 |
+| A | docs/KYMAEAN_LANE_A_STAGE_CONE_INTERACTION_01.md | df768fe77180e42e5874cb41b7774f108dbd4c3e | 6032 | ba0cdb52fabef4d3bd7399ad340fc3a222f67ce93a5adbb854aefb4340d68fe2 |
+| A | docs/KYMAEAN_STAGE_CORE_BASELINE_AND_BACKGROUND_SUCCESSOR_AUTHORITY_01.md | 22f647cc5516cd65e8ac0c4ee157a3af1408a657 | 15687 | b49c4893d04ad84aed7e839ae25acda227c24090ff509b8462b615beca77cc83 |
+| A | docs/KYMAEAN_VISUAL_SYSTEM_GRAMMAR_PROPOSAL_01.md | e8ceb430e3537d98c9861d231bc092b2ef1fe684 | 32370 | 235a923e1b1ce7054134dbbc60cbf38e88e0f21788ea919e67df6d86dd0f7302 |
+| A | docs/evidence/APPUI_01_CAUSAL_HISTORY_INSPECTION_FUNCTIONAL_STUDY_01.json | 554e470372c62d744f173ac519a5c68caa5ffa95 | 5927 | 6ee6c011f46cb4e9f8d0fe344ac2d7353bd3b928a208b4a7801ebae60accbaf6 |
+| A | docs/evidence/APPUI_01_CHARACTER_BOUNDED_WORKSPACE_FUNCTIONAL_STUDY_01.json | 6cc56cb66b4561e8c183e5004540652803a3da57 | 4809 | 7307b31adfbc33ccb7b7a583f330ab0e9e0a45ec36c8550d2160da3502f3c02f |
+| A | docs/evidence/APPUI_01_COMPONENT_INTEGRATION_COVERAGE_CONVERGENCE_AUDIT_01.json | 4b057a83aa91484ec1654bb8cb46f691eeedc37c | 7617 | 6dcd58911a4457813433ed2e194d89a9696d6c0f175c610e7453529186cae1d3 |
+| A | docs/evidence/APPUI_01_CONTEXTUAL_DEEP_INSPECTION_SURFACE_FAMILY_FUNCTIONAL_STUDY_01.json | 968bd9525a748e5fea8bf149b6d31d4c509ccad4 | 6290 | 6fa2b712f22d3a71f376d89543342ad1f57bb56cab837bf7afe2fbf86aedae2c |
+| A | docs/evidence/APPUI_01_EMPTY_UNAVAILABLE_TRANSITIONAL_WORKSPACE_FUNCTIONAL_STUDY_01.json | 4d7ae9896123ce3814d6314424bb3ba18062b481 | 4338 | 1f5647af31c31d9623b9d242766d22beb77aff51a343a3c6294f449df68af4b9 |
+| A | docs/evidence/APPUI_01_FINAL_PLATFORM_ICON_ASSET_SPEC_METHOD_01.json | e00bac8f2cb9507781fe43dceacee90d7cdb91c0 | 2779 | f20652c455856ed57ae3f6e44823b580c507e7008effa4ed0e421e8a22b79c17 |
+| A | docs/evidence/APPUI_01_FINAL_PLATFORM_ICON_ASSET_SPEC_RESULT_01.json | edfb3ac118c79ca0ab5df7c3529da176d0665530 | 5753 | 136450225ded93a08cd5e0599c655dcb07c62727d3fffe60627c3c8386f94874 |
+| A | docs/evidence/APPUI_01_FINAL_PLATFORM_ICON_SOURCE_MAPPING_01.json | d5d047285c5c6b4e5d84cd030055da4cf652e3f9 | 4082 | cb633ab02f57ee58ec7e45ff6fdad63de928581009e97977e001c8d75f5ed79b |
+| A | docs/evidence/APPUI_01_PERSISTENCE_RECOVERY_STATUS_FUNCTIONAL_STUDY_01.json | aae4f96533567b07b1362c2ff07d4e9e477f93f7 | 6436 | 0ce2d2a438b68cd8851a0d6a1bb02f052a8b8e54aae8882908550a5a39f1d050 |
+| A | docs/evidence/APPUI_01_PHASE_1_COMPONENT_COVERAGE_AUDIT_2026_09_14.json | 1c0e528ab22bdbb805343ac3a483ee1f7ca60182 | 8034 | 3aed96f5061127bd8b1b4a0af912cc88810ec593fe3594c757ba8c38a90f6eb0 |
+| A | docs/evidence/APPUI_01_PHASE_1_INTERACTION_STATE_STRESS_TEST_AND_FREEZE_2026_09_14.json | b8892645577152f380d279bf1f92196ec2b3edbe | 4854 | 795e9b9b9fa4a05610b1601a70817b9bfa4c2d414412633361e9f0685b83f400 |
+| A | docs/evidence/APPUI_01_PHASE_2_CURRENT_PERFORMANCE_IMMEDIATE_CAUSAL_CONTEXT_COMPOSITION_01.json | b83898aee0fb4dfad48a163cd514a576fadc87c2 | 4589 | c5e9a28b7d4857c2eecce2bcfb13fd07ddd041e4ae7c8bf8578eecc6615be41a |
+| A | docs/evidence/APPUI_01_PHASE_2_ENTRY_GATE_ENGINEERING_RECONCILIATION_2026_09_15.json | 75fb56c5117a06eb7339ac574c6dd2e813a08767 | 6169 | 0dc4e613bf873fa16280ebea2cb039ac8ac6d311d6e4d3312152774379f25727 |
+| A | docs/evidence/APPUI_01_PHASE_2_NONVERBAL_ACTION_REFUSAL_COMPOSITION_01.json | a9a9b63a9b216cbd505d92bf66b0af940f97c619 | 5162 | 231af99ae1d65970fd15908b477298e9444abea5e52807fd5fc6a1557d15bb78 |
+| A | docs/evidence/APPUI_01_PHASE_2_PRESENT_CHARACTER_DENSITY_STRESS_COMPOSITION_01.json | a50dba204479e9f315da4b895609f6429f103d91 | 4287 | eb9d753720d17bbbe2640bc963d73ab615061435245b7f02677648f26c2a45fe |
+| A | docs/evidence/APPUI_01_PHASE_2_RELATIONSHIP_SALIENCE_COMPOSITION_01.json | 098aaf974a1706b64da559ad7762d84517db104d | 4287 | 663b639b948d8a04d5ca28c1d3ac850225ebcf0410edb0d3224df0e521c68fc2 |
+| A | docs/evidence/APPUI_01_PHASE_2_SELECTED_CHARACTER_STAGE_STATE_INSPECTION_COMPOSITION_01.json | 58e7faf5bcdc4ee942f44ac3aa01c178ba8ecf0f | 4535 | c1412bcf214e912f22728426b3938d398c58b070eae08ae51289bce20b7e4a6c |
+| A | docs/evidence/APPUI_01_PHASE_2_SILENCE_LISTENING_SYSTEM_NONRESPONSE_COMPOSITION_01.json | 3b5dcdf3b32306af5feb55148a2b6a061e8cc477 | 5380 | 654f7ca98d8c6bac21dfc30198e37b20818a39084ddc66f96ca2fe5cc7435072 |
+| A | docs/evidence/APPUI_01_PHASE_2_STAGE_EXCEPTION_RECOVERY_PRESENTATION_COMPOSITION_01.json | 139bab3a6565586af9458df04348007f943d2cea | 5109 | f332c66f301ea19e73c250ddae6295d2857f6f35e62a588ed5304f8b1ea2b217 |
+| A | docs/evidence/APPUI_01_PHASE_2_STAGE_SHELL_ADJACENCY_LIVE_WORKSPACE_COMPOSITION_01.json | 8fd714961e46da0bf91a7538531a7b520bf5f3a4 | 4808 | 85332f8c16f334a4eaaebb1ed0305e66f3146db50f3368ca1929b668bf293358 |
+| A | docs/evidence/APPUI_01_PHASE_2_STATIC_COVERAGE_AUDIT_2026_09_15.json | 25cd0a80f88804a3474800b00a1655f9c1591723 | 5323 | 1baac1aa440c14a148b0ac72797eee25845bc16f6f19201e6c96dfe6ae835ec7 |
+| A | docs/evidence/APPUI_01_PHASE_3_CAUSAL_HISTORY_F2_D3_INTEGRATION_01.json | cb805f22758520c8080c7895e4a397adec792432 | 4736 | c7aa65db41a8237cc90020ac2051158db7a89fb8576f27895d185e45b13b6bdc |
+| A | docs/evidence/APPUI_01_PHASE_3_CAUSAL_HISTORY_F2_D3_INTEGRATION_METHOD_01.json | 48bb2d2fc120269fdfce667fdb6a3edb18463c43 | 2945 | 6044371a0294ebbbf32cfd95b5d0febb685364eb2c040e59cb8eba831f100504 |
+| A | docs/evidence/APPUI_01_PHASE_3_CHARACTER_BOUNDED_WORKSPACE_F2_D3_INTEGRATION_01.json | be274aa7c09936919a089618a273051cc54c4849 | 4996 | dfac516e5550725903e440da2cbcdc2af5ab7ee51c9a66f4fcc36149b83dcd6d |
+| A | docs/evidence/APPUI_01_PHASE_3_CHARACTER_MANAGEMENT_F2_D3_INTEGRATION_METHOD_01.json | ab62fc831d9a28c4325c08214d0bc14e01f7b62b | 3096 | d0d201b17777b36a7608630b8d84b3bc5fff33347956f659f30730557d727d8b |
+| A | docs/evidence/APPUI_01_PHASE_3_CLR01_DIRECTOR_F2_SELECTION_01.json | 2d1b0d81de364b9fb2561b1834b1551e7e5cc4e9 | 3163 | 2fa86347c13f4c1bef3f5928091b5b308f0f80a4f17b5d7c98f7040e1f7a2a7d |
+| A | docs/evidence/APPUI_01_PHASE_3_CONTEXTUAL_DEEP_INSPECTION_F2_D3_INTEGRATION_01.json | b13a7e682a38dc17af70aeeb1023b45123eca70b | 4330 | 6de21d4d35c03b231447f565499b08cf2a322567f74302b5a099d198d937e5f6 |
+| A | docs/evidence/APPUI_01_PHASE_3_DIRECTOR_D3_STATIC_APP_DARK_SELECTION_01.json | ee23a2d14ed8248d3c6989bbfde0cd75db513b23 | 2961 | 657ee34c8b440f018867c930d694992cc7aa0575cc35ef71b82623a7bef6319f |
+| A | docs/evidence/APPUI_01_PHASE_3_EMPTY_UNAVAILABLE_TRANSITIONAL_F2_D3_INTEGRATION_01.json | 35394d96b7b5a0f6b2a828f9cb15deb153d5071c | 5160 | dd8394f169c04c1966e3de723c7f7487424acbac2e760cd5f84fac94630e841b |
+| A | docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_METHOD_01.json | 16da4b143ab9a277e6192e6ee40c30805369412c | 3976 | ab81158547c1054ad3cf9a99056bc912144eb178b9e30e76500bce541a9f6546 |
+| A | docs/evidence/APPUI_01_PHASE_3_FUNCTIONAL_PLATFORM_ICON_TREATMENT_RESULT_01.json | 5d8a2ee9cf6b8e5aa7cb7e4c532f64e9d748a6d5 | 5584 | 7eb660f51dbe1ac31243fa6556bc8d484fe4e19d959bc6c8c083f16c6b77fdcd |
+| A | docs/evidence/APPUI_01_PHASE_3_INSPECTION_F2_D3_INTEGRATION_METHOD_01.json | 30be3be416b06e51bf1312e6ee8be28941457d64 | 3230 | bcb5d1f0193b5abbec1307242b7eae688103ec552dc96647ef8d879e6f8e34dd |
+| A | docs/evidence/APPUI_01_PHASE_3_PERSISTENCE_RECOVERY_F2_D3_INTEGRATION_01.json | 667e0146f9c21fab015ec9928a7377c15630eebf | 5690 | 985cacbc2f4c064facc3d23fb36018613ac4aab478fc0b656a733e6cc5bc116c |
+| A | docs/evidence/APPUI_01_PHASE_3_PERSISTENCE_RECOVERY_F2_D3_INTEGRATION_METHOD_01.json | 6c5cef0f405135da412995b83b9ec2a4b8701b20 | 3508 | 771f243530b53f50d129a730c1988a93d575e5ca3e208c11824fbc00bcc636ac |
+| A | docs/evidence/APPUI_01_PHASE_3_PRODUCTION_LIFECYCLE_UTILITIES_F2_D3_INTEGRATION_01.json | dceb8c86609478b69e3bc4951f5d5998f8a96bd8 | 5114 | 81d8fed17d097d684f7b6a3705a262f2f26229532bd14d4612d40a3c893c472c |
+| A | docs/evidence/APPUI_01_PHASE_3_PRODUCTION_SHAPING_F2_D3_INTEGRATION_01.json | bb65d0440bf4348cd2476ff4f01d154521276dce | 3438 | b242119ff258ab4beea70e4261b2790a3799d58516bda57553cef69d2491d989 |
+| A | docs/evidence/APPUI_01_PHASE_3_REMAINING_STATIC_AXES_AUDIT_01.json | 2c351eaf186296945cb64f8b3ec8501d6df43493 | 2125 | b9400e9ceddf850e61b78fcc33e3116bb291a140faf8761ba88dad7256b9ab80 |
+| A | docs/evidence/APPUI_01_PHASE_3_SHAPING_F2_D3_INTEGRATION_METHOD_01.json | 3cfeb7dca615f1a683326a542cb2c74840676631 | 3327 | bcada9edf8174148d3019702aa393e5762ca80f06d08c7faf3d07810affd3abb |
+| A | docs/evidence/APPUI_01_PHASE_3_STATIC_APP_VISUAL_SYSTEM_CONSOLIDATION_01.json | 61e528aff2c1685a11c2b7afcaa3cb3e5d64db32 | 4027 | 11a8d9e80654a1faed9b61e9fc76d8e1dde0548527dd55a8c97b0269b9b70ad7 |
+| A | docs/evidence/APPUI_01_PHASE_3_TRUTH_KNOWLEDGE_DISCLOSURE_F2_D3_INTEGRATION_01.json | 2cde592bb63d8fe46df7d8f6a9894ee44600a871 | 5340 | 795b68dc73b99e03ba4168c98e2d6920a39fe4bdc49cf5f09765ccaaa4979dbc |
+| A | docs/evidence/APPUI_01_PHASE_3_TRUTH_KNOWLEDGE_DISCLOSURE_F2_D3_INTEGRATION_METHOD_01.json | 466b81d2cc41a26bf1d8b027f685c1723b661a73 | 3476 | 97d78f239e4b16fc72498aadb0a909a9cc8d1c80ade5c58c5d3ae6c3fd019d32 |
+| A | docs/evidence/APPUI_01_PHASE_3_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_F2_D3_INTEGRATION_01.json | 27a26a5ece71101673fd9e5b7a25c9428bb06809 | 4486 | af63806d632080e9e753428b4f4495bb9780213f7dbfc28dea374c3bc5821a17 |
+| A | docs/evidence/APPUI_01_POST_STAGE_PRESENTATION_VISUAL_SYSTEM_REENTRY_AUDIT_02.json | e20265c4f93781d8f52b2583a074013287eb0799 | 1958 | 6b344008e534e49ddeb613d60b43f227b312b6b221047a5377ca76d648461b2b |
+| A | docs/evidence/APPUI_01_POST_STATIC_ASSET_REENTRY_AUDIT_04.json | 83cf2b64ecd52589216225262213ce989a7b7276 | 4921 | 20b1204612e8c08aa55aa6c5c009d4537ec4af4b9d3538901938d5b71feb5fe3 |
+| A | docs/evidence/APPUI_01_POST_TYP_ASSET_VISUAL_SYSTEM_REENTRY_AUDIT_03.json | 3dd737022a8d6cd40c5cd401047aa08ebc0324f8 | 2048 | 714b55d2bdb0d6a3f082560c780481385d91dbb2ab78443b18914f3ac15ec912 |
+| A | docs/evidence/APPUI_01_PRODUCTION_HOME_RESUME_FUNCTIONAL_STUDY_01.json | 2ce2c0e2899cf9312f1bbe99941ae57d1ee67909 | 5867 | aa146c5d9c96044a7f03f8e0ca0d8d598888124ac3242802eecd74989cde56e1 |
+| A | docs/evidence/APPUI_01_PRODUCTION_LIFECYCLE_UTILITIES_FUNCTIONAL_STUDY_01.json | 145b92ff6bcfe195ee89c51fa1b42e8545953e30 | 5517 | 334613cb0bf971d6880bd98c41b67559d97c82fbb47242a7247fae3a3b0731c9 |
+| A | docs/evidence/APPUI_01_PRODUCTION_SHAPING_CURRENT_POSSIBILITY_FUNCTIONAL_STUDY_01.json | d78e69fdfe85d225b06db997fcf1132fd1aac06f | 6071 | 94ff8a9d08796d9b195a0232d80bbdab7f0d79751412240e0003c2ad48c906aa |
+| A | docs/evidence/APPUI_01_Q_DESIGN_20_ENGINEERING_RETURN_01.json | ddfe571f408a05ee9d5837bfb0e3361427d47ec1 | 3592 | 8056316da25537bed16ff041ae3654ce2f90864580edc66d5d5d0f360728eb1c |
+| A | docs/evidence/APPUI_01_Q_DESIGN_20_NATIVE_CONVERGENCE_AUDIT_07.json | 8245ab97b25970e782a7010680e486f341ffb0d8 | 7660 | bf5522f2a0d8ca2c094487ac328495f8854b05576a9c55a501e92d890bc7e9ff |
+| A | docs/evidence/APPUI_01_Q_PROD_01_DESIGN_TO_NATIVE_REENTRY_AUDIT_06.json | 4d3a188169d31238a13f6d7845e4c63f6f0762b6 | 3122 | 698b7fcf0dc9643986cb6df87311fff0595c2be76fcbb54ff2308675cdf4ad01 |
+| A | docs/evidence/APPUI_01_Q_PROD_01_ENGINEERING_DISPATCH_01.json | 5833da07cbdc573d9cb3568e040891b16f97bc49 | 1883 | 301b1ccdac8bf32c7d78138ef9ff08271088479b3170d33a7d6e6606408d6772 |
+| A | docs/evidence/APPUI_01_THREE_PHASE_PROGRAM_AND_STAGE_INTERFACE_ENVELOPE_AUDIT_2026_09_14.json | 43eaad9beb5c72db20efb71284e896ce9c2bd4d2 | 9961 | 4c0b2424d59f9ef23cc2a7a8f6179cdbb518ed9da0a7d4b71696ed8565536806 |
+| A | docs/evidence/APPUI_01_TRUTH_KNOWLEDGE_DISCLOSURE_INSPECTION_FUNCTIONAL_STUDY_01.json | 8e8cda5295f281afec2989b237cb59e9a675c3ec | 6290 | 6a65ff9ccebab336132872bc5ad67edfee658291df904fb51ad4bc9f38f1af9f |
+| A | docs/evidence/APPUI_01_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_FUNCTIONAL_STUDY_01.json | 567d67c7fc9cd2e7e186353bd075c8be658a9115 | 5908 | 0c12000cac557ad39198fe1c334b6a676411b0fc1d91ec8f088771787201258f |
+| A | docs/evidence/DESIGN_PACKET_TEMPLATE_01.json | be377f4ef1df0a991f6046a9c3675548bb43fc0a | 2066 | e6e7a047ce980b3a451c6822eda4256a254465038a44936825ca7267461a149f |
+| A | docs/evidence/MAT_01_CROSS_SURFACE_MATERIAL_SHAPE_SUCCESSOR_DIVERGENCE_METHOD_AND_MATRIX_01.json | 3286a155ace72f7c2a114c5643cfccbb8f7362e7 | 6539 | f843446184f5753ebf78303783369466a75ea62da109132dfb99ffd9b9c26710 |
+| A | docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_01.json | 542e2c7102cb59927bbd8f1b973e091300405efa | 4562 | 486387fa2d1dbe64ef0353516192b5f02fb2b0fad932a41895c919f560ddbc75 |
+| A | docs/evidence/MAT_01_EXECUTION_DEFAULTS_ADDENDUM_02.json | 2470e5fde0394d6e3927dff851a203abbcda8267 | 3329 | 0e1f6c24f0bcfec0f785eced204127005563e2c7737f05df2f03b2a188b86afb |
+| A | docs/evidence/MAT_01_FROZEN_CANDIDATE_MANIFEST_02.json | d830f5856c8eb59463b4a2c6e3986b777c92bf49 | 3647 | d300153e8625ad11f57b8d92f161aa52a61c83ed0ab25b3ecb3fd675d373c557 |
+| A | docs/evidence/MOT_01_CROSS_SURFACE_MOTION_SIGNATURE_INDEPENDENCE_METHOD_AND_MATRIX_01.json | e4eed4912bf9150fdbcbe50b86579925907eb85f | 23042 | e50ba927d21d44dfa3e793d2dee1fd7cd8b1ec0def000b3cfea6dc8a78e6f42f |
+| A | docs/evidence/MOT_01_DIRECTOR_DESIGN_ADJUDICATION_01.json | b8d32d5166727ff1c7cdf74e49523bb72e45f1f5 | 6003 | 483ba210f958d61224167b85be42fb64f0c895b967357c51bb3ed3d1941b4b4f |
+| A | docs/evidence/MOT_01_F1_ORDERED_STAGGER_REFINEMENT_CONTRACT_01.json | d1f7a0bfbd3a49a955888157c031a3ecf4d3487a | 11613 | f2868366c30c23dcdff0fb71e0cb4ae5108cbe55270d16bbb43d70f89c4720b2 |
+| A | docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_02.txt | 47e477de3ce1aef6c8ed496ff737d5d5fe1d0110 | 14016 | 1b4dff2f7e19f3fb0eea9b7c87f7530a838a3dccea866272f47733465f224fd6 |
+| A | docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_04.json | 7f2599a486e5b44c48cc0d608685839edc914679 | 7745 | 990c765a7dadce5e9771284e1e2880dab926ee232b32064d33debeb9c1fcbb00 |
+| A | docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_06.json | b18913d8a283e3906a6b70cef2c8e00b1bf7e965 | 6213 | 51ba24859fc7a5cb53fe94b61e8ceb45ec8a6f16b92975fe08ea69bf62530d54 |
+| A | docs/evidence/SHARED_BRAND_ORTHOGONAL_REENTRY_AUDIT_08.json | ce979d4132dabd9f9443c5fa642f61331f75393f | 6835 | 46b24da104450b1bfbd9d9fce6144e15da37dc83fd8b77a5c8a099eb313edf86 |
+| A | docs/evidence/STA_01_EXECUTION_DEFAULTS_ADDENDUM_01.json | 9031b177915c466259b27f9fd3a6fd6adc41544b | 2851 | d385e987ebc886ebf370a99c597361cc4cb3df68234bde1f922abf44eef11282 |
+| A | docs/evidence/STA_01_NONCOLOR_FOCUS_SELECTION_METHOD_AND_MATRIX_01.json | 2608af0f109b24581209574d41de22d9c3cee8eb | 5710 | 9ec3f90615435ba4e2f229659ce56ca8434e07b147017e2add9046d5ce80364e |
+| A | docs/evidence/TYP_02_BROWSER_CONTRACT_REPAIR_02.json | e2a44f8a91a16b6aa41a8f2f491c720b3694783a | 1000 | 11570a005695a4d9593348d46fecc1e02d39568f7c7bb2bac8fe8b4cdceb74a8 |
+| A | docs/evidence/TYP_02_BROWSER_FIXTURE_REPAIR_01.json | b4bc23537995eb4a008b0ca16cd2a0cbc00a5cfa | 1054 | 82526bc07fa30b4fe055615094fe8c232e4c936f1dae11967755c4dbbd27e36c |
+| A | docs/evidence/TYP_02_BROWSER_METADATA_REPAIR_03.json | 88fa3b416de6bb7b1d7e925a071a1e43fdd73db9 | 1258 | 8f84fbcfdb13b6d2835ebffbf3d642e05e4c61d799a7417f4b196138c17f5dfc |
+| A | docs/evidence/TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHIC_ROLE_GRAMMAR_METHOD_AND_MATRIX_01.json | 622e43ae6bda605fb1768c580617f258cd8a21e4 | 6958 | 42c2f73cd558a96933f92b421f740ec4ef3b280f09919bb614141b74815e5f26 |
+| A | docs/evidence/TYP_02_EXECUTION_DEFAULTS_01.json | 9648234f094e8839b2bc22e3e5008efd0f5b9a3c | 5394 | df1bbf75319f2894260612a11afaa1ebc3e256d695977cd6cf13245ac25bdbdc |
+| A | docs/evidence/TYP_02_EXECUTION_DEFAULTS_ADDENDUM_01.json | 06a5349a94784ee1925937e512a1bc3184d2154a | 3806 | e6c731165a55c71d5d20f73a389672061e5d8d2d4c4c06d4d2119db55220478c |
+| A | docs/evidence/TYP_02_FROZEN_SOURCE_MANIFEST_04.json | 2892c2deadf7e2099da54e5a00fa57119edfb055 | 3990 | d232b5017b4f2a6ce6bf86acf020947a828a29654390764936fce34fc4400549 |
+| A | docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_METHOD_01.json | 4f29895e72496d2976aeb0af9017991757a4c6f1 | 4211 | bacddff872476399d18e8c271c436283fdb53dd75fecdbb048a3aa8c674c5623 |
+| A | docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_FONT_ASSET_RESULT_01.json | 2cb38be4f7e1fa8694948d9b26431d8ed8f94df1 | 6634 | adc79de7078efb2436c8d5290391d907e5258d76410e5b2efeae46cf42dde6a9 |
+| A | docs/evidence/TYP_ASSET_01_FINAL_TYPEFACE_SOURCE_MANIFEST_01.json | d21730849fb39a71ed75a425189a6a3dffab254c | 2730 | 730bb1311a7053bab8222fdc0c0d1984cb079588ef447d2a4cf5a84e0392f4cc |
+| A | docs/evidence/packets/PKT_APPUI_FINAL_PLATFORM_ICON_ASSET_01.json | b9786e66698c67035a0a2d6428dffa4d20d958cf | 4206 | 6189628a8b455c279405766d90fe6f760fbda8c6468391ffc8ee81b7fa2bca22 |
+| A | docs/evidence/packets/PKT_COMP_01_COMPONENT_SYSTEM_FOUNDATION_01.json | 1bf5fdc54ef0d3c62da6fecb950d5181e8719527 | 7367 | 8bbef008e1dfd30c0d81fa30b7db79fb4c05350a45d4bade5d5628e55cc50150 |
+| A | docs/evidence/packets/PKT_COMP_02_APPLICATION_SHELL_INTEGRATION_01.json | d420481573b146237b73eee7e313710dcb9c7eb1 | 4214 | 3715d60b5d2222d7a3511995aba71a011b002a1c6c7dfe76474bf63e7850e8e4 |
+| A | docs/evidence/packets/PKT_COMP_03_SHAPING_WORKSPACE_INTEGRATION_01.json | 6e8565a6b2f41a2265569e46ee34aed35463590b | 4714 | 01bc70857dde710108c2ef1e3914561a6a62c7ab845c501d35eba48ade7dbc7f |
+| A | docs/evidence/packets/PKT_COMP_04_CONTEXTUAL_DEEP_INSPECTION_INTEGRATION_01.json | 87acdbcbab059d325c74d7bc8220f2a720719485 | 5019 | 19ed02374e4891e3ad30b445937d99aadf7ff9ede90821609a587b5a838cc872 |
+| A | docs/evidence/packets/PKT_COMP_05_WHOLE_PRODUCTION_CHARACTER_MANAGEMENT_INTEGRATION_01.json | 26a012b2e789bbbf74efe4a50aac334330656b74 | 5774 | 8df50a9691038d0e6f070fd7d635fa67059f51100b546c23e794c84690b670c8 |
+| A | docs/evidence/packets/PKT_COMP_06_CAUSAL_HISTORY_INSPECTION_INTEGRATION_01.json | 5651f4294526b11f9b8f1fb6264481bb3c5aafa3 | 5966 | 32a46d00fbcf76ac55fba0ba2c152835c191f143db7b327ce42608e53c059972 |
+| A | docs/evidence/packets/PKT_COMP_07_TRUTH_KNOWLEDGE_DISCLOSURE_INTEGRATION_01.json | 959515c4a89b19860797165c3305fcd246fc366c | 5872 | 2ad0132fea25b651a5d9af65a888c3afe580c70448f63cc929c25b96c54e8c24 |
+| A | docs/evidence/packets/PKT_COMP_08_PERSISTENCE_RECOVERY_INTEGRATION_01.json | 4340c9213898e048c41bf082eb9648486e350f7b | 5563 | 4374460a515ad35e013a498d96f9a9e0be56c1a32c831a1930a1420128673750 |
+| A | docs/evidence/packets/PKT_COMP_09_PRODUCTION_LIFECYCLE_UTILITIES_INTEGRATION_01.json | 39a710336ccc03077f84da2b20ca2d99abe1806b | 5665 | 2ce92efca29665fb84dd859749f8c80d5faff222530b1c2e961c8c2b02842132 |
+| A | docs/evidence/packets/PKT_COMP_10_CHARACTER_BOUNDED_WORKSPACE_INTEGRATION_01.json | b52b2b0b5055ebc837f035b5768ed04048efd85a | 6289 | 35855f28f6cabe7085a1ddaa0c8639dc90c62cd71f7b8dd40deafb7c91d704d6 |
+| A | docs/evidence/packets/PKT_COMP_11_EMPTY_UNAVAILABLE_TRANSITIONAL_INTEGRATION_01.json | d6fecdef72ea967d37da0d759109726b649bd086 | 5918 | 36d6fb00110aab07c90136e28a35b4702cc3d69c17f815cd7c42dc323090c680 |
+| A | docs/evidence/packets/PKT_FICON_01_FUNCTIONAL_PLATFORM_ICON_TREATMENT_01.json | 1d42dc6be2c35c59bca2a1f8735ef5a1a02fefd5 | 6692 | 3439128890c3ac70ed4da7675d7cc1fb323100d97107231f9ff30258b33f241d |
+| A | docs/evidence/packets/PKT_MAT_01_MATERIAL_SHAPE_GRAMMAR_01.json | 8236edfaa00a1af1ed5e3889cea2bed5f478b739 | 7378 | f0a1d132c06ed9b9d474e827774a3490496d5de37a1d801bfa2fac69a63945fb |
+| A | docs/evidence/packets/PKT_STA_01_NONCOLOR_STATE_GRAMMAR_01.json | 4a428056638188a23e746e8dfddbaebd9935f7e5 | 6620 | 46e385eb7be8407b26376000292d6ade26654e1419a0c289316eb5a9a18868d8 |
+| A | docs/evidence/packets/PKT_TYP_02_COMPOSITION_SUPPORTED_TYPOGRAPHY_01.json | 19c7a223c2154264efc7190290ca343538945aba | 6834 | bb236bf8d000150b99c69657ca6e0bdaf2ab433285d0c619821cfbde2f573a19 |
+| A | docs/evidence/packets/PKT_TYP_ASSET_01_FINAL_TYPEFACE_01.json | 17bf60701156e0adff5e791b83191ed69af9990b | 4662 | 060f63674674dfcf1d64ae7f1a3240a0757f0ac5894bdea3b30a768e46406fdd |
+| A | prototypes/appui-01/phase3-production-home-visual-language-integration-01.html | b203b146398327c62adc644de20e7a9feebb1fe6 | 18941 | ce0c37b18c8598974bd92423193e7b0076495c09154284301596d9eb55cabfc9 |
+| A | prototypes/appui-01/production-home-resume-functional-study-01.html | c7f0fcc0aaf94c981486a18d4ce4c9e5be410fb2 | 21826 | 5e68160c4015d14cf61a6529947bd241b4eba2f7c78cd609f04f60aad994c402 |
