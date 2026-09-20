@@ -1,0 +1,34 @@
+:root{
+  --threshold-bronze:#c8a56a;
+  --threshold-stone:#d9cbb3;
+}
+.wordmark-mark path{
+  fill:var(--threshold-bronze) !important;
+}
+.w06 path{
+  fill:var(--threshold-stone);
+  shape-rendering:geometricPrecision;
+}
+.variant-counterweight .wordmark,
+.variant-latent .wordmark,
+.variant-relational .wordmark,
+.variant-resolution .wordmark{
+  width:min(32vw,31rem);
+}
+.relational .relation{
+  fill:var(--threshold-stone);
+}
+@media(max-width:900px) and (orientation:portrait){
+  .variant-counterweight .wordmark,
+  .variant-latent .wordmark,
+  .variant-relational .wordmark,
+  .variant-resolution .wordmark{
+    width:min(61vw,22.5rem);
+  }
+}
+@media(forced-colors:active){
+  .wordmark-mark path,
+  .w06 path{
+    fill:CanvasText !important;
+  }
+}
