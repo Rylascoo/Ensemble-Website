@@ -17,14 +17,16 @@ Reference 17 remains fixed: Drive 1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit; 1672 x 941 
 
 L-239 retains Crop 03 as PARTIAL / not adopted. L-240 preserves exact Crop 04 raw output, SHA-256 95bddeee8cf271022108a5ecab2014d6b67bd81a2635d28039a38b1ff6e78656.
 
-L-241: preregistered Crop-04 full-scene diagnostic is a **technical PASS**. Fixed registration [701,150,959,533); outside Boundary 01 changed RGBA pixels = 0; max absolute RGBA difference = 0. It is a pixel-controlled diagnostic composite only: unadopted, non-production, and Reference 17 is not advanced.
+L-241 proves the fixed Crop-04 full-scene diagnostic is pixel-controlled: registration [701,150,959,533); outside Boundary 01 changed decoded RGBA pixels = 0; max absolute difference = 0.
 
-Diagnostic: prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png; result: docs/evidence/WEBSITE_REFERENCE17_CROP04_FULL_SCENE_DIAGNOSTIC_RESULT_01.json.
+L-242 remains the separate Lou mascot naming decision. L-243 records the Director disposition for this lane: **FULL-SCENE CONTEXT PASS / CROP 04 SELECTED AS THE DOORWAY-SUCCESSOR MECHANISM / NO MORE DOORWAY GENERATION / PIXELS NOT PRODUCTION-ADOPTED**. Reference 17 remains the authoritative original full scene.
+
+Diagnostic: prototypes/website-reference17-doorway-crop-04/full-scene-diagnostic/REF17_CROP04_FULL_SCENE_DIAGNOSTIC.png; result: docs/evidence/WEBSITE_REFERENCE17_CROP04_FULL_SCENE_DIAGNOSTIC_RESULT_01.json; disposition: docs/evidence/WEBSITE_REFERENCE17_CROP04_DIRECTOR_DISPOSITION_01.json.
 
 ## Cross-surface boundary
 Website metaphor creates no app semantics. Engineering truth remains in Project.
 
 ## Maintenance
-TRIGGERcmd stays deferred.
+TRIGGERcmd stays deferred. Website Sol should use GitHub + Drive + Adobe as the normal workflow; Remote Desktop Commander is exception-only for genuinely local/runtime-only evidence.
 
-**Exact next action:** Director + Design Sol review the exact full-scene diagnostic at website scale. Do not generate again, promote Crop 04, alter Reference 17/Boundary 01, or touch site/public/** before visual disposition.
+**Exact next action:** close the Reference-17 doorway-generation subprogram and continue website design from the selected Crop-04 full-scene mechanism without modifying site/public/**. Any future adoption/publication requires a separate explicit Director gate.

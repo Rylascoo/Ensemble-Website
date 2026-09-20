@@ -167,15 +167,16 @@
     "whole_app_synthesis_status": "NOT_APPLICABLE_WEBSITE_ARTWORK_ONLY"
   },
   "latest_crop_gate": {
-    "ledger": "L-239",
-    "experiment": "REF17-CROP-03",
-    "status": "PARTIAL_RETAINED_MECHANISM_EVIDENCE_NOT_ADOPTED",
-    "result": "docs/evidence/WEBSITE_REFERENCE17_DOORWAY_CROP_03_RESULT.json",
+    "ledger": "L-243",
+    "experiment": "REF17-CROP-04",
+    "status": "FULL_SCENE_CONTEXT_PASS_SELECTED_MECHANISM_NOT_PRODUCTION_ADOPTED",
+    "result": "docs/evidence/WEBSITE_REFERENCE17_CROP04_DIRECTOR_DISPOSITION_01.json",
     "attempts_consumed": 1,
+    "doorway_generation_closed": true,
     "reference17_retained": true,
-    "actual_composite": false,
-    "no_default_reroll": true,
-    "next": "One original-crop Crop 04 authorized: hold Crop-03 gains and change only depth asymmetry, passage irregularity and color restraint."
+    "actual_composite": true,
+    "composite_classification": "PIXEL_CONTROLLED_DIAGNOSTIC_ONLY",
+    "further_default_generation_authorized": false
   },
   "crop_gate_history": [
     {
@@ -239,5 +240,13 @@
     "adopted": false,
     "reference17_advanced": false,
     "next_authorized_operation": "Execute one L-232 bounded successor from the original verified Reference-17 crop under unchanged Boundary 01."
+  },
+  "selected_doorway_mechanism": {
+    "ledger": "L-243",
+    "source": "REF17-CROP-04",
+    "raw_sha256": "95bddeee8cf271022108a5ecab2014d6b67bd81a2635d28039a38b1ff6e78656",
+    "diagnostic_sha256": "538be8b4c09aecbddccc36f52959ca1a9190bd57d4415151f48c0af40f74da33",
+    "production_adopted": false,
+    "publication_authorized": false
   }
 }
