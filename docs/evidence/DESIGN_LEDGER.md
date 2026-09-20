@@ -3850,3 +3850,15 @@ Carry forward: Lou's recognizable brunette/freckled human identity, observant/cu
 This decision does **not** rename, replace, merge or supersede Bellweather Canonical, Bellweather Mediate, Bellweather Alternate or Belle. It creates no `site/public/**` change, no production-artwork promotion, no app UI/runtime/product-semantic change, and no change to the separate Reference-17 lane. L-241 remains the active website current-state next gate.
 
 **DIRECTOR NAMING DECISION RECORDED — THIS MASCOT LINEAGE IS LOU; DISTINCT EXISTING MASCOT LINEAGES AND ACTIVE WEBSITE/APP AUTHORITY REMAIN UNCHANGED.**
+
+## L-243 - Q-ADMIN-05 Website app-design source relinquishment integrated
+
+**State:** APP DESIGN SOURCE RELINQUISHED / HISTORICAL PROVENANCE RETAINED / PROJECT APP DESIGN CURRENT / WEBSITE-SPECIFIC AUTHORITY UNCHANGED / HOME A-B UNRESOLVED / FIRSTUSE PENDING / Q-ADMIN-05 NOT GLOBALLY CLOSED
+
+Ryladmin authorization `84329e7b50360654cb07e7988d300e521f7c0521` accepted Project receipt `4d77471897e372284110950ef84e5564e60aff52` and the exact recursively frozen Website source at `846c60ee448abf7d5c57bdd64de55cb9294880e2`. Through Q-ADMIN-05, the 34 selected active app-design decisions now route to `Rylascoo/Ensemble-Project/docs/design/app/**` as current application-design authority.
+
+The full Website ledger and all historical app-design documents, prototypes, tools, renders and Git history remain preserved as provenance. They are not relabeled as never-authoritative and do not form a second independently mutable app authority. Website-specific decisions remain live Website authority, including `site/`, kymaean.com, Website information architecture, hero/doorway, Website motion, responsive behavior, copy/presentation, accessibility, evidence/production validation and PR #147 lifecycle.
+
+Home A/B remains `UNRESOLVED_APP_DESIGN_DECISION`. FIRSTUSE remains `EVIDENCE_PENDING_ADOPTION`. Shared creative/visual masters remain Google Drive-owned; app usage belongs to Project, web usage belongs to Website, and genuinely cross-surface governance belongs to Ryladmin. No production Website behavior changed. Final Q-ADMIN-05 closure remains a fresh Ryladmin cross-repository authority-graph verification.
+
+**APPROVED BY STANDING DIRECTOR DELEGATION — CLEAN RECURSIVE AUDIT. WEBSITE SOURCE-SIDE HANDOFF COMPLETE; GLOBAL Q-ADMIN-05 CLOSURE NOT CLAIMED.**

@@ -2,17 +2,19 @@
 
 # Kymaean Visual Design Workflow Authority 01
 
-Updated: 2026-09-14
+Updated: 2026-09-20
+
+Application-design transition: this workflow remains active for Website-specific design and implementation. Current application-design work routes to `Rylascoo/Ensemble-Project/docs/design/app/**`; pre-transition Website app-visual material is historical source/provenance under `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`.
 
 ## Director approval
 
-The Director has approved this optimized visual-design workflow for all future Kymaean visual asset, app-visual, website, and shared-brand development, including fresh chats after handoffs.
+The Director has approved this optimized visual-design workflow for future Kymaean Website visual assets, website development and Website-specific brand use, including fresh chats after handoffs.
 
 This document governs design-workflow approval discipline, execution allocation, cross-lane consultation, and recursive audit. It does not transfer engineering/product authority into the design lane.
 
 ## Accountable role
 
-**Design Sol is the accountable manager for the visual-design / brand / app-visual / website lane.**
+**Website Design Sol is the accountable manager for the Website visual-design / brand-use / website lane.**
 
 The Director owns product constitution and binding subjective taste where evidence cannot decide. Design Sol owns in-lane design reasoning, synthesis, method construction, recommendation, recursive audit, and durable adoption under the standing delegation below.
 

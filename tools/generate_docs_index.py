@@ -71,6 +71,7 @@ def render_index(statuses, texts):
         "Groups reflect only the first-line D-R1 machine header, never legacy body `Status:` text.",
         "UNCLASSIFIED records remain visible reconciliation debt; no authority is inferred here.",
         "Text records are listed for corpus visibility only. Presence here does not infer status, authority, classification, adoption, or currentness.", "",
+        "Application-design routing is governed by `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`. An ACTIVE LAW header on a pre-transition app-design source does not make Website the current application-design authority.", "",
     ]
     for status in STATUSES:
         paths = sorted(path for path, value in statuses.items() if value == status)

@@ -4,6 +4,8 @@
 
 Status: PREPARED INTEGRATED BASELINE — CURRENT DIRECTOR REVIEW CONTINUES THROUGH EXPERIENCE ONTOLOGY RECOVERY
 
+Transition note (2026-09-20): application-design content in this document is historical source/provenance. Current application-design authority resides in `Rylascoo/Ensemble-Project/docs/design/app/**`; Website-specific content remains subject to current Website authority. See `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`.
+
 Current continuation artifact:
 
 `docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md`

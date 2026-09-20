@@ -4,6 +4,8 @@
 
 Status: DIRECTOR-ACCEPTED DESIGN BASIS / NO PRODUCTION IMPLEMENTATION AUTHORIZED
 
+Transition note (2026-09-20): this remains historical transfer provenance for application design and a Website-specific lineage source. Current application-design authority resides in `Rylascoo/Ensemble-Project/docs/design/app/**`. See `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md` before using any body-status statement below.
+
 Acceptance note:
 
 The Director continued from this document's review gate on 2026-09-03, authorizing the one justified next design action: preparation of `docs/KYMAEAN_APP_INFORMATION_RELATIONSHIP_ARCHITECTURE_PROPOSAL_01.md`.

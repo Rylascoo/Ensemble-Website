@@ -2,7 +2,9 @@
 
 # Ensemble Website
 
-Website, public-brand and visual-design authority for **Kymaean**, the public identity of the product developed in `Rylascoo/Ensemble-Project`.
+Website, public-brand and Website-specific visual-design authority for **Kymaean**, the public identity of the product developed in `Rylascoo/Ensemble-Project`.
+
+Current application-design authority lives in `Rylascoo/Ensemble-Project/docs/design/app/**`. Website app-design material is retained as historical source/provenance under [`docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`](docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md), not as a second active authority.
 
 ## Fresh-chat bootstrap
 
@@ -10,13 +12,14 @@ Before substantive brand, visual, asset, motion or website work:
 
 1. Read [`CURRENT_STATE.md`](CURRENT_STATE.md) first. It is the repository's only volatile phase/current-boundary authority.
 2. Read [`AGENTS.md`](AGENTS.md) for durable repository workflow and structural safeguards.
-3. Read [`docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`](docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md) for recursive-audit and earned-approval law.
-4. Read [`docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`](docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md) for Sol High task-scope and Astra/Codex allocation.
-5. Read [`docs/evidence/DESIGN_LEDGER.md`](docs/evidence/DESIGN_LEDGER.md) before reopening or repeating prior design questions.
-6. Read the active handoff/evidence named by `CURRENT_STATE.md`.
-7. Use [`docs/DESIGN_CONTINUITY.md`](docs/DESIGN_CONTINUITY.md) for durable design law and lineage; historical phase/status statements inside it do not override `CURRENT_STATE.md`.
-8. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` only when exact current product/engineering truth materially matters.
-9. Treat Google Drive **Ensemble Project** as the visual-master/provenance workspace.
+3. Route application-design work to live Project `docs/design/app/**`; continue only Website-specific design here.
+4. Read [`docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`](docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md) for recursive-audit and earned-approval law.
+5. Read [`docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`](docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md) for Sol High task-scope and Astra/Codex allocation.
+6. Read [`docs/evidence/DESIGN_LEDGER.md`](docs/evidence/DESIGN_LEDGER.md) before reopening or repeating prior Website design questions; transferred app entries are provenance here.
+7. Read the active handoff/evidence named by `CURRENT_STATE.md`.
+8. Use [`docs/DESIGN_CONTINUITY.md`](docs/DESIGN_CONTINUITY.md) for durable Website design law and lineage; historical phase/status statements inside it do not override `CURRENT_STATE.md`.
+9. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` when exact current product/engineering truth matters, and Project `docs/design/app/AUTHORITY.md` for application design.
+10. Treat Google Drive **Ensemble Project** as the visual-master/provenance workspace; genuinely cross-surface governance routes to Ryladmin.
 
 Do not reconstruct current authority from old handoffs, branch names, historical approval records, attractive recent work or chat summaries.
 
@@ -50,9 +53,10 @@ Within the website/brand/design lane, a clean recursive audit earns the gate und
 
 ## Repository boundary
 
-- **This repository:** design/brand authority, website specifications/source, prototypes, repository assets, evidence and continuity.
+- **This repository:** Website design/brand usage authority, website specifications/source, Website prototypes, repository assets, evidence and continuity; historical app-design provenance is non-current.
 - **Google Drive — Ensemble Project:** visual masters, identity/artwork exploration, mockups, motion studies and provenance.
-- **`Rylascoo/Ensemble-Project`:** product/engineering/backend authority; read-only from the design lane unless explicitly authorized otherwise.
+- **`Rylascoo/Ensemble-Project`:** current application-design plus product/engineering/backend authority; read-only from the Website lane unless explicitly authorized otherwise.
+- **Ryladmin:** genuinely cross-surface motion and general brand-use governance.
 
 D-R1 restructuring is complete. Do not mass-move `docs/`, `prototypes/`, `assets/` or `tools/` merely to make the root look cleaner; use the explicit front-door namespaces above and preserve the existing evidence graph unless a separately audited migration proves worthwhile.
 

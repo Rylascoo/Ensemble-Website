@@ -4,6 +4,8 @@
 
 Status: **DIRECTOR-FROZEN CORE APP DESIGN BASELINE / PHASE-C ENTRY AUTHORITY**
 
+Transition note (2026-09-20): this frozen Website source remains historical transfer provenance. Current Stage/application-design authority resides in `Rylascoo/Ensemble-Project/docs/design/app/**`; do not resume Stage work from this document. See `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`.
+
 Updated: 2026-09-11
 
 ## Background successor closure — current authority
