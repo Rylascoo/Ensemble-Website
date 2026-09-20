@@ -1,0 +1,46 @@
+{
+  "schema": "kymaean.reference17.crop04-director-disposition.v1",
+  "date": "2026-09-19",
+  "ledger": "L-243",
+  "predecessor_technical_gate": "L-241",
+  "concurrent_preserved_ledger": "L-242 Lou naming",
+  "authority_commit": "470eb0fc6b60bde20489fc22dd0cc2aca806a9b6",
+  "reconciliation_base": "b016ad864d829b8dadcaf12ad5e1212fa0bcd12f",
+  "director_disposition": "FULL_SCENE_CONTEXT_PASS",
+  "selected_mechanism": "REF17-CROP-04",
+  "doorway_generation_closed": true,
+  "further_default_generation_authorized": false,
+  "crop04_raw_sha256": "95bddeee8cf271022108a5ecab2014d6b67bd81a2635d28039a38b1ff6e78656",
+  "reference17_sha256": "8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44",
+  "diagnostic_sha256": "538be8b4c09aecbddccc36f52959ca1a9190bd57d4415151f48c0af40f74da33",
+  "technical_integrity": {
+    "boundary01_support_pixels": 39975,
+    "outside_mask_changed_rgba_pixels": 0,
+    "outside_mask_max_abs_rgba_difference": 0
+  },
+  "visual_disposition": {
+    "pass": true,
+    "rationale": [
+      "At full-scene scale the doorway recedes into the composition rather than competing with the Stage.",
+      "Outer amber/blue Stage lighting remains dominant.",
+      "Mineral-teal reads as deeper spatial information; smoky-plum remains subordinate.",
+      "Residual swept-curtain impression is not material enough to justify another generation."
+    ]
+  },
+  "authority": {
+    "reference17_replaced": false,
+    "crop04_pixels_production_adopted": false,
+    "site_public_changed": false,
+    "publication_authorized": false,
+    "later_adoption_requires_explicit_director_gate": true
+  },
+  "tooling": {
+    "normal_workflow": [
+      "GitHub",
+      "Google Drive",
+      "Adobe"
+    ],
+    "remote_desktop_commander": "exception-only fallback for local/runtime-only evidence"
+  },
+  "next": "Continue website design from selected Crop-04 full-scene mechanism without modifying site/public/**; any adoption/publication is a separate Director gate."
+}
