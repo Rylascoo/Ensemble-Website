@@ -3973,3 +3973,19 @@ Exact next Belle action after fresh-chat recovery: inspect Costume 05 against th
 No `site/public/**`, production website artwork, Reference-17 work, Bellweather/Lou authority, application-design authority or app UI/runtime/product semantics changed.
 
 **DIRECTOR CATALOG RESET RECORDED — BELLE FIVE-COSTUME LIBRARY AND FRESH-CHAT RECOVERY ASSETS PRESERVED; COSTUME 05 REMAINS THE ACTIVE FUSION CANDIDATE.**
+
+## L-248 - Belle Costume 05 Refined Fusion frozen from selected final refinement v3
+
+**State:** DIRECTOR FREEZE / COSTUME 05 EXACT IMAGE MASTER PRESERVED / COSTUMES 01–04 UNCHANGED / IDENTITY FOUNDATION 02 UNCHANGED / PRODUCTION UNCHANGED
+
+After exact-master comparison against **Costume 03 — Scholar's Nocturne** and **Costume 04 — Grand Stage Nocturne**, the Director selected the final refinement v3 image itself as the authoritative **Costume 05 — Refined Fusion** master.
+
+Frozen master: Google Drive folder `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`; exact PNG **Belle — Costume 05 — Refined Fusion — Frozen Master — 2026-09-20.png**, Drive `1GUaSj_Ha_l8TYhuGfpUXX0WSKe5Bjrmo`; SHA-256 `690cef95266034b57f99b4a7799aed76bcf25a00dfe8aa71359d609ef74a949e`; 1223 x 1286 RGB PNG; 2,255,979 bytes.
+
+The prior Costume-05 catalog candidate `1srm6rFRCd2QqiFtapQzLS5WDU1wpqpCC` remains preserved as predecessor/provenance and no longer carries active-candidate authority. Costumes 01–04 remain exactly as cataloged in L-247 and are not reopened or modified.
+
+Belle Identity Foundation 02 remains person-level authority. This Costume-05 freeze does not revise Belle's neutral identity; any future neutral-identity revision remains a separate program.
+
+No `site/public/**` adoption, production website artwork, Reference-17 change, Bellweather/Lou change, application-design change, or app UI/runtime/product semantics is created.
+
+**DIRECTOR FREEZE RECORDED — COSTUME 05 — REFINED FUSION IS FROZEN AT THE EXACT DRIVE MASTER ABOVE; COSTUMES 01–04 AND BELLE IDENTITY FOUNDATION 02 REMAIN UNCHANGED.**
