@@ -1,0 +1,90 @@
+/* Preview-only wordmark refinement study.
+   The singular K paths are byte-identical in A/B/C; only supporting letters vary. */
+
+.variant-a .wordmark .v,
+.variant-a .wordmark .d,
+.variant-a .wordmark .h,
+.variant-a .wordmark .fine {
+  stroke: currentColor;
+}
+.variant-a .wordmark .v { stroke-width: 5.0; }
+.variant-a .wordmark .d { stroke-width: 4.55; }
+.variant-a .wordmark .h { stroke-width: 3.8; }
+.variant-a .wordmark .fine { stroke-width: 1.95; opacity: 0.58; }
+.variant-a .status {
+  margin-top: 0.94rem;
+  letter-spacing: 0.46em;
+  color: rgba(229,221,207,0.62);
+}
+
+.variant-b .wordmark .architectural {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+}
+.variant-b .wordmark .arch {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 4.15;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+}
+.variant-b .wordmark .arch-fine {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.05;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+  opacity: 0.66;
+}
+.variant-b .status {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-top: 1rem;
+  letter-spacing: 0.42em;
+  color: rgba(229,221,207,0.60);
+}
+.variant-b .status::before,
+.variant-b .status::after {
+  content: "";
+  width: 1.5rem;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.28;
+}
+
+.variant-c .wordmark .s,
+.variant-c .wordmark .sf {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.variant-c .wordmark .s {
+  stroke-width: 3.75;
+}
+.variant-c .wordmark .sf {
+  stroke-width: 2.0;
+  opacity: 0.56;
+}
+.variant-c .status {
+  margin-top: 1.06rem;
+  letter-spacing: 0.52em;
+  color: rgba(229,221,207,0.52);
+  font-weight: 450;
+}
+
+@media (max-width: 900px) and (orientation: portrait) {
+  .variant-a .wordmark,
+  .variant-b .wordmark,
+  .variant-c .wordmark {
+    width: min(57vw, 21rem);
+  }
+
+  .variant-b .status::before,
+  .variant-b .status::after {
+    width: 1rem;
+  }
+}
