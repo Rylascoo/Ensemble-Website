@@ -4022,3 +4022,31 @@ No `site/public/**` adoption, production-artwork promotion, Reference-17 change,
 
 **DIRECTOR EXPLORATION DECISIONS RECORDED — CHAT ARTWORK AND HANDOFF PRESERVED; NEXT WORK IS FULL-SIZE STUDY DEVELOPMENT OF THE NAMED DIVERGENCE INTERSECTIONS, NOT A NEW COSTUME CATALOG.**
 
+
+## L-250 - Belle focused four-study costume-language family preserved
+
+**State:** DIRECTOR-CONFIRMED EXPLORATION FAMILY MILESTONE / CURRENT REFERENCE STUDIES PRESERVED / NO COSTUME 06+ PROMOTION / F02 + COSTUMES 01–05 UNCHANGED / PRODUCTION UNCHANGED
+
+Following L-249, the Director and Design Sol developed four named world × design-school intersections as isolated character studies and then reviewed them together against the exact row-column divergence matrix. The resulting family is preserved as a successful costume-language divergence milestone, not as a new numbered Belle costume catalog.
+
+Current governing mechanisms are intentionally different:
+- **04F — Mended Memory** — Living Archive × Handmade / Repaired = **accumulation / repair**;
+- **05H — Edgewalker** — Cartographer of Unfinished Worlds × Radical Minimalism = **subtraction / restraint**;
+- **06C — Passage Geometry** — Threshold Traveler × Sculptural Architectural = **structure / planes / intersections**;
+- **06D — Crosswind Passage** — Threshold Traveler × Soft Draped Performance = **motion / drape / changing negative space**.
+
+This four-way comparison establishes the intended corrective principle from L-249: the same Belle may inhabit materially different costume-design languages without one universal theatrical wardrobe. In particular, 06C and 06D now demonstrate two distinct costume interpretations inside the same Threshold Traveler world: stable constructed spatial form versus soft movement-created form.
+
+Canonical Drive preservation folder: **05 Focused Full-Size Character Studies — 2026-09-20**, `1sQrkR8inUFr8Zy19G0yrEkF_5YBp7utK`.
+- 04F current reference: `1vfZqbKJ0OExT4-an57dC3VW0XMb2CxU0`, SHA-256 `2bacfe6a3b8eb9a82bd36f02ce2c9899705dfc6a767c03fa1ae97308b7fa23e9`.
+- 05H current reference: `1g4cRgZm-T6W3uo1Nw9f9XCYjXmyqgYCx`, SHA-256 `9717487475641d9b0eebe50458cb77eaba2727461706190c1a212d565ad0609a`.
+- 06C current reference: `1EkCpcurXln0Aesz6lZOvaqx06BaFO3C6`, SHA-256 `eac3d8bcf70e06d5ca764cb496ffebc62f4d1383778d43a24a5aedc4109b8e69`.
+- 06D current reference: `18VfPJJnWDFSD8C5BGJPWDUPR6FZRCKDd`, SHA-256 `c9c32a75fc7838d28930b5cd637252c70ede65c22c54b3fd091ad565e6916a2c`.
+- Deterministic four-study comparison: `1jqRyebqCOLGk3nP0sXTGUqn9HH6FyG37`, SHA-256 `d609f575880e81d6da72584a339ee232063a2f0e6138e7a5c2596f62f39c4a78`.
+- Manifest: `12-_y7oJPRCEz5-DywAMQnmPQ2G5MZeTc`.
+
+Belle Identity Foundation 02 remains the person-level authority. The canonical five-costume library remains unchanged and Costume 05 remains frozen at L-248. These studies remain exploration references only. Small branch-specific micro-refinements may later be justified, but broad matrix generation and convergence toward one shared theatrical grammar are not the active method.
+
+No `site/public/**` adoption, production-artwork promotion, Reference-17 change, Bellweather/Lou change, application-design authority change or app UI/runtime/product-semantic change is created.
+
+**DIRECTOR-CONFIRMED EXPLORATION MILESTONE RECORDED — FOUR DISTINCT COSTUME-LANGUAGE REFERENCES PRESERVED; NUMBERED COSTUME LIBRARY AND PRODUCTION REMAIN UNCHANGED.**
