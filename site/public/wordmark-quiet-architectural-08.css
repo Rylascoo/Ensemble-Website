@@ -1,0 +1,41 @@
+:root{
+  --threshold-bronze:#c8a56a;
+  --threshold-stone:#d9cbb3;
+}
+
+.wordmark-w08{
+  width:min(31.5vw,30.75rem);
+}
+
+.wordmark-w08 .wordmark-mark path{
+  fill:var(--threshold-bronze);
+}
+
+.wordmark-w08 .supporting-wordmark path{
+  fill:var(--threshold-stone);
+}
+
+/*
+  W08 restraint:
+  - no color-coding inside YMAEAN
+  - no modular gaps for their own sake
+  - no repeated K facets
+  - A/E share only a horizontal datum
+  - N receives slightly greater terminal force
+*/
+.wordmark-w08 .supporting-wordmark{
+  opacity:.97;
+}
+
+@media(max-width:900px) and (orientation:portrait){
+  .wordmark-w08{
+    width:min(60vw,22rem);
+  }
+}
+
+@media(forced-colors:active){
+  .wordmark-w08 .wordmark-mark path,
+  .wordmark-w08 .supporting-wordmark path{
+    fill:CanvasText;
+  }
+}
