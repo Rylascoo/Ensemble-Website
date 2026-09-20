@@ -1,0 +1,64 @@
+KYMÆAN LETTERING MASTER STUDY 01
+STATUS: RESEARCH-ONLY / NON-PRODUCTION / NO SELECTION
+
+PURPOSE
+This study implements the process correction established by the 2026-09-19 custom-wordmark craft research:
+- lettering before concept;
+- monochrome before material/color;
+- word-level rhythm before isolated glyph tricks;
+- optical spacing and scale proofing before Stage integration.
+
+FIXED CONTROL
+The singular K geometry is unchanged. Its three path definitions are reproduced byte-for-byte in each sheet and only uniformly transformed for presentation.
+
+NO WEBSITE MUTATION
+This study does not modify site/public/**, Reference 17, Crop 04, the active Stage diagnostic, or production authority.
+
+THREE TERRITORIES
+01 MINERAL HUMANIST
+- low-to-moderate apparent contrast;
+- subtle living curvature;
+- broad M / compact E rhythm;
+- contextual A repetition;
+- intended to feel worked rather than geometric.
+
+02 INCISED ARCHITECTURAL
+- controlled end flare;
+- vertically poised proportions;
+- close spacing;
+- no Roman serif language, luxury tracking, or literal carving motifs.
+
+03 SCULPTURAL GROTESK
+- clear sans skeleton;
+- near-invisible bowing and optical pressure;
+- stronger broad/narrow width rhythm;
+- no cuts, chamfers, modular radii, or futuristic detailing.
+
+REFERENCE-SKELETON DISCIPLINE
+These are first master scaffolds, not final production artwork. To avoid returning to arbitrary hand-built SVG geometry, each supporting-word territory begins from a professionally drawn open-font skeleton available in the design environment and is then optically transformed, width-tuned, spaced, and proofed as YMAEAN:
+- Mineral Humanist: Cantarell reference skeleton.
+- Incised Architectural: Lato reference skeleton.
+- Sculptural Grotesk: Noto Sans Display SemiCondensed reference skeleton.
+
+No font file is part of this repository study. The SVGs contain only flattened vector outlines.
+
+The next refinement pass must move further away from source-font identity by redrawing the surviving territory's M/A/E/N and spacing as bespoke KYMÆAN lettering. These scaffold references are not font selections.
+
+PROOFING
+Each sheet shows:
+- large master word;
+- M/A/E/N detail controls;
+- desktop/tablet/phone scale proofs;
+- reverse monochrome proof.
+
+REVIEW LAW
+Do not choose by novelty.
+Ask:
+1. Which territory makes the exact K feel least attached and most naturally integrated?
+2. Which supporting word remains beautiful when the K is ignored?
+3. Which M/A/E/N contain enough character to support bespoke redrawing without becoming logos?
+4. Which survives small scale without color/material assistance?
+5. Which direction provides the strongest base for further optical refinement?
+
+STOP CONDITION
+No Stage integration, bronze/stone distribution, Coming Soon refinement, or production candidate should be created from this branch before Director/Design Sol visual review of these monochrome studies.
