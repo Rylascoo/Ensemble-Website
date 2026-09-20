@@ -13,7 +13,7 @@ L-204 remains production authority: pre-Bellweather V2.2 is live; site/public/**
 ## Active website design lanes
 Concurrent Bellweather Alternate authority, including its distinct-marketing-identity refinement, remains preserved and separate.
 
-Belle: five-costume library Drive `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`; F02 identity; 01 everyday; 02–04 preserved; **05 Refined Fusion FROZEN** Drive `1GUaSj_Ha_l8TYhuGfpUXX0WSKe5Bjrmo`, SHA `690cef95266034b57f99b4a7799aed76bcf25a00dfe8aa71359d609ef74a949e`; no production/site adoption; neutral-identity revision separate.
+Belle: F02 identity; library `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`; 01 everyday; 02–04 preserved; **05 Refined Fusion FROZEN** `1GUaSj_Ha_l8TYhuGfpUXX0WSKe5Bjrmo` SHA `690cef95266034b57f99b4a7799aed76bcf25a00dfe8aa71359d609ef74a949e`; theatrical/costume-language archive `17ckYbFfHeIuBTNno1ZMDXMTP3Uv03LY9`, handoff `1KvjyTiUSAZOhGVomG9SwfpBfdNh-MXuVv4VpuRpN6nE`; no production/site adoption; neutral-identity revision separate.
 
 Reference 17 remains fixed: Drive 1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit; 1672 x 941 RGBA; SHA-256 8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44. Boundary 01 remains exactly 39,975 pixels.
 
@@ -28,7 +28,7 @@ Website metaphor creates no app semantics. Engineering truth remains in Project.
 
 ## Q-ADMIN-05 Website handoff
 
-`ADMIN-Q05-WEBSITE-RELINQUISHMENT-01-20260920` is **APP DESIGN SOURCE RELINQUISHED / HISTORICAL PROVENANCE RETAINED** on the Website side. Project accepted the exact 22-bundle/203-identity source graph and 34 selected app-design decisions. Freeze/oracle remain intact. Home A/B remains `UNRESOLVED_APP_DESIGN_DECISION`; FIRSTUSE remains `EVIDENCE_PENDING_ADOPTION`. Q-ADMIN-05 is not globally closed. Website production and `site/public/**` are unchanged.
+`ADMIN-Q05-WEBSITE-RELINQUISHMENT-01-20260920`: **APP DESIGN SOURCE RELINQUISHED / HISTORICAL PROVENANCE RETAINED**. Project accepted the 22-bundle/203-identity graph + 34 decisions. Home A/B unresolved; FIRSTUSE pending adoption; global closure awaits Ryladmin verification. `site/public/**` unchanged.
 
 ## Maintenance
 TRIGGERcmd stays deferred.
