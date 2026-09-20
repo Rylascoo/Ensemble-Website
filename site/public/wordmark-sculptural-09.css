@@ -1,0 +1,43 @@
+:root{
+  --threshold-bronze:#c8a56a;
+  --w09-mineral:#d3c2a5;
+}
+
+.wordmark-w09{
+  width:min(31.8vw,31rem);
+}
+
+.wordmark-w09 .wordmark-mark path{
+  fill:var(--threshold-bronze);
+}
+
+.wordmark-w09 .supporting-wordmark path{
+  fill:var(--w09-mineral);
+}
+
+.wordmark-w09 .supporting-wordmark{
+  opacity:.97;
+}
+
+/*
+  W09 keeps W08 restraint but changes the character:
+  - curved transitions are allowed;
+  - widths vary instead of obeying one modular cadence;
+  - A/E remain separate and naturally related through rhythm;
+  - no visible K-derived construction tricks;
+  - N closes with a stronger, gently curved diagonal;
+  - supporting mineral is warmed toward the bronze to reduce mark/word separation.
+*/
+
+@media(max-width:900px) and (orientation:portrait){
+  .wordmark-w09{
+    width:min(60.5vw,22.25rem);
+  }
+}
+
+@media(forced-colors:active){
+  .wordmark-w09 .wordmark-mark path,
+  .wordmark-w09 .supporting-wordmark path{
+    fill:CanvasText;
+  }
+}
