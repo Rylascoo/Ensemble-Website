@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1700" viewBox="0 0 1600 1700">
+<defs><g id="K"><path d="M65 15L54 21L52 23L47 25L45 27L40 29L38 31L33 33L31 35L26 37L24 39L21 40L19 42L10 47L10 116L23 109L28 105L31 104L49 92L55 86L61 77L61 75L63 72L64 65L65 64Z"/><path d="M10 126L10 192L16 196L19 197L21 199L24 200L26 202L29 203L31 205L41 210L43 212L48 214L55 219L65 224L65 179L64 178L63 171L60 164L55 158L55 157L50 152L22 133L19 132Z"/><path d="M160 22L88 64L77 74L71 84L68 94L67 140L71 158L84 175L161 221L161 201L156 188L148 180L100 152L89 140L84 127L85 111L94 95L102 88L148 62L156 54L161 42Z"/></g><g id="g-Y"><path d="M11 0H31L79 79L69 95L55 75Z"/><path d="M128 0H150L98 91L88 79Z"/><path d="M72 87H94L94 220H72Z"/></g><g id="g-M"><path d="M9 0H30L28 220H8Z"/><path d="M204 0H225L227 220H206Z"/><path d="M28 0H46L113 96L103 112L28 21Z"/><path d="M206 0H188L121 96L132 112L206 21Z"/></g><g id="g-A"><path d="M5 220L70 0H92L31 220Z"/><path d="M82 0H102L171 220H145Z"/><path d="M42 150H134L138 168H38Z"/><path d="M70 0H102L98 9H73Z"/></g><g id="g-E"><path d="M9 0H29V220H8Z"/><path d="M28 0H132L127 19H28Z"/><path d="M28 88H119L113 107H28Z"/><path d="M28 201H136V220H28Z"/></g><g id="g-A2"><path d="M5 220L70 0H92L31 220Z"/><path d="M82 0H102L171 220H145Z"/><path d="M42 150H134L138 168H38Z"/><path d="M70 0H102L98 9H73Z"/></g><g id="g-N"><path d="M9 0H29V220H8Z"/><path d="M169 0H190V220H169Z"/><path d="M27 0H48L172 190V220H153L27 29Z"/></g><g id="word"><use href="#K" transform="translate(0,-4)"/><use href="#g-Y" transform="translate(189,0)"/><use href="#g-M" transform="translate(361,0)"/><use href="#g-A" transform="translate(621,0)"/><use href="#g-E" transform="translate(808,0)"/><use href="#g-A2" transform="translate(964,0)"/><use href="#g-N" transform="translate(1158,0)"/></g></defs>
+<rect width="1600" height="1700" fill="#F3F0E9"/>
+<style>
+.title{font:600 30px system-ui,sans-serif;fill:#17191B;letter-spacing:.02em}
+.subtitle{font:400 17px system-ui,sans-serif;fill:#5B5E61}
+.seq-label,.detail-label,.proof-label,.reverse-label{font:600 13px system-ui,sans-serif;fill:#777B7D;letter-spacing:.12em}
+.reverse-label{fill:#AAAEB1}.detail{fill:#17191B}
+</style>
+<text x="80" y="68" class="title">KYMÆAN Lettering Master Study 02 — Incised Architectural — Bespoke Control Redraw R2</text>
+<text x="80" y="102" class="subtitle">Bespoke redraw · monochrome · exact fixed K · YMAEAN contains no source-font outlines</text>
+<g fill="#17191B" transform="translate(122,180)"><use href="#word"/></g>
+<line x1="80" y1="470" x2="1520" y2="470" stroke="#D4D0C8"/>
+<text x="80" y="515" class="subtitle">Incision is carried by taper, clipped pressure and close spacing without serif extensions. M/A/E/N retain architectural authority while Y remains a quiet transition from the K.</text>
+<text x="80" y="650" class="proof-label">word-rhythm proofs — judge white space before novelty</text>
+<text x="110" y="690" class="seq-label">MA</text><use href="#g-M" transform="translate(110,730) scale(.43)"/><use href="#g-A" transform="translate(219.62,730) scale(.43)"/><text x="380" y="690" class="seq-label">MAN</text><use href="#g-M" transform="translate(380,730) scale(.43)"/><use href="#g-A" transform="translate(489.62,730) scale(.43)"/><use href="#g-N" transform="translate(574.3,730) scale(.43)"/><text x="675" y="690" class="seq-label">MAE</text><use href="#g-M" transform="translate(675,730) scale(.43)"/><use href="#g-A" transform="translate(784.62,730) scale(.43)"/><use href="#g-E" transform="translate(869.3,730) scale(.43)"/><text x="990" y="690" class="seq-label">AE</text><use href="#g-A" transform="translate(990,730) scale(.43)"/><use href="#g-E" transform="translate(1074.68,730) scale(.43)"/><text x="1225" y="690" class="seq-label">EAN</text><use href="#g-E" transform="translate(1225,730) scale(.43)"/><use href="#g-A" transform="translate(1292.48,730) scale(.43)"/><use href="#g-N" transform="translate(1377.16,730) scale(.43)"/>
+<line x1="80" y1="940" x2="1520" y2="940" stroke="#D4D0C8"/>
+<text x="80" y="995" class="proof-label">control letters — M / A / E / N</text>
+<text x="170" y="1000" class="detail-label">M</text><use href="#g-M" transform="translate(135,1220) scale(.78)" class="detail"/><text x="500" y="1000" class="detail-label">A</text><use href="#g-A" transform="translate(465,1220) scale(.78)" class="detail"/><text x="830" y="1000" class="detail-label">E</text><use href="#g-E" transform="translate(795,1220) scale(.78)" class="detail"/><text x="1160" y="1000" class="detail-label">N</text><use href="#g-N" transform="translate(1125,1220) scale(.78)" class="detail"/>
+<line x1="80" y1="1325" x2="1520" y2="1325" stroke="#D4D0C8"/>
+<text x="120" y="1365" class="proof-label">desktop</text>
+<g fill="#17191B" transform="translate(120,1500) scale(.34)"><use href="#word"/></g>
+<text x="720" y="1365" class="proof-label">phone</text>
+<g fill="#17191B" transform="translate(720,1500) scale(.15)"><use href="#word"/></g>
+<rect x="1040" y="1345" width="480" height="270" rx="18" fill="#111315"/>
+<text x="1075" y="1385" class="reverse-label">reverse</text>
+<g fill="#F3F0E9" transform="translate(1080,1525) scale(.18)"><use href="#word"/></g>
+</svg>
