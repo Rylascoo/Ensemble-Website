@@ -4068,3 +4068,35 @@ The family grammar remains unchanged: 04F = accumulation/repair; 05H = subtracti
 Belle Identity Foundation 02 and Costumes 01–05 remain unchanged. No `site/public/**`, production, Reference-17, Bellweather, Lou, application-design or app UI/runtime/product-semantic authority changed.
 
 **DIRECTOR-CONFIRMED MICRO-REFINEMENT RECORDED — 04F CURRENT REFERENCE ADVANCED; FOUR-STUDY FAMILY AND ALL EXTERNAL BOUNDARIES PRESERVED.**
+
+## L-252 - Belle first-four focused-study references preserved; 01C rotation method rejected
+
+**State:** DIRECTOR-CONFIRMED FIRST-FOUR EXPLORATION REFERENCES PRESERVED / 01C VIEW-ROTATION METHOD FALSIFIED / NO INVENTED TURNAROUND AUTHORITY / PARALLEL 04F–06D FAMILY PRESERVED / NO COSTUME 06+ PROMOTION / PRODUCTION UNCHANGED
+
+In the separate first-four Belle focused-study lane, the Director and Design Sol resolved and preserved the current exploration references for **01C — Aster Vault**, **01H — Quiet Orbit**, **02D — Tempest Veil**, and **03F — Grafted Conservatory**. These remain working theatrical-world exploration identities only and do not enter the numbered Costume 01–05 library.
+
+Current first-four governing mechanisms:
+- **01C — Aster Vault** — Observatory / Night Scholar × Sculptural Architectural = **construct**;
+- **01H — Quiet Orbit** — Observatory / Night Scholar × Radical Minimalism = **reduce to observe**;
+- **02D — Tempest Veil** — Storm Theater × Soft Draped Performance = **move through turbulence**;
+- **03F — Grafted Conservatory** — Glasshouse / Botanical Stage × Handmade / Repaired = **mend for use**.
+
+First-four Drive workspace: **05A Belle Focused Studies — 01C 01H 02D 03F — This Chat — 2026-09-20**, `1qkkR6aA2NYQiB47f3i7e44pLeuD7ciXr`.
+
+Exact current branch references:
+- 01C Aster Vault: `1nqpkA6-G9B0xGD5PH4deh0oJTITyihq0`.
+- 01H Quiet Orbit: `1iAjAZ7wBlITcrhcG68bwF5DQy_BuiPno`.
+- 02D Tempest Veil: `1QbQhPSZFk3Vgx4ZLPzb1z19qhPsaab05`.
+- 03F Grafted Conservatory: `1kyzp_o2C2w0AgWCGxwNRz1TsQQ8cPzbB`.
+
+Preservation index: `1hDbxup6ZQLz9kcp3HnEzlR1HyVcq2A7RCGsaxW7r5Ec`.
+
+A dedicated 01C preservation stress test attempted to derive consistent alternate views without redesign. Multi-view and single-view rotation attempts repeatedly changed the garment's shoulder planes, pale/dark balance, waist construction, sleeve logic, hem geometry and overall costume language, at times drifting toward Quiet Orbit. The Director agreed with Design Sol that these outputs must not be promoted into a fictional turnaround canon.
+
+All 01C failed preservation attempts are isolated as **non-authoritative diagnostics** in Drive folder `1g3kpDsxfmBda_nTZnIWcH4W6GwqsbL4F`. The exact 01C branch-reference image remains visual authority; no canonical side or back view is inferred. The preservation rule for the first-four lane is therefore: hidden garment geometry may remain unknown rather than be invented. A future view-consistent rotation method would require a new bounded preservation test against the exact source reference.
+
+The concurrent 04F–06D focused-family authority from L-250/L-251 remains separate and unchanged in canonical Drive folder `1sQrkR8inUFr8Zy19G0yrEkF_5YBp7utK`. Alternate-development renders produced in this chat for 04F, 05H, 06C and 06D are isolated under `12UTrCwhVliugF-9dhzTZ3vSOJX9luBpc` and create no competing current-reference authority.
+
+Belle Identity Foundation 02 remains the person-level control. Costumes 01–05 remain unchanged and Costume 05 remains frozen at L-248. No `site/public/**`, production-artwork, Reference-17, Bellweather, Lou, application-design or app UI/runtime/product-semantic authority changed.
+
+**DIRECTOR-CONFIRMED PRESERVATION MILESTONE RECORDED — FIRST-FOUR REFERENCES ARE PRESERVED AS SINGLE-IMAGE AUTHORITIES; FAILED ROTATIONS REMAIN DIAGNOSTIC ONLY; PARALLEL FAMILY AND ALL EXTERNAL BOUNDARIES REMAIN UNCHANGED.**
