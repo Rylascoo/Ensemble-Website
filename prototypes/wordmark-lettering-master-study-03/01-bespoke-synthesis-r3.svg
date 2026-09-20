@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1700" viewBox="0 0 1600 1700">
+<defs><g id="K"><path d="M65 15L54 21L52 23L47 25L45 27L40 29L38 31L33 33L31 35L26 37L24 39L21 40L19 42L10 47L10 116L23 109L28 105L31 104L49 92L55 86L61 77L61 75L63 72L64 65L65 64Z"/><path d="M10 126L10 192L16 196L19 197L21 199L24 200L26 202L29 203L31 205L41 210L43 212L48 214L55 219L65 224L65 179L64 178L63 171L60 164L55 158L55 157L50 152L22 133L19 132Z"/><path d="M160 22L88 64L77 74L71 84L68 94L67 140L71 158L84 175L161 221L161 201L156 188L148 180L100 152L89 140L84 127L85 111L94 95L102 88L148 62L156 54L161 42Z"/></g>
+<g id="g-Y">
+  <path d="M9 0H30C44 22 59 44 74 66C82 78 89 88 94 98L82 112C72 97 62 83 51 68C35 45 21 23 9 0Z"/>
+  <path d="M134 0H156C142 23 128 46 114 68C106 81 99 91 92 102L82 91C90 79 98 66 106 53C118 34 127 17 134 0Z"/>
+  <path d="M80 104C85 108 91 108 96 104L95 220H79Z"/>
+</g>
+<g id="g-M">
+  <path d="M8 220C11 165 11 55 8 0H30C28 56 28 164 31 220Z"/>
+  <path d="M216 0H238C235 58 235 163 238 220H216C219 163 219 58 216 0Z"/>
+  <path d="M29 0H48C68 29 91 61 112 91C119 101 124 109 121 117L113 130C105 118 97 107 88 95C68 66 48 38 29 17Z"/>
+  <path d="M217 0H198C179 28 158 59 136 91C129 101 124 110 121 117L129 131C138 118 146 107 155 95C176 65 197 37 217 17Z"/>
+</g>
+<g id="g-A">
+  <path d="M4 220C22 164 41 103 61 45C69 22 76 7 82 0H99C92 16 86 34 80 53C61 109 44 165 29 220Z"/>
+  <path d="M94 0H108C123 39 138 83 151 124C161 159 172 194 179 220H157C149 191 139 159 129 126C118 91 106 53 94 0Z"/>
+  <path d="M42 142C71 139 103 139 134 142L137 159C106 157 73 157 39 161Z"/>
+</g>
+<g id="g-E">
+  <path d="M9 0H30C28 55 28 165 31 220H9C12 165 12 55 9 0Z"/>
+  <path d="M28 0H138L134 19H28Z"/>
+  <path d="M28 90C59 89 91 89 121 90L118 106C89 105 58 105 28 107Z"/>
+  <path d="M28 201H143L144 220H28Z"/>
+</g>
+<g id="g-N">
+  <path d="M8 0H30C28 58 28 162 31 220H8Z"/>
+  <path d="M176 0H198V220H176Z"/>
+  <path d="M27 0H46C83 47 120 96 157 145C172 165 184 181 195 194V220H181C160 193 139 166 118 138C86 96 56 58 27 27Z"/>
+</g>
+<g id="word"><use href="#K" transform="translate(0,-4)"/><use href="#g-Y" transform="translate(181,0)"/><use href="#g-M" transform="translate(360,0)"/><use href="#g-A" transform="translate(633,0)"/><use href="#g-E" transform="translate(828,0)"/><use href="#g-A" transform="translate(994,0)"/><use href="#g-N" transform="translate(1196,0)"/></g>
+</defs>
+<rect width="1600" height="1700" fill="#F3F0E9"/>
+<style>
+.title{font:600 30px system-ui,sans-serif;fill:#17191B;letter-spacing:.02em}
+.subtitle{font:400 17px system-ui,sans-serif;fill:#5B5E61}
+.seq-label,.detail-label,.proof-label,.reverse-label{font:600 13px system-ui,sans-serif;fill:#777B7D;letter-spacing:.12em}
+.reverse-label{fill:#AAAEB1}.detail{fill:#17191B}
+</style>
+<text x="80" y="68" class="title">KYMÆAN Lettering Master Study 03 — Bespoke Synthesis R3</text>
+<text x="80" y="102" class="subtitle">Exact fixed K · monochrome · bespoke supporting word · restrained optical synthesis of Study 02 survivors</text>
+<g fill="#17191B" transform="translate(90,180)"><use href="#word"/></g>
+<line x1="80" y1="470" x2="1520" y2="470" stroke="#D4D0C8"/>
+<text x="80" y="505" class="subtitle">Incised discipline sets proportion and bar hierarchy; Mineral humanism enters only through taper, optical asymmetry and living white space.</text>
+<text x="80" y="532" class="subtitle">No cut motif or display trick is allowed to become the identity.</text>
+<text x="80" y="650" class="proof-label">word-rhythm proofs — K/Y transition · MA · AE · EA · AN</text>
+<text x="95" y="690" class="seq-label">KY</text><use href="#K" transform="translate(95,730) scale(.43)"/><use href="#g-Y" transform="translate(174,731) scale(.43)"/>
+<text x="360" y="690" class="seq-label">MA</text><use href="#g-M" transform="translate(360,730) scale(.43)"/><use href="#g-A" transform="translate(477.4,730) scale(.43)"/>
+<text x="660" y="690" class="seq-label">AE</text><use href="#g-A" transform="translate(660,730) scale(.43)"/><use href="#g-E" transform="translate(743.85,730) scale(.43)"/>
+<text x="920" y="690" class="seq-label">EA</text><use href="#g-E" transform="translate(920,730) scale(.43)"/><use href="#g-A" transform="translate(991.38,730) scale(.43)"/>
+<text x="1205" y="690" class="seq-label">AN</text><use href="#g-A" transform="translate(1205,730) scale(.43)"/><use href="#g-N" transform="translate(1292,730) scale(.43)"/>
+<line x1="80" y1="940" x2="1520" y2="940" stroke="#D4D0C8"/>
+<text x="80" y="982" class="proof-label">control letters — Y / M / A / E / N</text>
+<text x="145" y="1020" class="detail-label">Y</text><use href="#g-Y" transform="translate(115,1220) scale(.78)" class="detail"/>
+<text x="410" y="1020" class="detail-label">M</text><use href="#g-M" transform="translate(365,1220) scale(.78)" class="detail"/>
+<text x="720" y="1020" class="detail-label">A</text><use href="#g-A" transform="translate(675,1220) scale(.78)" class="detail"/>
+<text x="1010" y="1020" class="detail-label">E</text><use href="#g-E" transform="translate(970,1220) scale(.78)" class="detail"/>
+<text x="1280" y="1020" class="detail-label">N</text><use href="#g-N" transform="translate(1235,1220) scale(.78)" class="detail"/>
+<line x1="80" y1="1325" x2="1520" y2="1325" stroke="#D4D0C8"/>
+<text x="120" y="1365" class="proof-label">desktop</text>
+<g fill="#17191B" transform="translate(120,1500) scale(.34)"><use href="#word"/></g>
+<text x="720" y="1365" class="proof-label">phone</text>
+<g fill="#17191B" transform="translate(720,1500) scale(.15)"><use href="#word"/></g>
+<rect x="1040" y="1345" width="480" height="270" rx="18" fill="#111315"/>
+<text x="1075" y="1385" class="reverse-label">reverse</text>
+<g fill="#F3F0E9" transform="translate(1080,1525) scale(.18)"><use href="#word"/></g>
+</svg>

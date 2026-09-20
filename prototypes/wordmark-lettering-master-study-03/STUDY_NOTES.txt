@@ -1,0 +1,105 @@
+KYMÆAN LETTERING MASTER STUDY 03
+STATUS: RESEARCH-ONLY / NON-PRODUCTION / NO FINAL WORDMARK SELECTION
+
+BASELINE
+Parent: design/wordmark-lettering-master-study-02 @ b308bbdc57706b2beda94cfc1b71be91321b512b
+Study 02 exact R2 donor sheets:
+- Mineral Humanist bespoke R2
+- Incised Architectural bespoke R2
+
+SCOPE LAW
+- exact singular K path geometry unchanged;
+- monochrome only;
+- A and E remain separate;
+- no Stage, bronze, stone, Coming Soon, mascot, app UI, product semantics, Reference-17/Crop-04 or site/public/** mutation;
+- Study 01 / Study 02 remain research evidence, not production authority.
+
+STUDY 02 R2 CRITIQUE
+
+MINERAL HUMANIST
+Survives for:
+- broad, breathable word rhythm;
+- optical asymmetry and worked/human pressure;
+- strongest non-mechanical M/A/N foundation.
+
+Does not survive unchanged because:
+- K-to-Y remains too detached;
+- the Y foot is a fragile, unnecessary micro-feature at phone scale;
+- M center still makes the valley a conspicuous event even after the R1 hinge was removed;
+- E middle-bar bow becomes mannered at display size and unstable at small raster scale;
+- N diagonal is slightly too dark against the quieter E/A sequence.
+
+INCISED ARCHITECTURAL
+Survives for:
+- compact discipline;
+- clear E bar hierarchy;
+- controlled spacing;
+- strong reverse and phone survival.
+
+Does not survive unchanged because:
+- Y and M junction/notch behavior reads as constructed mechanism before lettering;
+- the broad clipped A apex becomes a fragile micro-feature at phone scale;
+- support word is too geometrically regular beside the sculptural fixed K;
+- N closure is stable but too stock if carried forward literally.
+
+STUDY 03 CONSTRUCTION
+This is not a 50/50 average.
+
+Incised Architectural supplies:
+- proportion discipline;
+- compact spacing;
+- E bar hierarchy;
+- small-scale restraint.
+
+Mineral Humanist supplies:
+- taper;
+- optical asymmetry;
+- broader M authority;
+- living white-space tension.
+
+Bespoke corrections in R3:
+- Y: lower/quieter junction, no terminal foot;
+- M: broad control letter with center resolved as continuous white space, no detached notch/cut motif;
+- A: one genetic glyph reused twice; contextual distinction is spacing only; crossbar raised and softened;
+- E: unequal bar hierarchy retained with only a slight human middle-arm tension;
+- N: diagonal optically lightened and used for firm closure;
+- K-Y / Y-M / M-A / A-E / E-A / A-N approximate drawing-unit gaps: 29 / 31 / 39 / 25 / 26 / 31.
+
+REPEATED-A LAW
+Both A instances use the same exact glyph definition.
+No alternate-A logo has been introduced.
+Contextual coherence is created only by adjacent white shapes at AE and AN.
+
+RECURSIVE VISUAL AUDIT
+Pass 1 found:
+- A right diagonal too dark;
+- E middle-arm bow too visible;
+- N diagonal too heavy.
+All three were corrected.
+
+Pass 2 found:
+- Y-M white shape too open relative to K-Y and downstream rhythm.
+M and all later letters were shifted left 7 drawing units; glyph geometry was not changed.
+
+Pass 3 found:
+- proof-sheet annotation collision and an overlong explanatory line.
+Only proof-sheet typography was corrected; wordmark geometry was unchanged.
+
+Small-scale raster stress:
+- the supporting word remains legible at approximately 180 px word width;
+- removed Y foot, A cap and M notch mechanisms no longer depend on subpixel survival;
+- reverse monochrome remains coherent.
+
+CURRENT DISPOSITION
+Study 03 R3 earns continuation as the strongest research master so far.
+It is not a selected production wordmark and creates no Stage/material integration authority.
+
+NEXT LETTERING GATE
+Review Study 03 R3 as one word, not as an alphabet:
+- K-Y ownership;
+- M-A transition;
+- AE / EA white-shape reciprocity;
+- A-N closure;
+- final apparent mass at intended website/mobile sizes.
+
+Do not return to broad concept alphabets or material differentiation unless later evidence reopens them.
