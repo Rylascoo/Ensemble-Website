@@ -2,7 +2,7 @@
 
 # Q-ADMIN-05 App Design Source Freeze
 
-Status: **SOURCE SIDE FROZEN FOR TRANSFER / AUTHORITY TRANSFER NOT EXECUTED**
+Status: **FROZEN FOR TRANSFER - DEPENDENCY COMPLETE / AUTHORITY TRANSFER NOT EXECUTED**
 
 Package: `ADMIN-Q05-SOURCE-FREEZE-01`
 
@@ -10,7 +10,7 @@ Package: `ADMIN-Q05-SOURCE-FREEZE-01`
 
 | Alias | Repository / role | Exact commit |
 |---|---|---|
-| `W` | `Rylascoo/Ensemble-Website` live `main` source | `b016ad864d829b8dadcaf12ad5e1212fa0bcd12f` |
+| `W` | `Rylascoo/Ensemble-Website` correction baseline / then-live `main` source | `cf28c80161bdf7157e8063ed27e56fc70dd438fc` |
 | `A` | Website active APPUI authority | `33b8e13c4e71c8ceee1fdc3a646f291c9422a047` |
 | `F` | Website FIRSTUSE evidence branch | `e2e4119dcffc9082378a822c048523c9675c1bf6` |
 | `H` | Website Home re-entry evidence branch | `4c73d02c6a1c85d860024a9e2d55b3ef490906b3` |
@@ -18,6 +18,22 @@ Package: `ADMIN-Q05-SOURCE-FREEZE-01`
 | `P` | Project receiving authority / merged PR 234 | `734f27878b0976ff5f63945070d059000d50c719` |
 
 This packet freezes source identity only. It does not copy material to Project, relinquish Website authority, modify Drive, choose Home A/B, adopt FIRSTUSE, change production Website behavior, or resume application design.
+
+## Dependency-completeness correction
+
+The first integrated revision was **source-classification complete** and verified all **98/98 recorded source identities**, but it was not dependency-complete. Project correctly stopped before materialization because the Stage presentation successor method had no identity record and C03 did not deterministically resolve its APPUI-era versus live-main `DESIGN_CONTINUITY.md` dependency.
+
+This correction also closes one same-class omission found by the required all-bundle revalidation: C03 explicitly names the engineering-informed translation law, so that current Website object is now recorded rather than left as unsealed context.
+
+Corrected counts and scope:
+
+- receiving-manifest bundles: **22**;
+- recorded source identities: **100** exact alias/path/blob/byte/SHA-256 records;
+- dependency identities: **100** exact records in the closed source/dependency object set;
+- unresolved dependency identities: **0**;
+- transfer forms: **unchanged** at 5 whole-document, 2 selected-section, 8 normalized-contract, 4 pointer, 2 evidence-only and 1 do-not-transfer.
+
+For these counts, a source identity is one appendix alias/path record. A dependency identity is a source identity proved reachable from at least one bundle's source or direct-dependency closure; repeated use is counted once. The appendix is therefore both the source-object set and the closed dependency-object set. Project and Drive authority named only as destination constraints, ownership locators, or pointer values do not authorize transferred source bytes and are not counted as Website dependency objects.
 
 ## Website-data exclusion
 
@@ -40,12 +56,12 @@ Every row is one Project receiving-manifest bundle. File identities are in the a
 | A09 | COMP-07 and COMP-10 closures plus A02 | Creator/Audience/Character-bounded disclosure; agency/timing remains open | `NORMALIZED_ACTIVE_CONTRACT` | Project perspectives contract plus evidence; `HISTORICAL_SOURCE_RETAINED` |
 | A10 | COMP-08, COMP-09 and COMP-11 closures | App/failure state presentation; fixtures/hooks create no Product operation | `NORMALIZED_ACTIVE_CONTRACT` | Project app/failure contract plus evidence; `HISTORICAL_SOURCE_RETAINED` |
 | A11 | A02 §§9,11; A03 §9; A04 §§7-8,10; A06 state-witness/responsive clauses | Keyboard/focus return, non-color state, reflow/text, forced colors and reduced motion; native proof pending | `SELECTED_SECTIONS` | `docs/design/app/contracts/ACCESSIBILITY.md`; `TRANSITION_POINTER_TO_PROJECT` |
-| A12 | Two Stage packet JSON files, Stage successor result, and six Stage carrier/materializer/probe dependencies | Stage carrier/presentation and derivative provenance; Drive retains master ownership | `WHOLE_DOCUMENT` | Project Stage evidence; `HISTORICAL_SOURCE_RETAINED` |
+| A12 | Two Stage packet JSON files, the whole Stage successor method, Stage successor result, and six Stage carrier/materializer/probe dependencies | Stage carrier/presentation and derivative provenance; the method is the supporting frozen pre-exposure law for the selected S1 result; Drive retains master ownership | `WHOLE_DOCUMENT` | Project Stage evidence; `HISTORICAL_SOURCE_RETAINED` |
 | A13 | `A:docs/evidence/DESIGN_LEDGER.md`, exactly 34 entries listed below | Active adoption/provisionality/hold register | `SELECTED_SECTIONS` | Project app ledger; original full ledger remains `HISTORICAL_SOURCE_RETAINED` |
-| A14 | COMP-01..11 exact method/result/carrier/probe closure plus the six Stage dependencies | Reproducible implementation-reference closure; rejected/intermediate carriers excluded | `WHOLE_DOCUMENT` | Project evidence/prototype/tool reference subtrees; `HISTORICAL_SOURCE_RETAINED` |
+| A14 | COMP-01..11 exact method/result/carrier/probe closure plus the seven Stage dependencies, including the successor method | Reproducible implementation-reference closure; rejected/intermediate carriers excluded | `WHOLE_DOCUMENT` | Project evidence/prototype/tool reference subtrees; `HISTORICAL_SOURCE_RETAINED` |
 | C01 | Two motion packets and ten named contract/adjudication dependencies | Provisional shared motion principle only; app adaptation Project, Website adaptation Website, cross-surface governance Ryladmin | `PROVENANCE_POINTER` | Project pointer; `CROSS_SURFACE_POINTER_TO_RYLADMIN` |
 | C02 | `W:docs/DESIGN_CONTINUITY.md` §3 shared/app clauses, §11 master/provenance rule, and only the app-exclusion clauses of §§18-23; §24 and all Website-specific clauses excluded | Cross-surface identity/use exclusions; Drive masters unchanged; no app mascot placement | `PROVENANCE_POINTER` | Project pointer; `CROSS_SURFACE_POINTER_TO_RYLADMIN` and `DRIVE_MASTER_POINTER` |
-| C03 | App/cross-surface clauses only from W/A `AGENTS.md`, `DESIGN_CONTINUITY.md`, visual workflow, and engineering-informed translation law; all Website implementation clauses excluded | Ryladmin-governed routing and validation boundary; owning repositories retain surface implementation law | `NORMALIZED_ACTIVE_CONTRACT` | Coordinated owning amendments only; `WEBSITE_ONLY_REMAINDER` |
+| C03 | App/cross-surface clauses only from `W:AGENTS.md`, `W:docs/DESIGN_CONTINUITY.md`, `W:docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`, and `W:docs/KYMAEAN_ENGINEERING_INFORMED_VISUAL_TRANSLATION_PROTOCOL_01.md`; all Website implementation clauses excluded | Ryladmin-governed routing and validation boundary; `CURRENT_MAIN_DEPENDENCY_REQUIRED`; owning repositories retain surface implementation law | `NORMALIZED_ACTIVE_CONTRACT` | Coordinated owning amendments only; `WEBSITE_ONLY_REMAINDER` |
 | C04 | Framework, registry and APP-SYN packet at A | Project-primary app packet identity/current closure; original research remains Website history | `PROVENANCE_POINTER` | Project normalized index/pointers; `HISTORICAL_SOURCE_RETAINED` |
 | D01 | Six exact H Home review/study carriers | Two co-equal alternatives; decision is `UNRESOLVED_APP_DESIGN_DECISION` | `EVIDENCE_REFERENCE_ONLY` | Later Project unresolved pointer only; `HISTORICAL_SOURCE_RETAINED` |
 | D02 | Exact F FIRSTUSE carrier and closeout JSON | `EVIDENCE_PENDING_ADOPTION`; no creation/import schema promotion | `EVIDENCE_REFERENCE_ONLY` | Later Project pending-evidence pointer only; `HISTORICAL_SOURCE_RETAINED` |
@@ -53,6 +69,53 @@ Every row is one Project receiving-manifest bundle. File identities are in the a
 | D04 | C01/C02 clauses plus Ryladmin charter | Stewardship resolved by Director: app-specific motion Project; Website-specific motion Website; small genuinely cross-surface motion/general brand-use principles Ryladmin | `DO_NOT_TRANSFER` | No duplicate contract; coordinated pointers/amendments only |
 
 Counts: **5 whole-document; 2 selected-section; 8 normalized-contract; 4 pointer; 2 evidence-only; 1 do-not-transfer = 22 bundles.**
+
+## Corrected dependency determinations
+
+### A12 Stage presentation successor method
+
+The required successor-method source is the whole document `A:docs/evidence/APPUI_01_STAGE_PRESENTATION_SUCCESSOR_METHOD_01.json` at Website commit `33b8e13c4e71c8ceee1fdc3a646f291c9422a047`, blob `aa9b9fc575d5c9d1dd0412c76039b0f51c863be1`, 5,401 bytes, SHA-256 `ce6d074c3b8df82e7f59d820ab77a3823d1ab76af026977ac8cd4eedb9b7c712`.
+
+Classification: **supporting method**. It is the frozen pre-exposure law directly named by `APPUI_01_STAGE_PRESENTATION_SUCCESSOR_RESULT_01.json` and `PKT_APPUI_STAGE_PRESENTATION_01.json`. It governs the exact-pixel R1/S1 construction, invariants, falsifiers, seven-case matrix and selection law used to produce the frozen S1 shell-facing presentation. It does not replace current Stage semantic authority (`PKT-STAGE-CORE-02`), does not redesign Stage, and is neither current standalone Stage authority nor a historical predecessor.
+
+### C03 continuity dependency
+
+The APPUI branch snapshot that made the dependency ambiguous was `A:docs/DESIGN_CONTINUITY.md` at commit `33b8e13c4e71c8ceee1fdc3a646f291c9422a047`, blob `301229b64d462ef83edf544652dccd14d7747fae`, 23,557 bytes, SHA-256 `1136cb0a74cb8b87f5f47c353f1118bdea4d7da08f136f8473261c3b2f521201`. It is preserved as historical comparison evidence only and is not a transfer dependency.
+
+The required C03 dependency is `W:docs/DESIGN_CONTINUITY.md` at `cf28c80161bdf7157e8063ed27e56fc70dd438fc`, blob `a99b00a2afd09686ff625076ae615ffd82fe0d73`, 37,177 bytes, SHA-256 `a9ea2787d1d14ccbfa823271bf42f583aa7f5b1c956ee4c412c3ab4c83f88b74`. This is byte-identical to the version already sealed at the predecessor W alias `b016ad864d829b8dadcaf12ad5e1212fa0bcd12f` and to live Website main at correction start.
+
+Classification: **`CURRENT_MAIN_DEPENDENCY_REQUIRED`**. The versions differ because the APPUI branch forked before commit `82e91265ccee9955604d1386e6cdb4c37cfd2b57` integrated later durable Design continuity. The earlier clauses remain semantically present in current main, while current main adds durable cross-surface mascot/app-exclusion law needed to prevent C03 from being normalized as broader app-placement authority. Substituting the historical APPUI snapshot would omit current governing exclusions; no historical-only C03 semantic requires the older bytes.
+
+C03 uses the following exact current-main ranges: `AGENTS.md` Design Sol role, fresh-chat reconciliation, cross-project execution-queue, dispatch, residency, backend-boundary and authority/evidence clauses; `DESIGN_CONTINUITY.md` §§1-4, the app/cross-surface clauses of §§6-17, and only the app-exclusion/cross-surface clauses of §§18-23; the visual-workflow authority's accountable-role, cross-lane, external-work, validation-boundary and earned-approval clauses; and the engineering-informed translation protocol's §§Purpose through Guardrail. `DESIGN_CONTINUITY.md` §24 and all Website implementation/production clauses remain excluded.
+
+## Full 22-bundle dependency closure
+
+Every path named below resolves through its alias to an exact appendix blob/byte/SHA-256 record. “Direct dependencies” names semantic bundle edges or exact supporting object groups; it does not expand destination-side Project law into Website source bytes.
+
+| ID | Exact source/section and identity set | Transfer form | Direct dependencies / closure result |
+|---|---|---|---|
+| A01 | W experience ontology, §§1-10 and 12-18 | `NORMALIZED_ACTIVE_CONTRACT` | Project Product law is a destination constraint; one exact W object; closed |
+| A02 | A Phase-1 Stage envelope, whole document | `NORMALIZED_ACTIVE_CONTRACT` | A01; one exact A object; closed |
+| A03 | A component-system foundation, whole document | `NORMALIZED_ACTIVE_CONTRACT` | A02; one exact A object; closed |
+| A04 | A Phase-3 static system, whole document, plus its named JSON reference | `NORMALIZED_ACTIVE_CONTRACT` | two exact A objects; closed |
+| A05 | A native handoff, whole document, plus reference map, handoff packet and reconciliation JSON | `NORMALIZED_ACTIVE_CONTRACT` | A02-A04 and destination Project contracts; four exact A objects; closed |
+| A06 | Seven exact A06-closure JSON objects | `WHOLE_DOCUMENT` | A01-A04; seven exact A objects; closed |
+| A07 | COMP-03 method/result/carrier/probe quartet | `WHOLE_DOCUMENT` | four exact A objects; closed |
+| A08 | COMP-04 and COMP-06 method/result/carrier/probe quartets | `WHOLE_DOCUMENT` | eight exact A objects; closed |
+| A09 | COMP-07 and COMP-10 quartets plus A02 | `NORMALIZED_ACTIVE_CONTRACT` | A01/A02 and destination Product truth/access law; nine exact A records; closed |
+| A10 | COMP-08, COMP-09 and COMP-11 quartets | `NORMALIZED_ACTIVE_CONTRACT` | destination Application/Persistence truth; twelve exact A objects; closed |
+| A11 | A02 §§9,11; A03 §9; A04 §§7-8,10; A06 state-witness and responsive clauses | `SELECTED_SECTIONS` | A02-A04/A06; five exact A records; closed |
+| A12 | Two Stage packets; whole successor method; whole successor result; two Stage carriers, two materializers and two probes | `WHOLE_DOCUMENT` | A06 plus exact Drive master locator/hash carried inside the Stage objects; ten exact A records; closed |
+| A13 | A Design Ledger, exactly the 34 listed entries | `SELECTED_SECTIONS` | named decisions/dependencies resolve through A01-A12/A14; one exact A ledger object; closed |
+| A14 | COMP-01..11 component/prototype closure plus the seven-object Stage reference closure including the successor method | `WHOLE_DOCUMENT` | A05-A12; every exact method/result/carrier/materializer/probe record is in the appendix; closed |
+| C01 | Two motion packets plus the ten named MOT contract/adjudication dependencies | `PROVENANCE_POINTER` | twelve exact A objects; closed |
+| C02 | W continuity §3, §11 and named app-exclusion clauses of §§18-23 | `PROVENANCE_POINTER` | exact W continuity object and literal Drive locators; closed |
+| C03 | Four exact current-main W objects and the ranges stated above | `NORMALIZED_ACTIVE_CONTRACT` | current-main continuity required; Ryladmin governs coordination; closed |
+| C04 | A framework, registry and APP-SYN packet | `PROVENANCE_POINTER` | three exact A objects; closed |
+| D01 | Six exact H Home carriers | `EVIDENCE_REFERENCE_ONLY` | no selection; six exact H objects; closed |
+| D02 | Exact F FIRSTUSE carrier and closeout | `EVIDENCE_REFERENCE_ONLY` | no adoption; two exact F objects; closed |
+| D03 | Literal Drive IDs in this packet; no Drive bytes transfer | `PROVENANCE_POINTER` | repository authority remains controlling; no unrecorded external byte dependency; closed |
+| D04 | C01/C02 clauses plus exact R authority locator | `DO_NOT_TRANSFER` | no destination contract bytes; stewardship decision preserved; closed |
 
 ## Selected Design Ledger manifest
 
@@ -91,11 +154,11 @@ After Project successfully receives, validates and accepts the frozen set, Websi
 
 ## Transfer gates and next task
 
-The source side is **FROZEN FOR TRANSFER** at the aliases above. Authority transfer remains **NOT EXECUTED** and Website remains current app-design authority until destination acceptance plus source-pointer closure. Exact next task: `ADMIN-Q05-TRANSFER-01` — in a separately authorized Project worktree, materialize only these 22 classified bundles from the frozen identities, preserve the stated normalization/pointer limits, validate Project receipt, then return for Website relinquishment/pointer closure. No Website-only data may enter that task.
+The source side is **FROZEN FOR TRANSFER - DEPENDENCY COMPLETE** at the aliases above. Authority transfer remains **NOT EXECUTED** and Website remains current app-design authority until destination acceptance plus source-pointer closure. Exact next task: resume `ADMIN-Q05-TRANSFER-01` — in a separately authorized Project worktree, materialize only these 22 classified bundles from the frozen identities, preserve the stated normalization/pointer limits, validate Project receipt, then return for Website relinquishment/pointer closure. No Website-only data may enter that task.
 
 ## Exact source identity appendix
 
-Columns are alias, repository-relative path, Git blob SHA-1, byte size and SHA-256 of exact blob bytes. A repeated dependency appears once. The appendix contains no Website-only implementation or evidence path.
+Columns are alias, repository-relative path, Git blob SHA-1, byte size and SHA-256 of exact blob bytes. Each alias/path record appears once even when multiple bundles depend on it. The appendix contains no Website-only implementation or evidence path.
 
 | Alias | Path | Blob | Bytes | SHA-256 |
 |---|---|---|---:|---|
@@ -125,6 +188,7 @@ Columns are alias, repository-relative path, Git blob SHA-1, byte size and SHA-2
 | A | docs/evidence/APPUI_01_NATIVE_IMPLEMENTATION_REFERENCE_MAP_01.json | 399ac818818d9fbbab2176f62381e6c67ddb9aae | 6870 | 3793ad4dd03f5a80fcf7b428a07fe8b111b3fffa216ed6c9e5c4a834af8967fe |
 | A | docs/evidence/APPUI_01_PHASE_3_STATIC_APP_VISUAL_SYSTEM_REFERENCE_01.json | 559bf916061cce2b8007788c3f1dfaaf7d2c1126 | 4101 | 5c31c67b9a9057f07bb78f827d2ed38a8004cf3b801d1950d38005b9aa12029b |
 | A | docs/evidence/APPUI_01_Q_DESIGN_20_POST_COMPOSITION_RECONCILIATION_01.json | b916de21add987b76393333fd74505050fdcf11a | 5493 | 57f12eadf3d62983b7a3d6fc803a2ac5959142202fb5de34ec53510ed6e6f10d |
+| A | docs/evidence/APPUI_01_STAGE_PRESENTATION_SUCCESSOR_METHOD_01.json | aa9b9fc575d5c9d1dd0412c76039b0f51c863be1 | 5401 | ce6d074c3b8df82e7f59d820ab77a3823d1ab76af026977ac8cd4eedb9b7c712 |
 | A | docs/evidence/APPUI_01_STAGE_PRESENTATION_SUCCESSOR_RESULT_01.json | 771d12b2079ea9754136841883a04a291f97773a | 5699 | 3eb970302606e5a2a46d78f5d7c28d6ecc96fd01020c3c63f0e1bf8407e70940 |
 | A | docs/evidence/APPUI_ALPHA_CHARACTER_ANCHOR_COMPONENT_ANATOMY_01.json | 89618e49557fde46dab598858b33297e1b9e3225 | 5514 | 89091554c1c5af901dd5a15fba46b65aa05f34e0debf53d579ded683b3ee1864 |
 | A | docs/evidence/APPUI_ALPHA_FOUNDATIONAL_UI_STAGE_CONSTITUTION_01.json | 80eeffb2a614609fb5092bafe1ba87d6fbe859b3 | 3772 | e6044877bca16bc36a60af815fb1e13e2261ce5be1c2bc623e688666e2a0e028 |
@@ -195,5 +259,6 @@ Columns are alias, repository-relative path, Git blob SHA-1, byte size and SHA-2
 | H | prototypes/appui-01/home-two-option-review-board-01.html | 747019563e79b3f60ab769ff9a1ffd38d3e74922 | 6050 | 5ead98cfadda13193c4ac81dbcd1f225ebd2e60d49ba77fa58c9d17671828987 |
 | W | AGENTS.md | 1067031d29e500a086adc56af1a0a069e4283136 | 20728 | 86685ce05ca44f90c58d5d8ddd8c53e70c3a1d970c278cdec95a24025acd62a9 |
 | W | docs/DESIGN_CONTINUITY.md | a99b00a2afd09686ff625076ae615ffd82fe0d73 | 37177 | a9ea2787d1d14ccbfa823271bf42f583aa7f5b1c956ee4c412c3ab4c83f88b74 |
+| W | docs/KYMAEAN_ENGINEERING_INFORMED_VISUAL_TRANSLATION_PROTOCOL_01.md | a00fdfb1de355ac2c4d0fe3fd73a8990da10e8ee | 7045 | 1fc0dca8bb41ee12f4966c76d9ecedb50be6f4d784e8f4fa3305cfb5713efd96 |
 | W | docs/KYMAEAN_EXPERIENCE_ONTOLOGY_SYNTHESIS_01.md | be875e273109d235d4a6a8219521fe7f291da5a9 | 20054 | b5b4244fe645cb20bbc4d15daf5251add3c0c575ad885bfdc66386f3e00fd68b |
 | W | docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md | af5a79fe071059599587e094e4b54fd42365c15f | 18205 | e9b4d7c352588f42b01762991adf495d13656ede310e0b2f95a66ff53e03b9f2 |
