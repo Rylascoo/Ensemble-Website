@@ -1,0 +1,53 @@
+:root{
+  --threshold-bronze:#c8a56a;
+  --threshold-stone:#d9cbb3;
+}
+.wordmark-mark path{
+  fill:var(--threshold-bronze);
+}
+.supporting{
+  fill:var(--threshold-stone);
+  text-rendering:geometricPrecision;
+}
+.supporting-monumental{
+  font-family:"Arial Narrow","Helvetica Neue",Arial,sans-serif;
+  font-size:78px;
+  font-weight:300;
+  letter-spacing:.055em;
+}
+.supporting-inscription{
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:72px;
+  font-weight:400;
+  letter-spacing:.02em;
+}
+.supporting-inscription .ae-a{
+  font-size:76px;
+}
+.supporting-inscription .ae-e{
+  font-size:70px;
+}
+.supporting-human{
+  font-family:"Trebuchet MS","Segoe UI",Arial,sans-serif;
+  font-size:74px;
+  font-weight:400;
+  letter-spacing:.025em;
+}
+.variant-monumental .wordmark,
+.variant-inscription .wordmark,
+.variant-human .wordmark{
+  width:min(31.5vw,30.75rem);
+}
+@media(max-width:900px) and (orientation:portrait){
+  .variant-monumental .wordmark,
+  .variant-inscription .wordmark,
+  .variant-human .wordmark{
+    width:min(60vw,22rem);
+  }
+}
+@media(forced-colors:active){
+  .wordmark-mark path,
+  .supporting{
+    fill:CanvasText;
+  }
+}
