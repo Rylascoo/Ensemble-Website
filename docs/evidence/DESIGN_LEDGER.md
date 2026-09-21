@@ -4154,3 +4154,36 @@ No `site/public/**` adoption, production-artwork promotion, Reference-17 change,
 
 **DIRECTOR-CONFIRMED STORM-THEATER BRANCH FREEZE RECORDED — 02C PRESSURE SYLPH AND 02H RAIN GLASS ARE FROZEN EXPLORATION REFERENCES; THE COMPLETE CHAT RENDER ARCHIVE IS PRESERVED; NUMBERED COSTUME LIBRARY AND PRODUCTION REMAIN UNCHANGED.**
 
+
+
+## L-255 - Belle Shadow Surveyor distilled-archetype render archive and fresh-chat handoff preserved
+
+**State:** DIRECTOR-CONFIRMED EXPLORATION ARCHIVE / 18 UNIQUE CHAT RENDERS PRESERVED / SHADOW SURVEYOR FUNCTIONAL SYSTEM RECORDED / HYBRID PROTECTION FAVORED BUT NOT FROZEN / NO COSTUME 06+ PROMOTION / F02 + COSTUMES 01–05 + PRIOR BRANCHES UNCHANGED / PRODUCTION UNCHANGED
+
+Following the unexplored-matrix opportunity review, the Director and Design Sol abstracted recurring design signals into broader Belle archetypes rather than treating every matrix cell as a mandatory isolated costume. The strongest resulting branch in this chat became **Shadow Surveyor**: a quiet field-observer language organized around travel-light behavior, full-body protection, natural camouflage, low-profile concealed gear and purposeful utility.
+
+Shadow Surveyor is a **distilled archetype exploration**, not a new canonical row-column coordinate and not a numbered Costume 06+. Belle Identity Foundation 02 remains the person-level authority. Canonical Costumes 01–05 remain unchanged and Costume 05 remains frozen.
+
+Canonical Drive workspace: **07 Belle — Distilled Archetype Studies — Shadow Surveyor — This Chat — 2026-09-21**, `1EtpFK9qi7F55B23_kWNGaKF1614yJ6qA`.
+- **01 Chat Renders** `1RrA20ClDwuMChE5YCOaZHeKknI4z7xY_`: 18 unique PNG renders preserved. One byte-identical local `imagegen.png` duplicate was omitted because it duplicates the preserved close-silhouette hero bytes.
+- **02 Current Reference Candidates** `12aveemXMzQ0vl_j8acexVloblYzjVQm7`.
+- **03 Handoff & Notes** `16MYdyFwJXI5E9szxPCt5f6vLQYTKfzyn`.
+- Fresh-chat handoff: `1LTrEYl5Akg7PnT00jXv8BtxMA3HD8aSHVsCazyyOqaM`.
+- Render manifest: `1sItuGZHZEJqPtfib6I5BRLL5-jNoVsrW`.
+
+Current reference candidate set, explicitly **not frozen**:
+- **Functional Architecture Reference** `18A8dMAgV5-FgEds0ghNStXIjN9NXGYua`: purposeful strap/load-path and construction logic.
+- **Material Direction Comparison** `1RuhNwiDpD_aV1TmCccWqR60XOKop56U0`: Supple Hide vs Hybrid Protection vs Heavy Field Hide; **Hybrid Protection is the strongest current hypothesis but is not frozen**.
+- **Robustness Evidence** `14LlXNFLmca-hRvEffkTNZFKDhAg42BsU`: ordinary-context evidence that the costume language survives without ruins, heroic posing or explanatory spectacle.
+
+Current functional rule: **every visible line must carry, protect, retain, conceal or permit movement**. Decorative crossed harnessing, belt forests, hanging pouches, ragged survivor fabric, full hardened-leather armor, long dramatic coat/cloak identity and generic rogue/assassin shorthand are rejected drifts. A primary diagonal strap is allowed only when it is a real load path; if removing a strap changes nothing, the strap should not exist.
+
+Current material hypothesis: treated/supple hide for flexible protective/high-wear surfaces; waxed canvas or dense technical textile for flex/ventilation zones; hardened leather only for localized impact reinforcement; quiet lining and darkened low-profile hardware. Material changes must alter construction logic rather than merely surface texture.
+
+A renderer-convergence limit was also established. Repeated direct refinement of saturated late-stage boards caused whole-costume reinterpretation and repeated fallback to familiar cowl/leather/strap/thigh-module/boot shorthand. Those boards remain design evidence, not final artwork. The next chat must resume from the written functional specification rather than feeding the latest board back as sole visual authority.
+
+Exact next Shadow Surveyor action: create one isolated full-size **Hybrid Protection** study from a clean context, explicitly zoning flexibility, abrasion resistance, impact protection, ventilation, load retention and concealed storage. Keep the silhouette close, quiet, non-theatrical and travel-light. Compare against Supple Hide or Heavy Field Hide only when the comparison answers a specific material/construction question.
+
+All prior Belle focused branches, Storm Theater work including frozen 02C Pressure Sylph and 02H Rain Glass, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
+
+**DIRECTOR-CONFIRMED SHADOW-SURVEYOR ARCHIVE MILESTONE RECORDED — CHAT RENDERS, CURRENT REFERENCE CANDIDATES, FUNCTIONAL SPECIFICATION AND FRESH-CHAT HANDOFF PRESERVED; HYBRID PROTECTION REMAINS AN UNFROZEN NEXT-STUDY HYPOTHESIS; NUMBERED COSTUME LIBRARY AND PRODUCTION REMAIN UNCHANGED.**
