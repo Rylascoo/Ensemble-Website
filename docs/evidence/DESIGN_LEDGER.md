@@ -4100,3 +4100,30 @@ The concurrent 04F–06D focused-family authority from L-250/L-251 remains separ
 Belle Identity Foundation 02 remains the person-level control. Costumes 01–05 remain unchanged and Costume 05 remains frozen at L-248. No `site/public/**`, production-artwork, Reference-17, Bellweather, Lou, application-design or app UI/runtime/product-semantic authority changed.
 
 **DIRECTOR-CONFIRMED PRESERVATION MILESTONE RECORDED — FIRST-FOUR REFERENCES ARE PRESERVED AS SINGLE-IMAGE AUTHORITIES; FAILED ROTATIONS REMAIN DIAGNOSTIC ONLY; PARALLEL FAMILY AND ALL EXTERNAL BOUNDARIES REMAIN UNCHANGED.**
+
+## L-253 - Belle Storm Theater row-deep 02A/02G render archive preserved; no branch master frozen
+
+**State:** DIRECTOR-CONFIRMED ROW-DEEP EXPLORATION ARCHIVE / 26 UNIQUE RENDERS PRESERVED / 02A + 02G REMAIN EXPLORATORY / 02D PRESERVED + EXCLUDED / PARALLEL 02B + 02C LANE SEPARATE / F02 + COSTUMES 01–05 + PRIOR EIGHT BRANCHES UNCHANGED / PRODUCTION UNCHANGED
+
+The Director and Design Sol revised Belle's second-study-pass method into a controlled **Storm Theater row-deep exploration** holding the world premise constant while varying costume-design language. This chat developed **02A — Pressure Cut** (Storm Theater × Contemporary Theatrical Tailoring) and **02G — Signal Squall** (Storm Theater × Retro-Futurist Stage). The preserved **02D — Tempest Veil** branch remained excluded and unchanged. A separate parallel chat owns **02B — Stormline** and **02C — Barometric Frame**; its generated outcomes were not used to drive this chat's initial concept development.
+
+The complete render sequence from this chat is preserved in Google Drive folder **06A Storm Theater Row-Deep Studies — 02A Pressure Cut + 02G Signal Squall — This Chat — 2026-09-20**, `1xsrM_cxCpuqy8SPunyv24RCpA4e2Ittr`.
+
+Archive structure:
+- **01 Exploration Sequence** — 10 renders;
+- **02 Stage-Costume Studies** — 8 renders;
+- **03 Full-Size Current Candidates** — 8 renders;
+- **04 Manifest & Notes** — START HERE document `1qQq75tf29YQTlGbEnuXrFv-B6ACkAK03k0BQ9w4To7s`.
+
+Total preserved: **26 unique renders**. One byte-identical `imagegen.png` duplicate was intentionally omitted because it duplicates the preserved `stormlight_belle_on_the_grand_stage.png` bytes.
+
+Current working interpretation, without promotion:
+- **02A Pressure Cut** explores contemporary stage tailoring where storm/lightning is carried by directional construction, compression/release and stage-light-responsive seam behavior.
+- **02G Signal Squall** explores retro-futurist theater-stage costume where storm/lightning is carried by optical/translucent scenic structure and stage-light-driven perceptual change.
+
+No exact render in this archive is frozen as a new authoritative branch master by this preservation step. Belle Identity Foundation 02 remains person-level authority. Canonical Costumes 01–05 remain unchanged and Costume 05 remains frozen at L-248. The eight prior developed intersections remain unchanged. Generated alternate views do not create canonical hidden side/back garment geometry.
+
+No `site/public/**` adoption, production-artwork promotion, Reference-17 change, Bellweather/Lou change, application-design authority change or app UI/runtime/product-semantic change is created.
+
+**DIRECTOR-CONFIRMED ARCHIVE MILESTONE RECORDED — 02A/02G STORM-THEATER RENDER SEQUENCE PRESERVED AS EXPLORATION EVIDENCE ONLY; NO NEW COSTUME NUMBER OR BRANCH MASTER IS CREATED.**
+
