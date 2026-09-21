@@ -13,7 +13,7 @@ L-204 remains production authority: pre-Bellweather V2.2 is live; site/public/**
 ## Active website design lanes
 Concurrent Bellweather Alternate authority, including its distinct-marketing-identity refinement, remains preserved and separate.
 
-Belle: F02; library `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`; C01–04 preserved; **C05 FROZEN** `1GUaSj_Ha_l8TYhuGfpUXX0WSKe5Bjrmo` SHA `690cef95266034b57f99b4a7799aed76bcf25a00dfe8aa71359d609ef74a949e`; exploration `17ckYbFfHeIuBTNno1ZMDXMTP3Uv03LY9`; focused family `1sQrkR8inUFr8Zy19G0yrEkF_5YBp7utK`, manifest `1D2sj_Z9si85_3_O5Qxo_uIjqOQ83_lIx`; no production/site; neutral revision separate.
+Belle: F02; library `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`; C01–04 preserved; **C05 FROZEN** `1GUaSj_Ha_l8TYhuGfpUXX0WSKe5Bjrmo` SHA `690cef95266034b57f99b4a7799aed76bcf25a00dfe8aa71359d609ef74a949e`; focused family `1sQrkR8inUFr8Zy19G0yrEkF_5YBp7utK`; Storm row 02A/02G archive `1xsrM_cxCpuqy8SPunyv24RCpA4e2Ittr` (26 renders; exploratory; no master); no production/site.
 
 Reference 17 remains fixed: Drive 1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit; 1672 x 941 RGBA; SHA-256 8fa2272c444c6dcc1b1f19b7c30467fc4d6ff893d51a5436e2716e6c791d0d44. Boundary 01 remains exactly 39,975 pixels.
 
