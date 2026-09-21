@@ -4127,3 +4127,30 @@ No `site/public/**` adoption, production-artwork promotion, Reference-17 change,
 
 **DIRECTOR-CONFIRMED ARCHIVE MILESTONE RECORDED — 02A/02G STORM-THEATER RENDER SEQUENCE PRESERVED AS EXPLORATION EVIDENCE ONLY; NO NEW COSTUME NUMBER OR BRANCH MASTER IS CREATED.**
 
+## L-254 - Belle Storm Theater 02C Pressure Sylph + 02H Rain Glass frozen as exploration branches
+
+**State:** DIRECTOR-CONFIRMED EXPLORATION BRANCH FREEZE / 02C PRESSURE SYLPH + 02H RAIN GLASS CURRENT REFERENCES FROZEN / 35 UNIQUE CHAT RENDERS PRESERVED / 02C BAROMETRIC FRAME RETAINED AS PREDECESSOR / 02B STORMLINE REMAINS EXPLORATORY / 02D TEMPEST VEIL UNCHANGED / NO COSTUME 06+ PROMOTION / PRODUCTION UNCHANGED
+
+Continuing the parallel Storm Theater row-deep lane from L-253, the Director and Design Sol broadened the 02B/02C study into archetype-level interpretation, then explicitly selected and froze two distinct Storm Theater costume-language discoveries as exploration branch references:
+
+- **02C — Pressure Sylph** — Storm Theater × Sculptural Architectural. Governing mechanism: **air pressure creates temporary architecture around Belle**. The frozen language is volume / tension / buoyancy / expansion-compression, using asymmetric pressure-held chambers, engineered attachment points and storm-force deformation rather than literal fairy wings or generic harness clutter.
+- **02H — Rain Glass** — Storm Theater × Radical Minimalism. Governing mechanism: **rain temporarily crystallizes into wearable refractive planes**. The frozen language is plane / refraction / surface / formation-dissolution, using water-shaped transparent sheets and minimal under-structure rather than soft gown drape, bridal language or weapon-like glass shards.
+
+Canonical Drive working archive remains **06 Storm Theater Row-Deep Studies — 02B Stormline + 02C Barometric Frame — This Chat — 2026-09-20**, `1C5RQNM2iY_w2BJ0wtprERK3o7zuCXbIG`. The archive now preserves **35 unique chat render files** across the original 02B/02C development plus the archetype/ethereal expansion. New expansion folder: `1ekF7guBEHgaefSrxvp6GwVMPUfeFBg-h`. Frozen-branch container: `1WyXRmNVNOkW66pO2Rzp3s2dl8-KKO42a`. START HERE / manifest: `123LRlCE0Nqlgomo4TlelHIHVtqMETgCSWUKtMw6DuzM`.
+
+Exact frozen current references:
+- **02C Pressure Sylph** — Drive `1AkyaFKRCOtBI9-eREmrEEGAICZNujcZO`; SHA-256 `0778d2df162673a63b89e198980847ecc4f53602061db7ee6f100db96abff1e6`; 1086 × 1448 RGB PNG; 2,744,147 bytes.
+- **02H Rain Glass** — Drive `19cYHykhmAwwLo8OuDhfuR-cM4gC6m7KD`; SHA-256 `c520ba899c8be8c3b36ed97122472a0d72e383e85c0bfbe1e2e2f10dbd3f76d0`; 1086 × 1448 RGB PNG; 2,543,459 bytes.
+
+Preserved direct predecessors:
+- 02C Pressure Sylph refinement v3: Drive `1HA-EWPmIdXjQShnrpuOmtCh3RCEc-2i-`; SHA-256 `f70a038f0223373a9d2ace00b776b3dd73cc0be53f0e8242b5d2980f8b852b75`.
+- 02H Rain Glass refinement v3: Drive `1dz5ykT-9sXiJcMryHF82PaqZbe7t5Jlz`; SHA-256 `f388eaba5707b7297f49f04c53b765aa8d19a441849d117b4b461bac0cd044a0`.
+
+The earlier **02C Barometric Frame** working name and full-size candidate remain preserved predecessor evidence; they do not override the frozen Pressure Sylph branch reference. **02B Stormline** remains preserved exploration evidence and is neither frozen nor rejected by this action. **02D Tempest Veil** and the other previously developed intersections remain unchanged.
+
+Belle Identity Foundation 02 remains person-level authority. Canonical Costumes 01–05 remain unchanged and Costume 05 remains frozen at L-248. These branch freezes do not infer canonical hidden side/back garment geometry from generated alternate views.
+
+No `site/public/**` adoption, production-artwork promotion, Reference-17 change, Bellweather/Lou change, application-design authority change or app UI/runtime/product-semantic change is created.
+
+**DIRECTOR-CONFIRMED STORM-THEATER BRANCH FREEZE RECORDED — 02C PRESSURE SYLPH AND 02H RAIN GLASS ARE FROZEN EXPLORATION REFERENCES; THE COMPLETE CHAT RENDER ARCHIVE IS PRESERVED; NUMBERED COSTUME LIBRARY AND PRODUCTION REMAIN UNCHANGED.**
+
