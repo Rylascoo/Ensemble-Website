@@ -4187,3 +4187,52 @@ Exact next Shadow Surveyor action: create one isolated full-size **Hybrid Protec
 All prior Belle focused branches, Storm Theater work including frozen 02C Pressure Sylph and 02H Rain Glass, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
 
 **DIRECTOR-CONFIRMED SHADOW-SURVEYOR ARCHIVE MILESTONE RECORDED — CHAT RENDERS, CURRENT REFERENCE CANDIDATES, FUNCTIONAL SPECIFICATION AND FRESH-CHAT HANDOFF PRESERVED; HYBRID PROTECTION REMAINS AN UNFROZEN NEXT-STUDY HYPOTHESIS; NUMBERED COSTUME LIBRARY AND PRODUCTION REMAIN UNCHANGED.**
+
+
+## L-256 - Belle 02H Rain Glass preservation genealogy archive and fresh-chat handoff preserved
+
+**State:** DIRECTOR-CONFIRMED PRESERVATION ARCHIVE / 30 UNIQUE CHAT RENDERS PRESERVED / LITERAL ORIGIN-CURRENT GENEALOGY PRESERVED / FROZEN 02H CURRENT REFERENCE UNCHANGED / NEXT SYNTHESIS TARGET RECORDED / NO COSTUME 06+ PROMOTION / PRODUCTION UNCHANGED
+
+Following the L-254 freeze of **02H — Rain Glass** as a Storm Theater × Radical Minimalism exploration branch, the Director and Design Sol continued branch-local study through archetype comparison, angle/gesture/personality testing, preservation boards, construction normalization, ordinary-context robustness tests, origin-integration studies and exact-source genealogy comparison.
+
+New branch-local Drive workspace: **02H Rain Glass — Preservation, Genealogy & Fresh Chat Handoff — 2026-09-21**, `1YbY9B9vXzK7hhZzlxyP3l6GSmJQxloT3`, nested under the frozen Rain Glass branch folder `1mSltc7Or4xm19UIZRDSMRtKZaXdcmSN1`.
+
+Archive structure:
+- **01 Chat Renders — Full Sequence** `1mgRwLOLkJ2NeucQARnPbLimUVSvuU5Em`: **30 unique PNG renders** preserved in chronological order, from the ten-archetype Storm Theater exploration through Rain Glass origin/current forensic comparison. The byte-identical local `imagegen.png` duplicate was not uploaded.
+- **02 Source Genealogy & Current Evidence** `1HUdV7XLcXfh37fYEFtjwdieWBJUwKSA0`: literal original concept, frozen current reference, construction reference, literal-source genealogy and final origin/current forensic comparison copied together for recovery.
+- **03 Handoff & Manifest** `1gejCDfwUQDBXEBzZgmTnv0jEJTkT2kdn`: fresh-chat handoff `1EU18wRZT91MP944ixI83VxCv4USsdbgu` and exact render manifest `12GIG0oBW3jOdaMXJYXpzs5tJy-tK2UnS`.
+
+The frozen L-254 Rain Glass current reference remains unchanged at Drive `19cYHykhmAwwLo8OuDhfuR-cM4gC6m7KD`, SHA-256 `c520ba899c8be8c3b36ed97122472a0d72e383e85c0bfbe1e2e2f10dbd3f76d0`. None of the preservation/evolution boards silently supersede it.
+
+The exact-source genealogy establishes that the literal original Rain Glass render and the normalized current construction carry different strengths rather than simply rough/final states.
+
+Original Rain Glass contributes:
+- more torso negative space;
+- a lighter high transparent neck;
+- fewer visible junctions;
+- longer uninterrupted refractive surfaces;
+- greater irregular/asymmetric behavior;
+- less obvious conventional garment support;
+- a stronger impression that weather has temporarily organized itself around Belle.
+
+Current normalized Rain Glass contributes:
+- stable layer hierarchy;
+- repeatable panel placement;
+- controlled junction logic;
+- clearer underlayer construction;
+- movement/turnaround consistency;
+- stronger reproducibility across contexts.
+
+Normalization also introduced conventional drift toward more visible bodice/waist organization, more skirt-like lower structure and a more visually prominent junction network.
+
+Current synthesis target, explicitly **not** a frozen-reference advancement:
+
+**Current Rain Glass construction + Original Rain Glass perception.**
+
+The intended next bounded study should keep the current normalized construction as the hidden structural skeleton while selectively recovering original negative space, lower junction density, longer refractive surfaces, irregular asymmetry, more air between Belle and the outer layer, and less obvious conventional-garment support. The goal is **reproducibility + elemental impossibility**, not a 50/50 hybrid and not a new costume.
+
+Exact next Rain Glass action after fresh-chat recovery: inspect the literal original reference and frozen/current construction evidence from `1HUdV7XLcXfh37fYEFtjwdieWBJUwKSA0`; produce one bounded synthesis study testing whether the preserved construction can become visually less conventional while remaining reproducible; then perform a neutral-context robustness test before any Director decision to advance the frozen 02H reference.
+
+Belle Identity Foundation 02 remains person-level authority. Canonical Costumes 01–05 remain unchanged. Pressure Sylph remains a separate frozen 02C branch. No `site/public/**` adoption, production-artwork promotion, Reference-17 change, Bellweather/Lou change, application-design authority change or app UI/runtime/product-semantic change is created.
+
+**DIRECTOR-CONFIRMED RAIN-GLASS PRESERVATION MILESTONE RECORDED — FULL CHAT RENDER SEQUENCE, LITERAL SOURCE GENEALOGY, MANIFEST AND FRESH-CHAT HANDOFF ARE PRESERVED; 02H FROZEN CURRENT REFERENCE REMAINS UNCHANGED; NEXT WORK IS A BOUNDED ORIGINAL-PERCEPTION / CURRENT-CONSTRUCTION SYNTHESIS TEST.**
