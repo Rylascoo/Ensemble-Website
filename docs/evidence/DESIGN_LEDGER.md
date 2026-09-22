@@ -4236,3 +4236,52 @@ Exact next Rain Glass action after fresh-chat recovery: inspect the literal orig
 Belle Identity Foundation 02 remains person-level authority. Canonical Costumes 01–05 remain unchanged. Pressure Sylph remains a separate frozen 02C branch. No `site/public/**` adoption, production-artwork promotion, Reference-17 change, Bellweather/Lou change, application-design authority change or app UI/runtime/product-semantic change is created.
 
 **DIRECTOR-CONFIRMED RAIN-GLASS PRESERVATION MILESTONE RECORDED — FULL CHAT RENDER SEQUENCE, LITERAL SOURCE GENEALOGY, MANIFEST AND FRESH-CHAT HANDOFF ARE PRESERVED; 02H FROZEN CURRENT REFERENCE REMAINS UNCHANGED; NEXT WORK IS A BOUNDED ORIGINAL-PERCEPTION / CURRENT-CONSTRUCTION SYNTHESIS TEST.**
+
+## L-257 - Belle Shadow Surveyor baseline costume selected; successor handoff advanced
+
+**State:** DIRECTOR-SELECTED EXPLORATION BASELINE / PREDECESSOR EVIDENCE PRESERVED / F02 + COSTUMES 01–05 UNCHANGED / NO COSTUME 06+ PROMOTION / PRODUCTION UNCHANGED
+
+Following L-255, the Director and Design Sol continued bounded Shadow Surveyor refinement around the branch's governing functional idea: quiet travel-light observation, full-body lightweight protection, natural camouflage through broken matte surfaces, and small equipment flattened into the silhouette. Several later presentation-heavy/tacticalized outputs were explicitly treated as drift evidence rather than advancement.
+
+The Director selected the newest close-silhouette hero study as the **baseline Shadow Surveyor costume** for successor refinement.
+
+Canonical Shadow Surveyor workspace remains:
+**07 Belle — Distilled Archetype Studies — Shadow Surveyor — This Chat — 2026-09-21**, Drive `1EtpFK9qi7F55B23_kWNGaKF1614yJ6qA`.
+
+Director-selected baseline:
+- Drive: `1_SNjkf9qq_BEiItR3V3EBXFQCBSEqgXB`
+- Title: **D — Baseline Shadow Surveyor Costume — Director Selected — 2026-09-22.png**
+- SHA-256: `97693c0c48ea8f1122d98f3623ff78bc8b3d018c6a01bd2b9b3720acdb1cf587`
+- 1122 × 1402 RGB PNG; 2,110,143 bytes.
+
+Fresh-chat handoff:
+- **START HERE — Belle Shadow Surveyor Baseline Costume — Fresh Chat Handoff — 2026-09-22**
+- Drive: `11X0o_Z8UIUXUbkuiT8cd0Nuqcw9kmRJrou_JiHJ-rXc`
+
+The earlier A/B/C candidate set from L-255 remains preserved as genealogy/evidence and is not deleted or relabeled:
+- functional architecture `18A8dMAgV5-FgEds0ghNStXIjN9NXGYua`;
+- material-direction comparison `1RuhNwiDpD_aV1TmCccWqR60XOKop56U0`;
+- ordinary-context robustness evidence `14LlXNFLmca-hRvEffkTNZFKDhAg42BsU`.
+
+Baseline design law for successor work:
+- close, uninterrupted, movement-friendly silhouette;
+- upper torso and lower torso use one coherent fitted fieldwear/protection logic;
+- mascot-informed Belle proportions without changing F02 personhood;
+- full-body coverage through flexible layering, abrasion resistance and localized reinforcement rather than armor identity;
+- majority quiet textile/waxed/dense woven construction with selective soft matte leather at high-wear/protection zones;
+- thin integrated waist system and minimal flattened leg storage;
+- carry systems visually disappear; no obvious chest harness or pack by default;
+- compact cowl/neck protection and compact quiet footwear;
+- camouflage is tonal/surface irregularity, never military print;
+- every visible line must protect, retain, conceal, ventilate, articulate movement or carry load.
+
+Rejected drift remains rejected: long coat/duster/cloak identity, generic rogue/assassin shorthand, tactical/operator styling, decorative crossed harnessing, belt forests, large hanging or thigh pouches, obvious chest rigs, backpack identity, full hardened-leather costume, armor plates, buckle-heavy fantasy boots, ragged survivor language and cinematic-action-heroine proportion drift.
+
+The separate **Mantled Cartographer** lateral branch recorded in Drive remains distinct and must not be silently recombined with Shadow Surveyor.
+
+The baseline image is the immutable comparison control for the next micro-refinement pass. Successor work should change one bounded design variable at a time against D; it should not restart the archetype or use whole-costume reinterpretation as refinement.
+
+Belle Identity Foundation 02, Costumes 01–05, all prior dedicated Belle branches, Storm Theater work including frozen Pressure Sylph/Rain Glass, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
+
+**DIRECTOR-SELECTION RECORDED — SHADOW SURVEYOR NOW HAS A PRESERVED BASELINE COSTUME AND FRESH-CHAT RECOVERY POINT; IT REMAINS EXPLORATION ONLY, NOT COSTUME 06+ OR PRODUCTION ARTWORK.**
+
