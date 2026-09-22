@@ -4285,3 +4285,38 @@ Belle Identity Foundation 02, Costumes 01–05, all prior dedicated Belle branch
 
 **DIRECTOR-SELECTION RECORDED — SHADOW SURVEYOR NOW HAS A PRESERVED BASELINE COSTUME AND FRESH-CHAT RECOVERY POINT; IT REMAINS EXPLORATION ONLY, NOT COSTUME 06+ OR PRODUCTION ARTWORK.**
 
+
+
+## L-258 - Male mascot Spine Frame defining conceptual identity frozen
+
+**State:** DIRECTOR-FROZEN DEFINING CONCEPTUAL IDENTITY / MALE MASCOT IDENTITY FOUNDATION 02 REMAINS PERSON CONTROL / SPINE FRAME INTEGRATED TEXTILE ARCHITECTURE FROZEN / PRIOR ECHO FOLD + COSTUME EXPLORATIONS PRESERVED AS GENEALOGY / NO PRODUCTION OR SITE ADOPTION
+
+The Director froze **Spine Frame — Integrated Textile Architecture** as the male mascot's defining conceptual theatrical costume identity after the progressive-articulation, geometry, Frame stress-test and integration passes. This freeze governs future male-mascot theatrical costume refinement unless explicitly reopened.
+
+Canonical Drive freeze workspace:
+**04 Defining Conceptual Identity — Spine Frame — FROZEN — 2026-09-22**, `1d4BYbInrbN_k790jaXSYtxHUnoNk8VgJ`.
+
+Preserved authority/evidence:
+- Person control copy: **Male Mascot Identity Foundation 02**, `1wVx8s5vbRwEq7K6TmlF5MprOi30ZFxyZ`; original authority remains `13Yrh3yiZ3hKFsolaWKb9SrhcXqB8zu6J`.
+- START HERE freeze document with embedded selected render and governing law: `19wk7dBs4zPyl1oCcUPRgKtJIQLU69A7JkRuHJkKJ7DY`.
+- Frozen PDF archive: `1pMA9guhlGPIefXSrkWJyJBS5NDhqcll2`.
+
+Male Mascot Identity Foundation 02 remains person-level authority: early-college age band, lean natural proportions, irregular chestnut-brown waves, hazel/brown searching eyes, prominent freckles/natural skin texture, softer sibling-family face, restrained natural expression, thoughtful grounded presence. Belle Identity Foundation 02 remains sibling authority.
+
+Frozen conceptual law:
+- strongest identity is discovered in rear/profile rather than front-facing spectacle;
+- articulated **textile architecture** is integrated into the garment, not attached as an apparatus;
+- rear/profile silhouette is primary while the frontal read stays comparatively human and restrained;
+- articulation is progressive and controlled: **Rest → Notice → Turn → Reveal → Interact → Settle**;
+- selective expansion is allowed but the structure must never become wings;
+- one quiet collar/shoulder clue may reveal that the rear system exists;
+- material language favors matte structured textile, woven architectural panels, quiet flexible hinges, soft charcoal/stone/ivory relations and restrained functional hardware;
+- symbolism centers perspective, relation, consequence, continuity and discovery: what is behind him changes how he is read as he moves forward.
+
+Rejected drift: feathers/scales, armor, exoskeleton, backpack, cage, scenery, obvious harness identity, decorative straps, gadgetry, fantasy-tech hardware, generic adventurer language, full wing deployment and renderer-led heroic aging/person drift.
+
+The prior Echo Fold branch, Hinge/Threshold/Stillpoint studies, Bookfold/Counterleaf/Spine genealogy and all intervening render evidence remain preserved as research history. They do not override this freeze. Refinement may improve construction, material behavior, stage practicality, articulation geometry and context robustness without changing the governing identity unless the Director explicitly reopens it.
+
+This freeze does not create production artwork, site/public adoption, a change to Belle, Reference 17, Bellweather, Lou, application-design authority, product semantics or engineering authority.
+
+**DIRECTOR-FROZEN — SPINE FRAME / INTEGRATED TEXTILE ARCHITECTURE IS THE MALE MASCOT'S DEFINING CONCEPTUAL IDENTITY; IDENTITY FOUNDATION 02 REMAINS THE PERSON CONTROL; PRODUCTION REMAINS UNCHANGED.**
