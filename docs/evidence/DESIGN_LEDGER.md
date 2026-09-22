@@ -4298,6 +4298,7 @@ Canonical Drive freeze workspace:
 
 Preserved authority/evidence:
 - Person control copy: **Male Mascot Identity Foundation 02**, `1wVx8s5vbRwEq7K6TmlF5MprOi30ZFxyZ`; original authority remains `13Yrh3yiZ3hKFsolaWKb9SrhcXqB8zu6J`.
+- Frozen defining-identity PNG: `1STK4_ktB0kJtI-K1A-CqKMcJodl9uVu2`.
 - START HERE freeze document with embedded selected render and governing law: `19wk7dBs4zPyl1oCcUPRgKtJIQLU69A7JkRuHJkKJ7DY`.
 - Frozen PDF archive: `1pMA9guhlGPIefXSrkWJyJBS5NDhqcll2`.
 
