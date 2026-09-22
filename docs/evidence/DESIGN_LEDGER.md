@@ -4375,3 +4375,36 @@ Exact first successor sequence: recover live Website authority and the L-258 fre
 Male Mascot Identity Foundation 02 remains person control. Belle Identity Foundation 02 remains sibling authority. Spine Frame remains frozen. No matrix cell is production artwork, and no Reference-17, Bellweather, Lou, application-design, product-semantic, engineering-authority or `site/public/**` change is created.
 
 **DIRECTOR-CONFIRMED MATRIX MILESTONE — MATRIX 02 IS PRESERVED AS THE MULTIPLE-WORLDS COSTUME OPPORTUNITY MAP; NO CELL IS SELECTED OR FROZEN; NEXT WORK BEGINS WITH 01A CONTROL THEN 03C HIGH-CONTRAST UNDER THE EXISTING SPINE FRAME FREEZE.**
+
+
+## L-260 - Belle Shadow Rogue preserved as lateral archive; Shadow Surveyor returns to earlier leather lane
+
+**State:** DIRECTOR-CONFIRMED SHADOW ROGUE PRESERVATION / FIVE CHAT RENDERS ARCHIVED / SHADOW ROGUE PAUSED / EARLIER LEATHER RETURN POINT SELECTED / F02 + COSTUMES 01–05 UNCHANGED / NO COSTUME 06+ PROMOTION / PRODUCTION UNCHANGED
+
+After the L-257 Shadow Surveyor baseline and subsequent branch-local refinement, the Director separated the emerging stealth language into a distinct **Shadow Rogue** lateral exploration and then chose to preserve that branch rather than continue refining it now. The later cowl-integration experiments and exaggerated high-separation leather reinterpretations are not the active continuation baseline.
+
+Canonical preserved Shadow Rogue workspace:
+**08 Shadow Rogue — Preserved Lateral Variant — 2026-09-22**, Drive `1LMI1KK3t3hy5N00U2oudxh18b91dZz96`.
+
+Preserved render folder: `1ft71bAzJXtYyFCHoN3u65WIrl8C5e04s`.
+- genealogy / Costume A vs B comparison: `14bhz2QOiIpCbI7OnE9gp94iK4WlZ0F1m`;
+- named Shadow Rogue vs Leather Armored Stealth split: `1atAy8YTAasqZC5n-YxGV_8-vV-gi-kVP`;
+- shared-Belle refinement comparison: `1n_jzz4HoSsVQ0ScmWv_sZZA_jsuirsca`;
+- dedicated Shadow Rogue character sheet: `1X7Nx8DS8fp9epU-_scMdvXLQXAq-1qkb`;
+- high-separation divergence evidence: `1Zv536eGgXFlHx4cips2ncLBfDPo8bgl2`.
+
+Fresh-chat handoff: `1T1FBdFbWZOQH7xrkTtn5AftT6W9OzQS3X6eo7_AFLE0`, stored under handoff folder `14S8gzht2Xf9MYqSE4SN67WVbFzBzqQID`.
+
+Shadow Rogue is preserved as **concealment through reduction**: slimmer/quieter silhouette, reduced armor emphasis, matte low-contrast surfaces, fewer and flatter essentials, and movement-first fieldwear. If reopened later, reject generic assassin shorthand, ragged scarf/cowl tails, dangling cloth, theatrical stealth asymmetry, over-dark fantasy cliché, and excess straps/weapons/pouches.
+
+The Director selected the earlier leather Shadow Surveyor direction as the next active return point:
+- **03 — Shadow Surveyor — Full Turnaround — Smoothed Material & Gear Distribution — 2026-09-22.png**
+- Drive `1Xtpu8dp2QP30d8UqvRt0aNKCxb5AGPEr`.
+
+Successor refinement should treat this earlier leather image as the visual control unless later live authority advances it. Target identity: **quiet protected surveyor**. Preserve the same Belle/F02 personhood and mascot-informed proportions while strengthening integrated leather protection, coherent close construction, grounded endurance, restrained organized observer utility, and durable bracer/knee/boot wear protection. Stealth should come from quiet construction rather than assassin styling; protection should come from integration rather than added harnessing.
+
+Do not silently reintroduce crossed chest harnesses, decorative straps, belt forests, large hanging pouches, tactical/operator styling, heavy fantasy armor, generic RPG-scout excess, long coat/cloak identity, ragged survivor styling, cinematic action-heroine proportion drift, or the discarded late cowl-integration iterations.
+
+Belle Identity Foundation 02, canonical Costumes 01–05, prior dedicated Belle branches, frozen Pressure Sylph/Rain Glass, Mantled Cartographer, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
+
+**DIRECTOR-CONFIRMED PRESERVATION / RETURN DECISION — SHADOW ROGUE IS ARCHIVED AS A PAUSED LATERAL VARIANT; ACTIVE SHADOW SURVEYOR WORK RETURNS TO THE EARLIER LEATHER CONTROL AT DRIVE `1Xtpu8dp2QP30d8UqvRt0aNKCxb5AGPEr`; NO COSTUME 06+, PRODUCTION OR SITE ADOPTION CREATED.**
