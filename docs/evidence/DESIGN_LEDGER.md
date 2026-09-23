@@ -4440,3 +4440,40 @@ The leather Shadow Surveyor branch should not re-enter broad costume iteration w
 Belle Identity Foundation 02, canonical Costumes 01–05, prior focused Belle branches, frozen Pressure Sylph/Rain Glass, Mantled Cartographer, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
 
 **DIRECTOR-CONFIRMED RESOLUTION — LEATHER SHADOW SURVEYOR IS PRESERVED AS A RESOLVED EXPLORATION REFERENCE SET; SHADOW ROGUE REMAINS SEPARATE; NO COSTUME 06+, PRODUCTION OR SITE ADOPTION CREATED.**
+
+
+## L-262 - Male mascot 01A Common Realm × Architectural Frame frozen as Matrix 02 control
+
+**State:** DIRECTOR-FROZEN 01A CONTROL / IF02 PERSON AUTHORITY UNCHANGED / SPINE FRAME DEFINING IDENTITY UNCHANGED / 03C NEXT INDEPENDENT STUDY / NO PRODUCTION OR SITE ADOPTION
+
+Following L-259, the Director and Design Sol completed the first clean independent Matrix 02 study: **01A — Common Realm × Architectural Frame**. The branch was refined through person-fidelity correction, removal of backpack/harness/fantasy-adventurer drift, rear/profile Spine Frame integration, articulation study, gesture/expression/context stress testing and exact current website-mark cleanup.
+
+Canonical Drive workspace:
+**06 01A Common Realm — FROZEN — 2026-09-22**, `12qrbePx614Ki81fvddRwKSiZVyosfpJS`.
+
+Preserved authority/evidence:
+- **Frozen construction reference** — `1QYtAyucv8xVdN4Nu9miCc2FTPiQiSXVt`.
+- **Finalization stress-test board** — `16RkqnrF7UKb3LTsWmv3gyhr7-Iq7efsU`.
+- **Finalization board with exact current Threshold-K geometry applied to the primary costume views** — `1wA-Dfl8_lEV4-X-oFR4YI7dyWeQ2Jec6`.
+
+01A remains subordinate to **Male Mascot Identity Foundation 02** person authority and the L-258 frozen **Spine Frame — Integrated Textile Architecture** defining identity. It does not replace either.
+
+Frozen 01A construction law:
+- Common Realm is the everyday/campus control world; atmosphere may not rescue weak costume construction.
+- Frontal read is compact, contemporary, grounded and comparatively quiet.
+- Architectural distinction increases through profile and rear rather than front-facing spectacle.
+- Shoulder construction flows continuously into **three integrated rear textile members**.
+- At rest those members read as one coherent back surface; Turn/Reach may separate them modestly in depth/angle before Return/Settle.
+- Material family is matte charcoal/umber/stone structured textile with restrained contrast and minimal functional hardware.
+- Lower body remains simple and practical so the jacket/rear architecture carries the identity.
+- No backpack, harness identity, armor, exoskeleton, fantasy-tech, decorative tails, belt forest, generic adventurer styling or wing-like deployment.
+
+The exact costume mark is the current website production Threshold-K geometry from `site/public/favicon.svg`; generated K-like approximations are evidence only and are not logo authority.
+
+Gesture, expression and context studies are robustness evidence. If a small behavioral render disagrees with the frozen construction reference, the frozen construction reference governs garment geometry; Male Mascot Identity Foundation 02 governs person identity.
+
+Matrix 02 remains an opportunity map. This freeze establishes **01A as the stable control only**. It does not select or freeze any other cell. The next independent high-contrast study is **03C — Glass Archive × Negative Space**, which must not inherit 01A's panel geometry by default.
+
+No production artwork, `site/public/**` adoption, Reference-17 change, Bellweather/Lou change, Belle change, application-design change, product-semantic change or engineering-authority change is created.
+
+**DIRECTOR-FROZEN — 01A COMMON REALM × ARCHITECTURAL FRAME IS THE MATRIX 02 CONTROL; IF02 + SPINE FRAME REMAIN PARENT AUTHORITY; NEXT STUDY IS 03C GLASS ARCHIVE × NEGATIVE SPACE.**
