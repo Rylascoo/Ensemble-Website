@@ -4522,3 +4522,31 @@ Future Surveyor work should use the fixed design in new scenes, relationships, e
 Belle Identity Foundation 02, canonical Costumes 01–05, Pressure Sylph/Rain Glass, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
 
 **DIRECTOR-CONFIRMED SURVEYOR CLOSURE — COSTUME + MATERIAL RESOLVED; PERFORMANCE/CONTEXT LANGUAGE ESTABLISHED; FUTURE WORK USES THE FIXED DESIGN RATHER THAN REDESIGNING IT BY DEFAULT.**
+
+
+## L-264 - Male mascot 03C Archive of Unfinished Histories exploration archived; construction stabilization next
+
+**State:** DIRECTOR-CONFIRMED 03C EXPLORATION PRESERVATION / 24 UNIQUE CHAT RENDERS ARCHIVED / WORLD-ROLE-COSTUME SYNTHESIS PRESERVED AS WORKING BRANCH LANGUAGE / EXACT COSTUME CONSTRUCTION NOT YET FROZEN / IF02 + SPINE FRAME + 01A CONTROL UNCHANGED / NO PRODUCTION OR SITE ADOPTION
+
+Following the L-262 freeze of 01A as the Matrix 02 control, the Director and Design Sol opened the independent high-contrast **03C — Glass Archive × Negative Space** study. Twenty-four unique renders were developed across early Memory Aperture, Ghost Lattice, Echo Frame and Archive Windows studies; more theatrical Parallax/Cathedral/Processional studies; world-role synthesis; Unfinished Frame refinements; expression/gesture/character-in-life stress tests; alignment studies; and sunlight, rain, wind, mist, relational and conversation contexts.
+
+The branch did **not** freeze an early Glass Archive costume. Instead, the Director repeatedly agreed to the stronger meaning-first synthesis now preserved as working branch language:
+- **World — The Archive of Unfinished Histories:** a thriving, maintained, inhabited civilization that intentionally preserves unresolved events, contradictory accounts, abandoned possibilities and meaningful absences rather than falsifying completion.
+- **Role — The Continuity Witness:** preserves relationships among what happened, what changed, what remains unresolved and what can happen next; he does not invent missing truth or become a priest/warrior/ruler archetype.
+- **Costume — The Unfinished Frame:** architectural textile structure remains physically incomplete; literal empty air is a design material; the complete form never physically exists and appears only for a fleeting privileged viewpoint when person, structure, perspective and absence align.
+
+Canonical Drive preservation workspace: **07 03C Glass Archive — Archive of Unfinished Histories — This Chat — 2026-09-23**, `1jf87rjgO8CCVE_jdcLCpZRX2NuzmzvDP`.
+- Full chronological render sequence — `1sxMxxbCaeQ5cNXKlTSbe0WfVKUx9DwaX` — **24 unique PNGs**.
+- Handoff + notes folder — `1GkSkSilfSqsJe-roMSDPTbZQS42CME5l`.
+- Fresh-chat START HERE Google Doc — `11hq1Gr4TzRAOARWv14ue6BGLImFlXfEeJ37sfBEuMB0`.
+- PDF handoff archive — `1Qnn7-C3M2sfvSCvAtXKisl81kegfDpUV`.
+
+Current design findings: the front should remain dark, restrained and human; rear/profile discovery carries the theatrical identity; one huge irregular void plus one dramatically displaced member should become the signature; fewer/larger/stranger elements outrank decorative complexity; pale members must read as woven/stitched/tensioned theatrical textile architecture rather than bone, armor, blades or exoskeleton. Strong behavioral vocabulary is listening -> noticing -> tracing a boundary -> turning -> recognizing -> quietly continuing. Context evidence confirms the role is strongest in relation to other people. Weather should expose different truths about one fixed costume: sunlight tests unaided structure, wind reveals tension/motion, rain reveals material/reflection and mist reveals distance/silhouette.
+
+The exact Unfinished Frame construction is **not yet stable enough to freeze**. Across contextual renders, rear-member number, placement, scale and tension still vary. The next bounded task is therefore construction stabilization: define one exact four-element grammar (interrupted collar/entry clue, dominant displaced upper member, incomplete main arc, subordinate lower counterbalance), preserve one large irregular vertical void, and hold the same geometry across front, side, rear 3/4, rear, walking, wind and conversation/listening while correcting any IF02 person drift. If geometry changes materially between stress contexts, repair construction rather than freezing the branch.
+
+Rejected drift remains rejected: symmetrical halo/ring completion, literal Gothic-cathedral repetition, bone/antler/carved-ivory reading, armor/exoskeleton, fantasy blades, decorative lower tails, pale strip clutter, chest-harness/belt-forest language, glowing technology, wing deployment, ruined-civilization shorthand, solitary fantasy-hero framing, generic adventurer styling, weather-dependent spectacle and automatic inheritance of 01A panel geometry.
+
+Male Mascot Identity Foundation 02 remains person authority. Spine Frame remains the frozen defining conceptual identity. 01A remains the frozen Matrix 02 control. Matrix 02 remains an opportunity map. Belle, Bellweather, Lou, Reference-17, application-design authority, app UI/runtime/product semantics, engineering authority and `site/public/**` remain unchanged.
+
+**DIRECTOR-CONFIRMED 03C PRESERVATION MILESTONE — THE FULL CHAT RENDER SEQUENCE AND FRESH-CHAT HANDOFF ARE ARCHIVED; ARCHIVE OF UNFINISHED HISTORIES / CONTINUITY WITNESS / UNFINISHED FRAME IS PRESERVED AS WORKING BRANCH MEANING; NEXT WORK IS EXACT CONSTRUCTION STABILIZATION, NOT FREEZE OR PRODUCTION PROMOTION.**
