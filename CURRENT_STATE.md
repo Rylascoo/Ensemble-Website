@@ -13,7 +13,7 @@ L-204 remains authority: pre-Bellweather V2.2 is live. `site/public/**` unchange
 ## Active website design lanes
 Bellweather Alternate and its distinct-marketing-identity refinement remain preserved/separate.
 
-Belle: F02; library `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`; C01–04 preserved; **C05 FROZEN** `1GUaSj_Ha_l8TYhuGfpUXX0WSKe5Bjrmo`; 02C Pressure Sylph + 02H Rain Glass frozen exploration branches; Shadow Surveyor **resolved leather exploration reference** `1Lh4BPgV5nruHfhNhaeGyfrp0Z4MOMvhv`; Shadow Rogue paused `1LMI1KK3t3hy5N00U2oudxh18b91dZz96`; no C06+/production/site.
+Belle: F02; library `1FO9Y_ME1eXtqtkL7BuArLipmzhoj-C-Z`; C01–04 preserved; **C05 FROZEN** `1GUaSj_Ha_l8TYhuGfpUXX0WSKe5Bjrmo`; Pressure Sylph + Rain Glass frozen; Shadow Surveyor resolved `1Lh4BPgV5nruHfhNhaeGyfrp0Z4MOMvhv`; Shadow Rogue paused `1LMI1KK3t3hy5N00U2oudxh18b91dZz96`; **Surveyor RESOLVED** `1Jut9HiogbgGDdYfmVD3mw9qcCd33dxIS`, costume/material `1sl2ry-yawvODTYClrX66ohMaDt2X8YbD`, capstone `1K_qtLf5VseeCGCk16y6mZrHLht4U6lUL`, handoff `1yl9fX_Y0GDX0FEkXv-u-8W_zX1f8N7eNk48De-hKi3I`; no C06+/production/site.
 
 Male mascot: IF02 `13Yrh3yiZ3hKFsolaWKb9SrhcXqB8zu6J`; **Spine Frame FROZEN** `1d4BYbInrbN_k790jaXSYtxHUnoNk8VgJ`; Matrix 02 `1Nn0gHB62QCh6IlIZt8U3FIDC05LIg9wm`; **01A Common Realm × Architectural Frame FROZEN control** workspace `12qrbePx614Ki81fvddRwKSiZVyosfpJS`, construction ref `1QYtAyucv8xVdN4Nu9miCc2FTPiQiSXVt`, exact-mark final board `1wA-Dfl8_lEV4-X-oFR4YI7dyWeQ2Jec6`; next matrix study **03C Glass Archive × Negative Space**; no production/site.
 

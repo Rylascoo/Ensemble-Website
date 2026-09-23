@@ -4477,3 +4477,48 @@ Matrix 02 remains an opportunity map. This freeze establishes **01A as the stabl
 No production artwork, `site/public/**` adoption, Reference-17 change, Bellweather/Lou change, Belle change, application-design change, product-semantic change or engineering-authority change is created.
 
 **DIRECTOR-FROZEN — 01A COMMON REALM × ARCHITECTURAL FRAME IS THE MATRIX 02 CONTROL; IF02 + SPINE FRAME REMAIN PARENT AUTHORITY; NEXT STUDY IS 03C GLASS ARCHIVE × NEGATIVE SPACE.**
+
+
+## L-263 - Belle Surveyor resolved successor costume and performance language preserved
+
+**State:** DIRECTOR-CONFIRMED SURVEYOR CLOSURE / SEPARATE SUCCESSOR BRANCH / COSTUME + MATERIAL RESOLVED / PERFORMANCE + CONTEXT LANGUAGE ESTABLISHED / SHADOW SURVEYOR + SHADOW ROGUE PRESERVED SEPARATELY / F02 + COSTUMES 01–05 UNCHANGED / NO COSTUME 06+ / NO PRODUCTION OR SITE ADOPTION
+
+Following L-261, the Director and Design Sol opened a bounded successor refinement rather than reopening the resolved Leather Shadow Surveyor. The new design is named **Surveyor**. It preserves Belle/F02 personhood and observer-first field identity while developing a more sculpted integrated protective torso, explicit material/manufacturing logic, a leather-collar + reduced-scarf neck system, continuous knee-high footwear, purpose-authored tools and a broader performance/context language.
+
+Canonical Drive workspace:
+**10 Surveyor — Resolved Costume & Performance Language — 2026-09-22**, `1Jut9HiogbgGDdYfmVD3mw9qcCd33dxIS`.
+
+Primary authority:
+- **Surveyor — Final Costume + Material Authority — 2026-09-22.png** — `1sl2ry-yawvODTYClrX66ohMaDt2X8YbD`.
+- **Surveyor — Performance + Context Capstone — 2026-09-22.png** — `1K_qtLf5VseeCGCk16y6mZrHLht4U6lUL`.
+- Fresh-chat continuity contract — `1yl9fX_Y0GDX0FEkXv-u-8W_zX1f8N7eNk48De-hKi3I`.
+
+Supporting preserved evidence:
+- Expression Study `1G5NjO_CQzjuTEbcd5clscoW3w6GFatfm`;
+- Gesture + Pose Study `1RNWcjKaCmMg1Zj58yDDEf30UP1oyqmz6`;
+- Tool Use + Social Interaction `1tw691XA1mwO9Akwy-zLkamKlDPixGfEp`;
+- Weather + Radical Context Study `1JRLed5vw9IlzTO-6VULhwEnoAwo__z8p`;
+- five individual continuity stress tests are preserved under Drive folder `1JvX72PMNKdD6i5wdMjAIXtWUlApXmcf4`;
+- the complete bounded refinement genealogy is preserved under `1AqfdSf0Gyzwaw77tkAQ7e2we5wIyJttg`.
+
+Resolved Surveyor construction/material law:
+- Belle remains F02 with mascot-informed adult early-college proportions; no heroic elongation or action-heroine reshaping.
+- Upper torso uses **sculpted molded leather-faced protective architecture** across chest/rib/shoulder zones with a natural waist transition; it is structural rather than corseted or bust-emphasizing.
+- Neck system is a fitted leather protective collar plus a deliberately reduced soft scarf/weather seal.
+- Shoulders/forearms use integrated articulated protection without crossed-harness identity.
+- Knee protection remains separate and articulated.
+- Footwear is one continuous knee-high rugged field boot from foot through calf shaft to flexible cuff below the knee; short-shoe + gaiter/ghost-shaft construction is rejected.
+- Primary shell is matte oil-waxed full-grain nappa/calf leather facing laminated to a high-recovery technical backing; hidden mobility zones, soft moisture-managing lining and heavier abrasion overlays support clean low-wrinkle major surfaces with natural compression only at real articulation points.
+- Primary Surveyor kit remains four purpose-authored tools: Field Folio, Observation Tube, Survey Probe and Repair Module. One or two plausible mystery pieces are permitted; they may not become pouch clutter, belt forest, weapon loadout or tactical/operator identity.
+
+Performance language is established rather than costume-authoring: expressions include neutral, curious/observant, skeptical, concerned, determined, quietly amused, tired-but-composed and quietly pleased; gesture/action evidence includes standing, walking/terrain reading, crouching, kneeling, measuring, reaching, seated rest, weather bracing, listening, maintenance and collaborative examination. Social evidence confirms Surveyor may share findings, listen, compare evidence, collaborate, teach and examine discoveries with others rather than reading only as a solitary adventurer.
+
+Renderer drift in contextual evidence does not acquire authority. Glowing/blue probe effects, magical-looking cave light, underwater palette/equipment shifts, incidental new pouches/straps/canisters, scarf-volume growth, shoulder-geometry drift, altered tool mounting and heavy wrinkling are evidence only unless explicitly selected. When a contextual render disagrees with the primary costume/material board, the primary authority governs construction/material and Belle Identity Foundation 02 governs personhood.
+
+Leather Shadow Surveyor remains resolved separately at `1Lh4BPgV5nruHfhNhaeGyfrp0Z4MOMvhv`; Shadow Rogue remains separate at `1LMI1KK3t3hy5N00U2oudxh18b91dZz96`. Surveyor does not rename or overwrite either branch and is not silently hybridized back into them.
+
+Future Surveyor work should use the fixed design in new scenes, relationships, expressions, gestures, viewpoints, tool use and narratives rather than reopening costume construction by default.
+
+Belle Identity Foundation 02, canonical Costumes 01–05, Pressure Sylph/Rain Glass, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
+
+**DIRECTOR-CONFIRMED SURVEYOR CLOSURE — COSTUME + MATERIAL RESOLVED; PERFORMANCE/CONTEXT LANGUAGE ESTABLISHED; FUTURE WORK USES THE FIXED DESIGN RATHER THAN REDESIGNING IT BY DEFAULT.**
