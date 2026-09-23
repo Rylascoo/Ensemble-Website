@@ -1,49 +1,85 @@
 {
-    "schema":  "kymaean.website.reference17-stage-background-production.v1",
-    "date":  "2026-09-23",
-    "ledger":  "L-266",
-    "authorization":  "Director explicitly requested replacement of www.kymaean.com background image through Ensemble-Website; Cloudflare remains host.",
-    "repository_baseline":  "ac8758e8c2a41f77fad8a483a44c7b773289d6bc",
-    "source":  {
-                   "conversation_file_id":  "file_00000000345c81f58fe2e0d645e8d70e",
-                   "dimensions":  [
-                                      1672,
-                                      941
-                                  ],
-                   "sha256":  "5234c02b0b9d076964b6cec465b253cc37e89bac37328d89d6fd978fefea36fa",
-                   "bytes":  2467967
-               },
-    "production":  {
-                       "path":  "site/public/stage-ref17-successor.webp",
-                       "sha256":  "8e7c0bf3cbbe1f466f77d70d59d4310ff6d5c6a97f9e1741d35bf21a7d18e2a8",
-                       "bytes":  149110,
-                       "dimensions":  [
-                                          1672,
-                                          941
-                                      ],
-                       "encoding":  "WebP quality 92 / Pillow method 6",
-                       "html_preload":  "/stage-ref17-successor.webp?v=1",
-                       "html_scene_src":  "/stage-ref17-successor.webp?v=1"
-                   },
-    "rollback":  {
-                     "path":  "site/public/stage-v2-2.webp",
-                     "preserved":  true
-                 },
-    "unchanged":  [
-                      "site/public/styles.css",
-                      "site/public/atmosphere.css",
-                      "site/public/modes.css",
-                      "site/public/motion.js",
-                      "site/public/social-card.jpg",
-                      "wordmark",
-                      "Coming Soon copy",
-                      "responsive geometry"
-                  ],
-    "cloudflare":  {
-                       "worker":  "kymaean-site",
-                       "deployment_source":  "main",
-                       "assets_directory":  "./public",
-                       "live_host":  "https://www.kymaean.com/",
-                       "verification":  "PENDING_POST_MERGE"
-                   }
+  "schema": "kymaean.website.reference17-stage-background-production.v1",
+  "date": "2026-09-23",
+  "ledger": "L-266",
+  "authorization": "Director explicitly requested replacement of www.kymaean.com background image through Ensemble-Website; Cloudflare remains host.",
+  "repository_baseline": "ac8758e8c2a41f77fad8a483a44c7b773289d6bc",
+  "source": {
+    "conversation_file_id": "file_00000000345c81f58fe2e0d645e8d70e",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "5234c02b0b9d076964b6cec465b253cc37e89bac37328d89d6fd978fefea36fa",
+    "bytes": 2467967
+  },
+  "production": {
+    "path": "site/public/stage-ref17-successor.webp",
+    "sha256": "8e7c0bf3cbbe1f466f77d70d59d4310ff6d5c6a97f9e1741d35bf21a7d18e2a8",
+    "bytes": 149110,
+    "dimensions": [
+      1672,
+      941
+    ],
+    "encoding": "WebP quality 92 / Pillow method 6",
+    "html_preload": "/stage-ref17-successor.webp?v=1",
+    "html_scene_src": "/stage-ref17-successor.webp?v=1"
+  },
+  "rollback": {
+    "path": "site/public/stage-v2-2.webp",
+    "preserved": true
+  },
+  "unchanged": [
+    "site/public/styles.css",
+    "site/public/atmosphere.css",
+    "site/public/modes.css",
+    "site/public/motion.js",
+    "site/public/social-card.jpg",
+    "wordmark",
+    "Coming Soon copy",
+    "responsive geometry"
+  ],
+  "cloudflare": {
+    "worker": "kymaean-site",
+    "deployment_source": "main",
+    "assets_directory": "./public",
+    "live_host": "https://www.kymaean.com/",
+    "verification": "LIVE_PASS",
+    "merge_commit": "5c75c9e1b7c3c13fc2c7769928b141935daacc30",
+    "build_id": "6830e041-50ed-432f-aded-c98ae9cb27c5",
+    "version_id": "979ed0d7-8b20-4c93-b473-baf8c97a2087",
+    "exact_head_checks": {
+      "document_status": "PASS",
+      "repository_publication_boundaries": "PASS",
+      "workers_build": "PASS"
+    }
+  },
+  "live_verification": {
+    "homepage_status": 200,
+    "html_references_new_asset": true,
+    "html_references_old_asset": false,
+    "successor_asset": {
+      "path": "/stage-ref17-successor.webp?v=1",
+      "status": 200,
+      "media_type": "image/webp",
+      "sha256": "8e7c0bf3cbbe1f466f77d70d59d4310ff6d5c6a97f9e1741d35bf21a7d18e2a8",
+      "bytes": 149110,
+      "exact_match": true
+    },
+    "rollback_asset": {
+      "path": "/stage-v2-2.webp",
+      "status": 200,
+      "media_type": "image/webp",
+      "preserved": true
+    }
+  },
+  "closeout": {
+    "ledger": "L-267",
+    "status": "LIVE_PRODUCTION_VERIFIED",
+    "public_surface_changed_only": [
+      "site/public/index.html",
+      "site/public/stage-ref17-successor.webp"
+    ],
+    "all_other_public_surface_unchanged": true
+  }
 }

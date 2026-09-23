@@ -8,7 +8,7 @@ Updated: 2026-09-23
 Website: `Rylascoo/Ensemble-Website`. App design: `Rylascoo/Ensemble-Project/docs/design/app/`. Shared masters: Google Drive `Ensemble Project`. Cross-surface governance: Ryladmin. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`. Q-ADMIN-05: `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`.
 
 ## Production
-L-266 authorizes `site/public/stage-ref17-successor.webp` as the homepage background; `stage-v2-2.webp` remains rollback. No other production surface changes.
+L-267 verifies the Director-authorized `stage-ref17-successor.webp` background is live on `www.kymaean.com`; deployed bytes match the recorded production SHA and `stage-v2-2.webp` remains live rollback. No other public surface changed.
 
 ## Active website design lanes
 Bellweather Alternate and its distinct-marketing-identity refinement remain preserved/separate.
@@ -28,6 +28,6 @@ Home A/B=`UNRESOLVED_APP_DESIGN_DECISION`; FIRSTUSE=`EVIDENCE_PENDING_ADOPTION`;
 ## Maintenance
 TRIGGERcmd deferred.
 
-**Exact next Website action:** validate/merge the background-only PR, then verify Cloudflare-hosted `www.kymaean.com`; keep V2.2 rollback.
+**Exact next Website action:** continue Website design from the live Stage successor; preserve V2.2 rollback and make no further production change without a new Director gate.
 
 **Exact next Q-ADMIN-05 action:** final Ryladmin Q-ADMIN-05 cross-repository authority-graph verification.
