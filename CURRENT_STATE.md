@@ -5,7 +5,7 @@
 Updated: 2026-09-23
 
 ## Authority
-Website: `Rylascoo/Ensemble-Website`. App design: `Rylascoo/Ensemble-Project/docs/design/app/`. Shared masters: Google Drive `Ensemble Project`. Cross-surface governance: Ryladmin. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
+Website: `Rylascoo/Ensemble-Website`. App design: `Rylascoo/Ensemble-Project/docs/design/app/`. Shared masters: Google Drive `Ensemble Project`. Cross-surface governance: Ryladmin. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`. Q-ADMIN-05: `docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`.
 
 ## Production
 L-266 authorizes `site/public/stage-ref17-successor.webp` as the homepage background; `stage-v2-2.webp` remains rollback. No other production surface changes.
