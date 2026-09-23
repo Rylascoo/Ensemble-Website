@@ -4591,3 +4591,19 @@ Do not silently recombine these branches. Future Shadow Dance work, if reopened,
 Belle Identity Foundation 02, canonical Costumes 01–05, Pressure Sylph/Rain Glass, Mantled Cartographer, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
 
 **DIRECTOR-FROZEN — SHADOW DANCE IS PRESERVED AS A DISTINCT LATERAL BELLE CONCEPT WITH ITS OWN MATERIAL-SURFACE LAW; NO COSTUME 06+, PRODUCTION OR SITE ADOPTION CREATED.**
+
+## L-266 - Reference-17 stage background production successor authorized
+
+**State:** DIRECTOR PUBLICATION AUTHORIZATION / HOMEPAGE BACKGROUND-ONLY PRODUCTION SUCCESSOR / PRIOR V2.2 ASSET PRESERVED FOR ROLLBACK / NO LAYOUT-COPY-MASCOT-APP CHANGE
+
+On 2026-09-23 the Director explicitly requested that the attached selected Stage image replace the current www.kymaean.com Website background through Rylascoo/Ensemble-Website, with Cloudflare remaining the host.
+
+Production scope is intentionally narrow. The exact selected 1672 x 941 source image is encoded as site/public/stage-ref17-successor.webp and site/public/index.html changes only its preload and scene-image URLs from stage-v2-2.webp?v=2 to stage-ref17-successor.webp?v=1. No CSS, responsive positioning, wordmark, Coming Soon copy, favicon, social card, motion behavior, mascot, app semantics or other public asset is changed.
+
+Selected source SHA-256: $sourceSha; source bytes: 2467967. Production WebP SHA-256: $webpSha; WebP bytes: 149110; dimensions remain 1672 x 941. The existing site/public/stage-v2-2.webp remains untouched as immediate rollback material.
+
+This explicit Director request supplies the separate publication gate previously required by the Reference-17/Crop-04 program. It does not retroactively promote unrelated Crop-04 diagnostic pixels, alter Reference 17 or Boundary 01, or change Bellweather/Belle/Lou/male-mascot/application-design authority.
+
+The production change must pass exact-head Website publication/document checks and receive post-merge Cloudflare/live-host verification before closeout. The unrelated Q-ADMIN-05 transition-state token drift discovered on current main is repaired in the same branch only to restore the repository's existing deterministic transition contract; no app-design authority changes.
+
+**DIRECTOR-AUTHORIZED PRODUCTION SUCCESSOR — BACKGROUND IMAGE ONLY; VALIDATE, MERGE, VERIFY LIVE, RETAIN V2.2 ROLLBACK.**
