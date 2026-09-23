@@ -4607,3 +4607,31 @@ This explicit Director request supplies the separate publication gate previously
 The production change must pass exact-head Website publication/document checks and receive post-merge Cloudflare/live-host verification before closeout. The unrelated Q-ADMIN-05 transition-state token drift discovered on current main is repaired in the same branch only to restore the repository's existing deterministic transition contract; no app-design authority changes.
 
 **DIRECTOR-AUTHORIZED PRODUCTION SUCCESSOR — BACKGROUND IMAGE ONLY; VALIDATE, MERGE, VERIFY LIVE, RETAIN V2.2 ROLLBACK.**
+
+
+## L-267 - Reference-17 stage background production deployment verified
+
+**State:** LIVE PRODUCTION VERIFIED / EXACT DEPLOYED BYTES MATCH / CLOUDFLARE BUILD PASS / V2.2 ROLLBACK PRESERVED / NO OTHER PUBLIC-SURFACE CHANGE
+
+The L-266 Director-authorized background-only production update merged to `main` at `5c75c9e1b7c3c13fc2c7769928b141935daacc30`. Exact-head Document status and Repository publication-boundary validation passed. Cloudflare Workers build `6830e041-50ed-432f-aded-c98ae9cb27c5` completed successfully with production Version ID `979ed0d7-8b20-4c93-b473-baf8c97a2087`.
+
+Post-merge live verification against `https://www.kymaean.com/` passed:
+- homepage HTTP status: **200**;
+- live HTML references `/stage-ref17-successor.webp?v=1`;
+- live HTML no longer references `/stage-v2-2.webp?v=2`;
+- live successor asset HTTP status: **200**, MIME `image/webp`;
+- live successor asset SHA-256: **`8e7c0bf3cbbe1f466f77d70d59d4310ff6d5c6a97f9e1741d35bf21a7d18e2a8`**;
+- live successor asset bytes: **149110**;
+- preserved rollback asset `/stage-v2-2.webp` remains HTTP **200**, MIME `image/webp`.
+
+The live successor therefore byte-matches the production artifact recorded in `docs/evidence/WEBSITE_REFERENCE17_STAGE_BACKGROUND_PRODUCTION_2026_09_23.json`. CSS, responsive geometry, wordmark, Coming Soon copy, favicon, social card, motion behavior, mascot content and app semantics remain unchanged.
+
+### L-266 prose correction
+
+L-266's human-readable ledger sentence accidentally preserved literal placeholders `$sourceSha` and `$webpSha`. The intended values were already correctly recorded in machine evidence and were the exact bytes used for production:
+- selected source SHA-256: `5234c02b0b9d076964b6cec465b253cc37e89bac37328d89d6fd978fefea36fa`;
+- production WebP SHA-256: `8e7c0bf3cbbe1f466f77d70d59d4310ff6d5c6a97f9e1741d35bf21a7d18e2a8`.
+
+This prose defect did not affect the selected source, encoded asset, PR, validators, Cloudflare build, live deployment or rollback.
+
+**PRODUCTION CLOSEOUT PASS — NEW STAGE BACKGROUND LIVE ON WWW.KYMAEAN.COM; V2.2 ROLLBACK PRESERVED; NO OTHER PUBLIC SURFACE CHANGED.**
