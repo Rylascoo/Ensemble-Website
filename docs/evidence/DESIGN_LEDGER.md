@@ -4408,3 +4408,35 @@ Do not silently reintroduce crossed chest harnesses, decorative straps, belt for
 Belle Identity Foundation 02, canonical Costumes 01–05, prior dedicated Belle branches, frozen Pressure Sylph/Rain Glass, Mantled Cartographer, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
 
 **DIRECTOR-CONFIRMED PRESERVATION / RETURN DECISION — SHADOW ROGUE IS ARCHIVED AS A PAUSED LATERAL VARIANT; ACTIVE SHADOW SURVEYOR WORK RETURNS TO THE EARLIER LEATHER CONTROL AT DRIVE `1Xtpu8dp2QP30d8UqvRt0aNKCxb5AGPEr`; NO COSTUME 06+, PRODUCTION OR SITE ADOPTION CREATED.**
+
+
+## L-261 - Belle leather Shadow Surveyor resolved exploration reference preserved
+
+**State:** DIRECTOR-CONFIRMED RESOLVED EXPLORATION REFERENCE / COSTUME CONTROL + ROBUSTNESS + GEAR + FOOTWEAR AUTHORITY PRESERVED / SHADOW ROGUE REMAINS SEPARATE / F02 + COSTUMES 01–05 UNCHANGED / NO COSTUME 06+ PROMOTION / PRODUCTION UNCHANGED
+
+Following L-260, the Director resumed the earlier leather Shadow Surveyor direction and completed bounded refinement around costume restraint, functional gear authorship, robustness in use and knee-high field footwear. The branch is now sufficiently resolved to stop costume redesign and preserve a multi-artifact reference set.
+
+Canonical resolved workspace:
+**09 Leather Shadow Surveyor — Resolved Exploration Reference — 2026-09-22**, Drive `1Lh4BPgV5nruHfhNhaeGyfrp0Z4MOMvhv`.
+
+Authority/evidence split:
+- **Costume / construction control** — `1JRaFcmfkTYqe5pX3gCJ6JMvIouTVVyXK`: overall silhouette, F02-compatible Belle proportions and long-hair presentation, fitted torso architecture, shoulder scale, bracers, knee protection, compact cowl, restrained gear density and dark brown/charcoal material hierarchy.
+- **Robustness / equipment-use evidence** — `1WEUYf7chUTEWW355jr7nIr2IdpUoDWif`: observe, travel, study/record, measure and repair behaviors; contextual renderer variation does not redefine construction.
+- **Functional gear taxonomy evidence** — `1uvA3ZSb4lXnlWCQyjNDHx1UvxPtG0QFd`: field folio, observation/measuring canister, survey probe and repair module. Their functions outrank incidental generated geometry.
+- **Knee-high boot correction study** — `1nwRHQwzmSwaFE7bLFqyvqO27sA_7s25M`.
+- **Footwear authority + robustness board** — `1aADjMyD0Lh6g9wAznDLv4uwhFceWuqER`: knee-high rugged leather field boot with continuous shaft terminating immediately below the knee, reinforced flexible upper cuff, separate articulated knee protection, no separate armored-greave identity, minimal buckling and quiet durable sole.
+- Fresh-chat handoff — `1cwgR-rMW3guklOEjffmxwVaHvXCSRU2xhWIP_OvEoCc`.
+
+Resolved identity: **quiet protected surveyor**. Governing hierarchy: **observation → protection → endurance → concealment**. Belle reads observer first, equipped second. Protection comes through integrated leather construction rather than armor spectacle; stealth comes through quiet construction rather than assassin shorthand; equipment remains restrained, purpose-specific and distributed.
+
+Preserve the close movement-friendly silhouette, coherent torso/leg fieldwear construction, integrated leather protection, long natural Belle hair, compact cowl, shoulder/forearm/knee protection, knee-high field boots, restrained waist architecture, purpose-specific survey equipment and dark earth-toned material family.
+
+Rejected drift remains rejected: generic assassin/rogue shorthand, crossed chest harnesses, decorative straps, belt forests, large hanging pouches, tactical/operator styling, heavy fantasy armor, generic RPG-scout excess, long coat/cloak identity, ragged survivor styling, theatrical scarf tails, dominant etched/network decoration, cinematic action-heroine proportions and short-boot + shin-armor ambiguity.
+
+Shadow Rogue remains a separate paused lateral branch at Drive `1LMI1KK3t3hy5N00U2oudxh18b91dZz96`; do not hybridize it into the resolved leather branch by default.
+
+The leather Shadow Surveyor branch should not re-enter broad costume iteration without a specific new reason. Lawful future work is bounded to reproducibility, neutral-context stress testing, construction clarification, equipment-use consistency, material/manufacturing logic or an explicit Director-requested design change.
+
+Belle Identity Foundation 02, canonical Costumes 01–05, prior focused Belle branches, frozen Pressure Sylph/Rain Glass, Mantled Cartographer, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
+
+**DIRECTOR-CONFIRMED RESOLUTION — LEATHER SHADOW SURVEYOR IS PRESERVED AS A RESOLVED EXPLORATION REFERENCE SET; SHADOW ROGUE REMAINS SEPARATE; NO COSTUME 06+, PRODUCTION OR SITE ADOPTION CREATED.**
