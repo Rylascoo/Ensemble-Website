@@ -8,7 +8,7 @@ Updated: 2026-09-23
 Website: `Rylascoo/Ensemble-Website`. App design: `Rylascoo/Ensemble-Project/docs/design/app/`. Shared masters: Google Drive `Ensemble Project`. Cross-surface governance: Ryladmin. Bootstrap: `AGENTS.md`; workflow: `docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`; ledger: `docs/evidence/DESIGN_LEDGER.md`.
 
 ## Production
-L-204 remains authority: pre-Bellweather V2.2 is live. `site/public/**` unchanged; no new production candidate.
+L-266 authorizes `site/public/stage-ref17-successor.webp` as the homepage background; `stage-v2-2.webp` remains rollback. No other production surface changes.
 
 ## Active website design lanes
 Bellweather Alternate and its distinct-marketing-identity refinement remain preserved/separate.
@@ -23,11 +23,11 @@ Reference 17 fixed: `1tg8i9-d_Sl8uVmLTQGXKFFnxoRD8aTit`; 1672×941 RGBA; SHA-256
 Website metaphor creates no app semantics. Engineering truth remains in Project.
 
 ## Q-ADMIN-05
-Website app-design source relinquished / historical provenance retained; Project accepted 22-bundle/203-identity graph + 34 decisions; global closure awaits Ryladmin verification.
+Home A/B=`UNRESOLVED_APP_DESIGN_DECISION`; FIRSTUSE=`EVIDENCE_PENDING_ADOPTION`; final Ryladmin Q-ADMIN-05 cross-repository authority-graph verification remains pending.
 
 ## Maintenance
 TRIGGERcmd deferred.
 
-**Exact next Website action:** Director + Design Sol review the exact Crop-04 full-scene diagnostic at website scale; do not regenerate/promote it, alter Reference 17/Boundary 01, or touch `site/public/**` before disposition.
+**Exact next Website action:** validate/merge the background-only PR, then verify Cloudflare-hosted `www.kymaean.com`; keep V2.2 rollback.
 
-**Exact next Q-ADMIN-05 action:** final Ryladmin authority-graph verification.
+**Exact next Q-ADMIN-05 action:** final Ryladmin Q-ADMIN-05 cross-repository authority-graph verification.
