@@ -4550,3 +4550,44 @@ Rejected drift remains rejected: symmetrical halo/ring completion, literal Gothi
 Male Mascot Identity Foundation 02 remains person authority. Spine Frame remains the frozen defining conceptual identity. 01A remains the frozen Matrix 02 control. Matrix 02 remains an opportunity map. Belle, Bellweather, Lou, Reference-17, application-design authority, app UI/runtime/product semantics, engineering authority and `site/public/**` remain unchanged.
 
 **DIRECTOR-CONFIRMED 03C PRESERVATION MILESTONE — THE FULL CHAT RENDER SEQUENCE AND FRESH-CHAT HANDOFF ARE ARCHIVED; ARCHIVE OF UNFINISHED HISTORIES / CONTINUITY WITNESS / UNFINISHED FRAME IS PRESERVED AS WORKING BRANCH MEANING; NEXT WORK IS EXACT CONSTRUCTION STABILIZATION, NOT FREEZE OR PRODUCTION PROMOTION.**
+
+## L-265 - Belle Shadow Dance frozen lateral concept preserved
+
+**State:** DIRECTOR-FROZEN LATERAL CONCEPT / MATERIAL-SURFACE INTERPRETATION PRESERVED / F02 PERSON AUTHORITY UNCHANGED / SHADOW SURVEYOR + SHADOW ROGUE + SURVEYOR PRESERVED SEPARATELY / NO COSTUME 06+ / NO PRODUCTION OR SITE ADOPTION
+
+Following the preserved Shadow Rogue exploration and later Surveyor/Shadow Surveyor separation, the Director froze the current interpretive material-surface concept under the distinct name **Shadow Dance** rather than allowing it to collapse back into either Shadow Rogue or Shadow Surveyor.
+
+Canonical Drive workspace:
+**09 Shadow Dance — Frozen Lateral Concept — 2026-09-23**, `1eMbRLsSq4EgYSYztHNUx9OSHoF_a6frP`.
+
+Preserved authority/evidence:
+- **Frozen concept archive** — `1oPwsTW7i5CjPBWIwCt4j-rrRe4Bc8BF6`.
+- **Proportion-aligned Shadow Rogue reference** — `1_R_EnAq21Zkxi0_qQlh1ffnT7EP3LHfT`.
+- **Refined Shadow Rogue validation board** — `1P02XTwn12fIrI1ZDg8n7zCkHSes4GxjF`.
+- **Preferred Shadow Rogue mascot reference** — `1MiXLJFqD-zIlAWMKsI8lIFYroMKqUFPD`.
+- Seven preserved material studies under supporting folder `1DLkXycMDtRYYkvvFAHIY8CXrGJMlKlHf`: directional nap/reverse sheen, tonal woven micro-pattern, soot/ink wash, natural leather variation, hidden geometric embossing, shadow bloom and wear-memory.
+- Fresh-chat handoff — `1Ri5p0a3Dng8NxdTOa0W6H04slqMuLWNIeQ18L5DPjYo`.
+
+Shadow Dance remains subordinate to **Belle Identity Foundation 02** person authority and preserves mascot-informed Belle proportions. Governing hierarchy is **concealment → mobility → discretion → survival**.
+
+Frozen concept law:
+- real clothing at the structural level; shadow at the perceptual level;
+- low-signal silhouette and disappearing architecture;
+- distinct quiet knee-height boots rather than thigh-high, combat, fantasy or fashion-glamour footwear;
+- near-black material hierarchy whose differences emerge primarily through grain, nap direction, reflectance, movement and wear rather than visible color contrast or printed camouflage;
+- preferred base is matte nappa / natural leather variation with brushed nubuck/suede, directional nap/reverse sheen, extremely restrained soot-wash or shadow-bloom behavior, localized wear-memory and tonal micro-weave only in articulation zones;
+- at distance the costume should read almost plain black; at conversational distance subtle grain and reflectance appear; up close seams, weave, nap direction, wear and material transitions become visible;
+- visible gear remains minimal, and the branch must remain human, grounded and Belle-specific rather than assassin, operator, superhero or action-heroine shorthand.
+
+Rejected drift: obvious repeating camouflage, high-contrast painterly pattern, global decorative embossing, hard polished leather, tactical nylon/operator styling, glossy catsuit surfaces, ornamental seam spectacle, belt forests, armor read and body-sculpting that overrides Belle's mascot proportions.
+
+Relationship to related branches remains explicit:
+- **Shadow Surveyor / Surveyor** reveal capability through organized observation/protection/endurance construction.
+- **Shadow Rogue** conceals capability through reduction.
+- **Shadow Dance** is the frozen lateral material-perception interpretation in which concealment is expressed through surfaces that merge at distance, change under movement/light and reveal lived history only up close.
+
+Do not silently recombine these branches. Future Shadow Dance work, if reopened, is bounded to material/silhouette refinement against the frozen concept control unless the Director explicitly requests conceptual redesign.
+
+Belle Identity Foundation 02, canonical Costumes 01–05, Pressure Sylph/Rain Glass, Mantled Cartographer, Reference-17, Bellweather, Lou, application-design authority, app UI/runtime/product semantics and `site/public/**` remain unchanged.
+
+**DIRECTOR-FROZEN — SHADOW DANCE IS PRESERVED AS A DISTINCT LATERAL BELLE CONCEPT WITH ITS OWN MATERIAL-SURFACE LAW; NO COSTUME 06+, PRODUCTION OR SITE ADOPTION CREATED.**
