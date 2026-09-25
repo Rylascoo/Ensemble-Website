@@ -1,6 +1,6 @@
 {
   "name": "kymaean-site",
-  "version": "0.0.0-placeholder",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "wrangler dev",
