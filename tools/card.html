@@ -1,0 +1,33 @@
+<!doctype html>
+<!-- Social card template. Not deployed. Render at 1200x630 with reduced motion, from the repo root:
+     python -m http.server 8799   then screenshot http://127.0.0.1:8799/tools/card.html
+     Save as site/public/social-card.jpg, then run: node tools/site.mjs stamp -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Kymaean social card</title>
+  <link rel="stylesheet" href="../site/public/assets/css/site.css">
+  <style>
+    @font-face { font-family: "Josefin Sans"; src: url("../site/public/assets/fonts/josefin-sans-latin-300-normal.woff2") format("woff2"); font-weight: 300; }
+    html, body { width: 1200px; height: 630px; }
+    .frame { --w: 1200px; --h: calc(1200px * var(--ra)); --wn: 470px; top: -12px; left: 0; }
+    .release { top: calc(var(--crown) - 2.2em); font-size: 19px; }
+    .name { animation: none; }
+  </style>
+</head>
+<body class="lit">
+  <div class="scene" aria-hidden="true"><div class="frame">
+    <img class="scene-art" src="../site/public/assets/img/stage.webp" width="1672" height="941" alt="">
+  </div></div>
+  <main class="bill"><div class="frame">
+    <h1 class="name" id="name"></h1>
+    <p class="release">In Rehearsal</p>
+  </div></main>
+  <script>
+    fetch("../site/public/index.html").then((r) => r.text()).then((html) => {
+      const svg = new DOMParser().parseFromString(html, "text/html").querySelector(".wordmark");
+      document.getElementById("name").append(svg);
+    });
+  </script>
+</body>
+</html>

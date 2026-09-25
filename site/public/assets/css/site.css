@@ -1,0 +1,170 @@
+/* Kymaean — site.css
+   The page is one stage. Everything is positioned in the stage image's own coordinates,
+   so the name always stands on the floor and the release line always hangs over the arch. */
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("/assets/fonts/josefin-sans-latin-300-normal.woff2?v=c42b4374") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@property --l { syntax: "<percentage>"; inherits: false; initial-value: 0%; }
+@property --r { syntax: "<percentage>"; inherits: false; initial-value: 0%; }
+
+:root {
+  color-scheme: dark;
+  --void: #000;        /* the stage image's own edge colour */
+  --ink: #ddd5c7;      /* wordmark */
+  --ink-2: #c4bbad;    /* release line */
+  --ar: 1.77683;       /* 1672 / 941 */
+  --ra: .56280;        /* 941 / 1672 */
+  --floor: 63.2%;      /* where the name stands, as a fraction of image height */
+  --crown: 14%;        /* top of the arch */
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: var(--void); color: var(--ink); }
+body {
+  overflow: hidden;
+  font-family: "Josefin Sans", ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.sr-only {
+  position: absolute; width: 1px; height: 1px; margin: -1px; overflow: hidden;
+  clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+}
+
+/* The frame has the image's exact aspect ratio and covers the viewport (like object-fit: cover,
+   anchored at 49% vertically). Both layers use it, so percentages mean "this spot on the stage". */
+.scene, .bill, .house { position: fixed; inset: 0; overflow: hidden; }
+.scene, .house { pointer-events: none; }
+.frame {
+  position: absolute;
+  --w: max(100vw, calc(100svh * var(--ar)));
+  --h: max(100svh, calc(100vw * var(--ra)));
+  --wn: clamp(16rem, calc(var(--w) * .29), 44rem); /* width of the name */
+  width: var(--w);
+  height: var(--h);
+  left: calc((100vw - var(--w)) / 2);
+  top: calc((100svh - var(--h)) * .49);
+}
+.scene-art { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+
+.name {
+  position: absolute;
+  left: 50%;
+  top: var(--floor);
+  width: var(--wn);
+  margin: 0;
+  transform: translateX(-50%);
+}
+.wordmark { display: block; width: 100%; height: auto; color: var(--ink); overflow: visible; }
+
+.release {
+  position: absolute;
+  left: 50%;
+  /* just above the arch crown, but never above the top of the viewport */
+  top: max(calc(var(--crown) - 2.4em - 1.6vmin), calc((var(--h) - 100svh) * .49 + 1.25rem));
+  margin: 0;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  font-size: clamp(.78rem, .6rem + .5vw, 1.2rem);
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: .44em;
+  padding-left: .44em; /* re-centre text whose tracking trails to the right */
+  text-transform: uppercase;
+  color: var(--ink-2);
+}
+
+/* House lights: the one choreographed moment. A black layer over the whole page opens at the
+   amber lamp, then the blue one, then the room; the release line is simply revealed by the light,
+   and the name arrives on the floor as the room comes up.
+   Plays once per browser session. Any key, click, scroll or touch skips to the end. */
+.houselights {
+  position: absolute;
+  inset: 0;
+  background: #000;
+  -webkit-mask:
+    radial-gradient(circle farthest-corner at 3% 10%, transparent var(--l), #000 calc(var(--l) + 16%)),
+    radial-gradient(circle farthest-corner at 97% 10%, transparent var(--r), #000 calc(var(--r) + 16%));
+  -webkit-mask-composite: source-in;
+  mask:
+    radial-gradient(circle farthest-corner at 3% 10%, transparent var(--l), #000 calc(var(--l) + 16%)),
+    radial-gradient(circle farthest-corner at 97% 10%, transparent var(--r), #000 calc(var(--r) + 16%));
+  mask-composite: intersect;
+  animation: houselights 2.2s cubic-bezier(.33, .08, .2, 1) .1s both;
+}
+@keyframes houselights {
+  0%   { --l: 0%;  --r: 0%;  opacity: 1; }
+  10%  { --l: 0%;  --r: 0%; }
+  48%  { --l: 30%; --r: 6%; }
+  72%  { --l: 44%; --r: 34%; opacity: 1; }
+  100% { --l: 70%; --r: 70%; opacity: 0; }
+}
+.name { animation: appear 1.1s cubic-bezier(.2, .65, .2, 1) 1.5s both; }
+@keyframes appear { from { opacity: 0; translate: 0 3px; } to { opacity: 1; translate: 0 0; } }
+
+.lit .house { display: none; }
+.lit .name { animation: none; }
+
+/* Portrait: the whole stage stays in view, centred slightly low, with the dark house around it. */
+@media (orientation: portrait) {
+  .frame {
+    --w: 190vw;
+    --h: calc(var(--w) * var(--ra));
+    --wn: min(76vw, 30rem);
+    top: calc((100svh - var(--h)) * .6);
+  }
+  .scene-art {
+    -webkit-mask: linear-gradient(#0000 0, #000 11%, #000 88%, #0000 100%);
+    mask: linear-gradient(#0000 0, #000 11%, #000 88%, #0000 100%);
+  }
+  .release { top: auto; bottom: calc(100% - var(--crown) + 2.2rem); }
+}
+@media (orientation: portrait) and (min-width: 700px) {
+  .frame { --w: 165vw; --wn: min(60vw, 34rem); }
+}
+
+/* Short landscape (a phone on its side): the field above the arch is too shallow,
+   so the line moves under the name and the floor reflection is dropped. */
+@media (orientation: landscape) and (max-height: 560px) {
+  .release { top: calc(var(--floor) + var(--wn) * .165 + .6rem); }
+  .reflection { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .house { display: none; }
+  .name { animation: none; }
+}
+
+@media (forced-colors: active) {
+  .scene, .house { display: none; }
+  .wordmark, .release { color: CanvasText; }
+}
+
+/* 404 */
+.is-404 .scene-art { opacity: .35; }
+.notice {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 1.4rem;
+  padding: 2rem;
+  text-align: center;
+}
+.notice .mark { width: 3.2rem; height: auto; color: var(--ink); }
+.notice h1 { margin: 0; font-size: clamp(1.35rem, 1rem + 1.2vw, 2rem); font-weight: 300; letter-spacing: .02em; }
+.notice p { margin: 0; color: var(--ink-2); font-size: 1rem; }
+.notice a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: .3em;
+  text-decoration-thickness: 1px;
+}
+.notice a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; border-radius: 2px; }

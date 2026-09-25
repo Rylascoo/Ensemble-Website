@@ -1,63 +1,64 @@
-<!-- D-R1-STATUS: ACTIVE LAW -->
+# Kymaean website
 
-# Ensemble Website
+Source for **[www.kymaean.com](https://www.kymaean.com)**, the public website of Kymaean.
 
-Website, public-brand and Website-specific visual-design authority for **Kymaean**, the public identity of the product developed in `Rylascoo/Ensemble-Project`.
+## Status
 
-Current application-design authority lives in `Rylascoo/Ensemble-Project/docs/design/app/**`. Website app-design material is retained as historical source/provenance under [`docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md`](docs/Q_ADMIN_05_APP_DESIGN_AUTHORITY_TRANSITION_2026_09_20.md), not as a second active authority.
+The site is a single teaser page: the Kymaean name standing on a dark stage, under the release
+line **In Rehearsal**. Nothing about the product is disclosed until the app ships. See
+[`docs/LAUNCH.md`](docs/LAUNCH.md) for the launch site that replaces it.
 
-## Fresh-chat bootstrap
+## Where things live
 
-Before substantive brand, visual, asset, motion or website work:
+| Place | Owns |
+|---|---|
+| This repository | Website design, implementation and website-specific history |
+| [`Rylascoo/Ensemble-Project`](https://github.com/Rylascoo/Ensemble-Project) | The product: architecture, app design, implementation, tests |
+| Google Drive, `Ensemble Project` | Canonical visual and creative masters |
 
-1. Read [`CURRENT_STATE.md`](CURRENT_STATE.md) first. It is the repository's only volatile phase/current-boundary authority.
-2. Read [`AGENTS.md`](AGENTS.md) for durable repository workflow and structural safeguards.
-3. Route application-design work to live Project `docs/design/app/**`; continue only Website-specific design here.
-4. Read [`docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md`](docs/KYMAEAN_VISUAL_DESIGN_WORKFLOW_AUTHORITY_01.md) for recursive-audit and earned-approval law.
-5. Read [`docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md`](docs/PROJECT_REASONING_TASK_SCOPE_OPTIMIZATION_PROTOCOL.md) for Sol High task-scope and Astra/Codex allocation.
-6. Read [`docs/evidence/DESIGN_LEDGER.md`](docs/evidence/DESIGN_LEDGER.md) before reopening or repeating prior Website design questions; transferred app entries are provenance here.
-7. Read the active handoff/evidence named by `CURRENT_STATE.md`.
-8. Use [`docs/DESIGN_CONTINUITY.md`](docs/DESIGN_CONTINUITY.md) for durable Website design law and lineage; historical phase/status statements inside it do not override `CURRENT_STATE.md`.
-9. Read `Rylascoo/Ensemble-Project/CURRENT_STATE.md` when exact current product/engineering truth matters, and Project `docs/design/app/AUTHORITY.md` for application design.
-10. Treat Google Drive **Ensemble Project** as the visual-master/provenance workspace; genuinely cross-surface governance routes to Ryladmin.
+Product facts on the website come from `Ensemble-Project`; they are never re-authored here.
 
-Do not reconstruct current authority from old handoffs, branch names, historical approval records, attractive recent work or chat summaries.
+## Layout
 
-## Repository map
+```
+site/            the Cloudflare Worker (the only thing that deploys)
+  public/        static files served as-is
+  wrangler.jsonc Worker configuration
+brand/           master logo files (SVG) and brand usage notes
+docs/            design system, launch plan, decision log
+tools/site.mjs   stamps asset hashes and checks the site (no dependencies)
+tools/card.html  template for the social sharing image
+```
 
-This repository uses one authoritative history on `main` with explicit directory boundaries:
+## Working on the site
 
-- **`site/` — deployable website data plane.** This is the only repository subtree that may become the Cloudflare Workers project root or contain production website source/configuration.
-- **`intelligence/` — non-public website/design control plane.** It maps design intelligence, repository governance and cross-repository authority. Product/backend implementation authority remains in `Rylascoo/Ensemble-Project`; do not duplicate that backend here.
-- **`updates/` — non-deployable website change/release plane.** Change packets, release notes and deployment records belong here; executable website source still belongs in `site/`.
-- **`docs/` — existing design law, methods, handoffs, evaluations and evidence.** It stays in place to preserve the established evidence/link graph.
-- **`tools/` — repository validation and design tooling.** Never deployment source by implication.
-- **`prototypes/` — experimental/renderable research evidence.** Never production source by implication.
-- **`assets/` — repository asset storage.** Assets become deployable only when deliberately copied/processed into the self-contained `site/` project.
+```sh
+node tools/site.mjs stamp   # after changing any file in site/public: refresh ?v= hashes + CSP
+node tools/site.mjs check   # verify links, hashes, CSP, size budget, retired terms
+cd site && npx wrangler dev # local preview at http://localhost:8787
+```
 
-## Cloudflare publication contract
+Anything referenced as `/assets/...?v=<hash>` is cached by browsers for a year, so never edit an
+asset without running `stamp`. CI runs `check` on every push and pull request.
 
-For a future Cloudflare Workers Builds connection, use the authoritative `main` branch and set the Worker **root directory to `site/`**. Restrict build watch paths to `site/**` when the Cloudflare project supports that setting. Any future `wrangler.toml`, `wrangler.json`, or `wrangler.jsonc` for the public website belongs under `site/`, not at repository root.
+## Deployment
 
-`site/` must remain self-contained for deployment: production source/configuration may not depend on `../docs`, `../prototypes`, `../assets`, `../intelligence`, `../updates`, or `../tools`. Required publishable assets should be explicitly promoted into the site project or generated by its own build.
+Cloudflare Workers Builds watches this repository (Worker `kymaean-site`, root directory `site/`).
 
-There is currently no authorized deployable website source or Wrangler configuration under `site/`; repository organization does not itself deploy or select a production implementation.
+- A push to **`main`** deploys to production (`www.kymaean.com`).
+- A push to **any other branch** uploads a preview version; its URL appears on the pull request.
 
-A permanent `site` branch is **not** the publication boundary and must not be treated as current authority. Website implementation branches should branch from current `main`, use a scoped name such as `site/<work-package>`, and merge back to `main` after validation. Cloudflare isolation is provided by the `site/` root directory, not by maintaining a divergent branch.
+Work happens on a branch and merges to `main` only after the preview has been reviewed and the
+Director has approved the change. The bare domain `kymaean.com` redirects to `www` through a
+Cloudflare redirect rule; mail DNS records are not managed here and must not be touched.
 
-## Working discipline
+## History
 
-GPT-5.6 Sol High is the primary reasoning, repository-work, design-governance, recursive-audit and continuity surface. Astra/Codex is a scarce external specialist reserved for tightly bounded work where its local/batch or otherwise unavailable environment materially adds evidence.
+Everything before the 2026-09-24 renovation is preserved in Git:
 
-Within the website/brand/design lane, a clean recursive audit earns the gate under standing Director delegation. Consequential product/engineering/outside-lane authority remains separate.
+- `archive/pre-renovation-2026-09-24`: the repository exactly as it was (commit `43801c0b`).
+- `archive/branch/<name>`: the exact tip of every retired branch, with its status in the tag message.
+- `archive/...` (127 older tags): earlier checkpoints, kept unchanged.
 
-## Repository boundary
-
-- **This repository:** Website design/brand usage authority, website specifications/source, Website prototypes, repository assets, evidence and continuity; historical app-design provenance is non-current.
-- **Google Drive — Ensemble Project:** visual masters, identity/artwork exploration, mockups, motion studies and provenance.
-- **`Rylascoo/Ensemble-Project`:** current application-design plus product/engineering/backend authority; read-only from the Website lane unless explicitly authorized otherwise.
-- **Ryladmin:** genuinely cross-surface motion and general brand-use governance.
-
-D-R1 restructuring is complete. Do not mass-move `docs/`, `prototypes/`, `assets/` or `tools/` merely to make the root look cleaner; use the explicit front-door namespaces above and preserve the existing evidence graph unless a separately audited migration proves worthwhile.
-
-The public website is an explorable introduction to Kymaean and an acquisition path to the native Windows product; it is not assumed to host or replace the application in the browser.
+All content in this repository is © Kymaean, all rights reserved, except the Josefin Sans font,
+which is licensed under the SIL Open Font License (see `site/public/assets/fonts/`).
