@@ -12,7 +12,7 @@ what it is — a release notice.
 | Element | Source | Notes |
 |---|---|---|
 | Threshold K | `brand/threshold-k-*.svg` | Symbol and first letter of the wordmark. |
-| Wordmark | `brand/kymaean-wordmark-*.svg` | Custom monoline letters, `KYMÆAN`. Geometry is final. |
+| Wordmark | `brand/kymaean-wordmark-*.svg` | "Kymaean hand", cut letters. Generated; see Lettering. |
 | Stage | `site/public/assets/img/stage.webp` | 1672×941. See provenance below. |
 
 Stage provenance: encoded from a 1672×941 PNG, SHA-256 `5234c02b0b9d076964b6cec465b253cc37e89bac37328d89d6fd978fefea36fa`
@@ -28,9 +28,32 @@ master is being located; when found it goes to Drive and a new WebP is encoded f
 | `--ink` | `#ddd5c7` | Wordmark and primary text. Warm ivory, lit by the amber lamp. |
 | `--ink-2` | `#c4bbad` | Release line and secondary text. 11.1:1 on black; 9.7:1 on the stage floor. |
 
-Type: **Josefin Sans 300** (SIL OFL), self-hosted. Chosen because it shares the wordmark's
-monoline stroke and pointed apexes, so the release line reads as part of the same identity.
-Release line: uppercase, tracking 0.44em, `clamp(.78rem, .6rem + .5vw, 1.2rem)`.
+## Lettering
+
+**Everything is cut, nothing is drawn.** The name and the release line are lettering, not type.
+They come from `brand/wordmark/kymaean_wordmark.py`:
+
+- **Source.** Letter habits of the alphabet that reached Italy through Kyme: a splayed M, a leaning
+  N, crossbars that share one slope. Kyme shapes the construction, never the ornament: no Greek
+  letters, keys, columns or inscription pastiche.
+- **Construction.** Each stroke is a chisel cut that widens slightly toward its outer ends; joints
+  keep plain width and close with a bevel; ends on the cap or base line are cut flush; horizontals
+  are lighter so every stroke reads equal. Every letter in KYMÆAN is a straight stroke, which is why
+  the name can be cut this way.
+- **Spacing.** Optical: each pair's row-by-row whitespace is solved to the same target.
+- **Release line.** Same hand, heavier stroke because it is set small; ships as
+  `assets/img/release.svg` so it is the page's first contentful image.
+
+**The mark system.** The Threshold K alone is the app icon and favicon (solid; it holds down to
+16 px). Beside the name it appears only in the stacked lockup, preferably cut as an outline so it
+rhymes with the letters (`brand/kymaean-lockup-stacked-cut-*.svg`). Never set the K immediately
+before the name: it reads "K KYMÆAN".
+
+**Two lights** (amber and blue) is an expression for large moments only. It fails below about
+150 px, where the colours blur, so the everyday name is always one colour.
+
+Type: the homepage loads no font. **Josefin Sans 300** (SIL OFL) is used only for sentences, such as
+the 404 page.
 
 ## Composition
 
@@ -70,5 +93,5 @@ Release notices, not marketing. Short, declarative, theatrical vocabulary used l
 no description of the product before launch.
 
 Alternatives to "In Rehearsal" considered: Coming Soon (previous), Opening Soon, Curtain Soon.
-Changing it means editing `index.html` (visible text, `<title>`, descriptions), `tools/card.html`
-and re-rendering the social card.
+Changing it means editing the release skeletons in the generator, the text in `index.html`
+(screen-reader text, `<title>`, descriptions), and re-rendering the social card.

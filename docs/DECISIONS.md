@@ -2,6 +2,29 @@
 
 Newest first. Each entry: what was decided, by whom, and why.
 
+## 2026-09-25 — Wordmark 02: Kymaean hand
+
+- **Decision (Director).** The name is set in "Kymaean hand": cut lettering derived from the letter
+  habits of the alphabet that passed through Kyme, built on the principle "everything is cut,
+  nothing is drawn". Chosen over 12 other constructions across three rounds (boards preserved
+  outside the repository); it was the only candidate that is both unmistakable and legible from
+  480 px down to 90 px wide on the live stage.
+- **System.** The Threshold K stays the mark: alone as the app icon and favicon (solid); beside the
+  name only in the stacked lockup, preferably as a cut outline. The K is never set directly before the
+  name. Two lights (amber and blue) is reserved for large moments; it blurs below about 150 px.
+- **Release line.** Redrawn in the same hand. The homepage now loads no font (−12 KB), and the release
+  line ships as an image so desktop keeps a largest-contentful-paint candidate. In high-contrast mode
+  the drawn line gives way to real text in the system colours.
+- **Source of truth.** `brand/wordmark/kymaean_wordmark.py`: geometry is generated with shapely
+  (Linux, CI) into `geometry.json`; assembly into brand files and `index.html` has no dependencies.
+  CI regenerates and fails on any difference.
+- **Name check (first pass, not legal clearance).** No registered "Kymaean" mark found. Nearest:
+  Kyma (sound-design software) and a pending "Kymabridge" (pharma SaaS). "Kymaean" was also the stock
+  fool of the ancient joke book *Philogelos*. A proper trademark search is needed before launch.
+- **Secrecy finding.** Searching "Kymaean" returns this repository's history and the public
+  Ensemble-Project repository (Windows ARM64 app, `Kymaean.*` code names, pull requests). The codename
+  does not hide the product. Flagged to the Director; no change made here.
+
 ## 2026-09-24 — Archival branch cleanup (one-time exception)
 
 - **Authority.** One-time exception authorized by the Director, agreed with the Project side.
