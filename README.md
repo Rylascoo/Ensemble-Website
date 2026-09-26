@@ -25,6 +25,7 @@ site/            the Cloudflare Worker (the only thing that deploys)
   public/        static files served as-is
   wrangler.jsonc Worker configuration
 brand/           master logo files (SVG) and brand usage notes
+  wordmark/      the lettering generator and its geometry (source of the name on the site)
 docs/            design system, launch plan, decision log
 tools/site.mjs   stamps asset hashes and checks the site (no dependencies)
 tools/card.html  template for the social sharing image
@@ -35,6 +36,7 @@ tools/card.html  template for the social sharing image
 ```sh
 node tools/site.mjs stamp   # after changing any file in site/public: refresh ?v= hashes + CSP
 node tools/site.mjs check   # verify links, hashes, CSP, size budget, retired terms
+python brand/wordmark/kymaean_wordmark.py            # rebuild brand files + the site's lettering
 cd site && npx wrangler dev # local preview at http://localhost:8787
 ```
 

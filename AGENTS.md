@@ -25,8 +25,10 @@ Google Drive, `Ensemble Project`. Nothing else is needed to work on the website.
 
 1. **Secrecy until ship.** Until the app is released, the public site says nothing about what
    Kymaean is or does. No product description, feature, screenshot, platform, audience or date.
-2. **Brand constants.** The Threshold K, the KYMÆAN wordmark geometry and the stage image are
-   fixed. Don't redraw, re-letter, recolour or regenerate them. Everything else can change.
+2. **Brand constants.** The Threshold K and the stage image are fixed. The KYMÆAN lettering (name
+   and release line) exists in one place, `brand/wordmark/kymaean_wordmark.py`; change it only there,
+   then regenerate (`--geometry`, then assemble), `stamp` and `check`. Never hand-edit generated
+   files or retype the name in a font. Everything else can change.
 3. **One place for each thing.** Deployable files live in `site/public/`. Masters in `brand/` and
    Drive. Decisions in `docs/DECISIONS.md` (append, newest first). No other state files.
 4. **Budgets.** Everything in `site/public/` totals ≤ 400 KiB; first view needs no JavaScript to

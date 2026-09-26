@@ -16,3 +16,8 @@ jobs:
         with:
           node-version: 22
       - run: node tools/site.mjs check
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install shapely==2.1.2
+      - run: python brand/wordmark/kymaean_wordmark.py --check

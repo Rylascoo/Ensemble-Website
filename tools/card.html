@@ -11,7 +11,7 @@
     @font-face { font-family: "Josefin Sans"; src: url("../site/public/assets/fonts/josefin-sans-latin-300-normal.woff2") format("woff2"); font-weight: 300; }
     html, body { width: 1200px; height: 630px; }
     .frame { --w: 1200px; --h: calc(1200px * var(--ra)); --wn: 470px; top: -12px; left: 0; }
-    .release { top: calc(var(--crown) - 2.2em); font-size: 19px; }
+    .release { top: calc(var(--crown) - 2.2em); font-size: 22px; }
     .name { animation: none; }
   </style>
 </head>
@@ -21,12 +21,15 @@
   </div></div>
   <main class="bill"><div class="frame">
     <h1 class="name" id="name"></h1>
-    <p class="release">In Rehearsal</p>
+    <p class="release" id="release"></p>
   </div></main>
   <script>
     fetch("../site/public/index.html").then((r) => r.text()).then((html) => {
-      const svg = new DOMParser().parseFromString(html, "text/html").querySelector(".wordmark");
-      document.getElementById("name").append(svg);
+      const doc = new DOMParser().parseFromString(html, "text/html");
+      document.getElementById("name").append(doc.querySelector(".wordmark"));
+      const release = doc.querySelector(".release-art");
+      release.src = "../site/public" + release.getAttribute("src").split("?")[0];
+      document.getElementById("release").append(release);
     });
   </script>
 </body>
