@@ -115,7 +115,7 @@ body { overflow: hidden; font-family: ui-sans-serif, system-ui, sans-serif; -web
     -webkit-mask: linear-gradient(#0000 0, #000 11%, #000 88%, #0000 100%);
     mask: linear-gradient(#0000 0, #000 11%, #000 88%, #0000 100%);
   }
-  .release { top: auto; bottom: calc(100% - var(--crown) + 2.2rem); }
+  .release { top: auto; bottom: calc(100% - var(--crown) + 2.2rem); font-size: clamp(.9rem, .7rem + .6vw, 1.2rem); }
 }
 @media (orientation: portrait) and (min-width: 700px) {
   .frame { --w: 165vw; --wn: min(60vw, 34rem); }
@@ -124,7 +124,7 @@ body { overflow: hidden; font-family: ui-sans-serif, system-ui, sans-serif; -web
 /* Short landscape (a phone on its side): the field above the arch is too shallow,
    so the line moves under the name and the floor reflection is dropped. */
 @media (orientation: landscape) and (max-height: 560px) {
-  .release { top: calc(var(--floor) + var(--wn) * .165 + .6rem); }
+  .release { top: calc(var(--floor) + var(--wn) * .165 + .6rem); font-size: clamp(.9rem, .7rem + .6vw, 1.2rem); }
   .reflection { display: none; }
 }
 
